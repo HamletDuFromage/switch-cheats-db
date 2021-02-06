@@ -12,7 +12,7 @@ for tid in data:
         if("BUILDID" in data[tid][ver]["CONTENTENTRIES"][0]):
             out[tid[:13] + "000"][data[tid][ver]["VERSION"]] = data[tid][ver]["CONTENTENTRIES"][0]["BUILDID"][:16]
 
-path = "version.json"
+path = "versions.json"
 change = False
 try:
     with open(path, 'r') as read_file:

@@ -17,7 +17,7 @@ jobs:
           python-version: 3.8
       - name: update version.json
         working-directory: .
-        run: python3 version.py
+        run: python3 versions.py
 
       - name: push changes
         run: |
