@@ -2,13 +2,18 @@ name: update version.json
 
 on:
   schedule:
-    - cron:  '*/6 * * * *'    # At every 6th minute
+    - cron:  '*/5 * * * *'    # At every 6th minute
 
 jobs:
   switch-cheats-db:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: checkout repo content
+        uses: actions/checkout@v2
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
       - name: update version.json
         run: python3 version.py
 
