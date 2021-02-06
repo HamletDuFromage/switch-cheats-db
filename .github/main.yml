@@ -1,0 +1,19 @@
+name: update version.json
+
+on:
+  schedule:
+    - cron:  '*/6 * * * *'    # At every 6th minute
+
+jobs:
+  switch-cheats-db:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: update version.json
+        run: python3 version.py
+
+      - name: push changes
+        run: |
+          git add version.json
+          git commit -m "updated version.json"
+          git push
