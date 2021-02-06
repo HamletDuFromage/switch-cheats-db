@@ -1,8 +1,9 @@
 name: update version.json
 
 on:
-  schedule:
-    - cron:  '*/5 * * * *'    # At every 6th minute
+  [push]
+  #schedule: 
+    #- cron:  '*/6 * * * *'    # At every 6th minute
 
 jobs:
   switch-cheats-db:
