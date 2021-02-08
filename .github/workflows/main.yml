@@ -2,7 +2,7 @@ name: update versions.json
 
 on:
   schedule: 
-    - cron:  '*/10 * * * *'    # At every 6th minute
+    - cron:  '*/5 * * * *'
 
 jobs:
   switch-cheats-db:
