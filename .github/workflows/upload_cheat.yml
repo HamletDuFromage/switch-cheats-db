@@ -24,7 +24,9 @@ jobs:
       - name: create release
         env:
           GITHUB_TOKEN: ${{ secrets.OAUTH_TOKEN }}
+          GITHUB_USER: HamletDuFromage
         run: |
           ls out
+          git config --global hub.protocol https
           hub release edit -a ./out/contents.zip -m $(cat VERSION) -m $(cat DATE) v1.0
           hub release edit -a ./out/titles.zip -m $(cat VERSION) -m $(cat DATE) v1.0
