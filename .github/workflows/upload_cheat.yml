@@ -22,21 +22,6 @@ jobs:
         run: |
           python3 upload_cheats.py
       - name: create release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: v1.0
-          release_name: $(cat VERSION)
-          body: $(cat DATE)
-          draft: false
-          prerelease: false
-      - name: Upload Release Asset
-        id: upload-release-asset 
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./out/*.zip
+        run: |
+          hub release edit -a out/contents.zip -m $(cat VERSION) -m $(cat DATE) v1.0
+          hub release edit -a out/titles.zip -m $(cat VERSION) -m $(cat DATE) v1.0
