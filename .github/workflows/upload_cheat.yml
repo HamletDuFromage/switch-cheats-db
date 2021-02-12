@@ -16,14 +16,12 @@ jobs:
       - name: install dependencies
         run: |
           if [ -f ./requirements.txt ]; then pip3 install -r ./requirements.txt; fi
-      - name: install hub and unrar
-        run: |
-          sudo add-apt-repository ppa:cpick/hub
-          sudo apt-get update
-          sudo apt-get install hub unrar
+      - name: install unrar
+        run: sudo apt-get install unrar
       - name: run python script
         run: |
           python3 upload_cheats.py
+      - uses: actions/checkout@v2
       - name: create release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
