@@ -24,6 +24,8 @@ date_str = str(date).split()[0] + " - " + str(date.hour) + ":" + str(date.minute
 with open("DATE", 'w') as date_file:
     date_file.write(date_str)
 
+if os.path.exists("out"):
+    shutil.rmtree("out")
 os.mkdir("out")
 os.chdir("out")
 
