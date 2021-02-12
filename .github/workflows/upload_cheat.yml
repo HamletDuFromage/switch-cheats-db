@@ -28,4 +28,6 @@ jobs:
         run: |
           echo $(hub --version)
           ls out
-          hub release edit -m $(cat VERSION) -m $(cat DATE) v1.0
+          gh release upload v1.0 ./out/contents.zip --clobber
+          gh release upload v1.0 ./out/titles.zip --clobber
+          hub release edit -m $(cat VERSION) -m "last updated the: $(cat DATE)" v1.0
