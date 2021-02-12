@@ -22,6 +22,7 @@ jobs:
         run: |
           python3 upload_cheats.py
       - name: create release
+        uses: actions/checkout@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
