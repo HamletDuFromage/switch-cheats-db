@@ -16,8 +16,13 @@ jobs:
       - name: install dependencies
         run: |
           if [ -f ./requirements.txt ]; then pip3 install -r ./requirements.txt; fi
-      - name: install unrar and hub
-        run: sudo apt-get install unrar hub
+      - name: install unrar and
+        run: sudo apt-get install unrar
+      - name: install hub
+        run: |
+          sudo add-apt-repository ppa:cpick/hub
+          sudo apt-get update
+          sudo apt-get install hub
       - name: run python script
         run: |
           python3 upload_cheats.py
