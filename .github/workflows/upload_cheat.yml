@@ -28,5 +28,4 @@ jobs:
         run: |
           echo $(hub --version)
           ls out
-          hub release edit -a ./out/contents.zip -m $(cat VERSION) -m $(cat DATE) v1.0
-          hub release edit -a ./out/titles.zip -m $(cat VERSION) -m $(cat DATE) v1.0
+          hub release edit -m $(cat VERSION) -m $(cat DATE) v1.0
