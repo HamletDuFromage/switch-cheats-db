@@ -16,13 +16,11 @@ jobs:
       - name: install dependencies
         run: |
           if [ -f ./requirements.txt ]; then pip3 install -r ./requirements.txt; fi
-      - name: install unrar and
-        run: sudo apt-get install unrar
-      - name: install hub
+      - name: install hub and unrar
         run: |
           sudo add-apt-repository ppa:cpick/hub
           sudo apt-get update
-          sudo apt-get install hub
+          sudo apt-get install hub unrar
       - name: run python script
         run: |
           python3 upload_cheats.py
@@ -33,6 +31,5 @@ jobs:
         run: |
           echo $(hub --version)
           ls out
-          git config --global hub.protocol https
           hub release edit -a ./out/contents.zip -m $(cat VERSION) -m $(cat DATE) v1.0
           hub release edit -a ./out/titles.zip -m $(cat VERSION) -m $(cat DATE) v1.0
