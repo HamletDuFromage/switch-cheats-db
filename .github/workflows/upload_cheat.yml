@@ -22,9 +22,8 @@ jobs:
         run: |
           python3 upload_cheats.py
       - name: create release
-        uses: actions/checkout@v2
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.OAUTH_TOKEN }}
         run: |
           ls out
           hub release edit -a ./out/contents.zip -m $(cat VERSION) -m $(cat DATE) v1.0
