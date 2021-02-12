@@ -1,5 +1,4 @@
-cheatsToZip.py
-rar2zip.sh
-rar2zipcontents.sh
-*.rar
+version
+date
+out/
 *.zip
