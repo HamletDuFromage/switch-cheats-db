@@ -16,16 +16,17 @@ jobs:
       - name: install dependencies
         run: |
           if [ -f ./requirements.txt ]; then pip3 install -r ./requirements.txt; fi
-      - name: install unrar
-        run: sudo apt-get install unrar
+      - name: install unrar and hub
+        run: sudo apt-get install unrar hub
       - name: run python script
         run: |
           python3 upload_cheats.py
       - name: create release
         env:
-          GITHUB_TOKEN: ${{ secrets.OAUTH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
         run: |
+          echo $(hub --version)
           ls out
           git config --global hub.protocol https
           hub release edit -a ./out/contents.zip -m $(cat VERSION) -m $(cat DATE) v1.0
