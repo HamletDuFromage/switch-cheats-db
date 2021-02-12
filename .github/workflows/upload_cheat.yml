@@ -25,5 +25,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          hub release edit -a out/contents.zip -m $(cat VERSION) -m $(cat DATE) v1.0
-          hub release edit -a out/titles.zip -m $(cat VERSION) -m $(cat DATE) v1.0
+          ls out
+          hub release edit -a ./out/contents.zip -m $(cat VERSION) -m $(cat DATE) v1.0
+          hub release edit -a ./out/titles.zip -m $(cat VERSION) -m $(cat DATE) v1.0
