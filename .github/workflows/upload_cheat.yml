@@ -18,7 +18,7 @@ jobs:
           if [ -f ./requirements.txt ]; then pip3 install -r ./requirements.txt; fi
       - name: run python script
         run: |
-          python3 upload_cheats.py.py
+          python3 upload_cheats.py
       
 
       - name: create release
