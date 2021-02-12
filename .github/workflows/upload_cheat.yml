@@ -1,7 +1,8 @@
 name: upload gbatemp cheats
 
 on:
-  [push]
+  schedule: 
+    - cron:  '30 10,22 * * *'
 
 jobs:
   switch-cheats-db:
@@ -26,8 +27,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
         run: |
-          echo $(hub --version)
-          ls out
           gh release upload v1.0 ./out/contents.zip --clobber
           gh release upload v1.0 ./out/titles.zip --clobber
-          hub release edit -m $(cat VERSION) -m "last updated the: $(cat DATE)" v1.0
+          hub release edit -m $(cat VERSION) -m "last updated: $(cat DATE)" v1.0

@@ -18,9 +18,11 @@ version = dl_url.split("=")[1]
 with open("VERSION", 'w') as version_file:
     version_file.write(version)
 
-date = str(datetime.datetime.today()).split()[0]
+date = datetime.datetime.today()
+date_str = str(date).split()[0] + " - " + str(date.hour) + ":" + str(date.minute)
+
 with open("DATE", 'w') as date_file:
-    date_file.write(date)
+    date_file.write(date_str)
 
 os.mkdir("out")
 os.chdir("out")
