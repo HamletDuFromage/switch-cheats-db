@@ -25,7 +25,7 @@ jobs:
           git config --global user.email '61667930+HamletDuFromage@users.noreply.github.com'
           git add versions.json
           if [[ `git status --porcelain` ]]; then
-            git commit -m "updated version.json"
+            git commit -m "automatic: updated version.json"
             git push
           else
             echo "Nothing to commit!"
