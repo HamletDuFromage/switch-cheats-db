@@ -13,7 +13,7 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.8
+          python-version: 3.x
       - name: update versions.json
         run: |
           pip3 install requests
