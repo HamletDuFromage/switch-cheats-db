@@ -1,4 +1,5 @@
 import json
+import cbor2
 import requests
 
 url = "https://raw.githubusercontent.com/blawar/titledb/master/cnmts.json"
@@ -27,4 +28,5 @@ except FileNotFoundError:
 if(change):
     with open(path, 'w') as write_file:
         json.dump(out, write_file, indent = 4)
+        cbor2.dump(out, write_file)
     print("Updated " + path)
