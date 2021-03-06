@@ -3,6 +3,7 @@ name: update versions.json
 on:
   schedule: 
     - cron:  '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   switch-cheats-db:
