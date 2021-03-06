@@ -17,7 +17,7 @@ jobs:
           python-version: 3.x
       - name: install dependencies
         run: |
-          if [ -f ./requirements.txt ]; then pip3 install -r ./requirements.txt; fi
+          if [ -f ./requirements_cheats.txt ]; then pip3 install -r ./requirements_cheats.txt; fi
       - name: install unrar
         run: sudo apt-get install unrar
       - name: run python script

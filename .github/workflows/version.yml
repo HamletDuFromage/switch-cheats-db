@@ -15,11 +15,11 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - name: update versions.json
+      - name: install dependencies
         run: |
-          pip3 install requests
-          python3 versions.py
-
+          if [ -f ./requirements_versions.txt ]; then pip3 install -r ./requirements_versions.txt; fi
+      - name: run script
+        run: python3 versions.py
       - name: push changes
         run: |
           git config --global user.name 'HamletDuFromage'
