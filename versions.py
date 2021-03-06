@@ -26,7 +26,8 @@ except FileNotFoundError:
     change = True
 
 if(change):
-    with open(path, 'w') as write_file:
-        json.dump(out, write_file, indent = 4)
-        cbor2.dump(out, write_file)
+    with open(path, 'w') as json_file:
+        json.dump(out, json_file, indent = 4)
+    with open(path, 'w') as cbor_file:
+        cbor2.dump(out, cbor_file)
     print("Updated " + path)
