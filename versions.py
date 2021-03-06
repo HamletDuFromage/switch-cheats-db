@@ -14,6 +14,7 @@ for tid in data:
             out[tid[:13] + "000"][data[tid][ver]["VERSION"]] = data[tid][ver]["CONTENTENTRIES"][0]["BUILDID"][:16]
 
 path = "versions.json"
+path_cbor = "versions.cbor"
 change = False
 try:
     with open(path, 'r') as read_file:
@@ -28,6 +29,6 @@ except FileNotFoundError:
 if(change):
     with open(path, 'w') as json_file:
         json.dump(out, json_file, indent = 4)
-    with open(path, 'w') as cbor_file:
+    with open(path_cbor, 'w') as cbor_file:
         cbor2.dump(out, cbor_file)
     print("Updated " + path)
