@@ -30,5 +30,6 @@ if(change):
     with open(path, 'w') as json_file:
         json.dump(out, json_file, indent = 4)
     with open(path_cbor, 'wb') as cbor_file:
-        cbor2.dump(out, cbor_file)
+        json_out = json.dumps(out)
+        cbor2.dump(json_out, cbor_file)
     print("Updated " + path)
