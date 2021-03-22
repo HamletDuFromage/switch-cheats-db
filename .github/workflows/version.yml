@@ -19,7 +19,8 @@ jobs:
         run: |
           if [ -f ./requirements_versions.txt ]; then pip3 install -r ./requirements_versions.txt; fi
       - name: run script
-        run: python3 versions.py
+        run: |
+          python3 versions.py
       - name: push changes
         run: |
           git config --global user.name 'HamletDuFromage'
