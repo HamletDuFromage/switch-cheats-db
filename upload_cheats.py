@@ -5,13 +5,14 @@ import datetime
 import os
 import rarfile
 import shutil
+import cloudscraper
 
-
-page = requests.get("https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/")
+scraper = cloudscraper.create_scraper()
+page = scraper.get("https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/")
 
 soup = BeautifulSoup(page.content, "html.parser")
 
-dl_url = "https://gbatemp.net/" + soup.find_all("a", {"class": "inner"})[0].get("href")
+dl_url = "https://gbatemp.net/" + soup.find("a", {"class": "inner"}).get("href")
 print(dl_url)
 
 version = dl_url.split("=")[1]
@@ -38,4 +39,3 @@ rf.extractall()
 shutil.make_archive("titles", "zip", base_dir="titles")
 os.rename("titles", "contents")
 shutil.make_archive("contents", "zip", base_dir="contents")
-
