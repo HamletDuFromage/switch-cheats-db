@@ -30,7 +30,7 @@ if os.path.exists("out"):
 os.mkdir("out")
 os.chdir("out")
 
-dl = requests.get(dl_url, allow_redirects=True)
+dl = scraper.get(dl_url, allow_redirects=True)
 open("titles.rar", "wb").write(dl.content)
 
 rf = rarfile.RarFile("titles.rar")
