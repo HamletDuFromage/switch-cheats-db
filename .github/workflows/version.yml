@@ -29,7 +29,7 @@ jobs:
           git add versions.cbor
           git add versions/*
           if [[ `git status --porcelain` ]]; then
-            git commit -m "automatic: updated version.json"
+            git commit -m "automatic: updated version files"
             git push
           else
             echo "Nothing to commit!"
