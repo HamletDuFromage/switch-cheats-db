@@ -17,11 +17,11 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: install dependencies
+      - name: install python dependencies
         run: |
           if [ -f ./requirements_cheats.txt ]; then pip3 install -r ./requirements_cheats.txt; fi
-      - name: install unrar
-        run: sudo apt-get install unrar
+      - name: install dependencies
+        run: sudo apt-get install unrar rename
       - name: run python script
         run: |
           python3 upload_cheats.py
