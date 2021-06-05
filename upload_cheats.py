@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from bs4 import BeautifulSoup
 import requests
 import time
@@ -7,35 +9,35 @@ import rarfile
 import shutil
 import cloudscraper
 
-scraper = cloudscraper.create_scraper()
-page = scraper.get("https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/")
+from process_cheats import ProcessCheats
 
-soup = BeautifulSoup(page.content, "html.parser")
+if __name__ == '__main__':
+    scraper = cloudscraper.create_scraper()
+    page = scraper.get("https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/")
 
-dl_url = "https://gbatemp.net/" + soup.find("a", {"class": "inner"}).get("href")
-print(dl_url)
+    soup = BeautifulSoup(page.content, "html.parser")
 
-version = dl_url.split("=")[1]
-with open("VERSION", 'w') as version_file:
-    version_file.write(version)
+    dl_url = "https://gbatemp.net/" + soup.find("a", {"class": "inner"}).get("href")
+    print(dl_url)
 
-date = datetime.datetime.today()
-date_str = str(date).split()[0] + " - " + str(date.hour) + ":" + str(date.minute)
+    version = dl_url.split("=")[1]
+    with open("VERSION", 'w') as version_file:
+        version_file.write(version)
 
-with open("DATE", 'w') as date_file:
-    date_file.write(date_str)
+    date = datetime.datetime.today()
+    date_str = str(date).split()[0] + " - " + str(date.hour) + ":" + str(date.minute)
 
-if os.path.exists("out"):
-    shutil.rmtree("out")
-os.mkdir("out")
-os.chdir("out")
+    with open("DATE", 'w') as date_file:
+        date_file.write(date_str)
 
-dl = scraper.get(dl_url, allow_redirects=True)
-open("titles.rar", "wb").write(dl.content)
+    dl = scraper.get(dl_url, allow_redirects=True)
+    open("titles.rar", "wb").write(dl.content)
 
-rf = rarfile.RarFile("titles.rar")
-rf.extractall()
+    rf = rarfile.RarFile("titles.rar")
+    rf.extractall()
 
-shutil.make_archive("titles", "zip", base_dir="titles")
-os.rename("titles", "contents")
-shutil.make_archive("contents", "zip", base_dir="contents")
+    shutil.make_archive("titles", "zip", base_dir="titles")
+    os.rename("titles", "contents")
+    shutil.make_archive("contents", "zip", base_dir="contents")
+
+    ProcessCheats("contents", "cheats").parseCheats()

@@ -1,4 +1,7 @@
 VERSION
 DATE
-out/
+contents/
+titles/
+__pychach__/
+*.rar
 *.zip

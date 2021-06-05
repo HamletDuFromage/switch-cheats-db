@@ -11,10 +11,12 @@ jobs:
     steps:
       - name: checkout repo content
         uses: actions/checkout@v2
+
       - name: setup python
         uses: actions/setup-python@v2
         with:
           python-version: 3.x
+
       - name: install dependencies
         run: |
           if [ -f ./requirements_cheats.txt ]; then pip3 install -r ./requirements_cheats.txt; fi
@@ -23,12 +25,24 @@ jobs:
       - name: run python script
         run: |
           python3 upload_cheats.py
+
       - name: create release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
         run: |
-          gh release upload v1.0 ./out/contents.zip --clobber
-          gh release upload v1.0 ./out/titles.zip --clobber
+          gh release upload v1.0 ./contents.zip --clobber
+          gh release upload v1.0 ./titles.zip --clobber
           gh release upload v1.0 ./VERSION --clobber
           hub release edit -m "$(cat VERSION)" -m "last updated: $(cat DATE)" v1.0
+
+      - name: push changes
+        run: |
+          git config --global user.name 'HamletDuFromage'
+          git config --global user.email '61667930+HamletDuFromage@users.noreply.github.com'
+          git add cheats/*
+          if [[ `git status --porcelain` ]]; then
+            git commit -m "automatic: updated cheatfiles"
+            git push
+          else
+            echo "Nothing to commit!"
+          fi
