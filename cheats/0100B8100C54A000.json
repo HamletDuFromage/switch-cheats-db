@@ -26,7 +26,83 @@
         },
         {
             "title": "[Almas - Souls]",
-            "content": "[Almas - Souls]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000028\n780F0000 00000020\n640F0000 00000000 00000009"
+            "content": "[Almas - Souls]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000028\n780F0000 00000020\n640F0000 00000000 00000009\n\n"
+        },
+        {
+            "title": "[Un poco de caos - A bit of chaos]",
+            "content": "[Un poco de caos - A bit of chaos]\n04100000 A8E419E0 00000009\n\n"
+        },
+        {
+            "title": "[Bomba de pinchos - Spikey bomb]",
+            "content": "[Bomba de pinchos - Spikey bomb]\n04100000 A8E41900 00000009\n\n"
+        },
+        {
+            "title": "[Tarro de ojos - Jar of eyeballs]",
+            "content": "[Tarro de ojos - Jar of eyeballs]\n04100000 A8DD7C40 00000009\n\n"
+        },
+        {
+            "title": "[Monton de mugre - Pile of gunk]",
+            "content": "[Monton de mugre - Pile of gunk]\n04100000 A8E41820 00000009\n\n"
+        },
+        {
+            "title": "[Partes de robot - Robot parts]",
+            "content": "[Partes de robot - Robot parts]\n04100000 A8E41740 00000009\n\n"
+        },
+        {
+            "title": "[Dedo podrido - Rotten toe]",
+            "content": "[Dedo podrido - Rotten toe]\n04100000 A8E5D220 00000009\n\n"
+        },
+        {
+            "title": "[Bomba vortice - Vortex bomb]",
+            "content": "[Bomba vortice - Vortex bomb]\n04100000 A8E41660 00000009\n\n"
+        },
+        {
+            "title": "[Sangre del inocente - Blood of the innocent]",
+            "content": "[Sangre del inocente - Blood of the innocent]\n04100000 A8E5D4F0 00000004\n\n"
+        },
+        {
+            "title": "[Esencia de fuego - Essence of fire]",
+            "content": "[Esencia de fuego - Essence of fire]\n04100000 A8D19B40 00000009\n\n"
+        },
+        {
+            "title": "[Esencia de hielo - Essence of ice]",
+            "content": "[Esencia de hielo - Essence of ice]\n04100000 A8E41E40 00000009\n\n"
+        },
+        {
+            "title": "[Ala de hada - Faerie wing]",
+            "content": "[Ala de hada - Faerie wing]\n04100000 A8E41C80 00000009\n\n"
+        },
+        {
+            "title": "[Corazon del inocente - Heart of the innocent]",
+            "content": "[Corazon del inocente - Heart of the innocent]\n04100000 A92EFAD0 00000008\n\n"
+        },
+        {
+            "title": "[Pluma de Fenix - Phoenix feather]",
+            "content": "[Pluma de Fenix - Phoenix feather]\n04100000 A8E41BA0 00000009\n\n"
+        },
+        {
+            "title": "[Pata de conejo - Rabbits foot]",
+            "content": "[Pata de conejo - Rabbits foot]\n04100000 A8D19A40 00000004\n\n"
+        },
+        {
+            "title": "[Medula espinal - Spinal cord]",
+            "content": "[Medula espinal - Spinal cord]\n04100000 A8E41AC0 00000009\n\n"
+        },
+        {
+            "title": "[Polvo de hada - Wisp dust]",
+            "content": "[Polvo de hada - Wisp dust]\n04100000 A92EFA00 00000009\n\n"
+        },
+        {
+            "title": "[Totem prismatico - Prismatic totem]",
+            "content": "[Totem prismatico - Prismatic totem]\n04100000 A8DD7B40 00000009\n\n"
+        },
+        {
+            "title": "[Esencia de relampago - Essence of lightning]",
+            "content": "[Esencia de relampago - Essence of lightning]\n04100000 A8E41D60 00000009\n\n"
+        },
+        {
+            "title": "[Esencia de sombra - Essence of shadow]",
+            "content": "[Esencia de sombra - Essence of shadow]\n04100000 A8E5D400 00000009"
         }
     ]
 }

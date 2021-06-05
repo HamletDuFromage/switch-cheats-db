@@ -6,7 +6,35 @@
         },
         {
             "title": "[enemies don't attack]",
-            "content": "[enemies don't attack]\n04000000 0009A5A4 D503201F"
+            "content": "[enemies don't attack]\n04000000 0009A5A4 D503201F\n\n"
+        },
+        {
+            "title": "[inf reload all arms]",
+            "content": "[inf reload all arms]\n04000000 009F0DA8 D65F03C0\n\n"
+        },
+        {
+            "title": "[1p invicible enermies+stealth]",
+            "content": "[1p invicible enermies+stealth]\n04000000 003FF644 D65F03C0\n\n"
+        },
+        {
+            "title": "[1p invicible enermies+stealth off]",
+            "content": "[1p invicible enermies+stealth off]\n04000000 003FF644 FC1E0FE8\n\n"
+        },
+        {
+            "title": "[enemies no fire]",
+            "content": "[enemies no fire]\n04000000 00200B24 D65F03C0\n\n"
+        },
+        {
+            "title": "[enemies no fire off]",
+            "content": "[enemies no fire off]\n04000000 00200B24 6DBC23E9\n\n"
+        },
+        {
+            "title": "[1p to enemies invicible fire,explosion,others on]",
+            "content": "[1p to enemies invicible fire,explosion,others on]\n04000000 0177E2C0 D65F03C0\n\n"
+        },
+        {
+            "title": "[1p to enemies invicible fire,explosion,others off]",
+            "content": "[1p to enemies invicible fire,explosion,others off]\n04000000 0177E2C0 F81D0FF5"
         }
     ]
 }

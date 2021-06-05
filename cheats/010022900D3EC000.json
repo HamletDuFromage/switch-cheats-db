@@ -297,6 +297,92 @@
             "content": "[\u654c\u65e0\u6cd5\u8fd8\u51fb\u65f6\u6309\u4f4fL\u952e\u653b\u51fbHP\u6e05\u96f6]\n04000000 004224E0 B9022668\n80000040\n04000000 004224E0 B902267F\n20000000"
         }
     ],
+    "79CD7C99F9189705": [
+        {
+            "title": "[Max Capital]",
+            "content": "[Max Capital]\n580F0000 0156D9F8\n780F0000 00000030\n680F0000 00000000 3B9AC9FF\n\n"
+        },
+        {
+            "title": "[MS/MA 99999 Upgrade points (1st 900 Units)]",
+            "content": "[MS/MA 99999 Upgrade points (1st 900 Units)]\n580F0000 01591AC8\n780F0000 00000018\n300E0000 00000384\n640F0000 00000000 0001869F\n780F0000 00000024\n310E0000\n\n"
+        },
+        {
+            "title": "[WARSHIP 99999 Upgrade points (1st 90 Units)]",
+            "content": "[WARSHIP 99999 Upgrade points (1st 90 Units)]\n580F0000 01591AE0\n780F0000 00000018\n300E0000 0000005A\n640F0000 00000000 0001869F\n780F0000 00000020\n310E0000\n\n"
+        },
+        {
+            "title": "[MS/MA/WARSHIP LV99 (1st 900 Units)]",
+            "content": "[MS/MA/WARSHIP LV99 (1st 900 Units)]\n580F0000 01593FF8\n780F0000 00000010\n300E0000 00000384\n610F0000 00000000 00000063\n780F0000 00000038\n310E0000\n\n"
+        },
+        {
+            "title": "[MS/MA/WARSHIP EN 999 (1st 900 Units)]",
+            "content": "[MS/MA/WARSHIP EN 999 (1st 900 Units)]\n580F0000 01593FF8\n780F0000 00000024\n300E0000 00000384\n620F0000 00000000 000003E7\n780F0000 00000038\n310E0000\n\n"
+        },
+        {
+            "title": "[MS/MA/WARSHIP ATK 999 (1st 900 Units)]",
+            "content": "[MS/MA/WARSHIP ATK 999 (1st 900 Units)]\n580F0000 01593FF8\n780F0000 00000028\n300E0000 00000384\n620F0000 00000000 000003E7\n780F0000 00000038\n310E0000\n\n"
+        },
+        {
+            "title": "[MS/MA/WARSHIP DEF 999 (1st 900 Units)]",
+            "content": "[MS/MA/WARSHIP DEF 999 (1st 900 Units)]\n580F0000 01593FF8\n780F0000 0000002C\n300E0000 00000384\n620F0000 00000000 000003E7\n780F0000 00000038\n310E0000\n\n"
+        },
+        {
+            "title": "[MS/MA/WARSHIP MOB 999 (1st 900 Units)]",
+            "content": "[MS/MA/WARSHIP MOB 999 (1st 900 Units)]\n580F0000 01593FF8\n780F0000 00000030\n300E0000 00000384\n620F0000 00000000 000003E7\n780F0000 00000038\n310E0000\n\n"
+        },
+        {
+            "title": "[Character LV99 (1st 390 Characters)]",
+            "content": "[Character LV99 (1st 390 Characters)]\n580F0000 01594000\n780F0000 00000E28\n300E0000 00000186\n610F0000 00000000 00000063\n780F0000 00000090\n310E0000\n\n"
+        },
+        {
+            "title": "[Character Pilot Stats - Ranged 999 (1st 390 Characters)]",
+            "content": "[Character Pilot Stats - Ranged 999 (1st 390 Characters)]\n580F0000 01594000\n780F0000 00000E60\n300E0000 00000186\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n\n"
+        },
+        {
+            "title": "[Character Pilot Stats - Melee 999 (1st 390 Characters)]",
+            "content": "[Character Pilot Stats - Melee 999 (1st 390 Characters)]\n580F0000 01594000\n780F0000 00000E64\n300E0000 00000186\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n\n"
+        },
+        {
+            "title": "[Character Pilot Stats - Defense 999 (1st 390 Characters)]",
+            "content": "[Character Pilot Stats - Defense 999 (1st 390 Characters)]\n580F0000 01594000\n780F0000 00000E68\n300E0000 00000186\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n\n"
+        },
+        {
+            "title": "[Character Pilot Stats - Reaction 999 (1st 390 Characters)]",
+            "content": "[Character Pilot Stats - Reaction 999 (1st 390 Characters)]\n580F0000 01594000\n780F0000 00000E6C\n300E0000 00000186\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n\n"
+        },
+        {
+            "title": "[Character Pilot Stats - Awakening 999 (1st 390 Characters)]",
+            "content": "[Character Pilot Stats - Awakening 999 (1st 390 Characters)]\n580F0000 01594000\n780F0000 00000E70\n300E0000 00000186\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n\n"
+        },
+        {
+            "title": "[Character Crew Stats - Command 999 (1st 390 Characters)]",
+            "content": "[Character Crew Stats - Command 999 (1st 390 Characters)]\n580F0000 01594000\n780F0000 00000E74\n300E0000 00000186\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n\n"
+        },
+        {
+            "title": "[Character Crew Stats - Auxiliary 999 (1st 390 Characters)]",
+            "content": "[Character Crew Stats - Auxiliary 999 (1st 390 Characters)]\n580F0000 01594000\n780F0000 00000E78\n300E0000 00000186\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n\n"
+        },
+        {
+            "title": "[Character Crew Stats - Communications 999 (1st 390 Characters)]",
+            "content": "[Character Crew Stats - Communications 999 (1st 390 Characters)]\n580F0000 01594000\n780F0000 00000E7C\n300E0000 00000186\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n\n"
+        },
+        {
+            "title": "[Character Crew Stats - Navigation 999 (1st 390 Characters)]",
+            "content": "[Character Crew Stats - Navigation 999 (1st 390 Characters)]\n580F0000 01594000\n780F0000 00000E80\n300E0000 00000186\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n\n"
+        },
+        {
+            "title": "[Character Crew Stats - Maintenance 999 (1st 390 Characters)]",
+            "content": "[Character Crew Stats - Maintenance 999 (1st 390 Characters)]\n580F0000 01594000\n780F0000 00000E84\n300E0000 00000186\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n\n"
+        },
+        {
+            "title": "[Character Crew Stats - Charisma 999 (1st 390 Characters)]",
+            "content": "[Character Crew Stats - Charisma 999 (1st 390 Characters)]\n580F0000 01594000\n780F0000 00000E88\n300E0000 00000186\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n\n"
+        },
+        {
+            "title": "[Cheats Updated by Snakes of Cheats Hunter Discord]",
+            "content": "[Cheats Updated by Snakes of Cheats Hunter Discord]\n580F0000 01594000"
+        }
+    ],
     "3871A99FEB20CE86": [
         {
             "title": "[money after change Max]",
