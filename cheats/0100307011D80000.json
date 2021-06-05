@@ -1,1 +1,134 @@
-{}
+{
+    "0061513A543E48DB": [
+        {
+            "title": "[Mana x4char]",
+            "content": "[Mana x4char]\n580E0000 00EB2A50\n580E1000 00000008\n580E1000 00001908\n300D0000 00000004\n989FE000\n580F1000 00000000\n580F1000 00000030\n580F1000 0000004C\n780F0000 0000092C\n680F0000 00038D7E A4C67FFF\n980EE100 00000000 00000008\n310D0000\n\n"
+        },
+        {
+            "title": "[Drink Used Count x4char]",
+            "content": "[Drink Used Count x4char]\n580E0000 00EB2A50\n580E1000 00000008\n580E1000 00001908\n300D0000 00000004\n989FE000\n580F1000 00000000\n580F1000 00000030\n580F1000 0000004C\n780F0000 00001294\n610F0000 00000000 000000FF\n980EE100 00000000 00000008\n310D0000\n\n"
+        },
+        {
+            "title": "[Karma x4char]",
+            "content": "[Karma x4char]\n580E0000 00EB2A50\n580E1000 00000008\n580E1000 00001908\n300D0000 00000004\n989FE000\n580F1000 00000000\n580F1000 00000030\n580F1000 0000004C\n780F0000 00001104\n680F0000 000000E8 D4A50FFF\n980EE100 00000000 00000008\n310D0000\n\n"
+        },
+        {
+            "title": "[Linkernation Count x4char]",
+            "content": "[Linkernation Count x4char]\n580E0000 00EB2A50\n580E1000 00000008\n580E1000 00001908\n300D0000 00000004\n989FE000\n580F1000 00000000\n580F1000 00000030\n580F1000 0000004C\n780F0000 0000114C\n640F0000 00000000 00000064\n980EE100 00000000 00000008\n310D0000\n\n"
+        },
+        {
+            "title": "[Kill Count x4char]",
+            "content": "[Kill Count x4char]\n580E0000 00EB2A50\n580E1000 00000008\n580E1000 00001908\n300D0000 00000004\n989FE000\n580F1000 00000000\n580F1000 00000030\n580F1000 0000004C\n780F0000 000011EC\n640F0000 00000000 000186A0\n780F0000 00000010\n640F0000 00000000 00000064\n980EE100 00000000 00000008\n310D0000\n\n"
+        },
+        {
+            "title": "[HL]",
+            "content": "[HL]\n580F0000 00EB2A50\n580F1000 00000008\n780F0000 000018C0\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink Exp]",
+            "content": "[Drink Exp]\n580F0000 00EB2A50\n580F1000 00000008\n780F0000 00002080\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink Mana]",
+            "content": "[Drink Mana]\n580F0000 00EB2A50\n580F1000 00000008\n780F0000 000020A8\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink HP]",
+            "content": "[Drink HP]\n580F0000 00EB2A50\n580F1000 00000008\n780F0000 000020D0\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink SP]",
+            "content": "[Drink SP]\n580F0000 00EB2A50\n580F1000 00000008\n780F0000 000020F8\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink ATK]",
+            "content": "[Drink ATK]\n580F0000 00EB2A50\n580F1000 00000008\n780F0000 00002120\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink DEF]",
+            "content": "[Drink DEF]\n580F0000 00EB2A50\n580F1000 00000008\n780F0000 00002148\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink INT]",
+            "content": "[Drink INT]\n580F0000 00EB2A50\n580F1000 00000008\n780F0000 00002170\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink RES]",
+            "content": "[Drink RES]\n580F0000 00EB2A50\n580F1000 00000008\n780F0000 00002198\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink HIT]",
+            "content": "[Drink HIT]\n580F0000 00EB2A50\n580F1000 00000008\n780F0000 000021C0\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink SPD]",
+            "content": "[Drink SPD]\n580F0000 00EB2A50\n580F1000 00000008\n780F0000 000021E8\n680F0000 0DE0B6B3A763FFFF"
+        }
+    ],
+    "B766E8AD3284AB9C": [
+        {
+            "title": "[Mana x4char]",
+            "content": "[Mana x4char]\n580E0000 00EEFC20\n580E1000 00000008\n580E1000 00001908\n300D0000 00000004\n989FE000\n580F1000 00000000\n580F1000 00000030\n580F1000 0000004C\n780F0000 0000092C\n680F0000 00038D7E A4C67FFF\n980EE100 00000000 00000008\n310D0000\n\n"
+        },
+        {
+            "title": "[Drink Used Count x4char]",
+            "content": "[Drink Used Count x4char]\n580E0000 00EEFC20\n580E1000 00000008\n580E1000 00001908\n300D0000 00000004\n989FE000\n580F1000 00000000\n580F1000 00000030\n580F1000 0000004C\n780F0000 00001294\n610F0000 00000000 000000FF\n980EE100 00000000 00000008\n310D0000\n\n"
+        },
+        {
+            "title": "[Karma x4char]",
+            "content": "[Karma x4char]\n580E0000 00EEFC20\n580E1000 00000008\n580E1000 00001908\n300D0000 00000004\n989FE000\n580F1000 00000000\n580F1000 00000030\n580F1000 0000004C\n780F0000 00001104\n680F0000 000000E8 D4A50FFF\n980EE100 00000000 00000008\n310D0000\n\n"
+        },
+        {
+            "title": "[Linkernation Count x4char]",
+            "content": "[Linkernation Count x4char]\n580E0000 00EEFC20\n580E1000 00000008\n580E1000 00001908\n300D0000 00000004\n989FE000\n580F1000 00000000\n580F1000 00000030\n580F1000 0000004C\n780F0000 0000114C\n640F0000 00000000 00000064\n980EE100 00000000 00000008\n310D0000\n\n"
+        },
+        {
+            "title": "[Kill Count x4char]",
+            "content": "[Kill Count x4char]\n580E0000 00EEFC20\n580E1000 00000008\n580E1000 00001908\n300D0000 00000004\n989FE000\n580F1000 00000000\n580F1000 00000030\n580F1000 0000004C\n780F0000 000011EC\n640F0000 00000000 000186A0\n780F0000 00000010\n640F0000 00000000 00000064\n980EE100 00000000 00000008\n310D0000\n\n"
+        },
+        {
+            "title": "[HL]",
+            "content": "[HL]\n580F0000 00EEFC20\n580F1000 00000008\n780F0000 000018C0\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink Exp]",
+            "content": "[Drink Exp]\n580F0000 00EEFC20\n580F1000 00000008\n780F0000 00002080\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink Mana]",
+            "content": "[Drink Mana]\n580F0000 00EEFC20\n580F1000 00000008\n780F0000 000020A8\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink HP]",
+            "content": "[Drink HP]\n580F0000 00EEFC20\n580F1000 00000008\n780F0000 000020D0\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink SP]",
+            "content": "[Drink SP]\n580F0000 00EEFC20\n580F1000 00000008\n780F0000 000020F8\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink ATK]",
+            "content": "[Drink ATK]\n580F0000 00EEFC20\n580F1000 00000008\n780F0000 00002120\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink DEF]",
+            "content": "[Drink DEF]\n580F0000 00EEFC20\n580F1000 00000008\n780F0000 00002148\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink INT]",
+            "content": "[Drink INT]\n580F0000 00EEFC20\n580F1000 00000008\n780F0000 00002170\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink RES]",
+            "content": "[Drink RES]\n580F0000 00EEFC20\n580F1000 00000008\n780F0000 00002198\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink HIT]",
+            "content": "[Drink HIT]\n580F0000 00EEFC20\n580F1000 00000008\n780F0000 000021C0\n680F0000 0DE0B6B3A763FFFF\n\n"
+        },
+        {
+            "title": "[Drink SPD]",
+            "content": "[Drink SPD]\n580F0000 00EEFC20\n580F1000 00000008\n780F0000 000021E8\n680F0000 0DE0B6B3A763FFFF"
+        }
+    ]
+}

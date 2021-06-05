@@ -1,1 +1,184 @@
-{}
+{
+    "05DE5A7F20BD1532": [
+        {
+            "title": "[Max Money]",
+            "content": "[Max Money]\n58000000 066F73B8\n58001000 000006F0\n58001000 00000008\n58001000 000000F8\n78000000 00000030\n64000000 00000000 0098967F\n\n"
+        },
+        {
+            "title": "[Inf HP Seth]",
+            "content": "[Inf HP Seth]\n58000000 066F73B8\n58001000 000006F0\n58001000 00000008\n58001000 000000D0\n78000000 0000015C\n64000000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[01# Money does not decrease]",
+            "content": "[01# Money does not decrease]\n04000000 0099BEB4 4B1F0108\n\n"
+        },
+        {
+            "title": "[02# Items does not decrease]",
+            "content": "[02# Items does not decrease]\n04000000 03DF3600 6B1502DF\n04000000 03DF3604 5400004B\n04000000 03DF3608 2A1603F5\n04000000 03DF360C AA1703E0\n04000000 03DF3610 D65F03C0\n04000000 0099CA14 94D15AFB\n\n"
+        },
+        {
+            "title": "[03# Inf Hp]",
+            "content": "[03# Inf Hp]\n04000000 0098BF98 B9015E80\n\n"
+        },
+        {
+            "title": "[04# Inf Mp]",
+            "content": "[04# Inf Mp]\n04000000 0098BFE0 B9016280\n\n"
+        },
+        {
+            "title": "[05# Max Bp]",
+            "content": "[05# Max Bp]\n04000000 0098CC20 52800060\n\n"
+        },
+        {
+            "title": "[06# Exp Multiplier x4]",
+            "content": "[06# Exp Multiplier x4]\n04000000 0098C1B4 0B011108\n\n"
+        },
+        {
+            "title": "[07# Money Multiplier x4]",
+            "content": "[07# Money Multiplier x4]\n04000000 0099BE54 0B011108\n\n"
+        },
+        {
+            "title": "[08# JP Multiplier x4]",
+            "content": "[08# JP Multiplier x4]\n04000000 009A1C54 0B011108\n\n"
+        },
+        {
+            "title": "[06# Exp Multiplier x2]",
+            "content": "[06# Exp Multiplier x2]\n04000000 0098C1B4 0B010508\n\n"
+        },
+        {
+            "title": "[06# Exp Multiplier x4]",
+            "content": "[06# Exp Multiplier x4]\n04000000 0098C1B4 0B010908\n\n"
+        },
+        {
+            "title": "[06# Exp Multiplier x1024]",
+            "content": "[06# Exp Multiplier x1024]\n04000000 0098C1B4 0B012908\n\n"
+        },
+        {
+            "title": "[08# JP Multiplier x2]",
+            "content": "[08# JP Multiplier x2]\n04000000 009A1C54 0B010508\n\n"
+        },
+        {
+            "title": "[08# JP Multiplier x4]",
+            "content": "[08# JP Multiplier x4]\n04000000 009A1C54 0B010908\n\n"
+        },
+        {
+            "title": "[08# JP Multiplier x1024]",
+            "content": "[08# JP Multiplier x1024]\n04000000 009A1C54 0B012908\n\n"
+        },
+        {
+            "title": "[07# Money Multiplier x2]",
+            "content": "[07# Money Multiplier x2]\n04000000 0099BE54 0B010508\n\n"
+        },
+        {
+            "title": "[07# Money Multiplier x4]",
+            "content": "[07# Money Multiplier x4]\n04000000 0099BE54 0B010908\n\n"
+        },
+        {
+            "title": "[07# Money Multiplier x1024]",
+            "content": "[07# Money Multiplier x1024]\n04000000 0099BE54 0B012908\n\n"
+        },
+        {
+            "title": "[Seth Stats Max]",
+            "content": "[Seth Stats Max]\n580F0000 066F73E8\n580F1000 000001E0\n580F1000 00000008\n780F0000 00000090\n300E0000 0000000C\n640F0000 00000000 0000270F\n780F0000 00000004\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[Gloria Stats Max]",
+            "content": "[Gloria Stats Max]\n580F0000 066F73E8\n580F1000 00000370\n580F1000 00000008\n780F0000 00000090\n300E0000 0000000C\n640F0000 00000000 0000270F\n780F0000 00000004\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[Elvis Stats Max]",
+            "content": "[Elvis Stats Max]\n580F0000 066F73E8\n580F1000 00000500\n580F1000 00000008\n780F0000 00000090\n300E0000 0000000C\n640F0000 00000000 0000270F\n780F0000 00000004\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[Adelle Stats Max]",
+            "content": "[Adelle Stats Max]\n580F0000 066F73E8\n580F1000 00000690\n580F1000 00000008\n780F0000 00000090\n300E0000 0000000C\n640F0000 00000000 0000270F\n780F0000 00000004\n310E0000 20000000\n\n\n"
+        },
+        {
+            "title": "[Victory Count]",
+            "content": "[Victory Count]\n58000000 06A016F0\n58001000 00000028\n58001000 000001F0\n58001000 000001F0\n78000000 000000C8\n64000000 00000000 0001869F\n\n"
+        },
+        {
+            "title": "[Bloody Shield Count]",
+            "content": "[Bloody Shield Count]\n58000000 06A016F0\n58001000 00000028\n58001000 000001F0\n58001000 000001F0\n78000000 000000CC\n64000000 00000000 00000064\n\n\"Hero's Shield\" in 1 battle\n\n"
+        },
+        {
+            "title": "[Captured Monster Count]",
+            "content": "[Captured Monster Count]\n58000000 06A016F0\n58001000 00000028\n58001000 000001F0\n58001000 000001F0\n78000000 000000E8\n64000000 00000000 0000C350\n\n"
+        },
+        {
+            "title": "[B&M Point Max]",
+            "content": "[B&M Point Max]\n58000000 066F73A8\n58001000 00000378\n58001000 000000F8\n58001000 00000048\n78000000 00000030\n64000000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[B&M Rank C]",
+            "content": "[B&M Rank C]\n58000000 066F73A8\n58001000 00000378\n58001000 000000F8\n58001000 00000048\n78000000 00000034\n64000000 00000000 000000C7\n\n"
+        },
+        {
+            "title": "[B&M Rank B]",
+            "content": "[B&M Rank B]\n58000000 066F73A8\n58001000 00000378\n58001000 000000F8\n58001000 00000048\n78000000 00000034\n64000000 00000000 000002BB\n\n"
+        },
+        {
+            "title": "[B&M Rank A]",
+            "content": "[B&M Rank A]\n58000000 066F73A8\n58001000 00000378\n58001000 000000F8\n58001000 00000048\n78000000 00000034\n64000000 00000000 000005DB\n\n"
+        },
+        {
+            "title": "[B&M Rank S]",
+            "content": "[B&M Rank S]\n58000000 066F73A8\n58001000 00000378\n58001000 000000F8\n58001000 00000048\n78000000 00000034\n64000000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[enemy hp/mp 1 on]",
+            "content": "[enemy hp/mp 1 on]\n04000000 009745B0 52800020\n04000000 009745B8 52800020\n"
+        },
+        {
+            "title": "[enemy hp/mp 1 off]",
+            "content": "[enemy hp/mp 1 off]\n04000000 009745B0 B9403500\n04000000 009745B8 B9403900\n\n"
+        },
+        {
+            "title": "[enemy BP -3 on]",
+            "content": "[enemy BP -3 on]\n04000000 00974638 12800040\n"
+        },
+        {
+            "title": "[enemy BP -3 off]",
+            "content": "[enemy BP -3 off]\n04000000 00974638 B9403100\n\n"
+        },
+        {
+            "title": "[battle exp + jp 99999 on]",
+            "content": "[battle exp + jp 99999 on]\n04000000 003C1AA8 2A0903E8\n04000000 003C1AE4 5290D3E8\n04000000 003C1AE8 72A00028\n04000000 003C1AF0 1A88B108\n"
+        },
+        {
+            "title": "[battle exp + jp 99999 off]",
+            "content": "[battle exp + jp 99999 off]\n04000000 003C1AA8 1E300008\n04000000 003C1AE4 1E292800\n04000000 003C1AE8 1E300008\n04000000 003C1AF0 1A89B108\n\n"
+        },
+        {
+            "title": "[capture/off the leash use max on]",
+            "content": "[capture/off the leash use max on]\n04000000 00998A90 D503201F\n04000000 00999EA8 1A88B108\n04000000 00999EC8 1A88B108\n"
+        },
+        {
+            "title": "[capture/off the leash use max off]",
+            "content": "[capture/off the leash use max off]\n04000000 00998A90 5400030B\n04000000 00999EA8 1A88B048\n04000000 00999EC8 1A88B028\n\n"
+        },
+        {
+            "title": "[status all 9999 on]",
+            "content": "[status all 9999 on]\n04000000 00985C84 5284E1F7\n04000000 00BA7160 5284E1E0\n04000000 00BA717C 5284E1E0\n"
+        },
+        {
+            "title": "[status all 9999 off]",
+            "content": "[status all 9999 off]\n04000000 00985C84 2A1303E1\n04000000 00BA7160 52807CE0\n04000000 00BA717C 52807CE0\n\n"
+        },
+        {
+            "title": "[max when use item on]",
+            "content": "[max when use item on]\n04000000 009A13F8 1A88B108\n"
+        },
+        {
+            "title": "[max when use item off]",
+            "content": "[max when use item off]\n04000000 009A13F8 1A88B028\n\n"
+        },
+        {
+            "title": "[max when use money on]",
+            "content": "[max when use money on]\n04000000 0099BE60 2A0903E8\n04000000 0099BEC0 2A0903E8\n"
+        },
+        {
+            "title": "[max when use money off]",
+            "content": "[max when use money off]\n04000000 0099BE60 6B09011F\n04000000 0099BEC0 6B09011F"
+        }
+    ]
+}

@@ -1,0 +1,310 @@
+{
+    "78A0EDFBD60C976E": [
+        {
+            "title": "[Max Alchemy LVL]",
+            "content": "[Max Alchemy LVL]\n040F0000 01860648 00000063\n"
+        },
+        {
+            "title": "[Max Gem]",
+            "content": "[Max Gem]\n040F0000 0185cc1c 3B9AC9FF\n"
+        },
+        {
+            "title": "[Max Gold]",
+            "content": "[Max Gold]\n040F0000 01860d88 000F423F\n"
+        },
+        {
+            "title": "[Max Money]",
+            "content": "[Max Money]\n040F0000 01860d80 000F423F"
+        }
+    ],
+    "BE0EFDE5580470DB": [
+        {
+            "title": "[Max Cole]",
+            "content": "[Max Cole]\n041F0000 018B1D10\n\n"
+        },
+        {
+            "title": "[Max Gems]",
+            "content": "[Max Gems]\n041F0000 0018AD9C\n\n"
+        },
+        {
+            "title": "[Inf AP]",
+            "content": "[Inf AP]\n040F0000 805DB5D0 42480000\n040F0000 80660BBC 42480000\n040F0000 80660BB8 42480000"
+        }
+    ],
+    "4E9E9501D27DD02E": [
+        {
+            "title": "[Max Gold]",
+            "content": "[Max Gold]\n04000000 0187b1c8 000F423F\n\n"
+        },
+        {
+            "title": "[Max Money]",
+            "content": "[Max Money]\n04000000 0187b1c0 000F423F\n\n"
+        },
+        {
+            "title": "[Max Gem]",
+            "content": "[Max Gem]\n04000000 0187705c 0098967F\n\n"
+        },
+        {
+            "title": "[Max Alchemy LVL]",
+            "content": "[Max Alchemy LVL]\n04000000 0187aa88 00000063\n "
+        }
+    ],
+    "6B721D06B7BBB451": [
+        {
+            "title": "[Max Gems]",
+            "content": "[Max Gems]\n040F0000 018ADBAC 000F423F\n"
+        },
+        {
+            "title": "[Max Gold Coins]",
+            "content": "[Max Gold Coins]\n040F0000 018B1D28 000F423F\n"
+        },
+        {
+            "title": "[Max Cole]",
+            "content": "[Max Cole]\n040F0000 018B1D20 000F423F\n"
+        },
+        {
+            "title": "[Max AlchemyLVL]",
+            "content": "[Max AlchemyLVL]\n010F0000 018B15E8 00000063\n"
+        },
+        {
+            "title": "[Inf AP]",
+            "content": "[Inf AP]\n040F0000 805DB5E0 42480000\n040F0000 80660BCC 42480000\n040F0000 80660BC8 42480000\n"
+        },
+        {
+            "title": "[Ryza Max Lv]",
+            "content": "[Ryza Max Lv]\n010F0000 018B1D34 00000063\n"
+        },
+        {
+            "title": "[Ryza Max Exp]",
+            "content": "[Ryza Max Exp]\n040F0000 018B1D38 000F423F\n"
+        },
+        {
+            "title": "[Ryza HP 9999]",
+            "content": "[Ryza HP 9999]\n020F0000 018B1D3C 0000270F\n020F0000 018B1E3C 0000270F\n"
+        },
+        {
+            "title": "[Ryza AP 999]",
+            "content": "[Ryza AP 999]\n020F0000 018B1D40 000003E7\n020F0000 018B1D48 000003E7\n"
+        },
+        {
+            "title": "[Ryza Stats 1000]",
+            "content": "[Ryza Stats 1000]\n020F0000 018B1D4C 000003E7\n020F0000 018B1D50 000003E7\n020F0000 018B1D54 000003E7\n020F0000 018B1D58 000003E7\n"
+        },
+        {
+            "title": "[Lent Max Lv]",
+            "content": "[Lent Max Lv]\n010F0000 018B24D4 00000063\n"
+        },
+        {
+            "title": "[Lent Max Exp]",
+            "content": "[Lent Max Exp]\n040F0000 018B24D8 000F423F\n"
+        },
+        {
+            "title": "[Lent HP 9999]",
+            "content": "[Lent HP 9999]\n020F0000 018B24DC 0000270F\n020F0000 018B25DC 0000270F\n"
+        },
+        {
+            "title": "[Lent AP 999]",
+            "content": "[Lent AP 999]\n020F0000 018B24E0 000003E7\n020F0000 018B24E8 000003E7\n"
+        },
+        {
+            "title": "[Lent All Stats 1000]",
+            "content": "[Lent All Stats 1000]\n020F0000 018B24EC 000003E7\n020F0000 018B24F4 000003E7\n020F0000 018B24F0 000003E7\n020F0000 018B24F8 000003E7\n"
+        },
+        {
+            "title": "[Tao Max Lv]",
+            "content": "[Tao Max Lv]\n010F0000 018B28A4 00000063\n"
+        },
+        {
+            "title": "[Tao Max Exp]",
+            "content": "[Tao Max Exp]\n040F0000 018B28A8 000F423F\n"
+        },
+        {
+            "title": "[Tao HP 9999]",
+            "content": "[Tao HP 9999]\n020F0000 018B28AC 0000270F\n020F0000 018B29AC 0000270F\n"
+        },
+        {
+            "title": "[Tao AP 999]",
+            "content": "[Tao AP 999]\n020F0000 018B28B0 000003E7\n020F0000 018B28B8 000003E7\n"
+        },
+        {
+            "title": "[Tao All Stats 1000]",
+            "content": "[Tao All Stats 1000]\n020F0000 018B28BC 000003E7\n020F0000 018B28C0 000003E7\n020F0000 018B28C4 000003E7\n020F0000 018B28C8 000003E7\n"
+        }
+    ],
+    "832995CFF172D59D": [
+        {
+            "title": "[Max Gems]",
+            "content": "[Max Gems]\n040F0000 018ADBAC 000F423F\n"
+        },
+        {
+            "title": "[Max Gold Coins]",
+            "content": "[Max Gold Coins]\n040F0000 018B1D28 000F423F\n"
+        },
+        {
+            "title": "[Max Cole]",
+            "content": "[Max Cole]\n040F0000 018B1D20 000F423F\n"
+        },
+        {
+            "title": "[Max AlchemyLVL]",
+            "content": "[Max AlchemyLVL]\n010F0000 018B15E8 00000063\n"
+        },
+        {
+            "title": "[Inf AP]",
+            "content": "[Inf AP]\n040F0000 805DB5E0 42480000\n040F0000 80660BCC 42480000\n040F0000 80660BC8 42480000\n"
+        },
+        {
+            "title": "[Ryza Max Lv]",
+            "content": "[Ryza Max Lv]\n010F0000 018B1D34 00000063\n"
+        },
+        {
+            "title": "[Ryza Max Exp]",
+            "content": "[Ryza Max Exp]\n040F0000 018B1D38 000F423F\n"
+        },
+        {
+            "title": "[Ryza HP 9999]",
+            "content": "[Ryza HP 9999]\n020F0000 018B1D3C 0000270F\n020F0000 018B1D44 0000270F\n"
+        },
+        {
+            "title": "[Ryza AP 999]",
+            "content": "[Ryza AP 999]\n020F0000 018B1D40 000003E7\n020F0000 018B1D48 000003E7\n"
+        },
+        {
+            "title": "[Ryza Stats 1000]",
+            "content": "[Ryza Stats 1000]\n020F0000 018B1D4C 000003E7\n020F0000 018B1D50 000003E7\n020F0000 018B1D54 000003E7\n020F0000 018B1D58 000003E7\n"
+        },
+        {
+            "title": "[Lent Max Lv]",
+            "content": "[Lent Max Lv]\n010F0000 018B24D4 00000063\n"
+        },
+        {
+            "title": "[Lent Max Exp]",
+            "content": "[Lent Max Exp]\n040F0000 018B24D8 000F423F\n"
+        },
+        {
+            "title": "[Lent HP 9999]",
+            "content": "[Lent HP 9999]\n020F0000 018B24DC 0000270F\n020F0000 018B24E4 0000270F\n"
+        },
+        {
+            "title": "[Lent AP 999]",
+            "content": "[Lent AP 999]\n020F0000 018B24E0 000003E7\n020F0000 018B24E8 000003E7\n"
+        },
+        {
+            "title": "[Lent All Stats 1000]",
+            "content": "[Lent All Stats 1000]\n020F0000 018B24EC 000003E7\n020F0000 018B24F4 000003E7\n020F0000 018B24F0 000003E7\n020F0000 018B24F8 000003E7\n"
+        },
+        {
+            "title": "[Tao Max Lv]",
+            "content": "[Tao Max Lv]\n010F0000 018B28A4 00000063\n"
+        },
+        {
+            "title": "[Tao Max Exp]",
+            "content": "[Tao Max Exp]\n040F0000 018B28A8 000F423F\n"
+        },
+        {
+            "title": "[Tao HP 9999]",
+            "content": "[Tao HP 9999]\n020F0000 018B28AC 0000270F\n020F0000 018B28B4 0000270F\n"
+        },
+        {
+            "title": "[Tao AP 999]",
+            "content": "[Tao AP 999]\n020F0000 018B28B0 000003E7\n020F0000 018B28B8 000003E7\n"
+        },
+        {
+            "title": "[Tao All Stats 1000]",
+            "content": "[Tao All Stats 1000]\n020F0000 018B28BC 000003E7\n020F0000 018B28C0 000003E7\n020F0000 018B28C4 000003E7\n020F0000 018B28C8 000003E7\n"
+        },
+        {
+            "title": "[All Container Items Quality 999]",
+            "content": "[All Container Items Quality 999]\n300E0000 00001388\n020E0000 0185915E 000003E7\n780E0000 00000042\n310E0000\n20000000"
+        }
+    ],
+    "5017110DB5AAC6CC": [
+        {
+            "title": "[Infinite Money 999999]",
+            "content": "[Infinite Money 999999]\n04000000 017be8c0 000F423F\n\n"
+        },
+        {
+            "title": "[Ryza HP9999]",
+            "content": "[Ryza HP9999]\n04000000 017be8dc 0000270F\n04000000 017be8e0 0000270F\n04000000 017be8e4 0000270F\n\n"
+        },
+        {
+            "title": "[Lanto HP9999]",
+            "content": "[Lanto HP9999]\n04000000 017bf07c 0000270F\n04000000 017bf080 0000270F\n04000000 017bf084 0000270F\n\n"
+        },
+        {
+            "title": "[Tao HP9999]",
+            "content": "[Tao HP9999]\n04000000 017bf44c 0000270F\n04000000 017bf450 0000270F\n04000000 017bf454 0000270F\n\n"
+        },
+        {
+            "title": "[money 999999999]",
+            "content": "[money 999999999]\n04000000 017be8c0 3B9AC9FF\n\n"
+        },
+        {
+            "title": "[Lanto attack and defense Min Ling MAX]",
+            "content": "[Lanto attack and defense Min Ling MAX]\n04000000 017bf088 0000270F\n04000000 017bf08c 0000270F\n04000000 017bf090 0000270F\n04000000 017bf094 0000270F\n04000000 017bf098 0000270F\n04000000 017bf09c 0000270F\n\n"
+        },
+        {
+            "title": "[Ryza Attack and Defense Mind MAX]",
+            "content": "[Ryza Attack and Defense Mind MAX]\n04000000 017be8e8 0000270F\n04000000 017be8ec 0000270F\n04000000 017be8f0 0000270F\n04000000 017be8f4 0000270F\n04000000 017be8f8 0000270F\n04000000 017be8fc 0000270F\n\n"
+        },
+        {
+            "title": "[Tao attack and defense Min Ling MAX]",
+            "content": "[Tao attack and defense Min Ling MAX]\n04000000 017bf458 0000270F\n04000000 017bf45c 0000270F\n04000000 017bf460 0000270F\n04000000 017bf464 0000270F\n04000000 017bf468 0000270F\n04000000 017bf46c 0000270F\n\n"
+        },
+        {
+            "title": "[Proper quality 999]",
+            "content": "[Proper quality 999]\n580F0000 0173F9A0\n780F0000 00000004\n300E0000 00001388\n620F0000 00000000 000003e7\n780F0000 00000042\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[Proper quality]",
+            "content": "[Proper quality]\n580F0000 0173F9A0\n780F0000 00000009\n300E0000 00001388\n620F0000 00000000 00006363\n780F0000 00000042\n310E0000\n20000000 \n\n"
+        },
+        {
+            "title": "[Infinite Money 999999]",
+            "content": "[Infinite Money 999999]\n04000000 017be8c0 000F423F\n\n"
+        },
+        {
+            "title": "[Ryza HP9999]",
+            "content": "[Ryza HP9999]\n04000000 017be8dc 0000270F\n04000000 017be8e0 0000270F\n04000000 017be8e4 0000270F\n\n"
+        },
+        {
+            "title": "[Lanto HP9999]",
+            "content": "[Lanto HP9999]\n04000000 017bf07c 0000270F\n04000000 017bf080 0000270F\n04000000 017bf084 0000270F\n\n"
+        },
+        {
+            "title": "[Tao HP9999]",
+            "content": "[Tao HP9999]\n04000000 017bf44c 0000270F\n04000000 017bf450 0000270F\n04000000 017bf454 0000270F\n\n"
+        },
+        {
+            "title": "[Max Alchemy Lvl]",
+            "content": "[Max Alchemy Lvl]\n040F0000 017BE218 00000063\n\n"
+        },
+        {
+            "title": "[Max Gem]",
+            "content": "[Max Gem]\n040F0000 017BA93C 0098967F\n\n"
+        },
+        {
+            "title": "[Lanto attack and defense Min Ling MAX]",
+            "content": "[Lanto attack and defense Min Ling MAX]\n04000000 017bf088 0000270F\n04000000 017bf08c 0000270F\n04000000 017bf090 0000270F\n04000000 017bf094 0000270F\n04000000 017bf098 0000270F\n04000000 017bf09c 0000270F\n\n"
+        },
+        {
+            "title": "[Ryza Attack and Defense Mind MAX]",
+            "content": "[Ryza Attack and Defense Mind MAX]\n04000000 017be8e8 0000270F\n04000000 017be8ec 0000270F\n04000000 017be8f0 0000270F\n04000000 017be8f4 0000270F\n04000000 017be8f8 0000270F\n04000000 017be8fc 0000270F\n\n"
+        },
+        {
+            "title": "[Tao attack and defense Min Ling MAX]",
+            "content": "[Tao attack and defense Min Ling MAX]\n04000000 017bf458 0000270F\n04000000 017bf45c 0000270F\n04000000 017bf460 0000270F\n04000000 017bf464 0000270F\n04000000 017bf468 0000270F\n04000000 017bf46c 0000270F\n\n"
+        },
+        {
+            "title": "[Proper quality 999]",
+            "content": "[Proper quality 999]\n580F0000 0173F9A0\n780F0000 00000004\n300E0000 00001388\n620F0000 00000000 000003e7\n780F0000 00000042\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[Proper quality]",
+            "content": "[Proper quality]\n580F0000 0173F9A0\n780F0000 00000009\n300E0000 00001388\n620F0000 00000000 00006363\n780F0000 00000042\n310E0000\n20000000 \n\n"
+        },
+        {
+            "title": "[Max Gold]",
+            "content": "[Max Gold]\n041F0000 017BE8C8 4e6e6b28\n\n\n"
+        }
+    ]
+}

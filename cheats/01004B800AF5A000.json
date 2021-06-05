@@ -1,1 +1,84 @@
-{}
+{
+    "82DECA0A867052BF": [
+        {
+            "title": "[1p speed attack]",
+            "content": "[1p speed attack]\n04000000 002B765C 1E27F000\n\n"
+        },
+        {
+            "title": "[1p invicible then take a coup from the enemy]",
+            "content": "[1p invicible then take a coup from the enemy]\n04000000 0029AB30 D65F03C0\n\n\n"
+        },
+        {
+            "title": "[1p invicible then take a coup from the enemy off]",
+            "content": "[1p invicible then take a coup from the enemy off]\n04000000 0029AB30 D101C3FF\n\n"
+        },
+        {
+            "title": "[1p invicible+auto kill get close]",
+            "content": "[1p invicible+auto kill get close]\n04000000 0026D724 D65F03C0\n\n\n"
+        },
+        {
+            "title": "[1p invicible+auto kill get close off]",
+            "content": "[1p invicible+auto kill get close off]\n04000000 0026D724 A9BB67FA"
+        }
+    ],
+    "B98E9D18B061B2F0": [
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n580F0000 006E0B10\n580F1000 00000D68\n580F1000 00000198\n580F1000 00000038\n580F1000 00000238\n780F0000 00000314\n640F0000 00000000 50000000\n\n"
+        },
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n580F0000 006E0B10\n580F1000 00000D68\n580F1000 00000198\n580F1000 00000038\n580F1000 00000238\n780F0000 000002EC\n640F0000 00000000 43500000\n20000000\n\n"
+        },
+        {
+            "title": "[Speed Up]",
+            "content": "[Speed Up]\n580F0000 006E0B10\n580F1000 00000D68\n580F1000 00000198\n580F1000 00000038\n580F1000 00000238\n780F1000 00000264\n640F0000 00000000 40000000\n\n"
+        },
+        {
+            "title": "[Infinite Lives]",
+            "content": "[Infinite Lives]\n580f0000 006E0AF8\n780f0000 0000002c\n610f0000 00000000 00000009\n\n"
+        },
+        {
+            "title": "[Infinite HP]",
+            "content": "[Infinite HP]\n580f0000 006E0B10\n580f1000 00000d68\n580f1000 00000198\n580f1000 00000038\n580f1000 00000238\n780f0000 00000154\n610f0000 00000000 00000012\n\n"
+        },
+        {
+            "title": "[Can use character after KOed]",
+            "content": "[Can use character after KOed]\n580f0000 006E0AF8\n580f1000 00000010\n780f0000 00000015\n610f0000 00000000 00000012\n780f0000 00000003\n610f0000 00000000 00000010\n780f0000 00000003\n610f0000 00000000 0000000c\n780f0000 00000003\n610f0000 00000000 0000000e\n\n"
+        },
+        {
+            "title": "[Unlock All Difficulties]",
+            "content": "[Unlock All Difficulties]\n01100000 00A4619C 000000ff\n\n"
+        },
+        {
+            "title": "[push ZL 99 Hearts]",
+            "content": "[push ZL 99 Hearts]\n80000100\n580f0000 006E0AF8\n580f1000 00000010\n780f0000 00000021\n620f0000 00000000 00006363\n20000000"
+        }
+    ],
+    "7F601C10C52ECF17": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for Bloodstained Curse of the Moon 1.0.1]",
+            "content": "[From MAX-CHEATS.com by optantic for Bloodstained Curse of the Moon 1.0.1]\n\n"
+        },
+        {
+            "title": "[Infinite Lives]",
+            "content": "[Infinite Lives]\n580f0000 006e1bf8\n780f0000 0000002c\n610f0000 00000000 00000009\n\n"
+        },
+        {
+            "title": "[Infinite HP]",
+            "content": "[Infinite HP]\n580f0000 006e1c10\n580f1000 00000d68\n580f1000 00000198\n580f1000 00000038\n580f1000 00000238\n780f0000 00000154\n610f0000 00000000 00000012\n\n"
+        },
+        {
+            "title": "[Can use character after KOed]",
+            "content": "[Can use character after KOed]\n580f0000 006e1bf8\n580f1000 00000010\n780f0000 00000015\n610f0000 00000000 00000012\n780f0000 00000003\n610f0000 00000000 00000010\n780f0000 00000003\n610f0000 00000000 0000000c\n780f0000 00000003\n610f0000 00000000 0000000e\n\n"
+        },
+        {
+            "title": "[Unlock All Difficulties]",
+            "content": "[Unlock All Difficulties]\n01100000 00A4619C 000000ff\n\n"
+        },
+        {
+            "title": "[push ZL 99 Hearts]",
+            "content": "[push ZL 99 Hearts]\n80000100\n580f0000 006e1bf8\n580f1000 00000010\n780f0000 00000021\n620f0000 00000000 00006363\n20000000"
+        }
+    ]
+}

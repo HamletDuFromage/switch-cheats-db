@@ -1,0 +1,24 @@
+{
+    "CE31F943F1E25699": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for ACA NEOGEO World Heroes Perfect 1.0.1]",
+            "content": "[From MAX-CHEATS.com by optantic for ACA NEOGEO World Heroes Perfect 1.0.1]\n\n"
+        },
+        {
+            "title": "[P1 Infinite HP]",
+            "content": "[P1 Infinite HP]\n04000000 0123F40C 0000C0C0\n\n"
+        },
+        {
+            "title": "[P1 Maximum Power]",
+            "content": "[P1 Maximum Power]\n04000000 0123FE16 00DF00DF\n\n"
+        },
+        {
+            "title": "[P2 NO HP]",
+            "content": "[P2 NO HP]\n04000000 0123F50C 00000000\n\n"
+        },
+        {
+            "title": "[P2 NO Maximum Power]",
+            "content": "[P2 NO Maximum Power]\n04000000 0123FF16 00000000"
+        }
+    ]
+}

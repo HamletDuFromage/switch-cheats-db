@@ -1,0 +1,66 @@
+{
+    "EADA9F7AD4D3BA41": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for FINAL FANTASY IX]",
+            "content": "[From MAX-CHEATS.com by optantic for FINAL FANTASY IX]\n\n"
+        },
+        {
+            "title": "[999999 GP after battle]",
+            "content": "[999999 GP after battle]\n04100000 9423ab90 000f423f\n\n"
+        },
+        {
+            "title": "[999999 EXP after battle]",
+            "content": "[999999 EXP after battle]\n04100000 9423ab94 000f423f\n\n"
+        },
+        {
+            "title": "[99 AP after battle]",
+            "content": "[99 AP after battle]\n01100000 9423ab98 00000063"
+        }
+    ],
+    "A49A739C07989244": [
+        {
+            "title": "[999999 GP after battle]",
+            "content": "[999999 GP after battle]\n04100000 9443ab90 000f423f\n\n"
+        },
+        {
+            "title": "[999999 EXP after battle]",
+            "content": "[999999 EXP after battle]\n04100000 9443ab94 000f423f\n\n"
+        },
+        {
+            "title": "[99 AP after battle]",
+            "content": "[99 AP after battle]\n01100000 9443ab98 00000063\n\n"
+        },
+        {
+            "title": "[p1 inf hp]",
+            "content": "[p1 inf hp]\n580F0000 029E0530\n580F1000 000000B8\n580F1000 00000170\n580F1000 00000190\n580F1000 00000028\n580F1000 00000030\n780F0000 00000010\n640F0000 00000000 0167270F\n\n"
+        },
+        {
+            "title": "[99 Ultima Weapon]",
+            "content": "[99 Ultima Weapon]\n580F0000 029DF3C0\n580F1000 00000170\n580F1000 00000000\n580F1000 00000028\n780F0000 00000030\n640F0000 00000000 0000630F\n\n"
+        },
+        {
+            "title": "[99 Excalibur II]",
+            "content": "[99 Excalibur II]\n580F0000 029DF3C0\n580F1000 00000170\n580F1000 00000000\n580F1000 00000028\n780F0000 00000050\n640F0000 00000000 0000631E\n\n"
+        },
+        {
+            "title": "[99 Reflect Ring]",
+            "content": "[99 Reflect Ring]\n580F0000 029DF3C0\n580F1000 00000170\n580F1000 00000000\n580F1000 00000028\n780F0000 00000070\n640F0000 00000000 000063CD\n\n"
+        },
+        {
+            "title": "[99 Rebirth Ring]",
+            "content": "[99 Rebirth Ring]\n580F0000 029DF3C0\n580F1000 00000170\n580F1000 00000000\n580F1000 00000028\n780F0000 00000090\n640F0000 00000000 000063D0\n\n"
+        },
+        {
+            "title": "[99 Dark Matter]",
+            "content": "[99 Dark Matter]\n580F0000 029DF3C0\n580F1000 00000170\n580F1000 00000000\n580F1000 00000028\n780F0000 000000D0\n640F0000 00000000 000063FA\n\n"
+        },
+        {
+            "title": "[99 Protect Ring]",
+            "content": "[99 Protect Ring]\n580F0000 029DF3C0\n580F1000 00000170\n580F1000 00000000\n580F1000 00000028\n780F0000 000000B0\n640F0000 00000000 000063D1\n\n"
+        },
+        {
+            "title": "[99 Running shoes]",
+            "content": "[99 Running shoes]\n580F0000 029DF3C0\n580F1000 00000170\n580F1000 00000000\n580F1000 00000028\n780F0000 000000F0\n640F0000 00000000 000063C6"
+        }
+    ]
+}

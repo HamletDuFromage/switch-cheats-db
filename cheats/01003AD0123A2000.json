@@ -1,1 +1,12 @@
-{}
+{
+    "AFE32BEDBD98F691": [
+        {
+            "title": "[enemies no attack on]",
+            "content": "[enemies no attack on]\n04000000 0019EC20 D503201F\n\n"
+        },
+        {
+            "title": "[enemies no attack off]",
+            "content": "[enemies no attack off]\n04000000 0019EC20 360000A0"
+        }
+    ]
+}

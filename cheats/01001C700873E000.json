@@ -1,1 +1,340 @@
-{}
+{
+    "769CE69FD09F7EC6": [
+        {
+            "title": "[x2 AP]",
+            "content": "\ufeff[x2 AP]\n04000000 00A76274 0B190508\n04000000 00A766A0 0B19054A\n\n"
+        },
+        {
+            "title": "[x4 AP]",
+            "content": "[x4 AP]\n04000000 00A76274 0B190908\n04000000 00A766A0 0B19094A\n\n"
+        },
+        {
+            "title": "[x8 AP]",
+            "content": "[x8 AP]\n04000000 00A76274 0B190D08\n04000000 00A766A0 0B190D4A\n\n"
+        },
+        {
+            "title": "[Infinite AP]",
+            "content": "[Infinite AP]\n04000000 00DB8860 4B1F0129\n04000000 00DBA284 4B1F0108\n\n"
+        },
+        {
+            "title": "[Max after item/material change ON]",
+            "content": "[Max after item/material change ON]\n04000000 008EEE44 1A89C129\n\n"
+        },
+        {
+            "title": "[Max after item/material change OFF]",
+            "content": "[Max after item/material change OFF]\n04000000 008EEE44 1A89C149\n\n"
+        },
+        {
+            "title": "[Money 777777777 by Check Status]",
+            "content": "[Money 777777777 by Check Status]\n04000000 01544250 52A5CB74\n04000000 01544254 729E4E34\n04000000 01544258 B8296914\n04000000 0154425C D65F03C0\n04000000 00D21B64 942089BB\n\n"
+        },
+        {
+            "title": "[God Eater 3 v2.0//updated by phonz]",
+            "content": "[God Eater 3 v2.0//updated by phonz]\n"
+        },
+        {
+            "title": "[x2 AP]",
+            "content": "[x2 AP]\n04000000 00A76274 0B190508\n04000000 00A766A0 0B19054A\n\n"
+        },
+        {
+            "title": "[x4 AP]",
+            "content": "[x4 AP]\n04000000 00A76274 0B190908\n04000000 00A766A0 0B19094A\n\n"
+        },
+        {
+            "title": "[x8 AP]",
+            "content": "[x8 AP]\n04000000 00A76274 0B190D08\n04000000 00A766A0 0B190D4A\n\n"
+        },
+        {
+            "title": "[Infinite AP]",
+            "content": "[Infinite AP]\n04000000 00DB8860 4B1F0129\n04000000 00DBA284 4B1F0108\n\n"
+        },
+        {
+            "title": "[Max after item/material change ON]",
+            "content": "[Max after item/material change ON]\n04000000 008EEE44 1A89C129\n\n"
+        },
+        {
+            "title": "[Max after item/material change OFF]",
+            "content": "[Max after item/material change OFF]\n04000000 008EEE44 1A89C149\n\n"
+        },
+        {
+            "title": "[Money 777777777 by Check Status]",
+            "content": "[Money 777777777 by Check Status]\n04000000 01544250 52A5CB74\n04000000 01544254 729E4E34\n04000000 01544258 B8296914\n04000000 0154425C D65F03C0\n04000000 00D21B64 942089BB\n\n"
+        },
+        {
+            "title": "[Infinite Health]",
+            "content": "[Infinite Health]\n04000000 007B559C 1E2703E9\n04000000 007258C8 D503201F\n\n"
+        },
+        {
+            "title": "[Infinite OP]",
+            "content": "[Infinite OP]\n04000000 008CF92C 1E204041\n04000000 007A1104 1E204040\n\n"
+        },
+        {
+            "title": "[Infinite Stamina]",
+            "content": "[Infinite Stamina]\n04000000 008CFDEC 1E204020\n\n"
+        },
+        {
+            "title": "[Invulnerable]",
+            "content": "[Invulnerable]\n04000000 007B44EC 14000916\n\n"
+        },
+        {
+            "title": "[Instant Kill]",
+            "content": "[Instant Kill]\n04000000 0068CDF0 BD401688\n\n"
+        },
+        {
+            "title": "[Max Burst]",
+            "content": "[Max Burst]\n04000000 008D0950 1E204008\n04000000 008D1F04 1E204009\n\n"
+        },
+        {
+            "title": "[Max Contract Bar]",
+            "content": "[Max Contract Bar]\n04000000 01544260 BD279100\n04000000 01544264 BD679101\n04000000 01544268 D65F03C0\n04000000 0154426C 710005FB\n04000000 008D74EC 9431B35D\n\n"
+        },
+        {
+            "title": "[Max AP]",
+            "content": "[Max AP]\n04000000 00A766B0 2A0B03EA\n04000000 00DB8868 2A0A03E9\n\n"
+        },
+        {
+            "title": "[Max GAP]",
+            "content": "[Max GAP]\n04000000 009ED580 2A0B03EC\n04000000 009F00B8 2A0B03EA\n04000000 00DB9BF8 2A0A03EC\n\n"
+        },
+        {
+            "title": "[Infinite Items in Mission]",
+            "content": "[Infinite Items in Mission]\n04000000 007C98B4 D503201F\n\n"
+        },
+        {
+            "title": "[Enemy Infinite HP]",
+            "content": "[Enemy Infinite HP]\n04000000 0068CE5C 1E2703E0\n\n"
+        },
+        {
+            "title": "[Enemy Infinite HP Disable]",
+            "content": "[Enemy Infinite HP Disable]\n04000000 0068CE5C 4EA91D20\n\n"
+        },
+        {
+            "title": "[Mission Timer is less than 7 Sec]",
+            "content": "[Mission Timer is less than 7 Sec]\n04000000 0154423C 170006B3\n04000000 01544210 D10083FF\n04000000 01544214 A9017BFD\n04000000 01544218 B940851D\n04000000 0154421C 52A81C1E\n04000000 01544220 6B1E03BF\n04000000 01544224 5400004B\n04000000 01544228 B900851F\n04000000 0154422C BD408501\n04000000 01544230 A9417BFD\n04000000 01544234 910083FF\n04000000 01544238 17D264D2\n04000000 009DD57C 142D9B25\n\n"
+        },
+        {
+            "title": "[Infinite Mission Return Time]",
+            "content": "[Infinite Mission Return Time]\n04000000 0064342C 1E204020\n\n"
+        },
+        {
+            "title": "[Infinite double Jump]",
+            "content": "[Infinite double Jump]\n04000000 007AD29C B924D27F\n04000000 007AD2B0 D503201F\n04000000 007AD2B8 D503201F\n\n"
+        },
+        {
+            "title": "[Always Burst Lv 3]",
+            "content": "[Always Burst Lv 3]\n04000000 01544200 52800068\n04000000 01544204 B9003928\n04000000 01544208 D65F03C0\n04000000 0154420C 54000623\n04000000 00A88078 942AF062\n\n"
+        },
+        {
+            "title": "[Max God Arts EXP after Mission]",
+            "content": "[Max God Arts EXP after Mission]\n04000000 00AA99D8 52A01313\n04000000 00AA99DC 7292D013\n04000000 00AA99E0 1E220260\n\n"
+        },
+        {
+            "title": "[Item Max when used in mission]",
+            "content": "[Item Max when used in mission]\n04000000 007C98BC 2A0A03E9\n\n"
+        },
+        {
+            "title": "[Change Item to Max after Mission]",
+            "content": "[Change Item to Max after Mission]\n04000000 008EEE38 2A0903EA\n\n"
+        },
+        {
+            "title": "[Forge doesnt use Material]",
+            "content": "[Forge doesnt use Material]\n04000000 00D967B8 D503201F\n\n"
+        },
+        {
+            "title": "[Compose doesnt use Material]",
+            "content": "[Compose doesnt use Material]\n04000000 00C15E44 5280000C\n04000000 00C15E48 B900052C\n04000000 00C15E4C 14000026\n\n"
+        },
+        {
+            "title": "[Rebuild doesnt use Material]",
+            "content": "[Rebuild doesnt use Material]\n04000000 01544270 52A96313\n04000000 01544274 7292CFF3\n04000000 01544278 1E270269\n04000000 0154427C 52800C73\n04000000 01544280 B900A2D3\n04000000 01544284 D65F03C0\n04000000 01544288 540006BE\n04000000 00DC643C 941DF78D\n04000000 00DC6440 1E202128\n\n"
+        },
+        {
+            "title": "[Production doesnt use Material]",
+            "content": "[Production doesnt use Material]\n04000000 0154429C B90005CE\n04000000 01544290 0B090149\n04000000 01544294 B900137F\n04000000 01544298 D65F03C0\n04000000 00C203F0 94248FA8\n04000000 015442A0 B9000F1F\n04000000 015442A4 B900171F\n04000000 015442A8 B9400B0D\n04000000 015442AC D65F03C0\n04000000 00C20594 94248F43\n\n"
+        },
+        {
+            "title": "[Quick Level-Up Acceleration Trigger]",
+            "content": "[Quick Level-Up Acceleration Trigger]\n04000000 00AA06FC 52800020\n\n"
+        },
+        {
+            "title": "[Infinite Acceleration Trigger]",
+            "content": "[Infinite Acceleration Trigger]\n04000000 007A176C 1E2703E0"
+        }
+    ],
+    "368CDF823B83A54B": [
+        {
+            "title": "[Player HP/OP/ST]",
+            "content": "[Player HP/OP/ST]\n580F0000 0488F3A8\n580F1000 000000D0\n780F0000 000025E0\n680F0000 43160000 43160000\n780F0000 000000C8\n680F0000 43160000 43160000\n780F0000 00000010\n680F0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[Player OP/ST]",
+            "content": "[Player OP/ST]\n580F0000 0488F3A8\n580F1000 000000D0\n780F0000 000026A8\n680F0000 43160000 43160000\n780F0000 00000010\n680F0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[Player ST]",
+            "content": "[Player ST]\n580F0000 0488F3A8\n580F1000 000000D0\n780F0000 000026B8\n680F0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[NPC 1 HP/OP/ST]",
+            "content": "[NPC 1 HP/OP/ST]\n580F0000 0488F3A8\n580F1000 000000E0\n780F0000 000025E0\n680F0000 43160000 43160000\n780F0000 000000C8\n680F0000 43160000 43160000\n780F0000 00000010\n680F0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[NPC 2 HP/OP/ST]",
+            "content": "[NPC 2 HP/OP/ST]\n580F0000 0488F3A8\n580F1000 000000F0\n780F0000 000025E0\n680F0000 43160000 43160000\n780F0000 000000C8\n680F0000 43160000 43160000\n780F0000 00000010\n680F0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[NPC 3 HP/OP/ST]",
+            "content": "[NPC 3 HP/OP/ST]\n580F0000 0488F3A8\n580F1000 00000100\n780F0000 000025E0\n680F0000 43160000 43160000\n780F0000 000000C8\n680F0000 43160000 43160000\n780F0000 00000010\n680F0000 43160000 43160000"
+        }
+    ],
+    "C0F144F5139F542E": [
+        {
+            "title": "[Player HP/OP/ST]",
+            "content": "[Player HP/OP/ST]\n580F0000 0489A3D8\n580F1000 000000D0\n780F0000 000025E0\n680F0000 43160000 43160000\n780F0000 000000C8\n680F0000 43160000 43160000\n780F0000 00000010\n680F0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[Freeze Burst Meter]",
+            "content": "[Freeze Burst Meter]\n58040000 0489A3D8\n58041000 000000D0\n78040000 00003064\n64040000 00000000 42C80000\n\n"
+        },
+        {
+            "title": "[NPC 1 HP/OP/ST]",
+            "content": "[NPC 1 HP/OP/ST]\n580D0000 0489A3D8\n580D1000 000000E0\n780D0000 000025E0\n680D0000 43160000 43160000\n780D0000 000000C8\n680D0000 43160000 43160000\n780D0000 00000010\n680D0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[NPC 2 HP/OP/ST]",
+            "content": "[NPC 2 HP/OP/ST]\n580C0000 0489A3D8\n580C1000 000000F0\n780C0000 000025E0\n680C0000 43160000 43160000\n780C0000 000000C8\n680C0000 43160000 43160000\n780C0000 00000010\n680C0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[NPC 3 HP/OP/ST]",
+            "content": "[NPC 3 HP/OP/ST]\n580B0000 0489A3D8\n580B1000 00000100\n780B0000 000025E0\n680B0000 43160000 43160000\n780B0000 000000C8\n680B0000 43160000 43160000\n780B0000 00000010\n680B0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[NPC 4 HP/OP/ST]",
+            "content": "[NPC 4 HP/OP/ST]\n580B0000 0489A3D8\n580B1000 00000110\n780B0000 000025E0\n680B0000 43160000 43160000\n780B0000 000000C8\n680B0000 43160000 43160000\n780B0000 00000010\n680B0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[NPC 5 HP/OP/ST]",
+            "content": "[NPC 5 HP/OP/ST]\n580B0000 0489A3D8\n580B1000 00000120\n780B0000 000025E0\n680B0000 43160000 43160000\n780B0000 000000C8\n680B0000 43160000 43160000\n780B0000 00000010\n680B0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[NPC 6 HP/OP/ST]",
+            "content": "[NPC 6 HP/OP/ST]\n580B0000 0489A3D8\n580B1000 00000130\n780B0000 000025E0\n680B0000 43160000 43160000\n780B0000 000000C8\n680B0000 43160000 43160000\n780B0000 00000010\n680B0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[NPC 7 HP/OP/ST]",
+            "content": "[NPC 7 HP/OP/ST]\n580B0000 0489A3D8\n580B1000 00000140\n780B0000 000025E0\n680B0000 43160000 43160000\n780B0000 000000C8\n680B0000 43160000 43160000\n780B0000 00000010\n680B0000 43160000 43160000\n"
+        }
+    ],
+    "1250E446D020C4CA": [
+        {
+            "title": "[Player HP/OP/ST]",
+            "content": "[Player HP/OP/ST]\n580F0000 048993D8\n580F1000 000000D0\n780F0000 000025E0\n680F0000 43160000 43160000\n780F0000 000000C8\n680F0000 43160000 43160000\n780F0000 00000010\n680F0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[Freeze Burst Meter]",
+            "content": "[Freeze Burst Meter]\n58040000 048993D8\n58041000 000000D0\n78040000 00003064\n64040000 00000000 42C80000\n\n"
+        },
+        {
+            "title": "[NPC 1 HP/OP/ST]",
+            "content": "[NPC 1 HP/OP/ST]\n580D0000 048993D8\n580D1000 000000E0\n780D0000 000025E0\n680D0000 43160000 43160000\n780D0000 000000C8\n680D0000 43160000 43160000\n780D0000 00000010\n680D0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[NPC 2 HP/OP/ST]",
+            "content": "[NPC 2 HP/OP/ST]\n580C0000 048993D8\n580C1000 000000F0\n780C0000 000025E0\n680C0000 43160000 43160000\n780C0000 000000C8\n680C0000 43160000 43160000\n780C0000 00000010\n680C0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[NPC 3 HP/OP/ST]",
+            "content": "[NPC 3 HP/OP/ST]\n580B0000 048993D8\n580B1000 00000100\n780B0000 000025E0\n680B0000 43160000 43160000\n780B0000 000000C8\n680B0000 43160000 43160000\n780B0000 00000010\n680B0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[NPC 4 HP/OP/ST]",
+            "content": "[NPC 4 HP/OP/ST]\n580B0000 048993D8\n580B1000 00000110\n780B0000 000025E0\n680B0000 43160000 43160000\n780B0000 000000C8\n680B0000 43160000 43160000\n780B0000 00000010\n680B0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[NPC 5 HP/OP/ST]",
+            "content": "[NPC 5 HP/OP/ST]\n580B0000 048993D8\n580B1000 00000120\n780B0000 000025E0\n680B0000 43160000 43160000\n780B0000 000000C8\n680B0000 43160000 43160000\n780B0000 00000010\n680B0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[NPC 6 HP/OP/ST]",
+            "content": "[NPC 6 HP/OP/ST]\n580B0000 048993D8\n580B1000 00000130\n780B0000 000025E0\n680B0000 43160000 43160000\n780B0000 000000C8\n680B0000 43160000 43160000\n780B0000 00000010\n680B0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[NPC 7 HP/OP/ST]",
+            "content": "[NPC 7 HP/OP/ST]\n580B0000 048993D8\n580B1000 00000140\n780B0000 000025E0\n680B0000 43160000 43160000\n780B0000 000000C8\n680B0000 43160000 43160000\n780B0000 00000010\n680B0000 43160000 43160000\n\n"
+        },
+        {
+            "title": "[Money 777777777 Check Status]",
+            "content": "[Money 777777777 Check Status]\n04070000 01004534 52A5CB74\n04070000 01004538 729E4E34\n04070000 0100453C 140007DA\n04070000 010064A4 B8296914\n04070000 010064A8 D65F03C0\n04070000 00DA3A68 940982B3\n"
+        }
+    ],
+    "9ED444678B20813A": [
+        {
+            "title": "[Money does not decrease]",
+            "content": "[Money does not decrease]\n04000000 00C86008 4B1F0148\n04000000 00CE8EA0 4B1F0148\n04000000 00D288E0 4B1F0148\n"
+        },
+        {
+            "title": "[Get AP2 times]",
+            "content": "[Get AP2 times]\n04000000 00A18C20 0B190508\n04000000 00A18F7C 0B19054A\n"
+        },
+        {
+            "title": "[Get AP4 times]",
+            "content": "[Get AP4 times]\n04000000 00A18C20 0B190908\n04000000 00A18F7C 0B19094A\n"
+        },
+        {
+            "title": "[Get AP8 times]",
+            "content": "[Get AP8 times]\n04000000 00A18C20 0B190D08\n04000000 00A18F7C 0B190D4A\n"
+        },
+        {
+            "title": "[AP does not decrease]",
+            "content": "[AP does not decrease]\n04000000 00D51F18 4B1F0129\n04000000 00D52B0C 4B1F0108\n"
+        },
+        {
+            "title": "[GOD EATER 3 CODE MASTER 1.4.0]",
+            "content": "[GOD EATER 3 CODE MASTER 1.4.0]\n580F0000 0476A9B8\n580F1000 000000D0\n"
+        },
+        {
+            "title": "[MONEY]",
+            "content": "[MONEY]\n04000000 00C86008 4B1F0148\n04000000 00CE8EA0 4B1F0148\n04000000 00D288E0 4B1F0148\n"
+        },
+        {
+            "title": "[AP9X]",
+            "content": "[AP9X]\n04000000 00A18C20 0B190D08\n04000000 00A18F7C 0B190D4A\n"
+        },
+        {
+            "title": "[AP MAX]",
+            "content": "[AP MAX]\n04000000 00D51F18 4B1F0129\n04000000 00D52B0C 4B1F0108\n"
+        },
+        {
+            "title": "[Max ON]",
+            "content": "[Max ON]\n04000000 008B5514 1A89C129\n"
+        },
+        {
+            "title": "[max HP]",
+            "content": "[max HP]\n400E0000 00000000 000025E0\n640F01E0 00000000 43160000\n400E0000 00000000 000025E4\n640F01E0 00000000 43160000\n"
+        },
+        {
+            "title": "[OP MAX]",
+            "content": "[OP MAX]\n400E0000 00000000 000026B0\n640F01E0 00000000 43160000\n400E0000 00000000 000026B4\n640F01E0 00000000 43160000\n"
+        },
+        {
+            "title": "[ST MAX]",
+            "content": "[ST MAX]\n400E0000 00000000 000026C0\n640F01E0 00000000 43160000\n400E0000 00000000 000026C4\n640F01E0 00000000 43160000\n"
+        },
+        {
+            "title": "[NPC HP MAX]",
+            "content": "[NPC HP MAX]\n580F0000 0476A9B8\n580F1000 000000E0\n780F0000 000025E0\n640F0000 00000000 43160000\n780F0000 00000004\n640F0000 00000000 43160000\n580F0000 0476A9B8\n580F1000 000000F0\n780F0000 000025E0\n640F0000 00000000 43160000\n780F0000 00000004\n640F0000 00000000 43160000\n580F0000 0476A9B8\n580F1000 00000100\n780F0000 000025E0\n640F0000 00000000 43160000\n780F0000 00000004\n640F0000 00000000 43160000\n"
+        },
+        {
+            "title": "[NPC OP MAX]",
+            "content": "[NPC OP MAX]\n580F0000 0476A9B8\n580F1000 000000E0\n780F0000 000026B0\n640F0000 00000000 43160000\n780F0000 00000004\n640F0000 00000000 43160000\n580F0000 0476A9B8\n580F1000 000000F0\n780F0000 000026B0\n640F0000 00000000 43160000\n780F0000 00000004\n640F0000 00000000 43160000\n580F0000 0476A9B8\n580F1000 00000100\n780F0000 000026B0\n640F0000 00000000 43160000\n780F0000 00000004\n640F0000 00000000 43160000\n"
+        },
+        {
+            "title": "[NPC ST MAX]",
+            "content": "[NPC ST MAX]\n580F0000 0476A9B8\n580F1000 000000E0\n780F0000 000026C0\n640F0000 00000000 43160000\n780F0000 00000004\n640F0000 00000000 43160000\n580F0000 0476A9B8\n580F1000 000000F0\n780F0000 000026C0\n640F0000 00000000 43160000\n780F0000 00000004\n640F0000 00000000 43160000\n580F0000 0476A9B8\n580F1000 00000100\n780F0000 000026C0\n640F0000 00000000 43160000\n780F0000 00000004\n640F0000 00000000 43160000\n\n"
+        },
+        {
+            "title": "[ST For 11th hour skill don't use with ST MAX]",
+            "content": "[ST For 11th hour skill don't use with ST MAX]\n400E0000 00000000 000026C0\n640F01E0 00000000 41000000\n400E0000 00000000 000026C4\n640F01E0 00000000 41000000 "
+        }
+    ]
+}

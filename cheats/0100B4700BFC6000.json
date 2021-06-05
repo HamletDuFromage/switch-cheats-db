@@ -1,1 +1,44 @@
-{}
+{
+    "6BA63EBC3BA1B4DA": [
+        {
+            "title": "[01# Inf Bullets]",
+            "content": "[01# Inf Bullets]\n580F0000 01AE4B98\n580F1000 00000058\n580F1000 00000018\n580F1000 00000080\n580F1000 00000628\n780F0000 00000018\n640F0000 00000000 00000006\n\n"
+        },
+        {
+            "title": "[02# Inf Slomotime]",
+            "content": "[02# Inf Slomotime]\n580F0000 01AE4B98\n580F1000 00000008\n580F1000 00000018\n580F1000 00000080\n580F1000 000000B0\n780F0000 000000C8\n640F0000 00000000 3f800000\n\n"
+        },
+        {
+            "title": "[03# 999999 exp]",
+            "content": "[03# 999999 exp]\n580F0000 01B7EC00\n780F0000 00000070\n640F0000 00000000 000F423F\n\n"
+        },
+        {
+            "title": "[Inf Ammo FREE CODE SPEEDFLY]",
+            "content": "[Inf Ammo FREE CODE SPEEDFLY]\n04070000 006CF9C8 B9003D09\n\n"
+        },
+        {
+            "title": "[Infinite Ammo Reserve]",
+            "content": "[Infinite Ammo Reserve]\n58000000 01AFA710\n58001000 00000010\n58001000 00000020\n58001000 00000590\n58001000 00000048\n78000000 0000003C\n64000000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Infinite Ammo Reserve]",
+            "content": "[Infinite Ammo Reserve]\n58000000 01B74A68\n58001000 00000AC0\n58001000 000000A0\n58001000 00000568\n58001000 00000048\n78000000 0000003C\n64000000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Infinite Ammo Reserve]",
+            "content": "[Infinite Ammo Reserve]\n58000000 01B74A68\n58001000 00000AC0\n58001000 00000070\n58001000 00000568\n58001000 00000048\n78000000 0000003C\n64000000 00000000 000003E7 \n\n"
+        },
+        {
+            "title": "[Infinite Health]",
+            "content": "[Infinite Health]\n58000000 01B1AB60\n58001000 00000020\n58001000 00000AA8\n58001000 00000070\n78000000 00000A20\n64000000 00000000 43020000\n\n"
+        },
+        {
+            "title": "[Infinite Ammo Reserve]",
+            "content": "[Infinite Ammo Reserve]\n58000000 01AFA710\n58001000 00000010\n58001000 00000020\n58001000 00000590\n58001000 00000048\n78000000 0000003C\n64000000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Infinite Ammo Reserve]",
+            "content": "[Infinite Ammo Reserve]\n58000000 01AFA710\n58001000 00000010\n58001000 00000020\n58001000 00000590\n58001000 00000048\n78000000 0000003C\n64000000 00000000 000003E7\n78000000 00000008\n64000000 00000000 0000003C\n\n "
+        }
+    ]
+}

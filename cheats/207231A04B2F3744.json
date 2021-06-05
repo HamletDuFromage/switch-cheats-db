@@ -1,1 +1,32 @@
-{}
+{
+    "250CE7C4A4DE1940": [
+        {
+            "title": "[INF HP OFF]",
+            "content": "[INF HP OFF]\n04000000 010EF61C 1E2E3800\n04000000 010EDF08 1E283800\n\n"
+        },
+        {
+            "title": "[INF SP]",
+            "content": "[INF SP]\n04000000 010E2E40 D65F03C0\n\n"
+        },
+        {
+            "title": "[Freeze Durability]",
+            "content": "[Freeze Durability]\n04000000 014F1660 D65F03C0\n\n"
+        },
+        {
+            "title": "[INF+ Durability]",
+            "content": "[INF+ Durability]\n04000000 014F1660 FC1A0FE8\n04000000 014F1714 1E27D000\n04000000 014F1718 1E200800\n\n"
+        },
+        {
+            "title": "[Quick EXP Gain]",
+            "content": "[Quick EXP Gain]\n04000000 010C70E4 0B013D08\n\n"
+        },
+        {
+            "title": "[crafting materials do not reduce]",
+            "content": "[crafting materials do not reduce]\n04000000 01256DE0 D65F03C0\n\n"
+        },
+        {
+            "title": "[free shopping]",
+            "content": "[free shopping]\n04000000 013BB024 52800000"
+        }
+    ]
+}

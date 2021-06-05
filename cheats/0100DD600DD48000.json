@@ -1,1 +1,24 @@
-{}
+{
+    "5DDDF2EC1683C444": [
+        {
+            "title": "[#inf Inventory 1 (on)]",
+            "content": "[#inf Inventory 1 (on)]\n04000000 00E75E90 0B150128\n\n"
+        },
+        {
+            "title": "[#inf Inventory 1 (off)]",
+            "content": "[#inf Inventory 1 (off)]\n04000000 00E75E90 4B150128\n\n"
+        },
+        {
+            "title": "[No Damage 01]",
+            "content": "[No Damage 01]\n04000000 00D7D220 D65F03C0\n\n"
+        },
+        {
+            "title": "[No Damage 01 (off)]",
+            "content": "[No Damage 01 (off)]\n04000000 00D7D220 F81D0FF5\n\n"
+        },
+        {
+            "title": "[cpu partner no damage]",
+            "content": "[cpu partner no damage]\n04000000 01049480 D65F03C0"
+        }
+    ]
+}

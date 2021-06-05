@@ -1,1 +1,20 @@
-{}
+{
+    "95C6F28B19DF2D4F": [
+        {
+            "title": "[get max money on change @made by BlackDeath]",
+            "content": "[get max money on change @made by BlackDeath]\n04000000 003269E0 1C0007C0\n\n"
+        },
+        {
+            "title": "[get max score on change @made by BlackDeath]",
+            "content": "[get max score on change @made by BlackDeath]\n04000000 00326930 1C000D40\n\n"
+        },
+        {
+            "title": "[Infinite Health @made by BlackDeath]",
+            "content": "[Infinite Health @made by BlackDeath]\n04000000 00234ED0 D65F03C0\n\n"
+        },
+        {
+            "title": "[ammo @made by tomvita]",
+            "content": "[ammo @made by tomvita]\n580F0000 03338AA0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000028\n580F1000 00000288\n580F1000 00000188\n780F0000 00000028\n620F0000 00000000 0000000C"
+        }
+    ]
+}

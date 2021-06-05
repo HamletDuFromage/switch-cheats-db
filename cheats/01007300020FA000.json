@@ -1,1 +1,114 @@
-{}
+{
+    "4B159F0F7A360669": [
+        {
+            "title": "[Max Money]",
+            "content": "[Max Money]\n04000000 0A3151E8 05F5E0FF\n\n"
+        },
+        {
+            "title": "[Max Genecode]",
+            "content": "[Max Genecode]\n04000000 0A3151E0 05F5E0FF\n\n"
+        },
+        {
+            "title": "[Max Mission Reward Points]",
+            "content": "[Max Mission Reward Points]\n04000000 0A33F1F4 05F5E0FF\n\n"
+        },
+        {
+            "title": "[strengthen & selling items x999]",
+            "content": "[strengthen & selling items x999]\n580F0000 0A14B698\n780F0000 001AF270\n300E0000 00000032\n640F0000 00000000 000003E7\n780F0000 00000008\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n580F0000 00DCA550\n580F1000 00001C88\n780F0000 00000170\n640F0000 00000000 000007D0\n580F0000 00DCA550\n580F1000 00001C88\n580F1000 00000090\n780F1000 00000018\n640F0000 00000000 000007D0\n780F0000 00000004\n640F0000 00000000 000007D0\n\n"
+        },
+        {
+            "title": "[Inf Legion Meter]",
+            "content": "[Inf Legion Meter]\n580F0000 00DCA550\n580F1000 00001C88\n780F0000 00000684\n640F0000 00000000 40400000\n780F0000 00000008\n640F0000 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Speed x1.5]",
+            "content": "[Speed x1.5]\n580F0000 00DCA550\n580F1000 00001C88\n580F1000 00000188\n780F0000 00000160\n640F0000 00000000 3FC00000\n\n"
+        },
+        {
+            "title": "[Speed x2]",
+            "content": "[Speed x2]\n580F0000 00DCA550\n580F1000 00001C88\n580F1000 00000188\n780F0000 00000160\n640F0000 00000000 40000000\n\n"
+        },
+        {
+            "title": "[Original Speed]",
+            "content": "[Original Speed]\n580F0000 00DCA550\n580F1000 00001C88\n580F1000 00000188\n780F0000 00000160\n640F0000 00000000 3F800000\n\n"
+        },
+        {
+            "title": "[Sale/enhancement items]",
+            "content": "[Sale/enhancement items]\n580F0000 0A14B698\n780F0000 001AF270\n300E0000 00000032\n640F0000 00000000 000003E7\n780F0000 00000008\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[1 Million attack power]",
+            "content": "[1 Million attack power]\n580F0000 00DB9540\n780F1000 000A8C78\n640F0000 00000000 01234567\n580F0000 00DB9540\n780F1000 000A8C7C\n640F0000 00000000 00000000\n580F0000 00DB9540\n780F1000 000A8C74\n680F0000 44960000 44960000\n\n"
+        },
+        {
+            "title": "[No damage or negative status effects]",
+            "content": "[No damage or negative status effects]\n580F0000 00DB9540\n780F1000 000A8C58\n640F0000 00000000 00000001\n580F0000 00DB9540\n780F1000 000A8C5C\n640F0000 00000000 00000004\n580F0000 00DB9540\n780F1000 000A8C54\n680F0000 44960000 44960000\n580F0000 00DB9540\n780F1000 000A8C68\n640F0000 00000000 00000064\n580F0000 00DB9540\n780F1000 000A8C6C\n640F0000 00000000 00000001\n580F0000 00DB9540\n780F1000 000A8C64\n680F0000 44960000 44960000\n\n"
+        },
+        {
+            "title": "[Attack power back to normal]",
+            "content": "[Attack power back to normal]\n580F0000 00DB9540\n780F1000 000A8C78\n640F0000 00000000 00000000\n580F0000 00DB9540\n780F1000 000A8C7C\n640F0000 00000000 00000007\n580F0000 00DB9540\n780F1000 000A8C74\n680F0000 00000000 00000000\n\n"
+        },
+        {
+            "title": "[No negative effects such as stun, burn, daze, slow]",
+            "content": "[No negative effects such as stun, burn, daze, slow]\n580F0000 00DB9540\n780F1000 000A8C58\n640F0000 00000000 00000000\n580F0000 00DB9540\n780F1000 000A8C5C\n640F0000 00000000 00000007\n580F0000 00DB9540\n780F1000 000A8C54\n680F0000 00000000 00000000\n580F0000 00DB9540\n780F1000 000A8C68\n640F0000 00000000 00000000\n580F0000 00DB9540\n780F1000 000A8C6C\n640F0000 00000000 00000007\n580F0000 00DB9540\n780F1000 000A8C64\n680F0000 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Materials Tab 2nd Slot 999]",
+            "content": "[Materials Tab 2nd Slot 999]\n04000000 0a2fbab0 000003E7\n\n"
+        },
+        {
+            "title": "[Materials Tab 3rd Slot 999]",
+            "content": "[Materials Tab 3rd Slot 999]\n04000000 0a2fbaf0 000003E7\n\n"
+        },
+        {
+            "title": "[Salvage Items Tab 1st Slot 999]",
+            "content": "[Salvage Items Tab 1st Slot 999]\n04000000 0a2fba90 000003E7\n\n"
+        },
+        {
+            "title": "[Salvage Items Tab 3rd Slot 999]",
+            "content": "[Salvage Items Tab 3rd Slot 999]\n04000000 0a2fbaa0 000003E7\n\n"
+        },
+        {
+            "title": "[Salvage Items Tab 5th Slot 999]",
+            "content": "[Salvage Items Tab 5th Slot 999]\n04000000 0a2fbac0 000003E7\n\n"
+        },
+        {
+            "title": "[Salvage Items Tab 6th Slot 999]",
+            "content": "[Salvage Items Tab 6th Slot 999]\n04000000 0a2fbad0 000003E7\n\n"
+        },
+        {
+            "title": "[Salvage Items Tab 8th Slot 999]",
+            "content": "[Salvage Items Tab 8th Slot 999]\n04000000 0a2fbae0 000003E7\n\n"
+        },
+        {
+            "title": "[attack super-lifting]",
+            "content": "[attack super-lifting]\n580F0000 00DB9540\n780F1000 000A8C78\n640F0000 00000000 00009999\n580F0000 00DB9540\n780F1000 000A8C7C\n640F0000 00000000 00000000\n580F0000 00DB9540\n780F1000 000A8C74\n680F0000 000003E7 000003E7"
+        }
+    ],
+    "ED2026B20685971F": [
+        {
+            "title": "[ZR+UP Baton Atk 999]",
+            "content": "[ZR+UP Baton Atk 999] \n80002200\n04000000 08e887ec 000003e7\n08000000 08e887f0 000003e7 000003e7\n08000000 08e887f8 000003e7 000003e7\n08000000 08e88800 000003e7 000003e7\n08000000 08e88808 000003e7 000003e7 \n20000000 \n\n"
+        },
+        {
+            "title": "[ZR+DOWN Baton Atk 999]",
+            "content": "[ZR+DOWN Baton Atk 999] \n80008200\n04000000 08e887ec 0001869f 08000000\n08e887f0 0001869f 0001869f 08000000\n08e887f8 0001869f 0001869f 08000000\n08e88800 0001869f 0001869f 08000000\n08e88808 0001869f 0001869f \n20000000 \n\n"
+        },
+        {
+            "title": "[ZR+UP Blaster Atk 999]",
+            "content": "[ZR+UP Blaster Atk 999] \n80002200\n04000000 08e8883c 000003e7 08000000\n08e88840 000003e7 000003e7 08000000\n08e88848 000003e7 000003e7 08000000\n08e88850 000003e7 000003e7 08000000\n08e88858 000003e7 000003e7 \n20000000 \n\n"
+        },
+        {
+            "title": "[ZR+DOWN Blaster Atk 99999]",
+            "content": "[ZR+DOWN Blaster Atk 99999] \n80008200\n04000000 08e8883c 0001869f 08000000\n08e88840 0001869f 0001869f 08000000\n08e88848 0001869f 0001869f 08000000\n08e88850 0001869f 0001869f 08000000\n08e88858 0001869f 0001869f\n20000000 \n\n"
+        },
+        {
+            "title": "[Legatus Limiter 99999]",
+            "content": "[Legatus Limiter 99999] \n04000000 08e889a4 0001869f\n08000000 08e889a8 0001869f 0001869f \n08000000 08e889b0 0001869f 0001869f\n08000000 08e889b8 0001869f 0001869f\n08000000 08e889c0 0001869f 0001869f"
+        }
+    ]
+}

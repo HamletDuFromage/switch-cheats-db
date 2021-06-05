@@ -1,1 +1,24 @@
-{}
+{
+    "6626E13268010C47": [
+        {
+            "title": "[Get Hit To Be Invulnerable]",
+            "content": "[Get Hit To Be Invulnerable]\n04000000 001A8004 D503201F\n\n"
+        },
+        {
+            "title": "[Infinite Mana]",
+            "content": "[Infinite Mana]\n04000000 001A8298 4B1F0101\n\n"
+        },
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n580F0000 0249E838\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n780F0000 00000024\n640F0000 00000000 40800000\n\n"
+        },
+        {
+            "title": "[Speed Up]",
+            "content": "[Speed Up]\n580F0000 0249E838\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n780F0000 00000028\n640F0000 00000000 00000020\n\n"
+        },
+        {
+            "title": "[Inf Jump]",
+            "content": "[Inf Jump]\n580F0000 0249E838\n580F1000 000000B8"
+        }
+    ]
+}

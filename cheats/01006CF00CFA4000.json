@@ -1,1 +1,28 @@
-{}
+{
+    "1ED621DD90BCD575": [
+        {
+            "title": "[*Money 8888888 @made by Jericoss]",
+            "content": "[*Money 8888888 @made by Jericoss]\n580F0000 05001350\n580F1000 00000050\n580F1000 00000008\n580F1000 000000F0\n580F1000 00000070\n580F1000 00000028\n780F0000 000000C0\n640F0000 00000000 0087A238\n\n"
+        },
+        {
+            "title": "[*P1 Hp @made by Jericoss ]",
+            "content": "[*P1 Hp @made by Jericoss ]\n580F0000 04EAC080\n580F1000 000000F8\n580F1000 00000090\n580F1000 00000008\n780F0000 00000338\n640F0000 00000000 445E0000\n\n"
+        },
+        {
+            "title": "[*P1 Mp@made by Jericoss]",
+            "content": "[*P1 Mp@made by Jericoss]\n580F0000 04EAC080\n580F1000 000000F8\n580F1000 00000090\n580F1000 00000008\n780F0000 0000033C\n640F0000 00000000 445E0000\n\n"
+        },
+        {
+            "title": "[*P1 Skill Points 88 @made by Jericoss]",
+            "content": "[*P1 Skill Points 88 @made by Jericoss]\n580F0000 05711EC0\n580F1000 00000030\n580F1000 00000918\n580F1000 00000248\n780F0000 00000414\n640F0000 00000000 00000058\n\n"
+        },
+        {
+            "title": "[*P1 Oxygen @made by Jericoss]",
+            "content": "[*P1 Oxygen @made by Jericoss]\n580F0000 04EAB7A0\n580F1000 00000020\n580F1000 00000810\n780F0000 00000130\n640F0000 00000000 3F800000\n\n"
+        },
+        {
+            "title": "[ZL selected character 500HP 500MP@tomswitch]",
+            "content": "[ZL selected character 500HP 500MP@tomswitch]\n80000100\n580F0000 04EAC080\n780F0000 00000338\n640F0000 00000000 43FA0000\n780F0000 00000004\n640F0000 00000000 43FA0000\n20000000\n"
+        }
+    ]
+}

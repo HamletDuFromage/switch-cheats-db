@@ -1,0 +1,66 @@
+{
+    "1E7696EE3BF2324E": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for ACA NEOGEO KOF 98 1.0.1]",
+            "content": "[From MAX-CHEATS.com by optantic for ACA NEOGEO KOF 98 1.0.1]\n\n"
+        },
+        {
+            "title": "[P1 Infinite HP]",
+            "content": "[P1 Infinite HP]\n01000000 01240158 00000067\n\n"
+        },
+        {
+            "title": "[P1 Infinite Super]",
+            "content": "[P1 Infinite Super]\n01000000 01240202 00000006\n\n"
+        },
+        {
+            "title": "[P2 NO HP]",
+            "content": "[P2 NO HP]\n01000000 01240358 00000000\n\n"
+        },
+        {
+            "title": "[P2 NO Super]",
+            "content": "[P2 NO Super]\n01000000 01240402 00000000"
+        }
+    ],
+    "A45E6532566B6592": [
+        {
+            "title": "[Inf Character Select Turn off after]",
+            "content": "[Inf Character Select Turn off after]\n01000000 01290D8A 00000048\n\n"
+        },
+        {
+            "title": "[Inf Round Time]",
+            "content": "[Inf Round Time]\n01000000 01292FF3 00000096\n\n"
+        },
+        {
+            "title": "[P1 Infinite HP]",
+            "content": "[P1 Infinite HP]\n01000000 012909F0 00000067\n\n"
+        },
+        {
+            "title": "[P1 Inf Super Advanced]",
+            "content": "[P1 Inf Super Advanced]\n01000000 012909A1 00000080\n\n"
+        },
+        {
+            "title": "[P1 Inf Super Extra]",
+            "content": "[P1 Inf Super Extra]\n01000000 012909A1 0000009C\n01000000 012909A3 0000003E\n\n"
+        },
+        {
+            "title": "[P1 Never Dizzy]",
+            "content": "[P1 Never Dizzy]\n01000000 012909F6 00000067\n\n"
+        },
+        {
+            "title": "[P2 NO Super Advanced]",
+            "content": "[P2 NO Super Advanced]\n01000000 01290C9A 00000000\n01000000 01290BA1 00000000\n\n"
+        },
+        {
+            "title": "[P2 NO HP]",
+            "content": "[P2 NO HP]\n01000000 01290BF0 00000000\n\n"
+        },
+        {
+            "title": "[CPU Always Dizzy]",
+            "content": "[CPU Always Dizzy]\n01000000 01290BF6 00000000\n\n"
+        },
+        {
+            "title": "[hitanywhere]",
+            "content": "[hitanywhere]\n04000000 00009A3B04 10A66002"
+        }
+    ]
+}

@@ -1,1 +1,142 @@
-{}
+{
+    "0FD4CFFBE940D846": [
+        {
+            "title": "[UNL Nitro]",
+            "content": "[UNL Nitro]\n04000000 002C6FC0 52800120\n\n"
+        },
+        {
+            "title": "[UNL Fuel]",
+            "content": "[UNL Fuel]\n04000000 001F7F9C 1E282808\n\n"
+        },
+        {
+            "title": "[All Cars Unlocked]",
+            "content": "[All Cars Unlocked]\n04000000 00132DA0 52800008\n\n"
+        },
+        {
+            "title": "[Race Pos1]",
+            "content": "[Race Pos1]\n04000000 002C10B0 52800000\n\n"
+        },
+        {
+            "title": "[All Race Coins Collected*]",
+            "content": "[All Race Coins Collected*]\n04000000 0011E350 B9405C00\n\n"
+        },
+        {
+            "title": "[No Speed loss]",
+            "content": "[No Speed loss]\n04000000 001F1580 1E2703E0\n04000000 001F15A0 1E2703E0\n04000000 001F15C0 1E2703E0"
+        }
+    ],
+    "FC03E9C290B99944": [
+        {
+            "title": "[Infinite Nitro (ON)]",
+            "content": "[Infinite Nitro (ON)]\n04000000 002FD2B0 52800120\n"
+        },
+        {
+            "title": "[Infinite Nitro (OFF)]",
+            "content": "[Infinite Nitro (OFF)]\n04000000 002FD2B0 B9402000\n\n"
+        },
+        {
+            "title": "[Infinite Fuel (ON)]",
+            "content": "[Infinite Fuel (ON)]\n04000000 0117D11C 1E282808\n"
+        },
+        {
+            "title": "[Infinite Fuel (OFF)]",
+            "content": "[Infinite Fuel (OFF)]\n04000000 0117D11C 1E283808\n\n"
+        },
+        {
+            "title": "[Always first place (ON)]",
+            "content": "[Always first place (ON)]\n04000000 002F7280 52800000\n"
+        },
+        {
+            "title": "[Always first place (OFF)]",
+            "content": "[Always first place (OFF)]\n04000000 002F7280 B9410400\n\n"
+        },
+        {
+            "title": "[All Race Coins Collected (ON)]",
+            "content": "[All Race Coins Collected (ON)]\n04000000 000DFF30 B9405C00\n"
+        },
+        {
+            "title": "[All Race Coins Collected (OFF)]",
+            "content": "[All Race Coins Collected (OFF)]\n04000000 000DFF30 B9405800\n\n"
+        },
+        {
+            "title": "[Unlock all cars]",
+            "content": "[Unlock all cars]\n04000000 000F567C 52800008\n\n"
+        },
+        {
+            "title": "[Ghostization (ON)]",
+            "content": "[Ghostization (ON)]\n04000000 002F9DA0 D65F03C0\n"
+        },
+        {
+            "title": "[Ghostization (OFF)]",
+            "content": "[Ghostization (OFF)]\n04000000 002F9DA0 D61F00A0"
+        }
+    ],
+    "E807E56DB799DA40": [
+        {
+            "title": "[UNL Nitro]",
+            "content": "[UNL Nitro]\n04000000 0028F0D0 52800120\n\n"
+        },
+        {
+            "title": "[UNL Fuel]",
+            "content": "[UNL Fuel]\n04000000 002A83DC 1E282808\n\n"
+        },
+        {
+            "title": "[All Cars Unlocked]",
+            "content": "[All Cars Unlocked]\n04000000 000F42AC 52800008\n\n"
+        },
+        {
+            "title": "[Race Pos1]",
+            "content": "[Race Pos1]\n04000000 001E2200 52800000\n\n"
+        },
+        {
+            "title": "[No Collision]",
+            "content": "[No Collision]\n04000000 001E56F0 D65F03C0\n\n"
+        },
+        {
+            "title": "[All Race Coins Collected*]",
+            "content": "[All Race Coins Collected*]\n04000000 000DF2A0 B9405C00\n\n"
+        },
+        {
+            "title": "[No Speed loss]",
+            "content": "[No Speed loss]\n04000000 002A1AF0 1E2703E0\n04000000 002A1B00 1E2703E0\n04000000 002A1B10 1E2703E0"
+        }
+    ],
+    "C4155F1414558E45": [
+        {
+            "title": "[Infinite Nitro (ON)]",
+            "content": "[Infinite Nitro (ON)]\n04000000 002DB360 52800120\n"
+        },
+        {
+            "title": "[Infinite Nitro (OFF)]",
+            "content": "[Infinite Nitro (OFF)]\n04000000 002DB360 B9402000\n\n"
+        },
+        {
+            "title": "[Infinite Fuel (ON)]",
+            "content": "[Infinite Fuel (ON)]\n04000000 0014375C 1E282808\n"
+        },
+        {
+            "title": "[Infinite Fuel (OFF)]",
+            "content": "[Infinite Fuel (OFF)]\n04000000 0014375C 1E283808\n\n"
+        },
+        {
+            "title": "[Always first place (ON)]",
+            "content": "[Always first place (ON)]\n04000000 002D5330 52800000\n"
+        },
+        {
+            "title": "[Always first place (OFF)]",
+            "content": "[Always first place (OFF)]\n04000000 002D5330 B9410400\n\n"
+        },
+        {
+            "title": "[Unlock all cars]",
+            "content": "[Unlock all cars]\n04000000 000F575C 52800008\n\n"
+        },
+        {
+            "title": "[Ghostization (ON)]",
+            "content": "[Ghostization (ON)]\n04000000 002D7E50 D65F03C0\n"
+        },
+        {
+            "title": "[Ghostization (OFF)]",
+            "content": "[Ghostization (OFF)]\n04000000 002D7E50 D61F00A0"
+        }
+    ]
+}

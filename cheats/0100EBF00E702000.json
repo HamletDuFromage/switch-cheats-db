@@ -1,1 +1,96 @@
-{}
+{
+    "5EC132F471291B7E": [
+        {
+            "title": "[P1 Max Hp]",
+            "content": "[P1 Max Hp]\n580F0000 01CD5B90\n780F1000 00000284\n640F0000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[P1 Inf Hp]",
+            "content": "[P1 Inf Hp]\n580F0000 01CD5B90\n780F1000 00000288\n640F0000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[2p Inf HP]",
+            "content": "[2p Inf HP]\n580F0000 01CD5B90\n780F1000 00000224\n640F0000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[2p Max HP]",
+            "content": "[2p Max HP]\n\n580F0000 01CD5B90\n780F1000 00000228\n640F0000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[3P max HP]",
+            "content": "[3P max HP]\n580F0000 01CD5B90\n780F1000 000001C8\n640F0000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[3P Inf HP]",
+            "content": "[3P Inf HP]\n580F0000 01CD5B90\n780F1000 000001C4\n640F0000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[1p Inf MP]",
+            "content": "[1p Inf MP]\n580F0000 01CD5B90\n780F1000 0000027E\n640F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[1p Max MP]",
+            "content": "[1p Max MP]\n580F0000 01CD5B90\n780F1000 0000027C\n620F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[2p Max MP]",
+            "content": "[2p Max MP]\n580F0000 01CD5B90\n780F1000 0000021E\n620F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[2p Inf MP]",
+            "content": "[2p Inf MP]\n580F0000 01CD5B90\n780F1000 0000021C\n620F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[3P Inf MP]",
+            "content": "[3P Inf MP]\n580F0000 01CD5B90\n780F1000 00000132\n620F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[3P Inf MP]",
+            "content": "[3P Inf MP]\n580F0000 01CD5B90\n780F1000 000001BC\n620F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[1P max exp]",
+            "content": "[1P max exp]\n580F0000 01CD5B90\n780F1000 00000290\n640F0000 00000000 0098967F\n\n"
+        },
+        {
+            "title": "[2P max exp]",
+            "content": "[2P max exp]\n580F0000 01CD5B90\n780F1000 00000230\n640F0000 00000000 0098967F\n\n"
+        },
+        {
+            "title": "[3P max exp]",
+            "content": "[3P max exp]\n580F0000 01CD5B90\n780F1000 000001D0\n640F0000 00000000 0098967F\n\n"
+        },
+        {
+            "title": "[Max Hp and INF HP all char]",
+            "content": "[Max Hp and INF HP all char]\n580F0000 01CD5B90\n780F1000 00000284\n300E0000 00000006\n620F0000 00000000 0000270F\n780F0000 00000060\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[Max MP and INF MP all char]",
+            "content": "[Max MP and INF MP all char]\n580F0000 01CD5B90\n780F1000 0000027C\n300E0000 00000006\n620F0000 00000000 000003E7\n780F0000 00000060\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[MAX exp all char]",
+            "content": "[MAX exp all char]\n580F0000 01CD5B90\n780F1000 00000290\n300E0000 00000006\n640F0000 00000000 05F5E0FF\n780F0000 00000060\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[LVL 255 all char]",
+            "content": "[LVL 255 all char]\n580F0000 01CD5B90\n780F1000 00000278\n300E0000 00000006\n640F0000 00000000 05F5E0FF\n780F0000 00000060\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[999 max Skill point all char]",
+            "content": "[999 max Skill point all char]\n580F0000 01CD5BB0\n780F1000 0000027A\n300E0000 00000006\n620F0000 00000000 000003E7\n780F0000 000000DC\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[PLAYTIME always 00]",
+            "content": "[PLAYTIME always 00]\n580F0000 01CD5BB0\n780F1000 00000BD0\n300E0000 00000006\n610F0000 00000000 00000000\n780F0000 000000DC\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[999999 Fol]",
+            "content": "[999999 Fol]\n580F0000 01CD5B90\n780F1000 00000F78\n640F0000 00000000 000F423F  \n\n"
+        },
+        {
+            "title": "[999 max Skill point all char]",
+            "content": "[999 max Skill point all char]\n580F0000 01CD5BB0\n780F1000 0000027A\n300E0000 00000006\n640F0000 00000000 000003E7\n780F0000 000000DC\n310E0000\n20000000\n"
+        }
+    ]
+}

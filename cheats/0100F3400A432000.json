@@ -1,1 +1,34 @@
-{}
+{
+    "9BF460FB87A78144": [
+        {
+            "title": "[From MAX-CHEATS.com by Lennux for TOKI Retrollector Edition]",
+            "content": "[From MAX-CHEATS.com by Lennux for TOKI Retrollector Edition]\n\n"
+        },
+        {
+            "title": "[Infinity Lives]",
+            "content": "[Infinity Lives]\n011F0000 01428710 00000063"
+        }
+    ],
+    "1838099AAE00B548": [
+        {
+            "title": "[From MAX-CHEATS.com by Djchubby for Toki]",
+            "content": "[From MAX-CHEATS.com by Djchubby for Toki]\n\n"
+        },
+        {
+            "title": "[Vite infinite]",
+            "content": "[Vite infinite]\n04100000 01431630 00000063\n\n"
+        },
+        {
+            "title": "[Crediti infiniti]",
+            "content": "[Crediti infiniti]\n04100000 014315d0 00000063\n\n"
+        },
+        {
+            "title": "[999 monete]",
+            "content": "[999 monete]\n04100000 014315f0 000003e7\n04100000 01431610 000003e7\n\n"
+        },
+        {
+            "title": "[1p invicible L pad off]",
+            "content": "[1p invicible L pad off]\n04000000 00FFF5B0 D65F03C0\n80000040\n04000000 00FFF5B0 FC1C0FE8\n20000000"
+        }
+    ]
+}

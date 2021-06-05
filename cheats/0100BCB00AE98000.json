@@ -1,1 +1,78 @@
-{}
+{
+    "ABAC5A08624F0306": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for GUNBIRD2 for Nintendo Switch 1.0.0]",
+            "content": "[From MAX-CHEATS.com by optantic for GUNBIRD2 for Nintendo Switch 1.0.0]\n\n"
+        },
+        {
+            "title": "[P1 Infinite Lives]",
+            "content": "[P1 Infinite Lives]\n01000000 014a8d38 00000009\n\n"
+        },
+        {
+            "title": "[P1 Infinite Bombs]",
+            "content": "[P1 Infinite Bombs]\n01000000 014a8d3a 00000009\n\n"
+        },
+        {
+            "title": "[P1 Max Power]",
+            "content": "[P1 Max Power]\n01000000 014a8d66 00000003\n\n"
+        },
+        {
+            "title": "[P1 Max Special Bar]",
+            "content": "[P1 Max Special Bar]\n02000000 014a8d82 00007FFF\n\n"
+        },
+        {
+            "title": "[P2 Infinite Lives]",
+            "content": "[P2 Infinite Lives]\n01000000 014a8df0 00000009\n\n"
+        },
+        {
+            "title": "[P2 Infinite Bombs]",
+            "content": "[P2 Infinite Bombs]\n01000000 014a8df2 00000009\n\n"
+        },
+        {
+            "title": "[P2 Max Power]",
+            "content": "[P2 Max Power]\n01000000 014a8e1e 00000003\n\n"
+        },
+        {
+            "title": "[P2 Max Special Bar]",
+            "content": "[P2 Max Special Bar]\n02000000 014a8e3a 00007FFF"
+        }
+    ],
+    "266C41C9585E9A14": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for GUNBIRD2 for Nintendo Switch 1.0.1]",
+            "content": "[From MAX-CHEATS.com by optantic for GUNBIRD2 for Nintendo Switch 1.0.1]\n\n"
+        },
+        {
+            "title": "[P1 Infinite Lives]",
+            "content": "[P1 Infinite Lives]\n01000000 014a8d38 00000009\n\n"
+        },
+        {
+            "title": "[P1 Infinite Bombs]",
+            "content": "[P1 Infinite Bombs]\n01000000 014a8d3a 00000009\n\n"
+        },
+        {
+            "title": "[P1 Max Power]",
+            "content": "[P1 Max Power]\n01000000 014a8d66 00000003\n\n"
+        },
+        {
+            "title": "[P1 Max Special Bar]",
+            "content": "[P1 Max Special Bar]\n02000000 014a8d82 00007FFF\n\n"
+        },
+        {
+            "title": "[P2 Infinite Lives]",
+            "content": "[P2 Infinite Lives]\n01000000 014a8df0 00000009\n\n"
+        },
+        {
+            "title": "[P2 Infinite Bombs]",
+            "content": "[P2 Infinite Bombs]\n01000000 014a8df2 00000009\n\n"
+        },
+        {
+            "title": "[P2 Max Power]",
+            "content": "[P2 Max Power]\n01000000 014a8e1e 00000003\n\n"
+        },
+        {
+            "title": "[P2 Max Special Bar]",
+            "content": "[P2 Max Special Bar]\n02000000 014a8e3a 00007FFF"
+        }
+    ]
+}

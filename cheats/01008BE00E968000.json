@@ -1,0 +1,98 @@
+{
+    "B913FF9F5961F043": [
+        {
+            "title": "[Yellow Cat Infinite HP v 1.0 optantic]",
+            "content": "[Yellow Cat Infinite HP v 1.0 optantic]\n580f0000 0377e6c0\n580f1000 000000b8\n580f1000 00000010\n580f1000 00000258\n580f1000 00000058\n580f1000 00000170\n780f0000 00000010\n620f0000 00000000 000003e7\n\n"
+        },
+        {
+            "title": "[Yellow Cat Infinite MP]",
+            "content": "[Yellow Cat Infinite MP]\n580f0000 0377e6c0\n580f1000 000000b8\n580f1000 00000010\n580f1000 00000258\n580f1000 00000058\n580f1000 000001e8\n780f0000 00000010\n620f0000 00000000 000003e7\n\n"
+        },
+        {
+            "title": "[Yellow Cat ATK 999]",
+            "content": "[Yellow Cat ATK 999]\n580f0000 0377e6c0\n580f1000 000000b8\n580f1000 00000010\n580f1000 00000258\n580f1000 00000058\n580f1000 000003b8\n580f1000 00000020\n780f0000 00000010\n620f0000 00000000 000003e7\n\n"
+        },
+        {
+            "title": "[Yellow Cat MP ATK 999]",
+            "content": "[Yellow Cat MP ATK 999]\n580f0000 0377e6c0\n580f1000 000000b8\n580f1000 00000010\n580f1000 00000258\n580f1000 00000058\n580f1000 000003b8\n580f1000 00000028\n780f0000 00000010\n620f0000 00000000 000003e7\n\n"
+        },
+        {
+            "title": "[Yellow Cat Shield 999]",
+            "content": "[Yellow Cat Shield 999]\n580f0000 0377e6c0\n580f1000 000000b8\n580f1000 00000010\n580f1000 00000258\n580f1000 00000058\n580f1000 000003b8\n580f1000 00000030\n780f0000 00000010\n620f0000 00000000 000003e7\n\n"
+        },
+        {
+            "title": "[White Cat Infinite HP]",
+            "content": "[White Cat Infinite HP]\n580f0000 0377e6c0\n580f1000 000000b8\n580f1000 00000010\n580f1000 00000260\n580f1000 00000058\n580f1000 00000170\n780f0000 00000010\n620f0000 00000000 000003e7\n\n"
+        },
+        {
+            "title": "[White Cat Infinite MP]",
+            "content": "[White Cat Infinite MP]\n580f0000 0377e6c0\n580f1000 000000b8\n580f1000 00000010\n580f1000 00000260\n580f1000 00000058\n580f1000 000001e8\n780f0000 00000010\n620f0000 00000000 000003e7\n\n"
+        },
+        {
+            "title": "[White Cat ATK 999]",
+            "content": "[White Cat ATK 999]\n580f0000 0377e6c0\n580f1000 000000b8\n580f1000 00000010\n580f1000 00000260\n580f1000 00000058\n580f1000 000003b8\n580f1000 00000020\n780f0000 00000010\n620f0000 00000000 000003e7\n\n"
+        },
+        {
+            "title": "[White Cat MP ATK 999]",
+            "content": "[White Cat MP ATK 999]\n580f0000 0377e6c0\n580f1000 000000b8\n580f1000 00000010\n580f1000 00000260\n580f1000 00000058\n580f1000 000003b8\n580f1000 00000028\n780f0000 00000010\n620f0000 00000000 000003e7\n\n"
+        },
+        {
+            "title": "[White Cat Shield 999]",
+            "content": "[White Cat Shield 999]\n580f0000 0377e6c0\n580f1000 000000b8\n580f1000 00000010\n580f1000 00000260\n580f1000 00000058\n580f1000 000003b8\n580f1000 00000030\n780f0000 00000010\n620f0000 00000000 000003e7\n\n"
+        },
+        {
+            "title": "[Gold Coins 9999999]",
+            "content": "[Gold Coins 9999999]\n580f0000 0377ff70\n580f1000 000000b8\n580f1000 00000140\n580f1000 00000160\n580f1000 00000058\n580f1000 00000120\n780f0000 00000010\n640f0000 00000000 0098967f\n\n"
+        },
+        {
+            "title": "[EXP 9999 Quick Level up to 35]",
+            "content": "[EXP 9999 Quick Level up to 35]\n580f0000 037806f0\n580f1000 000000b8\n580f1000 00000070\n580f1000 00000100\n580f1000 00000058\n580f1000 000000c8\n780f0000 00000010\n640f0000 00000000 0000270f\n\n"
+        },
+        {
+            "title": "[EXP 99999 Quick Level up to Unknown]",
+            "content": "[EXP 99999 Quick Level up to Unknown]\n580f0000 037806f0\n580f1000 000000b8\n580f1000 00000070\n580f1000 00000100\n580f1000 00000058\n580f1000 000000c8\n780f0000 00000010\n640f0000 00000000 0001869f"
+        }
+    ],
+    "83E1094D9F4CE147": [
+        {
+            "title": "[01# Inf Health]",
+            "content": "[01# Inf Health]\n04000000 013D4F10 D65F03C0\n\n"
+        },
+        {
+            "title": "[Inf Health (off)]",
+            "content": "[Inf Health (off)]\n04000000 013D4F10 6DB92BEB\n\n"
+        },
+        {
+            "title": "[02# Inf Mana]",
+            "content": "[02# Inf Mana]\n04000000 0129F4EC 52807CF4\n\n"
+        },
+        {
+            "title": "[Inf Mana (off)]",
+            "content": "[Inf Mana (off)]\n04000000 0129F4EC 2A0103F4\n\n"
+        },
+        {
+            "title": "[03# Money multiplier X16]",
+            "content": "[03# Money multiplier X16]\n04000000 0139E6C0 0B132000\n\n"
+        },
+        {
+            "title": "[Money multiplier (off)]",
+            "content": "[Money multiplier (off)]\n04000000 0139E6C0 1B137C00\n\n"
+        },
+        {
+            "title": "[04# EXP Multiplier]",
+            "content": "[04# EXP Multiplier]\n04000000 0139E624 1E27D000\n04000000 0139E630 1E27D001\n\n"
+        },
+        {
+            "title": "[EXP Multiplier (off)]",
+            "content": "[EXP Multiplier (off)]\n04000000 0139E624 1E220280\n04000000 0139E630 1E211800\n\n"
+        },
+        {
+            "title": "[05# Instant Level 737]",
+            "content": "[05# Instant Level 737]\n04000000 0143B20C 000F423F\n04000000 0143B0EC 18000914\n\n"
+        },
+        {
+            "title": "[Instant Level Up]",
+            "content": "[Instant Level Up]\n04000000 0143B0EC 2A0103F4"
+        }
+    ]
+}

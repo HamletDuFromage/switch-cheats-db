@@ -1,0 +1,42 @@
+{
+    "BB57E52F01EBE5E8": [
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n040F0000 01283040 9AAA0007\n20000000\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n010F0000 01283090 00000010"
+        }
+    ],
+    "F6B3ABA9CCF21914": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for ACA NEOGEO METAL SLUG 4 1.0.1]",
+            "content": "[From MAX-CHEATS.com by optantic for ACA NEOGEO METAL SLUG 4 1.0.1]\n\n"
+        },
+        {
+            "title": "[P1 Infinite Lives]",
+            "content": "[P1 Infinite Lives]\n01000000 01282dd8 00000009\n\n"
+        },
+        {
+            "title": "[P1 Infinite Ammo]",
+            "content": "[P1 Infinite Ammo]\n02000000 01291142 0000ffff\n\n"
+        },
+        {
+            "title": "[P1 Infinite Bombs]",
+            "content": "[P1 Infinite Bombs]\n01000000 0129113c 000000ff\n\n"
+        },
+        {
+            "title": "[P2 Infinite Lives]",
+            "content": "[P2 Infinite Lives]\n01000000 01282e88 00000009\n\n"
+        },
+        {
+            "title": "[P2 Infinite Ammo]",
+            "content": "[P2 Infinite Ammo]\n02000000 01291152 0000ffff\n\n"
+        },
+        {
+            "title": "[P2 Infinite Bombs]",
+            "content": "[P2 Infinite Bombs]\n01000000 0129114c 000000ff"
+        }
+    ]
+}

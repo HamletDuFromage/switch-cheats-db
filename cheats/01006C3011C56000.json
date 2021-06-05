@@ -1,1 +1,26 @@
-{}
+{
+    "3EE273CEB6829739": [
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n040F0000 01BF0B10 00000087\n\n"
+        },
+        {
+            "title": "[Inf SHIELD]",
+            "content": "[Inf SHIELD]\n040F0000 01BF0B08 00000003\n\n"
+        },
+        {
+            "title": "[Inf Life]",
+            "content": "[Inf Life]\n040F0000 01BF0EA4 00000008\n\n"
+        },
+        {
+            "title": "[Inf CHARGE (Hold ZL)]",
+            "content": "[Inf CHARGE (Hold ZL)]\n80000100\n040F0000 01BF0ED8 0000044C\n040F0000 01BF0EE0 000000FF\n20000000"
+        }
+    ],
+    "1C7C2B75926D0947": [
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000001\n580F0000 02749250\n580F1000 000000B8\n580F1000 00000000\n580F1000 000001F8\n780F0000 00000098\n640F0000 00000000 3E800000\n20000000"
+        }
+    ]
+}

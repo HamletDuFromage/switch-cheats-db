@@ -1,0 +1,24 @@
+{
+    "49690BA2EFDCD7A7": [
+        {
+            "title": "[From MAX-CHEATS.com by eco95 for Pokken Tournament DX]",
+            "content": "[From MAX-CHEATS.com by eco95 for Pokken Tournament DX]\n\n"
+        },
+        {
+            "title": "[#01# Player Inf HP]",
+            "content": "[#01# Player Inf HP]\n580F0000 0169FE40\n580F1000 000003D8\n780F0000 000005A8\n640F0000 00000000 44160000\n780f0000 00000004\n680f0000 00000000 44160000\n\n"
+        },
+        {
+            "title": "[#02# Player Inf Super]",
+            "content": "[#02# Player Inf Super]\n580F0000 0169FE40\n580F1000 000003D8\n780F0000 000006F8\n640F0000 00000000 43C80000\n780f0000 00000004\n680f0000 00000000 43C80000\n\n"
+        },
+        {
+            "title": "[#03# CPU 1 Hit Kill]",
+            "content": "[#03# CPU 1 Hit Kill]\n580F0000 0169FE40\n580F1000 00001A08\n780F0000 0000009C\n640F0000 00000000 40400000\n\n"
+        },
+        {
+            "title": "[#04# CPU No Super]",
+            "content": "[#04# CPU No Super]\n580F0000 0169FE40\n580F1000 00001A08\n780F0000 000001E8\n640F0000 00000000 00000000"
+        }
+    ]
+}

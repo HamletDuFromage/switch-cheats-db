@@ -1,1 +1,60 @@
-{}
+{
+    "A65E31F83F2CBB54": [
+        {
+            "title": "[SFA Inf Time INGAME ONLY]",
+            "content": "[SFA Inf Time INGAME ONLY]\n580F0000 006758E0\n780F1000 0450B1F7\n610F0000 00000000 00000063\n\n"
+        },
+        {
+            "title": "[SFA 1P Inf Health INGAME ONLY Works]",
+            "content": "[SFA 1P Inf Health INGAME ONLY Works]\n580F0000 006758E0\n780F1000 0450DBBF\n610F0000 00000000 00000090\n\n"
+        },
+        {
+            "title": "[SFA 1PInf Super INGAME ONLY]",
+            "content": "[SFA 1PInf Super INGAME ONLY]\n580F0000 006758E0\n780F1000 0450DB41\n610F0000 00000000 00000090\n\n"
+        },
+        {
+            "title": "[SFA 1P is Akuma INGAME ONLY]",
+            "content": "[SFA 1P is Akuma INGAME ONLY]\n580F0000 006758E0\n780F1000 0450DB5E\n610F0000 00000000 00000002\n\n"
+        },
+        {
+            "title": "[SFA 1P is Bison INGAME ONLY]",
+            "content": "[SFA 1P is Bison INGAME ONLY]\n580F0000 006758E0\n780F1000 0450DB5E\n610F0000 00000000 0000000A\n\n"
+        },
+        {
+            "title": "[SFA 1P is Dan INGAME ONLY]",
+            "content": "[SFA 1P is Dan INGAME ONLY]\n580F0000 006758E0\n780F1000 0450DB5E\n610F0000 00000000 0000000C\n\n"
+        },
+        {
+            "title": "[sfiii3 Inf Char Sel]",
+            "content": "[sfiii3 Inf Char Sel]\n580f0000 0066c420\n580f1000 00024208\n580f1000 00000050\n580f1000 00013df0\n580f1000 00000c00\n780f0000 000154FB\n610f0000 00000000 00000099\n\n"
+        },
+        {
+            "title": "[sfiii3 Inf Time]",
+            "content": "[sfiii3 Inf Time]\n580f0000 0066c420\n580f1000 00024208\n580f1000 00000050\n580f1000 00013df0\n580f1000 00000c00\n780f0000 00011377\n610f0000 00000000 00000063\n\n"
+        },
+        {
+            "title": "[sfiii3 P1 Inf HP]",
+            "content": "[sfiii3 P1 Inf HP]\n580f0000 0066c420\n580f1000 00024208\n580f1000 00000050\n580f1000 00013df0\n580f1000 00000c00\n780f0000 00068d0b\n610f0000 00000000 000000a0\n\n"
+        },
+        {
+            "title": "[sfiii3 P1 Inf SP]",
+            "content": "[sfiii3 P1 Inf SP]\n580f0000 0066c420\n580f1000 00024208\n580f1000 00000050\n580f1000 00013df0\n580f1000 00000c00\n780f0000 000695bc\n640f0000 00000000 03000300\n\n"
+        },
+        {
+            "title": "[sfiii3 1P Nver Stun]",
+            "content": "[sfiii3 1P Nver Stun]\n580f0000 0066c420\n580f1000 00024208\n580f1000 00000050\n580f1000 00013df0\n580f1000 00000c00\n780f0000 000695FD\n610f0000 00000000 00000000\n\n"
+        },
+        {
+            "title": "[sfiii3 P2 No SP]",
+            "content": "[sfiii3 P2 No SP]\n580f0000 0066c420\n580f1000 00024208\n580f1000 00000050\n580f1000 00013df0\n580f1000 00000c00\n780f0000 000695eb\n610f0000 00000000 00000000\n\n"
+        },
+        {
+            "title": "[sfiii3 P2 No HP]",
+            "content": "[sfiii3 P2 No HP]\n580f0000 0066c420\n580f1000 00024208\n580f1000 00000050\n580f1000 00013df0\n580f1000 00000c00\n780f0000 000691a3\n610f0000 00000000 00000000\n\n"
+        },
+        {
+            "title": "[sfiii3 CPU alwys Stun]",
+            "content": "[sfiii3 CPU alwys Stun]\n580f0000 0066c420\n580f1000 00024208\n580f1000 00000050\n580f1000 00013df0\n580f1000 00000c00\n780f0000 00069611\n610f0000 00000000 00000060\n\n"
+        }
+    ]
+}

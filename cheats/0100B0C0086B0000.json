@@ -1,1 +1,46 @@
-{}
+{
+    "3469A1B2E0FEA93C": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for Mega Man 11 1.0.0]",
+            "content": "[From MAX-CHEATS.com by optantic for Mega Man 11 1.0.0]\n\n"
+        },
+        {
+            "title": "[Screws 999999]",
+            "content": "[Screws 999999]\n04100000 0d52c5e8 000F423F\n\n"
+        },
+        {
+            "title": "[Have All Weapons]",
+            "content": "[Have All Weapons]\n02100000 0d52c9C8 000007FF\n\n"
+        },
+        {
+            "title": "[Infinite HP]",
+            "content": "[Infinite HP]\n580f0000 00D68278\n580f1000 000001C8\n780f0000 000018BC\n640f0000 00000000 00000038\n\n"
+        },
+        {
+            "title": "[inf shot hit]",
+            "content": "[inf shot hit]\n04000000 00205924 D65F03C0"
+        }
+    ],
+    "047FDD0C5AF5F1C5": [
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n580f0000 00D68278\n580f1000 000001C8\n780f0000 000018E4\n640f0000 00000000 42000000\n20000000\n\n"
+        },
+        {
+            "title": "[Speed Up]",
+            "content": "[Speed Up]\n580f0000 00D68278\n580f1000 000001C8\n780f0000 000005BC\n640f0000 00000000 40000000\n780f0000 00000DF4\n640f0000 00000000 40000000\n\n"
+        },
+        {
+            "title": "[Size Up]",
+            "content": "[Size Up]\n580f0000 00D68278\n580f1000 000001C8\n780f0000 00000070\n300E0000 00000003\n640f0000 00000000 40000000\n780F0000 00000004\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n580f0000 00D68278\n580f1000 000001C8\n780f0000 00002E50\n640f0000 00000000 42AA0000\n\n"
+        },
+        {
+            "title": "[Rapid Fire]",
+            "content": "[Rapid Fire]\n580f0000 00D68278\n580f1000 000001C8\n780f0000 000030C0\n640f0000 00000000 00000000"
+        }
+    ]
+}

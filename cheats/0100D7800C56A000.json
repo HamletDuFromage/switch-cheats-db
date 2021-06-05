@@ -1,1 +1,24 @@
-{}
+{
+    "76AFB6A1DB0A65D9": [
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n580F0000 011801A0\n580F1000 00000048\n780F0000 000000E0\n680F0000 0000270F 0000270F\n\n"
+        },
+        {
+            "title": "[Inf Manpuku]",
+            "content": "[Inf Manpuku]\n580F0000 011801A0\n580F1000 00000048\n780F0000 000000EC\n620F0000 00000000 0000FFFF\n\n"
+        },
+        {
+            "title": "[Max Power]",
+            "content": "[Max Power]\n580F0000 011801A0\n580F1000 00000048\n780F0000 000000EE\n620F0000 00000000 0000FFFF\n\n"
+        },
+        {
+            "title": "[Max Money]",
+            "content": "[Max Money]\n580F0000 01158E28\n780F0000 000000C8\n640F0000 00000000 05F5E0FF\n\n"
+        },
+        {
+            "title": "[Inf P]",
+            "content": "[Inf P]   \n580F0000 01158E28\n780F0000 00000122\n640F0000 00000000 0000FFFF"
+        }
+    ]
+}

@@ -1,1 +1,44 @@
-{}
+{
+    "EE81FDF68D947BDE": [
+        {
+            "title": "[Inf Lives]",
+            "content": "[Inf Lives]\n011F0000 7A0702A0 00000008\n\n"
+        },
+        {
+            "title": "[Inf Barrier]",
+            "content": "[Inf Barrier]\n011F0000 7A0700B5 00000020\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n011F0000 7A070800 00000001\n011F0000 7A07080A 00000002\n011F0000 7A070819 00000000\n\n"
+        },
+        {
+            "title": "[Speed Up]",
+            "content": "[Speed Up]\n011F0000 7A07080E 00000006\n\n"
+        },
+        {
+            "title": "[Constant Missile]",
+            "content": "[Constant Missile]\n011F0000 7A070825 00000001\n\n"
+        },
+        {
+            "title": "[Constant Laser]",
+            "content": "[Constant Laser]\n011F0000 7A070827 00000002\n\n"
+        },
+        {
+            "title": "[Inf 5 Coins (Hold L)]",
+            "content": "[Inf 5 Coins (Hold L)]\n80000040\n011F0000 7A0702AC 00000005\n20000000\n\n"
+        },
+        {
+            "title": "[Inf 6 Coins (Hold R)]",
+            "content": "[Inf 6 Coins (Hold R)]\n80000080\n011F0000 7A0702AC 00000006\n20000000\n\n"
+        },
+        {
+            "title": "[hitanywhere]",
+            "content": "[hitanywhere]\n021f0000 7a01f514 00002060\n021f0000 7a01f720 00001a60\n\n"
+        },
+        {
+            "title": "[Get Items From Anywhere]",
+            "content": "[Get Items From Anywhere]\n021f0000 7a019444 0000714e\n021f0000 7a019458 0000714e"
+        }
+    ]
+}

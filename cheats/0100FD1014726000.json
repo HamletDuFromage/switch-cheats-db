@@ -1,0 +1,110 @@
+{
+    "CC01700D7BC40CC9": [
+        {
+            "title": "[Inf Gold 99999]",
+            "content": "[Inf Gold 99999]\n04000000 003e4754 0001869F"
+        }
+    ],
+    "D0B3501DC634C120": [
+        {
+            "title": "[1p inf health]",
+            "content": "[1p inf health]\n04000000 000C06F0 D65F03C0\n\n"
+        },
+        {
+            "title": "[1p stealth]",
+            "content": "[1p stealth]\n04000000 000A4EF0 1E283000\n\n"
+        },
+        {
+            "title": "[Inf Gold 99999]",
+            "content": "[Inf Gold 99999]\n04000000 003e4754 0001869F\n\n"
+        },
+        {
+            "title": "[ Inf Slot 1 ]",
+            "content": "[ Inf Slot 1 ]\n04000000 003e5004 00000004\n\n"
+        },
+        {
+            "title": "[ Inf Slot 2]",
+            "content": "[ Inf Slot 2]\n04000000 003e4fc4 00000004\n\n"
+        },
+        {
+            "title": "[ Inf Slot 3]",
+            "content": "[ Inf Slot 3]\n04000000 003e4fe4 00000004\n\n"
+        },
+        {
+            "title": "[ Inf Slot 4]",
+            "content": "[ Inf Slot 4]\n04000000 003e4ff4 00000004\n\n"
+        },
+        {
+            "title": "[Item Slot 1 x10]",
+            "content": "[Item Slot 1 x10]\n04000000 003E4FC4 0000000A\n\n"
+        },
+        {
+            "title": "[Item Slot 2 x10]",
+            "content": "[Item Slot 2 x10]\n04000000 003E4FD4 0000000A\n\n"
+        },
+        {
+            "title": "[Item Slot 3 x10]",
+            "content": "[Item Slot 3 x10]\n04000000 003E4FE4 0000000A\n\n"
+        },
+        {
+            "title": "[Item Slot 4 x10]",
+            "content": "[Item Slot 4 x10]\n04000000 003E4FF4 0000000A\n\n"
+        },
+        {
+            "title": "[Infinite HP]",
+            "content": "[Infinite HP]\n04000000 003E471C 46C80000\n\n"
+        },
+        {
+            "title": "[Max HP]",
+            "content": "[Max HP]\n04000000 003E4720 46C80000\n\n"
+        },
+        {
+            "title": "[Infinite MP]",
+            "content": "[Infinite MP]\n04000000 003E4734 46C80000\n\n"
+        },
+        {
+            "title": "[Max MP]",
+            "content": "[Max MP]\n04000000 003E4738 46C80000\n\n"
+        },
+        {
+            "title": "[ZL+X 999 Skill Points]",
+            "content": "[ZL+X 999 Skill Points]\n80000104\n02000000 003E4758 000003E7\n20000000\n\n"
+        },
+        {
+            "title": "[ZR+X 0 Skill Points]",
+            "content": "[ZR+X 0 Skill Points]\n80000204\n02000000 003E4758 00000000\n20000000\n\n"
+        },
+        {
+            "title": "[Quick Lv. 40]",
+            "content": "[Quick Lv. 40]\n04000000 003E46D0 000F4240\n\n"
+        },
+        {
+            "title": "[Super High Carry Limit]",
+            "content": "[Super High Carry Limit]\n04000000 003E47A0 4B095440\n\n"
+        },
+        {
+            "title": "[High Strength]",
+            "content": "[High Strength]\n04000000 003E46EC 000000FA\n\n"
+        },
+        {
+            "title": "[High Intelligence]",
+            "content": "[High Intelligence]\n04000000 003E46F0 000000C8\n\n"
+        },
+        {
+            "title": "[High Wisdom]",
+            "content": "[High Wisdom]\n04000000 003E46F4 000000C8\n\n"
+        },
+        {
+            "title": "[High Dexterity]",
+            "content": "[High Dexterity]\n04000000 003E46F8 000000C8\n\n"
+        },
+        {
+            "title": "[High Constitution]",
+            "content": "[High Constitution]\n04000000 003E46FC 000000C8\n\n"
+        },
+        {
+            "title": "[High Charisma]",
+            "content": "[High Charisma]\n04000000 003E4700 000000C8\n\n\n"
+        }
+    ]
+}

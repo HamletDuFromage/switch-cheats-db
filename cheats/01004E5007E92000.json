@@ -1,1 +1,30 @@
-{}
+{
+    "3295D9B0DA169A4F": [
+        {
+            "title": "[Infinite HP]",
+            "content": "[Infinite HP]\n04000000 00162380 4B1F0108\n\n"
+        },
+        {
+            "title": "[Free Extras]",
+            "content": "[Free Extras]\n04000000 0029D490 52800000\n\n"
+        },
+        {
+            "title": "[Energy unlimited]",
+            "content": "[Energy unlimited]\n580F0000 0436FA70\n780F0000 00008260\n610F0000 00000000 00000006\n\n"
+        },
+        {
+            "title": "[Add Nuts with DOWN]",
+            "content": "[Add Nuts with DOWN]\n80008000\n580F0000 043596D8\n780F0000 00000FC4\n640F0000 00000000 0001869F"
+        }
+    ],
+    "799D52EEAAF76B47": [
+        {
+            "title": "[Infinite HP]",
+            "content": "[Infinite HP]\n04000000 000055F0 4B1F0108\n\n"
+        },
+        {
+            "title": "[Free Extras]",
+            "content": "[Free Extras]\n04000000 000B6090 52800000"
+        }
+    ]
+}

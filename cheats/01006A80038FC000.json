@@ -1,0 +1,28 @@
+{
+    "3F175CD5303104D9": [
+        {
+            "title": "[by eco95 and xtatu for ACA NEOGEO Art of Fighting 1 (v1.0.1)]",
+            "content": "[by eco95 and xtatu for ACA NEOGEO Art of Fighting 1 (v1.0.1)]\n\n"
+        },
+        {
+            "title": "[P1 Infinite HP]",
+            "content": "[P1 Infinite HP]\n01000000 01240114 00000060\n\n"
+        },
+        {
+            "title": "[P1 Infinite Power]",
+            "content": "[P1 Infinite Power]\n01000000 012402ED 00000060\n\n"
+        },
+        {
+            "title": "[P2 NO HP]",
+            "content": "[P2 NO HP]\n01000000 01240214 00000001\n\n"
+        },
+        {
+            "title": "[P2 NO Power]",
+            "content": "[P2 NO Power]\n01000000 012403ED 00000000\n\n"
+        },
+        {
+            "title": "[hitanywhere]",
+            "content": "[hitanywhere]\n580F0000 01247728\n780F0000 00010CAC\n640F0000 00000000 b86c6012"
+        }
+    ]
+}

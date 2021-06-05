@@ -1,1 +1,92 @@
-{}
+{
+    "78680E8A35F31D50": [
+        {
+            "title": "[Freeze1200]",
+            "content": "[Freeze1200]\n04100000 2dcfc7a4 00000000\n04100000 2dcfc7a8 0000000C\n\n"
+        },
+        {
+            "title": "[HP]",
+            "content": "[HP]\n04100000 30e4d030 0001869F\n\n"
+        },
+        {
+            "title": "[RP]",
+            "content": "[RP]\n04100000 30e4d034 0FFFF000\n\n"
+        },
+        {
+            "title": "[MONEYetc]",
+            "content": "[MONEYetc]\n04000000 003d1e18 3B9AC9FF\n04000000 00C90CA8 0001869F\n02000000 003d1e1c 0000270F\n02000000 003d1e20 0000270F\n02000000 003d1e24 0000270F\n02100000 30e4d95c 0000270F\n\n"
+        },
+        {
+            "title": "[ItemLv10Num9(RSUp)]",
+            "content": "[ItemLv10Num9(RSUp)]\n80200000\n52110000 2dd18d6C\n92511100 000087FF\n92611100 00004800\nA2100410 2dd18d6C\n04100000 2dd18d70 09090909\n04100000 2dd18d74 09090909\n01100000 2dd18d78 00000009\n20000000\n\n"
+        },
+        {
+            "title": "[EquipItemNumKeep9]",
+            "content": "[EquipItemNumKeep9]\n52110000 2DD18D94\nC0221400 00001000\n92511100 000087FF\n92611100 00004800\nA2100410 2DD18D94\n20000000\n\n"
+        },
+        {
+            "title": "[CopyItem(RSDown)]",
+            "content": "[CopyItem(RSDown)]\n52110000 2dd18f5C\nC0251400 00000000\n54110000 2dd18d6C\nA4100410 2dd18f5C\n54110000 2dd18d70\nA4100410 2dd18f60\n54110000 2dd18d74\nA4100410 2dd18f64\n54110000 2dd18d78\nA4100410 2dd18f68\n54110000 2dd18d7c\nA4100410 2dd18f6C\n54110000 2dd18d80\nA4100410 2dd18f70\n54110000 2dd18d84\nA4100410 2dd18f74\n54110000 2dd18d88\nA4100410 2dd18f78\n54110000 2dd18d8c\nA4100410 2dd18f7C\n54110000 2dd18d90\nA4100410 2dd18f80\n20000000\n\n"
+        },
+        {
+            "title": "[MainFieldStatMax]",
+            "content": "[MainFieldStatMax]\n40010000 00000000 2DD17860\n300E0000 00000012\n04110000 00000000 7FDFF7FF\n04110000 00000004 FFFFFDFF\n04110000 00000008 FFFFFFFF\n04110000 0000000C FFFFFFFF\n78010000 00000010\n310E0000\n\n"
+        },
+        {
+            "title": "[LeftDownFieldStatMax]",
+            "content": "[LeftDownFieldStatMax]\n40010000 00000000 2DD179A0\n300E0000 00000012\n04110000 00000000 7FDFF7FF\n04110000 00000004 FFFFFDFF\n04110000 00000008 FFFFFFFF\n04110000 0000000C FFFFFFFF\n78010000 00000010\n310E0000\n\n"
+        },
+        {
+            "title": "[RightDownFieldStatMax]",
+            "content": "[RightDownFieldStatMax]\n40010000 00000000 2DD17AE0\n300E0000 00000012\n04110000 00000000 7FDFF7FF\n04110000 00000004 FFFFFDFF\n04110000 00000008 FFFFFFFF\n04110000 0000000C FFFFFFFF\n78010000 00000010\n310E0000\n\n"
+        },
+        {
+            "title": "[LeftUpFieldStatMax]",
+            "content": "[LeftUpFieldStatMax]\n40010000 00000000 2DD17C20\n300E0000 00000012\n04110000 00000000 7FDFF7FF\n04110000 00000004 FFFFFDFF\n04110000 00000008 FFFFFFFF\n04110000 0000000C FFFFFFFF\n78010000 00000010\n310E0000\n\n"
+        },
+        {
+            "title": "[RightUpFieldStatMax]",
+            "content": "[RightUpFieldStatMax]\n40010000 00000000 2DD17D60\n300E0000 00000012\n04110000 00000000 7FDFF7FF\n04110000 00000004 FFFFFDFF\n04110000 00000008 FFFFFFFF\n04110000 0000000C FFFFFFFF\n78010000 00000010\n310E0000\n\n"
+        },
+        {
+            "title": "[SpringFieldStatMax]",
+            "content": "[SpringFieldStatMax]\n40010000 00000000 2DD17EA0\n300E0000 00000008\n04110000 00000000 7FDFF7FF\n04110000 00000004 FFFFFDFF\n04110000 00000008 FFFFFFFF\n04110000 0000000C FFFFFFFF\n78010000 00000010\n310E0000\n\n"
+        },
+        {
+            "title": "[SummerFieldStatMax]",
+            "content": "[SummerFieldStatMax]\n40010000 00000000 2DD17FE0\n300E0000 00000004\n04110000 00000000 7FDFF7FF\n04110000 00000004 FFFFFDFF\n04110000 00000008 FFFFFFFF\n04110000 0000000C FFFFFFFF\n78010000 00000010\n310E0000\n\n"
+        },
+        {
+            "title": "[AutumFieldStatMax]",
+            "content": "[AutumFieldStatMax]\n40010000 00000000 2DD18120\n300E0000 00000002\n04110000 00000000 7FDFF7FF\n04110000 00000004 FFFFFDFF\n04110000 00000008 FFFFFFFF\n04110000 0000000C FFFFFFFF\n78010000 00000010\n310E0000\n78010000 00000010\n300E0000 00000002\n04110000 00000000 7FDFF7FF\n04110000 00000004 FFFFFDFF\n04110000 00000008 FFFFFFFF\n04110000 0000000C FFFFFFFF\n78010000 00000010\n310E0000\n78010000 00000010\n300E0000 00000002\n04110000 00000000 7FDFF7FF\n04110000 00000004 FFFFFDFF\n04110000 00000008 FFFFFFFF\n04110000 0000000C FFFFFFFF\n78010000 00000010\n310E0000\n\n"
+        },
+        {
+            "title": "[WinterFieldStatMax]",
+            "content": "[WinterFieldStatMax]\n40010000 00000000 2DD18260\n300E0000 0000000C\n04110000 00000000 7FDFF7FF\n04110000 00000004 FFFFFDFF\n04110000 00000008 FFFFFFFF\n04110000 0000000C FFFFFFFF\n78010000 00000010\n310E0000\n\n"
+        },
+        {
+            "title": "[Max HP]",
+            "content": "[Max HP]\n041F0000 30E4D1A4 270F0000\n\n"
+        },
+        {
+            "title": "[Max ATK]",
+            "content": "[Max ATK]\n041F0000 30E4D1A8 0000270F\n\n"
+        },
+        {
+            "title": "[Max Magic ATK]",
+            "content": "[Max Magic ATK]\n041F0000 30E4D1AC 0000270F\n\n"
+        },
+        {
+            "title": "[Max Magic ATK]",
+            "content": "[Max Magic ATK]\n041F0000 30E4D1AC 0000270F\n\n"
+        },
+        {
+            "title": "[Max DEF]",
+            "content": "[Max DEF]\n041F0000 30E4D1B0 0000270F\n\n"
+        },
+        {
+            "title": "[Rapid Fire (Hold A)]",
+            "content": "[Rapid Fire (Hold A)]\n80000001\n041F0000 30E4D238 00000800\n20000000"
+        }
+    ]
+}

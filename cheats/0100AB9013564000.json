@@ -1,1 +1,16 @@
-{}
+{
+    "5D4EAB46AACE1242": [
+        {
+            "title": "[*Invincible @made by Jericoss]",
+            "content": "[*Invincible @made by Jericoss]\n580F0000 0229D558\n580F1000 00000B68\n780F0000 000000F0\n640F0000 00000000 00000000\n\n"
+        },
+        {
+            "title": "[*Inf Hp @made by Jericoss]",
+            "content": "[*Inf Hp @made by Jericoss]\n580F0000 0229D558\n580F1000 00000B68\n780F0000 000000F0\n680F0000 453B8000 453B8000\n\n"
+        },
+        {
+            "title": "[*Inf Sp @made by Jericoss]",
+            "content": "[*Inf Sp @made by Jericoss]\n580F0000 0229D558\n580F1000 00000B68\n780F0000 0000011C\n640F0000 00000000 43480000"
+        }
+    ]
+}

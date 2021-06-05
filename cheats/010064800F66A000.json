@@ -1,1 +1,48 @@
-{}
+{
+    "88D224694A04940F": [
+        {
+            "title": "[01# Inf Ammo]",
+            "content": "[01# Inf Ammo]\n04000000 018F5484 1E27D000\n\n"
+        },
+        {
+            "title": "[Inf Ammo (off)]",
+            "content": "[Inf Ammo (off)]\n04000000 018F5484 BD409900\n\n"
+        },
+        {
+            "title": "[02# Inf Health]",
+            "content": "[02# Inf Health]\n580F0000 03B2EB78\n780F0000 00000098\n640F0000 00000000 47C34F80\n\n"
+        },
+        {
+            "title": "[03# God Mode]",
+            "content": "[03# God Mode]\n580F0000 03BAA898\n580F1000 00000050\n580F1000 000002A0\n780F0000 0000014C\n640F0000 00000000 00000006\n\n"
+        },
+        {
+            "title": "[04# Inf Money]",
+            "content": "[04# Inf Money]\n580F0000 03BAA898\n580F1000 00000048\n780F0000 00000388\n640F0000 00000000 000F423F\n\n"
+        },
+        {
+            "title": "[05# Instant level up (press R stick)]",
+            "content": "[05# Instant level up (press R stick)]\n80000020\n580F0000 03BAA898\n580F1000 00000048\n780F0000 00000364\n640F0000 00000000 00000001\n20000000\n\n"
+        },
+        {
+            "title": "[06# Skill points]",
+            "content": "[06# Skill points]\n580F0000 03B49BD8\n580F1000 00000070\n580F1000 00000280\n780F0000 00000380\n640F0000 00000000 00000063\n\n"
+        },
+        {
+            "title": "[07# Running x2 (left) x1 (right)]",
+            "content": "[07# Running x2 (left) x1 (right)]\n80001000\n580F0000 03AFAAF0\n580F1000 00000000\n780F0000 00000414\n640F0000 00000000 40000000\n20000000\n80004000\n580F0000 03AFAAF0\n580F1000 00000000\n780F0000 00000414\n640F0000 00000000 3F800000\n20000000\n\n"
+        },
+        {
+            "title": "[08# Moonjump (press B)]",
+            "content": "[08# Moonjump (press B)]\n80000002\n580F0000 03AFAAF0\n580F1000 00000000\n780F0000 00000190\n640F0000 00000000 44000000\n20000000\n\n"
+        },
+        {
+            "title": "[Inf ammo - on]",
+            "content": "[Inf ammo - on]\n04000000 018F5484 1E27D000\n\n"
+        },
+        {
+            "title": "[No Reload - needs inf.ammo]",
+            "content": "[No Reload - needs inf.ammo]\n58090000 03BAA898\n58091000 00000068\n58091000 000007F8\n78090000 00000518\n64090000 00000000 0000001E"
+        }
+    ]
+}

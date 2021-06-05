@@ -1,1 +1,72 @@
-{}
+{
+    "40EA84ADF0A7BC26": [
+        {
+            "title": "[From MAX-CHEATS.com by matias3ds for Bayonetta 2]",
+            "content": "[From MAX-CHEATS.com by matias3ds for Bayonetta 2]\n\n"
+        },
+        {
+            "title": "[Inf. Health]",
+            "content": "[Inf. Health]\n580F0000 018E3070\n780F0000 0000CEDC\n680F0000 00000000 0000FFFF\n\n"
+        },
+        {
+            "title": "[Inf. 99999999 Halos]",
+            "content": "[Inf. 99999999 Halos]\n580F0000 0186FA28\n780F1000 0001A910\n680F0000 00000000 3B9AC9FF\n\n"
+        },
+        {
+            "title": "[Inf. Magic]",
+            "content": "[Inf. Magic]\n02000000 034e48de 00004844\n\n"
+        },
+        {
+            "title": "[All Items x99]",
+            "content": "[All Items x99]\n01000000 034e4954 00000063\n01000000 034e495c 00000063\n01000000 034e4964 00000063\n01000000 034e496c 00000063\n01000000 034e4974 00000063\n01000000 034e497c 00000063\n01000000 034e4984 00000063\n01000000 034e498c 00000063\n01000000 034e4994 00000063\n01000000 034e499c 00000063\n01000000 034e49a4 00000063\n01000000 034e49ac 00000063\n01000000 034e49b4 00000063\n01000000 034e49bc 00000063\n01000000 034e49c4 00000063\n01000000 034e49cc 00000063\n01000000 034e49d4 00000063\n01000000 034e49dc 00000063\n01000000 034e49e4 00000063\n01000000 034e49ec 00000063\n\n"
+        },
+        {
+            "title": "[Mega Yellow Moon Lollipop x99]",
+            "content": "[Mega Yellow Moon Lollipop x99]\n01000000 034e49a4 00000063\n\n"
+        },
+        {
+            "title": "[Mandragora Root x99]",
+            "content": "[Mandragora Root x99]\n01000000 034e4964 00000063\n\n"
+        },
+        {
+            "title": "[Baked Gecko x99]",
+            "content": "[Baked Gecko x99]\n01000000 034e495c 00000063\n\n"
+        },
+        {
+            "title": "[Unicorn Horn x99]",
+            "content": "[Unicorn Horn x99]\n01000000 034e4954 00000063\n\n"
+        },
+        {
+            "title": "[Yellow Moon Lollipop x99]",
+            "content": "[Yellow Moon Lollipop x99]\n01000000 034e496c 00000063\n\n"
+        },
+        {
+            "title": "[Mega Bloody Rose Lollipop x99]",
+            "content": "[Mega Bloody Rose Lollipop x99]\n01000000 034e4974 00000063\n\n"
+        },
+        {
+            "title": "[Bloody Rose Lollipop x99]",
+            "content": "[Bloody Rose Lollipop x99]\n01000000 034e497c 00000063\n\n"
+        },
+        {
+            "title": "[Mega Purple Magic Lollipop x99]",
+            "content": "[Mega Purple Magic Lollipop x99]\n01000000 034e4984 00000063\n\n"
+        },
+        {
+            "title": "[Purple Magic Lollipop x99]",
+            "content": "[Purple Magic Lollipop x99]\n01000000 034e498c 00000063\n\n"
+        },
+        {
+            "title": "[Mega Green Herb Lollipop x99]",
+            "content": "[Mega Green Herb Lollipop x99]\n01000000 034e4994 00000063\n\n"
+        },
+        {
+            "title": "[Green Herb Lollipop x99]",
+            "content": "[Green Herb Lollipop x99]\n01000000 034e499c 00000063\n\n"
+        },
+        {
+            "title": "[Witchs Recipes x99]",
+            "content": "[Witchs Recipes x99]\n01000000 034e49b4 00000063\n\nMade by Stoned and RyuSeisuke1992"
+        }
+    ]
+}

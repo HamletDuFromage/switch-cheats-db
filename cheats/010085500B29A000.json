@@ -1,1 +1,24 @@
-{}
+{
+    "8E0F8D1AB9A89843": [
+        {
+            "title": "[From MAX-CHEATS.com by BlackDeath for Yet Another Zombie Defense HD v1.1.0]",
+            "content": "[From MAX-CHEATS.com by BlackDeath for Yet Another Zombie Defense HD v1.1.0]\n\n"
+        },
+        {
+            "title": "[No Damage On]",
+            "content": "[No Damage On]\n04000000 002473F0 D65F03C0\n\n"
+        },
+        {
+            "title": "[No Damage Off]",
+            "content": "[No Damage Off]\n04000000 002473F0 FC180FEE\n\n"
+        },
+        {
+            "title": "[Free shopping except ammunition]",
+            "content": "[Free shopping except ammunition]\n04000000 000D3160 D65F03C0\n\n"
+        },
+        {
+            "title": "[Invisibility R-Stick=ON L-Stick OFF]",
+            "content": "[Invisibility R-Stick=ON L-Stick OFF]\n80000010\n04000000 00246CD8 B9401A88\n20000000\n80000020\n04000000 00246CD8 52800028\n20000000"
+        }
+    ]
+}

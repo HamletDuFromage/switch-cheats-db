@@ -1,1 +1,48 @@
-{}
+{
+    "066442551A10FEA7": [
+        {
+            "title": "[Max HP]",
+            "content": "[Max HP]\n040F0000 0039BD20 0000270F\n\n"
+        },
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n040F0000 0039BD70 0000270F\n\n"
+        },
+        {
+            "title": "[Max AP]",
+            "content": "[Max AP]\n040F0000 0039BDC0 0000270F\n\n"
+        },
+        {
+            "title": "[Inf AP]",
+            "content": "[Inf AP]\n040F0000 0039BE10 0000270F\n\n"
+        },
+        {
+            "title": "[Max ATK]",
+            "content": "[Max ATK]\n040F0000 0039BE60 0000270F\n\n"
+        },
+        {
+            "title": "[Max DEF]",
+            "content": "[Max DEF]\n040F0000 0039BEB0 0000270F\n\n"
+        },
+        {
+            "title": "[Max DEX]",
+            "content": "[Max DEX]\n040F0000 0039BF00 0000270F\n\n"
+        },
+        {
+            "title": "[Max SPD]",
+            "content": "[Max SPD]\n040F0000 0039BF50 000003E7\n\n"
+        },
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n040F0000 0039BA00 43A00000\n20000000\n\n"
+        },
+        {
+            "title": "[Max Money]",
+            "content": "[Max Money]\n040F0000 4015480C 000F423F\n\n"
+        },
+        {
+            "title": "[Kills (Hold ZL and ZR)]",
+            "content": "[Kills (Hold ZL and ZR)]\n80000300\n300E0000 00000013\n040F0000 0039BD74 00000000\n780F0000 00000004\n310E0000\n20000000"
+        }
+    ]
+}

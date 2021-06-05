@@ -1,1 +1,20 @@
-{}
+{
+    "32B4BBE0D88214D3": [
+        {
+            "title": "[1p inf heath all player]",
+            "content": "[1p inf heath all player]\n04000000 0003E530 D65F03C0\n\n"
+        },
+        {
+            "title": "[moom jump L &R pad off]",
+            "content": "[moom jump L &R pad off]\n04000000 002EFA74 D65F03C0\n\n"
+        },
+        {
+            "title": "[enermy speed normal]",
+            "content": "[enermy speed normal]\n04000000 00BA2CD4 1E2E1000\n\n"
+        },
+        {
+            "title": "[enermy speed 2x]",
+            "content": "[enermy speed 2x]\n04000000 00BA2CD4 1E201000"
+        }
+    ]
+}

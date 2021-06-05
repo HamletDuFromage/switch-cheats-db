@@ -1,1 +1,32 @@
-{}
+{
+    "C7CAE59F4A307241": [
+        {
+            "title": "[Refill Health R+LStick Pressed]",
+            "content": "[Refill Health R+LStick Pressed]\n80000090\n400C0000 00000000 000000B4\n610C01F0 00000000 00000003\n20000000\n\n"
+        },
+        {
+            "title": "[Invincible On R+Lstick Up]",
+            "content": "[Invincible On R+Lstick Up]\n80020080\n400C0000 00000000 000000E8\n610C01F0 00000000 00000001\n20000000\n\n"
+        },
+        {
+            "title": "[Invincible Off Minus]",
+            "content": "[Invincible Off Minus]\n80000800\n400C0000 00000000 000000E8\n610C01F0 00000000 00000000\n20000000\n\n"
+        },
+        {
+            "title": "[Max Score R+LStick Left]",
+            "content": "[Max Score R+LStick Left]\n80010080\n400C0000 00000000 000000B8\n640C01F0 00000000 05F5E0FF\n20000000\n\n"
+        },
+        {
+            "title": "[9999 Ammo R+LStick Right]",
+            "content": "[9999 Ammo R+LStick Right]\n80040080\n400C0000 00000000 00000160\n640C01F0 00000000 0000270F\n20000000\n\n"
+        },
+        {
+            "title": "[Max Weapon Power R+ZR]",
+            "content": "[Max Weapon Power R+ZR]\n80000280\n400C0000 00000000 000000CC\n610C01F0 00000000 00000004\n20000000\n\n"
+        },
+        {
+            "title": "[Change Weapon and Ammo to 99 R+Rstick]",
+            "content": "[Change Weapon and Ammo to 99 R+Rstick]\n80200080\n400C0000 00000000 00000158\n610C01F0 00000000 00000001\n400C0000 00000000 00000160\n640C01F0 00000000 00000063\n20000000\n80800080\n400C0000 00000000 00000158\n610C01F0 00000000 00000002\n400C0000 00000000 00000160\n640C01F0 00000000 00000063\n20000000\n80100080\n400C0000 00000000 00000158\n610C01F0 00000000 00000003\n400C0000 00000000 00000160\n640C01F0 00000000 00000063\n20000000\n80400080\n400C0000 00000000 00000158\n610C01F0 00000000 00000004\n400C0000 00000000 00000160\n640C01F0 00000000 00000063\n20000000\n80000020\n400C0000 00000000 00000158\n610C01F0 00000000 00000005\n400C0000 00000000 00000160\n640C01F0 00000000 00000063\n20000000"
+        }
+    ]
+}

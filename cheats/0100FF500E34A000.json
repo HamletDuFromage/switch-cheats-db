@@ -1,1 +1,840 @@
-{}
+{
+    "92C78BB3DCBBC3F7": [
+        {
+            "title": "[Health Loop]",
+            "content": "[Health Loop]\n400C0000 00000000 00000000\n300E0000 0000000F\n640C01F0 00000000 0000270F\n780C0000 00003480\n310E0000\n\n"
+        },
+        {
+            "title": "[MT No Cooldown(static)]",
+            "content": "[MT No Cooldown(static)]\n04100000 28F26900 42C80000\n04100000 28F29D80 00000000\n04100000 28F2D200 42C80000\n04100000 28F30680 42C80000\n04100000 28F33B00 00000000\n04100000 28F36f80 42C80000\n04100000 28F3A400 42C80000\n\n"
+        },
+        {
+            "title": "[Speed loop(ZRA/AB)]",
+            "content": "[Speed loop(ZRA/AB)]\n400C0000 00000000 00000114\n300E0000 0000000F\n80000003\n640C01F0 00000000 3F800000\n20000000\n80000201\n640C01F0 00000000 40000000\n20000000\n780C0000 00003480\n310E0000\n\n"
+        },
+        {
+            "title": "[All Max Abilities]",
+            "content": "[All Max Abilities]\n400C0000 00000000 0000003C\n300E0000 0000000F\n640C11F0 00000000 75307530\n640C01F0 00000000 75307530\n780C0000 0000000C\n640C01F0 00000000 75307530\n780C0000 00003470\n310E0000\n\n"
+        },
+        {
+            "title": "[All Max SP]",
+            "content": "[All Max SP]\n400C0000 00000000 00002DE4\n300E0000 0000000F\n640C11F0 00000000 0001869F\n640C11F0 00000000 0001869F\n640C11F0 00000000 0001869F\n640C11F0 00000000 0001869F\n640C11F0 00000000 0001869F\n780C0000 0000346C\n310E0000\n\n"
+        },
+        {
+            "title": "[Unlock and Max All Arts]",
+            "content": "[Unlock and Max All Arts]\n30010000 0000005C\n04110000 28F826F4 030A030A\n78010000 00000004\n31010000\n\n"
+        },
+        {
+            "title": "[Unlock and Max OP All Arts]",
+            "content": "[Unlock and Max OP All Arts]\n30010000 0000005C\n04110000 28F826F4 030C030C\n78010000 00000004\n31010000\n\n"
+        },
+        {
+            "title": "[Arts No Cooldown]",
+            "content": "[Arts No Cooldown]\n04000000 000A98E8 1E2703E2\n04000000 000A9958 1E2703E1\n04000000 000A99D8 1E2703E0\n\n"
+        },
+        {
+            "title": "[No Fall Damage (on)]",
+            "content": "[No Fall Damage (on)]\n04000000 004CFDF8 D503201F\n"
+        },
+        {
+            "title": "[No Fall Damage (off)]",
+            "content": "[No Fall Damage (off)]\n04000000 004CFDF8 54000145\n\n"
+        },
+        {
+            "title": "[Jump Like Hulk(on)]",
+            "content": "[Jump Like Hulk(on)]\n04000000 004CFDF8 D503201F\n04000000 004E2F08 1E27F000\n"
+        },
+        {
+            "title": "[Jump Normal]",
+            "content": "[Jump Normal]\n04000000 004E2F08 1E2E1000\n\n"
+        },
+        {
+            "title": "[Always full Party Gauge (on)]",
+            "content": "[Always full Party Gauge (on)]\n040B0000 0054A114 1A89B128\n\n"
+        },
+        {
+            "title": "[Collectable and Materials 90]",
+            "content": "[Collectable and Materials 90]\n300E0000 00000320\n01110000 28E049B8 0000005A\n78010000 00000014\n310E0000\n\n"
+        },
+        {
+            "title": "[money inf]",
+            "content": "[money inf]\n040B0000 00B314EC 7100003F\n040B0000 00B314F0 5400004C\n040B0000 00B314F4 2A1F03E1\n040B0000 00B314F8 2A0103F3\n040B0000 00B314FC D65F03C0\n040B0000 000EF3C4 9429084A\n\n"
+        },
+        {
+            "title": "[noppon stone inf]",
+            "content": "[noppon stone inf]\n040B0000 003518DC 1B1F7EB4\n\n"
+        },
+        {
+            "title": "[exp x4]",
+            "content": "[exp x4]\n040B0000 00B31500 0B090BE9\n040B0000 00B31504 0B080128\n040B0000 00B31508 D65F03C0\n040B0000 000ED42C 94291035\n\n"
+        },
+        {
+            "title": "[exp x8]",
+            "content": "[exp x8]\n040B0000 00B31500 0B090FE9\n040B0000 00B31504 0B080128\n040B0000 00B31508 D65F03C0\n040B0000 000ED42C 94291035\n\n"
+        },
+        {
+            "title": "[exp x16]",
+            "content": "[exp x16]\n040B0000 00B31500 0B0913E9\n040B0000 00B31504 0B080128\n040B0000 00B31508 D65F03C0\n040B0000 000ED42C 94291035\n\n"
+        },
+        {
+            "title": "[exp x32]",
+            "content": "[exp x32]\n040B0000 00B31500 0B0917E9\n040B0000 00B31504 0B080128\n040B0000 00B31508 D65F03C0\n040B0000 000ED42C 94291035\n\n"
+        },
+        {
+            "title": "[AP x4]",
+            "content": "[AP x4]\n040B0000 00B31510 0B090BE9\n040B0000 00B31514 0B080128\n040B0000 00B31518 D65F03C0\n040B0000 000ED468 9429102A\n\n"
+        },
+        {
+            "title": "[AP x8]",
+            "content": "[AP x8]\n040B0000 00B31510 0B090FE9\n040B0000 00B31514 0B080128\n040B0000 00B31518 D65F03C0\n040B0000 000ED468 9429102A\n\n"
+        },
+        {
+            "title": "[AP x16]",
+            "content": "[AP x16]\n040B0000 00B31510 0B0913E9\n040B0000 00B31514 0B080128\n040B0000 00B31518 D65F03C0\n040B0000 000ED468 9429102A\n\n"
+        },
+        {
+            "title": "[AP x32]",
+            "content": "[AP x32]\n040B0000 00B31510 0B0917E9\n040B0000 00B31514 0B080128\n040B0000 00B31518 D65F03C0\n040B0000 000ED468 9429102A\n\n"
+        },
+        {
+            "title": "[SP x4]",
+            "content": "[SP x4]\n040B0000 000B533C 0B010929\n\n"
+        },
+        {
+            "title": "[SP x8]",
+            "content": "[SP x8]\n040B0000 000B533C 0B010D29\n\n"
+        },
+        {
+            "title": "[SP x16]",
+            "content": "[SP x16]\n040B0000 000B533C 0B011129\n\n"
+        },
+        {
+            "title": "[SP x32]",
+            "content": "[SP x32]\n040B0000 000B533C 0B011529\n\n"
+        },
+        {
+            "title": "[Materials & valuables x4]",
+            "content": "[Materials & valuables x4]\n040B0000 00B31520 52800091\n040B0000 00B31524 1B117C42\n040B0000 00B31528 AA0003F4\n040B0000 00B3152C D65F03C0\n040B0000 000F1F84 9428FD67\n\n"
+        },
+        {
+            "title": "[Materials & valuables x8]",
+            "content": "[Materials & valuables x8]\n040B0000 00B31520 52800111\n040B0000 00B31524 1B117C42\n040B0000 00B31528 AA0003F4\n040B0000 00B3152C D65F03C0\n040B0000 000F1F84 9428FD67\n\n"
+        },
+        {
+            "title": "[collectibles x4]",
+            "content": "[collectibles x4]\n040B0000 00B31530 52800091\n040B0000 00B31534 1B117C42\n040B0000 00B31538 2A0203F7\n040B0000 00B3153C D65F03C0\n040B0000 000E1BB8 94293E5E\n\n"
+        },
+        {
+            "title": "[collectibles x8]",
+            "content": "[collectibles x8]\n040B0000 00B31530 52800111\n040B0000 00B31534 1B117C42\n040B0000 00B31538 2A0203F7\n040B0000 00B3153C D65F03C0\n040B0000 000E1BB8 94293E5E\n\n"
+        },
+        {
+            "title": "[materials and collectibles return default]",
+            "content": "[materials and collectibles return default]\n040B0000 000F1F84 AA0003F4\n040B0000 000E1BB8 2A0203F7\n\n"
+        },
+        {
+            "title": "[bond coin x4]",
+            "content": "[bond coin x4]\n040B0000 00B31540 52800091\n040B0000 00B31544 1B117C21\n040B0000 00B31548 2A0103F3\n040B0000 00B3154C D65F03C0\n040B0000 000EC074 94291533\n\n"
+        },
+        {
+            "title": "[bond coin x8]",
+            "content": "[bond coin x8]\n040B0000 00B31540 52800111\n040B0000 00B31544 1B117C21\n040B0000 00B31548 2A0103F3\n040B0000 00B3154C D65F03C0\n040B0000 000EC074 94291533\n\n"
+        },
+        {
+            "title": "[Martial art coin x4]",
+            "content": "[Martial art coin x4]\n040B0000 00B31550 52800091\n040B0000 00B31554 1B117C21\n040B0000 00B31558 2A0203F5\n040B0000 00B3155C D65F03C0\n040B0000 000EF4A0 9429082C\n\n"
+        },
+        {
+            "title": "[Martial art coin x8]",
+            "content": "[Martial art coin x8]\n040B0000 00B31550 52800111\n040B0000 00B31554 1B117C21\n040B0000 00B31558 2A0203F5\n040B0000 00B3155C D65F03C0\n040B0000 000EF4A0 9429082C\n\n"
+        },
+        {
+            "title": "[Martial art coin effect off]",
+            "content": "[Martial art coin effect off]\n040B0000 000EF4A0 2A0203F5\n\n"
+        },
+        {
+            "title": "[bond exp x4]",
+            "content": "[bond exp x4]\n040B0000 00B31560 52800091\n040B0000 00B31564 1B117C63\n040B0000 00B31568 2A0303F8\n040B0000 00B3156C D65F03C0\n040B0000 000E89CC 942922E5\n\n"
+        },
+        {
+            "title": "[bond exp x8]",
+            "content": "[bond exp x8]\n040B0000 00B31560 52800111\n040B0000 00B31564 1B117C63\n040B0000 00B31568 2A0303F8\n040B0000 00B3156C D65F03C0\n040B0000 000E89CC 942922E5\n\n"
+        },
+        {
+            "title": "[bond exp x16]",
+            "content": "[bond exp x16]\n040B0000 00B31560 52800211\n040B0000 00B31564 1B117C63\n040B0000 00B31568 2A0303F8\n040B0000 00B3156C D65F03C0\n040B0000 000E89CC 942922E5\n\n"
+        },
+        {
+            "title": "[bond exp do not decrease when gifting]",
+            "content": "[bond exp do not decrease when gifting]\n040B0000 00B31570 7100007F\n040B0000 00B31574 5400004A\n040B0000 00B31578 2A1F03E3\n040B0000 00B3157C 2A0403F7\n040B0000 00B31580 D65F03C0\n040B0000 000E89C8 942922EA\n\n"
+        },
+        {
+            "title": "[drop gold chest]",
+            "content": "[drop gold chest]\n040B0000 000FB0F8 52800068\n040B0000 000FB114 52800068\n\n"
+        },
+        {
+            "title": "[drop silver chest]",
+            "content": "[drop silver chest]\n040B0000 000FB0F8 52800048\n040B0000 000FB114 52800048\n\n"
+        },
+        {
+            "title": "[chest rarity return default]",
+            "content": "[chest rarity return default]\n040B0000 000FB0F8 52800048\n040B0000 000FB114 52800028\n\n"
+        },
+        {
+            "title": "[HP inf]",
+            "content": "[HP inf]\n040B0000 00B31584 D29FD204\n040B0000 00B31588 F2A00124\n040B0000 00B3158C CB040103\n040B0000 00B31590 52800006\n040B0000 00B31594 528000E7\n040B0000 00B31598 D286900B\n040B0000 00B3159C 5284E1E5\n040B0000 00B315A0 6B0700DF\n040B0000 00B315A4 540000CC\n040B0000 00B315A8 B9004465\n040B0000 00B315AC B9000C65\n040B0000 00B315B0 8B0B0063\n040B0000 00B315B4 110004C6\n040B0000 00B315B8 17FFFFFA\n040B0000 00B315BC AA0203F3\n040B0000 00B315C0 D65F03C0\n040B0000 00589E90 94169DBD\n\n"
+        },
+        {
+            "title": "[max morale]",
+            "content": "[max morale]\n040B0000 0050D1AC 1A88B108\n040B0000 0050D3D8 1A88B108\n\n"
+        },
+        {
+            "title": "[team gauge max]",
+            "content": "[team gauge max]\n040B0000 0054A01C 1A89B128\n040B0000 0054A044 1A89B128\n040B0000 0054A114 1A89B128\n\n"
+        },
+        {
+            "title": "[skill fast recharge]",
+            "content": "[skill fast recharge]\n040B0000 000A994C 1E2C1002\n040B0000 000A99B0 1E2C1002\n040B0000 000A99C0 1E2C1002\n040B0000 000A99D0 1E2C1002\n\n"
+        },
+        {
+            "title": "[mov speed x2]",
+            "content": "[mov speed x2]\n040B0000 00B31610 1E202800\n040B0000 00B31614 AA1403E0\n040B0000 00B31618 D65F03C0\n040B0000 004E747C 94192865\n\n"
+        },
+        {
+            "title": "[mov speed x4]",
+            "content": "[mov speed x4]\n040B0000 00B31610 1E202800\n040B0000 00B31614 1E202800\n040B0000 00B31618 AA1403E0\n040B0000 00B3161C D65F03C0\n040B0000 004E747C 94192865\n\n"
+        },
+        {
+            "title": "[mov speed normal]",
+            "content": "[mov speed normal]\n040B0000 004E747C AA1403E0\n\n"
+        },
+        {
+            "title": "[hold B to float]",
+            "content": "[hold B to float]\n040B0000 004B1F58 BD413660\n80000002\n040B0000 004B1F58 1E201000\n20000000\n\n"
+        },
+        {
+            "title": "[drop dmg none]",
+            "content": "[drop dmg none]\n040B0000 004CFDF4 D503201F\n040B0000 004CFDF8 D503201F\n\n"
+        },
+        {
+            "title": "[jump x8]",
+            "content": "[jump x8]\n040B0000 004E2F08 1E241000\n\n"
+        },
+        {
+            "title": "[jump x16]",
+            "content": "[jump x16]\n040B0000 004E2F08 1E261000\n\n"
+        },
+        {
+            "title": "[jump normal]",
+            "content": "[jump normal]\n040B0000 004E2F08 1E2E1000\n\n"
+        },
+        {
+            "title": "[all collectibles ON]",
+            "content": "[all collectibles ON]\n040B0000 00B31680 F9400109\n040B0000 00B31684 D283BA04\n040B0000 00B31688 F2A00384\n040B0000 00B3168C CB040123\n040B0000 00B31690 52800005\n040B0000 00B31694 52802566\n040B0000 00B31698 52800149\n040B0000 00B3169C 5280028A\n040B0000 00B316A0 5280E78B\n040B0000 00B316A4 52800027\n040B0000 00B316A8 6B0600BF\n040B0000 00B316AC 5400016C\n040B0000 00B316B0 79000065\n040B0000 00B316B4 39000869\n040B0000 00B316B8 39001869\n040B0000 00B316BC 3900206A\n040B0000 00B316C0 7900086B\n040B0000 00B316C4 39004067\n040B0000 00B316C8 91005063\n040B0000 00B316CC 110004A5\n040B0000 00B316D0 1100056B\n040B0000 00B316D4 17FFFFF5\n040B0000 00B316D8 F9400108\n040B0000 00B316DC D65F03C0\n040B0000 00589E84 94169DFF\n\n"
+        },
+        {
+            "title": "[all collectibles OFF]",
+            "content": "[all collectibles OFF]\n040B0000 00589E84 F9400108"
+        }
+    ],
+    "1EC9082CB52ECAF5": [
+        {
+            "title": "[Always full Party Gauge (on)]",
+            "content": "[Always full Party Gauge (on)]\n04000000 0054AA44 1A89B128\n04000000 0054A974 1A89B128\n04000000 0054A94C 1A89B128\n\n"
+        },
+        {
+            "title": "[Always full Party Gauge (off)]",
+            "content": "[Always full Party Gauge (off)]\n04000000 0054AA44 1A89B108\n04000000 0054A974 1A89B108\n04000000 0054A94C 1A89B108\n\n"
+        },
+        {
+            "title": "[No Cooldown (on)]",
+            "content": "[No Cooldown (on)]\n04000000 000AAE58 1E2703E2\n04000000 000AAEC8 1E2703E1\n04000000 000AAF48 1E2703E0\n\n"
+        },
+        {
+            "title": "[No Cooldown (off)]",
+            "content": "[No Cooldown (off)]\n04000000 000AAE58 1E203842\n04000000 000AAEC8 1E223821\n04000000 000AAF48 1E203820\n\n"
+        },
+        {
+            "title": "[Enable Gem Crafting in Menu (on)]",
+            "content": "[Enable Gem Crafting in Menu (on)]\n04000000 00100F18 52800000\n04000000 00100F2C 52800000\n\n"
+        },
+        {
+            "title": "[Enable Gem Crafting in Menu (off)]",
+            "content": "[Enable Gem Crafting in Menu (off)]\n04000000 00100F18 12000100\n04000000 00100F2C 12000100\n\n"
+        },
+        {
+            "title": "[Buy Items for free (on)]",
+            "content": "[Buy Items for free (on)]\n04000000 001CB0F0 52800000\n04000000 001CB0F4 D65F03C0\n\n"
+        },
+        {
+            "title": "[Buy Items for free (off)]",
+            "content": "[Buy Items for free (off)]\n04000000 001CB0F0 AA0003E8\n04000000 001CB0F4 F9409C01\n\n"
+        },
+        {
+            "title": "[Always drop biggest treasure chest (on)]",
+            "content": "[Always drop biggest treasure chest (on)]\n04000000 000FBF90 52800060\n04000000 000FBF94 D65F03C0\n\n"
+        },
+        {
+            "title": "[Always drop biggest treasure chest (off)]",
+            "content": "[Always drop biggest treasure chest (off)]\n04000000 000FBF90 D10243FF\n04000000 000FBF94 A9036FFC\n\n"
+        },
+        {
+            "title": "[No Fall Damage (on)]",
+            "content": "[No Fall Damage (on)]\n04000000 004D0778 D503201F\n\n"
+        },
+        {
+            "title": "[No Fall Damage (off)]",
+            "content": "[No Fall Damage (off)]\n04000000 004D0778 54000145\n\n"
+        },
+        {
+            "title": "[5x Jump Velocity (on)]",
+            "content": "[5x Jump Velocity (on)]\n04000000 004E3858 1E229000\n\n"
+        },
+        {
+            "title": "[10x Jump Velocity (on)]",
+            "content": "[10x Jump Velocity (on)]\n04000000 004E3858 1E249000\n\n"
+        },
+        {
+            "title": "[Default Jump Velocity (off)]",
+            "content": "[Default Jump Velocity (off)]\n04000000 004E3858 1E2E1000\n\n"
+        },
+        {
+            "title": "[2x Move Velocity (Hold ZL)]",
+            "content": "[2x Move Velocity (Hold ZL)]\n04000000 004E7DC8 BD4012E0\n80000100\n04000000 004E7DC8 1E201000\n20000000\n\n"
+        },
+        {
+            "title": "[5x Move Velocity (Hold ZL)]",
+            "content": "[5x Move Velocity (Hold ZL)]\n04000000 004E7DC8 BD4012E0\n80000100\n04000000 004E7DC8 1E229000\n20000000\n\n"
+        },
+        {
+            "title": "[10x Move Velocity (Hold ZL)]",
+            "content": "[10x Move Velocity (Hold ZL)]\n04000000 004E7DC8 BD4012E0\n80000100\n04000000 004E7DC8 1E249000\n20000000\n\n"
+        },
+        {
+            "title": "[01# All Max Health]",
+            "content": "[01# All Max Health]\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 0015791C\n300E0000 00000007\n640F0000 00000000 0000270F\n780F0000 00003480\n310E0000 20000000\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 00157954\n300E0000 00000007\n640F0000 00000000 0000270F\n780F0000 00003480\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[02# All AP No Cooldown]",
+            "content": "[02# All AP No Cooldown]\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 0015791C\n300E0000 00000007\n640F0000 00000000 42C80000\n780F0000 00003480\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[03# All Max Abillities]",
+            "content": "[03# All Max Abillities]\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 00157958\n300E0000 00000007\n640F0000 00000000 270F270F\n780F0000 00003480\n310E0000 20000000\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 0015795C\n300E0000 00000007\n640F0000 00000000 270F270F\n780F0000 00003480\n310E0000 20000000\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 00157968\n300E0000 00000007\n640F0000 00000000 270F270F\n780F0000 00003480\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[04# All Max Critical hit range]",
+            "content": "[04# All Max Critical hit range]\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 00157970\n300E0000 00000007\n640F0000 00000000 000003E7\n780F0000 00003480\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[05# All Max XP]",
+            "content": "[05# All Max XP]\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 00157928\n300E0000 00000007\n640F0000 00000000 05F5E0FF\n780F0000 00003480\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[06# All Max AP]",
+            "content": "[06# All Max AP]\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 00157934\n300E0000 00000007\n640F0000 00000000 05F5E0FF\n780F0000 00003480\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[07# All Max SP]",
+            "content": "[07# All Max SP]\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 0015A700\n300E0000 00000007\n640F0000 00000000 0001869F\n780F0000 00003480\n310E0000 20000000\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 0015A704\n300E0000 00000007\n640F0000 00000000 0001869F\n780F0000 00003480\n310E0000 20000000\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 0015A708\n300E0000 00000007\n640F0000 00000000 0001869F\n780F0000 00003480\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[08# moonjump]",
+            "content": "[08# moonjump]\n80000002\n580F0000 01B472D8\n580F1000 000005F0\n580F1000 00000018\n580F1000 00000038\n780F0000 00000264\n640F0000 00000000 40200000\n20000000\n\n"
+        },
+        {
+            "title": "[09# Speed x 2 (hold ZL)]",
+            "content": "[09# Speed x 2 (hold ZL)]\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 00157A30\n300E0000 00000007\n640F0000 00000000 3f800000\n780F0000 00003480\n310E0000 20000000\n80000100\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 00157A30\n300E0000 00000007\n640F0000 00000000 40000000\n780F0000 00003480\n310E0000 20000000\n20000000\n\n"
+        },
+        {
+            "title": "[10# Max Money]",
+            "content": "[10# Max Money]\n04000000 000F04C8 3B9AC9FF\n04000000 000F04F0 18FFFEC0\n\n"
+        },
+        {
+            "title": "[11# Party Gauge Max]",
+            "content": "[11# Party Gauge Max]\n040B0000 0054A944 D503201F\n040B0000 0054A96C D503201F\n\n"
+        },
+        {
+            "title": "[Party Gauge Max (off)]",
+            "content": "[Party Gauge Max (off)]\n040B0000 0054A944 7104B11F\n040B0000 0054A96C 7104B11F\n\n"
+        },
+        {
+            "title": "[12# Unlock map and Landmarks]",
+            "content": "[12# Unlock map and Landmarks]\n04000000 001C4CEC D503201F\n04000000 001C22AC D503201F\n\n"
+        },
+        {
+            "title": "[Unlock map and Landmarks(off)]",
+            "content": "[Unlock map and Landmarks(off)]\n04000000 001C4CEC 36000160\n04000000 001C22AC 360000A0\n\n"
+        },
+        {
+            "title": "[13# Materials & valuables 50 times]",
+            "content": "[13# Materials & valuables 50 times]\n040B0000 00B3A280 52800651\n040B0000 00B3A284 1B117C42\n040B0000 00B3A288 AA0003F4\n040B0000 00B3A28C D65F03C0\n040B0000 000F3114 94291C5B\n\n"
+        },
+        {
+            "title": "[Material & valuables (off)]",
+            "content": "[Material & valuables (off)]\n040B0000 000F3114 AA0003F4\n\n"
+        },
+        {
+            "title": "[14# Always full Party Gauge (on)]",
+            "content": "[14# Always full Party Gauge (on)]\n04000000 0054AA44 1A89B128\n04000000 0054A974 1A89B128\n04000000 000AAF48 1A89B128\n\n"
+        },
+        {
+            "title": "[Always full Party Gauge (off)]",
+            "content": "[Always full Party Gauge (off)]\n04000000 0054AA44 1A89B108\n04000000 0054A974 1A89B108\n04000000 000AAF48 1A89B108\n\n"
+        },
+        {
+            "title": "[15# No Cooldown (on)]",
+            "content": "[15# No Cooldown (on)]\n04000000 000AAE58 1E2703E2\n04000000 000AAEC8 1E2703E1\n04000000 000AAF48 1E2703E0\n\n"
+        },
+        {
+            "title": "[No Cooldown (off)]",
+            "content": "[No Cooldown (off)]\n04000000 000AAE58 1E203842\n04000000 000AAEC8 1E223821\n04000000 000AAF48 1E203820\n\n"
+        },
+        {
+            "title": "[16# Enable Gem Crafting in Menu (on)]",
+            "content": "[16# Enable Gem Crafting in Menu (on)]\n04000000 00100F18 52800000\n04000000 00100F2C 52800000\n\n"
+        },
+        {
+            "title": "[Enable Gem Crafting in Menu (off)]",
+            "content": "[Enable Gem Crafting in Menu (off)]\n04000000 00100F18 12000100\n04000000 00100F2C 12000100\n\n"
+        },
+        {
+            "title": "[17# Buy Items for free (on)]",
+            "content": "[17# Buy Items for free (on)]\n04000000 001CB0F0 52800000\n04000000 001CB0F4 D65F03C0\n\n"
+        },
+        {
+            "title": "[Buy Items for free (off)]",
+            "content": "[Buy Items for free (off)]\n04000000 001CB0F0 AA0003E8\n04000000 001CB0F4 F9409C01\n\n"
+        },
+        {
+            "title": "[18# Always drop biggest treasure chest (on)]",
+            "content": "[18# Always drop biggest treasure chest (on)]\n04000000 000FBF90 52800060\n04000000 000FBF94 D65F03C0\n\n"
+        },
+        {
+            "title": "[Always drop biggest treasure chest (off)]",
+            "content": "[Always drop biggest treasure chest (off)]\n04000000 000FBF90 D10243FF\n04000000 000FBF94 A9036FFC\n\n"
+        },
+        {
+            "title": "[19# No Fall Damage (on)]",
+            "content": "[19# No Fall Damage (on)]\n04000000 004D0778 D503201F\n\n"
+        },
+        {
+            "title": "[No Fall Damage (off)]",
+            "content": "[No Fall Damage (off)]\n04000000 004D0778 54000145\n\n"
+        },
+        {
+            "title": "[20# 5x Jump Velocity (on)]",
+            "content": "[20# 5x Jump Velocity (on)]\n04000000 004E3858 1E229000\n\n"
+        },
+        {
+            "title": "[10x Jump Velocity (on)]",
+            "content": "[10x Jump Velocity (on)]\n04000000 004E3858 1E249000\n\n"
+        },
+        {
+            "title": "[Default Jump Velocity (off)]",
+            "content": "[Default Jump Velocity (off)]\n04000000 004E3858 1E2E1000\n\n"
+        },
+        {
+            "title": "[21# 2x Move Velocity (Hold ZL)]",
+            "content": "[21# 2x Move Velocity (Hold ZL)]\n04000000 004E7DC8 BD4012E0\n80000100\n04000000 004E7DC8 1E201000\n20000000\n\n"
+        },
+        {
+            "title": "[5x Move Velocity (Hold ZL)]",
+            "content": "[5x Move Velocity (Hold ZL)]\n04000000 004E7DC8 BD4012E0\n80000100\n04000000 004E7DC8 1E229000\n20000000\n\n"
+        },
+        {
+            "title": "[10x Move Velocity (Hold ZL)]",
+            "content": "[10x Move Velocity (Hold ZL)]\n04000000 004E7DC8 BD4012E0\n80000100\n04000000 004E7DC8 1E249000\n20000000\n\n"
+        },
+        {
+            "title": "[Shulk Talent Art no Cooldown]",
+            "content": "[Shulk Talent Art no Cooldown]\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 00157920\n300E0000 00000007\n640F0000 00000000 42C80000\n780F0000 0015A3CC\n\n"
+        },
+        {
+            "title": "[shulk strength]",
+            "content": "[shulk strength]\n021F0000 28F2698C 0000270F\n021F0000 28F269E0 0000270F\n\n"
+        },
+        {
+            "title": "[Collectable and Materials 90]",
+            "content": "[Collectable and Materials 90]\n300E0000 00000320\n01110000 28E049B8 0000005A\n78010000 00000014\n310E0000\n\n"
+        },
+        {
+            "title": "[Money is not reduced]",
+            "content": "[Money is not reduced]\n040B0000 00B3A21C 7100003F\n040B0000 00B3A220 5400004C\n040B0000 00B3A224 2A1F03E1\n040B0000 00B3A228 2A0103F3\n040B0000 00B3A22C D65F03C0\n040B0000 000F0554 94292732\n\n"
+        },
+        {
+            "title": "[4 times experience]",
+            "content": "[4 times experience]\n040B0000 00B3A230 0B090BE9\n040B0000 00B3A234 0B080128\n040B0000 00B3A238 D65F03C0\n040B0000 000EE5BC 94292F1D\n\n"
+        },
+        {
+            "title": "[8 experience points]",
+            "content": "[8 experience points]\n040B0000 00B3A230 0B090FE9\n040B0000 00B3A234 0B080128\n040B0000 00B3A238 D65F03C0\n040B0000 000EE5BC 94292F1D\n\n"
+        },
+        {
+            "title": "[16 experience points]",
+            "content": "[16 experience points]\n040B0000 00B3A230 0B0913E9\n040B0000 00B3A234 0B080128\n040B0000 00B3A238 D65F03C0\n040B0000 000EE5BC 94292F1D\n\n"
+        },
+        {
+            "title": "[32 times experience]",
+            "content": "[32 times experience]\n040B0000 00B3A230 0B0917E9\n040B0000 00B3A234 0B080128\n040B0000 00B3A238 D65F03C0\n040B0000 000EE5BC 94292F1D\n\n"
+        },
+        {
+            "title": "[AP points 4 times]",
+            "content": "[AP points 4 times]\n040B0000 00B3A240 0B090BE9\n040B0000 00B3A244 0B080128\n040B0000 00B3A248 D65F03C0\n040B0000 000EE5F8 94292F12\n\n"
+        },
+        {
+            "title": "[AP points 8 times]",
+            "content": "[AP points 8 times]\n040B0000 00B3A240 0B090FE9\n040B0000 00B3A244 0B080128\n040B0000 00B3A248 D65F03C0\n040B0000 000EE5F8 94292F12\n\n"
+        },
+        {
+            "title": "[16 times of AP points]",
+            "content": "[16 times of AP points]\n040B0000 00B3A240 0B0913E9\n040B0000 00B3A244 0B080128\n040B0000 00B3A248 D65F03C0\n040B0000 000EE5F8 94292F12\n\n"
+        },
+        {
+            "title": "[32 times of AP points]",
+            "content": "[32 times of AP points]\n040B0000 00B3A240 0B0917E9\n040B0000 00B3A244 0B080128\n040B0000 00B3A248 D65F03C0\n040B0000 000EE5F8 94292F12\n\n"
+        },
+        {
+            "title": "[SP points 4 times]",
+            "content": "[SP points 4 times]\n040B0000 000B68AC 0B010929\n\n"
+        },
+        {
+            "title": "[SP points 8 times]",
+            "content": "[SP points 8 times]\n040B0000 000B68AC 0B010D29\n\n"
+        },
+        {
+            "title": "[16 times of SP points]",
+            "content": "[16 times of SP points]\n040B0000 000B68AC 0B011129\n\n"
+        },
+        {
+            "title": "[32 times of SP points]",
+            "content": "[32 times of SP points]\n040B0000 000B68AC 0B011529\n\n"
+        },
+        {
+            "title": "[Materials & valuables 4 times]",
+            "content": "[Materials & valuables 4 times]\n040B0000 00B3A250 52800091\n040B0000 00B3A254 1B117C42\n040B0000 00B3A258 AA0003F4\n040B0000 00B3A25C D65F03C0\n040B0000 000F3114 94291C4F\n\n"
+        },
+        {
+            "title": "[Materials & valuables 8 times]",
+            "content": "[Materials & valuables 8 times]\n040B0000 00B3A250 52800111\n040B0000 00B3A254 1B117C42\n040B0000 00B3A258 AA0003F4\n040B0000 00B3A25C D65F03C0\n040B0000 000F3114 94291C4F\n\n"
+        },
+        {
+            "title": "[Material & valuables restoration]",
+            "content": "[Material & valuables restoration]\n040B0000 000F3114 AA0003F4\n\n"
+        },
+        {
+            "title": "[4 times the amount of collectibles]",
+            "content": "[4 times the amount of collectibles]\n040B0000 00B3A260 52800091\n040B0000 00B3A264 1B117C42\n040B0000 00B3A268 2A0203F7\n040B0000 00B3A26C D65F03C0\n040B0000 000E3138 94295C4A\n\n"
+        },
+        {
+            "title": "[8 times the amount of collectibles]",
+            "content": "[8 times the amount of collectibles]\n040B0000 00B3A260 52800111\n040B0000 00B3A264 1B117C42\n040B0000 00B3A268 2A0203F7\n040B0000 00B3A26C D65F03C0\n040B0000 000E3138 94295C4A\n\n"
+        },
+        {
+            "title": "[4 times the bond coin]",
+            "content": "[4 times the bond coin]\n040B0000 00B3A270 52800091\n040B0000 00B3A274 1B117C21\n040B0000 00B3A278 2A0103F3\n040B0000 00B3A27C D65F03C0\n040B0000 000ED204 9429341B\n\n"
+        },
+        {
+            "title": "[8 times the bond coin]",
+            "content": "[8 times the bond coin]\n040B0000 00B3A270 52800111\n040B0000 00B3A274 1B117C21\n040B0000 00B3A278 2A0103F3\n040B0000 00B3A27C D65F03C0\n040B0000 000ED204 9429341B\n\n"
+        },
+        {
+            "title": "[Martial art coin 4 times]",
+            "content": "[Martial art coin 4 times]\n040B0000 00B3A280 52800091\n040B0000 00B3A284 1B117C21\n040B0000 00B3A288 2A0203F5\n040B0000 00B3A28C D65F03C0\n040B0000 000F0630 94292714\n\n"
+        },
+        {
+            "title": "[8th martial art coin]",
+            "content": "[8th martial art coin]\n040B0000 00B3A280 52800111\n040B0000 00B3A284 1B117C21\n040B0000 00B3A288 2A0203F5\n040B0000 00B3A28C D65F03C0\n040B0000 000F0630 94292714\n\n"
+        },
+        {
+            "title": "[Team Meter Max]",
+            "content": "[Team Meter Max]\n040B0000 0054A94C 1A89B128\n040B0000 0054A974 1A89B128\n\n"
+        },
+        {
+            "title": "[8 times the bond experience]",
+            "content": "[8 times the bond experience]\n040B0000 00B3A290 1E380003\n040B0000 00B3A294 52800104\n040B0000 00B3A298 1B047C63\n040B0000 00B3A29C 1E220060\n040B0000 00B3A2A0 1E202820\n040B0000 00B3A2A4 D65F03C0\n040B0000 000ED814 9429329F\n040B0000 000ED848 94293292\n040B0000 000ED898 9429327E\n040B0000 000ED8E8 9429326A\n040B0000 000ED924 9429325B\n040B0000 000ED958 9429324E\n\n\n"
+        },
+        {
+            "title": "[Moving speed 2 times]",
+            "content": "[Moving speed 2 times]\n040B0000 00B3A2C0 1E201001\n040B0000 00B3A2C4 BD0122C1\n040B0000 00B3A2C8 B9401AC8\n040B0000 00B3A2CC D65F03C0\n040B0000 000EE5B4 94292F43\n\n"
+        },
+        {
+            "title": "[Maximum crit rate]",
+            "content": "[Maximum crit rate]\n040B0000 00B3A2D0 52800C91\n040B0000 00B3A2D4 B90062D1\n040B0000 00B3A2D8 B9001AC8\n040B0000 00B3A2DC D65F03C0\n040B0000 000EE5C8 94292F42\n\n"
+        },
+        {
+            "title": "[Reset Talent CD before entering battle]",
+            "content": "[Reset Talent CD before entering battle]\n040B0000 00B3A2E0 52A85911\n040B0000 00B3A2E4 B90012D1\n040B0000 00B3A2E8 B9400689\n040B0000 00B3A2EC D65F03C0\n040B0000 000EE5B8 94292F4A\n\n"
+        },
+        {
+            "title": "[HP]",
+            "content": "[HP]\n04100000 28F268FC 0000270F\n04100000 28F29D7C 0000270F\n04100000 28F2D1FC 0000270F\n04100000 28F3067C 0000270F\n04100000 28F33AFC 0000270F\n04100000 28F36F7C 0000270F\n04100000 28F3A3FC 0000270F\n04100000 28F3D87C 0000270F\n\n"
+        },
+        {
+            "title": "[All char Strenght]",
+            "content": "[All char Strenght]\n300E0000 00000008\n021F0000 28F2698C 0000270F\n021F0000 28F269E0 0000270F\n780F0000 00003480\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[Max Two Hidden SP(Test)]",
+            "content": "[Max Two Hidden SP(Test)]\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 0015A70C\n300E0000 00000008\n640F0000 00000000 0001869F\n780F0000 00003480\n310E0000 20000000\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 0015A710\n300E0000 00000008\n640F0000 00000000 0001869F\n780F0000 00003480\n310E0000 20000000"
+        }
+    ],
+    "2E071B4562D6656B": [
+        {
+            "title": "[01# moonjump]",
+            "content": "[01# moonjump]\n80000002\n580F0000 01B472D8\n580F1000 000005F0\n580F1000 00000018\n580F1000 00000038\n780F0000 00000264\n640F0000 00000000 40200000\n20000000\n\n"
+        },
+        {
+            "title": "[02# P1 Max Health]",
+            "content": "[02# P1 Max Health]\n580F0000 01419990\n580F1000 00005048\n580F1000 00000050\n580F1000 00000020\n780F0000 00155F9C\n640F0000 00000000 0000270F\n780F0000 00000038\n640F0000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[03# P1 No Cooldown]",
+            "content": "[03# P1 No Cooldown]\n580F0000 01419990\n580F1000 00005048\n580F1000 00000050\n580F1000 00000020\n780F0000 00155FA0\n640F0000 00000000 42C80000\n\n"
+        },
+        {
+            "title": "[04# P1 Max XP]",
+            "content": "[04# P1 Max XP]\n580F0000 01419990\n580F1000 00005048\n580F1000 00000050\n580F1000 00000020\n780F0000 00155FA8\n640F0000 00000000 05F5E0FF\n\n"
+        },
+        {
+            "title": "[05# P2 Max health]",
+            "content": "[05# P2 Max health]\n580F0000 01419990\n580F1000 00005048\n580F1000 00000050\n580F1000 00000020\n780F0000 0015941C\n640F0000 00000000 0000270F\n780F0000 00000038\n640F0000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[06# P2 No Cooldown]",
+            "content": "[06# P2 No Cooldown]\n580F0000 01419990\n580F1000 00005048\n580F1000 00000050\n580F1000 00000020\n780F0000 00159420\n640F0000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[07# P2 Max XP]",
+            "content": "[07# P2 Max XP]\n580F0000 01419990\n580F1000 00005048\n580F1000 00000050\n580F1000 00000020\n780F0000 00159428\n640F0000 00000000 05F5E0FF\n\n"
+        },
+        {
+            "title": "[Max Money]",
+            "content": "[Max Money]\n04000000 000F0498 3B9AC9FF\n04000000 000F04C0 18FFFEC0\n\n"
+        },
+        {
+            "title": "[01# All Max Health]",
+            "content": "[01# All Max Health]\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 0015791C\n640F0000 00000000 0000270F\n780F0000 00000038\n640F0000 00000000 0000270F\n780F0000 00003448\n640F0000 00000000 0000270F\n780F0000 00000038\n640F0000 00000000 0000270F\n780F0000 00003448\n640F0000 00000000 0000270F\n780F0000 00000038\n640F0000 00000000 0000270F\n780F0000 00003448\n640F0000 00000000 0000270F\n780F0000 00000038\n640F0000 00000000 0000270F\n780F0000 00003448\n640F0000 00000000 0000270F\n780F0000 00000038\n640F0000 00000000 0000270F\n780F0000 00003448\n640F0000 00000000 0000270F\n780F0000 00000038\n640F0000 00000000 0000270F\n780F0000 00003448\n640F0000 00000000 0000270F\n780F0000 00000038\n640F0000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[02# All AP No Cooldown]",
+            "content": "[02# All AP No Cooldown]\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 00157920\n640F0000 00000000 42C80000\n780F0000 00003480\n640F0000 00000000 42C80000\n780F0000 00003480\n640F0000 00000000 42C80000\n780F0000 00003480\n640F0000 00000000 42C80000\n780F0000 00003480\n640F0000 00000000 42C80000\n780F0000 00003480\n640F0000 00000000 42C80000\n780F0000 00003480\n640F0000 00000000 42C80000\n\n"
+        },
+        {
+            "title": "[03# All Max Abillities]",
+            "content": "[03# All Max Abillities]\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 00157958\n640F0000 00000000 270F270F\n780F0000 00000004\n640F0000 00000000 270F270F\n780F0000 0000000C\n640F0000 00000000 270F270F\n780F0000 00003470\n640F0000 00000000 270F270F\n780F0000 00000004\n640F0000 00000000 270F270F\n780F0000 0000000C\n640F0000 00000000 270F270F\n780F0000 00003470\n640F0000 00000000 270F270F\n780F0000 00000004\n640F0000 00000000 270F270F\n780F0000 0000000C\n640F0000 00000000 270F270F\n780F0000 00003470\n640F0000 00000000 270F270F\n780F0000 00000004\n640F0000 00000000 270F270F\n780F0000 0000000C\n640F0000 00000000 270F270F\n780F0000 00003470\n640F0000 00000000 270F270F\n780F0000 00000004\n640F0000 00000000 270F270F\n780F0000 0000000C\n640F0000 00000000 270F270F\n780F0000 00003470\n640F0000 00000000 270F270F\n780F0000 00000004\n640F0000 00000000 270F270F\n780F0000 0000000C\n640F0000 00000000 270F270F\n780F0000 00003470\n640F0000 00000000 270F270F\n780F0000 00000004\n640F0000 00000000 270F270F\n780F0000 0000000C\n640F0000 00000000 270F270F\n\n"
+        },
+        {
+            "title": "[04# All Max Critical hit range]",
+            "content": "[04# All Max Critical hit range]\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 00157970\n640F0000 00000000 000003E7\n780F0000 00003480\n640F0000 00000000 000003E7\n780F0000 00003480\n640F0000 00000000 000003E7\n780F0000 00003480\n640F0000 00000000 000003E7\n780F0000 00003480\n640F0000 00000000 000003E7\n780F0000 00003480\n640F0000 00000000 000003E7\n780F0000 00003480\n640F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[05# All Max XP]",
+            "content": "[05# All Max XP]\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 00157928\n640F0000 00000000 05F5E0FF\n780F0000 00003480\n640F0000 00000000 05F5E0FF\n780F0000 00003480\n640F0000 00000000 05F5E0FF\n780F0000 00003480\n640F0000 00000000 05F5E0FF\n780F0000 00003480\n640F0000 00000000 05F5E0FF\n780F0000 00003480\n640F0000 00000000 05F5E0FF\n780F0000 00003480\n640F0000 00000000 05F5E0FF\n\n"
+        },
+        {
+            "title": "[06# All Max AP]",
+            "content": "[06# All Max AP]\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 00157934\n640F0000 00000000 05F5E0FF\n780F0000 00003480\n640F0000 00000000 05F5E0FF\n780F0000 00003480\n640F0000 00000000 05F5E0FF\n780F0000 00003480\n640F0000 00000000 05F5E0FF\n780F0000 00003480\n640F0000 00000000 05F5E0FF\n780F0000 00003480\n640F0000 00000000 05F5E0FF\n780F0000 00003480\n640F0000 00000000 05F5E0FF\n\n"
+        },
+        {
+            "title": "[07# All Max SP]",
+            "content": "[07# All Max SP]\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 0015A700\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n780F0000 00003478\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n780F0000 00003478\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n780F0000 00003478\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n780F0000 00003478\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n780F0000 00003478\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n780F0000 00003478\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n\n"
+        },
+        {
+            "title": "[8 times the amount of material to start]",
+            "content": "[8 times the amount of material to start]\n040B0000 00B3A080 52800111\n040B0000 00B3A084 1B117C42\n040B0000 00B3A088 AA0003F4\n040B0000 00B3A08C D65F03C0\n040B0000 000F30E4 94291BE7\n\n"
+        },
+        {
+            "title": "[16 times of SP points]",
+            "content": "[16 times of SP points]\n040B0000 00B3A070 0B0913E9\n040B0000 00B3A074 0B080128\n040B0000 00B3A078 D65F03C0\n040B0000 000EE5C8 94292EAA\n\n"
+        },
+        {
+            "title": "[16 experience points]",
+            "content": "[16 experience points]\n040B0000 00B3A060 0B0913E9\n040B0000 00B3A064 0B080128\n040B0000 00B3A068 D65F03C0\n040B0000 000EE58C 94292EB5\n\n"
+        },
+        {
+            "title": "[moonjump]",
+            "content": "[moonjump]\n80000002\n580F0000 01B472D8\n580F1000 000005F0\n580F1000 00000018\n580F1000 00000038\n780F0000 00000264\n640F0000 00000000 40200000\n20000000\n\n"
+        },
+        {
+            "title": "[noppon stone 999999]",
+            "content": "[noppon stone 999999]\n04100000 28DD3050 05F5E0FF\n\n"
+        },
+        {
+            "title": "[Collectable and materials 99]",
+            "content": "[Collectable and materials 99]\n300E0000 00000320\n01100000 28E049B8 00000063\n78000000 00000014\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[2x experience points]",
+            "content": "[2x experience points]\n040B0000 00B3A060 0B090BE9\n040B0000 00B3A064 0B080128\n040B0000 00B3A068 D65F03C0\n040B0000 000EE58C 94292EB5\n\n"
+        },
+        {
+            "title": "[Unlock All Arts]",
+            "content": "[Unlock All Arts]\n30010000 0000005C\n04110000 28F826F4 00010001\n78010000 00000004\n31010000\n\n"
+        },
+        {
+            "title": "[Unlock and Max All Arts]",
+            "content": "[Unlock and Max All Arts]\n30010000 0000005C\n04110000 28F826F4 000A000A\n78010000 00000004\n31010000\n\n"
+        },
+        {
+            "title": "[Unlock and Max OP All Arts]",
+            "content": "[Unlock and Max OP All Arts]\n30010000 0000005C\n04110000 28F826F4 000C000C\n78010000 00000004\n31010000\n\n"
+        },
+        {
+            "title": "[2x experience points]",
+            "content": "[2x experience points]\n040B0000 00B3A060 0B090BE9\n040B0000 00B3A064 0B080128\n040B0000 00B3A068 D65F03C0\n040B0000 000EE58C 94292EB5\n\n"
+        },
+        {
+            "title": "[01# All Max Health]",
+            "content": "[01# All Max Health]\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 0015791C\n300E0000 00000007\n640F0000 00000000 0000270F\n780F0000 00003480\n310E0000 20000000\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 00157954\n300E0000 00000007\n640F0000 00000000 0000270F\n780F0000 00003480\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[02# All AP No Cooldown]",
+            "content": "[02# All AP No Cooldown]\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 0015791C\n300E0000 00000007\n640F0000 00000000 42C80000\n780F0000 00003480\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[03# All Max Abillities]",
+            "content": "[03# All Max Abillities]\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 00157958\n300E0000 00000007\n640F0000 00000000 270F270F\n780F0000 00003480\n310E0000 20000000\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 0015795C\n300E0000 00000007\n640F0000 00000000 270F270F\n780F0000 00003480\n310E0000 20000000\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 00157968\n300E0000 00000007\n640F0000 00000000 270F270F\n780F0000 00003480\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[04# All Max Critical hit range]",
+            "content": "[04# All Max Critical hit range]\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 00157970\n300E0000 00000007\n640F0000 00000000 000003E7\n780F0000 00003480\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[05# All Max XP]",
+            "content": "[05# All Max XP]\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 00157928\n300E0000 00000007\n640F0000 00000000 05F5E0FF\n780F0000 00003480\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[06# All Max AP]",
+            "content": "[06# All Max AP]\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 00157934\n300E0000 00000007\n640F0000 00000000 05F5E0FF\n780F0000 00003480\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[07# All Max SP]",
+            "content": "[07# All Max SP]\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 0015A700\n300E0000 00000007\n640F0000 00000000 0001869F\n780F0000 00003480\n310E0000 20000000\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 0015A704\n300E0000 00000007\n640F0000 00000000 0001869F\n780F0000 00003480\n310E0000 20000000\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 0015A708\n300E0000 00000007\n640F0000 00000000 0001869F\n780F0000 00003480\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[08# moonjump]",
+            "content": "[08# moonjump]\n80000002\n580F0000 01B472D8\n580F1000 000005F0\n580F1000 00000018\n580F1000 00000038\n780F0000 00000264\n640F0000 00000000 40200000\n20000000\n\n"
+        },
+        {
+            "title": "[09# Speed x 2]",
+            "content": "[09# Speed x 2]\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 00157A30\n300E0000 00000007\n640F0000 00000000 3f800000\n780F0000 00003480\n310E0000 20000000\n80000001\n580F0000 014068C8\n580F1000 00000210\n580F1000 000002B0\n580F1000 000000E0\n780F0000 00157A30\n300E0000 00000007\n640F0000 00000000 40000000\n780F0000 00003480\n310E0000 20000000\n20000000\n\n"
+        },
+        {
+            "title": "[10# Max Money]",
+            "content": "[10# Max Money]\n04000000 000F0498 3B9AC9FF\n04000000 000F04C0 18FFFEC0\n\n"
+        },
+        {
+            "title": "[11# Party Gauge Max]",
+            "content": "[11# Party Gauge Max]\n040B0000 0054A7B4 D503201F\n040B0000 0054A7DC D503201F\n\n"
+        },
+        {
+            "title": "[12# Unlock map and Landmarks]",
+            "content": "[12# Unlock map and Landmarks]\n04000000 001C21DC D503201F\n04000000 001C4C1C D503201F\n\n"
+        },
+        {
+            "title": "[Unlock map and Landmarks(off)]",
+            "content": "[Unlock map and Landmarks(off)]\n04000000 001C21DC 360000A0\n04000000 001C4C1C 36000160\n\n"
+        },
+        {
+            "title": "[13# Materials & valuables 50 times]",
+            "content": "[13# Materials & valuables 50 times]\n040B0000 00B3A080 52800651\n040B0000 00B3A084 1B117C42\n040B0000 00B3A088 AA0003F4\n040B0000 00B3A08C D65F03C0\n040B0000 000F30E4 94291BE7\n\n"
+        },
+        {
+            "title": "[Material & valuables (off)]",
+            "content": "[Material & valuables (off)]\n040B0000 000F30E4 AA0003F4\n\n"
+        },
+        {
+            "title": "[Always full Party Gauge (on)]",
+            "content": "[Always full Party Gauge (on)]\n04000000 0054A8B4 1A89B128\n04000000 0054A7E4 1A89B128\n04000000 0054A7BC 1A89B128\n"
+        },
+        {
+            "title": "[Always full Party Gauge (off)]",
+            "content": "[Always full Party Gauge (off)]\n04000000 0054A8B4 1A89B108\n04000000 0054A7E4 1A89B108\n04000000 0054A7BC 1A89B108\n\n"
+        },
+        {
+            "title": "[No Cooldown (on)]",
+            "content": "[No Cooldown (on)]\n04000000 000AAE68 1E2703E2\n04000000 000AAED8 1E2703E1\n04000000 000AAF58 1E2703E0\n"
+        },
+        {
+            "title": "[No Cooldown (off)]",
+            "content": "[No Cooldown (off)]\n04000000 000AAE68 1E203842\n04000000 000AAED8 1E223821\n04000000 000AAF58 1E203820\n\n"
+        },
+        {
+            "title": "[Enable Gem Crafting in Menu (on)]",
+            "content": "[Enable Gem Crafting in Menu (on)]\n04000000 00100EE8 52800000\n04000000 00100EFC 52800000\n"
+        },
+        {
+            "title": "[Enable Gem Crafting in Menu (off)]",
+            "content": "[Enable Gem Crafting in Menu (off)]\n04000000 00100EE8 12000100\n04000000 00100EFC 12000100\n\n"
+        },
+        {
+            "title": "[Buy Items for free (on)]",
+            "content": "[Buy Items for free (on)]\n04000000 001CB020 52800000\n04000000 001CB024 D65F03C0\n"
+        },
+        {
+            "title": "[Buy Items for free (off)]",
+            "content": "[Buy Items for free (off)]\n04000000 001CB020 AA0003E8\n04000000 001CB024 F9409C01\n\n"
+        },
+        {
+            "title": "[Always drop biggest treasure chest (on)]",
+            "content": "[Always drop biggest treasure chest (on)]\n04000000 000FBF60 52800060\n04000000 000FBF64 D65F03C0\n"
+        },
+        {
+            "title": "[Always drop biggest treasure chest (off)]",
+            "content": "[Always drop biggest treasure chest (off)]\n04000000 000FBF60 D10243FF\n04000000 000FBF64 A9036FFC\n\n"
+        },
+        {
+            "title": "[No Fall Damage (on)]",
+            "content": "[No Fall Damage (on)]\n04000000 004D06E8 D503201F\n"
+        },
+        {
+            "title": "[No Fall Damage (off)]",
+            "content": "[No Fall Damage (off)]\n04000000 004D06E8 54000145\n\n"
+        },
+        {
+            "title": "[5x Jump Velocity (on)]",
+            "content": "[5x Jump Velocity (on)]\n04000000 004E37C8 1E229000\n"
+        },
+        {
+            "title": "[10x Jump Velocity (on)]",
+            "content": "[10x Jump Velocity (on)]\n04000000 004E37C8 1E249000\n"
+        },
+        {
+            "title": "[Default Jump Velocity (off)]",
+            "content": "[Default Jump Velocity (off)]\n04000000 004E37C8 1E2E1000\n\n"
+        },
+        {
+            "title": "[2x Move Velocity (Hold ZL)]",
+            "content": "[2x Move Velocity (Hold ZL)]\n04000000 004E7C38 BD4012E0\n80000100\n04000000 004E7C38 1E201000\n20000000\n"
+        },
+        {
+            "title": "[5x Move Velocity (Hold ZL)]",
+            "content": "[5x Move Velocity (Hold ZL)]\n04000000 004E7C38 BD4012E0\n80000100\n04000000 004E7C38 1E229000\n20000000\n"
+        },
+        {
+            "title": "[10x Move Velocity (Hold ZL)]",
+            "content": "[10x Move Velocity (Hold ZL)]\n04000000 004E7C38 BD4012E0\n80000100\n04000000 004E7C38 1E249000\n20000000\n\n"
+        },
+        {
+            "title": "[Collectable and materials 99]",
+            "content": "[Collectable and materials 99]\n300E0000 00000320\n01100000 28E049B8 00000063\n78000000 00000014\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[Collectable and Materials 99v2]",
+            "content": "[Collectable and Materials 99v2]\n300E0000 00000320\n011E0000 28E049B8 00000063\n780E0000 00000014\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[Shulk Talent Art no Cooldown]",
+            "content": "[Shulk Talent Art no Cooldown]\n580F0000 014068C8\n580F1000 00010378\n580F1000 00000300\n580F1000 00000000\n780F0000 00157920\n300E0000 00000007\n640F0000 00000000 42C80000\n780F0000 0015A3CC\n\n"
+        },
+        {
+            "title": "[shulk strength]",
+            "content": "[shulk strength]\n021F0000 28F2698C 0000270F\n021F0000 28F269E0 0000270F\n\n"
+        },
+        {
+            "title": "[Collectable and Materials 90]",
+            "content": "[Collectable and Materials 90]\n300E0000 00000320\n01110000 28E049B8 0000005A\n78010000 00000014\n310E0000"
+        }
+    ]
+}

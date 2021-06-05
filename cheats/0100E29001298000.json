@@ -1,1 +1,60 @@
-{}
+{
+    "14A906483411B74E": [
+        {
+            "title": "[*Inf Hp Big Guy @Jericoss]",
+            "content": "[*Inf Hp Big Guy @Jericoss]\n580F0000 025F16C0\n580F1000 00000100\n580F1000 000001B0\n580F1000 00000067\n580F1000 00000088\n580F1000 00000170\n780F0000 00000284\n640F0000 00000000 460AE000\n\n"
+        },
+        {
+            "title": "[*Inf Hp Big Guy 8888 MAX @Jericoss]",
+            "content": "[*Inf Hp Big Guy 8888 MAX @Jericoss]\n580F0000 025F16C0\n580F1000 00000100\n580F1000 000001B0\n580F1000 00000067\n580F1000 00000088\n580F1000 00000170\n780F0000 00000288\n640F0000 00000000 460AE000\n\n"
+        },
+        {
+            "title": "[*Big Guy Combo x 30 @Jericoss]",
+            "content": "[*Big Guy Combo x 30 @Jericoss]\n580F0000 025F16C0\n580F1000 00000100\n580F1000 000001B0\n580F1000 00000067\n580F1000 00000088\n580F1000 00000170\n780F0000 000002D8\n640F0000 00000000 0000001E\n\n"
+        },
+        {
+            "title": "[* Big Guy Instant Charge @Jericoss]",
+            "content": "[* Big Guy Instant Charge @Jericoss]\n580F0000 025F16C0\n580F1000 00000100\n580F1000 000001B0\n580F1000 00000067\n580F1000 00000088\n580F1000 00000170\n780F0000 000002F0\n640F0000 00000000 42C80000\n\n"
+        },
+        {
+            "title": "[*Inf Hp Old Man @Jericoss]",
+            "content": "[*Inf Hp Old Man @Jericoss]\n580F0000 025F16C0\n580F1000 00000108\n580F1000 000001B0\n580F1000 00000067\n580F1000 00000168\n580F1000 00000170\n780F0000 00000284\n640F0000 00000000 460AE000\n\n"
+        },
+        {
+            "title": "[*Inf Hp Old Man MAX @Jericoss]",
+            "content": "[*Inf Hp Old Man MAX @Jericoss]\n580F0000 025F16C0\n580F1000 00000108\n580F1000 000001B0\n580F1000 00000067\n580F1000 00000168\n580F1000 00000170\n780F0000 00000288\n640F0000 00000000 460AE000\n\n"
+        },
+        {
+            "title": "[*Old Man Combo x 30 @Jericoss]",
+            "content": "[*Old Man Combo x 30 @Jericoss]\n580F0000 025F16C0\n580F1000 00000108\n580F1000 000001B0\n580F1000 00000067\n580F1000 00000168\n580F1000 00000170\n780F0000 000002D8\n640F0000 00000000 0000001E\n\n"
+        },
+        {
+            "title": "[*Old Man Instant Charge @Jericoss]",
+            "content": "[*Old Man Instant Charge @Jericoss]\n580F0000 025F16C0\n580F1000 00000108\n580F1000 000001B0\n580F1000 00000067\n580F1000 00000168\n580F1000 00000170\n780F0000 000002F0\n640F0000 00000000 42C80000\n\n"
+        },
+        {
+            "title": "[*Inf Hp woman @Jericoss]",
+            "content": "[*Inf Hp woman @Jericoss]\n580F0000 025F16C0\n580F1000 00000100\n580F1000 000001B0\n580F1000 00000067\n580F1000 00000248\n580F1000 00000170\n780F0000 00000284\n640F0000 00000000 460AE000\n\n"
+        },
+        {
+            "title": "[*Inf Hp Woman MAX @Jericoss]",
+            "content": "[*Inf Hp Woman MAX @Jericoss]\n580F0000 025F16C0\n580F1000 00000100\n580F1000 000001B0\n580F1000 00000067\n580F1000 00000248\n580F1000 00000170\n780F0000 00000288\n640F0000 00000000 460AE000\n\n"
+        },
+        {
+            "title": "[*Woman Combo x 30 @Jericoss]",
+            "content": "[*Woman Combo x 30 @Jericoss]\n580F0000 025F16C0\n580F1000 00000100\n580F1000 000001B0\n580F1000 00000067\n580F1000 00000248\n580F1000 00000170\n780F0000 000002D8\n640F0000 00000000 0000001E\n\n"
+        },
+        {
+            "title": "[*Woman Instant Charge @Jericoss]",
+            "content": "[*Woman Instant Charge @Jericoss]\n580F0000 025F16C0\n580F1000 00000100\n580F1000 000001B0\n580F1000 00000067\n580F1000 00000248\n580F1000 00000170\n780F0000 000002F0\n640F0000 00000000 42C80000\n\n"
+        },
+        {
+            "title": "[*Money 8888888 @Jericoss]",
+            "content": "[*Money 8888888 @Jericoss]\n580F0000 025F16C0\n580F1000 00000140\n580F1000 00000030\n580F1000 00000060\n580F1000 00000097\n580F1000 000002C7\n780F0000 000001DC\n640F0000 00000000 0087A238\n\n"
+        },
+        {
+            "title": "[*Candles 888 @Jericoss]",
+            "content": "[*Candles 888 @Jericoss]\n580F0000 025F16C0\n580F1000 00000140\n580F1000 00000030\n580F1000 00000060\n580F1000 00000097\n580F1000 000002C7\n780F0000 000001D8\n640F0000 00000000 00000378"
+        }
+    ]
+}

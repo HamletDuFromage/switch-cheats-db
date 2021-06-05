@@ -1,1 +1,88 @@
-{}
+{
+    "DEAB38CED1AC0D22": [
+        {
+            "title": "[[Final Fight]]",
+            "content": "[[Final Fight]]\n"
+        },
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n010F0000 01EE0AD8 00000090\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n010F0000 01EE0B20 000000FF\n\n"
+        },
+        {
+            "title": "[[The King of Dragons]]",
+            "content": "[[The King of Dragons]]\n"
+        },
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n010F0000 01ED97F2 00000064\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n010F0000 01ED97E7 000000FF\n\n"
+        },
+        {
+            "title": "[[Captain Commando]]",
+            "content": "[[Captain Commando]]\n"
+        },
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n010F0000 01EE2F28 00000048\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n010F0000 01EE2FC0 000000FF\n\n"
+        },
+        {
+            "title": "[[Knights of the Round]]",
+            "content": "[[Knights of the Round]]\n"
+        },
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n010F0000 01EE30FC 00000050\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n010F0000 01EE31D3 000000FF\n\n"
+        },
+        {
+            "title": "[[Warriors of Fate]]",
+            "content": "[[Warriors of Fate]]\n"
+        },
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n010F0000 01EE43F6 00000068\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n010F0000 01EE442C 000000FF\n\n"
+        },
+        {
+            "title": "[[Armored warriors]]",
+            "content": "[[Armored warriors]]\n"
+        },
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n010F0000 01EE1B36 00000050\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n010F0000 01EE1BAE 000000FF\n\n"
+        },
+        {
+            "title": "[[Battle circuit]]",
+            "content": "[[Battle circuit]]\n"
+        },
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n010F0000 01EE0842 00000048\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n010F0000 01EE0865 000000FF"
+        }
+    ]
+}

@@ -1,1 +1,24 @@
-{}
+{
+    "82092DF70410F821": [
+        {
+            "title": "[Time Stop]",
+            "content": "[Time Stop]\n040F0000 006812F0 00000720\n\n"
+        },
+        {
+            "title": "[No Over Heat & Rapid Fire]",
+            "content": "[No Over Heat & Rapid Fire]\n040F0000 00625BBC 00000000\n\n"
+        },
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n020F0000 00625B66 0000190A\n20000000\n\n"
+        },
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n010F0000 00625A11 00000064\n\n"
+        },
+        {
+            "title": "[Have All Weapon]",
+            "content": "[Have All Weapon]\n300E0000 00000026\n020F0000 00568E54 000003E7\n780F0000 00000002\n310E0000\n20000000"
+        }
+    ]
+}

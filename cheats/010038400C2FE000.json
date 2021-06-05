@@ -1,1 +1,308 @@
-{}
+{
+    "965107E5A2CE0A3D": [
+        {
+            "title": "[Moon Jump Press B]",
+            "content": "[Moon Jump Press B]\n80000002\n04000000 0034F758 41800000\n20000000\n\n"
+        },
+        {
+            "title": "[99 Lives]",
+            "content": "[99 Lives]\n580F0000 0034ebf8\n780F0000 00003444\n640F0000 00000000 00000063\n\n"
+        },
+        {
+            "title": "[300 Opals/Rainbow Scales]",
+            "content": "[300 Opals/Rainbow Scales]\n04000000 0036BCB0 0000012C\n\n"
+        },
+        {
+            "title": "[Max Health]",
+            "content": "[Max Health]\n04000000 00350D80 00000004\n\n"
+        },
+        {
+            "title": "[Speed up press LS]",
+            "content": "[Speed up press LS]\n80000010\n04000000 0034F784 42000000\n20000000\n\n"
+        },
+        {
+            "title": "[Infinite Air]",
+            "content": "[Infinite Air]\n04000000 00350D9C 00000008"
+        }
+    ],
+    "BAE5C2E836DF8E72": [
+        {
+            "title": "[Have All 5 Talismans]",
+            "content": "[Have All 5 Talismans]\n08100000 00BB4AC4 01010101 01010101\n\n"
+        },
+        {
+            "title": "[Zero Total Game Time]",
+            "content": "[Zero Total Game Time]\n04100000 00BB4B14 00000000\n\n"
+        },
+        {
+            "title": "[Speed up x2 (press LS)]",
+            "content": "[Speed up x2 (press LS)]\n80000010\n04000000 0034F8C4 42000000\n20000000\n\n"
+        },
+        {
+            "title": "[Moon Jump Press B]",
+            "content": "[Moon Jump Press B]\n80000002\n04000000 0034F898 41800000\n20000000\n\n"
+        },
+        {
+            "title": "[Two Up Complete]",
+            "content": "[Two Up Complete]\n08100000 00BB41F8 01010101 01010101\n08100000 00BB4200 01010101 01010101\n08100000 00BB4208 01010101 00030101\n08100000 00BB4210 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Second Boomerang + Wheel]",
+            "content": "[Unlock Second Boomerang + Wheel]\n04100000 00BB4AB4 01010101\n\n"
+        },
+        {
+            "title": "[Walk In The Park Complete]",
+            "content": "[Walk In The Park Complete]\n08100000 00BB4268 01010101 01010101\n08100000 00BB4270 01010101 01010101\n08100000 00BB4278 01010101 00010301\n08100000 00BB4280 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Swim Ability]",
+            "content": "[Unlock Swim Ability]\n01100000 00BB4AB4 00000001\n\n"
+        },
+        {
+            "title": "[Ship Rex Complete]",
+            "content": "[Ship Rex Complete]\n08100000 00BB42D8 01010101 01010101\n08100000 00BB42E0 01010101 01010101\n08100000 00BB42E8 03010101 00010101\n08100000 00BB42F0 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Boomerang]",
+            "content": "[Unlock Boomerang]\n01100000 00BB4AB8 00000001\n\n"
+        },
+        {
+            "title": "[Bridge On The River Ty Complete]",
+            "content": "[Bridge On The River Ty Complete]\n08100000 00BB43B8 01010101 01010101\n08100000 00BB43C0 01010101 01010101\n08100000 00BB43C8 01010101 00010301\n08100000 00BB43D0 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Frostyrang]",
+            "content": "[Unlock Frostyrang]\n01100000 00BB4AB9 00000001\n\n"
+        },
+        {
+            "title": "[Snow Worries Complete]",
+            "content": "[Snow Worries Complete]\n08100000 00BB4428 01010101 01010101\n08100000 00BB4430 01010101 01010101\n08100000 00BB4438 01030101 00010101\n08100000 00BB4440 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Flamerang]",
+            "content": "[Unlock Flamerang]\n01100000 00BB4ABA 00000001\n\n"
+        },
+        {
+            "title": "[Outback Safari Complete]",
+            "content": "[Outback Safari Complete]\n08100000 00BB4498 01010101 01010101\n08100000 00BB44A0 01010101 01010101\n08100000 00BB44A8 01010101 00010301\n08100000 00BB44B0 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Kaboomerang]",
+            "content": "[Unlock Kaboomerang]\n01100000 00BB4ABB 00000001\n\n"
+        },
+        {
+            "title": "[Lyre Lyre Pants On Fire Complete]",
+            "content": "[Lyre Lyre Pants On Fire Complete]\n08100000 00BB4578 01010101 01010101\n08100000 00BB4580 01010101 01010101\n08100000 00BB4588 01010101 00010103\n08100000 00BB4590 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Doomerang]",
+            "content": "[Unlock Doomerang]\n01100000 00BB4ABC 00000001\n\n"
+        },
+        {
+            "title": "[Beyond The Black Stump Complete]",
+            "content": "[Beyond The Black Stump Complete]\n08100000 00BB45E8 01010101 01010101\n08100000 00BB45F0 01010101 01010101\n08100000 00BB45F8 01010101 00030101\n08100000 00BB4600 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Megarang]",
+            "content": "[Unlock Megarang]\n01100000 00BB4ABD 00000001\n\n"
+        },
+        {
+            "title": "[Rex Marks The Spot Complete]",
+            "content": "[Rex Marks The Spot Complete]\n08100000 00BB4658 01010101 01010101\n08100000 00BB4660 01010101 01010101\n08100000 00BB4668 01010101 00010301\n08100000 00BB4670 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Zoomerang]",
+            "content": "[Unlock Zoomerang]\n01100000 00BB4ABE 00000001\n\n"
+        },
+        {
+            "title": "[Unlock Infrarang]",
+            "content": "[Unlock Infrarang]\n01100000 00BB4ABF 00000001\n\n"
+        },
+        {
+            "title": "[Unlock Multirang]",
+            "content": "[Unlock Multirang]\n01100000 00BB4AC0 00000001\n\n"
+        },
+        {
+            "title": "[Unlock Aquarang]",
+            "content": "[Unlock Aquarang]\n01100000 00BB4AC1 00000001\n\n"
+        },
+        {
+            "title": "[Unlock Chronorang]",
+            "content": "[Unlock Chronorang]\n01100000 00BB4AC3 00000001\n\n"
+        },
+        {
+            "title": "[Unlock Multirang]",
+            "content": "[Unlock Multirang]\n01100000 00BB4AC2 00000001\n\n"
+        },
+        {
+            "title": "[Big Mess World ON/OFF]",
+            "content": "[Big Mess World ON/OFF]\n80000010\n04000000 002EB274 40000000\n20000000\n80000020\n04000000 002EB274 3F800000\n20000000\n\n"
+        },
+        {
+            "title": "[Max/Infinite Health/Air]",
+            "content": "[Max/Infinite Health/Air]\n04000000 00350EC0 00000008\n\n"
+        },
+        {
+            "title": "[99 Lives]",
+            "content": "[99 Lives]\n580F0000 00334928\n780F0000 00001870\n640F0000 00000000 00000063\n\n"
+        },
+        {
+            "title": "[300 Opals/Rainbow Scales]",
+            "content": "[300 Opals/Rainbow Scales]\n04000000 0036BEC0 0000012C\n3DS: 3196-7934\n\n"
+        },
+        {
+            "title": "[Debug Level Select Unlock]",
+            "content": "[Debug Level Select Unlock]\n04100000 01758B3C 00010001\n\n"
+        },
+        {
+            "title": "[Have All 5 Talismans]",
+            "content": "[Have All 5 Talismans]\n08100000 00BB4AC4 01010101 01010101\n\n"
+        },
+        {
+            "title": "[Zero Total Game Time]",
+            "content": "[Zero Total Game Time]\n04100000 00BB4B14 00000000\n\n"
+        },
+        {
+            "title": "[Speed up x2 (press LS)]",
+            "content": "[Speed up x2 (press LS)]\n80000010\n04000000 0034F8C4 42000000\n20000000\n\n"
+        },
+        {
+            "title": "[Moon Jump Press B]",
+            "content": "[Moon Jump Press B]\n80000002\n04000000 0034F898 41800000\n20000000\n\n"
+        },
+        {
+            "title": "[Two Up Complete]",
+            "content": "[Two Up Complete]\n08100000 00BB41F8 01010101 01010101\n08100000 00BB4200 01010101 01010101\n08100000 00BB4208 01010101 00030101\n08100000 00BB4210 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Second Boomerang + Wheel]",
+            "content": "[Unlock Second Boomerang + Wheel]\n04100000 00BB4AB4 01010101\n\n"
+        },
+        {
+            "title": "[Walk In The Park Complete]",
+            "content": "[Walk In The Park Complete]\n08100000 00BB4268 01010101 01010101\n08100000 00BB4270 01010101 01010101\n08100000 00BB4278 01010101 00010301\n08100000 00BB4280 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Swim Ability]",
+            "content": "[Unlock Swim Ability]\n01100000 00BB4AB4 00000001\n\n"
+        },
+        {
+            "title": "[Ship Rex Complete]",
+            "content": "[Ship Rex Complete]\n08100000 00BB42D8 01010101 01010101\n08100000 00BB42E0 01010101 01010101\n08100000 00BB42E8 03010101 00010101\n08100000 00BB42F0 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Boomerang]",
+            "content": "[Unlock Boomerang]\n01100000 00BB4AB8 00000001\n\n"
+        },
+        {
+            "title": "[Bridge On The River Ty Complete]",
+            "content": "[Bridge On The River Ty Complete]\n08100000 00BB43B8 01010101 01010101\n08100000 00BB43C0 01010101 01010101\n08100000 00BB43C8 01010101 00010301\n08100000 00BB43D0 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Frostyrang]",
+            "content": "[Unlock Frostyrang]\n01100000 00BB4AB9 00000001\n\n"
+        },
+        {
+            "title": "[Snow Worries Complete]",
+            "content": "[Snow Worries Complete]\n08100000 00BB4428 01010101 01010101\n08100000 00BB4430 01010101 01010101\n08100000 00BB4438 01030101 00010101\n08100000 00BB4440 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Flamerang]",
+            "content": "[Unlock Flamerang]\n01100000 00BB4ABA 00000001\n\n"
+        },
+        {
+            "title": "[Outback Safari Complete]",
+            "content": "[Outback Safari Complete]\n08100000 00BB4498 01010101 01010101\n08100000 00BB44A0 01010101 01010101\n08100000 00BB44A8 01010101 00010301\n08100000 00BB44B0 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Kaboomerang]",
+            "content": "[Unlock Kaboomerang]\n01100000 00BB4ABB 00000001\n\n"
+        },
+        {
+            "title": "[Lyre Lyre Pants On Fire Complete]",
+            "content": "[Lyre Lyre Pants On Fire Complete]\n08100000 00BB4578 01010101 01010101\n08100000 00BB4580 01010101 01010101\n08100000 00BB4588 01010101 00010103\n08100000 00BB4590 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Doomerang]",
+            "content": "[Unlock Doomerang]\n01100000 00BB4ABC 00000001\n\n"
+        },
+        {
+            "title": "[Beyond The Black Stump Complete]",
+            "content": "[Beyond The Black Stump Complete]\n08100000 00BB45E8 01010101 01010101\n08100000 00BB45F0 01010101 01010101\n08100000 00BB45F8 01010101 00030101\n08100000 00BB4600 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Megarang]",
+            "content": "[Unlock Megarang]\n01100000 00BB4ABD 00000001\n\n"
+        },
+        {
+            "title": "[Rex Marks The Spot Complete]",
+            "content": "[Rex Marks The Spot Complete]\n08100000 00BB4658 01010101 01010101\n08100000 00BB4660 01010101 01010101\n08100000 00BB4668 01010101 00010301\n08100000 00BB4670 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Unlock Zoomerang]",
+            "content": "[Unlock Zoomerang]\n01100000 00BB4ABE 00000001\n\n"
+        },
+        {
+            "title": "[Unlock Infrarang]",
+            "content": "[Unlock Infrarang]\n01100000 00BB4ABF 00000001\n\n"
+        },
+        {
+            "title": "[Unlock Multirang]",
+            "content": "[Unlock Multirang]\n01100000 00BB4AC0 00000001\n\n"
+        },
+        {
+            "title": "[Unlock Aquarang]",
+            "content": "[Unlock Aquarang]\n01100000 00BB4AC1 00000001\n\n"
+        },
+        {
+            "title": "[Unlock Chronorang]",
+            "content": "[Unlock Chronorang]\n01100000 00BB4AC3 00000001\n\n"
+        },
+        {
+            "title": "[Unlock Multirang]",
+            "content": "[Unlock Multirang]\n01100000 00BB4AC2 00000001\n\n"
+        },
+        {
+            "title": "[Big Mess World ON/OFF]",
+            "content": "[Big Mess World ON/OFF]\n80000010\n04000000 002EB274 40000000\n20000000\n80000020\n04000000 002EB274 3F800000\n20000000\n\n"
+        },
+        {
+            "title": "[Max/Infinite Health/Air]",
+            "content": "[Max/Infinite Health/Air]\n04000000 00350EC0 00000008\n\n"
+        },
+        {
+            "title": "[99 Lives]",
+            "content": "[99 Lives]\n580F0000 00334928\n780F0000 00001870\n640F0000 00000000 00000063\n\n"
+        },
+        {
+            "title": "[300 Opals/Rainbow Scales]",
+            "content": "[300 Opals/Rainbow Scales]\n04000000 0036BEC0 0000012C"
+        }
+    ],
+    "985EA0225C2D2AE3": [
+        {
+            "title": "[01# Moonjump (press B)]",
+            "content": "[01# Moonjump (press B)]\n80000002\n04000000 0034E750 41800000\n20000000\n\n"
+        },
+        {
+            "title": "[02# 99 Lifes]",
+            "content": "[02# 99 Lifes]\n580F0000 00331160\n780F0000 00001704\n640F0000 00000000 00000063\n\n"
+        },
+        {
+            "title": "[03# 999 orbs]",
+            "content": "[03# 999 orbs]\n04000000 0036ABE0 000003E7\n\n"
+        },
+        {
+            "title": "[04# Max health]",
+            "content": "[04# Max health]\n04000000 0034FD68 00000004\n\n"
+        },
+        {
+            "title": "[05# Speed up (press X)]",
+            "content": "[05# Speed up (press X)]\n80000004\n04000000 0034E77C 42000000\n20000000\n\n"
+        },
+        {
+            "title": "[06# Inf Air]",
+            "content": "[06# Inf Air]\n04000000 0034FD8C 00000008"
+        }
+    ]
+}

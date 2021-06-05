@@ -1,1 +1,24 @@
-{}
+{
+    "CD0578FFC3B7C72E": [
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n580F0000 00DA9060\n580F1000 00000080\n780F0000 000001D8\n680F0000 0000270F 0000270F\n\n"
+        },
+        {
+            "title": "[Inf Manpuku]",
+            "content": "[Inf Manpuku]\n580F0000 00DA9060\n580F1000 00000080\n780F0000 000001E4\n620F0000 00000000 0000FFFF\n\n"
+        },
+        {
+            "title": "[Max Power]",
+            "content": "[Max Power]\n580F0000 00DA9060\n580F1000 00000080\n780F0000 000001E6\n620F0000 00000000 0000FFFF\n\n"
+        },
+        {
+            "title": "[Inf P]",
+            "content": "[Inf P]\n580F0000 00BDEFD0\n780F0000 0000010A\n640F0000 00000000 0000001E\n\n"
+        },
+        {
+            "title": "[Max Money]",
+            "content": "[Max Money]\n580F0000 00BDEFD0\n780F0000 000000C8\n640F0000 00000000 000F423F"
+        }
+    ]
+}

@@ -1,0 +1,280 @@
+{
+    "FF44F58218C6A6B2": [
+        {
+            "title": "[99 1-up]",
+            "content": "[99 1-up]\n02000000 0222C0E0 00000063\n\n"
+        },
+        {
+            "title": "[6 Life]",
+            "content": "[6 Life]\n580E0000 0224F518 \n580E1000 00000494\n580E1000 00000E24\n780E0000 00000380\n640E0000 00000000 00000006\n\n"
+        },
+        {
+            "title": "[Star]",
+            "content": "[Star]\n02000000 01BBFEC0 000003E7\n\n"
+        },
+        {
+            "title": "[o Super Mario 64 Infinite Lives]",
+            "content": "[o Super Mario 64 Infinite Lives]\n01100000 38742a8d 00000063\n\n"
+        },
+        {
+            "title": "[o Super Mario 64 Infinite Health]",
+            "content": "[o Super Mario 64 Infinite Health]\n02100000 38742a8e 00000008\n\n"
+        },
+        {
+            "title": "[o Super Mario 64 Infinite Coins]",
+            "content": "[o Super Mario 64 Infinite Coins]\n02100000 38742a89 00000064\n02100000 38742aab 00000064\n\n"
+        },
+        {
+            "title": "[Super Mario Galaxy Infinite Star Bits]",
+            "content": "[Super Mario Galaxy Infinite Star Bits]\n020f0000 01bbfec0 000003e7\n\n"
+        },
+        {
+            "title": "[Super Mario Galaxy Infinite Star Bits (Observatory Grounds)]",
+            "content": "[Super Mario Galaxy Infinite Star Bits (Observatory Grounds)]\n040f0000 0222c0e4 0000270F\n040f0000 023430c4 0000270F\n\n"
+        },
+        {
+            "title": "[Galaxy Infinite Lives]",
+            "content": "[Galaxy Infinite Lives]\n020f0000 0222c0e0 00000063\n\n"
+        },
+        {
+            "title": "[Super Mario 64 No Hits]",
+            "content": "[Super Mario 64 No Hits]\n02100000 38742A06 0000FFFF\n\n"
+        },
+        {
+            "title": "[Super Mario 64 Inf Hat Time]",
+            "content": "[Super Mario 64 Inf Hat Time]\n02100000 38742A95 00007000\n\n"
+        },
+        {
+            "title": "[Super Mario 64 Hat is FlyInvMet]",
+            "content": "[Super Mario 64 Hat is FlyInvMet]\n02100000 387429E6 00001E01\n\n"
+        },
+        {
+            "title": "[Super Mario 64 Hat is FlyInv]",
+            "content": "[Super Mario 64 Hat is FlyInv]\n02100000 387429E6 00001A01\n\n"
+        },
+        {
+            "title": "[Super Mario 64 Hat is Normal]",
+            "content": "[Super Mario 64 Hat is Normal]\n02100000 387429E6 00001101\n"
+        }
+    ],
+    "A638857E6DF584FF": [
+        {
+            "title": "[Super Mario 64 No Hits]",
+            "content": "[Super Mario 64 No Hits]\n02100000 38742A06 0000FFFF\n\n"
+        },
+        {
+            "title": "[Super Mario 64 Inf Hat Time]",
+            "content": "[Super Mario 64 Inf Hat Time]\n02100000 38742A95 00007000\n\n"
+        },
+        {
+            "title": "[Super Mario 64 Hat is FlyInvMet]",
+            "content": "[Super Mario 64 Hat is FlyInvMet]\n02100000 387429E6 00001E01\n\n"
+        },
+        {
+            "title": "[Super Mario 64 Hat is FlyInv]",
+            "content": "[Super Mario 64 Hat is FlyInv]\n02100000 387429E6 00001A01\n\n"
+        },
+        {
+            "title": "[Super Mario 64 Hat is Normal]",
+            "content": "[Super Mario 64 Hat is Normal]\n02100000 387429E6 00001101\n\n"
+        },
+        {
+            "title": "[o Infinite Coins]",
+            "content": "[o Infinite Coins]\n02100000 38742A89 00000064\n02100000 38742AAB 00000064\n\n"
+        },
+        {
+            "title": "[o Super Mario 64 Infinite Lives]",
+            "content": "[o Super Mario 64 Infinite Lives]\n01100000 38742a8d 00000063\n\n"
+        },
+        {
+            "title": "[o Super Mario 64 Infinite Health]",
+            "content": "[o Super Mario 64 Infinite Health]\n02100000 38742a8e 00000008\n\n"
+        },
+        {
+            "title": "[o Super Mario 64 Infinite Coins]",
+            "content": "[o Super Mario 64 Infinite Coins]\n02100000 38742a89 00000064\n02100000 38742aab 00000064\n\n"
+        },
+        {
+            "title": "[Super Mario Galaxy Infinite Star Bits]",
+            "content": "[Super Mario Galaxy Infinite Star Bits]\n020f0000 01bbfec0 000003e7\n\n"
+        },
+        {
+            "title": "[Super Mario Galaxy Infinite Star Bits (Observatory Grounds)]",
+            "content": "[Super Mario Galaxy Infinite Star Bits (Observatory Grounds)]\n040f0000 0222c0e4 0000270F\n040f0000 023430c4 0000270F\n\n"
+        },
+        {
+            "title": "[Galaxy Infinite Lives]",
+            "content": "[Galaxy Infinite Lives]\n020f0000 0222c0e0 00000063\n\n"
+        },
+        {
+            "title": "[99 1-up]",
+            "content": "[99 1-up]\n02000000 0222C0E0 00000063\n\n"
+        },
+        {
+            "title": "[6 Life]",
+            "content": "[6 Life]\n580E0000 0224F518 \n580E1000 00000494\n580E1000 00000E24\n780E0000 00000380\n640E0000 00000000 00000006\n\n"
+        },
+        {
+            "title": "[Star]",
+            "content": "[Star]\n02000000 01BBFEC0 000003E7\n\n"
+        },
+        {
+            "title": "[01# Moonjump]",
+            "content": "[01# Moonjump]\n80000002\n04000000 023814BC 42000000\n20000000\n80000001\n04000000 023814BC C2000000\n20000000\n\n"
+        },
+        {
+            "title": "[Unlimited Diving Air]",
+            "content": "[Unlimited Diving Air]\n04000000 00210EA4 E1A00000\n\n"
+        },
+        {
+            "title": "[Unlimited Bee Flight]",
+            "content": "[Unlimited Bee Flight]\n04000000 001EF430 E1A00000\n\n"
+        },
+        {
+            "title": "[No Health Damage]",
+            "content": "[No Health Damage]\n04000000 001C2AAC E1A00000\n"
+        }
+    ],
+    "15FDED0D90EF5D72": [
+        {
+            "title": "[Super Mario 64 No Hits]",
+            "content": "[Super Mario 64 No Hits]\n02100000 38742A06 0000FFFF\n\n"
+        },
+        {
+            "title": "[Super Mario 64 Inf Hat Time]",
+            "content": "[Super Mario 64 Inf Hat Time]\n02100000 38742A95 00007000\n\n"
+        },
+        {
+            "title": "[Super Mario 64 Hat is FlyInvMet]",
+            "content": "[Super Mario 64 Hat is FlyInvMet]\n02100000 387429E6 00001E01\n\n"
+        },
+        {
+            "title": "[Super Mario 64 Hat is FlyInv]",
+            "content": "[Super Mario 64 Hat is FlyInv]\n02100000 387429E6 00001A01\n\n"
+        },
+        {
+            "title": "[Super Mario 64 Hat is Normal]",
+            "content": "[Super Mario 64 Hat is Normal]\n02100000 387429E6 00001101\n\n"
+        },
+        {
+            "title": "[o Infinite Coins]",
+            "content": "[o Infinite Coins]\n02100000 38742A89 00000064\n02100000 38742AAB 00000064\n\n"
+        },
+        {
+            "title": "[o Super Mario 64 Infinite Lives]",
+            "content": "[o Super Mario 64 Infinite Lives]\n01100000 38742a8d 00000063\n\n"
+        },
+        {
+            "title": "[o Super Mario 64 Infinite Health]",
+            "content": "[o Super Mario 64 Infinite Health]\n02100000 38742a8e 00000008\n\n"
+        },
+        {
+            "title": "[o Super Mario 64 Infinite Coins]",
+            "content": "[o Super Mario 64 Infinite Coins]\n02100000 38742a89 00000064\n02100000 38742aab 00000064\n\n"
+        },
+        {
+            "title": "[Super Mario Galaxy Infinite Star Bits]",
+            "content": "[Super Mario Galaxy Infinite Star Bits]\n020f0000 01bbfec0 000003e7\n\n"
+        },
+        {
+            "title": "[Super Mario Galaxy Infinite Star Bits (Observatory Grounds)]",
+            "content": "[Super Mario Galaxy Infinite Star Bits (Observatory Grounds)]\n040f0000 0222c0e4 0000270F\n040f0000 023430c4 0000270F\n\n"
+        },
+        {
+            "title": "[Galaxy Infinite Lives]",
+            "content": "[Galaxy Infinite Lives]\n020f0000 0222c0e0 00000063\n\n"
+        },
+        {
+            "title": "[99 1-up]",
+            "content": "[99 1-up]\n02000000 0222C0E0 00000063\n\n"
+        },
+        {
+            "title": "[6 Life]",
+            "content": "[6 Life]\n580E0000 0224F518 \n580E1000 00000494\n580E1000 00000E24\n780E0000 00000380\n640E0000 00000000 00000006\n\n"
+        },
+        {
+            "title": "[Star]",
+            "content": "[Star]\n02000000 01BBFEC0 000003E7\n\n"
+        },
+        {
+            "title": "[01# Moonjump]",
+            "content": "[01# Moonjump]\n80000002\n04000000 023814BC 42000000\n20000000\n80000001\n04000000 023814BC C2000000\n20000000\n\n"
+        },
+        {
+            "title": "[Super Mario Galaxy 99 lives]",
+            "content": "[Super Mario Galaxy 99 lives]\n04000000 0222c0e8 000003E7\n\n"
+        },
+        {
+            "title": "[Flat Knockback Damage]",
+            "content": "[Flat Knockback Damage]\n04000000 002358CC E3A0604D\n\n"
+        },
+        {
+            "title": "[Mini Knockback Damage]",
+            "content": "[Mini Knockback Damage]\n04000000 002358CC E3A0604E\n\n"
+        },
+        {
+            "title": "[Sit on Air Knockback Damage]",
+            "content": "[Sit on Air Knockback Damage]\n04000000 002358CC E3A0604F\n\n"
+        },
+        {
+            "title": "[Small Longer Knockback Damage]",
+            "content": "[Small Longer Knockback Damage]\n04000000 002358CC E3A06050\n\n"
+        },
+        {
+            "title": "[Spin Player Damage]",
+            "content": "[Spin Player Damage]\n04000000 002358CC E3A06051\n\n"
+        },
+        {
+            "title": "[Big Knockback Damage]",
+            "content": "[Big Knockback Damage]\n04000000 002358CC E3A06052\n\n"
+        },
+        {
+            "title": "[Flat Knockback but Player Waves Their Neck Damage]",
+            "content": "[Flat Knockback but Player Waves Their Neck Damage]\n04000000 002358CC E3A06053\n\n"
+        },
+        {
+            "title": "[Giant Knockback]",
+            "content": "[Giant Knockback]\n04000000 002358CC E3A06055\n\n"
+        },
+        {
+            "title": "[Fire Damage]",
+            "content": "[Fire Damage]\n04000000 002358CC E3A06057\n\n"
+        },
+        {
+            "title": "[Lightning Damage]",
+            "content": "[Lightning Damage]\n04000000 002358CC E3A0605A\n\n"
+        },
+        {
+            "title": "[Freeze Damage]",
+            "content": "[Freeze Damage]\n04000000 002358CC E3A0605D\n\n"
+        },
+        {
+            "title": "[Press Damage]",
+            "content": "[Press Damage]\n04000000 002358CC E3A0605E\n\n"
+        },
+        {
+            "title": "[Bump Damage]",
+            "content": "[Bump Damage]\n04000000 002358CC E3A0605F\n\n"
+        },
+        {
+            "title": "[Backflip Damage]",
+            "content": "[Backflip Damage]\n04000000 002358CC E3A06061\n\n"
+        },
+        {
+            "title": "[Infinite Lives]",
+            "content": "[Infinite Lives]\n020F0000 0222C0E8 00000063\n\n"
+        },
+        {
+            "title": "[Infinite Star Bits]",
+            "content": "[Infinite Star Bits]\n020F0000 01BBFEC0 000003E7\n\n"
+        },
+        {
+            "title": "[Infinite Star Bits (Observatory Grounds)]",
+            "content": "[Infinite Star Bits (Observatory Grounds)]\n040F0000 0222C0EC 0000270F\n040F0000 02342B14 0000270F\n\n\n\n"
+        },
+        {
+            "title": "[Infinite Coins]",
+            "content": "[Infinite Coins]\n020F0000 02316CF8 000003E7\n\n"
+        }
+    ]
+}

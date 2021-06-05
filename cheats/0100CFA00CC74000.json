@@ -1,0 +1,32 @@
+{
+    "5E7CDA9E555594F7": [
+        {
+            "title": "[GOD Mode - Enabled]",
+            "content": "[GOD Mode - Enabled]\n04000000 00065388 52800020\n\n"
+        },
+        {
+            "title": "[GOD Mode - Disabled]",
+            "content": "[GOD Mode - Disabled]\n04000000 00065388 39404100"
+        }
+    ],
+    "7D5566784A94EC45": [
+        {
+            "title": "[GOD Mode - Enabled]",
+            "content": "[GOD Mode - Enabled]\n04000000 00064928 52800020\n\n"
+        },
+        {
+            "title": "[GOD Mode - Disabled]",
+            "content": "[GOD Mode - Disabled]\n04000000 00064928 39404100"
+        }
+    ],
+    "AACC3E192951142C": [
+        {
+            "title": "[GOD Mode - Enabled]",
+            "content": "[GOD Mode - Enabled]\n04000000 00065538 52800020\n\n"
+        },
+        {
+            "title": "[GOD Mode - Disabled]",
+            "content": "[GOD Mode - Disabled]\n04000000 00065538 39404100"
+        }
+    ]
+}

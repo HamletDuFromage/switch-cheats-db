@@ -1,1 +1,16 @@
-{}
+{
+    "089898E9F7812443": [
+        {
+            "title": "[Love level]",
+            "content": "[Love level]\n010F0000 03AA308C 0000001E\n\n"
+        },
+        {
+            "title": "[Action limit]",
+            "content": "[Action limit]\n020F0000 03AA3092 000027EF\n\n"
+        },
+        {
+            "title": "[Max Money]",
+            "content": "[Max Money]\n020F0000 03AA30A4 00002710"
+        }
+    ]
+}

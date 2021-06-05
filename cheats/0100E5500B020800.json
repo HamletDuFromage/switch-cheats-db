@@ -1,1 +1,38 @@
-{}
+{
+    "FF16116308DF4E4B": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for Neko Navy Daydream Edition 1.0.0]",
+            "content": "[From MAX-CHEATS.com by optantic for Neko Navy Daydream Edition 1.0.0]\n\n"
+        },
+        {
+            "title": "[Infinite Lives]",
+            "content": "[Infinite Lives]\n01100000 00a8abf0 00000005\n\n"
+        },
+        {
+            "title": "[Max Power]",
+            "content": "[Max Power]\n01100000 00a8abfc 00000005\n\n"
+        },
+        {
+            "title": "[Infinite Credits]",
+            "content": "[Infinite Credits]\n01100000 00a8abd4 00000009"
+        }
+    ],
+    "FBD5D6C83ED9A340": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for Neko Navy Daydream Edition 1.0.2]",
+            "content": "[From MAX-CHEATS.com by optantic for Neko Navy Daydream Edition 1.0.2]\n\n"
+        },
+        {
+            "title": "[Infinite Lives]",
+            "content": "[Infinite Lives]\n01100000 00a8abf0 00000005\n\n"
+        },
+        {
+            "title": "[Max Power]",
+            "content": "[Max Power]\n01100000 00a8abfc 00000005\n\n"
+        },
+        {
+            "title": "[Infinite Credits]",
+            "content": "[Infinite Credits]\n01100000 00a8abd4 00000009"
+        }
+    ]
+}

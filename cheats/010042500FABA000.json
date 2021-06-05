@@ -1,1 +1,22 @@
-{}
+{
+    "B2536FD5D496664F": [
+        {
+            "title": "[Invulnerable]",
+            "content": "[Invulnerable]\n04000000 001A5A78 510002A8\n\n"
+        },
+        {
+            "title": "[no reload]",
+            "content": "[no reload]\n04000000 001329C4 51000108\n04000000 001C7318 51000108\n04000000 001880C8 51000108\n04000000 00187FDC 51000108"
+        }
+    ],
+    "3DE5D42478B9E64A": [
+        {
+            "title": "[Invulnerable]",
+            "content": "[Invulnerable]\n04000000 01045848 510002A8\n\n"
+        },
+        {
+            "title": "[no reload gun]",
+            "content": "[no reload gun]\n04000000 00FFDFA4 51000108\n04000000 0102BC58 51000108\n04000000 0105F5CC 51000108\n04000000 0105F6B8 51000108\n04000000 010181C4 51000108"
+        }
+    ]
+}

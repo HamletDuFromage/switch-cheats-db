@@ -1,1 +1,16 @@
-{}
+{
+    "D9417A4323518E47": [
+        {
+            "title": "[*Inf Time @made by Jericoss]",
+            "content": "[*Inf Time @made by Jericoss]\n580F0000 01CD0778\n580F1000 000000B8\n580F1000 00000000\n780F0000 000001B0\n640F0000 00000000 43210000\n\n"
+        },
+        {
+            "title": "[*Money 888888 @made by Jericoss]",
+            "content": "[*Money 888888 @made by Jericoss]\n580F0000 01CD07F8\n580F1000 000000B8\n780F0000 00000010\n640F0000 00000000 000D9038\n\n"
+        },
+        {
+            "title": "[*Near Miss 88 @made by Jericoss]",
+            "content": "[*Near Miss 88 @made by Jericoss]\n580F0000 01CD0778\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000012C\n640F0000 00000000 00000058"
+        }
+    ]
+}

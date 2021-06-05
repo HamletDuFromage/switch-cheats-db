@@ -1,1 +1,66 @@
-{}
+{
+    "9ACB46936749F543": [
+        {
+            "title": "[Invulnerable]",
+            "content": "[Invulnerable]\n04000000 002C0754 D503201F\n\n"
+        },
+        {
+            "title": "[Infinte Lives]",
+            "content": "[Infinte Lives]\n04000000 002ED6F0 52800000\n\n"
+        },
+        {
+            "title": "[cant die - ignore hearts]",
+            "content": "[cant die - ignore hearts]\n04000000 002C0AB4 4B0003E1\n\n"
+        },
+        {
+            "title": "[Disable cant die code]",
+            "content": "[Disable cant die code]\n04000000 002C0AB4 4B1503E1\n\n"
+        },
+        {
+            "title": "[02# Infinite jump(on)]",
+            "content": "[02# Infinite jump(on)]\n04000000 0021C698 D503201F\n\n"
+        },
+        {
+            "title": "[02# Infinite Jump(off)]",
+            "content": "[02# Infinite Jump(off)]\n04000000 0021C698 F4031F32\n\n"
+        },
+        {
+            "title": "[nfinte Lives]",
+            "content": "[nfinte Lives]\n04000000 002ED6F0 52800000\n\n"
+        },
+        {
+            "title": "[Infinite Hearts]",
+            "content": "[Infinite Hearts]\n04000000 002C0894 1A95B15A\n"
+        }
+    ],
+    "14872049185C584C": [
+        {
+            "title": "[01# Inf hearts]",
+            "content": "[01# Inf hearts]\n580F0000 039635C0\n580F1000 000000A0\n580F1000 00000010\n580F1000 00000240\n780F0000 00000020\n640F0000 00000000 00000003\n"
+        },
+        {
+            "title": "[02# Infinte Lives]",
+            "content": "[02# Infinte Lives]\n04000000 002C5B60 52800000\n\n"
+        },
+        {
+            "title": "[03# Infinite jump(on)]",
+            "content": "[03# Infinite jump(on)]\n04000000 0021CD18 D503201F\n\n"
+        },
+        {
+            "title": "[Infinite Jump(off)]",
+            "content": "[Infinite Jump(off)]\n04000000 0021CD18 321F03F4\n\n"
+        },
+        {
+            "title": "[04# Enable - cant die - ignore hearts]",
+            "content": "[04# Enable - cant die - ignore hearts]\n04000000 002ECA94 4B0003E1\n\n"
+        },
+        {
+            "title": "[Disable - cant die - ignore hearts]",
+            "content": "[Disable - cant die - ignore hearts]\n04000000 002ECA94 4B1503E1\n\n"
+        },
+        {
+            "title": "[05# 300 coins]",
+            "content": "[05# 300 coins]\n580F0000 03966A70\n580F1000 00000040\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000018\n580F1000 00000010\n580F1000 00000028\n780F0000 00000024\n640F0000 00000000 43960000"
+        }
+    ]
+}

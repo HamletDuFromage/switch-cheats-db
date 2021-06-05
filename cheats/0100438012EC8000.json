@@ -1,1 +1,16 @@
-{}
+{
+    "6B584C5C7CF33FC7": [
+        {
+            "title": "[inf jump]",
+            "content": "[inf jump]\n04000000 00AF3BB8 D503201F\n\n"
+        },
+        {
+            "title": "[L pad on no dead call at fight time]",
+            "content": "[L pad on no dead call at fight time]\n80000040\n04000000 0301BBD0 D65F03C0\n20000000\n\n"
+        },
+        {
+            "title": "[R pad off no dead call at fight time]",
+            "content": "[R pad off no dead call at fight time]\n80000080\n0400000 0301BBD0 D10243FF\n20000000"
+        }
+    ]
+}

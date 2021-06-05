@@ -1,0 +1,136 @@
+{
+    "D84098833BF007C6": [
+        {
+            "title": "[Gold]",
+            "content": "[Gold]\n04100000 03EAC7F0 000F423F\n\n"
+        },
+        {
+            "title": "[P1 HP]",
+            "content": "[P1 HP]\n04100000 03EAC6F4 000003E7\n\n"
+        },
+        {
+            "title": "[P1 MP]",
+            "content": "[P1 MP]\n04100000 03EAC700 000003E7\n\n"
+        },
+        {
+            "title": "[P1 Strength MAX]",
+            "content": "[P1 Strength MAX]\n04100000 03EAC718 000003E7\n\n"
+        },
+        {
+            "title": "[P1 Agility MAX]",
+            "content": "[P1 Agility MAX]\n04100000 03EAC724 000003E7\n\n"
+        },
+        {
+            "title": "[P1 Protection MAX]",
+            "content": "[P1 Protection MAX]\n04100000 03EAC730 000003E7\n\n"
+        },
+        {
+            "title": "[P1 Max. HP]",
+            "content": "[P1 Max. HP]\n04100000 03EAC73C 000003E7\n\n"
+        },
+        {
+            "title": "[P1 Max. MP]",
+            "content": "[P1 Max. MP]\n04100000 03EAC748 000003E7\n\n"
+        },
+        {
+            "title": "[P1 Attack MAX]",
+            "content": "[P1 Attack MAX]\n04100000 03EAC754 000003E7\n\n"
+        },
+        {
+            "title": "[P1 Defence MAX]",
+            "content": "[P1 Defence MAX]\n04100000 03EAC760 000003E7\n\n"
+        },
+        {
+            "title": "[P2 HP]",
+            "content": "[P2 HP]\n04100000 03EAC6F8 000003E7\n\n"
+        },
+        {
+            "title": "[P2 MP]",
+            "content": "[P2 MP]\n04100000 03EAC704 000003E7\n\n"
+        },
+        {
+            "title": "[P2 Strength MAX]",
+            "content": "[P2 Strength MAX]\n04100000 03EAC71C 000003E7\n\n"
+        },
+        {
+            "title": "[P2 Agility MAX]",
+            "content": "[P2 Agility MAX]\n04100000 03EAC728 000003E7\n\n"
+        },
+        {
+            "title": "[P2 Protection MAX]",
+            "content": "[P2 Protection MAX]\n04100000 03EAC734 000003E7\n\n"
+        },
+        {
+            "title": "[P2 Max. HP]",
+            "content": "[P2 Max. HP]\n04100000 03EAC740 000003E7\n\n"
+        },
+        {
+            "title": "[P2 Max. MP]",
+            "content": "[P2 Max. MP]\n04100000 03EAC74C 000003E7\n\n"
+        },
+        {
+            "title": "[P2 Attack MAX]",
+            "content": "[P2 Attack MAX]\n04100000 03EAC758 000003E7\n\n"
+        },
+        {
+            "title": "[P2 Defence MAX]",
+            "content": "[P2 Defence MAX]\n04100000 03EAC764 000003E7\n\n"
+        },
+        {
+            "title": "[P3 HP]",
+            "content": "[P3 HP]\n04100000 03EAC6FC 000003E7\n\n"
+        },
+        {
+            "title": "[P3 MP]",
+            "content": "[P3 MP]\n04100000 03EAC708 000003E7\n\n"
+        },
+        {
+            "title": "[P3 Strength MAX]",
+            "content": "[P3 Strength MAX]\n04100000 03EAC720 000003E7\n\n"
+        },
+        {
+            "title": "[P3 Agility MAX]",
+            "content": "[P3 Agility MAX]\n04100000 03EAC72C 000003E7\n\n"
+        },
+        {
+            "title": "[P3 Protection MAX]",
+            "content": "[P3 Protection MAX]\n04100000 03EAC738 000003E7\n\n"
+        },
+        {
+            "title": "[P3 Max. HP]",
+            "content": "[P3 Max. HP]\n04100000 03EAC744 000003E7\n\n"
+        },
+        {
+            "title": "[P3 Max. MP]",
+            "content": "[P3 Max. MP]\n04100000 03EAC750 000003E7\n\n"
+        },
+        {
+            "title": "[P3 Attack MAX]",
+            "content": "[P3 Attack MAX]\n04100000 03EAC75C 000003E7\n\n"
+        },
+        {
+            "title": "[P3 Defence MAX]",
+            "content": "[P3 Defence MAX]\n04100000 03EAC768 000003E7\n\n"
+        },
+        {
+            "title": "[All Party (Hold L)]",
+            "content": "[All Party (Hold L)]\n80000040\n04100000 03EAC76C 00010101\n20000000\n\n"
+        },
+        {
+            "title": "[P2 Only (Hold ZL)]",
+            "content": "[P2 Only (Hold ZL)]\n80000100\n04100000 03EAC76C 00000100\n20000000\n\n"
+        },
+        {
+            "title": "[P3 Only (Hold ZR)]",
+            "content": "[P3 Only (Hold ZR)]\n80000200\n04100000 03EAC76C 00010000\n20000000\n\n"
+        },
+        {
+            "title": "[P2+3 Only (Hold R)]",
+            "content": "[P2+3 Only (Hold R)]\n80000080\n04100000 03EAC76C 00010100\n20000000\n\n"
+        },
+        {
+            "title": "[P1 Only (Hold +)]",
+            "content": "[P1 Only (Hold +)]\n80000400\n04100000 03EAC76C 00000001\n20000000"
+        }
+    ]
+}

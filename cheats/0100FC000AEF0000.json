@@ -1,1 +1,28 @@
-{}
+{
+    "0EC417630F5C7A35": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for Dead Cells USA 1.0.0]",
+            "content": "[From MAX-CHEATS.com by optantic for Dead Cells USA 1.0.0]\n\n"
+        },
+        {
+            "title": "[2000000000 Coins]",
+            "content": "[2000000000 Coins]\n580f0000 015280C8\n580f1000 00000030\n580f1000 00000080\n780f0000 00000050\n640f0000 00000000 77359400\n\n"
+        },
+        {
+            "title": "[999999 HP]",
+            "content": "[999999 HP]\n580f0000 015280C8\n580f1000 00000030\n580f1000 00000090\n780f0000 00000118\n640f0000 00000000 000F423F\n780f0000 00000004\n640f0000 00000000 000F423F\n\n"
+        },
+        {
+            "title": "[99999 Cells]",
+            "content": "[99999 Cells]\n580f0000 015280C8\n580f1000 00000030\n580f1000 00000090\n780f0000 00000434\n640f0000 00000000 0001869F\n\n"
+        },
+        {
+            "title": "[0 Cells]",
+            "content": "[0 Cells]\n580f0000 015280C8\n580f1000 00000030\n580f1000 00000090\n780f0000 00000434\n640f0000 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Push Left Stick DPS UP push again On Pickup]",
+            "content": "[Push Left Stick DPS UP push again On Pickup]\n80000010\n580f0000 015280C8\n580f1000 00000030\n580f1000 00000090\n780f0000 00000140\n640f0000 00000000 00000040\n780f0000 00000004\n640f0000 00000000 00000040\n780f0000 00000004\n640f0000 00000000 00000040\n20000000"
+        }
+    ]
+}

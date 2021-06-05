@@ -1,1 +1,16 @@
-{}
+{
+    "C57568440DB209CC": [
+        {
+            "title": "[Inf Lives]",
+            "content": "[Inf Lives]\n011F0000 007E5113 00000008\n\n"
+        },
+        {
+            "title": "[Inf Missile]",
+            "content": "[Inf Missile]\n011F0000 007E51A6 0000000A\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n021F0000 007E5134 000002FF"
+        }
+    ]
+}

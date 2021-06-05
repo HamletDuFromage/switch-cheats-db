@@ -1,1 +1,20 @@
-{}
+{
+    "4F61B94412A715BA": [
+        {
+            "title": "[Inf Life]",
+            "content": "[Inf Life]\n011F0000 018AF0B7 0000001F\n\n"
+        },
+        {
+            "title": "[Inf Ammo]",
+            "content": "[Inf Ammo]\n011F0000 018AF0B8 00000079\n\n"
+        },
+        {
+            "title": "[Inf Lives]",
+            "content": "[Inf Lives]\n011F0000 018AF0BA 00000063\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n011F0000 018AF0D2 000000FF"
+        }
+    ]
+}

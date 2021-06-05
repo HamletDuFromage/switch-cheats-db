@@ -1,1 +1,32 @@
-{}
+{
+    "98F36C45C6C78AB6": [
+        {
+            "title": "[Inf Diamond]",
+            "content": "[Inf Diamond]\n580F0000 02c880f8\n780F0000 00000430\n640F0000 00000000 00000064\n\n"
+        },
+        {
+            "title": "[Inf Life]",
+            "content": "[Inf Life]\n580F0000 02c880f8\n780F0000 00000434\n640F0000 00000000 00000064\n\n"
+        },
+        {
+            "title": "[Inf Stone]",
+            "content": "[Inf Stone]\n580F0000 02c880f8\n780F0000 00000440\n640F0000 00000000 00000064\n\n"
+        },
+        {
+            "title": "[Time Stop]",
+            "content": "[Time Stop]\n580F0000 02c880f8\n780F0000 00000444\n640F0000 00000000 42C80000\n\n"
+        },
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n580F0000 02d01758\n780F0000 000052ec\n640F0000 00000000 41000000\n20000000\n\n"
+        },
+        {
+            "title": "[Inf Item]",
+            "content": "[Inf Item]\n580F0000 02d01758\n780F0000 00005338\n640F0000 00000000 01010101\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n580F0000 02d01758\n780F0000 00005354\n640F0000 00000000 42C80000"
+        }
+    ]
+}

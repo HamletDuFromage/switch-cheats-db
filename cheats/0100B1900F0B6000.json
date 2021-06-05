@@ -1,1 +1,228 @@
-{}
+{
+    "D469AA790876B5F6": [
+        {
+            "title": "[Lives unlimited]",
+            "content": "[Lives unlimited]\n01000000 6874A728 00000063\n"
+        },
+        {
+            "title": "[Energy unlimited]",
+            "content": "[Energy unlimited]\n01000000 687D0618 00000007\n"
+        },
+        {
+            "title": "[Inf Capacity]",
+            "content": "[Inf Capacity]\n04000000 004DF83C 000003E8\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n04000000 687D05A8 000001F4\n"
+        },
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n04000000 687D060c C0BCCCCC\n20000000\n"
+        },
+        {
+            "title": "[Speed MAX]",
+            "content": "[Speed MAX]\n04000000 6874B398 0000000F\n\n"
+        },
+        {
+            "title": "[------- ZizouOlympia ONLY -------]",
+            "content": "[------- ZizouOlympia ONLY -------]\n"
+        },
+        {
+            "title": "[Wing MAX]",
+            "content": "[Wing MAX]\n04000000 6874B3A4 0000000F\n"
+        },
+        {
+            "title": "[Line MAX(ZL)/Comet MAX(ZR)]",
+            "content": "[Line MAX(ZL)/Comet MAX(ZR)]\n80000100\n04000000 6874B3B0 00000064\n20000000\n80000200\n04000000 6874B3B0 ffffffff\n04000000 6874B3BC 0000000F\n20000000\n"
+        },
+        {
+            "title": "[Power MAX]",
+            "content": "[Power MAX]\n04000000 6874B3C8 00000004\n"
+        },
+        {
+            "title": "[Guard MAX]",
+            "content": "[Guard MAX]\n04000000 6874B3D4 0000000F\n\n"
+        },
+        {
+            "title": "[------------ Riva ONLY -------------]",
+            "content": "[------------ Riva ONLY -------------]\n"
+        },
+        {
+            "title": "[Dash MAX]",
+            "content": "[Dash MAX]\n04000000 6874B3A4 0000000F\n"
+        },
+        {
+            "title": "[Fire MAX(ZL)/Sword MAX(ZR)]",
+            "content": "[Fire MAX(ZL)/Sword MAX(ZR)]\n80000100\n04000000 6874B3B0 0000000F\n20000000\n80000200\n04000000 6874B3B0 ffffffff\n04000000 6874B3BC 0000000F\n20000000\n\n"
+        },
+        {
+            "title": "[------------------------------------]",
+            "content": "[------------------------------------]\n"
+        },
+        {
+            "title": "[Boss 1 HP]",
+            "content": "[Boss 1 HP]\n12010000 687D0730 00000001\n02000000 687D0730 00000001\n20000000\n"
+        },
+        {
+            "title": "[------------------------------------]",
+            "content": "[------------------------------------]\n"
+        },
+        {
+            "title": "[99999 Syega]",
+            "content": "[99999 Syega]\n04000000 6874B430 0001869F\n\n"
+        },
+        {
+            "title": "[99999 Tres (Save Slot 1)]",
+            "content": "[99999 Tres (Save Slot 1)]\n04000000 6874F474 0001869F\n"
+        },
+        {
+            "title": "[99999 Tres (Save Slot 2)]",
+            "content": "[99999 Tres (Save Slot 2)]\n04000000 687534F4 0001869F\n\n"
+        },
+        {
+            "title": "[All Weapons Unlocked (Save Slot 1)]",
+            "content": "[All Weapons Unlocked (Save Slot 1)]\n300E0000 00000006\n01000000 6874F4F4 00000001\n78000000 00000004\n310E0000\n20000000\n"
+        },
+        {
+            "title": "[All Weapons Unlocked (Save Slot 2)]",
+            "content": "[All Weapons Unlocked (Save Slot 2)]\n300E0000 00000006\n01000000 68753574 00000001\n78000000 00000004\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[Have All Crystals (Save Slot 1)]",
+            "content": "[Have All Crystals (Save Slot 1)]\n300E0000 0000000D\n01000000 6874F8F4 00000001\n78000000 00000004\n310E0000\n20000000\n"
+        },
+        {
+            "title": "[Have All Crystals (Save Slot 2)]",
+            "content": "[Have All Crystals (Save Slot 2)]\n300E0000 0000000D\n01000000 68753974 00000001\n78000000 00000004\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[0 Damage Taken (Save Slot 1)]",
+            "content": "[0 Damage Taken (Save Slot 1)]\n04000000 6874F47C 00000000\n"
+        },
+        {
+            "title": "[0 Dead  (Save Slot 1)]",
+            "content": "[0 Dead  (Save Slot 1)]\n04000000 6874F480 00000000\n"
+        },
+        {
+            "title": "[0 Damage Taken (Save Slot 2)]",
+            "content": "[0 Damage Taken (Save Slot 2)]\n04000000 687534FC 00000000\n"
+        },
+        {
+            "title": "[0 Dead  (Save Slot 2)]",
+            "content": "[0 Dead  (Save Slot 2)]\n04000000 68753500 00000000"
+        }
+    ],
+    "F062735CE0525729": [
+        {
+            "title": "[Infinite HP v1.0.0 optantic]",
+            "content": "[Infinite HP v1.0.0 optantic]\n01000000 687d22f4 00000007\n\n"
+        },
+        {
+            "title": "[Infinite Lives]",
+            "content": "[Infinite Lives]\n01000000 6874c404 00000007\n\n"
+        },
+        {
+            "title": "[Infinite Jump]",
+            "content": "[Infinite Jump]\n01000000 687d230c 00000000\n\n"
+        },
+        {
+            "title": "[Infinite Blue Bar]",
+            "content": "[Infinite Blue Bar]\n04000000 004e1514 000003e8\n\n"
+        },
+        {
+            "title": "[Low Stage Time]",
+            "content": "[Low Stage Time]\n02000000 6874c409 00000000\n\n"
+        },
+        {
+            "title": "[Always has Key]",
+            "content": "[Always has Key]\n01000000 6874c36c 00000001\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n04000000 687d2280 ffffffff\n\n"
+        },
+        {
+            "title": "[Max Power Bar]",
+            "content": "[Max Power Bar]\n01000000 687d22ac 0000007d\n\n"
+        },
+        {
+            "title": "[Power Lv 4]",
+            "content": "[Power Lv 4]\n01000000 6874d0a4 00000004\n\n"
+        },
+        {
+            "title": "[Max Speed Upgrade]",
+            "content": "[Max Speed Upgrade]\n01000000 6874d074 00000003\n\n"
+        },
+        {
+            "title": "[Have Wing]",
+            "content": "[Have Wing]\n01000000 6874d080 00000001\n\n"
+        },
+        {
+            "title": "[Infinite Wing Bar]",
+            "content": "[Infinite Wing Bar]\n01000000 6874c3f0 0000001e\n\n"
+        },
+        {
+            "title": "[ZL+UP Line Lv 4]",
+            "content": "[ZL+UP Line Lv 4]\n80002100\n04000000 6874d08c 00000004\n04000000 6874d098 ffffffff\n20000000\n\n"
+        },
+        {
+            "title": "[ZL+DOWN Comet Lv 4]",
+            "content": "[ZL+DOWN Comet Lv 4]\n80008100\n04000000 6874d08c ffffffff\n04000000 6874d098 00000004\n20000000\n\n"
+        },
+        {
+            "title": "[Boss 1 HP]",
+            "content": "[Boss 1 HP]\n12010000 687d240c 00000001\n02000000 687d240c 00000001\n20000000\n\n"
+        },
+        {
+            "title": "[0 Damage Taken]",
+            "content": "[0 Damage Taken]\n04000000 68751158 00000000\n\n"
+        },
+        {
+            "title": "[0 Dead]",
+            "content": "[0 Dead]\n04000000 6875115c 00000000\n\n"
+        },
+        {
+            "title": "[99999 Tres]",
+            "content": "[99999 Tres]\n04000000 68751150 0001869f\n\n"
+        },
+        {
+            "title": "[All Weapons Unlocked]",
+            "content": "[All Weapons Unlocked]\n01000000 687511d0 00000001\n01000000 687511d4 00000001\n01000000 687511d8 00000001\n01000000 687511dc 00000001\n01000000 687511e0 00000001\n01000000 687511e4 00000001\n\n"
+        },
+        {
+            "title": "[Have All Crystals]",
+            "content": "[Have All Crystals]\n01000000 687515d0 00000001\n01000000 687515d4 00000001\n01000000 687515d8 00000001\n01000000 687515dc 00000001\n01000000 687515e0 00000001\n01000000 687515e4 00000001\n01000000 687515e8 00000001\n01000000 687515ec 00000001\n01000000 687515f0 00000001\n01000000 687515f4 00000001\n01000000 687515f8 00000001\n01000000 687515fc 00000001"
+        }
+    ],
+    "688F083106E7467D": [
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n04000000 687D3608 C0BCCCCC\n20000000\n\n"
+        },
+        {
+            "title": "[Speed MAX]",
+            "content": "[Speed MAX]\n04000000 6874E394 0000000F\n\n"
+        },
+        {
+            "title": "[Wing MAX]",
+            "content": "[Wing MAX]\n04000000 6874E3A0 0000000F\n\n"
+        },
+        {
+            "title": "[Line MAX]",
+            "content": "[Line MAX]\n04000000 6874E3AC 00000064\n\n"
+        },
+        {
+            "title": "[Power MAX]",
+            "content": "[Power MAX]\n04000000 6874E3C0 00000064\n04000000 6874E3C4 00000004\n\n"
+        },
+        {
+            "title": "[Inf Capacity]",
+            "content": "[Inf Capacity] Code by ??B\n04000000 004E2834 000003E8\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible] Code by ??B\n04000000 687D35A0 000001F4"
+        }
+    ]
+}

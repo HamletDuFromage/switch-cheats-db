@@ -1,1 +1,20 @@
-{}
+{
+    "498F36F55A42E1BF": [
+        {
+            "title": "[Inf Lives]",
+            "content": "[Inf Lives]\n010F0000 06CD92F0 00000009\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n010F0000 06CD92D2 00000096\n\n"
+        },
+        {
+            "title": "[Inf Bomb]",
+            "content": "[Inf Bomb]\n010F0000 06CD92EE 00000009\n\n"
+        },
+        {
+            "title": "[Max Power]",
+            "content": "[Max Power]\n010F0000 06CD92E8 00000003"
+        }
+    ]
+}

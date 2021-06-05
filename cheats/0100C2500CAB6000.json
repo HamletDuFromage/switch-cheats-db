@@ -1,1 +1,20 @@
-{}
+{
+    "0100C2500CAB6000": [
+        {
+            "title": "[01# Max Health]",
+            "content": "[01# Max Health]\n04000000 0005E700 52800280\n04000000 0005E20C 52800280\n"
+        },
+        {
+            "title": "[Max Health (off)]",
+            "content": "[Max Health (off)]\n04000000 0005E700 B9403500\n04000000 0005E210 B90032C0\n"
+        },
+        {
+            "title": "[02# 9999 Coins]",
+            "content": "[02# 9999 Coins]\n04000000 019C841C 5284E1E0\n"
+        },
+        {
+            "title": "[9999 Coins (off)]",
+            "content": "[9999 Coins (off)]\n04000000 019C841C B9402D00"
+        }
+    ]
+}

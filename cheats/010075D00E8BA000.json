@@ -1,1 +1,90 @@
-{}
+{
+    "32620C385527E689": [
+        {
+            "title": "[Max Scrap]",
+            "content": "[Max Scrap]\n041f0000 9f049cd0 05F5E0FF\n\n"
+        },
+        {
+            "title": "[Max Sensor]",
+            "content": "[Max Sensor]\n041f0000 9f049cb0 05f5e0ff\n\n"
+        },
+        {
+            "title": "[Max Bonding Agent]",
+            "content": "[Max Bonding Agent]\n041f0000 9f049cf0 05f5e0ff\n\n"
+        },
+        {
+            "title": "[Bonding agent]",
+            "content": "[Bonding agent]\n04100000 9F049D10 00000006\n"
+        },
+        {
+            "title": "[Scrap]",
+            "content": "[Scrap]\n04100000 9F049cb0 00000064\n"
+        },
+        {
+            "title": "[Sensor]",
+            "content": "[Sensor]\n04100000 9F049cd0 00000003\n"
+        },
+        {
+            "title": "[Ethanol]",
+            "content": "[Ethanol]\n04100000 9F049cf0 00000003\n"
+        },
+        {
+            "title": "[SCJ Injection]",
+            "content": "[SCJ Injection]\n04100000 9F049d30 00000006\n"
+        },
+        {
+            "title": "[Charge Pack]",
+            "content": "[Charge Pack]\n04100000 9F049dd0 00000003\n"
+        },
+        {
+            "title": "[power]",
+            "content": "[power]\n04100000 9F049d70 00000006\n"
+        },
+        {
+            "title": "[compound b]",
+            "content": "[compound b]\n04100000 9F049df0 00000006\n"
+        },
+        {
+            "title": "[Medikits]",
+            "content": "[Medikits]\n04100000 9F049E10 00000006 "
+        }
+    ],
+    "EBE18862AE4ECA75": [
+        {
+            "title": "[Inf Ammo]",
+            "content": "[Inf Ammo]\n04070000 0188CA20 528009A8\n04070000 0188CA24 B9012808\n04070000 0188CA28 D65F03C0\n04070000 0188CA2C 97001519\n04070000 00E7C254 942841F3 \n\n"
+        },
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n04070000 0188CA00 5283CC28\n04070000 0188CA04 79068C08\n04070000 0188CA08 79068808\n04070000 0188CA0C 7D468800\n04070000 0188CA10 D65F03C0\n04070000 010D3198 941EE61A\n\n"
+        },
+        {
+            "title": "[Instant Kill]",
+            "content": "[Instant Kill]\n04070000 0188CA80 79468AA8\n04070000 0188CA84 7100051F\n04070000 0188CA88 5400006D\n04070000 0188CA8C 52800028\n04070000 0188CA90 79068AA8\n04070000 0188CA94 D65F03C0\n04070000 01145564 941D1D47\n\n"
+        },
+        {
+            "title": "[Inf Flashlight]",
+            "content": "[Inf Flashlight]\n04070000 0188CA50 7100051F\n04070000 0188CA54 540000C1\n04070000 0188CA58 52A85E02\n04070000 0188CA5C 1E270041\n04070000 0188CA60 1E212120\n04070000 0188CA64 54000041\n04070000 0188CA68 1E2703E0\n04070000 0188CA6C BD403AC1\n04070000 0188CA70 D65F03C0\n04070000 012E6ECC 941696E1\n\n"
+        },
+        {
+            "title": "[Flame no Overheat]",
+            "content": "[Flame no Overheat]\n04070000 00EA8F7C 1E204020\n\n"
+        },
+        {
+            "title": "[Not Attack by Alien]",
+            "content": "[Not Attack by Alien]\n04070000 0137A0C0 52800008\n\n"
+        },
+        {
+            "title": "[Battery 5 Max]",
+            "content": "[Battery 5 Max]\n04070000 00E9494C 528000C9\n\n"
+        },
+        {
+            "title": "[Get Material Max]",
+            "content": "[Get Material Max]\n04070000 0188CA30 52807CE8\n04070000 0188CA34 B9000308\n04070000 0188CA38 D65F03C0\n04070000 00E9DB38 9427BBBE\n\n"
+        },
+        {
+            "title": "[Change 2 More Use Item Max]",
+            "content": "[Change 2 More Use Item Max]\n04070000 0188CA40 52800C89\n04070000 0188CA44 B9001009\n04070000 0188CA48 D65F03C0\n04070000 00E9F4CC 9427B55D \n\n"
+        }
+    ]
+}

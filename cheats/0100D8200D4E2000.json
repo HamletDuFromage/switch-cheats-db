@@ -1,1 +1,42 @@
-{}
+{
+    "537BEE1F2FFC7F7F": [
+        {
+            "title": "[P1 Lives unlimited]",
+            "content": "[P1 Lives unlimited]\n01000000 016CAB2C 00000009\n\n"
+        },
+        {
+            "title": "[P1 Bombs unlimited]",
+            "content": "[P1 Bombs unlimited]\n01000000 016CAB2E 00000009\n\n"
+        },
+        {
+            "title": "[P2 Lives unlimited]",
+            "content": "[P2 Lives unlimited]\n01000000 016CAE1C 00000009\n\n"
+        },
+        {
+            "title": "[P2 Bombs unlimited]",
+            "content": "[P2 Bombs unlimited]\n01000000 016CAE1E 00000009\n"
+        }
+    ],
+    "7F555BCFAC873E7A": [
+        {
+            "title": "[P1 Inf Lives]",
+            "content": "[P1 Inf Lives]\n01000000 01F15B2C 00000009\n\n"
+        },
+        {
+            "title": "[P1 Inf Bombs]",
+            "content": "[P1 Inf Bombs]\n01000000 01F15B2E 00000009\n\n"
+        },
+        {
+            "title": "[P1 Full Special Bar]",
+            "content": "[P1 Full Special Bar]\n02000000 01F15B86 00007FFF\n\n"
+        },
+        {
+            "title": "[P1 Max Fire Power]",
+            "content": "[P1 Max Fire Power]\n02000000 01F15B64 00000003\n\n"
+        },
+        {
+            "title": "[P1 Invincible DaBlackDeath]",
+            "content": "[P1 Invincible DaBlackDeath]\n01000000 01F15B70 000000FF"
+        }
+    ]
+}

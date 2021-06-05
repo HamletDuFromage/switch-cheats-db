@@ -1,0 +1,30 @@
+{
+    "C08EC938F6AEAA3D": [
+        {
+            "title": "[hitanywhere]",
+            "content": "[hitanywhere]\n580F0000 01298FF8\n780F0000 000F6BA4\n640F0000 00000000 60120078"
+        }
+    ],
+    "921CA58103B00781": [
+        {
+            "title": "[From MAX-CHEATS.com by eco95 for ACA NEOGEO Art of Fighting 2 (V1.0.1)]",
+            "content": "[From MAX-CHEATS.com by eco95 for ACA NEOGEO Art of Fighting 2 (V1.0.1)]\n\n\n"
+        },
+        {
+            "title": "[P1 Infinite HP]",
+            "content": "[P1 Infinite HP]\n01000000 012581ac 00000060\n\n"
+        },
+        {
+            "title": "[P1 Infinite Power]",
+            "content": "[P1 Infinite Power]\n01000000 01258365 00000060\n\n"
+        },
+        {
+            "title": "[P2 NO HP]",
+            "content": "[P2 NO HP]\n01000000 012582ac 00000001\n\n"
+        },
+        {
+            "title": "[P2 NO Power]",
+            "content": "[P2 NO Power]\n01000000 01258465 00000000"
+        }
+    ]
+}

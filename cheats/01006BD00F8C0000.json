@@ -1,1 +1,102 @@
-{}
+{
+    "06B9D4461DC8A442": [
+        {
+            "title": "[Langrisser 1]",
+            "content": "[Langrisser 1]\n"
+        },
+        {
+            "title": "[01# Inf Money]",
+            "content": "[01# Inf Money]\n580F0000 0210F840\n580F1000 000000B8\n580F1000 00000050\n780F0000 0000003C\n640F0000 00000000 000F423F\n\n"
+        },
+        {
+            "title": "[02# Ledlin Max XP]",
+            "content": "[02# Ledlin Max XP]\n580F0000 02130D08\n580F1000 000003C0\n580F1000 00000168\n780F0000 00000394\n640F0000 00000000 000DC56D\n\n"
+        },
+        {
+            "title": "[03# Ledlin Inf HP]",
+            "content": "[03# Ledlin Inf HP]\n580F0000 02130D08\n580F1000 000003C0\n580F1000 00000168\n780F0000 00000398\n640F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[04# Ledlin Inf MP]",
+            "content": "[04# Ledlin Inf MP]\n580F0000 02130D08\n580F1000 000003C0\n580F1000 00000168\n780F0000 0000039C\n640F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[05# Ledlin Max CP]",
+            "content": "[05# Ledlin Max CP]\n580F0000 02130D08\n580F1000 000003C0\n580F1000 00000168\n780F0000 000003A0\n640F0000 00000000 00000186\n\n"
+        },
+        {
+            "title": "[06# Volkoff Max XP]",
+            "content": "[06# Volkoff Max XP]\n580F0000 02130D08\n580F1000 000003C0\n580F1000 000000F8\n780F0000 00000154\n640F0000 00000000 000DC56D\n\n"
+        },
+        {
+            "title": "[07# Volkoff Max HP]",
+            "content": "[07# Volkoff Max HP]\n580F0000 02130D08\n580F1000 000003C0\n580F1000 000000F8\n780F0000 00000158\n640F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[08# Volkoff Max MP]",
+            "content": "[08# Volkoff Max MP]\n580F0000 02130D08\n580F1000 000003C0\n580F1000 000000F8\n780F0000 0000015C\n640F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[09# Volkoff Max CP]",
+            "content": "[09# Volkoff Max CP]\n580F0000 02130D08\n580F1000 000003C0\n580F1000 000000F8\n780F0000 00000160\n640F0000 00000000 00000186\n\n"
+        },
+        {
+            "title": "[10# All Weapons]",
+            "content": "[10# All Weapons]\n58000000 0210F840\n58001000 000000B8\n58001000 00000050\n58001000 000000D8\n78000000 00000024\n300E0000 00000028\n64000000 00000000 0000000A\n78000000 00000004\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[11# All Shields]",
+            "content": "[11# All Shields]\n58000000 0210F840\n58001000 000000B8\n58001000 00000050\n58001000 000000D8\n78000000 000000D0\n300E0000 0000001D\n64000000 00000000 0000000A\n78000000 00000004\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[12# All Others]",
+            "content": "[12# All Others]\n58000000 0210F840\n58001000 000000B8\n58001000 00000050\n58001000 000000D8\n78000000 00000150\n300E0000 0000002B\n64000000 00000000 0000000A\n78000000 00000004\n310E0000\n20000000"
+        }
+    ],
+    "D13DEE59BE762AB5": [
+        {
+            "title": "[Star MAX]",
+            "content": "[Star MAX]\n580F0000 00359168\n780F0000 00000314\n640F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Inf Heart]",
+            "content": "[Inf Heart]\n580F0000 00373310\n780F0000 00000934\n680F0000 00000028 00000028\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n580F0000 00373310\n780F0000 000000b8\n610F0000 00000000 000000FF\n780F0000 00000006\n610F0000 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Rapid Fire]",
+            "content": "[Rapid Fire]\n80000001\n580F0000 00373310\n780F0000 00000004\n640F0000 00000000 00000001\n20000000\n\n"
+        },
+        {
+            "title": "[Speed Up]",
+            "content": "[Speed Up]\n580F0000 00373310\n780F0000 0000096C\n640F0000 00000000 40800000\n\n"
+        },
+        {
+            "title": "[Walk through Walls (Hold ZL)]",
+            "content": "[Walk through Walls (Hold ZL)]\n580F0000 00373310\n780F0000 0000010F\n610F0000 00000000 00000000\n80000100\n610F0000 00000000 000000FF\n20000000\n\n"
+        },
+        {
+            "title": "[Use Items Immediately]",
+            "content": "[Use Items Immediately]\n580F0000 00373310\n780F0000 000003F4\n300E0000 00000003\n640F0000 00000000 00000000\n780F0000 000001C0\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[Mini Game Score]",
+            "content": "[Mini Game Score]\n580F0000 003729A0\n780F0000 00000010\n640F0000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[Mini Game Time (Time 0:00 Hold ZR)]",
+            "content": "[Mini Game Time (Time 0:00 Hold ZR)]\n580F0000 003729A0\n780F0000 000000D4\n640F0000 00000000 00008C40\n80000200\n640F0000 00000000 00000000\n20000000\n\n"
+        },
+        {
+            "title": "[Mini Game Doraemon Gage]",
+            "content": "[Mini Game Doraemon Gage]\n580F0000 003729A0\n780F1000 00000300\n640F0000 00000000 42C80000\n\n"
+        },
+        {
+            "title": "[Mini Game Life]",
+            "content": "[Mini Game Life]\n580F0000 00372970\n780F0000 00000010\n640F0000 00000000 00000004"
+        }
+    ]
+}

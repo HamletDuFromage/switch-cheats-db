@@ -1,0 +1,68 @@
+{
+    "5814A3099A30B54A": [
+        {
+            "title": "[Lives unlimited]",
+            "content": "[Lives unlimited]\n04000000 003DCE60 52800C60\n\n"
+        },
+        {
+            "title": "[Time Freeze ON]",
+            "content": "[Time Freeze ON]\n04000000 003DCCB0 1C000040\n04000000 003DCCB8 42700000\n04000000 0025EB20 D65F03C0\n\n"
+        },
+        {
+            "title": "[Time Freeze OFF]",
+            "content": "[Time Freeze OFF]\n04000000 003DCCB0 BD401800  \n\n"
+        },
+        {
+            "title": "[Sonic Enable]",
+            "content": "[Sonic Enable]\n04000000 00774C40 52800020\n04000000 00774C44 D65F03C0\n\n"
+        },
+        {
+            "title": "[Baby Robo Enable]",
+            "content": "[Baby Robo Enable]\n04000000 00774CF0 52800020\n04000000 00774CF4 D65F03C0\n"
+        }
+    ],
+    "82BCE946568DD041": [
+        {
+            "title": "[Lives unlimited]",
+            "content": "[Lives unlimited]\n04000000 003DCE60 52800C60\n\n"
+        },
+        {
+            "title": "[Time Freeze ON]",
+            "content": "[Time Freeze ON]\n04000000 003DCCB0 1C000040\n04000000 003DCCB8 42700000\n04000000 0025EB20 D65F03C0\n\n"
+        },
+        {
+            "title": "[Time Freeze OFF]",
+            "content": "[Time Freeze OFF]\n04000000 003DCCB0 BD401800  \n\n"
+        },
+        {
+            "title": "[Sonic Enable]",
+            "content": "[Sonic Enable]\n04000000 00774C40 52800020\n04000000 00774C44 D65F03C0\n\n"
+        },
+        {
+            "title": "[Baby Robo Enable]",
+            "content": "[Baby Robo Enable]\n04000000 00774CF0 52800020\n04000000 00774CF4 D65F03C0\n"
+        }
+    ],
+    "0DA43DE40287B24A": [
+        {
+            "title": "[Lives unlimited]",
+            "content": "[Lives unlimited]\n04000000 003DCDA0 52800C60\n\n"
+        },
+        {
+            "title": "[Time Freeze ON]",
+            "content": "[Time Freeze ON]\n04000000 003DCBF0 1C000040\n04000000 003DCBF8 04270000\n04000000 0025EA90 D65F03C0\n\n"
+        },
+        {
+            "title": "[Time Freeze OFF]",
+            "content": "[Time Freeze OFF]\n04000000 003DCBF0 BD401800\n\n"
+        },
+        {
+            "title": "[Sonic Enable]",
+            "content": "[Sonic Enable]\n04000000 00774B80 52800020\n04000000 00774B84 D65F03C0\n\n"
+        },
+        {
+            "title": "[Baby Robo Enable]",
+            "content": "[Baby Robo Enable]\n04000000 00774C30 52800020\n04000000 00774C34 D65F03C0 \n"
+        }
+    ]
+}
