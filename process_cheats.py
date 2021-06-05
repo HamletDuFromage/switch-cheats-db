@@ -67,7 +67,8 @@ class ProcessCheats:
                 json.dump(out, json_file, indent = 4)
             print(f"{out_sheet} has been modified")
 
-    def parseCheats(self):
+    def parseCheats(self):        
+        subprocess.call(['bash', '-c', f"chmod -R +rw {self.in_path}"])
         subprocess.call(['bash', '-c', f"find {self.in_path} -depth -exec rename 's/(.*)\\/([^\\/]*)/$1\\/\\U$2/' {{}} \\;"])
         #subprocess.call(['bash', '-c', f"find {self.in_path} -depth -exec perl-rename 's/(.*)\\/([^\\/]*)/$1\\/\\U$2/' {{}} \\;"])
         if not(Path(self.out_path).is_dir()):
