@@ -69,6 +69,7 @@ class ProcessCheats:
 
     def parseCheats(self):
         subprocess.call(['bash', '-c', f"find {self.in_path} -depth -exec rename 's/(.*)\\/([^\\/]*)/$1\\/\\U$2/' {{}} \\;"])
+        #subprocess.call(['bash', '-c', f"find {self.in_path} -depth -exec perl-rename 's/(.*)\\/([^\\/]*)/$1\\/\\U$2/' {{}} \\;"])
         if not(Path(self.out_path).is_dir()):
             mkdir(self.out_path)
         tids = listdir(self.in_path)
