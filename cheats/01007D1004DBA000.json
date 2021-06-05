@@ -1,0 +1,16 @@
+{
+    "FE6ADBF2941B2D54": [
+        {
+            "title": "[Inf Lives]",
+            "content": "[Inf Lives]\n040F0000 0123AE6C 00000063\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n010F0000 0123BDEC 00000010\n\n"
+        },
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n040F0000 0123BE1C 8000FFF8\n20000000"
+        }
+    ]
+}

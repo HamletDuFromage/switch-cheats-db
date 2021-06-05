@@ -1,0 +1,16 @@
+{
+    "85E49C169A8B988A": [
+        {
+            "title": "[Infinite HP]",
+            "content": "[Infinite HP]\n04070000 004e4000 d503201f\n\n"
+        },
+        {
+            "title": "[Infinite ammo]",
+            "content": "[Infinite ammo]\n04070000 0055fe9c 52800002\n04070000 0055feb4 71000109\n\n"
+        },
+        {
+            "title": "[Infinite Stamina]",
+            "content": "[Infinite Stamina]\n04070000 02c5cb40 52a88f48\n04070000 02c5cb44 b900c268\n04070000 02c5cb48 2d578660\n04070000 02c5cb4c d65f03c0\n04070000 02c5cb50 b9004cb8\n04070000 00445338 94a05e02"
+        }
+    ]
+}

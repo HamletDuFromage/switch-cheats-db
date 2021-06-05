@@ -1,0 +1,24 @@
+{
+    "45396FCB2433872F": [
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n580F0000 004B88F0\n580F1000 00000020\n780F0000 00000188\n640F0000 00000000 41380000\n20000000\n\n"
+        },
+        {
+            "title": "[Inf Lives]",
+            "content": "[Inf Lives]\n580F0000 0049C388\n780F0000 0000009C\n640F0000 00000000 00000063\n\n"
+        },
+        {
+            "title": "[Inf Life]",
+            "content": "[Inf Life]\n580F0000 0049C388\n780F0000 000000A0\n680F0000 0000000A 0000000A\n\n"
+        },
+        {
+            "title": "[Inf Mana]",
+            "content": "[Inf Mana]\n580F0000 0049C388\n780F0000 0000011C\n680F0000 0000000A 0000000A\n\n"
+        },
+        {
+            "title": "[Inf Oxygen]",
+            "content": "[Inf Oxygen]\n580F0000 0049C388\n780F0000 00000140\n640F0000 00000000 41800000"
+        }
+    ]
+}

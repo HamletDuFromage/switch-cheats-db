@@ -1,0 +1,28 @@
+{
+    "FDE56D0D80CF091D": [
+        {
+            "title": "[The King of Dragons hitanywhere]",
+            "content": "[The King of Dragons hitanywhere]\n02000000 00EF00C2 00006002\n02000000 00EF00FA 00006002\n02000000 00EF011E 00006002\n\n"
+        },
+        {
+            "title": "[final fighter Hit Anywhere When Enemies Are Close]",
+            "content": "[final fighter Hit Anywhere When Enemies Are Close]\n04000000 00EF06D4 00046000\n\n"
+        },
+        {
+            "title": "[Captain Commando hitanywhere]",
+            "content": "[Captain Commando hitanywhere]\n02000000 00EF18CE 00006000\n02000000 00EF18D0 000000B4\n02000000 00EF2168 00006000\n02000000 00EF216A 000000A2\n02000000 00EF35D4 00006000\n02000000 00EF35D6 0000008C\n02000000 00EF3D10 00006000\n02000000 00EF3D12 00000074\n\n"
+        },
+        {
+            "title": "[Knights of the Round hitanywhere]",
+            "content": "[Knights of the Round hitanywhere]\n02000000 00EF18C6 00006002\n04000000 00EF18C8 60000006\n\n"
+        },
+        {
+            "title": "[Warriors of Fate hitanywhere]",
+            "content": "[Warriors of Fate hitanywhere]\n02000000 00EF3262 00006002\n02000000 00EF3286 00006002\n02000000 00EF32A0 00006002\n02000000 00EF2B78 00006002\n02000000 00EF2B9C 00006002\n02000000 00EF2BBA 00006002\n\n"
+        },
+        {
+            "title": "[Battle Circuit hitanywhere]",
+            "content": "[Battle Circuit hitanywhere]\n02000000 01EFED8A 00004E71\n02000000 01EFEDA2 00006002\n02000000 01EFEDC2 00006002\n02000000 01EFEDDC 00006002\n"
+        }
+    ]
+}

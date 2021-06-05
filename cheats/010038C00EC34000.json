@@ -1,0 +1,20 @@
+{
+    "120F62BB506D4E36": [
+        {
+            "title": "[life]",
+            "content": "[life]\n04000000 1EDFDE94 0000283C\n\n"
+        },
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n040F0000 1EDFDE94 00003000\n\n"
+        },
+        {
+            "title": "[Inf EXS]",
+            "content": "[Inf EXS]\n040F0000 1EDFDEB4 00004E20\n\n"
+        },
+        {
+            "title": "[Inf GRD]",
+            "content": "[Inf GRD]\n040F0000 1EA7F5AC 0000000C"
+        }
+    ]
+}

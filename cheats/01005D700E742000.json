@@ -1,0 +1,36 @@
+{
+    "1F45F195FB7468C5": [
+        {
+            "title": "[01# Max Health]",
+            "content": "[01# Max Health]\n580F0000 00FEC4C8\n580F1000 00000018\n780F0000 000000A8\n640F0000 00000000 000000C8\n04000000 010B9F60 000000C8\n\n"
+        },
+        {
+            "title": "[02# Max Armor]",
+            "content": "[02# Max Armor]\n04000000 010B9F64 000000C8\n\n"
+        },
+        {
+            "title": "[03# All Weapons]",
+            "content": "[03# All Weapons]\n04000000 010B9F9C 01010101\n04000000 010B9FA0 01010101\n04000000 010B9FA4 00000101\n\n"
+        },
+        {
+            "title": "[04# Infinite Infinite Gun/Chain Ammo]",
+            "content": "[04# Infinite Infinite Gun/Chain Ammo]\n04000000 010B9FA8 00000063\n\n"
+        },
+        {
+            "title": "[05# Infinite Plasma/BFG/Laser Weapons Ammo]",
+            "content": "[05# Infinite Plasma/BFG/Laser Weapons Ammo]\n04000000 010B9FB0 00000063\n\n"
+        },
+        {
+            "title": "[06# Infinite Shotgun Ammo]",
+            "content": "[06# Infinite Shotgun Ammo]\n04000000 010B9FAC 00000063\n\n"
+        },
+        {
+            "title": "[07# Infinite rocket ammo]",
+            "content": "[07# Infinite rocket ammo]\n04000000 010B9FB4 00000063\n\n"
+        },
+        {
+            "title": "[08# All Key Cards]",
+            "content": "[08# All Key Cards]\n040F0000 010B9F84 01010101\n040F0000 010B9F88 01010101"
+        }
+    ]
+}

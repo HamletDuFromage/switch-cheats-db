@@ -1,0 +1,120 @@
+{
+    "496A2F5A9CE4FBEB": [
+        {
+            "title": "[All Items]",
+            "content": "[All Items]\n040B0000 012AD600 52800858\n040B0000 012AD604 78296918\n040B0000 012AD608 78696918\n040B0000 012AD60C D65F03C0\n040B0000 007B5678 5280084F\n040B0000 007ECDA0 942B0218\n\n"
+        },
+        {
+            "title": "[PP inf]",
+            "content": "[PP inf]\n040B0000 0074975C 4B1F0169\n\n"
+        },
+        {
+            "title": "[money inf]",
+            "content": "[money inf]\n040B0000 007AEAAC 1A9FB3F7\n040B0000 007AF114 52800014\n040B0000 0080C228 1B1F7D08\n\n"
+        },
+        {
+            "title": "[money x4]",
+            "content": "[money x4]\n040B0000 003E3378 0B010929\n\n"
+        },
+        {
+            "title": "[money x8]",
+            "content": "[money x8]\n040B0000 003E3378 0B010D29\n\n"
+        },
+        {
+            "title": "[money x16]",
+            "content": "[money x16]\n040B0000 003E3378 0B011129\n\n"
+        },
+        {
+            "title": "[exp x4]",
+            "content": "[exp x4]\n040B0000 012AD610 52800091\n040B0000 012AD614 1B117D08\n040B0000 012AD618 AA0003F3\n040B0000 012AD61C D65F03C0\n040B0000 003E2924 943B2B3B\n\n"
+        },
+        {
+            "title": "[exp x8]",
+            "content": "[exp x8]\n040B0000 012AD610 52800111\n040B0000 012AD614 1B117D08\n040B0000 012AD618 AA0003F3\n040B0000 012AD61C D65F03C0\n040B0000 003E2924 943B2B3B\n\n"
+        },
+        {
+            "title": "[exp x16]",
+            "content": "[exp x16]\n040B0000 012AD610 52800211\n040B0000 012AD614 1B117D08\n040B0000 012AD618 AA0003F3\n040B0000 012AD61C D65F03C0\n040B0000 003E2924 943B2B3B\n\n"
+        },
+        {
+            "title": "[MASTER ARTS x2]",
+            "content": "[MASTER ARTS x2]\n040B0000 00271874 0B0F060F\n\n"
+        },
+        {
+            "title": "[MASTER ARTS x4]",
+            "content": "[MASTER ARTS x4]\n040B0000 00271874 0B0F0A0F\n\n"
+        },
+        {
+            "title": "[MASTER ARTS x8]",
+            "content": "[MASTER ARTS x8]\n040B0000 00271874 0B0F0E0F\n\n"
+        },
+        {
+            "title": "[PT after change MAX]",
+            "content": "[PT after change MAX]\n040B0000 00393AF8 D503201F\n\n"
+        },
+        {
+            "title": "[shop storage inf]",
+            "content": "[shop storage inf]\n040B0000 0080C318 0B1F018C\n\n"
+        },
+        {
+            "title": "[skill gauge increase x10]",
+            "content": "[skill gauge increase x10]\n040B0000 012AD640 10000000\n040B0000 012AD644 B9401C00\n040B0000 012AD648 1E380141\n040B0000 012AD64C 1B007C21\n040B0000 012AD650 1E22002A\n040B0000 012AD654 1E202148\n040B0000 012AD658 D65F03C0\n040B0000 012AD65C 0000000A\n040B0000 003FEFD4 943AB99B\n\n"
+        },
+        {
+            "title": "[skill gauge increase x20]",
+            "content": "[skill gauge increase x20]\n040B0000 012AD640 10000000\n040B0000 012AD644 B9401C00\n040B0000 012AD648 1E380141\n040B0000 012AD64C 1B007C21\n040B0000 012AD650 1E22002A\n040B0000 012AD654 1E202148\n040B0000 012AD658 D65F03C0\n040B0000 012AD65C 00000014\n040B0000 003FEFD4 943AB99B\n\n"
+        },
+        {
+            "title": "[skill gauge increase x30]",
+            "content": "[skill gauge increase x30]\n040B0000 012AD640 10000000\n040B0000 012AD644 B9401C00\n040B0000 012AD648 1E380141\n040B0000 012AD64C 1B007C21\n040B0000 012AD650 1E22002A\n040B0000 012AD654 1E202148\n040B0000 012AD658 D65F03C0\n040B0000 012AD65C 0000001E\n040B0000 003FEFD4 943AB99B\n\n"
+        },
+        {
+            "title": "[our side hp no decrease]",
+            "content": "[our side hp no decrease]\n040B0000 012AD660 B94C7262\n040B0000 012AD664 52A88F43\n040B0000 012AD668 6B03005F\n040B0000 012AD66C 54000041\n040B0000 012AD670 1E2703E0\n040B0000 012AD674 1E203843\n040B0000 012AD678 D65F03C0\n040B0000 003FD940 943ABF48\n\n"
+        },
+        {
+            "title": "[one hit kill ON]",
+            "content": "[one hit kill ON]\n040B0000 012AD680 B94C7262\n040B0000 012AD684 52A88F43\n040B0000 012AD688 6B03005F\n040B0000 012AD68C 54000040\n040B0000 012AD690 1E2703E2\n040B0000 012AD694 BD0A9662\n040B0000 012AD698 D65F03C0\n040B0000 003FD968 943ABF46\n\n"
+        },
+        {
+            "title": "[one hit kill OFF]",
+            "content": "[one hit kill OFF]\n040B0000 003FD968 BD0A9662\n\n"
+        },
+        {
+            "title": "[our side SP no decrease]",
+            "content": "[our side SP no decrease]\n040B0000 0020D728 1E204040\n040B0000 00210088 1E204040\n\n"
+        },
+        {
+            "title": "[clown grp HP SP strengthen]",
+            "content": "[clown grp HP SP strengthen]\n04000000 003E384C 0B081128\n04000000 003E3594 0B081128\n\n"
+        },
+        {
+            "title": "[clown grp HP SP Super strengthen]",
+            "content": "[clown grp HP SP Super strengthen]\n040B0000 003E384C 0B082128\n040B0000 003E3594 0B082128\n\n"
+        },
+        {
+            "title": "[strengthen ignore lvl limit]",
+            "content": "[strengthen ignore lvl limit]\n040B0000 007492FC 52800C68\n\n"
+        },
+        {
+            "title": "[combine ignore lvl limit]",
+            "content": "[combine ignore lvl limit]\n040B0000 006CB684 52800C6E\n040B0000 006CC0B8 52800C69\n\n"
+        },
+        {
+            "title": "[Persona combine no need materials]",
+            "content": "[Persona combine no need materials]\n040B0000 006CB588 5280002E\n040B0000 006CBB40 52800028\n\n"
+        },
+        {
+            "title": "[Persona register and purchase ignore lvl]",
+            "content": "[Persona register and purchase ignore lvl]\n040B0000 007443B0 52800C6A\n040B0000 007A8B80 52800028\n\n"
+        },
+        {
+            "title": "[60 FPS]",
+            "content": "[60 FPS]\n040B0000 01D11158 0000003C\n040B0000 01D1115C 00000001\n040B0000 01D24BE8 42700000\n040B0000 02A848D0 00000000\n040B0000 00005078 D503201F\n040B0000 0000507C D503201F\n040B0000 00005090 52800021\n\n"
+        },
+        {
+            "title": "[30 FPS]",
+            "content": "[30 FPS]\n040B0000 01D11158 0000001E\n040B0000 01D1115C 00000002\n040B0000 01D24BE8 41F00000\n040B0000 02A848D0 00000001\n040B0000 00005078 6B15001F\n040B0000 0000507C 540000E0\n040B0000 00005090 2A1503E1"
+        }
+    ]
+}

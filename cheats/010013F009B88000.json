@@ -1,0 +1,16 @@
+{
+    "2AD00F3D29D8674F": [
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n580F0000 01A0AD20\n580F1000 000000A0\n580F1000 00000040\n580F1000 00000020\n780F0000 00000020\n640F0000 00000000 00000064\n\n"
+        },
+        {
+            "title": "[Speed Up]",
+            "content": "[Speed Up]\n580F0000 01A0AD20\n580F1000 000000A0\n580F1000 00000040\n580F1000 00000020\n780F0000 000000B4\n640F0000 00000000 40100000\n\n"
+        },
+        {
+            "title": "[Walk through Walls (Hold ZR)]",
+            "content": "[Walk through Walls (Hold ZR)]\n580F0000 01A0AD20\n580F1000 000000A0"
+        }
+    ]
+}

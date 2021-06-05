@@ -1,0 +1,84 @@
+{
+    "8B562B57837A3D48": [
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n580F0000 03CA8758\n580F1000 000000B8\n580F1000 00000018\n580F1000 00000090\n780F0000 00000024\n680F0000 0001869F 0001869F\n\n"
+        },
+        {
+            "title": "[Inf Stamina]",
+            "content": "[Inf Stamina]\n580F0000 03CA8758\n580F1000 000000B8\n580F1000 00000018\n580F1000 00000090\n780F0000 0000002C\n680F0000 0001869F 0001869F\n\n"
+        },
+        {
+            "title": "[ATK MAX]",
+            "content": "[ATK MAX]\n580F0000 03CA8758\n580F1000 000000B8\n580F1000 00000018\n580F1000 00000090\n780F0000 0000003C\n640F0000 00000000 47C34F80\n\n"
+        },
+        {
+            "title": "[DEF MAX]",
+            "content": "[DEF MAX]\n580F0000 03CA8758\n580F1000 000000B8\n580F1000 00000018\n580F1000 00000090\n780F0000 00000040\n640F0000 00000000 47C34F80\n\n"
+        },
+        {
+            "title": "[Sword Durability]",
+            "content": "[Sword Durability]\n580F0000 03CA8758\n580F1000 000000B8\n580F1000 00000018\n580F1000 000000A0\n580F1000 00000098\n780F0000 00000034\n680F0000 0001869F 0001869F\n\n"
+        },
+        {
+            "title": "[Oub Max (Push -)]",
+            "content": "[Oub Max (Push -)]\n80000800\n580F0000 03CA8758\n580F1000 000000B8\n580F1000 00000018\n580F1000 000000A0\n580F1000 000000C0\n780F0000 00000014\n680F0000 00000000 00000003\n20000000\n\n"
+        },
+        {
+            "title": "[Money MAX]",
+            "content": "[Money MAX]\n580F0000 03CA8788\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n780F0000 00000010\n640F0000 00000000 05F5E0FF\n\n"
+        },
+        {
+            "title": "[hit range 30x]",
+            "content": "[hit range 30x]\n04000000 00200E5C 1E27D000\n\n"
+        },
+        {
+            "title": "[hp inf]",
+            "content": "[hp inf]\n04000000 002AC9B4 4B1F02E8\n\n"
+        },
+        {
+            "title": "[weapon dura inf]",
+            "content": "[weapon dura inf]\n04000000 001CC528 4B1F02A8\n\n"
+        },
+        {
+            "title": "[wpn mastery x4]",
+            "content": "[wpn mastery x4]\n04000000 001CF1DC 0B140AE8\n\n"
+        },
+        {
+            "title": "[wpn mastery x8]",
+            "content": "[wpn mastery x8]\n04000000 001CF1DC 0B140EE8\n\n"
+        },
+        {
+            "title": "[wpn mastery x16]",
+            "content": "[wpn mastery x16]\n04000000 001CF1DC 0B1412E8\n\n"
+        },
+        {
+            "title": "[spirir gauge x4]",
+            "content": "[spirir gauge x4]\n04000000 001CDD3C 0B140AE8\n\n"
+        },
+        {
+            "title": "[spirir gauge x8]",
+            "content": "[spirir gauge x8]\n04000000 001CDD3C 0B140EE8\n\n"
+        },
+        {
+            "title": "[spirir gauge x16]",
+            "content": "[spirir gauge x16]\n04000000 001CDD3C 0B1412E8\n\n"
+        },
+        {
+            "title": "[spirir gauge inf (sheathe wpn to OFF)]",
+            "content": "[spirir gauge inf (sheathe wpn to OFF)]\n04000000 001CE7F4 1E204100\n\n"
+        },
+        {
+            "title": "[money box x4]",
+            "content": "[money box x4]\n04000000 00577B0C 0B130AC8\n\n"
+        },
+        {
+            "title": "[money box x8]",
+            "content": "[money box x8]\n04000000 00577B0C 0B130EC8\n\n"
+        },
+        {
+            "title": "[money box x16]",
+            "content": "[money box x16]\n04000000 00577B0C 0B1312C8"
+        }
+    ]
+}

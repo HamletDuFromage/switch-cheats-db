@@ -1,0 +1,96 @@
+{
+    "A7578001B492C202": [
+        {
+            "title": "[Open Status to gain Max EXP (on)]",
+            "content": "[Open Status to gain Max EXP (on)]\n04000000 009B0018 B900B260\n04000000 009B0028 0B140008\n"
+        },
+        {
+            "title": "[Open Status to gain Max EXP (off)]",
+            "content": "[Open Status to gain Max EXP (off)]\n04000000 009B0018 B940B275\n04000000 009B0028 0B150008\n\n"
+        },
+        {
+            "title": "[Open Skill Window to Gain 99 Skill points (on)]",
+            "content": "[Open Skill Window to Gain 99 Skill points (on)]\n04000000 01594ED4 52800C69\n04000000 01594ED8 B900B509\n04000000 01594EDC B900B91F\n04000000 01594EE0 B9000049\n04000000 01594EE4 D65F03C0\n"
+        },
+        {
+            "title": "[Open Skill Window to Gain 99 Skill points (off)]",
+            "content": "[Open Skill Window to Gain 99 Skill points (off)]\n04000000 01594ED4 2956A109\n04000000 01594ED8 4B080128\n04000000 01594EDC B9000048\n04000000 01594EE0 D65F03C0\n04000000 01594EE4 00000000\n\n"
+        },
+        {
+            "title": "[Gold never decreases]",
+            "content": "[Gold never decreases]\n04000000 009F5414 D503201F\n"
+        },
+        {
+            "title": "[Gold increases instead of decrease]",
+            "content": "[Gold increases instead of decrease]\n04000000 009F5414 2B010108\n"
+        },
+        {
+            "title": "[Gold changes like normal]",
+            "content": "[Gold changes like normal]\n04000000 009F5310 6B010108\n\n"
+        },
+        {
+            "title": "[Unlimited MP (Player & Monster) (on)]",
+            "content": "[Unlimited MP (Player & Monster) (on)]\n04000000 00359D70 2A0903E1\n"
+        },
+        {
+            "title": "[Unlimited MP (Player & Monster) (off)]",
+            "content": "[Unlimited MP (Player & Monster) (off)]\n04000000 00359D70 4B080121\n\n"
+        },
+        {
+            "title": "[Trial Level Limit Default]",
+            "content": "[Trial Level Limit Default]\n04000000 014E6E44 52800288\n"
+        },
+        {
+            "title": "[Trial Level Limit 999]",
+            "content": "[Trial Level Limit 999]\n04000000 014E6E44 52807CE8\n\n"
+        },
+        {
+            "title": "[Obtain 1x Gold]",
+            "content": "[Obtain 1x Gold]\n04000000 009F5310 0B010101\n"
+        },
+        {
+            "title": "[Obtain 2x Gold]",
+            "content": "[Obtain 2x Gold]\n04000000 009F5310 0B010501\n"
+        },
+        {
+            "title": "[Obtain 4x Gold]",
+            "content": "[Obtain 4x Gold]\n04000000 009F5310 0B010901\n"
+        },
+        {
+            "title": "[Obtain 8x Gold]",
+            "content": "[Obtain 8x Gold]\n04000000 009F5310 0B010D01\n"
+        },
+        {
+            "title": "[Obtain 16x Gold]",
+            "content": "[Obtain 16x Gold]\n04000000 009F5310 0B011101\n"
+        },
+        {
+            "title": "[Obtain 32x Gold]",
+            "content": "[Obtain 32x Gold]\n04000000 009F5310 0B011501\n\n"
+        },
+        {
+            "title": "[Obtain 1x Exp]",
+            "content": "[Obtain 1x Exp]\n04000000 009BA784 0B090116\n"
+        },
+        {
+            "title": "[Obtain 2x Exp]",
+            "content": "[Obtain 2x Exp]\n04000000 009BA784 0B090516\n"
+        },
+        {
+            "title": "[Obtain 4x Exp]",
+            "content": "[Obtain 4x Exp]\n04000000 009BA784 0B090916\n"
+        },
+        {
+            "title": "[Obtain 8x Exp]",
+            "content": "[Obtain 8x Exp]\n04000000 009BA784 0B090D16\n"
+        },
+        {
+            "title": "[Obtain 16x Exp]",
+            "content": "[Obtain 16x Exp]\n04000000 009BA784 0B091116\n"
+        },
+        {
+            "title": "[Obtain 32x Exp]",
+            "content": "[Obtain 32x Exp]\n04000000 009BA784 0B091516"
+        }
+    ]
+}

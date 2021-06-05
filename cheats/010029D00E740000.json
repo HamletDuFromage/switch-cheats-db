@@ -1,0 +1,58 @@
+{
+    "9408AAA62605D822": [
+        {
+            "title": "[Infinite Health]",
+            "content": "[Infinite Health]\n580F0000 01466F18\n780F0000 00000168\n640F0000 00000000 00000064\n\n"
+        },
+        {
+            "title": "[infinite shotgun 3]",
+            "content": "[infinite shotgun 3]\n580F0000 01466F18\n780F0000 00002690\n640F0000 00000000 000000FF\n\n"
+        },
+        {
+            "title": "[infinite pistol 3]",
+            "content": "[infinite pistol 3]\n580F0000 01466F18\n780F0000 00002698\n640F0000 00000000 000000FF \n\n"
+        },
+        {
+            "title": "[Infinite Assault]",
+            "content": "[Infinite Assault]\n580F0000 01466F18\n780F0000 000026C8\n640F0000 00000000 00000258"
+        }
+    ],
+    "28B88C3BDF442EBB": [
+        {
+            "title": "[Inf Ammo Total]",
+            "content": "[Inf Ammo Total]\n580F0000 0148D0C8\n780F0000 00002648\n610F0000 00000000 000000FF\n\n"
+        },
+        {
+            "title": "[Inf Clip Pistol]",
+            "content": "[Inf Clip Pistol]\n580F0000 014862C8\n780F0000 00002034\n610F0000 00000000 0000000C\n\n"
+        },
+        {
+            "title": "[Inf Flashlight]",
+            "content": "[Inf Flashlight]\n580F0000 0148D0C8\n780F0000 000027C0\n640F0000 00000000 00007600\n\n"
+        },
+        {
+            "title": "[Inf Health]",
+            "content": "[Inf Health]\n580F0000 0148D0C8\n780F0000 00000118\n610F0000 00000000 00000064\n\n"
+        },
+        {
+            "title": "[Inf Armor]",
+            "content": "[Inf Armor]\n580F0000 0148D0C8\n780F0000 00001C3C\n610F0000 00000000 00000064\n\n"
+        },
+        {
+            "title": "[Inf Oxygen]",
+            "content": "[Inf Oxygen]\n580F0000 0148D0C8\n780F0000 00002EB1\n610F0000 00000000 00000076\n\n"
+        },
+        {
+            "title": "[Inf ShotGun]",
+            "content": "[Inf ShotGun]\n580F0000 0148D0C8\n780F0000 00002640\n610F0000 00000000 000000FF\n\n"
+        },
+        {
+            "title": "[Inf Machine Gun]",
+            "content": "[Inf Machine Gun]\n580F0000 0148D0C8\n780F0000 00002678\n610F0000 00000000 000000FF\n\n"
+        },
+        {
+            "title": "[Full Clip on switch]",
+            "content": "[Full Clip on switch]\n580F0000 0148D0C8\n780F0000 000026C8\n640F1000 00000000 0000000C\n780F0000 00000004\n640F0000 00000000 00000008\n780F0000 00000010\n640F1000 00000000 0000003C"
+        }
+    ]
+}

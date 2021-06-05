@@ -1,0 +1,150 @@
+{
+    "43DF498AFEDEE217": [
+        {
+            "title": "[Berry does not diminish]",
+            "content": "[Berry does not diminish]\n04000000 001841B0 4B1F014A\n\n"
+        },
+        {
+            "title": "[Berry 999,999,999]",
+            "content": "[Berry 999,999,999]\n580F0000 01EC1498\n580F1000 00000018\n580F1000 00000010\n780F0000 00000014\n640F0000 00000000 3B9AC9FF\n\n"
+        },
+        {
+            "title": "[Coins are not reduced]",
+            "content": "[Coins are not reduced]\n04000000 00428008 1A9F83E1\n\n"
+        },
+        {
+            "title": "[ALL Coin 999]",
+            "content": "[ALL Coin 999]\n580F0000 01EC1498\n580F1000 00000018\n580F1000 00000048\n780F0000 00000018\n300D0000 00000037\n620F0000 00000000 000003E7\n780F0000 00000030\n310D0000 20000000\n580E0000 01EC1498\n580E1000 00000018\n580E1000 00000048\n780E0000 00000AF8\n300C0000 000000E2\n620E0000 00000000 000003E7\n780E0000 00000030\n310C0000 20000000\n\n"
+        },
+        {
+            "title": "[4 times increase in coins]",
+            "content": "[4 times increase in coins]\n04000000 01226500 52800091\n04000000 01226504 1B117C21\n04000000 01226508 2A1503E0\n04000000 0122650C D65F03C0\n04000000 00186014 9442813B\n\n"
+        },
+        {
+            "title": "[8 times increase in coins]",
+            "content": "[8 times increase in coins]\n04000000 01226500 52800111\n04000000 01226504 1B117C21\n04000000 01226508 2A1503E0\n04000000 0122650C D65F03C0\n04000000 00186014 9442813B\n\n"
+        },
+        {
+            "title": "[16 times increase in coins]",
+            "content": "[16 times increase in coins]\n04000000 01226500 52800211\n04000000 01226504 1B117C21\n04000000 01226508 2A1503E0\n04000000 0122650C D65F03C0\n04000000 00186014 9442813B\n\n"
+        },
+        {
+            "title": "[moving speed & attack speed 1.5x]",
+            "content": "[moving speed & attack speed 1.5x]\n04000000 004AE7E0 1E2F1000\n\n"
+        },
+        {
+            "title": "[moving speed & attack speed 2x]",
+            "content": "[moving speed & attack speed 2x]\n04000000 004AE7E0 1E201000\n\n"
+        },
+        {
+            "title": "[moving speed & attack speed 3x]",
+            "content": "[moving speed & attack speed 3x]\n04000000 004AE7E0 1E211000\n\n"
+        },
+        {
+            "title": "[moving speed & attack speed reduction]",
+            "content": "[moving speed & attack speed reduction]\n04000000 004AE7E0 1E2E1000\n\n"
+        },
+        {
+            "title": "[hit range 2x all characts]",
+            "content": "[hit range 2x all characts]\n04000000 000643B0 1E201002\n\n"
+        },
+        {
+            "title": "[hit range 4x all characts]",
+            "content": "[hit range 4x all characts]\n04000000 000643B0 1E221002\n\n"
+        },
+        {
+            "title": "[hit range 8x all characts]",
+            "content": "[hit range 8x all characts]\n04000000 000643B0 1E241002\n\n"
+        },
+        {
+            "title": "[hit range 30x all characts]",
+            "content": "[hit range 30x all characts]\n04000000 000643B0 1E27D002\n\n"
+        },
+        {
+            "title": "[hit distance reduction]",
+            "content": "[hit distance reduction]\n04000000 000643B0 1E2E1002\n\n"
+        },
+        {
+            "title": "[Maximum number of KOs]",
+            "content": "[Maximum number of KOs]\n04000000 0018BD3C 1A8A2549\n04000000 0018BDD8 1A883108\n\n"
+        },
+        {
+            "title": "[HP is not reduced]",
+            "content": "[HP is not reduced]\n580F0000 01ED8928\n580F1000 00000000\n580F1000 00000098\n580F1000 000013F0\n780F0000 00000028\n680F0000 457A0000 457A0000\n\n"
+        },
+        {
+            "title": "[Endurance does not decrease]",
+            "content": "[Endurance does not decrease]\n580F0000 01ED8928\n580F1000 00000000\n580F1000 00000098\n580F1000 000013F0\n780F0000 00000044\n680F0000 461C4000 461C4000\n\n"
+        },
+        {
+            "title": "[Skill without cooling]",
+            "content": "[Skill without cooling]\n580F0000 01ED8928\n580F1000 00000000\n580F1000 00000098\n580F1000 00001428\n780F0000 00000044\n300E0000 00000004\n640F0000 00000000 457A0000\n780F0000 00000044\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[Enemy Not attacked(OFF: +button&LEFT ON: +button&RIGHT)]",
+            "content": "[Enemy Not attacked(OFF: +button&LEFT ON: +button&RIGHT)]\n80001400\n04000000 004AE8D4 4EA91D20\n20000000\n80004400\n04000000 004AE8D4 4EA91D21\n20000000\n\n"
+        },
+        {
+            "title": "[High Jump]",
+            "content": "[High Jump]\n580F0000 01ED8928\n580F1000 00000000\n580F1000 00000098\n580F1000 00000018\n580F1000 000006D0\n780F0000 00000014\n640F0000 00000000 42900000\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n580F0000 01ED8928\n580F1000 00000000\n580F1000 00000098\n580F1000 00000018\n580F1000 000006D0\n780F0000 000000C4\n640F0000 00000000 CFFFF71F\n\nCode:\n"
+        },
+        {
+            "title": "[moving speed & attack speed 1.5x]",
+            "content": "[moving speed & attack speed 1.5x]\n04000000 004AE7D0 1E2F1000\n\n"
+        },
+        {
+            "title": "[moving speed & attack speed 2x]",
+            "content": "[moving speed & attack speed 2x]\n04000000 004AE7D0 1E201000\n\n"
+        },
+        {
+            "title": "[moving speed & attack speed 3x]",
+            "content": "[moving speed & attack speed 3x]\n04000000 004AE7D0 1E211000\n\n"
+        },
+        {
+            "title": "[moving speed & attack speed reduction]",
+            "content": "[moving speed & attack speed reduction]\n04000000 004AE7D0 1E2E1000\n\n"
+        },
+        {
+            "title": "[hit range 2x all characts]",
+            "content": "[hit range 2x all characts]\n04000000 000643B4 1E201002\n\n"
+        },
+        {
+            "title": "[hit range 4x all characts]",
+            "content": "[hit range 4x all characts]\n04000000 000643B4 1E221002\n\n"
+        },
+        {
+            "title": "[hit range 8x all characts]",
+            "content": "[hit range 8x all characts]\n04000000 000643B4 1E241002\n\n"
+        },
+        {
+            "title": "[hit range 31x all characts]",
+            "content": "[hit range 31x all characts]\n04000000 000643B4 1E27F002\n\n"
+        },
+        {
+            "title": "[hit distance reduction]",
+            "content": "[hit distance reduction]\n04000000 000643B4 1E2E1002\n"
+        }
+    ],
+    "F9D1ECEBB1F2D952": [
+        {
+            "title": "[hit range 30x all characts]",
+            "content": "[hit range 30x all characts]\n04000000 00063910 1E27D002\n\n"
+        },
+        {
+            "title": "[speed game 2x ]",
+            "content": "[speed game 2x ]\n04000000 004AAAF0 1E201000\n\n"
+        },
+        {
+            "title": "[High Jump]",
+            "content": "[High Jump]\n580F0000 01ED8928\n580F1000 00000000\n580F1000 00000098\n580F1000 00000018\n580F1000 000006D0\n780F0000 00000014\n640F0000 00000000 42900000\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n580F0000 01ED8928\n580F1000 00000000\n580F1000 00000098\n580F1000 00000018\n580F1000 000006D0\n780F0000 000000C4\n640F0000 00000000 CFFFF71F\n"
+        }
+    ]
+}

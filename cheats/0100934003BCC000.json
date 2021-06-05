@@ -1,0 +1,44 @@
+{
+    "408FDE3F0287AC43": [
+        {
+            "title": "[ENEMIES NO ATTACK]",
+            "content": "[ENEMIES NO ATTACK]\n04000000 005C0008 D65F03C0\n\n"
+        },
+        {
+            "title": "[INF RELOAD]",
+            "content": "[INF RELOAD]\n04000000 009598F0 D65F03C0\n\n"
+        },
+        {
+            "title": "[INF GRENADE,MOLOTOV]",
+            "content": "[INF GRENADE,MOLOTOV]\n04000000 0065DBE8 D503201F\n\n"
+        },
+        {
+            "title": "[INVICIBLE 1P TO ENEMIES FIRE,SHOT ON]",
+            "content": "[INVICIBLE 1P TO ENEMIES FIRE,SHOT ON]\n04000000 0065C014 D65F03C0\n\n"
+        },
+        {
+            "title": "[INVICIBLE 1P TO ENEMIES FIRE,SHOT OFF]",
+            "content": "[INVICIBLE 1P TO ENEMIES FIRE,SHOT OFF]\n04000000 0065C014 FC1E0FE8\n\n"
+        },
+        {
+            "title": "[SPEED FIRE,ATTACK AUTO FIRE1X ]",
+            "content": "[SPEED FIRE,ATTACK AUTO FIRE1X ]\n04000000 012E4160 1E2E1000\n\n"
+        },
+        {
+            "title": "[SPEED FIRE,ATTACK AUTO FIRE 5X]",
+            "content": "[SPEED FIRE,ATTACK AUTO FIRE 5X]\n04000000 012E4160 1E229000\n\n"
+        },
+        {
+            "title": "[SPEED FIRE,ATTACK AUTO FIRE 10X]",
+            "content": "[SPEED FIRE,ATTACK AUTO FIRE 10X]\n04000000 012E4160 1E249000\n\n"
+        },
+        {
+            "title": "[Inf Ammo]",
+            "content": "[Inf Ammo]\n04000000 00959DC0\n2A0003E0\n\n"
+        },
+        {
+            "title": "[No Reload Gun]",
+            "content": "[No Reload Gun]\n580F0000 0277B7A8\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000028\n580F1000 00000010\n580F1000 00000020\n580F1000 000000A0\n580F1000 00000010\n780F0000 00000024\n610F0000 00000000 0000000C\n"
+        }
+    ]
+}

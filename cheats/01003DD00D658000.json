@@ -1,0 +1,32 @@
+{
+    "32FC35DF1C50E1F1": [
+        {
+            "title": "[Version 1.0.0]",
+            "content": "[Version 1.0.0]\n"
+        },
+        {
+            "title": "[01# Inf Health]",
+            "content": "[01# Inf Health]\n580F0000 040E4A08\n580F1000 00000648\n780F0000 000003B8\n640F0000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[02# Inf Skillpoints]",
+            "content": "[02# Inf Skillpoints]\n580F0000 040E4A08\n580F1000 00000270\n580F1000 00000270\n780F0000 000004EC\n640F0000 00000000 000F423F\n\n"
+        },
+        {
+            "title": "[03# no reload]",
+            "content": "[03# no reload]\n580F0000 040E4A08\n580F1000 00000648\n580F1000 000005E8\n780F0000 000017E8\n640F0000 00000000 00000032\n\n"
+        },
+        {
+            "title": "[04# Full Mag]",
+            "content": "[04# Full Mag]\n580F0000 040E4A08\n580F1000 00000648\n580F1000 000005E8\n780F0000 000017E0\n640F0000 00000000 00000226\n\n"
+        },
+        {
+            "title": "[05# Inf Charge]",
+            "content": "[05# Inf Charge]\n580F0000 040E4A08\n580F1000 00000648\n580F1000 000005E8\n780F0000 000017E4\n640F0000 00000000 0000000A\n\n"
+        },
+        {
+            "title": "[06# Full Charge]",
+            "content": "[06# Full Charge]\n580F0000 040E4A08\n580F1000 00000648\n580F1000 000005E8\n780F0000 000017E8\n640F0000 00000000 0000000A\n"
+        }
+    ]
+}

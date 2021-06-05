@@ -1,0 +1,12 @@
+{
+    "D44DC01DFF9FA2F2": [
+        {
+            "title": "[Money MAX]",
+            "content": "[Money MAX]\n580F0000 0308278C\n580F1000 00000008\n580F1000 00000028\n780F0000 0000000C\n640F0000 00000000 05F5E0FF\n\n"
+        },
+        {
+            "title": "[Money Max test]",
+            "content": "[Money Max test]\n580F0000 03082A2C\n580F1000 00000008\n580F1000 0000001C\n580F1000 0000000C\n780F0000 0000000C\n640F0000 00000000 05F5E0FF"
+        }
+    ]
+}

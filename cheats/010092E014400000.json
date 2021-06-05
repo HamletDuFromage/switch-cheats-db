@@ -1,0 +1,12 @@
+{
+    "BCD8AA948BA1AFA0": [
+        {
+            "title": "[L pad on invicible 1p]",
+            "content": "[L pad on invicible 1p]\n80000040\n04000000 01E49340 D65F03C0\n20000000\n\n"
+        },
+        {
+            "title": "[R pad off invicible 1p]",
+            "content": "[R pad off invicible 1p]\n80000080\n04000000 01E49340 F81E0FF3\n20000000"
+        }
+    ]
+}

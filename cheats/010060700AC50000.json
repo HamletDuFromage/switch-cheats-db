@@ -1,0 +1,220 @@
+{
+    "F5B177DF07A33D38": [
+        {
+            "title": "[01# Lab Enhancement Points x9999]",
+            "content": "[01# Lab Enhancement Points x9999]\n04100000 02AB6730 0000270F\n\n"
+        },
+        {
+            "title": "[02# All Cubes x999]",
+            "content": "[02# All Cubes x999]\n04100000 02AB6734 000003E7\n04100000 02AB6738 000003E7\n04100000 02AB673C 000003E7\n04100000 02AB6740 000003E7\n04100000 02AB6744 000003E7\n04100000 02AB6748 000003E7\n\n"
+        },
+        {
+            "title": "[03# Infinite Hp]",
+            "content": "[03# Infinite Hp]\n580F0000 02349150\n780F0000 00000124\n300E0000 00000004\n640F0000 00000000 000F423F\n780F0000 00000D10\n310E0000 20000000\n580F0000 02349150\n780F0000 00000120\n300E0000 00000004\n640F0000 00000000 000F423F\n780F0000 00000D10\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[04# Max EP]",
+            "content": "[04# Max EP]\n580F0000 02349150\n580F1000 00000880\n780F0000 00001050\n300E0000 00000004\n640F0000 00000000 497423F0\n780F0000 00007D30\n310E0000 20000000\n580F0000 02349150\n580F1000 00000880\n780F0000 00001054\n300E0000 00000004\n640F0000 00000000 497423F0\n780F0000 00007D30\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[05# Max Special]",
+            "content": "[05# Max Special]\n580F0000 02349150\n580F1000 00000880\n780F0000 00000FF8\n300E0000 00000004\n640F0000 00000000 47435000\n780F0000 00007D30\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[06# Max Stats]",
+            "content": "[06# Max Stats]\n580F0000 02349150\n780F0000 00000140\n300E0000 00000004\n680F0000 FFFFFFFF FFFFFFFF\n780F0000 00000D10\n310E0000 20000000\n580F0000 02349150\n780F0000 00000148\n300E0000 00000004\n680F0000 FFFFFFFF FFFFFFFF\n780F0000 00000D10\n310E0000 20000000"
+        }
+    ],
+    "E853C44FDF18B88F": [
+        {
+            "title": "[01# All Cubes x999 And Lab Points 9999]",
+            "content": "[01# All Cubes x999 And Lab Points 9999]\n04100000 02AB6754 000003E7\n04100000 02AB6758 000003E7\n04100000 02AB675C 000003E7\n04100000 02AB6760 000003E7\n04100000 02AB6764 000003E7\n04100000 02AB6768 000003E7\n04100000 02AB6750 0000270F\n\n"
+        },
+        {
+            "title": "[02# P1 Max health and Max Stats]",
+            "content": "[02# P1 Max health and Max Stats]\n580F0000 0234A150\n780F0000 00000120\n640F0000 00000000 000F423F\n780F0000 00000004\n640F0000 00000000 000F423F\n780F0000 0000001C\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n640F0000 00000000 FFFFFFFF\n\n"
+        },
+        {
+            "title": "[03# P2 Max health and Max Stats]",
+            "content": "[03# P2 Max health and Max Stats]\n580F0000 0234A158\n780F0000 00000120\n640F0000 00000000 000F423F\n780F0000 00000004\n640F0000 00000000 000F423F\n780F0000 0000001C\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n640F0000 00000000 FFFFFFFF\n\n"
+        },
+        {
+            "title": "[04# P3 Max health and Max Stats]",
+            "content": "[04# P3 Max health and Max Stats]\n580F0000 0234A160\n780F0000 00000120\n640F0000 00000000 000F423F\n780F0000 00000004\n640F0000 00000000 000F423F\n780F0000 0000001C\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n640F0000 00000000 FFFFFFFF\n\n"
+        },
+        {
+            "title": "[05# P4 Max health and Max Stats]",
+            "content": "[05# P4 Max health and Max Stats]\n580F0000 0234A168\n780F0000 00000120\n640F0000 00000000 000F423F\n780F0000 00000004\n640F0000 00000000 000F423F\n780F0000 0000001C\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n640F0000 00000000 FFFFFFFF\n\n"
+        },
+        {
+            "title": "[06# P1 Max EP and Inf Special]",
+            "content": "[06# P1 Max EP and Inf Special]\n580F0000 0234A150\n580F1000 00000880\n780F0000 00000FF8\n640F0000 00000000 47435000\n780F0000 00000058\n640F0000 00000000 497423F0\n780F0000 00000004\n640F0000 00000000 497423F0\n\n"
+        },
+        {
+            "title": "[07# P2 Max EP and Inf Special]",
+            "content": "[07# P2 Max EP and Inf Special]\n580F0000 0234A158\n580F1000 00000880\n780F0000 00000FF8\n640F0000 00000000 47435000\n780F0000 00000058\n640F0000 00000000 497423F0\n780F0000 00000004\n640F0000 00000000 497423F0\n\n"
+        },
+        {
+            "title": "[08# P3 Max EP and Inf Special]",
+            "content": "[08# P3 Max EP and Inf Special]\n580F0000 0234A160\n580F1000 00000880\n780F0000 00000FF8\n640F0000 00000000 47435000\n780F0000 00000058\n640F0000 00000000 497423F0\n780F0000 00000004\n640F0000 00000000 497423F0\n\n"
+        },
+        {
+            "title": "[09# P4 Max EP and Inf Special]",
+            "content": "[09# P4 Max EP and Inf Special]\n580F0000 0234A168\n580F1000 00000880\n780F0000 00000FF8\n640F0000 00000000 47435000\n780F0000 00000058\n640F0000 00000000 497423F0\n780F0000 00000004\n640F0000 00000000 497423F0\n\n"
+        },
+        {
+            "title": "[01# Small XP Cubes x999]",
+            "content": "[01# Small XP Cubes x999]\n04100000 02A88058 000003E7\n\n"
+        },
+        {
+            "title": "[02# Solid XP Cubes x999]",
+            "content": "[02# Solid XP Cubes x999]\n04100000 02A8805C 000003E7\n\n"
+        },
+        {
+            "title": "[03# Enhanced XP Cubes x999]",
+            "content": "[03# Enhanced XP Cubes x999]\n04100000 02A88060 000003E7\n\n"
+        },
+        {
+            "title": "[04# Cosmic XP Cubes x999]",
+            "content": "[04# Cosmic XP Cubes x999]\n04100000 02A88064 000003E7\n\n"
+        },
+        {
+            "title": "[05# Ultimate XP Cubes x999]",
+            "content": "[05# Ultimate XP Cubes x999]\n04100000 02A88068 000003E\n\n"
+        },
+        {
+            "title": "[06# Void Spheres x999]",
+            "content": "[06# Void Spheres x999]\n04100000 02A88054 000003E7\n\n"
+        },
+        {
+            "title": "[07# Ability Spheres x999]",
+            "content": "[07# Ability Spheres x999]\n04100000 02A88024 000003E7\n#22522 Today at 8:08 PM Tools"
+        }
+    ],
+    "066E47B7E18919A7": [
+        {
+            "title": "[Freece Cheatlist v301]",
+            "content": "[Freece Cheatlist v301]\n\n"
+        },
+        {
+            "title": "[Lab Enhancement Points x80k]",
+            "content": "[Lab Enhancement Points x80k]\n04100000 02A30710 00013880\n\n"
+        },
+        {
+            "title": "[Ability Orbs x800]",
+            "content": "[Ability Orbs x800]\n04100000 02A306E4 00000320\n\n"
+        },
+        {
+            "title": "[Void Spheres x800]",
+            "content": "[Void Spheres x800]\n04100000 02A30714 00000320\n\n"
+        },
+        {
+            "title": "[Shield Points x800mil]",
+            "content": "[Shield Points x800mil]\n04100000 02A48810 2FAF0800\n\n"
+        },
+        {
+            "title": "[Credits x800mil]",
+            "content": "[Credits x800mil]\n04100000 02A306DC 2FAF0800\n\n"
+        },
+        {
+            "title": "[Small XP Cube x800]",
+            "content": "[Small XP Cube x800]\n04100000 02A30718 00000320\n\n"
+        },
+        {
+            "title": "[Solid XP Cube x800]",
+            "content": "[Solid XP Cube x800]\n04100000 02A3071C 00000320\n\n"
+        },
+        {
+            "title": "[Enlarged XP Cube x800]",
+            "content": "[Enlarged XP Cube x800]\n04100000 02A30720 00000320\n\n"
+        },
+        {
+            "title": "[Cosmic XP Cube x800]",
+            "content": "[Cosmic XP Cube x800]\n04100000 02A30724 00000320\n\n"
+        },
+        {
+            "title": "[Ultimate XP Cube x800]",
+            "content": "[Ultimate XP Cube x800]\n04100000 02A30728 00000320 "
+        }
+    ],
+    "BB1B99313A37497B": [
+        {
+            "title": "[Lab Enhancement Points x9999]",
+            "content": "[Lab Enhancement Points x9999]\n04100000 025C0880 0000270F\n\n"
+        },
+        {
+            "title": "[Ability Orbs x999]",
+            "content": "[Ability Orbs x999]\n04100000 025C0854 000003e7\n\n"
+        },
+        {
+            "title": "[Void Spheres x999]",
+            "content": "[Void Spheres x999]\n04100000 025C0884 000003e7\n\n"
+        },
+        {
+            "title": "[Small XP Cube x999]",
+            "content": "[Small XP Cube x999]\n04100000 025C0888 000003e7\n\n"
+        },
+        {
+            "title": "[Solid XP Cube x999]",
+            "content": "[Solid XP Cube x999]\n04100000 025C088C 000003e7\n\n"
+        },
+        {
+            "title": "[Enlarged XP Cube x999]",
+            "content": "[Enlarged XP Cube x999]\n04100000 025C0890 000003e7\n\n"
+        },
+        {
+            "title": "[Cosmic  XP Cube x999]",
+            "content": "[Cosmic  XP Cube x999]\n04100000 025C0894 000003e7\n\n"
+        },
+        {
+            "title": "[Ultimate XP Cube x999]",
+            "content": "[Ultimate XP Cube x999]\n04100000 025C0898 000003e7\n\n"
+        },
+        {
+            "title": "[Inf. Current HP]",
+            "content": "[Inf. Current HP]\n58000000 01A7A9D0\n78000000 00000124\n64000000 00000000 000F423F\n78000000 00000CB0\n64000000 00000000 000F423F\n78000000 00000CB0\n64000000 00000000 000F423F\n78000000 00000CB0\n64000000 00000000 000F423F\n\n"
+        },
+        {
+            "title": "[Inf. Current Energy]",
+            "content": "[Inf. Current Energy]\n580F0000 01A7A9D0\n580F1000 00000860\n780F0000 00000FB8\n640F0000 00000000 497423F0\n580F0000 01A7A9D0\n580F1000 00001510\n780F0000 00000FB8\n640F0000 00000000 497423F0\n580F0000 01A7A9D0\n580F1000 000021C0\n780F0000 00000FB8\n640F0000 00000000 497423F0\n580F0000 01A7A9D0\n580F1000 00002E70\n780F0000 00000FB8\n640F0000 00000000 497423F0\n\n"
+        },
+        {
+            "title": "[Ex Gauge]",
+            "content": "[Ex Gauge]\n580F0000 01A7A9D0\n580F1000 00000860\n780F0000 00000F58\n640F0000 00000000 47435000\n580F0000 01A7A9D0\n580F1000 00001510\n780F0000 00000F58\n640F0000 00000000 47435000\n580F0000 01A7A9D0\n580F1000 000021C0\n780F0000 00000F58\n640F0000 00000000 47435000\n580F0000 01A7A9D0\n580F1000 00002E70\n780F0000 00000F58\n640F0000 00000000 47435000\n\n"
+        },
+        {
+            "title": "[Max Damage Stats]",
+            "content": "[Max Damage Stats]\n580A0000 01A7A9D0\n780A0000 00000144\n300B0000 00000004\n680A0000 FFFFFFFF FFFFFFFF\n780A0000 00000CB0\n310B0000 20000000\n580A0000 01A7A9D0\n780A0000 0000014C\n300B0000 00000004\n640A0000 00000000 FFFFFFFF\n780A0000 00000CB0\n310B0000 20000000"
+        }
+    ],
+    "5ED21FB245DE6FD6": [
+        {
+            "title": "[Must Kill Max]",
+            "content": "[Must Kill Max]\n580F0000 01A10940\n580F1000 00000860\n780F0000 00000F58\n640F0000 00000000 47435000\n580F0000 01A10940\n580F1000 00001510\n780F0000 00000F58\n640F0000 00000000 47435000\n580F0000 01A10940\n580F1000 000021C0\n780F0000 00000F58\n640F0000 00000000 47435000\n580F0000 01A10940\n580F1000 00002E70\n780F0000 00000F58\n640F0000 00000000 47435000\n\n"
+        },
+        {
+            "title": "[Fighting property Max]",
+            "content": "[Fighting property Max]\n580F0000 01A10940\n780F0000 00000144\n300E0000 00000004\n680F0000 FFFFFFFF FFFFFFFF\n780F0000 00000CB0\n310E0000 20000000\n580F0000 01A10940\n780F0000 0000014C\n300E0000 00000004\n640F0000 00000000 FFFFFFFF\n780F0000 00000CB0\n310E0000 20000000\n\n"
+        },
+        {
+            "title": "[Small XP Cube]",
+            "content": "[Small XP Cube]\n04100000 025d23b8 000003e7\n\n"
+        },
+        {
+            "title": "[Solid XP Cube]",
+            "content": "[Solid XP Cube]\n04100000 025d23bc 000003e7\n\n"
+        },
+        {
+            "title": "[Enlarged XP Cube]",
+            "content": "[Enlarged XP Cube]\n04100000 025d23c0 000003e7\n\n"
+        },
+        {
+            "title": "[Cosmic  XP Cube]",
+            "content": "[Cosmic  XP Cube]\n04100000 025d23c4 000003e7\n\n"
+        },
+        {
+            "title": "[Ultimate XP Cube]",
+            "content": "[Ultimate XP Cube]\n04100000 025d23c8 000003e7"
+        }
+    ]
+}

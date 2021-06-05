@@ -1,0 +1,12 @@
+{
+    "D724828447669524": [
+        {
+            "title": "[*Inf Hp L stick press]",
+            "content": "[*Inf Hp L stick press]\n80000010\n580F0000 00612530\n580F1000 00000008\n580F1000 000003B0\n780F0000 000000AC\n640F0000 00000000 40800000\n20000000\n\n"
+        },
+        {
+            "title": "[*Inf Hp disable when you fall into a hole]",
+            "content": "[*Inf Hp disable when you fall into a hole]\n580F0000 00612530\n580F1000 00000008\n580F1000 000003B0\n780F0000 000000AC\n640F0000 00000000 40800000"
+        }
+    ]
+}

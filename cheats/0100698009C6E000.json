@@ -1,0 +1,124 @@
+{
+    "382C13C67356D348": [
+        {
+            "title": "[Invulnerable]",
+            "content": "[Invulnerable]\n04000000 00258EC0 52800020\n\n"
+        },
+        {
+            "title": "[refill fervor cost no life/tears]",
+            "content": "[refill fervor cost no life/tears]\n04000000 00437238 D503201F\n04000000 0043729C D503201F\n\n"
+        },
+        {
+            "title": "[Unlock Skill Gives Tears]",
+            "content": "[Unlock Skill Gives Tears]\n04000000 003741D8 528847F4\n04000000 003741DC 72A001F4\n04000000 003741E4 1E204008\n\n"
+        },
+        {
+            "title": "[Unlock all Mea Culpa Skill]",
+            "content": "[Unlock all Mea Culpa Skill]\n04000000 00373DD4 52800000\n\n"
+        },
+        {
+            "title": "[Unlock Mea Culpa for free]",
+            "content": "[Unlock Mea Culpa for free]\n04000000 00373BAC 52800020"
+        }
+    ],
+    "289DF01EEAB3174F": [
+        {
+            "title": "[01# Invulnerable]",
+            "content": "[01# Invulnerable]\n04000000 0035BB00 52800020\n\n"
+        },
+        {
+            "title": "[Invulnerable Off]",
+            "content": "[Invulnerable Off]\n04000000 0035BB00 39404400\n\n"
+        },
+        {
+            "title": "[02# refill fervor cost no life/tears]",
+            "content": "[02# refill fervor cost no life/tears]\n04000000 0047C810 1E2703E9\n04000000 0047C8F4 D503201F\n\n"
+        },
+        {
+            "title": "[refill fervor cost no life/tears (off)]",
+            "content": "[refill fervor cost no life/tears (off)]\n04000000 0047C810 1E232829\n04000000 0047C8F4 1E283920\n\n"
+        },
+        {
+            "title": "[03# refill fervor give some life/tears]",
+            "content": "[03# refill fervor give some life/tears]\n04000000 0047C738 47C34F80\n04000000 0047C810 1CFFF949\n04000000 0047C81C 1E204120\n04000000 0047C8F4 1E292900\n\n"
+        },
+        {
+            "title": "[refill fervor give some life/tears (off)]",
+            "content": "[refill fervor give some life/tears (off)]\n04000000 0047C738 00000000\n04000000 0047C810 1E232829\n04000000 0047C81C 1E293900\n04000000 0047C8F4 1E283920\n\n"
+        },
+        {
+            "title": "[04# Unlock Mea Culpa]",
+            "content": "[04# Unlock Mea Culpa]\n04000000 0034374C 52800020\n\n"
+        },
+        {
+            "title": "[Unlock Mea Culpa (off)]",
+            "content": "[Unlock Mea Culpa (off)]\n04000000 0034374C 2A1F03E0\n\n"
+        },
+        {
+            "title": "[05# Inf Jump]",
+            "content": "[05# Inf Jump]\n04000000 008D2AE8 52800028\n\n"
+        },
+        {
+            "title": "[Inf Jump (off)]",
+            "content": "[Inf Jump (off)]\n04000000 008D2AE8 39410268\n\n"
+        },
+        {
+            "title": "[06# Instant Kill]",
+            "content": "[06# Instant Kill]\n04000000 00697C28 47C34F80\n04000000 00697CD4 1CFFFAA1\n\n"
+        },
+        {
+            "title": "[Instant Kill (off)]",
+            "content": "[Instant Kill (off)]\n04000000 00697CD4 1E2703E1\n\n"
+        },
+        {
+            "title": "[07# No Hurt by spikes]",
+            "content": "[07# No Hurt by spikes]\n04000000 006925B0 D65F03C0\n\n"
+        },
+        {
+            "title": "[No Hurt by spikes (off)]",
+            "content": "[No Hurt by spikes (off)]\n04000000 006925B0 F81D0FF5"
+        }
+    ],
+    "70C806F458D36843": [
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n580F0000 047E81F8\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000020\n580F1000 00000040\n580F1000 00000088\n780F0000 00000020\n640F0000 00000000 41100000\n20000000\n\n"
+        },
+        {
+            "title": "[Speed UP]",
+            "content": "[Speed UP]\n580F0000 047E81F8\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000020\n580F1000 00000040\n780F0000 00000020\n640F0000 00000000 41A00000\n\n"
+        },
+        {
+            "title": "[Inf Health]",
+            "content": "[Inf Health]\n580F0000 047E81F8\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000020\n580F1000 00000018\n580F1000 00000078\n580F1000 00000138\n780F0000 00000038\n640F0000 00000000 43400000\n780F0000 00000010\n640F0000 00000000 438C0000\n\n"
+        },
+        {
+            "title": "[Inf Blood]",
+            "content": "[Inf Blood]\n580F0000 047E81F8\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000020\n580F1000 00000018\n580F1000 00000078\n580F1000 00000128\n780F0000 00000038\n640F0000 00000000 43400000\n780F0000 00000010\n640F0000 00000000 43520000\n\n"
+        },
+        {
+            "title": "[Inf Biliary Flasks]",
+            "content": "[Inf Biliary Flasks]\n580F0000 047E81F8\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000020\n580F1000 00000018\n580F1000 00000078\n580F1000 00000160\n780F0000 00000038\n640F0000 00000000 41000000\n780F0000 00000010\n640F0000 00000000 41200000\n\n"
+        },
+        {
+            "title": "[Max Gold]",
+            "content": "[Max Gold]\n580F0000 047E81F8\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000020\n580F1000 00000018\n580F1000 00000078\n580F1000 00000190\n780F0000 00000048\n640F0000 00000000 47C34FF0\n\n"
+        },
+        {
+            "title": "[invulnerable]",
+            "content": "[invulnerable]\n04000000 002568C0 52800020\n\n"
+        },
+        {
+            "title": "[Refresh Fervor Cost No Life/Tears]",
+            "content": "[Refresh Fervor Cost No Life/Tears]\n04000000 0042D538 D503201F\n04000000 0042D59C D503201F\n\n"
+        },
+        {
+            "title": "[Unlock a Skill Gives Tears]",
+            "content": "[Unlock a Skill Gives Tears]\n04000000 003BC188 528847F4\n04000000 003BC18C 72A001F4\n04000000 003BC194 1E204008\n\n"
+        },
+        {
+            "title": "[Unlock Mea Culpa Level for free]",
+            "content": "[Unlock Mea Culpa Level for free]\n04000000 003BBB5C 52800020"
+        }
+    ]
+}

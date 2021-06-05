@@ -1,0 +1,1036 @@
+{
+    "92A6C699E4BAE7DA": [
+        {
+            "title": "[9999999 Money]",
+            "content": "[9999999 Money]\n04100000 0D87C6A8 0098967F\n\n"
+        },
+        {
+            "title": "[Max Memory HM]",
+            "content": "[Max Memory HM]\n041F0000 0D8976B4 000000ff\n041F0000 0D8976B5 000000ff\n\n[Max Money HM\n041F0000 0D8976A8 0000007F\n041F0000 0D8976A9 00000096\n041F0000 0D8976AA 00000098\n"
+        },
+        {
+            "title": "[100% connectivity rate after equipping any chip]",
+            "content": "[100% connectivity rate after equipping any chip]\n04000000 0005EC14 52800C88\n\n"
+        },
+        {
+            "title": "[100% drop rate after any chip is equipped]",
+            "content": "[100% drop rate after any chip is equipped]\n04000000 0005EC4C 52800C88\n\n"
+        },
+        {
+            "title": "[100% escape rate after equipping any chip]",
+            "content": "[100% escape rate after equipping any chip]\n04000000 0005EC20 52800C88\n\n"
+        },
+        {
+            "title": "[16x increase in hit slots]",
+            "content": "[16x increase in hit slots]\n04000000 0000EEF8 0B091108\n04000000 0000EF04 0B081288\n\n"
+        },
+        {
+            "title": "[200% scan rate after equipping any chip]",
+            "content": "[200% scan rate after equipping any chip]\n04000000 0005EC5C 52801908\n\n"
+        },
+        {
+            "title": "[2x the USB effect of the military division]",
+            "content": "[2x the USB effect of the military division]\n04000000 0005EC30 0B090508\n\n"
+        },
+        {
+            "title": "[4x USB effect for military division]",
+            "content": "[4x USB effect for military division]\n04000000 0005EC30 0B090908\n\n"
+        },
+        {
+            "title": "[4x increase in hit slots]",
+            "content": "[4x increase in hit slots]\n04000000 0000EEF8 0B090908\n04000000 0000EF04 0B080A88\n\n"
+        },
+        {
+            "title": "[8x USB effect for military division]",
+            "content": "[8x USB effect for military division]\n04000000 0005EC30 0B090D08\n\n"
+        },
+        {
+            "title": "[8x increase in hit slots]",
+            "content": "[8x increase in hit slots]\n04000000 0000EEF8 0B090D08\n04000000 0000EF04 0B080E88\n\n"
+        },
+        {
+            "title": "[AGL maximum after equipping any chip]",
+            "content": "[AGL maximum after equipping any chip]\n04000000 0005EB08 52807D08\n\n"
+        },
+        {
+            "title": "[ATK max after any chip]",
+            "content": "[ATK max after any chip]\n04000000 0005EAC4 52807D08\n\n"
+        },
+        {
+            "title": "[BUG Immunity After Any Chip]",
+            "content": "[BUG Immunity After Any Chip]\n04000000 0005EBF8 52800C88\n\n"
+        },
+        {
+            "title": "[Billionaire's Military Division 2x]",
+            "content": "[Billionaire's Military Division 2x]\n04000000 0005EC3C 0B0A0508\n\n"
+        },
+        {
+            "title": "[Billionaire's Military Division 4x]",
+            "content": "[Billionaire's Military Division 4x]\n04000000 0005EC3C 0B0A0908\n\n"
+        },
+        {
+            "title": "[Billionaire's Military Division 8x]",
+            "content": "[Billionaire's Military Division 8x]\n04000000 0005EC3C 0B0A0D08\n\n"
+        },
+        {
+            "title": "[CRT maximum after equipping any chip]",
+            "content": "[CRT maximum after equipping any chip]\n04000000 0005EB18 52807D08\n\n"
+        },
+        {
+            "title": "[Can the maximum after the change]",
+            "content": "[Can the maximum after the change]\n04000000 00054658 1A88C108\n\n"
+        },
+        {
+            "title": "[Chaotic immunity after equipping any chip]",
+            "content": "[Chaotic immunity after equipping any chip]\n04000000 0005EBB0 52800C88\n\n"
+        },
+        {
+            "title": "[DEF maximum after equipping any chip]",
+            "content": "[DEF maximum after equipping any chip]\n04000000 0005EAD0 52807D08\n\n"
+        },
+        {
+            "title": "[Dark properties free of injury after equipping any chip]",
+            "content": "[Dark properties free of injury after equipping any chip]\n04000000 0005EB88 52800C88\n\n"
+        },
+        {
+            "title": "[Dead immunity when equipped with any chip]",
+            "content": "[Dead immunity when equipped with any chip]\n04000000 0005EC04 52800C88\n\n"
+        },
+        {
+            "title": "[Equipped with any chip after through the damage relief]",
+            "content": "[Equipped with any chip after through the damage relief]\n04000000 0005EC68 52800C88\n\n"
+        },
+        {
+            "title": "[Equipped with any chip rear soil property injury-free]",
+            "content": "[Equipped with any chip rear soil property injury-free]\n04000000 0005EB5C 52800C88\n\n"
+        },
+        {
+            "title": "[Equipped with any chip rear wind property injury-free]",
+            "content": "[Equipped with any chip rear wind property injury-free]\n04000000 0005EB6C 52800C88\n\n"
+        },
+        {
+            "title": "[Dizziness immunity after equipping any chip]",
+            "content": "[Dizziness immunity after equipping any chip]\n04000000 0005EBDC 52800C88\n\n"
+        },
+        {
+            "title": "[Equipped with any chip rear wood property injury-free]",
+            "content": "[Equipped with any chip rear wood property injury-free]\n04000000 0005EB40 52800C88\n\n"
+        },
+        {
+            "title": "[Fire property free of injury after equipping any chip]",
+            "content": "[Fire property free of injury after equipping any chip]\n04000000 0005EB24 52800C88\n\n"
+        },
+        {
+            "title": "[Friendship maximum after change]",
+            "content": "[Friendship maximum after change]\n04000000 000543E4 1A88C128\n\n"
+        },
+        {
+            "title": "[Full level after increased experience after equipping chips]",
+            "content": "[Full level after increased experience after equipping chips]\n04000000 0005EC2C 52993FE8\n04000000 0005EC30 72877348\n\n"
+        },
+        {
+            "title": "[HIT Max after equipping any chip]",
+            "content": "[HIT Max after equipping any chip]\n04000000 0005EAFC 52807D08\n\n"
+        },
+        {
+            "title": "[HP Max after equipping any chip]",
+            "content": "[HP Max after equipping any chip]\n04000000 0005EAA8 5284E1E8\n\n"
+        },
+        {
+            "title": "[Highly toxic immunity after equipping any chip]",
+            "content": "[Highly toxic immunity after equipping any chip]\n04000000 0005EBA4 52800C88\n\n"
+        },
+        {
+            "title": "[INT max after equipping any chip]",
+            "content": "[INT max after equipping any chip]\n04000000 0005EAE0 52807D08\n\n"
+        },
+        {
+            "title": "[Inf Sp]",
+            "content": "[Inf Sp]\n04000000 00005478 4B1F0129\n"
+        },
+        {
+            "title": "[Items are not reduced (off)]",
+            "content": "[Items are not reduced (off)]\n04000000 0006540C 4B03014A\n"
+        },
+        {
+            "title": "[Items are not reduced (on)]",
+            "content": "[Items are not reduced (on)]\n04000000 0006540C 4B1F014A\n\n"
+        },
+        {
+            "title": "[Level cap 99]",
+            "content": "[Level cap 99]\n04000000 0005E574 1A89B120\n"
+        },
+        {
+            "title": "[Light properties are injury-free after equipping any chip]",
+            "content": "[Light properties are injury-free after equipping any chip]\n04000000 0005EB78 52800C88\n\n"
+        },
+        {
+            "title": "[Liquidization immunity after equipping any chip]",
+            "content": "[Liquidization immunity after equipping any chip]\n04000000 0005EBE8 52800C88\n\n"
+        },
+        {
+            "title": "[Max Item Equipment effect]",
+            "content": "[Max Item Equipment effect]\n04000000 0005EAA8 0B090108\n04000000 0005EAB4 0B0A0108\n04000000 0005EAC4 0B090108\n04000000 0005EAD0 0B0A0108\n04000000 0005EAE0 0B090108\n04000000 0005EAEC 0B0A0108\n04000000 0005EAFC 0B090108\n04000000 0005EB08 0B0A0108\n04000000 0005EB18 0B090108\n04000000 0005EB24 0B0A0108\n04000000 0005EB34 0B090108\n04000000 0005EB40 0B0A0108\n04000000 0005EB50 0B090108\n04000000 0005EB5C 0B0A0108\n04000000 0005EB6C 0B090108\n04000000 0005EB78 0B0A0108\n04000000 0005EB88 0B090108\n04000000 0005EB94 0B0A0108\n04000000 0005EBA4 0B090108\n04000000 0005EBB0 0B0A0108\n04000000 0005EBC0 0B090108\n04000000 0005EBCC 0B0A0108\n04000000 0005EBDC 0B090108\n04000000 0005EBE8 0B0A0108\n04000000 0005EBF8 0B090108\n04000000 0005EC04 0B0A0108\n04000000 0005EC14 0B090108\n04000000 0005EC20 0B0A0108\n04000000 0005EC30 0B090108\n04000000 0005EC3C 0B0A0108\n04000000 0005EC4C 0B090108\n04000000 0005EC5C 0B0A0108\n04000000 0005EC68 0B090108\n"
+        },
+        {
+            "title": "[Max Memory]",
+            "content": "[Max Memory]\n\n041F0000 04A1FD14 000000FF\n041F0000 04A1FD15 000000FF\n"
+        },
+        {
+            "title": "[Max Money after change]",
+            "content": "[Max Money after change]\n04000000 00067F54 1A89B128\n\n"
+        },
+        {
+            "title": "[Max Money]",
+            "content": "[Max Money]\n041F0000 04A1FD08 0000007F\n041F0000 04A1FD09 00000096\n041F0000 04A1FD0A 00000098\n\n"
+        },
+        {
+            "title": "[Max item when acquired(off)]",
+            "content": "[Max item when acquired(off)]\n04000000 000652EC 1A8BB12B\n\n"
+        },
+        {
+            "title": "[Max item when acquired(on)]",
+            "content": "[Max item when acquired(on)]\n04000000 000652EC 1A8BB16B\n\n"
+        },
+        {
+            "title": "[Maximum SP after equipping any chip]",
+            "content": "[Maximum SP after equipping any chip]\n04000000 0005EAB4 52807D08\n\n"
+        },
+        {
+            "title": "[Maximum after full property promotion]",
+            "content": "[Maximum after full property promotion]\n04000000 0005EF1C 1A89B128\n04000000 0005EF28 1A89B120\n04000000 0005EFD4 1A89B128\n04000000 0005EFE0 1A89B120\n04000000 0005F084 1A89B128\n04000000 0005F090 1A89B120\n04000000 0005F134 1A89B128\n04000000 0005F140 1A89B120\n04000000 0005F1E4 1A89B128\n04000000 0005F1F0 1A89B120\n04000000 0005F294 1A89B128\n04000000 0005F2A0 1A89B120\n\n"
+        },
+        {
+            "title": "[Maximum after team cap increase]",
+            "content": "[Maximum after team cap increase]\n04000000 00069010 1A89B128\n\n"
+        },
+        {
+            "title": "[Mine-free properties after equipping any chip]",
+            "content": "[Mine-free properties after equipping any chip]\n04000000 0005EB50 52800C88\n\n"
+        },
+        {
+            "title": "[No property injury-free after equipping any chip]",
+            "content": "[No property injury-free after equipping any chip]\n04000000 0005EB94 52800C88\n\n"
+        },
+        {
+            "title": "[Paralyzed immunity after equipping any chip]",
+            "content": "[Paralyzed immunity after equipping any chip]\n04000000 0005EBC0 52800C88\n\n"
+        },
+        {
+            "title": "[SPD max after equipping any chip]",
+            "content": "[SPD max after equipping any chip]\n04000000 0005EAEC 52807D08\n\n"
+        },
+        {
+            "title": "[Sleep Immunity After Equipping Any Chip]",
+            "content": "[Sleep Immunity After Equipping Any Chip]\n04000000 0005EBCC 52800C88\n\n"
+        },
+        {
+            "title": "[Slot 1 CAM 100%]",
+            "content": "[Slot 1 CAM 100%]\n011F0000 0D85F9A4 00000064\n\n\n"
+        },
+        {
+            "title": "[Slot 1 Level 99]",
+            "content": "[Slot 1 Level 99]\n011F0000 0D85F968 00000063\n\n"
+        },
+        {
+            "title": "[Slot 1 Max ABI]",
+            "content": "[Slot 1 Max ABI]\n041F0000 0D85F9A2 000000E7\n041F0000 0D85F9A3 00000003\n\n"
+        },
+        {
+            "title": "[Slot 1 Max Stat]",
+            "content": "[Slot 1 Max Stat]\n041F0000 0D85F992 000000E7\n041F0000 0D85F993 00000003\n041F0000 0D85F996 000000E7\n041F0000 0D85F997 00000003\n041F0000 0D85F99A 000000E7\n041F0000 0D85F99B 00000003\n041F0000 0D85F99E 000000E7\n041F0000 0D85F99F 00000003\n\n"
+        },
+        {
+            "title": "[Slot 2 CAM 100%]",
+            "content": "[Slot 2 CAM 100%]\n011F0000 0D85FBE4 00000064\n\n"
+        },
+        {
+            "title": "[slot 1 Max HP]",
+            "content": "[slot 1 Max HP]\n041F0000 0D85F980 0000000F\n041F0000 0D85F981 00000027\n041F0000 0D85F97C 0000000F\n041F0000 0D85F97D 00000027\n\n"
+        },
+        {
+            "title": "[Slot 1 Max MP]",
+            "content": "[Slot 1 Max MP]\n041F0000 0D85F988 0000000F\n041F0000 0D85F989 00000027\n041F0000 0D85F98C 0000000F\n041F0000 0D85F98D 00000027\n\n"
+        },
+        {
+            "title": "[Slot 2 Level 99]",
+            "content": "[Slot 2 Level 99]\n011F0000 0D85FBA8 00000063\n\n"
+        },
+        {
+            "title": "[Slot 2 Max ABI]",
+            "content": "[Slot 2 Max ABI]\n041F0000 0D85FBE2 000000E7\n041F0000 0D85FBE3 00000003\n\n"
+        },
+        {
+            "title": "[Slot 2 Max HP]",
+            "content": "[Slot 2 Max HP]\n041F0000 0D85FBBC 0000000F\n041F0000 0D85FBBD 00000027\n041F0000 0D85FBC0 0000000F\n041F0000 0D85FBC1 00000027\n"
+        },
+        {
+            "title": "[Slot 2 Max MP]",
+            "content": "[Slot 2 Max MP]\n041F0000 0D85FBC8 000000E7\n041F0000 0D85FBC9 00000003\n041F0000 0D85FBCC 000000E7\n041F0000 0D85FBCD 00000003\n\n"
+        },
+        {
+            "title": "[Slot 2 Max Stat]",
+            "content": "[Slot 2 Max Stat]\n041F0000 0D85FBD2 000000E7\n041F0000 0D85FBD3 00000003\n041F0000 0D85FBD6 000000E7\n041F0000 0D85FBD7 00000003\n041F0000 0D85FBDA 000000E7\n041F0000 0D85FBDB 00000003\n041F0000 0D85FBDE 000000E7\n041F0000 0D85FBDF 00000003\n"
+        },
+        {
+            "title": "[Slot 3 CAM 100%]",
+            "content": "[Slot 3 CAM 100%]\n011F0000 0D85FE24 00000064\n\n"
+        },
+        {
+            "title": "[Slot 3 Level 99]",
+            "content": "[Slot 3 Level 99]\n011F0000 0D85FDE8 00000063\n\n"
+        },
+        {
+            "title": "[Slot 3 Max ABI]",
+            "content": "[Slot 3 Max ABI]\n041F0000 0D85FE22 000000E7\n041F0000 0D85FE23 00000003\n\n"
+        },
+        {
+            "title": "[Slot 3 Max HP]",
+            "content": "[Slot 3 Max HP]\n041F0000 0D85FDFC 0000000F\n041F0000 0D85FDFD 00000027\n041F0000 0D85FE00 0000000F\n041F0000 0D85FE01 00000027\n\n"
+        },
+        {
+            "title": "[Slot 3 Max MP]",
+            "content": "[Slot 3 Max MP]\n041F0000 0D85FE08 000000E7\n041F0000 0D85FE09 00000003\n041F0000 0D85FE0C 000000E7\n041F0000 0D85FE0D 00000003\n\n"
+        },
+        {
+            "title": "[Slot 3 Max Stat]",
+            "content": "[Slot 3 Max Stat]\n041F0000 0D85FE12 000000E7\n041F0000 0D85FE13 00000003\n041F0000 0D85FE16 000000E7\n041F0000 0D85FE17 00000003\n041F0000 0D85FE1A 000000E7\n041F0000 0D85FE1B 00000003\n041F0000 0D85FE1E 000000E7\n041F0000 0D85FE1F 00000003\n\n"
+        },
+        {
+            "title": "[Water properties free of injury after equipping any chip]",
+            "content": "[Water properties free of injury after equipping any chip]\n04000000 0005EB34 52800C88\n"
+        },
+        {
+            "title": "[scan rate after battle Max]",
+            "content": "[scan rate after battle Max]\n04000000 0004FFF8 52801909\n"
+        }
+    ],
+    "CA86DBB44A335EAD": [
+        {
+            "title": "[999999 yen first game]",
+            "content": "[999999 yen first game]\n04100000 05d1fd08 05f5e0ff\n\n"
+        },
+        {
+            "title": "[9999999 Money 2nd game]",
+            "content": "[9999999 Money 2nd game]\n04100000 0D87C6A8 0098967F\n\n"
+        },
+        {
+            "title": "[9999999 Money Hacker story]",
+            "content": "[9999999 Money Hacker story]\n04100000 0D87C6A8 0098967F \n\n"
+        },
+        {
+            "title": "[999999 yen]",
+            "content": "[999999 yen]\n04100000 05d1fd08 05f5e0ff\n\n"
+        },
+        {
+            "title": "[SLOT 1]",
+            "content": "[SLOT 1]\n01100000 0d858674 00000063\n01100000 0ECC8674 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 2]",
+            "content": "[SLOT 2]\n01100000 0d858694 00000063\n01100000 0ECC8694 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 3]",
+            "content": "[SLOT 3]\n01100000 0d8586b4 00000063\n01100000 0ECC86b4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 4]",
+            "content": "[SLOT 4]\n01100000 0d8586d4 00000063\n01100000 0ECC86d4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 5]",
+            "content": "[SLOT 5]\n01100000 0d8586f4 00000063\n01100000 0ECC86f4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 6]",
+            "content": "[SLOT 6]\n01100000 0d858714 00000063\n01100000 0ECC8714 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 7]",
+            "content": "[SLOT 7]\n01100000 0d858734 00000063\n01100000 0ECC8734 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 8]",
+            "content": "[SLOT 8]\n01100000 0d858754 00000063\n01100000 0ECC8754 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 9]",
+            "content": "[SLOT 9]\n01100000 0d858774 00000063\n01100000 0ECC8774 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 10]",
+            "content": "[SLOT 10]\n01100000 0d858794 00000063\n01100000 0ECC8794 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 11]",
+            "content": "[SLOT 11]\n01100000 0d8587b4 00000063\n01100000 0ECC87b4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 12]",
+            "content": "[SLOT 12]\n01100000 0d8587d4 00000063\n01100000 0ECC87d4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 13]",
+            "content": "[SLOT 13]\n01100000 0d8587f4 00000063\n01100000 0ECC87f4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 14]",
+            "content": "[SLOT 14]\n01100000 0d858814 00000063\n01100000 0ECC8814 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 15]",
+            "content": "[SLOT 15]\n01100000 0d858834 00000063\n01100000 0ECC8834 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 16]",
+            "content": "[SLOT 16]\n01100000 0d858854 00000063\n01100000 0ECC8854 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 17]",
+            "content": "[SLOT 17]\n01100000 0d858874 00000063\n01100000 0ECC8874 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 18]",
+            "content": "[SLOT 18]\n01100000 0d858894 00000063\n01100000 0ECC8894 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 19]",
+            "content": "[SLOT 19]\n01100000 0d8588b4 00000063\n01100000 0ECC88b4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 20]",
+            "content": "[SLOT 20]\n01100000 0d8588d4 00000063\n01100000 0ECC88d4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 21]",
+            "content": "[SLOT 21]\n01100000 0d8588f4 00000063\n01100000 0ECC88f4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 22]",
+            "content": "[SLOT 22]\n01100000 0d858914 00000063\n01100000 0ECC8914 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 23]",
+            "content": "[SLOT 23]\n01100000 0d858934 00000063\n01100000 0ECC8934 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 24]",
+            "content": "[SLOT 24]\n01100000 0d858954 00000063\n01100000 0ECC8954 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 25]",
+            "content": "[SLOT 25]\n01100000 0d858974 00000063\n01100000 0ECC8974 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 26]",
+            "content": "[SLOT 26]\n01100000 0d858994 00000063\n01100000 0ECC8994 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 27]",
+            "content": "[SLOT 27]\n01100000 0d8589b4 00000063\n01100000 0ECC89b4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 28]",
+            "content": "[SLOT 28]\n01100000 0d8589D4 00000063\n01100000 0ECC89D4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 29]",
+            "content": "[SLOT 29]\n01100000 0d8589F4 00000063\n01100000 0ECC89F4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 30]",
+            "content": "[SLOT 30]\n01100000 0d858A14 00000063\n01100000 0ECC8A14 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 31]",
+            "content": "[SLOT 31]\n01100000 0d858A34 00000063\n01100000 0ECC8A34 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 32]",
+            "content": "[SLOT 32]\n01100000 0d858A54 00000063\n01100000 0ECC8A54 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 33]",
+            "content": "[SLOT 33]\n01100000 0d858A74 00000063\n01100000 0ECC8A74 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 34]",
+            "content": "[SLOT 34]\n01100000 0d858A94 00000063\n01100000 0ECC8A94 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 35]",
+            "content": "[SLOT 35]\n01100000 0d858AB4 00000063\n01100000 0ECC8AB4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 36]",
+            "content": "[SLOT 36]\n01100000 0d858AD4 00000063\n01100000 0ECC8AD4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 37]",
+            "content": "[SLOT 37]\n01100000 0d858AF4 00000063\n01100000 0ECC8AF4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 38]",
+            "content": "[SLOT 38]\n01100000 0d858B14 00000063\n01100000 0ECC8B14 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 39]",
+            "content": "[SLOT 39]\n01100000 0d858B34 00000063\n01100000 0ECC8B34 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 40]",
+            "content": "[SLOT 40]\n01100000 0d858B54 00000063\n01100000 0ECC8B54 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 41]",
+            "content": "[SLOT 41]\n01100000 0d858B74 00000063\n01100000 0ECC8B74 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 42]",
+            "content": "[SLOT 42]\n01100000 0d858B94 00000063\n01100000 0ECC8B94 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 43]",
+            "content": "[SLOT 43]\n01100000 0d858BB4 00000063\n01100000 0ECC8BB4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 44]",
+            "content": "[SLOT 44]\n01100000 0d858BD4 00000063\n01100000 0ECC8BD4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 45]",
+            "content": "[SLOT 45]\n01100000 0d858Bf4 00000063\n01100000 0ECC8Bf4 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 46]",
+            "content": "[SLOT 46]\n01100000 0d858C14 00000063\n01100000 0ECC8C14 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 47]",
+            "content": "[SLOT 47]\n01100000 0d858C34 00000063\n01100000 0ECC8C34 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 48]",
+            "content": "[SLOT 48]\n01100000 0d858C54 00000063\n01100000 0ECC8C54 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 49]",
+            "content": "[SLOT 49]\n01100000 0d858C74 00000063\n01100000 0ECC8C74 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 50]",
+            "content": "[SLOT 50]\n01100000 0d858C94 00000063\n01100000 0ECC8C94 00000063\n\n"
+        },
+        {
+            "title": "[SLOT 51]",
+            "content": "[SLOT 51]\n01100000 0d858CB4 00000063\n01100000 0ECC8CB4 00000063\n\n"
+        },
+        {
+            "title": "[popular guy guide 800.0000 XP ITEM]",
+            "content": "[popular guy guide 800.0000 XP ITEM]\n01100000 0d858874 00000063\n01100000 0ECC8874 00000063\n01100000 0d858860 3f800001\n01100000 0ECC8860 3f800001\n01100000 0ECC886c 000000D6\n01100000 0d85886c 000000D6\n01100000 0ECC8870 000000D0\n01100000 0d858870 000000D0\n\n"
+        },
+        {
+            "title": "[popular guy guide 800.0000 XP ITEM]",
+            "content": "[popular guy guide 800.0000 XP ITEM]\n01100000 0d858874 00000063\n01100000 0ECC8874 00000063\n01100000 0d858860 3f800001\n01100000 0ECC8860 3f800001\n01100000 0ECC886c 000000D6\n01100000 0d85886c 000000D6\n\n"
+        },
+        {
+            "title": "[99x Power-Up Item HM]",
+            "content": "[99x Power-Up Item HM]\n02100000 0ED68074 00000063\n\n"
+        },
+        {
+            "title": "[99x Courage Point C Item HM]",
+            "content": "[99x Courage Point C Item HM]\n02100000 0ED683D4 00000063\n\n"
+        },
+        {
+            "title": "[Tactician USB]",
+            "content": "[Tactician USB]\n01100000 0d858B94 00000063\n01100000 0d858BAC 0000018D\n\n"
+        },
+        {
+            "title": "[Tactician USB]",
+            "content": "[Tactician USB]\n01100000 0ecc8b94 00000063\n01100000 0ecc8BAC 0000018D\n\n"
+        },
+        {
+            "title": "[Memory up DX]",
+            "content": "[Memory up DX]\n01100000 0d858674 00000063\n01100000 0d85866c 0000005b\n\n"
+        },
+        {
+            "title": "[Memory up DX]",
+            "content": "[Memory up DX]\n01100000 0ecc8674 00000063\n01100000 0ecc866c 0000005b\n\n"
+        },
+        {
+            "title": "[Friendship DX HM]",
+            "content": "[Friendship DX HM]\n04100000 0D913234 00000063\n\n"
+        },
+        {
+            "title": "[Brave Point C HM]",
+            "content": "[Brave Point C HM]\n04100000 0D913214 00000063\n\n"
+        },
+        {
+            "title": "[Memory up]",
+            "content": "[Memory up]\n01100000 0d858674 00000063\n01100000 0d858684 00000001\n\n"
+        },
+        {
+            "title": "[HP capsule c]",
+            "content": "[HP capsule c]\n01100000 0d858694 00000063\n01100000 0d8586a4 00000002\n\n"
+        },
+        {
+            "title": "[HP capsule A]",
+            "content": "[HP capsule A]\n01100000 0d8586b4 00000063\n01100000 0d8586c4 00000003\n\n"
+        },
+        {
+            "title": "[HP spray c]",
+            "content": "[HP spray c]\n01100000 0d8586d4 00000063\n01100000 0d8586e4 00000004\n\n"
+        },
+        {
+            "title": "[HP spray A]",
+            "content": "[HP spray A]\n01100000 0d8586f4 00000063\n01100000 0d858704 00000005\n\n"
+        },
+        {
+            "title": "[SP capsule c]",
+            "content": "[SP capsule c]\n01100000 0d858714 00000063\n01100000 0d858724 00000006\n\n"
+        },
+        {
+            "title": "[SP capsule B]",
+            "content": "[SP capsule B]\n01100000 0d858734 00000063\n01100000 0d858744 00000007\n\n"
+        },
+        {
+            "title": "[SP spray A]",
+            "content": "[SP spray A]\n01100000 0d858754 00000063\n01100000 0d858764 00000008\n\n"
+        },
+        {
+            "title": "[Medical spray DX]",
+            "content": "[Medical spray DX]\n01100000 0d858774 00000063\n01100000 0d858784 00000009\n\n"
+        },
+        {
+            "title": "[Poison Recovery]",
+            "content": "[Poison Recovery]\n01100000 0d858794 00000063\n01100000 0d8587A4 0000000A\n\n"
+        },
+        {
+            "title": "[Panic Recovery]",
+            "content": "[Panic Recovery]\n01100000 0d8587b4 00000063\n01100000 0d8587C4 0000000B\n\n"
+        },
+        {
+            "title": "[Sleep Recovery]",
+            "content": "[Sleep Recovery]\n01100000 0d8587d4 00000063\n01100000 0d8587E4 0000000C\n\n"
+        },
+        {
+            "title": "[Revival capsule]",
+            "content": "[Revival capsule]\n01100000 0d8587f4 00000063\n01100000 0d858804 0000000D\n\n"
+        },
+        {
+            "title": "[Full revival spray]",
+            "content": "[Full revival spray]\n01100000 0d858814 00000063\n01100000 0d858824 0000000E\n\n"
+        },
+        {
+            "title": "[ATK Boost]",
+            "content": "[ATK Boost]\n01100000 0d858834 00000063\n01100000 0d858844 0000000F\n\n"
+        },
+        {
+            "title": "[INT Boost]",
+            "content": "[INT Boost]\n01100000 0d858854 00000063\n01100000 0d858864 00000010\n\n"
+        },
+        {
+            "title": "[SPD Boost]",
+            "content": "[SPD Boost]\n01100000 0d858874 00000063\n01100000 0d858884 00000011\n\n"
+        },
+        {
+            "title": "[Escape Gate]",
+            "content": "[Escape Gate]\n01100000 0d858894 00000063\n01100000 0d8588A4 00000012\n\n"
+        },
+        {
+            "title": "[EXPORT]",
+            "content": "[EXPORT]\n01100000 0d8588b4 00000063\n01100000 0d8588C4 00000013\n\n"
+        },
+        {
+            "title": "[Brave point E]",
+            "content": "[Brave point E]\n01100000 0d8588d4 00000063\n01100000 0d8588E4 00000014\n\n"
+        },
+        {
+            "title": "[Brave point D]",
+            "content": "[Brave point D]\n01100000 0d8588f4 00000063\n01100000 0d858904 00000015\n\n"
+        },
+        {
+            "title": "[Brave point C]",
+            "content": "[Brave point C]\n01100000 0d858914 00000063\n01100000 0d858924 00000016\n\n"
+        },
+        {
+            "title": "[Firendship DX]",
+            "content": "[Firendship DX]\n01100000 0d858934 00000063\n01100000 0d858944 00000017\n\n"
+        },
+        {
+            "title": "[Development patch]",
+            "content": "[Development patch]\n01100000 0d858954 00000063\n01100000 0d858964 00000018\n\n"
+        },
+        {
+            "title": "[searcher patch]",
+            "content": "[searcher patch]\n01100000 0d858974 00000063\n01100000 0d858984 00000019\n\n"
+        },
+        {
+            "title": "[Topaz]",
+            "content": "[Topaz]\n01100000 0d858994 00000063\n01100000 0d8589A4 0000001A\n\n"
+        },
+        {
+            "title": "[Exiting meat]",
+            "content": "[Exiting meat]\n01100000 0d8589b4 00000063\n01100000 0d8589C4 0000001B\n\n"
+        },
+        {
+            "title": "[power pine]",
+            "content": "[power pine]\n01100000 0d8589D4 00000063\n01100000 0d8589E4 0000001C\n\n"
+        },
+        {
+            "title": "[Clever carrot]",
+            "content": "[Clever carrot]\n01100000 0d8589F4 00000063\n01100000 0d858A04 0000001D\n\n"
+        },
+        {
+            "title": "[Miracle Meat]",
+            "content": "[Miracle Meat]\n01100000 0d858A14 00000063\n01100000 0d858A24 0000001E\n\n"
+        },
+        {
+            "title": "[HP attach E]",
+            "content": "[HP attach E]\n01100000 0d858A34 00000063\n01100000 0d858A44 0000001F\n\n"
+        },
+        {
+            "title": "[SP attach E]",
+            "content": "[SP attach E]\n01100000 0d858A54 00000063\n01100000 0d858A64 00000020\n\n"
+        },
+        {
+            "title": "[ATK attach E]",
+            "content": "[ATK attach E]\n01100000 0d858A74 00000063\n01100000 0d858A84 00000021\n\n"
+        },
+        {
+            "title": "[ATK attach D]",
+            "content": "[ATK attach D]\n01100000 0d858A94 00000063\n01100000 0d858AA4 00000022\n\n"
+        },
+        {
+            "title": "[DEF attach E]",
+            "content": "[DEF attach E]\n01100000 0d858AB4 00000063\n01100000 0d858AC4 00000023\n\n"
+        },
+        {
+            "title": "[DEF attach D]",
+            "content": "[DEF attach D]\n01100000 0d858AD4 00000063\n01100000 0d858AE4 00000024\n\n"
+        },
+        {
+            "title": "[INT attach E]",
+            "content": "[INT attach E]\n01100000 0d858AF4 00000063\n01100000 0d858B04 00000025\n\n"
+        },
+        {
+            "title": "[SPD attach E]",
+            "content": "[SPD attach E]\n01100000 0d858B14 00000063\n01100000 0d858B24 00000026\n\n"
+        },
+        {
+            "title": "[Sand guard]",
+            "content": "[Sand guard]\n01100000 0d858B34 00000063\n01100000 0d858B44 00000027\n\n"
+        },
+        {
+            "title": "[Noise guard DX]",
+            "content": "[Noise guard DX]\n01100000 0d858B54 00000063\n01100000 0d858B64 00000028\n\n"
+        },
+        {
+            "title": "[Panic Barrier DX]",
+            "content": "[Panic Barrier DX]\n01100000 0d858B74 00000063\n01100000 0d858B84 00000029\n\n"
+        },
+        {
+            "title": "[Pixel Barrier DX]",
+            "content": "[Pixel Barrier DX]\n01100000 0d858B94 00000063\n01100000 0d858BA4 0000002A\n\n"
+        },
+        {
+            "title": "[Camp USB]",
+            "content": "[Camp USB]\n01100000 0d858BB4 00000063\n01100000 0d858BC4 0000002B\n\n"
+        },
+        {
+            "title": "[Pen Block]",
+            "content": "[Pen Block]\n01100000 0d858BD4 00000063\n01100000 0d858BE4 0000002C\n\n"
+        },
+        {
+            "title": "[Slot 1 HM]",
+            "content": "[Slot 1 HM]\n011F0000 0d9130D4 00000063\n\n"
+        },
+        {
+            "title": "[Slot 2 HM]",
+            "content": "[Slot 2 HM]\n011F0000 0d9130F4 00000063\n\n"
+        },
+        {
+            "title": "[Slot 3 HM]",
+            "content": "[Slot 3 HM]\n011F0000 0d913114 00000063\n\n"
+        },
+        {
+            "title": "[Slot 4 HM]",
+            "content": "[Slot 4 HM]\n011F0000 0d913134 00000063\n\n"
+        },
+        {
+            "title": "[Slot 5 HM]",
+            "content": "[Slot 5 HM]\n011F0000 0d913154 00000063\n\n"
+        },
+        {
+            "title": "[Slot 6 HM]",
+            "content": "[Slot 6 HM]\n011F0000 0d913174 00000063\n\n"
+        },
+        {
+            "title": "[Slot 7 HM]",
+            "content": "[Slot 7 HM]\n011F0000 0d913194 00000063\n\n"
+        },
+        {
+            "title": "[Slot 8 HM]",
+            "content": "[Slot 8 HM]\n011F0000 0d9131B4 00000063\n\n"
+        },
+        {
+            "title": "[Slot 9 HM]",
+            "content": "[Slot 9 HM]\n011F0000 0d9131D4 00000063\n\n"
+        },
+        {
+            "title": "[Slot 10 HM]",
+            "content": "[Slot 10 HM]\n011F0000 0d9131F4 00000063\n\n"
+        },
+        {
+            "title": "[Slot 11 HM]",
+            "content": "[Slot 11 HM]\n011F0000 0d913214 00000063\n\n"
+        },
+        {
+            "title": "[Max Stats Digimon Slot 1 HM]",
+            "content": "[Max Stats Digimon Slot 1 HM]\n01100000 0d912baa 00000063\n02100000 0d912bc4 00007530\n02100000 0d912bd0 00007530\n02100000 0d912bd4 00007530\n02100000 0d912bd8 00007530\n02100000 0d912bdc 00007530\n02100000 0d912be0 00007530\n04100000 0d912be2 006400c8\n01100000 0d912d5c 00000003\n\n"
+        },
+        {
+            "title": "[Max Memory HM]",
+            "content": "[Max Memory HM]\n041F0000 0D8976B4 000000ff\n041F0000 0D8976B5 000000ff\n\n"
+        },
+        {
+            "title": "[Max Money HM]",
+            "content": "[Max Money HM]\n041F0000 0D8976A8 0000007F\n041F0000 0D8976A9 00000096\n041F0000 0D8976AA 00000098\n"
+        }
+    ],
+    "BEDAE701DD8565CD": [
+        {
+            "title": "[Max Stats Digimon Slot 1 CS]",
+            "content": "[Max Stats Digimon Slot 1 CS]\n01100000 0d86796a 00000063\n02100000 0d867984 00007530\n02100000 0d867990 00007530\n02100000 0d867994 00007530\n02100000 0d867998 00007530\n02100000 0d86799c 00007530\n02100000 0d8679a0 00007530\n04100000 0d8679a2 006400c8\n01100000 0d867b1c 00000003\n\n"
+        },
+        {
+            "title": "[Max Stats Digimon Slot 2 CS]",
+            "content": "[Max Stats Digimon Slot 2 CS]\n01100000 0d867baa 00000063\n02100000 0d867bc4 00007530\n02100000 0d867bd0 00007530\n02100000 0d867bd4 00007530\n02100000 0d867bd8 00007530\n02100000 0d867bdc 00007530\n02100000 0d867be0 00007530\n04100000 0d867be2 006400c8\n01100000 0d867d5c 00000003\n\n"
+        },
+        {
+            "title": "[Max Stats Digimon Slot 3 CS]",
+            "content": "[Max Stats Digimon Slot 3 CS]\n01100000 0d867dea 00000063\n02100000 0d867e04 00007530\n02100000 0d867e10 00007530\n02100000 0d867e14 00007530\n02100000 0d867e18 00007530\n02100000 0d867e1c 00007530\n02100000 0d867e20 00007530\n04100000 0d867e22 006400c8\n01100000 0d867f9c 00000003\n\n"
+        },
+        {
+            "title": "[Version 1.03]",
+            "content": "[Version 1.03]\n\n"
+        },
+        {
+            "title": "[Inf Sp]",
+            "content": "[Inf Sp]\n04000000 00005478 4B1F0129\n\n"
+        },
+        {
+            "title": "[Can the maximum after the change]",
+            "content": "[Can the maximum after the change]\n04000000 00054658 1A88C108\n\n"
+        },
+        {
+            "title": "[Max Money after change]",
+            "content": "[Max Money after change]\n04000000 00067F54 1A89B128\n\n"
+        },
+        {
+            "title": "[Friendship maximum after change]",
+            "content": "[Friendship maximum after change]\n04000000 000543E4 1A88C128\n\n"
+        },
+        {
+            "title": "[scan rate after battle Max]",
+            "content": "[scan rate after battle Max]\n04000000 0004FFF8 52801909\n\n"
+        },
+        {
+            "title": "[Items are not reduced (on)]",
+            "content": "[Items are not reduced (on)]\n04000000 0006540C 4B1F014A\n\n"
+        },
+        {
+            "title": "[Items are not reduced (off)]",
+            "content": "[Items are not reduced (off)]\n04000000 0006540C 4B03014A\n\n"
+        },
+        {
+            "title": "[Max item when acquired(on)]",
+            "content": "[Max item when acquired(on)]\n04000000 000652EC 1A8BB16B\n\n"
+        },
+        {
+            "title": "[Max item when acquired(off)]",
+            "content": "[Max item when acquired(off)]\n04000000 000652EC 1A8BB12B\n\n"
+        },
+        {
+            "title": "[4x increase in hit slots]",
+            "content": "[4x increase in hit slots]\n04000000 0000EEF8 0B090908\n04000000 0000EF04 0B080A88\n\n"
+        },
+        {
+            "title": "[8x increase in hit slots]",
+            "content": "[8x increase in hit slots]\n04000000 0000EEF8 0B090D08\n04000000 0000EF04 0B080E88\n\n"
+        },
+        {
+            "title": "[16x increase in hit slots]",
+            "content": "[16x increase in hit slots]\n04000000 0000EEF8 0B091108\n04000000 0000EF04 0B081288\n\n"
+        },
+        {
+            "title": "[Level cap 99]",
+            "content": "[Level cap 99]\n04000000 0005E574 1A89B120\n\n"
+        },
+        {
+            "title": "[Maximum after team cap increase]",
+            "content": "[Maximum after team cap increase]\n04000000 00069010 1A89B128\n\n"
+        },
+        {
+            "title": "[Maximum after full property promotion]",
+            "content": "[Maximum after full property promotion]\n04000000 0005EF1C 1A89B128\n04000000 0005EF28 1A89B120\n04000000 0005EFD4 1A89B128\n04000000 0005EFE0 1A89B120\n04000000 0005F084 1A89B128\n04000000 0005F090 1A89B120\n04000000 0005F134 1A89B128\n04000000 0005F140 1A89B120\n04000000 0005F1E4 1A89B128\n04000000 0005F1F0 1A89B120\n04000000 0005F294 1A89B128\n04000000 0005F2A0 1A89B120\n\n"
+        },
+        {
+            "title": "[2x the USB effect of the military division]",
+            "content": "[2x the USB effect of the military division]\n04000000 0005EC30 0B090508\n\n"
+        },
+        {
+            "title": "[4x USB effect for military division]",
+            "content": "[4x USB effect for military division]\n04000000 0005EC30 0B090908\n\n"
+        },
+        {
+            "title": "[8x USB effect for military division]",
+            "content": "[8x USB effect for military division]\n04000000 0005EC30 0B090D08\n\n"
+        },
+        {
+            "title": "[Billionaire's Military Division 2x]",
+            "content": "[Billionaire's Military Division 2x]\n04000000 0005EC3C 0B0A0508\n\n"
+        },
+        {
+            "title": "[Billionaire's Military Division 4x]",
+            "content": "[Billionaire's Military Division 4x]\n04000000 0005EC3C 0B0A0908\n\n"
+        },
+        {
+            "title": "[Billionaire's Military Division 8x]",
+            "content": "[Billionaire's Military Division 8x]\n04000000 0005EC3C 0B0A0D08\n\n"
+        },
+        {
+            "title": "[HP Max after equipping any chip]",
+            "content": "[HP Max after equipping any chip]\n04000000 0005EAA8 5284E1E8\n\n"
+        },
+        {
+            "title": "[Maximum SP after equipping any chip]",
+            "content": "[Maximum SP after equipping any chip]\n04000000 0005EAB4 52807D08\n\n"
+        },
+        {
+            "title": "[ATK max after any chip]",
+            "content": "[ATK max after any chip]\n04000000 0005EAC4 52807D08\n\n"
+        },
+        {
+            "title": "[DEF maximum after equipping any chip]",
+            "content": "[DEF maximum after equipping any chip]\n04000000 0005EAD0 52807D08\n\n"
+        },
+        {
+            "title": "[INT max after equipping any chip]",
+            "content": "[INT max after equipping any chip]\n04000000 0005EAE0 52807D08\n\n"
+        },
+        {
+            "title": "[SPD max after equipping any chip]",
+            "content": "[SPD max after equipping any chip]\n04000000 0005EAEC 52807D08\n\n"
+        },
+        {
+            "title": "[HIT Max after equipping any chip]",
+            "content": "[HIT Max after equipping any chip]\n04000000 0005EAFC 52807D08\n\n"
+        },
+        {
+            "title": "[AGL maximum after equipping any chip]",
+            "content": "[AGL maximum after equipping any chip]\n04000000 0005EB08 52807D08\n\n"
+        },
+        {
+            "title": "[CRT maximum after equipping any chip]",
+            "content": "[CRT maximum after equipping any chip]\n04000000 0005EB18 52807D08\n\n"
+        },
+        {
+            "title": "[Fire property free of injury after equipping any chip]",
+            "content": "[Fire property free of injury after equipping any chip]\n04000000 0005EB24 52800C88\n\n"
+        },
+        {
+            "title": "[Water properties free of injury after equipping any chip]",
+            "content": "[Water properties free of injury after equipping any chip]\n04000000 0005EB34 52800C88\n\n"
+        },
+        {
+            "title": "[Equipped with any chip rear wood property injury-free]",
+            "content": "[Equipped with any chip rear wood property injury-free]\n04000000 0005EB40 52800C88\n\n"
+        },
+        {
+            "title": "[Mine-free properties after equipping any chip]",
+            "content": "[Mine-free properties after equipping any chip]\n04000000 0005EB50 52800C88\n\n"
+        },
+        {
+            "title": "[Equipped with any chip rear soil property injury-free]",
+            "content": "[Equipped with any chip rear soil property injury-free]\n04000000 0005EB5C 52800C88\n\n"
+        },
+        {
+            "title": "[Equipped with any chip rear wind property injury-free]",
+            "content": "[Equipped with any chip rear wind property injury-free]\n04000000 0005EB6C 52800C88\n\n"
+        },
+        {
+            "title": "[Light properties are injury-free after equipping any chip]",
+            "content": "[Light properties are injury-free after equipping any chip]\n04000000 0005EB78 52800C88\n\n"
+        },
+        {
+            "title": "[Dark properties free of injury after equipping any chip]",
+            "content": "[Dark properties free of injury after equipping any chip]\n04000000 0005EB88 52800C88\n\n"
+        },
+        {
+            "title": "[No property injury-free after equipping any chip]",
+            "content": "[No property injury-free after equipping any chip]\n04000000 0005EB94 52800C88\n\n"
+        },
+        {
+            "title": "[Highly toxic immunity after equipping any chip]",
+            "content": "[Highly toxic immunity after equipping any chip]\n04000000 0005EBA4 52800C88\n\n"
+        },
+        {
+            "title": "[Chaotic immunity after equipping any chip]",
+            "content": "[Chaotic immunity after equipping any chip]\n04000000 0005EBB0 52800C88\n\n"
+        },
+        {
+            "title": "[Paralyzed immunity after equipping any chip]",
+            "content": "[Paralyzed immunity after equipping any chip]\n04000000 0005EBC0 52800C88\n\n"
+        },
+        {
+            "title": "[Sleep Immunity After Equipping Any Chip]",
+            "content": "[Sleep Immunity After Equipping Any Chip]\n04000000 0005EBCC 52800C88\n\n"
+        },
+        {
+            "title": "[Dizziness immunity after equipping any chip]",
+            "content": "[Dizziness immunity after equipping any chip]\n04000000 0005EBDC 52800C88\n\n"
+        },
+        {
+            "title": "[Liquidization immunity after equipping any chip]",
+            "content": "[Liquidization immunity after equipping any chip]\n04000000 0005EBE8 52800C88\n\n"
+        },
+        {
+            "title": "[BUG Immunity After Any Chip]",
+            "content": "[BUG Immunity After Any Chip]\n04000000 0005EBF8 52800C88\n\n"
+        },
+        {
+            "title": "[Dead immunity when equipped with any chip]",
+            "content": "[Dead immunity when equipped with any chip]\n04000000 0005EC04 52800C88\n\n"
+        },
+        {
+            "title": "[100% connectivity rate after equipping any chip]",
+            "content": "[100% connectivity rate after equipping any chip]\n04000000 0005EC14 52800C88\n\n"
+        },
+        {
+            "title": "[100% escape rate after equipping any chip]",
+            "content": "[100% escape rate after equipping any chip]\n04000000 0005EC20 52800C88\n\n"
+        },
+        {
+            "title": "[Full level after increased experience after equipping chips]",
+            "content": "[Full level after increased experience after equipping chips]\n04000000 0005EC2C 52993FE8\n04000000 0005EC30 72877348\n\n"
+        },
+        {
+            "title": "[100% drop rate after any chip is equipped]",
+            "content": "[100% drop rate after any chip is equipped]\n04000000 0005EC4C 52800C88\n\n"
+        },
+        {
+            "title": "[200% scan rate after equipping any chip]",
+            "content": "[200% scan rate after equipping any chip]\n04000000 0005EC5C 52801908\n\n"
+        },
+        {
+            "title": "[Equipped with any chip after through the damage relief]",
+            "content": "[Equipped with any chip after through the damage relief]\n04000000 0005EC68 52800C88\n\n"
+        },
+        {
+            "title": "[Max Item Equipment effect]",
+            "content": "[Max Item Equipment effect]\n04000000 0005EAA8 0B090108\n04000000 0005EAB4 0B0A0108\n04000000 0005EAC4 0B090108\n04000000 0005EAD0 0B0A0108\n04000000 0005EAE0 0B090108\n04000000 0005EAEC 0B0A0108\n04000000 0005EAFC 0B090108\n04000000 0005EB08 0B0A0108\n04000000 0005EB18 0B090108\n04000000 0005EB24 0B0A0108\n04000000 0005EB34 0B090108\n04000000 0005EB40 0B0A0108\n04000000 0005EB50 0B090108\n04000000 0005EB5C 0B0A0108\n04000000 0005EB6C 0B090108\n04000000 0005EB78 0B0A0108\n04000000 0005EB88 0B090108\n04000000 0005EB94 0B0A0108\n04000000 0005EBA4 0B090108\n04000000 0005EBB0 0B0A0108\n04000000 0005EBC0 0B090108\n04000000 0005EBCC 0B0A0108\n04000000 0005EBDC 0B090108\n04000000 0005EBE8 0B0A0108\n04000000 0005EBF8 0B090108\n04000000 0005EC04 0B0A0108\n04000000 0005EC14 0B090108\n04000000 0005EC20 0B0A0108\n04000000 0005EC30 0B090108\n04000000 0005EC3C 0B0A0108\n04000000 0005EC4C 0B090108\n04000000 0005EC5C 0B0A0108\n04000000 0005EC68 0B090108 "
+        }
+    ]
+}

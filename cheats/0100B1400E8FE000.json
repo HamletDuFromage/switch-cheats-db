@@ -1,0 +1,144 @@
+{
+    "2523CB8B455ABC1D": [
+        {
+            "title": "[life@TomSwitch]",
+            "content": "[life@TomSwitch]\n580F0000 007B4298\n580F1000 00000040\n580F1000 00000000\n780F0000 0000000C\n640F0000 00000000 42FE0000\n\n"
+        },
+        {
+            "title": "[moon jump@TomSwitch]",
+            "content": "[moon jump@TomSwitch]\n80000002\n580F0000 007B19D0\n580F1000 00000180\n580F1000 00000010\n580F1000 00000000\n580F1000 00000520\n580F1000 00000008\n580F1000 00000260\n780F0000 00000008\n640F0000 00000000 41800000\n20000000\n\n"
+        },
+        {
+            "title": "[Items not reduced on @ThiefB]",
+            "content": "[Items not reduced on @ThiefB]\n040B0000 00276B28 6B1F0121\n040B0000 00277354 6B1F0141\n\n"
+        },
+        {
+            "title": "[Items not reduced off @ThiefB]",
+            "content": "[Items not reduced off @ThiefB]\n040B0000 00276B28 6B130121\n040B0000 00277354 6B140141\n\n"
+        },
+        {
+            "title": "[Inf SP@crypt51@arismendy64]",
+            "content": "[Inf SP@crypt51@arismendy64]\n580F0000 007B4298\n580F1000 00000040\n580F1000 00000000\n780F0000 00000014\n640F0000 00000000 42480000\n\n"
+        },
+        {
+            "title": "[Have Movement speed/jump 2.0x]",
+            "content": "[Have Movement speed/jump 2.0x]\n040B0000 004A7B70 1E201005\n040B0000 004A7B74 1E250800\n040B0000 004A7B78 8B090D08\n040B0000 004A7B7C D65F03C0\n040B0000 00228048 9409FECA\n\n"
+        },
+        {
+            "title": "[Have Move Speed/Jump Recovery]",
+            "content": "[Have Move Speed/Jump Recovery]\n040B0000 00228048 8B090D08\n\n"
+        },
+        {
+            "title": "[Have Money/Wood Soul 16x]",
+            "content": "[Have Money/Wood Soul 16x]\n040B0000 004A7B90 7100003F\n040B0000 004A7B94 1A9FA021\n040B0000 004A7B98 0B0113E1\n040B0000 004A7B9C 9109E008\n040B0000 004A7BA0 D65F03C0\n040B0000 00279820 9408B8DC\n\n"
+        },
+        {
+            "title": "[Have Infinite HP]",
+            "content": "[Have Infinite HP]\n580F0000 007B4298\n580F1000 00000040\n580F1000 00000000\n780F0000 0000000C\n640F1000 00000000 4479C000\n620F1000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Have invincible when on the ground on]",
+            "content": "[Have invincible when on the ground on]\n040B0000 004A7BA4 F9404E86\n040B0000 004A7BA8 B94128C7\n040B0000 004A7BAC 52800027\n040B0000 004A7BB0 B90128C7\n040B0000 004A7BB4 AA1403E0\n040B0000 004A7BB8 D65F03C0\n040B0000 002CE434 940765DC\n\n"
+        },
+        {
+            "title": "[Have invincible when on the ground off]",
+            "content": "[Have invincible when on the ground off]\n040B0000 002CE434 AA1403E0\n\n"
+        },
+        {
+            "title": "[Have Infinite technical skills]",
+            "content": "[Have Infinite technical skills]\n040B0000 00108B64 1E210900\n\n"
+        },
+        {
+            "title": "[Always full stomach on]",
+            "content": "[Always full stomach on]\n040B0000 002CE67C BD000E62\n\n"
+        },
+        {
+            "title": "[Always full off]",
+            "content": "[Always full off]\n040B0000 002CE67C BD000E60\n\n"
+        },
+        {
+            "title": "[Props are not reduced on]",
+            "content": "[Props are not reduced on]\n040B0000 00276B28 6B1F0121\n040B0000 00277354 6B1F0141\n\n"
+        },
+        {
+            "title": "[Props are not reduced off]",
+            "content": "[Props are not reduced off]\n040B0000 00276B28 6B130121\n040B0000 00277354 6B140141\n\n"
+        },
+        {
+            "title": "[Items increase 8x]",
+            "content": "[Items increase 8x]\n040B0000 00275A64 0B090D01\n\n"
+        },
+        {
+            "title": "[Explore goals quickly reached]",
+            "content": "[Explore goals quickly reached]\n040B0000 002C7A98 1A8AB149\n040B0000 002C7F48 1A8AB149\n040B0000 002C9130 1A8A2548\n040B0000 002C94A4 14000005\n040B0000 002C9620 1A892528\n040B0000 002CA150 1A8A3149\n040B0000 002CA860 1A8A3149\n040B0000 002CB45C 14000007\n040B0000 002CBA5C 14000014\n040B0000 002CBAD4 17FFFFF6\n\n"
+        },
+        {
+            "title": "[Maximum speed press ZR]",
+            "content": "[Maximum speed press ZR]\n80000200\n58000000 007B4298\n58001000 00000040\n58001000 00000000\n58001000 00000098\n58001000 00000268\n78000000 00000008\n64000000 00000000 41500000\n20000000\n\n"
+        },
+        {
+            "title": "[Martial skill proficiency 20x]",
+            "content": "[Martial skill proficiency 20x]\n040B0000 004A7B80 1E269005\n040B0000 004A7B84 1E250908\n040B0000 004A7B88 1E202900\n040B0000 004A7B8C D65F03C0\n040B0000 0029EC7C 940823C1\n\n"
+        },
+        {
+            "title": "[Time lapse speed halved]",
+            "content": "[Time lapse speed halved]\n040B0000 004A7BE0 1E2C100F\n040B0000 004A7BE4 1E2F0908\n040B0000 004A7BE8 1E212900\n040B0000 004A7BEC D65F03C0\n040B0000 002A5654 94080963\n\n"
+        },
+        {
+            "title": "[A quarter of the speed of time passing]",
+            "content": "[A quarter of the speed of time passing]\n040B0000 004A7BE0 1E2A100F\n040B0000 004A7BE4 1E2F0908\n040B0000 004A7BE8 1E212900\n040B0000 004A7BEC D65F03C0\n040B0000 002A5654 94080963\n\n"
+        },
+        {
+            "title": "[Have Max Status]",
+            "content": "[Have Max Status]\n580F0000 007B4298\n580F1000 00000040\n580F1000 00000000\n780F0000 00000018\n640F1000 00000000 0000270F\n680F1000 03E703E7 03E703E7\n620F1000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Have Max Jumping Flying]",
+            "content": "[Have Max Jumping Flying]\n80000002\n58000000 007B4298\n58001000 00000040\n58001000 00000000\n58001000 00000098\n58001000 00000260\n78000000 00000008\n64000000 00000000 41700000\n20000000\n\n"
+        },
+        {
+            "title": "[Have Power Invincible]",
+            "content": "[Have Power Invincible]\n58000000 007B4298\n58001000 00000040\n58001000 00000000\n58001000 00000098\n78000000 00000128\n64000000 00000000 00000001\n\n"
+        },
+        {
+            "title": "[Max Food Ingredients - on @Eiffel2018]",
+            "content": "[Max Food Ingredients - on @Eiffel2018]\n040E0000 00288F34 2A0803E9\n040E0000 00288F4C D503201F\n"
+        },
+        {
+            "title": "[Max Food Ingredients - off @Eiffel2018]",
+            "content": "[Max Food Ingredients - off @Eiffel2018]\n040E0000 00288F34 1A88B029\n040E0000 00288F4C 540005A9\n\n"
+        },
+        {
+            "title": "[Max Materials Items - on @Eiffel2018]",
+            "content": "[Max Materials Items - on @Eiffel2018]\n040E0000 00272DD8 2A0803E1\n080E0000 00276B28 54000129 52807CE1\n040E0000 00275A64 52807CE1\n"
+        },
+        {
+            "title": "[Max Materials Items - off @Eiffel2018]",
+            "content": "[Max Materials Items - off @Eiffel2018]\n040E0000 00272DD8 1A88B028\n080E0000 00276B28 54000109 6B130121\n040E0000 00275A64 0B090101\n\n"
+        },
+        {
+            "title": "[Max Rice Results @Eiffel2018]",
+            "content": "[Max Rice Results @Eiffel2018]\n580E0000 007B4298\n580E1000 00000068\n580E1000 00000080\n780E0000 000004C0\n680E1000 40C35600 00000000\n680E1000 40C35600 00000000\n680E1000 40C35600 00000000\n680E1000 40C35600 00000000\n680E1000 40C35600 00000000\n680E0000 40C35600 00000000\n\n"
+        },
+        {
+            "title": "[Max Sakuna's HP @Eiffel2018]",
+            "content": "[Max Sakuna's HP @Eiffel2018]\n040E0000 00264170 5284E1E0\n040E0000 00267D88 D503201F\n040E0000 002CE6B8 1E20CC00\n\n"
+        },
+        {
+            "title": "[Max Sakuna's Strength @Eiffel2018]",
+            "content": "[Max Sakuna's Strength @Eiffel2018]\n580E0000 007B4298\n580E1000 00000040\n580E1000 00000000\n780E0000 00000018\n620E1000 00000000 0000270F\n780E0000 00000002\n680E1000 270F270F 270F270F\n620E1000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[Max Ambers @Eiffel2018]",
+            "content": "[Max Ambers @Eiffel2018]\n580E0000 007B4298\n580E1000 00000030\n780E0000 00000278\n640E0000 00000000 000F423F\n\n"
+        },
+        {
+            "title": "[Moon Jump (ZL+B) - by ZiT @Eiffel2018]",
+            "content": "[Moon Jump (ZL+B) - by ZiT @Eiffel2018]\n80000102\n580E0000 007B4298\n580E1000 00000040\n580E1000 00000000\n580E1000 00000098\n580E1000 00000260\n780E0000 00000008\n640E0000 00000000 3F800000\n20000000\n\n"
+        },
+        {
+            "title": "[Speed up (ZR) - by ZiT @Eiffel2018]",
+            "content": "[Speed up (ZR) - by ZiT @Eiffel2018]\n80000200\n580E0000 007B4298\n580E1000 00000040\n580E1000 00000000\n580E1000 00000098\n580E1000 00000268\n780E0000 00000008\n640E0000 00000000 41500000\n20000000\n\n"
+        }
+    ]
+}

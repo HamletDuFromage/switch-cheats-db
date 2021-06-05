@@ -1,0 +1,28 @@
+{
+    "C356ED633D2BF7FC": [
+        {
+            "title": "[P1 Inf Lives]",
+            "content": "[P1 Inf Lives]\n01000000 0127B3B0 00000009\n\n"
+        },
+        {
+            "title": "[P1 Inf Bombs]",
+            "content": "[P1 Inf Bombs]\n01000000 0127B3B2 00000009\n\n"
+        },
+        {
+            "title": "[P1 Instand Bomber Availability]",
+            "content": "[P1 Instand Bomber Availability]\n01000000 0127B3D0 00000000\n\n"
+        },
+        {
+            "title": "[P1 Max Fire Power]",
+            "content": "[P1 Max Fire Power]\n01000000 0127B3B4 00000004\n\n"
+        },
+        {
+            "title": "[P1 Inf Super Shot]",
+            "content": "[P1 Inf Super Shot]\n01000000 0127B3BC 00000008\n01000000 0127B3B8 00000008\n\n"
+        },
+        {
+            "title": "[P1 Invincible]",
+            "content": "[P1 Invincible]\n01000000 0127D4AA 000000F0\n01000000 0127D43D 000000FF\n01000000 0127D43E 000000FF\n01000000 0127D43F 000000FF\n01000000 0127D440 000000FF"
+        }
+    ]
+}

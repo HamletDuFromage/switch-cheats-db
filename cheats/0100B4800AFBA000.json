@@ -1,0 +1,20 @@
+{
+    "CD7B66EE170AEF9A": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for ACA NEOGEO AGGRESSORS OF DARK KOMBAT 1.0.0]",
+            "content": "[From MAX-CHEATS.com by optantic for ACA NEOGEO AGGRESSORS OF DARK KOMBAT 1.0.0]\n\n"
+        },
+        {
+            "title": "[P1 Infinite HP]",
+            "content": "[P1 Infinite HP]\n02000000 0127c2f6 00000bff\n\n"
+        },
+        {
+            "title": "[P1 Infinite Super]",
+            "content": "[P1 Infinite Super]\n02000000 0127c302 0000ffff\n\n"
+        },
+        {
+            "title": "[P2 CPU No Super]",
+            "content": "[P2 CPU No Super]\n02000000 0127c402 00000000"
+        }
+    ]
+}

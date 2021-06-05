@@ -1,0 +1,156 @@
+{
+    "F840D4127E63312D": [
+        {
+            "title": "[P1 Infinite Lives @optantic]",
+            "content": "[P1 Infinite Lives @optantic]\n04000000 00844ba0 0000000a\n\n"
+        },
+        {
+            "title": "[P1 Infinite HP @optantic]",
+            "content": "[P1 Infinite HP @optantic]\n14150000 00d9710c 01010101\n541f0000 00d970fc\n740f0000 00000264\n640f0000 00000000 43a80000\n20000000\n\n"
+        },
+        {
+            "title": "[P1 Infinite MP @optantic]",
+            "content": "[P1 Infinite MP @optantic]\n14150000 00d9710c 01010101\n541f0000 00d970fc\n740f0000 00001f70\n640f0000 00000000 424a0000\n20000000\n\n"
+        },
+        {
+            "title": "[P1 Invincible Flashing @optantic]",
+            "content": "[P1 Invincible Flashing @optantic]\n14150000 00d9710c 01010101\n541f0000 00d970fc\n740f0000 0000299b\n610f0000 00000000 00000040\n20000000\n\n"
+        },
+        {
+            "title": "[P2 Infinite HP @optantic]",
+            "content": "[P2 Infinite HP @optantic]\n14150000 00d9710c 01010101\n541f0000 00d97100\n740f0000 00000264\n640f0000 00000000 43a80000\n20000000\n\n"
+        },
+        {
+            "title": "[P2 Infinite MP @optantic]",
+            "content": "[P2 Infinite MP @optantic]\n14150000 00d9710c 01010101\n541f0000 00d97100\n740f0000 00001f70\n640f0000 00000000 424a0000\n20000000\n\n"
+        },
+        {
+            "title": "[P2 Invincible Flashing @optantic]",
+            "content": "[P2 Invincible Flashing @optantic]\n14150000 00d9710c 01010101\n541f0000 00d97100\n740f0000 0000299b\n610f0000 00000000 00000040\n20000000\n\n"
+        },
+        {
+            "title": "[P2 Infinite Lives @optantic]",
+            "content": "[P2 Infinite Lives @optantic]\n04000000 00844ba4 0000000a\n\n"
+        },
+        {
+            "title": "[99999 GP Save1 @optantic]",
+            "content": "[99999 GP Save1 @optantic]\n04100000 00481cf8 0001869f\n\n"
+        },
+        {
+            "title": "[999 Mythril Save1]",
+            "content": "[999 Mythril Save1]\n04100000 00481d04 000003e7\n\n"
+        },
+        {
+            "title": "[99999 GP Save2 @optantic]",
+            "content": "[99999 GP Save2 @optantic]\n04100000 00482048 0001869f\n\n"
+        },
+        {
+            "title": "[999 Mythril Save2 @optantic]",
+            "content": "[999 Mythril Save2 @optantic]\n04100000 00482054 000003e7\n\n"
+        },
+        {
+            "title": "[1p speed move attack 3x @xtatu]",
+            "content": "[1p speed move attack 3x @xtatu]\n04000000 000E19A4 EEF00A08\n\n"
+        },
+        {
+            "title": "[1p speed move attack 2x @xtatu]",
+            "content": "[1p speed move attack 2x @xtatu]\n04000000 000E19A4 EEF00A00\n\n"
+        },
+        {
+            "title": "[1p speed move attack normal @xtatu]",
+            "content": "[1p speed move attack normal @xtatu]\n04000000 000E19A4 EEF70A00\n\n"
+        },
+        {
+            "title": "[Double Dragon Neon v0 by Eiffel]",
+            "content": "[Double Dragon Neon v0 by Eiffel]\n\n"
+        },
+        {
+            "title": "[1) P1 max lives]",
+            "content": "[1) P1 max lives]\n040E0000 00844BA0 0000000A\n\n"
+        },
+        {
+            "title": "[2) P2 max lives]",
+            "content": "[2) P2 max lives]\n040E0000 00844BA4 0000000A\n\n"
+        },
+        {
+            "title": "[3) Max money - on]",
+            "content": "[3) Max money - on]\n040E0000 001650F8 E320F000\n"
+        },
+        {
+            "title": "[3) Max monry - off]",
+            "content": "[3) Max monry - off]\n040E0000 001650F8 31A02001\n\n"
+        },
+        {
+            "title": "[4) Money not reduce - on]",
+            "content": "[4) Money not reduce - on]\n040E0000 00165144 E1A01002\n"
+        },
+        {
+            "title": "[4) Monry not reduce - off]",
+            "content": "[4) Monry not reduce - off]\n040E0000 00165144 E0421001\n\n"
+        },
+        {
+            "title": "[5) Max Diamond - on]",
+            "content": "[5) Max Diamond - on]\n040E0000 00165228 E320F000\n"
+        },
+        {
+            "title": "[5) Max Diamond - off]",
+            "content": "[5) Max Diamond - off]\n040E0000 00165228 31A02001\n\n"
+        },
+        {
+            "title": "[6) Diamond not reduce - on]",
+            "content": "[6) Diamond not reduce - on]\n040E0000 00165278 E1A01002\n"
+        },
+        {
+            "title": "[6) Diamond not reduce - off]",
+            "content": "[6) Diamond not reduce - off]\n040E0000 00165278 E0421001\n\n"
+        },
+        {
+            "title": "[7) Max Stances - on]",
+            "content": "[7) Max Stances - on]\n040E0000 001655A4 E3A01032\n040E0000 001656A0 E3A01032\n"
+        },
+        {
+            "title": "[7) Max Stances - off]",
+            "content": "[7) Max Stances - off]\n040E0000 001655A4 E2821001\n040E0000 001656A0 E2821001\n\n"
+        },
+        {
+            "title": "[8) Max Sosetsitsu - on]",
+            "content": "[8) Max Sosetsitsu - on]\n040E0000 00165388 E3A01032\n040E0000 001654A8 E3A00032\n"
+        },
+        {
+            "title": "[8) Max Sosetsitsu - off]",
+            "content": "[8) Max Sosetsitsu - off]\n040E0000 00165388 E2811001\n040E0000 001654A8 E0800002\n\n"
+        },
+        {
+            "title": "[1p speed move attack 3x @xtatu]",
+            "content": "[1p speed move attack 3x @xtatu]\n04000000 000E19A4 EEF00A08\n\n"
+        },
+        {
+            "title": "[1p speed move attack 2x @xtatu]",
+            "content": "[1p speed move attack 2x @xtatu]\n04000000 000E19A4 EEF00A00\n\n"
+        },
+        {
+            "title": "[1p speed move attack normal @xtatu]",
+            "content": "[1p speed move attack normal @xtatu]\n04000000 000E19A4 EEF70A00\n\n"
+        },
+        {
+            "title": "[1p speed move attack 3x @xtatu]",
+            "content": "[1p speed move attack 3x @xtatu]\n04000000 000E19A4 EEF00A08\n\n"
+        },
+        {
+            "title": "[1p speed move attack 2x @xtatu]",
+            "content": "[1p speed move attack 2x @xtatu]\n04000000 000E19A4 EEF00A00\n\n"
+        },
+        {
+            "title": "[1p speed move attack normal @xtatu]",
+            "content": "[1p speed move attack normal @xtatu]\n04000000 000E19A4 EEF70A00\n\n"
+        },
+        {
+            "title": "[hit range normal off @xtatu]",
+            "content": "[hit range normal off @xtatu]\n04000000 004191F0 EEF65A00\n\n"
+        },
+        {
+            "title": "[hit range 31x @xtatu]",
+            "content": "[hit range 31x @xtatu]\n04000000 004191F0 EEF35A0F\n"
+        }
+    ]
+}

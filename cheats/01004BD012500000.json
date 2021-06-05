@@ -1,0 +1,20 @@
+{
+    "52B74C9F694CC45F": [
+        {
+            "title": "[Money Max]",
+            "content": "[Money Max]\n580F0000 00A52F60\n780F1000 00004BE0\n640F0000 00000000 0098967F\n\n"
+        },
+        {
+            "title": "[Status Max]",
+            "content": "[Status Max]\n580F0000 00A48CE8\n780F0000 000040DC\n680F0000 03E703E7 03E703E7\n780F0000 00000008\n640F0000 00000000 03E703E7\n\n"
+        },
+        {
+            "title": "[Popular Max]",
+            "content": "[Popular Max]\n580F0000 00A48CE8\n780F0000 000040F4\n640F0000 00000000 00000064\n\n"
+        },
+        {
+            "title": "[Grade Max]",
+            "content": "[Grade Max]\n580F0000 00A48CE8\n780F0000 0000424C\n640F0000 00000000 00050000\n"
+        }
+    ]
+}

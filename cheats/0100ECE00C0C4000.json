@@ -1,0 +1,88 @@
+{
+    "33C2F7FB7B9CDC48": [
+        {
+            "title": "[invincible]",
+            "content": "[invincible]\n04000000 00134B48 D503201F\n\n"
+        },
+        {
+            "title": "[skill pt do not decrease]",
+            "content": "[skill pt do not decrease]\n04000000 002DA95C 2A1F03E0\n\n"
+        },
+        {
+            "title": "[grenade and skill inf]",
+            "content": "[grenade and skill inf]\n04000000 0027477C 51000108\n\n"
+        },
+        {
+            "title": "[grenade no cooldown]",
+            "content": "[grenade no cooldown]\n04000000 02A80700 1E2703E9\n04000000 02A80704 BD010669\n04000000 02A80708 BD410669\n04000000 02A8070C D65F03C0\n04000000 002927E4 949FB7C7\n\n"
+        },
+        {
+            "title": "[ammo no reload]",
+            "content": "[ammo no reload]\n04000000 005C720C 51000108\n04000000 003850D4 1E204108\n\n"
+        },
+        {
+            "title": "[skill upgrade limit off]",
+            "content": "[skill upgrade limit off]\n04000000 0045AD9C 2A1F03E1\n\n"
+        },
+        {
+            "title": "[ink incl gold x4]",
+            "content": "[ink incl gold x4]\n04000000 02A80710 52800083\n04000000 02A80714 1B037C21\n04000000 02A80718 2A0203F5\n04000000 02A8071C D65F03C0\n04000000 00147258 94A4E52E\n\n"
+        },
+        {
+            "title": "[ink incl gold x8]",
+            "content": "[ink incl gold x8]\n04000000 02A80710 52800103\n04000000 02A80714 1B037C21\n04000000 02A80718 2A0203F5\n04000000 02A8071C D65F03C0\n04000000 00147258 94A4E52E\n\n"
+        },
+        {
+            "title": "[ink incl gold x16]",
+            "content": "[ink incl gold x16]\n04000000 02A80710 52800203\n04000000 02A80714 1B037C21\n04000000 02A80718 2A0203F5\n04000000 02A8071C D65F03C0\n04000000 00147258 94A4E52E\n\n"
+        },
+        {
+            "title": "[ink incl gold multiplier reset]",
+            "content": "[ink incl gold multiplier reset]\n04000000 00147258 2A0203F5\n"
+        }
+    ],
+    "265D097CCE8D8A49": [
+        {
+            "title": "[Invulnerable]",
+            "content": "[Invulnerable]\n04000000 00167BC0 D503201F\n\n"
+        },
+        {
+            "title": "[Free Upgrades]",
+            "content": "[Free Upgrades]\n04000000 00201FF4 52800000\n\n"
+        },
+        {
+            "title": "[Remove Upgrade Level Restriction]",
+            "content": "[Remove Upgrade Level Restriction]\n04000000 0046B3AC 52800001\n\n"
+        },
+        {
+            "title": "[No Reload]",
+            "content": "[No Reload]\n04000000 001DAE7C D503201F\n04000000 00395374 D503201F\n\n"
+        },
+        {
+            "title": "[Inf Superpower]",
+            "content": "[Inf Superpower]\n04000000 002F073C D503201F\n\n"
+        },
+        {
+            "title": "[9999x Ink Black]",
+            "content": "[9999x Ink Black]\n04000000 001EC458 5284E1F3\n\n"
+        },
+        {
+            "title": "[9999x Ink Gold by collect]",
+            "content": "[9999x Ink Gold by collect]\n04000000 0017A08C 5284E1E8"
+        }
+    ],
+    "069084599B9FE640": [
+        {
+            "title": "[Invulnerable]",
+            "content": "[Invulnerable]\n04000000 00165814 D503201F\n\n"
+        },
+        {
+            "title": "[Free Upgrades]",
+            "content": "[Free Upgrades]\n04000000 001FD1D4 52800000\n\n"
+        },
+        {
+            "title": "[Remove Upgrade Level Restriction]",
+            "content": "[Remove Upgrade Level Restriction]\n04000000 0045D0AC 52800001"
+        }
+    ]
+}

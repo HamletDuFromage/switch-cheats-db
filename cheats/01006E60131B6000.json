@@ -1,0 +1,132 @@
+{
+    "305A12DD6B139A0A": [
+        {
+            "title": "[01# inf Health]",
+            "content": "[01# inf Health]\n04000000 03498044 2A1503E8\n"
+        },
+        {
+            "title": "[01# inf Health (off)]",
+            "content": "[01# inf Health (off)]\n04000000 03498044 1A95C108\n[]\n"
+        },
+        {
+            "title": "[02# Inf Stamina]",
+            "content": "[02# Inf Stamina]\n04000000 034A0C28 D503201F\n"
+        },
+        {
+            "title": "[02# Inf Stamina (off)]",
+            "content": "[02# Inf Stamina (off)]\n04000000 034A0C28 BD01EAA8\n[]\n"
+        },
+        {
+            "title": "[03# Items not reduce]",
+            "content": "[03# Items not reduce]\n04070000 02E60000 D65F03C0\n"
+        },
+        {
+            "title": "[03# Items not reduce (off)]",
+            "content": "[03# Items not reduce (off)]\n04070000 02E60000 D102C3FF\n[]\n"
+        },
+        {
+            "title": "[04# moonjump]",
+            "content": "[04# moonjump]\n80000002\n580F0000 098118D0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n780F0000 00000158\n640F0000 00000000 44000000\n20000000\n[]\n"
+        },
+        {
+            "title": "[05# Character movement Speed Up X2.5 (Y)]",
+            "content": "[05# Character movement Speed Up X2.5 (Y)]\n580F0000 098118D0\n580F1000 00000000\n580F1000 00000188\n780F0000 00000010\n640F0000 00000000 3F800000\n80000008\n640F0000 00000000 40200000\n20000000\n[]\n"
+        },
+        {
+            "title": "[06# Speed Down for arrow X0.5 (ZL+R)]",
+            "content": "[06# Speed Down for arrow X0.5 (ZL+R)]\n580F0000 098118D0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n580F1000 00000050\n780F0000 00000020\n640F0000 00000000 3F800000\n80000180\n640F0000 00000000 3F000000\n20000000\n\n"
+        },
+        {
+            "title": "[1p hit range 31x]",
+            "content": "[1p hit range 31x]\n04000000 047515A8 1E27F000\n\n"
+        },
+        {
+            "title": "[1p hit range normal]",
+            "content": "[1p hit range normal]\n04000000 0047515A8 1E2E1000\n\n"
+        },
+        {
+            "title": "[1p damager attack 31x]",
+            "content": "[1p damager attack 31x]\n04000000 02D45A0C 1E27F000\n\n"
+        },
+        {
+            "title": "[1p damager attack normal]",
+            "content": "[1p damager attack normal]\n04000000 02D45A0C 1E2E1000\n\n"
+        }
+    ],
+    "CADE195FE9F14B2A": [
+        {
+            "title": "[01# inf Health]",
+            "content": "[01# inf Health]\n04000000 03495204 2A1503E8\n"
+        },
+        {
+            "title": "[01# inf Health (off)]",
+            "content": "[01# inf Health (off)]\n04000000 03495204 1A95C108\n[]\n"
+        },
+        {
+            "title": "[02# Inf Stamina]",
+            "content": "[02# Inf Stamina]\n04000000 0349DDE8 D503201F\n"
+        },
+        {
+            "title": "[02# Inf Stamina (off)]",
+            "content": "[02# Inf Stamina (off)]\n04000000 0349DDE8 BD01EAA8\n[]\n"
+        },
+        {
+            "title": "[03# Items not reduce]",
+            "content": "[03# Items not reduce]\n04070000 02E5D1C0 D65F03C0\n"
+        },
+        {
+            "title": "[03# Items not reduce (off)]",
+            "content": "[03# Items not reduce (off)]\n04070000 02E5D1C0 D102C3FF\n[]\n"
+        },
+        {
+            "title": "[04# moonjump]",
+            "content": "[04# moonjump]\n80000002\n580F0000 0980C8D0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n780F0000 00000158\n640F0000 00000000 44000000\n20000000\n[]\n"
+        },
+        {
+            "title": "[05# Character movement Speed Up X2.5 (Y)]",
+            "content": "[05# Character movement Speed Up X2.5 (Y)]\n580F0000 0980C8D0\n580F1000 00000000\n580F1000 00000188\n780F0000 00000010\n640F0000 00000000 3F800000\n80000008\n640F0000 00000000 40200000\n20000000\n[]\n"
+        },
+        {
+            "title": "[06# Speed Down for arrow X0.5 (ZL+R)]",
+            "content": "[06# Speed Down for arrow X0.5 (ZL+R)]\n580F0000 0980C8D0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n580F1000 00000050\n780F0000 00000020\n640F0000 00000000 3F800000\n80000180\n640F0000 00000000 3F000000\n20000000\n\n"
+        }
+    ],
+    "89B1333EAC986EDA": [
+        {
+            "title": "[01# inf Health]",
+            "content": "[01# inf Health]\n04000000 02FD3AF4 2A1503E8\n"
+        },
+        {
+            "title": "[01# inf Health (off)]",
+            "content": "[01# inf Health (off)]\n04000000 02FD3AF4 1A95C108\n[]\n"
+        },
+        {
+            "title": "[02# Inf Stamina]",
+            "content": "[02# Inf Stamina]\n04000000 02FDC258 D503201F\n"
+        },
+        {
+            "title": "[02# Inf Stamina (off)]",
+            "content": "[02# Inf Stamina (off)]\n04000000 02FDC258 BD01DAA8\n[]\n"
+        },
+        {
+            "title": "[03# Items not reduce]",
+            "content": "[03# Items not reduce]\n04070000 03596B10 D65F03C0\n"
+        },
+        {
+            "title": "[03# Items not reduce (off)]",
+            "content": "[03# Items not reduce (off)]\n04070000 03596B10 D102C3FF\n[]\n"
+        },
+        {
+            "title": "[04# moonjump]",
+            "content": "[04# moonjump]\n80000002\n580F0000 0978B1A0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000018\n780F0000 00000158\n640F0000 00000000 44000000\n20000000\n[]\n"
+        },
+        {
+            "title": "[05# Character movement Speed Up X2.5 (Y)]",
+            "content": "[05# Character movement Speed Up X2.5 (Y)]\n580F0000 0978B1A0\n580F1000 00000000\n580F1000 00000188\n780F0000 00000010\n640F0000 00000000 3F800000\n80000008\n640F0000 00000000 40200000\n20000000\n[]\n"
+        },
+        {
+            "title": "[06# Speed Down for arrow X0.5 (ZL+R)]",
+            "content": "[06# Speed Down for arrow X0.5 (ZL+R)]\n580F0000 0978B1A0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n580F1000 00000050\n780F0000 00000020\n640F0000 00000000 3F800000\n80000180\n640F0000 00000000 3F000000\n20000000\n\n"
+        }
+    ]
+}

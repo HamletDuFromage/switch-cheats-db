@@ -1,0 +1,24 @@
+{
+    "82FFF40B9CEA383D": [
+        {
+            "title": "[Time Stop (Time 0 = ZL)]",
+            "content": "[Time Stop (Time 0 = ZL)]\n041F0000 01817860 0A090900\n80000100\n041F0000 01817860 00000000\n20000000\n\n"
+        },
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000001\n011F0000 01817108 000000FC\n20000000\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n011F0000 01817807 00000020\n\n"
+        },
+        {
+            "title": "[Inf Star Power]",
+            "content": "[Inf Star Power]\n011F0000 01817808 00000020\n\n"
+        },
+        {
+            "title": "[Inf Fire Mario (Small = ZR)]",
+            "content": "[Inf Fire Mario (Small = ZR)]\n011F0000 018177BD 00000000\n011F0000 018177BF 00000002\n80000200\n011F0000 018177BD 00000010\n20000000"
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "16A91992BBA71201": [
+        {
+            "title": "[From MAX-CHEATS.com by Game_Over for The Legend of Zelda: Breath of the Wild]",
+            "content": "[From MAX-CHEATS.com by Game_Over for The Legend of Zelda: Breath of the Wild]\n\n"
+        },
+        {
+            "title": "[Max - Infinite Health]",
+            "content": "[Max - Infinite Health]\n580F0000 025ce340\n780F0000 000020b0\n640F0000 00000000 00000078\n780F0000 00000bb0\n640F0000 00000000 00000078\n580F0000 025D04E8\n780F0000 00082C88\n640F0000 00000000 42f00000\n\n"
+        },
+        {
+            "title": "[Max - Infinite Stamina]",
+            "content": "[Max - Infinite Stamina]\n580F0000 025d04e8\n780F0000 00082c8c\n640F0000 00000000 453b8000\n780F0000 00000004\n640F0000 00000000 453b8000\n\n"
+        },
+        {
+            "title": "[Infinite Rupies]",
+            "content": "[Infinite Rupies]\n580F0000 02601c20\n780F0000 00ebb130\n640F0000 00000000 000F423F\n\n"
+        },
+        {
+            "title": "[Infinite Special Powers]",
+            "content": "[Infinite Special Powers]\n580F0000 025ce340\n780F0000 00003530\n640F0000 00000000 00000006\n780F0000 00000004\n640F0000 00000000 00000006\n780F0000 00000004\n640F0000 00000000 00000006\n580F0000 025ce340\n780F0000 000040e0\n640F0000 00000000 00000006\n780F0000 00000004\n640F0000 00000000 00000006\n780F0000 00000004\n640F0000 00000000 00000006\n\n"
+        },
+        {
+            "title": "[Arrows x999]",
+            "content": "[Arrows x999]\n580F0000 025ce340\n780F0000 00b62428\n640F0000 00000000 000003e7\n780F0000 00000298\n640F0000 00000000 000003e7\n780F0000 00000298\n640F0000 00000000 000003e7\n780F0000 00000298\n640F0000 00000000 000003e7\n780F0000 00000298\n640F0000 00000000 000003e7\n780F0000 00000298\n640F0000 00000000 000003e7"
+        }
+    ],
+    "8E9978D50BDD20B4": [
+        {
+            "title": "[Infinite Health]",
+            "content": "[Infinite Health]\n580f0000 02ca1a78\n580f1000 00000080\n780f0000 00000848\n610f0000 00000000 00000078\n\n"
+        },
+        {
+            "title": "[Max Hearts]",
+            "content": "[Max Hearts]\n580f0000 02c9fd70\n580f1000 00000038\n780f0000 000002a8\n640f0000 00000000 42f00000\n\n"
+        },
+        {
+            "title": "[Infinite Stamina]",
+            "content": "[Infinite Stamina]\n580f0000 02c9fd70\n580f1000 00000038\n780f0000 000002ac\n680f0000 453b8000 453b8000\n\n"
+        },
+        {
+            "title": "[Infinite Powers]",
+            "content": "[Infinite Powers]\n580f0000 02ca1a78\n580f1000 00000080\n780f0000 00001CC8\n610f0000 00000000 00000063\n780f0000 00000004\n610f0000 00000000 00000063\n780f0000 00000004\n610f0000 00000000 00000063\n\n"
+        },
+        {
+            "title": "[Current Arrow 999 Enter Equipment Menu to Refill]",
+            "content": "[Current Arrow 999 Enter Equipment Menu to Refill]\n580f0000 02ca6d48\n580f1000 000447e8\n780f0000 00000020\n620f0000 00000000 000003e7\n\n"
+        },
+        {
+            "title": "[999999 Rupee]",
+            "content": "[999999 Rupee]\n580f0000 02cc5fe0\n580f1000 00000e40\n580f1000 00005b08\n780f0000 00005d90\n640f0000 00000000 000f423f\n\n"
+        },
+        {
+            "title": "[L+R+A To Recharge Master Sword]",
+            "content": "[L+R+A To Recharge Master Sword]\n800000C1\n580F0000 02C99E18\n780F0000 0000ABE4\n640F0000 00000000 41E00000\n20000000\n\n"
+        },
+        {
+            "title": "[other]",
+            "content": "[other]\n14150000 a8ec7ee0 bf800000\n041f0000 a8ec7ee0 3f800000\n20000000\n800000c2\n14150000 a8ec7ee0 3f800000\n041f0000 a8ec7ee0 bf800000\n20000000\n20000000\n\n"
+        },
+        {
+            "title": "[Moonjump R+B]",
+            "content": "[Moonjump R+B]\n580F0000 02d1ea00\n580F1000 00000198\n580F1000 00002d18\n780F0000 00000130\n640f0000 00000000 3f800000\n80000082\n640f0000 00000000 bf800000\n20000000\n\n"
+        },
+        {
+            "title": "[moony temp m]",
+            "content": "[moony temp m]\n04100000 A8E6A730 3F800000\n80000004\n04100000 A8E6A730 BF800000\n20000000\n\n"
+        },
+        {
+            "title": "[moony temp ma]",
+            "content": "[moony temp ma]\n04100000 A8EB8070 3F800000\n80000004\n04100000 A8EB8070 BF800000\n20000000\n\n"
+        },
+        {
+            "title": "[Speed x4]",
+            "content": "[Speed x4]\n580F0000 02d1ea00\n580F1000 00000198\n580F1000 00002d18\n780F0000 0000011c\n640f0000 00000000 40800000\n"
+        },
+        {
+            "title": "[Speed x1]",
+            "content": "[Speed x1]\n580F0000 02d1ea00\n580F1000 00000198\n580F1000 00002d18\n780F0000 0000011c\n640f0000 00000000 3f800000\n\n"
+        },
+        {
+            "title": "[Moonjump B]",
+            "content": "[Moonjump B]\n580F0000 02d1ea00\n580F1000 00000198\n580F1000 00002d18\n780F0000 00000130\n640f0000 00000000 3f800000\n80000002\n640f0000 00000000 bf800000\n20000000\n\n\n"
+        },
+        {
+            "title": "[01#Moonjump B]",
+            "content": "[01#Moonjump B]\n580F0000 02d1ea00\n580F1000 00000198\n580F1000 00002d18\n780F0000 00000130\n640f0000 00000000 3f800000\n80000002\n640f0000 00000000 bf800000\n20000000\n\n"
+        },
+        {
+            "title": "[02#Moonjump B]",
+            "content": "[02#Moonjump B]\n580F0000 02c99e10\n580F1000 00008f40\n580F1000 00002d18\n780F0000 00000130\n640f0000 00000000 3f800000\n80000002\n640f0000 00000000 bf800000\n20000000\n\n"
+        },
+        {
+            "title": "[moon temp m1 outside and In shrine]",
+            "content": "[moon temp m1 outside and In shrine]\n04100000 a8d990e8 3F800000\n80000004\n04100000 a8d990e8 BF800000\n20000000\n\n"
+        },
+        {
+            "title": "[Unlimited Amiibo Usage (on)]",
+            "content": "[Unlimited Amiibo Usage (on)]\n04000000 00B596D0 52800000\n04000000 00B596D4 D65F03C0\n"
+        },
+        {
+            "title": "[Unlimited Amiibo Usage (off)]",
+            "content": "[Unlimited Amiibo Usage (off)]\n04000000 00B596D0 D10403FF\n04000000 00B596D4 A90A6FFC\n\n"
+        },
+        {
+            "title": "[Current Weapon damage plus 1000 ]",
+            "content": "[Current Weapon damage plus 1000 ]\n580f0000 02ca6d48\n580f1000 000447d8\n780f0000 00000080\n640f0000 00000000 000003e7\n780f0000 00000008\n640f0000 00000000 80000001\n\n"
+        },
+        {
+            "title": "[Max Item (highlight item and close inventory and reopen)]",
+            "content": "[Max Item (highlight item and close inventory and reopen)]\n580F0000 02CA6D48\n580f1000 00000068\n580f1000 00000588\n780f0000 00000020\n640f0000 00000000 000003E7\n780f0000 00000298\n\n"
+        },
+        {
+            "title": "[Current Shield to Ancient]",
+            "content": "[Current Shield to Ancient]\n580f0000 02ca6d48\n580f1000 000447f0\n780f0000 00000048\n640f0000 00000000 33305F64\n780f0000 00000004\n640f0000 00000000 00000038\n\n"
+        },
+        {
+            "title": "[Current Bow to Bow of Light]",
+            "content": "[Current Bow to Bow of Light]\n580f0000 02ca6d48\n580f1000 000447e0\n780f0000 00000048\n640f0000 00000000 00003137\n\n"
+        },
+        {
+            "title": "[BEST Moonjump Hold X No need to reactivate]",
+            "content": "[BEST Moonjump Hold X No need to reactivate]\n580F0000 02CC5DE8\n580F1000 00000030\n580F1000 00000010\n580F1000 00000008\n580F1000 00000010\n780F0000 00000110\n640f0000 00000000 3f800000\n80000004\n640f0000 00000000 bf800000\n20000000\n\n"
+        },
+        {
+            "title": "[Speed x4 Hold B (Only When Running) No need to reactivate]",
+            "content": "[Speed x4 Hold B (Only When Running) No need to reactivate]\n580F0000 02CC5DE8\n580F1000 00000030\n580F1000 00000010\n580F1000 00000008\n580F1000 00000010\n780F0000 000000fc\n640f0000 00000000 3f800000\n80000002\n640f0000 00000000 40800000\n20000000\n\n"
+        },
+        {
+            "title": "[Speed x2 Hold B (Only When Running) No need to reactivate]",
+            "content": "[Speed x2 Hold B (Only When Running) No need to reactivate]\n580F0000 02CC5DE8\n580F1000 00000030\n580F1000 00000010\n580F1000 00000008\n580F1000 00000010\n780F0000 000000fc\n640f0000 00000000 3f800000\n80000002\n640f0000 00000000 40000000\n20000000\n\n"
+        },
+        {
+            "title": "[Current Shield to Hylian Shield]",
+            "content": "[Current Shield to Hylian Shield]\n580f0000 02ca6d48\n580f1000 000447f0\n780f0000 00000048\n640f0000 00000000 33305F64\n780f0000 00000004\n640f0000 00000000 00000030\n\n"
+        },
+        {
+            "title": "[Current Shield to Gold Rupee]",
+            "content": "[Current Shield to Gold Rupee]\n580f0000 02ca6d48\n580f1000 000447f0\n780f0000 0000003C\n640f0000 00000000 52747550\n780f0000 00000004\n640f0000 00000000 65657075\n780f0000 00000004\n640f0000 00000000 6c6f475f\n780f0000 00000004\n640f0000 00000000 00000064\n\n"
+        },
+        {
+            "title": "[Current Shield to Enemy_Guardian_A]",
+            "content": "[Current Shield to Enemy_Guardian_A]\n580f0000 02ca6d48\n580f1000 000447f0\n780f0000 0000003C\n640f0000 00000000 6D656E45\n780f0000 00000004\n640f0000 00000000 75475F79\n780f0000 00000004\n640f0000 00000000 69647261\n780f0000 00000004\n640f0000 00000000 415F6E61\n780f0000 00000004\n640f0000 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Current Shield to GameRomHorseBone_AllDay Stalhorse]",
+            "content": "[Current Shield to GameRomHorseBone_AllDay Stalhorse]\n580f0000 02ca6d48\n580f1000 000447f0\n780f0000 0000003C\n640f0000 00000000 656D6147\n780f0000 00000004\n640f0000 00000000 486D6F52\n780f0000 00000004\n640f0000 00000000 6573726F\n780f0000 00000004\n640f0000 00000000 656E6F42\n780f0000 00000004\n640f0000 00000000 6C6C415F\n780f0000 00000004\n640f0000 00000000 00796144\n\n"
+        },
+        {
+            "title": "[Any Materials x300 (highlight item and close inventory and reopen) ]",
+            "content": "[Any Materials x300 (highlight item and close inventory and reopen) ]\n580F0000 02CA6D48\n580f1000 00000068\n580f1000 00000588\n780f0000 00000020\n640f0000 00000000 0000012C\n780f0000 00000298\n\n"
+        },
+        {
+            "title": "[Current Arrow Number x300 (highlight item and close inventory and reopen)]",
+            "content": "[Current Arrow Number x300 (highlight item and close inventory and reopen)]\n580f0000 02ca6d48\n580f1000 000447e8\n780f0000 00000020\n620f0000 00000000 0000012c\n\n\n\n\n\n\n\n\n"
+        }
+    ]
+}

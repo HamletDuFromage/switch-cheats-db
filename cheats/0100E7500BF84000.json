@@ -1,0 +1,40 @@
+{
+    "EC34FB71507C2B42": [
+        {
+            "title": "[Inf Health DOT]",
+            "content": "[Inf Health DOT]\n04000000 00478318 D503201F\n\n"
+        },
+        {
+            "title": "[Inf Health in Battle - Hold ZR to get injured]",
+            "content": "[Inf Health in Battle - Hold ZR to get injured]\n04000000 00555900 D65F03C0\n80000200\n04000000 00555900 FC1E0FE8\n20000000\n\n"
+        },
+        {
+            "title": "[Money]",
+            "content": "[Money]\n04000000 003D0798 0098967F\n04000000 003D0790 18000040\n\n"
+        },
+        {
+            "title": "[exp x2]",
+            "content": "[exp x2]\n04000000 00543A6C 0B010535\n\n"
+        },
+        {
+            "title": "[exp x4]",
+            "content": "[exp x4]\n04000000 00543A6C 0B010935\n\n"
+        },
+        {
+            "title": "[exp x8]",
+            "content": "[exp x8]\n04000000 00543A6C 0B010D35\n\n"
+        },
+        {
+            "title": "[exp x16]",
+            "content": "[exp x16]\n04000000 00543A6C 0B011D35\n\n"
+        },
+        {
+            "title": "[exp x64]",
+            "content": "[exp x64]\n04000000 00543A6C 0B011135\n\n"
+        },
+        {
+            "title": "[exp max]",
+            "content": "[exp max]\n04000000 00543A6C 0B017D35"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "5783A91C341B29E4": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for GUNBIRD for Nintendo Switch]",
+            "content": "[From MAX-CHEATS.com by optantic for GUNBIRD for Nintendo Switch]\n\n"
+        },
+        {
+            "title": "[P1 Infinite Lives]",
+            "content": "[P1 Infinite Lives]\n01000000 012e0098 00000009\n\n"
+        },
+        {
+            "title": "[P1 Infinite Bombs]",
+            "content": "[P1 Infinite Bombs]\n01000000 012e009c 00000009\n\n"
+        },
+        {
+            "title": "[P1 Max Power]",
+            "content": "[P1 Max Power]\n01000000 012e009a 00000003\n\n"
+        },
+        {
+            "title": "[P2 Infinite Lives]",
+            "content": "[P2 Infinite Lives]\n01000000 012e0118 00000009\n\n"
+        },
+        {
+            "title": "[P2 Infinite Bombs]",
+            "content": "[P2 Infinite Bombs]\n01000000 012e011c 00000009\n\n"
+        },
+        {
+            "title": "[P2 Max Power]",
+            "content": "[P2 Max Power]\n01000000 012e011e 00000003"
+        }
+    ],
+    "C6A4443809D9FA0A": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for GUNBIRD for Nintendo Switch 1.0.3]",
+            "content": "[From MAX-CHEATS.com by optantic for GUNBIRD for Nintendo Switch 1.0.3]\n\n"
+        },
+        {
+            "title": "[P1 Infinite Lives]",
+            "content": "[P1 Infinite Lives]\n01000000 012e808c 00000009\n\n"
+        },
+        {
+            "title": "[P1 Infinite Bombs]",
+            "content": "[P1 Infinite Bombs]\n01000000 012e8090 00000009\n\n"
+        },
+        {
+            "title": "[P1 Max Power]",
+            "content": "[P1 Max Power]\n01000000 012e8092 00000003\n\n"
+        },
+        {
+            "title": "[P2 Infinite Lives]",
+            "content": "[P2 Infinite Lives]\n01000000 012e810c 00000009\n\n"
+        },
+        {
+            "title": "[P2 Infinite Bombs]",
+            "content": "[P2 Infinite Bombs]\n01000000 012e8110 00000009\n\n"
+        },
+        {
+            "title": "[P2 Max Power]",
+            "content": "[P2 Max Power]\n01000000 012e8112 00000003"
+        }
+    ]
+}

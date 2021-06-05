@@ -1,0 +1,28 @@
+{
+    "78C93F31319080E0": [
+        {
+            "title": "[Inf Lives]",
+            "content": "[Inf Lives]\n011F0000 018AFBE5 00000099\n\n"
+        },
+        {
+            "title": "[Invincible (OFF:Hold R)]",
+            "content": "[Invincible (OFF:Hold R)]\n011F0000 018AFBE2 000000FF\n80000080\n011F0000 018AFBE2 00000000\n20000000\n\n"
+        },
+        {
+            "title": "[Inf Life]",
+            "content": "[Inf Life]\n011F0000 018AFB97 00000015\n\n"
+        },
+        {
+            "title": "[Inf Time]",
+            "content": "[Inf Time]\n011F0000 018B0A85 00000060\n\n"
+        },
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n011F0000 018AFBBF 00000002\n011F0000 018AFBCB 00000004\n20000000\n\n"
+        },
+        {
+            "title": "[Inf Ammo]",
+            "content": "[Inf Ammo]\n011F0000 018AFBD0 00000099"
+        }
+    ]
+}

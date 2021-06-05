@@ -1,0 +1,42 @@
+{
+    "51B72BBA4010216E": [
+        {
+            "title": "[P1 Infinite Lives]",
+            "content": "[P1 Infinite Lives]\n01000000 0125a052 00000009\n\n"
+        },
+        {
+            "title": "[P1 Infinite Ammo]",
+            "content": "[P1 Infinite Ammo]\n02000000 01268892 0000ffff\n\n"
+        },
+        {
+            "title": "[P1 Infinite Bombs]",
+            "content": "[P1 Infinite Bombs]\n01000000 0126888c 000000ff\n\n"
+        },
+        {
+            "title": "[P2 Infinite Lives]",
+            "content": "[P2 Infinite Lives]\n01000000 0125a102 00000009\n\n"
+        },
+        {
+            "title": "[P2 Infinite Ammo]",
+            "content": "[P2 Infinite Ammo]\n02000000 012688a0 0000ffff\n\n"
+        },
+        {
+            "title": "[P2 Infinite Bombs]",
+            "content": "[P2 Infinite Bombs]\n01000000 0126889a 000000ff\n\n"
+        },
+        {
+            "title": "[hit anywhere]",
+            "content": "[hit anywhere]\n021f0000 8791AB40 00006002\n021f0000 8791AB64 00006008\n021f0000 8791AB72 00000092\n021f0000 8791A982 00006002\n021f0000 8791A9A8 00006002\n021f0000 8793EF8E 00005988"
+        }
+    ],
+    "C8E562FA3FFF01A3": [
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n040F0000 01239D30 9AAA0007\n20000000\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n010F0000 01239D80 00000010"
+        }
+    ]
+}

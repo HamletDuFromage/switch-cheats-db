@@ -1,0 +1,54 @@
+{
+    "2AE749ED04831745": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for ULTRA STREET FIGHTER II The Final Challengers 1.0.0]",
+            "content": "[From MAX-CHEATS.com by optantic for ULTRA STREET FIGHTER II The Final Challengers 1.0.0]\n\n"
+        },
+        {
+            "title": "[P1 Infinite HP v100]",
+            "content": "[P1 Infinite HP v100]\n580f0000 00FDD3B8\n580f1000 00000220\n580f1000 00000000\n780f0000 00000eaa\n610f0000 00000000 00000090\n\n"
+        },
+        {
+            "title": "[P1 Infinite Super]",
+            "content": "[P1 Infinite Super]\n580f0000 00FDD3B8\n580f1000 00000220\n580f1000 00000000\n780f0000 00000eb6\n610f0000 00000000 00000030\n\n"
+        },
+        {
+            "title": "[Buddy Infinite Super]",
+            "content": "[Buddy Infinite Super]\n580f0000 00FDD3B8\n580f1000 00000220\n580f1000 00000010\n780f0000 00000eb6\n610f0000 00000000 00000030\n\n"
+        },
+        {
+            "title": "[Buddy Infinite HP]",
+            "content": "[Buddy Infinite HP]\n580f0000 00FDD3B8\n580f1000 00000220\n580f1000 00000010\n780f0000 00000eaa\n610f0000 00000000 000000f0\n\n"
+        },
+        {
+            "title": "[ZL P1 Teleport]",
+            "content": "[ZL P1 Teleport]\n80000100\n580f0000 00FDD3B8\n580f1000 00000220\n580f1000 00000000\n780f0000 00000ecf\n610f0000 00000000 00000001\n20000000"
+        }
+    ],
+    "8726F5E816B001B2": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for ULTRA STREET FIGHTER II The Final Challengers 1.1.1]",
+            "content": "[From MAX-CHEATS.com by optantic for ULTRA STREET FIGHTER II The Final Challengers 1.1.1]\n\n"
+        },
+        {
+            "title": "[P1 Infinite HP]",
+            "content": "[P1 Infinite HP]\n580f0000 01262678\n580f1000 00000220\n580f1000 00000000\n780f0000 00000eaa\n610f0000 00000000 00000090\n\n"
+        },
+        {
+            "title": "[P1 Infinite Super]",
+            "content": "[P1 Infinite Super]\n580f0000 01262678\n580f1000 00000220\n580f1000 00000000\n780f0000 00000eb6\n610f0000 00000000 00000030\n\n"
+        },
+        {
+            "title": "[Buddy Infinite Super]",
+            "content": "[Buddy Infinite Super]\n580f0000 01262678\n580f1000 00000220\n580f1000 00000010\n780f0000 00000eb6\n610f0000 00000000 00000030\n\n"
+        },
+        {
+            "title": "[Buddy Infinite HP]",
+            "content": "[Buddy Infinite HP]\n580f0000 01262678\n580f1000 00000220\n580f1000 00000010\n780f0000 00000eaa\n610f0000 00000000 000000f0\n\n"
+        },
+        {
+            "title": "[ZL P1 Teleport]",
+            "content": "[ZL P1 Teleport]\n80000100\n580f0000 01262678\n580f1000 00000220\n580f1000 00000000\n780f0000 00000ecf\n610f0000 00000000 00000001\n20000000"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "BA6922F2E506D442": [
+        {
+            "title": "[Infinite Money]",
+            "content": "[Infinite Money]\n580F0000 025A5468\n580F1000 000000B8\n780F0000 00000F90\n640F0000 00000000 3B9AC9FF\n\n"
+        },
+        {
+            "title": "[Infinite Stamina]",
+            "content": "[Infinite Stamina]\n580F0000 025A5468\n580F1000 000000B8\n580F1000 00001680\n780F0000 00000020\n640F0000 00000000 000000FA\n\n"
+        },
+        {
+            "title": "[Infinite Concept Points]",
+            "content": "[Infinite Concept Points]\n580F0000 025A5468\n580F1000 000000B8\n780F0000 000013D4\n640F0000 00000000 00000063\n\n"
+        },
+        {
+            "title": "[Infinite Band Points]",
+            "content": "[Infinite Band Points]\n580F0000 025A5468\n580F1000 000000B8\n780F0000 00001180\n640F0000 00000000 00000063"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "4B73E372B81FBA06": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for ACA NEOGEO KOF 99 1.0.0]",
+            "content": "[From MAX-CHEATS.com by optantic for ACA NEOGEO KOF 99 1.0.0]\n\n"
+        },
+        {
+            "title": "[P1 Infinite HP]",
+            "content": "[P1 Infinite HP]\n01000000 012416A0 00000065\n\n"
+        },
+        {
+            "title": "[P1 Infinite Super]",
+            "content": "[P1 Infinite Super]\n01000000 01241651 00000090\n\n"
+        },
+        {
+            "title": "[P1 Infinite Strikers]",
+            "content": "[P1 Infinite Strikers]\n01000000 0124174A 00000005\n\n"
+        },
+        {
+            "title": "[P2 NO HP]",
+            "content": "[P2 NO HP]\n01000000 012418A0 00000000\n\n"
+        },
+        {
+            "title": "[P2 NO Super]",
+            "content": "[P2 NO Super]\n01000000 01241851 00000000\n\n"
+        },
+        {
+            "title": "[P2 NO Strikers]",
+            "content": "[P2 NO Strikers]\n01000000 0124194A 00000000\n\n"
+        },
+        {
+            "title": "[hitanywhere]",
+            "content": "[hitanywhere]\n04000000 008DB02588 60024E71"
+        }
+    ]
+}

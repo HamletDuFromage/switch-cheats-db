@@ -1,0 +1,34 @@
+{
+    "11433C3AFEE06E02": [
+        {
+            "title": "[Inf Time Smoker1]",
+            "content": "[Inf Time Smoker1]\n01000000 01240B77 00000060\n\n"
+        },
+        {
+            "title": "[P1 Play as Rugal Lose for Form 2 Smoker1]",
+            "content": "[P1 Play as Rugal Lose for Form 2 Smoker1]\n01000000 01240578 00000008\n\n"
+        },
+        {
+            "title": "[P1 Infinite HP Optantic]",
+            "content": "[P1 Infinite HP Optantic]\n01000000 01240568 000000CF\n\n"
+        },
+        {
+            "title": "[P1 Infinite Super Optantic]",
+            "content": "[P1 Infinite Super Optantic]\n01000000 01240560 0000007F\n\n"
+        },
+        {
+            "title": "[P2 NO HP Optantic]",
+            "content": "[P2 NO HP Optantic]\n01000000 01240768 00000000\n\n"
+        },
+        {
+            "title": "[P2 NO Super Optantic]",
+            "content": "[P2 NO Super Optantic]\n01000000 01240760 00000000"
+        }
+    ],
+    "E121A5898AF4A0D9": [
+        {
+            "title": "[hitanywhere]",
+            "content": "[hitanywhere]\n04000000 0001646B5C 4E710056\n"
+        }
+    ]
+}

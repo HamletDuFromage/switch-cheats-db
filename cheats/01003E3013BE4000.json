@@ -1,0 +1,24 @@
+{
+    "CA594D5FA57F6C2C": [
+        {
+            "title": "[1P 1HIT INVICIBLE]",
+            "content": "[1P 1HIT INVICIBLE]\n04000000 00087BF4 D65F03C0\n\n"
+        },
+        {
+            "title": "[MOOM JUMP]",
+            "content": "[MOOM JUMP]\n04000000 000944C8 1E283000\n\n"
+        },
+        {
+            "title": "[*Moon Jump 0.15 Jericoss]",
+            "content": "[*Moon Jump 0.15 Jericoss]\n80000002\n580F0000 00584EF0\n580F1000 000000E8\n580F1000 00000038\n780F0000 00000078\n640F0000 00000000 3E19999A\n20000000\n\n"
+        },
+        {
+            "title": "[*Moon Jump 0.13]",
+            "content": "[*Moon Jump 0.13]\n80000002\n580F0000 00584EF0\n580F1000 000000E8\n580F1000 00000038\n780F0000 00000078\n640F0000 00000000 3E051EB8\n20000000\n\n"
+        },
+        {
+            "title": "[*Moon Jump Normal]",
+            "content": "[*Moon Jump Normal]\n80000002\n580F0000 00584EF0\n580F1000 000000E8\n580F1000 00000038\n580F1000 000000E8\n580F1000 00000038\n780F0000 00000078\n640F0000 00000000 3DAE5282\n20000000"
+        }
+    ]
+}

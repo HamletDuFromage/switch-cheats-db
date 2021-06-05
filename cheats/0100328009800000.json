@@ -1,0 +1,24 @@
+{
+    "8A1BDE094FFFB53C": [
+        {
+            "title": "[Time Stop]",
+            "content": "[Time Stop]\n041F0000 017E60CA 00000000\n\n"
+        },
+        {
+            "title": "[No Overheat]",
+            "content": "[No Overheat]\n011F0000 017E644C 00000000\n\n"
+        },
+        {
+            "title": "[Speed Up (B)]",
+            "content": "[Speed Up (B)]\n80000002\n011F0000 017E6101 00000007\n20000000\n\n"
+        },
+        {
+            "title": "[No Fall]",
+            "content": "[No Fall]\n011F0000 017E6109 00000000\n\n"
+        },
+        {
+            "title": "[Moon Jump (ZL)]",
+            "content": "[Moon Jump (ZL)]\n80000100\n011F0000 017E63FD 00000001\n20000000\n"
+        }
+    ]
+}

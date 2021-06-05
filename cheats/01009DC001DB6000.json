@@ -1,0 +1,32 @@
+{
+    "BA81650BEC0CBD54": [
+        {
+            "title": "[Inf Time Smoker1]",
+            "content": "[Inf Time Smoker1]\n01000000 01259707 00000060\n\n"
+        },
+        {
+            "title": "[Enable Hidden Characters Smoker1]",
+            "content": "[Enable Hidden Characters Smoker1]\n01000000 0125D66B 00000001\n\n"
+        },
+        {
+            "title": "[P1 Infinite HP Optantic]",
+            "content": "[P1 Infinite HP Optantic]\n01000000 012570F0 000000CF\n\n"
+        },
+        {
+            "title": "[P1 Infinite Super Optantic]",
+            "content": "[P1 Infinite Super Optantic]\n01000000 012570E8 0000007F\n\n"
+        },
+        {
+            "title": "[P2 NO HP Optantic]",
+            "content": "[P2 NO HP Optantic]\n01000000 012572F0 00000000\n\n"
+        },
+        {
+            "title": "[P2 NO Super Optantic]",
+            "content": "[P2 NO Super Optantic]\n01000000 012572E8 00000000\n\n"
+        },
+        {
+            "title": "[hitanywhere]",
+            "content": "[hitanywhere]\n04000000 0000A366D0 2C6D4E71"
+        }
+    ]
+}

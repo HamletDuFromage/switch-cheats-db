@@ -1,0 +1,848 @@
+{
+    "33463E11899166BB": [
+        {
+            "title": "[4x Yen]",
+            "content": "[4x Yen]\n04000000 000CB34C E0821101\n04000000 00154C60 E0820100\n\n"
+        },
+        {
+            "title": "[8x Yen]",
+            "content": "[8x Yen]\n04000000 000CB34C E0821181\n04000000 00154C60 E0820180\n\n"
+        },
+        {
+            "title": "[16x Yen]",
+            "content": "[16x Yen]\n04000000 000CB34C E0821201\n04000000 00154C60 E0820200\n\n"
+        },
+        {
+            "title": "[Infinite EP in battle]",
+            "content": "[Infinite EP in battle]\n04000000 000CB034 E2411000\n\n"
+        },
+        {
+            "title": "[Infinite Items in battle]",
+            "content": "[Infinite Items in battle]\n04000000 000CB264 E2400000\n\n"
+        },
+        {
+            "title": "[Max SP]",
+            "content": "[Max SP]\n04000000 000B8B74 E3A02F4B\n\n"
+        },
+        {
+            "title": "[10x SP]",
+            "content": "[10x SP]\n04000000 00106BE0 B284400A\n\n"
+        },
+        {
+            "title": "[20x SP]",
+            "content": "[20x SP]\n04000000 00106BE0 B2844014\n\n"
+        },
+        {
+            "title": "[30x SP]",
+            "content": "[30x SP]\n04000000 00106BE0 B284401E \n\n"
+        },
+        {
+            "title": "[4x experience value]",
+            "content": "[4x experience value]\n04000000 000CB324 E081110A\n04000000 002855C8 E0810100\n\n"
+        },
+        {
+            "title": "[Experience 8 times]",
+            "content": "[Experience 8 times]\n04000000 000CB324 E081118A\n04000000 002855C8 E0810180\n\n"
+        },
+        {
+            "title": "[16 times experience]",
+            "content": "[16 times experience]\n04000000 000CB324 E081120A\n\n"
+        },
+        {
+            "title": "[Inf Incenses]",
+            "content": "[Inf Incenses]\n021F0000 794AC42C 00000028\n021F0000 794AC42E 00000028\n021F0000 794AC430 00000028\n021F0000 794AC432 00000028\n021F0000 794AC434 00000028\n021F0000 794AC436 00000028\n021F0000 794AC438 00000028\n\n"
+        },
+        {
+            "title": "[99 Melmarks]",
+            "content": "[99 Melmarks]\n021F0000 794ACBAE 00000063\n04000000 002855C8 E0810200 \n\n"
+        },
+        {
+            "title": "[Items 20X deactivate after episode 5 starts and activate Items 0x to avoid crashing story mode ]",
+            "content": "[Items 20X deactivate after episode 5 starts and activate Items 0x to avoid crashing story mode ]\n300E0000 000012C0\n01100000 794AC3AE 00000014\n78000000 00000002\n310E0000\n20000000 \n\n"
+        },
+        {
+            "title": "[Top Character]",
+            "content": "[Top Character]\n54000000 007F4800\n54001000 00000248\n54001000 00000008\n54001000 00000008\n74000000 000009E4\n64000000 00000000 0000270f\n74000000 00000008\n64000000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Middle Character]",
+            "content": "[Middle Character]\n54010000 007F4800\n54011000 00000248\n54011000 00000008\n54011000 00000008\n54011000 00000008\n74010000 000010E4\n64010000 00000000 0000270f\n74010000 00000008\n64010000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Bottom Character]",
+            "content": "[Bottom Character]\n54020000 007F4800\n54021000 00000248\n54021000 00000008\n54021000 00000008\n54021000 00000008\n54021000 00000008\n74020000 00000CE4\n64020000 00000000 0000270f\n74020000 00000008\n64020000 00000000 000003E7 \n\n"
+        },
+        {
+            "title": "[Aoi HP 9999 out battle]",
+            "content": "[Aoi HP 9999 out battle]\n04100000 794a3008 0000270f\n\n"
+        },
+        {
+            "title": "[Aoi EP 999 out battle]",
+            "content": "[Aoi EP 999 out battle]\n04100000 794a3010 000003e7\n\n"
+        },
+        {
+            "title": "[Aoi Stats 255 out battle]",
+            "content": "[Aoi Stats 255 out battle]\n02100000 794a3026 000000ff\n02100000 794a3028 000000ff\n02100000 794a302a 000000ff\n02100000 794a302c 000000ff\n02100000 794a302e 000000ff\n02100000 794a3030 000000ff\n02100000 794a3032 00000005\n\n"
+        },
+        {
+            "title": "[Tsubasa HP 9999 out battle]",
+            "content": "[Tsubasa HP 9999 out battle]\n04100000 794a3368 0000270f\n\n"
+        },
+        {
+            "title": "[Tsubasa EP 999 out battle]",
+            "content": "[Tsubasa EP 999 out battle]\n04100000 794a3370 000003e7\n\n"
+        },
+        {
+            "title": "[Tsubasa Stats 255 out battle]",
+            "content": "[Tsubasa Stats 255 out battle]\n02100000 794a3386 000000ff\n02100000 794a3388 000000ff\n02100000 794a338a 000000ff\n02100000 794a338c 000000ff\n02100000 794a338e 000000ff\n02100000 794a3390 000000ff\n02100000 794a3392 00000005\n\n"
+        },
+        {
+            "title": "[Touma HP 9999 out battle]",
+            "content": "[Touma HP 9999 out battle]\n04100000 794a36c8 0000270f\n\n"
+        },
+        {
+            "title": "[Touma EP 999 out battle]",
+            "content": "[Touma EP 999 out battle]\n04100000 794a36d0 000003e7\n\n"
+        },
+        {
+            "title": "[Touma Stats 255 out battle]",
+            "content": "[Touma Stats 255 out battle]\n02100000 794a36e6 000000ff\n02100000 794a36e8 000000ff\n02100000 794a36ea 000000ff\n02100000 794a36ec 000000ff\n02100000 794a36ee 000000ff\n02100000 794a36f0 000000ff\n02100000 794a36f2 00000005\n\n"
+        },
+        {
+            "title": "[Kiria HP 9999 out battle]",
+            "content": "[Kiria HP 9999 out battle]\n04100000 794a3a28 0000270f\n\n"
+        },
+        {
+            "title": "[Kiria EP 999 out battle]",
+            "content": "[Kiria EP 999 out battle]\n04100000 794a3a30 000003e7\n\n"
+        },
+        {
+            "title": "[Kiria Stats 255 out battle]",
+            "content": "[Kiria Stats 255 out battle]\n02100000 794a3a46 000000ff\n02100000 794a3a48 000000ff\n02100000 794a3a4a 000000ff\n02100000 794a3a4c 000000ff\n02100000 794a3a4e 000000ff\n02100000 794a3a50 000000ff\n02100000 794a3a52 00000005\n\n"
+        },
+        {
+            "title": "[Inf Master Seals]",
+            "content": "[Inf Master Seals]\n021F0000 794AC8A4 00000063\n\n"
+        },
+        {
+            "title": "[Inf all level Star Prestige]",
+            "content": "[Inf all level Star Prestige]\n021F0000 794AC8CE 00000063\n021F0000 794AC8D0 00000063\n021F0000 794AC8D2 00000063\n021F0000 794AC8D4 00000063\n021F0000 794AC8D6 00000063\n021F0000 794AC8D8 00000063\n\n"
+        },
+        {
+            "title": "[Inf Incenses]",
+            "content": "[Inf Incenses]\n021F0000 794AC42C 00000028\n021F0000 794AC42E 00000028\n021F0000 794AC430 00000028\n021F0000 794AC432 00000028\n021F0000 794AC434 00000028\n021F0000 794AC436 00000028\n021F0000 794AC438 00000028 \n\n"
+        },
+        {
+            "title": "[Tiki All Costumes]",
+            "content": "[Tiki All Costumes]\n02100000 794acc4e 00000001\n08100000 794acc52 00010001 00010001\n02100000 794acc60 00000001\n02100000 794acc6c 00000001\n\n"
+        },
+        {
+            "title": "[All Character Costumes without Splash Resort Costume]",
+            "content": "[All Character Costumes without Splash Resort Costume]\n04100000 794aceb4 00010001\n08100000 794aceb8 00010001 00010001\n08100000 794acec0 00000001 00010000\n08100000 794acec8 00000000 00000001\n08100000 794aced0 00010001 00010000\n08100000 794aced8 00010001 00010001\n08100000 794acee0 00010001 00010001\n08100000 794acee8 00000001 00010001\n08100000 794acef0 00010001 00010001\n08100000 794acef8 00010001 00010001\n08100000 794acf00 00010001 00010001\n08100000 794acf08 00010001 00000001\n08100000 794acf10 00010001 00010001\n08100000 794acf18 00010001 00010001\n08100000 794acf20 00000001 00010000\n08100000 794acf28 00010001 00000000\n08100000 794acf30 00010001 00010001\n08100000 794acf38 00010000 00000001\n08100000 794acf40 00000000 00000001\n08100000 794acf48 00010001 00010000\n08100000 794acf50 00000001 00010001\n08100000 794acf58 00000000 00010000\n08100000 794acf68 00010001 00010001\n08100000 794acf70 00000001 00010001\n08100000 794acf78 00000000 00010001\n04100000 794acf86 00010001\n\n"
+        },
+        {
+            "title": "[All Character Costumes with Splash Resort Costume]",
+            "content": "[All Character Costumes with Splash Resort Costume]\n04100000 794aceb4 00010001\n08100000 794aceb8 00010001 00010001\n08100000 794acec0 00010001 00010000\n08100000 794acec8 00000000 00000001\n08100000 794aced0 00010001 00010000\n08100000 794aced8 00010001 00010001\n08100000 794acee0 00010001 00010001\n08100000 794acee8 00010001 00010001\n08100000 794acef0 00010001 00010001\n08100000 794acef8 00010001 00010001\n08100000 794acf00 00010001 00010001\n08100000 794acf08 00010001 00010001\n08100000 794acf10 00010001 00010001\n08100000 794acf18 00010001 00010001\n08100000 794acf20 00000001 00010001\n08100000 794acf28 00010001 00000000\n08100000 794acf30 00010001 00010001\n08100000 794acf38 00010001 00000001\n08100000 794acf40 00000000 00000001\n08100000 794acf48 00010001 00010000\n08100000 794acf50 00000001 00010001\n08100000 794acf58 00000000 00010001\n08100000 794acf68 00010001 00010001\n08100000 794acf70 00010001 00010001\n08100000 794acf78 00000000 00010001\n04100000 794acf86 00010001\n\n"
+        },
+        {
+            "title": "[99,000,000 Yen]",
+            "content": "[99,000,000 Yen]\n58000000 007F6C50\n58001000 0001FF40\n58001000 00000608\n58001000 00000008\n58001000 00000008\n58001000 0000EF48\n58001000 00002988\n58001000 00000288\n78000000 0003E528\n68000000 00000000 05E69EC0\n\n"
+        },
+        {
+            "title": "[Free Shopping]",
+            "content": "[Free Shopping]\n04000000 000CB34C E0821001\n04000000 00154C60 E0820000\n\n\n"
+        },
+        {
+            "title": "[Tome and Skill Book]",
+            "content": "[Tome and Skill Book]\n021F0000 794AC44A 00000028\n021F0000 794AC44C 00000028 \n\n"
+        },
+        {
+            "title": "[Consumable Items x20 without Deleted Items]",
+            "content": "[Consumable Items x20 without Deleted Items]\n01100000 794AC3AE 00000014\n08100000 794AC3B0 00140014 00140014\n08100000 794AC3B8 00140014 00140014\n08100000 794AC3C0 00140014 00140014\n08100000 794AC3C8 00140014 00140014\n08100000 794AC3D0 00140014 00140000\n04100000 794AC3D8 00140014\n08100000 794AC3E0 00140014 00140014\n08100000 794AC3E8 00140014 00140014\n04100000 794AC3FC 00140014\n08100000 794AC400 00140014 00140014\n08100000 794AC408 00140014 00140014\n04100000 794AC410 00140014\n04100000 794AC42C 00140014\n08100000 794AC430 00140014 00140014\n02100000 794AC438 00000014\n08100000 794AC448 00140014 00140000\n08100000 794AC450 00000000 00000000\n08100000 794AC458 00140014 00140014\n08100000 794AC460 00140014 00140014\n08100000 794AC468 00140014 00140014\n08100000 794AC470 00140000 00000014\n08100000 794AC478 00140014 00140014\n04100000 794AC480 00000014\n\n"
+        },
+        {
+            "title": "[Consumable Items x20 with Deleted Items]",
+            "content": "[Consumable Items x20 with Deleted Items]\n01100000 794AC3AE 00000014\n08100000 794AC3B0 00140014 00140014\n08100000 794AC3B8 00140014 00140014\n08100000 794AC3C0 00140014 00140014\n08100000 794AC3C8 00140014 00140014\n08100000 794AC3D0 00140014 00140000\n04100000 794AC3D8 00140014\n08100000 794AC3E0 00140014 00140014\n08100000 794AC3E8 00140014 00140014\n04100000 794AC3FC 00140014\n08100000 794AC400 00140014 00140014\n08100000 794AC408 00140014 00140014\n04100000 794AC410 00140014\n04100000 794AC42C 00140014\n08100000 794AC430 00140014 00140014\n02100000 794AC438 00000014\n08100000 794AC448 00140014 00140000\n08100000 794AC450 00140000 00140014\n08100000 794AC458 00140014 00140014\n08100000 794AC460 00140014 00140014\n08100000 794AC468 00140014 00140014\n08100000 794AC470 00140000 00000014\n08100000 794AC478 00140014 00140014\n04100000 794AC480 00000014\n\n"
+        },
+        {
+            "title": "[Itsuki Stage Rank 20]",
+            "content": "[Itsuki Stage Rank 20]\n021F0000 794A305C 0000270F\n\n"
+        },
+        {
+            "title": "[Tsubasa Stage Rank 20]",
+            "content": "[Tsubasa Stage Rank 20]\n021F0000 794A33BC 0000270F\n\n"
+        },
+        {
+            "title": "[Touma Stage Rank 20]",
+            "content": "[Touma Stage Rank 20]\n021F0000 794A371C 0000270F\n\n"
+        },
+        {
+            "title": "[Kiria Stage Rank 20]",
+            "content": "[Kiria Stage Rank 20]\n021F0000 794A3A7C 0000270F\n\n"
+        },
+        {
+            "title": "[ITSUKI RESISTANCE]",
+            "content": "[ITSUKI RESISTANCE]\n041B0000 794A3034 00070007\n041B0000 794A3038 00070007\n041B0000 794A303C 00070007\n041B0000 794A3040 00070007\n041B0000 794A3044 00070007\n\n"
+        },
+        {
+            "title": "[TSUBASA RESISTANCE]",
+            "content": "[TSUBASA RESISTANCE]\n041B0000 794A3394 00070007\n041B0000 794A3398 00070007\n041B0000 794A339C 00070007\n041B0000 794A33A0 00070007\n041B0000 794A33A4 00070007\n\n"
+        },
+        {
+            "title": "[TOUMA RESISTANCE]",
+            "content": "[TOUMA RESISTANCE]\n041B0000 794A36F4 00070007\n041B0000 794A36F8 00070007\n041B0000 794A36FC 00070007\n041B0000 794A3700 00070007\n041B0000 794A3704 00070007\n\n"
+        },
+        {
+            "title": "[Itsuki Stage Rank 20]",
+            "content": "[Itsuki Stage Rank 20]\n021F0000 794A305C 0000270F\n\n"
+        },
+        {
+            "title": "[Tsubasa Stage Rank 20]",
+            "content": "[Tsubasa Stage Rank 20]\n021F0000 794A33BC 0000270F\n\n"
+        },
+        {
+            "title": "[Touma Stage Rank 20]",
+            "content": "[Touma Stage Rank 20]\n021F0000 794A371C 0000270F\n\n"
+        },
+        {
+            "title": "[Kiria Stage Rank 20]",
+            "content": "[Kiria Stage Rank 20]\n021F0000 794A3A7C 0000270F\n\n"
+        },
+        {
+            "title": "[Eleonora Stage Rank 20]",
+            "content": "[Eleonora Stage Rank 20]\n021F0000 794A3DDC 0000270F\n\n"
+        },
+        {
+            "title": "[Mamori Stage Rank 20]",
+            "content": "[Mamori Stage Rank 20]\n021F0000 794A413C 0000270F\n\n"
+        },
+        {
+            "title": "[Yashiro Stage Rank 20]",
+            "content": "[Yashiro Stage Rank 20]\n021F0000 794A449C 0000270F\n\n"
+        },
+        {
+            "title": "[Items 0 X ]",
+            "content": "[Items 0 X ]\n300E0000 000012C0\n01100000 794AC3AE 00000000\n78000000 00000002\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[All 8 high-quality accessories by-srx2]",
+            "content": "[All 8 high-quality accessories by-srx2]\n02100000 794AEAF0 00000008\n08100000 794AEB00 00080008 00080008\n08100000 794AEB08 00080008 00080008\n\n"
+        },
+        {
+            "title": "[90 Mel points wreckage]",
+            "content": "[90 Mel points wreckage]\n02100000 794AE96E 0000005A\n02100000 794AE988 0000005A\n\n"
+        },
+        {
+            "title": "[One to six star crowns]",
+            "content": "[One to six star crowns]\n02100000 794AE68E 0000005A\n08100000 794AE690 005A005A 005A005A\n02100000 794AE698 0000005A\n\n"
+        },
+        {
+            "title": "[30 Master Cards]",
+            "content": "[30 Master Cards]\n02100000 794AE664 0000001E\n\n"
+        },
+        {
+            "title": "[**** The following Golden Fingers are used for massacres ***]",
+            "content": "[**** The following Golden Fingers are used for massacres ***]\n"
+        },
+        {
+            "title": "[**** Please use as appropriate to avoid losing difficulty ***]",
+            "content": "[**** Please use as appropriate to avoid losing difficulty ***]\n\n"
+        },
+        {
+            "title": "[30 Strange Monster Materials]",
+            "content": "[30 Strange Monster Materials]\n02100000 794AE374 0000001E\n02100000 794AE384 0000001E\n\n"
+        },
+        {
+            "title": "[All strange energy (material 1) 30 each without flash]",
+            "content": "[All strange energy (material 1) 30 each without flash]\n02100000 794AE36E 0000001E\n04100000 794AE370 001E001E\n02100000 794AE376 0000001E\n08100000 794AE378 001E001E 001E001E\n04100000 794AE380 001E001E\n02100000 794AE386 0000001E\n08100000 794AE388 001E001E 001E001E\n08100000 794AE390 001E001E 001E001E\n08100000 794AE398 001E001E 001E001E\n08100000 794AE3A0 001E001E 001E001E\n08100000 794AE3A8 001E001E 001E001E\n08100000 794AE3B0 001E001E 001E001E\n08100000 794AE3B8 001E001E 001E001E\n08100000 794AE3C0 001E001E 001E001E\n08100000 794AE3C8 001E001E 001E001E\n08100000 794AE3D0 001E001E 001E001E\n08100000 794AE3D8 001E001E 001E001E\n08100000 794AE3E0 001E001E 001E001E\n08100000 794AE3E8 001E001E 001E001E\n08100000 794AE3F0 001E001E 001E001E\n08100000 794AE3F8 001E001E 001E001E\n08100000 794AE400 001E001E 001E001E\n08100000 794AE408 001E001E 001E001E\n08100000 794AE410 001E001E 001E001E\n\n"
+        },
+        {
+            "title": "[30 monsters each]",
+            "content": "[30 monsters each]\n02100000 794AE49E 0000001E\n08100000 794AE4A0 001E0000 001E0000\n08100000 794AE4A8 001E0000 001E0000\n08100000 794AE4B0 001E0000 001E0000\n08100000 794AE4B8 001E0000 001E0000\n08100000 794AE4C0 001E0000 001E0000\n08100000 794AE4C8 001E0000 001E0000\n08100000 794AE4D0 001E0000 001E0000\n08100000 794AE4D8 001E0000 001E0000\n08100000 794AE4E0 001E0000 001E0000\n08100000 794AE4E8 001E0000 001E0000\n08100000 794AE4F0 001E0000 001E0000\n08100000 794AE4F8 001E0000 001E0000\n08100000 794AE500 001E0000 001E0000\n08100000 794AE508 001E0000 001E0000\n08100000 794AE510 001E0000 001E0000\n08100000 794AE518 001E0000 001E0000\n08100000 794AE520 001E0000 001E0000\n08100000 794AE528 001E0000 001E0000\n08100000 794AE530 001E0000 001E0000\n08100000 794AE538 001E0000 001E0000\n08100000 794AE540 001E0000 001E0000\n08100000 794AE548 001E0000 001E0000\n08100000 794AE550 001E0000 001E0000\n08100000 794AE558 001E0000 001E0000\n08100000 794AE560 001E0000 001E0000\n08100000 794AE568 001E0000 001E0000\n08100000 794AE570 001E0000 001E0000\n08100000 794AE578 001E0000 001E0000\n08100000 794AE580 001E0000 001E0000\n08100000 794AE588 001E0000 001E0000\n08100000 794AE590 001E0000 001E0000\n08100000 794AE598 001E0000 001E0000\n08100000 794AE5A0 001E0000 001E0000\n08100000 794AE5A8 001E0000 001E0000\n08100000 794AE5B0 001E0000 001E0000\n08100000 794AE5B8 001E0000 001E0000\n08100000 794AE5C0 001E0000 001E0000\n08100000 794AE5C8 001E0000 001E0000\n08100000 794AE5D0 001E0000 001E0000\n08100000 794AE5D8 001E0000 001E0000\n08100000 794AE5E0 001E0000 001E0000\n\n"
+        },
+        {
+            "title": "[**** The following cheats are used to shine unification ***]",
+            "content": "[**** The following cheats are used to shine unification ***]\n"
+        },
+        {
+            "title": "[**** Some need to brush the shine level ***]",
+            "content": "[**** Some need to brush the shine level ***]\n\n"
+        },
+        {
+            "title": "[1 each in the treasure chest]",
+            "content": "[1 each in the treasure chest]\n08100000 794AE670 00010001 00010001\n08100000 794AE678 00010001 00010001\n08100000 794AE680 00010001 00010001\n04100000 794AE688 00010001\n02100000 794AE68C 00000001\n\n"
+        },
+        {
+            "title": "[Clear previous article]",
+            "content": "[Clear previous article]\n08100000 794AE670 00000000 00000000\n08100000 794AE678 00000000 00000000\n08100000 794AE680 00000000 00000000\n04100000 794AE688 00000000\n02100000 794AE68C 00000000\n\n"
+        },
+        {
+            "title": "[1 BOSS for each drop drop]",
+            "content": "[1 BOSS for each drop drop]\n02100000 794AE5EE 00000001\n08100000 794AE5F0 00010001 00010001\n08100000 794AE5F8 00010001 00010001\n02100000 794AE600 00000001\n\n"
+        },
+        {
+            "title": "[Everyone expresses one each]",
+            "content": "[Everyone expresses one each]\n02100000 794AE6CE 00000001\n08100000 794AE6D0 00010001 00010001\n08100000 794AE6D8 00010001 00010001\n08100000 794AE6E0 00010001 00010001\n08100000 794AE6E8 00010001 00010001\n08100000 794AE6F0 00010001 00010001\n08100000 794AE6F8 00010001 00010001\n08100000 794AE700 00010001 00010001\n08100000 794AE708 00010001 00010001\n08100000 794AE710 00010001 00010001\n08100000 794AE718 00010001 00010001\n08100000 794AE720 00010001 00010001\n08100000 794AE728 00010001 00010001\n08100000 794AE730 00010001 00010001\n08100000 794AE738 00010001 00010001\n08100000 794AE740 00010001 00010001\n08100000 794AE748 00010001 00010001\n08100000 794AE750 00010001 00010001\n08100000 794AE758 00010001 00010001\n08100000 794AE760 00010001 00010001\n08100000 794AE768 00010001 00010001\n08100000 794AE770 00010001 00010001\n08100000 794AE778 00010001 00010001\n08100000 794AE780 00010001 00010001\n08100000 794AE788 00010001 00010001\n08100000 794AE790 00010001 00010001\n08100000 794AE798 00010001 00010001\n08100000 794AE7A0 00010001 00010001\n08100000 794AE7A8 00010001 00010001\n08100000 794AE7B0 00010001 00010001\n08100000 794AE7B8 00010001 00010001\n08100000 794AE7C0 00010001 00010001\n08100000 794AE7C8 00010001 00010001\n08100000 794AE7D0 00010001 00010001\n08100000 794AE7D8 00010001 00010001\n08100000 794AE7E0 00010001 00010001\n08100000 794AE7E8 00010001 00010001\n08100000 794AE7F0 00010001 00010001\n08100000 794AE7F8 00010001 00010001\n02100000 794AE81E 00000001\n04100000 794AE820 00010001\n04100000 794AE846 00010001\n02100000 794AE84A 00000001\n\n"
+        },
+        {
+            "title": "[30 final weapons Shura Star certification]",
+            "content": "[30 final weapons Shura Star certification]\n02100000 794AE69C 0000001E\n\n"
+        },
+        {
+            "title": "[30 keys to the magic magic book treasure chest]",
+            "content": "[30 keys to the magic magic book treasure chest]\n02100000 794AE20A 0000001E\n04100000 794AE20C 001E001E\n\n"
+        },
+        {
+            "title": "[**** The following cheats are available to brush the Legend Field ****]",
+            "content": "[**** The following cheats are available to brush the Legend Field ****]\n\n"
+        },
+        {
+            "title": "[Aoi tree-full of anti-magic anti-sucking]",
+            "content": "[Aoi tree-full of anti-magic anti-sucking]\n02100000 794a4df2 00000005\n04100000 794a4df4 00080008\n08100000 794a4df8 00090009 00080008\n08100000 794a4e00 00080008 00090009\n04100000 794a4e08 00070007\n\n"
+        },
+        {
+            "title": "[Orb wing-full of anti-magic anti-absorption]",
+            "content": "[Orb wing-full of anti-magic anti-absorption]\n02100000 794A5152 00000005\n04100000 794A5154 00080008\n08100000 794A5158 00090009 00080008\n08100000 794A5160 00080008 00090009\n04100000 794A5168 00070007\n\n"
+        },
+        {
+            "title": "[Chicheng Dou Ma-Yun Manwu Anti-Magic Absorption]",
+            "content": "[Chicheng Dou Ma-Yun Manwu Anti-Magic Absorption]\n02100000 794A54B2 00000005\n04100000 794A54B4 00080008\n08100000 794A54B8 00090009 00080008\n08100000 794A54C0 00080008 00090009\n04100000 794A54C8 00070007\n\n"
+        },
+        {
+            "title": "[? ? ? ?-Yun Manwu anti-magic sucks different counter]",
+            "content": "[? ? ? ?-Yun Manwu anti-magic sucks different counter]\n02100000 794A5812 00000005\n04100000 794A5814 00080008\n08100000 794A5818 00090009 00080008\n08100000 794A5820 00080008 00090009\n04100000 794A5828 00070007\n\n"
+        },
+        {
+            "title": "[Bowstring Eleonora-Full of anti-magic anti-magic]",
+            "content": "[Bowstring Eleonora-Full of anti-magic anti-magic]\n02100000 794A5B72 00000005\n04100000 794A5B74 00080008\n08100000 794A5B78 00090009 00080008\n08100000 794A5B80 00080008 00090009\n04100000 794A5B88 00070007\n\n"
+        },
+        {
+            "title": "[Yuan Zhenshou-Yun Man Wu Anti-Magic Absorptive]",
+            "content": "[Yuan Zhenshou-Yun Man Wu Anti-Magic Absorptive]\n02100000 794A5ED2 00000005\n04100000 794A5ED4 00080008\n08100000 794A5ED8 00090009 00080008\n08100000 794A5EE0 00080008 00090009\n04100000 794A5EE8 00070007\n\n"
+        },
+        {
+            "title": "[Sword Yayoi-Yunmanwu Anti-Magic Absorption]",
+            "content": "[Sword Yayoi-Yunmanwu Anti-Magic Absorption]\n02100000 794A6232 00000005\n04100000 794A6234 00080008\n08100000 794A6238 00090009 00080008\n08100000 794A6240 00080008 00090009\n04100000 794A6248 00070007\n\n"
+        },
+        {
+            "title": "[**** The following golden fingers are used to brush violent enemies ****]",
+            "content": "[**** The following golden fingers are used to brush violent enemies ****]\n"
+        },
+        {
+            "title": "[**** Please pay attention to the roles you can choose ****]",
+            "content": "[**** Please pay attention to the roles you can choose ****]\n\n"
+        },
+        {
+            "title": "[Aoi Tree-Locked Level 12]",
+            "content": "[Aoi Tree-Locked Level 12]\n02100000 794A4DC4 0000000C\n04100000 794A4E20 000009A9\n\n"
+        },
+        {
+            "title": "[Weaving department wing-lock 12 levels]",
+            "content": "[Weaving department wing-lock 12 levels]\n02100000 794A5124 0000000C\n04100000 794A5180 000009A9\n\n"
+        },
+        {
+            "title": "[Chicheng Dou Ma-Lock 12]",
+            "content": "[Chicheng Dou Ma-Lock 12]\n02100000 794A5484 0000000C\n04100000 794A54E0 000009A9\n\n"
+        },
+        {
+            "title": "[Kinona Miya-Locked Level 12]",
+            "content": "[Kinona Miya-Locked Level 12]\n02100000 794A57E4 0000000C\n04100000 794A5840 000009A9\n\n"
+        },
+        {
+            "title": "[Bowstring Eleonora-Locked Level 12]",
+            "content": "[Bowstring Eleonora-Locked Level 12]\n02100000 794A5B44 0000000C\n04100000 794A5BA0 000009A9\n\n"
+        },
+        {
+            "title": "[Gen Mamoru-Locked Level 12]",
+            "content": "[Gen Mamoru-Locked Level 12]\n02100000 794A5EA4 0000000C\n04100000 794A5F00 000009A9\n\n"
+        },
+        {
+            "title": "[Sword Yayoi-Locked Level 12]",
+            "content": "[Sword Yayoi-Locked Level 12]\n02100000 794A6204 0000000C\n04100000 794A6260 000009A9\n\n"
+        },
+        {
+            "title": "[Aoi Tree-Lock Level 45]",
+            "content": "[Aoi Tree-Lock Level 45]\n02100000 794A4DC4 0000002D\n04100000 794A4E20 0001F8C8\n\n"
+        },
+        {
+            "title": "[Weaving Department Wing-Locking Level 45]",
+            "content": "[Weaving Department Wing-Locking Level 45]\n02100000 794A5124 0000002D\n04100000 794A5180 0001F8C8\n\n"
+        },
+        {
+            "title": "[Chicheng Dou Ma-Lock Level 45]",
+            "content": "[Chicheng Dou Ma-Lock Level 45]\n02100000 794A5484 0000002D\n04100000 794A54E0 0001F8C8\n\n"
+        },
+        {
+            "title": "[Kinona Miya-Lock Level 45]",
+            "content": "[Kinona Miya-Lock Level 45]\n02100000 794A57E4 0000002D\n04100000 794A5840 0001F8C8\n\n"
+        },
+        {
+            "title": "[Bowstring Eleonora-Lock Level 45]",
+            "content": "[Bowstring Eleonora-Lock Level 45]\n02100000 794A5B44 0000002D\n04100000 794A5BA0 0001F8C8\n\n"
+        },
+        {
+            "title": "[Gen Mamoru-Lock Level 45]",
+            "content": "[Gen Mamoru-Lock Level 45]\n02100000 794A5EA4 0000002D\n04100000 794A5F00 0001F8C8\n\n"
+        },
+        {
+            "title": "[Sword Yayoi-Lockdown Level 45]",
+            "content": "[Sword Yayoi-Lockdown Level 45]\n02100000 794A6204 0000002D\n04100000 794A6260 0001F8C8\n\n"
+        },
+        {
+            "title": "[**** Cancel immediately after cheating below ****]",
+            "content": "[**** Cancel immediately after cheating below ****]\n"
+        },
+        {
+            "title": "[**** Please adjust skill order in the game ****]",
+            "content": "[**** Please adjust skill order in the game ****]\n"
+        },
+        {
+            "title": "[**** Be sure to archive first to avoid overwriting by mistake ****]",
+            "content": "[**** Be sure to archive first to avoid overwriting by mistake ****]\n"
+        },
+        {
+            "title": "[**** Cannot be modified in battle Please note ****]",
+            "content": "[**** Cannot be modified in battle Please note ****]\n\n"
+        },
+        {
+            "title": "[Aoi tree-first 2 skills to reduce enemy elimination]",
+            "content": "[Aoi tree-first 2 skills to reduce enemy elimination]\n04100000 794A4F48 000300B5\n04100000 794A4F4C 000300B6\n\n"
+        },
+        {
+            "title": "[Tree Aoi-the first 2 skills to attack and eliminate]",
+            "content": "[Tree Aoi-the first 2 skills to attack and eliminate]\n04100000 794A4F48 0003009D\n04100000 794A4F4C 000300A2\n\n"
+        },
+        {
+            "title": "[Tree Aoi-First 2 Skills Reit Attentive]",
+            "content": "[Tree Aoi-First 2 Skills Reit Attentive]\n04100000 794A4F48 000900D3\n04100000 794A4F4C 000300A4\n\n"
+        },
+        {
+            "title": "[Aoi tree-the first 2 skills to kill the dragon]",
+            "content": "[Aoi tree-the first 2 skills to kill the dragon]\n04100000 794A4F48 00090057\n04100000 794A4F4C 000300A3\n\n"
+        },
+        {
+            "title": "[Orb wing-the first 2 skills back to Kema]",
+            "content": "[Orb wing-the first 2 skills back to Kema]\n04100000 794A52A8 00030071\n04100000 794A52AC 0009005D\n\n"
+        },
+        {
+            "title": "[Orb Wing-First 2 Skills Revive Charm]",
+            "content": "[Orb Wing-First 2 Skills Revive Charm]\n04100000 794A52A8 00030078\n04100000 794A52AC 00090067\n\n"
+        },
+        {
+            "title": "[Orb wing-first 2 skills offensive breath]",
+            "content": "[Orb wing-first 2 skills offensive breath]\n04100000 794A52A8 0003009D\n04100000 794A52AC 000300B9\n\n"
+        },
+        {
+            "title": "[Akasaka Dori-The first 2 skills to accumulate horses]",
+            "content": "[Akasaka Dori-The first 2 skills to accumulate horses]\n04100000 794A5608 000300A3\n04100000 794A560C 0003005D\n\n"
+        },
+        {
+            "title": "[Chicheng Dou Ma-The first 2 skills curse defense]",
+            "content": "[Chicheng Dou Ma-The first 2 skills curse defense]\n04100000 794A5608 000300B7\n04100000 794A560C 0003009F\n\n"
+        },
+        {
+            "title": "[Chicheng Dou Ma-The first 2 skills eliminate enemies]",
+            "content": "[Chicheng Dou Ma-The first 2 skills eliminate enemies]\n04100000 794A5608 000300B6\n04100000 794A560C 0003009F\n\n"
+        },
+        {
+            "title": "[Kinona Moya-Top 2 Skills Ice Special Group Man]",
+            "content": "[Kinona Moya-Top 2 Skills Ice Special Group Man]\n04100000 794A5968 000900D2\n04100000 794A596C 0009001C\n\n"
+        },
+        {
+            "title": "[Kinona Kaya-First 2 Skills Concentrate on Cron]",
+            "content": "[Kinona Kaya-First 2 Skills Concentrate on Cron]\n04100000 794A5968 000300A4\n04100000 794A596C 000900D0\n\n"
+        },
+        {
+            "title": "[Kuronobuya-The first 2 skills without magic group seal]",
+            "content": "[Kuronobuya-The first 2 skills without magic group seal]\n04100000 794A5968 0003009A\n04100000 794A596C 0009006A\n\n"
+        },
+        {
+            "title": "[Bowstring Eleonora-Top 2 Skill Charge Arrows]",
+            "content": "[Bowstring Eleonora-Top 2 Skill Charge Arrows]\n04100000 794A5CC8 000300A3\n04100000 794A5CCC 00090054\n\n"
+        },
+        {
+            "title": "[Bowstring Eleonora-Top 2 Skills TV Curse]",
+            "content": "[Bowstring Eleonora-Top 2 Skills TV Curse]\n04100000 794A5CC8 00090096\n04100000 794A5CCC 000300B7\n\n"
+        },
+        {
+            "title": "[Bowstring Eleonora-Top 2 Fire Arrows]",
+            "content": "[Bowstring Eleonora-Top 2 Fire Arrows]\n04100000 794A5CC8 00090097\n04100000 794A5CCC 00090089\n\n"
+        },
+        {
+            "title": "[Yuan Zhenshou-the first 2 skills against objects without magic]",
+            "content": "[Yuan Zhenshou-the first 2 skills against objects without magic]\n04100000 794A6028 0003009B\n04100000 794A602C 0003009A\n\n"
+        },
+        {
+            "title": "[Genmori Mori-the first 2 skills beware of charge]",
+            "content": "[Genmori Mori-the first 2 skills beware of charge]\n04100000 794A6028 0003009F\n04100000 794A602C 000300A3\n\n"
+        },
+        {
+            "title": "[Gen Mamoru-The first 2 skills ice big axe]",
+            "content": "[Gen Mamoru-The first 2 skills ice big axe]\n04100000 794A6028 00090090\n04100000 794A602C 0009008A\n\n"
+        },
+        {
+            "title": "[Gen Mamoru-Top 2 Skills Gale]",
+            "content": "[Gen Mamoru-Top 2 Skills Gale]\n04100000 794A6028 00090096\n04100000 794A602C 00090091\n\n"
+        },
+        {
+            "title": "[Sword Yayoi-first 2 skills charge back]",
+            "content": "[Sword Yayoi-first 2 skills charge back]\n04100000 794A6388 000300A3\n04100000 794A638C 0009007F\n\n"
+        },
+        {
+            "title": "[Sword Yayoi-first 2 skills to attack the enemy]",
+            "content": "[Sword Yayoi-first 2 skills to attack the enemy]\n04100000 794A6388 0003009D\n04100000 794A638C 000300B6\n\n"
+        },
+        {
+            "title": "[Sword Yayoi-first 2 skills self-destructive cover]",
+            "content": "[Sword Yayoi-first 2 skills self-destructive cover]\n04100000 794A6388 000300A2\n04100000 794A638C 000900D6\n\n"
+        },
+        {
+            "title": "[**** The following cheats suggest full expansion cells ****]",
+            "content": "[**** The following cheats suggest full expansion cells ****]\n"
+        },
+        {
+            "title": "[**** Please save it before use to avoid errors ****]",
+            "content": "[**** Please save it before use to avoid errors ****]\n"
+        },
+        {
+            "title": "[**** Skills All Level 9 Concerto Passive All Level 5 ****]",
+            "content": "[**** Skills All Level 9 Concerto Passive All Level 5 ****]\n"
+        },
+        {
+            "title": "[**** Full Level 3 Auxiliary 0 Passive Suggestion Rehearsal ****]",
+            "content": "[**** Full Level 3 Auxiliary 0 Passive Suggestion Rehearsal ****]\n\n"
+        },
+        {
+            "title": "[Tree Aoi-Skill Concerto Passive Full Level]",
+            "content": "[Tree Aoi-Skill Concerto Passive Full Level]\n02100000 794A4F4A 00000009\n02100000 794A4F4E 00000009\n02100000 794A4F52 00000009\n02100000 794A4F56 00000009\n02100000 794A4F5A 00000009\n02100000 794A4F5E 00000009\n02100000 794A4F62 00000009\n02100000 794A4F66 00000005\n02100000 794A4F6A 00000005\n02100000 794A4F6E 00000005\n02100000 794A4F72 00000005\n02100000 794A4F76 00000005\n02100000 794A4F7A 00000005\n02100000 794A4F7E 00000005\n02100000 794A4F82 00000005\n02100000 794A4F86 00000005\n02100000 794A4F8A 00000005\n02100000 794A4F8E 00000005\n02100000 794A4F92 00000005\n02100000 794A4F96 00000005\n02100000 794A4F9A 00000005\n\n"
+        },
+        {
+            "title": "[Oribe Wing-Passive Full Level of Skill Concerto]",
+            "content": "[Oribe Wing-Passive Full Level of Skill Concerto]\n02100000 794A52AA 00000009\n02100000 794A52AE 00000009\n02100000 794A52B2 00000009\n02100000 794A52B6 00000009\n02100000 794A52BA 00000009\n02100000 794A52BE 00000009\n02100000 794A52C2 00000009\n02100000 794A52C6 00000005\n02100000 794A52CA 00000005\n02100000 794A52CE 00000005\n02100000 794A52D2 00000005\n02100000 794A52D6 00000005\n02100000 794A52DA 00000005\n02100000 794A52DE 00000005\n02100000 794A52E2 00000005\n02100000 794A52E6 00000005\n02100000 794A52EA 00000005\n02100000 794A52EE 00000005\n02100000 794A52F2 00000005\n02100000 794A52F6 00000005\n02100000 794A52FA 00000005\n\n"
+        },
+        {
+            "title": "[Chicheng Dou Ma-Skill Concerto Passive Full Level]",
+            "content": "[Chicheng Dou Ma-Skill Concerto Passive Full Level]\n02100000 794A560A 00000009\n02100000 794A560E 00000009\n02100000 794A5612 00000009\n02100000 794A5616 00000009\n02100000 794A561A 00000009\n02100000 794A561E 00000009\n02100000 794A5622 00000009\n02100000 794A5626 00000005\n02100000 794A562A 00000005\n02100000 794A562E 00000005\n02100000 794A5632 00000005\n02100000 794A5636 00000005\n02100000 794A563A 00000005\n02100000 794A563E 00000005\n02100000 794A5642 00000005\n02100000 794A5646 00000005\n02100000 794A564A 00000005\n02100000 794A564E 00000005\n02100000 794A5652 00000005\n02100000 794A5656 00000005\n02100000 794A565A 00000005\n\n"
+        },
+        {
+            "title": "[Kurona Wuya-Skill Concerto Passive Full Level]",
+            "content": "[Kurona Wuya-Skill Concerto Passive Full Level]\n02100000 794A596A 00000009\n02100000 794A596E 00000009\n02100000 794A5972 00000009\n02100000 794A5976 00000009\n02100000 794A597A 00000009\n02100000 794A597E 00000009\n02100000 794A5982 00000009\n02100000 794A5986 00000005\n02100000 794A598A 00000005\n02100000 794A598E 00000005\n02100000 794A5992 00000005\n02100000 794A5996 00000005\n02100000 794A599A 00000005\n02100000 794A599E 00000005\n02100000 794A59A2 00000005\n02100000 794A59A6 00000005\n02100000 794A59AA 00000005\n02100000 794A59AE 00000005\n02100000 794A59B2 00000005\n02100000 794A59B6 00000005\n02100000 794A59BA 00000005\n\n"
+        },
+        {
+            "title": "[Bowstring Eleonora-Passive Full Level of Skill Concerto]",
+            "content": "[Bowstring Eleonora-Passive Full Level of Skill Concerto]\n02100000 794A5CCA 00000009\n02100000 794A5CCE 00000009\n02100000 794A5CD2 00000009\n02100000 794A5CD6 00000009\n02100000 794A5CDA 00000009\n02100000 794A5CDE 00000009\n02100000 794A5CE2 00000009\n02100000 794A5CE6 00000005\n02100000 794A5CEA 00000005\n02100000 794A5CEE 00000005\n02100000 794A5CF2 00000005\n02100000 794A5CF6 00000005\n02100000 794A5CFA 00000005\n02100000 794A5CFE 00000005\n02100000 794A5D02 00000005\n02100000 794A5D06 00000005\n02100000 794A5D0A 00000005\n02100000 794A5D0E 00000005\n02100000 794A5D12 00000005\n02100000 794A5D16 00000005\n02100000 794A5D1A 00000005\n\n"
+        },
+        {
+            "title": "[Yuan Zhenshou-Passive Full Level of Skill Concerto]",
+            "content": "[Yuan Zhenshou-Passive Full Level of Skill Concerto]\n02100000 794A602A 00000009\n02100000 794A602E 00000009\n02100000 794A6032 00000009\n02100000 794A6036 00000009\n02100000 794A603A 00000009\n02100000 794A603E 00000009\n02100000 794A6042 00000009\n02100000 794A6046 00000005\n02100000 794A604A 00000005\n02100000 794A604E 00000005\n02100000 794A6052 00000005\n02100000 794A6056 00000005\n02100000 794A605A 00000005\n02100000 794A605E 00000005\n02100000 794A6062 00000005\n02100000 794A6066 00000005\n02100000 794A606A 00000005\n02100000 794A606E 00000005\n02100000 794A6072 00000005\n02100000 794A6076 00000005\n02100000 794A607A 00000005\n\n"
+        },
+        {
+            "title": "[Sword Miyo-Skill Concerto Passive Full Level]",
+            "content": "[Sword Miyo-Skill Concerto Passive Full Level]\n02100000 794A638A 00000009\n02100000 794A638E 00000009\n02100000 794A6392 00000009\n02100000 794A6396 00000009\n02100000 794A639A 00000009\n02100000 794A639E 00000009\n02100000 794A63A2 00000009\n02100000 794A63A6 00000005\n02100000 794A63AA 00000005\n02100000 794A63AE 00000005\n02100000 794A63B2 00000005\n02100000 794A63B6 00000005\n02100000 794A63BA 00000005\n02100000 794A63BE 00000005\n02100000 794A63C2 00000005\n02100000 794A63C6 00000005\n02100000 794A63CA 00000005\n02100000 794A63CE 00000005\n02100000 794A63D2 00000005\n02100000 794A63D6 00000005\n02100000 794A63DA 00000005\n\n"
+        },
+        {
+            "title": "[Get Money Max Not reduce]",
+            "content": "[Get Money Max Not reduce]\n580F0000 07CB0D48\n580F1000 000001A0\n780F0000 00000090\n640F0000 00000000\n0098967F\n\n"
+        },
+        {
+            "title": "[Gets HP inf]",
+            "content": "[Gets HP inf]\n580F0000 08514F40\n580F1000 00000008\n580F1000 00000110\n580F1000 000002A0\n580F1000 00000100\n780F0000 000001BC\n640F0000 00000000\n470C3C00\n\n"
+        },
+        {
+            "title": "[Mechanical mobile power unlimited]",
+            "content": "[Mechanical mobile power unlimited]\n580F0000 08514F40\n580F1000 00000008\n580F1000 00000110\n580F1000 000002A0\n580F1000 00000100\n780F0000 000003D4\n640F0000 00000000\n00000000\n\n"
+        },
+        {
+            "title": "[Infinite femtosecond laser pulse energy]",
+            "content": "[Infinite femtosecond laser pulse energy]\n580F0000 08514F40\n580F1000 00000008\n580F1000 00000110\n580F1000 000002A0\n580F1000 00000100\n780F0000 00000304\n640F0000 00000000\n43C80000\n\n"
+        },
+        {
+            "title": "[Infinite Shoulder Weapon Missile]",
+            "content": "[Infinite Shoulder Weapon Missile]\n580F0000 0855A3D8\n580F1000 00000030\n580F1000 00000368\n580F1000 00000968\n780F0000 00000FA4\n640F0000 00000000\n00000060\n\n"
+        },
+        {
+            "title": "[4x Yen 91wii lo paso SkittleDash]",
+            "content": "[4x Yen 91wii lo paso SkittleDash]\n04000000 000CB34C E0821101\n04000000 00154C60 E0820100\n\n"
+        },
+        {
+            "title": "[8x Yen]",
+            "content": "[8x Yen]\n04000000 000CB34C E0821181\n04000000 00154C60 E0820180\n\n"
+        },
+        {
+            "title": "[16x Yen]",
+            "content": "[16x Yen]\n04000000 000CB34C E0821201\n04000000 00154C60 E0820200\n\n"
+        },
+        {
+            "title": "[Turn off the money effect when shopping]",
+            "content": "[Turn off the money effect when shopping]\n04000000 000CB34C E0821001\n04000000 00154C60 E0820000\n\n"
+        },
+        {
+            "title": "[No EP reduction during battle]",
+            "content": "[No EP reduction during battle]\n04000000 000CB034 E2411000\n\n"
+        },
+        {
+            "title": "[During the battle, the items are not reduced]",
+            "content": "[During the battle, the items are not reduced]\n04000000 000CB264 E2400000\n\n"
+        },
+        {
+            "title": "[Infinite EP in battle]",
+            "content": "[Infinite EP in battle]\n04000000 000CB034 E2411000\n\n"
+        },
+        {
+            "title": "[Infinite Items in battle]",
+            "content": "[Infinite Items in battle]\n04000000 000CB264 E2400000\n\n"
+        },
+        {
+            "title": "[Max SP]",
+            "content": "[Max SP]\n04000000 000B8B74 E3A02F4B\n\n"
+        },
+        {
+            "title": "[10x SP]",
+            "content": "[10x SP]\n04000000 00106BE0 B284400A\n\n"
+        },
+        {
+            "title": "[20x SP]",
+            "content": "[20x SP]\n04000000 00106BE0 B2844014\n\n"
+        },
+        {
+            "title": "[30x SP]",
+            "content": "[30x SP]\n04000000 00106BE0 B284401E\n\n"
+        },
+        {
+            "title": "[Two times the effect of the incense props of each attribute]",
+            "content": "[Two times the effect of the incense props of each attribute]\n04000000 0015A8F8 E0820080\n\n"
+        },
+        {
+            "title": "[4 times the effect of the incense props of each attribute]",
+            "content": "[4 times the effect of the incense props of each attribute]\n04000000 0015A8F8 E0820100\n\n"
+        },
+        {
+            "title": "[Effects of the incense props of each attribute 8 times]",
+            "content": "[Effects of the incense props of each attribute 8 times]\n04000000 0015A8F8 E0820180\n\n"
+        },
+        {
+            "title": "[Combat must be upgraded after using the magic book once]",
+            "content": "[Combat must be upgraded after using the magic book once]\n04000000 0015A764 E2401000\n\n"
+        },
+        {
+            "title": "[Combat will be upgraded after using Magic Book once]",
+            "content": "[Combat will be upgraded after using Magic Book once]\n04000000 0015A764 E0401004\n\n"
+        },
+        {
+            "title": "[99,000,000 Yen Lionheartwolf]",
+            "content": "[99,000,000 Yen Lionheartwolf]\n58000000 007F6C50\n58001000 0001FF40\n58001000 00000608\n58001000 00000008\n58001000 00000008\n58001000 0000EF48\n58001000 00002988\n58001000 00000288\n78000000 0003E528\n68000000 00000000 05E69EC0\n\n"
+        },
+        {
+            "title": "[4x experience value patjenova]",
+            "content": "[4x experience value patjenova]\n04000000 000CB324 E081110A\n04000000 002855C8 E0810100\n\n"
+        },
+        {
+            "title": "[Experience 8 times]",
+            "content": "[Experience 8 times]\n04000000 000CB324 E081118A\n04000000 002855C8 E0810180\n\n"
+        },
+        {
+            "title": "[16 times experience]",
+            "content": "[16 times experience]\n04000000 000CB324 E081120A\n04000000 002855C8 E0810200\n\n"
+        },
+        {
+            "title": "[01# Money x16]",
+            "content": "[01# Money x16]\n04000000 000CB34C E0821201\n\n"
+        },
+        {
+            "title": "[Items 20X]",
+            "content": "[Items 20X]\n300E0000 000012C0\n01100000 794AC3AE 00000014\n78000000 00000002\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[12# Experience 40X]",
+            "content": "[12# Experience 40X]\n04000000 000CB324 E081150A\n04000000 002855C8 E0810500\n\n"
+        },
+        {
+            "title": "[13# Experience off]",
+            "content": "[13# Experience off]\n04000000 000CB324 E081100A\n04000000 002855C8 E0810000\n\n"
+        },
+        {
+            "title": "[16 times experience tides]",
+            "content": "[16 times experience tides]\n04000000 000CB324 E081120A\n04000000 002855C8 E0810200\n\n"
+        },
+        {
+            "title": "[Inf Incenses Use this with the 8x incense effect code in an earlier page Ichisuke]",
+            "content": "[Inf Incenses Use this with the 8x incense effect code in an earlier page Ichisuke]\n021F0000 794AC42C 00000028\n021F0000 794AC42E 00000028\n021F0000 794AC430 00000028\n021F0000 794AC432 00000028\n021F0000 794AC434 00000028\n021F0000 794AC436 00000028\n021F0000 794AC438 00000028\n\n"
+        },
+        {
+            "title": "[99 Melmarks]",
+            "content": "[99 Melmarks]\n021F0000 794ACBAE 00000063\n\n"
+        },
+        {
+            "title": "[Top Character Infinite Health and EP Gamerjin dsrules]",
+            "content": "[Top Character Infinite Health and EP Gamerjin dsrules]\n54000000 007F4800\n54001000 00000248\n54001000 00000008\n54001000 00000008\n74000000 000009E4\n64000000 00000000 0000270f\n74000000 00000008\n64000000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Middle Character Infinite Health and EP Gamerjin dsrules]",
+            "content": "[Middle Character Infinite Health and EP Gamerjin dsrules]\n54010000 007F4800\n54011000 00000248\n54011000 00000008\n54011000 00000008\n54011000 00000008\n74010000 000010E4\n64010000 00000000 0000270f\n74010000 00000008\n64010000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Bottom Character Infinite Health and EP Gamerjin dsrules]",
+            "content": "[Bottom Character Infinite Health and EP Gamerjin dsrules]\n54020000 007F4800\n54021000 00000248\n54021000 00000008\n54021000 00000008\n54021000 00000008\n54021000 00000008\n74020000 00000CE4\n64020000 00000000 0000270f\n74020000 00000008\n64020000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Aoi HP 9999 out battle dsrules no se si son de este juego]",
+            "content": "[Aoi HP 9999 out battle dsrules no se si son de este juego]\n04100000 794a3008 0000270f\n\n"
+        },
+        {
+            "title": "[Aoi EP 999 out battle]",
+            "content": "[Aoi EP 999 out battle]\n04100000 794a3010 000003e7\n\n"
+        },
+        {
+            "title": "[Aoi Stats 255 out battle]",
+            "content": "[Aoi Stats 255 out battle]\n02100000 794a3026 000000ff\n02100000 794a3028 000000ff\n02100000 794a302a 000000ff\n02100000 794a302c 000000ff\n02100000 794a302e 000000ff\n02100000 794a3030 000000ff\n02100000 794a3032 00000005\n\n"
+        },
+        {
+            "title": "[Tsubasa HP 9999 out battle]",
+            "content": "[Tsubasa HP 9999 out battle]\n04100000 794a3368 0000270f\n\n"
+        },
+        {
+            "title": "[Tsubasa EP 999 out battle]",
+            "content": "[Tsubasa EP 999 out battle]\n04100000 794a3370 000003e7\n\n"
+        },
+        {
+            "title": "[Tsubasa Stats 255 out battle]",
+            "content": "[Tsubasa Stats 255 out battle]\n02100000 794a3386 000000ff\n02100000 794a3388 000000ff\n02100000 794a338a 000000ff\n02100000 794a338c 000000ff\n02100000 794a338e 000000ff\n02100000 794a3390 000000ff\n02100000 794a3392 00000005\n\n"
+        },
+        {
+            "title": "[Touma HP 9999 out battle]",
+            "content": "[Touma HP 9999 out battle]\n04100000 794a36c8 0000270f\n\n"
+        },
+        {
+            "title": "[Touma EP 999 out battle]",
+            "content": "[Touma EP 999 out battle]\n04100000 794a36d0 000003e7\n\n"
+        },
+        {
+            "title": "[Touma Stats 255 out battle]",
+            "content": "[Touma Stats 255 out battle]\n02100000 794a36e6 000000ff\n02100000 794a36e8 000000ff\n02100000 794a36ea 000000ff\n02100000 794a36ec 000000ff\n02100000 794a36ee 000000ff\n02100000 794a36f0 000000ff\n02100000 794a36f2 00000005\n\n"
+        },
+        {
+            "title": "[Kiria HP 9999 out battle]",
+            "content": "[Kiria HP 9999 out battle]\n04100000 794a3a28 0000270f\n\n"
+        },
+        {
+            "title": "[Kiria EP 999 out battle]",
+            "content": "[Kiria EP 999 out battle]\n04100000 794a3a30 000003e7\n\n"
+        },
+        {
+            "title": "[Kiria Stats 255 out battle]",
+            "content": "[Kiria Stats 255 out battle]\n02100000 794a3a46 000000ff\n02100000 794a3a48 000000ff\n02100000 794a3a4a 000000ff\n02100000 794a3a4c 000000ff\n02100000 794a3a4e 000000ff\n02100000 794a3a50 000000ff\n02100000 794a3a52 00000005\nadd 0x360 for next character\n\n"
+        },
+        {
+            "title": "[Inf Master Seals Ichisuke]",
+            "content": "[Inf Master Seals Ichisuke]\n021F0000 794AC8A4 00000063\n\n"
+        },
+        {
+            "title": "[99 Detritus]",
+            "content": "[99 Detritus]\n021F0000 794ACBC8 00000063\n\n"
+        },
+        {
+            "title": "[99 Macca Converter]",
+            "content": "[99 Macca Converter]\n021F0000 794AC5B4 00000063\n\n"
+        },
+        {
+            "title": "[Inf all level Star Prestige]",
+            "content": "[Inf all level Star Prestige]\n021F0000 794AC8CE 00000063\n021F0000 794AC8D0 00000063\n021F0000 794AC8D2 00000063\n021F0000 794AC8D4 00000063\n021F0000 794AC8D6 00000063\n021F0000 794AC8D8 00000063\n\n"
+        },
+        {
+            "title": "[Inf Incenses]",
+            "content": "[Inf Incenses]\n021F0000 794AC42C 00000028\n021F0000 794AC42E 00000028\n021F0000 794AC430 00000028\n021F0000 794AC432 00000028\n021F0000 794AC434 00000028\n021F0000 794AC436 00000028\n021F0000 794AC438 00000028\n\n"
+        },
+        {
+            "title": "[Tiki All Costumes dsrules]",
+            "content": "[Tiki All Costumes dsrules]\n02100000 794acc4e 00000001\n08100000 794acc52 00010001 00010001\n02100000 794acc60 00000001\n02100000 794acc6c 00000001\n\n"
+        },
+        {
+            "title": "[All Character Costumes without Splash Resort Costume]",
+            "content": "[All Character Costumes without Splash Resort Costume]\n04100000 794aceb4 00010001\n08100000 794aceb8 00010001 00010001\n08100000 794acec0 00000001 00010000\n08100000 794acec8 00000000 00000001\n08100000 794aced0 00010001 00010000\n08100000 794aced8 00010001 00010001\n08100000 794acee0 00010001 00010001\n08100000 794acee8 00000001 00010001\n08100000 794acef0 00010001 00010001\n08100000 794acef8 00010001 00010001\n08100000 794acf00 00010001 00010001\n08100000 794acf08 00010001 00000001\n08100000 794acf10 00010001 00010001\n08100000 794acf18 00010001 00010001\n08100000 794acf20 00000001 00010000\n08100000 794acf28 00010001 00000000\n08100000 794acf30 00010001 00010001\n08100000 794acf38 00010000 00000001\n08100000 794acf40 00000000 00000001\n08100000 794acf48 00010001 00010000\n08100000 794acf50 00000001 00010001\n08100000 794acf58 00000000 00010000\n08100000 794acf68 00010001 00010001\n08100000 794acf70 00000001 00010001\n08100000 794acf78 00000000 00010001\n04100000 794acf86 00010001\n\n"
+        },
+        {
+            "title": "[All Character Costumes with Splash Resort Costume]",
+            "content": "[All Character Costumes with Splash Resort Costume]\n04100000 794aceb4 00010001\n08100000 794aceb8 00010001 00010001\n08100000 794acec0 00010001 00010000\n08100000 794acec8 00000000 00000001\n08100000 794aced0 00010001 00010000\n08100000 794aced8 00010001 00010001\n08100000 794acee0 00010001 00010001\n08100000 794acee8 00010001 00010001\n08100000 794acef0 00010001 00010001\n08100000 794acef8 00010001 00010001\n08100000 794acf00 00010001 00010001\n08100000 794acf08 00010001 00010001\n08100000 794acf10 00010001 00010001\n08100000 794acf18 00010001 00010001\n08100000 794acf20 00000001 00010001\n08100000 794acf28 00010001 00000000\n08100000 794acf30 00010001 00010001\n08100000 794acf38 00010001 00000001\n08100000 794acf40 00000000 00000001\n08100000 794acf48 00010001 00010000\n08100000 794acf50 00000001 00010001\n08100000 794acf58 00000000 00010001\n08100000 794acf68 00010001 00010001\n08100000 794acf70 00010001 00010001\n08100000 794acf78 00000000 00010001\n04100000 794acf86 00010001\n\n"
+        },
+        {
+            "title": "[Consumable Items x20 without Deleted Items dsrules]",
+            "content": "[Consumable Items x20 without Deleted Items dsrules]\n01100000 794AC3AE 00000014\n08100000 794AC3B0 00140014 00140014\n08100000 794AC3B8 00140014 00140014\n08100000 794AC3C0 00140014 00140014\n08100000 794AC3C8 00140014 00140014\n08100000 794AC3D0 00140014 00140000\n04100000 794AC3D8 00140014\n08100000 794AC3E0 00140014 00140014\n08100000 794AC3E8 00140014 00140014\n04100000 794AC3FC 00140014\n08100000 794AC400 00140014 00140014\n08100000 794AC408 00140014 00140014\n04100000 794AC410 00140014\n04100000 794AC42C 00140014\n08100000 794AC430 00140014 00140014\n02100000 794AC438 00000014\n08100000 794AC448 00140014 00140000\n08100000 794AC450 00000000 00000000\n08100000 794AC458 00140014 00140014\n08100000 794AC460 00140014 00140014\n08100000 794AC468 00140014 00140014\n08100000 794AC470 00140000 00000014\n08100000 794AC478 00140014 00140014\n04100000 794AC480 00000014\n\n"
+        },
+        {
+            "title": "[Consumable Items x20 with Deleted Items]",
+            "content": "[Consumable Items x20 with Deleted Items]\n01100000 794AC3AE 00000014\n08100000 794AC3B0 00140014 00140014\n08100000 794AC3B8 00140014 00140014\n08100000 794AC3C0 00140014 00140014\n08100000 794AC3C8 00140014 00140014\n08100000 794AC3D0 00140014 00140000\n04100000 794AC3D8 00140014\n08100000 794AC3E0 00140014 00140014\n08100000 794AC3E8 00140014 00140014\n04100000 794AC3FC 00140014\n08100000 794AC400 00140014 00140014\n08100000 794AC408 00140014 00140014\n04100000 794AC410 00140014\n04100000 794AC42C 00140014\n08100000 794AC430 00140014 00140014\n02100000 794AC438 00000014\n08100000 794AC448 00140014 00140000\n08100000 794AC450 00140000 00140014\n08100000 794AC458 00140014 00140014\n08100000 794AC460 00140014 00140014\n08100000 794AC468 00140014 00140014\n08100000 794AC470 00140000 00000014\n08100000 794AC478 00140014 00140014\n04100000 794AC480 00000014\n\n"
+        },
+        {
+            "title": "[Consumable Items x20 without Deleted Items]",
+            "content": "[Consumable Items x20 without Deleted Items]\n01100000 794AC3AE 00000014\n08100000 794AC3B0 00140014 00140014\n08100000 794AC3B8 00140014 00140014\n08100000 794AC3C0 00140014 00140014\n08100000 794AC3C8 00140014 00140014\n08100000 794AC3D0 00140014 00140000\n04100000 794AC3D8 00140014\n08100000 794AC3E0 00140014 00140014\n08100000 794AC3E8 00140014 00140014\n04100000 794AC3FC 00140014\n08100000 794AC400 00140014 00140014\n08100000 794AC408 00140014 00140014\n04100000 794AC410 00140014\n04100000 794AC42C 00140014\n08100000 794AC430 00140014 00140014\n02100000 794AC438 00000014\n08100000 794AC448 00140014 00140000\n08100000 794AC450 00000000 00000000\n08100000 794AC458 00140014 00140014\n08100000 794AC460 00140014 00140014\n08100000 794AC468 00140014 00140014\n08100000 794AC470 00140000 00000014\n08100000 794AC478 00140014 00140014\n04100000 794AC480 00000014\n\n"
+        },
+        {
+            "title": "[Consumable Items x20 with Deleted Items]",
+            "content": "[Consumable Items x20 with Deleted Items]\n01100000 794AC3AE 00000014\n08100000 794AC3B0 00140014 00140014\n08100000 794AC3B8 00140014 00140014\n08100000 794AC3C0 00140014 00140014\n08100000 794AC3C8 00140014 00140014\n08100000 794AC3D0 00140014 00140000\n04100000 794AC3D8 00140014\n08100000 794AC3E0 00140014 00140014\n08100000 794AC3E8 00140014 00140014\n04100000 794AC3FC 00140014\n08100000 794AC400 00140014 00140014\n08100000 794AC408 00140014 00140014\n04100000 794AC410 00140014\n04100000 794AC42C 00140014\n08100000 794AC430 00140014 00140014\n02100000 794AC438 00000014\n08100000 794AC448 00140014 00140000\n08100000 794AC450 00140000 00140014\n08100000 794AC458 00140014 00140014\n08100000 794AC460 00140014 00140014\n08100000 794AC468 00140014 00140014\n08100000 794AC470 00140000 00000014\n08100000 794AC478 00140014 00140014\n04100000 794AC480 00000014\n\n"
+        },
+        {
+            "title": "[Tome and Skill Book mamatkhaled14]",
+            "content": "[Tome and Skill Book mamatkhaled14]\n021F0000 794AC44A 00000028\n021F0000 794AC44C 00000028\n\n"
+        },
+        {
+            "title": "[Itsuki Stage Rank 20 activate the cheat and go into battle]",
+            "content": "[Itsuki Stage Rank 20 activate the cheat and go into battle]\n021F0000 794A305C 0000270F\n\n"
+        },
+        {
+            "title": "[Tsubasa Stage Rank 20 activate the cheat and go into battle]",
+            "content": "[Tsubasa Stage Rank 20 activate the cheat and go into battle]\n021F0000 794A33BC 0000270F\n\n"
+        },
+        {
+            "title": "[Touma Stage Rank 20 activate the cheat and go into battle]",
+            "content": "[Touma Stage Rank 20 activate the cheat and go into battle]\n021F0000 794A371C 0000270F\n\n"
+        },
+        {
+            "title": "[Kiria Stage Rank 20 activate the cheat and go into battle]",
+            "content": "[Kiria Stage Rank 20 activate the cheat and go into battle]\n021F0000 794A3A7C 0000270F\n\n"
+        },
+        {
+            "title": "[*activate the cheat and go into battle]",
+            "content": "[*activate the cheat and go into battle]\n\n"
+        },
+        {
+            "title": "[Itsuki Stage Rank 20]",
+            "content": "[Itsuki Stage Rank 20]\n021F0000 794A305C 0000270F\n\n"
+        },
+        {
+            "title": "[Tsubasa Stage Rank 20]",
+            "content": "[Tsubasa Stage Rank 20]\n021F0000 794A33BC 0000270F\n\n"
+        },
+        {
+            "title": "[Touma Stage Rank 20]",
+            "content": "[Touma Stage Rank 20]\n021F0000 794A371C 0000270F\n\n"
+        },
+        {
+            "title": "[Kiria Stage Rank 20]",
+            "content": "[Kiria Stage Rank 20]\n021F0000 794A3A7C 0000270F\n\n"
+        },
+        {
+            "title": "[Eleonora Stage Rank 20]",
+            "content": "[Eleonora Stage Rank 20]\n021F0000 794A3DDC 0000270F\n\n"
+        },
+        {
+            "title": "[Mamori Stage Rank 20]",
+            "content": "[Mamori Stage Rank 20]\n021F0000 794A413C 0000270F\n\n"
+        },
+        {
+            "title": "[Yashiro Stage Rank 20]",
+            "content": "[Yashiro Stage Rank 20]\n021F0000 794A449C 0000270F\n\n"
+        },
+        {
+            "title": "[ITSUKI RESISTANCE dsrules Gamerjin]",
+            "content": "[ITSUKI RESISTANCE dsrules Gamerjin]\n041B0000 794A3034 00070007\n041B0000 794A3038 00070007\n041B0000 794A303C 00070007\n041B0000 794A3040 00070007\n041B0000 794A3044 00070007\n\n"
+        },
+        {
+            "title": "[TSUBASA RESISTANCE]",
+            "content": "[TSUBASA RESISTANCE]\n041B0000 794A3394 00070007\n041B0000 794A3398 00070007\n041B0000 794A339C 00070007\n041B0000 794A33A0 00070007\n041B0000 794A33A4 00070007\n\n"
+        },
+        {
+            "title": "[TOUMA RESISTANCE]",
+            "content": "[TOUMA RESISTANCE]\n041B0000 794A36F4 00070007\n041B0000 794A36F8 00070007\n041B0000 794A36FC 00070007\n041B0000 794A3700 00070007\n041B0000 794A3704 00070007\n\nso, credit to dsrules for the original location\n0007 = null\n0008 = repel"
+        }
+    ]
+}

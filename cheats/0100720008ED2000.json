@@ -1,0 +1,104 @@
+{
+    "6CD0059343D5C11A": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for STRIKERS1945II for Nintendo Switch 1.0.0]",
+            "content": "[From MAX-CHEATS.com by optantic for STRIKERS1945II for Nintendo Switch 1.0.0]\n\n"
+        },
+        {
+            "title": "[P1 Infinite Lives]",
+            "content": "[P1 Infinite Lives]\n01000000 000cf2d0 00000009\n\n"
+        },
+        {
+            "title": "[P1 Infinite Bombs]",
+            "content": "[P1 Infinite Bombs]\n01000000 000cf242 00000009\n\n"
+        },
+        {
+            "title": "[P1 Max Power]",
+            "content": "[P1 Max Power]\n02000000 000cf2f5 00000404\n\n"
+        },
+        {
+            "title": "[P1 Full Special Bar]",
+            "content": "[P1 Full Special Bar]\n02000000 000cf326 00007FFF\n\n"
+        },
+        {
+            "title": "[P2 Infinite Lives]",
+            "content": "[P2 Infinite Lives]\n01000000 000cf36c 00000009\n\n"
+        },
+        {
+            "title": "[P2 Infinite Bombs]",
+            "content": "[P2 Infinite Bombs]\n01000000 000cf36e 00000009\n\n"
+        },
+        {
+            "title": "[P2 Max Power]",
+            "content": "[P2 Max Power]\n02000000 000cf391 00000404\n\n"
+        },
+        {
+            "title": "[P2 Full Special Bar]",
+            "content": "[P2 Full Special Bar]\n02000000 000cf3c2 00007FFF"
+        }
+    ],
+    "44B325524B98375B": [
+        {
+            "title": "[P1 Inf Lives]",
+            "content": "[P1 Inf Lives]\n01000000 000C92AC 00000009\n\n"
+        },
+        {
+            "title": "[P1 Inf Bombs]",
+            "content": "[P1 Inf Bombs]\n01000000 000C92AE 00000009\n\n"
+        },
+        {
+            "title": "[P1 Max Fire Power]",
+            "content": "[P1 Max Fire Power]\n02000000 000C92D1 00000404\n\n"
+        },
+        {
+            "title": "[P1 Full Special Bar]",
+            "content": "[P1 Full Special Bar]\n02000000 000C9302 00007FFF\n\n"
+        },
+        {
+            "title": "[P1 Invincible ON]",
+            "content": "[P1 Invincible ON]\n01000000 000C92E5 00000001\n01000000 000C92E6 000000FF\n\n"
+        },
+        {
+            "title": "[P1 Invincible OFF]",
+            "content": "[P1 Invincible OFF]\n01000000 000C92E5 00000000\n01000000 000C92E6 00000001"
+        }
+    ],
+    "C1FCD151248425E7": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for STRIKERS1945II for Nintendo Switch 1.0.1]",
+            "content": "[From MAX-CHEATS.com by optantic for STRIKERS1945II for Nintendo Switch 1.0.1]\n\n"
+        },
+        {
+            "title": "[P1 Infinite Lives]",
+            "content": "[P1 Infinite Lives]\n01000000 000cf2d0 00000009\n\n"
+        },
+        {
+            "title": "[P1 Infinite Bombs]",
+            "content": "[P1 Infinite Bombs]\n01000000 000cf242 00000009\n\n"
+        },
+        {
+            "title": "[P1 Max Power]",
+            "content": "[P1 Max Power]\n02000000 000cf2f5 00000404\n\n"
+        },
+        {
+            "title": "[P1 Full Special Bar]",
+            "content": "[P1 Full Special Bar]\n02000000 000cf326 00007FFF\n\n"
+        },
+        {
+            "title": "[P2 Infinite Lives]",
+            "content": "[P2 Infinite Lives]\n01000000 000cf36c 00000009\n\n"
+        },
+        {
+            "title": "[P2 Infinite Bombs]",
+            "content": "[P2 Infinite Bombs]\n01000000 000cf36e 00000009\n\n"
+        },
+        {
+            "title": "[P2 Max Power]",
+            "content": "[P2 Max Power]\n02000000 000cf391 00000404\n\n"
+        },
+        {
+            "title": "[P2 Full Special Bar]",
+            "content": "[P2 Full Special Bar]\n02000000 000cf3c2 00007FFF"
+        }
+    ]
+}

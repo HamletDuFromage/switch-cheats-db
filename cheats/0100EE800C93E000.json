@@ -1,0 +1,40 @@
+{
+    "4C531136514B74B1": [
+        {
+            "title": "[Burst LS test1]",
+            "content": "[Burst LS test1]\n80000010\n58000000 024AEF20\n78001000 000000B0\n64000000 00000000 000186A0\n20000000\n"
+        },
+        {
+            "title": "[Burst LS Test 2]",
+            "content": "[Burst LS Test 2]\n80000010\n58010000 024AEF20\n78011000 000000B0\n64010000 00000000 000186A0\n20000000\n"
+        },
+        {
+            "title": "[Burst LS Test 3]",
+            "content": "[Burst LS Test 3]\n80000010\n58010000 024AEF20\n78010000 000000B0\n68010000 000186A0 000186A0\n20000000\n\n"
+        },
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n580F0000 01A22E10\n780F0000 00000B04\n680F0000 00002710 00002710\n\n"
+        },
+        {
+            "title": "[Inf BARRIER]",
+            "content": "[Inf BARRIER]\n580F0000 01A22E10\n780F0000 00005DB4\n640F0000 00000000 00002710\n\n"
+        },
+        {
+            "title": "[Inf Heat]",
+            "content": "[Inf Heat]\n580F0000 01A22E10\n780F0000 00005D84\n640F0000 00000000 00002710\n\n"
+        },
+        {
+            "title": "[Inf Burst ]",
+            "content": "[Inf Burst ]\n580F0000 01A22E10\n780F0000 00005D94\n640F0000 00000000 000186A0\n\n"
+        },
+        {
+            "title": "[Inf Burst Time]",
+            "content": "[Inf Burst Time]\n580F0000 01A22E10\n780F0000 00000240\n640F0000 00000000 00000100\n\n"
+        },
+        {
+            "title": "[One Hit Kill (Hold L,R,ZL,ZR )]",
+            "content": "[One Hit Kill (Hold L,R,ZL,ZR )]\n800003C0\n580F0000 01A22E18\n780F0000 00000B04\n640F0000 00000000 00000001\n20000000"
+        }
+    ]
+}

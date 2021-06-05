@@ -1,0 +1,40 @@
+{
+    "60B7597943D57B4B": [
+        {
+            "title": "[Shadow Dancer Invincible]",
+            "content": "[Shadow Dancer Invincible]\n01000000 030ebd60 000000ff\n\n"
+        },
+        {
+            "title": "[Shadow Dancer Lives]",
+            "content": "[Shadow Dancer Lives]\n01000000 030ebd97 00000009\n\n"
+        },
+        {
+            "title": "[Shadow Dancer Infinite Ninja Magic]",
+            "content": "[Shadow Dancer Infinite Ninja Magic]\n01000000 030ebd9d 00000009\n\n"
+        },
+        {
+            "title": "[Golden Axe Full Potions]",
+            "content": "[Golden Axe Full Potions]\n11050000 030fa83a 00000000\n01000000 030fa839 00000006\n20000000\n11050000 030fa83a 00000001\n01000000 030fa839 00000009\n20000000\n11050000 030fa83a 00000002\n01000000 030fa839 00000004\n20000000\n\n"
+        },
+        {
+            "title": "[Golden Axe Infinite HP]",
+            "content": "[Golden Axe Infinite HP]\n01000000 030fa837 00000050\n\n"
+        },
+        {
+            "title": "[Golden Axe 2 Full Potions]",
+            "content": "[Golden Axe 2 Full Potions]\n11050000 030eb162 00000001\n01000000 030eb23b 00000005\n20000000\n11050000 030eb162 00000002\n01000000 030eb23b 00000008\n20000000\n11050000 030eb162 00000003\n01000000 030eb23b 00000004\n20000000\n\n"
+        },
+        {
+            "title": "[Golden Axe 2 Infinite HP]",
+            "content": "[Golden Axe 2 Infinite HP]\n01000000 030eb1f7 00000005\n\n"
+        },
+        {
+            "title": "[Golden Axe 3 Full Potions]",
+            "content": "[Golden Axe 3 Full Potions]\n01000000 030f729d 00000006\n\n"
+        },
+        {
+            "title": "[Golden Axe 3 Infinite HP]",
+            "content": "[Golden Axe 3 Infinite HP]\n01000000 030f729f 00000033"
+        }
+    ]
+}

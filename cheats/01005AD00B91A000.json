@@ -1,0 +1,12 @@
+{
+    "3990733A2735114C": [
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n580F0000 034DA248\n580F1000 000000A0\n580F1000 00000018\n780F0000 000000A4\n640F0000 00000000 C0200000\n20000000\n\n"
+        },
+        {
+            "title": "[Invincible (OFF: ZL & ZR Not effective for thorns)]",
+            "content": "[Invincible (OFF: ZL & ZR Not effective for thorns)]\n580F0000 034DA248\n580F1000 000000A0\n580F1000 00000018\n780F0000 00000188\n640F0000 00000000 00000100\n80000300\n640F0000 00000000 00000000\n20000000"
+        }
+    ]
+}

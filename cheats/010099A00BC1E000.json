@@ -1,0 +1,30 @@
+{
+    "82C2A04A21D3E0B8": [
+        {
+            "title": "[inf reload ammo]",
+            "content": "[inf reload ammo]\n04000000 00299E40 D65F03C0"
+        }
+    ],
+    "8CEAF0D2AE48A935": [
+        {
+            "title": "[Size Up (Hold R)]",
+            "content": "[Size Up (Hold R)]\n580F0000 0113b398\n780F0000 000000c0\n300E0000 00000003\n640F0000 00000000 3F800000\n780F0000 00000004\n80000080\n640F0000 00000000 3FB00000\n780F0000 00000004\n310E0000\n20000000\n\n"
+        },
+        {
+            "title": "[Speed Up (Hold B)]",
+            "content": "[Speed Up (Hold B)]\n580F0000 0113b398\n780F0000 00000304\n640F0000 00000000 3f800000\n80000002\n640F0000 00000000 40200000\n20000000\n\n"
+        },
+        {
+            "title": "[Walk Through Walls (ZR and Y, ZR and B)]",
+            "content": "[Walk Through Walls (ZR and Y, ZR and B)]\n580F0000 0113b398\n780F0000 00000350\n80000208\n640F0000 00000000 00000000\n20000000\n80000202\n640F0000 00000000 01000000\n20000000\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n580F0000 0113b398\n780F0000 000003CC\n640F0000 00000000 0000009E\n\n"
+        },
+        {
+            "title": "[HITANYWHERE+GHOST MODE]",
+            "content": "[HITANYWHERE+GHOST MODE]\n04000000 00282724 D503201F"
+        }
+    ]
+}

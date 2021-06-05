@@ -1,0 +1,28 @@
+{
+    "A78D968009A9374C": [
+        {
+            "title": "[Invulnerable ON]",
+            "content": "[Invulnerable ON]\n04000000 00550E20 D65F03C0\n\n"
+        },
+        {
+            "title": "[Invulnerable OFF]",
+            "content": "[Invulnerable OFF]\n04000000 00550E20 D10283FF\n\n"
+        },
+        {
+            "title": "[No need for keys]",
+            "content": "[No need for keys]\n04000000 00279D8C 52800020\n\n"
+        },
+        {
+            "title": "[Boss gives 999 Unlock Gems]",
+            "content": "[Boss gives 999 Unlock Gems]\n04000000 00365E28 52807CE9\n\n"
+        },
+        {
+            "title": "[Crystals/Mana dont decrease]",
+            "content": "[Crystals/Mana dont decrease]\n04000000 0027AEF8 51000001\n\n"
+        },
+        {
+            "title": "[spend coins to have max]",
+            "content": "[spend coins to have max]\n04000000 0027A65C 52807CE1"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "EE8FF8AB280B735F": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for Arcade Archives DOUBLE DRAGON 1.0.0]",
+            "content": "[From MAX-CHEATS.com by optantic for Arcade Archives DOUBLE DRAGON 1.0.0]\n\n"
+        },
+        {
+            "title": "[P1 Infinite HP]",
+            "content": "[P1 Infinite HP]\n580f0000 011021c0\n780f0000 000003c1\n610f0000 00000000 00000035\n\n"
+        },
+        {
+            "title": "[P1 Infinite Lives]",
+            "content": "[P1 Infinite Lives]\n580f0000 011021c0\n780f0000 000003ea\n610f0000 00000000 00000009\n\n"
+        },
+        {
+            "title": "[P2 Infinite HP]",
+            "content": "[P2 Infinite HP]\n580f0000 011021c0\n780f0000 0000041f\n610f0000 00000000 00000035\n\n"
+        },
+        {
+            "title": "[P2 Infinite Lives]",
+            "content": "[P2 Infinite Lives]\n580f0000 011021c0\n780f0000 00000448\n610f0000 00000000 00000009"
+        }
+    ]
+}

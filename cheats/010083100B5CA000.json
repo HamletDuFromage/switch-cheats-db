@@ -1,0 +1,62 @@
+{
+    "883F60906915D348": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for Sky Force Anniversary 1.0.1]",
+            "content": "[From MAX-CHEATS.com by optantic for Sky Force Anniversary 1.0.1]\n\n"
+        },
+        {
+            "title": "[P1 Infinite Health]",
+            "content": "[P1 Infinite Health]\n580f0000 024b21c8\n580f1000 000000a0\n580f1000 00000050\n780f0000 0000013c\n640f0000 00000000 41b80000\n\n"
+        },
+        {
+            "title": "[P2 Infinite Health]",
+            "content": "[P2 Infinite Health]\n580f0000 024b21c8\n580f1000 000000a0\n580f1000 00000058\n780f0000 0000013c\n640f0000 00000000 41b80000\n\n"
+        },
+        {
+            "title": "[Infinite Laser pointer]",
+            "content": "[Infinite Laser pointer]\n580f0000 024b21c0\n580f1000 000000a0\n780f0000 00000048\n610f0000 00000000 00000005\n580f0000 024b2a58\n580f1000 000000a0\n780f0000 00000038\n640f0000 00000000 40c00000\n\n"
+        },
+        {
+            "title": "[Infinite Stars]",
+            "content": "[Infinite Stars]\n580f0000 024b21c0\n580f1000 000000a0\n780f0000 00000026\n610f0000 00000000 00000009\n\n"
+        },
+        {
+            "title": "[Infinite Mega Bombs]",
+            "content": "[Infinite Mega Bombs]\n580f0000 024b21c0\n580f1000 000000a0\n780f0000 0000004c\n620f0000 00000000 0000270f\n\n"
+        },
+        {
+            "title": "[Infinite Shields]",
+            "content": "[Infinite Shields]\n580f0000 024b21c0\n580f1000 000000a0\n780f0000 00000050\n620f0000 00000000 0000270f\n580f0000 024b21c0\n580f1000 000000a0\n580f1000 00000008\n580f1000 00000020\n780f0000 00000078\n620f0000 00000000 0000270f"
+        }
+    ],
+    "5AF4DDBEC5670D4A": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for Sky Force Anniversary 1.0.0]",
+            "content": "[From MAX-CHEATS.com by optantic for Sky Force Anniversary 1.0.0]\n\n"
+        },
+        {
+            "title": "[P1 Infinite Health]",
+            "content": "[P1 Infinite Health]\n580f0000 024b21c0\n580f1000 000000a0\n580f1000 00000050\n780f0000 0000013c\n640f0000 00000000 41b80000\n\n"
+        },
+        {
+            "title": "[P2 Infinite Health]",
+            "content": "[P2 Infinite Health]\n580f0000 024b21c0\n580f1000 000000a0\n580f1000 00000058\n780f0000 0000013c\n640f0000 00000000 41b80000\n\n"
+        },
+        {
+            "title": "[Infinite Laser pointer]",
+            "content": "[Infinite Laser pointer]\n580f0000 024b21b8\n580f1000 000000a0\n780f0000 00000048\n610f0000 00000000 00000005\n580f0000 024b2a48\n580f1000 000000a0\n780f0000 00000038\n640f0000 00000000 40c00000\n\n"
+        },
+        {
+            "title": "[Infinite Stars]",
+            "content": "[Infinite Stars]\n580f0000 024b21b8\n580f1000 000000a0\n780f0000 00000026\n610f0000 00000000 00000009\n\n"
+        },
+        {
+            "title": "[Infinite Mega Bombs]",
+            "content": "[Infinite Mega Bombs]\n580f0000 024b21b8\n580f1000 000000a0\n780f0000 0000004c\n620f0000 00000000 0000270f\n\n"
+        },
+        {
+            "title": "[Infinite Shields]",
+            "content": "[Infinite Shields]\n580f0000 024b21b8\n580f1000 000000a0\n780f0000 00000050\n620f0000 00000000 0000270f\n580f0000 024b21b8\n580f1000 000000a0\n580f1000 00000008\n580f1000 00000020\n780f0000 00000078\n620f0000 00000000 0000270f"
+        }
+    ]
+}

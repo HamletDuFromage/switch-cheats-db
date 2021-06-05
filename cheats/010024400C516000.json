@@ -1,0 +1,16 @@
+{
+    "0BB3B1A39B34AC1B": [
+        {
+            "title": "[Refill Health (Press ZL and get hit)]",
+            "content": "[Refill Health (Press ZL and get hit)]\n04000000 00510594 2A0103F5\n80000100\n04000000 00510594 528000D5\n20000000\n\n"
+        },
+        {
+            "title": "[Insta Mutation on kill (on)]",
+            "content": "[Insta Mutation on kill (on)]\n04000000 005744EC 52807D08\n04000000 005744F0 B901BE68\n04000000 005744F4 B901B67F\n\n"
+        },
+        {
+            "title": "[Insta Mutation on kill  (off)]",
+            "content": "[Insta Mutation on kill  (off)]\n04000000 005744EC B941BE68\n04000000 005744F0 0B140108\n04000000 005744F4 B901BE68\n"
+        }
+    ]
+}

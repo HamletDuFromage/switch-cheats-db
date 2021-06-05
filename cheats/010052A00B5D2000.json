@@ -1,0 +1,32 @@
+{
+    "01C46C3E39C5370F": [
+        {
+            "title": "[Years 1 through 4 too many studs]",
+            "content": "[Years 1 through 4 too many studs]\n581f0000 33eb5508\n781f1000 000008f0\n641f1000 00000000 3b9ac9ff\n641f0000 00000000 3b9ac9ff\n\n"
+        },
+        {
+            "title": "[Years 5 through 7 too many studs]",
+            "content": "[Years 5 through 7 too many studs]\n581F0000 468127A8\n781F1000 000005CC\n641F1000 00000000 07270E00\n641F0000 00000000 07270E00\n\n"
+        },
+        {
+            "title": "[1to4 Inf Hearts]",
+            "content": "[1to4 Inf Hearts]\n580F0000 000034C8\n780F0000 33B8673C\n640F0000 00000000 04040000\n\n"
+        },
+        {
+            "title": "[1to4 Inf Hearts]",
+            "content": "[1to4 Inf Hearts]\n580F0000 000034B8\n780F0000 33B8673C\n640F0000 00000000 04040000\n\n"
+        },
+        {
+            "title": "[1to4 Inf Hearts]",
+            "content": "[1to4 Inf Hearts]\n580F0000 000034C8\n780F0000 33B8673C\n640F0000 00000000 04040000\n\n"
+        },
+        {
+            "title": "[5to7 Inf Hearts 3]",
+            "content": "[5to7 Inf Hearts 3]\n580F0000 000034C8\n780F0000 48CCDB50\n640F0000 00000000 00000808\n\n"
+        },
+        {
+            "title": "[5to7 Studs 3]",
+            "content": "[5to7 Studs 3]\n580F0000 000034C8\n780F0000 468F1838\n640F0000 00000000 000F423F"
+        }
+    ]
+}

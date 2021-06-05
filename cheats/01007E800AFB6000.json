@@ -1,0 +1,32 @@
+{
+    "13B314A955C5CAC4": [
+        {
+            "title": "[From MAX-CHEATS.com by optantic for ACA NEOGEO NINJA COMMANDO 1.0.0]",
+            "content": "[From MAX-CHEATS.com by optantic for ACA NEOGEO NINJA COMMANDO 1.0.0]\n\n"
+        },
+        {
+            "title": "[P1 Infinite HP]",
+            "content": "[P1 Infinite HP]\n02000000 01283460 00000200\n\n"
+        },
+        {
+            "title": "[P1 Infinite Time]",
+            "content": "[P1 Infinite Time]\n01000000 01283459 000000ff\n\n"
+        },
+        {
+            "title": "[P1 Invincible]",
+            "content": "[P1 Invincible]\n01000000 0127d4f1 000000ff\n\n"
+        },
+        {
+            "title": "[P2 Infinite HP]",
+            "content": "[P2 Infinite HP]\n02000000 01283560 00000200\n\n"
+        },
+        {
+            "title": "[P2 Infinite Time]",
+            "content": "[P2 Infinite Time]\n01000000 01283559 000000ff\n\n"
+        },
+        {
+            "title": "[P2 Invincible]",
+            "content": "[P2 Invincible]\n01000000 0127d5f1 000000ff"
+        }
+    ]
+}

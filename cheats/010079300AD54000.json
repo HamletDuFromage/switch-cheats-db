@@ -1,0 +1,32 @@
+{
+    "0B76EC521212FD1C": [
+        {
+            "title": "[invincible]",
+            "content": "[invincible]\n04000000 022F2654 1E2E1000\n\n"
+        },
+        {
+            "title": "[money x2]",
+            "content": "[money x2]\n04000000 01F6F2AC 0B150401\n\n"
+        },
+        {
+            "title": "[money x4]",
+            "content": "[money x4]\n04000000 01F6F2AC 0B150801\n\n"
+        },
+        {
+            "title": "[money x8]",
+            "content": "[money x8]\n04000000 01F6F2AC 0B150C01\n\n"
+        },
+        {
+            "title": "[engineer ammo inf]",
+            "content": "[engineer ammo inf]\n04000000 017D1638 51000001\n04000000 01F904C4 51000001\n\n"
+        },
+        {
+            "title": "[heavy infantry armor inf]",
+            "content": "[heavy infantry armor inf]\n04000000 01E05F88 1E2703E9\n04000000 01E060E8 1E2703E9\n\n"
+        },
+        {
+            "title": "[equip lvl up skills no cost]",
+            "content": "[equip lvl up skills no cost]\n04000000 0100AF8C 4B180001"
+        }
+    ]
+}

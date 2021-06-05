@@ -1,0 +1,36 @@
+{
+    "13082AAB64BDB509": [
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n041F0000 02156645 0EFF0090\n20000000\n\n"
+        },
+        {
+            "title": "[Inf Time]",
+            "content": "[Inf Time]\n021F0000 02155442 00009909\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n011F0000 021555FB 00000063\n\n"
+        },
+        {
+            "title": "[Inf Energy]",
+            "content": "[Inf Energy]\n011F0000 02155605 0000007F\n\n"
+        },
+        {
+            "title": "[Inf Ammo]",
+            "content": "[Inf Ammo]\n021F0000 0215560E 00009999\n\n"
+        },
+        {
+            "title": "[Inf Lives]",
+            "content": "[Inf Lives]\n011F0000 02155611 00000099\n\n"
+        },
+        {
+            "title": "[Inf Bombs]",
+            "content": "[Inf Bombs]\n011F0000 02156835 00000009\n\n"
+        },
+        {
+            "title": "[Inf Coins]",
+            "content": "[Inf Coins]\n021F0000 02156844 00009909"
+        }
+    ]
+}

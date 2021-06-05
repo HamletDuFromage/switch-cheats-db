@@ -1,0 +1,42 @@
+{
+    "981ED32C0E1EF006": [
+        {
+            "title": "[Enemy Attack 0]",
+            "content": "[Enemy Attack 0]\n04070000 00622F1C 54008062\n04070000 00622F00 1E200820\n04070000 00622F04 F940590A\n04070000 00622F08 3940C949\n04070000 00622F0C 7100053F\n04070000 00622F10 54000040\n04070000 00622F14 1E2703E0\n04070000 00622F18 17F30D22\n04070000 002E639C 140CF2D9\n\n"
+        },
+        {
+            "title": "[Critical Hit]",
+            "content": "[Critical Hit]\n04070000 00622F20 F9405AC8\n04070000 00622F24 3940C908\n04070000 00622F28 7100051F\n04070000 00622F2C 54000041\n04070000 00622F30 52800035\n04070000 00622F34 F9400268\n04070000 00622F38 D65F03C0\n04070000 002D866C 940D2A2D\n\n"
+        },
+        {
+            "title": "[Inf Use BloodStone]",
+            "content": "[Inf Use BloodStone]\n04070000 002F49CC 2A0A03E8\n\n"
+        },
+        {
+            "title": "[Money 77777]",
+            "content": "[Money 77777]\n04070000 00622FF0 00012FD1\n04070000 00622FF4 F9008209\n04070000 00622FA0 6D3E1FE6\n04070000 00622FA4 F9400A6A\n04070000 00622FA8 EB08015F\n04070000 00622FAC 540001A1\n04070000 00622FB0 B9400A74\n04070000 00622FB4 71000E9F\n04070000 00622FB8 54000141\n04070000 00622FBC 10000000\n04070000 00622FC0 F842C014\n04070000 00622FC4 B9403400\n04070000 00622FC8 1E620006\n04070000 00622FCC F9400D15\n04070000 00622FD0 92409EB5\n04070000 00622FD4 EB15029F\n04070000 00622FD8 54000041\n04070000 00622FDC FD000266\n04070000 00622FE0 6D7E1FE6\n04070000 00622FE4 D65F03C0\n08070000 00622FE8 00000079 656E6F4D\n04070000 002185C8 94102A76\n \n"
+        },
+        {
+            "title": "[Money 77777 Disable]",
+            "content": "[Money 77777 Disable]\n04070000 002185C8 F9400A6A"
+        }
+    ],
+    "A16CB7E952A7E911": [
+        {
+            "title": "[hitanywhere some enemies]",
+            "content": "[hitanywhere some enemies]\n04000000 002C9580 D65F03C0\n\n"
+        },
+        {
+            "title": "[ 1p invicible X pad special work hit+Walk through Walls]",
+            "content": "[ 1p invicible X pad special work hit+Walk through Walls]\n04000000 002CEB20 D65F03C0\n\n"
+        },
+        {
+            "title": "[1p invicible special work hit+Walk through Walls off ]",
+            "content": "[1p invicible special work hit+Walk through Walls off ]\n04000000 002CEB20 a9bc5ff8\n\n"
+        },
+        {
+            "title": "[ 1p invicible X pad special work hit+Walk through Walls (hold L)]",
+            "content": "[ 1p invicible X pad special work hit+Walk through Walls (hold L)]\n04000000 002CEB20 a9bc5ff8\n80000040\n04000000 002CEB20 D65F03C0\n20000000\n"
+        }
+    ]
+}

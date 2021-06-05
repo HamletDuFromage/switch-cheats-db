@@ -1,0 +1,234 @@
+{
+    "B2C7C52E52FA468F": [
+        {
+            "title": "[Rupee]",
+            "content": "[Rupee]\n04000000 02f37118 0000270f\n\n"
+        },
+        {
+            "title": "[Diamond]",
+            "content": "[Diamond]\n04000000 02f3711c 000003e7\n\n"
+        },
+        {
+            "title": "[Key]",
+            "content": "[Key]\n04000000 02f37120 00000009\n\n"
+        },
+        {
+            "title": "[Inf HP - Max 3 Hearts]",
+            "content": "[Inf HP - Max 3 Hearts]\n580F0000 00903348\n780F0000 00000BC0\n610F0000 00000000 00000006\n\n"
+        },
+        {
+            "title": "[Inf Magic]",
+            "content": "[Inf Magic]\n580F0000 00903348\n780F0000 00000BD4\n610F0000 00000000 00000064\n\n"
+        },
+        {
+            "title": "[999x Rupees]",
+            "content": "[999x Rupees]\n580F0000 008A58E8\n780F0000 00000000\n620F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[999x Diamonds]",
+            "content": "[999x Diamonds]\n580F0000 008A58E8\n780F0000 00000004\n620F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[10x Keys]",
+            "content": "[10x Keys]\n580F0000 008A58E8\n780F0000 00000008\n610F0000 00000000 0000000A\n\n"
+        },
+        {
+            "title": "[Inf Bombs]",
+            "content": "[Inf Bombs]\n580F0000 008A58E8\n780F0000 0000000C\n610F0000 00000000 00000005\n\n"
+        },
+        {
+            "title": "[Inf Bow/Arrows]",
+            "content": "[Inf Bow/Arrows]\n580F0000 008A58E8\n780F0000 00000010\n610F0000 00000000 0000000A\n\n"
+        },
+        {
+            "title": "[Inf Bombchu]",
+            "content": "[Inf Bombchu]\n580F0000 008A58E8\n780F0000 00000014\n610F0000 00000000 00000005\n\n"
+        },
+        {
+            "title": "[5x Gears]",
+            "content": "[5x Gears]\n580F0000 008A58E8\n780F0000 00000018\n610F0000 00000000 00000005\n\n"
+        },
+        {
+            "title": "[5x Deku Seeds]",
+            "content": "[5x Deku Seeds]\n580F0000 008A58E8\n780F0000 0000001C\n610F0000 00000000 00000005\n\n"
+        },
+        {
+            "title": "[Walk Through Walls (Hold ZR)]",
+            "content": "[Walk Through Walls (Hold ZR)]\n580F0000 02F344A0\n780F0000 000001E8\n640F0000 00000000 00000000\n80000200\n640F0000 00000000 FFFFFF00\n20000000\n\n"
+        },
+        {
+            "title": "[Height UP (Hold ZL)]",
+            "content": "[Height UP (Hold ZL)]\n580F0000 02F344A0\n780F0000 00000234\n640F0000 00000000 FFFFFFFF\n80000100\n640F0000 00000000 0000000A\n20000000"
+        }
+    ],
+    "7179A4BD112B6C65": [
+        {
+            "title": "[01# Max Hearts]",
+            "content": "[01# Max Hearts]\n580F0000 03081540\n780F0000 000003D0\n640F0000 00000000 00000020\n780F0000 00000004\n640F0000 00000000 00000020\n\n"
+        },
+        {
+            "title": "[02# Max coins]",
+            "content": "[02# Max coins]\n04000000 030A4EBC 000003E7\n\n"
+        },
+        {
+            "title": "[03# Max keys]",
+            "content": "[03# Max keys]\n04000000 030A4EC8 00000063\n\n"
+        },
+        {
+            "title": "[04# Max Diamonds]",
+            "content": "[04# Max Diamonds]\n04000000 030A4EC4 000003E7\n\n"
+        },
+        {
+            "title": "[05# Max durability]",
+            "content": "[05# Max durability]\n580F0000 03081540\n780F0000 00000430\n640F0000 00000000 000003E8\n780F0000 00000004\n640F0000 00000000 000003E8\n780F0000 00000004\n640F0000 00000000 000003E8\n\n"
+        },
+        {
+            "title": "[06# Max Arrows]",
+            "content": "[06# Max Arrows]\n04000000 030A4ED0 00000063\n\n"
+        },
+        {
+            "title": "[07# Max Bombs]",
+            "content": "[07# Max Bombs]\n04000000 030A4ECC 00000063\n\n"
+        },
+        {
+            "title": "[08# Big jump (hold R)]",
+            "content": "[08# Big jump (hold R)]\n80000080\n580F0000 03081540\n780F0000 000001CC\n640F0000 00000000 40000000\n20000000\n"
+        }
+    ],
+    "0B56C9667B592EB4": [
+        {
+            "title": "[999x Rupees]",
+            "content": "[999x Rupees]\n580F0000 008E1A18\n780F0000 00000000\n620F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[999x Diamonds]",
+            "content": "[999x Diamonds]\n580F0000 008E1A18\n780F0000 00000004\n620F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[10x Keys]",
+            "content": "[10x Keys]\n580F0000 008E1A18\n780F0000 00000008\n610F0000 00000000 0000000A\n\n"
+        },
+        {
+            "title": "[Inf Bombs]",
+            "content": "[Inf Bombs]\n580F0000 008E1A18\n780F0000 0000000C\n610F0000 00000000 00000005\n\n"
+        },
+        {
+            "title": "[Inf Bow/Arrows]",
+            "content": "[Inf Bow/Arrows]\n580F0000 008E1A18\n780F0000 00000010\n610F0000 00000000 0000000A\n\n"
+        },
+        {
+            "title": "[Inf Bombchu]",
+            "content": "[Inf Bombchu]\n580F0000 008E1A18\n780F0000 00000014\n610F0000 00000000 00000005\n\n"
+        },
+        {
+            "title": "[P1 Health]",
+            "content": "[P1 Health]\n58000000 02F2D528\n78000000 000003C8\n64000000 00000000 00000050\n\n"
+        },
+        {
+            "title": "[P2 Health]",
+            "content": "[P2 Health]\n58000000 02F2D530\n78000000 000003C8\n64000000 00000000 00000050\n\n"
+        },
+        {
+            "title": "[P1 magic]",
+            "content": "[P1 magic]\n58000000 02F2D528\n78000000 000003DC\n64000000 00000000 00000064\n\n"
+        },
+        {
+            "title": "[P2 magic]",
+            "content": "[P2 magic]\n58000000 02F2D530\n78000000 000003DC\n64000000 00000000 00000064\n\n"
+        },
+        {
+            "title": "[P1 Health]",
+            "content": "[P1 Health]\n58000000 02F2D528\n78000000 000003C8\n64000000 00000000 00000050\n\n"
+        },
+        {
+            "title": "[P2 Health]",
+            "content": "[P2 Health]\n58000000 02F2D530\n78000000 000003C8\n64000000 00000000 00000050\n\n"
+        },
+        {
+            "title": "[P1 magic]",
+            "content": "[P1 magic]\n58000000 02F2D528\n78000000 000003DC\n64000000 00000000 00000064\n\n"
+        },
+        {
+            "title": "[P2 magic]",
+            "content": "[P2 magic]\n58000000 02F2D530\n78000000 000003DC\n64000000 00000000 00000064\n\n"
+        },
+        {
+            "title": "[999x Rupees]",
+            "content": "[999x Rupees]\n580F0000 008E1A18\n780F0000 00000000\n620F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[999x Diamonds]",
+            "content": "[999x Diamonds]\n580F0000 008E1A18\n780F0000 00000004\n620F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[10x Keys]",
+            "content": "[10x Keys]\n580F0000 008E1A18\n780F0000 00000008\n610F0000 00000000 0000000A\n\n"
+        },
+        {
+            "title": "[Inf Bombs]",
+            "content": "[Inf Bombs]\n580F0000 008E1A18\n780F0000 0000000C\n610F0000 00000000 00000005\n\n"
+        },
+        {
+            "title": "[Inf Bow/Arrows]",
+            "content": "[Inf Bow/Arrows]\n580F0000 008E1A18\n780F0000 00000010\n610F0000 00000000 0000000A\n\n"
+        },
+        {
+            "title": "[Inf Bombchu]",
+            "content": "[Inf Bombchu]\n580F0000 008E1A18\n780F0000 00000014\n610F0000 00000000 00000005\n"
+        }
+    ],
+    "BD63F1CDF679829E": [
+        {
+            "title": "[01# Max Hearts]",
+            "content": "[01# Max Hearts]\n580F0000 02F3C538\n780F0000 000003C8\n640F0000 00000000 00000020\n780F0000 00000004\n640F0000 00000000 00000020\n\n"
+        },
+        {
+            "title": "[02# Max coins]",
+            "content": "[02# Max coins]\n04000000 02F508B0 000003E7\n\n"
+        },
+        {
+            "title": "[03# Max keys]",
+            "content": "[03# Max keys]\n04000000 02F508B8 00000063\n\n"
+        },
+        {
+            "title": "[04# Max Diamonds]",
+            "content": "[04# Max Diamonds]\n04000000 02F508B4 000003E7\n\n"
+        },
+        {
+            "title": "[05# Max durability]",
+            "content": "[05# Max durability]\n580F0000 02F3C538\n780F0000 00000430\n640F0000 00000000 000003E8\n780F0000 00000004\n640F0000 00000000 000003E8\n780F0000 00000004\n640F0000 00000000 000003E8\n\n"
+        },
+        {
+            "title": "[06# Max Arrows]",
+            "content": "[06# Max Arrows]\n04000000 02F508BC 00000063\n\n"
+        },
+        {
+            "title": "[07# Max Bombs]",
+            "content": "[07# Max Bombs]\n04000000 02F508C0 00000063\n\n"
+        },
+        {
+            "title": "[08# Big jump (hold R)]",
+            "content": "[08# Big jump (hold R)]\n80000080\n580F0000 02F3C538\n780F0000 000001CC\n640F0000 00000000 40000000\n20000000"
+        }
+    ],
+    "58D659D1017E8350": [
+        {
+            "title": "[Hearts unlimited]",
+            "content": "[Hearts unlimited]\n580F0000 00904350\n780F0000 00000750\n640F0000 00000000 00000014\n\n"
+        },
+        {
+            "title": "[Green Gems unlimited]",
+            "content": "[Green Gems unlimited]\n580F0000 008A9118\n780F0000 0000000C\n640F0000 00000000 0000270F\n"
+        }
+    ],
+    "DC18649D072E8743": [
+        {
+            "title": "[Hearts unlimited]",
+            "content": "[Hearts unlimited]\n580F0000 0091D560\n780F0000 00000750\n610F0000 00000000 00000014\n\n"
+        },
+        {
+            "title": "[Green Gems MAX]",
+            "content": "[Green Gems MAX]\n580F0000 008C21A0\n780F0000 0000000C\n620F0000 00000000 0000270F\n"
+        }
+    ]
+}

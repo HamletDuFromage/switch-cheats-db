@@ -1,0 +1,66 @@
+{
+    "962CAFE79900AF46": [
+        {
+            "title": "[no damage]",
+            "content": "[no damage]\n04000000 0027AFD0 D65F03C0\n\n"
+        },
+        {
+            "title": "[pendant use give max money]",
+            "content": "[pendant use give max money]\n04000000 0028345C C4653601\n04000000 00282D68 180037A0\n\n"
+        },
+        {
+            "title": "[free pendant use]",
+            "content": "[free pendant use]\n04000000 0028345C 00000000\n04000000 00282D68 180037A0\n\n"
+        },
+        {
+            "title": "[free emblem use]",
+            "content": "[free emblem use]\n04000000 002835E8 52800000\n\n"
+        },
+        {
+            "title": "[free shop upgrades]",
+            "content": "[free shop upgrades]\n04000000 00306814 52800000\n\n"
+        },
+        {
+            "title": "[free staff]",
+            "content": "[free staff]\n04000000 00308DA0 52800000\n\n"
+        },
+        {
+            "title": "[craft without mats]",
+            "content": "[craft without mats]\n04000000 0022B48C 14000032\n\n"
+        },
+        {
+            "title": "[enchant without mats]",
+            "content": "[enchant without mats]\n04000000 00525A64 14000033"
+        }
+    ],
+    "CD63653C77E52D44": [
+        {
+            "title": "[no damage]",
+            "content": "[no damage]\n04000000 004B3CE0 D65F03C0\n\n"
+        },
+        {
+            "title": "[pendant use give max money]",
+            "content": "[pendant use give max money]\n04000000 004BE754 52A6C020\n04000000 004BE758 72B88CA0\n\n"
+        },
+        {
+            "title": "[free emblem use]",
+            "content": "[free emblem use]\n04000000 004BECC8 52800000\n\n"
+        },
+        {
+            "title": "[free shop upgrades]",
+            "content": "[free shop upgrades]\n04000000 0010B824 52800000\n\n"
+        },
+        {
+            "title": "[free staff]",
+            "content": "[free staff]\n04000000 0010E89C 52800000\n\n"
+        },
+        {
+            "title": "[craft without mats]",
+            "content": "[craft without mats]\n04000000 000B8EAC 1400002F\n\n"
+        },
+        {
+            "title": "[enchant without mats]",
+            "content": "[enchant without mats]\n04000000 0036CBC4 14000030"
+        }
+    ]
+}

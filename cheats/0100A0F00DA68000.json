@@ -1,0 +1,30 @@
+{
+    "919F748A49EDCC4D": [
+        {
+            "title": "[Max Level after Battle @DaBlackDeath]",
+            "content": "[Max Level after Battle @DaBlackDeath]\n04000000 002E63BC D503201F\n\n"
+        },
+        {
+            "title": "[99 SkillPoints @DaBlackDeath]",
+            "content": "[99 SkillPoints @DaBlackDeath]\n04000000 000F1330 52800C60\n\n"
+        },
+        {
+            "title": "[55555 gold @DaBlackDeath]",
+            "content": "[55555 gold @DaBlackDeath]\n04000000 003276B0 529B2060"
+        }
+    ],
+    "6353AFD4731B1144": [
+        {
+            "title": "[999 combo]",
+            "content": "[999 combo]\n580F0000 04941C48\n580F1000 00000280\n580F1000 000000B8\n580F1000 00000028\n780F0000 00000018\n640F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Max Exp 1]",
+            "content": "[Max Exp 1]\n580F0000 04943558\n580F1000 000000B8\n580F1000 00000030\n580F1000 00000070\n780F0000 000000A8\n640F0000 00000000 00FFFFFF\n\n"
+        },
+        {
+            "title": "[Max Exp 2]",
+            "content": "[Max Exp 2]\n580F0000 04943728\n580F1000 00000228\n580F1000 00000030\n580F1000 00000070\n780F0000 000000A8\n640F0000 00000000 00FFFFFF"
+        }
+    ]
+}

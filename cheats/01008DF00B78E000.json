@@ -1,0 +1,24 @@
+{
+    "5D956D4949715A4E": [
+        {
+            "title": "[Walk through Walls (Hold ZL)]",
+            "content": "[Walk through Walls (Hold ZL)]\n580F0000 03843B10\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000048\n580F1000 00000038\n780F0000 00000080\n640F0000 00000000 00000000\n80000100\n640F0000 00000000 FFFFFFFF\n20000000\n\n"
+        },
+        {
+            "title": "[Moon Jump (Hold B)]",
+            "content": "[Moon Jump (Hold B)]\n80000002\n580F0000 03843B10\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000048\n580F1000 00000038\n780F0000 00000088\n640F0000 00000000 C1200000\n20000000\n\n"
+        },
+        {
+            "title": "[Invincible (Only bullets are valid)]",
+            "content": "[Invincible (Only bullets are valid)]\n580F0000 03843B10\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000048\n580F1000 00000038\n780F0000 0000007C\n640F0000 00000000 FFFFFFFF\n\n"
+        },
+        {
+            "title": "[3D Walk through Walls (Hold ZL)]",
+            "content": "[3D Walk through Walls (Hold ZL)]\n580F0000 03843F10\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000050\n580F1000 00000040\n780F0000 00000098\n640F0000 00000000 00000000\n80000100\n640F0000 00000000 FFFFFFFF\n20000000\n\n"
+        },
+        {
+            "title": "[3D Moon Jump (Hold B)]",
+            "content": "[3D Moon Jump (Hold B)]\n80000002\n580F0000 03843F10\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000050\n580F1000 00000040\n780F0000 000000A0\n640F0000 00000000 41200000\n20000000"
+        }
+    ]
+}

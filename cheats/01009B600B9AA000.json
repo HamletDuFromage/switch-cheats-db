@@ -1,0 +1,86 @@
+{
+    "03A4D6D3CBAED278": [
+        {
+            "title": "[VP]",
+            "content": "[VP]\n04000000 00c9c130 0098967F\n\n"
+        },
+        {
+            "title": "[CP]",
+            "content": "[CP]\n04000000 00c9c134 0098967F\n\n"
+        },
+        {
+            "title": "[EX Gift Complete]",
+            "content": "[EX Gift Complete]\n04000000 00ca309c 0007d2ff\n\n"
+        },
+        {
+            "title": "[Free Fight Character Complete]",
+            "content": "[Free Fight Character Complete]\n02000000 00c9c332 0000df80\n04000000 00c9c334 06fbffff\n\n"
+        },
+        {
+            "title": "[Collection Complete (All Card x4)]",
+            "content": "[Collection Complete (All Card x4)]\n300e0000 0000053b\n04000000 00c96374 00040004\n78000000 00000008\n310e0000\n20000000\n?Requires at least one card\n\n"
+        },
+        {
+            "title": "[Collection Complete (Play Mat)]",
+            "content": "[Collection Complete (Play Mat)]\n01000000 00c9c1e7 000000ff\n01000000 00c9c1e8 00000003\n\n"
+        },
+        {
+            "title": "[Collection Complete (Sleeve)]",
+            "content": "[Collection Complete (Sleeve)]\n01000000 00c9c1f3 000000f0\n04000000 00c9c1f4 ffffffff\n04000000 00c9c1f8 ffffffff\n04000000 00c9c1fc ffffffff\n04000000 00c9c200 ffffffff\n04000000 00c9c204 ffffffff\n01000000 00c9c208 00000001\n\n"
+        },
+        {
+            "title": "[Collection Complete (Character)]",
+            "content": "[Collection Complete (Character)]\n02000000 00c9c36a 0000ffe0\n04000000 00c9c36c 007fffff\n\n"
+        },
+        {
+            "title": "[Fighters Note (Fighter Complete]",
+            "content": "[Fighters Note (Fighter Complete]\n02000000 00c9c1ce 0000fffe\n04000000 00c9c1d0 0007ffff\n\n"
+        },
+        {
+            "title": "[Fighters Note (Title)]",
+            "content": "[Fighters Note (Title)]\n02000000 00c9c1da 0000fff0\n04000000 00c9c1dc ffffffff\n02000000 00c9c1e0 000001ff "
+        }
+    ],
+    "FFAE59D5CDC76F8F": [
+        {
+            "title": "[VP]",
+            "content": "[VP]\n04000000 00c9d130 0098967F\n\n"
+        },
+        {
+            "title": "[CP]",
+            "content": "[CP]\n04000000 00c9d134 0098967F\n\n"
+        },
+        {
+            "title": "[EX Gift Complete]",
+            "content": "[EX Gift Complete]\n04000000 00ca409c 0007d2ff\n\n"
+        },
+        {
+            "title": "[Free Fight Character Complete]",
+            "content": "[Free Fight Character Complete]\n02000000 00c9d332 0000df80\n04000000 00c9d334 06fbffff\n\n"
+        },
+        {
+            "title": "[Collection Complete (All Card x4)]",
+            "content": "[Collection Complete (All Card x4)]\n300e0000 0000053b\n04000000 00c97374 00040004\n78000000 00000008\n310e0000\n20000000\n?Requires at least one card\n\n"
+        },
+        {
+            "title": "[Collection Complete (Play Mat)]",
+            "content": "[Collection Complete (Play Mat)]\n01000000 00c9d1e7 000000ff\n01000000 00c9d1e8 00000003\n\n"
+        },
+        {
+            "title": "[Collection Complete (Sleeve)]",
+            "content": "[Collection Complete (Sleeve)]\n01000000 00c9d1f3 000000f0\n04000000 00c9d1f4 ffffffff\n04000000 00c9d1f8 ffffffff\n04000000 00c9d1fc ffffffff\n04000000 00c9d200 ffffffff\n04000000 00c9d204 ffffffff\n01000000 00c9d208 00000001\n\n"
+        },
+        {
+            "title": "[Collection Complete (Character)]",
+            "content": "[Collection Complete (Character)]\n02000000 00c9d36a 0000ffe0\n04000000 00c9d36c 007fffff\n\n\n"
+        },
+        {
+            "title": "[Fighters Note (Fighter Complete)]",
+            "content": "[Fighters Note (Fighter Complete)]\n02000000 00c9d1ce 0000fffe\n04000000 00c9d1d0 0007ffff\n\n"
+        },
+        {
+            "title": "[Fighters Note (Title)]",
+            "content": "[Fighters Note (Title)]\n02000000 00c9d1da 0000fff0\n04000000 00c9d1dc ffffffff\n02000000 00c9d1e0 000001ff"
+        }
+    ]
+}

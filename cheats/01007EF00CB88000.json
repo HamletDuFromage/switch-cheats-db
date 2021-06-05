@@ -1,0 +1,70 @@
+{
+    "68EA5BFA8DAA9371": [
+        {
+            "title": "[HP x999]",
+            "content": "[HP x999]\n02000000 0119F90E 000003E7\n02000000 0070b556 000003E7\n\n"
+        },
+        {
+            "title": "[ARMOR x999]",
+            "content": "[ARMOR x999]\n02000000 0070B602 000003E7\n\n"
+        },
+        {
+            "title": "[All KeyCards]",
+            "content": "[All KeyCards]\n01000000 0070B59E 00000007\n\n"
+        },
+        {
+            "title": "[Holoduke x100]",
+            "content": "[Holoduke x100]\n02000000 0070B584 00000960\n\n"
+        },
+        {
+            "title": "[Portable Medkit x999]",
+            "content": "[Portable Medkit x999]\n02000000 0070B5A2 000003E7\n\n"
+        },
+        {
+            "title": "[Scuba Gear x100]",
+            "content": "[Scuba Gear x100]\n02000000 0070B5FC 00001900\n\n"
+        },
+        {
+            "title": "[Jetpack x100]",
+            "content": "[Jetpack x100]\n02000000 0070B5FE 00000640\n\n"
+        },
+        {
+            "title": "[Steroids x100]",
+            "content": "[Steroids x100]\n02000000 0070B600 00000190\n\n"
+        },
+        {
+            "title": "[Protective Boots x200]",
+            "content": "[Protective Boots x200]\n02000000 0070B612 00000190\n\n"
+        },
+        {
+            "title": "[Night Vision Goggles x100]",
+            "content": "[Night Vision Goggles x100]\n02000000 0070B5BC 000004B0\n\n"
+        },
+        {
+            "title": "[AMMO x99]",
+            "content": "[AMMO x99]\n300E0000 00000009\n02000000 0070B55C 00000063\n78000000 00000002\n310E0000\n\n"
+        },
+        {
+            "title": "[Moon Jump @made by spiderman for gbatemp]",
+            "content": "[Moon Jump @made by spiderman for gbatemp]\n80000002\n020F0000 0070b58C 000000B5\n20000000\n"
+        }
+    ],
+    "49A4A5CFF8450314": [
+        {
+            "title": "[Inf Health]",
+            "content": "[Inf Health]\n020F0000 0070A556 000003E7\n\n"
+        },
+        {
+            "title": "[Inf Ammo]",
+            "content": "[Inf Ammo]\n040F0000 0070A558 03E703E7\n040F0000 0070A55C 03E703E7\n040F0000 0070A560 03E703E7\n040F0000 0070A564 03E703E7\n040F0000 0070A568 03E703E7\n040F0000 0070A56C 03E703E7\n040F0000 0070A570 03E703E7\n020F0000 0070A576 000003E7\n\n"
+        },
+        {
+            "title": "[Inf Armor]",
+            "content": "[Inf Armor]\n040F0000 0070A600 03E703E7\n\n"
+        },
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n020F0000 0070A58C 000000B5\n20000000"
+        }
+    ]
+}

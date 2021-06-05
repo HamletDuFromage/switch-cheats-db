@@ -1,0 +1,184 @@
+{
+    "B899412D980F0B44": [
+        {
+            "title": "[Money/GIL]",
+            "content": "[Money/GIL]\n041F0000 6487e764 05F5E0FF\n"
+        },
+        {
+            "title": "[first character HP 9999 on battle]",
+            "content": "[first character HP 9999 on battle]\n041f0000 6487e0e8 0000270f\n041f0000 6487f342 0000270f\n"
+        },
+        {
+            "title": "[scnd character HP 999 on battle]",
+            "content": "[scnd character HP 999 on battle]\n041f0000 6487e180 0000270f\n041f0000 6487f172 0000270f\n"
+        },
+        {
+            "title": "[3rd character HP 9999 on battle]",
+            "content": "[3rd character HP 9999 on battle]\n041f0000 6487f512 0000270f\n041f0000 648f6a1e 0000270f\n"
+        },
+        {
+            "title": "[9999 Squall HP]",
+            "content": "[9999 Squall HP]\n041f0000 6487e0e8 FFFF270f\n041f0000 6487f342 FFFF270f\n"
+        },
+        {
+            "title": "[9999 zell HP]",
+            "content": "[9999 zell HP]\n041f0000 6487f512 FFFF270f\n041f0000 648f6a1e FFFF270f\n"
+        },
+        {
+            "title": "[9999 Rinoa HP]",
+            "content": "[9999 Rinoa HP]\n041f0000 6487e348 FFFF270f\n041f0000 6487f342 FFFF270f\n"
+        },
+        {
+            "title": "[9999 Irvine HP]",
+            "content": "[9999 Irvine HP]\n041f0000 6487e218 FFFF270f\n041f0000 6487f342 FFFF270f\n"
+        },
+        {
+            "title": "[9999 Quistis HP]",
+            "content": "[9999 Quistis HP]\n041f0000 6487e2b0 FFFF270f\n041f0000 6487f512 FFFF270f\n"
+        },
+        {
+            "title": "[9999 Shelpie HP]",
+            "content": "[9999 Shelpie HP]\n041f0000 6487e3e0 FFFF270f\n041f0000 6487f342 FFFF270f\n"
+        },
+        {
+            "title": "[squal exp]",
+            "content": "[squal exp]\n041F0000 6487e0ec 05F5E0FF\n"
+        },
+        {
+            "title": "[Quistis EXP]",
+            "content": "[Quistis EXP]\n041F0000 645f8ebc 05F5E0FF\n"
+        },
+        {
+            "title": "[Zell EXP]",
+            "content": "[Zell EXP]\n041F0000 6487e184 05F5E0FF\n"
+        },
+        {
+            "title": "[selphie Exp]",
+            "content": "[selphie Exp]\n041F0000 6487e3e4 05F5E0FF\n"
+        },
+        {
+            "title": "[Rhinoa Exp]",
+            "content": "[Rhinoa Exp]\n041f0000 6487e34c 05f5e0ff\n"
+        },
+        {
+            "title": "[Irvine Exp]",
+            "content": "[Irvine Exp]\n041f0000 6487e21c 05f5e0ff\n"
+        },
+        {
+            "title": "[Quezacotl EXp]",
+            "content": "[Quezacotl EXp]\n041F0000 6487dcb4 05f5e0ff\n"
+        },
+        {
+            "title": "[Shiva EXP]",
+            "content": "[Shiva EXP]\n041f0000 6487d628 05f5e0ff\n"
+        },
+        {
+            "title": "[IFrit EXP]",
+            "content": "[IFrit EXP]\n041f0000 6487f634 05f5e0ff\n"
+        },
+        {
+            "title": "[diablos exp]",
+            "content": "[diablos exp]\n041f0000 6487de08 05f5e0ff\n"
+        },
+        {
+            "title": "[brothers exp]",
+            "content": "[brothers exp]\n041f0000 6487ddc4 05f5e0ff\n"
+        },
+        {
+            "title": "[GF AP=255 after battle]",
+            "content": "[GF AP=255 after battle]\n011f0000 6487f5c0 000000ff\n011f0000 6487f5c2 000000ff\n"
+        },
+        {
+            "title": "[GF AP always Get 255 on Battle]",
+            "content": "[GF AP always Get 255 on Battle]\n041f0000 645f8cca 000000ff\n041f0000 6487f5c0 000000ff\n041f0000 6487f5c2 000000ff\n041f0000 6487f5c4 000000ff\n"
+        },
+        {
+            "title": "[1st character HP 9999 on battle]",
+            "content": "[1st character HP 9999 on battle]\n041F0000 6487E0E8 0000270F\n041F0000 6487F342 0000270F\n"
+        },
+        {
+            "title": "[2nd character HP 999 on battle]",
+            "content": "[2nd character HP 999 on battle]\n041F0000 6487E180 0000270F\n041F0000 6487F172 0000270F\n"
+        },
+        {
+            "title": "[9999 Selphie HP]",
+            "content": "[9999 Selphie HP]\n041F0000 6487E3E0 FFFF270F\n041F0000 6487F342 FFFF270F\n"
+        },
+        {
+            "title": "[Always 255 AP after Battle]",
+            "content": "[Always 255 AP after Battle]\n041F0000 645F8CCA 000000FF\n041F0000 6487F5C0 000000FF\n041F0000 6487F5C2 000000FF\n041F0000 6487F5C4 000000FF\n041F0000 6487F5C6 000000FF\n041F0000 6487F5C8 000000FF\n"
+        },
+        {
+            "title": "[Irvine lvl 100]",
+            "content": "[Irvine lvl 100]\n041F0000 6487E21C 000182B8\n"
+        },
+        {
+            "title": "[Irvine lvl 25]",
+            "content": "[Irvine lvl 25]\n041F0000 6487E21C 00005DC0\n"
+        },
+        {
+            "title": "[Irvine lvl 8]",
+            "content": "[Irvine lvl 8]\n041F0000 6487E21C 00001B58\n"
+        },
+        {
+            "title": "[Rinoa LVL 100]",
+            "content": "[Rinoa LVL 100]\n041F0000 6487E34C 000182B8\n"
+        },
+        {
+            "title": "[Rinoa LVL 25]",
+            "content": "[Rinoa LVL 25]\n041F0000 6487E34C 00005DC0\n"
+        },
+        {
+            "title": "[Rinoa LVL 8]",
+            "content": "[Rinoa LVL 8]\n041F0000 6487E34C 00001B58\n"
+        },
+        {
+            "title": "[selphie lvl 25]",
+            "content": "[selphie lvl 25]\n041F0000 6487E3E4 00005DC0\n"
+        },
+        {
+            "title": "[selphie lvl 8]",
+            "content": "[selphie lvl 8]\n041F0000 6487E3E4 00001B58\n"
+        },
+        {
+            "title": "[selphie lvl 100]",
+            "content": "[selphie lvl 100]\n041F0000 6487E3E4 000182B8\n"
+        },
+        {
+            "title": "[quistis LVL 8]",
+            "content": "[quistis LVL 8]\n041F0000 6487E2B4 00001B58\n"
+        },
+        {
+            "title": "[quistis LVL 25]",
+            "content": "[quistis LVL 25]\n041F0000 6487E2B4 00005DC0\n"
+        },
+        {
+            "title": "[quistis LVL 100]",
+            "content": "[quistis LVL 100]\n041F0000 6487E2B4 000182B8\n"
+        },
+        {
+            "title": "[Zell lvl 8]",
+            "content": "[Zell lvl 8]\n041F0000 6487E184 00001B58\n"
+        },
+        {
+            "title": "[Zell lvl 25]",
+            "content": "[Zell lvl 25]\n041F0000 6487E184 00005DC0\n"
+        },
+        {
+            "title": "[Zell lvl 100]",
+            "content": "[Zell lvl 100]\n041F0000 6487E184 000182B8\n"
+        },
+        {
+            "title": "[squall lvl 100]",
+            "content": "[squall lvl 100]\n041F0000 6487E0EC 000182B8\n"
+        },
+        {
+            "title": "[squall lvl 25]",
+            "content": "[squall lvl 25]\n041F0000 6487E0EC 00005DC0\n"
+        },
+        {
+            "title": "[squall lvl 8]",
+            "content": "[squall lvl 8]\n041F0000 6487E0EC 00001B58\n\n "
+        }
+    ]
+}

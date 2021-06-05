@@ -1,0 +1,58 @@
+{
+    "3C9B3ECFAD8A9542": [
+        {
+            "title": "[01# Inf Stamina]",
+            "content": "[01# Inf Stamina]\n04000000 00501270 D65F03C0\n"
+        },
+        {
+            "title": "[Inf Stamina (off)]",
+            "content": "[Inf Stamina (off)]\n04000000 00501270 A9BE4FF4\n\n"
+        },
+        {
+            "title": "[02# Max Money]",
+            "content": "[02# Max Money]\n04000000 00502A68 18000080\n04000000 00502A78 05F5E0FF\n\n"
+        },
+        {
+            "title": "[03# inf ammo]",
+            "content": "[03# inf ammo]\n04000000 00178F98 D503201F\n"
+        },
+        {
+            "title": "[inf ammo (off)]",
+            "content": "[inf ammo (off)]\n04000000 00178F98 51000529\n\n"
+        },
+        {
+            "title": "[04# Inf Max Bullets]",
+            "content": "[04# Inf Max Bullets]\n580F0000 03D3CE28\n580F1000 000000B8\n580F1000 00000090\n580F1000 00000010\n580F1000 00000010\n580F1000 00000038\n780F0000 00000014\n640F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[05# No Damage]",
+            "content": "[05# No Damage]\n04000000 0017E540 D65F03C0\n"
+        },
+        {
+            "title": "[No Damage (off)]",
+            "content": "[No Damage (off)]\n04000000 0017E540 D10383FF"
+        }
+    ],
+    "47855F311DB97849": [
+        {
+            "title": "[Money 99999999]",
+            "content": "[Money 99999999]\n580F0000 03D3CE28\n580F1000 000000B8\n780F0000 00000080\n640F0000 00000000 05F5E0FF\n\n"
+        },
+        {
+            "title": "[HP 999]",
+            "content": "[HP 999]\n580F0000 03D3CE28\n580F1000 000000B8\n780F0000 00000020\n640F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[ST 100]",
+            "content": "[ST 100]\n580F0000 03D3CE28\n580F1000 000000B8\n780F0000 00000024\n640F0000 00000000 00002710\n\n"
+        },
+        {
+            "title": "[HUNGRY MAX]",
+            "content": "[HUNGRY MAX]\n580F0000 03D3CE28\n580F1000 000000B8\n780F0000 0000002C\n640F0000 00000000 000249F0\n\n"
+        },
+        {
+            "title": "[SLEEP MAX]",
+            "content": "[SLEEP MAX]\n580F0000 03D3CE28\n580F1000 000000B8\n780F0000 00000030\n640F0000 00000000 000249F0"
+        }
+    ]
+}

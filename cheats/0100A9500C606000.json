@@ -1,0 +1,38 @@
+{
+    "703E05C8FA44594E": [
+        {
+            "title": "[From MAX-CHEATS.com by BlackDeath for Ghoulboy v2.0.2]",
+            "content": "[From MAX-CHEATS.com by BlackDeath for Ghoulboy v2.0.2]\n\n"
+        },
+        {
+            "title": "[x99 Lives - lose 1 Life to update]",
+            "content": "[x99 Lives - lose 1 Life to update]\n04000000 00687B40 52800C80\n\n"
+        },
+        {
+            "title": "[Invulnerable on - press R-Stick if stuck]",
+            "content": "[Invulnerable on - press R-Stick if stuck]\n04000000 006879B0 52800008\n80000020 \n04000000 006879B0 B9406C08\n20000000\n\n"
+        },
+        {
+            "title": "[Invulnerable off]",
+            "content": "[Invulnerable off]\n04000000 006879B0 B9406C08"
+        }
+    ],
+    "91A6639441289B4C": [
+        {
+            "title": "[From MAX-CHEATS.com by BlackDeath for Ghoulboy v1.0.7]",
+            "content": "[From MAX-CHEATS.com by BlackDeath for Ghoulboy v1.0.7]\n\n"
+        },
+        {
+            "title": "[x99 Lives - lose 1 Life to update]",
+            "content": "[x99 Lives - lose 1 Life to update]\n04000000 00687A70 52800C80\n\n"
+        },
+        {
+            "title": "[Invulnerable on - press R-Stick if stuck]",
+            "content": "[Invulnerable on - press R-Stick if stuck]\n04000000 006878E0 52800008\n80000020 \n04000000 006878E0 B9406C08\n20000000\n\n"
+        },
+        {
+            "title": "[Invulnerable off]",
+            "content": "[Invulnerable off]\n04000000 006878E0 B9406C08"
+        }
+    ]
+}

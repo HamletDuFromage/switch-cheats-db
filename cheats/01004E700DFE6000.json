@@ -1,0 +1,38 @@
+{
+    "55670FA38F492343": [
+        {
+            "title": "[Invulnerable - Invincible]",
+            "content": "[Invulnerable - Invincible]\n04000000 002D0A70 D65F03C0\n\n"
+        },
+        {
+            "title": "[Get Max EXP for Kill]",
+            "content": "[Get Max EXP for Kill]\n04000000 002CEB98 52986A09\n\n"
+        },
+        {
+            "title": "[Get Double EXP for Kill]",
+            "content": "[Get Double EXP for Kill]\n04000000 002CEB98 0B160529\n\n"
+        },
+        {
+            "title": "[Collect Money To Get 999999]",
+            "content": "[Collect Money To Get 999999]\n04000000 0028BD2C 497423F0\n04000000 0028BDA4 1CFFFC40"
+        }
+    ],
+    "73E0765BF7B07047": [
+        {
+            "title": "[Invulnerable - Invincible]",
+            "content": "[Invulnerable - Invincible]\n04000000 002D0EA0 D65F03C0\n\n"
+        },
+        {
+            "title": "[Get Max EXP for Kill]",
+            "content": "[Get Max EXP for Kill]\n04000000 002CF0F8 52986A09\n\n"
+        },
+        {
+            "title": "[Max Stats Level]",
+            "content": "[Max Stats Level]\n04000000 002D5EF0 52800020\n\n"
+        },
+        {
+            "title": "[Collect Money To Get 55555]",
+            "content": "[Collect Money To Get 55555]\n04000000 002699A0 529B2071\n04000000 002699A4 1E220228\n04000000 002699A8 1E204100"
+        }
+    ]
+}
