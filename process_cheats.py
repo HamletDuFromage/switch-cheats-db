@@ -52,7 +52,7 @@ class ProcessCheats:
         return out
 
     def createJson(self, tid):
-        out_sheet = f"{self.out_path}/{tid}.json"
+        out_sheet = f"{self.out_path}/{tid.upper()}.json"
         out = self.constructCheatDict(tid)
         change = False
         if path.exists(out_sheet):
