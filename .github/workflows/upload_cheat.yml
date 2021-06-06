@@ -30,10 +30,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh release upload v1.0 ./contents.zip --clobber
-          gh release upload v1.0 ./titles.zip --clobber
-          gh release upload v1.0 ./VERSION --clobber
-          hub release edit -m "$(cat VERSION)" -m "last updated: $(cat DATE)" v1.0
+          if [ -f ./VERSION ]
+            then
+              gh release upload v1.0 ./contents.zip --clobber
+              gh release upload v1.0 ./titles.zip --clobber
+              gh release upload v1.0 ./VERSION --clobber
+              hub release edit -m "$(cat VERSION)" -m "last updated: $(cat DATE)" v1.0
+          fi
 
       - name: push changes
         run: |
