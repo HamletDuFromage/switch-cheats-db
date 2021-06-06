@@ -8,6 +8,7 @@ import os
 import rarfile
 import shutil
 import cloudscraper
+import sys
 
 from process_cheats import ProcessCheats
 
@@ -21,23 +22,29 @@ if __name__ == '__main__':
     print(dl_url)
 
     version = dl_url.split("=")[1]
-    with open("VERSION", 'w') as version_file:
-        version_file.write(version)
 
-    date = datetime.datetime.today()
-    date_str = str(date).split()[0] + " - " + str(date.hour) + ":" + str(date.minute)
+    if len(sys.argv) <= 1 or sys.argv[1] != version:
+        print(f"New version available: {version}")
+        with open("VERSION", 'w') as version_file:
+            version_file.write(version)
 
-    with open("DATE", 'w') as date_file:
-        date_file.write(date_str)
+        date = datetime.datetime.today()
+        date_str = str(date).split()[0] + " - " + str(date.hour) + ":" + str(date.minute)
 
-    dl = scraper.get(dl_url, allow_redirects=True)
-    open("titles.rar", "wb").write(dl.content)
+        with open("DATE", 'w') as date_file:
+            date_file.write(date_str)
 
-    rf = rarfile.RarFile("titles.rar")
-    rf.extractall()
+        dl = scraper.get(dl_url, allow_redirects=True)
+        open("titles.rar", "wb").write(dl.content)
 
-    shutil.make_archive("titles", "zip", base_dir="titles")
-    os.rename("titles", "contents")
-    shutil.make_archive("contents", "zip", base_dir="contents")
+        rf = rarfile.RarFile("titles.rar")
+        rf.extractall()
 
-    ProcessCheats("contents", "cheats").parseCheats()
+        shutil.make_archive("titles", "zip", base_dir="titles")
+        os.rename("titles", "contents")
+        shutil.make_archive("contents", "zip", base_dir="contents")
+
+        ProcessCheats("contents", "cheats").parseCheats()
+    
+    else:
+        print(f"Cheats are already up to date at version: {version}")
