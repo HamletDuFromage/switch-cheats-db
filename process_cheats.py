@@ -58,8 +58,8 @@ class ProcessCheats:
         if path.exists(out_sheet):
             with open(out_sheet, 'r') as json_file:
                 old = json.load(json_file)
-            if(json.dumps(old)) != json.dumps(out):
-                change = True
+                if(json.dumps(old)) != json.dumps(out):
+                    change = True
         else:
             change = True
         if change:
