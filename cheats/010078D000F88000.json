@@ -273,6 +273,188 @@
             "content": "[Attribute Points MAX]\n041F0000 54A2E95C 0000270F\n"
         }
     ],
+    "5D6D051AEA5D556D": [
+        {
+            "title": "[01# Inf Ki]",
+            "content": "[01# Inf Ki]\n580A0000 022B9B78\n580A1000 00000020\n580A1000 00000090\n780A0000 00000104\n640A0000 00000000 442F0000\n\n"
+        },
+        {
+            "title": "[02# Inf Health]",
+            "content": "[02# Inf Health]\n580A0000 022B9B78\n580A1000 00000020\n580A1000 00000090\n780A0000 000000F8\n640A0000 00000000 461C4000\n780A0000 00000004\n640A0000 00000000 461C4000\n\n"
+        },
+        {
+            "title": "[03# Inf Stamina]",
+            "content": "[03# Inf Stamina]\n580A0000 022B9B78\n580A1000 00000020\n580A1000 00000090\n780A0000 00000164\n640A0000 00000000 442F0000\n\n"
+        },
+        {
+            "title": "[04# Damage mutiplier]",
+            "content": "[04# Damage mutiplier]\n580A0000 022B9B78\n580A1000 00000020\n580A1000 00000090\n780A0000 00000130\n640A0000 00000000 469C4000\n780A0000 00000004\n640A0000 00000000 469C4000\n780A0000 00000004\n640A0000 00000000 469C4000\n780A0000 00000004\n640A0000 00000000 469C4000\n\n"
+        },
+        {
+            "title": "[05# Preset 1]",
+            "content": "[05# Preset 1]\n041A0000 0166BD98 0000013C\n041A0000 0166BD9C 0000013C\n041A0000 0166BDA0 0000013C\n041A0000 0166BDA4 0000013C\n041A0000 0166BDA8 0000007E\n041A0000 0166BDAC 00000098\n041A0000 0166BDB0 0FFFFFFF\n\n"
+        },
+        {
+            "title": "[06# Preset 2]",
+            "content": "[06# Preset 2]\n041A0000 0166BE00 00000132\n041A0000 0166BE04 00000132\n041A0000 0166BE08 00000132\n041A0000 0166BE0C 00000132\n041A0000 0166BE10 00000081\n041A0000 0166BE14 00000098\n041A0000 0166BE18 0FFFFFFF\n\n"
+        },
+        {
+            "title": "[07# Preset 3]",
+            "content": "[07# Preset 3]\n041A0000 0166BE68 00000131\n041A0000 0166BE6C 00000131\n041A0000 0166BE70 00000131\n041A0000 0166BE74 00000131\n041A0000 0166BE78 00000082\n041A0000 0166BE7C 00000098\n041A0000 0166BE80 0FFFFFFF\n\n"
+        },
+        {
+            "title": "[08# Max Zeni and TP]",
+            "content": "[08# Max Zeni and TP]\n041A0000 4CE0F0A4 05F5E100\n041A0000 4CE0F0A8 05F5E100\n\n"
+        },
+        {
+            "title": "[09# Level 99]",
+            "content": "[09# Level 99]\n041A0000 4CE2D954 00000063\n\n"
+        },
+        {
+            "title": "[10# 100,000,000 Total EXP]",
+            "content": "[10# 100,000,000 Total EXP]\n041A0000 4CE2D958 05F5E100\n\n"
+        },
+        {
+            "title": "[11# 9,999 Attribute Points]",
+            "content": "[11# 9,999 Attribute Points]\n041A0000 4CE2D95C 0000270F\n\n"
+        },
+        {
+            "title": "[12# 100 Max All Attributes]",
+            "content": "[12# 100 Max All Attributes]\n041A0000 4CE2D960 00000064\n041A0000 4CE2D964 00000064\n041A0000 4CE2D974 00000064\n041A0000 4CE2D968 00000064\n041A0000 4CE2D96C 00000064\n041A0000 4CE2D970 00000064\n\n"
+        },
+        {
+            "title": "[13# Krillin Masters Max]",
+            "content": "[13# Krillin Masters Max]\n041A0000 0166C07C 000003E8\n041A0000 0166C080 00000001\n\n"
+        },
+        {
+            "title": "[14# Tien Masters Max]",
+            "content": "[14# Tien Masters Max]\n041A0000 0166C084 000003E8\n041A0000 0166C088 00000001\n\n"
+        },
+        {
+            "title": "[15# Yamcha Masters Max]",
+            "content": "[15# Yamcha Masters Max]\n041A0000 0166C08C 000003E8\n041A0000 0166C090 00000001\n\n"
+        },
+        {
+            "title": "[16# Piccolo Masters Max]",
+            "content": "[16# Piccolo Masters Max]\n041A0000 0166C094 000003E8\n041A0000 0166C098 00000001\n\n"
+        },
+        {
+            "title": "[17# Raditz Masters Max]",
+            "content": "[17# Raditz Masters Max]\n041A0000 0166C09C 000003E8\n041A0000 0166C0A0 00000001\n\n"
+        },
+        {
+            "title": "[18# Gohan (kid) Masters Max]",
+            "content": "[18# Gohan (kid) Masters Max]\n041A0000 0166C0A4 000003E8\n041A0000 0166C0A8 00000001\n\n"
+        },
+        {
+            "title": "[19# Nappa Masters Max]",
+            "content": "[19# Nappa Masters Max]\n041A0000 0166C0AC 000003E8\n041A0000 0166C0B0 00000001\n\n"
+        },
+        {
+            "title": "[20# Vegeta Masters Max]",
+            "content": "[20# Vegeta Masters Max]\n041A0000 0166C0B4 000003E8\n041A0000 0166C0B8 00000001\n\n"
+        },
+        {
+            "title": "[21# Zarbon Masters Max]",
+            "content": "[21# Zarbon Masters Max]\n041A0000 0166C0BC 000003E8\n041A0000 0166C0C0 00000001\n\n"
+        },
+        {
+            "title": "[22# Dodoria Masters Max]",
+            "content": "[22# Dodoria Masters Max]\n041A0000 0166C0C4 000003E8\n041A0000 0166C0C8 00000001\n\n"
+        },
+        {
+            "title": "[23# Captain Ginyu Masters Max]",
+            "content": "[23# Captain Ginyu Masters Max]\n041A0000 0166C0CC 000003E8\n041A0000 0166C0D0 00000001\n\n"
+        },
+        {
+            "title": "[24# Frieza Masters Max]",
+            "content": "[24# Frieza Masters Max]\n041A0000 0166C0D4 000003E8\n041A0000 0166C0D8 00000001\n\n"
+        },
+        {
+            "title": "[25# Android 18 Masters Max]",
+            "content": "[25# Android 18 Masters Max]\n041A0000 0166C0DC 000003E8\n041A0000 0166C0E0 00000001\n\n"
+        },
+        {
+            "title": "[26# Cell (perfect) Masters Max]",
+            "content": "[26# Cell (perfect) Masters Max]\n041A0000 0166C0E4 000003E8\n041A0000 0166C0E8 00000001\n\n"
+        },
+        {
+            "title": "[27# Lord Slug Masters Max]",
+            "content": "[27# Lord Slug Masters Max]\n041A0000 0166C0EC 000003E8\n041A0000 0166C0F0 00000001\n\n"
+        },
+        {
+            "title": "[28# Majin Buu Masters Max]",
+            "content": "[28# Majin Buu Masters Max]\n041A0000 0166C0F4 000003E8\n041A0000 0166C0F8 00000001\n\n"
+        },
+        {
+            "title": "[29# Hercule Masters Max]",
+            "content": "[29# Hercule Masters Max]\n041A0000 0166C0FC 000003E8\n041A0000 0166C100 00000001\n\n"
+        },
+        {
+            "title": "[30# Gohan & Videl Masters Max]",
+            "content": "[30# Gohan & Videl Masters Max]\n041A0000 0166C104 000003E8\n041A0000 0166C108 00000001\n\n"
+        },
+        {
+            "title": "[31# Gotenks Masters Max]",
+            "content": "[31# Gotenks Masters Max]\n041A0000 0166C10C 000003E8\n041A0000 0166C110 00000001\n\n"
+        },
+        {
+            "title": "[32# Turles Masters Max]",
+            "content": "[32# Turles Masters Max]\n041A0000 0166C114 000003E8\n041A0000 0166C118 00000001\n\n"
+        },
+        {
+            "title": "[33# Broly Masters Max]",
+            "content": "[33# Broly Masters Max]\n041A0000 0166C11C 000003E8\n041A0000 0166C120 00000001\n\n"
+        },
+        {
+            "title": "[34# God of Destruction Beerus Masters Max]",
+            "content": "[34# God of Destruction Beerus Masters Max]\n041A0000 0166C124 000003E8\n041A0000 0166C128 00000001\n\n"
+        },
+        {
+            "title": "[35# Pan Masters Max]",
+            "content": "[35# Pan Masters Max]\n041A0000 0166C12C 000003E8\n041A0000 0166C130 00000001\n\n"
+        },
+        {
+            "title": "[36# Jaco Masters Max]",
+            "content": "[36# Jaco Masters Max]\n041A0000 0166C134 000003E8\n041A0000 0166C138 00000001\n\n"
+        },
+        {
+            "title": "[37# Goku Masters Max]",
+            "content": "[37# Goku Masters Max]\n041A0000 0166C13C 000003E8\n041A0000 0166C140 00000001\n\n"
+        },
+        {
+            "title": "[38# Whis Masters Max]",
+            "content": "[38# Whis Masters Max]\n041A0000 0166C144 000003E8\n041A0000 0166C148 00000001\n\n"
+        },
+        {
+            "title": "[39# Cooler (Final Form) Masters Max]",
+            "content": "[39# Cooler (Final Form) Masters Max]\n041A0000 0166C14C 000003E8\n041A0000 0166C150 00000001\n\n"
+        },
+        {
+            "title": "[40# Androaid 16 Masters Max]",
+            "content": "[40# Androaid 16 Masters Max]\n041A0000 0166C154 000003E8\n041A0000 0166C158 00000001\n\n"
+        },
+        {
+            "title": "[41# Gohan (future) Masters Max]",
+            "content": "[41# Gohan (future) Masters Max]\n041A0000 0166C15C 000003E8\n041A0000 0166C160 00000001\n\n"
+        },
+        {
+            "title": "[42# Bardock Masters Max]",
+            "content": "[42# Bardock Masters Max]\n041A0000 0166C164 000003E8\n041A0000 0166C168 00000001\n\n"
+        },
+        {
+            "title": "[43# Hit Masters Max]",
+            "content": "[43# Hit Masters Max]\n041A0000 0166C16C 000003E8\n041A0000 0166C170 00000001\n\n"
+        },
+        {
+            "title": "[44# Bojack Masters Max]",
+            "content": "[44# Bojack Masters Max]\n041A0000 0166C174 000003E8\n041A0000 0166C178 00000001\n\n"
+        },
+        {
+            "title": "[45# Zamasu Masters Max]",
+            "content": "[45# Zamasu Masters Max]\n041A0000 0166C17C 000003E8\n041A0000 0166C180 00000001"
+        }
+    ],
     "0F4992D359C3B6DD": [
         {
             "title": "[Health MAX]",

@@ -157,6 +157,24 @@
             "content": "[1p damager attack normal]\n04000000 0301FE10 1E2E1000"
         }
     ],
+    "70F3F6751D73C644": [
+        {
+            "title": "[1p hit range 31x]",
+            "content": "[1p hit range 31x]\n04000000 04725790 1E27F000\n"
+        },
+        {
+            "title": "[1p hit range 31x Off]",
+            "content": "[1p hit range 31x Off]\n04000000 04725790 1E2E1000\n"
+        },
+        {
+            "title": "[1p damager attack 31x]",
+            "content": "[1p damager attack 31x]\n04000000 02E5C1A0 1E27F000\n"
+        },
+        {
+            "title": "[1p damager attack 31x Off]",
+            "content": "[1p damager attack 31x Off]\n04000000 02E5C1A0 1E2E1000"
+        }
+    ],
     "89B1333EAC986EDA": [
         {
             "title": "[01# inf Health]",
