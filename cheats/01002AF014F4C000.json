@@ -1,0 +1,28 @@
+{
+    "F20FDC280AF01CBE": [
+        {
+            "title": "[Crazy jump (ZL+B)]",
+            "content": "[Crazy jump (ZL+B)]\n80000102\n04000000 03341CE4 00000000\n20000000\n\n"
+        },
+        {
+            "title": "[hitanywhere]",
+            "content": "[hitanywhere]\n04000000 00678480 D65F03C0\n\n"
+        },
+        {
+            "title": "[hitanywhere off]",
+            "content": "[hitanywhere off]\n04000000 00678480 D10083FF\n\n"
+        },
+        {
+            "title": "[speed attack normal]",
+            "content": "[speed attack normal]\n04000000 000120B0 1E2E1008\n\n"
+        },
+        {
+            "title": "[speed attack 2x]",
+            "content": "[speed attack 2x]\n04000000 000120B0 1E201008\n\n"
+        },
+        {
+            "title": "[speed attack 3x]",
+            "content": "[speed attack 3x]\n04000000 000120B0 1E211008"
+        }
+    ]
+}

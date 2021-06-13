@@ -1,0 +1,20 @@
+{
+    "73C01D12EC628195": [
+        {
+            "title": "[Character HP]",
+            "content": "[Character HP]\n02000000 00D24B94 00001027\n04000000 00D24BC4 10271027\n\n"
+        },
+        {
+            "title": "[Crazy jump (ZL+B)]",
+            "content": "[Crazy jump (ZL+B)]\n80000102\n04000000 00C48BF4 00000000\n20000000\n\n"
+        },
+        {
+            "title": "[Inf Money]",
+            "content": "[Inf Money]\n04000000 00d22540 0001869F\n04000000 00d23990 0001869F\n\n"
+        },
+        {
+            "title": "[hitanywhere]",
+            "content": "[hitanywhere]\n04000000 00571580 D65F03C0\n\n"
+        }
+    ]
+}

@@ -18,7 +18,55 @@
         },
         {
             "title": "[No Encounters]",
-            "content": "[No Encounters]\n580F0000 037E1FB0\n580F1000 000007D0\n580F1000 00000700\n580F1000 00000728\n780F0000 000000A0\n620F0000 00000000 00000000\n"
+            "content": "[No Encounters]\n580F0000 037E1FB0\n580F1000 000007D0\n580F1000 00000700\n580F1000 00000728\n780F0000 000000A0\n620F0000 00000000 00000000\n\n"
+        },
+        {
+            "title": "[01# Inf HP]",
+            "content": "[01# Inf HP]\n040A0000 025E2F50 F9401106\n040A0000 025E2F54 794030C7\n040A0000 025E2F58 79002CC7\n040A0000 025E2F5C F9401108\n040A0000 025E2F60 D65F03C0\n040A0000 01A5589C 942E35AD\n\n"
+        },
+        {
+            "title": "[Inf HP OFF]",
+            "content": "[Inf HP OFF]\n040A0000 01A5589C F9401108\n\n"
+        },
+        {
+            "title": "[02# Inf MP]",
+            "content": "[02# Inf MP]\n040A0000 025E2F64 7900351C\n040A0000 025E2F68 79403508\n040A0000 025E2F6C D65F03C0\n040A0000 01A558A0 942E35B1\n\n"
+        },
+        {
+            "title": "[Inf MP OFF]",
+            "content": "[Inf MP OFF]\n040A0000 01A558A0 79403508\n\n"
+        },
+        {
+            "title": "[03# Inf Cash Usage]",
+            "content": "[03# Inf Cash Usage]\n040A0000 025E2F70 7100001F\n040A0000 025E2F74 1A80B3E0\n040A0000 025E2F78 2A0003F3\n040A0000 025E2F7C D65F03C0\n040A0000 01423F74 9446FBFF\n040A0000 017BE1CC 4B1F0129\n040A0000 011D8D18 481F0308\n\n"
+        },
+        {
+            "title": "[Inf Cash Usage OFF]",
+            "content": "[Inf Cash Usage OFF]\n040A0000 01423F74 2A0003F3\n040A0000 017BE1CC 4B0A0129\n040A0000 011D8D18 4B080308\n\n"
+        },
+        {
+            "title": "[04#Inf Item Usage]",
+            "content": "[04#Inf Item Usage]\n040A0000 025E2F80 6B1F027F\n040A0000 025E2F84 1A93B3F3\n040A0000 025E2F88 0B130108\n040A0000 025E2F8C D65F03C0\n040A0000 014242A8 9446FB36\n040A0000 01424384 0B1F02D6\n\n"
+        },
+        {
+            "title": "[Inf Item Usage OFF]",
+            "content": "[Inf Item Usage OFF]\n040A0000 014242A8 0B130108\n040A0000 01424384 0B1302D6\n\n"
+        },
+        {
+            "title": "[05# Exp x16]",
+            "content": "[05# Exp x16]\n040A0000 01A5B714 0B0013F6\n\n"
+        },
+        {
+            "title": "[Exp MULTPLIER OFF]",
+            "content": "[Exp MULTPLIER OFF]\n040A0000 01A5B714 2A0003F6\n\n"
+        },
+        {
+            "title": "[06# No Level Restriction]",
+            "content": "[06# No Level Restriction]\n040A0000 016EB998 D503201F\n\n"
+        },
+        {
+            "title": "[No Level Restriction OFF]",
+            "content": "[No Level Restriction OFF]\n040A0000 016EB998 6B13029F\n"
         }
     ]
 }
