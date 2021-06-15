@@ -22,7 +22,19 @@
         },
         {
             "title": "[speed attack 3x]",
-            "content": "[speed attack 3x]\n04000000 000120B0 1E211008"
+            "content": "[speed attack 3x]\n04000000 000120B0 1E211008\n\n"
+        },
+        {
+            "title": "[(PRESS L STICK) Enter Hero Mode]",
+            "content": "[(PRESS L STICK) Enter Hero Mode]\n80000010\n02000000 033423D6 00000200\n02000000 033423E8 00000200\n02000000 03342406 00000200\n04000000 03342408 02000200\n02000000 0334240C 00000200\n01000000 03322358 00000001\n20000000\n\n"
+        },
+        {
+            "title": "[Enter Hero Mode Always]",
+            "content": "[Enter Hero Mode Always]\n02000000 033423D6 00000200\n02000000 033423E8 00000200\n02000000 03342406 00000200\n04000000 03342408 02000200\n02000000 0334240C 00000200\n01000000 03322358 00000001\n\n"
+        },
+        {
+            "title": "[Maintain FPS Limit to 60]",
+            "content": "[Maintain FPS Limit to 60]\n580F0000 0748BB30\n580F1000 000003D0\n580F1000 00000030\n780F0000 00000F14\n640F0000 00000000 00000001"
         }
     ]
 }

@@ -15,6 +15,26 @@
         {
             "title": "[hitanywhere]",
             "content": "[hitanywhere]\n04000000 00571580 D65F03C0\n\n"
+        },
+        {
+            "title": "[inf mp]",
+            "content": "[inf mp]\n520F0000 00D24BCC\nA2F00400 00D24BCE\n\n"
+        },
+        {
+            "title": "[inf hp (max -> cur)]",
+            "content": "[inf hp (max -> cur)]\n520F0000 00D24BC4\nA2F00400 00D24B94\n\n"
+        },
+        {
+            "title": "[(PRESS L STICK) Enter Hero Mode]",
+            "content": "[(PRESS L STICK) Enter Hero Mode]\n80000010\n02000000 00D24B94 00000095\n02000000 00D24BC6 00000095\n04000000 00D24BC8 00950095\n01000000 00D249F1 00000001\n02000000 00D249F4 00000DDD\n20000000\n\n"
+        },
+        {
+            "title": "[Enter Hero Mode Always]",
+            "content": "[Enter Hero Mode Always]\n02000000 00D24B94 00000095\n02000000 00D24BC6 00000095\n04000000 00D24BC8 00950095\n01000000 00D249F1 00000001\n02000000 00D249F4 00000DDD\n\n\n"
+        },
+        {
+            "title": "[Hero Mode No Expiration]",
+            "content": "[Hero Mode No Expiration]\n11050000 02D15E70 00000002\n02000000 00D249F4 00000DDD\n20000000\n\n"
         }
     ]
 }
