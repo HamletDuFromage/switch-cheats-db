@@ -74,7 +74,11 @@
         },
         {
             "title": "[Maintain FPS Limit to 60]",
-            "content": "[Maintain FPS Limit to 60]\n580F0000 01EEBCF0\n580F1000 000003D0\n580F1000 00000030\n780F0000 00000F14\n640F0000 00000000 00000001"
+            "content": "[Maintain FPS Limit to 60]\n580F0000 01EEBCF0\n580F1000 000003D0\n580F1000 00000030\n780F0000 00000F14\n640F0000 00000000 00000001\n\n"
+        },
+        {
+            "title": "[*Crazy Speed Jericoss]",
+            "content": "[*Crazy Speed Jericoss]\n80000002\n04000000 018C37D8 00000000\n20000000"
         }
     ]
 }

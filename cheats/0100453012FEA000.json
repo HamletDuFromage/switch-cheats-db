@@ -1,4 +1,30 @@
 {
+    "87AB66D783094E44": [
+        {
+            "title": "[Inf Health]",
+            "content": "[Inf Health]\n580F0000 04CB3C20\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000044\n640F0000 00000000 42C80000\n780F0000 00000018\n640F0000 00000000 42C80000\n780F0000 00000008\n640F0000 00000000 42C80000\n780F0000 00000008\n640F0000 00000000 42C80000\n780F0000 00000008\n640F0000 00000000 42C80000\n\n"
+        },
+        {
+            "title": "[Inf Energy]",
+            "content": "[Inf Energy]\n580F0000 04CB3C20\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000002C\n640F0000 00000000 42C80000\n780F0000 00000028\n640F0000 00000000 42C80000\n\n"
+        },
+        {
+            "title": "[Inf oxygen]",
+            "content": "[Inf oxygen]\n580F0000 04CB3C20\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000090\n640F0000 00000000 42C80000\n\n"
+        },
+        {
+            "title": "[Moon Jump ]",
+            "content": "[Moon Jump ]\n80000080\n580F0000 04CB3CE0\n580F1000 000000B8\n580F1000 00000000\n780F0000 000000A8\n640F0000 00000000 41000000\n20000000\n\n"
+        },
+        {
+            "title": "[Jump Up]",
+            "content": "[Jump Up]\n580F0000 04CB3CE0\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000070\n640F0000 00000000 41000000\n\n"
+        },
+        {
+            "title": "[Speed Up]",
+            "content": "[Speed Up]\n580F0000 04CB3CE0\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000005C\n680F0000 41000000 41000000\n"
+        }
+    ],
     "0B0ED086A895204C": [
         {
             "title": "[Moon Jump]",
@@ -25,30 +51,122 @@
             "content": "[Inf oxygen]\n580F0000 04A91658\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000090\n640F0000 00000000 42C80000"
         }
     ],
-    "87AB66D783094E44": [
+    "D3A8F87E96C94045": [
         {
-            "title": "[Inf Health]",
-            "content": "[Inf Health]\n580F0000 04CB3C20\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000044\n640F0000 00000000 42C80000\n780F0000 00000018\n640F0000 00000000 42C80000\n780F0000 00000008\n640F0000 00000000 42C80000\n780F0000 00000008\n640F0000 00000000 42C80000\n780F0000 00000008\n640F0000 00000000 42C80000\n\n"
+            "title": "[01# Inf Health]",
+            "content": "[01# Inf Health]\n040A0000 018A8930 1CFB2640\n\n"
         },
         {
-            "title": "[Inf Energy]",
-            "content": "[Inf Energy]\n580F0000 04CB3C20\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000002C\n640F0000 00000000 42C80000\n780F0000 00000028\n640F0000 00000000 42C80000\n\n"
+            "title": "[Inf Health (off)]",
+            "content": "[Inf Health (off)]\n040A0000 018A8930 BD004660\n\n"
         },
         {
-            "title": "[Inf oxygen]",
-            "content": "[Inf oxygen]\n580F0000 04CB3C20\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000090\n640F0000 00000000 42C80000\n\n"
+            "title": "[02# Inf Stamina]",
+            "content": "[02# Inf Stamina]\n040A0000 018A7C30 1CFB8E48\n\n"
         },
         {
-            "title": "[Moon Jump ]",
-            "content": "[Moon Jump ]\n80000080\n580F0000 04CB3CE0\n580F1000 000000B8\n580F1000 00000000\n780F0000 000000A8\n640F0000 00000000 41000000\n20000000\n\n"
+            "title": "[Inf Stamina (off)]",
+            "content": "[Inf Stamina (off)]\n040A0000 018A7C30 BD402E68\n\n"
         },
         {
-            "title": "[Jump Up]",
-            "content": "[Jump Up]\n580F0000 04CB3CE0\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000070\n640F0000 00000000 41000000\n\n"
+            "title": "[03# Inf Energy]",
+            "content": "[03# Inf Energy]\n040A0000 018A8018 1CFB6F00\n\n"
         },
         {
-            "title": "[Speed Up]",
-            "content": "[Speed Up]\n580F0000 04CB3CE0\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000005C\n680F0000 41000000 41000000\n"
+            "title": "[Inf Energy (off)]",
+            "content": "[Inf Energy (off)]\n040A0000 018A8018 1E223800\n\n"
+        },
+        {
+            "title": "[04# Inf Sanity]",
+            "content": "[04# Inf Sanity]\n040A0000 01789294 52800C80\n\n"
+        },
+        {
+            "title": "[Inf Sanity (off)]",
+            "content": "[Inf Sanity (off)]\n040A0000 01789294 B9402A60\n\n"
+        },
+        {
+            "title": "[05# No Thirst]",
+            "content": "[05# No Thirst]\n040A0000 018AA674 1CFA3C28\n\n"
+        },
+        {
+            "title": "[No Thirst (off)]",
+            "content": "[No Thirst (off)]\n040A0000 018AA674 BD007668\n\n"
+        },
+        {
+            "title": "[06# Inf Oxygen]",
+            "content": "[06# Inf Oxygen]\n040A0000 018A9BC8 D503201F\n\n"
+        },
+        {
+            "title": "[Inf Oxygen (off)]",
+            "content": "[Inf Oxygen (off)]\n040A0000 018A9BC8 1E203900\n\n"
+        },
+        {
+            "title": "[07# Inf Nutrition Carbo]",
+            "content": "[07# Inf Nutrition Carbo]\n040A0000 018A92F8 1CFAD809\n\n"
+        },
+        {
+            "title": "[Inf Nutrition Carbo (off)]",
+            "content": "[Inf Nutrition Carbo (off)]\n040A0000 018A92F8 BD006669\n\n"
+        },
+        {
+            "title": "[08# Inf Nutrition Protein]",
+            "content": "[08# Inf Nutrition Protein]\n040A0000 018A9544 1CFAC5A8\n\n"
+        },
+        {
+            "title": "[Inf Nutrition Protein (off)]",
+            "content": "[Inf Nutrition Protein (off)]\n040A0000 018A9544 BD006E68\n\n"
+        },
+        {
+            "title": "[09# Inf Nutrition Fat]",
+            "content": "[09# Inf Nutrition Fat]\n040A0000 018A9424 1CFACEA9\n\n"
+        },
+        {
+            "title": "[Inf Nutrition Fat (off)]",
+            "content": "[Inf Nutrition Fat (off)]\n040A0000 018A9424 BD005E69\n\n"
+        },
+        {
+            "title": "[10# No Dirtiness]",
+            "content": "[10# No Dirtiness]\n040A0000 018AA3A8 1E2703E0\n\n"
+        },
+        {
+            "title": "[No Dirtiness (off)]",
+            "content": "[No Dirtiness (off)]\n040A0000 018AA3A8 BD007E68\n\n"
+        },
+        {
+            "title": "[11# Inf Item Durability]",
+            "content": "[11# Inf Item Durability]\n040A0000 01928750 52800020\n\n"
+        },
+        {
+            "title": "[Inf Item Durability (off)]",
+            "content": "[Inf Item Durability (off)]\n040A0000 01928750 2A1F03E0\n\n"
+        },
+        {
+            "title": "[12# Have item to craft]",
+            "content": "[12# Have item to craft]\n040A0000 01457634 52800020\n\n"
+        },
+        {
+            "title": "[Have item to craft (off)]",
+            "content": "[Have item to craft (off)]\n040A0000 01457634 940A680B\n\n"
+        },
+        {
+            "title": "[13# Godmode]",
+            "content": "[13# Godmode]\n040A0000 01928730 52800020\n\n"
+        },
+        {
+            "title": "[Godmode (off)]",
+            "content": "[Godmode (off)]\n040A0000 01928730 2A1F03E0\n\n"
+        },
+        {
+            "title": "[14# Moonjump]",
+            "content": "[14# Moonjump]\n80000080\n580F0000 04A99DA0\n580F1000 000000B8\n580F1000 00000000\n780F0000 000000A8\n640F0000 00000000 41000000\n20000000\n\n"
+        },
+        {
+            "title": "[15# Jump Up]",
+            "content": "[15# Jump Up]\n580F0000 04A99DA0\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000070\n640F0000 00000000 41000000\n\n"
+        },
+        {
+            "title": "[16# Speed Up]",
+            "content": "[16# Speed Up]\n580F0000 04A99DA0\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000005C\n680F0000 41000000 41000000"
         }
     ]
 }

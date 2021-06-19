@@ -1,0 +1,64 @@
+{
+    "AF134532A4E50784": [
+        {
+            "title": "[01# Inf Ammo]",
+            "content": "[01# Inf Ammo]\n040A0000 00B063D4 52800C68\n\n"
+        },
+        {
+            "title": "[Inf Ammo (off)]",
+            "content": "[Inf Ammo (off)]\n040A0000 00B063D4 1A888028\n\n"
+        },
+        {
+            "title": "[02# Inf Grenades]",
+            "content": "[02# Inf Grenades]\n040A0000 00B184E4 1E2703E0\n\n"
+        },
+        {
+            "title": "[Inf Grenades (off)]",
+            "content": "[Inf Grenades (off)]\n040A0000 00B184E4 BD00AA60\n\n"
+        },
+        {
+            "title": "[03# Inf Health (ZL off)]",
+            "content": "[03# Inf Health (ZL off)]\n040A0000 008F0C5C BD005E60\n80000100\n040A0000 008F0C5C BD005A60\n20000000\n\n"
+        },
+        {
+            "title": "[Inf Health (off)]",
+            "content": "[Inf Health (off)]\n040A0000 008F0C5C BD005A60\n\n"
+        },
+        {
+            "title": "[04# Inf clip]",
+            "content": "[04# Inf clip]\n040A0000 00B03404 52800039\n\n"
+        },
+        {
+            "title": "[Inf clip (off)]",
+            "content": "[Inf clip (off)]\n040A0000 00B03404 39442279\n\n"
+        },
+        {
+            "title": "[05# Fast Amulet Charge]",
+            "content": "[05# Fast Amulet Charge]\n040A0000 00A4F914 1E2E1001\n\n"
+        },
+        {
+            "title": "[Fast Amulet Charge (off)]",
+            "content": "[Fast Amulet Charge (off)]\n040A0000 00A4F914 BD416C01\n\n"
+        },
+        {
+            "title": "[06# Instant Amulet Charge]",
+            "content": "[06# Instant Amulet Charge]\n040A0000 00A4E768 9105F289\n\n"
+        },
+        {
+            "title": "[Instant Amulet Charge (off)]",
+            "content": "[Instant Amulet Charge (off)]\n040A0000 00A4E768 9105B289\n\n"
+        },
+        {
+            "title": "[07# Money Multiplier]",
+            "content": "[07# Money Multiplier]\n040A0000 009F8E28 0B141108\n\n"
+        },
+        {
+            "title": "[Money Multiplier (off)]",
+            "content": "[Money Multiplier (off)]\n040A0000 009F8E28 0B140108\n\n"
+        },
+        {
+            "title": "[Inf Health]",
+            "content": "[Inf Health]\n580A0000 062523E8\n580A1000 00000410\n780A0000 00000908\n640A0000 00000000 42C80000"
+        }
+    ]
+}
