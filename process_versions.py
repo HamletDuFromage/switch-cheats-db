@@ -69,3 +69,6 @@ class ProcessVersions:
                 with open(path, 'w') as json_file:
                     json.dump(self.versions_dict[tid], json_file, indent = 4)
                     print(f"Updated {path}")
+
+if __name__ == '__main__':
+    ProcessVersions("https://raw.githubusercontent.com/blawar/titledb/master/cnmts.json").updateVersions()
