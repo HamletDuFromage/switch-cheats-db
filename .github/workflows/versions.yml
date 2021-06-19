@@ -20,7 +20,7 @@ jobs:
           if [ -f ./requirements_versions.txt ]; then pip3 install -r ./requirements_versions.txt; fi
       - name: run script
         run: |
-          python3 versions.py
+          python3 -c 'from process_versions import ProcessVersions; ProcessVersions("https://raw.githubusercontent.com/blawar/titledb/master/cnmts.json").updateVersions()'
       - name: push changes
         run: |
           git config --global user.name 'HamletDuFromage'
