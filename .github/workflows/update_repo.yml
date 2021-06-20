@@ -1,4 +1,4 @@
-name: upload gbatemp cheats
+name: Update Repo
 
 on:
   schedule: 
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  switch-cheats-db:
+  update-cheats:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
@@ -20,8 +20,10 @@ jobs:
       - name: install python dependencies
         run: |
           if [ -f ./requirements_cheats.txt ]; then pip3 install -r ./requirements_cheats.txt; fi
+
       - name: install dependencies
         run: sudo apt-get install unrar rename
+
       - name: run python script
         run: |
           python3 upload_cheats.py $(curl -s -L https://github.com/HamletDuFromage/switch-cheats-db/releases/download/v1.0/VERSION)
@@ -49,3 +51,38 @@ jobs:
           else
             echo "Nothing to commit!"
           fi
+
+
+  update-versions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: install dependencies
+        run: |
+          if [ -f ./requirements_versions.txt ]; then pip3 install -r ./requirements_versions.txt; fi
+
+      - name: run script
+        run: |
+          python3 process_versions.py
+
+      - name: push changes
+        run: |
+          git config --global user.name 'HamletDuFromage'
+          git config --global user.email '61667930+HamletDuFromage@users.noreply.github.com'
+          git add versions.json
+          git add versions.cbor
+          git add versions/*
+          if [[ `git status --porcelain` ]]; then
+            git commit -m "automatic: updated version files"
+            git push
+          else
+            echo "Nothing to commit!"
+          fi
+

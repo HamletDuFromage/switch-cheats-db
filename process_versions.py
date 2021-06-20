@@ -26,10 +26,10 @@ class ProcessVersions:
 
     def getVersionDict(self):
         for tid in self.data:
-            if(tid[:13] + "000") not in self.versions_dict:
+            if (tid[:13] + "000") not in self.versions_dict:
                 self.versions_dict[tid[:13] + "000"] = {}
             for ver in self.data[tid]:
-                if("BUILDID" in self.data[tid][ver]["CONTENTENTRIES"][0]):
+                if "BUILDID" in self.data[tid][ver]["CONTENTENTRIES"][0]:
                     self.versions_dict[tid[:13] + "000"][str(self.data[tid][ver]["VERSION"])] = self.data[tid][ver]["CONTENTENTRIES"][0]["BUILDID"][:16]
 
     def checkForChanges(self):
@@ -47,8 +47,7 @@ class ProcessVersions:
         with open(self.json_path, 'w') as json_file:
             json.dump(self.versions_dict, json_file, indent = 4)
         with open(self.cbor_path, 'wb') as cbor_file:
-            json_out = json.dumps(self.versions_dict)
-            cbor2.dump(json_out, cbor_file)
+            cbor2.dump(json.dumps(self.versions_dict), cbor_file)
         print(f"Updated master {self.json_path} and {self.cbor_path}")
 
     def writeTitleFiles(self):
