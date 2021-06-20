@@ -1,6 +1,5 @@
 # switch-cheat-db
-[![update versions](https://github.com/HamletDuFromage/switch-cheats-db/actions/workflows/versions.yml/badge.svg)](https://github.com/HamletDuFromage/switch-cheats-db/actions/workflows/versions.yml)
-[![upload gbatemp cheats](https://github.com/HamletDuFromage/switch-cheats-db/actions/workflows/upload_cheat.yml/badge.svg)](https://github.com/HamletDuFromage/switch-cheats-db/actions/workflows/upload_cheat.yml)
+[![Update Repo](https://github.com/HamletDuFromage/switch-cheats-db/actions/workflows/update_repo.yml/badge.svg)](https://github.com/HamletDuFromage/switch-cheats-db/actions/workflows/update_repo.yml)
 
 A database of cheats for the Nintendo Switch. It updates once a day, see the date in the release
 
