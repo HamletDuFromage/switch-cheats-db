@@ -1,0 +1,20 @@
+{
+    "4620F3BB04D55348": [
+        {
+            "title": "[Fuel]",
+            "content": "[Fuel]\n02100000 908D0B58 00000019\n\n"
+        },
+        {
+            "title": "[Money]",
+            "content": "[Money]\n02100000 908D0B54 0000270F\n\n"
+        },
+        {
+            "title": "[Ammo]",
+            "content": "[Ammo]\n02100000 908D0B50 000003E7\n\n"
+        },
+        {
+            "title": "[Supplies]",
+            "content": "[Supplies]\n02100000 908D0B68 000003E7"
+        }
+    ]
+}
