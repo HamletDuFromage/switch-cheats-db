@@ -58,7 +58,19 @@
         },
         {
             "title": "[Inf Health]",
-            "content": "[Inf Health]\n580A0000 062523E8\n580A1000 00000410\n780A0000 00000908\n640A0000 00000000 42C80000"
+            "content": "[Inf Health]\n580A0000 062523E8\n580A1000 00000410\n780A0000 00000908\n640A0000 00000000 42C80000\n\n"
+        },
+        {
+            "title": "[HP]",
+            "content": "[HP]\n580F0000 06213458\n580F1000 000000E8\n580F1000 00000A10\n580F1000 000003A0\n780F0000 00000908\n680F0000 43FA0000 43FA0000\n\n"
+        },
+        {
+            "title": "[skill point]",
+            "content": "[skill point]\n04000000 062456E8 00000008\n\n"
+        },
+        {
+            "title": "[skill point (pointer version, it looks static, pointer version as a backup)]",
+            "content": "[skill point (pointer version, it looks static, pointer version as a backup)]\n580F0000 05B52A60\n580F1000 000003F0\n580F1000 00000070\n780F0000 0000012B\n640F0000 00000000 00000008"
         }
     ]
 }
