@@ -6,6 +6,7 @@ import time
 import datetime
 import os
 import rarfile
+import zipfile
 import shutil
 import cloudscraper
 import sys
@@ -37,14 +38,23 @@ if __name__ == '__main__':
         dl = scraper.get(dl_url, allow_redirects=True)
         open("titles.rar", "wb").write(dl.content)
 
-        rf = rarfile.RarFile("titles.rar")
-        rf.extractall()
+        correct_archive = False
+        if rarfile.is_rarfile("titles.rar") :
+            rf = rarfile.RarFile("titles.rar")
+            rf.extractall()
+            correct_archive = True
+        elif zipfile.is_zipfile("titles.rar"):
+            zf = zipfile.ZipFile("titles.rar")
+            zf.extractall()
+            correct_archive = True
 
-        shutil.make_archive("titles", "zip", base_dir="titles")
-        os.rename("titles", "contents")
-        shutil.make_archive("contents", "zip", base_dir="contents")
+        if correct_archive:
+            shutil.make_archive("titles", "zip", base_dir="titles")
+            os.rename("titles", "contents")
+            shutil.make_archive("contents", "zip", base_dir="contents")
+            ProcessCheats("contents", "cheats").parseCheats()
+        else:
+            print("Invalid archive")
 
-        ProcessCheats("contents", "cheats").parseCheats()
-    
     else:
         print(f"Cheats are already up to date at version: {version}")
