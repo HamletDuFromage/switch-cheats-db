@@ -59,6 +59,8 @@ jobs:
     steps:
       - name: checkout repo content
         uses: actions/checkout@v2
+        with:
+          ref: 'master'
 
       - name: setup python
         uses: actions/setup-python@v2
