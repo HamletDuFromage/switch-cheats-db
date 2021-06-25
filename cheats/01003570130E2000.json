@@ -1,0 +1,24 @@
+{
+    "8AF5434B6DBB81CC": [
+        {
+            "title": "[lucre]",
+            "content": "[lucre]\n04000000 01CB2A50 000F4240\n\n"
+        },
+        {
+            "title": "[The following is for inventory research]",
+            "content": "[The following is for inventory research]\n"
+        },
+        {
+            "title": "[first item]",
+            "content": "[first item]\n01000000 01CB6000 00000001\n"
+        },
+        {
+            "title": "[last item]",
+            "content": "[last item]\n01000000 01CB60D7 000000C8\n\n"
+        },
+        {
+            "title": "[Fill memory from first to last with 1..99 1..99 1..18 with this code you can research the memory location for items, this code only works on atmosphere]",
+            "content": "[Fill memory from first to last with 1..99 1..99 1..18 with this code you can research the memory location for items, this code only works on atmosphere]\n400F0000 00000000 01CB6000\n400A0000 00000000 00000001\n30000000 00000063\nA1AF1300\n780A0000 00000001\n31000000\n400A0000 00000000 00000001\n30000000 00000063\nA1AF1300\n780A0000 00000001\n31000000\n400A0000 00000000 00000001\n30000000 00000012\nA1AF1300\n780A0000 00000001\n31000000"
+        }
+    ]
+}

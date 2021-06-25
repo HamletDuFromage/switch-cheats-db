@@ -34,7 +34,31 @@
         },
         {
             "title": "[Special Power Maximum @TheTwilightZone]",
-            "content": "[Special Power Maximum @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 00000008\n780F0000 00000044\n640F0000 00000000 00010303"
+            "content": "[Special Power Maximum @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 00000008\n780F0000 00000044\n640F0000 00000000 00010303\n\n"
+        },
+        {
+            "title": "[1p normal speed]",
+            "content": "[1p normal speed]\n04000000 000BAA60 1E2E1000\n\n"
+        },
+        {
+            "title": "[1p 2x speed]",
+            "content": "[1p 2x speed]\n04000000 000BAA60 1E201000\n\n"
+        },
+        {
+            "title": "[1p 3x speed]",
+            "content": "[1p 3x speed]\n04000000 000BAA60 1E211000\n\n"
+        },
+        {
+            "title": "[1p inf heath]",
+            "content": "[1p inf heath]\n04000000 000102B0 1E37F009\n\n"
+        },
+        {
+            "title": "[1p attack up 31x]",
+            "content": "[1p attack up 31x]\n04000000 00010AA0 1E27F009\n\n"
+        },
+        {
+            "title": "[1p hit range 31x]",
+            "content": "[1p hit range 31x]\n04000000 0009E9C4 1E27F009"
         }
     ],
     "0496D4B4C6AE1CF4": [

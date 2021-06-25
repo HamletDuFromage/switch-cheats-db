@@ -38,7 +38,15 @@
         },
         {
             "title": "[*Crazy Speed Jericoss]",
-            "content": "[*Crazy Speed Jericoss]\n80000002\n04000000 03341CE8 00000000\n20000000"
+            "content": "[*Crazy Speed Jericoss]\n80000002\n04000000 03341CE8 00000000\n20000000\n\n"
+        },
+        {
+            "title": "[1p invicible on ]",
+            "content": "[1p invicible on ]\n04000000 00028890 D503201F\n\n"
+        },
+        {
+            "title": "[1p invicible off ]",
+            "content": "[1p invicible off ]\n04000000 00028890 72001C1F"
         }
     ]
 }
