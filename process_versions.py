@@ -46,9 +46,9 @@ class ProcessVersions:
     def writeMasterFiles(self):
         with open(self.json_path, 'w') as json_file:
             json.dump(self.versions_dict, json_file, indent = 4)
-        with open(self.cbor_path, 'wb') as cbor_file:
-            cbor2.dump(json.dumps(self.versions_dict), cbor_file)
-        print(f"Updated master {self.json_path} and {self.cbor_path}")
+        """ with open(self.cbor_path, 'wb') as cbor_file:
+            cbor2.dump(json.dumps(self.versions_dict), cbor_file) """
+        print(f"Updated master {self.json_path}")
 
     def writeTitleFiles(self):
         if not(os.path.exists(self.dir_path)):
