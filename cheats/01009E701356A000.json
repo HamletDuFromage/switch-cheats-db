@@ -22,7 +22,39 @@
         },
         {
             "title": "[INF DNA on change/buy]",
-            "content": "[INF DNA on change/buy]\n04000000 0091FB74 529B2061\n04000000 0091FB78 B945A815\n04000000 0091FB7C D65F03C0\n04000000 0093F5D8 97FF8167"
+            "content": "[INF DNA on change/buy]\n04000000 0091FB74 529B2061\n04000000 0091FB78 B945A815\n04000000 0091FB7C D65F03C0\n04000000 0093F5D8 97FF8167\n\n"
+        },
+        {
+            "title": "[Destroy All Humans! v1.0.0 (v0) by Eiffel]",
+            "content": "[Destroy All Humans! v1.0.0 (v0) by Eiffel]\n"
+        },
+        {
+            "title": "[4x DNA gain]",
+            "content": "[4x DNA gain]\n080E0000 0093FC48 0B010901 531E7433\n\n"
+        },
+        {
+            "title": "[No reduction for DNA]",
+            "content": "[No reduction for DNA]\n040E0000 0094456C 4B1F0141\n\n"
+        },
+        {
+            "title": "[Immortal]",
+            "content": "[Immortal]\n080E0000 03673D30 3900A660 3940A260\n080E0000 03673D38 1747E47C AA1303E0\n040E0000 0086D924 94B81903\n\n"
+        },
+        {
+            "title": "[Invisible (on)]",
+            "content": "[Invisible (on)]\n040E0000 05E4F5D0 00000001\n\n"
+        },
+        {
+            "title": "[Invisible (off)]",
+            "content": "[Invisible (off)]\n040E0000 05E4F5D0 00000000\n\n"
+        },
+        {
+            "title": "[Infinite Charge & Ammo]",
+            "content": "[Infinite Charge & Ammo]\n040E0000 00893D98 52800020\n\n"
+        },
+        {
+            "title": "[Infinite fuel]",
+            "content": "[Infinite fuel]\n040E0000 008261F8 D503201F"
         }
     ]
 }
