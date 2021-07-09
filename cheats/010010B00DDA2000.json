@@ -1,4 +1,14 @@
 {
+    "FF114A09D935BE7A": [
+        {
+            "title": "[HP]",
+            "content": "[HP]\n580F0000 05A63F78\n580F1000 00000008\n580F1000 00000008\n580F1000 000003A0\n780F0000 00000ABC\n640F0000 00000000 00000012\n\n"
+        },
+        {
+            "title": "[Upgrade Points]",
+            "content": "[Upgrade Points]\n580F0000 05A63F78\n580F1000 00000008\n580F1000 00000008\n580F1000 00000440\n780F0000 000000B8\n640F0000 00000000 0000000F\n\n"
+        }
+    ],
     "AB09E78CDFEC6E08": [
         {
             "title": "[Lock Upgrade Points]",
