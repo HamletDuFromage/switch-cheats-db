@@ -1,52 +1,12 @@
 {
-    "489DCE236CC2CA95": [
+    "5D3EEE4C03B390A7": [
         {
-            "title": "[1p invicible]",
-            "content": "[1p invicible]\n04000000 02E05130 D65F03C0\n\n"
+            "title": "[1p invincible on]",
+            "content": "[1p invincible on]\n04000000 02F385B0 D65F03C0\n\n"
         },
         {
-            "title": "[Ships]",
-            "content": "[Ships]\n80000008\n580F0000 07972910\n580F1000 00000008\n780F0000 0000011C\n640F0000 00000000 00000009\n20000000\n\n"
-        },
-        {
-            "title": "[Score 10M]",
-            "content": "[Score 10M]\n80000008\n580F0000 07972910\n580F1000 00000008\n780F0000 00000124\n640F0000 00000000 00989680\n20000000\n\n"
-        },
-        {
-            "title": "[Wave Cannon Ready]",
-            "content": "[Wave Cannon Ready]\n80000008\n580F0000 0793DE20\n580F1000 00000000\n580F1000 00000020\n780F0000 0000043C\n640F0000 00000000 42C80000\n20000000"
-        }
-    ],
-    "225EA8C428EF4C9D": [
-        {
-            "title": "[1p invicible no get tens on]",
-            "content": "[1p invicible no get tens on]\n04000000 02E97360 D65F03C0\n\n"
-        },
-        {
-            "title": "[1p invicible no get tens off]",
-            "content": "[1p invicible no get tens off]\n04000000 02E97360 F81D0FF5"
-        }
-    ],
-    "5EEFE50943FC63F3": [
-        {
-            "title": "[Press Y for Beam]",
-            "content": "[Press Y for Beam]\n80000008\n580F0000 07A0CE20\n580F1000 00000000\n580F1000 00000020\n780F0000 0000043C\n640F0000 00000000 42C80000\n20000000\n\n"
-        },
-        {
-            "title": "[Infinite Lives v100]",
-            "content": "[Infinite Lives v100]\n580f0000 06E17A00\n580f1000 00000020\n780f0000 000001FC\n640f0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Y Charged Attack]",
-            "content": "[Y Charged Attack]\n80000008\n580F0000 07A0CE20\n580F1000 00000000\n580F1000 00000020\n780F0000 0000043C\n640f0000 00000000 42c80000\n20000000\n\n"
-        },
-        {
-            "title": "[Infinite Full Dose after gain]",
-            "content": "[Infinite Full Dose after gain]\n04000000 00AC6D48 d503201f\n04000000 00AC87F8 bd070661\n\n"
-        },
-        {
-            "title": "[100000 S E B Points]",
-            "content": "[100000 S E B Points]\n580f0000 06E17A00\n580f1000 00000028\n580f1000 00000010\n580f1000 000000C8\n580f1000 000000D0\n780f0000 00000000\n680f0000 000186a0 000186a0\n780f0000 00000008\n640f0000 00000000 000186a0\n"
+            "title": "[1p invincible off get items]",
+            "content": "[1p invincible off get items]\n04000000 02F385B0 F81D0FF5"
         }
     ],
     "41B6418E96424D37": [
@@ -89,6 +49,56 @@
         {
             "title": "[6) Invincible (ZR Pressed)]",
             "content": "[6) Invincible (ZR Pressed)]\n040E0000 02EF83C8 D63F0100\n80000200\n040E0000 02EF83C8 D503201F\n20000000\n"
+        }
+    ],
+    "225EA8C428EF4C9D": [
+        {
+            "title": "[1p invicible no get tens on]",
+            "content": "[1p invicible no get tens on]\n04000000 02E97360 D65F03C0\n\n"
+        },
+        {
+            "title": "[1p invicible no get tens off]",
+            "content": "[1p invicible no get tens off]\n04000000 02E97360 F81D0FF5"
+        }
+    ],
+    "5EEFE50943FC63F3": [
+        {
+            "title": "[Press Y for Beam]",
+            "content": "[Press Y for Beam]\n80000008\n580F0000 07A0CE20\n580F1000 00000000\n580F1000 00000020\n780F0000 0000043C\n640F0000 00000000 42C80000\n20000000\n\n"
+        },
+        {
+            "title": "[Infinite Lives v100]",
+            "content": "[Infinite Lives v100]\n580f0000 06E17A00\n580f1000 00000020\n780f0000 000001FC\n640f0000 00000000 00000009\n\n"
+        },
+        {
+            "title": "[Y Charged Attack]",
+            "content": "[Y Charged Attack]\n80000008\n580F0000 07A0CE20\n580F1000 00000000\n580F1000 00000020\n780F0000 0000043C\n640f0000 00000000 42c80000\n20000000\n\n"
+        },
+        {
+            "title": "[Infinite Full Dose after gain]",
+            "content": "[Infinite Full Dose after gain]\n04000000 00AC6D48 d503201f\n04000000 00AC87F8 bd070661\n\n"
+        },
+        {
+            "title": "[100000 S E B Points]",
+            "content": "[100000 S E B Points]\n580f0000 06E17A00\n580f1000 00000028\n580f1000 00000010\n580f1000 000000C8\n580f1000 000000D0\n780f0000 00000000\n680f0000 000186a0 000186a0\n780f0000 00000008\n640f0000 00000000 000186a0\n"
+        }
+    ],
+    "489DCE236CC2CA95": [
+        {
+            "title": "[1p invicible]",
+            "content": "[1p invicible]\n04000000 02E05130 D65F03C0\n\n"
+        },
+        {
+            "title": "[Ships]",
+            "content": "[Ships]\n80000008\n580F0000 07972910\n580F1000 00000008\n780F0000 0000011C\n640F0000 00000000 00000009\n20000000\n\n"
+        },
+        {
+            "title": "[Score 10M]",
+            "content": "[Score 10M]\n80000008\n580F0000 07972910\n580F1000 00000008\n780F0000 00000124\n640F0000 00000000 00989680\n20000000\n\n"
+        },
+        {
+            "title": "[Wave Cannon Ready]",
+            "content": "[Wave Cannon Ready]\n80000008\n580F0000 0793DE20\n580F1000 00000000\n580F1000 00000020\n780F0000 0000043C\n640F0000 00000000 42C80000\n20000000"
         }
     ]
 }
