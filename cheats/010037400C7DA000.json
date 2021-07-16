@@ -1,4 +1,26 @@
 {
+    "092E5781403F9625": [
+        {
+            "title": "[HP]",
+            "content": "[HP]\n580F0000 046C7068\n580F1000 00000050\n780F0000 0000032C\n640F0000 00000000 00000003\n\n"
+        },
+        {
+            "title": "[Golden Seeds 250]",
+            "content": "[Golden Seeds 250]\n580F0000 046C7068\n580F1000 00000050\n780F0000 00000268\n640F0000 00000000 000000FF\n\n"
+        },
+        {
+            "title": "[Silver Coins 99]",
+            "content": "[Silver Coins 99]\n580F0000 046C7068\n580F1000 00000050\n780F0000 00000270\n640F0000 00000000 00000063\n\n"
+        },
+        {
+            "title": "[Manaroc 6]",
+            "content": "[Manaroc 6]\n580F0000 046C7068\n580F1000 00000050\n780F0000 0000024C\n640F0000 00000000 00000006\n\n"
+        },
+        {
+            "title": "[Hits Received 0 - For stats at the end of a level]",
+            "content": "[Hits Received 0 - For stats at the end of a level]\n580F0000 046C7068\n580F1000 00000050\n780F0000 00000330\n640F0000 00000000 00000000"
+        }
+    ],
     "64D3B49F38C60F55": [
         {
             "title": "[Hearts unlimited]",

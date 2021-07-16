@@ -14,7 +14,15 @@
         },
         {
             "title": "[Infinite Spiral Charges (3)]",
-            "content": "[Infinite Spiral Charges (3)]\n01000000 06186B32 00000003"
+            "content": "[Infinite Spiral Charges (3)]\n01000000 06186B32 00000003\n\n"
+        },
+        {
+            "title": "[1p hit range on]",
+            "content": "[1p hit range on]\n04000000 00ACE198 1E2E1002\n\n"
+        },
+        {
+            "title": "[1p hit range off]",
+            "content": "[1p hit range off]\n04000000 00ACE198 1E2E1001"
         }
     ]
 }
