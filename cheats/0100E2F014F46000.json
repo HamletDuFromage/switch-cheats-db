@@ -44,5 +44,15 @@
             "title": "[hitanywhere all weapon]",
             "content": "[hitanywhere all weapon]\n04000000 00569630 D503201F\n\n"
         }
+    ],
+    "7AEABB797C931714": [
+        {
+            "title": "[hitanywhere all weapon on]",
+            "content": "[hitanywhere all weapon on]\n04000000 00569630 D503201F\n\n"
+        },
+        {
+            "title": "[hitanywhere all weapon off]",
+            "content": "[hitanywhere all weapon off]\n04000000 00569630 72001C1F"
+        }
     ]
 }

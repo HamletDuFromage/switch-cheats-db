@@ -96,5 +96,23 @@
             "title": "[rachel hitanywhere Inferno Hammer off]",
             "content": "[rachel hitanywhere Inferno Hammer off]\n04000000 006EB6D0 D10483FF"
         }
+    ],
+    "EB526F5A41621D69": [
+        {
+            "title": "[hitanywhere all weapon on]",
+            "content": "[hitanywhere all weapon on]\n04000000 006E3C40 D65F03C0\n\n"
+        },
+        {
+            "title": "[hitanywhere all weapon off]",
+            "content": "[hitanywhere all weapon off]\n04000000 006E3C40 FC170FEC\n\n"
+        },
+        {
+            "title": "[hitanywhere rachel arms on]",
+            "content": "[hitanywhere rachel arms on]\n04000000 006E9BE0 D65F03C0\n\n"
+        },
+        {
+            "title": "[hitanywhere rachel arms off]",
+            "content": "[hitanywhere rachel arms off]\n04000000 006E9BE0 D10483FF"
+        }
     ]
 }
