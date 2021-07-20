@@ -1,0 +1,20 @@
+{
+    "230115D50145B816": [
+        {
+            "title": "[HP]",
+            "content": "[HP]\n08000000 05E0F1C0 40100000 00000000\n\n"
+        },
+        {
+            "title": "[Ammo]",
+            "content": "[Ammo]\n08000000 05E0F2E0 40220000 00000000\n\n"
+        },
+        {
+            "title": "[Money]",
+            "content": "[Money]\n08000000 05E0F2F0 40C38780 00000000\n\n"
+        },
+        {
+            "title": "[Secondary weapon]",
+            "content": "[Secondary weapon]\n580F0000 05B47DD0\n580F1000 00000038\n780F0000 000000C0\n680F0000 40080000 00000000"
+        }
+    ]
+}
