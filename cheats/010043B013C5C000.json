@@ -6,7 +6,31 @@
         },
         {
             "title": "[Max Money]",
-            "content": "[Max Money]\n580F0000 051A0740\n580F1000 000000B8\n580F1000 00000148\n580F1000 000001E0\n780F0000 00000024\n640F0000 00000000 0098967F"
+            "content": "[Max Money]\n580F0000 051A0740\n580F1000 000000B8\n580F1000 00000148\n580F1000 000001E0\n780F0000 00000024\n640F0000 00000000 0098967F\n\n"
+        },
+        {
+            "title": "[01# Inf HP]",
+            "content": "[01# Inf HP]\n040A0000 01673B68 5284E1F6\n\n"
+        },
+        {
+            "title": "[02# No CD Psychics]",
+            "content": "[02# No CD Psychics]\n040A0000 0173BB28 D503201F\n\n"
+        },
+        {
+            "title": "[03# Instant kill]",
+            "content": "[03# Instant kill]\n040A0000 017078B4 5284E1F4\n\n"
+        },
+        {
+            "title": "[04# Exp x8]",
+            "content": "[04# Exp x8]\n040A0000 01EE39D8 0B151115\n\n"
+        },
+        {
+            "title": "[05# Droprate 300%]",
+            "content": "[05# Droprate 300%]\n040A0000 01EE2D74 43960000\n040A0000 01EE2CE4 1C000488\n\n"
+        },
+        {
+            "title": "[06# Money x8]",
+            "content": "[06# Money x8]\n040A0000 01EE3C48 0B142108"
         }
     ]
 }

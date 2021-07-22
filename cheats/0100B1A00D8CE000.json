@@ -52,5 +52,63 @@
             "title": "[Inf Shield]",
             "content": "[Inf Shield]\n580F0000 05CCC350\n580F1000 00000000\n580F1000 00000018\n780F0000 000000C4\n640F0000 00000000 42C80000"
         }
+    ],
+    "C4E8ABDE598CBE54": [
+        {
+            "title": "[01# God Mode]",
+            "content": "[01# God Mode]\n040A0000 061DA0B8 00000001\n\n"
+        },
+        {
+            "title": "[02# Inf Ammo]",
+            "content": "[02# Inf Ammo]\n040A0000 06205E90 00000001\n\n"
+        },
+        {
+            "title": "[03# Infinite Doublejump]",
+            "content": "[03# Infinite Doublejump]\n040A0000 06103EA8 00000001\n\n"
+        },
+        {
+            "title": "[04# Inf Clips]",
+            "content": "[04# Inf Clips]\n040A0000 06205F08 00000001\n\n"
+        },
+        {
+            "title": "[05# Inf ThrowItems]",
+            "content": "[05# Inf ThrowItems]\n040A0000 06205F80 00000001\n\n"
+        },
+        {
+            "title": "[06# Ignore ChargeTimeout]",
+            "content": "[06# Ignore ChargeTimeout]\n040A0000 06205E18 00000001\n\n"
+        },
+        {
+            "title": "[07# No Weapon Overheat]",
+            "content": "[07# No Weapon Overheat]\n040A0000 062060E8 00000001\n\n"
+        },
+        {
+            "title": "[God Mode (off)]",
+            "content": "[God Mode (off)]\n040A0000 061DA0B8 00000000\n\n"
+        },
+        {
+            "title": "[Inf Ammo (off)]",
+            "content": "[Inf Ammo (off)]\n040A0000 06205E90 00000000\n\n"
+        },
+        {
+            "title": "[Infinite Doublejump (off)]",
+            "content": "[Infinite Doublejump (off)]\n040A0000 06103EA8 00000000\n\n"
+        },
+        {
+            "title": "[Inf Clips (off)]",
+            "content": "[Inf Clips (off)]\n040A0000 06205F08 00000000\n\n"
+        },
+        {
+            "title": "[Inf ThrowItems (off)]",
+            "content": "[Inf ThrowItems (off)]\n040A0000 06205F80 00000000\n\n"
+        },
+        {
+            "title": "[Ignore ChargeTimeout (off)]",
+            "content": "[Ignore ChargeTimeout (off)]\n040A0000 06205E18 00000000\n\n"
+        },
+        {
+            "title": "[No Weapon Overheat (off)]",
+            "content": "[No Weapon Overheat (off)]\n040A0000 062060E8 00000000"
+        }
     ]
 }
