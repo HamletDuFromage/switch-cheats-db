@@ -1,0 +1,60 @@
+{
+    "AEA6B2652EA9E34B": [
+        {
+            "title": "[inf use ultimate skill]",
+            "content": "[inf use ultimate skill]\n04000000 00EE5F70 1E27F00C\n\n"
+        },
+        {
+            "title": "[inf user rage]",
+            "content": "[inf user rage]\n04000000 00D691E0 D65F03C0\n\n"
+        },
+        {
+            "title": "[inf use musou]",
+            "content": "[inf use musou]\n04000000 00D68AE0 D65F03C0\n\n"
+        },
+        {
+            "title": "[speed run normal]",
+            "content": "[speed run normal]\n04000000 00D3D630 1E2E1008\n\n"
+        },
+        {
+            "title": "[speed run 1.25x]",
+            "content": "[speed run 1.25x]\n04000000 00D3D630 1E2E9008\n\n"
+        },
+        {
+            "title": "[speed run 1.5x]",
+            "content": "[speed run 1.5x]\n04000000 00D3D630 1E2F1008\n\n"
+        },
+        {
+            "title": "[speed run 1.75x]",
+            "content": "[speed run 1.75x]\n04000000 00D3D630 1E2F9008\n\n"
+        },
+        {
+            "title": "[speed run 2x]",
+            "content": "[speed run 2x]\n04000000 00D3D630 1E201008\n\n"
+        },
+        {
+            "title": "[hitanywhere on]",
+            "content": "[hitanywhere on]\n04000000 00D074D0 D65F03C0\n\n"
+        },
+        {
+            "title": "[hitanywhere off]",
+            "content": "[hitanywhere off]\n04000000 00D074D0 A9BF7BFD\n\n"
+        },
+        {
+            "title": "[L pad Invicible both]",
+            "content": "[L pad Invicible both]\n04000000 00D07470 A9BF7BFD\n80000040\n04000000 00D07470 D65F03C0\n20000000\n\n"
+        },
+        {
+            "title": "[always ice wind lightning hit on]",
+            "content": "[always ice wind lightning hit on]\n04000000 00CC6C60 D65F03C0\n\n"
+        },
+        {
+            "title": "[always ice wind lightning hit off]",
+            "content": "[always ice wind lightning hit off]\n04000000 00CC6C60 F81C0FF7\n\n"
+        },
+        {
+            "title": "[1p hit kill]",
+            "content": "[1p hit kill]\n04000000 00E55B10 D65F03C0\n"
+        }
+    ]
+}

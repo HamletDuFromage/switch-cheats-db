@@ -1,4 +1,22 @@
 {
+    "6A3E02D91948EC42": [
+        {
+            "title": "[PP 99999 by jhmiller]",
+            "content": "[PP 99999 by jhmiller]\n580F0000 043FE0D0\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000028\n640F0000 00000000 0001869F\n\n"
+        },
+        {
+            "title": "[Money 9999999 by jhmiller]",
+            "content": "[Money 9999999 by jhmiller]\n580F0000 04501F50\n580F1000 000004F8\n580F1000 00000190\n780F0000 00000024\n640F0000 00000000 0098967F\n\n"
+        },
+        {
+            "title": "[FP 99]",
+            "content": "[FP 99]\n580F0000 04FA61D0\n580F1000 00000708\n780F0000 000006A0\n640F0000 00000000 00000063\n\n"
+        },
+        {
+            "title": "[HP al Max - Atmosphere]",
+            "content": "[HP al Max - Atmosphere]\n580F0000 04FDAA18\n580F1000 00000258\n580F1000 00000480\n580F1000 00000020\n780F0000 0000005C\n989EF000\n580E1000 00000000\n780F0000 00000004\n989DF000\n580D1000 00000000\nC043D5E0\nA4EF0000\n20000000"
+        }
+    ],
     "F48FBF0922D5424A": [
         {
             "title": "[Drop Rate 100%]",
@@ -30,7 +48,43 @@
         },
         {
             "title": "[06# Money x8]",
-            "content": "[06# Money x8]\n040A0000 01EE3C48 0B142108"
+            "content": "[06# Money x8]\n040A0000 01EE3C48 0B142108\n\n"
+        },
+        {
+            "title": "[speed game normal X pad menu come back later enter]",
+            "content": "[speed game normal X pad menu come back later enter]\n04000000 0195F5F8 1E2E1000\n\n"
+        },
+        {
+            "title": "[speed game 1.25x ]",
+            "content": "[speed game 1.25x ]\n04000000 0195F5F8 1E2E9000\n\n"
+        },
+        {
+            "title": "[speed game 1.5x ]",
+            "content": "[speed game 1.5x ]\n04000000 0195F5F8 1E2F1000\n\n"
+        },
+        {
+            "title": "[speed game 1.75x ]",
+            "content": "[speed game 1.75x ]\n04000000 0195F5F8 1E2F9000\n\n"
+        },
+        {
+            "title": "[speed game 2x ]",
+            "content": "[speed game 2x ]\n04000000 0195F5F8 1E201000\n\n"
+        },
+        {
+            "title": "[speed game 2.25x ]",
+            "content": "[speed game 2.25x ]\n04000000 0195F5F8 1E205000\n\n"
+        },
+        {
+            "title": "[speed game 2.5x ]",
+            "content": "[speed game 2.5x ]\n04000000 0195F5F8 1E209000\n\n"
+        },
+        {
+            "title": "[speed game 2.75x ]",
+            "content": "[speed game 2.75x ]\n04000000 0195F5F8 1E20D000\n\n"
+        },
+        {
+            "title": "[speed game 5x ]",
+            "content": "[speed game 5x ]\n04000000 0195F5F8 1E229000"
         }
     ]
 }
