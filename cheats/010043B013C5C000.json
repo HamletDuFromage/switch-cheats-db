@@ -14,7 +14,87 @@
         },
         {
             "title": "[HP al Max - Atmosphere]",
-            "content": "[HP al Max - Atmosphere]\n580F0000 04FDAA18\n580F1000 00000258\n580F1000 00000480\n580F1000 00000020\n780F0000 0000005C\n989EF000\n580E1000 00000000\n780F0000 00000004\n989DF000\n580D1000 00000000\nC043D5E0\nA4EF0000\n20000000"
+            "content": "[HP al Max - Atmosphere]\n580F0000 04FDAA18\n580F1000 00000258\n580F1000 00000480\n580F1000 00000020\n780F0000 0000005C\n989EF000\n580E1000 00000000\n780F0000 00000004\n989DF000\n580D1000 00000000\nC043D5E0\nA4EF0000\n20000000\n\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n010E0000 014C2C6A 0000001F\n"
+        },
+        {
+            "title": "[Invincible - off]",
+            "content": "[Invincible - off]\n010E0000 014C2C6A 00000001\n\n"
+        },
+        {
+            "title": "[2x Exp up]",
+            "content": "[2x Exp up]\n040E0000 01FFBD28 531F7835\n"
+        },
+        {
+            "title": "[4x Exp up]",
+            "content": "[4x Exp up]\n040E0000 01FFBD28 531E7435\n"
+        },
+        {
+            "title": "[8x Exp up]",
+            "content": "[8x Exp up]\n040E0000 01FFBD28 531D7035\n"
+        },
+        {
+            "title": "[16x Exp up]",
+            "content": "[16x Exp up]\n040E0000 01FFBD28 531C6C35\n"
+        },
+        {
+            "title": "[32x Exp up]",
+            "content": "[32x Exp up]\n040E0000 01FFBD28 531B6835\n"
+        },
+        {
+            "title": "[Normal Exp up]",
+            "content": "[Normal Exp up]\n040E0000 01FFBD28 2A0103F5\n\n"
+        },
+        {
+            "title": "[2x Money up]",
+            "content": "[2x Money up]\n040E0000 01FFBFA8 531F7834\n"
+        },
+        {
+            "title": "[4x Money up]",
+            "content": "[4x Money up]\n040E0000 01FFBFA8 531E7434\n"
+        },
+        {
+            "title": "[8x Money up]",
+            "content": "[8x Money up]\n040E0000 01FFBFA8 531D7034\n"
+        },
+        {
+            "title": "[16x Money up]",
+            "content": "[16x Money up]\n040E0000 01FFBFA8 531C6C34\n"
+        },
+        {
+            "title": "[32x Money up]",
+            "content": "[32x Money up]\n040E0000 01FFBFA8 531B6834\n"
+        },
+        {
+            "title": "[Normal Money up]",
+            "content": "[Normal Money up]\n040E0000 01FFBFA8 2A0103F4\n\n"
+        },
+        {
+            "title": "[2x Skill Points up]",
+            "content": "[2x Skill Points up]\n010E0000 2B010108 00000005\n"
+        },
+        {
+            "title": "[4x Skill Points up]",
+            "content": "[4x Skill Points up]\n010E0000 2B010108 00000009\n"
+        },
+        {
+            "title": "[8x Skill Points up]",
+            "content": "[8x Skill Points up]\n010E0000 2B010108 0000000D\n"
+        },
+        {
+            "title": "[16x Skill Points up]",
+            "content": "[16x Skill Points up]\n010E0000 2B010108 00000011\n"
+        },
+        {
+            "title": "[32x Skill Points up]",
+            "content": "[32x Skill Points up]\n010E0000 2B010108 00000015\n"
+        },
+        {
+            "title": "[Normal Skill Points up]",
+            "content": "[Normal Skill Points up]\n010E0000 2B010108 00000001"
         }
     ],
     "F48FBF0922D5424A": [
