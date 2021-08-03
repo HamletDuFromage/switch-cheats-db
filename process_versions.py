@@ -22,15 +22,15 @@ class ProcessVersions:
             self.writeTitleFiles()
 
     def loadVersionFile(self):
-        self.data = json.loads(requests.get(self.url).text.upper())
+        self.data = json.loads(requests.get(self.url).text)
 
     def getVersionDict(self):
         for tid in self.data:
-            if (tid[:13] + "000") not in self.versions_dict:
-                self.versions_dict[tid[:13] + "000"] = {}
+            if (tid[:13].upper() + "000") not in self.versions_dict:
+                self.versions_dict[tid[:13].upper() + "000"] = {}
             for ver in self.data[tid]:
-                if "BUILDID" in self.data[tid][ver]["CONTENTENTRIES"][0]:
-                    self.versions_dict[tid[:13] + "000"][str(self.data[tid][ver]["VERSION"])] = self.data[tid][ver]["CONTENTENTRIES"][0]["BUILDID"][:16]
+                if "buildId" in self.data[tid][ver]["contentEntries"][0]:
+                    self.versions_dict[tid[:13].upper() + "000"][str(self.data[tid][ver]["version"])] = self.data[tid][ver]["contentEntries"][0]["buildId"][:16].upper()
 
     def checkForChanges(self):
         try:
