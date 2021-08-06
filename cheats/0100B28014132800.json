@@ -54,7 +54,23 @@
         },
         {
             "title": "[1p hit kill]",
-            "content": "[1p hit kill]\n04000000 00E55B10 D65F03C0\n"
+            "content": "[1p hit kill]\n04000000 00E55B10 D65F03C0\n\n"
+        },
+        {
+            "title": "[Inf Gold]",
+            "content": "[Inf Gold]\n04100000 01e2a444 000F423F\n\n"
+        },
+        {
+            "title": "[Inf Skill]",
+            "content": "[Inf Skill]\n04100000 01e2a450 000F423F\n\n"
+        },
+        {
+            "title": "[INF EXP]",
+            "content": "[INF EXP]\n04100000 0a7b4b88 0098967F\n\n"
+        },
+        {
+            "title": "[INF MASTERY]",
+            "content": "[INF MASTERY]\n04100000 01e2a454 0098967F\n"
         }
     ]
 }
