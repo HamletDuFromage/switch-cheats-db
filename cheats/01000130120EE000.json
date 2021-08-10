@@ -1,0 +1,36 @@
+{
+    "915A86B4D6A5EACD": [
+        {
+            "title": "[Fuga, Melodies of Steel v1.0.0 (v0) by Eiffel]",
+            "content": "[Fuga, Melodies of Steel v1.0.0 (v0) by Eiffel]\n"
+        },
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n010E0000 0065492E 0000001F\n020E0000 006456CC 000003E8\n\n"
+        },
+        {
+            "title": "[8x ATK]",
+            "content": "[8x ATK]\n010E0000 0064D12D 0000000D\n\n"
+        },
+        {
+            "title": "[Infinite Skill Points]",
+            "content": "[Infinite Skill Points]\n010E0000 0065AA22 0000001F\n\n"
+        },
+        {
+            "title": "[Infinite AP (talking)]",
+            "content": "[Infinite AP (talking)]\n040E0000 00564354 2A1F03F4\n\n"
+        },
+        {
+            "title": "[Infinite AP (housework)]",
+            "content": "[Infinite AP (housework)]\n010E0000 005641A6 0000001F\n\n"
+        },
+        {
+            "title": "[Max items when receiving]",
+            "content": "[Max items when receiving]\n040E0000 005F1390 52800C73\n\n"
+        },
+        {
+            "title": "[Item not reduce]",
+            "content": "[Item not reduce]\n010E0000 005FFBE2 0000001F"
+        }
+    ]
+}
