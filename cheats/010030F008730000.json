@@ -1,8 +1,8 @@
 {
     "1C61F740AACAB8CD": [
         {
-            "title": "[From MAX-CHEATS.com by eco95 for ACA NEOGEO Real Bout Fatal Fury]",
-            "content": "[From MAX-CHEATS.com by eco95 for ACA NEOGEO Real Bout Fatal Fury]\n\n"
+            "title": "[by eco95 and xtatu for ACA NEOGEO Real Bout Fatal Fury]",
+            "content": "[by eco95 and xtatu for ACA NEOGEO Real Bout Fatal Fury]\n\n"
         },
         {
             "title": "[P1 Infinite HP]",
@@ -18,7 +18,11 @@
         },
         {
             "title": "[P2 NO Super]",
-            "content": "[P2 NO Super]\n04000000 0125B588 00000000"
+            "content": "[P2 NO Super]\n04000000 0125B588 00000000\n\n"
+        },
+        {
+            "title": "[HITANYWHERE BOTH]",
+            "content": "[HITANYWHERE BOTH]\n04100000 0087B0CABC 60004A40"
         }
     ]
 }

@@ -1,0 +1,252 @@
+{
+    "219522748B02D4A9": [
+        {
+            "title": "[Invincible]",
+            "content": "[Invincible]\n010E0000 0059E646 0000001F\n"
+        },
+        {
+            "title": "[Invincible - off]",
+            "content": "[Invincible - off]\n010E0000 0059E646 00000009\n\n"
+        },
+        {
+            "title": "[Infinite SP]",
+            "content": "[Infinite SP]\n040E0000 0059E730 D503201F\n\n"
+        },
+        {
+            "title": "[Invincible of Drone]",
+            "content": "[Invincible of Drone]\n010E0000 0059E67A 0000001F\n"
+        },
+        {
+            "title": "[Invincible of Drone- off]",
+            "content": "[Invincible of Drone- off]\n010E0000 0059E67A 00000001\n\n"
+        },
+        {
+            "title": "[At least 31 Upgrade points]",
+            "content": "[At least 31 Upgrade points]\n040E0000 0059E4E8 1E27F001\n\n"
+        },
+        {
+            "title": "[Moonjump (Hold down the B key)]",
+            "content": "[Moonjump (Hold down the B key)]\n80000002\n580F0000 0606C770\n580F1000 000001E8\n780F0000 0000002C\n640F0000 00000000 C0200000\n20000000\n\n"
+        },
+        {
+            "title": "[HP 500]",
+            "content": "[HP 500]\n580F0000 0606D700\n580F1000 000000E0\n580F1000 000001C0\n780F0000 00000208\n620F0000 00000000 000001F4\n580F0000 0606D700\n580F1000 000000E0\n580F1000 000001C0\n780F0000 0000020C\n620F0000 00000000 000001F4\n\n"
+        },
+        {
+            "title": "[EN 1000]",
+            "content": "[EN 1000]\n580F0000 0606D700\n580F1000 000000E0\n580F1000 000001C0\n780F0000 00000218\n640F0000 00000000 447A0000\n580F0000 0606D700\n580F1000 000000E0\n580F1000 000001C0\n780F0000 0000021C\n640F0000 00000000 447A0000\n\n"
+        },
+        {
+            "title": "[Axiom Verge 2 v1.0.1 (v65536) by Eiffel]",
+            "content": "[Axiom Verge 2 v1.0.1 (v65536) by Eiffel]\n"
+        },
+        {
+            "title": "[Invincible (inf. Hit Points)]",
+            "content": "[Invincible (inf. Hit Points)]\n010E0000 0059E646 0000001F\n"
+        },
+        {
+            "title": "[Infinite Nano Points]",
+            "content": "[Infinite Nano Points]\n040E0000 0059E730 D503201F\n"
+        },
+        {
+            "title": "[Invincible Drone (inf. Drone Hit Points)]",
+            "content": "[Invincible Drone (inf. Drone Hit Points)]\n010E0000 0059E67A 0000001F\n"
+        },
+        {
+            "title": "[At least 31 Apocalypse Points (for Upgrade)]",
+            "content": "[At least 31 Apocalypse Points (for Upgrade)]\n040E0000 0059E4E8 1E27F001\n"
+        },
+        {
+            "title": "[Has Compass]",
+            "content": "[Has Compass]\n040E0000 0059BAF0 52800020\n"
+        },
+        {
+            "title": "[Has Amashilama]",
+            "content": "[Has Amashilama]\n040E0000 0059BAD0 52800020\n"
+        },
+        {
+            "title": "[Allow grasp Ledge without Sheshkala]",
+            "content": "[Allow grasp Ledge without Sheshkala]\n040E0000 0059BB20 52800020\n"
+        },
+        {
+            "title": "[Allow Melee Charge without Rah]",
+            "content": "[Allow Melee Charge without Rah]\n040E0000 0059BC60 52800020\n"
+        },
+        {
+            "title": "[Moving Freely in Water without Liru]",
+            "content": "[Moving Freely in Water without Liru]\n040E0000 0059BAE0 52800020\n"
+        },
+        {
+            "title": "[Allow Climb Walls without Ninhursag]",
+            "content": "[Allow Climb Walls without Ninhursag]\n040E0000 0059BB20 52800020\n"
+        },
+        {
+            "title": "[Infinite Stamina (for climbing)]",
+            "content": "[Infinite Stamina (for climbing)]\n040E0000 00493E10 D503201F\n"
+        },
+        {
+            "title": "[Enhanced Launch]",
+            "content": "[Enhanced Launch]\n040E0000 0059BAC0 52800020\n"
+        },
+        {
+            "title": "[Has Compass Gem]",
+            "content": "[Has Compass Gem]\n040E0000 0059BB00 52800020\n"
+        },
+        {
+            "title": "[Allow Drone Flying]",
+            "content": "[Allow Drone Flying]\n040E0000 0059BB10 52800020\n"
+        },
+        {
+            "title": "[Can Enter Breach]",
+            "content": "[Can Enter Breach]\n040E0000 0059BB30 52800020\n"
+        },
+        {
+            "title": "[Has Turbo Zip]",
+            "content": "[Has Turbo Zip]\n040E0000 0059BC30 52800020\n"
+        },
+        {
+            "title": "[Allow Fast Travel]",
+            "content": "[Allow Fast Travel]\n040E0000 0059BC40 52800020\n"
+        },
+        {
+            "title": "[Allow Hacking]",
+            "content": "[Allow Hacking]\n040E0000 0059BC50 52800020\n"
+        },
+        {
+            "title": "[Allow Drone Melee Charge]",
+            "content": "[Allow Drone Melee Charge]\n040E0000 0059BC70 52800020\n"
+        },
+        {
+            "title": "[Allow Melee Charge Projectile]",
+            "content": "[Allow Melee Charge Projectile]\n040E0000 0059BC80 52800020\n"
+        },
+        {
+            "title": "[Allow Drone Charge Projectile]",
+            "content": "[Allow Drone Charge Projectile]\n040E0000 0059BC90 52800020\n"
+        },
+        {
+            "title": "[Allow Full Health Projectile]",
+            "content": "[Allow Full Health Projectile]\n040E0000 0059BCA0 52800020\n"
+        },
+        {
+            "title": "[Allow Ground Pound]",
+            "content": "[Allow Ground Pound]\n040E0000 0059BCB0 52800020\n"
+        },
+        {
+            "title": "[Allow Night Vision]",
+            "content": "[Allow Night Vision]\n040E0000 0059BCC0 52800020\n"
+        },
+        {
+            "title": "[Allow Zaltu]",
+            "content": "[Allow Zaltu]\n040E0000 0059BCD0 52800020\n"
+        },
+        {
+            "title": "[Moon jump (Press Up and jump)]",
+            "content": "[Moon jump (Press Up and jump)]\n080E0000 033BBF00 F9400300 1E202829\n080E0000 033BBF08 F9404000 F940A000\n080E0000 033BBF10 54000040 F240001F\n080E0000 033BBF18 D65F03C0 1E204029\n040E0000 0049E184 94BC775F\n\n"
+        },
+        {
+            "title": "[Invincible (inf. Hit Points)]",
+            "content": "[Invincible (inf. Hit Points)]\n010E0000 0059E646 0000001F\n"
+        },
+        {
+            "title": "[Infinite Nano Points]",
+            "content": "[Infinite Nano Points]\n040E0000 0059E730 D503201F\n"
+        },
+        {
+            "title": "[Invincible Drone (inf. Drone Hit Points)]",
+            "content": "[Invincible Drone (inf. Drone Hit Points)]\n010E0000 0059E67A 0000001F\n"
+        },
+        {
+            "title": "[At least 31 Apocalypse Points (for Upgrade)]",
+            "content": "[At least 31 Apocalypse Points (for Upgrade)]\n040E0000 0059E4E8 1E27F001\n"
+        },
+        {
+            "title": "[Has Compass]",
+            "content": "[Has Compass]\n040E0000 0059BAF0 52800020\n"
+        },
+        {
+            "title": "[Has Amashilama]",
+            "content": "[Has Amashilama]\n040E0000 0059BAD0 52800020\n"
+        },
+        {
+            "title": "[Allow grasp Ledge without Sheshkala]",
+            "content": "[Allow grasp Ledge without Sheshkala]\n040E0000 0059BB20 52800020\n"
+        },
+        {
+            "title": "[Allow Melee Charge without Rah]",
+            "content": "[Allow Melee Charge without Rah]\n040E0000 0059BC60 52800020\n"
+        },
+        {
+            "title": "[Moving Freely in Water without Liru]",
+            "content": "[Moving Freely in Water without Liru]\n040E0000 0059BAE0 52800020\n"
+        },
+        {
+            "title": "[Allow Climb Walls without Ninhursag]",
+            "content": "[Allow Climb Walls without Ninhursag]\n040E0000 0059BB20 52800020\n"
+        },
+        {
+            "title": "[Infinite Stamina (for climbing)]",
+            "content": "[Infinite Stamina (for climbing)]\n040E0000 00493E10 D503201F\n"
+        },
+        {
+            "title": "[Enhanced Launch]",
+            "content": "[Enhanced Launch]\n040E0000 0059BAC0 52800020\n"
+        },
+        {
+            "title": "[Has Compass Gem]",
+            "content": "[Has Compass Gem]\n040E0000 0059BB00 52800020\n"
+        },
+        {
+            "title": "[Allow Drone Flying]",
+            "content": "[Allow Drone Flying]\n040E0000 0059BB10 52800020\n"
+        },
+        {
+            "title": "[Can Enter Breach]",
+            "content": "[Can Enter Breach]\n040E0000 0059BB30 52800020\n"
+        },
+        {
+            "title": "[Has Turbo Zip]",
+            "content": "[Has Turbo Zip]\n040E0000 0059BC30 52800020\n"
+        },
+        {
+            "title": "[Allow Fast Travel]",
+            "content": "[Allow Fast Travel]\n040E0000 0059BC40 52800020\n"
+        },
+        {
+            "title": "[Allow Hacking]",
+            "content": "[Allow Hacking]\n040E0000 0059BC50 52800020\n"
+        },
+        {
+            "title": "[Allow Drone Melee Charge]",
+            "content": "[Allow Drone Melee Charge]\n040E0000 0059BC70 52800020\n"
+        },
+        {
+            "title": "[Allow Melee Charge Projectile]",
+            "content": "[Allow Melee Charge Projectile]\n040E0000 0059BC80 52800020\n"
+        },
+        {
+            "title": "[Allow Drone Charge Projectile]",
+            "content": "[Allow Drone Charge Projectile]\n040E0000 0059BC90 52800020\n"
+        },
+        {
+            "title": "[Allow Full Health Projectile]",
+            "content": "[Allow Full Health Projectile]\n040E0000 0059BCA0 52800020\n"
+        },
+        {
+            "title": "[Allow Ground Pound]",
+            "content": "[Allow Ground Pound]\n040E0000 0059BCB0 52800020\n"
+        },
+        {
+            "title": "[Allow Night Vision]",
+            "content": "[Allow Night Vision]\n040E0000 0059BCC0 52800020\n"
+        },
+        {
+            "title": "[Allow Zaltu]",
+            "content": "[Allow Zaltu]\n040E0000 0059BCD0 52800020\n\n"
+        },
+        {
+            "title": "[Moon jump (Press B+UP rise, UP stay in midair)]",
+            "content": "[Moon jump (Press B+UP rise, UP stay in midair)]\n080E0000 033BBF00 F9400300 1E202829\n080E0000 033BBF08 F9404000 F940A000\n080E0000 033BBF10 540000C0 F240001F\n080E0000 033BBF18 54000061 F27C001F\n080E0000 033BBF20 14000002 1E2703E9\n080E0000 033BBF28 D65F03C0 1E321009\n040E0000 0049E184 94BC775F"
+        }
+    ]
+}

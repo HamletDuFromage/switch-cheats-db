@@ -1,58 +1,4 @@
 {
-    "0367B729A8638F45": [
-        {
-            "title": "[Inf Ammo]",
-            "content": "[Inf Ammo]\n04000000 05CFC680 00000001\n\n"
-        },
-        {
-            "title": "[God Mode]",
-            "content": "[God Mode]\n04000000 05CD7E70 00000001\n\n"
-        },
-        {
-            "title": "[inf Clips]",
-            "content": "[inf Clips]\n04000000 05CFC6F8 00000001\n\n"
-        },
-        {
-            "title": "[inf ThrowItems]",
-            "content": "[inf ThrowItems]\n04000000 05CFC770 00000001\n\n"
-        },
-        {
-            "title": "[ignore ChargeTimeout]",
-            "content": "[ignore ChargeTimeout]\n04000000 05CFC608 00000001\n\n"
-        },
-        {
-            "title": "[inf ThrowItems]",
-            "content": "[inf ThrowItems]\n04000000 05CFC770 00000001\n\n"
-        },
-        {
-            "title": "[no Weapon Overheat]",
-            "content": "[no Weapon Overheat]\n04000000 05CFC8D8 00000001\n\n"
-        },
-        {
-            "title": "[Inf Double Jumps]",
-            "content": "[Inf Double Jumps]\n04000000 05C0E7E0 00000001\n\n"
-        },
-        {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000002\n580F0000 05CCC350\n580F1000 00000000\n580F1000 00000010\n580F1000 000001C8\n580F1000 00003870\n780F0000 000006D4\n640F0000 00000000 40A00000\n20000000\n\n"
-        },
-        {
-            "title": "[Speed Up]",
-            "content": "[Speed Up]\n580F0000 05CCC350\n580F1000 00000000\n580F1000 00000010\n580F1000 000001C8\n580F1000 00003870\n780F0000 00000A0C\n640F0000 00000000 40000000\n\n"
-        },
-        {
-            "title": "[Inf HP]",
-            "content": "[Inf HP]\n580F0000 05CCC350\n580F1000 00000000\n580F1000 00000018\n780F0000 0000006C\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[View Change (Hold L3)]",
-            "content": "[View Change (Hold L3)]\n580F0000 05CCC350\n580F1000 00000000\n580F1000 00000018\n780F0000 00000150\n640F0000 00000000 00010000\n80000010\n640F0000 00000000 00010001\n20000000\n\n"
-        },
-        {
-            "title": "[Inf Shield]",
-            "content": "[Inf Shield]\n580F0000 05CCC350\n580F1000 00000000\n580F1000 00000018\n780F0000 000000C4\n640F0000 00000000 42C80000"
-        }
-    ],
     "C4E8ABDE598CBE54": [
         {
             "title": "[01# God Mode]",
@@ -109,6 +55,242 @@
         {
             "title": "[No Weapon Overheat (off)]",
             "content": "[No Weapon Overheat (off)]\n040A0000 062060E8 00000000"
+        }
+    ],
+    "01357918AFDDE9C0": [
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n580F0000 061D7270\n580F1000 00000000\n580F1000 00000010\n580F1000 000001C8\n580F1000 00003870\n780F0000 000006D4\n640F0000 00000000 40A00000 \n20000000\n\n"
+        },
+        {
+            "title": "[(ZL) Speed Up x3]",
+            "content": "[(ZL) Speed Up x3]\n580F0000 061D7270\n580F1000 00000000\n580F1000 00000010\n580F1000 000001C8\n580F1000 00003870\n780F0000 00000A0C\n640F0000 00000000 3F800000 \n80000100\n640F0000 00000000 40400000 \n20000000\n\n"
+        },
+        {
+            "title": "[Inf. Health]",
+            "content": "[Inf. Health]\n580F0000 061D7270\n580F1000 00000000\n580F1000 00000018\n780F0000 0000006C\n640F0000 00000000 43480000\n\n"
+        },
+        {
+            "title": "[Inf. Shield]",
+            "content": "[Inf. Shield]\n580F0000 061D7270\n580F1000 00000000\n580F1000 00000018\n780F0000 000000CC\n640F0000 00000000 43480000\n\n"
+        },
+        {
+            "title": "[Inf. Extra Lives (ON)]",
+            "content": "[Inf. Extra Lives (ON)]\n040C0000 061E52F8 00000001\n"
+        },
+        {
+            "title": "[Inf. Extra Lives (OFF)]",
+            "content": "[Inf. Extra Lives (OFF)]\n040C0000 061E52F8 00000000\n\n"
+        },
+        {
+            "title": "[God Mode (ON)]",
+            "content": "[God Mode (ON)]\n040A0000 061DF0B8 00000001\n"
+        },
+        {
+            "title": "[God Mode (OFF)]",
+            "content": "[God Mode (OFF)]\n040A0000 061DF0B8 00000000\n\n"
+        },
+        {
+            "title": "[Inf. Ammo (ON)]",
+            "content": "[Inf. Ammo (ON)]\n040A0000 0620AE90 00000001\n"
+        },
+        {
+            "title": "[Inf. Ammo (OFF)]",
+            "content": "[Inf. Ammo (OFF)]\n040A0000 0620AE90 00000000\n\n"
+        },
+        {
+            "title": "[Inf. Chainsaw (ON)]",
+            "content": "[Inf. Chainsaw (ON)]\n040C0000 06208EC8 00000001\n"
+        },
+        {
+            "title": "[Inf. Chainsaw (OFF)]",
+            "content": "[Inf. Chainsaw (OFF)]\n040C0000 06208EC8 00000000\n\n"
+        },
+        {
+            "title": "[Inf. Clips (ON)]",
+            "content": "[Inf. Clips (ON)]\n040A0000 0620AF08 00000001\n"
+        },
+        {
+            "title": "[Inf. Clips (OFF)]",
+            "content": "[Inf. Clips (OFF)]\n040A0000 0620AF08 00000000\n\n"
+        },
+        {
+            "title": "[Ignore Charge Timeout (ON)]",
+            "content": "[Ignore Charge Timeout (ON)]\n040A0000 0620AE18 00000001\n"
+        },
+        {
+            "title": "[Ignore Charge Timeout (OFF)]",
+            "content": "[Ignore Charge Timeout (OFF)]\n040A0000 0620AE18 00000000\n\n"
+        },
+        {
+            "title": "[No Weapon Overheat (ON)]",
+            "content": "[No Weapon Overheat (ON)]\n040A0000 0620B0E8 00000001\n"
+        },
+        {
+            "title": "[No Weapon Overheat (OFF)]",
+            "content": "[No Weapon Overheat (OFF)]\n040A0000 0620B0E8 00000000\n\n"
+        },
+        {
+            "title": "[Inf. Throw Items (ON)]",
+            "content": "[Inf. Throw Items (ON)]\n040A0000 0620AF80 00000001\n"
+        },
+        {
+            "title": "[Inf. Throw Items (OFF)]",
+            "content": "[Inf. Throw Items (OFF)]\n040A0000 0620AF80 00000000\n\n"
+        },
+        {
+            "title": "[Inf. Doublejumps (ON)]",
+            "content": "[Inf. Doublejumps (ON)]\n040A0000 06108EA8 00000001\n"
+        },
+        {
+            "title": "[Inf. Doublejumps (OFF)]",
+            "content": "[Inf. Doublejumps (OFF)]\n040A0000 06108EA8 00000000\n\n"
+        },
+        {
+            "title": "[Inf. Dash (ON)]",
+            "content": "[Inf. Dash (ON)]\n040A0000 06193660 00000001\n"
+        },
+        {
+            "title": "[Inf. Dash (OFF)]",
+            "content": "[Inf. Dash (OFF)]\n040A0000 06193660 00000000\n\n"
+        },
+        {
+            "title": "[Quick Re-Dash (ON)]",
+            "content": "[Quick Re-Dash (ON)]\n040C0000 061936D8 00000005\n"
+        },
+        {
+            "title": "[Quick Re-Dash (OFF)]",
+            "content": "[Quick Re-Dash (OFF)]\n040C0000 061936D8 00000500\n\n"
+        },
+        {
+            "title": "[Demons always drop Ammo & Health (ON)]",
+            "content": "[Demons always drop Ammo & Health (ON)]\n040C0000 0613C690 00000001\n"
+        },
+        {
+            "title": "[Demons always drop Ammo & Health (OFF)]",
+            "content": "[Demons always drop Ammo & Health (OFF)]\n040C0000 0613C690 00000000\n\n"
+        },
+        {
+            "title": "[Disable Demon Attacks (ON)]",
+            "content": "[Disable Demon Attacks (ON)]\n040C0000 06116150 00000000\n"
+        },
+        {
+            "title": "[Disable Demon Attacks (OFF)]",
+            "content": "[Disable Demon Attacks (OFF)]\n040C0000 06116150 00000001\n\n"
+        },
+        {
+            "title": "[Disable Enemy Movement (ON)]",
+            "content": "[Disable Enemy Movement (ON)]\n040C0000 0612A0A0 00000000\n"
+        },
+        {
+            "title": "[Disable Enemy Movement (OFF)]",
+            "content": "[Disable Enemy Movement (OFF)]\n040C0000 0612A0A0 00000001\n\n"
+        },
+        {
+            "title": "[Disable Enemy Senses (ON)]",
+            "content": "[Disable Enemy Senses (ON)]\n040C0000 0612B810 00000000\n"
+        },
+        {
+            "title": "[Disable Enemy Senses (OFF)]",
+            "content": "[Disable Enemy Senses (OFF)]\n040C0000 0612B810 00000001\n\n"
+        },
+        {
+            "title": "[Force Enemy Idle (ON)]",
+            "content": "[Force Enemy Idle (ON)]\n040C0000 06122E10 00000001\n"
+        },
+        {
+            "title": "[Force Enemy Idle (OFF)]",
+            "content": "[Force Enemy Idle (OFF)]\n040C0000 06122E10 00000000\n\n"
+        },
+        {
+            "title": "[Inf. Upgrade Points]",
+            "content": "[Inf. Upgrade Points]\n580C0000 061D7270\n580C1000 00000000\n580C1000 00000018\n580C1000 00000150\n580C1000 00000010\n780C0000 00000084\n640C0000 00000000 000003E7\n780C0000 00000004\n640C0000 00000000 000003E7\n780C0000 00000004\n640C0000 00000000 000003E7\n780C0000 00000008\n640C0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Speed Up x2]",
+            "content": "[Speed Up x2]\n580F0000 061D7270\n580F1000 00000000\n580F1000 00000010\n580F1000 000001C8\n580F1000 00003870\n780F0000 00000A0C\n640F0000 00000000 40000000\n\n"
+        },
+        {
+            "title": "[Speed Up x4]",
+            "content": "[Speed Up x4]\n580F0000 061D7270\n580F1000 00000000\n580F1000 00000010\n580F1000 000001C8\n580F1000 00003870\n780F0000 00000A0C\n640F0000 00000000 40800000\n\n"
+        },
+        {
+            "title": "[Unlock Classic Doom]",
+            "content": "[Unlock Classic Doom]\n040C0000 0614A2C8 00000001\n\n"
+        },
+        {
+            "title": "[-- Doom I & II Cheats --]",
+            "content": "[-- Doom I & II Cheats --]\n00000000 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Inf. Health]",
+            "content": "[Inf. Health]\n580C0000 05F9EDC0\n580C1000 000023D0\n580C1000 000000C0\n780C0000 00000024\n640C0000 00000000 000003E7\n580C0000 05F9EDC0\n580C1000 000023D0\n580C1000 00000100\n780C0000 000000CC\n640C0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Inf. Armor]",
+            "content": "[Inf. Armor]\n580C0000 05F9EDC0\n580C1000 000023D0\n580C1000 000000C0\n780C0000 00000028\n640C0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Inf. Ammo]",
+            "content": "[Inf. Ammo]\n580C0000 05F9EDC0\n580C1000 000023D0\n580C1000 000000C0\n780C0000 000000A0\n300D0000 00000004\n640C0000 00000000 000003E7\n780C0000 00000004\n310D0000\n\n"
+        },
+        {
+            "title": "[Credits: crazy_p, Patjenova]",
+            "content": "[Credits: crazy_p, Patjenova]\n00000000 00000000 00000000"
+        }
+    ],
+    "0367B729A8638F45": [
+        {
+            "title": "[Inf Ammo]",
+            "content": "[Inf Ammo]\n04000000 05CFC680 00000001\n\n"
+        },
+        {
+            "title": "[God Mode]",
+            "content": "[God Mode]\n04000000 05CD7E70 00000001\n\n"
+        },
+        {
+            "title": "[inf Clips]",
+            "content": "[inf Clips]\n04000000 05CFC6F8 00000001\n\n"
+        },
+        {
+            "title": "[inf ThrowItems]",
+            "content": "[inf ThrowItems]\n04000000 05CFC770 00000001\n\n"
+        },
+        {
+            "title": "[ignore ChargeTimeout]",
+            "content": "[ignore ChargeTimeout]\n04000000 05CFC608 00000001\n\n"
+        },
+        {
+            "title": "[inf ThrowItems]",
+            "content": "[inf ThrowItems]\n04000000 05CFC770 00000001\n\n"
+        },
+        {
+            "title": "[no Weapon Overheat]",
+            "content": "[no Weapon Overheat]\n04000000 05CFC8D8 00000001\n\n"
+        },
+        {
+            "title": "[Inf Double Jumps]",
+            "content": "[Inf Double Jumps]\n04000000 05C0E7E0 00000001\n\n"
+        },
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n580F0000 05CCC350\n580F1000 00000000\n580F1000 00000010\n580F1000 000001C8\n580F1000 00003870\n780F0000 000006D4\n640F0000 00000000 40A00000\n20000000\n\n"
+        },
+        {
+            "title": "[Speed Up]",
+            "content": "[Speed Up]\n580F0000 05CCC350\n580F1000 00000000\n580F1000 00000010\n580F1000 000001C8\n580F1000 00003870\n780F0000 00000A0C\n640F0000 00000000 40000000\n\n"
+        },
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n580F0000 05CCC350\n580F1000 00000000\n580F1000 00000018\n780F0000 0000006C\n640F0000 00000000 42C80000\n\n"
+        },
+        {
+            "title": "[View Change (Hold L3)]",
+            "content": "[View Change (Hold L3)]\n580F0000 05CCC350\n580F1000 00000000\n580F1000 00000018\n780F0000 00000150\n640F0000 00000000 00010000\n80000010\n640F0000 00000000 00010001\n20000000\n\n"
+        },
+        {
+            "title": "[Inf Shield]",
+            "content": "[Inf Shield]\n580F0000 05CCC350\n580F1000 00000000\n580F1000 00000018\n780F0000 000000C4\n640F0000 00000000 42C80000"
         }
     ]
 }

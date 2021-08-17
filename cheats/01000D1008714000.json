@@ -1,8 +1,8 @@
 {
     "A331029FBA7353B7": [
         {
-            "title": "[From MAX-CHEATS.com by eco95 for ACA NEOGEO Fatal Fury 3 v1.0.0]",
-            "content": "[From MAX-CHEATS.com by eco95 for ACA NEOGEO Fatal Fury 3 v1.0.0]\n\n"
+            "title": "[by eco95 and xtatu for ACA NEOGEO Fatal Fury 3 v1.0.0]",
+            "content": "[by eco95 and xtatu for ACA NEOGEO Fatal Fury 3 v1.0.0]\n\n"
         },
         {
             "title": "[P1 Infinite HP]",
@@ -10,7 +10,11 @@
         },
         {
             "title": "[P2 NO HP]",
-            "content": "[P2 NO HP]\n01000000 012593D8 00000000"
+            "content": "[P2 NO HP]\n01000000 012593D8 00000000\n\n"
+        },
+        {
+            "title": "[HITANYWHERE BOTH]",
+            "content": "[HITANYWHERE BOTH]\n04100000 0087B0F028 60004A40"
         }
     ]
 }
