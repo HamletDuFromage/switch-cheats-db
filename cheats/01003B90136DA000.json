@@ -1,0 +1,44 @@
+{
+    "1F936E043FB8C349": [
+        {
+            "title": "[Current battle points L+R]",
+            "content": "[Current battle points L+R]\n800000C0\n580F0000 063F90C8\n580F1000 00000048\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000054\n620F0000 00000000 0000000A\n20000000\n\n"
+        },
+        {
+            "title": "[Max battle points ZL+R]",
+            "content": "[Max battle points ZL+R]\n80000180\n580F0000 063F90C8\n580F1000 00000048\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000058\n620F0000 00000000 0000000A\n20000000\n\n"
+        },
+        {
+            "title": "[60 FPS]",
+            "content": "[60 FPS]\n580F0000 064E8090\n780F0000 00000F14\n640F0000 00000000 00000001\n\n"
+        },
+        {
+            "title": "[Default 30 FPS]",
+            "content": "[Default 30 FPS]\n580F0000 064E8090\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+        },
+        {
+            "title": "[9999999 Money]",
+            "content": "[9999999 Money]\n580F0000 063F90D0\n580F1000 000000B8\n580F1000 00000000\n580F1000 000000A8\n780F0000 00000020\n640F0000 00000000 0098967F\n\n"
+        },
+        {
+            "title": "[Player Points At 10/10]",
+            "content": "[Player Points At 10/10]\n580F0000 063F90C8\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000054\n680F0000 0000000A 0000000A\n\n"
+        },
+        {
+            "title": "[Lock Evolutions 3 Times]",
+            "content": "[Lock Evolutions 3 Times]\n580F0000 063F90C8\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000060\n640F0000 00000000 00000003\n\n"
+        },
+        {
+            "title": "[Evolution Ready]",
+            "content": "[Evolution Ready]\n580F0000 063F90C8\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000064\n640F0000 00000000 00000000\n\n"
+        },
+        {
+            "title": "[Can Use Evolution Again At Current Turn]",
+            "content": "[Can Use Evolution Again At Current Turn]\n580F0000 063F90C8\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000068\n640F0000 00000000 00000001\n\n"
+        },
+        {
+            "title": "[Opponent Can't Place A Card]",
+            "content": "[Opponent Can't Place A Card]\n580F0000 063F90C8\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000028\n780F0000 00000054\n640F0000 00000000 00000000\n"
+        }
+    ]
+}
