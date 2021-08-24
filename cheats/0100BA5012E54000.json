@@ -1,0 +1,24 @@
+{
+    "822293637951B6AF": [
+        {
+            "title": "[Moonjump]",
+            "content": "[Moonjump]\n80000002\n580C0000 028953C8\n780C1000 00000004\n640C0000 00000000 43960000\n20000000\n\n"
+        },
+        {
+            "title": "[Inf. Health]",
+            "content": "[Inf. Health]\n580C0000 028953C8\n780C0000 00000074\n640C0000 00000000 4479C000\n\n"
+        },
+        {
+            "title": "[Inf. Shield]",
+            "content": "[Inf. Shield]\n580C0000 028953C8\n780C0000 000000FC\n640C0000 00000000 4479C000\n\n"
+        },
+        {
+            "title": "[Inf. Ammo]",
+            "content": "[Inf. Ammo]\n580C0000 028953C8\n780C0000 00000088\n300D0000 00000005\n640C0000 00000000 4479C000\n780C0000 00000004\n310D0000\n\n"
+        },
+        {
+            "title": "[Credits: crazy_p]",
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000"
+        }
+    ]
+}

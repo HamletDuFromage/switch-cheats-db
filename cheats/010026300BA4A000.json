@@ -1,12 +1,30 @@
 {
-    "0F3B375B8E9518C9": [
+    "F1496A8D2EFFC1D2": [
         {
-            "title": "[Lock 1000 Gold]",
-            "content": "[Lock 1000 Gold]\n580F0000 062897D8\n780F0000 00000048\n680F0000 000003E8 000003E8\n\n"
+            "title": "[Inf. HP 999]",
+            "content": "[Inf. HP 999]\n580F0000 04eae7B8\n780F0000 00000088\n640F0000 00000000 000003E7\n580F0000 04eae7B8\n780F0000 0000008C\n640F0000 00000000 000003E7\n\n"
         },
         {
-            "title": "[Lock 100 HP]",
-            "content": "[Lock 100 HP]\n580F0000 062897D8\n780F0000 00000084\n680F0000 00000064 00000064"
+            "title": "[Money 99,999]",
+            "content": "[Money 99,999]\n580F0000 04eae7B8\n780F0000 00000048\n680F0000 00000000 0001869F\n580F0000 04eae7B8\n780F0000 0000004C\n680F0000 00000000 0001869F"
+        }
+    ],
+    "334AB8BB31621C07": [
+        {
+            "title": "[HP 99 by jhmiller]",
+            "content": "[HP 99 by jhmiller]\n580F0000 04F220B8\n580F1000 00000010\n780F0000 00000088\n640F0000 00000000 00000063\n\n"
+        },
+        {
+            "title": "[Money 9999 by jhmiller]",
+            "content": "[Money 9999 by jhmiller]\n580F0000 04F220B8\n580F1000 00000010\n780F0000 00000048\n640F0000 00000000 0000270F\n780F0000 00000004\n640F0000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[Armor 999 by jhmiller]",
+            "content": "[Armor 999 by jhmiller]\n580F0000 04F220B8\n580F1000 00000010\n780F0000 00000090\n640F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Energy 99 by jhmiller]",
+            "content": "[Energy 99 by jhmiller]\n04000000 04F2CB7C 00000063"
         }
     ],
     "21D02E7D96188CF4": [
@@ -23,18 +41,14 @@
             "content": "[Invincibility]\n580F0000 0628BD68\n780F0000 00000084\n640F0000 00000000 000003E7"
         }
     ],
-    "678A5068B1DB8450": [
+    "0F3B375B8E9518C9": [
         {
-            "title": "[Money 99999]",
-            "content": "[Money 99999]\n580F0000 063ABE50\n780F0000 00000048\n680F0000 00000000 0001869F\n580F0000 063ABE50\n780F0000 0000004C\n680F0000 00000000 0001869F\n"
+            "title": "[Lock 1000 Gold]",
+            "content": "[Lock 1000 Gold]\n580F0000 062897D8\n780F0000 00000048\n680F0000 000003E8 000003E8\n\n"
         },
         {
-            "title": "[Max HP 999]",
-            "content": "[Max HP 999]\n580F0000 063ABE50\n780F0000 00000088\n640F0000 00000000 000003E7\n"
-        },
-        {
-            "title": "[HP does not decrease]",
-            "content": "[HP does not decrease]\n580F0000 063ABE50\n780F0000 00000084\n640F0000 00000000 000003E7"
+            "title": "[Lock 100 HP]",
+            "content": "[Lock 100 HP]\n580F0000 062897D8\n780F0000 00000084\n680F0000 00000064 00000064"
         }
     ],
     "A38237A9BFEF6131": [
@@ -59,14 +73,18 @@
             "content": "[Made by Snakes]\n580E0000 04F21E18"
         }
     ],
-    "F1496A8D2EFFC1D2": [
+    "678A5068B1DB8450": [
         {
-            "title": "[Inf. HP 999]",
-            "content": "[Inf. HP 999]\n580F0000 04eae7B8\n780F0000 00000088\n640F0000 00000000 000003E7\n580F0000 04eae7B8\n780F0000 0000008C\n640F0000 00000000 000003E7\n\n"
+            "title": "[Money 99999]",
+            "content": "[Money 99999]\n580F0000 063ABE50\n780F0000 00000048\n680F0000 00000000 0001869F\n580F0000 063ABE50\n780F0000 0000004C\n680F0000 00000000 0001869F\n"
         },
         {
-            "title": "[Money 99,999]",
-            "content": "[Money 99,999]\n580F0000 04eae7B8\n780F0000 00000048\n680F0000 00000000 0001869F\n580F0000 04eae7B8\n780F0000 0000004C\n680F0000 00000000 0001869F"
+            "title": "[Max HP 999]",
+            "content": "[Max HP 999]\n580F0000 063ABE50\n780F0000 00000088\n640F0000 00000000 000003E7\n"
+        },
+        {
+            "title": "[HP does not decrease]",
+            "content": "[HP does not decrease]\n580F0000 063ABE50\n780F0000 00000084\n640F0000 00000000 000003E7"
         }
     ]
 }
