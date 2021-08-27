@@ -10,7 +10,15 @@
         },
         {
             "title": "[Walk through Walls (Hold ZR)]",
-            "content": "[Walk through Walls (Hold ZR)]\n580F0000 084ff680\n580F1000 00000070\n580F1000 00000020\n580F1000 00000008\n580F1000 000000E8\n780F0000 00000398\n610F0000 00000000 00000002\n80000200\n610F0000 00000000 00000000\n20000000"
+            "content": "[Walk through Walls (Hold ZR)]\n580F0000 084ff680\n580F1000 00000070\n580F1000 00000020\n580F1000 00000008\n580F1000 000000E8\n780F0000 00000398\n610F0000 00000000 00000002\n80000200\n610F0000 00000000 00000000\n20000000\n\n"
+        },
+        {
+            "title": "[only 1p attacks]",
+            "content": "[only 1p attacks]\n04000000 034C24C4 D503201F\n\n"
+        },
+        {
+            "title": "[only 1p attacks off]",
+            "content": "[only 1p attacks off]\n04000000 034C24C4 7100011F"
         }
     ],
     "744E00542FF45574": [

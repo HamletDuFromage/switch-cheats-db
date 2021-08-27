@@ -1,4 +1,44 @@
 {
+    "E46CE3FFF909B1D6": [
+        {
+            "title": "[Invincible without Instant-Kill]",
+            "content": "[Invincible without Instant-Kill]\n080E0000 03B67200 90017C21 AA1403F5\n080E0000 03B67208 F9400021 F9430821\n080E0000 03B67210 EB15003F F942A821\n080E0000 03B67218 4B020108 1A8203E2\n040E0000 03B67220 D65F03C0\n040E0000 0069D0F8 94D32842\n040E0000 0069CDE4 94D32908\n\n"
+        },
+        {
+            "title": "[Invincible with Instant-Kill]",
+            "content": "[Invincible with Instant-Kill]\n080E0000 03B67200 90017C21 AA1403F5\n080E0000 03B67208 F9400021 F9430821\n080E0000 03B67210 EB15003F F942A821\n080E0000 03B67218 4B020108 1A8903E2\n040E0000 03B67220 D65F03C0\n040E0000 0069D0F8 94D32842\n040E0000 0069CDE4 94D32908\n\n"
+        },
+        {
+            "title": "[No reduction for Spending Residues]",
+            "content": "[No reduction for Spending Residues]\n010E0000 006B9D72 0000001F\n\n"
+        },
+        {
+            "title": "[Unlimited use of Spirits]",
+            "content": "[Unlimited use of Spirits]\n010E0000 0072AB50 0000007F\n\n"
+        },
+        {
+            "title": "[Instant Full SP Gauge]",
+            "content": "[Instant Full SP Gauge]\n040E0000 006BD8D4 D503201F\n\n"
+        },
+        {
+            "title": "[8x Exp Rate]",
+            "content": "[8x Exp Rate]\n040E0000 006C04FC 531D7033\n"
+        }
+    ],
+    "C9FB83B55873D1A6": [
+        {
+            "title": "[HP 115]",
+            "content": "[HP 115]\n580F0000 06AF38B8\n580F1000 000000B8\n580F1000 00000520\n780F0000 00000114\n640F0000 00000000 00000073\n\n"
+        },
+        {
+            "title": "[Prayers 3]",
+            "content": "[Prayers 3]\n580F0000 06AF38B8\n580F1000 000000A0\n580F1000 00000580\n780F0000 00000128\n620F0000 00000000 00000003\n\n"
+        },
+        {
+            "title": "[Residues 2000]",
+            "content": "[Residues 2000]\n580F0000 06AF38B8\n580F1000 000000A0\n580F1000 00000560\n580F1000 00000110\n780F0000 00000004\n640F0000 00000000 000007D0\n780F0000 00000010\n640F0000 00000000 000007D0\n780F0000 00000010\n640F0000 00000000 000007D0\n"
+        }
+    ],
     "EBA346EFF38C931A": [
         {
             "title": "[01# Moonjump]",
@@ -53,20 +93,6 @@
         {
             "title": "[06# Inf Dark Witch Eleine]",
             "content": "[06# Inf Dark Witch Eleine]\n580F0000 06AC6610\n580F1000 000000A8\n580F1000 00000798\n780F0000 000002DC\n640F0000 00000000 00000000\n"
-        }
-    ],
-    "C9FB83B55873D1A6": [
-        {
-            "title": "[HP 115]",
-            "content": "[HP 115]\n580F0000 06AF38B8\n580F1000 000000B8\n580F1000 00000520\n780F0000 00000114\n640F0000 00000000 00000073\n\n"
-        },
-        {
-            "title": "[Prayers 3]",
-            "content": "[Prayers 3]\n580F0000 06AF38B8\n580F1000 000000A0\n580F1000 00000580\n780F0000 00000128\n620F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Residues 2000]",
-            "content": "[Residues 2000]\n580F0000 06AF38B8\n580F1000 000000A0\n580F1000 00000560\n580F1000 00000110\n780F0000 00000004\n640F0000 00000000 000007D0\n780F0000 00000010\n640F0000 00000000 000007D0\n780F0000 00000010\n640F0000 00000000 000007D0\n"
         }
     ]
 }
