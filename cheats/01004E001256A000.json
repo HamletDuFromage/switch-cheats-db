@@ -1,0 +1,36 @@
+{
+    "84A900975BBC204B": [
+        {
+            "title": "[36 slot 99 Qty]",
+            "content": "[36 slot 99 Qty]\n580F0000 07385F98\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000178\n580F1000 00000010\n30000000 00000024\n989EF000\n580E1000 00000020\n780E0000 00000020\n640E0000 00000000 00000063\n780F0000 00000008\n31000000\n\n"
+        },
+        {
+            "title": "[$7M]",
+            "content": "[$7M]\n580F0000 07385F98\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000118\n640F0000 00000000 006ACFC0\n\n"
+        },
+        {
+            "title": "[Stamina 1000]",
+            "content": "[Stamina 1000]\n580F0000 07385F98\n580F1000 000000B8\n580F1000 00000000\n780F0000 000000E8\n640F0000 00000000 00002710\n\n"
+        },
+        {
+            "title": "[Max Stamina 1000]",
+            "content": "[Max Stamina 1000]\n580F0000 07385F98\n580F1000 000000B8\n580F1000 00000000\n780F0000 000000EC\n640F0000 00000000 00002710\n\n"
+        },
+        {
+            "title": "[I think you need 70 to level up from level 1, the exp used is subtracted away]",
+            "content": "[I think you need 70 to level up from level 1, the exp used is subtracted away]\n\n"
+        },
+        {
+            "title": "[R set XP to 100]",
+            "content": "[R set XP to 100]\n80000080\n580F0000 07385F98\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000108\n640F0000 00000000 00000064\n20000000\n\n"
+        },
+        {
+            "title": "[Make more to suit your need, level up one at a time to see what reward you get for leveling up]",
+            "content": "[Make more to suit your need, level up one at a time to see what reward you get for leveling up]\n\n"
+        },
+        {
+            "title": "[R set XP to 200]",
+            "content": "[R set XP to 200]\n80000080\n580F0000 07385F98\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000108\n640F0000 00000000 000000C8\n20000000"
+        }
+    ]
+}
