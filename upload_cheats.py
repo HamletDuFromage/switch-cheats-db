@@ -20,9 +20,9 @@ class UploadCheats:
         self.dl_url = ""
         self.scraper = cloudscraper.create_scraper()
         self.fetchUrl()
-        self.writeVersion()
-        self.downloadArchive()
-        self.extractArchive()
+        if self.writeVersion():
+            self.downloadArchive()
+            self.extractArchive()
 
     def fetchUrl(self):
         page = self.scraper.get("https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/")
