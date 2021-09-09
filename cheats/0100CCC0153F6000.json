@@ -1,0 +1,24 @@
+{
+    "995105D3E4E6C234": [
+        {
+            "title": "[normal speed ]",
+            "content": "[normal speed ]\n04000000 00A697C0 1E2E1000\n\n"
+        },
+        {
+            "title": "[slow speed 0.75x ]",
+            "content": "[slow speed 0.75x ]\n04000000 00A697C0 1E2D1000\n\n"
+        },
+        {
+            "title": "[slow speed 0.5x]",
+            "content": "[slow speed 0.5x]\n04000000 00A697C0 1E2C1000\n\n\n"
+        },
+        {
+            "title": "[freezes speed]",
+            "content": "[freezes speed]\n04000000 00A697C0 1E2703E0\n\n"
+        },
+        {
+            "title": "[Powerful Punch]",
+            "content": "[Powerful Punch]\n080E0000 03698100 F90007FC BC1F0FE1\n080E0000 03698108 1E212000 BD402801\n080E0000 03698110 9E20003C 54000160\n080E0000 03698118 B0016A7C B400013C\n080E0000 03698120 F9408B9C F9413B9C\n080E0000 03698128 EB1C001F 9100239C\n080E0000 03698130 B9000C1F 54000060\n080E0000 03698138 F94007FC D503201F\n080E0000 03698140 D65F03C0 BC4107E1\n080E0000 00077820 14D88237 BD000C00"
+        }
+    ]
+}
