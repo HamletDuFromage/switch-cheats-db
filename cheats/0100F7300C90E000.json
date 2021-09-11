@@ -6,7 +6,11 @@
         },
         {
             "title": "[SPEED MODE PRESS PAD]",
-            "content": "[SPEED MODE PRESS PAD]\n04100000 00905C6990 E320F000"
+            "content": "[SPEED MODE PRESS PAD]\n04100000 00905C6990 E320F000\n\n"
+        },
+        {
+            "title": "[1p invincible]",
+            "content": "[1p invincible]\n04100000 00905E6DA4 E320F000\n04100000 00905CFA4C E320F000"
         }
     ]
 }
