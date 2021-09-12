@@ -18,7 +18,71 @@
         },
         {
             "title": "[Stamina]",
-            "content": "[Stamina]\n580F0000 055BE9B8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n580F1000 00000020\n580F1000 000002B0\n780F0000 00000034\n640F1000 00000000 44BB8000\n640F1000 00000000 44BB8000"
+            "content": "[Stamina]\n580F0000 055BE9B8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n580F1000 00000020\n580F1000 000002B0\n780F0000 00000034\n640F1000 00000000 44BB8000\n640F1000 00000000 44BB8000\n\n"
+        },
+        {
+            "title": "[01# Inf Health]",
+            "content": "[01# Inf Health]\n040A0000 0333B200 B4000248\n040A0000 0333B204 BD002688\n040A0000 0333B208 D65F03C0\n040A0000 0326C3CC 94033B8D\n\n"
+        },
+        {
+            "title": "[Inf Health (off)]",
+            "content": "[Inf Health (off)]\n040A0000 0326C3CC BD402688\n\n"
+        },
+        {
+            "title": "[02# Inf Stamina]",
+            "content": "[02# Inf Stamina]\n040A0000 017A31C0 52800028\n\n"
+        },
+        {
+            "title": "[Inf Stamina (off)]",
+            "content": "[Inf Stamina (off)]\n040A0000 017A31C0 39446008\n\n"
+        },
+        {
+            "title": "[03# Inf Arrows and no Reload]",
+            "content": "[03# Inf Arrows and no Reload]\n040A0000 0174FC70 6B1F0108\n040A0000 0174FCC8 6B1F0108\n\n"
+        },
+        {
+            "title": "[Inf Arrows and no Reload (off)]",
+            "content": "[Inf Arrows and no Reload (off)]\n040A0000 0174FC70 71000508\n040A0000 0174FCC8 71000508\n\n"
+        },
+        {
+            "title": "[04# No Wanted Level]",
+            "content": "[04# No Wanted Level]\n040A0000 017ECFEC 52800015\n\n"
+        },
+        {
+            "title": "[No Wanted Level (off)]",
+            "content": "[No Wanted Level (off)]\n040A0000 017ECFEC 2A0103F5\n\n"
+        },
+        {
+            "title": "[05# One Hit Kill]",
+            "content": "[05# One Hit Kill]\n040A0000 0167A684 1E27D008\n\n"
+        },
+        {
+            "title": "[One Hit Kill (off)]",
+            "content": "[One Hit Kill (off)]\n040A0000 0167A684 1E213808\n\n"
+        },
+        {
+            "title": "[06# 99 Skillpoints]",
+            "content": "[06# 99 Skillpoints]\n040A0000 03323C70 52800C68\n\n"
+        },
+        {
+            "title": "[99 Skillpoints (off)]",
+            "content": "[99 Skillpoints (off)]\n040A0000 03323C70 B9403008\n\n"
+        },
+        {
+            "title": "[07# Godmode]",
+            "content": "[07# Godmode]\n040A0000 0320C170 D65F03C0\n\n"
+        },
+        {
+            "title": "[Godmode (off)]",
+            "content": "[Godmode (off)]\n040A0000 0320C170 FC180FEC\n\n"
+        },
+        {
+            "title": "[08# Inf Money]",
+            "content": "[08# Inf Money]\n040A0000 017B7B98 00989680\n040A0000 017B7BB8 18FFFF14\n\n"
+        },
+        {
+            "title": "[Inf Money (off)]",
+            "content": "[Inf Money (off)]\n040A0000 017B7BB8 2A0103F4"
         }
     ]
 }

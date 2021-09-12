@@ -50,7 +50,43 @@
         },
         {
             "title": "[Created by Eiffel2018]",
-            "content": "[Created by Eiffel2018]\n"
+            "content": "[Created by Eiffel2018]\n\n"
+        },
+        {
+            "title": "[01# Inf Mana]",
+            "content": "[01# Inf Mana]\n040A0000 014FD620 1E202820\n\n"
+        },
+        {
+            "title": "[Inf Mana (off)]",
+            "content": "[Inf Mana (off)]\n040A0000 014FD620 1E203820\n\n"
+        },
+        {
+            "title": "[02# Inf Items]",
+            "content": "[02# Inf Items]\n040A0000 01570854 52800648\n040A0000 01570858 B8020C08\n040A0000 0157085C D65F03C0\n040A0000 015707B8 94000027\n\n"
+        },
+        {
+            "title": "[Inf Items (off)]",
+            "content": "[Inf Items (off)]\n040A0000 015707B8 B8420C08\n\n"
+        },
+        {
+            "title": "[03# Inf Stamina]",
+            "content": "[03# Inf Stamina]\n040A0000 014FAE6C 1E202820\n\n"
+        },
+        {
+            "title": "[Inf Stamina (off)]",
+            "content": "[Inf Stamina (off)]\n040A0000 014FAE6C 1E203820\n\n"
+        },
+        {
+            "title": "[04# Speed x2]",
+            "content": "[04# Speed x2]\n040A0000 01554B9C BD40510B\n040A0000 01554BC0 BD405102\n80000002\n040A0000 01554B9C 1E27D00B\n040A0000 01554BC0 1E27D002\n20000000\n\n"
+        },
+        {
+            "title": "[05# No Cooldown]",
+            "content": "[05# No Cooldown]\n040A0000 01652390 1E2703E0\n\n"
+        },
+        {
+            "title": "[No Cooldown (off)]",
+            "content": "[No Cooldown (off)]\n040A0000 01652390 1E203900\n"
         }
     ]
 }
