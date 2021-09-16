@@ -1,4 +1,64 @@
 {
+    "D41357A3DA356B09": [
+        {
+            "title": "[Invincible (On)]",
+            "content": "[Invincible (On)]\n580F0000 02C2BD48\n580F1000 00000000\n780F0000 000003CF\n610F0000 00000000 000000C5\n\n"
+        },
+        {
+            "title": "[Invincible (Off)]",
+            "content": "[Invincible (Off)]\n580F0000 02C2BD48\n580F1000 00000000\n780F0000 000003CF\n610F0000 00000000 000000BD\n\n"
+        },
+        {
+            "title": "[Inf. Throw Attacks]",
+            "content": "[Inf. Throw Attacks]\n580F0000 02C2BD48\n580F1000 00000000\n580F1000 00000418\n580F1000 00000008\n780F0000 00000030\n680F0000 00000000 00000002\n\n"
+        },
+        {
+            "title": "[ATK Power 9999]",
+            "content": "[ATK Power 9999]\n580F0000 02C2BD48\n580F1000 00000000\n780F0000 000003BC\n640F0000 00000000 461C3C00\n\n"
+        },
+        {
+            "title": "[Speed 1.5x]",
+            "content": "[Speed 1.5x]\n580F0000 02C2BD48\n580F1000 00000000\n780F0000 000003AC\n640F0000 00000000 3FC00000\n\n"
+        },
+        {
+            "title": "[Speed 1x]",
+            "content": "[Speed 1x]\n580F0000 02C2BD48\n580F1000 00000000\n780F0000 000003AC\n640F0000 00000000 3F800000\n\n"
+        },
+        {
+            "title": "[Credits: crazy_p, Optantic]",
+            "content": "[Credits: crazy_p, Optantic]\n00000000 00000000 00000000"
+        }
+    ],
+    "A9C78517999A1B5A": [
+        {
+            "title": "[Invincible (On)]",
+            "content": "[Invincible (On)]\n580F0000 02C2BD48\n580F1000 00000000\n780F0000 000003CF\n610F0000 00000000 000000C5\n\n"
+        },
+        {
+            "title": "[Invincible (Off)]",
+            "content": "[Invincible (Off)]\n580F0000 02C2BD48\n580F1000 00000000\n780F0000 000003CF\n610F0000 00000000 000000BD\n\n"
+        },
+        {
+            "title": "[Inf. Throw Attacks]",
+            "content": "[Inf. Throw Attacks]\n580F0000 02C2BD48\n580F1000 00000000\n580F1000 00000418\n580F1000 00000008\n780F0000 00000030\n680F0000 00000000 00000002\n\n"
+        },
+        {
+            "title": "[ATK Power 9999]",
+            "content": "[ATK Power 9999]\n580F0000 02C2BD48\n580F1000 00000000\n780F0000 000003BC\n640F0000 00000000 461C3C00\n\n"
+        },
+        {
+            "title": "[Speed 1.5x]",
+            "content": "[Speed 1.5x]\n580F0000 02C2BD48\n580F1000 00000000\n780F0000 000003AC\n640F0000 00000000 3FC00000\n\n"
+        },
+        {
+            "title": "[Speed 1x]",
+            "content": "[Speed 1x]\n580F0000 02C2BD48\n580F1000 00000000\n780F0000 000003AC\n640F0000 00000000 3F800000\n\n"
+        },
+        {
+            "title": "[Credits: crazy_p, Optantic]",
+            "content": "[Credits: crazy_p, Optantic]\n00000000 00000000 00000000"
+        }
+    ],
     "981ED32C0E1EF006": [
         {
             "title": "[Enemy Attack 0]",
