@@ -54,6 +54,14 @@
         },
         {
             "title": "[always stay first 1 off]",
+            "content": "[always stay first 1 off]\n04000000 0181B060 FC1D0FE8\n\n"
+        },
+        {
+            "title": "[always stay first 1on ]",
+            "content": "[always stay first 1on ]\n04000000 0181B060 D65F03C0\n\n"
+        },
+        {
+            "title": "[always stay first 1 off]",
             "content": "[always stay first 1 off]\n04000000 0181B060 FC1D0FE8"
         }
     ]

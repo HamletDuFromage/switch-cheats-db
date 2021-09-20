@@ -1,4 +1,58 @@
 {
+    "985E17C3D9255F4D": [
+        {
+            "title": "[NORMAL RUN SPEED]",
+            "content": "[NORMAL RUN SPEED]\n04000000 01385CA8 1E2E1000\n\n"
+        },
+        {
+            "title": "[1.25X RUN SPEED]",
+            "content": "[1.25X RUN SPEED]\n04000000 01385CA8 1E2E9000\n\n"
+        },
+        {
+            "title": "[1.5X RUN SPEED]",
+            "content": "[1.5X RUN SPEED]\n04000000 01385CA8 1E2F1000\n\n"
+        },
+        {
+            "title": "[1.75X RUN SPEED]",
+            "content": "[1.75X RUN SPEED]\n04000000 01385CA8 1E2F9000\n\n"
+        },
+        {
+            "title": "[2X RUN SPEED]",
+            "content": "[2X RUN SPEED]\n04000000 01385CA8 1E201000\n\n"
+        },
+        {
+            "title": "[NORMAL SPEED GAME]",
+            "content": "[NORMAL SPEED GAME]\n04000000 013E11B0 1E2E1001\n\n"
+        },
+        {
+            "title": "[1.25X SPEED GAME]",
+            "content": "[1.25X SPEED GAME]\n04000000 013E11B0 1E2E9001\n\n"
+        },
+        {
+            "title": "[1.5X SPEED GAME]",
+            "content": "[1.5X SPEED GAME]\n04000000 013E11B0 1E2F1001\n\n"
+        },
+        {
+            "title": "[1.75X SPEED GAME]",
+            "content": "[1.75X SPEED GAME]\n04000000 013E11B0 1E2F9001\n\n"
+        },
+        {
+            "title": "[2X SPEED GAME]",
+            "content": "[2X SPEED GAME]\n04000000 013E11B0 1E201001\n\n"
+        },
+        {
+            "title": "[5X SPEED GAME]",
+            "content": "[5X SPEED GAME]\n04000000 013E11B0 1E229001\n\n"
+        },
+        {
+            "title": "[10X SPEED GAME]",
+            "content": "[10X SPEED GAME]\n04000000 013E11B0 1E249001\n\n"
+        },
+        {
+            "title": "[1P INVINCIBLE L PAD ON R PAD OFF]",
+            "content": "[1P INVINCIBLE L PAD ON R PAD OFF]\n80000040\n04000000 010BF5B0 D65F03C0\n20000000\n80000080\n04000000 010BF5B0 D101C3FF\n20000000"
+        }
+    ],
     "A2EB89C60B10B04A": [
         {
             "title": "[01# Inf life]",
