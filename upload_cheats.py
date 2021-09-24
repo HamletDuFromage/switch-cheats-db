@@ -12,24 +12,28 @@ import cloudscraper
 
 from process_cheats import ProcessCheats
 
+
 class UploadCheats:
-    def __init__(self, archive_path = "titles.rar", old_version = "-1", new_version = "-1"):
+    def __init__(self, archive_path="titles.rar", old_version="-1", new_version="-1"):
         self.archive_path = archive_path
         self.old_version = old_version
         self.version = new_version
+        self.page_url = "https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/"
         self.dl_url = ""
         self.scraper = cloudscraper.create_scraper()
+
+    def downloadAndExtract(self):
         self.fetchUrl()
-        if self.writeVersion():
-            self.downloadArchive()
-            self.extractArchive()
+        self.writeVersion()
+        self.downloadArchive()
+        self.extractArchive()
 
     def fetchUrl(self):
-        page = self.scraper.get("https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/")
+        page = self.scraper.get(self.page_url)
         soup = BeautifulSoup(page.content, "html.parser")
-        self.dl_url = "https://gbatemp.net/" + soup.find("a", {"class": "inner"}).get("href")
-        self.version = self.dl_url.split("=")[1]
-        print(self.dl_url)
+        self.dl_url = f"{self.page_url}download"
+        self.version = soup.find("span", {"class": "u-muted"}).getText()
+        print(f"version: {self.version}")
 
     def writeVersion(self):
         if self.old_version != self.version:
@@ -38,7 +42,8 @@ class UploadCheats:
                 version_file.write(self.version)
 
             date = datetime.datetime.today()
-            date_str = str(date).split()[0] + " - " + str(date.hour) + ":" + str(date.minute)
+            date_str = str(date).split()[0] + " - " + \
+                str(date.hour) + ":" + str(date.minute)
 
             with open("DATE", 'w') as date_file:
                 date_file.write(date_str)
@@ -53,7 +58,7 @@ class UploadCheats:
 
     def extractArchive(self):
         correct_archive = False
-        if rarfile.is_rarfile(self.archive_path) :
+        if rarfile.is_rarfile(self.archive_path):
             rf = rarfile.RarFile(self.archive_path)
             rf.extractall()
             correct_archive = True
@@ -74,8 +79,14 @@ class UploadCheats:
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Update the cheats database")
     requiredNamed = parser.add_argument_group('arguments')
-    requiredNamed.add_argument('-a', '--archive', help='archive path', required=False, default='titles.rar')
-    requiredNamed.add_argument('-o', '--old_version', help='previous version', required=False, default='-1')
-    requiredNamed.add_argument('-n', '--new_version', help='new version', required=False, default='-1')
+    requiredNamed.add_argument(
+        '-a', '--archive', help='archive path', required=False, default='titles.rar')
+    requiredNamed.add_argument(
+        '-o', '--old_version', help='previous version', required=False, default='-1')
+    requiredNamed.add_argument(
+        '-n', '--new_version', help='new version', required=False, default='-1')
     args = parser.parse_args()
-    uploader = UploadCheats(archive_path=args.archive, old_version=args.old_version, new_version=args.new_version)
+    uploader = UploadCheats(archive_path=args.archive,
+                            old_version=args.old_version, new_version=args.new_version)
+    uploader.downloadAndExtract()
+    #uploader.fetchUrl()
