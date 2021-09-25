@@ -6,7 +6,11 @@
         },
         {
             "title": "[P2 no fall]",
-            "content": "[P2 no fall]\n04000000 0058F5A0 D65F03C0\n\n{Reach bottom of screen to activate, codes below needs this}\n04000000 0058F3CC B00145D5\n04000000 0058F3D0 F907FAA0\n\n"
+            "content": "[P2 no fall]\n04000000 0058F5A0 D65F03C0\n\n"
+        },
+        {
+            "title": "{Reach bottom of screen to activate, codes below needs this}",
+            "content": "{Reach bottom of screen to activate, codes below needs this}\n04000000 0058F3CC B00145D5\n04000000 0058F3D0 F907FAA0\n\n"
         },
         {
             "title": "[P1 score 1M]",

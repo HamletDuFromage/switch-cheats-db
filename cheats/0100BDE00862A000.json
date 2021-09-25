@@ -1,9 +1,31 @@
 {
-    "A85C59AEDF83E5C9": [
+    "A9B238505A969318": [
         {
-            "title": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (V3.0.0)]",
-            "content": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (V3.0.0)]\n\n"
+            "title": "[#01# Player Infinite Super]",
+            "content": "[#01# Player Infinite Super]\n040F0000 02b67f40 466a6000\n040F0000 02b67f48 466a6000\n\n"
         },
+        {
+            "title": "[#02# CPU No Super]",
+            "content": "[#02# CPU No Super]\n040F0000 02b67f50 00000000\n040F0000 02b67f58 00000000"
+        }
+    ],
+    "4B9A64DED26C6E46": [
+        {
+            "title": "[#01# Player Infinite Super]",
+            "content": "[#01# Player Infinite Super]\n040F0000 02a0cf00 466a6000\n040F0000 02a0cf08 466a6000"
+        }
+    ],
+    "9FDA2C32E8DE3EBF": [
+        {
+            "title": "[#01# Player Infinite Super]",
+            "content": "[#01# Player Infinite Super]\n040F0000 02b70f50 466a6000\n040F0000 02b70f58 466a6000\n\n"
+        },
+        {
+            "title": "[#02# CPU No Super]",
+            "content": "[#02# CPU No Super]\n040F0000 02b70f60 00000000\n040F0000 02b70f68 00000000"
+        }
+    ],
+    "A85C59AEDF83E5C9": [
         {
             "title": "[#01# Player Infinite Super]",
             "content": "[#01# Player Infinite Super]\n040F0000 02b87f50 466a6000\n040F0000 02b87f60 466a6000\n\n"
@@ -19,6 +41,12 @@
         {
             "title": "[#04# CPU 1-Hit KO]",
             "content": "[#04# CPU 1-Hit KO]\n080F0000 02b88010 00000000 00000000\n080F0000 02b88018 00000000 00000000"
+        }
+    ],
+    "88EF9ECB522D12DB": [
+        {
+            "title": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (For v2.1.0)]",
+            "content": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (For v2.1.0)]\n\n01 Player Infinite Super\n040F0000 02aecf40 466a6000\n040F0000 02aecf48 466a6000\n\n02 CPU No Super\n040F0000 02aecf50 00000000\n040F0000 02aecf58 00000000"
         }
     ],
     "32487E7E3D94954E": [
@@ -41,50 +69,6 @@
         {
             "title": "[Big Tennis Ball]",
             "content": "[Big Tennis Ball]\n01000000 02BBB587 0000003E"
-        }
-    ],
-    "9FDA2C32E8DE3EBF": [
-        {
-            "title": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (V2.3.0)]",
-            "content": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (V2.3.0)]\n\n"
-        },
-        {
-            "title": "[#01# Player Infinite Super]",
-            "content": "[#01# Player Infinite Super]\n040F0000 02b70f50 466a6000\n040F0000 02b70f58 466a6000\n\n"
-        },
-        {
-            "title": "[#02# CPU No Super]",
-            "content": "[#02# CPU No Super]\n040F0000 02b70f60 00000000\n040F0000 02b70f68 00000000"
-        }
-    ],
-    "88EF9ECB522D12DB": [
-        {
-            "title": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (For v2.1.0)]",
-            "content": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (For v2.1.0)]\n\n01 Player Infinite Super\n040F0000 02aecf40 466a6000\n040F0000 02aecf48 466a6000\n\n02 CPU No Super\n040F0000 02aecf50 00000000\n040F0000 02aecf58 00000000"
-        }
-    ],
-    "A9B238505A969318": [
-        {
-            "title": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (For v2.2.0)]",
-            "content": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (For v2.2.0)]\n\n"
-        },
-        {
-            "title": "[#01# Player Infinite Super]",
-            "content": "[#01# Player Infinite Super]\n040F0000 02b67f40 466a6000\n040F0000 02b67f48 466a6000\n\n"
-        },
-        {
-            "title": "[#02# CPU No Super]",
-            "content": "[#02# CPU No Super]\n040F0000 02b67f50 00000000\n040F0000 02b67f58 00000000"
-        }
-    ],
-    "4B9A64DED26C6E46": [
-        {
-            "title": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE]",
-            "content": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE]\n\n"
-        },
-        {
-            "title": "[#01# Player Infinite Super]",
-            "content": "[#01# Player Infinite Super]\n040F0000 02a0cf00 466a6000\n040F0000 02a0cf08 466a6000"
         }
     ]
 }

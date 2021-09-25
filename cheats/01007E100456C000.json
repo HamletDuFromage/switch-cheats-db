@@ -1,9 +1,43 @@
 {
-    "FBE5462B68407E75": [
+    "09B0D1846CC99974": [
         {
-            "title": "[From MAX-CHEATS.com by optantic for Guacamelee 2 1.0.3]",
-            "content": "[From MAX-CHEATS.com by optantic for Guacamelee 2 1.0.3]\n\n"
+            "title": "[P1 Infinite HP v100]",
+            "content": "[P1 Infinite HP v100]\n580f0000 01206DB8\n580f1000 00000018\n780f0000 0000011C\n680f0000 43960000 43960000\n\n"
         },
+        {
+            "title": "[P1 Infinite Super]",
+            "content": "[P1 Infinite Super]\n580f0000 01206DB8\n780f0000 000000BC\n640f0000 00000000 41400000\n780f0000 00000010\n640f0000 00000000 41400000\n\n"
+        },
+        {
+            "title": "[P2 Infinite HP]",
+            "content": "[P2 Infinite HP]\n580f0000 01206DC0\n580f1000 00000018\n780f0000 0000011C\n680f0000 43960000 43960000\n\n"
+        },
+        {
+            "title": "[P2 Infinite Super]",
+            "content": "[P2 Infinite Super]\n580f0000 01206DC0\n780f0000 000000BC\n640f0000 00000000 41400000\n780f0000 00000010\n640f0000 00000000 41400000\n\n"
+        },
+        {
+            "title": "[P3 Infinite HP]",
+            "content": "[P3 Infinite HP]\n580f0000 01206DC8\n580f1000 00000018\n780f0000 0000011C\n680f0000 43960000 43960000\n\n"
+        },
+        {
+            "title": "[P3 Infinite Super]",
+            "content": "[P3 Infinite Super]\n580f0000 01206DC8\n780f0000 000000BC\n640f0000 00000000 41400000\n780f0000 00000010\n640f0000 00000000 41400000\n\n"
+        },
+        {
+            "title": "[P4 Infinite HP]",
+            "content": "[P4 Infinite HP]\n580f0000 01206DD0\n580f1000 00000018\n780f0000 0000011C\n680f0000 43960000 43960000\n\n"
+        },
+        {
+            "title": "[P4 Infinite Super]",
+            "content": "[P4 Infinite Super]\n580f0000 01206DD0\n780f0000 000000BC\n640f0000 00000000 41400000\n780f0000 00000010\n640f0000 00000000 41400000\n\n"
+        },
+        {
+            "title": "[99999 Coins]",
+            "content": "[99999 Coins]\n04000000 01202f90 0001869f"
+        }
+    ],
+    "FBE5462B68407E75": [
         {
             "title": "[99999 Coins]",
             "content": "[99999 Coins]\n04000000 0120c220 0001869f\n\n"
@@ -53,53 +87,7 @@
             "content": "[Timer at 49 secs]\n58000000 01209E58\n78000000 00000008\n64000000 00000000 42440000"
         }
     ],
-    "09B0D1846CC99974": [
-        {
-            "title": "[From MAX-CHEATS.com by optantic for Guacamelee 2 1.0.0]",
-            "content": "[From MAX-CHEATS.com by optantic for Guacamelee 2 1.0.0]\n\n"
-        },
-        {
-            "title": "[P1 Infinite HP v100]",
-            "content": "[P1 Infinite HP v100]\n580f0000 01206DB8\n580f1000 00000018\n780f0000 0000011C\n680f0000 43960000 43960000\n\n"
-        },
-        {
-            "title": "[P1 Infinite Super]",
-            "content": "[P1 Infinite Super]\n580f0000 01206DB8\n780f0000 000000BC\n640f0000 00000000 41400000\n780f0000 00000010\n640f0000 00000000 41400000\n\n"
-        },
-        {
-            "title": "[P2 Infinite HP]",
-            "content": "[P2 Infinite HP]\n580f0000 01206DC0\n580f1000 00000018\n780f0000 0000011C\n680f0000 43960000 43960000\n\n"
-        },
-        {
-            "title": "[P2 Infinite Super]",
-            "content": "[P2 Infinite Super]\n580f0000 01206DC0\n780f0000 000000BC\n640f0000 00000000 41400000\n780f0000 00000010\n640f0000 00000000 41400000\n\n"
-        },
-        {
-            "title": "[P3 Infinite HP]",
-            "content": "[P3 Infinite HP]\n580f0000 01206DC8\n580f1000 00000018\n780f0000 0000011C\n680f0000 43960000 43960000\n\n"
-        },
-        {
-            "title": "[P3 Infinite Super]",
-            "content": "[P3 Infinite Super]\n580f0000 01206DC8\n780f0000 000000BC\n640f0000 00000000 41400000\n780f0000 00000010\n640f0000 00000000 41400000\n\n"
-        },
-        {
-            "title": "[P4 Infinite HP]",
-            "content": "[P4 Infinite HP]\n580f0000 01206DD0\n580f1000 00000018\n780f0000 0000011C\n680f0000 43960000 43960000\n\n"
-        },
-        {
-            "title": "[P4 Infinite Super]",
-            "content": "[P4 Infinite Super]\n580f0000 01206DD0\n780f0000 000000BC\n640f0000 00000000 41400000\n780f0000 00000010\n640f0000 00000000 41400000\n\n"
-        },
-        {
-            "title": "[99999 Coins]",
-            "content": "[99999 Coins]\n04000000 01202f90 0001869f"
-        }
-    ],
     "536E86A461401F9F": [
-        {
-            "title": "[From MAX-CHEATS.com by optantic for Guacamelee 2 1.0.1]",
-            "content": "[From MAX-CHEATS.com by optantic for Guacamelee 2 1.0.1]\n\n"
-        },
         {
             "title": "[P1 Infinite HP v101]",
             "content": "[P1 Infinite HP v101]\n580f0000 0120B078\n580f1000 00000018\n780f0000 0000011C\n680f0000 43960000 43960000\n\n"

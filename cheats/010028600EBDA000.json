@@ -1,54 +1,4 @@
 {
-    "891687F016A18F17": [
-        {
-            "title": "[all player invincible+fury world+captain toad ]",
-            "content": "[all player invincible+fury world+captain toad ]\n04000000 00391414 7100051F\n\n"
-        },
-        {
-            "title": "[all player invincible 2+fury world+captain toad no Blinking]",
-            "content": "[all player invincible 2+fury world+captain toad no Blinking]\n04000000 00390FC0 D65F03C0\n\n"
-        },
-        {
-            "title": "[000 time inf]",
-            "content": "[000 time inf]\n04000000 0019CD50 D65F03C0\n\n"
-        },
-        {
-            "title": "[1p speed run normal]",
-            "content": "[1p speed run normal]\n04000000 0033E894 1E2E1008\n\n"
-        },
-        {
-            "title": "[1p speed run 2x]",
-            "content": "[1p speed run 2x]\n04000000 0033E894 1E201008\n\n"
-        },
-        {
-            "title": "[1p speed run3x]",
-            "content": "[1p speed run3x]\n04000000 0033E894 1E211008\n\n"
-        },
-        {
-            "title": "[1p speed run5x]",
-            "content": "[1p speed run5x]\n04000000 0033E894 1E229008\n\n"
-        },
-        {
-            "title": "[B pad Hold moom jump mod down pad disable]",
-            "content": "[B pad Hold moom jump mod down pad disable]\n04000000 0031B03C 1E2E1009\n\n"
-        },
-        {
-            "title": "[32# Mystery House Timer Reset (L+R)]",
-            "content": "[32# Mystery House Timer Reset (L+R)]\n800000C0\n58000000 01A11EF0\n58001000 00000118\n58001000 00000098\n58001000 00000000\n58001000 00000040\n58001000 00000098\n78000000 00000018\n62000000 00000000 00000001\n20000000\n\n"
-        },
-        {
-            "title": "[GET ANYWHERE GREEN STAR+STAMP]",
-            "content": "[GET ANYWHERE GREEN STAR+STAMP]\n04000000 0086D4DC 1E2E1002\n\n"
-        },
-        {
-            "title": "[1p invicible 2]",
-            "content": "[1p invicible 2]\n04000000 003A90E0 D65F03C0\n04000000 003A9240 D65F03C0\n\n"
-        },
-        {
-            "title": "[get anywhere coin star hitanywhere L on R off]",
-            "content": "[get anywhere coin star hitanywhere L on R off]\n80000040\n04000000 00814C08 1E222020\n20000000\n80000080\n04000000 00814C08 1E222000\n20000000\n"
-        }
-    ],
     "9F7EFC2FB9653E5C": [
         {
             "title": "[treasury money 66666666]",
@@ -87,10 +37,6 @@
             "content": "[o Max Score@spiderman]\n58000000 0137EAA0\n58001000 00000020\n58001000 000000D8\n78000000 00000040\n64000000 00000000 000F423F\n\n"
         },
         {
-            "title": "[== ITEM SLOT 1 ==]",
-            "content": "[== ITEM SLOT 1 ==]\n"
-        },
-        {
             "title": "[ o Big Mushroom@spiderman]",
             "content": "[ o Big Mushroom@spiderman]\n58000000 0137EAA0\n58001000 00000020\n58001000 000000D8\n78000000 00000168\n64000000 00000000 00000001\n\n"
         },
@@ -119,10 +65,6 @@
             "content": "[ o Lucky Bell@spiderman]\n58000000 0137EAA0\n58001000 00000020\n58001000 000000D8\n78000000 00000168\n64000000 00000000 00000007\n\n"
         },
         {
-            "title": "[Browser's Fury Codes]",
-            "content": "[Browser's Fury Codes]\n"
-        },
-        {
             "title": "[Infinite Cat Bell @spiderman]",
             "content": "[Infinite Cat Bell @spiderman]\n58000000 0137EAA0\n58001000 00000030\n58001000 00000098\n78000000 00000008\n64000000 00000000 00000063\n\n"
         },
@@ -149,14 +91,6 @@
         {
             "title": "[Invisible Mario @spiderman]",
             "content": "[Invisible Mario @spiderman]\n58000000 01A09DA0\n58001000 00000018\n58001000 00000330\n58001000 00000078\n58001000 00000148\n78000000 00000030\n64000000 00000000 00000005\n"
-        },
-        {
-            "title": "[ | NOTE: USE WITH INVINCIBILITY CODE]",
-            "content": "[ | NOTE: USE WITH INVINCIBILITY CODE]\n\n"
-        },
-        {
-            "title": "[== ACTIVATE POWER UP (PRESS L3) ==]",
-            "content": "[== ACTIVATE POWER UP (PRESS L3) ==]\n"
         },
         {
             "title": "[Cat Mario @spiderman]",
@@ -227,10 +161,6 @@
             "content": "[11# Inf Time]\n580A0000 0137EAA0\n580A1000 00000018\n580A1000 00000000\n580A1000 00000018\n780A0000 000000C0\n640A0000 00000000 0000FFFF\n\n"
         },
         {
-            "title": "[Done by Merlin]",
-            "content": "[Done by Merlin]\n[]\n"
-        },
-        {
             "title": "[All 3 green Stars]",
             "content": "[All 3 green Stars]\n580F0000 01A085E8\n580F1000 00000010\n580F1000 00000008\n580F1000 00000040\n580F1000 00000008\n580F1000 00000040\n580F1000 00000020\n580F1000 000000D8\n780F0000 00000088\n610F0000 00000000 00000007\n780f0000 00000028\n610F0000 00000000 00000007\n\n"
         },
@@ -271,10 +201,6 @@
             "content": "[Crown World Stage 30 stars]\n580F0000 01A085E8\n580F1000 00000010\n580F1000 00000008\n580F1000 00000040\n580F1000 00000008\n580F1000 00000040\n580F1000 00000020\n580F1000 000000D8\n780F0000 00000088\n640F0000 00000000 3FFFFFFF\n780f0000 00000028\n640F0000 00000000 3FFFFFFF\n[]\n"
         },
         {
-            "title": "[Spreading codes outside of GBAtemp is prohibited!]",
-            "content": "[Spreading codes outside of GBAtemp is prohibited!]\n\n"
-        },
-        {
             "title": "[22# Always Amiibo White Cat (L+R)]",
             "content": "[22# Always Amiibo White Cat (L+R)]\n800000C0\n580A0000 01A09DA0\n580A1000 00000118\n580A1000 00000058\n580A1000 000000A0\n580A1000 000000C8\n780A0000 0000001C\n640A0000 00000000 00000008\n580A0000 01A09DA0\n580A1000 000000B8\n580A1000 00000020\n580A1000 00000060\n580A1000 00000048\n780A0000 00000000\n680A0000 00000008 00000008\n20000000\n\n"
         },
@@ -309,6 +235,56 @@
         {
             "title": "[GET ANYWHERE GREEN STAR+STAMP]",
             "content": "[GET ANYWHERE GREEN STAR+STAMP]\n04000000 0086746C 1E2E1002\n\n"
+        }
+    ],
+    "891687F016A18F17": [
+        {
+            "title": "[all player invincible+fury world+captain toad ]",
+            "content": "[all player invincible+fury world+captain toad ]\n04000000 00391414 7100051F\n\n"
+        },
+        {
+            "title": "[all player invincible 2+fury world+captain toad no Blinking]",
+            "content": "[all player invincible 2+fury world+captain toad no Blinking]\n04000000 00390FC0 D65F03C0\n\n"
+        },
+        {
+            "title": "[000 time inf]",
+            "content": "[000 time inf]\n04000000 0019CD50 D65F03C0\n\n"
+        },
+        {
+            "title": "[1p speed run normal]",
+            "content": "[1p speed run normal]\n04000000 0033E894 1E2E1008\n\n"
+        },
+        {
+            "title": "[1p speed run 2x]",
+            "content": "[1p speed run 2x]\n04000000 0033E894 1E201008\n\n"
+        },
+        {
+            "title": "[1p speed run3x]",
+            "content": "[1p speed run3x]\n04000000 0033E894 1E211008\n\n"
+        },
+        {
+            "title": "[1p speed run5x]",
+            "content": "[1p speed run5x]\n04000000 0033E894 1E229008\n\n"
+        },
+        {
+            "title": "[B pad Hold moom jump mod down pad disable]",
+            "content": "[B pad Hold moom jump mod down pad disable]\n04000000 0031B03C 1E2E1009\n\n"
+        },
+        {
+            "title": "[32# Mystery House Timer Reset (L+R)]",
+            "content": "[32# Mystery House Timer Reset (L+R)]\n800000C0\n58000000 01A11EF0\n58001000 00000118\n58001000 00000098\n58001000 00000000\n58001000 00000040\n58001000 00000098\n78000000 00000018\n62000000 00000000 00000001\n20000000\n\n"
+        },
+        {
+            "title": "[GET ANYWHERE GREEN STAR+STAMP]",
+            "content": "[GET ANYWHERE GREEN STAR+STAMP]\n04000000 0086D4DC 1E2E1002\n\n"
+        },
+        {
+            "title": "[1p invicible 2]",
+            "content": "[1p invicible 2]\n04000000 003A90E0 D65F03C0\n04000000 003A9240 D65F03C0\n\n"
+        },
+        {
+            "title": "[get anywhere coin star hitanywhere L on R off]",
+            "content": "[get anywhere coin star hitanywhere L on R off]\n80000040\n04000000 00814C08 1E222020\n20000000\n80000080\n04000000 00814C08 1E222000\n20000000\n"
         }
     ]
 }

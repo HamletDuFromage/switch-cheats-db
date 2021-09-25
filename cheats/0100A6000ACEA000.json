@@ -13,14 +13,6 @@
             "content": "[CPU No Yellow Bar]\n580f0000 02b31288\n580f1000 000000a0\n580f1000 00000010\n580f1000 00000010\n580f1000 00000028\n580f1000 00000028\n580f1000 00000050\n780f0000 00000038\n640f0000 00000000 00000000\n\n"
         },
         {
-            "title": "[Warning: Use the Following Cheats only on a New Game]",
-            "content": "[Warning: Use the Following Cheats only on a New Game]\n"
-        },
-        {
-            "title": "[Turn cheats ON then OFF and never use it again]",
-            "content": "[Turn cheats ON then OFF and never use it again]\n\n"
-        },
-        {
             "title": "[Money 99000 Only Use 1 time on New Game]",
             "content": "[Money 99000 Only Use 1 time on New Game]\n580f0000 02b30990\n580f1000 000000a0\n580f1000 00000008\n580f1000 00000010\n580f1000 00000030\n580f1000 00000018\n580f1000 00000010\n780f0000 00000030\n640f0000 00000000 47c15c00\n\n"
         },

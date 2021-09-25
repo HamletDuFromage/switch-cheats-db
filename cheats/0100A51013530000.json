@@ -2,14 +2,6 @@
     "B895F6F2C665554B": [
         {
             "title": "[max when use credit]",
-            "content": "[max when use credit]\nThe increase or decrease will maximize the credit.\n\n"
-        },
-        {
-            "title": "[status max after save and load]",
-            "content": "[status max after save and load]\nExit the game after saving.\nResume the game with the code off.\n\n"
-        },
-        {
-            "title": "[max when use credit]",
             "content": "[max when use credit]\n04010000 01F18150 2A0A03E8\n\n"
         },
         {
@@ -18,18 +10,6 @@
         }
     ],
     "38532D3EFA8C1542": [
-        {
-            "title": "[Inf Credit]",
-            "content": "[Inf Credit]\nCredit is reduced by using the inn.\n\n"
-        },
-        {
-            "title": "[Items]-[Equipmen]",
-            "content": "[Items]-[Equipmen]\n"
-        },
-        {
-            "title": "[New Game]",
-            "content": "In my environment, I was able to use [New Game] with all the main characters.\n\n"
-        },
         {
             "title": "[Inf Credit]",
             "content": "[Inf Credit]\n04010000 01E98F64 D503201F\n\n"

@@ -9,36 +9,6 @@
             "content": "[Invincible]\n010F0000 01237274 000000FF"
         }
     ],
-    "31196C8F3970CD2A": [
-        {
-            "title": "[From MAX-CHEATS.com by optantic for ACA NEOGEO METAL SLUG 1.0.1]",
-            "content": "[From MAX-CHEATS.com by optantic for ACA NEOGEO METAL SLUG 1.0.1]\n\n"
-        },
-        {
-            "title": "[P1 Infinite Lives]",
-            "content": "[P1 Infinite Lives]\n01000000 0125017e 00000009\n\n"
-        },
-        {
-            "title": "[P1 Infinite Ammo]",
-            "content": "[P1 Infinite Ammo]\n02000000 012502ca 0000ffff\n\n"
-        },
-        {
-            "title": "[P1 Infinite Bombs]",
-            "content": "[P1 Infinite Bombs]\n01000000 012502c9 000000ff\n\n"
-        },
-        {
-            "title": "[P2 Infinite Lives]",
-            "content": "[P2 Infinite Lives]\n01000000 0125021e 00000009\n\n"
-        },
-        {
-            "title": "[P2 Infinite Ammo]",
-            "content": "[P2 Infinite Ammo]\n02000000 0125036a 0000ffff\n\n"
-        },
-        {
-            "title": "[P2 Infinite Bombs]",
-            "content": "[P2 Infinite Bombs]\n01000000 01250369 000000ff"
-        }
-    ],
     "859B8A3313FB2057": [
         {
             "title": "[Infinite Time 60Seconds]",
@@ -87,6 +57,32 @@
         {
             "title": "[hitanywhere - pad on]",
             "content": "[hitanywhere - pad on]\n80000800\n021f0000 0166c5fc 00004ef9\n021f0000 0166c5fe 00000000\n021f0000 0166c600 00000200\n021f0000 01644200 0000B3FC\n021f0000 01644202 00000010\n021f0000 01644204 00000440\n021f0000 01644206 0000670C\n021f0000 01644208 0000D1FC\n021f0000 0164420A 00000000\n021f0000 0164420C 0000000A\n021f0000 0164420E 00004EF9\n021f0000 01644210 00000002\n021f0000 01644212 00008618\n021f0000 01644214 0000D1FC\n021f0000 01644216 00000000\n021f0000 01644218 0000000A\n021f0000 0164421A 00004EF9\n021f0000 0164421C 00000002\n021f0000 0164421E 00008602\n20000000"
+        }
+    ],
+    "31196C8F3970CD2A": [
+        {
+            "title": "[P1 Infinite Lives]",
+            "content": "[P1 Infinite Lives]\n01000000 0125017e 00000009\n\n"
+        },
+        {
+            "title": "[P1 Infinite Ammo]",
+            "content": "[P1 Infinite Ammo]\n02000000 012502ca 0000ffff\n\n"
+        },
+        {
+            "title": "[P1 Infinite Bombs]",
+            "content": "[P1 Infinite Bombs]\n01000000 012502c9 000000ff\n\n"
+        },
+        {
+            "title": "[P2 Infinite Lives]",
+            "content": "[P2 Infinite Lives]\n01000000 0125021e 00000009\n\n"
+        },
+        {
+            "title": "[P2 Infinite Ammo]",
+            "content": "[P2 Infinite Ammo]\n02000000 0125036a 0000ffff\n\n"
+        },
+        {
+            "title": "[P2 Infinite Bombs]",
+            "content": "[P2 Infinite Bombs]\n01000000 01250369 000000ff"
         }
     ]
 }

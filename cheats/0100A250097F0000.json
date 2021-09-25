@@ -1,86 +1,44 @@
 {
-    "70DF9FBFF6E78F49": [
+    "810A82B5C6FB347F": [
         {
-            "title": "[01# Change Money Max]",
-            "content": "[01# Change Money Max]\n04000000 00256AB8 AA0803F6\n\n"
+            "title": "[Change Money Max]",
+            "content": "[Change Money Max]\n04000000 0024EAA4 AA0803F6\n\n"
         },
         {
-            "title": "[02# Change Z Coin Max]",
-            "content": "[02# Change Z Coin Max]\n04000000 00256B0C AA0A03E9\n\n"
+            "title": "[Change Z Coin Max]",
+            "content": "[Change Z Coin Max]\n04000000 0024EAF8 AA0A03E9\n\n"
         },
         {
-            "title": "[03# Inf HP]",
-            "content": "[03# Inf HP]\n04000000 02C93F00 B9404409\n04000000 02C93F04 35000089\n04000000 02C93F08 52A00029\n04000000 02C93F0C 728BF209\n04000000 02C93F10 B90DE009\n04000000 02C93F14 B94DE008\n04000000 02C93F18 17532357\n04000000 02C93F1C 52017772\n04000000 0015CC70 14ACDCA4\n\n"
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n04000000 02C73400 B9404409\n04000000 02C73404 35000089\n04000000 02C73408 52A00029\n04000000 02C7340C B90DE009\n04000000 02C73410 B90DDC09\n04000000 02C73414 B94DE008\n04000000 02C73418 17539F93\n04000000 02C7341C 52017772\n04000000 0015B260 14AC6068\n\n"
         },
         {
-            "title": "[04# Inf Sparking]",
-            "content": "[04# Inf Sparking]\n04000000 000D2E38 52800040\n\n"
+            "title": "[Inf Sparking]",
+            "content": "[Inf Sparking]\n04000000 000D1550 52800040\n\n"
         },
         {
-            "title": "[05# 1P Inf Energy]",
-            "content": "[05# 1P Inf Energy]\n04000000 02C93F20 B9400275\n04000000 02C93F24 35000095\n04000000 02C93F28 52A00035\n04000000 02C93F2C 72822E15\n04000000 02C93F30 B9004A75\n04000000 02C93F34 B9405677\n04000000 02C93F38 D65F03C0\n04000000 000D9478 94AEEAAA\n\n"
+            "title": "[1P Inf Energy]",
+            "content": "[1P Inf Energy]\n04000000 02C73420 B9400275\n04000000 02C73424 35000095\n04000000 02C73428 52A00035\n04000000 02C7342C 72822E15\n04000000 02C73430 B9004A75\n04000000 02C73434 B9405677\n04000000 02C73438 D65F03C0\n04000000 000D7A28 94AE6E7E\n\n"
         },
         {
-            "title": "[06# 2P no Move]",
-            "content": "[06# 2P no Move]\n04000000 02C93F60 B9404408\n04000000 02C93F64 35000088\n04000000 02C93F68 B943A808\n04000000 02C93F6C 0B010108\n04000000 02C93F70 B903A808\n04000000 02C93F74 D65F03C0\n04000000 0016E960 14AC9580\n\n"
+            "title": "[2P no Move]",
+            "content": "[2P no Move]\n04000000 02C73460 B9404408\n04000000 02C73464 35000088\n04000000 02C73468 B943A808\n04000000 02C7346C 0B010108\n04000000 02C73470 B903A808\n04000000 02C73474 D65F03C0\n04000000 0016CF30 14AC194C\n\n"
         },
         {
-            "title": "[07# 1P Support no CD]",
-            "content": "[07# 1P Support no CD]\n04000000 02C93F40 B9404660\n04000000 02C93F44 35000040\n04000000 02C93F48 78286A7F\n04000000 02C93F4C 78E86A68\n04000000 02C93F50 D65F03C0\n04000000 02C93F54 52009F03\n04000000 0011E10C 94ADD78D\n\n"
+            "title": "[1P Support no CD]",
+            "content": "[1P Support no CD]\n04000000 02C73440 B9404660\n04000000 02C73444 35000040\n04000000 02C73448 78286A7F\n04000000 02C7344C 78E86A68\n04000000 02C73450 D65F03C0\n04000000 02C73454 52009F03\n04000000 0011CBDC 94AD5A19\n\n"
         },
         {
-            "title": "[08# Inf Time]",
-            "content": "[08# Inf Time]\n04000000 0010EFBC 5280000A\n\n"
+            "title": "[Inf Time]",
+            "content": "[Inf Time]\n04000000 0010D21C 5280000A\n\n"
         },
         {
-            "title": "[09# Inf Round]",
-            "content": "[09# Inf Round]\n04000000 004E1D24 2A0003E0\n\n"
+            "title": "[Inf Round]",
+            "content": "[Inf Round]\n04000000 004CCF98 2A0003E0\n\n"
         },
         {
-            "title": "[10# Get EXP Lv Max]",
-            "content": "[10# Get EXP Lv Max]\n04000000 004A389C 52800C8A"
-        }
-    ],
-    "9B710D5867004CF8": [
-        {
-            "title": "[01# Change Money Max]",
-            "content": "[01# Change Money Max]\n04000000 0025A630 AA0803F6\n\n"
-        },
-        {
-            "title": "[02# Change Z Coin Max]",
-            "content": "[02# Change Z Coin Max]\n04000000 0025A684 AA0A03E9\n\n"
-        },
-        {
-            "title": "[03# Inf HP]",
-            "content": "[03# Inf HP]\n04000000 02C98AD0 B9404409\n04000000 02C98AD4 35000089\n04000000 02C98AD8 52A00029\n04000000 02C98ADC 728BF209\n04000000 02C98AE0 B90DE009\n04000000 02C98AE4 B94DE008\n04000000 02C98AE8 1753160B\n04000000 02C98AEC 52017772\n04000000 0015E30C 14ACE9F1\n\n"
-        },
-        {
-            "title": "[04# Inf Sparking]",
-            "content": "[04# Inf Sparking]\n04000000 000D3B68 52800040\n\n"
-        },
-        {
-            "title": "[05# 1P Inf Energy]",
-            "content": "[05# 1P Inf Energy]\n04000000 02C98AF0 B9400275\n04000000 02C98AF4 35000095\n04000000 02C98AF8 52A00035\n04000000 02C98AFC 72822E15\n04000000 02C98B00 B9004A75\n04000000 02C98B04 B9405677\n04000000 02C98B08 D65F03C0\n04000000 000DA1A8 94AEFA52\n\n"
-        },
-        {
-            "title": "[06# 2P no Move]",
-            "content": "[06# 2P no Move]\n04000000 02C98B10 B9404408\n04000000 02C98B14 35000088\n04000000 02C98B18 B943A808\n04000000 02C98B1C 0B010108\n04000000 02C98B20 B903A808\n04000000 02C98B24 D65F03C0\n04000000 001700C8 14ACA292\n\n"
-        },
-        {
-            "title": "[07# 1P Support no CD]",
-            "content": "[07# 1P Support no CD]\n04000000 02C98B30 B9404660\n04000000 02C98B34 35000040\n04000000 02C98B38 78286A7F\n04000000 02C98B3C 78E86A68\n04000000 02C98B40 D65F03C0\n04000000 02C98B44 52009F03\n04000000 0011EF0C 94ADE709\n\n"
-        },
-        {
-            "title": "[08# Inf Time]",
-            "content": "[08# Inf Time]\n04000000 0010FD50 5280000A\n\n"
-        },
-        {
-            "title": "[09# Inf Round]",
-            "content": "[09# Inf Round]\n04000000 004E4398 2A0003E0\n\n"
-        },
-        {
-            "title": "[10# Get EXP Lv Max]",
-            "content": "[10# Get EXP Lv Max]\n04000000 004A7F38 52800C8A"
+            "title": "[Get EXP Lv Max]",
+            "content": "[Get EXP Lv Max]\n04000000 0048ECB0 52800C8A"
         }
     ],
     "CD53729B7AE2D794": [
@@ -241,6 +199,52 @@
             "content": "[Vegeta (SSGSS) - Level 100]\n580F0000 0524F958\n780F0000 00008d38\n640F0000 00000000 00000064"
         }
     ],
+    "9B710D5867004CF8": [
+        {
+            "title": "{Mastercode}",
+            "content": "{Mastercode}\n04000000 0025A630 1A88B2C8\n04000000 0025A684 1A8AB12A\n04000000 0015E30C B94DE008\n04000000 000D3B68 B9404C00\n04000000 000DA1A8 B9405677\n04000000 001700C8 B943A808\n04000000 0011EF0C 78E86A68\n04000000 0010FD50 B940126A\n04000000 004E4398 11000529\n04000000 004A7F38 B940428A\n\n"
+        },
+        {
+            "title": "[01# Change Money Max]",
+            "content": "[01# Change Money Max]\n04000000 0025A630 AA0803F6\n\n"
+        },
+        {
+            "title": "[02# Change Z Coin Max]",
+            "content": "[02# Change Z Coin Max]\n04000000 0025A684 AA0A03E9\n\n"
+        },
+        {
+            "title": "[03# Inf HP]",
+            "content": "[03# Inf HP]\n04000000 02C98AD0 B9404409\n04000000 02C98AD4 35000089\n04000000 02C98AD8 52A00029\n04000000 02C98ADC 728BF209\n04000000 02C98AE0 B90DE009\n04000000 02C98AE4 B94DE008\n04000000 02C98AE8 1753160B\n04000000 02C98AEC 52017772\n04000000 0015E30C 14ACE9F1\n\n"
+        },
+        {
+            "title": "[04# Inf Sparking]",
+            "content": "[04# Inf Sparking]\n04000000 000D3B68 52800040\n\n"
+        },
+        {
+            "title": "[05# 1P Inf Energy]",
+            "content": "[05# 1P Inf Energy]\n04000000 02C98AF0 B9400275\n04000000 02C98AF4 35000095\n04000000 02C98AF8 52A00035\n04000000 02C98AFC 72822E15\n04000000 02C98B00 B9004A75\n04000000 02C98B04 B9405677\n04000000 02C98B08 D65F03C0\n04000000 000DA1A8 94AEFA52\n\n"
+        },
+        {
+            "title": "[06# 2P no Move]",
+            "content": "[06# 2P no Move]\n04000000 02C98B10 B9404408\n04000000 02C98B14 35000088\n04000000 02C98B18 B943A808\n04000000 02C98B1C 0B010108\n04000000 02C98B20 B903A808\n04000000 02C98B24 D65F03C0\n04000000 001700C8 14ACA292\n\n"
+        },
+        {
+            "title": "[07# 1P Support no CD]",
+            "content": "[07# 1P Support no CD]\n04000000 02C98B30 B9404660\n04000000 02C98B34 35000040\n04000000 02C98B38 78286A7F\n04000000 02C98B3C 78E86A68\n04000000 02C98B40 D65F03C0\n04000000 02C98B44 52009F03\n04000000 0011EF0C 94ADE709\n\n"
+        },
+        {
+            "title": "[08# Inf Time]",
+            "content": "[08# Inf Time]\n04000000 0010FD50 5280000A\n\n"
+        },
+        {
+            "title": "[09# Inf Round]",
+            "content": "[09# Inf Round]\n04000000 004E4398 2A0003E0\n\n"
+        },
+        {
+            "title": "[10# Get EXP Lv Max]",
+            "content": "[10# Get EXP Lv Max]\n04000000 004A7F38 52800C8A"
+        }
+    ],
     "CE094B2B58E4D0C8": [
         {
             "title": "[Change Money Max]",
@@ -283,46 +287,50 @@
             "content": "[Get EXP Lv Max]\n04000000 00456CCC 52800C8A"
         }
     ],
-    "810A82B5C6FB347F": [
+    "70DF9FBFF6E78F49": [
         {
-            "title": "[Change Money Max]",
-            "content": "[Change Money Max]\n04000000 0024EAA4 AA0803F6\n\n"
+            "title": "{Mastercode}",
+            "content": "{Mastercode}\n04000000 00256AB8 1A88B2C8\n04000000 00256B0C 1A8AB12A\n04000000 0015CC70 B94DE008\n04000000 000D2E38 B9404C00\n04000000 000D9478 B9405677\n04000000 0016E960 B943A808\n04000000 0011E10C 78E86A68\n04000000 0010EFBC B940126A\n04000000 004E1D24 11000529\n04000000 004A389C B940428A\n\n"
         },
         {
-            "title": "[Change Z Coin Max]",
-            "content": "[Change Z Coin Max]\n04000000 0024EAF8 AA0A03E9\n\n"
+            "title": "[01# Change Money Max]",
+            "content": "[01# Change Money Max]\n04000000 00256AB8 AA0803F6\n\n"
         },
         {
-            "title": "[Inf HP]",
-            "content": "[Inf HP]\n04000000 02C73400 B9404409\n04000000 02C73404 35000089\n04000000 02C73408 52A00029\n04000000 02C7340C B90DE009\n04000000 02C73410 B90DDC09\n04000000 02C73414 B94DE008\n04000000 02C73418 17539F93\n04000000 02C7341C 52017772\n04000000 0015B260 14AC6068\n\n"
+            "title": "[02# Change Z Coin Max]",
+            "content": "[02# Change Z Coin Max]\n04000000 00256B0C AA0A03E9\n\n"
         },
         {
-            "title": "[Inf Sparking]",
-            "content": "[Inf Sparking]\n04000000 000D1550 52800040\n\n"
+            "title": "[03# Inf HP]",
+            "content": "[03# Inf HP]\n04000000 02C93F00 B9404409\n04000000 02C93F04 35000089\n04000000 02C93F08 52A00029\n04000000 02C93F0C 728BF209\n04000000 02C93F10 B90DE009\n04000000 02C93F14 B94DE008\n04000000 02C93F18 17532357\n04000000 02C93F1C 52017772\n04000000 0015CC70 14ACDCA4\n\n"
         },
         {
-            "title": "[1P Inf Energy]",
-            "content": "[1P Inf Energy]\n04000000 02C73420 B9400275\n04000000 02C73424 35000095\n04000000 02C73428 52A00035\n04000000 02C7342C 72822E15\n04000000 02C73430 B9004A75\n04000000 02C73434 B9405677\n04000000 02C73438 D65F03C0\n04000000 000D7A28 94AE6E7E\n\n"
+            "title": "[04# Inf Sparking]",
+            "content": "[04# Inf Sparking]\n04000000 000D2E38 52800040\n\n"
         },
         {
-            "title": "[2P no Move]",
-            "content": "[2P no Move]\n04000000 02C73460 B9404408\n04000000 02C73464 35000088\n04000000 02C73468 B943A808\n04000000 02C7346C 0B010108\n04000000 02C73470 B903A808\n04000000 02C73474 D65F03C0\n04000000 0016CF30 14AC194C\n\n"
+            "title": "[05# 1P Inf Energy]",
+            "content": "[05# 1P Inf Energy]\n04000000 02C93F20 B9400275\n04000000 02C93F24 35000095\n04000000 02C93F28 52A00035\n04000000 02C93F2C 72822E15\n04000000 02C93F30 B9004A75\n04000000 02C93F34 B9405677\n04000000 02C93F38 D65F03C0\n04000000 000D9478 94AEEAAA\n\n"
         },
         {
-            "title": "[1P Support no CD]",
-            "content": "[1P Support no CD]\n04000000 02C73440 B9404660\n04000000 02C73444 35000040\n04000000 02C73448 78286A7F\n04000000 02C7344C 78E86A68\n04000000 02C73450 D65F03C0\n04000000 02C73454 52009F03\n04000000 0011CBDC 94AD5A19\n\n"
+            "title": "[06# 2P no Move]",
+            "content": "[06# 2P no Move]\n04000000 02C93F60 B9404408\n04000000 02C93F64 35000088\n04000000 02C93F68 B943A808\n04000000 02C93F6C 0B010108\n04000000 02C93F70 B903A808\n04000000 02C93F74 D65F03C0\n04000000 0016E960 14AC9580\n\n"
         },
         {
-            "title": "[Inf Time]",
-            "content": "[Inf Time]\n04000000 0010D21C 5280000A\n\n"
+            "title": "[07# 1P Support no CD]",
+            "content": "[07# 1P Support no CD]\n04000000 02C93F40 B9404660\n04000000 02C93F44 35000040\n04000000 02C93F48 78286A7F\n04000000 02C93F4C 78E86A68\n04000000 02C93F50 D65F03C0\n04000000 02C93F54 52009F03\n04000000 0011E10C 94ADD78D\n\n"
         },
         {
-            "title": "[Inf Round]",
-            "content": "[Inf Round]\n04000000 004CCF98 2A0003E0\n\n"
+            "title": "[08# Inf Time]",
+            "content": "[08# Inf Time]\n04000000 0010EFBC 5280000A\n\n"
         },
         {
-            "title": "[Get EXP Lv Max]",
-            "content": "[Get EXP Lv Max]\n04000000 0048ECB0 52800C8A"
+            "title": "[09# Inf Round]",
+            "content": "[09# Inf Round]\n04000000 004E1D24 2A0003E0\n\n"
+        },
+        {
+            "title": "[10# Get EXP Lv Max]",
+            "content": "[10# Get EXP Lv Max]\n04000000 004A389C 52800C8A"
         }
     ]
 }

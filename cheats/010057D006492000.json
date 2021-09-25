@@ -1,60 +1,56 @@
 {
-    "72FD3930FAC64F21": [
-        {
-            "title": "[From MAX-CHEATS.com by optantic for OCTOPATH TRAVELER 1.2.0]",
-            "content": "[From MAX-CHEATS.com by optantic for OCTOPATH TRAVELER 1.2.0]\n\n"
-        },
+    "0D8A6A8804A6654C": [
         {
             "title": "[9999999 GP]",
-            "content": "[9999999 GP]\n580f0000 047C26A8\n580f1000 00000370\n780f0000 00000088\n640f0000 00000000 0098967F\n\n"
+            "content": "[9999999 GP]\n580f0000 047C46A8\n580f1000 00000370\n780f0000 00000088\n640f0000 00000000 0098967F\n\n"
         },
         {
             "title": "[Character1 9999 HP in battle]",
-            "content": "[Character1 9999 HP in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000000\n780f0000 000003e4\n620f0000 00000000 0000270f\n\n"
+            "content": "[Character1 9999 HP in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000000\n780f0000 000003e4\n620f0000 00000000 0000270f\n\n"
         },
         {
             "title": "[Character1 999 MP in battle]",
-            "content": "[Character1 999 MP in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000000\n780f0000 000003e8\n620f0000 00000000 000003e7\n\n"
+            "content": "[Character1 999 MP in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000000\n780f0000 000003e8\n620f0000 00000000 000003e7\n\n"
         },
         {
             "title": "[Character1 Max Boost in battle]",
-            "content": "[Character1 Max Boost in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000000\n780f0000 00000428\n610f0000 00000000 00000005\n\n"
+            "content": "[Character1 Max Boost in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000000\n780f0000 00000428\n610f0000 00000000 00000005\n\n"
         },
         {
             "title": "[Character2 9999 HP in battle]",
-            "content": "[Character2 9999 HP in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000008\n780f0000 000003e4\n620f0000 00000000 0000270f\n\n"
+            "content": "[Character2 9999 HP in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000008\n780f0000 000003e4\n620f0000 00000000 0000270f\n\n"
         },
         {
             "title": "[Character2 999 MP in battle]",
-            "content": "[Character2 999 MP in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000008\n780f0000 000003e8\n620f0000 00000000 000003e7\n\n"
+            "content": "[Character2 999 MP in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000008\n780f0000 000003e8\n620f0000 00000000 000003e7\n\n"
         },
         {
             "title": "[Character2 Max Boost in battle]",
-            "content": "[Character2 Max Boost in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000008\n780f0000 00000428\n610f0000 00000000 00000005\n\n"
+            "content": "[Character2 Max Boost in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000008\n780f0000 00000428\n610f0000 00000000 00000005\n\n"
         },
         {
             "title": "[Character3 9999 HP in battle]",
-            "content": "[Character3 9999 HP in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000010\n780f0000 000003e4\n620f0000 00000000 0000270f\n\n"
+            "content": "[Character3 9999 HP in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000010\n780f0000 000003e4\n620f0000 00000000 0000270f\n\n"
         },
         {
             "title": "[Character3 999 MP in battle]",
-            "content": "[Character3 999 MP in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000010\n780f0000 000003e8\n620f0000 00000000 000003e7\n\n"
+            "content": "[Character3 999 MP in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000010\n780f0000 000003e8\n620f0000 00000000 000003e7\n\n"
         },
         {
             "title": "[Character3 Max Boost in battle]",
-            "content": "[Character3 Max Boost in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000010\n780f0000 00000428\n610f0000 00000000 00000005\n\n"
+            "content": "[Character3 Max Boost in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000010\n780f0000 00000428\n610f0000 00000000 00000005\n\n"
         },
         {
             "title": "[Character4 9999 HP in battle]",
-            "content": "[Character4 9999 HP in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000018\n780f0000 000003e4\n620f0000 00000000 0000270f\n\n"
+            "content": "[Character4 9999 HP in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000018\n780f0000 000003e4\n620f0000 00000000 0000270f\n\n"
         },
         {
             "title": "[Character4 999 MP in battle]",
-            "content": "[Character4 999 MP in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000018\n780f0000 000003e8\n620f0000 00000000 000003e7\n\n"
+            "content": "[Character4 999 MP in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000018\n780f0000 000003e8\n620f0000 00000000 000003e7\n\n"
         },
         {
             "title": "[Character4 Max Boost in battle]",
-            "content": "[Character4 Max Boost in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000018\n780f0000 00000428\n610f0000 00000000 00000005"
+            "content": "[Character4 Max Boost in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000018\n780f0000 00000428\n610f0000 00000000 00000005"
         }
     ],
     "B88A8D8E5516DDE9": [
@@ -131,6 +127,60 @@
             "content": "[19# first item Battle Tested Blade]\n580F0000 04824468\n580F1000 000003A8\n780F0000 00000000\n640F0000 00000000 000003E9\n780F0000 00000004\n640F0000 00000000 00000001"
         }
     ],
+    "72FD3930FAC64F21": [
+        {
+            "title": "[9999999 GP]",
+            "content": "[9999999 GP]\n580f0000 047C26A8\n580f1000 00000370\n780f0000 00000088\n640f0000 00000000 0098967F\n\n"
+        },
+        {
+            "title": "[Character1 9999 HP in battle]",
+            "content": "[Character1 9999 HP in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000000\n780f0000 000003e4\n620f0000 00000000 0000270f\n\n"
+        },
+        {
+            "title": "[Character1 999 MP in battle]",
+            "content": "[Character1 999 MP in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000000\n780f0000 000003e8\n620f0000 00000000 000003e7\n\n"
+        },
+        {
+            "title": "[Character1 Max Boost in battle]",
+            "content": "[Character1 Max Boost in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000000\n780f0000 00000428\n610f0000 00000000 00000005\n\n"
+        },
+        {
+            "title": "[Character2 9999 HP in battle]",
+            "content": "[Character2 9999 HP in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000008\n780f0000 000003e4\n620f0000 00000000 0000270f\n\n"
+        },
+        {
+            "title": "[Character2 999 MP in battle]",
+            "content": "[Character2 999 MP in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000008\n780f0000 000003e8\n620f0000 00000000 000003e7\n\n"
+        },
+        {
+            "title": "[Character2 Max Boost in battle]",
+            "content": "[Character2 Max Boost in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000008\n780f0000 00000428\n610f0000 00000000 00000005\n\n"
+        },
+        {
+            "title": "[Character3 9999 HP in battle]",
+            "content": "[Character3 9999 HP in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000010\n780f0000 000003e4\n620f0000 00000000 0000270f\n\n"
+        },
+        {
+            "title": "[Character3 999 MP in battle]",
+            "content": "[Character3 999 MP in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000010\n780f0000 000003e8\n620f0000 00000000 000003e7\n\n"
+        },
+        {
+            "title": "[Character3 Max Boost in battle]",
+            "content": "[Character3 Max Boost in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000010\n780f0000 00000428\n610f0000 00000000 00000005\n\n"
+        },
+        {
+            "title": "[Character4 9999 HP in battle]",
+            "content": "[Character4 9999 HP in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000018\n780f0000 000003e4\n620f0000 00000000 0000270f\n\n"
+        },
+        {
+            "title": "[Character4 999 MP in battle]",
+            "content": "[Character4 999 MP in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000018\n780f0000 000003e8\n620f0000 00000000 000003e7\n\n"
+        },
+        {
+            "title": "[Character4 Max Boost in battle]",
+            "content": "[Character4 Max Boost in battle]\n580f0000 047c2630\n580f1000 000003a8\n580f1000 00000018\n780f0000 00000428\n610f0000 00000000 00000005"
+        }
+    ],
     "D2D9A400F18D3749": [
         {
             "title": "[9999999 GP]",
@@ -167,64 +217,6 @@
         {
             "title": "[battle unlimited use x4]",
             "content": "[battle unlimited use x4]\n580F0000 048253F0\n580F1000 000003A8\n580F1000 00000000\n780F0000 00000428\n610F0000 00000000 00000005\n580F0000 048253F0\n580F1000 000003A8\n580F1000 00000008\n780F0000 00000428\n610F0000 00000000 00000005\n580F0000 048253F0\n580F1000 000003A8\n580F1000 00000010\n780F0000 00000428\n610F0000 00000000 00000005\n580F0000 048253F0\n580F1000 000003A8\n580F1000 00000018\n780F0000 00000428\n610F0000 00000000 00000005"
-        }
-    ],
-    "0D8A6A8804A6654C": [
-        {
-            "title": "[From MAX-CHEATS.com by optantic for OCTOPATH TRAVELER 1.0.0]",
-            "content": "[From MAX-CHEATS.com by optantic for OCTOPATH TRAVELER 1.0.0]\n\n"
-        },
-        {
-            "title": "[9999999 GP]",
-            "content": "[9999999 GP]\n580f0000 047C46A8\n580f1000 00000370\n780f0000 00000088\n640f0000 00000000 0098967F\n\n"
-        },
-        {
-            "title": "[Character1 9999 HP in battle]",
-            "content": "[Character1 9999 HP in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000000\n780f0000 000003e4\n620f0000 00000000 0000270f\n\n"
-        },
-        {
-            "title": "[Character1 999 MP in battle]",
-            "content": "[Character1 999 MP in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000000\n780f0000 000003e8\n620f0000 00000000 000003e7\n\n"
-        },
-        {
-            "title": "[Character1 Max Boost in battle]",
-            "content": "[Character1 Max Boost in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000000\n780f0000 00000428\n610f0000 00000000 00000005\n\n"
-        },
-        {
-            "title": "[Character2 9999 HP in battle]",
-            "content": "[Character2 9999 HP in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000008\n780f0000 000003e4\n620f0000 00000000 0000270f\n\n"
-        },
-        {
-            "title": "[Character2 999 MP in battle]",
-            "content": "[Character2 999 MP in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000008\n780f0000 000003e8\n620f0000 00000000 000003e7\n\n"
-        },
-        {
-            "title": "[Character2 Max Boost in battle]",
-            "content": "[Character2 Max Boost in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000008\n780f0000 00000428\n610f0000 00000000 00000005\n\n"
-        },
-        {
-            "title": "[Character3 9999 HP in battle]",
-            "content": "[Character3 9999 HP in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000010\n780f0000 000003e4\n620f0000 00000000 0000270f\n\n"
-        },
-        {
-            "title": "[Character3 999 MP in battle]",
-            "content": "[Character3 999 MP in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000010\n780f0000 000003e8\n620f0000 00000000 000003e7\n\n"
-        },
-        {
-            "title": "[Character3 Max Boost in battle]",
-            "content": "[Character3 Max Boost in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000010\n780f0000 00000428\n610f0000 00000000 00000005\n\n"
-        },
-        {
-            "title": "[Character4 9999 HP in battle]",
-            "content": "[Character4 9999 HP in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000018\n780f0000 000003e4\n620f0000 00000000 0000270f\n\n"
-        },
-        {
-            "title": "[Character4 999 MP in battle]",
-            "content": "[Character4 999 MP in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000018\n780f0000 000003e8\n620f0000 00000000 000003e7\n\n"
-        },
-        {
-            "title": "[Character4 Max Boost in battle]",
-            "content": "[Character4 Max Boost in battle]\n580f0000 047c4630\n580f1000 000003a8\n580f1000 00000018\n780f0000 00000428\n610f0000 00000000 00000005"
         }
     ]
 }

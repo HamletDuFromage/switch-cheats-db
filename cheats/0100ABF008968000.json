@@ -1,242 +1,4 @@
 {
-    "4628A512B1D93D37": [
-        {
-            "title": "[Catch Rate 100% (v1.3.1)]",
-            "content": "[Catch Rate 100% (v1.3.1)]\n04000000 0077F6E8 529FFFE0 \n\n"
-        },
-        {
-            "title": "[Always Instant-KO (v1.3.1)]",
-            "content": "[Always Instant-KO (v1.3.1)]\n04000000 007E37F0 7900E808\n04000000 007E37F0 7900E81F\n\n"
-        },
-        {
-            "title": "[Shiny Star (v1.3.1)]",
-            "content": "[Shiny Star (v1.3.1)]\n04000000 00766844 1400003A\n04000000 00766854 14000036\n04000000 007773C4 52000C29\n\n"
-        },
-        {
-            "title": "[Shiny Square (v1.3.1)]",
-            "content": "[Shiny Square (v1.3.1)]\n04000000 00766844 1400003A\n04000000 00766854 14000036\n04000000 007773C4 2A0103E9\n\n"
-        },
-        {
-            "title": "[Nursey Staff Always Have an Egg (v1.3.1)]",
-            "content": "[Nursey Staff Always Have an Egg (v1.3.1)]\n04000000 014014B4 D503201F\n04000000 01401604 D503201F\n\n"
-        },
-        {
-            "title": "[Eggs Hatch Faster (v1.3.1)]",
-            "content": "[Eggs Hatch Faster (v1.3.1)]\n04000000 00DC95A4 52801FF8\n04000000 00DC95CC 52801FF8\n\n"
-        },
-        {
-            "title": "[Pok\u00e9Balls Always Catch (v1.3.1)]",
-            "content": "[Pok\u00e9Balls Always Catch (v1.3.1)]\n04000000 008A7008 17FFFFF0\n\n"
-        },
-        {
-            "title": "[Purple Beam (Hold R) (v1.3.1)]",
-            "content": "[Purple Beam (Hold R) (v1.3.1)]\n04000000 01426084 B9400068\n04000000 0142608C B9400068\n80000080\n04000000 01426084 52800048\n04000000 0142608C 52800048\n20000000\n\n"
-        },
-        {
-            "title": "[Deactivate Beam (Hold L) (v1.3.1)]",
-            "content": "[Deactivate Beam (Hold L) (v1.3.1)]\n04000000 01426104 39C1C900\n80000040\n04000000 01426104 52800000\n20000000\n\n"
-        },
-        {
-            "title": "[(v1.3.1) All pokeballs work like Masterball (on)]",
-            "content": "[(v1.3.1) All pokeballs work like Masterball (on)]\n04000000 008A70C8 17FFFFF0\n\n"
-        },
-        {
-            "title": "[(v1.3.1) All pokeballs work like Masterball (off)]",
-            "content": "[(v1.3.1) All pokeballs work like Masterball (off)]\n04000000 008A70C8 54FFFE00 \n\n"
-        },
-        {
-            "title": "[Pok\u00e9Balls Always Catch (On)]",
-            "content": "[Pok\u00e9Balls Always Catch (On)]\n04000000 008A7008 17FFFFF0\n\n"
-        },
-        {
-            "title": "[Pok\u00e9Balls Always Catch (Off)]",
-            "content": "[Pok\u00e9Balls Always Catch (Off)]\n04000000 008A70C8 54FFFE00\n\n"
-        },
-        {
-            "title": "[Always Instant-KO (Hold ZR)]",
-            "content": "[Always Instant-KO (Hold ZR)]\n04000000 007E37F0 7900E808\n80000200\n04000000 007E37F0 7900E81F\n20000000\n\n"
-        },
-        {
-            "title": "[Max Money (v1.3.1)]",
-            "content": "[Max Money (v1.3.1)]\n04100000 45072DF4 0098967F\n\n"
-        },
-        {
-            "title": "[Max Watts (v1.3.1)]",
-            "content": "[Max Watts (v1.3.1)]\n04100000 45068FE8 0098967F\n\n"
-        },
-        {
-            "title": "[Static Watts(On)]",
-            "content": "[Static Watts(On)]\n04000000 01424DBC 4B1F0108\n\n"
-        },
-        {
-            "title": "[Static Watts (Off)]",
-            "content": "[Static Watts (Off)]\n04000000 01424DBC 4B020108\n\n"
-        },
-        {
-            "title": "[Static Props (On)]",
-            "content": "[Static Props (On)]\n04000000 01420C2C 4B1F0148\n\n"
-        },
-        {
-            "title": "[Static Props (Off)]",
-            "content": "[Static Props (Off)]\n04000000 01420C2C 4B020148\n\n"
-        },
-        {
-            "title": "[Static PP (On)]",
-            "content": "[Static PP (On)]\n04000000 007E25B8 4B1F0142\n\n"
-        },
-        {
-            "title": "[Static PP (Off)]",
-            "content": "[Static PP (Off)]\n04000000 007E25B8 4B020142\n\n"
-        },
-        {
-            "title": "[Picked up Items 999 (On)]",
-            "content": "[Picked up Items 999 (On)]\n04000000 01420808 D503201F\n04000000 01420810 1A8B3168\n04000000 01420840 1A8A814A\n\n"
-        },
-        {
-            "title": "[Picked up Items 999 (Off)]",
-            "content": "[Picked up Items 999 (Off)]\n04000000 01420808 710F9D7F\n04000000 01420810 1A8B3108\n04000000 01420840 1A8B814A\n\n"
-        },
-        {
-            "title": "[Unlimited BP (Test 1 V1.3.0)]",
-            "content": "[Unlimited BP (Test 1 V1.3.0)]\n04000000 01438BE4 4B1F0101\n\n"
-        },
-        {
-            "title": "[Unlimited BP (Test 2 V1.3.1)]",
-            "content": "[Unlimited BP (Test 2 V1.3.1)]\n04000000 01438E84 4B1F0101\n\n"
-        },
-        {
-            "title": "[Shines (Hold R=square, ZR=stars)]",
-            "content": "[Shines (Hold R=square, ZR=stars)]\n04000000 00766844 54000BA0\n04000000 00766854 540006C0\n04000000 007773C4 2A0103E9\n80000080\n04000000 00766844 1400003A\n04000000 00766854 14000036\n04000000 007773C4 2A0103E9\n20000000\n80000200\n04000000 00766844 1400003A\n04000000 00766854 14000036\n04000000 007773C4 52000C29\n20000000\n\n"
-        },
-        {
-            "title": "[Unrestricted Skills Machine Limit (On)]",
-            "content": "[Unrestricted Skills Machine Limit (On)]\n04000000 0077FA78 52800020\n04000000 0077FAB8 52800020\n\n"
-        },
-        {
-            "title": "[Unrestricted Skills Machine Limit (Off)]",
-            "content": "[Unrestricted Skills Machine Limit (Off)]\n04000000 0077FA78 1A9F07E0\n04000000 0077FAB8 1A9F07E0\n\n"
-        },
-        {
-            "title": "[Instant Layed Egg]",
-            "content": "[Instant Layed Egg]\n04000000 014014B4 D503201F\n04000000 01401604 D503201F\n\n"
-        },
-        {
-            "title": "[Instant Hatch Egg]",
-            "content": "[Instant Hatch Egg]\n04000000 00DC95A4 52801FF8\n04000000 00DC95CC 52801FF8\n\n"
-        },
-        {
-            "title": "[Wishing Stone; All Purple Lairs (Hold R)]",
-            "content": "[Wishing Stone; All Purple Lairs (Hold R)]\n04000000 01426084 B9400068\n04000000 0142608C B9400068\n80000080\n04000000 01426084 52800048\n04000000 0142608C 52800048\n20000000\n\n"
-        },
-        {
-            "title": "[Instant Clear Lair (Hold L)]",
-            "content": "[Instant Clear Lair (Hold L)]\n04000000 01426104 39C1C900\n80000040\n04000000 01426104 52800000\n20000000\n\n"
-        },
-        {
-            "title": "[Prerequisite Hold R]",
-            "content": "[Prerequisite Hold R]\n04000000 00766F90 B9402A68\n04000000 00766FBC B9402A61\n04000000 00766FC8 79405A61\n04000000 0076708C B9402A60\n04000000 00767094 79405A61\n04000000 007670F0 B9402A60\n04000000 007670F4 79405A61\n80000080\n04000000 00766F90 18FFFE68\n04000000 00766FBC 18FFFD01\n04000000 00766FC8 18FFFC81\n04000000 0076708C 18FFF680\n04000000 00767094 18FFF621\n04000000 007670F0 18FFF360\n04000000 007670F4 18FFF321\n20000000\n\n"
-        },
-        {
-            "title": "[No gender]",
-            "content": "[No gender]\n04000000 00766FF8 52800041\n\n"
-        },
-        {
-            "title": "[Mew (No gender)]",
-            "content": "[Mew (No gender)]\n08000000 00766F58 00000096 00000000\n\n"
-        },
-        {
-            "title": "[Mew2 (No gender)]",
-            "content": "[Mew2 (No gender)]\n08000000 00766F58 00000097 00000000 \n\n"
-        },
-        {
-            "title": "[Pok\u00e9Balls Always Catch (On)]",
-            "content": "[Pok\u00e9Balls Always Catch (On)]\n04000000 008A7008 17FFFFF0\n\n"
-        },
-        {
-            "title": "[Pok\u00e9Balls Always Catch (Off)]",
-            "content": "[Pok\u00e9Balls Always Catch (Off)]\n04000000 008A70C8 54FFFE00\n\n"
-        },
-        {
-            "title": "[Always Instant-KO (Hold ZR)]",
-            "content": "[Always Instant-KO (Hold ZR)]\n04000000 007E37F0 7900E808\n80000200\n04000000 007E37F0 7900E81F\n20000000\n\n"
-        },
-        {
-            "title": "[Max Money (v1.3.1)]",
-            "content": "[Max Money (v1.3.1)]\n04100000 45072DF4 0098967F\n\n"
-        },
-        {
-            "title": "[Max Watts (v1.3.1)]",
-            "content": "[Max Watts (v1.3.1)]\n04100000 45068FE8 0098967F\n\n"
-        },
-        {
-            "title": "[Static Watts(On)]",
-            "content": "[Static Watts(On)]\n04000000 01424DBC 4B1F0108\n\n"
-        },
-        {
-            "title": "[Static Watts (Off)]",
-            "content": "[Static Watts (Off)]\n04000000 01424DBC 4B020108\n\n"
-        },
-        {
-            "title": "[Static Props (On)]",
-            "content": "[Static Props (On)]\n04000000 01420C2C 4B1F0148\n\n"
-        },
-        {
-            "title": "[Static Props (Off)]",
-            "content": "[Static Props (Off)]\n04000000 01420C2C 4B020148\n\n"
-        },
-        {
-            "title": "[Static PP (On)]",
-            "content": "[Static PP (On)]\n04000000 007E25B8 4B1F0142\n\n"
-        },
-        {
-            "title": "[Static PP (Off)]",
-            "content": "[Static PP (Off)]\n04000000 007E25B8 4B020142\n\n"
-        },
-        {
-            "title": "[Picked up Items 999 (On)]",
-            "content": "[Picked up Items 999 (On)]\n04000000 01420808 D503201F\n04000000 01420810 1A8B3168\n04000000 01420840 1A8A814A\n\n"
-        },
-        {
-            "title": "[Picked up Items 999 (Off)]",
-            "content": "[Picked up Items 999 (Off)]\n04000000 01420808 710F9D7F\n04000000 01420810 1A8B3108\n04000000 01420840 1A8B814A\n\n"
-        },
-        {
-            "title": "[Unlimited BP (Test 1 V1.3.0)]",
-            "content": "[Unlimited BP (Test 1 V1.3.0)]\n04000000 01438BE4 4B1F0101\n\n"
-        },
-        {
-            "title": "[Unlimited BP (Test 2 V1.3.1)]",
-            "content": "[Unlimited BP (Test 2 V1.3.1)]\n04000000 01438E84 4B1F0101\n\n"
-        },
-        {
-            "title": "[Shines (Hold R=square, ZR=stars)]",
-            "content": "[Shines (Hold R=square, ZR=stars)]\n04000000 00766844 54000BA0\n04000000 00766854 540006C0\n04000000 007773C4 2A0103E9\n80000080\n04000000 00766844 1400003A\n04000000 00766854 14000036\n04000000 007773C4 2A0103E9\n20000000\n80000200\n04000000 00766844 1400003A\n04000000 00766854 14000036\n04000000 007773C4 52000C29\n20000000\n\n"
-        },
-        {
-            "title": "[Unrestricted Skills Machine Limit (On)]",
-            "content": "[Unrestricted Skills Machine Limit (On)]\n04000000 0077FA78 52800020\n04000000 0077FAB8 52800020\n\n"
-        },
-        {
-            "title": "[Unrestricted Skills Machine Limit (Off)]",
-            "content": "[Unrestricted Skills Machine Limit (Off)]\n04000000 0077FA78 1A9F07E0\n04000000 0077FAB8 1A9F07E0\n\n"
-        },
-        {
-            "title": "[Instant Layed Egg]",
-            "content": "[Instant Layed Egg]\n04000000 014014B4 D503201F\n04000000 01401604 D503201F\n\n"
-        },
-        {
-            "title": "[Instant Hatch Egg]",
-            "content": "[Instant Hatch Egg]\n04000000 00DC95A4 52801FF8\n04000000 00DC95CC 52801FF8\n\n"
-        },
-        {
-            "title": "[Wishing Stone; All Purple Lairs (Hold R)]",
-            "content": "[Wishing Stone; All Purple Lairs (Hold R)]\n04000000 01426084 B9400068\n04000000 0142608C B9400068\n80000080\n04000000 01426084 52800048\n04000000 0142608C 52800048\n20000000\n\n"
-        },
-        {
-            "title": "[Instant Clear Lair (Hold L)]",
-            "content": "[Instant Clear Lair (Hold L)]\n04000000 01426104 39C1C900\n80000040\n04000000 01426104 52800000\n20000000"
-        }
-    ],
     "8DAFEDBB5BE81C2C": [
         {
             "title": "[Max Money]",
@@ -389,388 +151,6 @@
         {
             "title": "[Speed Up V3 (Push ZL:OFF L+ZL:ON)]",
             "content": "[Speed Up V3 (Push ZL:OFF L+ZL:ON)]\n80000100\n041F0000 00F53170 3F800000\n041F0000 00F49EA0 3F800000\n041F0000 00F4A708 3F800000\n20000000\n80000140\n041F0000 00F53170 40800000\n041F0000 00F49EA0 40800000\n041F0000 00F4A708 40800000\n20000000"
-        }
-    ],
-    "479BD2B581F4BC6A": [
-        {
-            "title": "[01# Shiny Pokemon (Square:HOLD R Star:HOLD ZR)]",
-            "content": "[01# Shiny Pokemon (Square:HOLD R Star:HOLD ZR)]\n04000000 00766844 54000BA0\n04000000 00766854 540006C0\n04000000 007773C4 2A0103E9\n80000080\n04000000 00766844 1400003A\n04000000 00766854 14000036\n04000000 007773C4 52000C29\n20000000\n80000200\n04000000 00766844 1400003A\n04000000 00766854 14000036\n04000000 007773C4 2A0103E9\n20000000\n"
-        },
-        {
-            "title": "[02# PP is not reduced]",
-            "content": "[02# PP is not reduced]\n04000000 007E25B8 4B1F0142\n"
-        },
-        {
-            "title": "[PP is not reduced (off)]",
-            "content": "[PP is not reduced (off)]\n04000000 007E25B8 4B020142\n"
-        },
-        {
-            "title": "[03# Instakill (Hold ZR)]",
-            "content": "[03# Instakill (Hold ZR)]\n04000000 007E37F0 7900E808\n80000200\n04000000 007E37F0 7900E81F\n20000000\n"
-        },
-        {
-            "title": "[04# Purple Den (Hold R)]",
-            "content": "[04# Purple Den (Hold R)]\n04000000 01425DE4 B9400068\n04000000 01425DEC B9400068\n80000080\n04000000 01425DE4 52800048\n04000000 01425DEC 52800048\n20000000\n"
-        },
-        {
-            "title": "[05# Empty Den (Hold L)]",
-            "content": "[05# Empty Den (Hold L)]\n04000000 01425E64 39C1C900\n80000040\n04000000 01425E64 52800000\n20000000\n"
-        },
-        {
-            "title": "[06# Eggs Hatch Faster (on)]",
-            "content": "[06# Eggs Hatch Faster (on)]\n04000000 00DC9304 52801FF8\n04000000 00DC932C 52801FF8\n"
-        },
-        {
-            "title": "[Eggs Hatch Faster (off)]",
-            "content": "[Eggs Hatch Faster (off)]\n04000000 00DC9304 321F03F8\n04000000 00DC932C 320003F8\n"
-        },
-        {
-            "title": "[07# 999 rare candy other bag]",
-            "content": "[07# 999 rare candy other bag]\n04100000 45067DA4 01F38032\n"
-        },
-        {
-            "title": "[08# Catch Rate set to 100% Capture]",
-            "content": "[08# Catch Rate set to 100% Capture]\n04000000 0077F6E8 529FFFE0\n"
-        },
-        {
-            "title": "[Catch Rate set to 100% Capture (off)]",
-            "content": "[Catch Rate set to 100% Capture (off)]\n04000000 0077F6E8 39406100\n"
-        },
-        {
-            "title": "[09# 999x Item on Pickup (on)]",
-            "content": "[09# 999x Item on Pickup (on)]\n04000000 01420568 D503201F\n04000000 01420570 1A8B3168\n04000000 014205A0 1A8A814A\n"
-        },
-        {
-            "title": "[999x Item on Pickup (off)]",
-            "content": "[999x Item on Pickup (off)]\n04000000 01420568 710F9D7F\n04000000 01420570 1A8B3108\n04000000 014205A0 1A8B814A\n"
-        },
-        {
-            "title": "[10# Experience value 32 times (on)]",
-            "content": "[10# Experience value 32 times (on)]\n04000000 007E4EDC 0B011536\n"
-        },
-        {
-            "title": "[Experience value 32 times (off)]",
-            "content": "[Experience value 32 times (off)]\n04000000 007E4EDC 0B010136\n"
-        },
-        {
-            "title": "[11# 999999 money]",
-            "content": "[11# 999999 money]\n041F0000 45072DF4 000F423F\n"
-        },
-        {
-            "title": "[12# 99999 Watt]",
-            "content": "[12# 99999 Watt]\n04100000 45068FE8 0001869F\n"
-        },
-        {
-            "title": "[13# Money 16 times (on)]",
-            "content": "[13# Money 16 times (on)]\n04000000 01438A24 0B011108\n"
-        },
-        {
-            "title": "[Money 16 times (off)]",
-            "content": "[Money 16 times (off)]\n04000000 01438A24 0B010108\n"
-        },
-        {
-            "title": "[14# Watt 10 times (on)]",
-            "content": "[14# Watt 10 times (on)]\n04000000 01424AE8 0B014108\n"
-        },
-        {
-            "title": "[Watt 10 times (off)]",
-            "content": "[Watt 10 times (off)]\n04000000 01424AE8 0B010108\n"
-        },
-        {
-            "title": "[16# Perfect IV (Hold R)]",
-            "content": "[16# Perfect IV (Hold R)]\n04000000 00767044 3940DA61\n04000000 00767050 3940E261\n04000000 0076705C 3940EA61\n04000000 00767068 3940F261\n04000000 00767074 3940FA61\n04000000 00767080 39410261\n80000080\n04000000 00767044 528003E1\n04000000 00767050 528003E1\n04000000 0076705C 528003E1\n04000000 00767068 528003E1\n04000000 00767074 528003E1\n04000000 00767080 528003E1\n20000000\n"
-        },
-        {
-            "title": "[17# PokeDollars and Watts doesn't decrease]",
-            "content": "[17# PokeDollars and Watts doesn't decrease]\n04000000 00C7A844 4B1F02C1\n04000000 01438A6C 4B1F0108\n04000000 01424B1C 4B1F0108\n"
-        },
-        {
-            "title": "[PokeDollars and Watts doesn't decrease (off)]",
-            "content": "[PokeDollars and Watts doesn't decrease (off)]\n04000000 00C7A844 4B0802C1\n04000000 01438A6C 4B010108\n04000000 01424B1C 4B010108\n"
-        },
-        {
-            "title": "[18# Nursey Staff Always Have an Egg (on)]",
-            "content": "[18# Nursey Staff Always Have an Egg (on)]\n04000000 01401214 D503201F\n04000000 01401364 D503201F\n"
-        },
-        {
-            "title": "[Nursey Staff Always Have an Egg (off)]",
-            "content": "[Nursey Staff Always Have an Egg (off)]\n04000000 01401214 7102D53F\n04000000 01401364 540000C2\n"
-        },
-        {
-            "title": "[19# Enable IV Judge (on)]",
-            "content": "[19# Enable IV Judge (on)]\n04000000 00ABD160 52800020\n"
-        },
-        {
-            "title": "[Enable IV Judge (off)]",
-            "content": "[Enable IV Judge (off)]\n04000000 00ABD160 94254E88\n"
-        },
-        {
-            "title": "[19# Learn all TM / TR (on)]",
-            "content": "[19# Learn all TM / TR (on)]\n04000000 0077FA78 52800020\n04000000 0077FAB8 52800020\n"
-        },
-        {
-            "title": "[Learn all TM / TR (off)]",
-            "content": "[Learn all TM / TR (off)]\n04000000 0077FA78 1A9F07E0\n04000000 0077FAB8 1A9F07E0\n"
-        },
-        {
-            "title": "[20# Items are not reduced]",
-            "content": "[20# Items are not reduced]\n04000000 0142098C 4B1F0148\n"
-        },
-        {
-            "title": "[Items are not reduced (off)]",
-            "content": "[Items are not reduced (off)]\n04000000 0142098C 4B080148\n"
-        },
-        {
-            "title": "[21# Always Encounter (M) (Hold R)]",
-            "content": "[21# Always Encounter (M) (Hold R)]\n04000000 00766F90 B9402A68\n04000000 00766FBC B9402A61\n04000000 00766FC8 79405A61\n04000000 0076708C B9402A60\n04000000 00767094 79405A61\n04000000 007670F0 B9402A60\n04000000 007670F4 79405A61\n80000080\n04000000 00766F90 18FFFE68\n04000000 00766FBC 18FFFD01\n04000000 00766FC8 18FFFC81\n04000000 0076708C 18FFF680\n04000000 00767094 18FFF621\n04000000 007670F0 18FFF360\n04000000 007670F4 18FFF321\n20000000\n"
-        },
-        {
-            "title": "[Always Encounter (Unobtainable): #001 Bulbassaur]",
-            "content": "[Always Encounter (Unobtainable): #001 Bulbassaur]\n08000000 00766F58 00000001 00000000\n"
-        },
-        {
-            "title": "[Always Encounter: #004 Charmander]",
-            "content": "[Always Encounter: #004 Charmander]\n08000000 00766F58 00000004 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Unobtainable): #007 Squirtle]",
-            "content": "[Always Encounter (Unobtainable): #007 Squirtle]\n08000000 00766F58 00000007 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Unobtainable): #077 Ponyta]",
-            "content": "[Always Encounter (Unobtainable): #077 Ponyta]\n08000000 00766F58 0000004D 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Shield Exclusive): #077 Galar-Ponyta]",
-            "content": "[Always Encounter (Shield Exclusive): #077 Galar-Ponyta]\n08000000 00766F58 0000004D 00000001\n"
-        },
-        {
-            "title": "[Encounter (Trade Only): #052 Meowth]",
-            "content": "[Encounter (Trade Only): #052 Meowth]\n08000000 00766F58 00000034 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Unobtainable): #052 Alola-Meowth]",
-            "content": "[Always Encounter (Unobtainable): #052 Alola-Meowth]\n08000000 00766F58 00000034 00000001\n"
-        },
-        {
-            "title": "[Always Encounter: #052 Galar-Meowth]",
-            "content": "[Always Encounter: #052 Galar-Meowth]\n08000000 00766F58 00000034 00000002\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #150 Mewtwo]",
-            "content": "[Always Encounter (Event only): #150 Mewtwo]\n08000000 00766F58 00000096 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #151 Mew]",
-            "content": "[Always Encounter (Event only): #151 Mew]\n08000000 00766F58 00000097 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Unobtainable): #222 Corsola]",
-            "content": "[Always Encounter (Unobtainable): #222 Corsola]\n08000000 00766F58 000000DE 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Shield Exclusive): #222 Galar-Corsola]",
-            "content": "[Always Encounter (Shield Exclusive): #222 Galar-Corsola]\n08000000 00766F58 000000DE 00000001\n"
-        },
-        {
-            "title": "[Always Encounter (Shield Exclusive): #246 Larvitar]",
-            "content": "[Always Encounter (Shield Exclusive): #246 Larvitar]\n08000000 00766F58 000000F6 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #251 Celebi]",
-            "content": "[Always Encounter (Event only): #251 Celebi]\n08000000 00766F58 000000FB 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Shield Exclusive): #270 Lotad]",
-            "content": "[Always Encounter (Shield Exclusive): #270 Lotad]\n08000000 00766F58 0000010E 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Shield Exclusive): #302 Sableye]",
-            "content": "[Always Encounter (Shield Exclusive): #302 Sableye]\n08000000 00766F58 0000012E 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Shield Exclusive): #337 Lunatone]",
-            "content": "[Always Encounter (Shield Exclusive): #337 Lunatone]\n08000000 00766F58 00000151 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #385 Jirachi]",
-            "content": "[Always Encounter (Event only): #385 Jirachi]\n08000000 00766F58 00000181 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Shield Exclusive): #453 Croagunk]",
-            "content": "[Always Encounter (Shield Exclusive): #453 Croagunk]\n08000000 00766F58 000001C5 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Shield Exclusive): #577 Solosis]",
-            "content": "[Always Encounter (Shield Exclusive): #577 Solosis]\n08000000 00766F58 00000241 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Shield Exclusive): #629 Vullaby]",
-            "content": "[Always Encounter (Shield Exclusive): #629 Vullaby]\n08000000 00766F58 00000275 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #638 Cobalion]",
-            "content": "[Always Encounter (Event only): #638 Cobalion]\n08000000 00766F58 0000027E 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #639 Terrakion]",
-            "content": "[Always Encounter (Event only): #639 Terrakion]\n08000000 00766F58 0000027F 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #640 Virizion]",
-            "content": "[Always Encounter (Event only): #640 Virizion]\n08000000 00766F58 00000280 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #643 Reshiram]",
-            "content": "[Always Encounter (Event only): #643 Reshiram]\n08000000 00766F58 00000283 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #644 Zekrom]",
-            "content": "[Always Encounter (Event only): #644 Zekrom]\n08000000 00766F58 00000284 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #646 Kyurem]",
-            "content": "[Always Encounter (Event only): #646 Kyurem]\n08000000 00766F58 00000286 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #647 Keldeo]",
-            "content": "[Always Encounter (Event only): #647 Keldeo]\n08000000 00766F58 00000287 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Shield Exclusive): #682 Spritzee]",
-            "content": "[Always Encounter (Shield Exclusive): #682 Spritzee]\n08000000 00766F58 000002AA 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Shield Exclusive): #704 Goomy]",
-            "content": "[Always Encounter (Shield Exclusive): #704 Goomy]\n08000000 00766F58 000002C0 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Unobtainable): #722 Rowlet]",
-            "content": "[Always Encounter (Unobtainable): #722 Rowlet]\n08000000 00766F58 000002D2 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Unobtainable): #725 Litten]",
-            "content": "[Always Encounter (Unobtainable): #725 Litten]\n08000000 00766F58 000002D5 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Unobtainable): #728 Popplio]",
-            "content": "[Always Encounter (Unobtainable): #728 Popplio]\n08000000 00766F58 000002D8 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Shield Exclusive): #765 Oranguru]",
-            "content": "[Always Encounter (Shield Exclusive): #765 Oranguru]\n08000000 00766F58 000002FD 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Shield Exclusive): #780 Drampa]",
-            "content": "[Always Encounter (Shield Exclusive): #780 Drampa]\n08000000 00766F58 0000030C 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #789 Cosmog]",
-            "content": "[Always Encounter (Event only): #789 Cosmog]\n08000000 00766F58 00000315 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #790 Cosmoem]",
-            "content": "[Always Encounter (Event only): #790 Cosmoem]\n08000000 00766F58 00000316 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #791 Solgaleo]",
-            "content": "[Always Encounter (Event only): #791 Solgaleo]\n08000000 00766F58 00000317 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #792 Lunala]",
-            "content": "[Always Encounter (Event only): #792 Lunala]\n08000000 00766F58 00000318 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #800 Necrozma]",
-            "content": "[Always Encounter (Event only): #800 Necrozma]\n08000000 00766F58 00000320 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #802 Marshadow]",
-            "content": "[Always Encounter (Event only): #802 Marshadow]\n08000000 00766F58 00000322 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #807 Zeraora]",
-            "content": "[Always Encounter (Event only): #807 Zeraora]\n08000000 00766F58 00000327 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #808 Meltan]",
-            "content": "[Always Encounter (Event only): #808 Meltan]\n08000000 00766F58 00000328 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Event only): #809 Melmetal]",
-            "content": "[Always Encounter (Event only): #809 Melmetal]\n08000000 00766F58 00000329 00000000\n"
-        },
-        {
-            "title": "[Always Encounter: #810 Grookey]",
-            "content": "[Always Encounter: #810 Grookey]\n08000000 00766F58 0000032A 00000000\n"
-        },
-        {
-            "title": "[Always Encounter: #813 Scorbunny]",
-            "content": "[Always Encounter: #813 Scorbunny]\n08000000 00766F58 0000032D 00000000\n"
-        },
-        {
-            "title": "[Always Encounter: #816 Sobble]",
-            "content": "[Always Encounter: #816 Sobble]\n08000000 00766F58 00000330 00000000\n"
-        },
-        {
-            "title": "[Always Encounter: #144 GALARIAN ARTICUNO]",
-            "content": "[Always Encounter: #144 GALARIAN ARTICUNO]\n08000000 00766F58 00000090 00000001\n"
-        },
-        {
-            "title": "[Always Encounter: #145 GALARIAN ZAPDOS]",
-            "content": "[Always Encounter: #145 GALARIAN ZAPDOS]\n08000000 00766F58 00000091 00000001\n"
-        },
-        {
-            "title": "[Always Encounter: #146 GALARIAN MOLTRES]",
-            "content": "[Always Encounter: #146 GALARIAN MOLTRES]\n08000000 00766F58 00000092 00000001\n"
-        },
-        {
-            "title": "[Always Encounter (Shield Exclusive): #875 Eiscue]",
-            "content": "[Always Encounter (Shield Exclusive): #875 Eiscue]\n08000000 00766F58 0000036B 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Sword Exclusive): #888 Zacian]",
-            "content": "[Always Encounter (Sword Exclusive): #888 Zacian]\n08000000 00766F58 00000378 00000000\n"
-        },
-        {
-            "title": "[Always Encounter (Shield Exclusive): #889 Zamazenta]",
-            "content": "[Always Encounter (Shield Exclusive): #889 Zamazenta]\n08000000 00766F58 00000379 00000000\n"
-        },
-        {
-            "title": "[Always Encounter:Cubfu]",
-            "content": "[Always Encounter:Cubfu]\n08000000 00766F58 0000037B 00000000\n"
-        },
-        {
-            "title": "[Always Encounter: Urshifu]",
-            "content": "[Always Encounter: Urshifu]\n08000000 00766F58 0000037C 00000000\n"
-        },
-        {
-            "title": "[Always Encounter:Urshifu]",
-            "content": "[Always Encounter:Urshifu]\n08000000 00766F58 0000037C 00000001\n"
-        },
-        {
-            "title": "[Always Encounter:Zarude]",
-            "content": "[Always Encounter:Zarude]\n08000000 00766F58 0000037D 00000000\n"
-        },
-        {
-            "title": "[Always Encounter:Calyrex]",
-            "content": "[Always Encounter:Calyrex]\n08000000 00766F58 00000382 00000000\n"
-        },
-        {
-            "title": "[Always Female Wild/Egg/Fossil Pokemon]",
-            "content": "[Always Female Wild/Egg/Fossil Pokemon]\n04000000 00766F58 52800021\n"
-        },
-        {
-            "title": "[Always Male Wild/Egg/Fossil Pokemon]",
-            "content": "[Always Male Wild/Egg/Fossil Pokemon]\n04000000 00766F58 52800001\n"
-        },
-        {
-            "title": "[Always Genderless Wild/Egg/Fossil Pokemon]",
-            "content": "[Always Genderless Wild/Egg/Fossil Pokemon]\n04000000 00766F58 52800041\n"
-        },
-        {
-            "title": "[Default Gender Wild/Egg/Fossil Pokemon]",
-            "content": "[Default Gender Wild/Egg/Fossil Pokemon]\n04000000 00766F58 79406261"
         }
     ],
     "5A7EEBF172343616": [
@@ -2341,6 +1721,388 @@
             "content": "[31# All Key items]\n04100000 45068C90 0000804E\n04100000 45068C94 00008274\n04100000 45068C98 00008275\n04100000 45068C9C 00008277\n04100000 45068CA0 00008278\n04100000 45068CA4 0000827E\n04100000 45068CA8 000082BF\n04100000 45068CAC 0000834F\n04100000 45068CB0 000083AF\n04100000 45068CB4 000083B0\n04100000 45068CB8 000083B1\n04100000 45068CBC 000084B2\n04100000 45068CC0 00008432\n04100000 45068CC4 00008433\n04100000 45068CC8 00008434\n04100000 45068CCC 00008435\n04100000 45068CD0 00008438\n04100000 45068CD4 00008439\n04100000 45068CD8 0000844C\n04100000 45068CDC 000084E7\n04100000 45068CE0 000084F2\n04100000 45068CE4 000084F3\n04100000 45068CE8 000084F5\n04100000 45068CEC 000084F6\n04100000 45068CF0 000084F7\n04100000 45068CF4 000084FE\n04100000 45068CF8 0000862F\n04100000 45068CFC 00008630\n04100000 45068D00 00008631\n04100000 45068D04 00008632\n04100000 45068D08 00008633\n04100000 45068D0C 00008635\n04100000 45068D10 0000863D\n"
         }
     ],
+    "479BD2B581F4BC6A": [
+        {
+            "title": "[01# Shiny Pokemon (Square:HOLD R Star:HOLD ZR)]",
+            "content": "[01# Shiny Pokemon (Square:HOLD R Star:HOLD ZR)]\n04000000 00766844 54000BA0\n04000000 00766854 540006C0\n04000000 007773C4 2A0103E9\n80000080\n04000000 00766844 1400003A\n04000000 00766854 14000036\n04000000 007773C4 52000C29\n20000000\n80000200\n04000000 00766844 1400003A\n04000000 00766854 14000036\n04000000 007773C4 2A0103E9\n20000000\n"
+        },
+        {
+            "title": "[02# PP is not reduced]",
+            "content": "[02# PP is not reduced]\n04000000 007E25B8 4B1F0142\n"
+        },
+        {
+            "title": "[PP is not reduced (off)]",
+            "content": "[PP is not reduced (off)]\n04000000 007E25B8 4B020142\n"
+        },
+        {
+            "title": "[03# Instakill (Hold ZR)]",
+            "content": "[03# Instakill (Hold ZR)]\n04000000 007E37F0 7900E808\n80000200\n04000000 007E37F0 7900E81F\n20000000\n"
+        },
+        {
+            "title": "[04# Purple Den (Hold R)]",
+            "content": "[04# Purple Den (Hold R)]\n04000000 01425DE4 B9400068\n04000000 01425DEC B9400068\n80000080\n04000000 01425DE4 52800048\n04000000 01425DEC 52800048\n20000000\n"
+        },
+        {
+            "title": "[05# Empty Den (Hold L)]",
+            "content": "[05# Empty Den (Hold L)]\n04000000 01425E64 39C1C900\n80000040\n04000000 01425E64 52800000\n20000000\n"
+        },
+        {
+            "title": "[06# Eggs Hatch Faster (on)]",
+            "content": "[06# Eggs Hatch Faster (on)]\n04000000 00DC9304 52801FF8\n04000000 00DC932C 52801FF8\n"
+        },
+        {
+            "title": "[Eggs Hatch Faster (off)]",
+            "content": "[Eggs Hatch Faster (off)]\n04000000 00DC9304 321F03F8\n04000000 00DC932C 320003F8\n"
+        },
+        {
+            "title": "[07# 999 rare candy other bag]",
+            "content": "[07# 999 rare candy other bag]\n04100000 45067DA4 01F38032\n"
+        },
+        {
+            "title": "[08# Catch Rate set to 100% Capture]",
+            "content": "[08# Catch Rate set to 100% Capture]\n04000000 0077F6E8 529FFFE0\n"
+        },
+        {
+            "title": "[Catch Rate set to 100% Capture (off)]",
+            "content": "[Catch Rate set to 100% Capture (off)]\n04000000 0077F6E8 39406100\n"
+        },
+        {
+            "title": "[09# 999x Item on Pickup (on)]",
+            "content": "[09# 999x Item on Pickup (on)]\n04000000 01420568 D503201F\n04000000 01420570 1A8B3168\n04000000 014205A0 1A8A814A\n"
+        },
+        {
+            "title": "[999x Item on Pickup (off)]",
+            "content": "[999x Item on Pickup (off)]\n04000000 01420568 710F9D7F\n04000000 01420570 1A8B3108\n04000000 014205A0 1A8B814A\n"
+        },
+        {
+            "title": "[10# Experience value 32 times (on)]",
+            "content": "[10# Experience value 32 times (on)]\n04000000 007E4EDC 0B011536\n"
+        },
+        {
+            "title": "[Experience value 32 times (off)]",
+            "content": "[Experience value 32 times (off)]\n04000000 007E4EDC 0B010136\n"
+        },
+        {
+            "title": "[11# 999999 money]",
+            "content": "[11# 999999 money]\n041F0000 45072DF4 000F423F\n"
+        },
+        {
+            "title": "[12# 99999 Watt]",
+            "content": "[12# 99999 Watt]\n04100000 45068FE8 0001869F\n"
+        },
+        {
+            "title": "[13# Money 16 times (on)]",
+            "content": "[13# Money 16 times (on)]\n04000000 01438A24 0B011108\n"
+        },
+        {
+            "title": "[Money 16 times (off)]",
+            "content": "[Money 16 times (off)]\n04000000 01438A24 0B010108\n"
+        },
+        {
+            "title": "[14# Watt 10 times (on)]",
+            "content": "[14# Watt 10 times (on)]\n04000000 01424AE8 0B014108\n"
+        },
+        {
+            "title": "[Watt 10 times (off)]",
+            "content": "[Watt 10 times (off)]\n04000000 01424AE8 0B010108\n"
+        },
+        {
+            "title": "[16# Perfect IV (Hold R)]",
+            "content": "[16# Perfect IV (Hold R)]\n04000000 00767044 3940DA61\n04000000 00767050 3940E261\n04000000 0076705C 3940EA61\n04000000 00767068 3940F261\n04000000 00767074 3940FA61\n04000000 00767080 39410261\n80000080\n04000000 00767044 528003E1\n04000000 00767050 528003E1\n04000000 0076705C 528003E1\n04000000 00767068 528003E1\n04000000 00767074 528003E1\n04000000 00767080 528003E1\n20000000\n"
+        },
+        {
+            "title": "[17# PokeDollars and Watts doesn't decrease]",
+            "content": "[17# PokeDollars and Watts doesn't decrease]\n04000000 00C7A844 4B1F02C1\n04000000 01438A6C 4B1F0108\n04000000 01424B1C 4B1F0108\n"
+        },
+        {
+            "title": "[PokeDollars and Watts doesn't decrease (off)]",
+            "content": "[PokeDollars and Watts doesn't decrease (off)]\n04000000 00C7A844 4B0802C1\n04000000 01438A6C 4B010108\n04000000 01424B1C 4B010108\n"
+        },
+        {
+            "title": "[18# Nursey Staff Always Have an Egg (on)]",
+            "content": "[18# Nursey Staff Always Have an Egg (on)]\n04000000 01401214 D503201F\n04000000 01401364 D503201F\n"
+        },
+        {
+            "title": "[Nursey Staff Always Have an Egg (off)]",
+            "content": "[Nursey Staff Always Have an Egg (off)]\n04000000 01401214 7102D53F\n04000000 01401364 540000C2\n"
+        },
+        {
+            "title": "[19# Enable IV Judge (on)]",
+            "content": "[19# Enable IV Judge (on)]\n04000000 00ABD160 52800020\n"
+        },
+        {
+            "title": "[Enable IV Judge (off)]",
+            "content": "[Enable IV Judge (off)]\n04000000 00ABD160 94254E88\n"
+        },
+        {
+            "title": "[19# Learn all TM / TR (on)]",
+            "content": "[19# Learn all TM / TR (on)]\n04000000 0077FA78 52800020\n04000000 0077FAB8 52800020\n"
+        },
+        {
+            "title": "[Learn all TM / TR (off)]",
+            "content": "[Learn all TM / TR (off)]\n04000000 0077FA78 1A9F07E0\n04000000 0077FAB8 1A9F07E0\n"
+        },
+        {
+            "title": "[20# Items are not reduced]",
+            "content": "[20# Items are not reduced]\n04000000 0142098C 4B1F0148\n"
+        },
+        {
+            "title": "[Items are not reduced (off)]",
+            "content": "[Items are not reduced (off)]\n04000000 0142098C 4B080148\n"
+        },
+        {
+            "title": "[21# Always Encounter (M) (Hold R)]",
+            "content": "[21# Always Encounter (M) (Hold R)]\n04000000 00766F90 B9402A68\n04000000 00766FBC B9402A61\n04000000 00766FC8 79405A61\n04000000 0076708C B9402A60\n04000000 00767094 79405A61\n04000000 007670F0 B9402A60\n04000000 007670F4 79405A61\n80000080\n04000000 00766F90 18FFFE68\n04000000 00766FBC 18FFFD01\n04000000 00766FC8 18FFFC81\n04000000 0076708C 18FFF680\n04000000 00767094 18FFF621\n04000000 007670F0 18FFF360\n04000000 007670F4 18FFF321\n20000000\n"
+        },
+        {
+            "title": "[Always Encounter (Unobtainable): #001 Bulbassaur]",
+            "content": "[Always Encounter (Unobtainable): #001 Bulbassaur]\n08000000 00766F58 00000001 00000000\n"
+        },
+        {
+            "title": "[Always Encounter: #004 Charmander]",
+            "content": "[Always Encounter: #004 Charmander]\n08000000 00766F58 00000004 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Unobtainable): #007 Squirtle]",
+            "content": "[Always Encounter (Unobtainable): #007 Squirtle]\n08000000 00766F58 00000007 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Unobtainable): #077 Ponyta]",
+            "content": "[Always Encounter (Unobtainable): #077 Ponyta]\n08000000 00766F58 0000004D 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Shield Exclusive): #077 Galar-Ponyta]",
+            "content": "[Always Encounter (Shield Exclusive): #077 Galar-Ponyta]\n08000000 00766F58 0000004D 00000001\n"
+        },
+        {
+            "title": "[Encounter (Trade Only): #052 Meowth]",
+            "content": "[Encounter (Trade Only): #052 Meowth]\n08000000 00766F58 00000034 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Unobtainable): #052 Alola-Meowth]",
+            "content": "[Always Encounter (Unobtainable): #052 Alola-Meowth]\n08000000 00766F58 00000034 00000001\n"
+        },
+        {
+            "title": "[Always Encounter: #052 Galar-Meowth]",
+            "content": "[Always Encounter: #052 Galar-Meowth]\n08000000 00766F58 00000034 00000002\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #150 Mewtwo]",
+            "content": "[Always Encounter (Event only): #150 Mewtwo]\n08000000 00766F58 00000096 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #151 Mew]",
+            "content": "[Always Encounter (Event only): #151 Mew]\n08000000 00766F58 00000097 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Unobtainable): #222 Corsola]",
+            "content": "[Always Encounter (Unobtainable): #222 Corsola]\n08000000 00766F58 000000DE 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Shield Exclusive): #222 Galar-Corsola]",
+            "content": "[Always Encounter (Shield Exclusive): #222 Galar-Corsola]\n08000000 00766F58 000000DE 00000001\n"
+        },
+        {
+            "title": "[Always Encounter (Shield Exclusive): #246 Larvitar]",
+            "content": "[Always Encounter (Shield Exclusive): #246 Larvitar]\n08000000 00766F58 000000F6 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #251 Celebi]",
+            "content": "[Always Encounter (Event only): #251 Celebi]\n08000000 00766F58 000000FB 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Shield Exclusive): #270 Lotad]",
+            "content": "[Always Encounter (Shield Exclusive): #270 Lotad]\n08000000 00766F58 0000010E 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Shield Exclusive): #302 Sableye]",
+            "content": "[Always Encounter (Shield Exclusive): #302 Sableye]\n08000000 00766F58 0000012E 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Shield Exclusive): #337 Lunatone]",
+            "content": "[Always Encounter (Shield Exclusive): #337 Lunatone]\n08000000 00766F58 00000151 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #385 Jirachi]",
+            "content": "[Always Encounter (Event only): #385 Jirachi]\n08000000 00766F58 00000181 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Shield Exclusive): #453 Croagunk]",
+            "content": "[Always Encounter (Shield Exclusive): #453 Croagunk]\n08000000 00766F58 000001C5 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Shield Exclusive): #577 Solosis]",
+            "content": "[Always Encounter (Shield Exclusive): #577 Solosis]\n08000000 00766F58 00000241 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Shield Exclusive): #629 Vullaby]",
+            "content": "[Always Encounter (Shield Exclusive): #629 Vullaby]\n08000000 00766F58 00000275 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #638 Cobalion]",
+            "content": "[Always Encounter (Event only): #638 Cobalion]\n08000000 00766F58 0000027E 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #639 Terrakion]",
+            "content": "[Always Encounter (Event only): #639 Terrakion]\n08000000 00766F58 0000027F 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #640 Virizion]",
+            "content": "[Always Encounter (Event only): #640 Virizion]\n08000000 00766F58 00000280 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #643 Reshiram]",
+            "content": "[Always Encounter (Event only): #643 Reshiram]\n08000000 00766F58 00000283 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #644 Zekrom]",
+            "content": "[Always Encounter (Event only): #644 Zekrom]\n08000000 00766F58 00000284 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #646 Kyurem]",
+            "content": "[Always Encounter (Event only): #646 Kyurem]\n08000000 00766F58 00000286 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #647 Keldeo]",
+            "content": "[Always Encounter (Event only): #647 Keldeo]\n08000000 00766F58 00000287 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Shield Exclusive): #682 Spritzee]",
+            "content": "[Always Encounter (Shield Exclusive): #682 Spritzee]\n08000000 00766F58 000002AA 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Shield Exclusive): #704 Goomy]",
+            "content": "[Always Encounter (Shield Exclusive): #704 Goomy]\n08000000 00766F58 000002C0 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Unobtainable): #722 Rowlet]",
+            "content": "[Always Encounter (Unobtainable): #722 Rowlet]\n08000000 00766F58 000002D2 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Unobtainable): #725 Litten]",
+            "content": "[Always Encounter (Unobtainable): #725 Litten]\n08000000 00766F58 000002D5 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Unobtainable): #728 Popplio]",
+            "content": "[Always Encounter (Unobtainable): #728 Popplio]\n08000000 00766F58 000002D8 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Shield Exclusive): #765 Oranguru]",
+            "content": "[Always Encounter (Shield Exclusive): #765 Oranguru]\n08000000 00766F58 000002FD 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Shield Exclusive): #780 Drampa]",
+            "content": "[Always Encounter (Shield Exclusive): #780 Drampa]\n08000000 00766F58 0000030C 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #789 Cosmog]",
+            "content": "[Always Encounter (Event only): #789 Cosmog]\n08000000 00766F58 00000315 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #790 Cosmoem]",
+            "content": "[Always Encounter (Event only): #790 Cosmoem]\n08000000 00766F58 00000316 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #791 Solgaleo]",
+            "content": "[Always Encounter (Event only): #791 Solgaleo]\n08000000 00766F58 00000317 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #792 Lunala]",
+            "content": "[Always Encounter (Event only): #792 Lunala]\n08000000 00766F58 00000318 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #800 Necrozma]",
+            "content": "[Always Encounter (Event only): #800 Necrozma]\n08000000 00766F58 00000320 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #802 Marshadow]",
+            "content": "[Always Encounter (Event only): #802 Marshadow]\n08000000 00766F58 00000322 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #807 Zeraora]",
+            "content": "[Always Encounter (Event only): #807 Zeraora]\n08000000 00766F58 00000327 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #808 Meltan]",
+            "content": "[Always Encounter (Event only): #808 Meltan]\n08000000 00766F58 00000328 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Event only): #809 Melmetal]",
+            "content": "[Always Encounter (Event only): #809 Melmetal]\n08000000 00766F58 00000329 00000000\n"
+        },
+        {
+            "title": "[Always Encounter: #810 Grookey]",
+            "content": "[Always Encounter: #810 Grookey]\n08000000 00766F58 0000032A 00000000\n"
+        },
+        {
+            "title": "[Always Encounter: #813 Scorbunny]",
+            "content": "[Always Encounter: #813 Scorbunny]\n08000000 00766F58 0000032D 00000000\n"
+        },
+        {
+            "title": "[Always Encounter: #816 Sobble]",
+            "content": "[Always Encounter: #816 Sobble]\n08000000 00766F58 00000330 00000000\n"
+        },
+        {
+            "title": "[Always Encounter: #144 GALARIAN ARTICUNO]",
+            "content": "[Always Encounter: #144 GALARIAN ARTICUNO]\n08000000 00766F58 00000090 00000001\n"
+        },
+        {
+            "title": "[Always Encounter: #145 GALARIAN ZAPDOS]",
+            "content": "[Always Encounter: #145 GALARIAN ZAPDOS]\n08000000 00766F58 00000091 00000001\n"
+        },
+        {
+            "title": "[Always Encounter: #146 GALARIAN MOLTRES]",
+            "content": "[Always Encounter: #146 GALARIAN MOLTRES]\n08000000 00766F58 00000092 00000001\n"
+        },
+        {
+            "title": "[Always Encounter (Shield Exclusive): #875 Eiscue]",
+            "content": "[Always Encounter (Shield Exclusive): #875 Eiscue]\n08000000 00766F58 0000036B 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Sword Exclusive): #888 Zacian]",
+            "content": "[Always Encounter (Sword Exclusive): #888 Zacian]\n08000000 00766F58 00000378 00000000\n"
+        },
+        {
+            "title": "[Always Encounter (Shield Exclusive): #889 Zamazenta]",
+            "content": "[Always Encounter (Shield Exclusive): #889 Zamazenta]\n08000000 00766F58 00000379 00000000\n"
+        },
+        {
+            "title": "[Always Encounter:Cubfu]",
+            "content": "[Always Encounter:Cubfu]\n08000000 00766F58 0000037B 00000000\n"
+        },
+        {
+            "title": "[Always Encounter: Urshifu]",
+            "content": "[Always Encounter: Urshifu]\n08000000 00766F58 0000037C 00000000\n"
+        },
+        {
+            "title": "[Always Encounter:Urshifu]",
+            "content": "[Always Encounter:Urshifu]\n08000000 00766F58 0000037C 00000001\n"
+        },
+        {
+            "title": "[Always Encounter:Zarude]",
+            "content": "[Always Encounter:Zarude]\n08000000 00766F58 0000037D 00000000\n"
+        },
+        {
+            "title": "[Always Encounter:Calyrex]",
+            "content": "[Always Encounter:Calyrex]\n08000000 00766F58 00000382 00000000\n"
+        },
+        {
+            "title": "[Always Female Wild/Egg/Fossil Pokemon]",
+            "content": "[Always Female Wild/Egg/Fossil Pokemon]\n04000000 00766F58 52800021\n"
+        },
+        {
+            "title": "[Always Male Wild/Egg/Fossil Pokemon]",
+            "content": "[Always Male Wild/Egg/Fossil Pokemon]\n04000000 00766F58 52800001\n"
+        },
+        {
+            "title": "[Always Genderless Wild/Egg/Fossil Pokemon]",
+            "content": "[Always Genderless Wild/Egg/Fossil Pokemon]\n04000000 00766F58 52800041\n"
+        },
+        {
+            "title": "[Default Gender Wild/Egg/Fossil Pokemon]",
+            "content": "[Default Gender Wild/Egg/Fossil Pokemon]\n04000000 00766F58 79406261"
+        }
+    ],
     "9D2DB721A9894075": [
         {
             "title": "[(v1.1.1) Set PokeDollars to 8,888,800]",
@@ -2415,7 +2177,7 @@
             "content": "[Hidden Ability (Hold R)]\n04000000 007705E0 3940D262\n04000000 007705F8 3940D268\n04000000 0077060C 3940D268\n04000000 00770620 3940D268\n80000080\n04000000 007705E0 52800042\n04000000 007705F8 52800048\n04000000 0077060C 52800048\n04000000 00770620 52800048\n"
         },
         {
-            "title": "[(v1.1.1) Always Female Wild/Egg/Fossil Pokemon]",
+            "title": "20000000[(v1.1.1) Always Female Wild/Egg/Fossil Pokemon]",
             "content": "20000000[(v1.1.1) Always Female Wild/Egg/Fossil Pokemon]\n04000000 00770548 79406261\n04000000 00770548 52800021\n\n"
         },
         {
@@ -2473,6 +2235,244 @@
         {
             "title": "[(v1.0.0) All Other Items Part 4 New Items x750]",
             "content": "[(v1.0.0) All Other Items Part 4 New Items x750]\n04100000 42934EA8 01778457\n04100000 42934EAC 01778458\n04100000 42934EB0 01778459\n04100000 42934EB4 0177845A\n04100000 42934EB8 0177845B\n04100000 42934EBC 0177845C\n04100000 42934EC0 0177845D\n04100000 42934EC4 0177845E\n04100000 42934EC8 0177845F\n04100000 42934ECC 01778460\n04100000 42934ED0 01778461\n04100000 42934ED4 01778462\n04100000 42934ED8 01778463\n04100000 42934EDC 01778464\n04100000 42934EE0 01778465\n04100000 42934EE4 01778466\n04100000 42934EE8 01778467\n04100000 42934EEC 017784D0\n04100000 42934EF0 017784D1\n04100000 42934EF4 017784D2\n04100000 42934EF8 017784D3\n04100000 42934EFC 017784D4\n04100000 42934F00 017784D5\n04100000 42934F04 017784D6\n04100000 42934F08 017784D7\n04100000 42934F0C 017784D8\n04100000 42934F10 017784D9\n04100000 42934F14 017784DA\n04100000 42934F18 017784DB\n04100000 42934F1C 017784DC\n04100000 42934F20 017784DD\n04100000 42934F24 017784DE\n04100000 42934F28 017784DF\n04100000 42934F2C 017784E0\n04100000 42934F30 017784E1\n04100000 42934F34 017784E2\n04100000 42934F38 017784E3\n04100000 42934F3C 017784E4\n04100000 42934F40 017784E5\n04100000 42934F44 017784E6\n04100000 42934F48 01f384CF\n04100000 42934F4C 01778469"
+        }
+    ],
+    "4628A512B1D93D37": [
+        {
+            "title": "[Catch Rate 100% (v1.3.1)]",
+            "content": "[Catch Rate 100% (v1.3.1)]\n04000000 0077F6E8 529FFFE0 \n\n"
+        },
+        {
+            "title": "[Always Instant-KO (v1.3.1)]",
+            "content": "[Always Instant-KO (v1.3.1)]\n04000000 007E37F0 7900E808\n04000000 007E37F0 7900E81F\n\n"
+        },
+        {
+            "title": "[Shiny Star (v1.3.1)]",
+            "content": "[Shiny Star (v1.3.1)]\n04000000 00766844 1400003A\n04000000 00766854 14000036\n04000000 007773C4 52000C29\n\n"
+        },
+        {
+            "title": "[Shiny Square (v1.3.1)]",
+            "content": "[Shiny Square (v1.3.1)]\n04000000 00766844 1400003A\n04000000 00766854 14000036\n04000000 007773C4 2A0103E9\n\n"
+        },
+        {
+            "title": "[Nursey Staff Always Have an Egg (v1.3.1)]",
+            "content": "[Nursey Staff Always Have an Egg (v1.3.1)]\n04000000 014014B4 D503201F\n04000000 01401604 D503201F\n\n"
+        },
+        {
+            "title": "[Eggs Hatch Faster (v1.3.1)]",
+            "content": "[Eggs Hatch Faster (v1.3.1)]\n04000000 00DC95A4 52801FF8\n04000000 00DC95CC 52801FF8\n\n"
+        },
+        {
+            "title": "[Pok\u00e9Balls Always Catch (v1.3.1)]",
+            "content": "[Pok\u00e9Balls Always Catch (v1.3.1)]\n04000000 008A7008 17FFFFF0\n\n"
+        },
+        {
+            "title": "[Purple Beam (Hold R) (v1.3.1)]",
+            "content": "[Purple Beam (Hold R) (v1.3.1)]\n04000000 01426084 B9400068\n04000000 0142608C B9400068\n80000080\n04000000 01426084 52800048\n04000000 0142608C 52800048\n20000000\n\n"
+        },
+        {
+            "title": "[Deactivate Beam (Hold L) (v1.3.1)]",
+            "content": "[Deactivate Beam (Hold L) (v1.3.1)]\n04000000 01426104 39C1C900\n80000040\n04000000 01426104 52800000\n20000000\n\n"
+        },
+        {
+            "title": "[(v1.3.1) All pokeballs work like Masterball (on)]",
+            "content": "[(v1.3.1) All pokeballs work like Masterball (on)]\n04000000 008A70C8 17FFFFF0\n\n"
+        },
+        {
+            "title": "[(v1.3.1) All pokeballs work like Masterball (off)]",
+            "content": "[(v1.3.1) All pokeballs work like Masterball (off)]\n04000000 008A70C8 54FFFE00 \n\n"
+        },
+        {
+            "title": "[Pok\u00e9Balls Always Catch (On)]",
+            "content": "[Pok\u00e9Balls Always Catch (On)]\n04000000 008A7008 17FFFFF0\n\n"
+        },
+        {
+            "title": "[Pok\u00e9Balls Always Catch (Off)]",
+            "content": "[Pok\u00e9Balls Always Catch (Off)]\n04000000 008A70C8 54FFFE00\n\n"
+        },
+        {
+            "title": "[Always Instant-KO (Hold ZR)]",
+            "content": "[Always Instant-KO (Hold ZR)]\n04000000 007E37F0 7900E808\n80000200\n04000000 007E37F0 7900E81F\n20000000\n\n"
+        },
+        {
+            "title": "[Max Money (v1.3.1)]",
+            "content": "[Max Money (v1.3.1)]\n04100000 45072DF4 0098967F\n\n"
+        },
+        {
+            "title": "[Max Watts (v1.3.1)]",
+            "content": "[Max Watts (v1.3.1)]\n04100000 45068FE8 0098967F\n\n"
+        },
+        {
+            "title": "[Static Watts(On)]",
+            "content": "[Static Watts(On)]\n04000000 01424DBC 4B1F0108\n\n"
+        },
+        {
+            "title": "[Static Watts (Off)]",
+            "content": "[Static Watts (Off)]\n04000000 01424DBC 4B020108\n\n"
+        },
+        {
+            "title": "[Static Props (On)]",
+            "content": "[Static Props (On)]\n04000000 01420C2C 4B1F0148\n\n"
+        },
+        {
+            "title": "[Static Props (Off)]",
+            "content": "[Static Props (Off)]\n04000000 01420C2C 4B020148\n\n"
+        },
+        {
+            "title": "[Static PP (On)]",
+            "content": "[Static PP (On)]\n04000000 007E25B8 4B1F0142\n\n"
+        },
+        {
+            "title": "[Static PP (Off)]",
+            "content": "[Static PP (Off)]\n04000000 007E25B8 4B020142\n\n"
+        },
+        {
+            "title": "[Picked up Items 999 (On)]",
+            "content": "[Picked up Items 999 (On)]\n04000000 01420808 D503201F\n04000000 01420810 1A8B3168\n04000000 01420840 1A8A814A\n\n"
+        },
+        {
+            "title": "[Picked up Items 999 (Off)]",
+            "content": "[Picked up Items 999 (Off)]\n04000000 01420808 710F9D7F\n04000000 01420810 1A8B3108\n04000000 01420840 1A8B814A\n\n"
+        },
+        {
+            "title": "[Unlimited BP (Test 1 V1.3.0)]",
+            "content": "[Unlimited BP (Test 1 V1.3.0)]\n04000000 01438BE4 4B1F0101\n\n"
+        },
+        {
+            "title": "[Unlimited BP (Test 2 V1.3.1)]",
+            "content": "[Unlimited BP (Test 2 V1.3.1)]\n04000000 01438E84 4B1F0101\n\n"
+        },
+        {
+            "title": "[Shines (Hold R=square, ZR=stars)]",
+            "content": "[Shines (Hold R=square, ZR=stars)]\n04000000 00766844 54000BA0\n04000000 00766854 540006C0\n04000000 007773C4 2A0103E9\n80000080\n04000000 00766844 1400003A\n04000000 00766854 14000036\n04000000 007773C4 2A0103E9\n20000000\n80000200\n04000000 00766844 1400003A\n04000000 00766854 14000036\n04000000 007773C4 52000C29\n20000000\n\n"
+        },
+        {
+            "title": "[Unrestricted Skills Machine Limit (On)]",
+            "content": "[Unrestricted Skills Machine Limit (On)]\n04000000 0077FA78 52800020\n04000000 0077FAB8 52800020\n\n"
+        },
+        {
+            "title": "[Unrestricted Skills Machine Limit (Off)]",
+            "content": "[Unrestricted Skills Machine Limit (Off)]\n04000000 0077FA78 1A9F07E0\n04000000 0077FAB8 1A9F07E0\n\n"
+        },
+        {
+            "title": "[Instant Layed Egg]",
+            "content": "[Instant Layed Egg]\n04000000 014014B4 D503201F\n04000000 01401604 D503201F\n\n"
+        },
+        {
+            "title": "[Instant Hatch Egg]",
+            "content": "[Instant Hatch Egg]\n04000000 00DC95A4 52801FF8\n04000000 00DC95CC 52801FF8\n\n"
+        },
+        {
+            "title": "[Wishing Stone; All Purple Lairs (Hold R)]",
+            "content": "[Wishing Stone; All Purple Lairs (Hold R)]\n04000000 01426084 B9400068\n04000000 0142608C B9400068\n80000080\n04000000 01426084 52800048\n04000000 0142608C 52800048\n20000000\n\n"
+        },
+        {
+            "title": "[Instant Clear Lair (Hold L)]",
+            "content": "[Instant Clear Lair (Hold L)]\n04000000 01426104 39C1C900\n80000040\n04000000 01426104 52800000\n20000000\n\n"
+        },
+        {
+            "title": "[Prerequisite Hold R]",
+            "content": "[Prerequisite Hold R]\n04000000 00766F90 B9402A68\n04000000 00766FBC B9402A61\n04000000 00766FC8 79405A61\n04000000 0076708C B9402A60\n04000000 00767094 79405A61\n04000000 007670F0 B9402A60\n04000000 007670F4 79405A61\n80000080\n04000000 00766F90 18FFFE68\n04000000 00766FBC 18FFFD01\n04000000 00766FC8 18FFFC81\n04000000 0076708C 18FFF680\n04000000 00767094 18FFF621\n04000000 007670F0 18FFF360\n04000000 007670F4 18FFF321\n20000000\n\n"
+        },
+        {
+            "title": "[No gender]",
+            "content": "[No gender]\n04000000 00766FF8 52800041\n\n"
+        },
+        {
+            "title": "[Mew (No gender)]",
+            "content": "[Mew (No gender)]\n08000000 00766F58 00000096 00000000\n\n"
+        },
+        {
+            "title": "[Mew2 (No gender)]",
+            "content": "[Mew2 (No gender)]\n08000000 00766F58 00000097 00000000 \n\n"
+        },
+        {
+            "title": "[Pok\u00e9Balls Always Catch (On)]",
+            "content": "[Pok\u00e9Balls Always Catch (On)]\n04000000 008A7008 17FFFFF0\n\n"
+        },
+        {
+            "title": "[Pok\u00e9Balls Always Catch (Off)]",
+            "content": "[Pok\u00e9Balls Always Catch (Off)]\n04000000 008A70C8 54FFFE00\n\n"
+        },
+        {
+            "title": "[Always Instant-KO (Hold ZR)]",
+            "content": "[Always Instant-KO (Hold ZR)]\n04000000 007E37F0 7900E808\n80000200\n04000000 007E37F0 7900E81F\n20000000\n\n"
+        },
+        {
+            "title": "[Max Money (v1.3.1)]",
+            "content": "[Max Money (v1.3.1)]\n04100000 45072DF4 0098967F\n\n"
+        },
+        {
+            "title": "[Max Watts (v1.3.1)]",
+            "content": "[Max Watts (v1.3.1)]\n04100000 45068FE8 0098967F\n\n"
+        },
+        {
+            "title": "[Static Watts(On)]",
+            "content": "[Static Watts(On)]\n04000000 01424DBC 4B1F0108\n\n"
+        },
+        {
+            "title": "[Static Watts (Off)]",
+            "content": "[Static Watts (Off)]\n04000000 01424DBC 4B020108\n\n"
+        },
+        {
+            "title": "[Static Props (On)]",
+            "content": "[Static Props (On)]\n04000000 01420C2C 4B1F0148\n\n"
+        },
+        {
+            "title": "[Static Props (Off)]",
+            "content": "[Static Props (Off)]\n04000000 01420C2C 4B020148\n\n"
+        },
+        {
+            "title": "[Static PP (On)]",
+            "content": "[Static PP (On)]\n04000000 007E25B8 4B1F0142\n\n"
+        },
+        {
+            "title": "[Static PP (Off)]",
+            "content": "[Static PP (Off)]\n04000000 007E25B8 4B020142\n\n"
+        },
+        {
+            "title": "[Picked up Items 999 (On)]",
+            "content": "[Picked up Items 999 (On)]\n04000000 01420808 D503201F\n04000000 01420810 1A8B3168\n04000000 01420840 1A8A814A\n\n"
+        },
+        {
+            "title": "[Picked up Items 999 (Off)]",
+            "content": "[Picked up Items 999 (Off)]\n04000000 01420808 710F9D7F\n04000000 01420810 1A8B3108\n04000000 01420840 1A8B814A\n\n"
+        },
+        {
+            "title": "[Unlimited BP (Test 1 V1.3.0)]",
+            "content": "[Unlimited BP (Test 1 V1.3.0)]\n04000000 01438BE4 4B1F0101\n\n"
+        },
+        {
+            "title": "[Unlimited BP (Test 2 V1.3.1)]",
+            "content": "[Unlimited BP (Test 2 V1.3.1)]\n04000000 01438E84 4B1F0101\n\n"
+        },
+        {
+            "title": "[Shines (Hold R=square, ZR=stars)]",
+            "content": "[Shines (Hold R=square, ZR=stars)]\n04000000 00766844 54000BA0\n04000000 00766854 540006C0\n04000000 007773C4 2A0103E9\n80000080\n04000000 00766844 1400003A\n04000000 00766854 14000036\n04000000 007773C4 2A0103E9\n20000000\n80000200\n04000000 00766844 1400003A\n04000000 00766854 14000036\n04000000 007773C4 52000C29\n20000000\n\n"
+        },
+        {
+            "title": "[Unrestricted Skills Machine Limit (On)]",
+            "content": "[Unrestricted Skills Machine Limit (On)]\n04000000 0077FA78 52800020\n04000000 0077FAB8 52800020\n\n"
+        },
+        {
+            "title": "[Unrestricted Skills Machine Limit (Off)]",
+            "content": "[Unrestricted Skills Machine Limit (Off)]\n04000000 0077FA78 1A9F07E0\n04000000 0077FAB8 1A9F07E0\n\n"
+        },
+        {
+            "title": "[Instant Layed Egg]",
+            "content": "[Instant Layed Egg]\n04000000 014014B4 D503201F\n04000000 01401604 D503201F\n\n"
+        },
+        {
+            "title": "[Instant Hatch Egg]",
+            "content": "[Instant Hatch Egg]\n04000000 00DC95A4 52801FF8\n04000000 00DC95CC 52801FF8\n\n"
+        },
+        {
+            "title": "[Wishing Stone; All Purple Lairs (Hold R)]",
+            "content": "[Wishing Stone; All Purple Lairs (Hold R)]\n04000000 01426084 B9400068\n04000000 0142608C B9400068\n80000080\n04000000 01426084 52800048\n04000000 0142608C 52800048\n20000000\n\n"
+        },
+        {
+            "title": "[Instant Clear Lair (Hold L)]",
+            "content": "[Instant Clear Lair (Hold L)]\n04000000 01426104 39C1C900\n80000040\n04000000 01426104 52800000\n20000000"
         }
     ]
 }

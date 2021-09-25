@@ -1,5 +1,97 @@
 {
+    "ED0D7ACE84EEC780": [
+        {
+            "title": "{Mario Sunshine by Eiffel}",
+            "content": "{Mario Sunshine by Eiffel}\n580E0000 036FDD98\n580E1000 000002B8\n580E1000 00000038\n580E1000 00000030\n580E1000 00000008\n\n"
+        },
+        {
+            "title": "[#1 99 Coins]",
+            "content": "[#1 99 Coins]\n400F0000 00000000 0056DF60\n640E01F0 00000000 63000000\n\n"
+        },
+        {
+            "title": "[#2 99 Lifes]",
+            "content": "[#2 99 Lifes]\n400F0000 00000000 0056DF04\n640E01F0 00000000 63000000\n\n"
+        },
+        {
+            "title": "[#3 Inf. water tank]",
+            "content": "[#3 Inf. water tank]\n80000200\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0D4640\n780F0000 00000A78\n640F0000 00000000 D503201F\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0D32F0\n780F0000 00001054\n640F0000 00000000 D503201F\n20000000\n\n"
+        },
+        {
+            "title": "[#4 Inf. Energy]",
+            "content": "[#4 Inf. Energy]\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C083840\n780F0000 00000178\n640F0000 00000000 5280010E\n\n"
+        },
+        {
+            "title": "[#5 Inf. breathing under Water]",
+            "content": "[#5 Inf. breathing under Water]\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C09A7B8\n780F0000 00003B3C\n640F0000 00000000 D503201F\n\n"
+        },
+        {
+            "title": "[#6 Jetpack Mode (press Left + double X)]",
+            "content": "[#6 Jetpack Mode (press Left + double X)]\n80001000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800056\n20000000\n"
+        },
+        {
+            "title": "[#7 High Jump Mode (press Up + double X)]",
+            "content": "[#7 High Jump Mode (press Up + double X)]\n80002000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800036\n20000000\n"
+        },
+        {
+            "title": "[#8 Speed Up Mode (press Right + double X)]",
+            "content": "[#8 Speed Up Mode (press Right + double X)]\n80004000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 528000B6\n20000000\n\n"
+        },
+        {
+            "title": "[#9 Normal Mode (press Down + double X)]",
+            "content": "[#9 Normal Mode (press Down + double X)]\n80008000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800096\n20000000"
+        }
+    ],
+    "64000C752A890EFB": [
+        {
+            "title": "{Mario Sunshine by Eiffel}",
+            "content": "{Mario Sunshine by Eiffel}\n580E0000 036FDD98\n580E1000 000002B8\n580E1000 00000038\n580E1000 00000030\n580E1000 00000008\n\n"
+        },
+        {
+            "title": "[#1 99 Coins]",
+            "content": "[#1 99 Coins]\n400F0000 00000000 0056DF60\n640E01F0 00000000 63000000\n\n"
+        },
+        {
+            "title": "[#2 99 Lifes]",
+            "content": "[#2 99 Lifes]\n400F0000 00000000 0056DF04\n640E01F0 00000000 63000000\n\n"
+        },
+        {
+            "title": "[#3 Inf. water tank]",
+            "content": "[#3 Inf. water tank]\n80000200\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0D4640\n780F0000 00000A78\n640F0000 00000000 D503201F\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0D32F0\n780F0000 00001054\n640F0000 00000000 D503201F\n20000000\n\n"
+        },
+        {
+            "title": "[#4 Inf. Energy]",
+            "content": "[#4 Inf. Energy]\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C083840\n780F0000 00000178\n640F0000 00000000 5280010E\n\n"
+        },
+        {
+            "title": "[#5 Inf. breathing under Water]",
+            "content": "[#5 Inf. breathing under Water]\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C09A7B8\n780F0000 00003B3C\n640F0000 00000000 D503201F\n\n"
+        },
+        {
+            "title": "[#6 Jetpack Mode (press Left + double X)]",
+            "content": "[#6 Jetpack Mode (press Left + double X)]\n80001000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800056\n20000000\n"
+        },
+        {
+            "title": "[#7 High Jump Mode (press Up + double X)]",
+            "content": "[#7 High Jump Mode (press Up + double X)]\n80002000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800036\n20000000\n"
+        },
+        {
+            "title": "[#8 Speed Up Mode (press Right + double X)]",
+            "content": "[#8 Speed Up Mode (press Right + double X)]\n80004000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 528000B6\n20000000\n\n"
+        },
+        {
+            "title": "[#9 Normal Mode (press Down + double X)]",
+            "content": "[#9 Normal Mode (press Down + double X)]\n80008000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800096\n20000000\n\n"
+        },
+        {
+            "title": "[8 Red Coins]",
+            "content": "[8 Red Coins]\n400F0000 00000000 0056DF7F\n640E01F0 00000000 00000008"
+        }
+    ],
     "B21E3733E11D6FCF": [
+        {
+            "title": "{Mario Sunshine @made by Eiffel}",
+            "content": "{Mario Sunshine @made by Eiffel}\n580E0000 03704D98\n580E1000 000002B8\n580E1000 00000038\n580E1000 00000030\n580E1000 00000008\n580D0000 036E69B8\n580D1000 00000000\n580D1000 00000020\n\n"
+        },
         {
             "title": "[#1 99 Lifes @made by Eiffel]",
             "content": "[#1 99 Lifes @made by Eiffel]\n400F0000 00000000 0056E2A4\n640E01F0 00000000 63000000\n\n"
@@ -63,86 +155,6 @@
         {
             "title": "[07# Change Nozzle (use D-Pad)]",
             "content": "[07# Change Nozzle (use D-Pad)]\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 00AA69F4\n640A0000 00000000 386B6916\n80001000\n640A0000 00000000 52800056\n20000000\n80002000\n640A0000 00000000 52800036\n20000000\n80004000\n640A0000 00000000 528000B6\n20000000\n80008000\n640A0000 00000000 52800096\n20000000"
-        }
-    ],
-    "64000C752A890EFB": [
-        {
-            "title": "[#1 99 Coins]",
-            "content": "[#1 99 Coins]\n400F0000 00000000 0056DF60\n640E01F0 00000000 63000000\n\n"
-        },
-        {
-            "title": "[#2 99 Lifes]",
-            "content": "[#2 99 Lifes]\n400F0000 00000000 0056DF04\n640E01F0 00000000 63000000\n\n"
-        },
-        {
-            "title": "[#3 Inf. water tank]",
-            "content": "[#3 Inf. water tank]\n80000200\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0D4640\n780F0000 00000A78\n640F0000 00000000 D503201F\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0D32F0\n780F0000 00001054\n640F0000 00000000 D503201F\n20000000\n\n"
-        },
-        {
-            "title": "[#4 Inf. Energy]",
-            "content": "[#4 Inf. Energy]\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C083840\n780F0000 00000178\n640F0000 00000000 5280010E\n\n"
-        },
-        {
-            "title": "[#5 Inf. breathing under Water]",
-            "content": "[#5 Inf. breathing under Water]\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C09A7B8\n780F0000 00003B3C\n640F0000 00000000 D503201F\n\n"
-        },
-        {
-            "title": "[#6 Jetpack Mode (press Left + double X)]",
-            "content": "[#6 Jetpack Mode (press Left + double X)]\n80001000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800056\n20000000\n"
-        },
-        {
-            "title": "[#7 High Jump Mode (press Up + double X)]",
-            "content": "[#7 High Jump Mode (press Up + double X)]\n80002000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800036\n20000000\n"
-        },
-        {
-            "title": "[#8 Speed Up Mode (press Right + double X)]",
-            "content": "[#8 Speed Up Mode (press Right + double X)]\n80004000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 528000B6\n20000000\n\n"
-        },
-        {
-            "title": "[#9 Normal Mode (press Down + double X)]",
-            "content": "[#9 Normal Mode (press Down + double X)]\n80008000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800096\n20000000\n\n"
-        },
-        {
-            "title": "[8 Red Coins]",
-            "content": "[8 Red Coins]\n400F0000 00000000 0056DF7F\n640E01F0 00000000 00000008"
-        }
-    ],
-    "ED0D7ACE84EEC780": [
-        {
-            "title": "[#1 99 Coins]",
-            "content": "[#1 99 Coins]\n400F0000 00000000 0056DF60\n640E01F0 00000000 63000000\n\n"
-        },
-        {
-            "title": "[#2 99 Lifes]",
-            "content": "[#2 99 Lifes]\n400F0000 00000000 0056DF04\n640E01F0 00000000 63000000\n\n"
-        },
-        {
-            "title": "[#3 Inf. water tank]",
-            "content": "[#3 Inf. water tank]\n80000200\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0D4640\n780F0000 00000A78\n640F0000 00000000 D503201F\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0D32F0\n780F0000 00001054\n640F0000 00000000 D503201F\n20000000\n\n"
-        },
-        {
-            "title": "[#4 Inf. Energy]",
-            "content": "[#4 Inf. Energy]\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C083840\n780F0000 00000178\n640F0000 00000000 5280010E\n\n"
-        },
-        {
-            "title": "[#5 Inf. breathing under Water]",
-            "content": "[#5 Inf. breathing under Water]\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C09A7B8\n780F0000 00003B3C\n640F0000 00000000 D503201F\n\n"
-        },
-        {
-            "title": "[#6 Jetpack Mode (press Left + double X)]",
-            "content": "[#6 Jetpack Mode (press Left + double X)]\n80001000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800056\n20000000\n"
-        },
-        {
-            "title": "[#7 High Jump Mode (press Up + double X)]",
-            "content": "[#7 High Jump Mode (press Up + double X)]\n80002000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800036\n20000000\n"
-        },
-        {
-            "title": "[#8 Speed Up Mode (press Right + double X)]",
-            "content": "[#8 Speed Up Mode (press Right + double X)]\n80004000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 528000B6\n20000000\n\n"
-        },
-        {
-            "title": "[#9 Normal Mode (press Down + double X)]",
-            "content": "[#9 Normal Mode (press Down + double X)]\n80008000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800096\n20000000"
         }
     ]
 }

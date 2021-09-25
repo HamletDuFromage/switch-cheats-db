@@ -1,4 +1,42 @@
 {
+    "909E904AF78AC1B8": [
+        {
+            "title": "[Infinite / Max Hearts Press ZR]",
+            "content": "[Infinite / Max Hearts Press ZR]\n80000200\n01000000 01CC0764 00000050\n20000000\n\n"
+        },
+        {
+            "title": "[9999 Rupees Press L]",
+            "content": "[9999 Rupees Press L]\n80000040\n02000000 01CC0760 0000270F\n20000000\n\n"
+        },
+        {
+            "title": "[Max Magic Powder (Right stick left)]",
+            "content": "[Max Magic Powder (Right stick left)]\n80100000\n01000000 01CC0780 0000001E\n20000000\n\n"
+        },
+        {
+            "title": "[Max Bombs (Right Stick Up)]",
+            "content": "[Max Bombs (Right Stick Up)]\n80200000\n01000000 01CC077E 0000001E\n20000000\n\n"
+        },
+        {
+            "title": "[Infinite Arrows (Right Stick Down)]",
+            "content": "[Infinite Arrows (Right Stick Down)]\n80800000\n01000000 01CC077F 0000001E\n20000000\n\n"
+        },
+        {
+            "title": "[Have 3/4 Hearts (Press Right Stick)]",
+            "content": "[Have 3/4 Hearts (Press Right Stick)]\n80000020 04000000 01cc0770 0000000F\n20000000\n\n"
+        },
+        {
+            "title": "[Have 3/4 Hearts (Press Left Stick)]",
+            "content": "[Have 3/4 Hearts (Press Left Stick)]\n80000010 04000000 01cc0770 FFFFFFFF\n20000000\n\n"
+        },
+        {
+            "title": "[Infinite Small Keys]",
+            "content": "[Infinite Small Keys]\n01000000 01cbb300 00000001\n01000000 01cbb310 00000001\n01000000 01cbb320 00000001\n01000000 01cbb330 00000001\n01000000 01cbb340 00000001\n01000000 01cbb350 00000001\n01000000 01cbb360 00000001\n01000000 01cbb370 00000001\n01000000 01cbb380 00000001\n01000000 01cbb3a0 00000001\n01000000 01cbb3c0 00000001\n01000000 01cbb3e0 00000001\n01000000 01cbb420 00000001\n\n\n"
+        },
+        {
+            "title": "[High Jump (ZL) ]",
+            "content": "[High Jump (ZL) ]\n80000100\n580F0000 01CC8B50\n580F1000 00001528\n580F1000 00000928\n580F1000 00000018\n780F0000 000000C8\n640F0000 00000000 C1800000\n20000000\n"
+        }
+    ],
     "AE16F71E002AF8CB": [
         {
             "title": "[Infinite / Max Hearts]",
@@ -31,10 +69,6 @@
         {
             "title": "[Infinite Small Keys]",
             "content": "[Infinite Small Keys]\n01000000 01cbb300 00000001\n01000000 01cbb310 00000001\n01000000 01cbb320 00000001\n01000000 01cbb330 00000001\n01000000 01cbb340 00000001\n01000000 01cbb350 00000001\n01000000 01cbb360 00000001\n01000000 01cbb370 00000001\n01000000 01cbb380 00000001\n01000000 01cbb3a0 00000001\n01000000 01cbb3c0 00000001\n01000000 01cbb3e0 00000001\n01000000 01cbb420 00000001\n\n"
-        },
-        {
-            "title": "[Trading Slot Mod: (Only Use 1 At a Time):]",
-            "content": "[Trading Slot Mod: (Only Use 1 At a Time):]\n"
         },
         {
             "title": "[  Yoshi Doll]",
@@ -91,10 +125,6 @@
         {
             "title": "[  Magnifying Lense]",
             "content": "[  Magnifying Lense]\n01000000 01cc077a 0000000e\n\n"
-        },
-        {
-            "title": "[Figure Slot Mod: (Only Use 1 At a Time):]",
-            "content": "[Figure Slot Mod: (Only Use 1 At a Time):]\n"
         },
         {
             "title": "[  CiaoCiao Figure]",
@@ -159,44 +189,6 @@
         {
             "title": "[Invincible Off]",
             "content": "[Invincible Off]\n04000000 00D4C690 D10143FF\n "
-        }
-    ],
-    "909E904AF78AC1B8": [
-        {
-            "title": "[Infinite / Max Hearts Press ZR]",
-            "content": "[Infinite / Max Hearts Press ZR]\n80000200\n01000000 01CC0764 00000050\n20000000\n\n"
-        },
-        {
-            "title": "[9999 Rupees Press L]",
-            "content": "[9999 Rupees Press L]\n80000040\n02000000 01CC0760 0000270F\n20000000\n\n"
-        },
-        {
-            "title": "[Max Magic Powder (Right stick left)]",
-            "content": "[Max Magic Powder (Right stick left)]\n80100000\n01000000 01CC0780 0000001E\n20000000\n\n"
-        },
-        {
-            "title": "[Max Bombs (Right Stick Up)]",
-            "content": "[Max Bombs (Right Stick Up)]\n80200000\n01000000 01CC077E 0000001E\n20000000\n\n"
-        },
-        {
-            "title": "[Infinite Arrows (Right Stick Down)]",
-            "content": "[Infinite Arrows (Right Stick Down)]\n80800000\n01000000 01CC077F 0000001E\n20000000\n\n"
-        },
-        {
-            "title": "[Have 3/4 Hearts (Press Right Stick)]",
-            "content": "[Have 3/4 Hearts (Press Right Stick)]\n80000020 04000000 01cc0770 0000000F\n20000000\n\n"
-        },
-        {
-            "title": "[Have 3/4 Hearts (Press Left Stick)]",
-            "content": "[Have 3/4 Hearts (Press Left Stick)]\n80000010 04000000 01cc0770 FFFFFFFF\n20000000\n\n"
-        },
-        {
-            "title": "[Infinite Small Keys]",
-            "content": "[Infinite Small Keys]\n01000000 01cbb300 00000001\n01000000 01cbb310 00000001\n01000000 01cbb320 00000001\n01000000 01cbb330 00000001\n01000000 01cbb340 00000001\n01000000 01cbb350 00000001\n01000000 01cbb360 00000001\n01000000 01cbb370 00000001\n01000000 01cbb380 00000001\n01000000 01cbb3a0 00000001\n01000000 01cbb3c0 00000001\n01000000 01cbb3e0 00000001\n01000000 01cbb420 00000001\n\n\n"
-        },
-        {
-            "title": "[High Jump (ZL) ]",
-            "content": "[High Jump (ZL) ]\n80000100\n580F0000 01CC8B50\n580F1000 00001528\n580F1000 00000928\n580F1000 00000018\n780F0000 000000C8\n640F0000 00000000 C1800000\n20000000\n"
         }
     ]
 }

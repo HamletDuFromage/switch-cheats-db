@@ -25,10 +25,6 @@
             "content": "[Speed MAX]\n04000000 6874B398 0000000F\n\n"
         },
         {
-            "title": "[------- ZizouOlympia ONLY -------]",
-            "content": "[------- ZizouOlympia ONLY -------]\n"
-        },
-        {
             "title": "[Wing MAX]",
             "content": "[Wing MAX]\n04000000 6874B3A4 0000000F\n"
         },
@@ -45,10 +41,6 @@
             "content": "[Guard MAX]\n04000000 6874B3D4 0000000F\n\n"
         },
         {
-            "title": "[------------ Riva ONLY -------------]",
-            "content": "[------------ Riva ONLY -------------]\n"
-        },
-        {
             "title": "[Dash MAX]",
             "content": "[Dash MAX]\n04000000 6874B3A4 0000000F\n"
         },
@@ -57,16 +49,8 @@
             "content": "[Fire MAX(ZL)/Sword MAX(ZR)]\n80000100\n04000000 6874B3B0 0000000F\n20000000\n80000200\n04000000 6874B3B0 ffffffff\n04000000 6874B3BC 0000000F\n20000000\n\n"
         },
         {
-            "title": "[------------------------------------]",
-            "content": "[------------------------------------]\n"
-        },
-        {
             "title": "[Boss 1 HP]",
             "content": "[Boss 1 HP]\n12010000 687D0730 00000001\n02000000 687D0730 00000001\n20000000\n"
-        },
-        {
-            "title": "[------------------------------------]",
-            "content": "[------------------------------------]\n"
         },
         {
             "title": "[99999 Syega]",
@@ -111,6 +95,36 @@
         {
             "title": "[0 Dead  (Save Slot 2)]",
             "content": "[0 Dead  (Save Slot 2)]\n04000000 68753500 00000000"
+        }
+    ],
+    "688F083106E7467D": [
+        {
+            "title": "[Moon Jump]",
+            "content": "[Moon Jump]\n80000002\n04000000 687D3608 C0BCCCCC\n20000000\n\n"
+        },
+        {
+            "title": "[Speed MAX]",
+            "content": "[Speed MAX]\n04000000 6874E394 0000000F\n\n"
+        },
+        {
+            "title": "[Wing MAX]",
+            "content": "[Wing MAX]\n04000000 6874E3A0 0000000F\n\n"
+        },
+        {
+            "title": "[Line MAX]",
+            "content": "[Line MAX]\n04000000 6874E3AC 00000064\n\n"
+        },
+        {
+            "title": "[Power MAX]",
+            "content": "[Power MAX]\n04000000 6874E3C0 00000064\n04000000 6874E3C4 00000004\n\n"
+        },
+        {
+            "title": "[Inf Capacity] Code by ??B",
+            "content": "[Inf Capacity] Code by ??B\n04000000 004E2834 000003E8\n\n"
+        },
+        {
+            "title": "[Invincible] Code by ??B",
+            "content": "[Invincible] Code by ??B\n04000000 687D35A0 000001F4"
         }
     ],
     "F062735CE0525729": [
@@ -193,36 +207,6 @@
         {
             "title": "[Have All Crystals]",
             "content": "[Have All Crystals]\n01000000 687515d0 00000001\n01000000 687515d4 00000001\n01000000 687515d8 00000001\n01000000 687515dc 00000001\n01000000 687515e0 00000001\n01000000 687515e4 00000001\n01000000 687515e8 00000001\n01000000 687515ec 00000001\n01000000 687515f0 00000001\n01000000 687515f4 00000001\n01000000 687515f8 00000001\n01000000 687515fc 00000001"
-        }
-    ],
-    "688F083106E7467D": [
-        {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000002\n04000000 687D3608 C0BCCCCC\n20000000\n\n"
-        },
-        {
-            "title": "[Speed MAX]",
-            "content": "[Speed MAX]\n04000000 6874E394 0000000F\n\n"
-        },
-        {
-            "title": "[Wing MAX]",
-            "content": "[Wing MAX]\n04000000 6874E3A0 0000000F\n\n"
-        },
-        {
-            "title": "[Line MAX]",
-            "content": "[Line MAX]\n04000000 6874E3AC 00000064\n\n"
-        },
-        {
-            "title": "[Power MAX]",
-            "content": "[Power MAX]\n04000000 6874E3C0 00000064\n04000000 6874E3C4 00000004\n\n"
-        },
-        {
-            "title": "[Inf Capacity]",
-            "content": "[Inf Capacity] Code by ??B\n04000000 004E2834 000003E8\n\n"
-        },
-        {
-            "title": "[Invincible]",
-            "content": "[Invincible] Code by ??B\n04000000 687D35A0 000001F4"
         }
     ]
 }

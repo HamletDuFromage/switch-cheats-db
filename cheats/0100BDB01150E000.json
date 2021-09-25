@@ -1,6 +1,10 @@
 {
     "A826AD7B5CB6C048": [
         {
+            "title": "{Project Warlock v1.0.2}",
+            "content": "{Project Warlock v1.0.2}\n580F0000 03451B48\n580F1000 000000B8\n\n"
+        },
+        {
             "title": "[Health is set at 1000]",
             "content": "[Health is set at 1000]\n400C0000 00000000 00000008\n680C01F0 447A0000 447A0000\n\n"
         },
@@ -15,36 +19,6 @@
         {
             "title": "[Max Stats(99)]",
             "content": "[Max Stats(99)]\n400C0000 00000000 00000020\n680C11F0 00000063 00000063\n680C01F0 00000063 00000063\n\n\n"
-        },
-        {
-            "title": "[inf ammo loop]",
-            "content": "[inf ammo loop]\n400C0000 00000000 00000034\n300E0000 00000008\n640C01F0 00000000 50000000\n780C0000 0000000C\n310E0000\n640C01F0 00000000 00000063\n\n"
-        },
-        {
-            "title": "[Unlock all Spells]",
-            "content": "[Unlock all Spells]\n400C0000 00000000 000000A0\n680C11F0 00000001 00000001\n680C11F0 00000001 00000001\n680C11F0 00000001 00000001\n680C11F0 00000001 00000001\n\n"
-        },
-        {
-            "title": "[Unlock all known weapons]",
-            "content": "[Unlock all known weapons]\n400C0000 00000000 000000E4\n680C11F0 00000001 00000001\n680C11F0 00000001 00000001\n680C11F0 00000001 00000001\n680C11F0 00000001 00000001\n680C11F0 00000001 00000001\n680C11F0 00000001 00000001"
-        }
-    ],
-    "D597DE8544D8ED4F": [
-        {
-            "title": "[Health is set at 1000]",
-            "content": "[Health is set at 1000]\n400C0000 00000000 00000008\n680C01F0 447A0000 447A0000\n\n"
-        },
-        {
-            "title": "[Mana is set at 1000]",
-            "content": "[Mana is set at 1000]\n400C0000 00000000 00000010\n680C01F0 447A0000 447A0000\n\n"
-        },
-        {
-            "title": "[inf Weapon Upgrade pts]",
-            "content": "[inf Weapon Upgrade pts]\n400C0000 00000000 00000004\n640C01F0 00000000 00000010\n\n"
-        },
-        {
-            "title": "[Max Stats(99)]",
-            "content": "[Max Stats(99)]\n400C0000 00000000 00000020\n680C11F0 00000063 00000063\n680C01F0 00000063 00000063\n\n"
         },
         {
             "title": "[inf ammo loop]",
@@ -83,6 +57,40 @@
         {
             "title": "[Inf Ammo2]",
             "content": "[Inf Ammo2]\n580F0000 0322CAC0\n580F1000 000000B8\n780F0000 00000084\n300E0000 00000012\n640F0000 00000000 000003E7\n780F0000 00000004\n310E0000\n20000000"
+        }
+    ],
+    "D597DE8544D8ED4F": [
+        {
+            "title": "{Project Warlock v1.0.3}",
+            "content": "{Project Warlock v1.0.3}\n580F0000 032354C8\n580F1000 000000B8\n\n"
+        },
+        {
+            "title": "[Health is set at 1000]",
+            "content": "[Health is set at 1000]\n400C0000 00000000 00000008\n680C01F0 447A0000 447A0000\n\n"
+        },
+        {
+            "title": "[Mana is set at 1000]",
+            "content": "[Mana is set at 1000]\n400C0000 00000000 00000010\n680C01F0 447A0000 447A0000\n\n"
+        },
+        {
+            "title": "[inf Weapon Upgrade pts]",
+            "content": "[inf Weapon Upgrade pts]\n400C0000 00000000 00000004\n640C01F0 00000000 00000010\n\n"
+        },
+        {
+            "title": "[Max Stats(99)]",
+            "content": "[Max Stats(99)]\n400C0000 00000000 00000020\n680C11F0 00000063 00000063\n680C01F0 00000063 00000063\n\n"
+        },
+        {
+            "title": "[inf ammo loop]",
+            "content": "[inf ammo loop]\n400C0000 00000000 00000034\n300E0000 00000008\n640C01F0 00000000 50000000\n780C0000 0000000C\n310E0000\n640C01F0 00000000 00000063\n\n"
+        },
+        {
+            "title": "[Unlock all Spells]",
+            "content": "[Unlock all Spells]\n400C0000 00000000 000000A0\n680C11F0 00000001 00000001\n680C11F0 00000001 00000001\n680C11F0 00000001 00000001\n680C11F0 00000001 00000001\n\n"
+        },
+        {
+            "title": "[Unlock all known weapons]",
+            "content": "[Unlock all known weapons]\n400C0000 00000000 000000E4\n680C11F0 00000001 00000001\n680C11F0 00000001 00000001\n680C11F0 00000001 00000001\n680C11F0 00000001 00000001\n680C11F0 00000001 00000001\n680C11F0 00000001 00000001"
         }
     ]
 }

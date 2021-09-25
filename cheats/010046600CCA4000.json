@@ -1,10 +1,6 @@
 {
     "1AC1DD4498520448": [
         {
-            "title": "[Use the code in puzzle mode]",
-            "content": "[Use the code in puzzle mode]\n\n"
-        },
-        {
             "title": "[Inf Number of times]",
             "content": "[Inf Number of times]\n580F0000 02C02048\n580F1000 000000B8\n580F1000 00000020\n580F1000 000000A0\n780F0000 000000C0\n640F0000 00000000 00000063\n\n"
         },

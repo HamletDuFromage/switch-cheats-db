@@ -54,7 +54,11 @@
         },
         {
             "title": "[12# Max Skill Points]",
-            "content": "[12# Max Skill Points]\n580F0000 04D5C6F0\n580F1000 00000220\n780F0000 00000454\n640F0000 00000000 00000063\n\n{Disable Sanity Check - Credit to C0dycode of Shadowevil's Modding Server}\n04000000 0135FA64 D503201F\n04000000 0135FAC4 D503201F\n\n"
+            "content": "[12# Max Skill Points]\n580F0000 04D5C6F0\n580F1000 00000220\n780F0000 00000454\n640F0000 00000000 00000063\n\n"
+        },
+        {
+            "title": "{Disable Sanity Check - Credit to C0dycode of Shadowevil's Modding Server}",
+            "content": "{Disable Sanity Check - Credit to C0dycode of Shadowevil's Modding Server}\n04000000 0135FA64 D503201F\n04000000 0135FAC4 D503201F\n\n"
         },
         {
             "title": "[Disable Level Check]",

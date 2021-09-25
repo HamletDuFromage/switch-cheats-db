@@ -1,10 +1,6 @@
 {
     "BCC92811606BD64F": [
         {
-            "title": "[From MAX-CHEATS.com by eco95 for Zoids Wild King of Blast (V1.0)]",
-            "content": "[From MAX-CHEATS.com by eco95 for Zoids Wild King of Blast (V1.0)]\n\n"
-        },
-        {
             "title": "[#01#  Player Infinite HP]",
             "content": "[#01#  Player Infinite HP]\n580f0000 02BB7848\n580f1000 00001B50\n580f1000 00000338\n780f0000 00000030\n640f0000 00000000 00002710\n780f0000 00000004\n640f0000 00000000 00002710\n\n"
         },

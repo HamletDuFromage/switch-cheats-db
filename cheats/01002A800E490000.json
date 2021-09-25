@@ -157,10 +157,6 @@
             "content": "[Profession Sage (Hold R)]\n80000080\n04100000 02A105F4 00000007\n04100000 02A10680 00000007\n04100000 02A1070C 00000007\n04100000 02A10798 00000007\n20000000\n\n"
         },
         {
-            "title": "[Profession]",
-            "content": "[Profession]\nXX=\n00=Warrior\n01=Martial Artist\n02=Mage\n03=Priest\n04=Merchant\n05=Gadabout\n06=Thief\n07=Sage\n08=Hero\n\n"
-        },
-        {
             "title": "[P1 Profession]",
             "content": "[P1 Profession]\n04100000 02A105F4 000000XX\n\n"
         },

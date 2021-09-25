@@ -881,10 +881,6 @@
             "content": "[Vegetable Sandwich]\n640C0000 00000000 0001F7FB\n\n"
         },
         {
-            "title": "[-- Seasoning / Condiments / Herbs --]",
-            "content": "[-- Seasoning / Condiments / Herbs --]\n\n"
-        },
-        {
             "title": "[Butter]",
             "content": "[Butter]\n640C0000 00000000 0001EC3E\n\n"
         },
@@ -2297,10 +2293,6 @@
         {
             "title": "[Vegetable Sandwich]",
             "content": "[Vegetable Sandwich]\n640C0000 00000000 0001F7FB\n\n"
-        },
-        {
-            "title": "[-- Seasoning / Condiments / Herbs --]",
-            "content": "[-- Seasoning / Condiments / Herbs --]\n\n"
         },
         {
             "title": "[Butter]",
@@ -3954,7 +3946,11 @@
         },
         {
             "title": "[Max Friendship ???]",
-            "content": "[Max Friendship ???]\n580C0000 045AC130\n580C1000 00000B10\n580C1000 00000070\n580C1000 00000518\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n{Credits: bbhark, crazy_p, IMNoob, Merlin555}\n20000000"
+            "content": "[Max Friendship ???]\n580C0000 045AC130\n580C1000 00000B10\n580C1000 00000070\n580C1000 00000518\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n"
+        },
+        {
+            "title": "{Credits: bbhark, crazy_p, IMNoob, Merlin555}",
+            "content": "{Credits: bbhark, crazy_p, IMNoob, Merlin555}\n20000000"
         }
     ],
     "EBD208B4B2BF0B42": [
@@ -4845,10 +4841,6 @@
         {
             "title": "[Vegetable Sandwich]",
             "content": "[Vegetable Sandwich]\n640C0000 00000000 0001F7FB\n\n"
-        },
-        {
-            "title": "[-- Seasoning / Condiments / Herbs --]",
-            "content": "[-- Seasoning / Condiments / Herbs --]\n\n"
         },
         {
             "title": "[Butter]",

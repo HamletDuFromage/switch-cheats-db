@@ -1,22 +1,4 @@
 {
-    "EADA9F7AD4D3BA41": [
-        {
-            "title": "[From MAX-CHEATS.com by optantic for FINAL FANTASY IX]",
-            "content": "[From MAX-CHEATS.com by optantic for FINAL FANTASY IX]\n\n"
-        },
-        {
-            "title": "[999999 GP after battle]",
-            "content": "[999999 GP after battle]\n04100000 9423ab90 000f423f\n\n"
-        },
-        {
-            "title": "[999999 EXP after battle]",
-            "content": "[999999 EXP after battle]\n04100000 9423ab94 000f423f\n\n"
-        },
-        {
-            "title": "[99 AP after battle]",
-            "content": "[99 AP after battle]\n01100000 9423ab98 00000063"
-        }
-    ],
     "A49A739C07989244": [
         {
             "title": "[999999 GP after battle]",
@@ -61,6 +43,20 @@
         {
             "title": "[99 Running shoes]",
             "content": "[99 Running shoes]\n580F0000 029DF3C0\n580F1000 00000170\n580F1000 00000000\n580F1000 00000028\n780F0000 000000F0\n640F0000 00000000 000063C6"
+        }
+    ],
+    "EADA9F7AD4D3BA41": [
+        {
+            "title": "[999999 GP after battle]",
+            "content": "[999999 GP after battle]\n04100000 9423ab90 000f423f\n\n"
+        },
+        {
+            "title": "[999999 EXP after battle]",
+            "content": "[999999 EXP after battle]\n04100000 9423ab94 000f423f\n\n"
+        },
+        {
+            "title": "[99 AP after battle]",
+            "content": "[99 AP after battle]\n01100000 9423ab98 00000063"
         }
     ]
 }

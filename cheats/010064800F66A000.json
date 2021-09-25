@@ -1,6 +1,10 @@
 {
     "1C37C3673E0E4E7A": [
         {
+            "title": "{Disable Sanity Check - Credits to C0dycode of Shadowevil's Modding Server}",
+            "content": "{Disable Sanity Check - Credits to C0dycode of Shadowevil's Modding Server}\n04000000 0193A3B0 D503201F\n04000000 0193A430 D503201F\n\n"
+        },
+        {
             "title": "[Disable Level Check for Items - Makes Enemies MUCH Stronger in PT2.5]",
             "content": "[Disable Level Check for Items - Makes Enemies MUCH Stronger in PT2.5]\n04000000 019434EC 12B00000\n\n"
         },

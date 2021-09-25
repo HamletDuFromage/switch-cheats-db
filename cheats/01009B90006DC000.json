@@ -1,84 +1,84 @@
 {
-    "E74294B43F76EF2A": [
+    "3EBB1EB2FFFB029A": [
         {
-            "title": "[Invincible - Always On]",
-            "content": "[Invincible - Always On]\n04100000 90505374 000000C8\n\n"
+            "title": "[999 Coins]",
+            "content": "[999 Coins]\n041F0000 7881534c 000003E7\n \n"
         },
         {
-            "title": "[Star Power Up - Always On]",
-            "content": "[Star Power Up - Always On]\n04100000 905053B0 0000020C\n\n"
+            "title": "[Big Mario]",
+            "content": "[Big Mario]\n011F0000 90f4ec18 00000001\n \n"
         },
         {
-            "title": "[D-Pad D - Invincible (Temporary)]",
-            "content": "[D-Pad D - Invincible (Temporary)]\n80008000\n04100000 90505374 0000020C\n20000000\n\n"
+            "title": "[Fireball Mario]",
+            "content": "[Fireball Mario]\n011F0000 90f4ec18 00000002\n \n"
         },
         {
-            "title": "[D-Pad R - Star Power Up (Timer)]",
-            "content": "[D-Pad R - Star Power Up (Timer)]\n80004000\n04100000 905053B0 000000FF\n20000000\n\n"
+            "title": "[Helicopter Mario (Super Mario Bros U)]",
+            "content": "[Helicopter Mario (Super Mario Bros U)]\n011F0000 90f4ec18 00000003\n \n"
         },
         {
-            "title": "[D-Pad U - Mushroom Power Up]",
-            "content": "[D-Pad U - Mushroom Power Up]\n80002000\n04100000 9050309C 00000001\n20000000\n\n"
+            "title": "[Cape Mario (Super Mario World)]",
+            "content": "[Cape Mario (Super Mario World)]\n011F0000 90f4ec18 00000004\n \n"
         },
         {
-            "title": "[D-Pad L - Fire Power Up]",
-            "content": "[D-Pad L - Fire Power Up]\n80001000\n04100000 9050309C 00000002\n20000000\n\n"
+            "title": "[Racoon Mario (Super Mario Bros 3)]",
+            "content": "[Racoon Mario (Super Mario Bros 3)]\n011F0000 90f4ec18 00000005\n \n"
         },
         {
-            "title": "[Always have Key]",
-            "content": "[Always have Key]\n04100000 9589E8C0 00000001\n\n"
+            "title": "[Bigger Mario (Super Mario Bros)]",
+            "content": "[Bigger Mario (Super Mario Bros)]\n011F0000 90f4ec18 00000006\n \n"
         },
         {
-            "title": "[Rapid Fire]",
-            "content": "[Rapid Fire]\n04100000 933053C8 00000000\n04100000 933053CC 00000000\n\n"
+            "title": "[Cat Mario (Super Mario 3D World)]",
+            "content": "[Cat Mario (Super Mario 3D World)]\n011F0000 90f4ec18 00000007\n \n"
         },
         {
-            "title": "[01# Moonjump all modes (press B)]",
-            "content": "[01# Moonjump all modes (press B)]\n80000002\n580F0000 02783818\n580F1000 00000028\n580F1000 000000A8\n580F1000 00000188\n780F0000 00000068\n640F0000 00000000 40200000\n20000000\n\n"
+            "title": "[Builder Mario (Super Mario 3D World)]",
+            "content": "[Builder Mario (Super Mario 3D World)]\n011F0000 90f4ec18 00000008\n \n"
         },
         {
-            "title": "[02# 999 coins all modes]",
-            "content": "[02# 999 coins all modes]\n580F0000 02602118\n580F1000 00000018\n580F1000 000000A8\n780F0000 0000004C\n640F0000 00000000 000003E7\n\n"
+            "title": "[Fire (Gray) Mario (Super Mario World)]",
+            "content": "[Fire (Gray) Mario (Super Mario World)]\n011F0000 90f4ec18 00000009\n \n"
         },
         {
-            "title": "[03# Big Mario(Press R)]",
-            "content": "[03# Big Mario(Press R)]\n80000080\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000001\n20000000\n\n"
+            "title": "[99 Coins]",
+            "content": "[99 Coins]\n041F0000 7881534c 00000063\n \n"
         },
         {
-            "title": "[04# Fireball Mario(Press L)]",
-            "content": "[04# Fireball Mario(Press L)]\n80000040\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000002\n20000000\n\n"
+            "title": "[Big Mario]",
+            "content": "[Big Mario]\n011F0000 93d4ec18 00000001\n \n"
         },
         {
-            "title": "[05# Helicopter Mario(Press ZR)(Super Mario Bros U)]",
-            "content": "[05# Helicopter Mario(Press ZR)(Super Mario Bros U)]\n80000200\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000003\n20000000\n\n"
+            "title": "[Fireball Mario]",
+            "content": "[Fireball Mario]\n011F0000 93d4ec18 00000002\n \n"
         },
         {
-            "title": "[06# Cape Mario(Press ZL)(Super Mario World)]",
-            "content": "[06# Cape Mario(Press ZL)(Super Mario World)]\n80000100\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000004\n20000000\n\n"
+            "title": "[Helicopter Mario (Super Mario Bros U)]",
+            "content": "[Helicopter Mario (Super Mario Bros U)]\n011F0000 93d4ec18 00000003\n \n"
         },
         {
-            "title": "[07# Racoon Mario(Press Down)(Super Mario Bros 3)]",
-            "content": "[07# Racoon Mario(Press Down)(Super Mario Bros 3)]\n80008000\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000005\n20000000\n\n"
+            "title": "[Cape Mario (Super Mario World)]",
+            "content": "[Cape Mario (Super Mario World)]\n011F0000 93d4ec18 00000004\n \n"
         },
         {
-            "title": "[08# Bigger Mario(Press Right)(Super Mario Bros)]",
-            "content": "[08# Bigger Mario(Press Right)(Super Mario Bros)]\n80004000\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000006\n20000000\n\n"
+            "title": "[Racoon Mario (Super Mario Bros 3)]",
+            "content": "[Racoon Mario (Super Mario Bros 3)]\n011F0000 93d4ec18 00000005\n \n"
         },
         {
-            "title": "[09# Cat Mario(Press Up)(Super Mario 3D World)]",
-            "content": "[09# Cat Mario(Press Up)(Super Mario 3D World)]\n80002000\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000007\n20000000\n\n"
+            "title": "[Bigger Mario (Super Mario Bros)]",
+            "content": "[Bigger Mario (Super Mario Bros)]\n011F0000 93d4ec18 00000006\n \n"
         },
         {
-            "title": "[10# Builder Mario(Press Left)(Super Mario 3D World)]",
-            "content": "[10# Builder Mario(Press Left)(Super Mario 3D World)]\n80001000\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000008\n20000000\n\n"
+            "title": "[Cat Mario (Super Mario 3D World)]",
+            "content": "[Cat Mario (Super Mario 3D World)]\n011F0000 93d4ec18 00000007\n \n"
         },
         {
-            "title": "[11# Fire Mario(press L)(Super Mario World)]",
-            "content": "[11# Fire Mario(press L)(Super Mario World)]\n80000010\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000009\n20000000\n\n"
+            "title": "[Builder Mario (Super Mario 3D World)]",
+            "content": "[Builder Mario (Super Mario 3D World)]\n011F0000 93d4ec18 00000008\n \n"
         },
         {
-            "title": "[12# Zelda mode(press R)]",
-            "content": "[12# Zelda mode(press R)]\n80000020\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 0000000A\n20000000\n\n"
+            "title": "[Fire (Gray) Mario (Super Mario World)]",
+            "content": "[Fire (Gray) Mario (Super Mario World)]\n011F0000 93d4ec18 00000009\n\n"
         },
         {
             "title": "[Moonjump (B)]",
@@ -231,108 +231,6 @@
             "content": "[99 Coins]\n041F0000 7971934C 00000063"
         }
     ],
-    "3EBB1EB2FFFB029A": [
-        {
-            "title": "[==STORY MODE==]",
-            "content": "[==STORY MODE==]\n"
-        },
-        {
-            "title": "[These will act strange if not in the right Mario game mode]",
-            "content": "[These will act strange if not in the right Mario game mode]\n \n"
-        },
-        {
-            "title": "[999 Coins]",
-            "content": "[999 Coins]\n041F0000 7881534c 000003E7\n \n"
-        },
-        {
-            "title": "[Big Mario]",
-            "content": "[Big Mario]\n011F0000 90f4ec18 00000001\n \n"
-        },
-        {
-            "title": "[Fireball Mario]",
-            "content": "[Fireball Mario]\n011F0000 90f4ec18 00000002\n \n"
-        },
-        {
-            "title": "[Helicopter Mario (Super Mario Bros U)]",
-            "content": "[Helicopter Mario (Super Mario Bros U)]\n011F0000 90f4ec18 00000003\n \n"
-        },
-        {
-            "title": "[Cape Mario (Super Mario World)]",
-            "content": "[Cape Mario (Super Mario World)]\n011F0000 90f4ec18 00000004\n \n"
-        },
-        {
-            "title": "[Racoon Mario (Super Mario Bros 3)]",
-            "content": "[Racoon Mario (Super Mario Bros 3)]\n011F0000 90f4ec18 00000005\n \n"
-        },
-        {
-            "title": "[Bigger Mario (Super Mario Bros)]",
-            "content": "[Bigger Mario (Super Mario Bros)]\n011F0000 90f4ec18 00000006\n \n"
-        },
-        {
-            "title": "[Cat Mario (Super Mario 3D World)]",
-            "content": "[Cat Mario (Super Mario 3D World)]\n011F0000 90f4ec18 00000007\n \n"
-        },
-        {
-            "title": "[Builder Mario (Super Mario 3D World)]",
-            "content": "[Builder Mario (Super Mario 3D World)]\n011F0000 90f4ec18 00000008\n \n"
-        },
-        {
-            "title": "[Fire (Gray) Mario (Super Mario World)]",
-            "content": "[Fire (Gray) Mario (Super Mario World)]\n011F0000 90f4ec18 00000009\n \n"
-        },
-        {
-            "title": "[==MAKER MODE==]",
-            "content": "[==MAKER MODE==]\n"
-        },
-        {
-            "title": "[99 Coins]",
-            "content": "[99 Coins]\n041F0000 7881534c 00000063\n \n"
-        },
-        {
-            "title": "[Big Mario]",
-            "content": "[Big Mario]\n011F0000 93d4ec18 00000001\n \n"
-        },
-        {
-            "title": "[Fireball Mario]",
-            "content": "[Fireball Mario]\n011F0000 93d4ec18 00000002\n \n"
-        },
-        {
-            "title": "[Helicopter Mario (Super Mario Bros U)]",
-            "content": "[Helicopter Mario (Super Mario Bros U)]\n011F0000 93d4ec18 00000003\n \n"
-        },
-        {
-            "title": "[Cape Mario (Super Mario World)]",
-            "content": "[Cape Mario (Super Mario World)]\n011F0000 93d4ec18 00000004\n \n"
-        },
-        {
-            "title": "[Racoon Mario (Super Mario Bros 3)]",
-            "content": "[Racoon Mario (Super Mario Bros 3)]\n011F0000 93d4ec18 00000005\n \n"
-        },
-        {
-            "title": "[Bigger Mario (Super Mario Bros)]",
-            "content": "[Bigger Mario (Super Mario Bros)]\n011F0000 93d4ec18 00000006\n \n"
-        },
-        {
-            "title": "[Cat Mario (Super Mario 3D World)]",
-            "content": "[Cat Mario (Super Mario 3D World)]\n011F0000 93d4ec18 00000007\n \n"
-        },
-        {
-            "title": "[Builder Mario (Super Mario 3D World)]",
-            "content": "[Builder Mario (Super Mario 3D World)]\n011F0000 93d4ec18 00000008\n \n"
-        },
-        {
-            "title": "[Fire (Gray) Mario (Super Mario World)]",
-            "content": "[Fire (Gray) Mario (Super Mario World)]\n011F0000 93d4ec18 00000009\n\n"
-        },
-        {
-            "title": "[Moonjump (B)]",
-            "content": "[Moonjump (B)]\n80000002\n04100000 92608E90 40800000\n20000000\n\n"
-        },
-        {
-            "title": "[Faster Moonjump (B)]",
-            "content": "[Faster Moonjump (B)]\n80000002\n04100000 92608E90 40C00000\n20000000"
-        }
-    ],
     "E7101FE3BB2C4BAC": [
         {
             "title": "[01# Moonjump all modes (press B)]",
@@ -477,6 +375,96 @@
         {
             "title": "[Power-Up Wheel (ZL + D-Pad)]",
             "content": "[Power-Up Wheel (ZL + D-Pad)]\n80001100\n04100000 926090F8 00000002\n04100000 9260FAE8 00000002\n20000000\n80002100\n11150000 92609EA8 00000000\n04100000 926090F8 00000006\n04100000 9260FAE8 00000006\n20000000\n11150000 92609EA8 00000001\n04100000 926090F8 00000005\n04100000 9260FAE8 00000005\n20000000\n11150000 92609EA8 00000002\n04100000 926090F8 00000004\n04100000 9260FAE8 00000004\n20000000\n11150000 92609EA8 00000003\n04100000 926090F8 00000003\n04100000 9260FAE8 00000003\n20000000\n11150000 92609EA8 00000004\n04100000 926090F8 00000007\n04100000 9260FAE8 00000007\n20000000\n20000000\n80004100\n11150000 92609EA8 00000000\n04100000 926090F8 0000000F\n04100000 9260FAE8 0000000F\n20000000\n11150000 92609EA8 00000001\n04100000 926090F8 0000000B\n04100000 9260FAE8 0000000B\n20000000\n11150000 92609EA8 00000002\n04100000 926090F8 0000000C\n04100000 9260FAE8 0000000C\n20000000\n11150000 92609EA8 00000003\n04100000 926090F8 0000000D\n04100000 9260FAE8 0000000D\n20000000\n11150000 92609EA8 00000004\n04100000 926090F8 0000000E\n04100000 9260FAE8 0000000E\n20000000\n20000000\n80008100\n11160000 92609EA8 00000004\n04100000 926090F8 00000001\n04100000 9260FAE8 00000001\n20000000\n11150000 92609EA8 00000004\n04100000 926090F8 00000008\n04100000 9260FAE8 00000008\n20000000\n20000000\n"
+        }
+    ],
+    "E74294B43F76EF2A": [
+        {
+            "title": "[Invincible - Always On]",
+            "content": "[Invincible - Always On]\n04100000 90505374 000000C8\n\n"
+        },
+        {
+            "title": "[Star Power Up - Always On]",
+            "content": "[Star Power Up - Always On]\n04100000 905053B0 0000020C\n\n"
+        },
+        {
+            "title": "[D-Pad D - Invincible (Temporary)]",
+            "content": "[D-Pad D - Invincible (Temporary)]\n80008000\n04100000 90505374 0000020C\n20000000\n\n"
+        },
+        {
+            "title": "[D-Pad R - Star Power Up (Timer)]",
+            "content": "[D-Pad R - Star Power Up (Timer)]\n80004000\n04100000 905053B0 000000FF\n20000000\n\n"
+        },
+        {
+            "title": "[D-Pad U - Mushroom Power Up]",
+            "content": "[D-Pad U - Mushroom Power Up]\n80002000\n04100000 9050309C 00000001\n20000000\n\n"
+        },
+        {
+            "title": "[D-Pad L - Fire Power Up]",
+            "content": "[D-Pad L - Fire Power Up]\n80001000\n04100000 9050309C 00000002\n20000000\n\n"
+        },
+        {
+            "title": "[Always have Key]",
+            "content": "[Always have Key]\n04100000 9589E8C0 00000001\n\n"
+        },
+        {
+            "title": "[Rapid Fire]",
+            "content": "[Rapid Fire]\n04100000 933053C8 00000000\n04100000 933053CC 00000000\n\n"
+        },
+        {
+            "title": "[01# Moonjump all modes (press B)]",
+            "content": "[01# Moonjump all modes (press B)]\n80000002\n580F0000 02783818\n580F1000 00000028\n580F1000 000000A8\n580F1000 00000188\n780F0000 00000068\n640F0000 00000000 40200000\n20000000\n\n"
+        },
+        {
+            "title": "[02# 999 coins all modes]",
+            "content": "[02# 999 coins all modes]\n580F0000 02602118\n580F1000 00000018\n580F1000 000000A8\n780F0000 0000004C\n640F0000 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[03# Big Mario(Press R)]",
+            "content": "[03# Big Mario(Press R)]\n80000080\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000001\n20000000\n\n"
+        },
+        {
+            "title": "[04# Fireball Mario(Press L)]",
+            "content": "[04# Fireball Mario(Press L)]\n80000040\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000002\n20000000\n\n"
+        },
+        {
+            "title": "[05# Helicopter Mario(Press ZR)(Super Mario Bros U)]",
+            "content": "[05# Helicopter Mario(Press ZR)(Super Mario Bros U)]\n80000200\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000003\n20000000\n\n"
+        },
+        {
+            "title": "[06# Cape Mario(Press ZL)(Super Mario World)]",
+            "content": "[06# Cape Mario(Press ZL)(Super Mario World)]\n80000100\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000004\n20000000\n\n"
+        },
+        {
+            "title": "[07# Racoon Mario(Press Down)(Super Mario Bros 3)]",
+            "content": "[07# Racoon Mario(Press Down)(Super Mario Bros 3)]\n80008000\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000005\n20000000\n\n"
+        },
+        {
+            "title": "[08# Bigger Mario(Press Right)(Super Mario Bros)]",
+            "content": "[08# Bigger Mario(Press Right)(Super Mario Bros)]\n80004000\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000006\n20000000\n\n"
+        },
+        {
+            "title": "[09# Cat Mario(Press Up)(Super Mario 3D World)]",
+            "content": "[09# Cat Mario(Press Up)(Super Mario 3D World)]\n80002000\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000007\n20000000\n\n"
+        },
+        {
+            "title": "[10# Builder Mario(Press Left)(Super Mario 3D World)]",
+            "content": "[10# Builder Mario(Press Left)(Super Mario 3D World)]\n80001000\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000008\n20000000\n\n"
+        },
+        {
+            "title": "[11# Fire Mario(press L)(Super Mario World)]",
+            "content": "[11# Fire Mario(press L)(Super Mario World)]\n80000010\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 00000009\n20000000\n\n"
+        },
+        {
+            "title": "[12# Zelda mode(press R)]",
+            "content": "[12# Zelda mode(press R)]\n80000020\n580F0000 02783818\n580F1000 00000028\n580F1000 00000068\n580F1000 00000048\n780F0000 000000B4\n610F0000 00000000 0000000A\n20000000\n\n"
+        },
+        {
+            "title": "[Moonjump (B)]",
+            "content": "[Moonjump (B)]\n80000002\n04100000 92608E90 40800000\n20000000\n\n"
+        },
+        {
+            "title": "[Faster Moonjump (B)]",
+            "content": "[Faster Moonjump (B)]\n80000002\n04100000 92608E90 40C00000\n20000000"
         }
     ]
 }

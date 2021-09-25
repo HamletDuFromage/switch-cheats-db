@@ -18,7 +18,11 @@
         },
         {
             "title": "[Invincible - off]",
-            "content": "[Invincible - off]\n040E0000 0179065C BD002108\n\n{Created by Eiffel2018}\n040E0000 0178E058 42C80000"
+            "content": "[Invincible - off]\n040E0000 0179065C BD002108\n\n"
+        },
+        {
+            "title": "{Created by Eiffel2018}",
+            "content": "{Created by Eiffel2018}\n040E0000 0178E058 42C80000"
         }
     ]
 }

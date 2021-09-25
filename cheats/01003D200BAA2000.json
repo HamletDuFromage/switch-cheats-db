@@ -1,9 +1,67 @@
 {
-    "9DDA1EFEEF70DE46": [
+    "3AB632DEE82D5944": [
         {
-            "title": "[Version 1.0.1]",
-            "content": "[Version 1.0.1]\n"
+            "title": "[HP is not reduced]",
+            "content": "[HP is not reduced]\n04000000 02949F00 B9403682\n04000000 02949F04 51001842\n04000000 02949F08 7100005F\n04000000 02949F0C 5400004A\n04000000 02949F10 2A0003E8\n04000000 02949F14 B9000A88\n04000000 02949F18 D65F03C0\n04000000 026CC394 9409F6DB\n\n"
         },
+        {
+            "title": "[HP is not reduced Close]",
+            "content": "[HP is not reduced Close]\n04000000 026CC394 B9000A88\n\n"
+        },
+        {
+            "title": "[PP is not reduced]",
+            "content": "[PP is not reduced]\n04000000 0262D394 1A80C008\n04000000 0262D428 1A80C008\n\n"
+        },
+        {
+            "title": "[Will not be hungry]",
+            "content": "[Will not be hungry]\n04000000 026CC750 1A80B008\n04000000 026CC7A8 1A80B008\n\n"
+        },
+        {
+            "title": "[Money is not reduced]",
+            "content": "[Money is not reduced]\n04000000 02949F20 7100027F\n04000000 02949F24 5400004A\n04000000 02949F28 52800013\n04000000 02949F2C 0B130001\n04000000 02949F30 D65F03C0\n04000000 0261ADFC 940CBC49\n\n"
+        },
+        {
+            "title": "[Warehouse items are not reduced]",
+            "content": "[Warehouse items are not reduced]\n04000000 0281D65C 6B1F02E1\n\n"
+        },
+        {
+            "title": "[PM Experience Max On]",
+            "content": "[PM Experience Max On]\n04000000 026CC990 12BFE000\n\n"
+        },
+        {
+            "title": "[PM Experience Max Close]",
+            "content": "[PM Experience Max Close]\n04000000 026CC990 B9401C00\n\n"
+        },
+        {
+            "title": "[Rescue team experience 4x]",
+            "content": "[Rescue team experience 4x]\n04000000 02949F40 52800091\n04000000 02949F44 1B117C21\n04000000 02949F48 2A0103F4\n04000000 02949F4C D65F03C0\n04000000 0281A804 9404BDCF\n\n"
+        },
+        {
+            "title": "[Rescue Team Experience 8x]",
+            "content": "[Rescue Team Experience 8x]\n04000000 02949F40 52800111\n04000000 02949F44 1B117C21\n04000000 02949F48 2A0103F4\n04000000 02949F4C D65F03C0\n04000000 0281A804 9404BDCF\n\n"
+        },
+        {
+            "title": "[Rescue Team Experience 16x]",
+            "content": "[Rescue Team Experience 16x]\n04000000 02949F40 52800211\n04000000 02949F44 1B117C21\n04000000 02949F48 2A0103F4\n04000000 02949F4C D65F03C0\n04000000 0281A804 9404BDCF\n\n"
+        },
+        {
+            "title": "[Pocket Bank Money Max]",
+            "content": "[Pocket Bank Money Max]\n04000000 0281D3BC 1A88B108\n\n"
+        },
+        {
+            "title": "[2x HP growth rate (when upgrading)]",
+            "content": "[2x HP growth rate (when upgrading)]\n04000000 026CC568 0B1406A8\n\n"
+        },
+        {
+            "title": "[4x HP growth rate (when upgrading)]",
+            "content": "[4x HP growth rate (when upgrading)]\n04000000 026CC568 0B140AA8\n\n"
+        },
+        {
+            "title": "[HP growth rate 8 times (when upgrading)\uff09]",
+            "content": "[HP growth rate 8 times (when upgrading)\uff09]\n04000000 026CC568 0B140EA8"
+        }
+    ],
+    "9DDA1EFEEF70DE46": [
         {
             "title": "[01# Max health Player]",
             "content": "[01# Max health Player]\n08000000 05562290 000001F4 000001F4\n\n"
@@ -199,68 +257,6 @@
         {
             "title": "[Rescue team experience 2 times]",
             "content": "[Rescue team experience 2 times]\n04000000 02949900 52800051\n04000000 02949904 1B117C21\n04000000 02949908 2A0103F4\n04000000 0294990C D65F03C0\n04000000 0281A254 9404BDAB"
-        }
-    ],
-    "3AB632DEE82D5944": [
-        {
-            "title": "[HP is not reduced]",
-            "content": "[HP is not reduced]\n04000000 02949F00 B9403682\n04000000 02949F04 51001842\n04000000 02949F08 7100005F\n04000000 02949F0C 5400004A\n04000000 02949F10 2A0003E8\n04000000 02949F14 B9000A88\n04000000 02949F18 D65F03C0\n04000000 026CC394 9409F6DB\n\n"
-        },
-        {
-            "title": "[HP is not reduced Close]",
-            "content": "[HP is not reduced Close]\n04000000 026CC394 B9000A88\n\n"
-        },
-        {
-            "title": "[PP is not reduced]",
-            "content": "[PP is not reduced]\n04000000 0262D394 1A80C008\n04000000 0262D428 1A80C008\n\n"
-        },
-        {
-            "title": "[Will not be hungry]",
-            "content": "[Will not be hungry]\n04000000 026CC750 1A80B008\n04000000 026CC7A8 1A80B008\n\n"
-        },
-        {
-            "title": "[Money is not reduced]",
-            "content": "[Money is not reduced]\n04000000 02949F20 7100027F\n04000000 02949F24 5400004A\n04000000 02949F28 52800013\n04000000 02949F2C 0B130001\n04000000 02949F30 D65F03C0\n04000000 0261ADFC 940CBC49\n\n"
-        },
-        {
-            "title": "[Warehouse items are not reduced]",
-            "content": "[Warehouse items are not reduced]\n04000000 0281D65C 6B1F02E1\n\n"
-        },
-        {
-            "title": "[PM Experience Max On]",
-            "content": "[PM Experience Max On]\n04000000 026CC990 12BFE000\n\n"
-        },
-        {
-            "title": "[PM Experience Max Close]",
-            "content": "[PM Experience Max Close]\n04000000 026CC990 B9401C00\n\n"
-        },
-        {
-            "title": "[Rescue team experience 4x]",
-            "content": "[Rescue team experience 4x]\n04000000 02949F40 52800091\n04000000 02949F44 1B117C21\n04000000 02949F48 2A0103F4\n04000000 02949F4C D65F03C0\n04000000 0281A804 9404BDCF\n\n"
-        },
-        {
-            "title": "[Rescue Team Experience 8x]",
-            "content": "[Rescue Team Experience 8x]\n04000000 02949F40 52800111\n04000000 02949F44 1B117C21\n04000000 02949F48 2A0103F4\n04000000 02949F4C D65F03C0\n04000000 0281A804 9404BDCF\n\n"
-        },
-        {
-            "title": "[Rescue Team Experience 16x]",
-            "content": "[Rescue Team Experience 16x]\n04000000 02949F40 52800211\n04000000 02949F44 1B117C21\n04000000 02949F48 2A0103F4\n04000000 02949F4C D65F03C0\n04000000 0281A804 9404BDCF\n\n"
-        },
-        {
-            "title": "[Pocket Bank Money Max]",
-            "content": "[Pocket Bank Money Max]\n04000000 0281D3BC 1A88B108\n\n"
-        },
-        {
-            "title": "[2x HP growth rate (when upgrading)]",
-            "content": "[2x HP growth rate (when upgrading)]\n04000000 026CC568 0B1406A8\n\n"
-        },
-        {
-            "title": "[4x HP growth rate (when upgrading)]",
-            "content": "[4x HP growth rate (when upgrading)]\n04000000 026CC568 0B140AA8\n\n"
-        },
-        {
-            "title": "[HP growth rate 8 times (when upgrading)\uff09]",
-            "content": "[HP growth rate 8 times (when upgrading)\uff09]\n04000000 026CC568 0B140EA8"
         }
     ]
 }

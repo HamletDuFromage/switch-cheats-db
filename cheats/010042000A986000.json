@@ -1,228 +1,4 @@
 {
-    "687753C332CFFF53": [
-        {
-            "title": "[01# Moon Jump (Press B)]",
-            "content": "[01# Moon Jump (Press B)]\n80000002\n580F0000 013800D8\n580F1000 00000058\n580F1000 00000190\n580F1000 00000138\n780F0000 0000010C\n640F0000 00000000 3E800000\n20000000\n\n"
-        },
-        {
-            "title": "[#Mastercode#]",
-            "content": "[#Mastercode#]\n580F0000 013E1F88\n581F1000 00000060\n\n"
-        },
-        {
-            "title": "[02# Infinite HP]",
-            "content": "[02# Infinite HP]\n400E0000 00000000 000954C4\n620F01E0 00000000 000003E7\n\n"
-        },
-        {
-            "title": "[03# Max HP]",
-            "content": "[03# Max HP]\n400E0000 00000000 000954C6\n620F01E0 00000000 000003E7\n\n"
-        },
-        {
-            "title": "[04# Hunger Always 100%]",
-            "content": "[04# Hunger Always 100%]\n400E0000 00000000 000954CC\n620F01E0 00000000 00002710\n\n"
-        },
-        {
-            "title": "[05#Stamina Gauge 100%]",
-            "content": "[05#Stamina Gauge 100%]\n400E0000 00000000 000954D4\n640F01E0 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[Stamina Gauge 125%]",
-            "content": "[Stamina Gauge 125%]\n400E0000 00000000 000954D4\n640F01E0 00000000 42FA0000\n\n"
-        },
-        {
-            "title": "[Stamina Gauge 150%]",
-            "content": "[Stamina Gauge 150%]\n400E0000 00000000 000954D4\n640F01E0 00000000 43160000\n\n"
-        },
-        {
-            "title": "[Stamina Gauge 175%]",
-            "content": "[Stamina Gauge 175%]\n400E0000 00000000 000954D4\n640F01E0 00000000 432F0000\n\n"
-        },
-        {
-            "title": "[06# 0 Gratitude Points]",
-            "content": "[06# 0 Gratitude Points]\n400E0000 00000000 007E5744\n640F01E0 00000000 00000000\n\n"
-        },
-        {
-            "title": "[9999 Gratitude Points]",
-            "content": "[9999 Gratitude Points]\n400E0000 00000000 007E5744\n640F01E0 00000000 0000270F\n\n"
-        },
-        {
-            "title": "[99999 Gratitude Points]",
-            "content": "[99999 Gratitude Points]\n400E0000 00000000 007E5744\n640F01E0 00000000 0001869F\n\n"
-        },
-        {
-            "title": "[07# Itemslot 00 x99]",
-            "content": "[07# Itemslot 00 x99]\n400E0000 00000000 00B88122\n620F01E0 00000000 00000063\n\n"
-        },
-        {
-            "title": "[Itemslot 01 x99]",
-            "content": "[Itemslot 01 x99]\n400E0000 00000000 00B88126\n620F01E0 00000000 00000063\n\n"
-        },
-        {
-            "title": "[Itemslot 02 x01]",
-            "content": "[Itemslot 02 x01]\n400E0000 00000000 00B8812A\n620F01E0 00000000 00000001\n\n"
-        },
-        {
-            "title": "[08# Itemslot 00 - Life Seed]",
-            "content": "[08# Itemslot 00 - Life Seed]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000000D\n\n"
-        },
-        {
-            "title": "[Itemslot 00 - Storage Bay]",
-            "content": "[Itemslot 00 - Storage Bay]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000079\n\n"
-        },
-        {
-            "title": "[Itemslot 00 - Builder's Workbench (Lv5)]",
-            "content": "[Itemslot 00 - Builder's Workbench (Lv5)]\n400E0000 00000000 00B88120\n620F01E0 00000000 000003AF\n\n"
-        },
-        {
-            "title": "[Itemslot 00 - Erdrick's Sword]",
-            "content": "[Itemslot 00 - Erdrick's Sword]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000138\n\n"
-        },
-        {
-            "title": "[Itemslot 00 - Falcon Blade (3 Stars)]",
-            "content": "[Itemslot 00 - Falcon Blade (3 Stars)]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000080A\n\n"
-        },
-        {
-            "title": "[Itemslot 00 - War Hammer]",
-            "content": "[Itemslot 00 - War Hammer]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000013E\n\n"
-        },
-        {
-            "title": "[Itemslot 00 - Ultimallet]",
-            "content": "[Itemslot 00 - Ultimallet]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000140\n\n"
-        },
-        {
-            "title": "[Itemslot 00 - Wrecking Ball]",
-            "content": "[Itemslot 00 - Wrecking Ball]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000575\n\n"
-        },
-        {
-            "title": "[Itemslot 00 - Freshwater]",
-            "content": "[Itemslot 00 - Freshwater]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000316\n\n"
-        },
-        {
-            "title": "[Itemslot 00 - Thermalwater]",
-            "content": "[Itemslot 00 - Thermalwater]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000031A\n\n"
-        },
-        {
-            "title": "[Itemslot 00 - Lava]",
-            "content": "[Itemslot 00 - Lava]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000031B"
-        }
-    ],
-    "F311F4B1E6F32BE0": [
-        {
-            "title": "[Max Attack]",
-            "content": "[Max Attack]\n580E0000 013DC3F8\n581E1000 00000048\n780E0000 00001010\n620E0000 00000000 0000270F\n\n"
-        },
-        {
-            "title": "[Moon Jump (Press B)]",
-            "content": "[Moon Jump (Press B)]\n80000002\n580E0000 013DC3F8\n581E1000 00000070\n780E0000 0003601C\n640E0000 00000000 3E800000\n20000000\n\n"
-        },
-        {
-            "title": "[Mastercode]",
-            "content": "[Mastercode]\n580F0000 013DC3F8\n581F1000 00000060\n\n"
-        },
-        {
-            "title": "[Infinite HP]",
-            "content": "[Infinite HP]\n400E0000 00000000 000954C4\n620F01E0 00000000 000003E7\n"
-        },
-        {
-            "title": "[Max HP]",
-            "content": "[Max HP]\n400E0000 00000000 000954C6\n620F01E0 00000000 000003E7\n\n"
-        },
-        {
-            "title": "[Hunger Always 100%]",
-            "content": "[Hunger Always 100%]\n400E0000 00000000 000954CC\n620F01E0 00000000 00002710\n\n"
-        },
-        {
-            "title": "[Stamina Gauge 100%]",
-            "content": "[Stamina Gauge 100%]\n400E0000 00000000 000954D4\n640F01E0 00000000 42C80000\n"
-        },
-        {
-            "title": "[Stamina Gauge 125%]",
-            "content": "[Stamina Gauge 125%]\n400E0000 00000000 000954D4\n640F01E0 00000000 42FA0000\n"
-        },
-        {
-            "title": "[Stamina Gauge 150%]",
-            "content": "[Stamina Gauge 150%]\n400E0000 00000000 000954D4\n640F01E0 00000000 43160000\n"
-        },
-        {
-            "title": "[Stamina Gauge 175%]",
-            "content": "[Stamina Gauge 175%]\n400E0000 00000000 000954D4\n640F01E0 00000000 432F0000\n\n"
-        },
-        {
-            "title": "[0 Gratitude Points]",
-            "content": "[0 Gratitude Points]\n400E0000 00000000 007E5744\n640F01E0 00000000 00000000\n"
-        },
-        {
-            "title": "[9999 Gratitude Points]",
-            "content": "[9999 Gratitude Points]\n400E0000 00000000 007E5744\n640F01E0 00000000 0000270F\n"
-        },
-        {
-            "title": "[99999 Gratitude Points]",
-            "content": "[99999 Gratitude Points]\n400E0000 00000000 007E5744\n640F01E0 00000000 0001869F\n\n"
-        },
-        {
-            "title": "[Itemslot 00 x999]",
-            "content": "[Itemslot 00 x999]\n400E0000 00000000 00B88122\n620F01E0 00000000 000003E7\n"
-        },
-        {
-            "title": "[Itemslot 01 x999]",
-            "content": "[Itemslot 01 x999]\n400E0000 00000000 00B88126\n620F01E0 00000000 000003E7\n"
-        },
-        {
-            "title": "[Itemslot 02 x999]",
-            "content": "[Itemslot 02 x999]\n400E0000 00000000 00B8812A\n620F01E0 00000000 000003E7\n\n"
-        },
-        {
-            "title": "[Itemslot 00 - Life Seed]",
-            "content": "[Itemslot 00 - Life Seed]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000000D\n"
-        },
-        {
-            "title": "[Itemslot 00 - Storage Bay]",
-            "content": "[Itemslot 00 - Storage Bay]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000079\n"
-        },
-        {
-            "title": "[Itemslot 00 - Builder's Workbench (Lv5)]",
-            "content": "[Itemslot 00 - Builder's Workbench (Lv5)]\n400E0000 00000000 00B88120\n620F01E0 00000000 000003AF\n"
-        },
-        {
-            "title": "[Itemslot 00 - Erdrick's Sword]",
-            "content": "[Itemslot 00 - Erdrick's Sword]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000138\n"
-        },
-        {
-            "title": "[Itemslot 00 - Falcon Blade (3 Stars)]",
-            "content": "[Itemslot 00 - Falcon Blade (3 Stars)]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000080A\n"
-        },
-        {
-            "title": "[Itemslot 00 - War Hammer]",
-            "content": "[Itemslot 00 - War Hammer]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000013E\n"
-        },
-        {
-            "title": "[Itemslot 00 - Ultimallet]",
-            "content": "[Itemslot 00 - Ultimallet]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000140\n"
-        },
-        {
-            "title": "[Itemslot 00 - Wrecking Ball]",
-            "content": "[Itemslot 00 - Wrecking Ball]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000575\n"
-        },
-        {
-            "title": "[Itemslot 00 - Freshwater]",
-            "content": "[Itemslot 00 - Freshwater]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000316\n"
-        },
-        {
-            "title": "[Itemslot 00 - Thermalwater]",
-            "content": "[Itemslot 00 - Thermalwater]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000031A\n"
-        },
-        {
-            "title": "[Itemslot 00 - Lava]",
-            "content": "[Itemslot 00 - Lava]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000031B\n\n"
-        },
-        {
-            "title": "[Max EXP]",
-            "content": "[Max EXP]\n400E0000 00000000 00095608\n620F01E0 00000000 0021CD2A\n\n"
-        },
-        {
-            "title": "[Max EXP]",
-            "content": "[Max EXP]\n580E0000 013DC3F8\n581E1000 00000060\n780E0000 00095608\n620E0000 00000000 0021CD2A"
-        }
-    ],
     "1A0B233DC70B7F6E": [
         {
             "title": "[Max Attack]",
@@ -333,11 +109,7 @@
             "content": "[Itemslot 00 - Lava]\n400E0000 00000000 00B87B20\n620F01E0 00000000 0000031B\n"
         }
     ],
-    "A6B07FF854883072": [
-        {
-            "title": "[Version 1.7.1A]",
-            "content": "[Version 1.7.1A]\n"
-        },
+    "687753C332CFFF53": [
         {
             "title": "[01# Moon Jump (Press B)]",
             "content": "[01# Moon Jump (Press B)]\n80000002\n580F0000 013800D8\n580F1000 00000058\n580F1000 00000190\n580F1000 00000138\n780F0000 0000010C\n640F0000 00000000 3E800000\n20000000\n\n"
@@ -503,6 +275,230 @@
         {
             "title": "[Debug Block - Lava]",
             "content": "[Debug Block - Lava]\n620A0000 00000000 0000031B"
+        }
+    ],
+    "F311F4B1E6F32BE0": [
+        {
+            "title": "[Max Attack]",
+            "content": "[Max Attack]\n580E0000 013DC3F8\n581E1000 00000048\n780E0000 00001010\n620E0000 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[Moon Jump (Press B)]",
+            "content": "[Moon Jump (Press B)]\n80000002\n580E0000 013DC3F8\n581E1000 00000070\n780E0000 0003601C\n640E0000 00000000 3E800000\n20000000\n\n"
+        },
+        {
+            "title": "[Mastercode]",
+            "content": "[Mastercode]\n580F0000 013DC3F8\n581F1000 00000060\n\n"
+        },
+        {
+            "title": "[Infinite HP]",
+            "content": "[Infinite HP]\n400E0000 00000000 000954C4\n620F01E0 00000000 000003E7\n"
+        },
+        {
+            "title": "[Max HP]",
+            "content": "[Max HP]\n400E0000 00000000 000954C6\n620F01E0 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Hunger Always 100%]",
+            "content": "[Hunger Always 100%]\n400E0000 00000000 000954CC\n620F01E0 00000000 00002710\n\n"
+        },
+        {
+            "title": "[Stamina Gauge 100%]",
+            "content": "[Stamina Gauge 100%]\n400E0000 00000000 000954D4\n640F01E0 00000000 42C80000\n"
+        },
+        {
+            "title": "[Stamina Gauge 125%]",
+            "content": "[Stamina Gauge 125%]\n400E0000 00000000 000954D4\n640F01E0 00000000 42FA0000\n"
+        },
+        {
+            "title": "[Stamina Gauge 150%]",
+            "content": "[Stamina Gauge 150%]\n400E0000 00000000 000954D4\n640F01E0 00000000 43160000\n"
+        },
+        {
+            "title": "[Stamina Gauge 175%]",
+            "content": "[Stamina Gauge 175%]\n400E0000 00000000 000954D4\n640F01E0 00000000 432F0000\n\n"
+        },
+        {
+            "title": "[0 Gratitude Points]",
+            "content": "[0 Gratitude Points]\n400E0000 00000000 007E5744\n640F01E0 00000000 00000000\n"
+        },
+        {
+            "title": "[9999 Gratitude Points]",
+            "content": "[9999 Gratitude Points]\n400E0000 00000000 007E5744\n640F01E0 00000000 0000270F\n"
+        },
+        {
+            "title": "[99999 Gratitude Points]",
+            "content": "[99999 Gratitude Points]\n400E0000 00000000 007E5744\n640F01E0 00000000 0001869F\n\n"
+        },
+        {
+            "title": "[Itemslot 00 x999]",
+            "content": "[Itemslot 00 x999]\n400E0000 00000000 00B88122\n620F01E0 00000000 000003E7\n"
+        },
+        {
+            "title": "[Itemslot 01 x999]",
+            "content": "[Itemslot 01 x999]\n400E0000 00000000 00B88126\n620F01E0 00000000 000003E7\n"
+        },
+        {
+            "title": "[Itemslot 02 x999]",
+            "content": "[Itemslot 02 x999]\n400E0000 00000000 00B8812A\n620F01E0 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[Itemslot 00 - Life Seed]",
+            "content": "[Itemslot 00 - Life Seed]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000000D\n"
+        },
+        {
+            "title": "[Itemslot 00 - Storage Bay]",
+            "content": "[Itemslot 00 - Storage Bay]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000079\n"
+        },
+        {
+            "title": "[Itemslot 00 - Builder's Workbench (Lv5)]",
+            "content": "[Itemslot 00 - Builder's Workbench (Lv5)]\n400E0000 00000000 00B88120\n620F01E0 00000000 000003AF\n"
+        },
+        {
+            "title": "[Itemslot 00 - Erdrick's Sword]",
+            "content": "[Itemslot 00 - Erdrick's Sword]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000138\n"
+        },
+        {
+            "title": "[Itemslot 00 - Falcon Blade (3 Stars)]",
+            "content": "[Itemslot 00 - Falcon Blade (3 Stars)]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000080A\n"
+        },
+        {
+            "title": "[Itemslot 00 - War Hammer]",
+            "content": "[Itemslot 00 - War Hammer]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000013E\n"
+        },
+        {
+            "title": "[Itemslot 00 - Ultimallet]",
+            "content": "[Itemslot 00 - Ultimallet]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000140\n"
+        },
+        {
+            "title": "[Itemslot 00 - Wrecking Ball]",
+            "content": "[Itemslot 00 - Wrecking Ball]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000575\n"
+        },
+        {
+            "title": "[Itemslot 00 - Freshwater]",
+            "content": "[Itemslot 00 - Freshwater]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000316\n"
+        },
+        {
+            "title": "[Itemslot 00 - Thermalwater]",
+            "content": "[Itemslot 00 - Thermalwater]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000031A\n"
+        },
+        {
+            "title": "[Itemslot 00 - Lava]",
+            "content": "[Itemslot 00 - Lava]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000031B\n\n"
+        },
+        {
+            "title": "[Max EXP]",
+            "content": "[Max EXP]\n400E0000 00000000 00095608\n620F01E0 00000000 0021CD2A\n\n"
+        },
+        {
+            "title": "[Max EXP]",
+            "content": "[Max EXP]\n580E0000 013DC3F8\n581E1000 00000060\n780E0000 00095608\n620E0000 00000000 0021CD2A"
+        }
+    ],
+    "A6B07FF854883072": [
+        {
+            "title": "[01# Moon Jump (Press B)]",
+            "content": "[01# Moon Jump (Press B)]\n80000002\n580F0000 013800D8\n580F1000 00000058\n580F1000 00000190\n580F1000 00000138\n780F0000 0000010C\n640F0000 00000000 3E800000\n20000000\n\n"
+        },
+        {
+            "title": "[#Mastercode#]",
+            "content": "[#Mastercode#]\n580F0000 013E1F88\n581F1000 00000060\n\n"
+        },
+        {
+            "title": "[02# Infinite HP]",
+            "content": "[02# Infinite HP]\n400E0000 00000000 000954C4\n620F01E0 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[03# Max HP]",
+            "content": "[03# Max HP]\n400E0000 00000000 000954C6\n620F01E0 00000000 000003E7\n\n"
+        },
+        {
+            "title": "[04# Hunger Always 100%]",
+            "content": "[04# Hunger Always 100%]\n400E0000 00000000 000954CC\n620F01E0 00000000 00002710\n\n"
+        },
+        {
+            "title": "[05#Stamina Gauge 100%]",
+            "content": "[05#Stamina Gauge 100%]\n400E0000 00000000 000954D4\n640F01E0 00000000 42C80000\n\n"
+        },
+        {
+            "title": "[Stamina Gauge 125%]",
+            "content": "[Stamina Gauge 125%]\n400E0000 00000000 000954D4\n640F01E0 00000000 42FA0000\n\n"
+        },
+        {
+            "title": "[Stamina Gauge 150%]",
+            "content": "[Stamina Gauge 150%]\n400E0000 00000000 000954D4\n640F01E0 00000000 43160000\n\n"
+        },
+        {
+            "title": "[Stamina Gauge 175%]",
+            "content": "[Stamina Gauge 175%]\n400E0000 00000000 000954D4\n640F01E0 00000000 432F0000\n\n"
+        },
+        {
+            "title": "[06# 0 Gratitude Points]",
+            "content": "[06# 0 Gratitude Points]\n400E0000 00000000 007E5744\n640F01E0 00000000 00000000\n\n"
+        },
+        {
+            "title": "[9999 Gratitude Points]",
+            "content": "[9999 Gratitude Points]\n400E0000 00000000 007E5744\n640F01E0 00000000 0000270F\n\n"
+        },
+        {
+            "title": "[99999 Gratitude Points]",
+            "content": "[99999 Gratitude Points]\n400E0000 00000000 007E5744\n640F01E0 00000000 0001869F\n\n"
+        },
+        {
+            "title": "[07# Itemslot 00 x99]",
+            "content": "[07# Itemslot 00 x99]\n400E0000 00000000 00B88122\n620F01E0 00000000 00000063\n\n"
+        },
+        {
+            "title": "[Itemslot 01 x99]",
+            "content": "[Itemslot 01 x99]\n400E0000 00000000 00B88126\n620F01E0 00000000 00000063\n\n"
+        },
+        {
+            "title": "[Itemslot 02 x01]",
+            "content": "[Itemslot 02 x01]\n400E0000 00000000 00B8812A\n620F01E0 00000000 00000001\n\n"
+        },
+        {
+            "title": "[08# Itemslot 00 - Life Seed]",
+            "content": "[08# Itemslot 00 - Life Seed]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000000D\n\n"
+        },
+        {
+            "title": "[Itemslot 00 - Storage Bay]",
+            "content": "[Itemslot 00 - Storage Bay]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000079\n\n"
+        },
+        {
+            "title": "[Itemslot 00 - Builder's Workbench (Lv5)]",
+            "content": "[Itemslot 00 - Builder's Workbench (Lv5)]\n400E0000 00000000 00B88120\n620F01E0 00000000 000003AF\n\n"
+        },
+        {
+            "title": "[Itemslot 00 - Erdrick's Sword]",
+            "content": "[Itemslot 00 - Erdrick's Sword]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000138\n\n"
+        },
+        {
+            "title": "[Itemslot 00 - Falcon Blade (3 Stars)]",
+            "content": "[Itemslot 00 - Falcon Blade (3 Stars)]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000080A\n\n"
+        },
+        {
+            "title": "[Itemslot 00 - War Hammer]",
+            "content": "[Itemslot 00 - War Hammer]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000013E\n\n"
+        },
+        {
+            "title": "[Itemslot 00 - Ultimallet]",
+            "content": "[Itemslot 00 - Ultimallet]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000140\n\n"
+        },
+        {
+            "title": "[Itemslot 00 - Wrecking Ball]",
+            "content": "[Itemslot 00 - Wrecking Ball]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000575\n\n"
+        },
+        {
+            "title": "[Itemslot 00 - Freshwater]",
+            "content": "[Itemslot 00 - Freshwater]\n400E0000 00000000 00B88120\n620F01E0 00000000 00000316\n\n"
+        },
+        {
+            "title": "[Itemslot 00 - Thermalwater]",
+            "content": "[Itemslot 00 - Thermalwater]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000031A\n\n"
+        },
+        {
+            "title": "[Itemslot 00 - Lava]",
+            "content": "[Itemslot 00 - Lava]\n400E0000 00000000 00B88120\n620F01E0 00000000 0000031B"
         }
     ]
 }

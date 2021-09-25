@@ -1,6 +1,10 @@
 {
     "6100FC7C12FD8E47": [
         {
+            "title": "{Master Code by Eiffel}",
+            "content": "{Master Code by Eiffel}\n580E0000 07176500\n580E1000 000000A0\n580E1000 00000008\n580E1000 00000020\n\n"
+        },
+        {
             "title": "[9999 max health]",
             "content": "[9999 max health]\n80000008\n400F0000 00000000 000001B8\n640E01F0 00000000 461C3C00\n20000000\n\n"
         },

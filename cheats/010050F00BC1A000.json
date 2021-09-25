@@ -1,4 +1,10 @@
 {
+    "010050F00BC1A000": [
+        {
+            "title": "[Infinite Slot 1]",
+            "content": "[Infinite Slot 1]\n580F0000 015A4FA8\n780F0000 00000090\n640F0000 00000000 000003E7\n580F0000 015A4FA8\n780F0000 00000048\n640F0000 00000000 000003E7\n\n"
+        }
+    ],
     "6BEC9B23B09DF46C": [
         {
             "title": "[Walk Through Walls (ON:- and Y, OFF:- and B)]",
@@ -33,26 +39,12 @@
             "content": "[o Play As Jill (Chris Scenario)]\n80000110 011F0000 1E7A51B8 00000001\n041F0000 1E7A51C7 00000000\n20000000\n"
         },
         {
-            "title": "[    |NOTE: Press ZL & L3]",
-            "content": "[    |NOTE: Press ZL & L3]\n\n"
-        },
-        {
             "title": "[o Play As Chris (Jills Scenario)]",
             "content": "[o Play As Chris (Jills Scenario)]\n80000120 011F0000 1E7A51B8 00000000\n041F0000 1E7A51C7 01010101\n20000000\n"
         },
         {
-            "title": "[    |NOTE: Press ZL & R3]",
-            "content": "[    |NOTE: Press ZL & R3]\n\n"
-        },
-        {
             "title": "[Infinite Ammo]",
             "content": "[Infinite Ammo]\n80000081\n58000000 01EC7A98\n58001000 00000378\n58001000 00000110\n78000000 000011A4\n64000000 00000000 000003e7\n20000000\n80000201\n58000000 01EC7A98\n58001000 00000378\n58001000 00000110\n78000000 000011A4\n64000000 00000000 000003e7\n20000000"
-        }
-    ],
-    "010050F00BC1A000": [
-        {
-            "title": "[Infinite Slot 1]",
-            "content": "[Infinite Slot 1]\n580F0000 015A4FA8\n780F0000 00000090\n640F0000 00000000 000003E7\n580F0000 015A4FA8\n780F0000 00000048\n640F0000 00000000 000003E7\n\n"
         }
     ]
 }

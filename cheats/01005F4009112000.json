@@ -1,27 +1,5 @@
 {
-    "023D9CE57D7FF64B": [
-        {
-            "title": "[From MAX-CHEATS.com by optantic for Nightmare Boy 1.0.3]",
-            "content": "[From MAX-CHEATS.com by optantic for Nightmare Boy 1.0.3]\n\n"
-        },
-        {
-            "title": "[Infinite HP]",
-            "content": "[Infinite HP]\n01100000 01e6adfc 00000005\n01100000 01e6aea8 0000000a\n\n"
-        },
-        {
-            "title": "[Infinite MP]",
-            "content": "[Infinite MP]\n01100000 01e6adf4 0000000a\n\n"
-        },
-        {
-            "title": "[Gems 99999]",
-            "content": "[Gems 99999]\n04100000 01e6adf0 0001869f\n\nAlso could you change the previous submitted title\nNightmare Boy EUR 1.0.0\nto Nightmare Boy xci 1.0.2"
-        }
-    ],
     "BE7051CB9022834A": [
-        {
-            "title": "[From MAX-CHEATS.com by optantic for Nightmare Boy EUR 1.0.0]",
-            "content": "[From MAX-CHEATS.com by optantic for Nightmare Boy EUR 1.0.0]\n\n"
-        },
         {
             "title": "[Infinite HP]",
             "content": "[Infinite HP]\n01100000 01e6adfc 0000000a\n01100000 01e6aea8 0000000a\n\n"
@@ -33,6 +11,20 @@
         {
             "title": "[Gems 999999]",
             "content": "[Gems 999999]\n04100000 01e6adf0 000f423f"
+        }
+    ],
+    "023D9CE57D7FF64B": [
+        {
+            "title": "[Infinite HP]",
+            "content": "[Infinite HP]\n01100000 01e6adfc 00000005\n01100000 01e6aea8 0000000a\n\n"
+        },
+        {
+            "title": "[Infinite MP]",
+            "content": "[Infinite MP]\n01100000 01e6adf4 0000000a\n\n"
+        },
+        {
+            "title": "[Gems 99999]",
+            "content": "[Gems 99999]\n04100000 01e6adf0 0001869f\n\nAlso could you change the previous submitted title\nNightmare Boy EUR 1.0.0\nto Nightmare Boy xci 1.0.2"
         }
     ]
 }

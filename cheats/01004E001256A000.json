@@ -17,16 +17,8 @@
             "content": "[Max Stamina 1000]\n580F0000 07385F98\n580F1000 000000B8\n580F1000 00000000\n780F0000 000000EC\n640F0000 00000000 00002710\n\n"
         },
         {
-            "title": "[I think you need 70 to level up from level 1, the exp used is subtracted away]",
-            "content": "[I think you need 70 to level up from level 1, the exp used is subtracted away]\n\n"
-        },
-        {
             "title": "[R set XP to 100]",
             "content": "[R set XP to 100]\n80000080\n580F0000 07385F98\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000108\n640F0000 00000000 00000064\n20000000\n\n"
-        },
-        {
-            "title": "[Make more to suit your need, level up one at a time to see what reward you get for leveling up]",
-            "content": "[Make more to suit your need, level up one at a time to see what reward you get for leveling up]\n\n"
         },
         {
             "title": "[R set XP to 200]",

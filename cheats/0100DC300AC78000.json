@@ -1,10 +1,6 @@
 {
     "EABD92AD1CDC0E43": [
         {
-            "title": "[From MAX-CHEATS.com by optantic for The Messenger 1.0.3]",
-            "content": "[From MAX-CHEATS.com by optantic for The Messenger 1.0.3]\n\n"
-        },
-        {
             "title": "[Infinite HP]",
             "content": "[Infinite HP]\n581f0000 95359ed8\n781f0000 000002b8\n610f0000 00000000 0000000a\n\n"
         },
@@ -19,50 +15,6 @@
         {
             "title": "[R button Moonjump]",
             "content": "[R button Moonjump]\n80000080\n581f0000 95359ed8\n781f0000 000002cc\n640f0000 00000000 41800000\n20000000"
-        }
-    ],
-    "EDE81745C5421D45": [
-        {
-            "title": "[From MAX-CHEATS.com by optantic for The Messenger 1.0.0]",
-            "content": "[From MAX-CHEATS.com by optantic for The Messenger 1.0.0]\n\n"
-        },
-        {
-            "title": "[Infinite HP]",
-            "content": "[Infinite HP]\n581f0000 95125708\n781f0000 000002a0\n610f0000 00000000 0000000a\n\n"
-        },
-        {
-            "title": "[Infinite Shurikens]",
-            "content": "[Infinite Shurikens]\n04100000 9512571C 00000009\n\n"
-        },
-        {
-            "title": "[Money 99999]",
-            "content": "[Money 99999]\n581f0000 95132DC8\n581f1000 00000020\n581f1000 00000028\n781f0000 00000020\n640f0000 00000000 0001869f\n\n"
-        },
-        {
-            "title": "[R button Moonjump]",
-            "content": "[R button Moonjump]\n80000080\n581f0000 95125708\n781f0000 000002b4\n640f0000 00000000 41800000\n20000000"
-        }
-    ],
-    "D8E60563C302AA41": [
-        {
-            "title": "[From MAX-CHEATS.com by optantic for The Messenger 1.0.4]",
-            "content": "[From MAX-CHEATS.com by optantic for The Messenger 1.0.4]\n\n"
-        },
-        {
-            "title": "[Infinite HP]",
-            "content": "[Infinite HP]\n581f0000 9534bed8\n781f0000 000002b8\n610f0000 00000000 0000000a\n\n"
-        },
-        {
-            "title": "[Infinite Shurikens]",
-            "content": "[Infinite Shurikens]\n04100000 9534beec 00000009\n\n"
-        },
-        {
-            "title": "[Money 99999]",
-            "content": "[Money 99999]\n581f0000 01cbfe58\n581f1000 00000020\n581f1000 00000028\n781f0000 00000020\n640f0000 00000000 0001869f\n\n"
-        },
-        {
-            "title": "[R button Moonjump]",
-            "content": "[R button Moonjump]\n80000080\n581f0000 9534bed8\n781f0000 000002cc\n640f0000 00000000 41800000\n20000000"
         }
     ],
     "FB6206B43C698A4B": [
@@ -91,11 +43,25 @@
             "content": "[*Moon Jump Jericoss]\n80000002\n580F0000 03594350\n580F1000 000000A0\n580F1000 00000288\n580F1000 00000028\n780F0000 000002E4\n640F0000 00000000 41311997\n20000000"
         }
     ],
-    "2A979C3FDF717642": [
+    "EDE81745C5421D45": [
         {
-            "title": "[From MAX-CHEATS.com by optantic for The Messenger 1.0.2]",
-            "content": "[From MAX-CHEATS.com by optantic for The Messenger 1.0.2]\n\n"
+            "title": "[Infinite HP]",
+            "content": "[Infinite HP]\n581f0000 95125708\n781f0000 000002a0\n610f0000 00000000 0000000a\n\n"
         },
+        {
+            "title": "[Infinite Shurikens]",
+            "content": "[Infinite Shurikens]\n04100000 9512571C 00000009\n\n"
+        },
+        {
+            "title": "[Money 99999]",
+            "content": "[Money 99999]\n581f0000 95132DC8\n581f1000 00000020\n581f1000 00000028\n781f0000 00000020\n640f0000 00000000 0001869f\n\n"
+        },
+        {
+            "title": "[R button Moonjump]",
+            "content": "[R button Moonjump]\n80000080\n581f0000 95125708\n781f0000 000002b4\n640f0000 00000000 41800000\n20000000"
+        }
+    ],
+    "2A979C3FDF717642": [
         {
             "title": "[Infinite HP]",
             "content": "[Infinite HP]\n581f0000 940cb708\n781f0000 000002a0\n610f0000 00000000 0000000a\n\n"
@@ -111,6 +77,24 @@
         {
             "title": "[R button Moonjump]",
             "content": "[R button Moonjump]\n80000080\n581f0000 940cb708\n781f0000 000002b4\n640f0000 00000000 41800000\n20000000"
+        }
+    ],
+    "D8E60563C302AA41": [
+        {
+            "title": "[Infinite HP]",
+            "content": "[Infinite HP]\n581f0000 9534bed8\n781f0000 000002b8\n610f0000 00000000 0000000a\n\n"
+        },
+        {
+            "title": "[Infinite Shurikens]",
+            "content": "[Infinite Shurikens]\n04100000 9534beec 00000009\n\n"
+        },
+        {
+            "title": "[Money 99999]",
+            "content": "[Money 99999]\n581f0000 01cbfe58\n581f1000 00000020\n581f1000 00000028\n781f0000 00000020\n640f0000 00000000 0001869f\n\n"
+        },
+        {
+            "title": "[R button Moonjump]",
+            "content": "[R button Moonjump]\n80000080\n581f0000 9534bed8\n781f0000 000002cc\n640f0000 00000000 41800000\n20000000"
         }
     ]
 }

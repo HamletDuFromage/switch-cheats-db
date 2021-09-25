@@ -1,10 +1,6 @@
 {
     "577EFDFDBB7545CF": [
         {
-            "title": "[*Naruto 1*]",
-            "content": "[*Naruto 1*]\n"
-        },
-        {
             "title": "[01# Inf Jump]",
             "content": "[01# Inf Jump]\n80000002\n580F0000 03259F88\n580F1000 00000030\n780F0000 0000015C\n640F0000 00000000 42000000\n20000000\n"
         },
@@ -31,10 +27,6 @@
         {
             "title": "[07# P1 Full left bar]",
             "content": "[07# P1 Full left bar]\n580F0000 03259F88\n580F1000 00000030\n580F1000 00000260\n580F1000 00000010\n780F0000 0000155C\n640F0000 00000000 43960000\n"
-        },
-        {
-            "title": "[*Naruto 2*]",
-            "content": "[*Naruto 2*]\n"
         },
         {
             "title": "[01# Inf Jump]",
@@ -71,10 +63,6 @@
         {
             "title": "[08# Inf Time]",
             "content": "[08# Inf Time]\n580F0000 032A6488\n780F0000 000001B8\n640F0000 00000000 00001734\n"
-        },
-        {
-            "title": "[*Naruto 3*]",
-            "content": "[*Naruto 3*]\n"
         },
         {
             "title": "[01# 999999 money]",

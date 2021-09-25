@@ -1,19 +1,5 @@
 {
-    "44AE9FD12897C702": [
-        {
-            "title": "[Invincible on]",
-            "content": "[Invincible on]\n04000000 004F4574 D65F03C0\n"
-        },
-        {
-            "title": "[Invincible Off]",
-            "content": "[Invincible Off]\n04000000 004F4574 D10203FF"
-        }
-    ],
     "7253A3BBE715D092": [
-        {
-            "title": "[From MAX-CHEATS.com by BlackDeath for Yoshis Crafted World]",
-            "content": "[From MAX-CHEATS.com by BlackDeath for Yoshis Crafted World]\n\n"
-        },
         {
             "title": "[finish Level with 999 coins - on]",
             "content": "[finish Level with 999 coins - on]\n04000000 001DF980 52807CE8\n\n"
@@ -29,6 +15,16 @@
         {
             "title": "[Invincible Off]",
             "content": "[Invincible Off]\n040F0000 004F4574 D10203FF"
+        }
+    ],
+    "44AE9FD12897C702": [
+        {
+            "title": "[Invincible on]",
+            "content": "[Invincible on]\n04000000 004F4574 D65F03C0\n"
+        },
+        {
+            "title": "[Invincible Off]",
+            "content": "[Invincible Off]\n04000000 004F4574 D10203FF"
         }
     ]
 }

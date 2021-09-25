@@ -1,10 +1,6 @@
 {
     "E1D8B399B787AE41": [
         {
-            "title": "[FINAL FANTASY CRYSTAL CHRONICLES Remastered Edition v196608 by Eiffel]",
-            "content": "[FINAL FANTASY CRYSTAL CHRONICLES Remastered Edition v196608 by Eiffel]\n\n"
-        },
-        {
             "title": "[01# MAX HP - on]",
             "content": "[01# MAX HP - on]\n080E0000 03084F10 79003401 D2800201\n080E0000 03084F18 D65F03C0 AA0103E0\n040E0000 01AE7234 94567737\n040E0000 01AE71F4 94567747\n"
         },
@@ -116,7 +112,11 @@
         },
         {
             "title": "[All Items x99 activate and off patjenova]",
-            "content": "[All Items x99 activate and off patjenova]\n300E0000 000003E0\n02010000 055C44E0 00000001\n78010000 00000002\n310E0000\n\n{Final Fantasy Crystal Chronicles v1.0.1}\n580F0000 0562d418\n\n"
+            "content": "[All Items x99 activate and off patjenova]\n300E0000 000003E0\n02010000 055C44E0 00000001\n78010000 00000002\n310E0000\n\n"
+        },
+        {
+            "title": "{Final Fantasy Crystal Chronicles v1.0.1}",
+            "content": "{Final Fantasy Crystal Chronicles v1.0.1}\n580F0000 0562d418\n\n"
         },
         {
             "title": "[Health at 8 hearts]",
@@ -135,11 +135,11 @@
             "content": "[Unlock all Hearts(artifacts)]\n400C0000 00000000 00000954\n680C01F0 01B101B0 01AF01AE\n\n"
         },
         {
-            "title": "[Unlock all INT(artifacts)]",
+            "title": "[Unlock all INT(artifacts)] ---\"Magic\" for my version",
             "content": "[Unlock all INT(artifacts)] ---\"Magic\" for my version\n400C0000 00000000 000008DC\n680C11F0 01750174 01730172\n680C11F0 01790178 01770176\n680C11F0 017D017C 017B017A\n680C11F0 01810180 017F017E\n680C11F0 01850184 01830182\n640C11F0 00000000 01870186\n620C01F0 00000000 00000188\n\n"
         },
         {
-            "title": "[Unlock all VIT(artifacts)]",
+            "title": "[Unlock all VIT(artifacts)]---\"Defense\"",
             "content": "[Unlock all VIT(artifacts)]---\"Defense\"\n400C0000 00000000 00000918\n680C11F0 01930192 01910190\n680C11F0 01970196 01950194\n680C11F0 019B019A 01990198\n680C01F0 019F019E 019D019C\n\n\n"
         }
     ]
