@@ -7,7 +7,6 @@ import re
 import subprocess
 import json
 
-#find contents -depth -exec rename 's/(.*)\/([^\/]*)/$1\/\U$2/' {} \;
 
 class ProcessCheats:
     def __init__(self, in_path, out_path):
@@ -27,7 +26,6 @@ class ProcessCheats:
         except FileNotFoundError:
             print(f"error: FileNotFoundError in {tid}")
             pass
-        #print(json.dumps(out))
         return out
 
     def constructBidDict(self, tid, sheet):
@@ -39,41 +37,52 @@ class ProcessCheats:
                 lines = cheatSheet.readlines()
 
             for i in range(len(lines)):
-                title = re.search("(\[.+\])", lines[i])
-                if title:
+                titles = re.search("(\[.+\]|\{.+\})", lines[i])
+                if titles:
                     pos.append(i)
-                    out.append({"title": title[0]})
 
             for i in range(len(pos) - 1):
-                out[i]["content"] = "".join(lines[pos[i]:pos[i + 1]])
-            out[-1]["content"] = "".join(lines[pos[-1]:])
+                code = "".join(lines[pos[i]:pos[i + 1]])
+                if pos[i + 1] - pos[i] > 1 and re.search("[0-9a-fA-F]{8}", code):
+                    out.append({"title": lines[pos[i]].strip(),
+                                "content": code})
+            out.append({"title": lines[pos[-1]].strip(),
+                        "content": "".join(lines[pos[-1]:])})
         except IndexError:
             print(f"error: IndexError in {in_sheet}")
         return out
 
+    def checkForChanges(self, path, cheats_dict):
+        try:
+            with open(path, 'r') as read_file:
+                old = json.load(read_file)
+            if old != cheats_dict:
+                print(f"{path} changed")
+                return True
+        except FileNotFoundError:
+            print(f"File {path} doesn't exist, creating it")
+            return True
+        return False
+
     def createJson(self, tid):
         out_sheet = f"{self.out_path}/{tid.upper()}.json"
         out = self.constructCheatDict(tid)
-        change = False
-        if path.exists(out_sheet):
-            with open(out_sheet, 'r') as json_file:
-                old = json.load(json_file)
-            if old != out:
-                change = True
-        else:
-            change = True
-        if change:
+        if self.checkForChanges(out_sheet, out):
             with open(out_sheet, 'w') as json_file:
-                json.dump(out, json_file, indent = 4)
-            print(f"{out_sheet} has been modified")
+                json.dump(out, json_file, indent=4)
 
-    def parseCheats(self):        
+    def parseCheats(self):
         subprocess.call(['bash', '-c', f"chmod -R +rw {self.in_path}"])
-        subprocess.call(['bash', '-c', f"find {self.in_path} -depth -exec rename 's/(.*)\\/([^\\/]*)/$1\\/\\U$2/' {{}} \\;"])
-        #subprocess.call(['bash', '-c', f"find {self.in_path} -depth -exec perl-rename 's/(.*)\\/([^\\/]*)/$1\\/\\U$2/' {{}} \\;"])
+        subprocess.call(
+            ['bash', '-c', f"find {self.in_path} -depth -exec rename 's/(.*)\\/([^\\/]*)/$1\\/\\U$2/' {{}} \\;"])
+        # subprocess.call(['bash', '-c', f"find {self.in_path} -depth -exec perl-rename 's/(.*)\\/([^\\/]*)/$1\\/\\U$2/' {{}} \\;"])
         if not(Path(self.out_path).is_dir()):
             mkdir(self.out_path)
         tids = listdir(self.in_path)
         for tid in tids:
             if self.isHexAnd16Char(tid):
                 self.createJson(tid)
+
+
+if __name__ == '__main__':
+    ProcessCheats("contents", "cheats").parseCheats()

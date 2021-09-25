@@ -24,9 +24,9 @@ class UploadCheats:
 
     def downloadAndExtract(self):
         self.fetchUrl()
-        self.writeVersion()
-        self.downloadArchive()
-        self.extractArchive()
+        if self.writeVersion():
+            self.downloadArchive()
+            self.extractArchive()
 
     def fetchUrl(self):
         page = self.scraper.get(self.page_url)
