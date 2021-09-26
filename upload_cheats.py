@@ -32,7 +32,7 @@ class UploadCheats:
         page = self.scraper.get(self.page_url)
         soup = BeautifulSoup(page.content, "html.parser")
         self.dl_url = f"{self.page_url}download"
-        self.version = soup.find("span", {"class": "u-muted"}).getText()
+        self.version = soup.find("ol", {"class": "block-body"}).find("div").getText()
         print(f"version: {self.version}")
 
     def writeVersion(self):
