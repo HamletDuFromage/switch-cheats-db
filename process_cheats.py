@@ -16,24 +16,31 @@ class ProcessCheats:
     def isHexAnd16Char(self, file_name):
         return (len(file_name) == 16) and (all(c in hexdigits for c in file_name[0:15]))
 
+    def getCheatsPath(self, tid):
+        folder_path = f"{self.in_path}/{tid}"
+        folders = listdir(folder_path)
+        for folder in folders:
+            if folder.lower() == "cheats":
+                return f"{folder_path}/{folder}"
+        return ""
+
     def constructCheatDict(self, tid):
         out = {}
+        folder_path = self.getCheatsPath(tid)
         try:
-            cheatSheets = listdir(f"{self.in_path}/{tid}/CHEATS/")
+            cheatSheets = listdir(folder_path)
             for sheet in cheatSheets:
                 if self.isHexAnd16Char(sheet[:-4]):
-                    out[sheet[:-4]] = self.constructBidDict(tid, sheet)
+                    out[sheet[:-4].upper()] = self.constructBidDict(f"{folder_path}/{sheet}")
         except FileNotFoundError:
-            print(f"error: FileNotFoundError in {tid}")
-            pass
+            print(f"error: FileNotFoundError {folder_path}")
         return out
 
-    def constructBidDict(self, tid, sheet):
-        in_sheet = f"{self.in_path}/{tid}/CHEATS/{sheet}"
+    def constructBidDict(self, sheet_path):
         out = []
         pos = []
         try:
-            with open(in_sheet, 'r', encoding="utf-8", errors="ignore") as cheatSheet:
+            with open(sheet_path, 'r', encoding="utf-8", errors="ignore") as cheatSheet:
                 lines = cheatSheet.readlines()
 
             for i in range(len(lines)):
@@ -49,7 +56,7 @@ class ProcessCheats:
             out.append({"title": lines[pos[-1]].strip(),
                         "content": "".join(lines[pos[-1]:])})
         except IndexError:
-            print(f"error: IndexError in {in_sheet}")
+            print(f"error: IndexError in {sheet_path}")
         return out
 
     def checkForChanges(self, path, cheats_dict):
@@ -73,9 +80,6 @@ class ProcessCheats:
 
     def parseCheats(self):
         subprocess.call(['bash', '-c', f"chmod -R +rw {self.in_path}"])
-        subprocess.call(
-            ['bash', '-c', f"find {self.in_path} -depth -exec rename 's/(.*)\\/([^\\/]*)/$1\\/\\U$2/' {{}} \\;"])
-        # subprocess.call(['bash', '-c', f"find {self.in_path} -depth -exec perl-rename 's/(.*)\\/([^\\/]*)/$1\\/\\U$2/' {{}} \\;"])
         if not(Path(self.out_path).is_dir()):
             mkdir(self.out_path)
         tids = listdir(self.in_path)
