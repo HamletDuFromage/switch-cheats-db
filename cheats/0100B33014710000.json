@@ -1,0 +1,28 @@
+{
+    "3F0EF535A585FF64": [
+        {
+            "title": "[HITANYWHERE]",
+            "content": "[HITANYWHERE]\n04100000 AB056B28 16B90090\n04100000 AB056B48 BD4E2200\n\n"
+        },
+        {
+            "title": "[HITKILL]",
+            "content": "[HITKILL]\n04100000 AB056BA4 0000004A\n\n"
+        },
+        {
+            "title": "[1P INVINCIBLE]",
+            "content": "[1P INVINCIBLE]\n04100000 AB059250 C6060004\n\n"
+        },
+        {
+            "title": "[HITANYWHERE USA]",
+            "content": "[HITANYWHERE USA]\n04100000 0098454328 8829C046\n\n"
+        },
+        {
+            "title": "[HITANYWHERE EUR]",
+            "content": "[HITANYWHERE EUR]\n04100000 009845433C 8829C046\n\n"
+        },
+        {
+            "title": "[HITANYWHERE JPN]",
+            "content": "[HITANYWHERE JPN]\n04100000 0098452C40 8829C046"
+        }
+    ]
+}

@@ -2,7 +2,23 @@
     "E6784F640B1CDFF9": [
         {
             "title": "[Infinite Lives ignore icon display]",
-            "content": "[Infinite Lives ignore icon display]\n01000000 00b5aefd 00000001"
+            "content": "[Infinite Lives ignore icon display]\n01000000 00b5aefd 00000001\n\n"
+        },
+        {
+            "title": "[INF TIME L PAD ON]",
+            "content": "[INF TIME L PAD ON]\n80000040\n04000000 00765B80 D65F03C0\n20000000\n\n"
+        },
+        {
+            "title": "[INF TIME R PAD OFF]",
+            "content": "[INF TIME R PAD OFF]\n80000080\n04000000 00765B80 FC190FEA\n20000000\n\n"
+        },
+        {
+            "title": "[AUTO WIN]",
+            "content": "[AUTO WIN]\n04000000 0137FA00 D65F03C0\n\n"
+        },
+        {
+            "title": "[AUTO WIN OFF]",
+            "content": "[AUTO WIN OFF]\n04000000 0137FA00 D102C3FF\n\n"
         }
     ]
 }

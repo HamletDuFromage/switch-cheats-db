@@ -1,1 +1,12 @@
-{}
+{
+    "8E500D494507154C": [
+        {
+            "title": "[Inf HP]",
+            "content": "[Inf HP]\n04000000 0038F774 BD404A60\n\n"
+        },
+        {
+            "title": "[Stealth always low]",
+            "content": "[Stealth always low]\n04000000 0063879C D503201F"
+        }
+    ]
+}
