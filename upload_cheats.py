@@ -21,9 +21,9 @@ class UploadCheats:
         self.page_url = "https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/"
         self.dl_url = ""
         self.scraper = cloudscraper.create_scraper()
+        self.fetchUrl()
 
     def downloadAndExtract(self):
-        self.fetchUrl()
         if self.writeVersion():
             self.downloadArchive()
             self.extractArchive()
@@ -32,8 +32,16 @@ class UploadCheats:
         page = self.scraper.get(self.page_url)
         soup = BeautifulSoup(page.content, "html.parser")
         self.dl_url = f"{self.page_url}download"
-        self.version = soup.find("ol", {"class": "block-body"}).find("div").getText()
+        self.version = self.compareVersions(soup.find("ol", {"class": "block-body"}).find(
+            "div").getText(), soup.find("span", {"class": "u-muted"}).getText())
         print(f"version: {self.version}")
+
+    def compareVersions(self, date1, date2):
+        res = date1[4:7] >= date2[4:7] and date1[0:1] >= date2[0:1] and date1[2:3] >= date2[2:3]
+        if res:
+            return date1
+        else:
+            return date2
 
     def writeVersion(self):
         if self.old_version != self.version:
@@ -89,4 +97,4 @@ if __name__ == '__main__':
     uploader = UploadCheats(archive_path=args.archive,
                             old_version=args.old_version, new_version=args.new_version)
     uploader.downloadAndExtract()
-    #uploader.fetchUrl()
+    # uploader.fetchUrl()
