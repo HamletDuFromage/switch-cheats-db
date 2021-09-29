@@ -37,7 +37,7 @@ class UploadCheats:
         print(f"version: {self.version}")
 
     def compareVersions(self, date1, date2):
-        res = date1[4:7] >= date2[4:7] and date1[0:1] >= date2[0:1] and date1[2:3] >= date2[2:3]
+        res = date1[4:8] >= date2[4:8] and date1[0:2] >= date2[0:2] and date1[2:4] >= date2[2:4]
         if res:
             return date1
         else:
