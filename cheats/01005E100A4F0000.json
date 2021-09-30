@@ -1,4 +1,22 @@
 {
+    "49FD30A3B6B16544": [
+        {
+            "title": "[HP Max by jhmiller]",
+            "content": "[HP Max by jhmiller]\n581F0000 00AB3DA8 \n989EF000\n540E1000 00000000 \nA4E00410 00AB3DA4 \n\n"
+        },
+        {
+            "title": "[Stamina Max by jhmiller]",
+            "content": "[Stamina Max by jhmiller]\n581F0000 00AB3DB0 \n989EF000\n540E1000 00000000 \nA4E00410 00AB3DAC \n\n"
+        },
+        {
+            "title": "[Money by jhmiller]",
+            "content": "[Money by jhmiller]\n04100000 95BBB638 0000270F \n\n"
+        },
+        {
+            "title": "[Moonjump by jhmiller]",
+            "content": "[Moonjump by jhmiller]\n80000002 \n80008000 \n21000000 \n80080000 \n21000000 \n04100000 95BA22E8 41400000 \n20000000 \n20000000 \n"
+        }
+    ],
     "6D45A44E37D5BB4C": [
         {
             "title": "[Heart Energy]",
