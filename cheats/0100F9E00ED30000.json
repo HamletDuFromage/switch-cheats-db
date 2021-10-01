@@ -1,32 +1,32 @@
 {
     "C5C3A5DF6275B3CD": [
         {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000004\n580F0000 009ABE90\n780F0000 00000A9C\n640F0000 00000000 3F800000\n20000000\n\n"
+            "content": "[Moon Jump]\n80000004\n580F0000 009ABE90\n780F0000 00000A9C\n640F0000 00000000 3F800000\n20000000\n\n",
+            "title": "[Moon Jump]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n580F0000 009ABE90\n780F0000 00000B04\n640F0000 00000000 000000FF\n\n"
+            "content": "[Invincible]\n580F0000 009ABE90\n780F0000 00000B04\n640F0000 00000000 000000FF\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Inf HP]",
-            "content": "[Inf HP]\n580F0000 009ABE90\n780F0000 00000B50\n640F0000 00000000 42C80000\n\n"
+            "content": "[Inf HP]\n580F0000 009ABE90\n780F0000 00000B50\n640F0000 00000000 42C80000\n\n",
+            "title": "[Inf HP]"
         },
         {
-            "title": "[Inf SHIELD]",
-            "content": "[Inf SHIELD]\n580F0000 009ABE90\n780F0000 00000B58\n640F0000 00000000 42C80000\n\n"
+            "content": "[Inf SHIELD]\n580F0000 009ABE90\n780F0000 00000B58\n640F0000 00000000 42C80000\n\n",
+            "title": "[Inf SHIELD]"
         },
         {
-            "title": "[Inf WIDE]",
-            "content": "[Inf WIDE]\n580F0000 009ABE90\n780F0000 00000B78\n640F0000 00000000 42C80000\n\n"
+            "content": "[Inf WIDE]\n580F0000 009ABE90\n780F0000 00000B78\n640F0000 00000000 42C80000\n\n",
+            "title": "[Inf WIDE]"
         },
         {
-            "title": "[Inf NORMAL]",
-            "content": "[Inf NORMAL]\n580F0000 009ABE90\n780F0000 00000B7C\n640F0000 00000000 42C80000\n\n"
+            "content": "[Inf NORMAL]\n580F0000 009ABE90\n780F0000 00000B7C\n640F0000 00000000 42C80000\n\n",
+            "title": "[Inf NORMAL]"
         },
         {
-            "title": "[Inf POWER]",
-            "content": "[Inf POWER]\n580F0000 009ABE90\n780F0000 00000B80\n640F0000 00000000 42C80000"
+            "content": "[Inf POWER]\n580F0000 009ABE90\n780F0000 00000B80\n640F0000 00000000 42C80000",
+            "title": "[Inf POWER]"
         }
     ]
 }

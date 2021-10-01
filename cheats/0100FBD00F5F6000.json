@@ -1,12 +1,12 @@
 {
     "B999BD4C357F1BE3": [
         {
-            "title": "[1p invicible L pad on activate within the game]",
-            "content": "[1p invicible L pad on activate within the game]\n80000040\n04000000 01C3E010 D65F03C0\n20000000\n\n"
+            "content": "[1p invicible L pad on activate within the game]\n80000040\n04000000 01C3E010 D65F03C0\n20000000\n\n",
+            "title": "[1p invicible L pad on activate within the game]"
         },
         {
-            "title": "[1p invicible R pad off]",
-            "content": "[1p invicible R pad off]\n80000080\n04000000 01C3E010 D10343FF\n20000000"
+            "content": "[1p invicible R pad off]\n80000080\n04000000 01C3E010 D10343FF\n20000000",
+            "title": "[1p invicible R pad off]"
         }
     ]
 }

@@ -1,48 +1,48 @@
 {
     "F3845D78427CB893": [
         {
-            "title": "[Inf HP]",
-            "content": "[Inf HP]\n04100000 A0C270A0 000003E7\n\n"
+            "content": "[Inf HP]\n04100000 A0C270A0 000003E7\n\n",
+            "title": "[Inf HP]"
         },
         {
-            "title": "[Inf MP]",
-            "content": "[Inf MP]\n04100000 A0C270A4 000003E7\n\n"
+            "content": "[Inf MP]\n04100000 A0C270A4 000003E7\n\n",
+            "title": "[Inf MP]"
         },
         {
-            "title": "[Strength MAX]",
-            "content": "[Strength MAX]\n04100000 A0C270AC 000003E7\n\n"
+            "content": "[Strength MAX]\n04100000 A0C270AC 000003E7\n\n",
+            "title": "[Strength MAX]"
         },
         {
-            "title": "[Agility MAX]",
-            "content": "[Agility MAX]\n04100000 A0C270B0 000003E7\n\n"
+            "content": "[Agility MAX]\n04100000 A0C270B0 000003E7\n\n",
+            "title": "[Agility MAX]"
         },
         {
-            "title": "[Protection MAX]",
-            "content": "[Protection MAX]\n04100000 A0C270B4 000003E7\n\n"
+            "content": "[Protection MAX]\n04100000 A0C270B4 000003E7\n\n",
+            "title": "[Protection MAX]"
         },
         {
-            "title": "[Max. HP]",
-            "content": "[Max. HP]\n04100000 A0C270B8 000003E7\n\n"
+            "content": "[Max. HP]\n04100000 A0C270B8 000003E7\n\n",
+            "title": "[Max. HP]"
         },
         {
-            "title": "[Max. MP]",
-            "content": "[Max. MP]\n04100000 A0C270BC 000003E7\n\n"
+            "content": "[Max. MP]\n04100000 A0C270BC 000003E7\n\n",
+            "title": "[Max. MP]"
         },
         {
-            "title": "[Attack MAX]",
-            "content": "[Attack MAX]\n04100000 A0C270C0 000003E7\n\n"
+            "content": "[Attack MAX]\n04100000 A0C270C0 000003E7\n\n",
+            "title": "[Attack MAX]"
         },
         {
-            "title": "[Defence MAX]",
-            "content": "[Defence MAX]\n04100000 A0C270C4 000003E7\n\n"
+            "content": "[Defence MAX]\n04100000 A0C270C4 000003E7\n\n",
+            "title": "[Defence MAX]"
         },
         {
-            "title": "[Keys]",
-            "content": "[Keys]\n01100000 A0C270F8 00000006\n\n"
+            "content": "[Keys]\n01100000 A0C270F8 00000006\n\n",
+            "title": "[Keys]"
         },
         {
-            "title": "[Gold]",
-            "content": "[Gold]\n04100000 A0C27114 0001869F"
+            "content": "[Gold]\n04100000 A0C27114 0001869F",
+            "title": "[Gold]"
         }
     ]
 }

@@ -1,36 +1,36 @@
 {
     "5B6EAEADB201D745": [
         {
-            "title": "[-1 Damage recieved]",
-            "content": "[-1 Damage recieved]\n080E0000 021BEE00 36000054 394AA014\n080E0000 021BEE08 AA0103F4 B900183F\n080E0000 021BEE10 D503201F D65F03C0\n040E0000 01F444A8 9409EA56\n\n"
+            "content": "[-1 Damage recieved]\n080E0000 021BEE00 36000054 394AA014\n080E0000 021BEE08 AA0103F4 B900183F\n080E0000 021BEE10 D503201F D65F03C0\n040E0000 01F444A8 9409EA56\n\n",
+            "title": "[-1 Damage recieved]"
         },
         {
-            "title": "[Attack Up 500%]",
-            "content": "[Attack Up 500%]\n080E0000 021BEE18 37000093 394AA013\n080E0000 021BEE20 0B130A73 B9401A93\n080E0000 021BEE28 AA0003F3 B9001A93\n080E0000 021BEE30 D503201F D65F03C0\n040E0000 01F444AC 9409EA5B\n\n"
+            "content": "[Attack Up 500%]\n080E0000 021BEE18 37000093 394AA013\n080E0000 021BEE20 0B130A73 B9401A93\n080E0000 021BEE28 AA0003F3 B9001A93\n080E0000 021BEE30 D503201F D65F03C0\n040E0000 01F444AC 9409EA5B\n\n",
+            "title": "[Attack Up 500%]"
         },
         {
-            "title": "[Angel Invincible]",
-            "content": "[Angel Invincible]\n040E0000 01E1E9BC 2A1F03F4\n\n"
+            "content": "[Angel Invincible]\n040E0000 01E1E9BC 2A1F03F4\n\n",
+            "title": "[Angel Invincible]"
         },
         {
-            "title": "[Angel Zero SP Expend]",
-            "content": "[Angel Zero SP Expend]\n040E0000 01E1EF74 2A1F03F3\n\n"
+            "content": "[Angel Zero SP Expend]\n040E0000 01E1EF74 2A1F03F3\n\n",
+            "title": "[Angel Zero SP Expend]"
         },
         {
-            "title": "[Legendary Chronicle does not decrease]",
-            "content": "[Legendary Chronicle does not decrease]\n040E0000 01ECB9E0 2A1F03E1\n\n"
+            "content": "[Legendary Chronicle does not decrease]\n040E0000 01ECB9E0 2A1F03E1\n\n",
+            "title": "[Legendary Chronicle does not decrease]"
         },
         {
-            "title": "[No materials needed for Fort]",
-            "content": "[No materials needed for Fort]\n040E0000 0144ACD0 52800035\n\n"
+            "content": "[No materials needed for Fort]\n040E0000 0144ACD0 52800035\n\n",
+            "title": "[No materials needed for Fort]"
         },
         {
-            "title": "[Reduce Cool Time for Miracle]",
-            "content": "[Reduce Cool Time for Miracle]\n080E0000 021BEE40 D503201F 52A82014\n080E0000 021BEE48 D65F03C0 B9002114\n040E0000 01EAA428 940C5286\n\n"
+            "content": "[Reduce Cool Time for Miracle]\n080E0000 021BEE40 D503201F 52A82014\n080E0000 021BEE48 D65F03C0 B9002114\n040E0000 01EAA428 940C5286\n\n",
+            "title": "[Reduce Cool Time for Miracle]"
         },
         {
-            "title": "[Created by Eiffel2018]",
-            "content": "[Created by Eiffel2018]\n20000000"
+            "content": "[Created by Eiffel2018]\n20000000",
+            "title": "[Created by Eiffel2018]"
         }
     ]
 }

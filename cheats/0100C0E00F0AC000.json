@@ -1,16 +1,16 @@
 {
     "0D1C3B432523B045": [
         {
-            "title": "[Double Dragon 1 Infinite Health]",
-            "content": "[Double Dragon 1 Infinite Health]\n580F0000 05D50DF8\n580F1000 00000008\n780F0000 000003B4\n610F0000 00000000 00000040\n\n"
+            "content": "[Double Dragon 1 Infinite Health]\n580F0000 05D50DF8\n580F1000 00000008\n780F0000 000003B4\n610F0000 00000000 00000040\n\n",
+            "title": "[Double Dragon 1 Infinite Health]"
         },
         {
-            "title": "[Double Dragon 2 Infinite Health P1]",
-            "content": "[Double Dragon 2 Infinite Health P1]\n580F0000 05D4DC50\n580F1000 00000008\n780F0000 0000041C\n640F0000 00000000 007F0000\n\n"
+            "content": "[Double Dragon 2 Infinite Health P1]\n580F0000 05D4DC50\n580F1000 00000008\n780F0000 0000041C\n640F0000 00000000 007F0000\n\n",
+            "title": "[Double Dragon 2 Infinite Health P1]"
         },
         {
-            "title": "[Double Dragon 3 Infinite Health P1]",
-            "content": "[Double Dragon 3 Infinite Health P1]\n580F0000 05D4DC50\n580F1000 00000008\n780F0000 0000045C\n640F0000 00000000 00005400"
+            "content": "[Double Dragon 3 Infinite Health P1]\n580F0000 05D4DC50\n580F1000 00000008\n780F0000 0000045C\n640F0000 00000000 00005400",
+            "title": "[Double Dragon 3 Infinite Health P1]"
         }
     ]
 }

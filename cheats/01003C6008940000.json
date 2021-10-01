@@ -1,54 +1,54 @@
 {
-    "C6A4443809D9FA0A": [
-        {
-            "title": "[P1 Infinite Lives]",
-            "content": "[P1 Infinite Lives]\n01000000 012e808c 00000009\n\n"
-        },
-        {
-            "title": "[P1 Infinite Bombs]",
-            "content": "[P1 Infinite Bombs]\n01000000 012e8090 00000009\n\n"
-        },
-        {
-            "title": "[P1 Max Power]",
-            "content": "[P1 Max Power]\n01000000 012e8092 00000003\n\n"
-        },
-        {
-            "title": "[P2 Infinite Lives]",
-            "content": "[P2 Infinite Lives]\n01000000 012e810c 00000009\n\n"
-        },
-        {
-            "title": "[P2 Infinite Bombs]",
-            "content": "[P2 Infinite Bombs]\n01000000 012e8110 00000009\n\n"
-        },
-        {
-            "title": "[P2 Max Power]",
-            "content": "[P2 Max Power]\n01000000 012e8112 00000003"
-        }
-    ],
     "5783A91C341B29E4": [
         {
-            "title": "[P1 Infinite Lives]",
-            "content": "[P1 Infinite Lives]\n01000000 012e0098 00000009\n\n"
+            "content": "[P1 Infinite Lives]\n01000000 012e0098 00000009\n\n",
+            "title": "[P1 Infinite Lives]"
         },
         {
-            "title": "[P1 Infinite Bombs]",
-            "content": "[P1 Infinite Bombs]\n01000000 012e009c 00000009\n\n"
+            "content": "[P1 Infinite Bombs]\n01000000 012e009c 00000009\n\n",
+            "title": "[P1 Infinite Bombs]"
         },
         {
-            "title": "[P1 Max Power]",
-            "content": "[P1 Max Power]\n01000000 012e009a 00000003\n\n"
+            "content": "[P1 Max Power]\n01000000 012e009a 00000003\n\n",
+            "title": "[P1 Max Power]"
         },
         {
-            "title": "[P2 Infinite Lives]",
-            "content": "[P2 Infinite Lives]\n01000000 012e0118 00000009\n\n"
+            "content": "[P2 Infinite Lives]\n01000000 012e0118 00000009\n\n",
+            "title": "[P2 Infinite Lives]"
         },
         {
-            "title": "[P2 Infinite Bombs]",
-            "content": "[P2 Infinite Bombs]\n01000000 012e011c 00000009\n\n"
+            "content": "[P2 Infinite Bombs]\n01000000 012e011c 00000009\n\n",
+            "title": "[P2 Infinite Bombs]"
         },
         {
-            "title": "[P2 Max Power]",
-            "content": "[P2 Max Power]\n01000000 012e011e 00000003"
+            "content": "[P2 Max Power]\n01000000 012e011e 00000003",
+            "title": "[P2 Max Power]"
+        }
+    ],
+    "C6A4443809D9FA0A": [
+        {
+            "content": "[P1 Infinite Lives]\n01000000 012e808c 00000009\n\n",
+            "title": "[P1 Infinite Lives]"
+        },
+        {
+            "content": "[P1 Infinite Bombs]\n01000000 012e8090 00000009\n\n",
+            "title": "[P1 Infinite Bombs]"
+        },
+        {
+            "content": "[P1 Max Power]\n01000000 012e8092 00000003\n\n",
+            "title": "[P1 Max Power]"
+        },
+        {
+            "content": "[P2 Infinite Lives]\n01000000 012e810c 00000009\n\n",
+            "title": "[P2 Infinite Lives]"
+        },
+        {
+            "content": "[P2 Infinite Bombs]\n01000000 012e8110 00000009\n\n",
+            "title": "[P2 Infinite Bombs]"
+        },
+        {
+            "content": "[P2 Max Power]\n01000000 012e8112 00000003",
+            "title": "[P2 Max Power]"
         }
     ]
 }

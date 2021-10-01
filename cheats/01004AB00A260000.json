@@ -1,40 +1,40 @@
 {
     "DF3766A2BB651A3E": [
         {
-            "title": "[Inf HP]",
-            "content": "[Inf HP]\n04000000 011A1D00 52800108\n04000000 011A1D04 3909DC08\n04000000 011A1D08 F9400008\n04000000 011A1D0C D65F03C0\n04000000 011A1D10 100C2D2A\n04000000 003BE784 94378D5F\n\n"
+            "content": "[Inf HP]\n04000000 011A1D00 52800108\n04000000 011A1D04 3909DC08\n04000000 011A1D08 F9400008\n04000000 011A1D0C D65F03C0\n04000000 011A1D10 100C2D2A\n04000000 003BE784 94378D5F\n\n",
+            "title": "[Inf HP]"
         },
         {
-            "title": "[Human 99]",
-            "content": "[Human 99]\n04000000 004C095C 52800C69\n04000000 004C0960 B9002BE9\n04000000 004C0968 B8084D09\n\n"
+            "content": "[Human 99]\n04000000 004C095C 52800C69\n04000000 004C0960 B9002BE9\n04000000 004C0968 B8084D09\n\n",
+            "title": "[Human 99]"
         },
         {
-            "title": "[Inf Use Magic]",
-            "content": "[Inf Use Magic]\n04000000 0025A194 2A0A03F4\n\n"
+            "content": "[Inf Use Magic]\n04000000 0025A194 2A0A03F4\n\n",
+            "title": "[Inf Use Magic]"
         },
         {
-            "title": "[Change Item Max]",
-            "content": "[Change Item Max]\n04000000 00255590 11000408\n\n"
+            "content": "[Change Item Max]\n04000000 00255590 11000408\n\n",
+            "title": "[Change Item Max]"
         },
         {
-            "title": "[Inf Stamina]",
-            "content": "[Inf Stamina]\n04000000 002C5150 2A0903E8\n04000000 002CA05C 2A0803E1\n04000000 011A1D14 4001263D\n04000000 002D0068 52800008\n04000000 002D01D8 52800008\n\n"
+            "content": "[Inf Stamina]\n04000000 002C5150 2A0903E8\n04000000 002CA05C 2A0803E1\n04000000 011A1D14 4001263D\n04000000 002D0068 52800008\n04000000 002D01D8 52800008\n\n",
+            "title": "[Inf Stamina]"
         },
         {
-            "title": "[Speed 1.5x]",
-            "content": "[Speed 1.5x]\n04000000 0030DD98 1E2F1000\n04000000 0030D758 1E2F1000\n04000000 0030D768 1E2F1000\n\n"
+            "content": "[Speed 1.5x]\n04000000 0030DD98 1E2F1000\n04000000 0030D758 1E2F1000\n04000000 0030D768 1E2F1000\n\n",
+            "title": "[Speed 1.5x]"
         },
         {
-            "title": "[Weight 1]",
-            "content": "[Weight 1]\n04000000 0024F7CC 1E2E1008\n04000000 0024F688 1E2E1008\n\n"
+            "content": "[Weight 1]\n04000000 0024F7CC 1E2E1008\n04000000 0024F688 1E2E1008\n\n",
+            "title": "[Weight 1]"
         },
         {
-            "title": "[Weapon Durable]",
-            "content": "[Weapon Durable]\n04000000 00254D40 7100014D\n\n"
+            "content": "[Weapon Durable]\n04000000 00254D40 7100014D\n\n",
+            "title": "[Weapon Durable]"
         },
         {
-            "title": "[Drop Rate 100]",
-            "content": "[Drop Rate 100]\n04000000 005F420C 52800020"
+            "content": "[Drop Rate 100]\n04000000 005F420C 52800020",
+            "title": "[Drop Rate 100]"
         }
     ]
 }

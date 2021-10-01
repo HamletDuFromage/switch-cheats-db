@@ -1,56 +1,56 @@
 {
     "8F75C9B8B7FF69D9": [
         {
-            "title": "[Jump1]",
-            "content": "[Jump1]\n80000002\n580F0000 01088388\n580F1000 000228ec\n780F0000 0000DEF4\n640F0000 00000000 45000000\n20000000\n\n"
+            "content": "[Jump1]\n80000002\n580F0000 01088388\n580F1000 000228ec\n780F0000 0000DEF4\n640F0000 00000000 45000000\n20000000\n\n",
+            "title": "[Jump1]"
         },
         {
-            "title": "[Down1]",
-            "content": "[Down1]\n580F0000 01088388\n580F1000 000228ec\n780F0000 0000DF0C\n640F0000 00000000 3f800000\n80000400\n640F0000 00000000 bf800000\n20000000\n\n"
+            "content": "[Down1]\n580F0000 01088388\n580F1000 000228ec\n780F0000 0000DF0C\n640F0000 00000000 3f800000\n80000400\n640F0000 00000000 bf800000\n20000000\n\n",
+            "title": "[Down1]"
         },
         {
-            "title": "[Invincible1]",
-            "content": "[Invincible1]\n580F0000 01088388\n580F1000 000228ec\n780F0000 0000DFA0\n640F0000 00000000 000F0000\n\n"
+            "content": "[Invincible1]\n580F0000 01088388\n580F1000 000228ec\n780F0000 0000DFA0\n640F0000 00000000 000F0000\n\n",
+            "title": "[Invincible1]"
         },
         {
-            "title": "[Jump2]",
-            "content": "[Jump2]\n80000002\n580F0000 01088388\n580F1000 0002b22c\n780F0000 00004EBC\n640F0000 00000000 45000000\n20000000\n\n"
+            "content": "[Jump2]\n80000002\n580F0000 01088388\n580F1000 0002b22c\n780F0000 00004EBC\n640F0000 00000000 45000000\n20000000\n\n",
+            "title": "[Jump2]"
         },
         {
-            "title": "[Down2]",
-            "content": "[Down2]\n580F0000 01088388\n580F1000 000228ec\n780F0000 00004ED4\n640F0000 00000000 3f800000\n80000400\n640F0000 00000000 bf800000\n20000000\n\n"
+            "content": "[Down2]\n580F0000 01088388\n580F1000 000228ec\n780F0000 00004ED4\n640F0000 00000000 3f800000\n80000400\n640F0000 00000000 bf800000\n20000000\n\n",
+            "title": "[Down2]"
         },
         {
-            "title": "[Invincible2]",
-            "content": "[Invincible2]\n580F0000 01088388\n580F1000 0002b22c\n780F0000 00004EFC\n640F0000 00000000 000F0000\n\n"
+            "content": "[Invincible2]\n580F0000 01088388\n580F1000 0002b22c\n780F0000 00004EFC\n640F0000 00000000 000F0000\n\n",
+            "title": "[Invincible2]"
         },
         {
-            "title": "[999 coins]",
-            "content": "[999 coins]\n580F0000 01073A10\n580F1000 00000040\n580F1000 00000008\n780F0000 000000F8\n640F0000 00000000 000003E7\n\n"
+            "content": "[999 coins]\n580F0000 01073A10\n580F1000 00000040\n580F1000 00000008\n780F0000 000000F8\n640F0000 00000000 000003E7\n\n",
+            "title": "[999 coins]"
         },
         {
-            "title": "[99 lives]",
-            "content": "[99 lives]\n580F0000 01073A10\n580F1000 00000040\n580F1000 00000008\n780F0000 00000020\n640F0000 00000000 00000063\n\n"
+            "content": "[99 lives]\n580F0000 01073A10\n580F1000 00000040\n580F1000 00000008\n780F0000 00000020\n640F0000 00000000 00000063\n\n",
+            "title": "[99 lives]"
         },
         {
-            "title": "[03 seconds]",
-            "content": "[03 seconds]\n580F0000 01073A10\n580F1000 00000040\n580F1000 00000008\n780F0000 000000F4\n640F0000 00000000 00000003\n\n"
+            "content": "[03 seconds]\n580F0000 01073A10\n580F1000 00000040\n580F1000 00000008\n780F0000 000000F4\n640F0000 00000000 00000003\n\n",
+            "title": "[03 seconds]"
         },
         {
-            "title": "[toad can survive a hit]",
-            "content": "[toad can survive a hit]\n580F0000 011A9958\n580F1000 00000464\n580F1000 000001B0\n780F0000 00000348\n640F0000 00000000 00000000\n\n"
+            "content": "[toad can survive a hit]\n580F0000 011A9958\n580F1000 00000464\n580F1000 000001B0\n780F0000 00000348\n640F0000 00000000 00000000\n\n",
+            "title": "[toad can survive a hit]"
         },
         {
-            "title": "[toad invincible]",
-            "content": "[toad invincible]\n580F0000 011A9958\n580F1000 00000464\n580F1000 000001B0\n780F0000 00000344\n640F0000 00000000 000000B3\n\n"
+            "content": "[toad invincible]\n580F0000 011A9958\n580F1000 00000464\n580F1000 000001B0\n780F0000 00000344\n640F0000 00000000 000000B3\n\n",
+            "title": "[toad invincible]"
         },
         {
-            "title": "[toadette can survive hits]",
-            "content": "[toadette can survive hits]\n580F0000 010739D0\n580F1000 000000B0\n580F1000 000002A8\n580F1000 00000178\n780F0000 00000348\n640F0000 00000000 00000000\n\n"
+            "content": "[toadette can survive hits]\n580F0000 010739D0\n580F1000 000000B0\n580F1000 000002A8\n580F1000 00000178\n780F0000 00000348\n640F0000 00000000 00000000\n\n",
+            "title": "[toadette can survive hits]"
         },
         {
-            "title": "[toadette invincible]",
-            "content": "[toadette invincible]\n580F0000 010739D0\n580F1000 000000B0\n580F1000 000002A8\n580F1000 00000178\n780F0000 00000344\n640F0000 00000000 000000B3"
+            "content": "[toadette invincible]\n580F0000 010739D0\n580F1000 000000B0\n580F1000 000002A8\n580F1000 00000178\n780F0000 00000344\n640F0000 00000000 000000B3",
+            "title": "[toadette invincible]"
         }
     ]
 }

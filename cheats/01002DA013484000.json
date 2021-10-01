@@ -1,192 +1,192 @@
 {
     "D824D4B1BBD45D03": [
         {
-            "title": "[Infinite Stamina]",
-            "content": "[Infinite Stamina]\n04000000 06244B58 000F4240\n\n"
+            "content": "[Infinite Stamina]\n04000000 06244B58 000F4240\n\n",
+            "title": "[Infinite Stamina]"
         },
         {
-            "title": "[Infinite Hearts (80)]",
-            "content": "[Infinite Hearts (80)]\n02000000 05AF005A 00000050\n\n"
+            "content": "[Infinite Hearts (80)]\n02000000 05AF005A 00000050\n\n",
+            "title": "[Infinite Hearts (80)]"
         },
         {
-            "title": "[Infinite Rupees (300)]",
-            "content": "[Infinite Rupees (300)]\n02000000 05AEB7B2 0000012C\n\n"
+            "content": "[Infinite Rupees (300)]\n02000000 05AEB7B2 0000012C\n\n",
+            "title": "[Infinite Rupees (300)]"
         },
         {
-            "title": "[Infinite Spiral Charges (3)]",
-            "content": "[Infinite Spiral Charges (3)]\n01000000 06186B32 00000003\n\n"
+            "content": "[Infinite Spiral Charges (3)]\n01000000 06186B32 00000003\n\n",
+            "title": "[Infinite Spiral Charges (3)]"
         },
         {
-            "title": "[1p hit range on]",
-            "content": "[1p hit range on]\n04000000 00ACE198 1E2E1002\n\n"
+            "content": "[1p hit range on]\n04000000 00ACE198 1E2E1002\n\n",
+            "title": "[1p hit range on]"
         },
         {
-            "title": "[1p hit range off]",
-            "content": "[1p hit range off]\n04000000 00ACE198 1E2E1001\n\n"
+            "content": "[1p hit range off]\n04000000 00ACE198 1E2E1001\n\n",
+            "title": "[1p hit range off]"
         },
         {
-            "title": "[Max Rupees]",
-            "content": "[Max Rupees]\n020E0000 05AEB7B2 0000270F\n\n"
+            "content": "[Max Rupees]\n020E0000 05AEB7B2 0000270F\n\n",
+            "title": "[Max Rupees]"
         },
         {
-            "title": "[Max Heart]",
-            "content": "[Max Heart]\n080E0000 05AF0054 00500050 00500000\n\n"
+            "content": "[Max Heart]\n080E0000 05AF0054 00500050 00500000\n\n",
+            "title": "[Max Heart]"
         },
         {
-            "title": "[Inf Spiral]",
-            "content": "[Inf Spiral]\n010E0000 06186B32 00000003\n\n"
+            "content": "[Inf Spiral]\n010E0000 06186B32 00000003\n\n",
+            "title": "[Inf Spiral]"
         },
         {
-            "title": "[Inf SP]",
-            "content": "[Inf SP]\n040E0000 00A554F8 D503201F\n\n"
+            "content": "[Inf SP]\n040E0000 00A554F8 D503201F\n\n",
+            "title": "[Inf SP]"
         },
         {
-            "title": "[Lightning Skyward Sword]",
-            "content": "[Lightning Skyward Sword]\n020E0000 06244A9E 00000120\n010E0000 06244A37 00000037\n010E0000 0623EAC6 00000050\n\n"
+            "content": "[Lightning Skyward Sword]\n020E0000 06244A9E 00000120\n010E0000 06244A37 00000037\n010E0000 0623EAC6 00000050\n\n",
+            "title": "[Lightning Skyward Sword]"
         },
         {
-            "title": "[Lightning Skyward Sword with sound]",
-            "content": "[Lightning Skyward Sword with sound]\n020E0000 06244A9E 00000120\n010E0000 06244A37 00000037\n010E0000 0623EAC6 00000040\n\n"
+            "content": "[Lightning Skyward Sword with sound]\n020E0000 06244A9E 00000120\n010E0000 06244A37 00000037\n010E0000 0623EAC6 00000040\n\n",
+            "title": "[Lightning Skyward Sword with sound]"
         },
         {
-            "title": "[Inf Beetle Flying Time]",
-            "content": "[Inf Beetle Flying Time]\n040E0000 00279CE4 52806C08\n\n"
+            "content": "[Inf Beetle Flying Time]\n040E0000 00279CE4 52806C08\n\n",
+            "title": "[Inf Beetle Flying Time]"
         },
         {
-            "title": "[All items]",
-            "content": "[All items]\n300F0000 0000000E\n020E0000 0182E1C0 000031E3\n780E0000 00000002 310F0000\n040E0000 0182E1C0 8F198F19\n\n"
+            "content": "[All items]\n300F0000 0000000E\n020E0000 0182E1C0 000031E3\n780E0000 00000002 310F0000\n040E0000 0182E1C0 8F198F19\n\n",
+            "title": "[All items]"
         },
         {
-            "title": "[o Infinite Loftwing Charge]",
-            "content": "[o Infinite Loftwing Charge]\n02000000 0619936A 00000003\n02000000 06186b32 00000003\n\n"
+            "content": "[o Infinite Loftwing Charge]\n02000000 0619936A 00000003\n02000000 06186b32 00000003\n\n",
+            "title": "[o Infinite Loftwing Charge]"
         },
         {
-            "title": "[= Have Shield / Infinite Durability]",
-            "content": "[= Have Shield / Infinite Durability]\n00000000 00000000 00000000\n"
+            "content": "[= Have Shield / Infinite Durability]\n00000000 00000000 00000000\n",
+            "title": "[= Have Shield / Infinite Durability]"
         },
         {
-            "title": "[    o Wooden Shield]",
-            "content": "[    o Wooden Shield]\n04000000 05AEB51C 00200074\n\n"
+            "content": "[    o Wooden Shield]\n04000000 05AEB51C 00200074\n\n",
+            "title": "[    o Wooden Shield]"
         },
         {
-            "title": "[    o Banded Shield]",
-            "content": "[    o Banded Shield]\n04000000 05AEB51C 00200075\n\n"
+            "content": "[    o Banded Shield]\n04000000 05AEB51C 00200075\n\n",
+            "title": "[    o Banded Shield]"
         },
         {
-            "title": "[    o Braced Shield]",
-            "content": "[    o Braced Shield]\n04000000 05AEB51C 00200076\n\n"
+            "content": "[    o Braced Shield]\n04000000 05AEB51C 00200076\n\n",
+            "title": "[    o Braced Shield]"
         },
         {
-            "title": "[    o Iron Shield]",
-            "content": "[    o Iron Shield]\n04000000 05AEB51C 00200077\n\n"
+            "content": "[    o Iron Shield]\n04000000 05AEB51C 00200077\n\n",
+            "title": "[    o Iron Shield]"
         },
         {
-            "title": "[    o Reinforced Shield]",
-            "content": "[    o Reinforced Shield]\n04000000 05AEB51C 00200078\n\n"
+            "content": "[    o Reinforced Shield]\n04000000 05AEB51C 00200078\n\n",
+            "title": "[    o Reinforced Shield]"
         },
         {
-            "title": "[    o Fortified Shield]",
-            "content": "[    o Fortified Shield]\n04000000 05AEB51C 00300079\n\n"
+            "content": "[    o Fortified Shield]\n04000000 05AEB51C 00300079\n\n",
+            "title": "[    o Fortified Shield]"
         },
         {
-            "title": "[    o Sacred Shield]",
-            "content": "[    o Sacred Shield]\n04000000 05AEB51C 0020007A\n\n"
+            "content": "[    o Sacred Shield]\n04000000 05AEB51C 0020007A\n\n",
+            "title": "[    o Sacred Shield]"
         },
         {
-            "title": "[    o Divine Shield]",
-            "content": "[    o Divine Shield]\n04000000 05AEB51C 0020007B\n\n"
+            "content": "[    o Divine Shield]\n04000000 05AEB51C 0020007B\n\n",
+            "title": "[    o Divine Shield]"
         },
         {
-            "title": "[    o Goddess Shield]",
-            "content": "[    o Goddess Shield]\n04000000 05AEB51C 0020007C\n\n"
+            "content": "[    o Goddess Shield]\n04000000 05AEB51C 0020007C\n\n",
+            "title": "[    o Goddess Shield]"
         },
         {
-            "title": "[    o Hylian Shield]",
-            "content": "[    o Hylian Shield]\n04000000 05AEB51C 0030007D\n\n"
+            "content": "[    o Hylian Shield]\n04000000 05AEB51C 0030007D\n\n",
+            "title": "[    o Hylian Shield]"
         },
         {
-            "title": "[Jump(ZR)]",
-            "content": "[Jump(ZR)]\n80000200\n04000000 0623E86C 42E00000\n20000000\n\n"
+            "content": "[Jump(ZR)]\n80000200\n04000000 0623E86C 42E00000\n20000000\n\n",
+            "title": "[Jump(ZR)]"
         },
         {
-            "title": "[Automatic Speed(R+L)]",
-            "content": "[Automatic Speed(R+L)]\n800000C0\n04000000 06244B68 42900000\n20000000\n\n"
+            "content": "[Automatic Speed(R+L)]\n800000C0\n04000000 06244B68 42900000\n20000000\n\n",
+            "title": "[Automatic Speed(R+L)]"
         },
         {
-            "title": "[1p inf heath]",
-            "content": "[1p inf heath]\n04000000 00A68908 D65F03C0\n\n"
+            "content": "[1p inf heath]\n04000000 00A68908 D65F03C0\n\n",
+            "title": "[1p inf heath]"
         },
         {
-            "title": "[1p speed move normal]",
-            "content": "[1p speed move normal]\n04000000 00A57044 1E2E100F\n\n"
+            "content": "[1p speed move normal]\n04000000 00A57044 1E2E100F\n\n",
+            "title": "[1p speed move normal]"
         },
         {
-            "title": "[1p speed move 1.25x]",
-            "content": "[1p speed move 1.25x]\n04000000 00A57044 1E2E900F\n\n"
+            "content": "[1p speed move 1.25x]\n04000000 00A57044 1E2E900F\n\n",
+            "title": "[1p speed move 1.25x]"
         },
         {
-            "title": "[1p speed move 1.5x]",
-            "content": "[1p speed move 1.5x]\n04000000 00A57044 1E2F900F\n\n"
+            "content": "[1p speed move 1.5x]\n04000000 00A57044 1E2F900F\n\n",
+            "title": "[1p speed move 1.5x]"
         },
         {
-            "title": "[1p speed move 2x]",
-            "content": "[1p speed move 2x]\n04000000 00A57044 1E20100F\n\n"
+            "content": "[1p speed move 2x]\n04000000 00A57044 1E20100F\n\n",
+            "title": "[1p speed move 2x]"
         },
         {
-            "title": "[1p speed run normal]",
-            "content": "[1p speed run normal]\n04000000 00A734CC 1E2E1000\n\n"
+            "content": "[1p speed run normal]\n04000000 00A734CC 1E2E1000\n\n",
+            "title": "[1p speed run normal]"
         },
         {
-            "title": "[1p speed run 1.25x]",
-            "content": "[1p speed run 1.25x]\n04000000 00A734CC 1E2E9000\n\n"
+            "content": "[1p speed run 1.25x]\n04000000 00A734CC 1E2E9000\n\n",
+            "title": "[1p speed run 1.25x]"
         },
         {
-            "title": "[1p speed run 1.5x]",
-            "content": "[1p speed run 1.5x]\n04000000 00A734CC 1E2F9000\n\n"
+            "content": "[1p speed run 1.5x]\n04000000 00A734CC 1E2F9000\n\n",
+            "title": "[1p speed run 1.5x]"
         },
         {
-            "title": "[1p speed run 2x]",
-            "content": "[1p speed run 2x]\n04000000 00A734CC 1E201000\n\n"
+            "content": "[1p speed run 2x]\n04000000 00A734CC 1E201000\n\n",
+            "title": "[1p speed run 2x]"
         },
         {
-            "title": "[speed game normal]",
-            "content": "[speed game normal]\n04000000 0104A198 1E2C1000\n\n"
+            "content": "[speed game normal]\n04000000 0104A198 1E2C1000\n\n",
+            "title": "[speed game normal]"
         },
         {
-            "title": "[speed game 1.25x]",
-            "content": "[speed game 1.25x]\n04000000 0104A198 1E2D1000\n\n"
+            "content": "[speed game 1.25x]\n04000000 0104A198 1E2D1000\n\n",
+            "title": "[speed game 1.25x]"
         },
         {
-            "title": "[speed game 1.5x]",
-            "content": "[speed game 1.5x]\n04000000 0104A198 1E2E1000\n\n"
+            "content": "[speed game 1.5x]\n04000000 0104A198 1E2E1000\n\n",
+            "title": "[speed game 1.5x]"
         },
         {
-            "title": "[speed game 1.75x]",
-            "content": "[speed game 1.75x]\n04000000 0104A198 1E2E9000\n\n"
+            "content": "[speed game 1.75x]\n04000000 0104A198 1E2E9000\n\n",
+            "title": "[speed game 1.75x]"
         },
         {
-            "title": "[speed game 2x]",
-            "content": "[speed game 2x]\n04000000 0104A198 1E2F9000\n\n"
+            "content": "[speed game 2x]\n04000000 0104A198 1E2F9000\n\n",
+            "title": "[speed game 2x]"
         },
         {
-            "title": "[*Moonjump Y Jericoss]",
-            "content": "[*Moonjump Y Jericoss]\n80000008\n04000000 0623E86C 42D20000\n20000000\n\n"
+            "content": "[*Moonjump Y Jericoss]\n80000008\n04000000 0623E86C 42D20000\n20000000\n\n",
+            "title": "[*Moonjump Y Jericoss]"
         },
         {
-            "title": "[*Speed R ]",
-            "content": "[*Speed R ]\n80000080\n04000000 06244B68 42880000\n20000000\n\n"
+            "content": "[*Speed R ]\n80000080\n04000000 06244B68 42880000\n20000000\n\n",
+            "title": "[*Speed R ]"
         },
         {
-            "title": "[get 9999 ruby+ get itens max on]",
-            "content": "[get 9999 ruby+ get itens max on]\n04000000 00B808A8 D65F03C0\n\n"
+            "content": "[get 9999 ruby+ get itens max on]\n04000000 00B808A8 D65F03C0\n\n",
+            "title": "[get 9999 ruby+ get itens max on]"
         },
         {
-            "title": "[get 9999 ruby+ get itens max off]",
-            "content": "[get 9999 ruby+ get itens max off]\n04000000 00B808A8 A9BE4FF4\n\n"
+            "content": "[get 9999 ruby+ get itens max off]\n04000000 00B808A8 A9BE4FF4\n\n",
+            "title": "[get 9999 ruby+ get itens max off]"
         },
         {
-            "title": "[Moonjump L+A]",
-            "content": "[Moonjump L+A]\n80000041\n04000000 0623E86C 42E00000\n20000000\n"
+            "content": "[Moonjump L+A]\n80000041\n04000000 0623E86C 42E00000\n20000000\n",
+            "title": "[Moonjump L+A]"
         }
     ]
 }

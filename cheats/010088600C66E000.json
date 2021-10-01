@@ -1,12 +1,12 @@
 {
     "967D32BE4B10B67E": [
         {
-            "title": "[ Ingot 9999 ]",
-            "content": "[ Ingot 9999 ]\n04000000 010D0D64 0000270F\n\n"
+            "content": "[ Ingot 9999 ]\n04000000 010D0D64 0000270F\n\n",
+            "title": "[ Ingot 9999 ]"
         },
         {
-            "title": "[ rorona 999 hp ]",
-            "content": "[ rorona 999 hp ]\n04100000 014a1c54 000003E7"
+            "content": "[ rorona 999 hp ]\n04100000 014a1c54 000003E7",
+            "title": "[ rorona 999 hp ]"
         }
     ]
 }

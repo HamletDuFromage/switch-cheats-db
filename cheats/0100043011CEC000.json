@@ -1,12 +1,12 @@
 {
     "9965D21EE9EA2969": [
         {
-            "title": "[Inf Lives]",
-            "content": "[Inf Lives]\n011F0000 018AF276 00000064\n\n"
+            "content": "[Inf Lives]\n011F0000 018AF276 00000064\n\n",
+            "title": "[Inf Lives]"
         },
         {
-            "title": "[Enemy Annihilation (Hold X)]",
-            "content": "[Enemy Annihilation (Hold X)]\n011F0000 018AF2AB 00000000\n80000004\n011F0000 018AF2AB 000000FF\n20000000\n"
+            "content": "[Enemy Annihilation (Hold X)]\n011F0000 018AF2AB 00000000\n80000004\n011F0000 018AF2AB 000000FF\n20000000\n",
+            "title": "[Enemy Annihilation (Hold X)]"
         }
     ]
 }

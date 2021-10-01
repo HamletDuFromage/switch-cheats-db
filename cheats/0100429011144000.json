@@ -1,52 +1,52 @@
 {
     "90BBAF36DD244C48": [
         {
-            "title": "[01# No Damage]",
-            "content": "[01# No Damage]\n040A0000 02B9F680 D65F03C0\n\n"
+            "content": "[01# No Damage]\n040A0000 02B9F680 D65F03C0\n\n",
+            "title": "[01# No Damage]"
         },
         {
-            "title": "[02# Inf Oxygen]",
-            "content": "[02# Inf Oxygen]\n040A0000 02CF9B3C D503201F\n\n"
+            "content": "[02# Inf Oxygen]\n040A0000 02CF9B3C D503201F\n\n",
+            "title": "[02# Inf Oxygen]"
         },
         {
-            "title": "[03# Inf Food]",
-            "content": "[03# Inf Food]\n040A0000 030F5600 1C000049\n040A0000 030F5604 D65F03C0\n040A0000 030F5608 4479C000\n040A0000 02D8B3A0 940DA898\n\n"
+            "content": "[03# Inf Food]\n040A0000 030F5600 1C000049\n040A0000 030F5604 D65F03C0\n040A0000 030F5608 4479C000\n040A0000 02D8B3A0 940DA898\n\n",
+            "title": "[03# Inf Food]"
         },
         {
-            "title": "[04# Inf Water]",
-            "content": "[04# Inf Water]\n040A0000 030F5610 1C00004F\n040A0000 030F5614 D65F03C0\n040A0000 030F5618 4479C000\n040A0000 02D8B40C 940DA881\n\n"
+            "content": "[04# Inf Water]\n040A0000 030F5610 1C00004F\n040A0000 030F5614 D65F03C0\n040A0000 030F5618 4479C000\n040A0000 02D8B40C 940DA881\n\n",
+            "title": "[04# Inf Water]"
         },
         {
-            "title": "[05# Zero Radiation]",
-            "content": "[05# Zero Radiation]\n040A0000 030F5620 1C000068\n040A0000 030F5624 BD002528\n040A0000 030F5628 D65F03C0\n040A0000 030F562C 497423F0\n040A0000 02D32384 940F0CA7\n\n"
+            "content": "[05# Zero Radiation]\n040A0000 030F5620 1C000068\n040A0000 030F5624 BD002528\n040A0000 030F5628 D65F03C0\n040A0000 030F562C 497423F0\n040A0000 02D32384 940F0CA7\n\n",
+            "title": "[05# Zero Radiation]"
         },
         {
-            "title": "[06# Inf Power]",
-            "content": "[06# Inf Power]\n040A0000 030F5630 1C00004A\n040A0000 030F5634 D65F03C0\n040A0000 030F5638 461C4000\n040A0000 02E8FFD0 94099598\n\n"
+            "content": "[06# Inf Power]\n040A0000 030F5630 1C00004A\n040A0000 030F5634 D65F03C0\n040A0000 030F5638 461C4000\n040A0000 02E8FFD0 94099598\n\n",
+            "title": "[06# Inf Power]"
         },
         {
-            "title": "[07# Inf Batterypower]",
-            "content": "[07# Inf Batterypower]\n040A0000 02E65FE4 1E29280B\n\n"
+            "content": "[07# Inf Batterypower]\n040A0000 02E65FE4 1E29280B\n\n",
+            "title": "[07# Inf Batterypower]"
         },
         {
-            "title": "[08# Unlock All Blueprints]",
-            "content": "[08# Unlock All Blueprints]\n040A0000 02E10CC0 52800020\n040A0000 02E10CC4 D65F03C0\n\n"
+            "content": "[08# Unlock All Blueprints]\n040A0000 02E10CC0 52800020\n040A0000 02E10CC4 D65F03C0\n\n",
+            "title": "[08# Unlock All Blueprints]"
         },
         {
-            "title": "[09# Ignore Crafting Requirements]",
-            "content": "[09# Ignore Crafting Requirements]\n040A0000 02E10D70 52800020\n040A0000 02E10D74 D65F03C0\n\n"
+            "content": "[09# Ignore Crafting Requirements]\n040A0000 02E10D70 52800020\n040A0000 02E10D74 D65F03C0\n\n",
+            "title": "[09# Ignore Crafting Requirements]"
         },
         {
-            "title": "[10# Instant Craft]",
-            "content": "[10# Instant Craft]\n040A0000 030F5640 1E2E1000\n040A0000 030F5644 4EA01C08\n040A0000 030F5648 D65F03C0\n040A0000 02E0E73C 940B9BC1\n\n"
+            "content": "[10# Instant Craft]\n040A0000 030F5640 1E2E1000\n040A0000 030F5644 4EA01C08\n040A0000 030F5648 D65F03C0\n040A0000 02E0E73C 940B9BC1\n\n",
+            "title": "[10# Instant Craft]"
         },
         {
-            "title": "[11# Ignore Building requirements]",
-            "content": "[11# Ignore Building requirements]\n040A0000 02BC8164 52800000\n\n"
+            "content": "[11# Ignore Building requirements]\n040A0000 02BC8164 52800000\n\n",
+            "title": "[11# Ignore Building requirements]"
         },
         {
-            "title": "[12# Inf Fire extinguisher]",
-            "content": "[12# Inf Fire extinguisher]\n040A0000 02DE5CAC 1E282920\n\n"
+            "content": "[12# Inf Fire extinguisher]\n040A0000 02DE5CAC 1E282920\n\n",
+            "title": "[12# Inf Fire extinguisher]"
         }
     ]
 }

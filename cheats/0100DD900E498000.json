@@ -1,20 +1,20 @@
 {
     "6A71DC9407B10148": [
         {
-            "title": "[Inf Lives]",
-            "content": "[Inf Lives]\n580F0000 026BB8C0\n580F1000 00000008\n780F0000 00000432\n610F0000 00000000 0000000A\n\n"
+            "content": "[Inf Lives]\n580F0000 026BB8C0\n580F1000 00000008\n780F0000 00000432\n610F0000 00000000 0000000A\n\n",
+            "title": "[Inf Lives]"
         },
         {
-            "title": "[Inf HP]",
-            "content": "[Inf HP]\n580F0000 026BB8C0\n580F1000 00000008\n780F0000 0000041E\n610F0000 00000000 0000007F\n\n"
+            "content": "[Inf HP]\n580F0000 026BB8C0\n580F1000 00000008\n780F0000 0000041E\n610F0000 00000000 0000007F\n\n",
+            "title": "[Inf HP]"
         },
         {
-            "title": "[Invincible (OFF:ZR & ZL)]",
-            "content": "[Invincible (OFF:ZR & ZL)]\n580F0000 026BB8C0\n580F1000 00000008\n780F0000 000003CC\n610F0000 00000000 00000000\n80000300\n610F0000 00000000 0000007F\n20000000\n\n"
+            "content": "[Invincible (OFF:ZR & ZL)]\n580F0000 026BB8C0\n580F1000 00000008\n780F0000 000003CC\n610F0000 00000000 00000000\n80000300\n610F0000 00000000 0000007F\n20000000\n\n",
+            "title": "[Invincible (OFF:ZR & ZL)]"
         },
         {
-            "title": "[Moon Jump (Hold R)]",
-            "content": "[Moon Jump (Hold R)]\n80000080\n580F0000 026BB8C0\n580F1000 00000008\n780F0000 00000043\n610F0000 00000000 0000000A\n20000000"
+            "content": "[Moon Jump (Hold R)]\n80000080\n580F0000 026BB8C0\n580F1000 00000008\n780F0000 00000043\n610F0000 00000000 0000000A\n20000000",
+            "title": "[Moon Jump (Hold R)]"
         }
     ]
 }

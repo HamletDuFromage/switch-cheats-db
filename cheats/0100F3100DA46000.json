@@ -1,12 +1,12 @@
 {
     "CADFCD07E6596093": [
         {
-            "title": "[Inf Life]",
-            "content": "[Inf Life]\n040F0000 00BFE16C 00000101\n\n"
+            "content": "[Inf Life]\n040F0000 00BFE16C 00000101\n\n",
+            "title": "[Inf Life]"
         },
         {
-            "title": "[Achievement rate]",
-            "content": "[Achievement rate]\n040F0000 00BFE170 000F0000"
+            "content": "[Achievement rate]\n040F0000 00BFE170 000F0000",
+            "title": "[Achievement rate]"
         }
     ]
 }

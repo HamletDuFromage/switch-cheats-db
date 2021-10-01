@@ -1,40 +1,40 @@
 {
     "74C54F3670579C7A": [
         {
-            "title": "[acceleration SLOW 0.25X]",
-            "content": "[acceleration SLOW 0.25X]\n04000000 014D4C50 1E2A1000\n\n"
+            "content": "[acceleration SLOW 0.25X]\n04000000 014D4C50 1E2A1000\n\n",
+            "title": "[acceleration SLOW 0.25X]"
         },
         {
-            "title": "[acceleration SLOW 0.5X]",
-            "content": "[acceleration SLOW 0.5X]\n04000000 014D4C50 1E2C1000\n\n"
+            "content": "[acceleration SLOW 0.5X]\n04000000 014D4C50 1E2C1000\n\n",
+            "title": "[acceleration SLOW 0.5X]"
         },
         {
-            "title": "[acceleration SLOW 0.75X]",
-            "content": "[acceleration SLOW 0.75X]\n04000000 014D4C50 1E2D1000\n\n"
+            "content": "[acceleration SLOW 0.75X]\n04000000 014D4C50 1E2D1000\n\n",
+            "title": "[acceleration SLOW 0.75X]"
         },
         {
-            "title": "[acceleration NORMAL]",
-            "content": "[acceleration NORMAL]\n04000000 014D4C50 1E2E1000\n\n"
+            "content": "[acceleration NORMAL]\n04000000 014D4C50 1E2E1000\n\n",
+            "title": "[acceleration NORMAL]"
         },
         {
-            "title": "[acceleration SPEED 1.25X]",
-            "content": "[acceleration SPEED 1.25X]\n04000000 014D4C50 1E2E9000\n\n"
+            "content": "[acceleration SPEED 1.25X]\n04000000 014D4C50 1E2E9000\n\n",
+            "title": "[acceleration SPEED 1.25X]"
         },
         {
-            "title": "[acceleration SPEED 1.5X]",
-            "content": "[acceleration SPEED 1.5X]\n04000000 014D4C50 1E2F1000\n\n"
+            "content": "[acceleration SPEED 1.5X]\n04000000 014D4C50 1E2F1000\n\n",
+            "title": "[acceleration SPEED 1.5X]"
         },
         {
-            "title": "[acceleration SPEED 1.75X]",
-            "content": "[acceleration SPEED 1.75X]\n04000000 014D4C50 1E2F9000\n\n"
+            "content": "[acceleration SPEED 1.75X]\n04000000 014D4C50 1E2F9000\n\n",
+            "title": "[acceleration SPEED 1.75X]"
         },
         {
-            "title": "[acceleration SPEED 2X]",
-            "content": "[acceleration SPEED 2X]\n04000000 014D4C50 1E201000\n\n"
+            "content": "[acceleration SPEED 2X]\n04000000 014D4C50 1E201000\n\n",
+            "title": "[acceleration SPEED 2X]"
         },
         {
-            "title": "[CPU NO MOVE]",
-            "content": "[CPU NO MOVE]\n04000000 0142FAD8 1E2E1002"
+            "content": "[CPU NO MOVE]\n04000000 0142FAD8 1E2E1002",
+            "title": "[CPU NO MOVE]"
         }
     ]
 }

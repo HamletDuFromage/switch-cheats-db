@@ -1,20 +1,20 @@
 {
     "A5A0BEA13AD893FE": [
         {
-            "title": "[coin]",
-            "content": "[coin]\n04100000 2E809E88 05F5E100\n\n"
+            "content": "[coin]\n04100000 2E809E88 05F5E100\n\n",
+            "title": "[coin]"
         },
         {
-            "title": "[bomd 99]",
-            "content": "[bomd 99]\n01100000 2E809E8C 00000063\n\n"
+            "content": "[bomd 99]\n01100000 2E809E8C 00000063\n\n",
+            "title": "[bomd 99]"
         },
         {
-            "title": "[rope 99]",
-            "content": "[rope 99]\n01100000 2E809E8D 00000063\n\n"
+            "content": "[rope 99]\n01100000 2E809E8D 00000063\n\n",
+            "title": "[rope 99]"
         },
         {
-            "title": "[life 99]",
-            "content": "[life 99]\n01100000 2E809E92 00000063"
+            "content": "[life 99]\n01100000 2E809E92 00000063",
+            "title": "[life 99]"
         }
     ]
 }

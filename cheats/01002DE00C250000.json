@@ -1,170 +1,170 @@
 {
-    "657485006BD26747": [
-        {
-            "title": "[01# Inf Health]",
-            "content": "[01# Inf Health]\n040A0000 000F1160 BD406C00\n\n"
-        },
-        {
-            "title": "[02# Always have Evade]",
-            "content": "[02# Always have Evade]\n040A0000 005C704C 1E2E1000\n\n"
-        },
-        {
-            "title": "[03# Inf Stamina]",
-            "content": "[03# Inf Stamina]\n040A0000 00164FA0 D65F03C0\n\n"
-        },
-        {
-            "title": "[04# No Skill Cooldown]",
-            "content": "[04# No Skill Cooldown]\n040A0000 0004AAC4 52800020\n\n"
-        },
-        {
-            "title": "[05# get merv x9999999 on collect]",
-            "content": "[05# get merv x9999999 on collect]\n040A0000 002E1BA8 5292CFE9\n040A0000 002E1BAC 72A01309\n\n"
-        },
-        {
-            "title": "[06# Gemstone x9999 on collect]",
-            "content": "[06# Gemstone x9999 on collect]\n040A0000 01B4DE6C 5284E1F5\n\n"
-        },
-        {
-            "title": "[07# ignore skill points]",
-            "content": "[07# ignore skill points]\n040A0000 01B2549C 6B00001F\n\n"
-        },
-        {
-            "title": "[08# Ignore gemstone]",
-            "content": "[08# Ignore gemstone]\n040A0000 003EF45C 6B09013F"
-        }
-    ],
     "31D92C875B1CCA41": [
         {
-            "title": "[get souls x9999 on collect]",
-            "content": "[get souls x9999 on collect]\n04000000 003E2BFC 5284E1F5\n\n"
+            "content": "[get souls x9999 on collect]\n04000000 003E2BFC 5284E1F5\n\n",
+            "title": "[get souls x9999 on collect]"
         },
         {
-            "title": "[get merv x9999999 on collect]",
-            "content": "[get merv x9999999 on collect]\n04000000 0041196C 0098967F\n04000000 00411930 180001E1\n\n"
+            "content": "[get merv x9999999 on collect]\n04000000 0041196C 0098967F\n04000000 00411930 180001E1\n\n",
+            "title": "[get merv x9999999 on collect]"
         },
         {
-            "title": "[Inf Health]",
-            "content": "[Inf Health]\n580F0000 043B8230\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n580F1000 000000B0\n780F0000 00000060\n680F0000 461C3C00 461C3C00\n\n"
+            "content": "[Inf Health]\n580F0000 043B8230\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n580F1000 000000B0\n780F0000 00000060\n680F0000 461C3C00 461C3C00\n\n",
+            "title": "[Inf Health]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n580F0000 043B8230\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n580F1000 000000B0\n780F0000 00000048\n640F0000 00000000 50000000\n\n"
+            "content": "[Invincible]\n580F0000 043B8230\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n580F1000 000000B0\n780F0000 00000048\n640F0000 00000000 50000000\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Inf Stamina]",
-            "content": "[Inf Stamina]\n580F0000 043B8230\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n580F1000 00000138\n780F0000 00000028\n640F0000 00000000 4479C000\n\n"
+            "content": "[Inf Stamina]\n580F0000 043B8230\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n580F1000 00000138\n780F0000 00000028\n640F0000 00000000 4479C000\n\n",
+            "title": "[Inf Stamina]"
         },
         {
-            "title": "[Inf Evade]",
-            "content": "[Inf Evade]\n580F0000 043B8230\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n580F1000 00000160\n780F0000 00000020\n640F0000 00000000 50000000\n\n"
+            "content": "[Inf Evade]\n580F0000 043B8230\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n580F1000 00000160\n780F0000 00000020\n640F0000 00000000 50000000\n\n",
+            "title": "[Inf Evade]"
         },
         {
-            "title": "[Speed Up]",
-            "content": "[Speed Up]\n580F0000 043B8230\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n580F1000 000000D0\n780F0000 00000028\n640F0000 00000000 40400000\n"
+            "content": "[Speed Up]\n580F0000 043B8230\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n580F1000 000000D0\n780F0000 00000028\n640F0000 00000000 40400000\n",
+            "title": "[Speed Up]"
+        }
+    ],
+    "657485006BD26747": [
+        {
+            "content": "[01# Inf Health]\n040A0000 000F1160 BD406C00\n\n",
+            "title": "[01# Inf Health]"
+        },
+        {
+            "content": "[02# Always have Evade]\n040A0000 005C704C 1E2E1000\n\n",
+            "title": "[02# Always have Evade]"
+        },
+        {
+            "content": "[03# Inf Stamina]\n040A0000 00164FA0 D65F03C0\n\n",
+            "title": "[03# Inf Stamina]"
+        },
+        {
+            "content": "[04# No Skill Cooldown]\n040A0000 0004AAC4 52800020\n\n",
+            "title": "[04# No Skill Cooldown]"
+        },
+        {
+            "content": "[05# get merv x9999999 on collect]\n040A0000 002E1BA8 5292CFE9\n040A0000 002E1BAC 72A01309\n\n",
+            "title": "[05# get merv x9999999 on collect]"
+        },
+        {
+            "content": "[06# Gemstone x9999 on collect]\n040A0000 01B4DE6C 5284E1F5\n\n",
+            "title": "[06# Gemstone x9999 on collect]"
+        },
+        {
+            "content": "[07# ignore skill points]\n040A0000 01B2549C 6B00001F\n\n",
+            "title": "[07# ignore skill points]"
+        },
+        {
+            "content": "[08# Ignore gemstone]\n040A0000 003EF45C 6B09013F",
+            "title": "[08# Ignore gemstone]"
         }
     ],
     "D76CDB57CA4E8A4C": [
         {
-            "title": "[01# Always have Evade]",
-            "content": "[01# Always have Evade]\n04000000 00392E5C 1E2E1000\n"
+            "content": "[01# Always have Evade]\n04000000 00392E5C 1E2E1000\n",
+            "title": "[01# Always have Evade]"
         },
         {
-            "title": "[Always have Evade (off)]",
-            "content": "[Always have Evade (off)]\n04000000 00392E5C BD401800\n\n"
+            "content": "[Always have Evade (off)]\n04000000 00392E5C BD401800\n\n",
+            "title": "[Always have Evade (off)]"
         },
         {
-            "title": "[02# get merv x9999999 on collect]",
-            "content": "[02# get merv x9999999 on collect]\n04000000 000F9598 5292CFE9\n04000000 000F959C 72A01309\n"
+            "content": "[02# get merv x9999999 on collect]\n04000000 000F9598 5292CFE9\n04000000 000F959C 72A01309\n",
+            "title": "[02# get merv x9999999 on collect]"
         },
         {
-            "title": "[get merv x9999999 on collect (off)]",
-            "content": "[get merv x9999999 on collect (off)]\n04000000 000F9598 B9401909\n04000000 000F959C 0B160129\n\n"
+            "content": "[get merv x9999999 on collect (off)]\n04000000 000F9598 B9401909\n04000000 000F959C 0B160129\n\n",
+            "title": "[get merv x9999999 on collect (off)]"
         },
         {
-            "title": "[03# Gemstone x9999 on collect]",
-            "content": "[03# Gemstone x9999 on collect]\n04000000 00D19AEC 5284E1F5\n"
+            "content": "[03# Gemstone x9999 on collect]\n04000000 00D19AEC 5284E1F5\n",
+            "title": "[03# Gemstone x9999 on collect]"
         },
         {
-            "title": "[Gemstone x9999 on collect (off)]",
-            "content": "[Gemstone x9999 on collect (off)]\n04000000 00D19AEC 0B140115\n\n"
+            "content": "[Gemstone x9999 on collect (off)]\n04000000 00D19AEC 0B140115\n\n",
+            "title": "[Gemstone x9999 on collect (off)]"
         },
         {
-            "title": "[04# Inf Stamina]",
-            "content": "[04# Inf Stamina]\n04000000 00D75450 D65F03C0\n"
+            "content": "[04# Inf Stamina]\n04000000 00D75450 D65F03C0\n",
+            "title": "[04# Inf Stamina]"
         },
         {
-            "title": "[Inf Stamina (off)]",
-            "content": "[Inf Stamina (off)]\n04000000 00D75450 6DBD23E9\n\n"
+            "content": "[Inf Stamina (off)]\n04000000 00D75450 6DBD23E9\n\n",
+            "title": "[Inf Stamina (off)]"
         },
         {
-            "title": "[05# ignore skill points]",
-            "content": "[05# ignore skill points]\n04000000 00CAEC1C 6B00001F\n"
+            "content": "[05# ignore skill points]\n04000000 00CAEC1C 6B00001F\n",
+            "title": "[05# ignore skill points]"
         },
         {
-            "title": "[ignore skill points (off)]",
-            "content": "[ignore skill points (off)]\n04000000 00CAEC1C 6B15001F\n\n"
+            "content": "[ignore skill points (off)]\n04000000 00CAEC1C 6B15001F\n\n",
+            "title": "[ignore skill points (off)]"
         },
         {
-            "title": "[06# No Skill Cooldown]",
-            "content": "[06# No Skill Cooldown]\n04000000 001F2224 52800020\n"
+            "content": "[06# No Skill Cooldown]\n04000000 001F2224 52800020\n",
+            "title": "[06# No Skill Cooldown]"
         },
         {
-            "title": "[No Skill Cooldown (off)]",
-            "content": "[No Skill Cooldown (off)]\n04000000 001F2224 2A1F03E0\n\n"
+            "content": "[No Skill Cooldown (off)]\n04000000 001F2224 2A1F03E0\n\n",
+            "title": "[No Skill Cooldown (off)]"
         },
         {
-            "title": "[07# Ignore gemstone]",
-            "content": "[07# Ignore gemstone]\n04000000 00E2586C 6B09013F\n"
+            "content": "[07# Ignore gemstone]\n04000000 00E2586C 6B09013F\n",
+            "title": "[07# Ignore gemstone]"
         },
         {
-            "title": "[Ignore gemstone (off)]",
-            "content": "[Ignore gemstone (off)]\n04000000 00E2586C 6B09015F\n\n"
+            "content": "[Ignore gemstone (off)]\n04000000 00E2586C 6B09015F\n\n",
+            "title": "[Ignore gemstone (off)]"
         },
         {
-            "title": "[08# Inf Health]",
-            "content": "[08# Inf Health]\n580F0000 04FAD6D0\n580F1000 000000B8\n580F1000 00000050\n580F1000 00000020\n580F1000 00000110\n780F0000 00000060\n680F0000 461C3C00 461C3C00\n\n"
+            "content": "[08# Inf Health]\n580F0000 04FAD6D0\n580F1000 000000B8\n580F1000 00000050\n580F1000 00000020\n580F1000 00000110\n780F0000 00000060\n680F0000 461C3C00 461C3C00\n\n",
+            "title": "[08# Inf Health]"
         },
         {
-            "title": "[09# Invincible]",
-            "content": "[09# Invincible]\n580F0000 04FAD6D0\n580F1000 000000B8\n580F1000 00000050\n580F1000 00000020\n580F1000 00000110\n780F0000 00000048\n640F0000 00000000 50000000\n\n"
+            "content": "[09# Invincible]\n580F0000 04FAD6D0\n580F1000 000000B8\n580F1000 00000050\n580F1000 00000020\n580F1000 00000110\n780F0000 00000048\n640F0000 00000000 50000000\n\n",
+            "title": "[09# Invincible]"
         },
         {
-            "title": "[10# Speed Up]",
-            "content": "[10# Speed Up]\n580F0000 04FAD6D0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000058\n580F1000 00000128\n780F0000 00000038\n640F0000 00000000 3F800000\n80000040\n640F0000 00000000 40400000\n20000000\n"
+            "content": "[10# Speed Up]\n580F0000 04FAD6D0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000058\n580F1000 00000128\n780F0000 00000038\n640F0000 00000000 3F800000\n80000040\n640F0000 00000000 40400000\n20000000\n",
+            "title": "[10# Speed Up]"
         }
     ],
     "FE06D69D28F8E34C": [
         {
-            "title": "[01# Inf Health]",
-            "content": "[01# Inf Health]\n040A0000 0044EA9C BD406C00\n\n"
+            "content": "[01# Inf Health]\n040A0000 0044EA9C BD406C00\n\n",
+            "title": "[01# Inf Health]"
         },
         {
-            "title": "[02# Always have Evade]",
-            "content": "[02# Always have Evade]\n040A0000 0069254C 1E2E1000\n\n"
+            "content": "[02# Always have Evade]\n040A0000 0069254C 1E2E1000\n\n",
+            "title": "[02# Always have Evade]"
         },
         {
-            "title": "[03# Inf Stamina]",
-            "content": "[03# Inf Stamina]\n040A0000 001E6C80 D65F03C0\n\n"
+            "content": "[03# Inf Stamina]\n040A0000 001E6C80 D65F03C0\n\n",
+            "title": "[03# Inf Stamina]"
         },
         {
-            "title": "[04# No Skill Cooldown]",
-            "content": "[04# No Skill Cooldown]\n040A0000 000733C4 52800020\n\n"
+            "content": "[04# No Skill Cooldown]\n040A0000 000733C4 52800020\n\n",
+            "title": "[04# No Skill Cooldown]"
         },
         {
-            "title": "[05# get merv x9999999 on collect]",
-            "content": "[05# get merv x9999999 on collect]\n040A0000 00293B84 5292CFE9\n040A0000 00293B88 72A01309\n\n"
+            "content": "[05# get merv x9999999 on collect]\n040A0000 00293B84 5292CFE9\n040A0000 00293B88 72A01309\n\n",
+            "title": "[05# get merv x9999999 on collect]"
         },
         {
-            "title": "[06# Gemstone x9999 on collect]",
-            "content": "[06# Gemstone x9999 on collect]\n040A0000 0005344C 5284E1F5\n\n"
+            "content": "[06# Gemstone x9999 on collect]\n040A0000 0005344C 5284E1F5\n\n",
+            "title": "[06# Gemstone x9999 on collect]"
         },
         {
-            "title": "[07# ignore skill points]",
-            "content": "[07# ignore skill points]\n040A0000 01CB40BC 6B00001F\n\n"
+            "content": "[07# ignore skill points]\n040A0000 01CB40BC 6B00001F\n\n",
+            "title": "[07# ignore skill points]"
         },
         {
-            "title": "[08# Ignore gemstone]",
-            "content": "[08# Ignore gemstone]\n040A0000 000436FBC 6B09013F"
+            "content": "[08# Ignore gemstone]\n040A0000 000436FBC 6B09013F",
+            "title": "[08# Ignore gemstone]"
         }
     ]
 }

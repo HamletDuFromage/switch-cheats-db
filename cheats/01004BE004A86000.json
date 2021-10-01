@@ -1,28 +1,28 @@
 {
     "DC7EBF2D74AE270D": [
         {
-            "title": "[Moon Jump (Hold A)]",
-            "content": "[Moon Jump (Hold A)]\n80000001\n580F0000 05EE8998\n780F0000 0000007C\n640F0000 00000000 FFFFD000\n20000000\n\n"
+            "content": "[Moon Jump (Hold A)]\n80000001\n580F0000 05EE8998\n780F0000 0000007C\n640F0000 00000000 FFFFD000\n20000000\n\n",
+            "title": "[Moon Jump (Hold A)]"
         },
         {
-            "title": "[Inf Heart]",
-            "content": "[Inf Heart]\n580F0000 05EE8998\n780F0000 000000F4\n640F0000 00000000 00000003\n\n"
+            "content": "[Inf Heart]\n580F0000 05EE8998\n780F0000 000000F4\n640F0000 00000000 00000003\n\n",
+            "title": "[Inf Heart]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n580F0000 05EE8998\n780F0000 00000164\n640F0000 00000000 00002000\n\n"
+            "content": "[Invincible]\n580F0000 05EE8998\n780F0000 00000164\n640F0000 00000000 00002000\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Moon Jump (Hold A)(SC)]",
-            "content": "[Moon Jump (Hold A)(SC)]\n80000001\n580F0000 061EAB18\n780F0000 0000007C\n640F0000 00000000 FFFFD000\n20000000\n\n"
+            "content": "[Moon Jump (Hold A)(SC)]\n80000001\n580F0000 061EAB18\n780F0000 0000007C\n640F0000 00000000 FFFFD000\n20000000\n\n",
+            "title": "[Moon Jump (Hold A)(SC)]"
         },
         {
-            "title": "[Inf Heart (SC)]",
-            "content": "[Inf Heart (SC)]\n580F0000 061EAB18\n780F0000 000000FC\n640F0000 00000000 00000003\n\n"
+            "content": "[Inf Heart (SC)]\n580F0000 061EAB18\n780F0000 000000FC\n640F0000 00000000 00000003\n\n",
+            "title": "[Inf Heart (SC)]"
         },
         {
-            "title": "[Invincible (SC)]",
-            "content": "[Invincible (SC)]\n580F0000 061EAB18\n780F0000 00000170\n640F0000 00000000 00002000"
+            "content": "[Invincible (SC)]\n580F0000 061EAB18\n780F0000 00000170\n640F0000 00000000 00002000",
+            "title": "[Invincible (SC)]"
         }
     ]
 }

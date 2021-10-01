@@ -1,16 +1,16 @@
 {
     "A331029FBA7353B7": [
         {
-            "title": "[P1 Infinite HP]",
-            "content": "[P1 Infinite HP]\n01000000 012592D8 00000060\n\n"
+            "content": "[P1 Infinite HP]\n01000000 012592D8 00000060\n\n",
+            "title": "[P1 Infinite HP]"
         },
         {
-            "title": "[P2 NO HP]",
-            "content": "[P2 NO HP]\n01000000 012593D8 00000000\n\n"
+            "content": "[P2 NO HP]\n01000000 012593D8 00000000\n\n",
+            "title": "[P2 NO HP]"
         },
         {
-            "title": "[HITANYWHERE BOTH]",
-            "content": "[HITANYWHERE BOTH]\n04100000 0087B0F028 60004A40"
+            "content": "[HITANYWHERE BOTH]\n04100000 0087B0F028 60004A40",
+            "title": "[HITANYWHERE BOTH]"
         }
     ]
 }

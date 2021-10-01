@@ -1,36 +1,36 @@
 {
     "CC45E98BFBEC91A8": [
         {
-            "title": "[Inf HP]",
-            "content": "[Inf HP]\n580F0000 0074A0F8\n780F0000 00000058\n640F0000 00000000 4479C000\n\n"
+            "content": "[Inf HP]\n580F0000 0074A0F8\n780F0000 00000058\n640F0000 00000000 4479C000\n\n",
+            "title": "[Inf HP]"
         },
         {
-            "title": "[Inf Lives]",
-            "content": "[Inf Lives]\n580F0000 0074A0F8\n780F0000 00000078\n640F0000 00000000 40A00000\n\n"
+            "content": "[Inf Lives]\n580F0000 0074A0F8\n780F0000 00000078\n640F0000 00000000 40A00000\n\n",
+            "title": "[Inf Lives]"
         },
         {
-            "title": "[Inf SP]",
-            "content": "[Inf SP]\n580F0000 0074A0F8\n780F0000 00000088\n640F0000 00000000 42C80000\n\n"
+            "content": "[Inf SP]\n580F0000 0074A0F8\n780F0000 00000088\n640F0000 00000000 42C80000\n\n",
+            "title": "[Inf SP]"
         },
         {
-            "title": "[Inf Time]",
-            "content": "[Inf Time]\n580F0000 0074A0F8\n780F0000 00000050\n640F0000 00000000 0000EA30\n\n"
+            "content": "[Inf Time]\n580F0000 0074A0F8\n780F0000 00000050\n640F0000 00000000 0000EA30\n\n",
+            "title": "[Inf Time]"
         },
         {
-            "title": "[Stage Clear (Hold ZL & ZR & UP)]",
-            "content": "[Stage Clear (Hold ZL & ZR & UP)]\n80002300\n580F0000 0074A0F8\n780F0000 00000098\n640F0000 00000000 42C80000\n20000000\n\n"
+            "content": "[Stage Clear (Hold ZL & ZR & UP)]\n80002300\n580F0000 0074A0F8\n780F0000 00000098\n640F0000 00000000 42C80000\n20000000\n\n",
+            "title": "[Stage Clear (Hold ZL & ZR & UP)]"
         },
         {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000002\n580F0000 0074A0F8\n580F1000 000000E8\n580F1000 00000030\n780F0000 000005A4\n640F0000 00000000 3DF00000\n20000000\n\n"
+            "content": "[Moon Jump]\n80000002\n580F0000 0074A0F8\n580F1000 000000E8\n580F1000 00000030\n780F0000 000005A4\n640F0000 00000000 3DF00000\n20000000\n\n",
+            "title": "[Moon Jump]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n580F0000 0074A0F8\n580F1000 000000E8\n580F1000 00000030\n780F0000 00000210\n640F0000 00000000 00000078\n\n"
+            "content": "[Invincible]\n580F0000 0074A0F8\n580F1000 000000E8\n580F1000 00000030\n780F0000 00000210\n640F0000 00000000 00000078\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Speed UP]",
-            "content": "[Speed UP]\n580F0000 0074A0F8\n580F1000 000000E8\n580F1000 00000030\n780F0000 000001D4\n640F0000 00000000 40800000"
+            "content": "[Speed UP]\n580F0000 0074A0F8\n580F1000 000000E8\n580F1000 00000030\n780F0000 000001D4\n640F0000 00000000 40800000",
+            "title": "[Speed UP]"
         }
     ]
 }

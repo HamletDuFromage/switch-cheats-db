@@ -1,16 +1,16 @@
 {
     "46E1B5C89A40D85E": [
         {
-            "title": "[Inf HP]",
-            "content": "[Inf HP]\n040F0000 1EDFDE94 00003000\n\n"
+            "content": "[Inf HP]\n040F0000 1EDFDE94 00003000\n\n",
+            "title": "[Inf HP]"
         },
         {
-            "title": "[Inf EXS]",
-            "content": "[Inf EXS]\n040F0000 1EDFDEB4 00004E20\n\n"
+            "content": "[Inf EXS]\n040F0000 1EDFDEB4 00004E20\n\n",
+            "title": "[Inf EXS]"
         },
         {
-            "title": "[Inf GRD]",
-            "content": "[Inf GRD]\n040F0000 1EA7F5AC 0000000C"
+            "content": "[Inf GRD]\n040F0000 1EA7F5AC 0000000C",
+            "title": "[Inf GRD]"
         }
     ]
 }

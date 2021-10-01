@@ -1,52 +1,52 @@
 {
     "895B31A76EB93591": [
         {
-            "title": "[Have Multiple Money]",
-            "content": "[Have Multiple Money]\n040B0000 00590F80 0B151101\n\n"
+            "content": "[Have Multiple Money]\n040B0000 00590F80 0B151101\n\n",
+            "title": "[Have Multiple Money]"
         },
         {
-            "title": "[Have Gems not reduced]",
-            "content": "[Have Gems not reduced]\n040B0000 001373EC 52800000\n\n"
+            "content": "[Have Gems not reduced]\n040B0000 001373EC 52800000\n\n",
+            "title": "[Have Gems not reduced]"
         },
         {
-            "title": "[Have Multi Experience]",
-            "content": "[Have Multi Experience]\n040B0000 00591214 0B081041\n\n"
+            "content": "[Have Multi Experience]\n040B0000 00591214 0B081041\n\n",
+            "title": "[Have Multi Experience]"
         },
         {
-            "title": "[Skill Tree Free to Unlock]",
-            "content": "[Skill Tree Free to Unlock]\n040B0000 00004000 52800000\n040B0000 0000441C 52800008\n\n"
+            "content": "[Skill Tree Free to Unlock]\n040B0000 00004000 52800000\n040B0000 0000441C 52800008\n\n",
+            "title": "[Skill Tree Free to Unlock]"
         },
         {
-            "title": "[Break Defense to enemy]",
-            "content": "[Break Defense to enemy]\n040B0000 00B81400 B940F66F\n040B0000 00B81404 12800010\n040B0000 00B81408 6B1001FF\n040B0000 00B8140C 54000061\n040B0000 00B81410 B9411A71\n040B0000 00B81414 2A1103F4\n040B0000 00B81418 1A9FC135\n040B0000 00B8141C D65F03C0\n040B0000 0038B410 941FD7FC\n\n"
+            "content": "[Break Defense to enemy]\n040B0000 00B81400 B940F66F\n040B0000 00B81404 12800010\n040B0000 00B81408 6B1001FF\n040B0000 00B8140C 54000061\n040B0000 00B81410 B9411A71\n040B0000 00B81414 2A1103F4\n040B0000 00B81418 1A9FC135\n040B0000 00B8141C D65F03C0\n040B0000 0038B410 941FD7FC\n\n",
+            "title": "[Break Defense to enemy]"
         },
         {
-            "title": "[Have Ap point Max]",
-            "content": "[Have Ap point Max]\n040B0000 0038B410 1A9FC135\n\n"
+            "content": "[Have Ap point Max]\n040B0000 0038B410 1A9FC135\n\n",
+            "title": "[Have Ap point Max]"
         },
         {
-            "title": "[have the highest quality item]",
-            "content": "[have the highest quality item]\n040B0000 0059E6BC D503201F\n040B0000 0059E6C4 52807D15\n\n"
+            "content": "[have the highest quality item]\n040B0000 0059E6BC D503201F\n040B0000 0059E6C4 52807D15\n\n",
+            "title": "[have the highest quality item]"
         },
         {
-            "title": "[The characteristic effect is maximum]",
-            "content": "[The characteristic effect is maximum]\n040B0000 00597F3C 52800C88\n\n"
+            "content": "[The characteristic effect is maximum]\n040B0000 00597F3C 52800C88\n\n",
+            "title": "[The characteristic effect is maximum]"
         },
         {
-            "title": "[Items increment on]",
-            "content": "[Items increment on]\n040B0000 00B81420 0B010FE1\n040B0000 00B81424 7100043F\n040B0000 00B81428 D65F03C0\n040B0000 00622264 94157C6F\n\n"
+            "content": "[Items increment on]\n040B0000 00B81420 0B010FE1\n040B0000 00B81424 7100043F\n040B0000 00B81428 D65F03C0\n040B0000 00622264 94157C6F\n\n",
+            "title": "[Items increment on]"
         },
         {
-            "title": "[Items increment off]",
-            "content": "[Items increment off]\n040B0000 00622264 7100043F\n\n"
+            "content": "[Items increment off]\n040B0000 00622264 7100043F\n\n",
+            "title": "[Items increment off]"
         },
         {
-            "title": "[Walk Through Walls (Hold L)]",
-            "content": "[Walk Through Walls (Hold L)]\n580F0000 019AC798\n580F1000 000000B8\n580F1000 00000000\n580F1000 000000C0\n580F1000 00000010\n580F1000 00000028\n580F1000 00000010\n780F0000 000000E6\n610F0000 00000000 00000001\n80000040\n610F0000 00000000 00000000\n20000000\n\n"
+            "content": "[Walk Through Walls (Hold L)]\n580F0000 019AC798\n580F1000 000000B8\n580F1000 00000000\n580F1000 000000C0\n580F1000 00000010\n580F1000 00000028\n580F1000 00000010\n780F0000 000000E6\n610F0000 00000000 00000001\n80000040\n610F0000 00000000 00000000\n20000000\n\n",
+            "title": "[Walk Through Walls (Hold L)]"
         },
         {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000002\n580F0000 019AC798\n580F1000 000000B8\n580F1000 00000000\n580F1000 000000C0\n580F1000 00000010\n580F1000 00000028\n580F1000 00000010\n580F1000 00000018\n780F0000 000000C0\n640F0000 00000000 45000000\n780F0000 00000030\n640F0000 00000000 00000000\n20000000"
+            "content": "[Moon Jump]\n80000002\n580F0000 019AC798\n580F1000 000000B8\n580F1000 00000000\n580F1000 000000C0\n580F1000 00000010\n580F1000 00000028\n580F1000 00000010\n580F1000 00000018\n780F0000 000000C0\n640F0000 00000000 45000000\n780F0000 00000030\n640F0000 00000000 00000000\n20000000",
+            "title": "[Moon Jump]"
         }
     ]
 }

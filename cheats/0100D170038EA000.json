@@ -1,28 +1,28 @@
 {
     "70E6912BEBF57A0A": [
         {
-            "title": "[P1 Infinite Lives]",
-            "content": "[P1 Infinite Lives]\n01000000 01236d62 00000009\n\n"
+            "content": "[P1 Infinite Lives]\n01000000 01236d62 00000009\n\n",
+            "title": "[P1 Infinite Lives]"
         },
         {
-            "title": "[P1 Infinite HP]",
-            "content": "[P1 Infinite HP]\n01000000 01236fb4 00000006\n\n"
+            "content": "[P1 Infinite HP]\n01000000 01236fb4 00000006\n\n",
+            "title": "[P1 Infinite HP]"
         },
         {
-            "title": "[P1 Invincible]",
-            "content": "[P1 Invincible]\n01000000 0123702e 000000ff\n\n"
+            "content": "[P1 Invincible]\n01000000 0123702e 000000ff\n\n",
+            "title": "[P1 Invincible]"
         },
         {
-            "title": "[P2 Infinite Lives]",
-            "content": "[P2 Infinite Lives]\n01000000 01236d64 00000009\n\n"
+            "content": "[P2 Infinite Lives]\n01000000 01236d64 00000009\n\n",
+            "title": "[P2 Infinite Lives]"
         },
         {
-            "title": "[P2 Infinite HP]",
-            "content": "[P2 Infinite HP]\n01000000 012370b4 00000006\n\n"
+            "content": "[P2 Infinite HP]\n01000000 012370b4 00000006\n\n",
+            "title": "[P2 Infinite HP]"
         },
         {
-            "title": "[P2 Invincible]",
-            "content": "[P2 Invincible]\n01000000 0123712e 000000ff"
+            "content": "[P2 Invincible]\n01000000 0123712e 000000ff",
+            "title": "[P2 Invincible]"
         }
     ]
 }

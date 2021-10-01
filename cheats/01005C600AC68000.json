@@ -1,68 +1,68 @@
 {
     "3758602AA47ADD37": [
         {
-            "title": "[99,999 Renown]",
-            "content": "[99,999 Renown]\n040f0000 00e9016c 0001869f\n\n"
+            "content": "[99,999 Renown]\n040f0000 00e9016c 0001869f\n\n",
+            "title": "[99,999 Renown]"
         },
         {
-            "title": "[20 CP]",
-            "content": "[20 CP]\n040f0000 00fdff34 00000014\n\n"
+            "content": "[20 CP]\n040f0000 00fdff34 00000014\n\n",
+            "title": "[20 CP]"
         },
         {
-            "title": "[Hafen Inf HP/Ammo]",
-            "content": "[Hafen Inf HP/Ammo]\n040f0000 00fe987c 00001068\n040f0000 00fe9930 00000008\n040f0000 00fe9934 00000008\n040f0000 00fe993c 00000008\n\n"
+            "content": "[Hafen Inf HP/Ammo]\n040f0000 00fe987c 00001068\n040f0000 00fe9930 00000008\n040f0000 00fe9934 00000008\n040f0000 00fe993c 00000008\n\n",
+            "title": "[Hafen Inf HP/Ammo]"
         },
         {
-            "title": "[Cactus Inf HP]",
-            "content": "[Cactus Inf HP]\n040f0000 00fe99fc 00000ce4\n\n"
+            "content": "[Cactus Inf HP]\n040f0000 00fe99fc 00000ce4\n\n",
+            "title": "[Cactus Inf HP]"
         },
         {
-            "title": "[Claude Inf HP/Ammo]",
-            "content": "[Claude Inf HP/Ammo]\n040f0000 00fe03fc 00000178\n040f0000 00fe04b8 00000008\n\n"
+            "content": "[Claude Inf HP/Ammo]\n040f0000 00fe03fc 00000178\n040f0000 00fe04b8 00000008\n\n",
+            "title": "[Claude Inf HP/Ammo]"
         },
         {
-            "title": "[Raz Inf HP/Ammo]",
-            "content": "[Raz Inf HP/Ammo]\n040f0000 00fe027c 000001cb\n040f0000 00fe0338 00000008\n\n"
+            "content": "[Raz Inf HP/Ammo]\n040f0000 00fe027c 000001cb\n040f0000 00fe0338 00000008\n\n",
+            "title": "[Raz Inf HP/Ammo]"
         },
         {
-            "title": "[Kai Inf HP/Ammo]",
-            "content": "[Kai Inf HP/Ammo]\n040f0000 00fe00fc 000000f2\n040f0000 00fe01b0 00000008\n\n"
+            "content": "[Kai Inf HP/Ammo]\n040f0000 00fe00fc 000000f2\n040f0000 00fe01b0 00000008\n\n",
+            "title": "[Kai Inf HP/Ammo]"
         },
         {
-            "title": "[Riley Inf HP/Ammo]",
-            "content": "[Riley Inf HP/Ammo]\n040f0000 00fdff7c 00000119\n040f0000 00fe0030 00000008\n\n"
+            "content": "[Riley Inf HP/Ammo]\n040f0000 00fdff7c 00000119\n040f0000 00fe0030 00000008\n\n",
+            "title": "[Riley Inf HP/Ammo]"
         },
         {
-            "title": "[Curtis Inf HP/Ammo]",
-            "content": "[Curtis Inf HP/Ammo]\n040f0000 00fe177c 0000015d\n040f0000 00fe1838 00000008\n\n"
+            "content": "[Curtis Inf HP/Ammo]\n040f0000 00fe177c 0000015d\n040f0000 00fe1838 00000008\n\n",
+            "title": "[Curtis Inf HP/Ammo]"
         },
         {
-            "title": "[Laurent Inf HP/Ammo]",
-            "content": "[Laurent Inf HP/Ammo]\n040f0000 00fe2f7c 0000022c\n040f0000 00fe3030 00000008\n\n"
+            "content": "[Laurent Inf HP/Ammo]\n040f0000 00fe2f7c 0000022c\n040f0000 00fe3030 00000008\n\n",
+            "title": "[Laurent Inf HP/Ammo]"
         },
         {
-            "title": "[Eileen Inf HP/Ammo]",
-            "content": "[Eileen Inf HP/Ammo]\n040f0000 00fe417c 000000fa\n040f0000 00fe4234 00000008\n\n"
+            "content": "[Eileen Inf HP/Ammo]\n040f0000 00fe417c 000000fa\n040f0000 00fe4234 00000008\n\n",
+            "title": "[Eileen Inf HP/Ammo]"
         },
         {
-            "title": "[Minerva Inf HP/Ammo]",
-            "content": "[Minerva Inf HP/Ammo]\n040f0000 00fe057c 0000018b\n040f0000 00fe0638 00000008\n\n"
+            "content": "[Minerva Inf HP/Ammo]\n040f0000 00fe057c 0000018b\n040f0000 00fe0638 00000008\n\n",
+            "title": "[Minerva Inf HP/Ammo]"
         },
         {
-            "title": "[Shoot again]",
-            "content": "[Shoot again]\n300C0000 00000068\n010B0000 00fe0089 00000000\n700B0000 00000180\n310C0000\n\n"
+            "content": "[Shoot again]\n300C0000 00000068\n010B0000 00fe0089 00000000\n700B0000 00000180\n310C0000\n\n",
+            "title": "[Shoot again]"
         },
         {
-            "title": "[Inf HP]",
-            "content": "[Inf HP]\n300C0000 00000068\n040A0000 00fdff7c 0000270F\n700A0000 00000180\n310C0000\n\n"
+            "content": "[Inf HP]\n300C0000 00000068\n040A0000 00fdff7c 0000270F\n700A0000 00000180\n310C0000\n\n",
+            "title": "[Inf HP]"
         },
         {
-            "title": "[Inf ammo]",
-            "content": "[Inf ammo]\n300C0000 00000067\n04090000 00fe0030 00000008\n04090000 00fe0034 00000008\n04090000 00fe0038 00000008\n04090000 00fe003C 00000008\n70090000 00000180\n310C0000\n\n"
+            "content": "[Inf ammo]\n300C0000 00000067\n04090000 00fe0030 00000008\n04090000 00fe0034 00000008\n04090000 00fe0038 00000008\n04090000 00fe003C 00000008\n70090000 00000180\n310C0000\n\n",
+            "title": "[Inf ammo]"
         },
         {
-            "title": "[Pointer Unit Ap - R(stop)]",
-            "content": "[Pointer Unit Ap - R(stop)]\n580E0000 010750F8\n780E0000 000004B4\n640E0000 00000000 00000000\n80000080\n640E0000 00000000 447A0000\n20000000"
+            "content": "[Pointer Unit Ap - R(stop)]\n580E0000 010750F8\n780E0000 000004B4\n640E0000 00000000 00000000\n80000080\n640E0000 00000000 447A0000\n20000000",
+            "title": "[Pointer Unit Ap - R(stop)]"
         }
     ]
 }

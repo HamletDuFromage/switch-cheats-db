@@ -1,62 +1,62 @@
 {
-    "2C931E8A8748ECCF": [
-        {
-            "title": "[ hitanywhere]",
-            "content": "[ hitanywhere]\n04000000 0061E688 D65F03C0\n\n"
-        },
-        {
-            "title": "[hitanywhere off]",
-            "content": "[hitanywhere off]\n04000000 0061E688 D10743FF"
-        }
-    ],
     "14C7986BEB94A1A1": [
         {
-            "title": "[hit range normal]",
-            "content": "[hit range normal]\n04000000 00619760 1E2E1013\n\n"
+            "content": "[hit range normal]\n04000000 00619760 1E2E1013\n\n",
+            "title": "[hit range normal]"
         },
         {
-            "title": "[hit range 5x]",
-            "content": "[hit range 5x]\n04000000 00619760 1E229013\n\n"
+            "content": "[hit range 5x]\n04000000 00619760 1E229013\n\n",
+            "title": "[hit range 5x]"
         },
         {
-            "title": "[hit range 10x]",
-            "content": "[hit range 10x]\n04000000 00619760 1E249013\n\n"
+            "content": "[hit range 10x]\n04000000 00619760 1E249013\n\n",
+            "title": "[hit range 10x]"
         },
         {
-            "title": "[hit range 31x]",
-            "content": "[hit range 31x]\n04000000 00619760 1E27F013\n\n"
+            "content": "[hit range 31x]\n04000000 00619760 1E27F013\n\n",
+            "title": "[hit range 31x]"
         },
         {
-            "title": "[Default 60 FPS]",
-            "content": "[Default 60 FPS]\n580F0000 02A21C00\n580F1000 00002040\n780F0000 00000F14\n640F0000 00000000 00000001\n\n"
+            "content": "[Default 60 FPS]\n580F0000 02A21C00\n580F1000 00002040\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[Default 60 FPS]"
         },
         {
-            "title": "[30 FPS]",
-            "content": "[30 FPS]\n580F0000 02A21C00\n580F1000 00002040\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+            "content": "[30 FPS]\n580F0000 02A21C00\n580F1000 00002040\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+            "title": "[30 FPS]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n080E0000 01162800 B947C128 B943F92A\n080E0000 01162808 1A881168 7100011F\n080E0000 01162810 D65F03C0 D503201F\n040E0000 00235A00 943CB380\n\n"
+            "content": "[Invincible]\n080E0000 01162800 B947C128 B943F92A\n080E0000 01162808 1A881168 7100011F\n080E0000 01162810 D65F03C0 D503201F\n040E0000 00235A00 943CB380\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Damage 5x]",
-            "content": "[Damage 5x]\n080E0000 01162830 B947C109 D503201F\n080E0000 01162838 528000A9 7100013F\n080E0000 01162840 1A8912B5 1B157D29\n080E0000 01162848 D65F03C0 B943F908\n040E0000 002359B8 943CB39E\n\n"
+            "content": "[Damage 5x]\n080E0000 01162830 B947C109 D503201F\n080E0000 01162838 528000A9 7100013F\n080E0000 01162840 1A8912B5 1B157D29\n080E0000 01162848 D65F03C0 B943F908\n040E0000 002359B8 943CB39E\n\n",
+            "title": "[Damage 5x]"
         },
         {
-            "title": "[EXP 5x]",
-            "content": "[EXP 5x]\n040E0000 00382734 0B020856\n\n"
+            "content": "[EXP 5x]\n040E0000 00382734 0B020856\n\n",
+            "title": "[EXP 5x]"
         },
         {
-            "title": "[Inf. MP]",
-            "content": "[Inf. MP]\n040E0000 0023F228 2A1F03E9\n\n"
+            "content": "[Inf. MP]\n040E0000 0023F228 2A1F03E9\n\n",
+            "title": "[Inf. MP]"
         },
         {
-            "title": "[Running Speed 2.5X]",
-            "content": "[Running Speed 2.5X]\n040E0000 0030152C 1E209001\n040E0000 00300FA8 1E209000\n\n"
+            "content": "[Running Speed 2.5X]\n040E0000 0030152C 1E209001\n040E0000 00300FA8 1E209000\n\n",
+            "title": "[Running Speed 2.5X]"
         },
         {
-            "title": "[Created by Eiffel2018]",
-            "content": "[Created by Eiffel2018]"
+            "content": "[Created by Eiffel2018]",
+            "title": "[Created by Eiffel2018]"
+        }
+    ],
+    "2C931E8A8748ECCF": [
+        {
+            "content": "[ hitanywhere]\n04000000 0061E688 D65F03C0\n\n",
+            "title": "[ hitanywhere]"
+        },
+        {
+            "content": "[hitanywhere off]\n04000000 0061E688 D10743FF",
+            "title": "[hitanywhere off]"
         }
     ]
 }

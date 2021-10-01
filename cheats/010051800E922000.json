@@ -1,20 +1,20 @@
 {
     "01744DBED078494C": [
         {
-            "title": "[pearls x 100k after battle]",
-            "content": "[pearls x 100k after battle]\n04000000 010FF5E8 47C35000\n04000000 010FF5E0 1C000040\n\n"
+            "content": "[pearls x 100k after battle]\n04000000 010FF5E8 47C35000\n04000000 010FF5E0 1C000040\n\n",
+            "title": "[pearls x 100k after battle]"
         },
         {
-            "title": "[get 10k xp after battle]",
-            "content": "[get 10k xp after battle]\n04000000 010FFA18 00002710\n04000000 010FFA10 18000040\n\n"
+            "content": "[get 10k xp after battle]\n04000000 010FFA18 00002710\n04000000 010FFA10 18000040\n\n",
+            "title": "[get 10k xp after battle]"
         },
         {
-            "title": "[deactivate pearls cheat]",
-            "content": "[deactivate pearls cheat]\n04000000 010FF5E0 BD429800\n\n"
+            "content": "[deactivate pearls cheat]\n04000000 010FF5E0 BD429800\n\n",
+            "title": "[deactivate pearls cheat]"
         },
         {
-            "title": "[deactivate xp cheat]",
-            "content": "[deactivate xp cheat]\n04000000 010FFA10 B9433000"
+            "content": "[deactivate xp cheat]\n04000000 010FFA10 B9433000",
+            "title": "[deactivate xp cheat]"
         }
     ]
 }

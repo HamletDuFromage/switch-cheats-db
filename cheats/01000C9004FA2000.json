@@ -1,28 +1,28 @@
 {
     "10597EDB95065A24": [
         {
-            "title": "[P1 Infinite Lives]",
-            "content": "[P1 Infinite Lives]\n01000000 0124efb3 00000009\n\n"
+            "content": "[P1 Infinite Lives]\n01000000 0124efb3 00000009\n\n",
+            "title": "[P1 Infinite Lives]"
         },
         {
-            "title": "[P1 Infinite HP]",
-            "content": "[P1 Infinite HP]\n01000000 0124efb2 0000000a\n\n"
+            "content": "[P1 Infinite HP]\n01000000 0124efb2 0000000a\n\n",
+            "title": "[P1 Infinite HP]"
         },
         {
-            "title": "[P1 Infinite Bombs]",
-            "content": "[P1 Infinite Bombs]\n01000000 0124efb5 00000006\n\n"
+            "content": "[P1 Infinite Bombs]\n01000000 0124efb5 00000006\n\n",
+            "title": "[P1 Infinite Bombs]"
         },
         {
-            "title": "[P2 Infinite Lives]",
-            "content": "[P2 Infinite Lives]\n01000000 0124f0b3 00000009\n\n"
+            "content": "[P2 Infinite Lives]\n01000000 0124f0b3 00000009\n\n",
+            "title": "[P2 Infinite Lives]"
         },
         {
-            "title": "[P12 Infinite HP]",
-            "content": "[P12 Infinite HP]\n01000000 0124f0b2 0000000a\n\n"
+            "content": "[P12 Infinite HP]\n01000000 0124f0b2 0000000a\n\n",
+            "title": "[P12 Infinite HP]"
         },
         {
-            "title": "[P2 Infinite Bombs]",
-            "content": "[P2 Infinite Bombs]\n01000000 0124f0b5 00000006"
+            "content": "[P2 Infinite Bombs]\n01000000 0124f0b5 00000006",
+            "title": "[P2 Infinite Bombs]"
         }
     ]
 }

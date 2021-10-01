@@ -1,20 +1,20 @@
 {
     "28071EC935DBB7A3": [
         {
-            "title": "[Inf Life (OFF ZL)]",
-            "content": "[Inf Life (OFF ZL)]\n021F0000 AE5B9202 00000A0B\n80000100\n021F0000 AE5B9202 00000000\n20000000\n\n"
+            "content": "[Inf Life (OFF ZL)]\n021F0000 AE5B9202 00000A0B\n80000100\n021F0000 AE5B9202 00000000\n20000000\n\n",
+            "title": "[Inf Life (OFF ZL)]"
         },
         {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000002\n021F0000 AE5B985A 0000FC00\n20000000\n\n"
+            "content": "[Moon Jump]\n80000002\n021F0000 AE5B985A 0000FC00\n20000000\n\n",
+            "title": "[Moon Jump]"
         },
         {
-            "title": "[Invincible ]",
-            "content": "[Invincible ]\n011F0000 AE5B987C 00000001\n\n"
+            "content": "[Invincible ]\n011F0000 AE5B987C 00000001\n\n",
+            "title": "[Invincible ]"
         },
         {
-            "title": "[Gold MAX]",
-            "content": "[Gold MAX]\n011F0000 AE5B921C 00090909"
+            "content": "[Gold MAX]\n011F0000 AE5B921C 00090909",
+            "title": "[Gold MAX]"
         }
     ]
 }

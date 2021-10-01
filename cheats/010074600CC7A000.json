@@ -1,38 +1,38 @@
 {
-    "710B99C18AA32240": [
-        {
-            "title": "{Master Code}",
-            "content": "{Master Code}\n04000000 003527CC 000F423F\n\n"
-        },
-        {
-            "title": "[Rank Points Human MAX]",
-            "content": "[Rank Points Human MAX]\n04000000 003527D0 18FFFFE0\n\n"
-        },
-        {
-            "title": "[Rank Points Ghost MAX]",
-            "content": "[Rank Points Ghost MAX]\n04000000 003527F0 18FFFEE0\n\n"
-        },
-        {
-            "title": "[Infinite Lamp Usage]",
-            "content": "[Infinite Lamp Usage]\n04000000 003304A0 D65F03C0"
-        }
-    ],
     "4D4FCFD3BE47484A": [
         {
-            "title": "{Master Code}",
-            "content": "{Master Code}\n04000000 0031F218 000F423F\n\n"
+            "content": "{Master Code}\n04000000 0031F218 000F423F\n\n",
+            "title": "{Master Code}"
         },
         {
-            "title": "[Rank Points Human MAX]",
-            "content": "[Rank Points Human MAX]\n04000000 0031F220 18FFFFC0\n\n"
+            "content": "[Rank Points Human MAX]\n04000000 0031F220 18FFFFC0\n\n",
+            "title": "[Rank Points Human MAX]"
         },
         {
-            "title": "[Rank Points Ghost MAX]",
-            "content": "[Rank Points Ghost MAX]\n04000000 0031F280 18FFFCC0\n\n"
+            "content": "[Rank Points Ghost MAX]\n04000000 0031F280 18FFFCC0\n\n",
+            "title": "[Rank Points Ghost MAX]"
         },
         {
-            "title": "[Infinite Lamp Usage]",
-            "content": "[Infinite Lamp Usage]\n04000000 002F39A0 D65F03C0"
+            "content": "[Infinite Lamp Usage]\n04000000 002F39A0 D65F03C0",
+            "title": "[Infinite Lamp Usage]"
+        }
+    ],
+    "710B99C18AA32240": [
+        {
+            "content": "{Master Code}\n04000000 003527CC 000F423F\n\n",
+            "title": "{Master Code}"
+        },
+        {
+            "content": "[Rank Points Human MAX]\n04000000 003527D0 18FFFFE0\n\n",
+            "title": "[Rank Points Human MAX]"
+        },
+        {
+            "content": "[Rank Points Ghost MAX]\n04000000 003527F0 18FFFEE0\n\n",
+            "title": "[Rank Points Ghost MAX]"
+        },
+        {
+            "content": "[Infinite Lamp Usage]\n04000000 003304A0 D65F03C0",
+            "title": "[Infinite Lamp Usage]"
         }
     ]
 }

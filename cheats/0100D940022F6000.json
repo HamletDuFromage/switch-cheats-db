@@ -1,20 +1,20 @@
 {
     "069B9A025B219E56": [
         {
-            "title": "[P1 Infinite HP]",
-            "content": "[P1 Infinite HP]\n01100000 0093232c 0000000c\n01100000 00932330 0000000c\n\n"
+            "content": "[P1 Infinite HP]\n01100000 0093232c 0000000c\n01100000 00932330 0000000c\n\n",
+            "title": "[P1 Infinite HP]"
         },
         {
-            "title": "[P1 Invincible]",
-            "content": "[P1 Invincible]\n01100000 00932347 00000042\n01100000 00932340 00000001\n\n"
+            "content": "[P1 Invincible]\n01100000 00932347 00000042\n01100000 00932340 00000001\n\n",
+            "title": "[P1 Invincible]"
         },
         {
-            "title": "[P2 Infinite HP]",
-            "content": "[P2 Infinite HP]\n01100000 009328dc 0000000c\n01100000 009328e0 0000000c\n\n"
+            "content": "[P2 Infinite HP]\n01100000 009328dc 0000000c\n01100000 009328e0 0000000c\n\n",
+            "title": "[P2 Infinite HP]"
         },
         {
-            "title": "[P2 Invincible]",
-            "content": "[P2 Invincible]\n01100000 009328f7 00000042\n01100000 009328f0 00000001"
+            "content": "[P2 Invincible]\n01100000 009328f7 00000042\n01100000 009328f0 00000001",
+            "title": "[P2 Invincible]"
         }
     ]
 }

@@ -1,32 +1,32 @@
 {
     "8E1251E46A5BCAAA": [
         {
-            "title": "[inf. HP]",
-            "content": "[inf. HP]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 000004A8\n620E0000 00000000 000003E7\n780E0000 00000040\n620E0000 00000000 000003E7\n\n"
+            "content": "[inf. HP]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 000004A8\n620E0000 00000000 000003E7\n780E0000 00000040\n620E0000 00000000 000003E7\n\n",
+            "title": "[inf. HP]"
         },
         {
-            "title": "[inf. MP]",
-            "content": "[inf. MP]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 000006E8\n610E0000 00000000 000000FF\n\n"
+            "content": "[inf. MP]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 000006E8\n610E0000 00000000 000000FF\n\n",
+            "title": "[inf. MP]"
         },
         {
-            "title": "[Inf. Jump (Double Jump enchance)]",
-            "content": "[Inf. Jump (Double Jump enchance)]\n58010000 034CDA28\n58011000 00000130\n58011000 000002A0\n58011000 00000260\n78010000 00000138\n61010000 00000000 00000000\n\n"
+            "content": "[Inf. Jump (Double Jump enchance)]\n58010000 034CDA28\n58011000 00000130\n58011000 000002A0\n58011000 00000260\n78010000 00000138\n61010000 00000000 00000000\n\n",
+            "title": "[Inf. Jump (Double Jump enchance)]"
         },
         {
-            "title": "[inf. Water Breathing]",
-            "content": "[inf. Water Breathing]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 00000A38\n610E0000 00000000 00000032\n\n"
+            "content": "[inf. Water Breathing]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 00000A38\n610E0000 00000000 00000032\n\n",
+            "title": "[inf. Water Breathing]"
         },
         {
-            "title": "[inf. Money]",
-            "content": "[inf. Money]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 00000058\n620E0000 00000000 0000270F\n\n"
+            "content": "[inf. Money]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 00000058\n620E0000 00000000 0000270F\n\n",
+            "title": "[inf. Money]"
         },
         {
-            "title": "[inf. Upgrade Points]",
-            "content": "[inf. Upgrade Points]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 00000508\n610E0000 00000000 00000063\n\n"
+            "content": "[inf. Upgrade Points]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 00000508\n610E0000 00000000 00000063\n\n",
+            "title": "[inf. Upgrade Points]"
         },
         {
-            "title": "[inf. Skill Points]",
-            "content": "[inf. Skill Points]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 00000238\n610E0000 00000000 00000063"
+            "content": "[inf. Skill Points]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 00000238\n610E0000 00000000 00000063",
+            "title": "[inf. Skill Points]"
         }
     ]
 }

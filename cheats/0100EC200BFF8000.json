@@ -1,44 +1,44 @@
 {
     "2BC3F1356EFA8560": [
         {
-            "title": "[Lives unlimited]",
-            "content": "[Lives unlimited]\n01000000 0375ED4C 00000063\n\n"
+            "content": "[Lives unlimited]\n01000000 0375ED4C 00000063\n\n",
+            "title": "[Lives unlimited]"
         },
         {
-            "title": "[Credits unlimited]",
-            "content": "[Credits unlimited]\n01000000 03759C32 00000063\n\n"
+            "content": "[Credits unlimited]\n01000000 03759C32 00000063\n\n",
+            "title": "[Credits unlimited]"
         },
         {
-            "title": "[Bombs unlimited]",
-            "content": "[Bombs unlimited]\n01000000 03759CA4 00000063\n\n"
+            "content": "[Bombs unlimited]\n01000000 03759CA4 00000063\n\n",
+            "title": "[Bombs unlimited]"
         },
         {
-            "title": "[Energy unlimited]",
-            "content": "[Energy unlimited]\n01000000 0375ED52 00000050\n\n"
+            "content": "[Energy unlimited]\n01000000 0375ED52 00000050\n\n",
+            "title": "[Energy unlimited]"
         },
         {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000002\n580F0000 002C9F90\n780F0000 00000054\n640F0000 00000000 0000000F\n20000000\n\n"
+            "content": "[Moon Jump]\n80000002\n580F0000 002C9F90\n780F0000 00000054\n640F0000 00000000 0000000F\n20000000\n\n",
+            "title": "[Moon Jump]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n580F0000 002C9B18\n780F0000 00000000\n610F0000 00000000 000000BE\n\n"
+            "content": "[Invincible]\n580F0000 002C9B18\n780F0000 00000000\n610F0000 00000000 000000BE\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Invincible2]",
-            "content": "[Invincible2]\n580F0000 002C9F90\n780F0000 00000052\n610F0000 00000000 0000001C\n\n"
+            "content": "[Invincible2]\n580F0000 002C9F90\n780F0000 00000052\n610F0000 00000000 0000001C\n\n",
+            "title": "[Invincible2]"
         },
         {
-            "title": "[Inf Life]",
-            "content": "[Inf Life]\n580F0000 002C9F90\n780F0000 00000068\n610F0000 00000000 00000004\n\n"
+            "content": "[Inf Life]\n580F0000 002C9F90\n780F0000 00000068\n610F0000 00000000 00000004\n\n",
+            "title": "[Inf Life]"
         },
         {
-            "title": "[Inf Bomb]",
-            "content": "[Inf Bomb]\n580F0000 002C9C48\n780F0000 00000000\n610F0000 00000000 00000063\n\n"
+            "content": "[Inf Bomb]\n580F0000 002C9C48\n780F0000 00000000\n610F0000 00000000 00000063\n\n",
+            "title": "[Inf Bomb]"
         },
         {
-            "title": "[Inf Lives]",
-            "content": "[Inf Lives]\n580F0000 002C9C40\n"
+            "content": "[Inf Lives]\n580F0000 002C9C40\n",
+            "title": "[Inf Lives]"
         }
     ]
 }

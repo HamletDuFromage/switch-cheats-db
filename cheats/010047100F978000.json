@@ -1,16 +1,16 @@
 {
     "7D6224F7125CE217": [
         {
-            "title": "[Infinite Lives]",
-            "content": "[Infinite Lives]\n011F0000 0078CDBD 0000001B\n\n"
+            "content": "[Infinite Lives]\n011F0000 0078CDBD 0000001B\n\n",
+            "title": "[Infinite Lives]"
         },
         {
-            "title": "[Time Stop]",
-            "content": "[Time Stop]\n011F0000 0078CDB4 000000FF\n\n"
+            "content": "[Time Stop]\n011F0000 0078CDB4 000000FF\n\n",
+            "title": "[Time Stop]"
         },
         {
-            "title": "[Easy clear (ZL)]",
-            "content": "[Easy clear (ZL)]\n80000100\n011F0000 0078CA1F 00000030\n20000000"
+            "content": "[Easy clear (ZL)]\n80000100\n011F0000 0078CA1F 00000030\n20000000",
+            "title": "[Easy clear (ZL)]"
         }
     ]
 }

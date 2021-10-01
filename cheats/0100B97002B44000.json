@@ -1,32 +1,32 @@
 {
     "E1E188AA898B0AC6": [
         {
-            "title": "[P1 Infinite HP]",
-            "content": "[P1 Infinite HP]\n01000000 0123F0F8 00000066\n\n"
+            "content": "[P1 Infinite HP]\n01000000 0123F0F8 00000066\n\n",
+            "title": "[P1 Infinite HP]"
         },
         {
-            "title": "[P1 Infinite Super]",
-            "content": "[P1 Infinite Super]\n01000000 0123F0A9 00000090\n\n"
+            "content": "[P1 Infinite Super]\n01000000 0123F0A9 00000090\n\n",
+            "title": "[P1 Infinite Super]"
         },
         {
-            "title": "[P1 Infinite Strikers]",
-            "content": "[P1 Infinite Strikers]\n01000000 0123F1A2 00000005\n\n"
+            "content": "[P1 Infinite Strikers]\n01000000 0123F1A2 00000005\n\n",
+            "title": "[P1 Infinite Strikers]"
         },
         {
-            "title": "[P2 NO HP]",
-            "content": "[P2 NO HP]\n01000000 0123F2F8 00000000\n\n"
+            "content": "[P2 NO HP]\n01000000 0123F2F8 00000000\n\n",
+            "title": "[P2 NO HP]"
         },
         {
-            "title": "[P2 NO Super]",
-            "content": "[P2 NO Super]\n01000000 0123F2A9 00000000\n\n"
+            "content": "[P2 NO Super]\n01000000 0123F2A9 00000000\n\n",
+            "title": "[P2 NO Super]"
         },
         {
-            "title": "[P2 NO Strikers]",
-            "content": "[P2 NO Strikers]\n01000000 0123F3A2 00000000\n\n"
+            "content": "[P2 NO Strikers]\n01000000 0123F3A2 00000000\n\n",
+            "title": "[P2 NO Strikers]"
         },
         {
-            "title": "[hitanywhere]",
-            "content": "[hitanywhere]\n04000000 008DB0275C 11A6002"
+            "content": "[hitanywhere]\n04000000 008DB0275C 11A6002",
+            "title": "[hitanywhere]"
         }
     ]
 }

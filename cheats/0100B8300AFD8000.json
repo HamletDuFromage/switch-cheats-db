@@ -1,24 +1,24 @@
 {
     "A6069D8D14422130": [
         {
-            "title": "[P1 Infinite HP]",
-            "content": "[P1 Infinite HP]\n01000000 012a555d 00000028\n\n"
+            "content": "[P1 Infinite HP]\n01000000 012a555d 00000028\n\n",
+            "title": "[P1 Infinite HP]"
         },
         {
-            "title": "[P1 Infinite Bombs]",
-            "content": "[P1 Infinite Bombs]\n01000000 012a5568 00000003\n\n"
+            "content": "[P1 Infinite Bombs]\n01000000 012a5568 00000003\n\n",
+            "title": "[P1 Infinite Bombs]"
         },
         {
-            "title": "[P1 Can use LV3 attack]",
-            "content": "[P1 Can use LV3 attack]\n01000000 012a55d3 00000030\n\n"
+            "content": "[P1 Can use LV3 attack]\n01000000 012a55d3 00000030\n\n",
+            "title": "[P1 Can use LV3 attack]"
         },
         {
-            "title": "[P2 No Bombs]",
-            "content": "[P2 No Bombs]\n01000000 012a6568 00000000\n\n"
+            "content": "[P2 No Bombs]\n01000000 012a6568 00000000\n\n",
+            "title": "[P2 No Bombs]"
         },
         {
-            "title": "[P2 No Special attack]",
-            "content": "[P2 No Special attack]\n04000000 012a65d0 00000000"
+            "content": "[P2 No Special attack]\n04000000 012a65d0 00000000",
+            "title": "[P2 No Special attack]"
         }
     ]
 }

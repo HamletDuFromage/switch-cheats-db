@@ -1,48 +1,48 @@
 {
     "ECE85107B8DC81DB": [
         {
-            "title": "[Lives unlimited]",
-            "content": "[Lives unlimited]\n580F0000 04C7C898\n780F0000 000000BD\n610F0000 00000000 00000009\n\n"
+            "content": "[Lives unlimited]\n580F0000 04C7C898\n780F0000 000000BD\n610F0000 00000000 00000009\n\n",
+            "title": "[Lives unlimited]"
         },
         {
-            "title": "[Lives unlimited]",
-            "content": "[Lives unlimited]\n01100000 173E01FD 00000009\n\n"
+            "content": "[Lives unlimited]\n01100000 173E01FD 00000009\n\n",
+            "title": "[Lives unlimited]"
         },
         {
-            "title": "[Energy unlimited [R]]",
-            "content": "[Energy unlimited [R]]\n80000080\n580F0000 059DCBB8\n780F0000 00000190\n640F0000 00000000 00201120\n\n"
+            "content": "[Energy unlimited [R]]\n80000080\n580F0000 059DCBB8\n780F0000 00000190\n640F0000 00000000 00201120\n\n",
+            "title": "[Energy unlimited [R]]"
         },
         {
-            "title": "[Lives unlimited]",
-            "content": "[Lives unlimited]\n01000000 05A207E0 00000009\n\n"
+            "content": "[Lives unlimited]\n01000000 05A207E0 00000009\n\n",
+            "title": "[Lives unlimited]"
         },
         {
-            "title": "[Energy unlimited [R]]",
-            "content": "[Energy unlimited [R]]\n80000080\n580F0000 042B5988\n780F0000 0000007C\n610F0000 00000000 00000020\n\n"
+            "content": "[Energy unlimited [R]]\n80000080\n580F0000 042B5988\n780F0000 0000007C\n610F0000 00000000 00000020\n\n",
+            "title": "[Energy unlimited [R]]"
         },
         {
-            "title": "[Credits unlimited]",
-            "content": "[Credits unlimited]\n040F0000 05E91B40 01050000\n\n"
+            "content": "[Credits unlimited]\n040F0000 05E91B40 01050000\n\n",
+            "title": "[Credits unlimited]"
         },
         {
-            "title": "[Energy unlimited [R]]",
-            "content": "[Energy unlimited [R]]\n80000080\n580F0000 0623D550\n780F0000 0000007C\n610F0000 00000000 00000024\n580F0000 063FAA88\n780F0000 0000007C\n610F0000 00000000 00000024\n\n"
+            "content": "[Energy unlimited [R]]\n80000080\n580F0000 0623D550\n780F0000 0000007C\n610F0000 00000000 00000024\n580F0000 063FAA88\n780F0000 0000007C\n610F0000 00000000 00000024\n\n",
+            "title": "[Energy unlimited [R]]"
         },
         {
-            "title": "[Lives unlimited]",
-            "content": "[Lives unlimited]\n580F0000 04BDFE08\n780F1000 00000194\n620F0000 00000000 00000940\n\n"
+            "content": "[Lives unlimited]\n580F0000 04BDFE08\n780F1000 00000194\n620F0000 00000000 00000940\n\n",
+            "title": "[Lives unlimited]"
         },
         {
-            "title": "[Energy unlimited [ZR]]",
-            "content": "[Energy unlimited [ZR]]\n80000200\n580F0000 0429BEA8\n780F1000 0000001C\n640F0000 00000000 00400000\n\n"
+            "content": "[Energy unlimited [ZR]]\n80000200\n580F0000 0429BEA8\n780F1000 0000001C\n640F0000 00000000 00400000\n\n",
+            "title": "[Energy unlimited [ZR]]"
         },
         {
-            "title": "[X Challenge Lives unlimited]",
-            "content": "[X Challenge Lives unlimited]\n580F0000 04BDFE08\n780F1000 00000194\n620F0000 00000000 00000940\n\n"
+            "content": "[X Challenge Lives unlimited]\n580F0000 04BDFE08\n780F1000 00000194\n620F0000 00000000 00000940\n\n",
+            "title": "[X Challenge Lives unlimited]"
         },
         {
-            "title": "[X Challenge Energy unlimited [ZR]]",
-            "content": "[X Challenge Energy unlimited [ZR]]\n80000200\n580F0000 0429BEA8\n780F1000 0000001C\n640F0000 00000000 00400000\n"
+            "content": "[X Challenge Energy unlimited [ZR]]\n80000200\n580F0000 0429BEA8\n780F1000 0000001C\n640F0000 00000000 00400000\n",
+            "title": "[X Challenge Energy unlimited [ZR]]"
         }
     ]
 }

@@ -1,64 +1,64 @@
 {
     "C4DF04F647BDC727": [
         {
-            "title": "[Money 888888 Jericoss]",
-            "content": "[Money 888888 Jericoss]\n580F0000 022172B8\n780F0000 005E5D2C\n640F0000 00000000 000D9038\n\n"
+            "content": "[Money 888888 Jericoss]\n580F0000 022172B8\n780F0000 005E5D2C\n640F0000 00000000 000D9038\n\n",
+            "title": "[Money 888888 Jericoss]"
         },
         {
-            "title": "[PP 888887]",
-            "content": "[PP 888887]\n580F0000 022172B8\n780F0000 005E5D30\n640F0000 00000000 000D9037\n\n"
+            "content": "[PP 888887]\n580F0000 022172B8\n780F0000 005E5D30\n640F0000 00000000 000D9037\n\n",
+            "title": "[PP 888887]"
         },
         {
-            "title": "[Health (Float) @patjenova ]",
-            "content": "[Health (Float) @patjenova ]\n58000000 022176A0\n58001000 000004E0\n78000000 00000A94\n64000000 00000000 4479C000\n\n"
+            "content": "[Health (Float) @patjenova ]\n58000000 022176A0\n58001000 000004E0\n78000000 00000A94\n64000000 00000000 4479C000\n\n",
+            "title": "[Health (Float) @patjenova ]"
         },
         {
-            "title": "[Health Max(float) @patjenova]",
-            "content": "[Health Max(float) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000A9C\n64000000 00000000 4479C000\n\n"
+            "content": "[Health Max(float) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000A9C\n64000000 00000000 4479C000\n\n",
+            "title": "[Health Max(float) @patjenova]"
         },
         {
-            "title": "[Sp(float) @patjenova]",
-            "content": "[Sp(float) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000C38\n64000000 00000000 4479C000\n\n"
+            "content": "[Sp(float) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000C38\n64000000 00000000 4479C000\n\n",
+            "title": "[Sp(float) @patjenova]"
         },
         {
-            "title": "[Sp Max(float) @patjenova]",
-            "content": "[Sp Max(float) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000C40\n64000000 00000000 4479C000\n\n"
+            "content": "[Sp Max(float) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000C40\n64000000 00000000 4479C000\n\n",
+            "title": "[Sp Max(float) @patjenova]"
         },
         {
-            "title": "[Ammo(u32) @patjenova]",
-            "content": "[Ammo(u32) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000C88\n64000000 00000000 0000000C\n\n"
+            "content": "[Ammo(u32) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000C88\n64000000 00000000 0000000C\n\n",
+            "title": "[Ammo(u32) @patjenova]"
         },
         {
-            "title": "[1P INVICIBLE]",
-            "content": "[1P INVICIBLE]\n04000000 0020F090 D65F03C0\n\n"
+            "content": "[1P INVICIBLE]\n04000000 0020F090 D65F03C0\n\n",
+            "title": "[1P INVICIBLE]"
         },
         {
-            "title": "[walk through walls ON]",
-            "content": "[walk through walls ON]\n04000000 001B97A0 D65F03C0\n\n"
+            "content": "[walk through walls ON]\n04000000 001B97A0 D65F03C0\n\n",
+            "title": "[walk through walls ON]"
         },
         {
-            "title": "[walk through walls OFF]",
-            "content": "[walk through walls OFF]\n04000000 001B97A0 D10503FF\n\n"
+            "content": "[walk through walls OFF]\n04000000 001B97A0 D10503FF\n\n",
+            "title": "[walk through walls OFF]"
         },
         {
-            "title": "[HIT RANGE 31X]",
-            "content": "[HIT RANGE 31X]\n04000000 001D0154 1E27F000\n\n"
+            "content": "[HIT RANGE 31X]\n04000000 001D0154 1E27F000\n\n",
+            "title": "[HIT RANGE 31X]"
         },
         {
-            "title": "[money]",
-            "content": "[money] \n04100000 53F2C8EC 00001388\n\n"
+            "content": "[money] \n04100000 53F2C8EC 00001388\n\n",
+            "title": "[money]"
         },
         {
-            "title": "[pp]",
-            "content": "[pp] \n04100000 53F2C8F0 0001A217\n\n"
+            "content": "[pp] \n04100000 53F2C8F0 0001A217\n\n",
+            "title": "[pp]"
         },
         {
-            "title": "[bond]",
-            "content": "[bond] \n04100000 53F2C740 0000005A\n\n"
+            "content": "[bond] \n04100000 53F2C740 0000005A\n\n",
+            "title": "[bond]"
         },
         {
-            "title": "[moon jump]",
-            "content": "[moon jump]\n80000002\n580F0000 02217320\n580F1000 000005D0\n580F1000 00000018\n780F0000 0000000C\n640F0000 00000000 41333334\n20000000\n"
+            "content": "[moon jump]\n80000002\n580F0000 02217320\n580F1000 000005D0\n580F1000 00000018\n780F0000 0000000C\n640F0000 00000000 41333334\n20000000\n",
+            "title": "[moon jump]"
         }
     ]
 }

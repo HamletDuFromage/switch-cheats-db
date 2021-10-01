@@ -1,28 +1,28 @@
 {
     "C32B8A1FDD88DCBE": [
         {
-            "title": "[Infinite HP]",
-            "content": "[Infinite HP]\n01000000 01cbab4e 00000064\n\n"
+            "content": "[Infinite HP]\n01000000 01cbab4e 00000064\n\n",
+            "title": "[Infinite HP]"
         },
         {
-            "title": "[Max Gun Power]",
-            "content": "[Max Gun Power]\n01000000 01cbab4c 00000064\n\n"
+            "content": "[Max Gun Power]\n01000000 01cbab4c 00000064\n\n",
+            "title": "[Max Gun Power]"
         },
         {
-            "title": "[Infinite Shield]",
-            "content": "[Infinite Shield]\n02000000 01cbabba 0000012c\n\n"
+            "content": "[Infinite Shield]\n02000000 01cbabba 0000012c\n\n",
+            "title": "[Infinite Shield]"
         },
         {
-            "title": "[Infinite Vernier]",
-            "content": "[Infinite Vernier]\n01000000 01cbab9e 00000000\n\n"
+            "content": "[Infinite Vernier]\n01000000 01cbab9e 00000000\n\n",
+            "title": "[Infinite Vernier]"
         },
         {
-            "title": "[Infinite Missiles]",
-            "content": "[Infinite Missiles]\n01000000 01cbac0e 00000063\n\n"
+            "content": "[Infinite Missiles]\n01000000 01cbac0e 00000063\n\n",
+            "title": "[Infinite Missiles]"
         },
         {
-            "title": "[Infinite Time]",
-            "content": "[Infinite Time]\n01000000 01cbaa12 00000001"
+            "content": "[Infinite Time]\n01000000 01cbaa12 00000001",
+            "title": "[Infinite Time]"
         }
     ]
 }

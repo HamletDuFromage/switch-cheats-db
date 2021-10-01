@@ -1,44 +1,44 @@
 {
     "F2FE5EF877839F4F": [
         {
-            "title": "[HP does not reduce / / Inf HP]",
-            "content": "[HP does not reduce / / Inf HP]\n04000000 00D90E04 1E2703E0\n\n"
+            "content": "[HP does not reduce / / Inf HP]\n04000000 00D90E04 1E2703E0\n\n",
+            "title": "[HP does not reduce / / Inf HP]"
         },
         {
-            "title": "[Inf Ammo - Main Weapon]",
-            "content": "[Inf Ammo - Main Weapon]\n04000000 01063D6C D503201F\n\n"
+            "content": "[Inf Ammo - Main Weapon]\n04000000 01063D6C D503201F\n\n",
+            "title": "[Inf Ammo - Main Weapon]"
         },
         {
-            "title": "[Little game HP does not reduce / / Inf HP in Minigame]",
-            "content": "[Little game HP does not reduce / / Inf HP in Minigame]\n04000000 0108DA7C 52800008\n\n"
+            "content": "[Little game HP does not reduce / / Inf HP in Minigame]\n04000000 0108DA7C 52800008\n\n",
+            "title": "[Little game HP does not reduce / / Inf HP in Minigame]"
         },
         {
-            "title": "[armor is not reduced / / Inf Armor]",
-            "content": "[armor is not reduced / / Inf Armor]\n04000000 00D90D88 1E2703E0\n04000000 00D90D8C 1400000B\n\n"
+            "content": "[armor is not reduced / / Inf Armor]\n04000000 00D90D88 1E2703E0\n04000000 00D90D8C 1400000B\n\n",
+            "title": "[armor is not reduced / / Inf Armor]"
         },
         {
-            "title": "[Unlimited Deputy Weapons / / Inf SubAmmo]",
-            "content": "[Unlimited Deputy Weapons / / Inf SubAmmo]\n04000000 0107B5EC 2A0003E8\n\n"
+            "content": "[Unlimited Deputy Weapons / / Inf SubAmmo]\n04000000 0107B5EC 2A0003E8\n\n",
+            "title": "[Unlimited Deputy Weapons / / Inf SubAmmo]"
         },
         {
-            "title": "[I won't die soon / No Instant Die]",
-            "content": "[I won't die soon / No Instant Die]\n04000000 00F84AD8 D503201F\n\n"
+            "content": "[I won't die soon / No Instant Die]\n04000000 00F84AD8 D503201F\n\n",
+            "title": "[I won't die soon / No Instant Die]"
         },
         {
-            "title": "[No need to load / / No Reload]",
-            "content": "[No need to load / / No Reload]\n04000000 0107B638 D503201F\n\n"
+            "content": "[No need to load / / No Reload]\n04000000 0107B638 D503201F\n\n",
+            "title": "[No need to load / / No Reload]"
         },
         {
-            "title": "[Little game life is not reduced / / Inf Lives in Minigame]",
-            "content": "[Little game life is not reduced / / Inf Lives in Minigame]\n04000000 010B7308 D503201F\n\n"
+            "content": "[Little game life is not reduced / / Inf Lives in Minigame]\n04000000 010B7308 D503201F\n\n",
+            "title": "[Little game life is not reduced / / Inf Lives in Minigame]"
         },
         {
-            "title": "[Small game ammunition is not reduced / / Inf Ammo in Minigame]",
-            "content": "[Small game ammunition is not reduced / / Inf Ammo in Minigame]\n04000000 0108FB98 D503201F\n\n"
+            "content": "[Small game ammunition is not reduced / / Inf Ammo in Minigame]\n04000000 0108FB98 D503201F\n\n",
+            "title": "[Small game ammunition is not reduced / / Inf Ammo in Minigame]"
         },
         {
-            "title": "[Small game score after 999999 / / Get Score 999999 in Minigame]",
-            "content": "[Small game score after 999999 / / Get Score 999999 in Minigame]\n04000000 0202EF10 52A001E0\n04000000 0202EF14 728847E0\n04000000 0202EF18 B8286A60\n04000000 0202EF1C D65F03C0\n04000000 0202EF20 000120FE\n04000000 010B3B70 943DECE8"
+            "content": "[Small game score after 999999 / / Get Score 999999 in Minigame]\n04000000 0202EF10 52A001E0\n04000000 0202EF14 728847E0\n04000000 0202EF18 B8286A60\n04000000 0202EF1C D65F03C0\n04000000 0202EF20 000120FE\n04000000 010B3B70 943DECE8",
+            "title": "[Small game score after 999999 / / Get Score 999999 in Minigame]"
         }
     ]
 }

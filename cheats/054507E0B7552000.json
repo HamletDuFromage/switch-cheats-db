@@ -1,426 +1,426 @@
 {
     "0000000000000000": [
         {
-            "title": "[B Moonjump]",
-            "content": "[B Moonjump]\n80000002\n581f0000 00019f00\n780f0000 0000806c\n640f0000 00000000 42800000\n20000000\n\n"
+            "content": "[B Moonjump]\n80000002\n581f0000 00019f00\n780f0000 0000806c\n640f0000 00000000 42800000\n20000000\n\n",
+            "title": "[B Moonjump]"
         },
         {
-            "title": "[Inf. Hearts]",
-            "content": "[Inf. Hearts]\n581F0000 00019F00\n780F0000 0000810B\n610F0000 00000000 00000008\n\n"
+            "content": "[Inf. Hearts]\n581F0000 00019F00\n780F0000 0000810B\n610F0000 00000000 00000008\n\n",
+            "title": "[Inf. Hearts]"
         },
         {
-            "title": "[Inf. Lives]",
-            "content": "[Inf. Lives]\n581F0000 00019F00\n780F0000 00008109\n610F0000 00000000 00000063\n\n"
+            "content": "[Inf. Lives]\n581F0000 00019F00\n780F0000 00008109\n610F0000 00000000 00000063\n\n",
+            "title": "[Inf. Lives]"
         },
         {
-            "title": "[99x Coins (Press L Stick)]",
-            "content": "[99x Coins (Press L Stick)]\n80000010\n581F0000 00019F00\n780F0000 00008104\n610F0000 00000000 00000063\n20000000\n\n"
+            "content": "[99x Coins (Press L Stick)]\n80000010\n581F0000 00019F00\n780F0000 00008104\n610F0000 00000000 00000063\n20000000\n\n",
+            "title": "[99x Coins (Press L Stick)]"
         },
         {
-            "title": "[Infinite Hat Usage]",
-            "content": "[Infinite Hat Usage]\n581F0000 00019F00\n780F0000 00008112\n620F0000 00000000 00000700\n\n"
+            "content": "[Infinite Hat Usage]\n581F0000 00019F00\n780F0000 00008112\n620F0000 00000000 00000700\n\n",
+            "title": "[Infinite Hat Usage]"
         },
         {
-            "title": "[Normal Mario]",
-            "content": "[Normal Mario]\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000111\n\n"
+            "content": "[Normal Mario]\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000111\n\n",
+            "title": "[Normal Mario]"
         },
         {
-            "title": "[Wing Cap]",
-            "content": "[Wing Cap]\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000119\n\n"
+            "content": "[Wing Cap]\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000119\n\n",
+            "title": "[Wing Cap]"
         },
         {
-            "title": "[Metal Cap]",
-            "content": "[Metal Cap]\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000115\n\n"
+            "content": "[Metal Cap]\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000115\n\n",
+            "title": "[Metal Cap]"
         },
         {
-            "title": "[Invisible Cap]",
-            "content": "[Invisible Cap]\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000113\n\n"
+            "content": "[Invisible Cap]\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000113\n\n",
+            "title": "[Invisible Cap]"
         },
         {
-            "title": "[Inv-Fly Cap]",
-            "content": "[Inv-Fly Cap]\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 0000011A\n\n"
+            "content": "[Inv-Fly Cap]\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 0000011A\n\n",
+            "title": "[Inv-Fly Cap]"
         },
         {
-            "title": "[Metal-Fly Cap]",
-            "content": "[Metal-Fly Cap]\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 0000011C\n\n"
+            "content": "[Metal-Fly Cap]\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 0000011C\n\n",
+            "title": "[Metal-Fly Cap]"
         },
         {
-            "title": "[Metal-Inv Cap]",
-            "content": "[Metal-Inv Cap]\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000116\n\n"
+            "content": "[Metal-Inv Cap]\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000116\n\n",
+            "title": "[Metal-Inv Cap]"
         },
         {
-            "title": "[Inv-Fly-Metal Cap]",
-            "content": "[Inv-Fly-Metal Cap]\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 0000011E\n\n"
+            "content": "[Inv-Fly-Metal Cap]\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 0000011E\n\n",
+            "title": "[Inv-Fly-Metal Cap]"
         },
         {
-            "title": "[Normal Mario (Press UP)]",
-            "content": "[Normal Mario (Press UP)]\n80002000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000111\n20000000\n\n"
+            "content": "[Normal Mario (Press UP)]\n80002000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000111\n20000000\n\n",
+            "title": "[Normal Mario (Press UP)]"
         },
         {
-            "title": "[Wing Cap (Press Left)]",
-            "content": "[Wing Cap (Press Left)]\n80001000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000119\n20000000\n\n"
+            "content": "[Wing Cap (Press Left)]\n80001000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000119\n20000000\n\n",
+            "title": "[Wing Cap (Press Left)]"
         },
         {
-            "title": "[Metal Cap (Press Down)]",
-            "content": "[Metal Cap (Press Down)]\n80008000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000115\n20000000\n\n"
+            "content": "[Metal Cap (Press Down)]\n80008000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000115\n20000000\n\n",
+            "title": "[Metal Cap (Press Down)]"
         },
         {
-            "title": "[Invisible Cap (Press Right)]",
-            "content": "[Invisible Cap (Press Right)]\n80004000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000113\n20000000\n\n"
+            "content": "[Invisible Cap (Press Right)]\n80004000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000113\n20000000\n\n",
+            "title": "[Invisible Cap (Press Right)]"
         },
         {
-            "title": "[Inv-Fly-Metal Cap (Press R-Stick)]",
-            "content": "[Inv-Fly-Metal Cap (Press R-Stick)]\n80000020\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 0000011E\n20000000\n\n"
+            "content": "[Inv-Fly-Metal Cap (Press R-Stick)]\n80000020\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 0000011E\n20000000\n\n",
+            "title": "[Inv-Fly-Metal Cap (Press R-Stick)]"
         },
         {
-            "title": "[B Moonjump V3 dsrules]",
-            "content": "[B Moonjump V3 dsrules]\n80000002\n581f0000 081ca500\n780f0000 00066444\n640f0000 00000000 42800000\n20000000\n\n"
+            "content": "[B Moonjump V3 dsrules]\n80000002\n581f0000 081ca500\n780f0000 00066444\n640f0000 00000000 42800000\n20000000\n\n",
+            "title": "[B Moonjump V3 dsrules]"
         },
         {
-            "title": "[Hold A Speed x2 V3]",
-            "content": "[Hold A Speed x2 V3]\n581f0000 081ca500\n780f0000 0006644C\n640f0000 00000000 44000000\n\n"
+            "content": "[Hold A Speed x2 V3]\n581f0000 081ca500\n780f0000 0006644C\n640f0000 00000000 44000000\n\n",
+            "title": "[Hold A Speed x2 V3]"
         },
         {
-            "title": "[Infinite HP V3 dsrules]",
-            "content": "[Infinite HP V3 dsrules]\n581f0000 081ca500\n780f0000 000664e3\n610f0000 00000000 00000008\n\n"
+            "content": "[Infinite HP V3 dsrules]\n581f0000 081ca500\n780f0000 000664e3\n610f0000 00000000 00000008\n\n",
+            "title": "[Infinite HP V3 dsrules]"
         },
         {
-            "title": "[Infinite Lives V3 dsrules]",
-            "content": "[Infinite Lives V3 dsrules]\n581f0000 081ca500\n780f0000 000664e1\n610f0000 00000000 00000009\n\n"
+            "content": "[Infinite Lives V3 dsrules]\n581f0000 081ca500\n780f0000 000664e1\n610f0000 00000000 00000009\n\n",
+            "title": "[Infinite Lives V3 dsrules]"
         },
         {
-            "title": "[No Fall Damage V3]",
-            "content": "[No Fall Damage V3]\n581f0000 081ca500\n780f0000 000664F2\n620f0000 00000000 0000FFFF\n\n"
+            "content": "[No Fall Damage V3]\n581f0000 081ca500\n780f0000 000664F2\n620f0000 00000000 0000FFFF\n\n",
+            "title": "[No Fall Damage V3]"
         },
         {
-            "title": "[No Hit Damage V3]",
-            "content": "[No Hit Damage V3]\n581f0000 081ca500\n780f0000 0006641E\n620f0000 00000000 0000FFFF\n\n"
+            "content": "[No Hit Damage V3]\n581f0000 081ca500\n780f0000 0006641E\n620f0000 00000000 0000FFFF\n\n",
+            "title": "[No Hit Damage V3]"
         },
         {
-            "title": "[Inf Hat Time V3]",
-            "content": "[Inf Hat Time V3]\n581f0000 081ca500\n780f0000 000664EA\n620f0000 00000000 00007000\n\n"
+            "content": "[Inf Hat Time V3]\n581f0000 081ca500\n780f0000 000664EA\n620f0000 00000000 00007000\n\n",
+            "title": "[Inf Hat Time V3]"
         },
         {
-            "title": "[Inv-Met-Fly Hat V3]",
-            "content": "[Inv-Met-Fly Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 0000011E\n\n"
+            "content": "[Inv-Met-Fly Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 0000011E\n\n",
+            "title": "[Inv-Met-Fly Hat V3]"
         },
         {
-            "title": "[Inv-Fly Hat V3]",
-            "content": "[Inv-Fly Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 0000011A\n\n"
+            "content": "[Inv-Fly Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 0000011A\n\n",
+            "title": "[Inv-Fly Hat V3]"
         },
         {
-            "title": "[Normal Hat V3]",
-            "content": "[Normal Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 00000111\n\n"
+            "content": "[Normal Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 00000111\n\n",
+            "title": "[Normal Hat V3]"
         },
         {
-            "title": "[Disable Race Time V3]",
-            "content": "[Disable Race Time V3]\n581f0000 081ca500\n780f0000 00066532\n620f0000 00000000 0000003F\n\n"
+            "content": "[Disable Race Time V3]\n581f0000 081ca500\n780f0000 00066532\n620f0000 00000000 0000003F\n\n",
+            "title": "[Disable Race Time V3]"
         },
         {
-            "title": "[B Moonjump v6]",
-            "content": "[B Moonjump v6]\n80000002\n581f0000 0005d9a8\n780f0000 00009E0C\n640f0000 00000000 42200000\n20000000\n\n"
+            "content": "[B Moonjump v6]\n80000002\n581f0000 0005d9a8\n780f0000 00009E0C\n640f0000 00000000 42200000\n20000000\n\n",
+            "title": "[B Moonjump v6]"
         },
         {
-            "title": "[Inf Health v6]",
-            "content": "[Inf Health v6]\n581f0000 0005d9a8\n780f0000 00009EAB\n610f0000 00000000 00000008\n\n"
+            "content": "[Inf Health v6]\n581f0000 0005d9a8\n780f0000 00009EAB\n610f0000 00000000 00000008\n\n",
+            "title": "[Inf Health v6]"
         },
         {
-            "title": "[Inf Lives v6]",
-            "content": "[Inf Lives v6]\n581f0000 0005d9a8\n780f0000 00009ea9\n610f0000 00000000 00000064\n\n"
+            "content": "[Inf Lives v6]\n581f0000 0005d9a8\n780f0000 00009ea9\n610f0000 00000000 00000064\n\n",
+            "title": "[Inf Lives v6]"
         },
         {
-            "title": "[99 Coins v6]",
-            "content": "[99 Coins v6]\n581f0000 0005d9a8\n780f0000 00009ea4\n610f0000 00000000 00000063\n\n"
+            "content": "[99 Coins v6]\n581f0000 0005d9a8\n780f0000 00009ea4\n610f0000 00000000 00000063\n\n",
+            "title": "[99 Coins v6]"
         },
         {
-            "title": "[Inf Hat Time v6]",
-            "content": "[Inf Hat Time v6]\n581f0000 0005d9a8\n780f0000 00009eb2\n620f0000 00000000 00007000\n\n"
+            "content": "[Inf Hat Time v6]\n581f0000 0005d9a8\n780f0000 00009eb2\n620f0000 00000000 00007000\n\n",
+            "title": "[Inf Hat Time v6]"
         },
         {
-            "title": "[No Fall Damage v6]",
-            "content": "[No Fall Damage v6]\n581f0000 0005d9a8\n780f0000 00009eba\n620f0000 00000000 0000FFFF\n\n"
+            "content": "[No Fall Damage v6]\n581f0000 0005d9a8\n780f0000 00009eba\n620f0000 00000000 0000FFFF\n\n",
+            "title": "[No Fall Damage v6]"
         },
         {
-            "title": "[No Hits v6]",
-            "content": "[No Hits v6]\n581f0000 0005d9a8\n780f0000 00009de6\n620f0000 00000000 0000FFFF\n\n"
+            "content": "[No Hits v6]\n581f0000 0005d9a8\n780f0000 00009de6\n620f0000 00000000 0000FFFF\n\n",
+            "title": "[No Hits v6]"
         },
         {
-            "title": "[Hat Fly-Inv-Met v6]",
-            "content": "[Hat Fly-Inv-Met v6]\n581f0000 0005d9a8\n780f0000 00009dc4\n620f0000 00000000 0000011E\n\n"
+            "content": "[Hat Fly-Inv-Met v6]\n581f0000 0005d9a8\n780f0000 00009dc4\n620f0000 00000000 0000011E\n\n",
+            "title": "[Hat Fly-Inv-Met v6]"
         },
         {
-            "title": "[Hat Fly-Inv v6]",
-            "content": "[Hat Fly-Inv v6]\n581f0000 0005d9a8\n780f0000 00009dc4\n620f0000 00000000 0000011A\n\n"
+            "content": "[Hat Fly-Inv v6]\n581f0000 0005d9a8\n780f0000 00009dc4\n620f0000 00000000 0000011A\n\n",
+            "title": "[Hat Fly-Inv v6]"
         },
         {
-            "title": "[Normal Hat v6]",
-            "content": "[Normal Hat v6]\n581f0000 0005d9a8\n780f0000 00009dc4\n620f0000 00000000 00000111"
-        }
-    ],
-    "D326058041B7F4DC": [
-        {
-            "title": "[01# Moonjump]",
-            "content": "[01# Moonjump]\n80000002\n04000000 014B8C7C 42800000\n20000000\n\n"
-        },
-        {
-            "title": "[Inf Health]",
-            "content": "[Inf Health]\n01000000 014B8D1B 00000008\n\n"
-        },
-        {
-            "title": "[Inf Lives]",
-            "content": "[Inf Lives]\n01000000 014B8D19 00000064\n\n"
-        },
-        {
-            "title": "[99 Coins]",
-            "content": "[99 Coins]\n01000000 014B8D14 00000063\n\n"
-        },
-        {
-            "title": "[Inf Hat Time]",
-            "content": "[Inf Hat Time]\n02000000 014B8D22 00007000\n\n"
-        },
-        {
-            "title": "[No Fall Damage]",
-            "content": "[No Fall Damage]\n02000000 014B8D2A 0000FFFF\n\n"
-        },
-        {
-            "title": "[No Hits]",
-            "content": "[No Hits]\n02000000 014B8C56 0000FFFF\n\n"
-        },
-        {
-            "title": "[Hat Fly-Inv-Met]",
-            "content": "[Hat Fly-Inv-Met]\n02000000 014B8C34 0000011E\n\n"
-        },
-        {
-            "title": "[Hat Fly-Inv]",
-            "content": "[Hat Fly-Inv]\n02000000 014B8C34 0000011A\n\n"
-        },
-        {
-            "title": "[Normal Hat]",
-            "content": "[Normal Hat]\n02000000 014B8C34 00000111"
+            "content": "[Normal Hat v6]\n581f0000 0005d9a8\n780f0000 00009dc4\n620f0000 00000000 00000111",
+            "title": "[Normal Hat v6]"
         }
     ],
     "4A7114C9560237CB": [
         {
-            "title": "[01# Moonjump]",
-            "content": "[01# Moonjump]\n80000002\n04000000 0182AC94 42800000\n20000000\n\n"
+            "content": "[01# Moonjump]\n80000002\n04000000 0182AC94 42800000\n20000000\n\n",
+            "title": "[01# Moonjump]"
         },
         {
-            "title": "[02# Hold A Speed x2]",
-            "content": "[02# Hold A Speed x2]\n80000001\n04000000 0182AC9C 44000000\n20000000\n\n"
+            "content": "[02# Hold A Speed x2]\n80000001\n04000000 0182AC9C 44000000\n20000000\n\n",
+            "title": "[02# Hold A Speed x2]"
         },
         {
-            "title": "[03# Max health]",
-            "content": "[03# Max health]\n01000000 0182AD33 00000008\n\n"
+            "content": "[03# Max health]\n01000000 0182AD33 00000008\n\n",
+            "title": "[03# Max health]"
         },
         {
-            "title": "[04# Max Lifes]",
-            "content": "[04# Max Lifes]\n01000000 0182AD31 00000064\n\n"
+            "content": "[04# Max Lifes]\n01000000 0182AD31 00000064\n\n",
+            "title": "[04# Max Lifes]"
         },
         {
-            "title": "[05# 99 Coins]",
-            "content": "[05# 99 Coins]\n01000000 0182AD2C 00000063\n\n"
+            "content": "[05# 99 Coins]\n01000000 0182AD2C 00000063\n\n",
+            "title": "[05# 99 Coins]"
         },
         {
-            "title": "[Infinite Hat Usage]",
-            "content": "[Infinite Hat Usage]\n02000000 0182AD3A 00000700\n\n"
+            "content": "[Infinite Hat Usage]\n02000000 0182AD3A 00000700\n\n",
+            "title": "[Infinite Hat Usage]"
         },
         {
-            "title": "[Inv-Met-Fly Mario]",
-            "content": "[Inv-Met-Fly Mario]\n02000000 0182AC4C 0000011E\n\n"
+            "content": "[Inv-Met-Fly Mario]\n02000000 0182AC4C 0000011E\n\n",
+            "title": "[Inv-Met-Fly Mario]"
         },
         {
-            "title": "[Inv-Fly Mario]",
-            "content": "[Inv-Fly Mario]\n02000000 0182AC4C 0000011A\n\n"
+            "content": "[Inv-Fly Mario]\n02000000 0182AC4C 0000011A\n\n",
+            "title": "[Inv-Fly Mario]"
         },
         {
-            "title": "[Normal Mario]",
-            "content": "[Normal Mario]\n02000000 0182AC4C 00000111\n\n"
+            "content": "[Normal Mario]\n02000000 0182AC4C 00000111\n\n",
+            "title": "[Normal Mario]"
         },
         {
-            "title": "[Normal Mario (Press UP)]",
-            "content": "[Normal Mario (Press UP)]\n80002000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000111\n20000000\n\n"
+            "content": "[Normal Mario (Press UP)]\n80002000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000111\n20000000\n\n",
+            "title": "[Normal Mario (Press UP)]"
         },
         {
-            "title": "[Wing Cap (Press Left)]",
-            "content": "[Wing Cap (Press Left)]\n80001000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000119\n20000000\n\n"
+            "content": "[Wing Cap (Press Left)]\n80001000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000119\n20000000\n\n",
+            "title": "[Wing Cap (Press Left)]"
         },
         {
-            "title": "[Metal Cap (Press Down)]",
-            "content": "[Metal Cap (Press Down)]\n80008000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000115\n20000000\n\n"
+            "content": "[Metal Cap (Press Down)]\n80008000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000115\n20000000\n\n",
+            "title": "[Metal Cap (Press Down)]"
         },
         {
-            "title": "[Invisible Cap (Press Right)]",
-            "content": "[Invisible Cap (Press Right)]\n80004000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000113\n20000000\n\n"
+            "content": "[Invisible Cap (Press Right)]\n80004000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000113\n20000000\n\n",
+            "title": "[Invisible Cap (Press Right)]"
         },
         {
-            "title": "[Inv-Fly-Metal Cap (Press R-Stick)]",
-            "content": "[Inv-Fly-Metal Cap (Press R-Stick)]\n80000020\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 0000011E\n20000000\n\n"
+            "content": "[Inv-Fly-Metal Cap (Press R-Stick)]\n80000020\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 0000011E\n20000000\n\n",
+            "title": "[Inv-Fly-Metal Cap (Press R-Stick)]"
         },
         {
-            "title": "[B Moonjump V3 dsrules]",
-            "content": "[B Moonjump V3 dsrules]\n80000002\n581f0000 081ca500\n780f0000 00066444\n640f0000 00000000 42800000\n20000000\n\n"
+            "content": "[B Moonjump V3 dsrules]\n80000002\n581f0000 081ca500\n780f0000 00066444\n640f0000 00000000 42800000\n20000000\n\n",
+            "title": "[B Moonjump V3 dsrules]"
         },
         {
-            "title": "[Hold A Speed x2 V3]",
-            "content": "[Hold A Speed x2 V3]\n581f0000 081ca500\n780f0000 0006644C\n640f0000 00000000 44000000\n\n"
+            "content": "[Hold A Speed x2 V3]\n581f0000 081ca500\n780f0000 0006644C\n640f0000 00000000 44000000\n\n",
+            "title": "[Hold A Speed x2 V3]"
         },
         {
-            "title": "[Infinite HP V3 dsrules]",
-            "content": "[Infinite HP V3 dsrules]\n581f0000 081ca500\n780f0000 000664e3\n610f0000 00000000 00000008\n\n"
+            "content": "[Infinite HP V3 dsrules]\n581f0000 081ca500\n780f0000 000664e3\n610f0000 00000000 00000008\n\n",
+            "title": "[Infinite HP V3 dsrules]"
         },
         {
-            "title": "[Infinite Lives V3 dsrules]",
-            "content": "[Infinite Lives V3 dsrules]\n581f0000 081ca500\n780f0000 000664e1\n610f0000 00000000 00000009\n\n"
+            "content": "[Infinite Lives V3 dsrules]\n581f0000 081ca500\n780f0000 000664e1\n610f0000 00000000 00000009\n\n",
+            "title": "[Infinite Lives V3 dsrules]"
         },
         {
-            "title": "[No Fall Damage V3]",
-            "content": "[No Fall Damage V3]\n581f0000 081ca500\n780f0000 000664F2\n620f0000 00000000 0000FFFF\n\n"
+            "content": "[No Fall Damage V3]\n581f0000 081ca500\n780f0000 000664F2\n620f0000 00000000 0000FFFF\n\n",
+            "title": "[No Fall Damage V3]"
         },
         {
-            "title": "[No Hit Damage V3]",
-            "content": "[No Hit Damage V3]\n581f0000 081ca500\n780f0000 0006641E\n620f0000 00000000 0000FFFF\n\n"
+            "content": "[No Hit Damage V3]\n581f0000 081ca500\n780f0000 0006641E\n620f0000 00000000 0000FFFF\n\n",
+            "title": "[No Hit Damage V3]"
         },
         {
-            "title": "[Inf Hat Time V3]",
-            "content": "[Inf Hat Time V3]\n581f0000 081ca500\n780f0000 000664EA\n620f0000 00000000 00007000\n\n"
+            "content": "[Inf Hat Time V3]\n581f0000 081ca500\n780f0000 000664EA\n620f0000 00000000 00007000\n\n",
+            "title": "[Inf Hat Time V3]"
         },
         {
-            "title": "[Inv-Met-Fly Hat V3]",
-            "content": "[Inv-Met-Fly Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 0000011E\n\n"
+            "content": "[Inv-Met-Fly Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 0000011E\n\n",
+            "title": "[Inv-Met-Fly Hat V3]"
         },
         {
-            "title": "[Inv-Fly Hat V3]",
-            "content": "[Inv-Fly Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 0000011A\n\n"
+            "content": "[Inv-Fly Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 0000011A\n\n",
+            "title": "[Inv-Fly Hat V3]"
         },
         {
-            "title": "[Normal Hat V3]",
-            "content": "[Normal Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 00000111\n\n"
+            "content": "[Normal Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 00000111\n\n",
+            "title": "[Normal Hat V3]"
         },
         {
-            "title": "[Disable Race Time V3]",
-            "content": "[Disable Race Time V3]\n581f0000 081ca500\n780f0000 00066532\n620f0000 00000000 0000003F"
+            "content": "[Disable Race Time V3]\n581f0000 081ca500\n780f0000 00066532\n620f0000 00000000 0000003F",
+            "title": "[Disable Race Time V3]"
         }
     ],
     "5C0CBFEFDA841930": [
         {
-            "title": "[01# Moonjump]",
-            "content": "[01# Moonjump]\n80000002\n04000000 01501C2C 42800000\n20000000\n\n"
+            "content": "[01# Moonjump]\n80000002\n04000000 01501C2C 42800000\n20000000\n\n",
+            "title": "[01# Moonjump]"
         },
         {
-            "title": "[Inf Health]",
-            "content": "[Inf Health]\n04000000 01501CC8 08800400\n\n"
+            "content": "[Inf Health]\n04000000 01501CC8 08800400\n\n",
+            "title": "[Inf Health]"
         },
         {
-            "title": "[100 Lives]",
-            "content": "[100 Lives]\n04000000 01501CC6 6300005A\n\n"
+            "content": "[100 Lives]\n04000000 01501CC6 6300005A\n\n",
+            "title": "[100 Lives]"
         },
         {
-            "title": "[Inf Hat Time]",
-            "content": "[Inf Hat Time]\n02000000 01501CD2 00007000\n\n"
+            "content": "[Inf Hat Time]\n02000000 01501CD2 00007000\n\n",
+            "title": "[Inf Hat Time]"
         },
         {
-            "title": "[Hat Fly-Inv-Met]",
-            "content": "[Hat Fly-Inv-Met]\n02000000 01501BE4 0000011E\n\n"
+            "content": "[Hat Fly-Inv-Met]\n02000000 01501BE4 0000011E\n\n",
+            "title": "[Hat Fly-Inv-Met]"
         },
         {
-            "title": "[Hat Fly-Inv]",
-            "content": "[Hat Fly-Inv]\n02000000 01501BE4 0000011A\n\n"
+            "content": "[Hat Fly-Inv]\n02000000 01501BE4 0000011A\n\n",
+            "title": "[Hat Fly-Inv]"
         },
         {
-            "title": "[Hat Normal]",
-            "content": "[Hat Normal]\n02000000 01501BE4 00000111"
-        }
-    ],
-    "DEF702CDAC4994EF": [
-        {
-            "title": "[01# Moonjump]",
-            "content": "[01# Moonjump]\n80000002\n04000000 0188DDB4 42800000\n20000000\n\n"
-        },
-        {
-            "title": "[02# Speed x2]",
-            "content": "[02# Speed x2]\n80000001\n04000000 0188DDBC 44000000\n20000000\n\n"
-        },
-        {
-            "title": "[03# Max health]",
-            "content": "[03# Max health]\n01000000 0188DE53 00000008\n\n"
-        },
-        {
-            "title": "[04# Lives]",
-            "content": "[04# Lives]\n01000000 0188DE51 00000064\n\n"
-        },
-        {
-            "title": "[05# Coins]",
-            "content": "[05# Coins]\n01000000 0188DE4C 00000063\n\n"
-        },
-        {
-            "title": "[06# Inf Hat Use]",
-            "content": "[06# Inf Hat Use]\n02000000 0188DE5A 00007000\n\n"
-        },
-        {
-            "title": "[07# Fly-Inv-Met Hat]",
-            "content": "[07# Fly-Inv-Met Hat]\n02000000 0188DD6C 0000011E\n\n"
-        },
-        {
-            "title": "[08# Fly-Inv Hat]",
-            "content": "[08# Fly-Inv Hat]\n02000000 0188DD6C 0000011A\n\n"
-        },
-        {
-            "title": "[09# Normal Hat]",
-            "content": "[09# Normal Hat]\n02000000 0188DD6C 00000111\n\n"
-        },
-        {
-            "title": "[10# No Hits]",
-            "content": "[10# No Hits]\n02000000 0188DD8E 0000FFFF\n\n"
-        },
-        {
-            "title": "[11# No Fall Damage]",
-            "content": "[11# No Fall Damage]\n02000000 0188DE62 0000FFFF\n\n"
-        },
-        {
-            "title": "[12# Disable Race Timer]",
-            "content": "[12# Disable Race Timer]\n01000000 0188DEA2 0000003F\n"
+            "content": "[Hat Normal]\n02000000 01501BE4 00000111",
+            "title": "[Hat Normal]"
         }
     ],
     "B5E8BF1FE6465E7E": [
         {
-            "title": "[01# Moonjump]",
-            "content": "[01# Moonjump]\n80000002\n04000000 0110A90C 42200000\n20000000\n\n"
+            "content": "[01# Moonjump]\n80000002\n04000000 0110A90C 42200000\n20000000\n\n",
+            "title": "[01# Moonjump]"
         },
         {
-            "title": "[Inf Health]",
-            "content": "[Inf Health]\n01000000 0110A9AB 00000008\n\n"
+            "content": "[Inf Health]\n01000000 0110A9AB 00000008\n\n",
+            "title": "[Inf Health]"
         },
         {
-            "title": "[Inf Lives]",
-            "content": "[Inf Lives]\n01000000 0110A9A9 00000064\n\n"
+            "content": "[Inf Lives]\n01000000 0110A9A9 00000064\n\n",
+            "title": "[Inf Lives]"
         },
         {
-            "title": "[No Hits]",
-            "content": "[No Hits]\n02000000 0110A8E6 0000FFFF\n\n"
+            "content": "[No Hits]\n02000000 0110A8E6 0000FFFF\n\n",
+            "title": "[No Hits]"
         },
         {
-            "title": "[No Fall Damage]",
-            "content": "[No Fall Damage]\n02000000 0110A9BB 0000FFFF\n\n"
+            "content": "[No Fall Damage]\n02000000 0110A9BB 0000FFFF\n\n",
+            "title": "[No Fall Damage]"
         },
         {
-            "title": "[Inf Hat Time]",
-            "content": "[Inf Hat Time]\n02000000 0110A9B4 00007000\n\n"
+            "content": "[Inf Hat Time]\n02000000 0110A9B4 00007000\n\n",
+            "title": "[Inf Hat Time]"
         },
         {
-            "title": "[FlyInvMet Hat]",
-            "content": "[FlyInvMet Hat]\n02000000 0110A8C4 0000011E\n\n"
+            "content": "[FlyInvMet Hat]\n02000000 0110A8C4 0000011E\n\n",
+            "title": "[FlyInvMet Hat]"
         },
         {
-            "title": "[FlyInv Hat]",
-            "content": "[FlyInv Hat]\n02000000 0110A8C4 0000011A\n\n"
+            "content": "[FlyInv Hat]\n02000000 0110A8C4 0000011A\n\n",
+            "title": "[FlyInv Hat]"
         },
         {
-            "title": "[Normal Hat]",
-            "content": "[Normal Hat]\n02000000 0110A8C4 00000111\n\n"
+            "content": "[Normal Hat]\n02000000 0110A8C4 00000111\n\n",
+            "title": "[Normal Hat]"
         },
         {
-            "title": "[99 Coins]",
-            "content": "[99 Coins]\n01000000 0110A9A4 00000063"
+            "content": "[99 Coins]\n01000000 0110A9A4 00000063",
+            "title": "[99 Coins]"
+        }
+    ],
+    "D326058041B7F4DC": [
+        {
+            "content": "[01# Moonjump]\n80000002\n04000000 014B8C7C 42800000\n20000000\n\n",
+            "title": "[01# Moonjump]"
+        },
+        {
+            "content": "[Inf Health]\n01000000 014B8D1B 00000008\n\n",
+            "title": "[Inf Health]"
+        },
+        {
+            "content": "[Inf Lives]\n01000000 014B8D19 00000064\n\n",
+            "title": "[Inf Lives]"
+        },
+        {
+            "content": "[99 Coins]\n01000000 014B8D14 00000063\n\n",
+            "title": "[99 Coins]"
+        },
+        {
+            "content": "[Inf Hat Time]\n02000000 014B8D22 00007000\n\n",
+            "title": "[Inf Hat Time]"
+        },
+        {
+            "content": "[No Fall Damage]\n02000000 014B8D2A 0000FFFF\n\n",
+            "title": "[No Fall Damage]"
+        },
+        {
+            "content": "[No Hits]\n02000000 014B8C56 0000FFFF\n\n",
+            "title": "[No Hits]"
+        },
+        {
+            "content": "[Hat Fly-Inv-Met]\n02000000 014B8C34 0000011E\n\n",
+            "title": "[Hat Fly-Inv-Met]"
+        },
+        {
+            "content": "[Hat Fly-Inv]\n02000000 014B8C34 0000011A\n\n",
+            "title": "[Hat Fly-Inv]"
+        },
+        {
+            "content": "[Normal Hat]\n02000000 014B8C34 00000111",
+            "title": "[Normal Hat]"
+        }
+    ],
+    "DEF702CDAC4994EF": [
+        {
+            "content": "[01# Moonjump]\n80000002\n04000000 0188DDB4 42800000\n20000000\n\n",
+            "title": "[01# Moonjump]"
+        },
+        {
+            "content": "[02# Speed x2]\n80000001\n04000000 0188DDBC 44000000\n20000000\n\n",
+            "title": "[02# Speed x2]"
+        },
+        {
+            "content": "[03# Max health]\n01000000 0188DE53 00000008\n\n",
+            "title": "[03# Max health]"
+        },
+        {
+            "content": "[04# Lives]\n01000000 0188DE51 00000064\n\n",
+            "title": "[04# Lives]"
+        },
+        {
+            "content": "[05# Coins]\n01000000 0188DE4C 00000063\n\n",
+            "title": "[05# Coins]"
+        },
+        {
+            "content": "[06# Inf Hat Use]\n02000000 0188DE5A 00007000\n\n",
+            "title": "[06# Inf Hat Use]"
+        },
+        {
+            "content": "[07# Fly-Inv-Met Hat]\n02000000 0188DD6C 0000011E\n\n",
+            "title": "[07# Fly-Inv-Met Hat]"
+        },
+        {
+            "content": "[08# Fly-Inv Hat]\n02000000 0188DD6C 0000011A\n\n",
+            "title": "[08# Fly-Inv Hat]"
+        },
+        {
+            "content": "[09# Normal Hat]\n02000000 0188DD6C 00000111\n\n",
+            "title": "[09# Normal Hat]"
+        },
+        {
+            "content": "[10# No Hits]\n02000000 0188DD8E 0000FFFF\n\n",
+            "title": "[10# No Hits]"
+        },
+        {
+            "content": "[11# No Fall Damage]\n02000000 0188DE62 0000FFFF\n\n",
+            "title": "[11# No Fall Damage]"
+        },
+        {
+            "content": "[12# Disable Race Timer]\n01000000 0188DEA2 0000003F\n",
+            "title": "[12# Disable Race Timer]"
         }
     ]
 }

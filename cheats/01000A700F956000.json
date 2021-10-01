@@ -1,16 +1,16 @@
 {
     "3C1FB5BC36EB1F66": [
         {
-            "title": "[Energy unlimited]",
-            "content": "[Energy unlimited]\n04100000 0160633C 40100000\n\n"
+            "content": "[Energy unlimited]\n04100000 0160633C 40100000\n\n",
+            "title": "[Energy unlimited]"
         },
         {
-            "title": "[Money MAX]",
-            "content": "[Money MAX]\n04100000 01606C2C 408F3800\n\n"
+            "content": "[Money MAX]\n04100000 01606C2C 408F3800\n\n",
+            "title": "[Money MAX]"
         },
         {
-            "title": "[Ammo MAX]",
-            "content": "[Ammo MAX]\n04100000 01606B7C 40080000\n"
+            "content": "[Ammo MAX]\n04100000 01606B7C 40080000\n",
+            "title": "[Ammo MAX]"
         }
     ]
 }

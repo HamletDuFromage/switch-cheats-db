@@ -1,176 +1,176 @@
 {
     "AEE6DCCC06D9C05B": [
         {
-            "title": "[Start with 99 Lives]",
-            "content": "[Start with 99 Lives]\n58000000 00CC9860\n78000000 0002A1C0\n61000000 00000000 00000063\n\n"
+            "content": "[Start with 99 Lives]\n58000000 00CC9860\n78000000 0002A1C0\n61000000 00000000 00000063\n\n",
+            "title": "[Start with 99 Lives]"
         },
         {
-            "title": "[Time = 999]",
-            "content": "[Time = 999]\n58000000 00C88A70\n78001000 00000090\n64000000 00000000 003E6F00\n\n"
+            "content": "[Time = 999]\n58000000 00C88A70\n78001000 00000090\n64000000 00000000 003E6F00\n\n",
+            "title": "[Time = 999]"
         },
         {
-            "title": "[Always Full Itembox]",
-            "content": "[Always Full Itembox]\n58000000 00CCEBD0\n78000000 02D77688\n68001000 00000001 00000000\n68001000 00000003 00000002\n68001000 00000006 00000005\n68001000 00000008 00000007\n68001000 0000000E 00000009\n\n"
+            "content": "[Always Full Itembox]\n58000000 00CCEBD0\n78000000 02D77688\n68001000 00000001 00000000\n68001000 00000003 00000002\n68001000 00000006 00000005\n68001000 00000008 00000007\n68001000 0000000E 00000009\n\n",
+            "title": "[Always Full Itembox]"
         },
         {
-            "title": "[Life Counter in stage x99]",
-            "content": "[Life Counter in stage x99]\n58000000 00C88A70\n78001000 0002A0A8\n64000000 00000000 00000063\n\n"
+            "content": "[Life Counter in stage x99]\n58000000 00C88A70\n78001000 0002A0A8\n64000000 00000000 00000063\n\n",
+            "title": "[Life Counter in stage x99]"
         },
         {
-            "title": "[Start with Star Power]",
-            "content": "[Start with Star Power]\n58000000 00CC9860\n78000000 0002A1DA\n61000000 00000000 00000001\n\n"
+            "content": "[Start with Star Power]\n58000000 00CC9860\n78000000 0002A1DA\n61000000 00000000 00000001\n\n",
+            "title": "[Start with Star Power]"
         },
         {
-            "title": "[Start as Mario]",
-            "content": "[Start as Mario]\n58000000 00CC9860\n78000000 0002A1C8\n61000000 00000000 00000000\n\n"
+            "content": "[Start as Mario]\n58000000 00CC9860\n78000000 0002A1C8\n61000000 00000000 00000000\n\n",
+            "title": "[Start as Mario]"
         },
         {
-            "title": "[Start as Luigi]",
-            "content": "[Start as Luigi]\n58000000 00CC9860\n78000000 0002A1C8\n61000000 00000000 00000001\n\n"
+            "content": "[Start as Luigi]\n58000000 00CC9860\n78000000 0002A1C8\n61000000 00000000 00000001\n\n",
+            "title": "[Start as Luigi]"
         },
         {
-            "title": "[Start as Toad alt.]",
-            "content": "[Start as Toad alt.]\n58000000 00CC9860\n78000000 0002A1C8\n61000000 00000000 00000002\n\n"
+            "content": "[Start as Toad alt.]\n58000000 00CC9860\n78000000 0002A1C8\n61000000 00000000 00000002\n\n",
+            "title": "[Start as Toad alt.]"
         },
         {
-            "title": "[Start as Toad]",
-            "content": "[Start as Toad]\n58000000 00CC9860\n78000000 0002A1C8\n61000000 00000000 00000003\n\n"
+            "content": "[Start as Toad]\n58000000 00CC9860\n78000000 0002A1C8\n61000000 00000000 00000003\n\n",
+            "title": "[Start as Toad]"
         },
         {
-            "title": "[Start as Toadette]",
-            "content": "[Start as Toadette]\n58000000 00CC9860\n78000000 0002A1C8\n61000000 00000000 00000004\n\n"
+            "content": "[Start as Toadette]\n58000000 00CC9860\n78000000 0002A1C8\n61000000 00000000 00000004\n\n",
+            "title": "[Start as Toadette]"
         },
         {
-            "title": "[Start as Nabbit]",
-            "content": "[Start as Nabbit]\n58000000 00CC9860\n78000000 0002A1C8\n61000000 00000000 00000005\n\n"
+            "content": "[Start as Nabbit]\n58000000 00CC9860\n78000000 0002A1C8\n61000000 00000000 00000005\n\n",
+            "title": "[Start as Nabbit]"
         },
         {
-            "title": "[Start as Normal]",
-            "content": "[Start as Normal]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000000\n\n"
+            "content": "[Start as Normal]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000000\n\n",
+            "title": "[Start as Normal]"
         },
         {
-            "title": "[Start as Big]",
-            "content": "[Start as Big]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000001\n\n"
+            "content": "[Start as Big]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000001\n\n",
+            "title": "[Start as Big]"
         },
         {
-            "title": "[Start as Fire]",
-            "content": "[Start as Fire]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000002\n\n"
+            "content": "[Start as Fire]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000002\n\n",
+            "title": "[Start as Fire]"
         },
         {
-            "title": "[Start as Micro]",
-            "content": "[Start as Micro]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000003\n\n"
+            "content": "[Start as Micro]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000003\n\n",
+            "title": "[Start as Micro]"
         },
         {
-            "title": "[Start as Helicopter]",
-            "content": "[Start as Helicopter]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000004\n\n"
+            "content": "[Start as Helicopter]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000004\n\n",
+            "title": "[Start as Helicopter]"
         },
         {
-            "title": "[Start as Penguin]",
-            "content": "[Start as Penguin]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000005\n\n"
+            "content": "[Start as Penguin]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000005\n\n",
+            "title": "[Start as Penguin]"
         },
         {
-            "title": "[Start as Ice]",
-            "content": "[Start as Ice]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000006\n\n"
+            "content": "[Start as Ice]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000006\n\n",
+            "title": "[Start as Ice]"
         },
         {
-            "title": "[Start as Flying Squirrel]",
-            "content": "[Start as Flying Squirrel]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000007\n\n"
+            "content": "[Start as Flying Squirrel]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000007\n\n",
+            "title": "[Start as Flying Squirrel]"
         },
         {
-            "title": "[Start as P Flying Squirrel]",
-            "content": "[Start as P Flying Squirrel]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000008\n\n"
+            "content": "[Start as P Flying Squirrel]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000008\n\n",
+            "title": "[Start as P Flying Squirrel]"
         },
         {
-            "title": "[Start as Princess - only Toadette]",
-            "content": "[Start as Princess - only Toadette]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000009\n\n"
+            "content": "[Start as Princess - only Toadette]\n58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000009\n\n",
+            "title": "[Start as Princess - only Toadette]"
         },
         {
-            "title": "[Fireball Mario]",
-            "content": "[Fireball Mario]\n58100000 564b31a0\n78000000 00000528\n64000000 00000000 00000002\n\n"
+            "content": "[Fireball Mario]\n58100000 564b31a0\n78000000 00000528\n64000000 00000000 00000002\n\n",
+            "title": "[Fireball Mario]"
         },
         {
-            "title": "[Rapid Fire]",
-            "content": "[Rapid Fire]\n041F0000 564ACAD8 00000000\n041F0000 564ACADC 00000000\n041F0000 564ACAF8 00000000\n041F0000 564ACAFC 00000000\n\n"
+            "content": "[Rapid Fire]\n041F0000 564ACAD8 00000000\n041F0000 564ACADC 00000000\n041F0000 564ACAF8 00000000\n041F0000 564ACAFC 00000000\n\n",
+            "title": "[Rapid Fire]"
         },
         {
-            "title": "[Moon Jump (Press B key) ]",
-            "content": "[Moon Jump (Press B key) ]\n80000002\n58100000 564b31a0\n78000000 0000007C\n64000000 00000000 40400000\n20000000\n\n"
+            "content": "[Moon Jump (Press B key) ]\n80000002\n58100000 564b31a0\n78000000 0000007C\n64000000 00000000 40400000\n20000000\n\n",
+            "title": "[Moon Jump (Press B key) ]"
         },
         {
-            "title": "[Giga Mario (Press ZR key and ZL key)]",
-            "content": "[Giga Mario (Press ZR key and ZL key)]\n80000100\n58100000 564b31a0\n78000000 00000090\n64000000 00000000 40800000\n78000000 00000004\n64000000 00000000 40800000\n78000000 00000004\n64000000 00000000 40800000\n20000000\n80000200\n58100000 564b31a0\n78000000 00000090\n64000000 00000000 3F800000\n78000000 00000004\n64000000 00000000 3F800000\n78000000 00000004\n64000000 00000000 3F800000\n20000000\n\n"
+            "content": "[Giga Mario (Press ZR key and ZL key)]\n80000100\n58100000 564b31a0\n78000000 00000090\n64000000 00000000 40800000\n78000000 00000004\n64000000 00000000 40800000\n78000000 00000004\n64000000 00000000 40800000\n20000000\n80000200\n58100000 564b31a0\n78000000 00000090\n64000000 00000000 3F800000\n78000000 00000004\n64000000 00000000 3F800000\n78000000 00000004\n64000000 00000000 3F800000\n20000000\n\n",
+            "title": "[Giga Mario (Press ZR key and ZL key)]"
         },
         {
-            "title": "[Fireball Mario]",
-            "content": "[Fireball Mario]\n58100000 564b31a0\n78000000 00000528\n64000000 00000000 00000002\n\n"
+            "content": "[Fireball Mario]\n58100000 564b31a0\n78000000 00000528\n64000000 00000000 00000002\n\n",
+            "title": "[Fireball Mario]"
         },
         {
-            "title": "[Ice Mario]",
-            "content": "[Ice Mario]\n58100000 564b31a0\n78000000 00000528\n64000000 00000000 00000006\n\n"
+            "content": "[Ice Mario]\n58100000 564b31a0\n78000000 00000528\n64000000 00000000 00000006\n\n",
+            "title": "[Ice Mario]"
         },
         {
-            "title": "[Rapid Fire and Ice]",
-            "content": "[Rapid Fire and Ice]\n58000000 00cbd830\n78001000 00000dd8\n64000000 00000000 00000000\n78000000 00000004\n64000000 00000000 00000000\n58000000 00cbd830\n78001000 00000db8\n64000000 00000000 00000000\n78000000 00000004\n64000000 00000000 00000000\n\n"
+            "content": "[Rapid Fire and Ice]\n58000000 00cbd830\n78001000 00000dd8\n64000000 00000000 00000000\n78000000 00000004\n64000000 00000000 00000000\n58000000 00cbd830\n78001000 00000db8\n64000000 00000000 00000000\n78000000 00000004\n64000000 00000000 00000000\n\n",
+            "title": "[Rapid Fire and Ice]"
         },
         {
-            "title": "[FIREBALL SPECIAL]",
-            "content": "[FIREBALL SPECIAL]\n010F0000 00AF67FE 000000FF\n010F0000 00AF681B 0000003D\n010F0000 00AF67F3 0000003F\n010F0000 00AF6812 000000D0\n010F0000 00AF67EB 0000003F\n010F0000 00AF67D7 0000003F\n\n"
+            "content": "[FIREBALL SPECIAL]\n010F0000 00AF67FE 000000FF\n010F0000 00AF681B 0000003D\n010F0000 00AF67F3 0000003F\n010F0000 00AF6812 000000D0\n010F0000 00AF67EB 0000003F\n010F0000 00AF67D7 0000003F\n\n",
+            "title": "[FIREBALL SPECIAL]"
         },
         {
-            "title": "[WALKING SPEED]",
-            "content": "[WALKING SPEED]\n010F0000 00B0B5A7 00000040\n010F0000 00B0B5C7 0000003D\n\n"
+            "content": "[WALKING SPEED]\n010F0000 00B0B5A7 00000040\n010F0000 00B0B5C7 0000003D\n\n",
+            "title": "[WALKING SPEED]"
         },
         {
-            "title": "[CONTROL JUMP]",
-            "content": "[CONTROL JUMP]\n010F0000 00B0B10E 00000060\n010F0000 00B0B10F 000000BC\n010F0000 00B0A8AB 000000BF\n\n"
+            "content": "[CONTROL JUMP]\n010F0000 00B0B10E 00000060\n010F0000 00B0B10F 000000BC\n010F0000 00B0A8AB 000000BF\n\n",
+            "title": "[CONTROL JUMP]"
         },
         {
-            "title": "[FULL SCREEN VIEW]",
-            "content": "[FULL SCREEN VIEW]\n010F0000 00B0DA8F 00000041\n\n"
+            "content": "[FULL SCREEN VIEW]\n010F0000 00B0DA8F 00000041\n\n",
+            "title": "[FULL SCREEN VIEW]"
         },
         {
-            "title": "[Down Down Down (Press ZL key) ]",
-            "content": "[Down Down Down (Press ZL key) ]\n581F0000 564b31a0\n780F0000 00000057\n610F0000 00000000 00000001\n80000100\n581F0000 564b31a0\n780F0000 00000057\n610F0000 00000000 00000000\n20000000\n\n"
+            "content": "[Down Down Down (Press ZL key) ]\n581F0000 564b31a0\n780F0000 00000057\n610F0000 00000000 00000001\n80000100\n581F0000 564b31a0\n780F0000 00000057\n610F0000 00000000 00000000\n20000000\n\n",
+            "title": "[Down Down Down (Press ZL key) ]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n58100000 564b31a0\n78000000 00002C88\n64000000 00000000 00000290\n\n"
+            "content": "[Invincible]\n58100000 564b31a0\n78000000 00002C88\n64000000 00000000 00000290\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Moon Jump Yoshi]",
-            "content": "[Moon Jump Yoshi]\n80000002\n58100000 564b2d80\n78000000 0000007C\n64000000 00000000 40400000\n20000000\n\n"
+            "content": "[Moon Jump Yoshi]\n80000002\n58100000 564b2d80\n78000000 0000007C\n64000000 00000000 40400000\n20000000\n\n",
+            "title": "[Moon Jump Yoshi]"
         },
         {
-            "title": "[Down Down Down Yoshi (Press ZL key) ]",
-            "content": "[Down Down Down Yoshi (Press ZL key) ]\n581F0000 564b2d80\n780F0000 00000057\n610F0000 00000000 00000001\n80000100\n581F0000 564b2d80\n780F0000 00000057\n610F0000 00000000 00000000\n20000000\n\n"
+            "content": "[Down Down Down Yoshi (Press ZL key) ]\n581F0000 564b2d80\n780F0000 00000057\n610F0000 00000000 00000001\n80000100\n581F0000 564b2d80\n780F0000 00000057\n610F0000 00000000 00000000\n20000000\n\n",
+            "title": "[Down Down Down Yoshi (Press ZL key) ]"
         },
         {
-            "title": "[spider man mode]",
-            "content": "[spider man mode]\n04000000 001554B4 E320F000\n\n"
+            "content": "[spider man mode]\n04000000 001554B4 E320F000\n\n",
+            "title": "[spider man mode]"
         },
         {
-            "title": "[hit kill enermy all+moon jump B pad]",
-            "content": "[hit kill enermy all+moon jump B pad]\n04000000 00000730 1A000008\n80000002\n04000000 00000730 E320F000\n20000000\n\n"
+            "content": "[hit kill enermy all+moon jump B pad]\n04000000 00000730 1A000008\n80000002\n04000000 00000730 E320F000\n20000000\n\n",
+            "title": "[hit kill enermy all+moon jump B pad]"
         },
         {
-            "title": "[ninja mario on ]",
-            "content": "[ninja mario on ]\n04000000 007C66AC E320F000\n\n"
+            "content": "[ninja mario on ]\n04000000 007C66AC E320F000\n\n",
+            "title": "[ninja mario on ]"
         },
         {
-            "title": "[ninja mario off ]",
-            "content": "[ninja mario off ]\n04000000 007C66AC 1A00000B\n\n"
+            "content": "[ninja mario off ]\n04000000 007C66AC 1A00000B\n\n",
+            "title": "[ninja mario off ]"
         },
         {
-            "title": "[hit kill to block 1 up]",
-            "content": "[hit kill to block 1 up]\n04000000 00022570 E320F000\n\n"
+            "content": "[hit kill to block 1 up]\n04000000 00022570 E320F000\n\n",
+            "title": "[hit kill to block 1 up]"
         },
         {
-            "title": "[inf star L on R off]",
-            "content": "[inf star L on R off]\n80000040\n04000000 002A26C8 E320F000\n20000000\n80000040\n04000000 002A26C8 1A00000C\n20000000\n\n"
+            "content": "[inf star L on R off]\n80000040\n04000000 002A26C8 E320F000\n20000000\n80000040\n04000000 002A26C8 1A00000C\n20000000\n\n",
+            "title": "[inf star L on R off]"
         },
         {
-            "title": "[invincible all player]",
-            "content": "[invincible all player]\n04000000 00763C2C E320F000\n80001000\n04000000 00763C2C DA000002\n20000000\n80002000\n04000000 00763C2C DA000002\n20000000\n80004000\n04000000 00763C2C DA000002\n20000000\n80008000\n04000000 00763C2C DA000002\n20000000\n"
+            "content": "[invincible all player]\n04000000 00763C2C E320F000\n80001000\n04000000 00763C2C DA000002\n20000000\n80002000\n04000000 00763C2C DA000002\n20000000\n80004000\n04000000 00763C2C DA000002\n20000000\n80008000\n04000000 00763C2C DA000002\n20000000\n",
+            "title": "[invincible all player]"
         }
     ]
 }

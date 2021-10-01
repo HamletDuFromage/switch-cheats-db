@@ -1,20 +1,20 @@
 {
     "581B2B50678F2941": [
         {
-            "title": "[shinchan speed normal]",
-            "content": "[shinchan speed normal]\n04000000 017C2AF0 1E2E1000\n\n"
+            "content": "[shinchan speed normal]\n04000000 017C2AF0 1E2E1000\n\n",
+            "title": "[shinchan speed normal]"
         },
         {
-            "title": "[shinchan speed 1.5x]",
-            "content": "[shinchan speed 1.5x]\n04000000 017C2AF0 1E2F1000\n\n"
+            "content": "[shinchan speed 1.5x]\n04000000 017C2AF0 1E2F1000\n\n",
+            "title": "[shinchan speed 1.5x]"
         },
         {
-            "title": "[shinchan speed 2x]",
-            "content": "[shinchan speed 2x]\n04000000 017C2AF0 1E201000\n\n"
+            "content": "[shinchan speed 2x]\n04000000 017C2AF0 1E201000\n\n",
+            "title": "[shinchan speed 2x]"
         },
         {
-            "title": "[shinchan speed 5x]",
-            "content": "[shinchan speed 5x]\n04000000 017C2AF0 1E229000"
+            "content": "[shinchan speed 5x]\n04000000 017C2AF0 1E229000",
+            "title": "[shinchan speed 5x]"
         }
     ]
 }

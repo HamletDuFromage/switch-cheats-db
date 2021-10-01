@@ -1,170 +1,170 @@
 {
     "6A3E02D91948EC42": [
         {
-            "title": "[PP 99999 by jhmiller]",
-            "content": "[PP 99999 by jhmiller]\n580F0000 043FE0D0\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000028\n640F0000 00000000 0001869F\n\n"
+            "content": "[PP 99999 by jhmiller]\n580F0000 043FE0D0\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000028\n640F0000 00000000 0001869F\n\n",
+            "title": "[PP 99999 by jhmiller]"
         },
         {
-            "title": "[Money 9999999 by jhmiller]",
-            "content": "[Money 9999999 by jhmiller]\n580F0000 04501F50\n580F1000 000004F8\n580F1000 00000190\n780F0000 00000024\n640F0000 00000000 0098967F\n\n"
+            "content": "[Money 9999999 by jhmiller]\n580F0000 04501F50\n580F1000 000004F8\n580F1000 00000190\n780F0000 00000024\n640F0000 00000000 0098967F\n\n",
+            "title": "[Money 9999999 by jhmiller]"
         },
         {
-            "title": "[FP 99]",
-            "content": "[FP 99]\n580F0000 04FA61D0\n580F1000 00000708\n780F0000 000006A0\n640F0000 00000000 00000063\n\n"
+            "content": "[FP 99]\n580F0000 04FA61D0\n580F1000 00000708\n780F0000 000006A0\n640F0000 00000000 00000063\n\n",
+            "title": "[FP 99]"
         },
         {
-            "title": "[HP al Max - Atmosphere]",
-            "content": "[HP al Max - Atmosphere]\n580F0000 04FDAA18\n580F1000 00000258\n580F1000 00000480\n580F1000 00000020\n780F0000 0000005C\n989EF000\n580E1000 00000000\n780F0000 00000004\n989DF000\n580D1000 00000000\nC043D5E0\nA4EF0000\n20000000\n\n"
+            "content": "[HP al Max - Atmosphere]\n580F0000 04FDAA18\n580F1000 00000258\n580F1000 00000480\n580F1000 00000020\n780F0000 0000005C\n989EF000\n580E1000 00000000\n780F0000 00000004\n989DF000\n580D1000 00000000\nC043D5E0\nA4EF0000\n20000000\n\n",
+            "title": "[HP al Max - Atmosphere]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n010E0000 014C2C6A 0000001F\n"
+            "content": "[Invincible]\n010E0000 014C2C6A 0000001F\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Invincible - off]",
-            "content": "[Invincible - off]\n010E0000 014C2C6A 00000001\n\n"
+            "content": "[Invincible - off]\n010E0000 014C2C6A 00000001\n\n",
+            "title": "[Invincible - off]"
         },
         {
-            "title": "[2x Exp up]",
-            "content": "[2x Exp up]\n040E0000 01FFBD28 531F7835\n"
+            "content": "[2x Exp up]\n040E0000 01FFBD28 531F7835\n",
+            "title": "[2x Exp up]"
         },
         {
-            "title": "[4x Exp up]",
-            "content": "[4x Exp up]\n040E0000 01FFBD28 531E7435\n"
+            "content": "[4x Exp up]\n040E0000 01FFBD28 531E7435\n",
+            "title": "[4x Exp up]"
         },
         {
-            "title": "[8x Exp up]",
-            "content": "[8x Exp up]\n040E0000 01FFBD28 531D7035\n"
+            "content": "[8x Exp up]\n040E0000 01FFBD28 531D7035\n",
+            "title": "[8x Exp up]"
         },
         {
-            "title": "[16x Exp up]",
-            "content": "[16x Exp up]\n040E0000 01FFBD28 531C6C35\n"
+            "content": "[16x Exp up]\n040E0000 01FFBD28 531C6C35\n",
+            "title": "[16x Exp up]"
         },
         {
-            "title": "[32x Exp up]",
-            "content": "[32x Exp up]\n040E0000 01FFBD28 531B6835\n"
+            "content": "[32x Exp up]\n040E0000 01FFBD28 531B6835\n",
+            "title": "[32x Exp up]"
         },
         {
-            "title": "[Normal Exp up]",
-            "content": "[Normal Exp up]\n040E0000 01FFBD28 2A0103F5\n\n"
+            "content": "[Normal Exp up]\n040E0000 01FFBD28 2A0103F5\n\n",
+            "title": "[Normal Exp up]"
         },
         {
-            "title": "[2x Money up]",
-            "content": "[2x Money up]\n040E0000 01FFBFA8 531F7834\n"
+            "content": "[2x Money up]\n040E0000 01FFBFA8 531F7834\n",
+            "title": "[2x Money up]"
         },
         {
-            "title": "[4x Money up]",
-            "content": "[4x Money up]\n040E0000 01FFBFA8 531E7434\n"
+            "content": "[4x Money up]\n040E0000 01FFBFA8 531E7434\n",
+            "title": "[4x Money up]"
         },
         {
-            "title": "[8x Money up]",
-            "content": "[8x Money up]\n040E0000 01FFBFA8 531D7034\n"
+            "content": "[8x Money up]\n040E0000 01FFBFA8 531D7034\n",
+            "title": "[8x Money up]"
         },
         {
-            "title": "[16x Money up]",
-            "content": "[16x Money up]\n040E0000 01FFBFA8 531C6C34\n"
+            "content": "[16x Money up]\n040E0000 01FFBFA8 531C6C34\n",
+            "title": "[16x Money up]"
         },
         {
-            "title": "[32x Money up]",
-            "content": "[32x Money up]\n040E0000 01FFBFA8 531B6834\n"
+            "content": "[32x Money up]\n040E0000 01FFBFA8 531B6834\n",
+            "title": "[32x Money up]"
         },
         {
-            "title": "[Normal Money up]",
-            "content": "[Normal Money up]\n040E0000 01FFBFA8 2A0103F4\n\n"
+            "content": "[Normal Money up]\n040E0000 01FFBFA8 2A0103F4\n\n",
+            "title": "[Normal Money up]"
         },
         {
-            "title": "[2x Skill Points up]",
-            "content": "[2x Skill Points up]\n010E0000 2B010108 00000005\n"
+            "content": "[2x Skill Points up]\n010E0000 2B010108 00000005\n",
+            "title": "[2x Skill Points up]"
         },
         {
-            "title": "[4x Skill Points up]",
-            "content": "[4x Skill Points up]\n010E0000 2B010108 00000009\n"
+            "content": "[4x Skill Points up]\n010E0000 2B010108 00000009\n",
+            "title": "[4x Skill Points up]"
         },
         {
-            "title": "[8x Skill Points up]",
-            "content": "[8x Skill Points up]\n010E0000 2B010108 0000000D\n"
+            "content": "[8x Skill Points up]\n010E0000 2B010108 0000000D\n",
+            "title": "[8x Skill Points up]"
         },
         {
-            "title": "[16x Skill Points up]",
-            "content": "[16x Skill Points up]\n010E0000 2B010108 00000011\n"
+            "content": "[16x Skill Points up]\n010E0000 2B010108 00000011\n",
+            "title": "[16x Skill Points up]"
         },
         {
-            "title": "[32x Skill Points up]",
-            "content": "[32x Skill Points up]\n010E0000 2B010108 00000015\n"
+            "content": "[32x Skill Points up]\n010E0000 2B010108 00000015\n",
+            "title": "[32x Skill Points up]"
         },
         {
-            "title": "[Normal Skill Points up]",
-            "content": "[Normal Skill Points up]\n010E0000 2B010108 00000001"
+            "content": "[Normal Skill Points up]\n010E0000 2B010108 00000001",
+            "title": "[Normal Skill Points up]"
         }
     ],
     "F48FBF0922D5424A": [
         {
-            "title": "[Drop Rate 100%]",
-            "content": "[Drop Rate 100%]\n580F0000 0451A8C8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n580F1000 000000B0\n780F0000 00000018\n640F0000 00000000 42C80000\n\n"
+            "content": "[Drop Rate 100%]\n580F0000 0451A8C8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n580F1000 000000B0\n780F0000 00000018\n640F0000 00000000 42C80000\n\n",
+            "title": "[Drop Rate 100%]"
         },
         {
-            "title": "[Max Money]",
-            "content": "[Max Money]\n580F0000 051A0740\n580F1000 000000B8\n580F1000 00000148\n580F1000 000001E0\n780F0000 00000024\n640F0000 00000000 0098967F\n\n"
+            "content": "[Max Money]\n580F0000 051A0740\n580F1000 000000B8\n580F1000 00000148\n580F1000 000001E0\n780F0000 00000024\n640F0000 00000000 0098967F\n\n",
+            "title": "[Max Money]"
         },
         {
-            "title": "[01# Inf HP]",
-            "content": "[01# Inf HP]\n040A0000 01673B68 5284E1F6\n\n"
+            "content": "[01# Inf HP]\n040A0000 01673B68 5284E1F6\n\n",
+            "title": "[01# Inf HP]"
         },
         {
-            "title": "[02# No CD Psychics]",
-            "content": "[02# No CD Psychics]\n040A0000 0173BB28 D503201F\n\n"
+            "content": "[02# No CD Psychics]\n040A0000 0173BB28 D503201F\n\n",
+            "title": "[02# No CD Psychics]"
         },
         {
-            "title": "[03# Instant kill]",
-            "content": "[03# Instant kill]\n040A0000 017078B4 5284E1F4\n\n"
+            "content": "[03# Instant kill]\n040A0000 017078B4 5284E1F4\n\n",
+            "title": "[03# Instant kill]"
         },
         {
-            "title": "[04# Exp x8]",
-            "content": "[04# Exp x8]\n040A0000 01EE39D8 0B151115\n\n"
+            "content": "[04# Exp x8]\n040A0000 01EE39D8 0B151115\n\n",
+            "title": "[04# Exp x8]"
         },
         {
-            "title": "[05# Droprate 300%]",
-            "content": "[05# Droprate 300%]\n040A0000 01EE2D74 43960000\n040A0000 01EE2CE4 1C000488\n\n"
+            "content": "[05# Droprate 300%]\n040A0000 01EE2D74 43960000\n040A0000 01EE2CE4 1C000488\n\n",
+            "title": "[05# Droprate 300%]"
         },
         {
-            "title": "[06# Money x8]",
-            "content": "[06# Money x8]\n040A0000 01EE3C48 0B142108\n\n"
+            "content": "[06# Money x8]\n040A0000 01EE3C48 0B142108\n\n",
+            "title": "[06# Money x8]"
         },
         {
-            "title": "[speed game normal X pad menu come back later enter]",
-            "content": "[speed game normal X pad menu come back later enter]\n04000000 0195F5F8 1E2E1000\n\n"
+            "content": "[speed game normal X pad menu come back later enter]\n04000000 0195F5F8 1E2E1000\n\n",
+            "title": "[speed game normal X pad menu come back later enter]"
         },
         {
-            "title": "[speed game 1.25x ]",
-            "content": "[speed game 1.25x ]\n04000000 0195F5F8 1E2E9000\n\n"
+            "content": "[speed game 1.25x ]\n04000000 0195F5F8 1E2E9000\n\n",
+            "title": "[speed game 1.25x ]"
         },
         {
-            "title": "[speed game 1.5x ]",
-            "content": "[speed game 1.5x ]\n04000000 0195F5F8 1E2F1000\n\n"
+            "content": "[speed game 1.5x ]\n04000000 0195F5F8 1E2F1000\n\n",
+            "title": "[speed game 1.5x ]"
         },
         {
-            "title": "[speed game 1.75x ]",
-            "content": "[speed game 1.75x ]\n04000000 0195F5F8 1E2F9000\n\n"
+            "content": "[speed game 1.75x ]\n04000000 0195F5F8 1E2F9000\n\n",
+            "title": "[speed game 1.75x ]"
         },
         {
-            "title": "[speed game 2x ]",
-            "content": "[speed game 2x ]\n04000000 0195F5F8 1E201000\n\n"
+            "content": "[speed game 2x ]\n04000000 0195F5F8 1E201000\n\n",
+            "title": "[speed game 2x ]"
         },
         {
-            "title": "[speed game 2.25x ]",
-            "content": "[speed game 2.25x ]\n04000000 0195F5F8 1E205000\n\n"
+            "content": "[speed game 2.25x ]\n04000000 0195F5F8 1E205000\n\n",
+            "title": "[speed game 2.25x ]"
         },
         {
-            "title": "[speed game 2.5x ]",
-            "content": "[speed game 2.5x ]\n04000000 0195F5F8 1E209000\n\n"
+            "content": "[speed game 2.5x ]\n04000000 0195F5F8 1E209000\n\n",
+            "title": "[speed game 2.5x ]"
         },
         {
-            "title": "[speed game 2.75x ]",
-            "content": "[speed game 2.75x ]\n04000000 0195F5F8 1E20D000\n\n"
+            "content": "[speed game 2.75x ]\n04000000 0195F5F8 1E20D000\n\n",
+            "title": "[speed game 2.75x ]"
         },
         {
-            "title": "[speed game 5x ]",
-            "content": "[speed game 5x ]\n04000000 0195F5F8 1E229000"
+            "content": "[speed game 5x ]\n04000000 0195F5F8 1E229000",
+            "title": "[speed game 5x ]"
         }
     ]
 }

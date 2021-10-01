@@ -1,32 +1,32 @@
 {
     "1C1F052D10A63EEF": [
         {
-            "title": "[#01# Inf Coins]",
-            "content": "[#01# Inf Coins]\n04000000 01628ce0 0098967F\n\n"
+            "content": "[#01# Inf Coins]\n04000000 01628ce0 0098967F\n\n",
+            "title": "[#01# Inf Coins]"
         },
         {
-            "title": "[#02# Player Inf HP]",
-            "content": "[#02# Player Inf HP]\n580f0000 01A22E10\n780f0000 00000B04\n640f0000 00000000 00003E80\n780f0000 00000004\n640f0000 00000000 00003E80\n\n"
+            "content": "[#02# Player Inf HP]\n580f0000 01A22E10\n780f0000 00000B04\n640f0000 00000000 00003E80\n780f0000 00000004\n640f0000 00000000 00003E80\n\n",
+            "title": "[#02# Player Inf HP]"
         },
         {
-            "title": "[#03# Player Inf Barrier Gauge]",
-            "content": "[#03# Player Inf Barrier Gauge]\n580f0000 01A22E10\n780f0000 00005DB4\n640f0000 00000000 00002710\n\n"
+            "content": "[#03# Player Inf Barrier Gauge]\n580f0000 01A22E10\n780f0000 00005DB4\n640f0000 00000000 00002710\n\n",
+            "title": "[#03# Player Inf Barrier Gauge]"
         },
         {
-            "title": "[#04# Player Inf Heat Gauge]",
-            "content": "[#04# Player Inf Heat Gauge]\n580f0000 01A22E10\n780f0000 00005D84\n620f0000 00000000 00004E20\n\n"
+            "content": "[#04# Player Inf Heat Gauge]\n580f0000 01A22E10\n780f0000 00005D84\n620f0000 00000000 00004E20\n\n",
+            "title": "[#04# Player Inf Heat Gauge]"
         },
         {
-            "title": "[#05# CPU 1-Hit Kill]",
-            "content": "[#05# CPU 1-Hit Kill]\n580f0000 01A22E18\n780f0000 00000B04\n640f0000 00000000 00000001\n\n"
+            "content": "[#05# CPU 1-Hit Kill]\n580f0000 01A22E18\n780f0000 00000B04\n640f0000 00000000 00000001\n\n",
+            "title": "[#05# CPU 1-Hit Kill]"
         },
         {
-            "title": "[#06# CPU NO Barrier Gauge]",
-            "content": "[#06# CPU NO Barrier Gauge]\n580f0000 01A22E18\n780f0000 00005DB4\n640f0000 00000000 00000000\n\n"
+            "content": "[#06# CPU NO Barrier Gauge]\n580f0000 01A22E18\n780f0000 00005DB4\n640f0000 00000000 00000000\n\n",
+            "title": "[#06# CPU NO Barrier Gauge]"
         },
         {
-            "title": "[#07# CPU NO Heat Gauge]",
-            "content": "[#07# CPU NO Heat Gauge]\n580f0000 01A22E18\n780f0000 00005D84\n620f0000 00000000 00000000"
+            "content": "[#07# CPU NO Heat Gauge]\n580f0000 01A22E18\n780f0000 00005D84\n620f0000 00000000 00000000",
+            "title": "[#07# CPU NO Heat Gauge]"
         }
     ]
 }

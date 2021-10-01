@@ -1,76 +1,76 @@
 {
     "090B1F7F7AF35D00": [
         {
-            "title": "[01# Inf Ammo]",
-            "content": "[01# Inf Ammo]\n04000000 012C7074 52933320\n\n"
+            "content": "[01# Inf Ammo]\n04000000 012C7074 52933320\n\n",
+            "title": "[01# Inf Ammo]"
         },
         {
-            "title": "[Inf Ammo (off)]",
-            "content": "[Inf Ammo (off)]\n04000000 012C7074 E1380000\n\n"
+            "content": "[Inf Ammo (off)]\n04000000 012C7074 E1380000\n\n",
+            "title": "[Inf Ammo (off)]"
         },
         {
-            "title": "[02# Max Health]",
-            "content": "[02# Max Health]\n580F0000 04D5C6F0\n580F1000 00000440\n580F1000 00000270\n780F0000 000000A0\n640F0000 00000000 4B18967F\n\n"
+            "content": "[02# Max Health]\n580F0000 04D5C6F0\n580F1000 00000440\n580F1000 00000270\n780F0000 000000A0\n640F0000 00000000 4B18967F\n\n",
+            "title": "[02# Max Health]"
         },
         {
-            "title": "[03# God Mode]",
-            "content": "[03# God Mode]\n580F0000 04D5C6F0\n580F1000 00000440\n580F1000 00000270\n780F0000 0000015C\n640F0000 00000000 00000006\n\n"
+            "content": "[03# God Mode]\n580F0000 04D5C6F0\n580F1000 00000440\n580F1000 00000270\n780F0000 0000015C\n640F0000 00000000 00000006\n\n",
+            "title": "[03# God Mode]"
         },
         {
-            "title": "[04# No reload]",
-            "content": "[04# No reload]\n580F0000 04D5C6F0\n580F1000 000009F8\n580F1000 00000400\n580F1000 00000598\n780F0000 00000ECC\n640F0000 00000000 000003E7\n780F0000 00000028\n640F0000 00000000 000003E7\n\n"
+            "content": "[04# No reload]\n580F0000 04D5C6F0\n580F1000 000009F8\n580F1000 00000400\n580F1000 00000598\n780F0000 00000ECC\n640F0000 00000000 000003E7\n780F0000 00000028\n640F0000 00000000 000003E7\n\n",
+            "title": "[04# No reload]"
         },
         {
-            "title": "[05# Moonjump]",
-            "content": "[05# Moonjump]\n80000002\n580F0000 04D5C6F0\n580F1000 00000218\n580F1000 00000128\n780F0000 00000170\n640F0000 00000000 44000000\n20000000\n\n"
+            "content": "[05# Moonjump]\n80000002\n580F0000 04D5C6F0\n580F1000 00000218\n580F1000 00000128\n780F0000 00000170\n640F0000 00000000 44000000\n20000000\n\n",
+            "title": "[05# Moonjump]"
         },
         {
-            "title": "[06# Running x2 (left) x1 (right)]",
-            "content": "[06# Running x2 (left) x1 (right)]\n80001000\n580F0000 04D5C6F0\n580F1000 00000218\n580F1000 00000128\n780F0000 00000414\n640F0000 00000000 40000000\n20000000\n80004000\n580F0000 04D5C6F0\n580F1000 00000218\n580F1000 00000128\n780F0000 00000414\n640F0000 00000000 3f800000\n20000000\n\n"
+            "content": "[06# Running x2 (left) x1 (right)]\n80001000\n580F0000 04D5C6F0\n580F1000 00000218\n580F1000 00000128\n780F0000 00000414\n640F0000 00000000 40000000\n20000000\n80004000\n580F0000 04D5C6F0\n580F1000 00000218\n580F1000 00000128\n780F0000 00000414\n640F0000 00000000 3f800000\n20000000\n\n",
+            "title": "[06# Running x2 (left) x1 (right)]"
         },
         {
-            "title": "[07# Damage Multiplier x2000]",
-            "content": "[07# Damage Multiplier x2000]\n580F0000 04D56220\n580F1000 00000108\n580F1000 000002C0\n580F1000 00000070\n780F0000 00000358\n640F0000 00000000 44FA0000\n\n"
+            "content": "[07# Damage Multiplier x2000]\n580F0000 04D56220\n580F1000 00000108\n580F1000 000002C0\n580F1000 00000070\n780F0000 00000358\n640F0000 00000000 44FA0000\n\n",
+            "title": "[07# Damage Multiplier x2000]"
         },
         {
-            "title": "[08# XP Multiplier x2000]",
-            "content": "[08# XP Multiplier x2000]\n580F0000 04D5C6F0\n580F1000 00000440\n580F1000 00000258\n780F0000 000001B0\n640F0000 00000000 44FA0000\n\n"
+            "content": "[08# XP Multiplier x2000]\n580F0000 04D5C6F0\n580F1000 00000440\n580F1000 00000258\n780F0000 000001B0\n640F0000 00000000 44FA0000\n\n",
+            "title": "[08# XP Multiplier x2000]"
         },
         {
-            "title": "[08# Instant level up (press R stick)]",
-            "content": "[08# Instant level up (press R stick)]\n80000020\n580F0000 04D5C6F0\n580F1000 00000220\n780F0000 00000438\n640F0000 00000000 00000001\n20000000\n\n"
+            "content": "[08# Instant level up (press R stick)]\n80000020\n580F0000 04D5C6F0\n580F1000 00000220\n780F0000 00000438\n640F0000 00000000 00000001\n20000000\n\n",
+            "title": "[08# Instant level up (press R stick)]"
         },
         {
-            "title": "[09# Max Money]",
-            "content": "[09# Max Money]\n580F0000 04D5C6F0\n580F1000 00000220\n780F0000 00000480\n640F0000 00000000 0001869F\n\n"
+            "content": "[09# Max Money]\n580F0000 04D5C6F0\n580F1000 00000220\n780F0000 00000480\n640F0000 00000000 0001869F\n\n",
+            "title": "[09# Max Money]"
         },
         {
-            "title": "[10# Max Moon Shards]",
-            "content": "[10# Max Moon Shards]\n580F0000 04D5C6F0\n580F1000 00000220\n780F0000 00000494\n640F0000 00000000 000001F4\n\n"
+            "content": "[10# Max Moon Shards]\n580F0000 04D5C6F0\n580F1000 00000220\n780F0000 00000494\n640F0000 00000000 000001F4\n\n",
+            "title": "[10# Max Moon Shards]"
         },
         {
-            "title": "[11# Max Shift Coins]",
-            "content": "[11# Max Shift Coins]\n580F0000 04D5C6F0\n580F1000 00000220\n780F0000 000004E4\n640F0000 00000000 000001F4\n\n"
+            "content": "[11# Max Shift Coins]\n580F0000 04D5C6F0\n580F1000 00000220\n780F0000 000004E4\n640F0000 00000000 000001F4\n\n",
+            "title": "[11# Max Shift Coins]"
         },
         {
-            "title": "[12# Max Skill Points]",
-            "content": "[12# Max Skill Points]\n580F0000 04D5C6F0\n580F1000 00000220\n780F0000 00000454\n640F0000 00000000 00000063\n\n"
+            "content": "[12# Max Skill Points]\n580F0000 04D5C6F0\n580F1000 00000220\n780F0000 00000454\n640F0000 00000000 00000063\n\n",
+            "title": "[12# Max Skill Points]"
         },
         {
-            "title": "{Disable Sanity Check - Credit to C0dycode of Shadowevil's Modding Server}",
-            "content": "{Disable Sanity Check - Credit to C0dycode of Shadowevil's Modding Server}\n04000000 0135FA64 D503201F\n04000000 0135FAC4 D503201F\n\n"
+            "content": "{Disable Sanity Check - Credit to C0dycode of Shadowevil's Modding Server}\n04000000 0135FA64 D503201F\n04000000 0135FAC4 D503201F\n\n",
+            "title": "{Disable Sanity Check - Credit to C0dycode of Shadowevil's Modding Server}"
         },
         {
-            "title": "[Disable Level Check]",
-            "content": "[Disable Level Check]\n04000000 01354DF4 52800FE0\n\n"
+            "content": "[Disable Level Check]\n04000000 01354DF4 52800FE0\n\n",
+            "title": "[Disable Level Check]"
         },
         {
-            "title": "[Everyone One-Shot Kill - R to Enable, L to Disable]",
-            "content": "[Everyone One-Shot Kill - R to Enable, L to Disable]\n80000080\n04000000 004D3DE0 D503201F\n20000000\n80000040\n04000000 004D3DE0 BD000260\n20000000\n\n"
+            "content": "[Everyone One-Shot Kill - R to Enable, L to Disable]\n80000080\n04000000 004D3DE0 D503201F\n20000000\n80000040\n04000000 004D3DE0 BD000260\n20000000\n\n",
+            "title": "[Everyone One-Shot Kill - R to Enable, L to Disable]"
         },
         {
-            "title": "[13# Max Badass Tokens]",
-            "content": "[13# Max Badass Tokens]\n580F0000 03E3D248\n580F1000 00001328\n580F1000 00000030\n780F0000 0000122C\n640F0000 00000000 00000063"
+            "content": "[13# Max Badass Tokens]\n580F0000 03E3D248\n580F1000 00001328\n580F1000 00000030\n780F0000 0000122C\n640F0000 00000000 00000063",
+            "title": "[13# Max Badass Tokens]"
         }
     ]
 }

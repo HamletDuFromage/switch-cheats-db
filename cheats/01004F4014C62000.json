@@ -1,108 +1,108 @@
 {
     "61975B301708E44B": [
         {
-            "title": "[01# Inf Health]",
-            "content": "[01# Inf Health]\n040A0000 018FB7A8 442F0000\n040A0000 018FB794 1C0000A8\n\n"
+            "content": "[01# Inf Health]\n040A0000 018FB7A8 442F0000\n040A0000 018FB794 1C0000A8\n\n",
+            "title": "[01# Inf Health]"
         },
         {
-            "title": "[Inf Health (off)]",
-            "content": "[Inf Health (off)]\n040A0000 018FB794 BD404E68\n\n"
+            "content": "[Inf Health (off)]\n040A0000 018FB794 BD404E68\n\n",
+            "title": "[Inf Health (off)]"
         },
         {
-            "title": "[02# Unlimited Crafting]",
-            "content": "[02# Unlimited Crafting]\n040A0000 017D964C 52800154\n\n"
+            "content": "[02# Unlimited Crafting]\n040A0000 017D964C 52800154\n\n",
+            "title": "[02# Unlimited Crafting]"
         },
         {
-            "title": "[Unlimited Crafting (off)]",
-            "content": "[Unlimited Crafting (off)]\n040A0000 017D964C 2A0203F4\n\n"
+            "content": "[Unlimited Crafting (off)]\n040A0000 017D964C 2A0203F4\n\n",
+            "title": "[Unlimited Crafting (off)]"
         },
         {
-            "title": "[03# Inf Calories]",
-            "content": "[03# Inf Calories]\n040A0000 018FACD8 442F0000\n040A0000 018FAAE8 1C000F88\n\n"
+            "content": "[03# Inf Calories]\n040A0000 018FACD8 442F0000\n040A0000 018FAAE8 1C000F88\n\n",
+            "title": "[03# Inf Calories]"
         },
         {
-            "title": "[Inf Calories (off)]",
-            "content": "[Inf Calories (off)]\n040A0000 018FAAE8 BD005268\n\n"
+            "content": "[Inf Calories (off)]\n040A0000 018FAAE8 BD005268\n\n",
+            "title": "[Inf Calories (off)]"
         },
         {
-            "title": "[04# Inf Thirst]",
-            "content": "[04# Inf Thirst]\n040A0000 018FAE9C 442F0000\n040A0000 018FAD84 1C0008C8\n\n"
+            "content": "[04# Inf Thirst]\n040A0000 018FAE9C 442F0000\n040A0000 018FAD84 1C0008C8\n\n",
+            "title": "[04# Inf Thirst]"
         },
         {
-            "title": "[Inf Thirst (off)]",
-            "content": "[Inf Thirst (off)]\n040A0000 018FAD84 BD005668\n\n"
+            "content": "[Inf Thirst (off)]\n040A0000 018FAD84 BD005668\n\n",
+            "title": "[Inf Thirst (off)]"
         },
         {
-            "title": "[05# Inf Stamina]",
-            "content": "[05# Inf Stamina]\n040A0000 018FBD34 42C80000\n040A0000 018FBBEC 1C000A48\n\n"
+            "content": "[05# Inf Stamina]\n040A0000 018FBD34 42C80000\n040A0000 018FBBEC 1C000A48\n\n",
+            "title": "[05# Inf Stamina]"
         },
         {
-            "title": "[Inf Stamina (off)]",
-            "content": "[Inf Stamina (off)]\n040A0000 018FBBEC BD00A660\n\n"
+            "content": "[Inf Stamina (off)]\n040A0000 018FBBEC BD00A660\n\n",
+            "title": "[Inf Stamina (off)]"
         },
         {
-            "title": "[06# Inf Oxygen]",
-            "content": "[06# Inf Oxygen]\n040A0000 018FB544 42C80000\n040A0000 018FB098 1C002568\n\n"
+            "content": "[06# Inf Oxygen]\n040A0000 018FB544 42C80000\n040A0000 018FB098 1C002568\n\n",
+            "title": "[06# Inf Oxygen]"
         },
         {
-            "title": "[Inf Oxygen (off)]",
-            "content": "[Inf Oxygen (off)]\n040A0000 018FB098 BD00BA60\n\n"
+            "content": "[Inf Oxygen (off)]\n040A0000 018FB098 BD00BA60\n\n",
+            "title": "[Inf Oxygen (off)]"
         },
         {
-            "title": "[07# Protected from Sun]",
-            "content": "[07# Protected from Sun]\n040A0000 01902A84 1E2703E8\n\n"
+            "content": "[07# Protected from Sun]\n040A0000 01902A84 1E2703E8\n\n",
+            "title": "[07# Protected from Sun]"
         },
         {
-            "title": "[Protected from Sun (off)]",
-            "content": "[Protected from Sun (off)]\n040A0000 01902A84 BD404268\n\n"
+            "content": "[Protected from Sun (off)]\n040A0000 01902A84 BD404268\n\n",
+            "title": "[Protected from Sun (off)]"
         },
         {
-            "title": "[08# Inf Fire Fuel]",
-            "content": "[08# Inf Fire Fuel]\n040A0000 01B6063C 1E202900\n\n"
+            "content": "[08# Inf Fire Fuel]\n040A0000 01B6063C 1E202900\n\n",
+            "title": "[08# Inf Fire Fuel]"
         },
         {
-            "title": "[Inf Fire Fuel (off)]",
-            "content": "[Inf Fire Fuel (off)]\n040A0000 01B6063C 1E203900\n\n"
+            "content": "[Inf Fire Fuel (off)]\n040A0000 01B6063C 1E203900\n\n",
+            "title": "[Inf Fire Fuel (off)]"
         },
         {
-            "title": "[09# Inf Durability]",
-            "content": "[09# Inf Durability]\n040A0000 018574A4 1E2E1001\n\n"
+            "content": "[09# Inf Durability]\n040A0000 018574A4 1E2E1001\n\n",
+            "title": "[09# Inf Durability]"
         },
         {
-            "title": "[Inf Durability (off)]",
-            "content": "[Inf Durability (off)]\n040A0000 018574A4 1E3E1001\n\n"
+            "content": "[Inf Durability (off)]\n040A0000 018574A4 1E3E1001\n\n",
+            "title": "[Inf Durability (off)]"
         },
         {
-            "title": "[10# Inf Raft Motor Fuel]",
-            "content": "[10# Inf Raft Motor Fuel]\n040A0000 0181FDF8 1E202900\n\n"
+            "content": "[10# Inf Raft Motor Fuel]\n040A0000 0181FDF8 1E202900\n\n",
+            "title": "[10# Inf Raft Motor Fuel]"
         },
         {
-            "title": "[Inf Raft Motor Fuel (off)]",
-            "content": "[Inf Raft Motor Fuel (off)]\n040A0000 0181FDF8 1E203900\n\n"
+            "content": "[Inf Raft Motor Fuel (off)]\n040A0000 0181FDF8 1E203900\n\n",
+            "title": "[Inf Raft Motor Fuel (off)]"
         },
         {
-            "title": "[11# Inf Gyrocopter Fuel]",
-            "content": "[11# Inf Gyrocopter Fuel]\n040A0000 0184DEAC 1E202900\n\n"
+            "content": "[11# Inf Gyrocopter Fuel]\n040A0000 0184DEAC 1E202900\n\n",
+            "title": "[11# Inf Gyrocopter Fuel]"
         },
         {
-            "title": "[Inf Gyrocopter Fuel (off)]",
-            "content": "[Inf Gyrocopter Fuel (off)]\n040A0000 0184DEAC 1E203900\n\n"
+            "content": "[Inf Gyrocopter Fuel (off)]\n040A0000 0184DEAC 1E203900\n\n",
+            "title": "[Inf Gyrocopter Fuel (off)]"
         },
         {
-            "title": "[12# Quick Destroy]",
-            "content": "[12# Quick Destroy]\n040A0000 016478E0 1E2703E0\n\n"
+            "content": "[12# Quick Destroy]\n040A0000 016478E0 1E2703E0\n\n",
+            "title": "[12# Quick Destroy]"
         },
         {
-            "title": "[Quick Destroy (off)]",
-            "content": "[Quick Destroy (off)]\n040A0000 016478E0 1E283800\n\n"
+            "content": "[Quick Destroy (off)]\n040A0000 016478E0 1E283800\n\n",
+            "title": "[Quick Destroy (off)]"
         },
         {
-            "title": "[13# Quick Build]",
-            "content": "[13# Quick Build]\n040A0000 016470D8 442F0000\n040A0000 016470D0 1C000040\n\n"
+            "content": "[13# Quick Build]\n040A0000 016470D8 442F0000\n040A0000 016470D0 1C000040\n\n",
+            "title": "[13# Quick Build]"
         },
         {
-            "title": "[Quick Destroy (off)]",
-            "content": "[Quick Destroy (off)]\n040A0000 016470D0 BD406C00"
+            "content": "[Quick Destroy (off)]\n040A0000 016470D0 BD406C00",
+            "title": "[Quick Destroy (off)]"
         }
     ]
 }

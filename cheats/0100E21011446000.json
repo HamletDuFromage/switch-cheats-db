@@ -1,368 +1,368 @@
 {
+    "4B8E91070D920211": [
+        {
+            "content": "[*Money Jericoss]\n04100000 43772220 0087A238\n\n",
+            "title": "[*Money Jericoss]"
+        },
+        {
+            "content": "[*1 item 888]\n02100000 4377222E 00000378\n\n",
+            "title": "[*1 item 888]"
+        },
+        {
+            "content": "[*2 item 888]\n02100000 43772236 00000378\n\n",
+            "title": "[*2 item 888]"
+        },
+        {
+            "content": "[*100 item 888]\n02100000 4377222E 00000378\n02100000 43772236 00000378\n02100000 4377223E 00000378\n02100000 43772246 00000378\n02100000 4377224E 00000378\n02100000 43772256 00000378\n02100000 4377225E 00000378\n02100000 43772266 00000378\n02100000 4377226E 00000378\n02100000 43772276 00000378\n02100000 4377227E 00000378\n02100000 43772286 00000378\n02100000 4377228E 00000378\n02100000 43772296 00000378\n02100000 4377229E 00000378\n02100000 437722A6 00000378\n02100000 437722AE 00000378\n02100000 437722B6 00000378\n02100000 437722BE 00000378\n02100000 437722C6 00000378\n02100000 437722CE 00000378\n02100000 437722D6 00000378\n02100000 437722DE 00000378\n02100000 437722E6 00000378\n02100000 437722EE 00000378\n02100000 437722F6 00000378\n02100000 437722FE 00000378\n02100000 43772306 00000378\n02100000 4377230E 00000378\n02100000 43772316 00000378\n02100000 4377231E 00000378\n02100000 43772326 00000378\n02100000 4377232E 00000378\n02100000 43772336 00000378\n02100000 4377233E 00000378\n02100000 43772346 00000378\n02100000 4377234E 00000378\n02100000 43772356 00000378\n02100000 4377235E 00000378\n02100000 43772366 00000378\n02100000 4377236E 00000378\n02100000 43772376 00000378\n02100000 4377237E 00000378\n02100000 43772386 00000378\n02100000 4377238E 00000378\n02100000 43772396 00000378\n02100000 4377239E 00000378\n02100000 437723A6 00000378\n02100000 437723AE 00000378\n02100000 437723B6 00000378\n02100000 437723BE 00000378\n02100000 437723C6 00000378\n02100000 437723CE 00000378\n02100000 437723D6 00000378\n02100000 437723DE 00000378\n02100000 437723E6 00000378\n02100000 437723EE 00000378\n02100000 437723F6 00000378\n02100000 437723FE 00000378\n02100000 43772406 00000378\n02100000 4377240E 00000378\n02100000 43772416 00000378\n02100000 4377241E 00000378\n02100000 43772426 00000378\n02100000 4377242E 00000378\n02100000 43772436 00000378\n02100000 4377243E 00000378\n02100000 43772446 00000378\n02100000 4377244E 00000378\n02100000 43772456 00000378\n02100000 4377245E 00000378\n02100000 43772466 00000378\n02100000 4377246E 00000378\n02100000 43772476 00000378\n02100000 4377247E 00000378\n02100000 43772486 00000378\n02100000 4377248E 00000378\n02100000 43772496 00000378\n02100000 4377249E 00000378\n02100000 437724A6 00000378\n02100000 437724AE 00000378\n02100000 437724B6 00000378\n02100000 437724BE 00000378\n02100000 437724C6 00000378\n02100000 437724CE 00000378\n02100000 437724D6 00000378\n02100000 437724DE 00000378\n02100000 437724E6 00000378\n02100000 437724EE 00000378\n02100000 437724F6 00000378\n02100000 437724FE 00000378\n02100000 43772506 00000378\n02100000 4377250E 00000378\n02100000 43772516 00000378\n02100000 4377251E 00000378\n02100000 43772526 00000378\n02100000 4377252E 00000378\n02100000 43772536 00000378\n02100000 4377253E 00000378\n02100000 43772546 00000378\n",
+            "title": "[*100 item 888]"
+        },
+        {
+            "content": "[Moonjump Jericoss V1]\n80000002\n580F0000 02AFAE30\n580F1000 00000098\n580F1000 00000148\n580F1000 00000060\n580F1000 00000008\n780F0000 00000014\n640F0000 00000000 42C80000\n20000000\n\n",
+            "title": "[Moonjump Jericoss V1]"
+        },
+        {
+            "content": "[Moonjump Jericoss V2]\n80000002\n580F0000 02B071E8\n580F1000 00039A10\n780F0000 00000014\n640F0000 00000000 42C80000\n20000000",
+            "title": "[Moonjump Jericoss V2]"
+        }
+    ],
     "BCD9FDDEBA070270": [
         {
-            "title": "[Inf. HP P1]",
-            "content": "[Inf. HP P1]\n021C0000 4050AFEC 0000270F\n\n"
+            "content": "[Inf. HP P1]\n021C0000 4050AFEC 0000270F\n\n",
+            "title": "[Inf. HP P1]"
         },
         {
-            "title": "[Max Stats P1]",
-            "content": "[Max Stats P1]\n02100000 4050AFF0 0000270F\n02100000 4050AFF4 0000270F\n02100000 4050B028 0000270F\n04100000 4050B03C 270F270F\n04100000 4050B040 270F270F\n04100000 4050B044 270F270F\n\n"
+            "content": "[Max Stats P1]\n02100000 4050AFF0 0000270F\n02100000 4050AFF4 0000270F\n02100000 4050B028 0000270F\n04100000 4050B03C 270F270F\n04100000 4050B040 270F270F\n04100000 4050B044 270F270F\n\n",
+            "title": "[Max Stats P1]"
         },
         {
-            "title": "[Inf. HP Monster 1]",
-            "content": "[Inf. HP Monster 1]\n021C0000 418634A8 0000270F\n\n"
+            "content": "[Inf. HP Monster 1]\n021C0000 418634A8 0000270F\n\n",
+            "title": "[Inf. HP Monster 1]"
         },
         {
-            "title": "[Max Stats Monster 1]",
-            "content": "[Max Stats Monster 1]\n021C0000 418634AC 0000270F\n021C0000 418634B0 0000270F\n021C0000 418634E4 0000270F\n041C0000 418634F8 270F270F\n041C0000 418634FC 270F270F\n041C0000 41863500 270F270F\n\n"
+            "content": "[Max Stats Monster 1]\n021C0000 418634AC 0000270F\n021C0000 418634B0 0000270F\n021C0000 418634E4 0000270F\n041C0000 418634F8 270F270F\n041C0000 418634FC 270F270F\n041C0000 41863500 270F270F\n\n",
+            "title": "[Max Stats Monster 1]"
         },
         {
-            "title": "[P1 Level 99]",
-            "content": "[P1 Level 99]\n02100000 4050AFFA 00000063\n\n"
+            "content": "[P1 Level 99]\n02100000 4050AFFA 00000063\n\n",
+            "title": "[P1 Level 99]"
         },
         {
-            "title": "[Monster 1 Level 99]",
-            "content": "[Monster 1 Level 99]\n021C0000 418634B6 00000063\n\n"
+            "content": "[Monster 1 Level 99]\n021C0000 418634B6 00000063\n\n",
+            "title": "[Monster 1 Level 99]"
         },
         {
-            "title": "[Max Money]",
-            "content": "[Max Money]\n04100000 40732670 3B9AC9FF\n\n"
+            "content": "[Max Money]\n04100000 40732670 3B9AC9FF\n\n",
+            "title": "[Max Money]"
         },
         {
-            "title": "[Max Bottle Caps]",
-            "content": "[Max Bottle Caps]\n02100000 407335FE 000003E7\n\n\n"
+            "content": "[Max Bottle Caps]\n02100000 407335FE 000003E7\n\n\n",
+            "title": "[Max Bottle Caps]"
         },
         {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000002\n580F0000 02418AD0\n580F1000 00000098\n580F1000 00000148\n580F1000 000000B8\n580F1000 00000048\n780F0000 00000014\n640F0000 00000000 43480000\n20000000\n\n"
+            "content": "[Moon Jump]\n80000002\n580F0000 02418AD0\n580F1000 00000098\n580F1000 00000148\n580F1000 000000B8\n580F1000 00000048\n780F0000 00000014\n640F0000 00000000 43480000\n20000000\n\n",
+            "title": "[Moon Jump]"
         },
         {
-            "title": "[Rider armor 2000 protection of all kind]",
-            "content": "[Rider armor 2000 protection of all kind]\n580F0000 0240F230\n580F1000 000005B0\n580F1000 000000D8\n580F1000 00000000\n780F0000 00000010\n680F1000 07D007D0 07D007D0\n640F1000 07D007D0 07D007D0\n\n"
+            "content": "[Rider armor 2000 protection of all kind]\n580F0000 0240F230\n580F1000 000005B0\n580F1000 000000D8\n580F1000 00000000\n780F0000 00000010\n680F1000 07D007D0 07D007D0\n640F1000 07D007D0 07D007D0\n\n",
+            "title": "[Rider armor 2000 protection of all kind]"
         },
         {
-            "title": "[Iron sword 2000 attack of all kind 2000 protect 100% critical]",
-            "content": "[Iron sword 2000 attack of all kind 2000 protect 100% critical]\n580F0000 0240F230\n580F1000 00000500\n580F1000 000000D8\n580F1000 00000000\n780F0000 00000010\n680F1000 07D007D0 07D007D0\n680F1000 07D007D0 006407D0"
+            "content": "[Iron sword 2000 attack of all kind 2000 protect 100% critical]\n580F0000 0240F230\n580F1000 00000500\n580F1000 000000D8\n580F1000 00000000\n780F0000 00000010\n680F1000 07D007D0 07D007D0\n680F1000 07D007D0 006407D0",
+            "title": "[Iron sword 2000 attack of all kind 2000 protect 100% critical]"
         }
     ],
     "EE762E3C16403A53": [
         {
-            "title": "[1p run speed normal]",
-            "content": "[1p run speed normal]\n04000000 010B6B78 1E2E100D\n\n"
+            "content": "[1p run speed normal]\n04000000 010B6B78 1E2E100D\n\n",
+            "title": "[1p run speed normal]"
         },
         {
-            "title": "[1p run speed 1.25x]",
-            "content": "[1p run speed 1.25x]\n04000000 010B6B78 1E2E900D\n\n"
+            "content": "[1p run speed 1.25x]\n04000000 010B6B78 1E2E900D\n\n",
+            "title": "[1p run speed 1.25x]"
         },
         {
-            "title": "[1p run speed 1.5x]",
-            "content": "[1p run speed 1.5x]\n04000000 010B6B78 1E2F100D\n\n"
+            "content": "[1p run speed 1.5x]\n04000000 010B6B78 1E2F100D\n\n",
+            "title": "[1p run speed 1.5x]"
         },
         {
-            "title": "[1p run speed 1.75x]",
-            "content": "[1p run speed 1.75x]\n04000000 010B6B78 1E2F900D\n\n"
+            "content": "[1p run speed 1.75x]\n04000000 010B6B78 1E2F900D\n\n",
+            "title": "[1p run speed 1.75x]"
         },
         {
-            "title": "[damager max]",
-            "content": "[damager max]\n04000000 00C40AB0 D65F03C0\n\n"
+            "content": "[damager max]\n04000000 00C40AB0 D65F03C0\n\n",
+            "title": "[damager max]"
         },
         {
-            "title": "[damager max off]",
-            "content": "[damager max off]\n04000000 00C40AB0 6DBD23E9\n\n"
+            "content": "[damager max off]\n04000000 00C40AB0 6DBD23E9\n\n",
+            "title": "[damager max off]"
         },
         {
-            "title": "[60 FPS]",
-            "content": "[60 FPS]\n580F0000 02513CE0\n780F0000 00000054\n640F0000 00000000 42700000\n\n"
+            "content": "[60 FPS]\n580F0000 02513CE0\n780F0000 00000054\n640F0000 00000000 42700000\n\n",
+            "title": "[60 FPS]"
         },
         {
-            "title": "[(Hold L3) Game Speed x2]",
-            "content": "[(Hold L3) Game Speed x2]\n580F0000 02513CE0\n780F0000 00000050\n640F0000 00000000 42700000\n20000000\n80000010\n580F0000 02513CE0\n780F0000 00000050\n640F0000 00000000 42F00000\n20000000\n\n"
+            "content": "[(Hold L3) Game Speed x2]\n580F0000 02513CE0\n780F0000 00000050\n640F0000 00000000 42700000\n20000000\n80000010\n580F0000 02513CE0\n780F0000 00000050\n640F0000 00000000 42F00000\n20000000\n\n",
+            "title": "[(Hold L3) Game Speed x2]"
         },
         {
-            "title": "[Run Speed 1.25x]",
-            "content": "[Run Speed 1.25x]\n040C0000 010B6B78 1E2E900D\n\n"
+            "content": "[Run Speed 1.25x]\n040C0000 010B6B78 1E2E900D\n\n",
+            "title": "[Run Speed 1.25x]"
         },
         {
-            "title": "[Run Speed 1.5x]",
-            "content": "[Run Speed 1.5x]\n040C0000 010B6B78 1E2F100D\n\n"
+            "content": "[Run Speed 1.5x]\n040C0000 010B6B78 1E2F100D\n\n",
+            "title": "[Run Speed 1.5x]"
         },
         {
-            "title": "[Run Speed 1.75x]",
-            "content": "[Run Speed 1.75x]\n040C0000 010B6B78 1E2F900D\n\n"
+            "content": "[Run Speed 1.75x]\n040C0000 010B6B78 1E2F900D\n\n",
+            "title": "[Run Speed 1.75x]"
         },
         {
-            "title": "[Run Speed Normal]",
-            "content": "[Run Speed Normal]\n040C0000 010B6B78 1E2E100D\n\n"
+            "content": "[Run Speed Normal]\n040C0000 010B6B78 1E2E100D\n\n",
+            "title": "[Run Speed Normal]"
         },
         {
-            "title": "[Moon Jump(B)+ Walk Through Walls]",
-            "content": "[Moon Jump(B)+ Walk Through Walls]\n80000002\n580F0000 0241AB70\n580F1000 00000078\n580F1000 00000148\n580F1000 00000060\n580F1000 00000008\n780F0000 00000014\n640F0000 00000000 42C80000\n20000000\n\n"
+            "content": "[Moon Jump(B)+ Walk Through Walls]\n80000002\n580F0000 0241AB70\n580F1000 00000078\n580F1000 00000148\n580F1000 00000060\n580F1000 00000008\n780F0000 00000014\n640F0000 00000000 42C80000\n20000000\n\n",
+            "title": "[Moon Jump(B)+ Walk Through Walls]"
         },
         {
-            "title": "[Iron sword 2000 attack for all kind, 2000 protect, 100% critical]",
-            "content": "[Iron sword 2000 attack for all kind, 2000 protect, 100% critical]\n580F0000 024112D0\n580F1000 00000500\n580F1000 000000D8\n580F1000 00000000\n780F0000 00000010\n680F1000 07D007D0 07D007D0\n680F1000 006407D0 07D007D0\n\n"
+            "content": "[Iron sword 2000 attack for all kind, 2000 protect, 100% critical]\n580F0000 024112D0\n580F1000 00000500\n580F1000 000000D8\n580F1000 00000000\n780F0000 00000010\n680F1000 07D007D0 07D007D0\n680F1000 006407D0 07D007D0\n\n",
+            "title": "[Iron sword 2000 attack for all kind, 2000 protect, 100% critical]"
         },
         {
-            "title": "[Rider armor 2000 protection for all kind]",
-            "content": "[Rider armor 2000 protection for all kind]\n580F0000 024112D0\n580F1000 000005B0\n580F1000 000000D8\n580F1000 00000000\n780F0000 00000010\n680F1000 07D007D0 07D007D0\n640F1000 07D007D0 07D007D0\n\n"
+            "content": "[Rider armor 2000 protection for all kind]\n580F0000 024112D0\n580F1000 000005B0\n580F1000 000000D8\n580F1000 00000000\n780F0000 00000010\n680F1000 07D007D0 07D007D0\n640F1000 07D007D0 07D007D0\n\n",
+            "title": "[Rider armor 2000 protection for all kind]"
         },
         {
-            "title": "[Max Stats Player 1 (TEMP)]",
-            "content": "[Max Stats Player 1 (TEMP)]\n081C0000 4050AFF0 0000FFFF 0000270F\n041C0000 4050B028 FFFFFFFF\n021C0000 4050B02E 0000FFFF\n041C0000 4050B030 FFFFFFFF\n081C0000 4050B03C FFFFFFFF FFFFFFFF\n041C0000 4050B044 FFFFFFFF\n\n"
+            "content": "[Max Stats Player 1 (TEMP)]\n081C0000 4050AFF0 0000FFFF 0000270F\n041C0000 4050B028 FFFFFFFF\n021C0000 4050B02E 0000FFFF\n041C0000 4050B030 FFFFFFFF\n081C0000 4050B03C FFFFFFFF FFFFFFFF\n041C0000 4050B044 FFFFFFFF\n\n",
+            "title": "[Max Stats Player 1 (TEMP)]"
         },
         {
-            "title": "[Stats 9999 Player 1 (TEMP)]",
-            "content": "[Stats 9999 Player 1 (TEMP)]\n081C0000 4050AFF0 0000270F 0000270F\n041C0000 4050B028 270F270F\n021C0000 4050B02E 0000270F\n041C0000 4050B030 270F270F\n081C0000 4050B03C 270F270F 270F270F\n041C0000 4050B044 270F270F\n\n"
+            "content": "[Stats 9999 Player 1 (TEMP)]\n081C0000 4050AFF0 0000270F 0000270F\n041C0000 4050B028 270F270F\n021C0000 4050B02E 0000270F\n041C0000 4050B030 270F270F\n081C0000 4050B03C 270F270F 270F270F\n041C0000 4050B044 270F270F\n\n",
+            "title": "[Stats 9999 Player 1 (TEMP)]"
         },
         {
-            "title": "[\u221e HP Player 1]",
-            "content": "[\u221e HP Player 1]\n081C0000 4050AFEC 0000270F 0000270F\n\n"
+            "content": "[\u221e HP Player 1]\n081C0000 4050AFEC 0000270F 0000270F\n\n",
+            "title": "[\u221e HP Player 1]"
         },
         {
-            "title": "[\u221e HP Monsties (AMS)]",
-            "content": "[\u221e HP Monsties (AMS)]\n580C0000 02411D60\n580C1000 00000038\n580C1000 00000038\n300D0000 000000FF\n980EC0F0\n580E1000 00000000\n780E0000 00000078\n620E0000 00000000 0000270F\n780E0000 00000004\n620E0000 00000000 0000270F\n780C0000 00000008\n310D0000 20000000\n\n"
+            "content": "[\u221e HP Monsties (AMS)]\n580C0000 02411D60\n580C1000 00000038\n580C1000 00000038\n300D0000 000000FF\n980EC0F0\n580E1000 00000000\n780E0000 00000078\n620E0000 00000000 0000270F\n780E0000 00000004\n620E0000 00000000 0000270F\n780C0000 00000008\n310D0000 20000000\n\n",
+            "title": "[\u221e HP Monsties (AMS)]"
         },
         {
-            "title": "[\u221e HP & Max Stats Monsties (AMS)(TEMP)]",
-            "content": "[\u221e HP & Max Stats Monsties (AMS)(TEMP)]\n580C0000 02411D60\n580C1000 00000038\n580C1000 00000038\n300D0000 000000FF\n989EC0F0\n580E1000 00000000\n780E0000 00000078\n620E0000 00000000 0000270F\n780E0000 00000004\n620E0000 00000000 0000270F\n780E0000 00000004\n620E0000 00000000 0000FFFF\n780E0000 00000034\n620E0000 00000000 0000FFFF\n780E0000 00000014\n640E0000 00000000 FFFFFFFF\n780E0000 00000004\n640E0000 00000000 FFFFFFFF\n780E0000 00000004\n640E0000 00000000 FFFFFFFF\n780C0000 00000008\n310D0000 20000000\n\n"
+            "content": "[\u221e HP & Max Stats Monsties (AMS)(TEMP)]\n580C0000 02411D60\n580C1000 00000038\n580C1000 00000038\n300D0000 000000FF\n989EC0F0\n580E1000 00000000\n780E0000 00000078\n620E0000 00000000 0000270F\n780E0000 00000004\n620E0000 00000000 0000270F\n780E0000 00000004\n620E0000 00000000 0000FFFF\n780E0000 00000034\n620E0000 00000000 0000FFFF\n780E0000 00000014\n640E0000 00000000 FFFFFFFF\n780E0000 00000004\n640E0000 00000000 FFFFFFFF\n780E0000 00000004\n640E0000 00000000 FFFFFFFF\n780C0000 00000008\n310D0000 20000000\n\n",
+            "title": "[\u221e HP & Max Stats Monsties (AMS)(TEMP)]"
         },
         {
-            "title": "[\u221e HP & Stats 9999 Monsties (AMS Only)(TEMP)]",
-            "content": "[\u221e HP & Stats 9999 Monsties (AMS Only)(TEMP)]\n580C0000 02411D60\n580C1000 00000038\n580C1000 00000038\n300D0000 000000FF\n989EC0F0\n580E1000 00000000\n780E0000 00000078\n620E0000 00000000 0000270F\n780E0000 00000004\n620E0000 00000000 0000270F\n780E0000 00000004\n620E0000 00000000 0000270F\n780E0000 00000034\n620E0000 00000000 0000270F\n780E0000 00000014\n640E0000 00000000 270F270F\n780E0000 00000004\n640E0000 00000000 270F270F\n780E0000 00000004\n640E0000 00000000 270F270F\n780C0000 00000008\n310D0000 20000000\n\n"
+            "content": "[\u221e HP & Stats 9999 Monsties (AMS Only)(TEMP)]\n580C0000 02411D60\n580C1000 00000038\n580C1000 00000038\n300D0000 000000FF\n989EC0F0\n580E1000 00000000\n780E0000 00000078\n620E0000 00000000 0000270F\n780E0000 00000004\n620E0000 00000000 0000270F\n780E0000 00000004\n620E0000 00000000 0000270F\n780E0000 00000034\n620E0000 00000000 0000270F\n780E0000 00000014\n640E0000 00000000 270F270F\n780E0000 00000004\n640E0000 00000000 270F270F\n780E0000 00000004\n640E0000 00000000 270F270F\n780C0000 00000008\n310D0000 20000000\n\n",
+            "title": "[\u221e HP & Stats 9999 Monsties (AMS Only)(TEMP)]"
         },
         {
-            "title": "[Insta-Kill (AMS)]",
-            "content": "[Insta-Kill (AMS)]\n021C0000 4050B028 0000FFFF\n580C0000 02411D60\n580C1000 00000038\n580C1000 00000038\n300D0000 000000FF\n989EC0F0\n580E1000 00000000\n780E0000 000000B4\n620E0000 00000000 0000FFFF\n780C0000 00000008\n310D0000 20000000\n\n"
+            "content": "[Insta-Kill (AMS)]\n021C0000 4050B028 0000FFFF\n580C0000 02411D60\n580C1000 00000038\n580C1000 00000038\n300D0000 000000FF\n989EC0F0\n580E1000 00000000\n780E0000 000000B4\n620E0000 00000000 0000FFFF\n780C0000 00000008\n310D0000 20000000\n\n",
+            "title": "[Insta-Kill (AMS)]"
         },
         {
-            "title": "[Monsties Level 98 (AMS Only)]",
-            "content": "[Monsties Level 98 (AMS Only)]\n580C0000 02411D60\n580C1000 00000038\n580C1000 00000038\n300D0000 000000FF\n989EC0F0\n580E1000 00000000\n780E0000 00000086\n620E0000 00000000 00000062\n780C0000 00000008\n310D0000 20000000\n\n"
+            "content": "[Monsties Level 98 (AMS Only)]\n580C0000 02411D60\n580C1000 00000038\n580C1000 00000038\n300D0000 000000FF\n989EC0F0\n580E1000 00000000\n780E0000 00000086\n620E0000 00000000 00000062\n780C0000 00000008\n310D0000 20000000\n\n",
+            "title": "[Monsties Level 98 (AMS Only)]"
         },
         {
-            "title": "[P1 Level 98]",
-            "content": "[P1 Level 98]\n021C0000 4050AFFA 00000062\n\n"
+            "content": "[P1 Level 98]\n021C0000 4050AFFA 00000062\n\n",
+            "title": "[P1 Level 98]"
         },
         {
-            "title": "[Monsties Level 98 (AMS Only)]",
-            "content": "[Monsties Level 98 (AMS Only)]\n580C0000 02411D60\n580C1000 00000038\n580C1000 00000038\n300D0000 000000FF\n980EC0F0\n580E1000 00000000\n780E0000 00000086\n620E0000 00000000 00000062\n780C0000 00000008\n310D0000 20000000\n\n"
+            "content": "[Monsties Level 98 (AMS Only)]\n580C0000 02411D60\n580C1000 00000038\n580C1000 00000038\n300D0000 000000FF\n980EC0F0\n580E1000 00000000\n780E0000 00000086\n620E0000 00000000 00000062\n780C0000 00000008\n310D0000 20000000\n\n",
+            "title": "[Monsties Level 98 (AMS Only)]"
         },
         {
-            "title": "[\u221e Party HP (Dont use vs follower fights]",
-            "content": "[\u221e Party HP (Dont use vs follower fights]\n040C0000 0169F738 39412A61\n040C0000 0169F73C 35000041\n040C0000 0169F740 52800009\n040C0000 0169F744 6B090108\n040C0000 0169F748 D65F03C0\n040C0000 00C35E04 9429A64D\n\n"
+            "content": "[\u221e Party HP (Dont use vs follower fights]\n040C0000 0169F738 39412A61\n040C0000 0169F73C 35000041\n040C0000 0169F740 52800009\n040C0000 0169F744 6B090108\n040C0000 0169F748 D65F03C0\n040C0000 00C35E04 9429A64D\n\n",
+            "title": "[\u221e Party HP (Dont use vs follower fights]"
         },
         {
-            "title": "[\u221e Party HP OFF]",
-            "content": "[\u221e Party HP OFF]\n040C0000 00C35E04 6B090108\n\n"
+            "content": "[\u221e Party HP OFF]\n040C0000 00C35E04 6B090108\n\n",
+            "title": "[\u221e Party HP OFF]"
         },
         {
-            "title": "[Ranmar's Riding Action Toggle]",
-            "content": "[Ranmar's Riding Action Toggle]\n80002100\n580F0000 02411D60\n580F1000 00000038\n580F1000 00000038\n580F1000 00000000\n780F0000 0000006C\n620F0000 00000000 00000004\n20000000\n80001100\n580F0000 02411D60\n580F1000 00000038\n580F1000 00000038\n580F1000 00000000\n780F0000 0000006C\n620F0000 00000000 00000008\n20000000\n80004100\n580F0000 02411D60\n580F1000 00000038\n580F1000 00000038\n580F1000 00000000\n780F0000 0000006C\n620F0000 00000000 00000009\n20000000\n80008100\n580F0000 02411D60\n580F1000 00000038\n580F1000 00000038\n580F1000 00000000\n780F0000 0000006C\n620F0000 00000000 00000010\n20000000\n\n"
+            "content": "[Ranmar's Riding Action Toggle]\n80002100\n580F0000 02411D60\n580F1000 00000038\n580F1000 00000038\n580F1000 00000000\n780F0000 0000006C\n620F0000 00000000 00000004\n20000000\n80001100\n580F0000 02411D60\n580F1000 00000038\n580F1000 00000038\n580F1000 00000000\n780F0000 0000006C\n620F0000 00000000 00000008\n20000000\n80004100\n580F0000 02411D60\n580F1000 00000038\n580F1000 00000038\n580F1000 00000000\n780F0000 0000006C\n620F0000 00000000 00000009\n20000000\n80008100\n580F0000 02411D60\n580F1000 00000038\n580F1000 00000038\n580F1000 00000000\n780F0000 0000006C\n620F0000 00000000 00000010\n20000000\n\n",
+            "title": "[Ranmar's Riding Action Toggle]"
         },
         {
-            "title": "[All Weapons You Own Are Lvl. 1]",
-            "content": "[All Weapons You Own Are Lvl. 1]\n580F0000 02411FD0\n780F0000 00240AF8\n30000000 000002BC\n980AF0E0\n610A0000 00000000 00000001\n780F0000 00000024\n31000000\n\n"
+            "content": "[All Weapons You Own Are Lvl. 1]\n580F0000 02411FD0\n780F0000 00240AF8\n30000000 000002BC\n980AF0E0\n610A0000 00000000 00000001\n780F0000 00000024\n31000000\n\n",
+            "title": "[All Weapons You Own Are Lvl. 1]"
         },
         {
-            "title": "[All Weapons You Own Are Lvl. Max]",
-            "content": "[All Weapons You Own Are Lvl. Max]\n580F0000 02411FD0\n780F0000 00240AF8\n30000000 000002BC\n980AF0E0\n610A0000 00000000 00000005\n780F0000 00000024\n31000000\n\n"
+            "content": "[All Weapons You Own Are Lvl. Max]\n580F0000 02411FD0\n780F0000 00240AF8\n30000000 000002BC\n980AF0E0\n610A0000 00000000 00000005\n780F0000 00000024\n31000000\n\n",
+            "title": "[All Weapons You Own Are Lvl. Max]"
         },
         {
-            "title": "[All Armors You Own Are Lvl. 1]",
-            "content": "[All Armors You Own Are Lvl. 1]\n580F0000 02411FD0\n780F0000 00246D68\n30000000 00000190\n980AF0E0\n610A0000 00000000 00000001\n780F0000 00000024\n31000000\n\n"
+            "content": "[All Armors You Own Are Lvl. 1]\n580F0000 02411FD0\n780F0000 00246D68\n30000000 00000190\n980AF0E0\n610A0000 00000000 00000001\n780F0000 00000024\n31000000\n\n",
+            "title": "[All Armors You Own Are Lvl. 1]"
         },
         {
-            "title": "[All Armors You Own Are Lvl. Max]",
-            "content": "[All Armors You Own Are Lvl. Max]\n580F0000 02411FD0\n780F0000 00246D68\n30000000 00000190\n980AF0E0\n610A0000 00000000 00000005\n780F0000 00000024\n31000000\n\n"
+            "content": "[All Armors You Own Are Lvl. Max]\n580F0000 02411FD0\n780F0000 00246D68\n30000000 00000190\n980AF0E0\n610A0000 00000000 00000005\n780F0000 00000024\n31000000\n\n",
+            "title": "[All Armors You Own Are Lvl. Max]"
         },
         {
-            "title": "[Ride Level Max]",
-            "content": "[Ride Level Max]\n040C0000 00BF11D4 52800C80\n\n"
+            "content": "[Ride Level Max]\n040C0000 00BF11D4 52800C80\n\n",
+            "title": "[Ride Level Max]"
         },
         {
-            "title": "[Kinship attack maxed out (lvl 3) during battle]",
-            "content": "[Kinship attack maxed out (lvl 3) during battle]\n040C0000 00953ED8 52800020\n\n"
+            "content": "[Kinship attack maxed out (lvl 3) during battle]\n040C0000 00953ED8 52800020\n\n",
+            "title": "[Kinship attack maxed out (lvl 3) during battle]"
         },
         {
-            "title": "[Kinship Attack always loaded at lvl 1/3]",
-            "content": "[Kinship Attack always loaded at lvl 1/3]\n040C0000 0169F700 52800C80\n040C0000 0169F704 38296900\n040C0000 0169F708 D65F03C0\n040C0000 00BF0254 142ABD2B\n\n"
+            "content": "[Kinship Attack always loaded at lvl 1/3]\n040C0000 0169F700 52800C80\n040C0000 0169F704 38296900\n040C0000 0169F708 D65F03C0\n040C0000 00BF0254 142ABD2B\n\n",
+            "title": "[Kinship Attack always loaded at lvl 1/3]"
         },
         {
-            "title": "[Kinship Attack Off]",
-            "content": "[Kinship Attack Off]\n040C0000 00BF0254 38696900\n\n"
+            "content": "[Kinship Attack Off]\n040C0000 00BF0254 38696900\n\n",
+            "title": "[Kinship Attack Off]"
         },
         {
-            "title": "[Monster Returns to his Nest]",
-            "content": "[Monster Returns to his Nest]\n040C0000 00BD682C 52800C80\n\n"
+            "content": "[Monster Returns to his Nest]\n040C0000 00BD682C 52800C80\n\n",
+            "title": "[Monster Returns to his Nest]"
         },
         {
-            "title": "[Amulet effect 100%]",
-            "content": "[Amulet effect 100%]\n040C0000 0169F7A0 52800C80\n040C0000 0169F7A4 1E220000\n040C0000 0169F7A8 D65F03C0\n040C0000 008511A0 14393980\n\n"
+            "content": "[Amulet effect 100%]\n040C0000 0169F7A0 52800C80\n040C0000 0169F7A4 1E220000\n040C0000 0169F7A8 D65F03C0\n040C0000 008511A0 14393980\n\n",
+            "title": "[Amulet effect 100%]"
         },
         {
-            "title": "[\u221e Egg Farm/Pickup carry On]",
-            "content": "[\u221e Egg Farm/Pickup carry On]\n040C0000 001A0230 D65F03C0\n\n"
+            "content": "[\u221e Egg Farm/Pickup carry On]\n040C0000 001A0230 D65F03C0\n\n",
+            "title": "[\u221e Egg Farm/Pickup carry On]"
         },
         {
-            "title": "[\u221e Egg Farm carry Off]",
-            "content": "[\u221e Egg Farm carry Off]\n040C0000 001A0230 D10403FF\n\n"
+            "content": "[\u221e Egg Farm carry Off]\n040C0000 001A0230 D10403FF\n\n",
+            "title": "[\u221e Egg Farm carry Off]"
         },
         {
-            "title": "[All 12 EGGS From Stable Has Amazing Smell]",
-            "content": "[All 12 EGGS From Stable Has Amazing Smell]\n580F0000 02411FD0\n780F0000 0024D8D8\n30000000 0000000C\n980AF0E0\n610A0000 00000000 00000002\n780F0000 00000078\n31000000\n\n"
+            "content": "[All 12 EGGS From Stable Has Amazing Smell]\n580F0000 02411FD0\n780F0000 0024D8D8\n30000000 0000000C\n980AF0E0\n610A0000 00000000 00000002\n780F0000 00000078\n31000000\n\n",
+            "title": "[All 12 EGGS From Stable Has Amazing Smell]"
         },
         {
-            "title": "[Max Money]",
-            "content": "[Max Money]\n04100000 40732670 3B9AC9FF\n\n"
+            "content": "[Max Money]\n04100000 40732670 3B9AC9FF\n\n",
+            "title": "[Max Money]"
         },
         {
-            "title": "[Max Bottle Caps]",
-            "content": "[Max Bottle Caps]\n02100000 407335FE 000003E7\n\n"
+            "content": "[Max Bottle Caps]\n02100000 407335FE 000003E7\n\n",
+            "title": "[Max Bottle Caps]"
         },
         {
-            "title": "[Max Bullet & Storage Slot]",
-            "content": "[Max Bullet & Storage Slot]\n040C0000 00BE3B10 79492C00\n\n"
+            "content": "[Max Bullet & Storage Slot]\n040C0000 00BE3B10 79492C00\n\n",
+            "title": "[Max Bullet & Storage Slot]"
         },
         {
-            "title": "[Bullet & Power Off]",
-            "content": "[Bullet & Power Off]\n040C0000 00BE3B10 79492800\n\n"
+            "content": "[Bullet & Power Off]\n040C0000 00BE3B10 79492800\n\n",
+            "title": "[Bullet & Power Off]"
         },
         {
-            "title": "[Battle Items not reduced but increased]",
-            "content": "[Battle Items not reduced but increased]\n040C0000 0095106C 0B020129\n\n"
+            "content": "[Battle Items not reduced but increased]\n040C0000 0095106C 0B020129\n\n",
+            "title": "[Battle Items not reduced but increased]"
         },
         {
-            "title": "[Battle Items effect OFF]",
-            "content": "[Battle Items effect OFF]\n040C0000 0095106C 4B020129\n\n"
+            "content": "[Battle Items effect OFF]\n040C0000 0095106C 4B020129\n\n",
+            "title": "[Battle Items effect OFF]"
         },
         {
-            "title": "[return from Expedition immediately]",
-            "content": "[return from Expedition immediately]\n040C0000 00DE4398 D503201F\n\n"
+            "content": "[return from Expedition immediately]\n040C0000 00DE4398 D503201F\n\n",
+            "title": "[return from Expedition immediately]"
         },
         {
-            "title": "[No Material used for Crafting/Forge: Armor/Weapons]",
-            "content": "[No Material used for Crafting/Forge: Armor/Weapons]\n040C0000 0071D598 D503201F\n040C0000 0071D600 D503201F\n\n"
+            "content": "[No Material used for Crafting/Forge: Armor/Weapons]\n040C0000 0071D598 D503201F\n040C0000 0071D600 D503201F\n\n",
+            "title": "[No Material used for Crafting/Forge: Armor/Weapons]"
         },
         {
-            "title": "[EXP Gained After Battle = 100,000]",
-            "content": "[EXP Gained After Battle = 100,000]\n580F0000 02411A38\n780F0000 00002304\n640F0000 00000000 000186A0\n\n"
+            "content": "[EXP Gained After Battle = 100,000]\n580F0000 02411A38\n780F0000 00002304\n640F0000 00000000 000186A0\n\n",
+            "title": "[EXP Gained After Battle = 100,000]"
         },
         {
-            "title": "[EXP Gained After Battle = 500,000]",
-            "content": "[EXP Gained After Battle = 500,000]\n580F0000 02411A38\n780F0000 00002304\n640F0000 00000000 0007A120\n\n"
+            "content": "[EXP Gained After Battle = 500,000]\n580F0000 02411A38\n780F0000 00002304\n640F0000 00000000 0007A120\n\n",
+            "title": "[EXP Gained After Battle = 500,000]"
         },
         {
-            "title": "[EXP Gained After Battle = 999,999]",
-            "content": "[EXP Gained After Battle = 999,999]\n580F0000 02411A38\n780F0000 00002304\n640F0000 00000000 000F423F\n\n"
+            "content": "[EXP Gained After Battle = 999,999]\n580F0000 02411A38\n780F0000 00002304\n640F0000 00000000 000F423F\n\n",
+            "title": "[EXP Gained After Battle = 999,999]"
         },
         {
-            "title": "[16x EXP After Battle]",
-            "content": "[16x EXP After Battle]\n040C0000 0169F70C AA0003F3\n040C0000 0169F710 B9400268\n040C0000 0169F714 52800209\n040C0000 0169F718 1B097D08\n040C0000 0169F71C B9000268\n040C0000 0169F720 D65F03C0\n040C0000 0005EEE8 94590209\n\n"
+            "content": "[16x EXP After Battle]\n040C0000 0169F70C AA0003F3\n040C0000 0169F710 B9400268\n040C0000 0169F714 52800209\n040C0000 0169F718 1B097D08\n040C0000 0169F71C B9000268\n040C0000 0169F720 D65F03C0\n040C0000 0005EEE8 94590209\n\n",
+            "title": "[16x EXP After Battle]"
         },
         {
-            "title": "[32x EXP After Battle]",
-            "content": "[32x EXP After Battle]\n040C0000 0169F70C AA0003F3\n040C0000 0169F710 B9400268\n040C0000 0169F714 52800409\n040C0000 0169F718 1B097D08\n040C0000 0169F71C B9000268\n040C0000 0169F720 D65F03C0\n040C0000 0005EEE8 94590209\n\n"
+            "content": "[32x EXP After Battle]\n040C0000 0169F70C AA0003F3\n040C0000 0169F710 B9400268\n040C0000 0169F714 52800409\n040C0000 0169F718 1B097D08\n040C0000 0169F71C B9000268\n040C0000 0169F720 D65F03C0\n040C0000 0005EEE8 94590209\n\n",
+            "title": "[32x EXP After Battle]"
         },
         {
-            "title": "[64x EXP After Battle]",
-            "content": "[64x EXP After Battle]\n040C0000 0169F70C AA0003F3\n040C0000 0169F710 B9400268\n040C0000 0169F714 52800809\n040C0000 0169F718 1B097D08\n040C0000 0169F71C B9000268\n040C0000 0169F720 D65F03C0\n040C0000 0005EEE8 94590209\n\n"
+            "content": "[64x EXP After Battle]\n040C0000 0169F70C AA0003F3\n040C0000 0169F710 B9400268\n040C0000 0169F714 52800809\n040C0000 0169F718 1B097D08\n040C0000 0169F71C B9000268\n040C0000 0169F720 D65F03C0\n040C0000 0005EEE8 94590209\n\n",
+            "title": "[64x EXP After Battle]"
         },
         {
-            "title": "[32x Damage On]",
-            "content": "[32x Damage On]\n040C0000 0169F780 39412801\n040C0000 0169F784 34000061\n040C0000 0169F788 52800402\n040C0000 0169F78C 1B097C49\n040C0000 0169F790 AA0003F3\n040C0000 0169F794 D65F03C0\n040C0000 00C35E00 9429A660\n\n"
+            "content": "[32x Damage On]\n040C0000 0169F780 39412801\n040C0000 0169F784 34000061\n040C0000 0169F788 52800402\n040C0000 0169F78C 1B097C49\n040C0000 0169F790 AA0003F3\n040C0000 0169F794 D65F03C0\n040C0000 00C35E00 9429A660\n\n",
+            "title": "[32x Damage On]"
         },
         {
-            "title": "[64x Damage On]",
-            "content": "[64x Damage On]\n040C0000 0169F780 39412801\n040C0000 0169F784 34000061\n040C0000 0169F788 52800802\n040C0000 0169F78C 1B097C49\n040C0000 0169F790 AA0003F3\n040C0000 0169F794 D65F03C0\n040C0000 00C35E00 9429A660\n\n"
+            "content": "[64x Damage On]\n040C0000 0169F780 39412801\n040C0000 0169F784 34000061\n040C0000 0169F788 52800802\n040C0000 0169F78C 1B097C49\n040C0000 0169F790 AA0003F3\n040C0000 0169F794 D65F03C0\n040C0000 00C35E00 9429A660\n\n",
+            "title": "[64x Damage On]"
         },
         {
-            "title": "[Damage Multiplier Off]",
-            "content": "[Damage Multiplier Off]\n040C0000 00C35E00 AA0003F3\n\n"
+            "content": "[Damage Multiplier Off]\n040C0000 00C35E00 AA0003F3\n\n",
+            "title": "[Damage Multiplier Off]"
         },
         {
-            "title": "[Inf. Prayer Pot Buff (Charm) + Hot & Cold Mist Effect v2]",
-            "content": "[Inf. Prayer Pot Buff (Charm) + Hot & Cold Mist Effect v2]\n580F0000 023FAEE0\n780F0000 00000170\n680F1000 00000000 00000090\n680F1000 44610000 00000000\n680F1000 00000000 00000000\n680F1000 00000000 00000001\n680F1000 00000000 00000091\n680F1000 44610000 00000000\n680F1000 00000000 00000000\n680F1000 00000000 00000001\n680F1000 0000008B 00000000\n680F1000 45BB7800 00000000\n680F1000 00000000 00000000\n680F0000 00000000 00000000\n\n"
+            "content": "[Inf. Prayer Pot Buff (Charm) + Hot & Cold Mist Effect v2]\n580F0000 023FAEE0\n780F0000 00000170\n680F1000 00000000 00000090\n680F1000 44610000 00000000\n680F1000 00000000 00000000\n680F1000 00000000 00000001\n680F1000 00000000 00000091\n680F1000 44610000 00000000\n680F1000 00000000 00000000\n680F1000 00000000 00000001\n680F1000 0000008B 00000000\n680F1000 45BB7800 00000000\n680F1000 00000000 00000000\n680F0000 00000000 00000000\n\n",
+            "title": "[Inf. Prayer Pot Buff (Charm) + Hot & Cold Mist Effect v2]"
         },
         {
-            "title": "[(ZL+ZR) Prayer Pot Lvl. 20]",
-            "content": "[(ZL+ZR) Prayer Pot Lvl. 20]\n80000300\n580F0000 023FAEE0\n780F0000 0050CF78\n610F0000 00000000 000000A9\n20000000\n\n"
+            "content": "[(ZL+ZR) Prayer Pot Lvl. 20]\n80000300\n580F0000 023FAEE0\n780F0000 0050CF78\n610F0000 00000000 000000A9\n20000000\n\n",
+            "title": "[(ZL+ZR) Prayer Pot Lvl. 20]"
         },
         {
-            "title": "[1st P.P.B. +EXP]",
-            "content": "[1st P.P.B. +EXP]\n580F0000 023FAEE0\n780F0000 0050CF74\n610F0000 00000000 00000001\n\n"
+            "content": "[1st P.P.B. +EXP]\n580F0000 023FAEE0\n780F0000 0050CF74\n610F0000 00000000 00000001\n\n",
+            "title": "[1st P.P.B. +EXP]"
         },
         {
-            "title": "[1st P.P.B. +Rare Gather]",
-            "content": "[1st P.P.B. +Rare Gather]\n580F0000 023FAEE0\n780F0000 0050CF74\n610F0000 00000000 00000002\n\n"
+            "content": "[1st P.P.B. +Rare Gather]\n580F0000 023FAEE0\n780F0000 0050CF74\n610F0000 00000000 00000002\n\n",
+            "title": "[1st P.P.B. +Rare Gather]"
         },
         {
-            "title": "[1st P.P.B. +Battle Result]",
-            "content": "[1st P.P.B. +Battle Result]\n580F0000 023FAEE0\n780F0000 0050CF74\n610F0000 00000000 00000003\n\n"
+            "content": "[1st P.P.B. +Battle Result]\n580F0000 023FAEE0\n780F0000 0050CF74\n610F0000 00000000 00000003\n\n",
+            "title": "[1st P.P.B. +Battle Result]"
         },
         {
-            "title": "[1st P.P.B. +Rare Eggs]",
-            "content": "[1st P.P.B. +Rare Eggs]\n580F0000 023FAEE0\n780F0000 0050CF74\n610F0000 00000000 00000004\n\n"
+            "content": "[1st P.P.B. +Rare Eggs]\n580F0000 023FAEE0\n780F0000 0050CF74\n610F0000 00000000 00000004\n\n",
+            "title": "[1st P.P.B. +Rare Eggs]"
         },
         {
-            "title": "[1st P.P.B. +Kinship Gauge]",
-            "content": "[1st P.P.B. +Kinship Gauge]\n580F0000 023FAEE0\n780F0000 0050CF74\n610F0000 00000000 00000005\n\n"
+            "content": "[1st P.P.B. +Kinship Gauge]\n580F0000 023FAEE0\n780F0000 0050CF74\n610F0000 00000000 00000005\n\n",
+            "title": "[1st P.P.B. +Kinship Gauge]"
         },
         {
-            "title": "[1st P.P.B. -Damage Taken]",
-            "content": "[1st P.P.B. -Damage Taken]\n580F0000 023FAEE0\n780F0000 0050CF74\n610F0000 00000000 00000006\n\n"
+            "content": "[1st P.P.B. -Damage Taken]\n580F0000 023FAEE0\n780F0000 0050CF74\n610F0000 00000000 00000006\n\n",
+            "title": "[1st P.P.B. -Damage Taken]"
         },
         {
-            "title": "[1st P.P.B. +Damage Dealt]",
-            "content": "[1st P.P.B. +Damage Dealt]\n580F0000 023FAEE0\n780F0000 0050CF74\n610F0000 00000000 00000007\n\n"
+            "content": "[1st P.P.B. +Damage Dealt]\n580F0000 023FAEE0\n780F0000 0050CF74\n610F0000 00000000 00000007\n\n",
+            "title": "[1st P.P.B. +Damage Dealt]"
         },
         {
-            "title": "[1st P.P.B. +HP Recovery]",
-            "content": "[1st P.P.B. +HP Recovery]\n580F0000 023FAEE0\n780F0000 0050CF74\n610F0000 00000000 00000008\n\n"
+            "content": "[1st P.P.B. +HP Recovery]\n580F0000 023FAEE0\n780F0000 0050CF74\n610F0000 00000000 00000008\n\n",
+            "title": "[1st P.P.B. +HP Recovery]"
         },
         {
-            "title": "[2nd P.P.B. +EXP]",
-            "content": "[2nd P.P.B. +EXP]\n580F0000 023FAEE0\n780F0000 0050CF6C\n610F0000 00000000 00000001\n\n"
+            "content": "[2nd P.P.B. +EXP]\n580F0000 023FAEE0\n780F0000 0050CF6C\n610F0000 00000000 00000001\n\n",
+            "title": "[2nd P.P.B. +EXP]"
         },
         {
-            "title": "[2nd P.P.B. +Rare Gather]",
-            "content": "[2nd P.P.B. +Rare Gather]\n580F0000 023FAEE0\n780F0000 0050CF6C\n610F0000 00000000 00000002\n\n"
+            "content": "[2nd P.P.B. +Rare Gather]\n580F0000 023FAEE0\n780F0000 0050CF6C\n610F0000 00000000 00000002\n\n",
+            "title": "[2nd P.P.B. +Rare Gather]"
         },
         {
-            "title": "[2nd P.P.B. +Battle Result]",
-            "content": "[2nd P.P.B. +Battle Result]\n580F0000 023FAEE0\n780F0000 0050CF6C\n610F0000 00000000 00000003\n\n"
+            "content": "[2nd P.P.B. +Battle Result]\n580F0000 023FAEE0\n780F0000 0050CF6C\n610F0000 00000000 00000003\n\n",
+            "title": "[2nd P.P.B. +Battle Result]"
         },
         {
-            "title": "[2nd P.P.B. +Rare Eggs]",
-            "content": "[2nd P.P.B. +Rare Eggs]\n580F0000 023FAEE0\n780F0000 0050CF6C\n610F0000 00000000 00000004\n\n"
+            "content": "[2nd P.P.B. +Rare Eggs]\n580F0000 023FAEE0\n780F0000 0050CF6C\n610F0000 00000000 00000004\n\n",
+            "title": "[2nd P.P.B. +Rare Eggs]"
         },
         {
-            "title": "[2nd P.P.B. +Kinship Gauge]",
-            "content": "[2nd P.P.B. +Kinship Gauge]\n580F0000 023FAEE0\n780F0000 0050CF6C\n610F0000 00\n"
-        }
-    ],
-    "4B8E91070D920211": [
-        {
-            "title": "[*Money Jericoss]",
-            "content": "[*Money Jericoss]\n04100000 43772220 0087A238\n\n"
-        },
-        {
-            "title": "[*1 item 888]",
-            "content": "[*1 item 888]\n02100000 4377222E 00000378\n\n"
-        },
-        {
-            "title": "[*2 item 888]",
-            "content": "[*2 item 888]\n02100000 43772236 00000378\n\n"
-        },
-        {
-            "title": "[*100 item 888]",
-            "content": "[*100 item 888]\n02100000 4377222E 00000378\n02100000 43772236 00000378\n02100000 4377223E 00000378\n02100000 43772246 00000378\n02100000 4377224E 00000378\n02100000 43772256 00000378\n02100000 4377225E 00000378\n02100000 43772266 00000378\n02100000 4377226E 00000378\n02100000 43772276 00000378\n02100000 4377227E 00000378\n02100000 43772286 00000378\n02100000 4377228E 00000378\n02100000 43772296 00000378\n02100000 4377229E 00000378\n02100000 437722A6 00000378\n02100000 437722AE 00000378\n02100000 437722B6 00000378\n02100000 437722BE 00000378\n02100000 437722C6 00000378\n02100000 437722CE 00000378\n02100000 437722D6 00000378\n02100000 437722DE 00000378\n02100000 437722E6 00000378\n02100000 437722EE 00000378\n02100000 437722F6 00000378\n02100000 437722FE 00000378\n02100000 43772306 00000378\n02100000 4377230E 00000378\n02100000 43772316 00000378\n02100000 4377231E 00000378\n02100000 43772326 00000378\n02100000 4377232E 00000378\n02100000 43772336 00000378\n02100000 4377233E 00000378\n02100000 43772346 00000378\n02100000 4377234E 00000378\n02100000 43772356 00000378\n02100000 4377235E 00000378\n02100000 43772366 00000378\n02100000 4377236E 00000378\n02100000 43772376 00000378\n02100000 4377237E 00000378\n02100000 43772386 00000378\n02100000 4377238E 00000378\n02100000 43772396 00000378\n02100000 4377239E 00000378\n02100000 437723A6 00000378\n02100000 437723AE 00000378\n02100000 437723B6 00000378\n02100000 437723BE 00000378\n02100000 437723C6 00000378\n02100000 437723CE 00000378\n02100000 437723D6 00000378\n02100000 437723DE 00000378\n02100000 437723E6 00000378\n02100000 437723EE 00000378\n02100000 437723F6 00000378\n02100000 437723FE 00000378\n02100000 43772406 00000378\n02100000 4377240E 00000378\n02100000 43772416 00000378\n02100000 4377241E 00000378\n02100000 43772426 00000378\n02100000 4377242E 00000378\n02100000 43772436 00000378\n02100000 4377243E 00000378\n02100000 43772446 00000378\n02100000 4377244E 00000378\n02100000 43772456 00000378\n02100000 4377245E 00000378\n02100000 43772466 00000378\n02100000 4377246E 00000378\n02100000 43772476 00000378\n02100000 4377247E 00000378\n02100000 43772486 00000378\n02100000 4377248E 00000378\n02100000 43772496 00000378\n02100000 4377249E 00000378\n02100000 437724A6 00000378\n02100000 437724AE 00000378\n02100000 437724B6 00000378\n02100000 437724BE 00000378\n02100000 437724C6 00000378\n02100000 437724CE 00000378\n02100000 437724D6 00000378\n02100000 437724DE 00000378\n02100000 437724E6 00000378\n02100000 437724EE 00000378\n02100000 437724F6 00000378\n02100000 437724FE 00000378\n02100000 43772506 00000378\n02100000 4377250E 00000378\n02100000 43772516 00000378\n02100000 4377251E 00000378\n02100000 43772526 00000378\n02100000 4377252E 00000378\n02100000 43772536 00000378\n02100000 4377253E 00000378\n02100000 43772546 00000378\n"
-        },
-        {
-            "title": "[Moonjump Jericoss V1]",
-            "content": "[Moonjump Jericoss V1]\n80000002\n580F0000 02AFAE30\n580F1000 00000098\n580F1000 00000148\n580F1000 00000060\n580F1000 00000008\n780F0000 00000014\n640F0000 00000000 42C80000\n20000000\n\n"
-        },
-        {
-            "title": "[Moonjump Jericoss V2]",
-            "content": "[Moonjump Jericoss V2]\n80000002\n580F0000 02B071E8\n580F1000 00039A10\n780F0000 00000014\n640F0000 00000000 42C80000\n20000000"
+            "content": "[2nd P.P.B. +Kinship Gauge]\n580F0000 023FAEE0\n780F0000 0050CF6C\n610F0000 00\n",
+            "title": "[2nd P.P.B. +Kinship Gauge]"
         }
     ]
 }

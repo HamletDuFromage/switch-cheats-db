@@ -1,36 +1,36 @@
 {
     "389C6C494EEC527C": [
         {
-            "title": "[EXP]",
-            "content": "[EXP]\n04000000 00CEE9DC 000F423F\n\n"
+            "content": "[EXP]\n04000000 00CEE9DC 000F423F\n\n",
+            "title": "[EXP]"
         },
         {
-            "title": "[Charisma]",
-            "content": "[Charisma]\n01000000 00CEE9D6 00000032\n\n"
+            "content": "[Charisma]\n01000000 00CEE9D6 00000032\n\n",
+            "title": "[Charisma]"
         },
         {
-            "title": "[Intuition]",
-            "content": "[Intuition]\n01000000 00CEE9D7 00000032\n\n"
+            "content": "[Intuition]\n01000000 00CEE9D7 00000032\n\n",
+            "title": "[Intuition]"
         },
         {
-            "title": "[Logic]",
-            "content": "[Logic]\n01000000 00CEE9D8 00000032\n\n"
+            "content": "[Logic]\n01000000 00CEE9D8 00000032\n\n",
+            "title": "[Logic]"
         },
         {
-            "title": "[Charm]",
-            "content": "[Charm]\n01000000 00CEE9D9 00000032\n\n"
+            "content": "[Charm]\n01000000 00CEE9D9 00000032\n\n",
+            "title": "[Charm]"
         },
         {
-            "title": "[Performance]",
-            "content": "[Performance]\n01000000 00CEE9DA 00000032\n\n"
+            "content": "[Performance]\n01000000 00CEE9DA 00000032\n\n",
+            "title": "[Performance]"
         },
         {
-            "title": "[Stealth]",
-            "content": "[Stealth]\n01000000 00CEE9DB 00000032\n\n"
+            "content": "[Stealth]\n01000000 00CEE9DB 00000032\n\n",
+            "title": "[Stealth]"
         },
         {
-            "title": "[Inf Abilities Points]",
-            "content": "[Inf Abilities Points]\n580F0000 0E909CE0\n580F1000 00000748\n780F0000 000000D0\n640F0000 00000000 00000005"
+            "content": "[Inf Abilities Points]\n580F0000 0E909CE0\n580F1000 00000748\n780F0000 000000D0\n640F0000 00000000 00000005",
+            "title": "[Inf Abilities Points]"
         }
     ]
 }

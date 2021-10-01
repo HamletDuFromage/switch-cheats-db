@@ -1,20 +1,20 @@
 {
     "C60224B14ECF7879": [
         {
-            "title": "[P1 Infinite Hp]",
-            "content": "[P1 Infinite Hp]\n01000000 01250E48 00000040\n\n"
+            "content": "[P1 Infinite Hp]\n01000000 01250E48 00000040\n\n",
+            "title": "[P1 Infinite Hp]"
         },
         {
-            "title": "[P1 Invincible]",
-            "content": "[P1 Invincible]\n01000000 01250E5F 000000FF\n\n"
+            "content": "[P1 Invincible]\n01000000 01250E5F 000000FF\n\n",
+            "title": "[P1 Invincible]"
         },
         {
-            "title": "[P2 Infinite Hp]",
-            "content": "[P2 Infinite Hp]\n01000000 01250F48 00000040\n\n"
+            "content": "[P2 Infinite Hp]\n01000000 01250F48 00000040\n\n",
+            "title": "[P2 Infinite Hp]"
         },
         {
-            "title": "[P2 Invincible]",
-            "content": "[P2 Invincible]\n01000000 01250F5F 000000FF"
+            "content": "[P2 Invincible]\n01000000 01250F5F 000000FF",
+            "title": "[P2 Invincible]"
         }
     ]
 }

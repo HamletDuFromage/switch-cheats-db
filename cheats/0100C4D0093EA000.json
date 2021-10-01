@@ -1,36 +1,36 @@
 {
     "8C853C65D7FF824F": [
         {
-            "title": "[Max Inf HP]",
-            "content": "[Max Inf HP]\n04000000 000EE0E8 D503201F\n\n"
+            "content": "[Max Inf HP]\n04000000 000EE0E8 D503201F\n\n",
+            "title": "[Max Inf HP]"
         },
         {
-            "title": "[Money x9999]",
-            "content": "[Money x9999]\n04000000 000FC510 5284E1E0\n\n"
+            "content": "[Money x9999]\n04000000 000FC510 5284E1E0\n\n",
+            "title": "[Money x9999]"
         },
         {
-            "title": "[Armor Shards x999]",
-            "content": "[Armor Shards x999]\n04000000 000FA2A0 52807CE0\n\n"
+            "content": "[Armor Shards x999]\n04000000 000FA2A0 52807CE0\n\n",
+            "title": "[Armor Shards x999]"
         },
         {
-            "title": "[Weapon Shards x999]",
-            "content": "[Weapon Shards x999]\n04000000 000FA350 52807CE0\n\n"
+            "content": "[Weapon Shards x999]\n04000000 000FA350 52807CE0\n\n",
+            "title": "[Weapon Shards x999]"
         },
         {
-            "title": "[Money x9999]",
-            "content": "[Money x9999]\n04000000 000FC510 5284E1E0\n04000000 000FC524 D503201F\n\n"
+            "content": "[Money x9999]\n04000000 000FC510 5284E1E0\n04000000 000FC524 D503201F\n\n",
+            "title": "[Money x9999]"
         },
         {
-            "title": "[HP not decrease]",
-            "content": "[HP not decrease]\n04000000 000F33E0 51000108\n\n"
+            "content": "[HP not decrease]\n04000000 000F33E0 51000108\n\n",
+            "title": "[HP not decrease]"
         },
         {
-            "title": "[Max Inf HP]",
-            "content": "[Max Inf HP]\n04000000 000EE0E8 D503201F\n\n"
+            "content": "[Max Inf HP]\n04000000 000EE0E8 D503201F\n\n",
+            "title": "[Max Inf HP]"
         },
         {
-            "title": "[Armor Shards x999]",
-            "content": "[Armor Shards x999]\n04000000 000FA2A0 52807CE0\n04000000 000FC614 D503201F"
+            "content": "[Armor Shards x999]\n04000000 000FA2A0 52807CE0\n04000000 000FC614 D503201F",
+            "title": "[Armor Shards x999]"
         }
     ]
 }

@@ -1,36 +1,36 @@
 {
     "B5E50E20DEA65D80": [
         {
-            "title": "[p[Gold Max]",
-            "content": "[p[Gold Max]\n040F0000 0088DAD8 0098967F\n\n"
+            "content": "[p[Gold Max]\n040F0000 0088DAD8 0098967F\n\n",
+            "title": "[p[Gold Max]"
         },
         {
-            "title": "[Life MAX]",
-            "content": "[Life MAX]\n040F0000 0088B9C4 270F0000\n\n"
+            "content": "[Life MAX]\n040F0000 0088B9C4 270F0000\n\n",
+            "title": "[Life MAX]"
         },
         {
-            "title": "[Power MAX]",
-            "content": "[Power MAX]\n040F0000 0088B9C8 270F0000\n\n"
+            "content": "[Power MAX]\n040F0000 0088B9C8 270F0000\n\n",
+            "title": "[Power MAX]"
         },
         {
-            "title": "[Robustness & Hit MAX]",
-            "content": "[Robustness & Hit MAX]\n040F0000 0088B9CC 270F270F\n\n"
+            "content": "[Robustness & Hit MAX]\n040F0000 0088B9CC 270F270F\n\n",
+            "title": "[Robustness & Hit MAX]"
         },
         {
-            "title": "[Avoidance MAX]",
-            "content": "[Avoidance MAX]\n040F0000 0088B9D0 270F0000\n\n"
+            "content": "[Avoidance MAX]\n040F0000 0088B9D0 270F0000\n\n",
+            "title": "[Avoidance MAX]"
         },
         {
-            "title": "[Intelligence MAX]",
-            "content": "[Intelligence MAX]\n040F0000 0088B9D4 0000270F\n\n"
+            "content": "[Intelligence MAX]\n040F0000 0088B9D4 0000270F\n\n",
+            "title": "[Intelligence MAX]"
         },
         {
-            "title": "[Loyalty MAX]",
-            "content": "[Loyalty MAX]\n040F0000 0088B9E8 00000000\n040F0000 0088B9EC 00000064\n040F0000 0088B9F0 00000065\n\n"
+            "content": "[Loyalty MAX]\n040F0000 0088B9E8 00000000\n040F0000 0088B9EC 00000064\n040F0000 0088B9F0 00000065\n\n",
+            "title": "[Loyalty MAX]"
         },
         {
-            "title": "[Grade Max]",
-            "content": "[Grade Max]\n010F0000 0088BB08 00000005"
+            "content": "[Grade Max]\n010F0000 0088BB08 00000005",
+            "title": "[Grade Max]"
         }
     ]
 }

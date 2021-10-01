@@ -1,20 +1,20 @@
 {
     "F77FD38250332F58": [
         {
-            "title": "[P1 Infinite Lives]",
-            "content": "[P1 Infinite Lives]\n01000000 01238ea3 00000008\n\n"
+            "content": "[P1 Infinite Lives]\n01000000 01238ea3 00000008\n\n",
+            "title": "[P1 Infinite Lives]"
         },
         {
-            "title": "[P1 Infinite Meter]",
-            "content": "[P1 Infinite Meter]\n01000000 01238e8c 00000018\n\n"
+            "content": "[P1 Infinite Meter]\n01000000 01238e8c 00000018\n\n",
+            "title": "[P1 Infinite Meter]"
         },
         {
-            "title": "[P2 Infinite Lives]",
-            "content": "[P2 Infinite Lives]\n01000000 01238fa3 00000008\n\n"
+            "content": "[P2 Infinite Lives]\n01000000 01238fa3 00000008\n\n",
+            "title": "[P2 Infinite Lives]"
         },
         {
-            "title": "[P2 Infinite Meter]",
-            "content": "[P2 Infinite Meter]\n01000000 01238f8c 00000018"
+            "content": "[P2 Infinite Meter]\n01000000 01238f8c 00000018",
+            "title": "[P2 Infinite Meter]"
         }
     ]
 }

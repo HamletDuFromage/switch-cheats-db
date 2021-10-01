@@ -1,28 +1,28 @@
 {
     "AF7CF48B21607841": [
         {
-            "title": "[20210812 Yu-Gi-Oh! SEVENS Rush Duel v1.0.1 (v65536) by Eiffel]",
-            "content": "[20210812 Yu-Gi-Oh! SEVENS Rush Duel v1.0.1 (v65536) by Eiffel]\n\n"
+            "content": "[20210812 Yu-Gi-Oh! SEVENS Rush Duel v1.0.1 (v65536) by Eiffel]\n\n",
+            "title": "[20210812 Yu-Gi-Oh! SEVENS Rush Duel v1.0.1 (v65536) by Eiffel]"
         },
         {
-            "title": "[Money no decrease]",
-            "content": "[Money no decrease]\n010E0000 01FD2B8E 0000001F\n\n"
+            "content": "[Money no decrease]\n010E0000 01FD2B8E 0000001F\n\n",
+            "title": "[Money no decrease]"
         },
         {
-            "title": "[Card Ticket no decrease]",
-            "content": "[Card Ticket no decrease]\n010E0000 02013D0A 0000001F\n\n"
+            "content": "[Card Ticket no decrease]\n010E0000 02013D0A 0000001F\n\n",
+            "title": "[Card Ticket no decrease]"
         },
         {
-            "title": "[Normal damage]",
-            "content": "[Normal damage]\n040E0000 01627318 2A0803E9\n"
+            "content": "[Normal damage]\n040E0000 01627318 2A0803E9\n",
+            "title": "[Normal damage]"
         },
         {
-            "title": "[No damage (Right-Stick press in)]",
-            "content": "[No damage (Right-Stick press in)]\n80000020\n040E0000 01627318 2A1F03E9\n20000000\n"
+            "content": "[No damage (Right-Stick press in)]\n80000020\n040E0000 01627318 2A1F03E9\n20000000\n",
+            "title": "[No damage (Right-Stick press in)]"
         },
         {
-            "title": "[99999 damage (Left-Stick press in)]",
-            "content": "[99999 damage (Left-Stick press in)]\n80000010\n040E0000 01627318 D503201F\n20000000"
+            "content": "[99999 damage (Left-Stick press in)]\n80000010\n040E0000 01627318 D503201F\n20000000",
+            "title": "[99999 damage (Left-Stick press in)]"
         }
     ]
 }

@@ -1,474 +1,474 @@
 {
-    "47CA26D2AA77D0BA": [
-        {
-            "title": "[Zero Playtime]",
-            "content": "[Zero Playtime]\n580F0000 019D76F0\n780F0000 00023B50\n640F0000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[Max Money]",
-            "content": "[Max Money]\n580F0000 019D76F0\n780F0000 00023B54\n640F0000 00000000 0098967F\n\n"
-        },
-        {
-            "title": "[9 Activity Points (Bonding)]",
-            "content": "[9 Activity Points (Bonding)]\n580F0000 019D76F0\n780F0000 000249CF\n610F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[9 Activity Points (Teaching)]",
-            "content": "[9 Activity Points (Teaching)]\n580F0000 019D76F0\n780F0000 000249D0\n610F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[9 Activity Points (Battle)]",
-            "content": "[9 Activity Points (Battle)]\n580F0000 019D76F0\n780F0000 000249D1\n610F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Max increase after money]",
-            "content": "[Max increase after money]\n04000000 0039C080 1A893128\n\n"
-        },
-        {
-            "title": "[Fame value is not reduced / PT]",
-            "content": "[Fame value is not reduced / PT]\n04000000 0039F284 6B1F0108\n\n"
-        },
-        {
-            "title": "[Materials start 4 times]",
-            "content": "[Materials start 4 times]\n04000000 0039C0E8 0B02094A\n04000000 0039C378 0B02094A\n\n"
-        },
-        {
-            "title": "[Materials start 8 times]",
-            "content": "[Materials start 8 times]\n04000000 0039C0E8 0B020D4A\n04000000 0039C378 0B020D4A\n\n"
-        },
-        {
-            "title": "[material / gift is not reduced]",
-            "content": "[material / gift is not reduced]\n04000000 0039C118 4B1F014A\n04000000 0039C3A8 4B1F014A\n\n"
-        },
-        {
-            "title": "[College Action Max]",
-            "content": "[College Action Max]\n01000000 019FC0CF 0000000A\n02000000 019FC0D0 00000307\n\n"
-        },
-        {
-            "title": "[Weapon / Magic Durability is not reduced]",
-            "content": "[Weapon / Magic Durability is not reduced]\n580F0000 0196D7A8\n580F1000 00001970\n780F0000 00000006\n300E0000 00000005\n620F0000 00000000 00000063\n780F0000 00000004\n310E0000 20000000\n580F0000 0196D7A8\n580F1000 00001970\n780F0000 00000094\n300E0000 00000006\n620F0000 00000000 00001414\n780F0000 00000002\n310E0000 20000000\n\n"
-        },
-        {
-            "title": "[Press L+A key to kill during battle]",
-            "content": "[Press L+A key to kill during battle]\n80000041\n580F0000 0196D7A8\n580F1000 00001A48\n780F0000 0000004C\n300E0000 00000003\n640F0000 00000000 00000000\n780F0000 00000004\n310E0000\n20000000\n\n"
-        },
-        {
-            "title": "[Moving Power Max (L Open)]",
-            "content": "[Moving Power Max (L Open)]\n80000040\n04000000 000ACF14 1A88B100\n20000000\n\n"
-        },
-        {
-            "title": "[Moving Force Max (R Off)]",
-            "content": "[Moving Force Max (R Off)]\n80000080\n04000000 000ACF14 1A88B2E0\n20000000\n\n"
-        },
-        {
-            "title": "[The enemy rounds hold ZL enemy does not move]",
-            "content": "[The enemy rounds hold ZL enemy does not move]\n80000100\n04000000 000ACF14 1A9FB3E0\n20000000\n\n"
-        },
-        {
-            "title": "[Press the A button to hit the target and hit the crit 100%]",
-            "content": "[Press the A button to hit the target and hit the crit 100%]\n04000000 000D59D8 1A89B100\n04000000 000D5B90 2A1F03E0\n04000000 000D5C0C 1A89B100\n80000001\n04000000 000D59D8 1A89B120\n04000000 000D5B90 52800C80\n04000000 000D5C0C 1A89B120\n20000000\n\n"
-        },
-        {
-            "title": "[Growth Max]",
-            "content": "[Growth Max]\n580F0000 0196D908\n580F1000 00000000\n780F0000 00000708\n300E0000 0000003C\n620F0000 00000000 00000064\n780F0000 00000230\n310E0000 20000000\n\n"
-        },
-        {
-            "title": "[Stock Restriction Release]",
-            "content": "[Stock Restriction Release]\n04000000 003941F4 1A883108\n04000000 00394214 1A883108\n04000000 00394234 1A883108\n04000000 00394254 1A883108\n\n"
-        },
-        {
-            "title": "[Guidance Level A+]",
-            "content": "[Guidance Level A+]\n02000000 019FC0BA 0000ADD4\n\n"
-        },
-        {
-            "title": "[Difficulty - Normal]",
-            "content": "[Difficulty - Normal]\n01000000 019FB460 00000000\n\n"
-        },
-        {
-            "title": "[difficulty - difficulty]",
-            "content": "[difficulty - difficulty]\n01000000 019FB460 00000001\n\n"
-        },
-        {
-            "title": "[Difficulty - Super Hard]",
-            "content": "[Difficulty - Super Hard]\n01000000 019FB460 00000002\n\n"
-        },
-        {
-            "title": "[difficulty - hell]",
-            "content": "[difficulty - hell]\n01000000 019FB460 00000003\n\n"
-        },
-        {
-            "title": "[Mode - Easy]",
-            "content": "[Mode - Easy]\n01000000 019FB461 00000000\n\n"
-        },
-        {
-            "title": "[Mode - Classic]",
-            "content": "[Mode - Classic]\n01000000 019FB461 00000001 "
-        }
-    ],
     "19BA39BD3EE8131D": [
         {
-            "title": "\ufeff{Fire Emblem Three Houses V1.0.2}",
-            "content": "\ufeff{Fire Emblem Three Houses V1.0.2}\n580F0000 01A1A6E0\n580F1000 01A1A908\n580F1000 00000000\n\n"
+            "content": "\ufeff{Fire Emblem Three Houses V1.0.2}\n580F0000 01A1A6E0\n580F1000 01A1A908\n580F1000 00000000\n\n",
+            "title": "\ufeff{Fire Emblem Three Houses V1.0.2}"
         },
         {
-            "title": "[Set Money to Max after change]",
-            "content": "[Set Money to Max after change]\n04000000 003A25B0 1A893128\n\n"
+            "content": "[Set Money to Max after change]\n04000000 003A25B0 1A893128\n\n",
+            "title": "[Set Money to Max after change]"
         },
         {
-            "title": "[No decrease in Pts]",
-            "content": "[No decrease in Pts]\n04000000 003A5854 6B1F0108\n\n"
+            "content": "[No decrease in Pts]\n04000000 003A5854 6B1F0108\n\n",
+            "title": "[No decrease in Pts]"
         },
         {
-            "title": "[Material/Gift no decrease]",
-            "content": "[Material/Gift no decrease]\n04000000 003A2648 4B1F014A\n04000000 003A28D8 4B1F014A\n\n"
+            "content": "[Material/Gift no decrease]\n04000000 003A2648 4B1F014A\n04000000 003A28D8 4B1F014A\n\n",
+            "title": "[Material/Gift no decrease]"
         },
         {
-            "title": "[Material edit effect off?]",
-            "content": "[Material edit effect off?]\n04000000 003A2648 4B02014A\n04000000 003A28D8 4B02014A\n\n"
+            "content": "[Material edit effect off?]\n04000000 003A2648 4B02014A\n04000000 003A28D8 4B02014A\n\n",
+            "title": "[Material edit effect off?]"
         },
         {
-            "title": "[Bonding/Teaching/Battle Active Points]",
-            "content": "[Bonding/Teaching/Battle Active Points]\n400E0000 00000000 000249D0\n610F01E0 00000000 0000000A\n400E0000 00000000 000249D1\n620F01E0 00000000 00000307\n\n"
+            "content": "[Bonding/Teaching/Battle Active Points]\n400E0000 00000000 000249D0\n610F01E0 00000000 0000000A\n400E0000 00000000 000249D1\n620F01E0 00000000 00000307\n\n",
+            "title": "[Bonding/Teaching/Battle Active Points]"
         },
         {
-            "title": "[Unlock Statue]",
-            "content": "[Unlock Statue]\n400E0000 00000000 000249D3\n640F01E0 00000000 09090909\n\n"
+            "content": "[Unlock Statue]\n400E0000 00000000 000249D3\n640F01E0 00000000 09090909\n\n",
+            "title": "[Unlock Statue]"
         },
         {
-            "title": "[Teaching Level A+]",
-            "content": "[Teaching Level A+]\n400E0000 00000000 000249BA\n640F01E0 00000000 0000ADD4\n\n"
+            "content": "[Teaching Level A+]\n400E0000 00000000 000249BA\n640F01E0 00000000 0000ADD4\n\n",
+            "title": "[Teaching Level A+]"
         },
         {
-            "title": "[EXP 2x]",
-            "content": "[EXP 2x]\n04000000 003C35A8 0B010529\n\n"
+            "content": "[EXP 2x]\n04000000 003C35A8 0B010529\n\n",
+            "title": "[EXP 2x]"
         },
         {
-            "title": "[EXP 4x]",
-            "content": "[EXP 4x]\n04000000 003C35A8 0B010929\n\n"
+            "content": "[EXP 4x]\n04000000 003C35A8 0B010929\n\n",
+            "title": "[EXP 4x]"
         },
         {
-            "title": "[EXP 8x]",
-            "content": "[EXP 8x]\n04000000 003C35A8 0B010D29\n\n"
+            "content": "[EXP 8x]\n04000000 003C35A8 0B010D29\n\n",
+            "title": "[EXP 8x]"
         },
         {
-            "title": "[EXP 16x]",
-            "content": "[EXP 16x]\n04000000 003C35A8 0B011129\n\n"
+            "content": "[EXP 16x]\n04000000 003C35A8 0B011129\n\n",
+            "title": "[EXP 16x]"
         },
         {
-            "title": "[Job EXP 2x]",
-            "content": "[Job EXP 2x]\n04000000 003C37CC 0B02054A\n04000000 00393394 0B020529\n\n"
+            "content": "[Job EXP 2x]\n04000000 003C37CC 0B02054A\n04000000 00393394 0B020529\n\n",
+            "title": "[Job EXP 2x]"
         },
         {
-            "title": "[JOB EXP 4x]",
-            "content": "[JOB EXP 4x]\n04000000 003C37CC 0B02094A\n04000000 00393394 0B020929\n\n"
+            "content": "[JOB EXP 4x]\n04000000 003C37CC 0B02094A\n04000000 00393394 0B020929\n\n",
+            "title": "[JOB EXP 4x]"
         },
         {
-            "title": "[JOB EXP 8x]",
-            "content": "[JOB EXP 8x]\n04000000 003C37CC 0B020D4A\n04000000 00393394 0B020D29\n\n"
+            "content": "[JOB EXP 8x]\n04000000 003C37CC 0B020D4A\n04000000 00393394 0B020D29\n\n",
+            "title": "[JOB EXP 8x]"
         },
         {
-            "title": "[JOB EXP 16x]",
-            "content": "[JOB EXP 16x]\n04000000 003C37CC 0B02114A\n04000000 00393394 0B021129\n\n"
+            "content": "[JOB EXP 16x]\n04000000 003C37CC 0B02114A\n04000000 00393394 0B021129\n\n",
+            "title": "[JOB EXP 16x]"
         },
         {
-            "title": "[ALL ability point +1 level up(On)]",
-            "content": "[ALL ability point +1 level up(On)]\n04000000 00392C6C F1001D1F\n04000000 00392D68 11000539\n04000000 00392EF4 11000539\n04000000 00392094 F1001F1F\n04000000 00392150 11000668\n04000000 00392350 11000668\n\n"
+            "content": "[ALL ability point +1 level up(On)]\n04000000 00392C6C F1001D1F\n04000000 00392D68 11000539\n04000000 00392EF4 11000539\n04000000 00392094 F1001F1F\n04000000 00392150 11000668\n04000000 00392350 11000668\n\n",
+            "title": "[ALL ability point +1 level up(On)]"
         },
         {
-            "title": "[ALL ability point +1 level up(Off)]",
-            "content": "[ALL ability point +1 level up(Off)]\n04000000 00392C6C F100251F\n04000000 00392D68 1A89D539\n04000000 00392EF4 1A89D539\n04000000 00392094 F100271F\n04000000 00392150 1A93A668\n04000000 00392350 1A93A668\n\n"
+            "content": "[ALL ability point +1 level up(Off)]\n04000000 00392C6C F100251F\n04000000 00392D68 1A89D539\n04000000 00392EF4 1A89D539\n04000000 00392094 F100271F\n04000000 00392150 1A93A668\n04000000 00392350 1A93A668\n\n",
+            "title": "[ALL ability point +1 level up(Off)]"
         },
         {
-            "title": "[Max Movement Point\uff08L to switch on\uff09]",
-            "content": "[Max Movement Point\uff08L to switch on\uff09]\n80000040\n04000000 000AD564 1A88B100\n20000000\n\n"
+            "content": "[Max Movement Point\uff08L to switch on\uff09]\n80000040\n04000000 000AD564 1A88B100\n20000000\n\n",
+            "title": "[Max Movement Point\uff08L to switch on\uff09]"
         },
         {
-            "title": "[Max Movement Point\uff08R to switch off\uff09]",
-            "content": "[Max Movement Point\uff08R to switch off\uff09]\n80000080\n04000000 000AD564 1A88B2E0\n20000000\n\n"
+            "content": "[Max Movement Point\uff08R to switch off\uff09]\n80000080\n04000000 000AD564 1A88B2E0\n20000000\n\n",
+            "title": "[Max Movement Point\uff08R to switch off\uff09]"
         },
         {
-            "title": "[Press ZL Enemy dont move]",
-            "content": "[Press ZL Enemy dont move]\n80000100\n04000000 000AD564 1A9FB3E0\n20000000\n\n"
+            "content": "[Press ZL Enemy dont move]\n80000100\n04000000 000AD564 1A9FB3E0\n20000000\n\n",
+            "title": "[Press ZL Enemy dont move]"
         },
         {
-            "title": "[L+A one hit kill]",
-            "content": "[L+A one hit kill]\n80000041\n580F0000 01A1A7A8\n580F1000 00001A48\n780F0000 0000004C\n300E0000 00000003\n640F0000 00000000 00000000\n780F0000 00000004\n310E0000\n20000000\n\n"
+            "content": "[L+A one hit kill]\n80000041\n580F0000 01A1A7A8\n580F1000 00001A48\n780F0000 0000004C\n300E0000 00000003\n640F0000 00000000 00000000\n780F0000 00000004\n310E0000\n20000000\n\n",
+            "title": "[L+A one hit kill]"
         },
         {
-            "title": "[Weapon/Magic durability]",
-            "content": "[Weapon/Magic durability]\n580F0000 01A1A7A8\n580F1000 00001970\n780F0000 00000006\n300E0000 00000005\n620F0000 00000000 00000063\n780F0000 00000004\n310E0000 20000000\n580F0000 01A1A7A8\n580F1000 00001970\n780F0000 00000094\n300E0000 00000006\n620F0000 00000000 00001414\n780F0000 00000002\n310E0000 20000000\n\n"
+            "content": "[Weapon/Magic durability]\n580F0000 01A1A7A8\n580F1000 00001970\n780F0000 00000006\n300E0000 00000005\n620F0000 00000000 00000063\n780F0000 00000004\n310E0000 20000000\n580F0000 01A1A7A8\n580F1000 00001970\n780F0000 00000094\n300E0000 00000006\n620F0000 00000000 00001414\n780F0000 00000002\n310E0000 20000000\n\n",
+            "title": "[Weapon/Magic durability]"
         },
         {
-            "title": "[Weapon art no durability decrease]",
-            "content": "[Weapon art no durability decrease]\n580F0000 01A1A7A8\n580F1000 00001980\n780F0000 0000000A\n610F0000 00000000 00000000\n\n"
+            "content": "[Weapon art no durability decrease]\n580F0000 01A1A7A8\n580F1000 00001980\n780F0000 0000000A\n610F0000 00000000 00000000\n\n",
+            "title": "[Weapon art no durability decrease]"
         },
         {
-            "title": "[non storage limit]",
-            "content": "[non storage limit]\n04000000 0039A494 1A883108\n04000000 0039A4B4 1A883108\n04000000 0039A4D4 1A883108\n04000000 0039A4F4 1A883108\n\n"
+            "content": "[non storage limit]\n04000000 0039A494 1A883108\n04000000 0039A4B4 1A883108\n04000000 0039A4D4 1A883108\n04000000 0039A4F4 1A883108\n\n",
+            "title": "[non storage limit]"
         },
         {
-            "title": "[unlock EXTRA]",
-            "content": "[unlock EXTRA]\n581F0000 00000008\n780F0000 AD9EDFF8\n300E0000 00000046\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n310E0000 20000000\n\n"
+            "content": "[unlock EXTRA]\n581F0000 00000008\n780F0000 AD9EDFF8\n300E0000 00000046\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n310E0000 20000000\n\n",
+            "title": "[unlock EXTRA]"
         },
         {
-            "title": "[Difficuty: Normal]",
-            "content": "[Difficuty: Normal]\n400E0000 00000000 00023D60\n610F01E0 00000000 00000000\n\n"
+            "content": "[Difficuty: Normal]\n400E0000 00000000 00023D60\n610F01E0 00000000 00000000\n\n",
+            "title": "[Difficuty: Normal]"
         },
         {
-            "title": "[Difficuty: Hard]",
-            "content": "[Difficuty: Hard]\n400E0000 00000000 00023D60\n610F01E0 00000000 00000001\n\n"
+            "content": "[Difficuty: Hard]\n400E0000 00000000 00023D60\n610F01E0 00000000 00000001\n\n",
+            "title": "[Difficuty: Hard]"
         },
         {
-            "title": "[Difficuty: Super Hard]",
-            "content": "[Difficuty: Super Hard]\n400E0000 00000000 00023D60\n610F01E0 00000000 00000002\n\n"
+            "content": "[Difficuty: Super Hard]\n400E0000 00000000 00023D60\n610F01E0 00000000 00000002\n\n",
+            "title": "[Difficuty: Super Hard]"
         },
         {
-            "title": "[Difficuty: Inferno]",
-            "content": "[Difficuty: Inferno]\n400E0000 00000000 00023D60\n610F01E0 00000000 00000003\n\n"
+            "content": "[Difficuty: Inferno]\n400E0000 00000000 00023D60\n610F01E0 00000000 00000003\n\n",
+            "title": "[Difficuty: Inferno]"
         },
         {
-            "title": "[Mode : Easy]",
-            "content": "[Mode : Easy]\n400E0000 00000000 00023D61\n610F01E0 00000000 00000000\n\n"
+            "content": "[Mode : Easy]\n400E0000 00000000 00023D61\n610F01E0 00000000 00000000\n\n",
+            "title": "[Mode : Easy]"
         },
         {
-            "title": "[Mode : Classic]",
-            "content": "[Mode : Classic]\n400E0000 00000000 00023D61\n610F01E0 00000000 00000001\n\n"
+            "content": "[Mode : Classic]\n400E0000 00000000 00023D61\n610F01E0 00000000 00000001\n\n",
+            "title": "[Mode : Classic]"
         },
         {
-            "title": "{Highlight Pointer Code}",
-            "content": "{Highlight Pointer Code}\n580B0000 01A3CA48\n580B1000 00021068\n\n\n"
+            "content": "{Highlight Pointer Code}\n580B0000 01A3CA48\n580B1000 00021068\n\n\n",
+            "title": "{Highlight Pointer Code}"
         },
         {
-            "title": "[Highlight - Move again X+Y]",
-            "content": "[Highlight - Move again X+Y]\n8000000C\n400C0000 00000000 000000D6\n610B01C0 00000000 00000003\n20000000\n\n"
+            "content": "[Highlight - Move again X+Y]\n8000000C\n400C0000 00000000 000000D6\n610B01C0 00000000 00000003\n20000000\n\n",
+            "title": "[Highlight - Move again X+Y]"
         },
         {
-            "title": "[Highlight - Max Health X+<- ]",
-            "content": "[Highlight - Max Health X+<- ]\n80001004\n400C0000 00000000 000000DE\n610B01C0 00000000 000000FF\n20000000\n\n"
+            "content": "[Highlight - Max Health X+<- ]\n80001004\n400C0000 00000000 000000DE\n610B01C0 00000000 000000FF\n20000000\n\n",
+            "title": "[Highlight - Max Health X+<- ]"
         },
         {
-            "title": "[Highlight - Battlation Refill X+A]",
-            "content": "[Highlight - Battlation Refill X+A]\n80000005\n400C0000 00000000 0000001C\n610B01C0 00000000 0000002D\n400C0000 00000000 000000F3\n610B01C0 00000000 00000002\n20000000\n\n"
+            "content": "[Highlight - Battlation Refill X+A]\n80000005\n400C0000 00000000 0000001C\n610B01C0 00000000 0000002D\n400C0000 00000000 000000F3\n610B01C0 00000000 00000002\n20000000\n\n",
+            "title": "[Highlight - Battlation Refill X+A]"
         },
         {
-            "title": "[Highlight - 1 Health X+-> ]",
-            "content": "[Highlight - 1 Health X+-> ]\n80004004\n400C0000 00000000 000000DE\n610B01C0 00000000 00000001\n20000000\n\n"
+            "content": "[Highlight - 1 Health X+-> ]\n80004004\n400C0000 00000000 000000DE\n610B01C0 00000000 00000001\n20000000\n\n",
+            "title": "[Highlight - 1 Health X+-> ]"
         },
         {
-            "title": "[Infinite Exam Retakes]",
-            "content": "[Infinite Exam Retakes]\n580F0000 01A1A908\n580F1000 00000000\n780F0000 00000723\n300E0000 0000003C\n620F0000 00000000 00000000\n780F0000 00000230\n310E0000\n\n"
+            "content": "[Infinite Exam Retakes]\n580F0000 01A1A908\n580F1000 00000000\n780F0000 00000723\n300E0000 0000003C\n620F0000 00000000 00000000\n780F0000 00000230\n310E0000\n\n",
+            "title": "[Infinite Exam Retakes]"
         },
         {
-            "title": "[Bonding/Teaching/Battle Active Points (ported)]",
-            "content": "[Bonding/Teaching/Battle Active Points (ported)]\n400E0000 00000000 000249CF\n610F01E0 00000000 0000000A\n400E0000 00000000 000249D0\n620F01E0 00000000 00000307\n\n"
+            "content": "[Bonding/Teaching/Battle Active Points (ported)]\n400E0000 00000000 000249CF\n610F01E0 00000000 0000000A\n400E0000 00000000 000249D0\n620F01E0 00000000 00000307\n\n",
+            "title": "[Bonding/Teaching/Battle Active Points (ported)]"
         },
         {
-            "title": "[Unlimited Weapon/Weapon Art/magic durability (modified offsets)]",
-            "content": "[Unlimited Weapon/Weapon Art/magic durability (modified offsets)]\n580F0000 01A1A7A8\n580F1000 00001970\n780F0000 00000002\n300E0000 00000005\n620F0000 00000000 00000064\n780F0000 00000004\n310E0000\n580F0000 01A1A7A8\n580F1000 00001980\n780F0000 0000000A\n610F0000 00000000 00000000\n580F0000 01A1A7A8\n580F1000 00001970\n780F0000 00000094\n300E0000 00000006\n620F0000 00000000 00006464\n780F0000 00000002\n310E0000 20000000\n\n"
+            "content": "[Unlimited Weapon/Weapon Art/magic durability (modified offsets)]\n580F0000 01A1A7A8\n580F1000 00001970\n780F0000 00000002\n300E0000 00000005\n620F0000 00000000 00000064\n780F0000 00000004\n310E0000\n580F0000 01A1A7A8\n580F1000 00001980\n780F0000 0000000A\n610F0000 00000000 00000000\n580F0000 01A1A7A8\n580F1000 00001970\n780F0000 00000094\n300E0000 00000006\n620F0000 00000000 00006464\n780F0000 00000002\n310E0000 20000000\n\n",
+            "title": "[Unlimited Weapon/Weapon Art/magic durability (modified offsets)]"
         },
         {
-            "title": "[Highlight - Y+dpad Down God Stats]",
-            "content": "[Highlight - Y+dpad Down God Stats]\n80008008\n400C0000 00000000 0000004E\n680B01C0 63636363 63636363\n400C0000 00000000 00000056\n610B01C0 00000000 00000063\n20000000\n"
+            "content": "[Highlight - Y+dpad Down God Stats]\n80008008\n400C0000 00000000 0000004E\n680B01C0 63636363 63636363\n400C0000 00000000 00000056\n610B01C0 00000000 00000063\n20000000\n",
+            "title": "[Highlight - Y+dpad Down God Stats]"
         },
         {
-            "title": "[Highlight - Crit Booster Y+Dpad Right]",
-            "content": "[Highlight - Crit Booster Y+Dpad Right]\n80004008\n400C0000 00000000 00000050\n610B01C0 00000000 00000063\n400C0000 00000000 00000052\n610B01C0 00000000 00000063\n20000000\n"
+            "content": "[Highlight - Crit Booster Y+Dpad Right]\n80004008\n400C0000 00000000 00000050\n610B01C0 00000000 00000063\n400C0000 00000000 00000052\n610B01C0 00000000 00000063\n20000000\n",
+            "title": "[Highlight - Crit Booster Y+Dpad Right]"
         },
         {
-            "title": "[Highlight - Can't Touch this Y+Dpad Left]",
-            "content": "[Highlight - Can't Touch this Y+Dpad Left]\n80001008\n400C0000 00000000 00000051\n610B01C0 00000000 00000063\n20000000\n"
+            "content": "[Highlight - Can't Touch this Y+Dpad Left]\n80001008\n400C0000 00000000 00000051\n610B01C0 00000000 00000063\n20000000\n",
+            "title": "[Highlight - Can't Touch this Y+Dpad Left]"
         },
         {
-            "title": "[Highlight - Spell List without Rank A+ Y+Dpad UP]",
-            "content": "[Highlight - Spell List without Rank A+ Y+Dpad UP]\n80002008\n400C0000 00000000 00000094\n680B01C0 64646464 64646464\n400C0000 00000000 0000009C\n640B01C0 00000000 64646464\n400C0000 00000000 000000A0\n680B01C0 01030900 080D0C04\n400C0000 00000000 000000A8\n640B01C0 00000000 1B1A1925\n20000000\n"
+            "content": "[Highlight - Spell List without Rank A+ Y+Dpad UP]\n80002008\n400C0000 00000000 00000094\n680B01C0 64646464 64646464\n400C0000 00000000 0000009C\n640B01C0 00000000 64646464\n400C0000 00000000 000000A0\n680B01C0 01030900 080D0C04\n400C0000 00000000 000000A8\n640B01C0 00000000 1B1A1925\n20000000\n",
+            "title": "[Highlight - Spell List without Rank A+ Y+Dpad UP]"
         },
         {
-            "title": "[Highlight - Spell List with Rank A+ Y+Dpad UP]",
-            "content": "[Highlight - Spell List with Rank A+ Y+Dpad UP]\n80002008\n400C0000 00000000 0000008D\n620B01C0 00000000 00000808\n400C0000 00000000 00000094\n680B01C0 64646464 64646464\n400C0000 00000000 0000009C\n680B01C0 01030900 64646464\n400C0000 00000000 000000A4\n680B01C0 080D0C04 1B1A1925\n20000000\n\n\n\n "
+            "content": "[Highlight - Spell List with Rank A+ Y+Dpad UP]\n80002008\n400C0000 00000000 0000008D\n620B01C0 00000000 00000808\n400C0000 00000000 00000094\n680B01C0 64646464 64646464\n400C0000 00000000 0000009C\n680B01C0 01030900 64646464\n400C0000 00000000 000000A4\n680B01C0 080D0C04 1B1A1925\n20000000\n\n\n\n ",
+            "title": "[Highlight - Spell List with Rank A+ Y+Dpad UP]"
         }
     ],
-    "F0142D706FD2323B": [
+    "47CA26D2AA77D0BA": [
         {
-            "title": "[money max]",
-            "content": "[money max]\n58000000 01ABBF60\n78000000 00024274\n64000000 00000000 0098967F\n\n"
+            "content": "[Zero Playtime]\n580F0000 019D76F0\n780F0000 00023B50\n640F0000 00000000 00000000\n\n",
+            "title": "[Zero Playtime]"
         },
         {
-            "title": "[renown max]",
-            "content": "[renown max]\n58000000 01ABBF60\n78000000 000250D4\n64000000 00000000 000F423F\n\n"
+            "content": "[Max Money]\n580F0000 019D76F0\n780F0000 00023B54\n640F0000 00000000 0098967F\n\n",
+            "title": "[Max Money]"
         },
         {
-            "title": "[Max Action Points Explore/Teach/Battle]",
-            "content": "[Max Action Points Explore/Teach/Battle]\n58000000 01A301B8\n78000000 000B0E07\n61001000 00000000 0000000A\n62000000 00000000 00000307\n\n"
+            "content": "[9 Activity Points (Bonding)]\n580F0000 019D76F0\n780F0000 000249CF\n610F0000 00000000 00000009\n\n",
+            "title": "[9 Activity Points (Bonding)]"
         },
         {
-            "title": "[Inf. gifts x9/inf materials]",
-            "content": "[Inf. gifts x9/inf materials]\n40000000 00000000 00000000\n04000000 003BC728 4B1F014A\n580F0000 01AF0EB8\n780F0000 00000410\n300E0000 00000074\n610F1000 00000000 00000009\n310E0000\n780F0000 00000007\n300E0000 0000005C\n610F1000 00000000 00000009\n310E0000 20000000\n\n"
+            "content": "[9 Activity Points (Teaching)]\n580F0000 019D76F0\n780F0000 000249D0\n610F0000 00000000 00000009\n\n",
+            "title": "[9 Activity Points (Teaching)]"
         },
         {
-            "title": "[Inf. items x83]",
-            "content": "[Inf. items x83]\n58000000 01AF0EB8\n78000000 00000331\n300E0000 000001C0\n61001000 00000000 00000153\n310E0000\n\n"
+            "content": "[9 Activity Points (Battle)]\n580F0000 019D76F0\n780F0000 000249D1\n610F0000 00000000 00000009\n\n",
+            "title": "[9 Activity Points (Battle)]"
         },
         {
-            "title": "[Inf Movation]",
-            "content": "[Inf Movation]\n58000000 01A55000\n78000000 000007B0\n30010000 0000003C\n61000000 00000000 00000064\n78000000 0000024C\n31010000\n\n"
+            "content": "[Max increase after money]\n04000000 0039C080 1A893128\n\n",
+            "title": "[Max increase after money]"
         },
         {
-            "title": "[Unlimited Weapon/weapon art/Magic usage]",
-            "content": "[Unlimited Weapon/weapon art/Magic usage]\n580F0000 01A6AD50\n780F0000 00000002\n620F0000 00000000 00000064\n780F0000 00000004\n620F0000 00000000 00000064\n780F0000 00000004\n620F0000 00000000 00000064\n780F0000 00000004\n620F0000 00000000 00000064\n780F0000 00000004\n620F0000 00000000 00000064\n780F0000 00000004\n620F0000 00000000 00000064\n780F0000 00000004\n580F0000 01A6AD60\n780F0000 0000000A\n610F0000 00000000 00000000\n580F0000 01A6AD50\n780F0000 00000094\n640F1000 00000000 64646464\n640F1000 00000000 64646464\n620F0000 00000000 00006464\n\n"
+            "content": "[Fame value is not reduced / PT]\n04000000 0039F284 6B1F0108\n\n",
+            "title": "[Fame value is not reduced / PT]"
         },
         {
-            "title": "[Inf retake-exam v2]",
-            "content": "[Inf retake-exam v2]\n58000000 01ABBF60\n40030000 00000000 00000723\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n\n"
+            "content": "[Materials start 4 times]\n04000000 0039C0E8 0B02094A\n04000000 0039C378 0B02094A\n\n",
+            "title": "[Materials start 4 times]"
         },
         {
-            "title": "[Unlock all regular Classes]",
-            "content": "[Unlock all regular Classes]\n580F0000 01ABBF60\n780F0000 00000717\n300E0000 0000003C\n610F1000 00000000 000000FF\n640F1000 00000000 FFFFFDFF\n780F0000 00000001\n610F0000 00000000 00000052\n780F0000 00000246\n310E0000\n\n"
+            "content": "[Materials start 8 times]\n04000000 0039C0E8 0B020D4A\n04000000 0039C378 0B020D4A\n\n",
+            "title": "[Materials start 8 times]"
         },
         {
-            "title": "[All Characters - Current Class Max XP]",
-            "content": "[All Characters - Current Class Max XP]\n580F0000 01ABBF60\n780F0000 0000068C\n300E0000 0000003C\n620F0000 00000000 000000C8\n780F0000 0000024C\n310E0000\n\n"
+            "content": "[material / gift is not reduced]\n04000000 0039C118 4B1F014A\n04000000 0039C3A8 4B1F014A\n\n",
+            "title": "[material / gift is not reduced]"
         },
         {
-            "title": "[Max Movement Point L to switch on]",
-            "content": "[Max Movement Point L to switch on]\n80000040\n04000000 000AFCC4 1A88B100\n20000000\n\n"
+            "content": "[College Action Max]\n01000000 019FC0CF 0000000A\n02000000 019FC0D0 00000307\n\n",
+            "title": "[College Action Max]"
         },
         {
-            "title": "[Max Movement Point R to switch off]",
-            "content": "[Max Movement Point R to switch off]\n80000080\n04000000 000AFCC4 1A88B2E0\n20000000\n\n"
+            "content": "[Weapon / Magic Durability is not reduced]\n580F0000 0196D7A8\n580F1000 00001970\n780F0000 00000006\n300E0000 00000005\n620F0000 00000000 00000063\n780F0000 00000004\n310E0000 20000000\n580F0000 0196D7A8\n580F1000 00001970\n780F0000 00000094\n300E0000 00000006\n620F0000 00000000 00001414\n780F0000 00000002\n310E0000 20000000\n\n",
+            "title": "[Weapon / Magic Durability is not reduced]"
         },
         {
-            "title": "[Exp \u00d764]",
-            "content": "[Exp \u00d764]\n04000000 00411428 0B011929\n\n"
+            "content": "[Press L+A key to kill during battle]\n80000041\n580F0000 0196D7A8\n580F1000 00001A48\n780F0000 0000004C\n300E0000 00000003\n640F0000 00000000 00000000\n780F0000 00000004\n310E0000\n20000000\n\n",
+            "title": "[Press L+A key to kill during battle]"
         },
         {
-            "title": "[Exp x1024]",
-            "content": "[Exp x1024]\n04000000 00411428 0B012929"
+            "content": "[Moving Power Max (L Open)]\n80000040\n04000000 000ACF14 1A88B100\n20000000\n\n",
+            "title": "[Moving Power Max (L Open)]"
+        },
+        {
+            "content": "[Moving Force Max (R Off)]\n80000080\n04000000 000ACF14 1A88B2E0\n20000000\n\n",
+            "title": "[Moving Force Max (R Off)]"
+        },
+        {
+            "content": "[The enemy rounds hold ZL enemy does not move]\n80000100\n04000000 000ACF14 1A9FB3E0\n20000000\n\n",
+            "title": "[The enemy rounds hold ZL enemy does not move]"
+        },
+        {
+            "content": "[Press the A button to hit the target and hit the crit 100%]\n04000000 000D59D8 1A89B100\n04000000 000D5B90 2A1F03E0\n04000000 000D5C0C 1A89B100\n80000001\n04000000 000D59D8 1A89B120\n04000000 000D5B90 52800C80\n04000000 000D5C0C 1A89B120\n20000000\n\n",
+            "title": "[Press the A button to hit the target and hit the crit 100%]"
+        },
+        {
+            "content": "[Growth Max]\n580F0000 0196D908\n580F1000 00000000\n780F0000 00000708\n300E0000 0000003C\n620F0000 00000000 00000064\n780F0000 00000230\n310E0000 20000000\n\n",
+            "title": "[Growth Max]"
+        },
+        {
+            "content": "[Stock Restriction Release]\n04000000 003941F4 1A883108\n04000000 00394214 1A883108\n04000000 00394234 1A883108\n04000000 00394254 1A883108\n\n",
+            "title": "[Stock Restriction Release]"
+        },
+        {
+            "content": "[Guidance Level A+]\n02000000 019FC0BA 0000ADD4\n\n",
+            "title": "[Guidance Level A+]"
+        },
+        {
+            "content": "[Difficulty - Normal]\n01000000 019FB460 00000000\n\n",
+            "title": "[Difficulty - Normal]"
+        },
+        {
+            "content": "[difficulty - difficulty]\n01000000 019FB460 00000001\n\n",
+            "title": "[difficulty - difficulty]"
+        },
+        {
+            "content": "[Difficulty - Super Hard]\n01000000 019FB460 00000002\n\n",
+            "title": "[Difficulty - Super Hard]"
+        },
+        {
+            "content": "[difficulty - hell]\n01000000 019FB460 00000003\n\n",
+            "title": "[difficulty - hell]"
+        },
+        {
+            "content": "[Mode - Easy]\n01000000 019FB461 00000000\n\n",
+            "title": "[Mode - Easy]"
+        },
+        {
+            "content": "[Mode - Classic]\n01000000 019FB461 00000001 ",
+            "title": "[Mode - Classic]"
         }
     ],
     "89048449BA238C8C": [
         {
-            "title": "[Highlight Unit pointer setup - use with crit booster]",
-            "content": "[Highlight Unit pointer setup - use with crit booster]\n580B0000 01ACA288\n580B1000 00021068\n\n"
+            "content": "[Highlight Unit pointer setup - use with crit booster]\n580B0000 01ACA288\n580B1000 00021068\n\n",
+            "title": "[Highlight Unit pointer setup - use with crit booster]"
         },
         {
-            "title": "[Highlight - Crit Booster Y+Dpad Right]",
-            "content": "[Highlight - Crit Booster Y+Dpad Right]\n80004008\n400C0000 00000000 00000050\n610B01C0 00000000 00000063\n400C0000 00000000 00000052\n610B01C0 00000000 00000063\n20000000\n\n"
+            "content": "[Highlight - Crit Booster Y+Dpad Right]\n80004008\n400C0000 00000000 00000050\n610B01C0 00000000 00000063\n400C0000 00000000 00000052\n610B01C0 00000000 00000063\n20000000\n\n",
+            "title": "[Highlight - Crit Booster Y+Dpad Right]"
         },
         {
-            "title": "[Exp Booster x1]",
-            "content": "[Exp Booster x1]\n040A0000 00411428 0B010129\n\n"
+            "content": "[Exp Booster x1]\n040A0000 00411428 0B010129\n\n",
+            "title": "[Exp Booster x1]"
         },
         {
-            "title": "[Exp Booster x2]",
-            "content": "[Exp Booster x2]\n040A0000 00411428 0B010529\n\n"
+            "content": "[Exp Booster x2]\n040A0000 00411428 0B010529\n\n",
+            "title": "[Exp Booster x2]"
         },
         {
-            "title": "[Exp Booster x4]",
-            "content": "[Exp Booster x4]\n040A0000 00411428 0B010929\n\n"
+            "content": "[Exp Booster x4]\n040A0000 00411428 0B010929\n\n",
+            "title": "[Exp Booster x4]"
         },
         {
-            "title": "[Exp Booster x8]",
-            "content": "[Exp Booster x8]\n040A0000 00411428 0B010D29\n\n"
+            "content": "[Exp Booster x8]\n040A0000 00411428 0B010D29\n\n",
+            "title": "[Exp Booster x8]"
         },
         {
-            "title": "[Skill booster x1(in battle)]",
-            "content": "[Skill booster x1(in battle)]\n040A0000 0041164C 0B02014A\n040A0000 00404DB4 0B020129\n\n"
+            "content": "[Skill booster x1(in battle)]\n040A0000 0041164C 0B02014A\n040A0000 00404DB4 0B020129\n\n",
+            "title": "[Skill booster x1(in battle)]"
         },
         {
-            "title": "[Skill booster x2(in battle)]",
-            "content": "[Skill booster x2(in battle)]\n040A0000 0041164C 0B02054A\n040A0000 00404DB4 0B020529\n\n"
+            "content": "[Skill booster x2(in battle)]\n040A0000 0041164C 0B02054A\n040A0000 00404DB4 0B020529\n\n",
+            "title": "[Skill booster x2(in battle)]"
         },
         {
-            "title": "[Skill booster x4(in battle)]",
-            "content": "[Skill booster x4(in battle)]\n040A0000 0041164C 0B02094A\n040A0000 00404DB4 0B020929\n\n"
+            "content": "[Skill booster x4(in battle)]\n040A0000 0041164C 0B02094A\n040A0000 00404DB4 0B020929\n\n",
+            "title": "[Skill booster x4(in battle)]"
         },
         {
-            "title": "[Skill booster x8(in battle)]",
-            "content": "[Skill booster x8(in battle)]\n040A0000 0041164C 0B020D4A\n040A0000 00404DB4 0B020D29\n\n"
+            "content": "[Skill booster x8(in battle)]\n040A0000 0041164C 0B020D4A\n040A0000 00404DB4 0B020D29\n\n",
+            "title": "[Skill booster x8(in battle)]"
         },
         {
-            "title": "[Classroom (skill) Booster x1]",
-            "content": "[Classroom (skill) Booster x1]\n040A0000 003D4AE4 0B020129\n\n"
+            "content": "[Classroom (skill) Booster x1]\n040A0000 003D4AE4 0B020129\n\n",
+            "title": "[Classroom (skill) Booster x1]"
         },
         {
-            "title": "[Classroom (skill) Booster x2]",
-            "content": "[Classroom (skill) Booster x2]\n040A0000 003D4AE4 0B020529\n\n"
+            "content": "[Classroom (skill) Booster x2]\n040A0000 003D4AE4 0B020529\n\n",
+            "title": "[Classroom (skill) Booster x2]"
         },
         {
-            "title": "[Classroom (skill) Booster x4]",
-            "content": "[Classroom (skill) Booster x4]\n04000000 003D4AE4 0B020929\n\n"
+            "content": "[Classroom (skill) Booster x4]\n04000000 003D4AE4 0B020929\n\n",
+            "title": "[Classroom (skill) Booster x4]"
         },
         {
-            "title": "[Classroom (skill) Booster x8]",
-            "content": "[Classroom (skill) Booster x8]\n04000000 003D4AE4 0B020D29\n\n"
+            "content": "[Classroom (skill) Booster x8]\n04000000 003D4AE4 0B020D29\n\n",
+            "title": "[Classroom (skill) Booster x8]"
         },
         {
-            "title": "[Classroom (skill) Booster x16]",
-            "content": "[Classroom (skill) Booster x16]\n04000000 003D4AE4 0B021129\n\n"
+            "content": "[Classroom (skill) Booster x16]\n04000000 003D4AE4 0B021129\n\n",
+            "title": "[Classroom (skill) Booster x16]"
         },
         {
-            "title": "[Classroom (skill) Booster Max]",
-            "content": "[Classroom (skill) Booster Max]\n040A0000 003D4AE4 0B023529\n\n"
+            "content": "[Classroom (skill) Booster Max]\n040A0000 003D4AE4 0B023529\n\n",
+            "title": "[Classroom (skill) Booster Max]"
         },
         {
-            "title": "[All Characters - Current Class Max XP*]",
-            "content": "[All Characters - Current Class Max XP*]\n580F0000 01B12190\n780F0000 0000068C\n300E0000 0000003C\n620F0000 00000000 000000C8\n780F0000 0000024C\n310E0000\n\n"
+            "content": "[All Characters - Current Class Max XP*]\n580F0000 01B12190\n780F0000 0000068C\n300E0000 0000003C\n620F0000 00000000 000000C8\n780F0000 0000024C\n310E0000\n\n",
+            "title": "[All Characters - Current Class Max XP*]"
         },
         {
-            "title": "[Inf Materials(gifts not included)]",
-            "content": "[Inf Materials(gifts not included)]\n40000000 00000000 00000000\n04000000 003EAFB8 4B1F014A\n\n"
+            "content": "[Inf Materials(gifts not included)]\n40000000 00000000 00000000\n04000000 003EAFB8 4B1F014A\n\n",
+            "title": "[Inf Materials(gifts not included)]"
         },
         {
-            "title": "[Inf. gifts x9]",
-            "content": "[Inf. gifts x9]\n580F0000 01B12190\n780F0000 00024690\n300E0000 00000074\n610F1000 00000000 00000009\n310E0000\n780F0000 00000007\n300E0000 0000005C\n610F1000 00000000 00000009\n310E0000\n\n"
+            "content": "[Inf. gifts x9]\n580F0000 01B12190\n780F0000 00024690\n300E0000 00000074\n610F1000 00000000 00000009\n310E0000\n780F0000 00000007\n300E0000 0000005C\n610F1000 00000000 00000009\n310E0000\n\n",
+            "title": "[Inf. gifts x9]"
         },
         {
-            "title": "[Level up all stats +1 on]",
-            "content": "[Level up all stats +1 on]\n04000000 003D43BC F1001D1F\n04000000 003D44B8 11000539\n04000000 003D4644 11000539\n04000000 003D3774 F1001F1F\n04000000 003D3830 11000668\n04000000 003D3A30 11000668\n\n"
+            "content": "[Level up all stats +1 on]\n04000000 003D43BC F1001D1F\n04000000 003D44B8 11000539\n04000000 003D4644 11000539\n04000000 003D3774 F1001F1F\n04000000 003D3830 11000668\n04000000 003D3A30 11000668\n\n",
+            "title": "[Level up all stats +1 on]"
         },
         {
-            "title": "[Level up all stats +1 off]",
-            "content": "[Level up all stats +1 off]\n04000000 003D43BC F100251F\n04000000 003D44B8 1A89D539\n04000000 003D4644 1A89D539\n04000000 003D3774 F100271F\n04000000 003D3830 1A93A668\n04000000 003D3A30 1A93A668\n\n"
+            "content": "[Level up all stats +1 off]\n04000000 003D43BC F100251F\n04000000 003D44B8 1A89D539\n04000000 003D4644 1A89D539\n04000000 003D3774 F100271F\n04000000 003D3830 1A93A668\n04000000 003D3A30 1A93A668\n\n",
+            "title": "[Level up all stats +1 off]"
         },
         {
-            "title": "[Max Gold]",
-            "content": "[Max Gold]\n58000000 01B12190\n78000000 00024274\n64000000 00000000 0098967F\n\n"
+            "content": "[Max Gold]\n58000000 01B12190\n78000000 00024274\n64000000 00000000 0098967F\n\n",
+            "title": "[Max Gold]"
         },
         {
-            "title": "[Max Action Points Explore/Teach/Battle]",
-            "content": "[Max Action Points Explore/Teach/Battle]\n58000000 01B12190\n78000000 000250EF\n61001000 00000000 0000000A\n62000000 00000000 00000307\n\n"
+            "content": "[Max Action Points Explore/Teach/Battle]\n58000000 01B12190\n78000000 000250EF\n61001000 00000000 0000000A\n62000000 00000000 00000307\n\n",
+            "title": "[Max Action Points Explore/Teach/Battle]"
         },
         {
-            "title": "[Inf Movation*]",
-            "content": "[Inf Movation*]\n580F0000 01B12190\n780F0000 00000708\n300E0000 0000003C\n620F0000 00000000 00000064\n780F0000 0000024C\n310E0000\n\n"
+            "content": "[Inf Movation*]\n580F0000 01B12190\n780F0000 00000708\n300E0000 0000003C\n620F0000 00000000 00000064\n780F0000 0000024C\n310E0000\n\n",
+            "title": "[Inf Movation*]"
         },
         {
-            "title": "[Inf. Divine Pulse]",
-            "content": "[Inf. Divine Pulse]\n010A0000 01ABF510 00000007\n\n"
+            "content": "[Inf. Divine Pulse]\n010A0000 01ABF510 00000007\n\n",
+            "title": "[Inf. Divine Pulse]"
         },
         {
-            "title": "[Critical hit press L+A during battle]",
-            "content": "[Critical hit press L+A during battle]\n80000041\n580F0000 01AC0E28\n780F0000 0000004C\n300E0000 00000003\n640F0000 00000000 00000000\n780F0000 00000004\n310E0000\n20000000\n\n"
+            "content": "[Critical hit press L+A during battle]\n80000041\n580F0000 01AC0E28\n780F0000 0000004C\n300E0000 00000003\n640F0000 00000000 00000000\n780F0000 00000004\n310E0000\n20000000\n\n",
+            "title": "[Critical hit press L+A during battle]"
         },
         {
-            "title": "[Infinite Qualification Exam]",
-            "content": "[Infinite Qualification Exam]\n580F0000 01B12190\n780F0000 00000723\n300E0000 0000003C\n620F0000 00000000 00000000\n780F0000 0000024C\n310E0000 20000000\n\n"
+            "content": "[Infinite Qualification Exam]\n580F0000 01B12190\n780F0000 00000723\n300E0000 0000003C\n620F0000 00000000 00000000\n780F0000 0000024C\n310E0000 20000000\n\n",
+            "title": "[Infinite Qualification Exam]"
         },
         {
-            "title": "[Highlight unit - L-Stick click move again v1.2.0]",
-            "content": "[Highlight unit - L-Stick click move again v1.2.0]\n80000010\n58000000 01ACA288\n58001000 00021068\n78000000 000000D6\n61000000 00000000 00000003\n20000000\n\n"
+            "content": "[Highlight unit - L-Stick click move again v1.2.0]\n80000010\n58000000 01ACA288\n58001000 00021068\n78000000 000000D6\n61000000 00000000 00000003\n20000000\n\n",
+            "title": "[Highlight unit - L-Stick click move again v1.2.0]"
         },
         {
-            "title": "[All Playable Characters Recruited (v1.2.0)]",
-            "content": "[All Playable Characters Recruited (v1.2.0)]\n580F0000 01B12190\n780F0000 000006F0\n300E0000 00000028\n610F0000 00000000 00000003\n780F0000 0000024C\n310E0000\n\n"
+            "content": "[All Playable Characters Recruited (v1.2.0)]\n580F0000 01B12190\n780F0000 000006F0\n300E0000 00000028\n610F0000 00000000 00000003\n780F0000 0000024C\n310E0000\n\n",
+            "title": "[All Playable Characters Recruited (v1.2.0)]"
         },
         {
-            "title": "[Exp \u00d764]",
-            "content": "[Exp \u00d764]\n04000000 00411428 0B011929\n\n"
+            "content": "[Exp \u00d764]\n04000000 00411428 0B011929\n\n",
+            "title": "[Exp \u00d764]"
         },
         {
-            "title": "[Exp x1024]",
-            "content": "[Exp x1024]\n04000000 00411428 0B012929\n"
+            "content": "[Exp x1024]\n04000000 00411428 0B012929\n",
+            "title": "[Exp x1024]"
+        }
+    ],
+    "F0142D706FD2323B": [
+        {
+            "content": "[money max]\n58000000 01ABBF60\n78000000 00024274\n64000000 00000000 0098967F\n\n",
+            "title": "[money max]"
+        },
+        {
+            "content": "[renown max]\n58000000 01ABBF60\n78000000 000250D4\n64000000 00000000 000F423F\n\n",
+            "title": "[renown max]"
+        },
+        {
+            "content": "[Max Action Points Explore/Teach/Battle]\n58000000 01A301B8\n78000000 000B0E07\n61001000 00000000 0000000A\n62000000 00000000 00000307\n\n",
+            "title": "[Max Action Points Explore/Teach/Battle]"
+        },
+        {
+            "content": "[Inf. gifts x9/inf materials]\n40000000 00000000 00000000\n04000000 003BC728 4B1F014A\n580F0000 01AF0EB8\n780F0000 00000410\n300E0000 00000074\n610F1000 00000000 00000009\n310E0000\n780F0000 00000007\n300E0000 0000005C\n610F1000 00000000 00000009\n310E0000 20000000\n\n",
+            "title": "[Inf. gifts x9/inf materials]"
+        },
+        {
+            "content": "[Inf. items x83]\n58000000 01AF0EB8\n78000000 00000331\n300E0000 000001C0\n61001000 00000000 00000153\n310E0000\n\n",
+            "title": "[Inf. items x83]"
+        },
+        {
+            "content": "[Inf Movation]\n58000000 01A55000\n78000000 000007B0\n30010000 0000003C\n61000000 00000000 00000064\n78000000 0000024C\n31010000\n\n",
+            "title": "[Inf Movation]"
+        },
+        {
+            "content": "[Unlimited Weapon/weapon art/Magic usage]\n580F0000 01A6AD50\n780F0000 00000002\n620F0000 00000000 00000064\n780F0000 00000004\n620F0000 00000000 00000064\n780F0000 00000004\n620F0000 00000000 00000064\n780F0000 00000004\n620F0000 00000000 00000064\n780F0000 00000004\n620F0000 00000000 00000064\n780F0000 00000004\n620F0000 00000000 00000064\n780F0000 00000004\n580F0000 01A6AD60\n780F0000 0000000A\n610F0000 00000000 00000000\n580F0000 01A6AD50\n780F0000 00000094\n640F1000 00000000 64646464\n640F1000 00000000 64646464\n620F0000 00000000 00006464\n\n",
+            "title": "[Unlimited Weapon/weapon art/Magic usage]"
+        },
+        {
+            "content": "[Inf retake-exam v2]\n58000000 01ABBF60\n40030000 00000000 00000723\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n61000130 00000000 00000000\n78030000 0000024C\n\n",
+            "title": "[Inf retake-exam v2]"
+        },
+        {
+            "content": "[Unlock all regular Classes]\n580F0000 01ABBF60\n780F0000 00000717\n300E0000 0000003C\n610F1000 00000000 000000FF\n640F1000 00000000 FFFFFDFF\n780F0000 00000001\n610F0000 00000000 00000052\n780F0000 00000246\n310E0000\n\n",
+            "title": "[Unlock all regular Classes]"
+        },
+        {
+            "content": "[All Characters - Current Class Max XP]\n580F0000 01ABBF60\n780F0000 0000068C\n300E0000 0000003C\n620F0000 00000000 000000C8\n780F0000 0000024C\n310E0000\n\n",
+            "title": "[All Characters - Current Class Max XP]"
+        },
+        {
+            "content": "[Max Movement Point L to switch on]\n80000040\n04000000 000AFCC4 1A88B100\n20000000\n\n",
+            "title": "[Max Movement Point L to switch on]"
+        },
+        {
+            "content": "[Max Movement Point R to switch off]\n80000080\n04000000 000AFCC4 1A88B2E0\n20000000\n\n",
+            "title": "[Max Movement Point R to switch off]"
+        },
+        {
+            "content": "[Exp \u00d764]\n04000000 00411428 0B011929\n\n",
+            "title": "[Exp \u00d764]"
+        },
+        {
+            "content": "[Exp x1024]\n04000000 00411428 0B012929",
+            "title": "[Exp x1024]"
         }
     ]
 }

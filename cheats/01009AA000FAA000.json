@@ -1,56 +1,56 @@
 {
     "03FD1524E17A841C": [
         {
-            "title": "[9999999 Score]",
-            "content": "[9999999 Score]\n04010000 006c7644 0098967F\n\n"
+            "content": "[9999999 Score]\n04010000 006c7644 0098967F\n\n",
+            "title": "[9999999 Score]"
         },
         {
-            "title": "[Low Time]",
-            "content": "[Low Time]\n01010000 0185314d 00000000\n\n"
+            "content": "[Low Time]\n01010000 0185314d 00000000\n\n",
+            "title": "[Low Time]"
         },
         {
-            "title": "[9999999 Rings]",
-            "content": "[9999999 Rings]\n04010000 006c7634 0098967F\n\n"
+            "content": "[9999999 Rings]\n04010000 006c7634 0098967F\n\n",
+            "title": "[9999999 Rings]"
         },
         {
-            "title": "[99 Lives]",
-            "content": "[99 Lives]\n01010000 006c7640 00000063\n\n"
+            "content": "[99 Lives]\n01010000 006c7640 00000063\n\n",
+            "title": "[99 Lives]"
         },
         {
-            "title": "[All Silver Coins]",
-            "content": "[All Silver Coins]\n01110000 2e8125e4 00000020\n\n"
+            "content": "[All Silver Coins]\n01110000 2e8125e4 00000020\n\n",
+            "title": "[All Silver Coins]"
         },
         {
-            "title": "[USE ONE AT A TIME:]",
-            "content": "[USE ONE AT A TIME:]\n00000000 00000000 00000000\n\n"
+            "content": "[USE ONE AT A TIME:]\n00000000 00000000 00000000\n\n",
+            "title": "[USE ONE AT A TIME:]"
         },
         {
-            "title": "[1 Blue Orb To Win Checkpoint Bonus Stage Press L]",
-            "content": "[1 Blue Orb To Win Checkpoint Bonus Stage Press L]\n80000040 01110000 2ec448c8 00000000\n\n"
+            "content": "[1 Blue Orb To Win Checkpoint Bonus Stage Press L]\n80000040 01110000 2ec448c8 00000000\n\n",
+            "title": "[1 Blue Orb To Win Checkpoint Bonus Stage Press L]"
         },
         {
-            "title": "[999 Rings Big Coin Bonus Stage Press R]",
-            "content": "[999 Rings Big Coin Bonus Stage Press R]\n80000080 02110000 2ec4462c 000003E7\n\n"
+            "content": "[999 Rings Big Coin Bonus Stage Press R]\n80000080 02110000 2ec4462c 000003E7\n\n",
+            "title": "[999 Rings Big Coin Bonus Stage Press R]"
         },
         {
-            "title": "[Always Have Shield Power:]",
-            "content": "[Always Have Shield Power:]\n00000000 00000000 00000000\n\n"
+            "content": "[Always Have Shield Power:]\n00000000 00000000 00000000\n\n",
+            "title": "[Always Have Shield Power:]"
         },
         {
-            "title": "[Shield]",
-            "content": "[Shield]\n01010000 006c763c 00000001\n\n"
+            "content": "[Shield]\n01010000 006c763c 00000001\n\n",
+            "title": "[Shield]"
         },
         {
-            "title": "[Bubble]",
-            "content": "[Bubble]\n01010000 006c763c 00000002\n\n"
+            "content": "[Bubble]\n01010000 006c763c 00000002\n\n",
+            "title": "[Bubble]"
         },
         {
-            "title": "[Flame]",
-            "content": "[Flame]\n01010000 006c763c 00000003\n\n"
+            "content": "[Flame]\n01010000 006c763c 00000003\n\n",
+            "title": "[Flame]"
         },
         {
-            "title": "[Thunder]",
-            "content": "[Thunder]\n01010000 006c763c 00000004"
+            "content": "[Thunder]\n01010000 006c763c 00000004",
+            "title": "[Thunder]"
         }
     ]
 }

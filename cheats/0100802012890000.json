@@ -1,34 +1,34 @@
 {
     "DD1D3E2EEB0EA969": [
         {
-            "title": "[9999 gold]",
-            "content": "[9999 gold]\n580F0000 0592B6F0\n580F1000 00000010\n780F0000 00000038\n640F0000 00000000 0000270F\n\n"
+            "content": "[9999 gold]\n580F0000 0592B6F0\n580F1000 00000010\n780F0000 00000038\n640F0000 00000000 0000270F\n\n",
+            "title": "[9999 gold]"
         },
         {
-            "title": "[99 life]",
-            "content": "[99 life]\n580F0000 0592B6F0\n580F1000 00000010\n780F0000 00000034\n640F0000 00000000 00000063\n\n"
+            "content": "[99 life]\n580F0000 0592B6F0\n580F1000 00000010\n780F0000 00000034\n640F0000 00000000 00000063\n\n",
+            "title": "[99 life]"
         },
         {
-            "title": "[Lots of hearts, may crash game?]",
-            "content": "[Lots of hearts, may crash game?]\n580F0000 059287D8\n780F0000 0000017C\n680F0000 00000040 00000040\n\n"
+            "content": "[Lots of hearts, may crash game?]\n580F0000 059287D8\n780F0000 0000017C\n680F0000 00000040 00000040\n\n",
+            "title": "[Lots of hearts, may crash game?]"
         },
         {
-            "title": "[4 heats]",
-            "content": "[4 heats]\n80000080\n580F0000 059287D8\n780F0000 0000017C\n640F0000 00000000 00000010\n20000000\n\n"
+            "content": "[4 heats]\n80000080\n580F0000 059287D8\n780F0000 0000017C\n640F0000 00000000 00000010\n20000000\n\n",
+            "title": "[4 heats]"
         },
         {
-            "title": "[Moon jump]",
-            "content": "[Moon jump]\n80000002\n580F0000 059287D8\n780F0000 00000104\n640F0000 00000000 C0800000\n20000000"
+            "content": "[Moon jump]\n80000002\n580F0000 059287D8\n780F0000 00000104\n640F0000 00000000 C0800000\n20000000",
+            "title": "[Moon jump]"
         }
     ],
     "F20687CC1EACD0E2": [
         {
-            "title": "[16 heats]",
-            "content": "[16 heats]\n80000080\n580F0000 059EDDD0\n780F0000 0000017C\n680F0000 00000040 00000040\n20000000\n\n"
+            "content": "[16 heats]\n80000080\n580F0000 059EDDD0\n780F0000 0000017C\n680F0000 00000040 00000040\n20000000\n\n",
+            "title": "[16 heats]"
         },
         {
-            "title": "[Moon jump]",
-            "content": "[Moon jump]\n80000002\n580F0000 059EDDD0\n780F0000 00000104\n640F0000 00000000 C0800000\n20000000"
+            "content": "[Moon jump]\n80000002\n580F0000 059EDDD0\n780F0000 00000104\n640F0000 00000000 C0800000\n20000000",
+            "title": "[Moon jump]"
         }
     ]
 }

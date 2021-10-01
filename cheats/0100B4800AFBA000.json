@@ -1,16 +1,16 @@
 {
     "CD7B66EE170AEF9A": [
         {
-            "title": "[P1 Infinite HP]",
-            "content": "[P1 Infinite HP]\n02000000 0127c2f6 00000bff\n\n"
+            "content": "[P1 Infinite HP]\n02000000 0127c2f6 00000bff\n\n",
+            "title": "[P1 Infinite HP]"
         },
         {
-            "title": "[P1 Infinite Super]",
-            "content": "[P1 Infinite Super]\n02000000 0127c302 0000ffff\n\n"
+            "content": "[P1 Infinite Super]\n02000000 0127c302 0000ffff\n\n",
+            "title": "[P1 Infinite Super]"
         },
         {
-            "title": "[P2 CPU No Super]",
-            "content": "[P2 CPU No Super]\n02000000 0127c402 00000000"
+            "content": "[P2 CPU No Super]\n02000000 0127c402 00000000",
+            "title": "[P2 CPU No Super]"
         }
     ]
 }

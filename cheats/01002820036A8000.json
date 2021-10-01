@@ -1,20 +1,20 @@
 {
     "A30FF4807FACDD60": [
         {
-            "title": "[Credits unlimited]",
-            "content": "[Credits unlimited]\n580F0000 045F1F40\n780F0000 0000030C\n610F0000 00000000 00000009\n\n"
+            "content": "[Credits unlimited]\n580F0000 045F1F40\n780F0000 0000030C\n610F0000 00000000 00000009\n\n",
+            "title": "[Credits unlimited]"
         },
         {
-            "title": "[Slowmo energy unlimited [ZR]]",
-            "content": "[Slowmo energy unlimited [ZR]]\n580F0000 045F1F40\n780F0000 0000031C\n640F0000 00000000 42C80000\n\n"
+            "content": "[Slowmo energy unlimited [ZR]]\n580F0000 045F1F40\n780F0000 0000031C\n640F0000 00000000 42C80000\n\n",
+            "title": "[Slowmo energy unlimited [ZR]]"
         },
         {
-            "title": "[Bombs unlimited]",
-            "content": "[Bombs unlimited]\n580F0000 045F1F40\n780F0000 0000031A\n610F0000 00000000 00000006\n\n"
+            "content": "[Bombs unlimited]\n580F0000 045F1F40\n780F0000 0000031A\n610F0000 00000000 00000006\n\n",
+            "title": "[Bombs unlimited]"
         },
         {
-            "title": "[Firepower MAX]",
-            "content": "[Firepower MAX]\n580F0000 045F1F40\n780F0000 00000318\n610F0000 00000000 00000009\n\n\n"
+            "content": "[Firepower MAX]\n580F0000 045F1F40\n780F0000 00000318\n610F0000 00000000 00000009\n\n\n",
+            "title": "[Firepower MAX]"
         }
     ]
 }

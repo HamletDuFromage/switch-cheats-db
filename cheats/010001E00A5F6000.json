@@ -1,16 +1,16 @@
 {
     "C80EF6E755322446": [
         {
-            "title": "[No Damage On - press R-Stick to get vulnerable]",
-            "content": "[No Damage On - press R-Stick to get vulnerable]\n04000000 0147FE20 D65F03C0\n80000020\n04000000 0147FE20 FC1B0FE8\n20000000\n\n"
+            "content": "[No Damage On - press R-Stick to get vulnerable]\n04000000 0147FE20 D65F03C0\n80000020\n04000000 0147FE20 FC1B0FE8\n20000000\n\n",
+            "title": "[No Damage On - press R-Stick to get vulnerable]"
         },
         {
-            "title": "[No Damage Off]",
-            "content": "[No Damage Off]\n04000000 0147FE20 FC1B0FE8\n\n"
+            "content": "[No Damage Off]\n04000000 0147FE20 FC1B0FE8\n\n",
+            "title": "[No Damage Off]"
         },
         {
-            "title": "[Unlimited Upgrade Points]",
-            "content": "[Unlimited Upgrade Points]\n04000000 014677B0 52807CE0"
+            "content": "[Unlimited Upgrade Points]\n04000000 014677B0 52807CE0",
+            "title": "[Unlimited Upgrade Points]"
         }
     ]
 }

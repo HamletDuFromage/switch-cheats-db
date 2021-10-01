@@ -1,54 +1,54 @@
 {
     "155C8506C654FB4D": [
         {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000002\n580F0000 02568558\n580F1000 00000038\n580F1000 00000000\n580F1000 000000B8\n580F1000 000000E0\n780F0000 00000044\n640F0000 00000000 417C0000\n20000000\n\n"
+            "content": "[Moon Jump]\n80000002\n580F0000 02568558\n580F1000 00000038\n580F1000 00000000\n580F1000 000000B8\n580F1000 000000E0\n780F0000 00000044\n640F0000 00000000 417C0000\n20000000\n\n",
+            "title": "[Moon Jump]"
         },
         {
-            "title": "[Walk through Walls (Hold ZR)]",
-            "content": "[Walk through Walls (Hold ZR)]\n580F0000 02568558\n580F1000 00000038\n580F1000 00000000\n580F1000 000000B8\n580F1000 000000D8\n580F1000 00000050\n780F0000 00000038\n\n"
+            "content": "[Walk through Walls (Hold ZR)]\n580F0000 02568558\n580F1000 00000038\n580F1000 00000000\n580F1000 000000B8\n580F1000 000000D8\n580F1000 00000050\n780F0000 00000038\n\n",
+            "title": "[Walk through Walls (Hold ZR)]"
         },
         {
-            "title": "[Infinite HP]",
-            "content": "[Infinite HP]\n580f0000 02564ac8\n580f1000 000000a0\n580f1000 00000000\n780f0000 0000002c\n610f0000 00000000 0000000b\n\n"
+            "content": "[Infinite HP]\n580f0000 02564ac8\n580f1000 000000a0\n580f1000 00000000\n780f0000 0000002c\n610f0000 00000000 0000000b\n\n",
+            "title": "[Infinite HP]"
         },
         {
-            "title": "[Infinite MP]",
-            "content": "[Infinite MP]\n580f0000 02564ac8\n580f1000 000000a0\n580f1000 00000000\n780f0000 00000068\n610f0000 00000000 00000063\n\n"
+            "content": "[Infinite MP]\n580f0000 02564ac8\n580f1000 000000a0\n580f1000 00000000\n780f0000 00000068\n610f0000 00000000 00000063\n\n",
+            "title": "[Infinite MP]"
         },
         {
-            "title": "[Geo 999999]",
-            "content": "[Geo 999999]\n580f0000 02564ac8\n580f1000 000000a0\n580f1000 00000000\n780f0000 00000060\n640f0000 00000000 000f423f\n\n"
+            "content": "[Geo 999999]\n580f0000 02564ac8\n580f1000 000000a0\n580f1000 00000000\n780f0000 00000060\n640f0000 00000000 000f423f\n\n",
+            "title": "[Geo 999999]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n580f0000 02564ac8\n580f1000 000000a0\n580f1000 00000000\n780f0000 00000aa3\n610f0000 00000000 00000001\n\n"
+            "content": "[Invincible]\n580f0000 02564ac8\n580f1000 000000a0\n580f1000 00000000\n780f0000 00000aa3\n610f0000 00000000 00000001\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Infinite Jump permanent after saved]",
-            "content": "[Infinite Jump permanent after saved]\n580f0000 02564ac8\n580f1000 000000a0\n580f1000 00000000\n780f0000 00000aa4\n610f0000 00000000 00000001"
+            "content": "[Infinite Jump permanent after saved]\n580f0000 02564ac8\n580f1000 000000a0\n580f1000 00000000\n780f0000 00000aa4\n610f0000 00000000 00000001",
+            "title": "[Infinite Jump permanent after saved]"
         }
     ],
     "FB968CFB649A5842": [
         {
-            "title": "[Infinite HP]",
-            "content": "[Infinite HP]\n580f0000 027ede78\n580f1000 000000a0\n580f1000 00000000\n780f0000 0000002c\n610f0000 00000000 0000000b\n\n"
+            "content": "[Infinite HP]\n580f0000 027ede78\n580f1000 000000a0\n580f1000 00000000\n780f0000 0000002c\n610f0000 00000000 0000000b\n\n",
+            "title": "[Infinite HP]"
         },
         {
-            "title": "[Infinite MP]",
-            "content": "[Infinite MP]\n580f0000 027ede78\n580f1000 000000a0\n580f1000 00000000\n780f0000 00000068\n610f0000 00000000 00000063\n\n"
+            "content": "[Infinite MP]\n580f0000 027ede78\n580f1000 000000a0\n580f1000 00000000\n780f0000 00000068\n610f0000 00000000 00000063\n\n",
+            "title": "[Infinite MP]"
         },
         {
-            "title": "[Geo 999999]",
-            "content": "[Geo 999999]\n580f0000 027ede78\n580f1000 000000a0\n580f1000 00000000\n780f0000 00000060\n640f0000 00000000 000f423f\n\n"
+            "content": "[Geo 999999]\n580f0000 027ede78\n580f1000 000000a0\n580f1000 00000000\n780f0000 00000060\n640f0000 00000000 000f423f\n\n",
+            "title": "[Geo 999999]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n580f0000 027ede78\n580f1000 000000a0\n580f1000 00000000\n780f0000 00000af3\n610f0000 00000000 00000001\n\n"
+            "content": "[Invincible]\n580f0000 027ede78\n580f1000 000000a0\n580f1000 00000000\n780f0000 00000af3\n610f0000 00000000 00000001\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Infinite Jump permanent after saved]",
-            "content": "[Infinite Jump permanent after saved]\n580f0000 027ede78\n580f1000 000000a0\n580f1000 00000000\n780f0000 00000af4\n610f0000 00000000 00000001"
+            "content": "[Infinite Jump permanent after saved]\n580f0000 027ede78\n580f1000 000000a0\n580f1000 00000000\n780f0000 00000af4\n610f0000 00000000 00000001",
+            "title": "[Infinite Jump permanent after saved]"
         }
     ]
 }

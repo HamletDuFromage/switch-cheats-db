@@ -1,52 +1,52 @@
 {
     "F20FDC280AF01CBE": [
         {
-            "title": "[Crazy jump (ZL+B)]",
-            "content": "[Crazy jump (ZL+B)]\n80000102\n04000000 03341CE4 00000000\n20000000\n\n"
+            "content": "[Crazy jump (ZL+B)]\n80000102\n04000000 03341CE4 00000000\n20000000\n\n",
+            "title": "[Crazy jump (ZL+B)]"
         },
         {
-            "title": "[hitanywhere]",
-            "content": "[hitanywhere]\n04000000 00678480 D65F03C0\n\n"
+            "content": "[hitanywhere]\n04000000 00678480 D65F03C0\n\n",
+            "title": "[hitanywhere]"
         },
         {
-            "title": "[hitanywhere off]",
-            "content": "[hitanywhere off]\n04000000 00678480 D10083FF\n\n"
+            "content": "[hitanywhere off]\n04000000 00678480 D10083FF\n\n",
+            "title": "[hitanywhere off]"
         },
         {
-            "title": "[speed attack normal]",
-            "content": "[speed attack normal]\n04000000 000120B0 1E2E1008\n\n"
+            "content": "[speed attack normal]\n04000000 000120B0 1E2E1008\n\n",
+            "title": "[speed attack normal]"
         },
         {
-            "title": "[speed attack 2x]",
-            "content": "[speed attack 2x]\n04000000 000120B0 1E201008\n\n"
+            "content": "[speed attack 2x]\n04000000 000120B0 1E201008\n\n",
+            "title": "[speed attack 2x]"
         },
         {
-            "title": "[speed attack 3x]",
-            "content": "[speed attack 3x]\n04000000 000120B0 1E211008\n\n"
+            "content": "[speed attack 3x]\n04000000 000120B0 1E211008\n\n",
+            "title": "[speed attack 3x]"
         },
         {
-            "title": "[(PRESS L STICK) Enter Hero Mode]",
-            "content": "[(PRESS L STICK) Enter Hero Mode]\n80000010\n02000000 033423D6 00000200\n02000000 033423E8 00000200\n02000000 03342406 00000200\n04000000 03342408 02000200\n02000000 0334240C 00000200\n01000000 03322358 00000001\n20000000\n\n"
+            "content": "[(PRESS L STICK) Enter Hero Mode]\n80000010\n02000000 033423D6 00000200\n02000000 033423E8 00000200\n02000000 03342406 00000200\n04000000 03342408 02000200\n02000000 0334240C 00000200\n01000000 03322358 00000001\n20000000\n\n",
+            "title": "[(PRESS L STICK) Enter Hero Mode]"
         },
         {
-            "title": "[Enter Hero Mode Always]",
-            "content": "[Enter Hero Mode Always]\n02000000 033423D6 00000200\n02000000 033423E8 00000200\n02000000 03342406 00000200\n04000000 03342408 02000200\n02000000 0334240C 00000200\n01000000 03322358 00000001\n\n"
+            "content": "[Enter Hero Mode Always]\n02000000 033423D6 00000200\n02000000 033423E8 00000200\n02000000 03342406 00000200\n04000000 03342408 02000200\n02000000 0334240C 00000200\n01000000 03322358 00000001\n\n",
+            "title": "[Enter Hero Mode Always]"
         },
         {
-            "title": "[Maintain FPS Limit to 60]",
-            "content": "[Maintain FPS Limit to 60]\n580F0000 0748BB30\n580F1000 000003D0\n580F1000 00000030\n780F0000 00000F14\n640F0000 00000000 00000001\n\n"
+            "content": "[Maintain FPS Limit to 60]\n580F0000 0748BB30\n580F1000 000003D0\n580F1000 00000030\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[Maintain FPS Limit to 60]"
         },
         {
-            "title": "[*Crazy Speed Jericoss]",
-            "content": "[*Crazy Speed Jericoss]\n80000002\n04000000 03341CE8 00000000\n20000000\n\n"
+            "content": "[*Crazy Speed Jericoss]\n80000002\n04000000 03341CE8 00000000\n20000000\n\n",
+            "title": "[*Crazy Speed Jericoss]"
         },
         {
-            "title": "[1p invicible on ]",
-            "content": "[1p invicible on ]\n04000000 00028890 D503201F\n\n"
+            "content": "[1p invicible on ]\n04000000 00028890 D503201F\n\n",
+            "title": "[1p invicible on ]"
         },
         {
-            "title": "[1p invicible off ]",
-            "content": "[1p invicible off ]\n04000000 00028890 72001C1F"
+            "content": "[1p invicible off ]\n04000000 00028890 72001C1F",
+            "title": "[1p invicible off ]"
         }
     ]
 }

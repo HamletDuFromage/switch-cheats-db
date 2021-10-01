@@ -1,32 +1,32 @@
 {
     "4D1C7699D3FE0E32": [
         {
-            "title": "[o Infinite Health]",
-            "content": "[o Infinite Health]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000220\n580F1000 00003570\n780F0000 00000004\n640F0000 00000000 42C80000\n\n"
+            "content": "[o Infinite Health]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000220\n580F1000 00003570\n780F0000 00000004\n640F0000 00000000 42C80000\n\n",
+            "title": "[o Infinite Health]"
         },
         {
-            "title": "[o Infinite Dark Matter]",
-            "content": "[o Infinite Dark Matter]\n580F0000 05030A18\n580F1000 00000110\n580F1000 00000248\n580F1000 00003570\n780F0000 0000000C\n640F0000 00000000 42C80000\n\n"
+            "content": "[o Infinite Dark Matter]\n580F0000 05030A18\n580F1000 00000110\n580F1000 00000248\n580F1000 00003570\n780F0000 0000000C\n640F0000 00000000 42C80000\n\n",
+            "title": "[o Infinite Dark Matter]"
         },
         {
-            "title": "[o Infinite/Max Fab Chips]",
-            "content": "[o Infinite/Max Fab Chips]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000120\n580F1000 00000000\n780F0000 000022B0\n640F0000 00000000 3B9AC9FF\n\n"
+            "content": "[o Infinite/Max Fab Chips]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000120\n580F1000 00000000\n780F0000 000022B0\n640F0000 00000000 3B9AC9FF\n\n",
+            "title": "[o Infinite/Max Fab Chips]"
         },
         {
-            "title": "[o Infinite/Max Stem Cells]",
-            "content": "[o Infinite/Max Stem Cells]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000120\n580F1000 00000000\n780F0000 000022B4\n640F0000 00000000 3B9AC9FF\n\n"
+            "content": "[o Infinite/Max Stem Cells]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000120\n580F1000 00000000\n780F0000 000022B4\n640F0000 00000000 3B9AC9FF\n\n",
+            "title": "[o Infinite/Max Stem Cells]"
         },
         {
-            "title": "[o Infinite/Max Erubus Tokens]",
-            "content": "[o Infinite/Max Erubus Tokens]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000120\n580F1000 00000000\n780F0000 000022B8\n640F0000 00000000 3B9AC9FF\n\n"
+            "content": "[o Infinite/Max Erubus Tokens]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000120\n580F1000 00000000\n780F0000 000022B8\n640F0000 00000000 3B9AC9FF\n\n",
+            "title": "[o Infinite/Max Erubus Tokens]"
         },
         {
-            "title": "[o Super Fast Run]",
-            "content": "[o Super Fast Run]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000220\n580F1000 00003570\n780F0000 00000018\n640F0000 00000000 44440000\n\n"
+            "content": "[o Super Fast Run]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000220\n580F1000 00003570\n780F0000 00000018\n640F0000 00000000 44440000\n\n",
+            "title": "[o Super Fast Run]"
         },
         {
-            "title": "[o Normal Run]",
-            "content": "[o Normal Run]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000220\n580F1000 00003570\n780F0000 00000018\n640F0000 00000000 42C80000"
+            "content": "[o Normal Run]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000220\n580F1000 00003570\n780F0000 00000018\n640F0000 00000000 42C80000",
+            "title": "[o Normal Run]"
         }
     ]
 }

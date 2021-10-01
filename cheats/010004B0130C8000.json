@@ -1,78 +1,78 @@
 {
     "995E954E8606F40F": [
         {
-            "title": "[Turrican 1 HP]",
-            "content": "[Turrican 1 HP]\n01000000 0121f6f3 00000037\n\n"
+            "content": "[Turrican 1 HP]\n01000000 0121f6f3 00000037\n\n",
+            "title": "[Turrican 1 HP]"
         },
         {
-            "title": "[Turrican 2 HP]",
-            "content": "[Turrican 2 HP]\n01000000 0121f44f 00000037\n\n"
+            "content": "[Turrican 2 HP]\n01000000 0121f44f 00000037\n\n",
+            "title": "[Turrican 2 HP]"
         },
         {
-            "title": "[Mega Turrican HP]",
-            "content": "[Mega Turrican HP]\n01000000 00cde0ae 00000040\n\n"
+            "content": "[Mega Turrican HP]\n01000000 00cde0ae 00000040\n\n",
+            "title": "[Mega Turrican HP]"
         },
         {
-            "title": "[Super Turrican HP]",
-            "content": "[Super Turrican HP]\n01000000 01191e5f 0000000c\n"
+            "content": "[Super Turrican HP]\n01000000 01191e5f 0000000c\n",
+            "title": "[Super Turrican HP]"
         }
     ],
     "E3082DD62EF54F41": [
         {
-            "title": "[Turrican 1 HP]",
-            "content": "[Turrican 1 HP]\n01000000 0124DC03 00000037\n\n"
+            "content": "[Turrican 1 HP]\n01000000 0124DC03 00000037\n\n",
+            "title": "[Turrican 1 HP]"
         },
         {
-            "title": "[Turrican 2 HP]",
-            "content": "[Turrican 2 HP]\n01000000 0124D95F 00000037\n\n"
+            "content": "[Turrican 2 HP]\n01000000 0124D95F 00000037\n\n",
+            "title": "[Turrican 2 HP]"
         },
         {
-            "title": "[Mega Turrican HP]",
-            "content": "[Mega Turrican HP]\n01000000 00D0D204 00000040\n\n"
+            "content": "[Mega Turrican HP]\n01000000 00D0D204 00000040\n\n",
+            "title": "[Mega Turrican HP]"
         },
         {
-            "title": "[Super Turrican HP]",
-            "content": "[Super Turrican HP]\n01000000 00DB02FC 0000000c\n\n"
+            "content": "[Super Turrican HP]\n01000000 00DB02FC 0000000c\n\n",
+            "title": "[Super Turrican HP]"
         },
         {
-            "title": "[Super Turrican Bombs]",
-            "content": "[Super Turrican Bombs]\n01000000 00DB0307 00000003\n\n"
+            "content": "[Super Turrican Bombs]\n01000000 00DB0307 00000003\n\n",
+            "title": "[Super Turrican Bombs]"
         },
         {
-            "title": "[Mega Turrican HP]",
-            "content": "[Mega Turrican HP]\n01000000 00D0D204 00000040\n\n"
+            "content": "[Mega Turrican HP]\n01000000 00D0D204 00000040\n\n",
+            "title": "[Mega Turrican HP]"
         },
         {
-            "title": "[Mega Turrican SP]",
-            "content": "[Mega Turrican SP]\n01000000 00D0D207 00000040\n\n"
+            "content": "[Mega Turrican SP]\n01000000 00D0D207 00000040\n\n",
+            "title": "[Mega Turrican SP]"
         },
         {
-            "title": "[Mega Turrican Bomb]",
-            "content": "[Mega Turrican Bomb]\n01000000 00D0CFF1 00000003\n\n"
+            "content": "[Mega Turrican Bomb]\n01000000 00D0CFF1 00000003\n\n",
+            "title": "[Mega Turrican Bomb]"
         },
         {
-            "title": "[Mega Turrican Lives]",
-            "content": "[Mega Turrican Lives]\n01000000 00d0d20a 00000009\n\n"
+            "content": "[Mega Turrican Lives]\n01000000 00d0d20a 00000009\n\n",
+            "title": "[Mega Turrican Lives]"
         },
         {
-            "title": "[Mega Turrican Time]",
-            "content": "[Mega Turrican Time]\n02000000 00d0d20c 00009909\n\n"
+            "content": "[Mega Turrican Time]\n02000000 00d0d20c 00009909\n\n",
+            "title": "[Mega Turrican Time]"
         },
         {
-            "title": "[X+UP Mega Turrican Weapon 1]",
-            "content": "[X+UP Mega Turrican Weapon 1]\n80002004\n02000000 00D0CFF2 00000200\n20000000\n\n"
+            "content": "[X+UP Mega Turrican Weapon 1]\n80002004\n02000000 00D0CFF2 00000200\n20000000\n\n",
+            "title": "[X+UP Mega Turrican Weapon 1]"
         },
         {
-            "title": "[X+LEFT Mega Turrican Weapon 2]",
-            "content": "[X+LEFT Mega Turrican Weapon 2]\n80001004\n02000000 00D0CFF2 00000204\n20000000\n\n"
+            "content": "[X+LEFT Mega Turrican Weapon 2]\n80001004\n02000000 00D0CFF2 00000204\n20000000\n\n",
+            "title": "[X+LEFT Mega Turrican Weapon 2]"
         },
         {
-            "title": "[X+RIGHT Mega Turrican Weapon 3]",
-            "content": "[X+RIGHT Mega Turrican Weapon 3]\n80004004\n02000000 00D0CFF2 00000208\n20000000\n\n"
+            "content": "[X+RIGHT Mega Turrican Weapon 3]\n80004004\n02000000 00D0CFF2 00000208\n20000000\n\n",
+            "title": "[X+RIGHT Mega Turrican Weapon 3]"
         },
         {
-            "title": "[Mega Turrican A+B Moon Jump]",
-            "content": "[Mega Turrican A+B Moon Jump]\n80000003\n02000000 00D0CFA6 00000000\n02000000 00D0CFB0 00000000\n20000000"
+            "content": "[Mega Turrican A+B Moon Jump]\n80000003\n02000000 00D0CFA6 00000000\n02000000 00D0CFB0 00000000\n20000000",
+            "title": "[Mega Turrican A+B Moon Jump]"
         }
     ]
 }

@@ -1,108 +1,108 @@
 {
     "4E587FE27A463D4C": [
         {
-            "title": "[HP Max - Atmosphere]",
-            "content": "[HP Max - Atmosphere]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000010\n580F1000 00000028\n580F1000 00000030\n780F0000 00000048\n989EF000\n540E1000 00000000\n780F1000 00000004\nA4EF0000\n\n"
+            "content": "[HP Max - Atmosphere]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000010\n580F1000 00000028\n580F1000 00000030\n780F0000 00000048\n989EF000\n540E1000 00000000\n780F1000 00000004\nA4EF0000\n\n",
+            "title": "[HP Max - Atmosphere]"
         },
         {
-            "title": "[HP - SXOS]",
-            "content": "[HP - SXOS]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000010\n580F1000 00000028\n580F1000 00000030\n780F0000 00000044\n640F0000 00000000 00000012\n\n"
+            "content": "[HP - SXOS]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000010\n580F1000 00000028\n580F1000 00000030\n780F0000 00000044\n640F0000 00000000 00000012\n\n",
+            "title": "[HP - SXOS]"
         },
         {
-            "title": "[MP Max - Atmosphere]",
-            "content": "[MP Max - Atmosphere]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000010\n580F1000 00000028\n580F1000 00000030\n780F0000 00000048\n989EF000\n540E1000 00000000\n580F0000 02F6D8A0\n580F1000 00000208\n580F1000 00000C10\n580F1000 00000038\n580F1000 00000030\n580F1000 00000010\n580F1000 00000028\n580F1000 00000010\n580F1000 00000028\n780F0000 000000C8\nA4EF0000\n\n"
+            "content": "[MP Max - Atmosphere]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000010\n580F1000 00000028\n580F1000 00000030\n780F0000 00000048\n989EF000\n540E1000 00000000\n580F0000 02F6D8A0\n580F1000 00000208\n580F1000 00000C10\n580F1000 00000038\n580F1000 00000030\n580F1000 00000010\n580F1000 00000028\n580F1000 00000010\n580F1000 00000028\n780F0000 000000C8\nA4EF0000\n\n",
+            "title": "[MP Max - Atmosphere]"
         },
         {
-            "title": "[MP - SXOS]",
-            "content": "[MP - SXOS]\n580F0000 02F6D8A0\n580F1000 00000208\n580F1000 00000C10\n580F1000 00000038\n580F1000 00000030\n580F1000 00000010\n580F1000 00000028\n580F1000 00000010\n580F1000 00000028\n780F0000 000000C8\n640F0000 00000000 00000012\n\n"
+            "content": "[MP - SXOS]\n580F0000 02F6D8A0\n580F1000 00000208\n580F1000 00000C10\n580F1000 00000038\n580F1000 00000030\n580F1000 00000010\n580F1000 00000028\n580F1000 00000010\n580F1000 00000028\n780F0000 000000C8\n640F0000 00000000 00000012\n\n",
+            "title": "[MP - SXOS]"
         },
         {
-            "title": "[Almas Dinero - Souls Money]",
-            "content": "[Almas Dinero - Souls Money]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000028\n780F0000 00000018\n640F0000 00000000 000F423F\n\n"
+            "content": "[Almas Dinero - Souls Money]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000028\n780F0000 00000018\n640F0000 00000000 000F423F\n\n",
+            "title": "[Almas Dinero - Souls Money]"
         },
         {
-            "title": "[Llaves - Keys]",
-            "content": "[Llaves - Keys]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000028\n780F0000 0000001C\n640F0000 00000000 00000009\n\n"
+            "content": "[Llaves - Keys]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000028\n780F0000 0000001C\n640F0000 00000000 00000009\n\n",
+            "title": "[Llaves - Keys]"
         },
         {
-            "title": "[Almas - Souls]",
-            "content": "[Almas - Souls]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000028\n780F0000 00000020\n640F0000 00000000 00000009\n\n"
+            "content": "[Almas - Souls]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000028\n780F0000 00000020\n640F0000 00000000 00000009\n\n",
+            "title": "[Almas - Souls]"
         },
         {
-            "title": "[Un poco de caos - A bit of chaos]",
-            "content": "[Un poco de caos - A bit of chaos]\n04100000 A8E419E0 00000009\n\n"
+            "content": "[Un poco de caos - A bit of chaos]\n04100000 A8E419E0 00000009\n\n",
+            "title": "[Un poco de caos - A bit of chaos]"
         },
         {
-            "title": "[Bomba de pinchos - Spikey bomb]",
-            "content": "[Bomba de pinchos - Spikey bomb]\n04100000 A8E41900 00000009\n\n"
+            "content": "[Bomba de pinchos - Spikey bomb]\n04100000 A8E41900 00000009\n\n",
+            "title": "[Bomba de pinchos - Spikey bomb]"
         },
         {
-            "title": "[Tarro de ojos - Jar of eyeballs]",
-            "content": "[Tarro de ojos - Jar of eyeballs]\n04100000 A8DD7C40 00000009\n\n"
+            "content": "[Tarro de ojos - Jar of eyeballs]\n04100000 A8DD7C40 00000009\n\n",
+            "title": "[Tarro de ojos - Jar of eyeballs]"
         },
         {
-            "title": "[Monton de mugre - Pile of gunk]",
-            "content": "[Monton de mugre - Pile of gunk]\n04100000 A8E41820 00000009\n\n"
+            "content": "[Monton de mugre - Pile of gunk]\n04100000 A8E41820 00000009\n\n",
+            "title": "[Monton de mugre - Pile of gunk]"
         },
         {
-            "title": "[Partes de robot - Robot parts]",
-            "content": "[Partes de robot - Robot parts]\n04100000 A8E41740 00000009\n\n"
+            "content": "[Partes de robot - Robot parts]\n04100000 A8E41740 00000009\n\n",
+            "title": "[Partes de robot - Robot parts]"
         },
         {
-            "title": "[Dedo podrido - Rotten toe]",
-            "content": "[Dedo podrido - Rotten toe]\n04100000 A8E5D220 00000009\n\n"
+            "content": "[Dedo podrido - Rotten toe]\n04100000 A8E5D220 00000009\n\n",
+            "title": "[Dedo podrido - Rotten toe]"
         },
         {
-            "title": "[Bomba vortice - Vortex bomb]",
-            "content": "[Bomba vortice - Vortex bomb]\n04100000 A8E41660 00000009\n\n"
+            "content": "[Bomba vortice - Vortex bomb]\n04100000 A8E41660 00000009\n\n",
+            "title": "[Bomba vortice - Vortex bomb]"
         },
         {
-            "title": "[Sangre del inocente - Blood of the innocent]",
-            "content": "[Sangre del inocente - Blood of the innocent]\n04100000 A8E5D4F0 00000004\n\n"
+            "content": "[Sangre del inocente - Blood of the innocent]\n04100000 A8E5D4F0 00000004\n\n",
+            "title": "[Sangre del inocente - Blood of the innocent]"
         },
         {
-            "title": "[Esencia de fuego - Essence of fire]",
-            "content": "[Esencia de fuego - Essence of fire]\n04100000 A8D19B40 00000009\n\n"
+            "content": "[Esencia de fuego - Essence of fire]\n04100000 A8D19B40 00000009\n\n",
+            "title": "[Esencia de fuego - Essence of fire]"
         },
         {
-            "title": "[Esencia de hielo - Essence of ice]",
-            "content": "[Esencia de hielo - Essence of ice]\n04100000 A8E41E40 00000009\n\n"
+            "content": "[Esencia de hielo - Essence of ice]\n04100000 A8E41E40 00000009\n\n",
+            "title": "[Esencia de hielo - Essence of ice]"
         },
         {
-            "title": "[Ala de hada - Faerie wing]",
-            "content": "[Ala de hada - Faerie wing]\n04100000 A8E41C80 00000009\n\n"
+            "content": "[Ala de hada - Faerie wing]\n04100000 A8E41C80 00000009\n\n",
+            "title": "[Ala de hada - Faerie wing]"
         },
         {
-            "title": "[Corazon del inocente - Heart of the innocent]",
-            "content": "[Corazon del inocente - Heart of the innocent]\n04100000 A92EFAD0 00000008\n\n"
+            "content": "[Corazon del inocente - Heart of the innocent]\n04100000 A92EFAD0 00000008\n\n",
+            "title": "[Corazon del inocente - Heart of the innocent]"
         },
         {
-            "title": "[Pluma de Fenix - Phoenix feather]",
-            "content": "[Pluma de Fenix - Phoenix feather]\n04100000 A8E41BA0 00000009\n\n"
+            "content": "[Pluma de Fenix - Phoenix feather]\n04100000 A8E41BA0 00000009\n\n",
+            "title": "[Pluma de Fenix - Phoenix feather]"
         },
         {
-            "title": "[Pata de conejo - Rabbits foot]",
-            "content": "[Pata de conejo - Rabbits foot]\n04100000 A8D19A40 00000004\n\n"
+            "content": "[Pata de conejo - Rabbits foot]\n04100000 A8D19A40 00000004\n\n",
+            "title": "[Pata de conejo - Rabbits foot]"
         },
         {
-            "title": "[Medula espinal - Spinal cord]",
-            "content": "[Medula espinal - Spinal cord]\n04100000 A8E41AC0 00000009\n\n"
+            "content": "[Medula espinal - Spinal cord]\n04100000 A8E41AC0 00000009\n\n",
+            "title": "[Medula espinal - Spinal cord]"
         },
         {
-            "title": "[Polvo de hada - Wisp dust]",
-            "content": "[Polvo de hada - Wisp dust]\n04100000 A92EFA00 00000009\n\n"
+            "content": "[Polvo de hada - Wisp dust]\n04100000 A92EFA00 00000009\n\n",
+            "title": "[Polvo de hada - Wisp dust]"
         },
         {
-            "title": "[Totem prismatico - Prismatic totem]",
-            "content": "[Totem prismatico - Prismatic totem]\n04100000 A8DD7B40 00000009\n\n"
+            "content": "[Totem prismatico - Prismatic totem]\n04100000 A8DD7B40 00000009\n\n",
+            "title": "[Totem prismatico - Prismatic totem]"
         },
         {
-            "title": "[Esencia de relampago - Essence of lightning]",
-            "content": "[Esencia de relampago - Essence of lightning]\n04100000 A8E41D60 00000009\n\n"
+            "content": "[Esencia de relampago - Essence of lightning]\n04100000 A8E41D60 00000009\n\n",
+            "title": "[Esencia de relampago - Essence of lightning]"
         },
         {
-            "title": "[Esencia de sombra - Essence of shadow]",
-            "content": "[Esencia de sombra - Essence of shadow]\n04100000 A8E5D400 00000009"
+            "content": "[Esencia de sombra - Essence of shadow]\n04100000 A8E5D400 00000009",
+            "title": "[Esencia de sombra - Essence of shadow]"
         }
     ]
 }

@@ -1,36 +1,36 @@
 {
     "7B4F8C2530BB4564": [
         {
-            "title": "[Lives unlimited]",
-            "content": "[Lives unlimited]\n01100000 0078C093 00000009\n\n"
+            "content": "[Lives unlimited]\n01100000 0078C093 00000009\n\n",
+            "title": "[Lives unlimited]"
         },
         {
-            "title": "[Energy unlimited]",
-            "content": "[Energy unlimited]\n01100000 0078C0AE 00000040\n\n"
+            "content": "[Energy unlimited]\n01100000 0078C0AE 00000040\n\n",
+            "title": "[Energy unlimited]"
         },
         {
-            "title": "[Add Hearts MAX with ZR]",
-            "content": "[Add Hearts MAX with ZR]\n80000200\n01100000 0078C0DA 00000063\n\n"
+            "content": "[Add Hearts MAX with ZR]\n80000200\n01100000 0078C0DA 00000063\n\n",
+            "title": "[Add Hearts MAX with ZR]"
         },
         {
-            "title": "[Infinite Life]",
-            "content": "[Infinite Life]\n011F0000 0078C0AE 00000040\n\n"
+            "content": "[Infinite Life]\n011F0000 0078C0AE 00000040\n\n",
+            "title": "[Infinite Life]"
         },
         {
-            "title": "[Infinite Lives]",
-            "content": "[Infinite Lives]\n011F0000 0078C093 00000065\n\n"
+            "content": "[Infinite Lives]\n011F0000 0078C093 00000065\n\n",
+            "title": "[Infinite Lives]"
         },
         {
-            "title": "[Time Stop (Time 0 = ZL)]",
-            "content": "[Time Stop (Time 0 = ZL)]\n011F0000 0078C0AC 00000099\n011F0000 0078C0AB 00000099\n80000100\n011F0000 0078C0AC 00000000\n011F0000 0078C0AB 00000000\n20000000\n\n"
+            "content": "[Time Stop (Time 0 = ZL)]\n011F0000 0078C0AC 00000099\n011F0000 0078C0AB 00000099\n80000100\n011F0000 0078C0AC 00000000\n011F0000 0078C0AB 00000000\n20000000\n\n",
+            "title": "[Time Stop (Time 0 = ZL)]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n011F0000 0078C0C4 00000020\n\n"
+            "content": "[Invincible]\n011F0000 0078C0C4 00000020\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000001\n011F0000 0078C57D 00000000\n011F0000 0078C545 000000BF\n20000000\n"
+            "content": "[Moon Jump]\n80000001\n011F0000 0078C57D 00000000\n011F0000 0078C545 000000BF\n20000000\n",
+            "title": "[Moon Jump]"
         }
     ]
 }

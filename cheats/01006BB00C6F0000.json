@@ -1,194 +1,194 @@
 {
     "909E904AF78AC1B8": [
         {
-            "title": "[Infinite / Max Hearts Press ZR]",
-            "content": "[Infinite / Max Hearts Press ZR]\n80000200\n01000000 01CC0764 00000050\n20000000\n\n"
+            "content": "[Infinite / Max Hearts Press ZR]\n80000200\n01000000 01CC0764 00000050\n20000000\n\n",
+            "title": "[Infinite / Max Hearts Press ZR]"
         },
         {
-            "title": "[9999 Rupees Press L]",
-            "content": "[9999 Rupees Press L]\n80000040\n02000000 01CC0760 0000270F\n20000000\n\n"
+            "content": "[9999 Rupees Press L]\n80000040\n02000000 01CC0760 0000270F\n20000000\n\n",
+            "title": "[9999 Rupees Press L]"
         },
         {
-            "title": "[Max Magic Powder (Right stick left)]",
-            "content": "[Max Magic Powder (Right stick left)]\n80100000\n01000000 01CC0780 0000001E\n20000000\n\n"
+            "content": "[Max Magic Powder (Right stick left)]\n80100000\n01000000 01CC0780 0000001E\n20000000\n\n",
+            "title": "[Max Magic Powder (Right stick left)]"
         },
         {
-            "title": "[Max Bombs (Right Stick Up)]",
-            "content": "[Max Bombs (Right Stick Up)]\n80200000\n01000000 01CC077E 0000001E\n20000000\n\n"
+            "content": "[Max Bombs (Right Stick Up)]\n80200000\n01000000 01CC077E 0000001E\n20000000\n\n",
+            "title": "[Max Bombs (Right Stick Up)]"
         },
         {
-            "title": "[Infinite Arrows (Right Stick Down)]",
-            "content": "[Infinite Arrows (Right Stick Down)]\n80800000\n01000000 01CC077F 0000001E\n20000000\n\n"
+            "content": "[Infinite Arrows (Right Stick Down)]\n80800000\n01000000 01CC077F 0000001E\n20000000\n\n",
+            "title": "[Infinite Arrows (Right Stick Down)]"
         },
         {
-            "title": "[Have 3/4 Hearts (Press Right Stick)]",
-            "content": "[Have 3/4 Hearts (Press Right Stick)]\n80000020 04000000 01cc0770 0000000F\n20000000\n\n"
+            "content": "[Have 3/4 Hearts (Press Right Stick)]\n80000020 04000000 01cc0770 0000000F\n20000000\n\n",
+            "title": "[Have 3/4 Hearts (Press Right Stick)]"
         },
         {
-            "title": "[Have 3/4 Hearts (Press Left Stick)]",
-            "content": "[Have 3/4 Hearts (Press Left Stick)]\n80000010 04000000 01cc0770 FFFFFFFF\n20000000\n\n"
+            "content": "[Have 3/4 Hearts (Press Left Stick)]\n80000010 04000000 01cc0770 FFFFFFFF\n20000000\n\n",
+            "title": "[Have 3/4 Hearts (Press Left Stick)]"
         },
         {
-            "title": "[Infinite Small Keys]",
-            "content": "[Infinite Small Keys]\n01000000 01cbb300 00000001\n01000000 01cbb310 00000001\n01000000 01cbb320 00000001\n01000000 01cbb330 00000001\n01000000 01cbb340 00000001\n01000000 01cbb350 00000001\n01000000 01cbb360 00000001\n01000000 01cbb370 00000001\n01000000 01cbb380 00000001\n01000000 01cbb3a0 00000001\n01000000 01cbb3c0 00000001\n01000000 01cbb3e0 00000001\n01000000 01cbb420 00000001\n\n\n"
+            "content": "[Infinite Small Keys]\n01000000 01cbb300 00000001\n01000000 01cbb310 00000001\n01000000 01cbb320 00000001\n01000000 01cbb330 00000001\n01000000 01cbb340 00000001\n01000000 01cbb350 00000001\n01000000 01cbb360 00000001\n01000000 01cbb370 00000001\n01000000 01cbb380 00000001\n01000000 01cbb3a0 00000001\n01000000 01cbb3c0 00000001\n01000000 01cbb3e0 00000001\n01000000 01cbb420 00000001\n\n\n",
+            "title": "[Infinite Small Keys]"
         },
         {
-            "title": "[High Jump (ZL) ]",
-            "content": "[High Jump (ZL) ]\n80000100\n580F0000 01CC8B50\n580F1000 00001528\n580F1000 00000928\n580F1000 00000018\n780F0000 000000C8\n640F0000 00000000 C1800000\n20000000\n"
+            "content": "[High Jump (ZL) ]\n80000100\n580F0000 01CC8B50\n580F1000 00001528\n580F1000 00000928\n580F1000 00000018\n780F0000 000000C8\n640F0000 00000000 C1800000\n20000000\n",
+            "title": "[High Jump (ZL) ]"
         }
     ],
     "AE16F71E002AF8CB": [
         {
-            "title": "[Infinite / Max Hearts]",
-            "content": "[Infinite / Max Hearts]\n01000000 01CC0764 00000050\n\n"
+            "content": "[Infinite / Max Hearts]\n01000000 01CC0764 00000050\n\n",
+            "title": "[Infinite / Max Hearts]"
         },
         {
-            "title": "[Infinite Rupees]",
-            "content": "[Infinite Rupees]\n02000000 01CC0760 0000270F\n\n"
+            "content": "[Infinite Rupees]\n02000000 01CC0760 0000270F\n\n",
+            "title": "[Infinite Rupees]"
         },
         {
-            "title": "[Infinite Magic Powder]",
-            "content": "[Infinite Magic Powder]\n01000000 01CC0780 00000014\n\n"
+            "content": "[Infinite Magic Powder]\n01000000 01CC0780 00000014\n\n",
+            "title": "[Infinite Magic Powder]"
         },
         {
-            "title": "[Infinite Bombs]",
-            "content": "[Infinite Bombs]\n01000000 01CC077E 0000000A\n\n"
+            "content": "[Infinite Bombs]\n01000000 01CC077E 0000000A\n\n",
+            "title": "[Infinite Bombs]"
         },
         {
-            "title": "[Infinite Arrows]",
-            "content": "[Infinite Arrows]\n01000000 01CC077F 00000014\n\n"
+            "content": "[Infinite Arrows]\n01000000 01CC077F 00000014\n\n",
+            "title": "[Infinite Arrows]"
         },
         {
-            "title": "[Have 3/4 Hearts (Press ZL+ZR)]",
-            "content": "[Have 3/4 Hearts (Press ZL+ZR)]\n80000300 01000000 01cc0770 0000000F\n20000000\n\n"
+            "content": "[Have 3/4 Hearts (Press ZL+ZR)]\n80000300 01000000 01cc0770 0000000F\n20000000\n\n",
+            "title": "[Have 3/4 Hearts (Press ZL+ZR)]"
         },
         {
-            "title": "[Have Map/Compass/Nightmare Key/Stone Beak]",
-            "content": "[Have Map/Compass/Nightmare Key/Stone Beak]\n01000000 01cbb301 0000000f\n01000000 01cbb311 0000000f\n01000000 01cbb321 0000000f\n01000000 01cbb331 0000000f\n01000000 01cbb341 0000000f\n01000000 01cbb351 0000000f\n01000000 01cbb361 0000000f\n01000000 01cbb371 0000000f\n01000000 01cbb381 0000000f\n01000000 01cbb3a1 0000000f\n01000000 01cbb3c1 0000000f\n01000000 01cbb3e1 0000000f\n01000000 01cbb421 0000000f\n\n"
+            "content": "[Have Map/Compass/Nightmare Key/Stone Beak]\n01000000 01cbb301 0000000f\n01000000 01cbb311 0000000f\n01000000 01cbb321 0000000f\n01000000 01cbb331 0000000f\n01000000 01cbb341 0000000f\n01000000 01cbb351 0000000f\n01000000 01cbb361 0000000f\n01000000 01cbb371 0000000f\n01000000 01cbb381 0000000f\n01000000 01cbb3a1 0000000f\n01000000 01cbb3c1 0000000f\n01000000 01cbb3e1 0000000f\n01000000 01cbb421 0000000f\n\n",
+            "title": "[Have Map/Compass/Nightmare Key/Stone Beak]"
         },
         {
-            "title": "[Infinite Small Keys]",
-            "content": "[Infinite Small Keys]\n01000000 01cbb300 00000001\n01000000 01cbb310 00000001\n01000000 01cbb320 00000001\n01000000 01cbb330 00000001\n01000000 01cbb340 00000001\n01000000 01cbb350 00000001\n01000000 01cbb360 00000001\n01000000 01cbb370 00000001\n01000000 01cbb380 00000001\n01000000 01cbb3a0 00000001\n01000000 01cbb3c0 00000001\n01000000 01cbb3e0 00000001\n01000000 01cbb420 00000001\n\n"
+            "content": "[Infinite Small Keys]\n01000000 01cbb300 00000001\n01000000 01cbb310 00000001\n01000000 01cbb320 00000001\n01000000 01cbb330 00000001\n01000000 01cbb340 00000001\n01000000 01cbb350 00000001\n01000000 01cbb360 00000001\n01000000 01cbb370 00000001\n01000000 01cbb380 00000001\n01000000 01cbb3a0 00000001\n01000000 01cbb3c0 00000001\n01000000 01cbb3e0 00000001\n01000000 01cbb420 00000001\n\n",
+            "title": "[Infinite Small Keys]"
         },
         {
-            "title": "[  Yoshi Doll]",
-            "content": "[  Yoshi Doll]\n01000000 01cc077a 00000001\n\n"
+            "content": "[  Yoshi Doll]\n01000000 01cc077a 00000001\n\n",
+            "title": "[  Yoshi Doll]"
         },
         {
-            "title": "[  Ribbon]",
-            "content": "[  Ribbon]\n01000000 01cc077a 00000002\n\n"
+            "content": "[  Ribbon]\n01000000 01cc077a 00000002\n\n",
+            "title": "[  Ribbon]"
         },
         {
-            "title": "[  Dog Food]",
-            "content": "[  Dog Food]\n01000000 01cc077a 00000003\n\n"
+            "content": "[  Dog Food]\n01000000 01cc077a 00000003\n\n",
+            "title": "[  Dog Food]"
         },
         {
-            "title": "[  Bananas]",
-            "content": "[  Bananas]\n01000000 01cc077a 00000004\n\n"
+            "content": "[  Bananas]\n01000000 01cc077a 00000004\n\n",
+            "title": "[  Bananas]"
         },
         {
-            "title": "[  Stick]",
-            "content": "[  Stick]\n01000000 01cc077a 00000005\n\n"
+            "content": "[  Stick]\n01000000 01cc077a 00000005\n\n",
+            "title": "[  Stick]"
         },
         {
-            "title": "[  Honeycomb]",
-            "content": "[  Honeycomb]\n01000000 01cc077a 00000006\n\n"
+            "content": "[  Honeycomb]\n01000000 01cc077a 00000006\n\n",
+            "title": "[  Honeycomb]"
         },
         {
-            "title": "[  Pineapple]",
-            "content": "[  Pineapple]\n01000000 01cc077a 00000007\n\n"
+            "content": "[  Pineapple]\n01000000 01cc077a 00000007\n\n",
+            "title": "[  Pineapple]"
         },
         {
-            "title": "[  Hibiscus]",
-            "content": "[  Hibiscus]\n01000000 01cc077a 00000008\n\n"
+            "content": "[  Hibiscus]\n01000000 01cc077a 00000008\n\n",
+            "title": "[  Hibiscus]"
         },
         {
-            "title": "[  Goat's Letter]",
-            "content": "[  Goat's Letter]\n01000000 01cc077a 00000009\n\n"
+            "content": "[  Goat's Letter]\n01000000 01cc077a 00000009\n\n",
+            "title": "[  Goat's Letter]"
         },
         {
-            "title": "[  Broom]",
-            "content": "[  Broom]\n01000000 01cc077a 0000000a\n\n"
+            "content": "[  Broom]\n01000000 01cc077a 0000000a\n\n",
+            "title": "[  Broom]"
         },
         {
-            "title": "[  Fishing Hook]",
-            "content": "[  Fishing Hook]\n01000000 01cc077a 0000000b\n\n"
+            "content": "[  Fishing Hook]\n01000000 01cc077a 0000000b\n\n",
+            "title": "[  Fishing Hook]"
         },
         {
-            "title": "[  Necklace]",
-            "content": "[  Necklace]\n01000000 01cc077a 0000000c\n\n"
+            "content": "[  Necklace]\n01000000 01cc077a 0000000c\n\n",
+            "title": "[  Necklace]"
         },
         {
-            "title": "[  Mermaid's Scale]",
-            "content": "[  Mermaid's Scale]\n01000000 01cc077a 0000000d\n\n"
+            "content": "[  Mermaid's Scale]\n01000000 01cc077a 0000000d\n\n",
+            "title": "[  Mermaid's Scale]"
         },
         {
-            "title": "[  Magnifying Lense]",
-            "content": "[  Magnifying Lense]\n01000000 01cc077a 0000000e\n\n"
+            "content": "[  Magnifying Lense]\n01000000 01cc077a 0000000e\n\n",
+            "title": "[  Magnifying Lense]"
         },
         {
-            "title": "[  CiaoCiao Figure]",
-            "content": "[  CiaoCiao Figure]\n01000000 01CC07c8 00000001\n\n"
+            "content": "[  CiaoCiao Figure]\n01000000 01CC07c8 00000001\n\n",
+            "title": "[  CiaoCiao Figure]"
         },
         {
-            "title": "[  Goomba Figure]",
-            "content": "[  Goomba Figure]\n01000000 01CC07c8 00000002\n\n"
+            "content": "[  Goomba Figure]\n01000000 01CC07c8 00000002\n\n",
+            "title": "[  Goomba Figure]"
         },
         {
-            "title": "[  Spiny Figure]",
-            "content": "[  Spiny Figure]\n01000000 01CC07c8 00000004\n\n"
+            "content": "[  Spiny Figure]\n01000000 01CC07c8 00000004\n\n",
+            "title": "[  Spiny Figure]"
         },
         {
-            "title": "[  Boo Figure]",
-            "content": "[  Boo Figure]\n01000000 01CC07c8 00000008\n\n"
+            "content": "[  Boo Figure]\n01000000 01CC07c8 00000008\n\n",
+            "title": "[  Boo Figure]"
         },
         {
-            "title": "[  Cheep Cheep Figure]",
-            "content": "[  Cheep Cheep Figure]\n01000000 01CC07c8 00000010\n\n"
+            "content": "[  Cheep Cheep Figure]\n01000000 01CC07c8 00000010\n\n",
+            "title": "[  Cheep Cheep Figure]"
         },
         {
-            "title": "[  Blooper Figure]",
-            "content": "[  Blooper Figure]\n01000000 01CC07c8 00000020\n\n"
+            "content": "[  Blooper Figure]\n01000000 01CC07c8 00000020\n\n",
+            "title": "[  Blooper Figure]"
         },
         {
-            "title": "[  Shy Guy Figure]",
-            "content": "[  Shy Guy Figure]\n01000000 01CC07c8 00000040\n\n"
+            "content": "[  Shy Guy Figure]\n01000000 01CC07c8 00000040\n\n",
+            "title": "[  Shy Guy Figure]"
         },
         {
-            "title": "[  Piranha Plant Figure]",
-            "content": "[  Piranha Plant Figure]\n01000000 01CC07c8 00000080\n\n"
+            "content": "[  Piranha Plant Figure]\n01000000 01CC07c8 00000080\n\n",
+            "title": "[  Piranha Plant Figure]"
         },
         {
-            "title": "[  Pokey Figure]",
-            "content": "[  Pokey Figure]\n02000000 01CC07c8 00000100\n\n"
+            "content": "[  Pokey Figure]\n02000000 01CC07c8 00000100\n\n",
+            "title": "[  Pokey Figure]"
         },
         {
-            "title": "[  BowWow Figure]",
-            "content": "[  BowWow Figure]\n02000000 01CC07c8 00000200\n\n"
+            "content": "[  BowWow Figure]\n02000000 01CC07c8 00000200\n\n",
+            "title": "[  BowWow Figure]"
         },
         {
-            "title": "[Invincible/Not working restart the game]",
-            "content": "[Invincible/Not working restart the game]\n581F0000 00a2fcd0\n780F0000 00001ea0\n640F0000 00000000 40000000\n\n"
+            "content": "[Invincible/Not working restart the game]\n581F0000 00a2fcd0\n780F0000 00001ea0\n640F0000 00000000 40000000\n\n",
+            "title": "[Invincible/Not working restart the game]"
         },
         {
-            "title": "[0 Retries death counter]",
-            "content": "[0 Retries death counter]\n01000000 01cc05a4 00000000\n\n"
+            "content": "[0 Retries death counter]\n01000000 01cc05a4 00000000\n\n",
+            "title": "[0 Retries death counter]"
         },
         {
-            "title": "[High Jump (ZL) ]",
-            "content": "[High Jump (ZL) ]\n80000100\n580F0000 01CC8B50\n580F1000 00001528\n580F1000 00000928\n580F1000 00000018\n780F0000 000000C8\n640F0000 00000000 C1800000\n20000000\n\n"
+            "content": "[High Jump (ZL) ]\n80000100\n580F0000 01CC8B50\n580F1000 00001528\n580F1000 00000928\n580F1000 00000018\n780F0000 000000C8\n640F0000 00000000 C1800000\n20000000\n\n",
+            "title": "[High Jump (ZL) ]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n580F0000 01CC8B50\n580F1000 000014C0\n580F1000 00001710\n780F0000 000007F0\n640F0000 00000000 40000000\n\n"
+            "content": "[Invincible]\n580F0000 01CC8B50\n580F1000 000014C0\n580F1000 00001710\n780F0000 000007F0\n640F0000 00000000 40000000\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Invincible On]",
-            "content": "[Invincible On]\n04000000 00D4C690 D65F03C0\n\n"
+            "content": "[Invincible On]\n04000000 00D4C690 D65F03C0\n\n",
+            "title": "[Invincible On]"
         },
         {
-            "title": "[Invincible Off]",
-            "content": "[Invincible Off]\n04000000 00D4C690 D10143FF\n "
+            "content": "[Invincible Off]\n04000000 00D4C690 D10143FF\n ",
+            "title": "[Invincible Off]"
         }
     ]
 }

@@ -1,1068 +1,1068 @@
 {
     "0496D4B4C6AE1CF4": [
         {
-            "title": "[hit anywhere on]",
-            "content": "[hit anywhere on]\n04000000 00092584 D503201F\n\n"
+            "content": "[hit anywhere on]\n04000000 00092584 D503201F\n\n",
+            "title": "[hit anywhere on]"
         },
         {
-            "title": "[hit anywhere off ZR]",
-            "content": "[hit anywhere off ZR]\n80000200\n04000000 00092584 1e222860\n20000000\n\n"
+            "content": "[hit anywhere off ZR]\n80000200\n04000000 00092584 1e222860\n20000000\n\n",
+            "title": "[hit anywhere off ZR]"
         },
         {
-            "title": "[1p inf heath]",
-            "content": "[1p inf heath]\n04000000 000105B0 1E37F009\n\n"
+            "content": "[1p inf heath]\n04000000 000105B0 1E37F009\n\n",
+            "title": "[1p inf heath]"
         },
         {
-            "title": "[1p atack modific damager 31x]",
-            "content": "[1p atack modific damager 31x]\n04000000 000109F8 1E27F009\n\n"
+            "content": "[1p atack modific damager 31x]\n04000000 000109F8 1E27F009\n\n",
+            "title": "[1p atack modific damager 31x]"
         },
         {
-            "title": "[1p speed normal attack]",
-            "content": "[1p speed normal attack]\n04000000 000AAD60 1E2E1000\n\n"
+            "content": "[1p speed normal attack]\n04000000 000AAD60 1E2E1000\n\n",
+            "title": "[1p speed normal attack]"
         },
         {
-            "title": "[1p 2x speed attack]",
-            "content": "[1p 2x speed attack]\n04000000 000AAD60 1E201000\n\n"
+            "content": "[1p 2x speed attack]\n04000000 000AAD60 1E201000\n\n",
+            "title": "[1p 2x speed attack]"
         },
         {
-            "title": "[1p 3x speed attack]",
-            "content": "[1p 3x speed attack]\n04000000 000AAD60 1E211000\n\n"
+            "content": "[1p 3x speed attack]\n04000000 000AAD60 1E211000\n\n",
+            "title": "[1p 3x speed attack]"
         },
         {
-            "title": "[1p 10x speed attack]",
-            "content": "[1p 10x speed attack]\n04000000 000AAD60 1E249000\n\n"
+            "content": "[1p 10x speed attack]\n04000000 000AAD60 1E249000\n\n",
+            "title": "[1p 10x speed attack]"
         },
         {
-            "title": "[Infinite Rupees (sets to 99,999)]",
-            "content": "[Infinite Rupees (sets to 99,999)]\n041F0000 48954D64 0001869F"
-        }
-    ],
-    "5A982FA25220E4DF": [
-        {
-            "title": "[inf hp link @made by arismendy64 on gbatemp]",
-            "content": "[inf hp link @made by arismendy64 on gbatemp]\n580F0000 02515630\n780F0000 001744B4\n640F0000 00000000 46D48000\n\n"
-        },
-        {
-            "title": "[Rupees x9999999 @made by CJB]",
-            "content": "[Rupees x9999999 @made by CJB]\n04100000 487E73A4 0098967F\n\n"
-        },
-        {
-            "title": "[9999 materials @made by arismendy64]",
-            "content": "[9999 materials @made by arismendy64]\n580F0000 02515600\n580F1000 000001C8\n580F1000 00000030\n780F0000 00000290\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n\n"
-        },
-        {
-            "title": "[Korok Seeds x9999@CJB]",
-            "content": "[Korok Seeds x9999@CJB]\n02100000 487E76C6 0000270F\n01100000 487E79F6 00000001\n\n"
-        },
-        {
-            "title": "[Terrako Comp. x9999@CJB]",
-            "content": "[Terrako Comp. x9999@CJB]\n02100000 487E76C8 0000270F\n01100000 487E79F7 00000001\n\n"
-        },
-        {
-            "title": "[Etheral Stone x9999@CJB]",
-            "content": "[Etheral Stone x9999@CJB]\n02100000 487E76CC 0000270F\n01100000 487E79F9 00000001\n\n"
-        },
-        {
-            "title": "[Fruit Items x9999@CJB]",
-            "content": "[Fruit Items x9999@CJB]\n08100000 487E75A2 270F270F 270F270F\n04100000 487E75AA 270F270F\n04100000 487E7964 01010101\n02100000 487E7968 00000101\n\n"
-        },
-        {
-            "title": "[Mushroom Items x9999@CJB]",
-            "content": "[Mushroom Items x9999@CJB]\n08100000 487E75AE 270F270F 270F270F\n08100000 487E75B6 270F270F 270F270F\n08100000 487E75BE 270F270F 270F270F\n08100000 487E796A 01010101 01010101\n04100000 487E7972 01010101\n\n"
-        },
-        {
-            "title": "[Flower Items x9999@CJB]",
-            "content": "[Flower Items x9999@CJB]\n08100000 487E75C6 270F270F 270F270F\n08100000 487E75CE 270F270F 270F270F\n08100000 487E75D6 270F270F 270F270F\n04100000 487E75DE 270F270F\n08100000 487E7976 01010101 01010101\n04100000 487E797E 01010101\n02100000 487E7982 00000101\n02100000 487E76C4 0000270F\n01100000 487E79F5 00000001\n\n"
-        },
-        {
-            "title": "[Meat Items x9999@CJB]",
-            "content": "[Meat Items x9999@CJB]\n08100000 487E75E2 270F270F 270F270F\n04100000 487E75EA 270F270F\n04100000 487E7984 01010101\n02100000 487E7988 00000101\n\n"
-        },
-        {
-            "title": "[Ingredient Items x9999@CJB]",
-            "content": "[Ingredient Items x9999@CJB]\n08100000 487E75EE 270F270F 270F270F\n08100000 487E75F6 270F270F 270F270F\n08100000 487E75FE 270F270F 270F270F\n02100000 487E7606 0000270F\n08100000 487E798A 01010101 01010101\n04100000 487E7992 01010101\n01100000 487E7996 00000001\n\n"
-        },
-        {
-            "title": "[Fish Items x9999@CJB]",
-            "content": "[Fish Items x9999@CJB]\n08100000 487E7620 270F270F 270F270F\n08100000 487E7628 270F270F 270F270F\n08100000 487E7630 270F270F 270F270F\n08100000 487E7638 270F270F 270F270F\n04100000 487E7640 270F270F\n08100000 487E79A3 01010101 01010101\n08100000 487E79AB 01010101 01010101\n02100000 487E79B3 00000101\n\n"
-        },
-        {
-            "title": "[Bug Items x9999@CJB]",
-            "content": "[Bug Items x9999@CJB]\n08100000 487E7644 270F270F 270F270F\n08100000 487E764C 270F270F 270F270F\n08100000 487E7654 270F270F 270F270F\n08100000 487E765C 270F270F 270F270F\n04100000 487E7664 270F270F\n08100000 487E79B5 01010101 01010101\n08100000 487E79BD 01010101 01010101\n02100000 487E79C5 00000101\n\n"
-        },
-        {
-            "title": "[Mineral Items x9999@CJB]",
-            "content": "[Mineral Items x9999@CJB]\n08100000 487E7668 270F270F 270F270F\n08100000 487E7670 270F270F 270F270F\n08100000 487E79C7 01010101 01010101\n\n"
-        },
-        {
-            "title": "[Monster Items x9999@CJB]",
-            "content": "[Monster Items x9999@CJB]\n08100000 487E7678 270F270F 270F270F\n08100000 487E7680 270F270F 270F270F\n08100000 487E7688 270F270F 270F270F\n08100000 487E7690 270F270F 270F270F\n08100000 487E7698 270F270F 270F270F\n08100000 487E76A0 270F270F 270F270F\n08100000 487E76A8 270F270F 270F270F\n08100000 487E76B0 270F270F 270F270F\n08100000 487E79CF 01010101 01010101\n08100000 487E79D7 01010101 01010101\n08100000 487E79DF 01010101 01010101\n08100000 487E79E7 01010101 01010101\n\n"
-        },
-        {
-            "title": "[Ancient Items x9999@CJB]",
-            "content": "[Ancient Items x9999@CJB]\n08100000 487E76B8 270F270F 270F270F\n04100000 487E76C0 270F270F\n04100000 487E79EF 01010101\n02100000 487E79F3 00000101\n\n"
-        },
-        {
-            "title": "[Trophy Items x9999@CJB]",
-            "content": "[Trophy Items x9999@CJB]\n08100000 487E76CE 270F270F 270F270F\n08100000 487E76D6 270F270F 270F270F\n08100000 487E76DE 270F270F 270F270F\n02100000 487E76E6 0000270F\n08100000 487E79FA 01010101 01010101\n04100000 487E7A02 01010101\n01100000 487E7A06 00000001\n\n"
-        },
-        {
-            "title": "[No accessory reduction @91wii]",
-            "content": "[No accessory reduction @91wii]\n040B0000 00B85E88 5280000E\n"
-        },
-        {
-            "title": "[Rupee not reduced @91wii]",
-            "content": "[Rupee not reduced @91wii]\n040B0000 00B7018C 4B1F0129\n040B0000 00B77014 4B1F0148\n040B0000 00BB6160 4B1F0149\n040B0000 00BC1E34 4B1F0149\n040B0000 00BC9D74 4B1F0149\n040B0000 00BD5A2C 4B1F0148\n"
-        },
-        {
-            "title": "[Experience value 4 times @91wii]",
-            "content": "[Experience value 4 times @91wii]\n040B0000 01960400 1E22100F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n"
-        },
-        {
-            "title": "[Experience value 8 times @91wii]",
-            "content": "[Experience value 8 times @91wii]\n040B0000 01960400 1E24100F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n"
-        },
-        {
-            "title": "[Experience value 16 times @91wii]",
-            "content": "[Experience value 16 times @91wii]\n040B0000 01960400 1E26100F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n"
-        },
-        {
-            "title": "[Experience value 30 times @(Kaito B) from 91wii]",
-            "content": "[Experience value 30 times @(Kaito B) from 91wii]\n040B0000 01960400 1E27D00F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n"
-        },
-        {
-            "title": "[KO number 5 times @91wii]",
-            "content": "[KO number 5 times @91wii]\n040B0000 0063F7CC 1100154B\n040B0000 0063F7D4 1A8B26AA\n"
-        },
-        {
-            "title": "[KO number 10 times @(Kaito B) from 91wii]",
-            "content": "[KO number 10 times @(Kaito B) from 91wii]\n040B0000 0063F7CC 1100294B\n040B0000 0063F7D4 1A8B26AA\n"
-        },
-        {
-            "title": "[KO number 20 times @(Kaito B) from 91wii]",
-            "content": "[KO number 20 times @(Kaito B) from 91wii]\n040B0000 0063F7CC 1100514B\n040B0000 0063F7D4 1A8B26AA\n"
-        },
-        {
-            "title": "[Store inventory max @91wii]",
-            "content": "[Store inventory max @91wii]\n040B0000 00B6FF28 782A69CC\n"
-        },
-        {
-            "title": "[Movement speed 1.5 times @(Kaito B) from 91wii]",
-            "content": "[Movement speed 1.5 times @(Kaito B) from 91wii]\n040B0000 01960410 1E2F1005\n040B0000 01960414 1E250821\n040B0000 01960418 1E210800\n040B0000 0196041C D65F03C0\n040B0000 001256EC 9460EB49\n040B0000 0012577C 9460EB25\n040B0000 0012580C 9460EB01\n040B0000 0012589C 9460EADD\n"
-        },
-        {
-            "title": "[Movement speed 2 times @(Kaito B) from 91wii]",
-            "content": "[Movement speed 2 times @(Kaito B) from 91wii]\n040B0000 01960410 1E201005\n040B0000 01960414 1E250821\n040B0000 01960418 1E210800\n040B0000 0196041C D65F03C0\n040B0000 001256EC 9460EB49\n040B0000 0012577C 9460EB25\n040B0000 0012580C 9460EB01\n040B0000 0012589C 9460EADD\n"
-        },
-        {
-            "title": "[Movement speed 3 times @(Kaito B) from 91wii]",
-            "content": "[Movement speed 3 times @(Kaito B) from 91wii]\n040B0000 01960410 1E211005\n040B0000 01960414 1E250821\n040B0000 01960418 1E210800\n040B0000 0196041C D65F03C0\n040B0000 001256EC 9460EB49\n040B0000 0012577C 9460EB25\n040B0000 0012580C 9460EB01\n040B0000 0012589C 9460EADD\n\n"
-        },
-        {
-            "title": "[Infinite Ice @(Kaito B) from 91wii]",
-            "content": "[Infinite Ice @(Kaito B) from 91wii]\n04100000 4A573846 0000270F\n\n"
-        },
-        {
-            "title": "[Infinite Fire @(Kaito B) from 91wii]",
-            "content": "[Infinite Fire @(Kaito B) from 91wii]\n04100000 4A573840 0000270F\n\n"
-        },
-        {
-            "title": "[Infinite Lightning @(Kaito B) from 91wii]",
-            "content": "[Infinite Lightning @(Kaito B) from 91wii]\n04100000 4A573848 0000270F\n\n"
-        },
-        {
-            "title": "[Have Experience Multiple @(Kaito B) from 91wii]",
-            "content": "[Have Experience Multiple @(Kaito B) from 91wii]\n040B0000 01960400 1E27D00F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n\n"
-        },
-        {
-            "title": "[Have Kill KO Number Multi Kill @(Kaito B) from 91wii]",
-            "content": "[Have Kill KO Number Multi Kill @(Kaito B) from 91wii]\n040B0000 0063F7CC 1100514B\n040B0000 0063F7D4 1A8B26AA\n\n"
-        },
-        {
-            "title": "[Store inventory Maximum @(Kaito B) from 91wii]",
-            "content": "[Store inventory Maximum @(Kaito B) from 91wii]\n040B0000 00B6FF28 782A69CC\n\n"
-        },
-        {
-            "title": "[Fast Moving Player Speed (like HERO The FLASH) @(Kaito B) from 91wii]",
-            "content": "[Fast Moving Player Speed (like HERO The FLASH) @(Kaito B) from 91wii]\n040B0000 01960410 1E211005\n040B0000 01960414 1E250821\n040B0000 01960418 1E210800\n040B0000 0196041C D65F03C0\n040B0000 001256EC 9460EB49\n040B0000 0012577C 9460EB25\n040B0000 0012580C 9460EB01\n040B0000 0012589C 9460EADD\n\n"
-        },
-        {
-            "title": "[Unlimited Items Have @(Kaito B) from 91wii]",
-            "content": "[Unlimited Items Have @(Kaito B) from 91wii]\n040B0000 00B86074 0B0E0189\n\n"
-        },
-        {
-            "title": "[Infinite Spoils (All Slots) made by @Spiderman]",
-            "content": "[Infinite Spoils (All Slots) made by @Spiderman]\n08100000 4870837c 270F270F 270F270F\n08100000 48708384 270F270F 270F270F\n08100000 4870838c 270F270F 270F270F\n08100000 48708394 270F270F 270F270F\n08100000 4870839a 270F270F 270F270F\n08100000 487083a2 270F270F 270F270F\n08100000 487083aa 270F270F 270F270F\n08100000 487083b2 270F270F 270F270F\n08100000 487083ba 270F270F 270F270F\n08100000 487083c2 270F270F 270F270F\n08100000 487083ca 270F270F 270F270F\n\n"
-        },
-        {
-            "title": "[Wear Hylian Armor Set @CJB]",
-            "content": "[Wear Hylian Armor Set @CJB]\n01100000 487E5E56 00000002\n01100000 487E5E57 00000002\n01100000 487E5E58 00000002\n\n"
-        },
-        {
-            "title": "[Wear Stealth Armor Set @CJB]",
-            "content": "[Wear Stealth Armor Set @CJB]\n01100000 487E5E56 00000003\n01100000 487E5E57 00000003\n01100000 487E5E58 00000003\n\n"
-        },
-        {
-            "title": "[Wear Soldier Armor Set @CJB]",
-            "content": "[Wear Soldier Armor Set @CJB]\n01100000 487E5E56 00000004\n01100000 487E5E57 00000004\n01100000 487E5E58 00000004\n\n"
-        },
-        {
-            "title": "[Wear Snowquill Armor Set @CJB]",
-            "content": "[Wear Snowquill Armor Set @CJB]\n01100000 487E5E56 00000005\n01100000 487E5E57 00000005\n01100000 487E5E58 00000005\n\n"
-        },
-        {
-            "title": "[Wear Gerudo Armor Set @CJB]",
-            "content": "[Wear Gerudo Armor Set @CJB]\n01100000 487E5E56 00000006\n01100000 487E5E57 00000006\n01100000 487E5E58 00000006\n\n"
-        },
-        {
-            "title": "[Wear Desert Voe Armor Set @CJB]",
-            "content": "[Wear Desert Voe Armor Set @CJB]\n01100000 487E5E56 00000007\n01100000 487E5E57 00000007\n01100000 487E5E58 00000007\n\n"
-        },
-        {
-            "title": "[Wear Radiant Armor Set @CJB]",
-            "content": "[Wear Radiant Armor Set @CJB]\n01100000 487E5E56 00000008\n01100000 487E5E57 00000008\n01100000 487E5E58 00000008\n\n"
-        },
-        {
-            "title": "[Wear Flamebreaker Armor Set @CJB]",
-            "content": "[Wear Flamebreaker Armor Set @CJB]\n01100000 487E5E56 00000009\n01100000 487E5E57 00000009\n01100000 487E5E58 00000009\n\n"
-        },
-        {
-            "title": "[Wear Zora Armor Set @CJB]",
-            "content": "[Wear Zora Armor Set @CJB]\n01100000 487E5E56 0000000A\n01100000 487E5E57 0000000A\n01100000 487E5E58 0000000A\n\n"
-        },
-        {
-            "title": "[Wear Ancient Armor Set @CJB]",
-            "content": "[Wear Ancient Armor Set @CJB]\n01100000 487E5E56 0000000B\n01100000 487E5E57 0000000B\n01100000 487E5E58 0000000B\n\n"
-        },
-        {
-            "title": "[Wear Climber Armor Set @CJB]",
-            "content": "[Wear Climber Armor Set @CJB]\n01100000 487E5E56 0000000C\n01100000 487E5E57 0000000C\n01100000 487E5E58 0000000C\n\n"
-        },
-        {
-            "title": "[Wear Rubber Armor Set @CJB]",
-            "content": "[Wear Rubber Armor Set @CJB]\n01100000 487E5E56 0000000D\n01100000 487E5E57 0000000D\n01100000 487E5E58 0000000D\n\n"
-        },
-        {
-            "title": "[Wear Barbarian Armor Set @CJB]",
-            "content": "[Wear Barbarian Armor Set @CJB]\n01100000 487E5E56 0000000E\n01100000 487E5E57 0000000E\n01100000 487E5E58 0000000E\n\n"
-        },
-        {
-            "title": "[Wear Tunic of the Wild Armor Set @CJB]",
-            "content": "[Wear Tunic of the Wild Armor Set @CJB]\n01100000 487E5E56 0000000F\n01100000 487E5E57 0000000F\n01100000 487E5E58 0000000F\n\n"
-        },
-        {
-            "title": "[Wear Dark Link Armor Set @CJB]",
-            "content": "[Wear Dark Link Armor Set @CJB]\n01100000 487E5E56 00000010\n01100000 487E5E57 00000010\n01100000 487E5E58 00000010\n\n"
-        },
-        {
-            "title": "[Wear Hyrule Warrior Armor Set @CJB]",
-            "content": "[Wear Hyrule Warrior Armor Set @CJB]\n01100000 487E5E56 00000011\n01100000 487E5E57 00000011\n01100000 487E5E58 00000011\n\n"
-        },
-        {
-            "title": "[Rupees x9999999 @CJB]",
-            "content": "[Rupees x9999999 @CJB]\n04100000 487E73A4 0098967F\n\n"
-        },
-        {
-            "title": "[Korok Seeds x9999 @CJB]",
-            "content": "[Korok Seeds x9999 @CJB]\n02100000 487E76C6 0000270F\n01100000 487E79F6 00000001\n\n"
-        },
-        {
-            "title": "[Terrako Comp. x9999 @CJB]",
-            "content": "[Terrako Comp. x9999 @CJB]\n02100000 487E76C8 0000270F\n01100000 487E79F7 00000001\n\n"
-        },
-        {
-            "title": "[Etheral Stone x9999 @CJB]",
-            "content": "[Etheral Stone x9999 @CJB]\n02100000 487E76CC 0000270F\n01100000 487E79F9 00000001\n\n"
-        },
-        {
-            "title": "[Fruit Items x9999 @CJB]",
-            "content": "[Fruit Items x9999 @CJB]\n02100000 487E75A0 0000270F\n01100000 487E7963 00000001\n08100000 487E75A2 270F270F 270F270F\n04100000 487E75AA 270F270F\n04100000 487E7964 01010101\n02100000 487E7968 00000101\n02100000 487E76E8 0000270F\n01100000 487E7A07 00000001\n\n"
-        },
-        {
-            "title": "[Mushroom Items x9999 @CJB]",
-            "content": "[Mushroom Items x9999 @CJB]\n08100000 487E75AE 270F270F 270F270F\n08100000 487E75B6 270F270F 270F270F\n08100000 487E75BE 270F270F 270F270F\n08100000 487E796A 01010101 01010101\n04100000 487E7972 01010101\n\n"
-        },
-        {
-            "title": "[Flower Items x9999 @CJB]",
-            "content": "[Flower Items x9999 @CJB]\n08100000 487E75C6 270F270F 270F270F\n08100000 487E75CE 270F270F 270F270F\n08100000 487E75D6 270F270F 270F270F\n04100000 487E75DE 270F270F\n08100000 487E7976 01010101 01010101\n04100000 487E797E 01010101\n02100000 487E7982 00000101\n02100000 487E76C4 0000270F\n01100000 487E79F5 00000001\n\n"
-        },
-        {
-            "title": "[Meat Items x9999 @CJB]",
-            "content": "[Meat Items x9999 @CJB]\n08100000 487E75E2 270F270F 270F270F\n04100000 487E75EA 270F270F\n04100000 487E7984 01010101\n02100000 487E7988 00000101\n\n"
-        },
-        {
-            "title": "[Ingredient Items x9999 @CJB]",
-            "content": "[Ingredient Items x9999 @CJB]\n08100000 487E75EE 270F270F 270F270F\n08100000 487E75F6 270F270F 270F270F\n08100000 487E75FE 270F270F 270F270F\n02100000 487E7606 0000270F\n08100000 487E798A 01010101 01010101\n04100000 487E7992 01010101\n01100000 487E7996 00000001\n\n"
-        },
-        {
-            "title": "[Fish Items x9999 @CJB]",
-            "content": "[Fish Items x9999 @CJB]\n08100000 487E7620 270F270F 270F270F\n08100000 487E7628 270F270F 270F270F\n08100000 487E7630 270F270F 270F270F\n08100000 487E7638 270F270F 270F270F\n04100000 487E7640 270F270F\n08100000 487E79A3 01010101 01010101\n08100000 487E79AB 01010101 01010101\n02100000 487E79B3 00000101\n\n"
-        },
-        {
-            "title": "[Bug Items x9999 @CJB]",
-            "content": "[Bug Items x9999 @CJB]\n08100000 487E7644 270F270F 270F270F\n08100000 487E764C 270F270F 270F270F\n08100000 487E7654 270F270F 270F270F\n08100000 487E765C 270F270F 270F270F\n04100000 487E7664 270F270F\n08100000 487E79B5 01010101 01010101\n08100000 487E79BD 01010101 01010101\n02100000 487E79C5 00000101\n\n"
-        },
-        {
-            "title": "[Mineral Items x9999 @CJB]",
-            "content": "[Mineral Items x9999 @CJB]\n08100000 487E7668 270F270F 270F270F\n08100000 487E7670 270F270F 270F270F\n08100000 487E79C7 01010101 01010101\n\n"
-        },
-        {
-            "title": "[Monster Items x9999 @CJB]",
-            "content": "[Monster Items x9999 @CJB]\n08100000 487E7678 270F270F 270F270F\n08100000 487E7680 270F270F 270F270F\n08100000 487E7688 270F270F 270F270F\n08100000 487E7690 270F270F 270F270F\n08100000 487E7698 270F270F 270F270F\n08100000 487E76A0 270F270F 270F270F\n08100000 487E76A8 270F270F 270F270F\n08100000 487E76B0 270F270F 270F270F\n08100000 487E79CF 01010101 01010101\n08100000 487E79D7 01010101 01010101\n08100000 487E79DF 01010101 01010101\n08100000 487E79E7 01010101 01010101\n\n"
-        },
-        {
-            "title": "[Ancient Items x9999 @CJB]",
-            "content": "[Ancient Items x9999 @CJB]\n08100000 487E76B8 270F270F 270F270F\n04100000 487E76C0 270F270F\n04100000 487E79EF 01010101\n02100000 487E79F3 00000101\n\n"
-        },
-        {
-            "title": "[Trophy Items x9999 @CJB]",
-            "content": "[Trophy Items x9999 @CJB]\n08100000 487E76CE 270F270F 270F270F\n08100000 487E76D6 270F270F 270F270F\n08100000 487E76DE 270F270F 270F270F\n02100000 487E76E6 0000270F\n08100000 487E79FA 01010101 01010101\n04100000 487E7A02 01010101\n01100000 487E7A06 00000001\n\n"
-        },
-        {
-            "title": "[Unlock All Characters @CJB]",
-            "content": "[Unlock All Characters @CJB]\n01100000 487E5E76 00000033\n01100000 487E5E79 00000001\n01100000 487E5E7C 00000001\n01100000 487E5E96 0000003D\n01100000 487E5E99 00000001\n01100000 487E5E9C 00000001\n01100000 487E5EB6 00000047\n01100000 487E5EB9 00000001\n01100000 487E5EBC 00000001\n01100000 487E5ED6 00000051\n01100000 487E5ED9 00000001\n01100000 487E5EDC 00000001\n01100000 487E5EF6 0000005B\n01100000 487E5EF9 00000001\n01100000 487E5EFC 00000001\n01100000 487E5F16 00000065\n01100000 487E5F19 00000001\n01100000 487E5F1C 00000001\n01100000 487E5F36 0000006F\n01100000 487E5F39 00000001\n01100000 487E5F3C 00000001\n01100000 487E5F56 00000079\n01100000 487E5F59 00000001\n01100000 487E5F5C 00000001\n01100000 487E5F76 00000083\n01100000 487E5F79 00000001\n01100000 487E5F7C 00000001\n01100000 487E5F96 0000008D\n01100000 487E5F99 00000001\n01100000 487E5F9C 00000001\n01100000 487E5FB6 00000097\n01100000 487E5FB9 00000001\n01100000 487E5FBC 00000001\n01100000 487E5FD6 000000A1\n01100000 487E5FD9 00000001\n01100000 487E5FDC 00000001\n01100000 487E5FF6 000000AB\n01100000 487E5FF9 00000001\n01100000 487E5FFC 00000001\n01100000 487E6016 000000B5\n01100000 487E6019 00000001\n01100000 487E601C 00000001\n01100000 487E6036 000000BF\n01100000 487E6039 00000001\n01100000 487E603C 00000001\n01100000 487E6056 000000C9\n01100000 487E6059 00000001\n01100000 487E605C 00000001\n01100000 487E6076 000000D3\n01100000 487E6079 00000001\n01100000 487E607C 00000001\n\n"
-        },
-        {
-            "title": "[Mega Damage @CJB]",
-            "content": "[Mega Damage @CJB]\n02100000 487E5E4E 0000270F\n02100000 487E5E6E 0000270F\n02100000 487E5E8E 0000270F\n02100000 487E5EAE 0000270F\n02100000 487E5ECE 0000270F\n02100000 487E5EEE 0000270F\n02100000 487E5F0E 0000270F\n02100000 487E5F2E 0000270F\n02100000 487E5F4E 0000270F\n02100000 487E5F6E 0000270F\n02100000 487E5F8E 0000270F\n02100000 487E5FAE 0000270F\n02100000 487E5FCE 0000270F\n02100000 487E5FEE 0000270F\n02100000 487E600E 0000270F\n02100000 487E602E 0000270F\n02100000 487E604E 0000270F\n02100000 487E606E 0000270F\n\n"
-        },
-        {
-            "title": "[Mega Defense @CJB]",
-            "content": "[Mega Defense @CJB]\n02100000 487E5E50 0000270F\n02100000 487E5E70 0000270F\n02100000 487E5E90 0000270F\n02100000 487E5EB0 0000270F\n02100000 487E5ED0 0000270F\n02100000 487E5EF0 0000270F\n02100000 487E5F10 0000270F\n02100000 487E5F30 0000270F\n02100000 487E5F50 0000270F\n02100000 487E5F70 0000270F\n02100000 487E5F90 0000270F\n02100000 487E5FB0 0000270F\n02100000 487E5FD0 0000270F\n02100000 487E5FF0 0000270F\n02100000 487E6010 0000270F\n02100000 487E6030 0000270F\n02100000 487E6050 0000270F\n02100000 487E6070 0000270F\n\n"
-        },
-        {
-            "title": "[Infinite / Max Health @made by spiderman for gbatemp]",
-            "content": "[Infinite / Max Health @made by spiderman for gbatemp]\n580F0000 02515630\n780F0000 001744B4\n640F0000 00000000 46D48000\n04100000 4a46f55c 46899000\n\n"
-        },
-        {
-            "title": "[link inf hp ary64]",
-            "content": "[link inf hp ary64]\n580F0000 0251B630\n780F0000 001744B4\n640F0000 00000000 468CA000\n\n"
-        },
-        {
-            "title": "[#1 All items 999 @Eiffel2018]",
-            "content": "[#1 All items 999 @Eiffel2018]\n580F0000 025170D8\n780F0000 487E75A0\n300E0000 00000029\n680F1000 03E703E7 03E703E7\n310E0000\n620F0000 00000000 000003E7\n780F0000 0000027B\n300E0000 00000014\n680F1000 01010101 01010101\n310E0000\n640F1000 00000000 01010101\n610F1000 00000000 00000001\n\n"
-        },
-        {
-            "title": "[#2 MAX Charaters' LV After Battle @Eiffel2018]",
-            "content": "[#2 MAX Charaters' LV After Battle @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E48\n300E0000 00000012\n640F0000 00000000 0098967F\n780F0000 00000020\n310E0000\n\n"
-        },
-        {
-            "title": "[#3 Max all Charaters' ATK and DEF @Eiffel2018]",
-            "content": "[#3 Max all Charaters' ATK and DEF @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E4E\n300E0000 00000012\n640F0000 00000000 270F270F\n780F0000 00000020\n310E0000\n\n"
-        },
-        {
-            "title": "[#4 Max all Charaters Hearts @Eiffel2018]",
-            "content": "[#4 Max all Charaters Hearts @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E4C\n300E0000 00000012\n610F0000 00000000 0000002D\n780F0000 00000020\n310E0000\n\n"
-        },
-        {
-            "title": "[#5 Max HP @Eiffel2018]",
-            "content": "[#5 Max HP @Eiffel2018]\n580F0000 025170D8\n780F0000 4A46F554\n680F1000 468CA000 468CA000\n640F1000 00000000 468CA000\n80002000\n300E0000 0000008B\n780F0000 00000050\n680F1000 468CA000 468CA000\n640F1000 00000000 468CA000\n310E0000\n20000000\n\n"
-        },
-        {
-            "title": "[#6 10k-KOs after press Left @Eiffel2018]",
-            "content": "[#6 10k-KOs after press Left @Eiffel2018]\n80001000\n580F0000 0251B630\n580F1000 00000010\n780F0000 00000014\n640F1000 00000000 00002710\n20000000\n\n"
-        },
-        {
-            "title": "[SP 3@made by TomSwitch]",
-            "content": "[SP 3@made by TomSwitch]\n580F0000 0251B630\n580F1000 00000010\n580F1000 00000008\n780F0000 00000044\n640F0000 00000000 00010303\n\n"
-        },
-        {
-            "title": "[Apple 5 @made by TomSwitch]",
-            "content": "[Apple 5 @made by TomSwitch]\n04100000 4A57385C 00000005\n04100000 4A57387C 00000001\n\n"
-        },
-        {
-            "title": "[Apple is not reduced @made by BY-Kai ThiefB]",
-            "content": "[Apple is not reduced @made by BY-Kai ThiefB]\n040B0000 001082F4 51000109\n\n"
-        },
-        {
-            "title": "[No reduction in rupee @made by BY-Kai ThiefB]",
-            "content": "[No reduction in rupee @made by BY-Kai ThiefB]\n040B0000 00B757EC 4B1F0129\n040B0000 00B7C674 4B1F0148\n040B0000 00B7F558 4B1F0129\n040B0000 00B8B4E8 4B1F01A9\n040B0000 00BBB5C0 4B1F0149\n040B0000 00BC7294 4B1F0149\n040B0000 00BCF1E4 4B1F0149\n040B0000 00BDAE6C 4B1F0148\n\n"
-        },
-        {
-            "title": "[Experience value 4 times @made by BY-Kai ThiefB]",
-            "content": "[Experience value 4 times @made by BY-Kai ThiefB]\n040B0000 019663A0 1E22100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n"
-        },
-        {
-            "title": "[8 times experience value @made by BY-Kai ThiefB]",
-            "content": "[8 times experience value @made by BY-Kai ThiefB]\n040B0000 019663A0 1E24100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n"
-        },
-        {
-            "title": "[16 times experience value @made by BY-Kai ThiefB]",
-            "content": "[16 times experience value @made by BY-Kai ThiefB]\n040B0000 019663A0 1E26100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n"
-        },
-        {
-            "title": "[30 times experience value @made by BY-Kai ThiefB]",
-            "content": "[30 times experience value @made by BY-Kai ThiefB]\n040B0000 019663A0 1E27D00F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n"
-        },
-        {
-            "title": "[KO number 5 times @made by BY-Kai ThiefB]",
-            "content": "[KO number 5 times @made by BY-Kai ThiefB]\n040B0000 00640EE0 1100156C\n040B0000 00640EE8 1A8C26AB\n040B0000 00640EF4 1100154B\n040B0000 00640EFC 1A8B26AA\n\n"
-        },
-        {
-            "title": "[KO number 10 times @made by BY-Kai ThiefB]",
-            "content": "[KO number 10 times @made by BY-Kai ThiefB]\n040B0000 00640EE0 1100296C\n040B0000 00640EE8 1A8C26AB\n040B0000 00640EF4 1100294B\n040B0000 00640EFC 1A8B26AA\n\n"
-        },
-        {
-            "title": "[KO number 20 times @made by BY-Kai ThiefB]",
-            "content": "[KO number 20 times @made by BY-Kai ThiefB]\n040B0000 00640EE0 1100516C\n040B0000 00640EE8 1A8C26AB\n040B0000 00640EF4 1100514B\n040B0000 00640EFC 1A8B26AA\n\n"
-        },
-        {
-            "title": "[Store inventory Max @made by BY-Kai ThiefB]",
-            "content": "[Store inventory Max @made by BY-Kai ThiefB]\n040B0000 00B75588 782A69CC\n\n"
-        },
-        {
-            "title": "[Movement speed 1.5 times @made by BY-Kai ThiefB]",
-            "content": "[Movement speed 1.5 times @made by BY-Kai ThiefB]\n040B0000 019663B0 1E2F1005\n040B0000 019663B4 1E250821\n040B0000 019663B8 1E210800\n040B0000 019663BC D65F03C0\n040B0000 00125F9C 94610105\n040B0000 0012602C 946100E1\n040B0000 001260BC 946100BD\n040B0000 0012614C 94610099\n\n"
-        },
-        {
-            "title": "[Movement speed 2.0 times @made by BY-Kai ThiefB]",
-            "content": "[Movement speed 2.0 times @made by BY-Kai ThiefB]\n040B0000 019663B0 1E201005\n040B0000 019663B4 1E250821\n040B0000 019663B8 1E210800\n040B0000 019663BC D65F03C0\n040B0000 00125F9C 94610105\n040B0000 0012602C 946100E1\n040B0000 001260BC 946100BD\n040B0000 0012614C 94610099\n\n"
-        },
-        {
-            "title": "[Movement speed 3.0 times @made by BY-Kai ThiefB]",
-            "content": "[Movement speed 3.0 times @made by BY-Kai ThiefB]\n040B0000 019663B0 1E211005\n040B0000 019663B4 1E250821\n040B0000 019663B8 1E210800\n040B0000 019663BC D65F03C0\n040B0000 00125F9C 94610105\n040B0000 0012602C 946100E1\n040B0000 001260BC 946100BD\n040B0000 0012614C 94610099\n\n"
-        },
-        {
-            "title": "[Not decreasing but increasing when selling props @made by BY-Kai ThiefB]",
-            "content": "[Not decreasing but increasing when selling props @made by BY-Kai ThiefB]\n040B0000 00B8B4B4 0B0E0189\n\n"
-        },
-        {
-            "title": "[Ulpozalei electric tank is not reduced @made by BY-Kai ThiefB]",
-            "content": "[Ulpozalei electric tank is not reduced @made by BY-Kai ThiefB]\n040B0000 00699A3C BD00C709\n\n"
-        },
-        {
-            "title": "[Experience increased after browsing synthetic interface weapons @made by BY-Kai ThiefB]",
-            "content": "[Experience increased after browsing synthetic interface weapons @made by BY-Kai ThiefB]\n040B0000 019663C0 B9000AF8\n040B0000 019663C4 2A1603E0\n040B0000 019663C8 D65F03C0\n040B0000 00BDEEB8 94361D42\n\n"
-        },
-        {
-            "title": "[Fire stick is not reduced (open before the level) @made by BY-Kai ThiefB]",
-            "content": "[Fire stick is not reduced (open before the level) @made by BY-Kai ThiefB]\n040B0000 00667370 52807CEA\n"
-        },
-        {
-            "title": "[Ice stick is not reduced (open before the level) @made by BY-Kai ThiefB]",
-            "content": "[Ice stick is not reduced (open before the level) @made by BY-Kai ThiefB]\n040B0000 00667378 52807CEA\n"
-        },
-        {
-            "title": "[Thunder rod is not reduced (open before the level) @made by BY-Kai ThiefB]",
-            "content": "[Thunder rod is not reduced (open before the level) @made by BY-Kai ThiefB]\n040B0000 00667380 52807CEA\n"
-        },
-        {
-            "title": "[Wu Shuang Slot Quick Accumulation (open before the level) @made by BY-Kai ThiefB]",
-            "content": "[Wu Shuang Slot Quick Accumulation (open before the level) @made by BY-Kai ThiefB]\n040B0000 006695D0 5284E209\n040B0000 006695D4 72A00009\n"
-        },
-        {
-            "title": "[Digital version reservation bonus lucky soup spoon receiving open @made by BY-Kai ThiefB]",
-            "content": "[Digital version reservation bonus lucky soup spoon receiving open @made by BY-Kai ThiefB]\n040B0000 009A2A34 5280000B\n040B0000 009A2A90 528003C9\n040B0000 009A2B3C 528001E9\n040B0000 009A2B84 5280190A\n040B0000 00AE4248 52800008\n"
-        },
-        {
-            "title": "[Digital version reservation bonus lucky spoon receiving close @made by BY-Kai ThiefB]",
-            "content": "[Digital version reservation bonus lucky spoon receiving close @made by BY-Kai ThiefB]\n040B0000 009A2A34 396A4D6B\n040B0000 00AE4248 396A4D08\n\n"
-        },
-        {
-            "title": "[Link: Equip Master Ladle(ZL+ZR) @CJB]",
-            "content": "[Link: Equip Master Ladle(ZL+ZR) @CJB]\n80000300\n51130000 487E5E54\n78032000 00000088\n58090000 0251B600\n58091000 000001A8\n58091000 00000008\n58091000 00000040\n78030000 00000008\n64090130 00000000 000002F8\n78030000 00000004\n68090130 000003DF 00000002\n78030000 00000046\n68090130 270F270F 270F270F\n78030000 0000001E\n64090130 00000000 00130000\n78030000 0000000D\n64090130 00000000 07041251\n20000000\n\n"
-        },
-        {
-            "title": "[EXP x4 @Made by Kaito]",
-            "content": "[EXP x4 @Made by Kaito]\n040B0000 019663A0 1E22100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n"
-        },
-        {
-            "title": "[EXP x8 Made by Kaito]",
-            "content": "[EXP x8 Made by Kaito]\n040B0000 019663A0 1E24100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n"
-        },
-        {
-            "title": "[EXP x16 Made by Kaito]",
-            "content": "[EXP x16 Made by Kaito]\n040B0000 019663A0 1E26100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n"
-        },
-        {
-            "title": "[EXP x30 Made by Kaito]",
-            "content": "[EXP x30 Made by Kaito]\n040B0000 019663A0 1E27D00F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n"
-        },
-        {
-            "title": "[1p 2x speed atack @made by xtatu]",
-            "content": "[1p 2x speed atack @made by xtatu]\n04000000 000AA550 1E201000\n\n"
-        },
-        {
-            "title": "[1p 3x speed atack @made by xtatu]",
-            "content": "[1p 3x speed atack @made by xtatu]\n04000000 000AA550 1E211000\n\n"
-        },
-        {
-            "title": "[1p 10x speed atack @made by xtatu]",
-            "content": "[1p 10x speed atack @made by xtatu]\n04000000 000AA550 1E249000\n\n"
-        },
-        {
-            "title": "[1p inf heath @made by xtatu]",
-            "content": "[1p inf heath @made by xtatu]\n04000000 000102B0 1E37F009\n\n"
-        },
-        {
-            "title": "[1p atack modific damager 31x @made by xtatu]",
-            "content": "[1p atack modific damager 31x @made by xtatu]\n04000000 000106EC 1E27F009\n\n"
-        },
-        {
-            "title": "[1p magic 31x up get @made by xtatu]",
-            "content": "[1p magic 31x up get @made by xtatu]\n04000000 00031040 1E27F009\n\n"
-        },
-        {
-            "title": "[hit anywhere on @made by xtatu]",
-            "content": "[hit anywhere on @made by xtatu]\n04000000 00091F44 D503201F\n\n"
-        },
-        {
-            "title": "[hit anywhere off ZR @made by xtatu]",
-            "content": "[hit anywhere off ZR @made by xtatu]\n80000200\n04000000 00091F44 1e222860\n20000000\n\n"
-        },
-        {
-            "title": "[#1 Max all Charaters' ATK and DEF @Eiffel2018]",
-            "content": "[#1 Max all Charaters' ATK and DEF @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E4E\n300E0000 00000012\n640F0000 00000000 270F270F\n780F0000 00000020\n310E0000\n\n"
-        },
-        {
-            "title": "[#2 Max all Charaters Hearts @Eiffel2018]",
-            "content": "[#2 Max all Charaters Hearts @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E4C\n300E0000 00000012\n610F0000 00000000 0000002D\n780F0000 00000020\n310E0000\n\n"
-        },
-        {
-            "title": "[#3 Max HP @Eiffel2018]",
-            "content": "[#3 Max HP @Eiffel2018]\n12160000 4A570E74 00000000\n581F0000 4A573630\n520F1000 00000018\n780F2000 0000005C\n581E0000 4A2FB0A8\n780E0000 00174364\n680E11F0 468CA000 468CA000\n640E11F0 00000000 468CA000\n20000000\n\n"
-        },
-        {
-            "title": "[#4 Max SP @Eiffel2018]",
-            "content": "[#4 Max SP @Eiffel2018]\n12160000 4A570E74 00000000\n581F0000 4A573630\n780F0000 00000044\n620F0000 00000000 00000303\n20000000\n\n"
-        },
-        {
-            "title": "[#5 10k-KOs after press Left @Eiffel2018]",
-            "content": "[#5 10k-KOs after press Left @Eiffel2018]\n80001000\n12130000 4A570E74 00002710\n04100000 4A570E74 00002710\n20000000\n20000000\n\n"
-        },
-        {
-            "title": "[#6 Max HP for player2 @Eiffel2018]",
-            "content": "[#6 Max HP for player2 @Eiffel2018]\n12160000 4A573638 00000000\n581F0000 4A573638\n520F1000 00000018\n780F2000 0000005C\n581E0000 4A2FB0A8\n780E0000 00174364\n680E11F0 468CA000 468CA000\n640E11F0 00000000 468CA000\n20000000\n\n"
-        },
-        {
-            "title": "[#7 Max SP for player2 @Eiffel2018]",
-            "content": "[#7 Max SP for player2 @Eiffel2018]\n12160000 4A573638 00000000\n581F0000 4A573638\n780F0000 00000044\n620F0000 00000000 00000303\n20000000\n\n"
-        },
-        {
-            "title": "[#8 10k-KOs for player2 @Eiffel2018]",
-            "content": "[#8 10k-KOs for player2 @Eiffel2018]\n80001000\n12160000 4A573638 00000000\n12130000 4A571164 00002710\n04100000 4A571164 00002710\n20000000\n20000000\n\n"
-        },
-        {
-            "title": "[#9 Max Charaters' LV after Battle @Eiffel2018]",
-            "content": "[#9 Max Charaters' LV after Battle @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E48\n300E0000 00000012\n640F0000 00000000 0098967F\n780F0000 00000020\n310E0000\n\n"
-        },
-        {
-            "title": "[#10 All items 999 @Eiffel2018]",
-            "content": "[#10 All items 999 @Eiffel2018]\n580F0000 025170D8\n780F0000 487E75A0\n300E0000 00000029\n680F1000 03E703E7 03E703E7\n310E0000\n620F0000 00000000 000003E7\n780F0000 0000027B\n300E0000 00000014\n680F1000 01010101 01010101\n310E0000\n640F1000 00000000 01010101\n610F1000 00000000 00000001\n\n"
-        },
-        {
-            "title": "[#11 Link - Hyrule Warrior @Eiffel2018]",
-            "content": "[#11 Link - Hyrule Warrior @Eiffel2018]\n01100000 487E5E56 00000011\n02100000 487E5E57 00001111\n\n"
-        },
-        {
-            "title": "[#12.01 Link - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.01 Link - Weapon Enchance @Eiffel2018]\n581E0000 4870C8C0\n511F0000 487E5E54\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.02 Zelda - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.02 Zelda - Weapon Enchance @Eiffel2018]\n581E0000 4870CA58\n511F0000 487E5E74\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.03 King Rhoam - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.03 King Rhoam - Weapon Enchance @Eiffel2018]\n581E0000 4870CBF0\n511F0000 487E5E94\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.04 Mipha - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.04 Mipha - Weapon Enchance @Eiffel2018]\n581E0000 4870CD88\n511F0000 487E5EB4\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.05 Daruk - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.05 Daruk - Weapon Enchance @Eiffel2018]\n581E0000 4870CF20\n511F0000 487E5ED4\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.06 Revali - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.06 Revali - Weapon Enchance @Eiffel2018]\n581E0000 4870D0B8\n511F0000 487E5EF4\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.07 Urbosa - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.07 Urbosa - Weapon Enchance @Eiffel2018]\n581E0000 4870D250\n511F0000 487E5F14\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.08 Impa - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.08 Impa - Weapon Enchance @Eiffel2018]\n581E0000 4870D3E8\n511F0000 487E5F34\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.09 Sidon - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.09 Sidon - Weapon Enchance @Eiffel2018]\n581E0000 4870D580\n511F0000 487E5F54\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.10 Yunobo - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.10 Yunobo - Weapon Enchance @Eiffel2018]\n581E0000 4870D718\n511F0000 487E5F74\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.11 Teba - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.11 Teba - Weapon Enchance @Eiffel2018]\n581E0000 4870D8B0\n511F0000 487E5F94\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.12 Riju - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.12 Riju - Weapon Enchance @Eiffel2018]\n581E0000 4870DA48\n511F0000 487E5FB4\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.13 Hestu - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.13 Hestu - Weapon Enchance @Eiffel2018]\n581E0000 4870DBE0\n511F0000 487E5FD4\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.14 Great Fairies - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.14 Great Fairies - Weapon Enchance @Eiffel2018]\n581E0000 4870DD78\n511F0000 487E5FF4\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.15 Master Kohga - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.15 Master Kohga - Weapon Enchance @Eiffel2018]\n581E0000 4870DF10\n511F0000 487E6014\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.16 Monk Maz Koshia - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.16 Monk Maz Koshia - Weapon Enchance @Eiffel2018]\n581E0000 4870E0A8\n511F0000 487E6034\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.17 Terrako - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.17 Terrako - Weapon Enchance @Eiffel2018]\n581E0000 4870E240\n511F0000 487E6054\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[#12.18 Calamity Ganon - Weapon Enchance @Eiffel2018]",
-            "content": "[#12.18 Calamity Ganon - Weapon Enchance @Eiffel2018]\n581E0000 4870E3D8\n511F0000 487E6074\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n"
-        },
-        {
-            "title": "[Unlock all armor pieces @CJB]",
-            "content": "[Unlock all armor pieces @CJB]\n08130000 487DF7B3 01010101 01010101\n08190000 487DF7BB 01010101 01010101\n08120000 487DF7C3 01010101 01010101\n04130000 487DF7CB 01010101\n08190000 487DF96D 01010101 01010101\n08120000 487DF975 01010101 01010101\n04130000 487DF97D 01010101\n08190000 487DFB27 01010101 01010101\n08120000 487DFB2F 01010101 01010101\n04130000 487DFB37 01010101\n\n\n"
-        },
-        {
-            "title": "[#2 MAX Charaters' LV After Battle @Eiffel2018]",
-            "content": "[#2 MAX Charaters' LV After Battle @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E48\n300E0000 00000012\n640F0000 00000000 0098967F\n780F0000 00000020\n310E0000\n\n"
-        },
-        {
-            "title": "[EXP x4]",
-            "content": "[EXP x4]\n040B0000 019663A0 1E22100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n"
-        },
-        {
-            "title": "[EXP x8]",
-            "content": "[EXP x8]\n040B0000 019663A0 1E24100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n"
-        },
-        {
-            "title": "[EXP x16]",
-            "content": "[EXP x16]\n040B0000 019663A0 1E26100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n"
-        },
-        {
-            "title": "[EXP x30]",
-            "content": "[EXP x30]\n040B0000 019663A0 1E27D00F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n"
-        },
-        {
-            "title": "[Infinite Ice]",
-            "content": "[Infinite Ice]\n04100000 4A573846 0000270F\n\n"
-        },
-        {
-            "title": "[Infinite Fire]",
-            "content": "[Infinite Fire]\n04100000 4A573840 0000270F\n\n"
-        },
-        {
-            "title": "[Infinite Lightning]",
-            "content": "[Infinite Lightning]\n04100000 4A573848 0000270F\n\n"
-        },
-        {
-            "title": "[Zelda: Costume 1 @CJB]",
-            "content": "[Zelda: Costume 1 @CJB]\n01100000 487E5E76 00000034\n\n"
-        },
-        {
-            "title": "[Zelda: Costume 2 @CJB]",
-            "content": "[Zelda: Costume 2 @CJB]\n01100000 487E5E76 00000035\n\n"
-        },
-        {
-            "title": "[Zelda: Costume 3 @CJB]",
-            "content": "[Zelda: Costume 3 @CJB]\n01100000 487E5E76 00000036\n\n"
-        },
-        {
-            "title": "[Zelda: Costume Default @CJB]",
-            "content": "[Zelda: Costume Default @CJB]\n01100000 487E5E76 00000033\n\n\n\n\n\n\n"
+            "content": "[Infinite Rupees (sets to 99,999)]\n041F0000 48954D64 0001869F",
+            "title": "[Infinite Rupees (sets to 99,999)]"
         }
     ],
     "3A2D1227979971E5": [
         {
-            "title": "[1p inf heath]",
-            "content": "[1p inf heath]\n04000000 00010658 1E3E1009"
+            "content": "[1p inf heath]\n04000000 00010658 1E3E1009",
+            "title": "[1p inf heath]"
+        }
+    ],
+    "5A982FA25220E4DF": [
+        {
+            "content": "[inf hp link @made by arismendy64 on gbatemp]\n580F0000 02515630\n780F0000 001744B4\n640F0000 00000000 46D48000\n\n",
+            "title": "[inf hp link @made by arismendy64 on gbatemp]"
+        },
+        {
+            "content": "[Rupees x9999999 @made by CJB]\n04100000 487E73A4 0098967F\n\n",
+            "title": "[Rupees x9999999 @made by CJB]"
+        },
+        {
+            "content": "[9999 materials @made by arismendy64]\n580F0000 02515600\n580F1000 000001C8\n580F1000 00000030\n780F0000 00000290\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n\n",
+            "title": "[9999 materials @made by arismendy64]"
+        },
+        {
+            "content": "[Korok Seeds x9999@CJB]\n02100000 487E76C6 0000270F\n01100000 487E79F6 00000001\n\n",
+            "title": "[Korok Seeds x9999@CJB]"
+        },
+        {
+            "content": "[Terrako Comp. x9999@CJB]\n02100000 487E76C8 0000270F\n01100000 487E79F7 00000001\n\n",
+            "title": "[Terrako Comp. x9999@CJB]"
+        },
+        {
+            "content": "[Etheral Stone x9999@CJB]\n02100000 487E76CC 0000270F\n01100000 487E79F9 00000001\n\n",
+            "title": "[Etheral Stone x9999@CJB]"
+        },
+        {
+            "content": "[Fruit Items x9999@CJB]\n08100000 487E75A2 270F270F 270F270F\n04100000 487E75AA 270F270F\n04100000 487E7964 01010101\n02100000 487E7968 00000101\n\n",
+            "title": "[Fruit Items x9999@CJB]"
+        },
+        {
+            "content": "[Mushroom Items x9999@CJB]\n08100000 487E75AE 270F270F 270F270F\n08100000 487E75B6 270F270F 270F270F\n08100000 487E75BE 270F270F 270F270F\n08100000 487E796A 01010101 01010101\n04100000 487E7972 01010101\n\n",
+            "title": "[Mushroom Items x9999@CJB]"
+        },
+        {
+            "content": "[Flower Items x9999@CJB]\n08100000 487E75C6 270F270F 270F270F\n08100000 487E75CE 270F270F 270F270F\n08100000 487E75D6 270F270F 270F270F\n04100000 487E75DE 270F270F\n08100000 487E7976 01010101 01010101\n04100000 487E797E 01010101\n02100000 487E7982 00000101\n02100000 487E76C4 0000270F\n01100000 487E79F5 00000001\n\n",
+            "title": "[Flower Items x9999@CJB]"
+        },
+        {
+            "content": "[Meat Items x9999@CJB]\n08100000 487E75E2 270F270F 270F270F\n04100000 487E75EA 270F270F\n04100000 487E7984 01010101\n02100000 487E7988 00000101\n\n",
+            "title": "[Meat Items x9999@CJB]"
+        },
+        {
+            "content": "[Ingredient Items x9999@CJB]\n08100000 487E75EE 270F270F 270F270F\n08100000 487E75F6 270F270F 270F270F\n08100000 487E75FE 270F270F 270F270F\n02100000 487E7606 0000270F\n08100000 487E798A 01010101 01010101\n04100000 487E7992 01010101\n01100000 487E7996 00000001\n\n",
+            "title": "[Ingredient Items x9999@CJB]"
+        },
+        {
+            "content": "[Fish Items x9999@CJB]\n08100000 487E7620 270F270F 270F270F\n08100000 487E7628 270F270F 270F270F\n08100000 487E7630 270F270F 270F270F\n08100000 487E7638 270F270F 270F270F\n04100000 487E7640 270F270F\n08100000 487E79A3 01010101 01010101\n08100000 487E79AB 01010101 01010101\n02100000 487E79B3 00000101\n\n",
+            "title": "[Fish Items x9999@CJB]"
+        },
+        {
+            "content": "[Bug Items x9999@CJB]\n08100000 487E7644 270F270F 270F270F\n08100000 487E764C 270F270F 270F270F\n08100000 487E7654 270F270F 270F270F\n08100000 487E765C 270F270F 270F270F\n04100000 487E7664 270F270F\n08100000 487E79B5 01010101 01010101\n08100000 487E79BD 01010101 01010101\n02100000 487E79C5 00000101\n\n",
+            "title": "[Bug Items x9999@CJB]"
+        },
+        {
+            "content": "[Mineral Items x9999@CJB]\n08100000 487E7668 270F270F 270F270F\n08100000 487E7670 270F270F 270F270F\n08100000 487E79C7 01010101 01010101\n\n",
+            "title": "[Mineral Items x9999@CJB]"
+        },
+        {
+            "content": "[Monster Items x9999@CJB]\n08100000 487E7678 270F270F 270F270F\n08100000 487E7680 270F270F 270F270F\n08100000 487E7688 270F270F 270F270F\n08100000 487E7690 270F270F 270F270F\n08100000 487E7698 270F270F 270F270F\n08100000 487E76A0 270F270F 270F270F\n08100000 487E76A8 270F270F 270F270F\n08100000 487E76B0 270F270F 270F270F\n08100000 487E79CF 01010101 01010101\n08100000 487E79D7 01010101 01010101\n08100000 487E79DF 01010101 01010101\n08100000 487E79E7 01010101 01010101\n\n",
+            "title": "[Monster Items x9999@CJB]"
+        },
+        {
+            "content": "[Ancient Items x9999@CJB]\n08100000 487E76B8 270F270F 270F270F\n04100000 487E76C0 270F270F\n04100000 487E79EF 01010101\n02100000 487E79F3 00000101\n\n",
+            "title": "[Ancient Items x9999@CJB]"
+        },
+        {
+            "content": "[Trophy Items x9999@CJB]\n08100000 487E76CE 270F270F 270F270F\n08100000 487E76D6 270F270F 270F270F\n08100000 487E76DE 270F270F 270F270F\n02100000 487E76E6 0000270F\n08100000 487E79FA 01010101 01010101\n04100000 487E7A02 01010101\n01100000 487E7A06 00000001\n\n",
+            "title": "[Trophy Items x9999@CJB]"
+        },
+        {
+            "content": "[No accessory reduction @91wii]\n040B0000 00B85E88 5280000E\n",
+            "title": "[No accessory reduction @91wii]"
+        },
+        {
+            "content": "[Rupee not reduced @91wii]\n040B0000 00B7018C 4B1F0129\n040B0000 00B77014 4B1F0148\n040B0000 00BB6160 4B1F0149\n040B0000 00BC1E34 4B1F0149\n040B0000 00BC9D74 4B1F0149\n040B0000 00BD5A2C 4B1F0148\n",
+            "title": "[Rupee not reduced @91wii]"
+        },
+        {
+            "content": "[Experience value 4 times @91wii]\n040B0000 01960400 1E22100F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n",
+            "title": "[Experience value 4 times @91wii]"
+        },
+        {
+            "content": "[Experience value 8 times @91wii]\n040B0000 01960400 1E24100F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n",
+            "title": "[Experience value 8 times @91wii]"
+        },
+        {
+            "content": "[Experience value 16 times @91wii]\n040B0000 01960400 1E26100F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n",
+            "title": "[Experience value 16 times @91wii]"
+        },
+        {
+            "content": "[Experience value 30 times @(Kaito B) from 91wii]\n040B0000 01960400 1E27D00F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n",
+            "title": "[Experience value 30 times @(Kaito B) from 91wii]"
+        },
+        {
+            "content": "[KO number 5 times @91wii]\n040B0000 0063F7CC 1100154B\n040B0000 0063F7D4 1A8B26AA\n",
+            "title": "[KO number 5 times @91wii]"
+        },
+        {
+            "content": "[KO number 10 times @(Kaito B) from 91wii]\n040B0000 0063F7CC 1100294B\n040B0000 0063F7D4 1A8B26AA\n",
+            "title": "[KO number 10 times @(Kaito B) from 91wii]"
+        },
+        {
+            "content": "[KO number 20 times @(Kaito B) from 91wii]\n040B0000 0063F7CC 1100514B\n040B0000 0063F7D4 1A8B26AA\n",
+            "title": "[KO number 20 times @(Kaito B) from 91wii]"
+        },
+        {
+            "content": "[Store inventory max @91wii]\n040B0000 00B6FF28 782A69CC\n",
+            "title": "[Store inventory max @91wii]"
+        },
+        {
+            "content": "[Movement speed 1.5 times @(Kaito B) from 91wii]\n040B0000 01960410 1E2F1005\n040B0000 01960414 1E250821\n040B0000 01960418 1E210800\n040B0000 0196041C D65F03C0\n040B0000 001256EC 9460EB49\n040B0000 0012577C 9460EB25\n040B0000 0012580C 9460EB01\n040B0000 0012589C 9460EADD\n",
+            "title": "[Movement speed 1.5 times @(Kaito B) from 91wii]"
+        },
+        {
+            "content": "[Movement speed 2 times @(Kaito B) from 91wii]\n040B0000 01960410 1E201005\n040B0000 01960414 1E250821\n040B0000 01960418 1E210800\n040B0000 0196041C D65F03C0\n040B0000 001256EC 9460EB49\n040B0000 0012577C 9460EB25\n040B0000 0012580C 9460EB01\n040B0000 0012589C 9460EADD\n",
+            "title": "[Movement speed 2 times @(Kaito B) from 91wii]"
+        },
+        {
+            "content": "[Movement speed 3 times @(Kaito B) from 91wii]\n040B0000 01960410 1E211005\n040B0000 01960414 1E250821\n040B0000 01960418 1E210800\n040B0000 0196041C D65F03C0\n040B0000 001256EC 9460EB49\n040B0000 0012577C 9460EB25\n040B0000 0012580C 9460EB01\n040B0000 0012589C 9460EADD\n\n",
+            "title": "[Movement speed 3 times @(Kaito B) from 91wii]"
+        },
+        {
+            "content": "[Infinite Ice @(Kaito B) from 91wii]\n04100000 4A573846 0000270F\n\n",
+            "title": "[Infinite Ice @(Kaito B) from 91wii]"
+        },
+        {
+            "content": "[Infinite Fire @(Kaito B) from 91wii]\n04100000 4A573840 0000270F\n\n",
+            "title": "[Infinite Fire @(Kaito B) from 91wii]"
+        },
+        {
+            "content": "[Infinite Lightning @(Kaito B) from 91wii]\n04100000 4A573848 0000270F\n\n",
+            "title": "[Infinite Lightning @(Kaito B) from 91wii]"
+        },
+        {
+            "content": "[Have Experience Multiple @(Kaito B) from 91wii]\n040B0000 01960400 1E27D00F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n\n",
+            "title": "[Have Experience Multiple @(Kaito B) from 91wii]"
+        },
+        {
+            "content": "[Have Kill KO Number Multi Kill @(Kaito B) from 91wii]\n040B0000 0063F7CC 1100514B\n040B0000 0063F7D4 1A8B26AA\n\n",
+            "title": "[Have Kill KO Number Multi Kill @(Kaito B) from 91wii]"
+        },
+        {
+            "content": "[Store inventory Maximum @(Kaito B) from 91wii]\n040B0000 00B6FF28 782A69CC\n\n",
+            "title": "[Store inventory Maximum @(Kaito B) from 91wii]"
+        },
+        {
+            "content": "[Fast Moving Player Speed (like HERO The FLASH) @(Kaito B) from 91wii]\n040B0000 01960410 1E211005\n040B0000 01960414 1E250821\n040B0000 01960418 1E210800\n040B0000 0196041C D65F03C0\n040B0000 001256EC 9460EB49\n040B0000 0012577C 9460EB25\n040B0000 0012580C 9460EB01\n040B0000 0012589C 9460EADD\n\n",
+            "title": "[Fast Moving Player Speed (like HERO The FLASH) @(Kaito B) from 91wii]"
+        },
+        {
+            "content": "[Unlimited Items Have @(Kaito B) from 91wii]\n040B0000 00B86074 0B0E0189\n\n",
+            "title": "[Unlimited Items Have @(Kaito B) from 91wii]"
+        },
+        {
+            "content": "[Infinite Spoils (All Slots) made by @Spiderman]\n08100000 4870837c 270F270F 270F270F\n08100000 48708384 270F270F 270F270F\n08100000 4870838c 270F270F 270F270F\n08100000 48708394 270F270F 270F270F\n08100000 4870839a 270F270F 270F270F\n08100000 487083a2 270F270F 270F270F\n08100000 487083aa 270F270F 270F270F\n08100000 487083b2 270F270F 270F270F\n08100000 487083ba 270F270F 270F270F\n08100000 487083c2 270F270F 270F270F\n08100000 487083ca 270F270F 270F270F\n\n",
+            "title": "[Infinite Spoils (All Slots) made by @Spiderman]"
+        },
+        {
+            "content": "[Wear Hylian Armor Set @CJB]\n01100000 487E5E56 00000002\n01100000 487E5E57 00000002\n01100000 487E5E58 00000002\n\n",
+            "title": "[Wear Hylian Armor Set @CJB]"
+        },
+        {
+            "content": "[Wear Stealth Armor Set @CJB]\n01100000 487E5E56 00000003\n01100000 487E5E57 00000003\n01100000 487E5E58 00000003\n\n",
+            "title": "[Wear Stealth Armor Set @CJB]"
+        },
+        {
+            "content": "[Wear Soldier Armor Set @CJB]\n01100000 487E5E56 00000004\n01100000 487E5E57 00000004\n01100000 487E5E58 00000004\n\n",
+            "title": "[Wear Soldier Armor Set @CJB]"
+        },
+        {
+            "content": "[Wear Snowquill Armor Set @CJB]\n01100000 487E5E56 00000005\n01100000 487E5E57 00000005\n01100000 487E5E58 00000005\n\n",
+            "title": "[Wear Snowquill Armor Set @CJB]"
+        },
+        {
+            "content": "[Wear Gerudo Armor Set @CJB]\n01100000 487E5E56 00000006\n01100000 487E5E57 00000006\n01100000 487E5E58 00000006\n\n",
+            "title": "[Wear Gerudo Armor Set @CJB]"
+        },
+        {
+            "content": "[Wear Desert Voe Armor Set @CJB]\n01100000 487E5E56 00000007\n01100000 487E5E57 00000007\n01100000 487E5E58 00000007\n\n",
+            "title": "[Wear Desert Voe Armor Set @CJB]"
+        },
+        {
+            "content": "[Wear Radiant Armor Set @CJB]\n01100000 487E5E56 00000008\n01100000 487E5E57 00000008\n01100000 487E5E58 00000008\n\n",
+            "title": "[Wear Radiant Armor Set @CJB]"
+        },
+        {
+            "content": "[Wear Flamebreaker Armor Set @CJB]\n01100000 487E5E56 00000009\n01100000 487E5E57 00000009\n01100000 487E5E58 00000009\n\n",
+            "title": "[Wear Flamebreaker Armor Set @CJB]"
+        },
+        {
+            "content": "[Wear Zora Armor Set @CJB]\n01100000 487E5E56 0000000A\n01100000 487E5E57 0000000A\n01100000 487E5E58 0000000A\n\n",
+            "title": "[Wear Zora Armor Set @CJB]"
+        },
+        {
+            "content": "[Wear Ancient Armor Set @CJB]\n01100000 487E5E56 0000000B\n01100000 487E5E57 0000000B\n01100000 487E5E58 0000000B\n\n",
+            "title": "[Wear Ancient Armor Set @CJB]"
+        },
+        {
+            "content": "[Wear Climber Armor Set @CJB]\n01100000 487E5E56 0000000C\n01100000 487E5E57 0000000C\n01100000 487E5E58 0000000C\n\n",
+            "title": "[Wear Climber Armor Set @CJB]"
+        },
+        {
+            "content": "[Wear Rubber Armor Set @CJB]\n01100000 487E5E56 0000000D\n01100000 487E5E57 0000000D\n01100000 487E5E58 0000000D\n\n",
+            "title": "[Wear Rubber Armor Set @CJB]"
+        },
+        {
+            "content": "[Wear Barbarian Armor Set @CJB]\n01100000 487E5E56 0000000E\n01100000 487E5E57 0000000E\n01100000 487E5E58 0000000E\n\n",
+            "title": "[Wear Barbarian Armor Set @CJB]"
+        },
+        {
+            "content": "[Wear Tunic of the Wild Armor Set @CJB]\n01100000 487E5E56 0000000F\n01100000 487E5E57 0000000F\n01100000 487E5E58 0000000F\n\n",
+            "title": "[Wear Tunic of the Wild Armor Set @CJB]"
+        },
+        {
+            "content": "[Wear Dark Link Armor Set @CJB]\n01100000 487E5E56 00000010\n01100000 487E5E57 00000010\n01100000 487E5E58 00000010\n\n",
+            "title": "[Wear Dark Link Armor Set @CJB]"
+        },
+        {
+            "content": "[Wear Hyrule Warrior Armor Set @CJB]\n01100000 487E5E56 00000011\n01100000 487E5E57 00000011\n01100000 487E5E58 00000011\n\n",
+            "title": "[Wear Hyrule Warrior Armor Set @CJB]"
+        },
+        {
+            "content": "[Rupees x9999999 @CJB]\n04100000 487E73A4 0098967F\n\n",
+            "title": "[Rupees x9999999 @CJB]"
+        },
+        {
+            "content": "[Korok Seeds x9999 @CJB]\n02100000 487E76C6 0000270F\n01100000 487E79F6 00000001\n\n",
+            "title": "[Korok Seeds x9999 @CJB]"
+        },
+        {
+            "content": "[Terrako Comp. x9999 @CJB]\n02100000 487E76C8 0000270F\n01100000 487E79F7 00000001\n\n",
+            "title": "[Terrako Comp. x9999 @CJB]"
+        },
+        {
+            "content": "[Etheral Stone x9999 @CJB]\n02100000 487E76CC 0000270F\n01100000 487E79F9 00000001\n\n",
+            "title": "[Etheral Stone x9999 @CJB]"
+        },
+        {
+            "content": "[Fruit Items x9999 @CJB]\n02100000 487E75A0 0000270F\n01100000 487E7963 00000001\n08100000 487E75A2 270F270F 270F270F\n04100000 487E75AA 270F270F\n04100000 487E7964 01010101\n02100000 487E7968 00000101\n02100000 487E76E8 0000270F\n01100000 487E7A07 00000001\n\n",
+            "title": "[Fruit Items x9999 @CJB]"
+        },
+        {
+            "content": "[Mushroom Items x9999 @CJB]\n08100000 487E75AE 270F270F 270F270F\n08100000 487E75B6 270F270F 270F270F\n08100000 487E75BE 270F270F 270F270F\n08100000 487E796A 01010101 01010101\n04100000 487E7972 01010101\n\n",
+            "title": "[Mushroom Items x9999 @CJB]"
+        },
+        {
+            "content": "[Flower Items x9999 @CJB]\n08100000 487E75C6 270F270F 270F270F\n08100000 487E75CE 270F270F 270F270F\n08100000 487E75D6 270F270F 270F270F\n04100000 487E75DE 270F270F\n08100000 487E7976 01010101 01010101\n04100000 487E797E 01010101\n02100000 487E7982 00000101\n02100000 487E76C4 0000270F\n01100000 487E79F5 00000001\n\n",
+            "title": "[Flower Items x9999 @CJB]"
+        },
+        {
+            "content": "[Meat Items x9999 @CJB]\n08100000 487E75E2 270F270F 270F270F\n04100000 487E75EA 270F270F\n04100000 487E7984 01010101\n02100000 487E7988 00000101\n\n",
+            "title": "[Meat Items x9999 @CJB]"
+        },
+        {
+            "content": "[Ingredient Items x9999 @CJB]\n08100000 487E75EE 270F270F 270F270F\n08100000 487E75F6 270F270F 270F270F\n08100000 487E75FE 270F270F 270F270F\n02100000 487E7606 0000270F\n08100000 487E798A 01010101 01010101\n04100000 487E7992 01010101\n01100000 487E7996 00000001\n\n",
+            "title": "[Ingredient Items x9999 @CJB]"
+        },
+        {
+            "content": "[Fish Items x9999 @CJB]\n08100000 487E7620 270F270F 270F270F\n08100000 487E7628 270F270F 270F270F\n08100000 487E7630 270F270F 270F270F\n08100000 487E7638 270F270F 270F270F\n04100000 487E7640 270F270F\n08100000 487E79A3 01010101 01010101\n08100000 487E79AB 01010101 01010101\n02100000 487E79B3 00000101\n\n",
+            "title": "[Fish Items x9999 @CJB]"
+        },
+        {
+            "content": "[Bug Items x9999 @CJB]\n08100000 487E7644 270F270F 270F270F\n08100000 487E764C 270F270F 270F270F\n08100000 487E7654 270F270F 270F270F\n08100000 487E765C 270F270F 270F270F\n04100000 487E7664 270F270F\n08100000 487E79B5 01010101 01010101\n08100000 487E79BD 01010101 01010101\n02100000 487E79C5 00000101\n\n",
+            "title": "[Bug Items x9999 @CJB]"
+        },
+        {
+            "content": "[Mineral Items x9999 @CJB]\n08100000 487E7668 270F270F 270F270F\n08100000 487E7670 270F270F 270F270F\n08100000 487E79C7 01010101 01010101\n\n",
+            "title": "[Mineral Items x9999 @CJB]"
+        },
+        {
+            "content": "[Monster Items x9999 @CJB]\n08100000 487E7678 270F270F 270F270F\n08100000 487E7680 270F270F 270F270F\n08100000 487E7688 270F270F 270F270F\n08100000 487E7690 270F270F 270F270F\n08100000 487E7698 270F270F 270F270F\n08100000 487E76A0 270F270F 270F270F\n08100000 487E76A8 270F270F 270F270F\n08100000 487E76B0 270F270F 270F270F\n08100000 487E79CF 01010101 01010101\n08100000 487E79D7 01010101 01010101\n08100000 487E79DF 01010101 01010101\n08100000 487E79E7 01010101 01010101\n\n",
+            "title": "[Monster Items x9999 @CJB]"
+        },
+        {
+            "content": "[Ancient Items x9999 @CJB]\n08100000 487E76B8 270F270F 270F270F\n04100000 487E76C0 270F270F\n04100000 487E79EF 01010101\n02100000 487E79F3 00000101\n\n",
+            "title": "[Ancient Items x9999 @CJB]"
+        },
+        {
+            "content": "[Trophy Items x9999 @CJB]\n08100000 487E76CE 270F270F 270F270F\n08100000 487E76D6 270F270F 270F270F\n08100000 487E76DE 270F270F 270F270F\n02100000 487E76E6 0000270F\n08100000 487E79FA 01010101 01010101\n04100000 487E7A02 01010101\n01100000 487E7A06 00000001\n\n",
+            "title": "[Trophy Items x9999 @CJB]"
+        },
+        {
+            "content": "[Unlock All Characters @CJB]\n01100000 487E5E76 00000033\n01100000 487E5E79 00000001\n01100000 487E5E7C 00000001\n01100000 487E5E96 0000003D\n01100000 487E5E99 00000001\n01100000 487E5E9C 00000001\n01100000 487E5EB6 00000047\n01100000 487E5EB9 00000001\n01100000 487E5EBC 00000001\n01100000 487E5ED6 00000051\n01100000 487E5ED9 00000001\n01100000 487E5EDC 00000001\n01100000 487E5EF6 0000005B\n01100000 487E5EF9 00000001\n01100000 487E5EFC 00000001\n01100000 487E5F16 00000065\n01100000 487E5F19 00000001\n01100000 487E5F1C 00000001\n01100000 487E5F36 0000006F\n01100000 487E5F39 00000001\n01100000 487E5F3C 00000001\n01100000 487E5F56 00000079\n01100000 487E5F59 00000001\n01100000 487E5F5C 00000001\n01100000 487E5F76 00000083\n01100000 487E5F79 00000001\n01100000 487E5F7C 00000001\n01100000 487E5F96 0000008D\n01100000 487E5F99 00000001\n01100000 487E5F9C 00000001\n01100000 487E5FB6 00000097\n01100000 487E5FB9 00000001\n01100000 487E5FBC 00000001\n01100000 487E5FD6 000000A1\n01100000 487E5FD9 00000001\n01100000 487E5FDC 00000001\n01100000 487E5FF6 000000AB\n01100000 487E5FF9 00000001\n01100000 487E5FFC 00000001\n01100000 487E6016 000000B5\n01100000 487E6019 00000001\n01100000 487E601C 00000001\n01100000 487E6036 000000BF\n01100000 487E6039 00000001\n01100000 487E603C 00000001\n01100000 487E6056 000000C9\n01100000 487E6059 00000001\n01100000 487E605C 00000001\n01100000 487E6076 000000D3\n01100000 487E6079 00000001\n01100000 487E607C 00000001\n\n",
+            "title": "[Unlock All Characters @CJB]"
+        },
+        {
+            "content": "[Mega Damage @CJB]\n02100000 487E5E4E 0000270F\n02100000 487E5E6E 0000270F\n02100000 487E5E8E 0000270F\n02100000 487E5EAE 0000270F\n02100000 487E5ECE 0000270F\n02100000 487E5EEE 0000270F\n02100000 487E5F0E 0000270F\n02100000 487E5F2E 0000270F\n02100000 487E5F4E 0000270F\n02100000 487E5F6E 0000270F\n02100000 487E5F8E 0000270F\n02100000 487E5FAE 0000270F\n02100000 487E5FCE 0000270F\n02100000 487E5FEE 0000270F\n02100000 487E600E 0000270F\n02100000 487E602E 0000270F\n02100000 487E604E 0000270F\n02100000 487E606E 0000270F\n\n",
+            "title": "[Mega Damage @CJB]"
+        },
+        {
+            "content": "[Mega Defense @CJB]\n02100000 487E5E50 0000270F\n02100000 487E5E70 0000270F\n02100000 487E5E90 0000270F\n02100000 487E5EB0 0000270F\n02100000 487E5ED0 0000270F\n02100000 487E5EF0 0000270F\n02100000 487E5F10 0000270F\n02100000 487E5F30 0000270F\n02100000 487E5F50 0000270F\n02100000 487E5F70 0000270F\n02100000 487E5F90 0000270F\n02100000 487E5FB0 0000270F\n02100000 487E5FD0 0000270F\n02100000 487E5FF0 0000270F\n02100000 487E6010 0000270F\n02100000 487E6030 0000270F\n02100000 487E6050 0000270F\n02100000 487E6070 0000270F\n\n",
+            "title": "[Mega Defense @CJB]"
+        },
+        {
+            "content": "[Infinite / Max Health @made by spiderman for gbatemp]\n580F0000 02515630\n780F0000 001744B4\n640F0000 00000000 46D48000\n04100000 4a46f55c 46899000\n\n",
+            "title": "[Infinite / Max Health @made by spiderman for gbatemp]"
+        },
+        {
+            "content": "[link inf hp ary64]\n580F0000 0251B630\n780F0000 001744B4\n640F0000 00000000 468CA000\n\n",
+            "title": "[link inf hp ary64]"
+        },
+        {
+            "content": "[#1 All items 999 @Eiffel2018]\n580F0000 025170D8\n780F0000 487E75A0\n300E0000 00000029\n680F1000 03E703E7 03E703E7\n310E0000\n620F0000 00000000 000003E7\n780F0000 0000027B\n300E0000 00000014\n680F1000 01010101 01010101\n310E0000\n640F1000 00000000 01010101\n610F1000 00000000 00000001\n\n",
+            "title": "[#1 All items 999 @Eiffel2018]"
+        },
+        {
+            "content": "[#2 MAX Charaters' LV After Battle @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E48\n300E0000 00000012\n640F0000 00000000 0098967F\n780F0000 00000020\n310E0000\n\n",
+            "title": "[#2 MAX Charaters' LV After Battle @Eiffel2018]"
+        },
+        {
+            "content": "[#3 Max all Charaters' ATK and DEF @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E4E\n300E0000 00000012\n640F0000 00000000 270F270F\n780F0000 00000020\n310E0000\n\n",
+            "title": "[#3 Max all Charaters' ATK and DEF @Eiffel2018]"
+        },
+        {
+            "content": "[#4 Max all Charaters Hearts @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E4C\n300E0000 00000012\n610F0000 00000000 0000002D\n780F0000 00000020\n310E0000\n\n",
+            "title": "[#4 Max all Charaters Hearts @Eiffel2018]"
+        },
+        {
+            "content": "[#5 Max HP @Eiffel2018]\n580F0000 025170D8\n780F0000 4A46F554\n680F1000 468CA000 468CA000\n640F1000 00000000 468CA000\n80002000\n300E0000 0000008B\n780F0000 00000050\n680F1000 468CA000 468CA000\n640F1000 00000000 468CA000\n310E0000\n20000000\n\n",
+            "title": "[#5 Max HP @Eiffel2018]"
+        },
+        {
+            "content": "[#6 10k-KOs after press Left @Eiffel2018]\n80001000\n580F0000 0251B630\n580F1000 00000010\n780F0000 00000014\n640F1000 00000000 00002710\n20000000\n\n",
+            "title": "[#6 10k-KOs after press Left @Eiffel2018]"
+        },
+        {
+            "content": "[SP 3@made by TomSwitch]\n580F0000 0251B630\n580F1000 00000010\n580F1000 00000008\n780F0000 00000044\n640F0000 00000000 00010303\n\n",
+            "title": "[SP 3@made by TomSwitch]"
+        },
+        {
+            "content": "[Apple 5 @made by TomSwitch]\n04100000 4A57385C 00000005\n04100000 4A57387C 00000001\n\n",
+            "title": "[Apple 5 @made by TomSwitch]"
+        },
+        {
+            "content": "[Apple is not reduced @made by BY-Kai ThiefB]\n040B0000 001082F4 51000109\n\n",
+            "title": "[Apple is not reduced @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[No reduction in rupee @made by BY-Kai ThiefB]\n040B0000 00B757EC 4B1F0129\n040B0000 00B7C674 4B1F0148\n040B0000 00B7F558 4B1F0129\n040B0000 00B8B4E8 4B1F01A9\n040B0000 00BBB5C0 4B1F0149\n040B0000 00BC7294 4B1F0149\n040B0000 00BCF1E4 4B1F0149\n040B0000 00BDAE6C 4B1F0148\n\n",
+            "title": "[No reduction in rupee @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[Experience value 4 times @made by BY-Kai ThiefB]\n040B0000 019663A0 1E22100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n",
+            "title": "[Experience value 4 times @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[8 times experience value @made by BY-Kai ThiefB]\n040B0000 019663A0 1E24100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n",
+            "title": "[8 times experience value @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[16 times experience value @made by BY-Kai ThiefB]\n040B0000 019663A0 1E26100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n",
+            "title": "[16 times experience value @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[30 times experience value @made by BY-Kai ThiefB]\n040B0000 019663A0 1E27D00F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n",
+            "title": "[30 times experience value @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[KO number 5 times @made by BY-Kai ThiefB]\n040B0000 00640EE0 1100156C\n040B0000 00640EE8 1A8C26AB\n040B0000 00640EF4 1100154B\n040B0000 00640EFC 1A8B26AA\n\n",
+            "title": "[KO number 5 times @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[KO number 10 times @made by BY-Kai ThiefB]\n040B0000 00640EE0 1100296C\n040B0000 00640EE8 1A8C26AB\n040B0000 00640EF4 1100294B\n040B0000 00640EFC 1A8B26AA\n\n",
+            "title": "[KO number 10 times @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[KO number 20 times @made by BY-Kai ThiefB]\n040B0000 00640EE0 1100516C\n040B0000 00640EE8 1A8C26AB\n040B0000 00640EF4 1100514B\n040B0000 00640EFC 1A8B26AA\n\n",
+            "title": "[KO number 20 times @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[Store inventory Max @made by BY-Kai ThiefB]\n040B0000 00B75588 782A69CC\n\n",
+            "title": "[Store inventory Max @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[Movement speed 1.5 times @made by BY-Kai ThiefB]\n040B0000 019663B0 1E2F1005\n040B0000 019663B4 1E250821\n040B0000 019663B8 1E210800\n040B0000 019663BC D65F03C0\n040B0000 00125F9C 94610105\n040B0000 0012602C 946100E1\n040B0000 001260BC 946100BD\n040B0000 0012614C 94610099\n\n",
+            "title": "[Movement speed 1.5 times @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[Movement speed 2.0 times @made by BY-Kai ThiefB]\n040B0000 019663B0 1E201005\n040B0000 019663B4 1E250821\n040B0000 019663B8 1E210800\n040B0000 019663BC D65F03C0\n040B0000 00125F9C 94610105\n040B0000 0012602C 946100E1\n040B0000 001260BC 946100BD\n040B0000 0012614C 94610099\n\n",
+            "title": "[Movement speed 2.0 times @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[Movement speed 3.0 times @made by BY-Kai ThiefB]\n040B0000 019663B0 1E211005\n040B0000 019663B4 1E250821\n040B0000 019663B8 1E210800\n040B0000 019663BC D65F03C0\n040B0000 00125F9C 94610105\n040B0000 0012602C 946100E1\n040B0000 001260BC 946100BD\n040B0000 0012614C 94610099\n\n",
+            "title": "[Movement speed 3.0 times @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[Not decreasing but increasing when selling props @made by BY-Kai ThiefB]\n040B0000 00B8B4B4 0B0E0189\n\n",
+            "title": "[Not decreasing but increasing when selling props @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[Ulpozalei electric tank is not reduced @made by BY-Kai ThiefB]\n040B0000 00699A3C BD00C709\n\n",
+            "title": "[Ulpozalei electric tank is not reduced @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[Experience increased after browsing synthetic interface weapons @made by BY-Kai ThiefB]\n040B0000 019663C0 B9000AF8\n040B0000 019663C4 2A1603E0\n040B0000 019663C8 D65F03C0\n040B0000 00BDEEB8 94361D42\n\n",
+            "title": "[Experience increased after browsing synthetic interface weapons @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[Fire stick is not reduced (open before the level) @made by BY-Kai ThiefB]\n040B0000 00667370 52807CEA\n",
+            "title": "[Fire stick is not reduced (open before the level) @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[Ice stick is not reduced (open before the level) @made by BY-Kai ThiefB]\n040B0000 00667378 52807CEA\n",
+            "title": "[Ice stick is not reduced (open before the level) @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[Thunder rod is not reduced (open before the level) @made by BY-Kai ThiefB]\n040B0000 00667380 52807CEA\n",
+            "title": "[Thunder rod is not reduced (open before the level) @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[Wu Shuang Slot Quick Accumulation (open before the level) @made by BY-Kai ThiefB]\n040B0000 006695D0 5284E209\n040B0000 006695D4 72A00009\n",
+            "title": "[Wu Shuang Slot Quick Accumulation (open before the level) @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[Digital version reservation bonus lucky soup spoon receiving open @made by BY-Kai ThiefB]\n040B0000 009A2A34 5280000B\n040B0000 009A2A90 528003C9\n040B0000 009A2B3C 528001E9\n040B0000 009A2B84 5280190A\n040B0000 00AE4248 52800008\n",
+            "title": "[Digital version reservation bonus lucky soup spoon receiving open @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[Digital version reservation bonus lucky spoon receiving close @made by BY-Kai ThiefB]\n040B0000 009A2A34 396A4D6B\n040B0000 00AE4248 396A4D08\n\n",
+            "title": "[Digital version reservation bonus lucky spoon receiving close @made by BY-Kai ThiefB]"
+        },
+        {
+            "content": "[Link: Equip Master Ladle(ZL+ZR) @CJB]\n80000300\n51130000 487E5E54\n78032000 00000088\n58090000 0251B600\n58091000 000001A8\n58091000 00000008\n58091000 00000040\n78030000 00000008\n64090130 00000000 000002F8\n78030000 00000004\n68090130 000003DF 00000002\n78030000 00000046\n68090130 270F270F 270F270F\n78030000 0000001E\n64090130 00000000 00130000\n78030000 0000000D\n64090130 00000000 07041251\n20000000\n\n",
+            "title": "[Link: Equip Master Ladle(ZL+ZR) @CJB]"
+        },
+        {
+            "content": "[EXP x4 @Made by Kaito]\n040B0000 019663A0 1E22100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n",
+            "title": "[EXP x4 @Made by Kaito]"
+        },
+        {
+            "content": "[EXP x8 Made by Kaito]\n040B0000 019663A0 1E24100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n",
+            "title": "[EXP x8 Made by Kaito]"
+        },
+        {
+            "content": "[EXP x16 Made by Kaito]\n040B0000 019663A0 1E26100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n",
+            "title": "[EXP x16 Made by Kaito]"
+        },
+        {
+            "content": "[EXP x30 Made by Kaito]\n040B0000 019663A0 1E27D00F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n",
+            "title": "[EXP x30 Made by Kaito]"
+        },
+        {
+            "content": "[1p 2x speed atack @made by xtatu]\n04000000 000AA550 1E201000\n\n",
+            "title": "[1p 2x speed atack @made by xtatu]"
+        },
+        {
+            "content": "[1p 3x speed atack @made by xtatu]\n04000000 000AA550 1E211000\n\n",
+            "title": "[1p 3x speed atack @made by xtatu]"
+        },
+        {
+            "content": "[1p 10x speed atack @made by xtatu]\n04000000 000AA550 1E249000\n\n",
+            "title": "[1p 10x speed atack @made by xtatu]"
+        },
+        {
+            "content": "[1p inf heath @made by xtatu]\n04000000 000102B0 1E37F009\n\n",
+            "title": "[1p inf heath @made by xtatu]"
+        },
+        {
+            "content": "[1p atack modific damager 31x @made by xtatu]\n04000000 000106EC 1E27F009\n\n",
+            "title": "[1p atack modific damager 31x @made by xtatu]"
+        },
+        {
+            "content": "[1p magic 31x up get @made by xtatu]\n04000000 00031040 1E27F009\n\n",
+            "title": "[1p magic 31x up get @made by xtatu]"
+        },
+        {
+            "content": "[hit anywhere on @made by xtatu]\n04000000 00091F44 D503201F\n\n",
+            "title": "[hit anywhere on @made by xtatu]"
+        },
+        {
+            "content": "[hit anywhere off ZR @made by xtatu]\n80000200\n04000000 00091F44 1e222860\n20000000\n\n",
+            "title": "[hit anywhere off ZR @made by xtatu]"
+        },
+        {
+            "content": "[#1 Max all Charaters' ATK and DEF @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E4E\n300E0000 00000012\n640F0000 00000000 270F270F\n780F0000 00000020\n310E0000\n\n",
+            "title": "[#1 Max all Charaters' ATK and DEF @Eiffel2018]"
+        },
+        {
+            "content": "[#2 Max all Charaters Hearts @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E4C\n300E0000 00000012\n610F0000 00000000 0000002D\n780F0000 00000020\n310E0000\n\n",
+            "title": "[#2 Max all Charaters Hearts @Eiffel2018]"
+        },
+        {
+            "content": "[#3 Max HP @Eiffel2018]\n12160000 4A570E74 00000000\n581F0000 4A573630\n520F1000 00000018\n780F2000 0000005C\n581E0000 4A2FB0A8\n780E0000 00174364\n680E11F0 468CA000 468CA000\n640E11F0 00000000 468CA000\n20000000\n\n",
+            "title": "[#3 Max HP @Eiffel2018]"
+        },
+        {
+            "content": "[#4 Max SP @Eiffel2018]\n12160000 4A570E74 00000000\n581F0000 4A573630\n780F0000 00000044\n620F0000 00000000 00000303\n20000000\n\n",
+            "title": "[#4 Max SP @Eiffel2018]"
+        },
+        {
+            "content": "[#5 10k-KOs after press Left @Eiffel2018]\n80001000\n12130000 4A570E74 00002710\n04100000 4A570E74 00002710\n20000000\n20000000\n\n",
+            "title": "[#5 10k-KOs after press Left @Eiffel2018]"
+        },
+        {
+            "content": "[#6 Max HP for player2 @Eiffel2018]\n12160000 4A573638 00000000\n581F0000 4A573638\n520F1000 00000018\n780F2000 0000005C\n581E0000 4A2FB0A8\n780E0000 00174364\n680E11F0 468CA000 468CA000\n640E11F0 00000000 468CA000\n20000000\n\n",
+            "title": "[#6 Max HP for player2 @Eiffel2018]"
+        },
+        {
+            "content": "[#7 Max SP for player2 @Eiffel2018]\n12160000 4A573638 00000000\n581F0000 4A573638\n780F0000 00000044\n620F0000 00000000 00000303\n20000000\n\n",
+            "title": "[#7 Max SP for player2 @Eiffel2018]"
+        },
+        {
+            "content": "[#8 10k-KOs for player2 @Eiffel2018]\n80001000\n12160000 4A573638 00000000\n12130000 4A571164 00002710\n04100000 4A571164 00002710\n20000000\n20000000\n\n",
+            "title": "[#8 10k-KOs for player2 @Eiffel2018]"
+        },
+        {
+            "content": "[#9 Max Charaters' LV after Battle @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E48\n300E0000 00000012\n640F0000 00000000 0098967F\n780F0000 00000020\n310E0000\n\n",
+            "title": "[#9 Max Charaters' LV after Battle @Eiffel2018]"
+        },
+        {
+            "content": "[#10 All items 999 @Eiffel2018]\n580F0000 025170D8\n780F0000 487E75A0\n300E0000 00000029\n680F1000 03E703E7 03E703E7\n310E0000\n620F0000 00000000 000003E7\n780F0000 0000027B\n300E0000 00000014\n680F1000 01010101 01010101\n310E0000\n640F1000 00000000 01010101\n610F1000 00000000 00000001\n\n",
+            "title": "[#10 All items 999 @Eiffel2018]"
+        },
+        {
+            "content": "[#11 Link - Hyrule Warrior @Eiffel2018]\n01100000 487E5E56 00000011\n02100000 487E5E57 00001111\n\n",
+            "title": "[#11 Link - Hyrule Warrior @Eiffel2018]"
+        },
+        {
+            "content": "[#12.01 Link - Weapon Enchance @Eiffel2018]\n581E0000 4870C8C0\n511F0000 487E5E54\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.01 Link - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.02 Zelda - Weapon Enchance @Eiffel2018]\n581E0000 4870CA58\n511F0000 487E5E74\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.02 Zelda - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.03 King Rhoam - Weapon Enchance @Eiffel2018]\n581E0000 4870CBF0\n511F0000 487E5E94\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.03 King Rhoam - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.04 Mipha - Weapon Enchance @Eiffel2018]\n581E0000 4870CD88\n511F0000 487E5EB4\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.04 Mipha - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.05 Daruk - Weapon Enchance @Eiffel2018]\n581E0000 4870CF20\n511F0000 487E5ED4\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.05 Daruk - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.06 Revali - Weapon Enchance @Eiffel2018]\n581E0000 4870D0B8\n511F0000 487E5EF4\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.06 Revali - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.07 Urbosa - Weapon Enchance @Eiffel2018]\n581E0000 4870D250\n511F0000 487E5F14\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.07 Urbosa - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.08 Impa - Weapon Enchance @Eiffel2018]\n581E0000 4870D3E8\n511F0000 487E5F34\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.08 Impa - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.09 Sidon - Weapon Enchance @Eiffel2018]\n581E0000 4870D580\n511F0000 487E5F54\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.09 Sidon - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.10 Yunobo - Weapon Enchance @Eiffel2018]\n581E0000 4870D718\n511F0000 487E5F74\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.10 Yunobo - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.11 Teba - Weapon Enchance @Eiffel2018]\n581E0000 4870D8B0\n511F0000 487E5F94\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.11 Teba - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.12 Riju - Weapon Enchance @Eiffel2018]\n581E0000 4870DA48\n511F0000 487E5FB4\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.12 Riju - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.13 Hestu - Weapon Enchance @Eiffel2018]\n581E0000 4870DBE0\n511F0000 487E5FD4\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.13 Hestu - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.14 Great Fairies - Weapon Enchance @Eiffel2018]\n581E0000 4870DD78\n511F0000 487E5FF4\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.14 Great Fairies - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.15 Master Kohga - Weapon Enchance @Eiffel2018]\n581E0000 4870DF10\n511F0000 487E6014\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.15 Master Kohga - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.16 Monk Maz Koshia - Weapon Enchance @Eiffel2018]\n581E0000 4870E0A8\n511F0000 487E6034\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.16 Monk Maz Koshia - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.17 Terrako - Weapon Enchance @Eiffel2018]\n581E0000 4870E240\n511F0000 487E6054\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.17 Terrako - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[#12.18 Calamity Ganon - Weapon Enchance @Eiffel2018]\n581E0000 4870E3D8\n511F0000 487E6074\n780F2000 00000088\n780F0000 00000008\n640F11E0 00000000 0000270F\n780F0000 00000002\n640F11E0 00000000 13501350\n780F0000 00000030\n680F11E0 00FF00FF 00FF00FF\n780F0000 00000008\n680F11E0 00FF00FF 00FF00FF\n680F11E0 00FF00FF 00FF0001\n780F0000 00000010\n680F11E0 00000000 00000C63\n680F11E0 0004074A 50021514\n\n",
+            "title": "[#12.18 Calamity Ganon - Weapon Enchance @Eiffel2018]"
+        },
+        {
+            "content": "[Unlock all armor pieces @CJB]\n08130000 487DF7B3 01010101 01010101\n08190000 487DF7BB 01010101 01010101\n08120000 487DF7C3 01010101 01010101\n04130000 487DF7CB 01010101\n08190000 487DF96D 01010101 01010101\n08120000 487DF975 01010101 01010101\n04130000 487DF97D 01010101\n08190000 487DFB27 01010101 01010101\n08120000 487DFB2F 01010101 01010101\n04130000 487DFB37 01010101\n\n\n",
+            "title": "[Unlock all armor pieces @CJB]"
+        },
+        {
+            "content": "[#2 MAX Charaters' LV After Battle @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E48\n300E0000 00000012\n640F0000 00000000 0098967F\n780F0000 00000020\n310E0000\n\n",
+            "title": "[#2 MAX Charaters' LV After Battle @Eiffel2018]"
+        },
+        {
+            "content": "[EXP x4]\n040B0000 019663A0 1E22100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n",
+            "title": "[EXP x4]"
+        },
+        {
+            "content": "[EXP x8]\n040B0000 019663A0 1E24100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n",
+            "title": "[EXP x8]"
+        },
+        {
+            "content": "[EXP x16]\n040B0000 019663A0 1E26100F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n",
+            "title": "[EXP x16]"
+        },
+        {
+            "content": "[EXP x30]\n040B0000 019663A0 1E27D00F\n040B0000 019663A4 1E2F0800\n040B0000 019663A8 1E290000\n040B0000 019663AC D65F03C0\n040B0000 00642358 944C9012\n\n",
+            "title": "[EXP x30]"
+        },
+        {
+            "content": "[Infinite Ice]\n04100000 4A573846 0000270F\n\n",
+            "title": "[Infinite Ice]"
+        },
+        {
+            "content": "[Infinite Fire]\n04100000 4A573840 0000270F\n\n",
+            "title": "[Infinite Fire]"
+        },
+        {
+            "content": "[Infinite Lightning]\n04100000 4A573848 0000270F\n\n",
+            "title": "[Infinite Lightning]"
+        },
+        {
+            "content": "[Zelda: Costume 1 @CJB]\n01100000 487E5E76 00000034\n\n",
+            "title": "[Zelda: Costume 1 @CJB]"
+        },
+        {
+            "content": "[Zelda: Costume 2 @CJB]\n01100000 487E5E76 00000035\n\n",
+            "title": "[Zelda: Costume 2 @CJB]"
+        },
+        {
+            "content": "[Zelda: Costume 3 @CJB]\n01100000 487E5E76 00000036\n\n",
+            "title": "[Zelda: Costume 3 @CJB]"
+        },
+        {
+            "content": "[Zelda: Costume Default @CJB]\n01100000 487E5E76 00000033\n\n\n\n\n\n\n",
+            "title": "[Zelda: Costume Default @CJB]"
         }
     ],
     "908CD685037018E9": [
         {
-            "title": "[Max Rupees @TheTwilightZone]",
-            "content": "[Max Rupees @TheTwilightZone]\n58000000 026558B8\n58001000 000001C8\n58001000 00000008\n58001000 00000008\n58001000 00000000\n78000000 00000064\n64000000 00000000 0098967F\n\n"
+            "content": "[Max Rupees @TheTwilightZone]\n58000000 026558B8\n58001000 000001C8\n58001000 00000008\n58001000 00000008\n58001000 00000000\n78000000 00000064\n64000000 00000000 0098967F\n\n",
+            "title": "[Max Rupees @TheTwilightZone]"
         },
         {
-            "title": "[Store Stocks x100 @TheTwilightZone]",
-            "content": "[Store Stocks x100 @TheTwilightZone]\n580F0000 02655910\n580F1000 00000048\n580F1000 00000100\n580F1000 00000060\n580F1000 000000B0\n580F1000 00000050\n780F0000 00000024\n30010000 00000007\n640F0000 00000000 00000064\n780F0000 00000008\n31010000 20000000\n\n"
+            "content": "[Store Stocks x100 @TheTwilightZone]\n580F0000 02655910\n580F1000 00000048\n580F1000 00000100\n580F1000 00000060\n580F1000 000000B0\n580F1000 00000050\n780F0000 00000024\n30010000 00000007\n640F0000 00000000 00000064\n780F0000 00000008\n31010000 20000000\n\n",
+            "title": "[Store Stocks x100 @TheTwilightZone]"
         },
         {
-            "title": "[Infinite Flame Rod @TheTwilightZone]",
-            "content": "[Infinite Flame Rod @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 000003C8\n780F0000 00000900\n640F0000 00000000 00000005\n\n"
+            "content": "[Infinite Flame Rod @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 000003C8\n780F0000 00000900\n640F0000 00000000 00000005\n\n",
+            "title": "[Infinite Flame Rod @TheTwilightZone]"
         },
         {
-            "title": "[Infinite Blizzard Rod @TheTwilightZone]",
-            "content": "[Infinite Blizzard Rod @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 000003C8\n780F0000 00000904\n640F0000 00000000 00000005\n\n"
+            "content": "[Infinite Blizzard Rod @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 000003C8\n780F0000 00000904\n640F0000 00000000 00000005\n\n",
+            "title": "[Infinite Blizzard Rod @TheTwilightZone]"
         },
         {
-            "title": "[Infinite Thunder Rod @TheTwilightZone]",
-            "content": "[Infinite Thunder Rod @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 000003C8\n780F0000 00000908\n640F0000 00000000 00000005\n\n"
+            "content": "[Infinite Thunder Rod @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 000003C8\n780F0000 00000908\n640F0000 00000000 00000005\n\n",
+            "title": "[Infinite Thunder Rod @TheTwilightZone]"
         },
         {
-            "title": "[Infinite Apples @TheTwilightZone]",
-            "content": "[Infinite Apples @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 000003C8\n780F0000 0000091C\n640F0000 00000000 00000007\n\n"
+            "content": "[Infinite Apples @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 000003C8\n780F0000 0000091C\n640F0000 00000000 00000007\n\n",
+            "title": "[Infinite Apples @TheTwilightZone]"
         },
         {
-            "title": "[Instant Rune Charge @TheTwilightZone]",
-            "content": "[Instant Rune Charge @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n780F0000 00000064\n640F0000 00000000 00000000\n\n"
+            "content": "[Instant Rune Charge @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n780F0000 00000064\n640F0000 00000000 00000000\n\n",
+            "title": "[Instant Rune Charge @TheTwilightZone]"
         },
         {
-            "title": "[Impa 7 Shadows @TheTwilightZone]",
-            "content": "[Impa 7 Shadows @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 00000008\n780F0000 000000C0\n640F1000 00000000 00000007\n\n"
+            "content": "[Impa 7 Shadows @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 00000008\n780F0000 000000C0\n640F1000 00000000 00000007\n\n",
+            "title": "[Impa 7 Shadows @TheTwilightZone]"
         },
         {
-            "title": "[Special Power Maximum @TheTwilightZone]",
-            "content": "[Special Power Maximum @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 00000008\n780F0000 00000044\n640F0000 00000000 00010303\n\n"
+            "content": "[Special Power Maximum @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 00000008\n780F0000 00000044\n640F0000 00000000 00010303\n\n",
+            "title": "[Special Power Maximum @TheTwilightZone]"
         },
         {
-            "title": "[1p normal speed]",
-            "content": "[1p normal speed]\n04000000 000BAA60 1E2E1000\n\n"
+            "content": "[1p normal speed]\n04000000 000BAA60 1E2E1000\n\n",
+            "title": "[1p normal speed]"
         },
         {
-            "title": "[1p 2x speed]",
-            "content": "[1p 2x speed]\n04000000 000BAA60 1E201000\n\n"
+            "content": "[1p 2x speed]\n04000000 000BAA60 1E201000\n\n",
+            "title": "[1p 2x speed]"
         },
         {
-            "title": "[1p 3x speed]",
-            "content": "[1p 3x speed]\n04000000 000BAA60 1E211000\n\n"
+            "content": "[1p 3x speed]\n04000000 000BAA60 1E211000\n\n",
+            "title": "[1p 3x speed]"
         },
         {
-            "title": "[1p inf heath]",
-            "content": "[1p inf heath]\n04000000 000102B0 1E37F009\n\n"
+            "content": "[1p inf heath]\n04000000 000102B0 1E37F009\n\n",
+            "title": "[1p inf heath]"
         },
         {
-            "title": "[1p attack up 31x]",
-            "content": "[1p attack up 31x]\n04000000 00010AA0 1E27F009\n\n"
+            "content": "[1p attack up 31x]\n04000000 00010AA0 1E27F009\n\n",
+            "title": "[1p attack up 31x]"
         },
         {
-            "title": "[1p hit range 31x]",
-            "content": "[1p hit range 31x]\n04000000 0009E9C4 1E27F009"
+            "content": "[1p hit range 31x]\n04000000 0009E9C4 1E27F009",
+            "title": "[1p hit range 31x]"
         }
     ],
     "935EBE83C4A06583": [
         {
-            "title": "[inf hp link @made by arismendy64 on gbatemp]",
-            "content": "[inf hp link @made by arismendy64 on gbatemp]\n580F0000 02515630\n780F0000 001744B4\n640F0000 00000000 46D48000\n\n"
+            "content": "[inf hp link @made by arismendy64 on gbatemp]\n580F0000 02515630\n780F0000 001744B4\n640F0000 00000000 46D48000\n\n",
+            "title": "[inf hp link @made by arismendy64 on gbatemp]"
         },
         {
-            "title": "[Rupees x9999999 @made by CJB]",
-            "content": "[Rupees x9999999 @made by CJB]\n04100000 487E73A4 0098967F\n\n"
+            "content": "[Rupees x9999999 @made by CJB]\n04100000 487E73A4 0098967F\n\n",
+            "title": "[Rupees x9999999 @made by CJB]"
         },
         {
-            "title": "[9999 materials @made by arismendy64]",
-            "content": "[9999 materials @made by arismendy64]\n580F0000 02515600\n580F1000 000001C8\n580F1000 00000030\n780F0000 00000290\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n\n"
+            "content": "[9999 materials @made by arismendy64]\n580F0000 02515600\n580F1000 000001C8\n580F1000 00000030\n780F0000 00000290\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n780F0000 00000008\n680F0000 270F270F 270F270F\n\n",
+            "title": "[9999 materials @made by arismendy64]"
         },
         {
-            "title": "[Korok Seeds x9999@CJB]",
-            "content": "[Korok Seeds x9999@CJB]\n02100000 487E76C6 0000270F\n01100000 487E79F6 00000001\n\n"
+            "content": "[Korok Seeds x9999@CJB]\n02100000 487E76C6 0000270F\n01100000 487E79F6 00000001\n\n",
+            "title": "[Korok Seeds x9999@CJB]"
         },
         {
-            "title": "[Terrako Comp. x9999@CJB]",
-            "content": "[Terrako Comp. x9999@CJB]\n02100000 487E76C8 0000270F\n01100000 487E79F7 00000001\n\n"
+            "content": "[Terrako Comp. x9999@CJB]\n02100000 487E76C8 0000270F\n01100000 487E79F7 00000001\n\n",
+            "title": "[Terrako Comp. x9999@CJB]"
         },
         {
-            "title": "[Etheral Stone x9999@CJB]",
-            "content": "[Etheral Stone x9999@CJB]\n02100000 487E76CC 0000270F\n01100000 487E79F9 00000001\n\n"
+            "content": "[Etheral Stone x9999@CJB]\n02100000 487E76CC 0000270F\n01100000 487E79F9 00000001\n\n",
+            "title": "[Etheral Stone x9999@CJB]"
         },
         {
-            "title": "[Fruit Items x9999@CJB]",
-            "content": "[Fruit Items x9999@CJB]\n08100000 487E75A2 270F270F 270F270F\n04100000 487E75AA 270F270F\n04100000 487E7964 01010101\n02100000 487E7968 00000101\n\n"
+            "content": "[Fruit Items x9999@CJB]\n08100000 487E75A2 270F270F 270F270F\n04100000 487E75AA 270F270F\n04100000 487E7964 01010101\n02100000 487E7968 00000101\n\n",
+            "title": "[Fruit Items x9999@CJB]"
         },
         {
-            "title": "[Mushroom Items x9999@CJB]",
-            "content": "[Mushroom Items x9999@CJB]\n08100000 487E75AE 270F270F 270F270F\n08100000 487E75B6 270F270F 270F270F\n08100000 487E75BE 270F270F 270F270F\n08100000 487E796A 01010101 01010101\n04100000 487E7972 01010101\n\n"
+            "content": "[Mushroom Items x9999@CJB]\n08100000 487E75AE 270F270F 270F270F\n08100000 487E75B6 270F270F 270F270F\n08100000 487E75BE 270F270F 270F270F\n08100000 487E796A 01010101 01010101\n04100000 487E7972 01010101\n\n",
+            "title": "[Mushroom Items x9999@CJB]"
         },
         {
-            "title": "[Flower Items x9999@CJB]",
-            "content": "[Flower Items x9999@CJB]\n08100000 487E75C6 270F270F 270F270F\n08100000 487E75CE 270F270F 270F270F\n08100000 487E75D6 270F270F 270F270F\n04100000 487E75DE 270F270F\n08100000 487E7976 01010101 01010101\n04100000 487E797E 01010101\n02100000 487E7982 00000101\n02100000 487E76C4 0000270F\n01100000 487E79F5 00000001\n\n"
+            "content": "[Flower Items x9999@CJB]\n08100000 487E75C6 270F270F 270F270F\n08100000 487E75CE 270F270F 270F270F\n08100000 487E75D6 270F270F 270F270F\n04100000 487E75DE 270F270F\n08100000 487E7976 01010101 01010101\n04100000 487E797E 01010101\n02100000 487E7982 00000101\n02100000 487E76C4 0000270F\n01100000 487E79F5 00000001\n\n",
+            "title": "[Flower Items x9999@CJB]"
         },
         {
-            "title": "[Meat Items x9999@CJB]",
-            "content": "[Meat Items x9999@CJB]\n08100000 487E75E2 270F270F 270F270F\n04100000 487E75EA 270F270F\n04100000 487E7984 01010101\n02100000 487E7988 00000101\n\n"
+            "content": "[Meat Items x9999@CJB]\n08100000 487E75E2 270F270F 270F270F\n04100000 487E75EA 270F270F\n04100000 487E7984 01010101\n02100000 487E7988 00000101\n\n",
+            "title": "[Meat Items x9999@CJB]"
         },
         {
-            "title": "[Ingredient Items x9999@CJB]",
-            "content": "[Ingredient Items x9999@CJB]\n08100000 487E75EE 270F270F 270F270F\n08100000 487E75F6 270F270F 270F270F\n08100000 487E75FE 270F270F 270F270F\n02100000 487E7606 0000270F\n08100000 487E798A 01010101 01010101\n04100000 487E7992 01010101\n01100000 487E7996 00000001\n\n"
+            "content": "[Ingredient Items x9999@CJB]\n08100000 487E75EE 270F270F 270F270F\n08100000 487E75F6 270F270F 270F270F\n08100000 487E75FE 270F270F 270F270F\n02100000 487E7606 0000270F\n08100000 487E798A 01010101 01010101\n04100000 487E7992 01010101\n01100000 487E7996 00000001\n\n",
+            "title": "[Ingredient Items x9999@CJB]"
         },
         {
-            "title": "[Fish Items x9999@CJB]",
-            "content": "[Fish Items x9999@CJB]\n08100000 487E7620 270F270F 270F270F\n08100000 487E7628 270F270F 270F270F\n08100000 487E7630 270F270F 270F270F\n08100000 487E7638 270F270F 270F270F\n04100000 487E7640 270F270F\n08100000 487E79A3 01010101 01010101\n08100000 487E79AB 01010101 01010101\n02100000 487E79B3 00000101\n\n"
+            "content": "[Fish Items x9999@CJB]\n08100000 487E7620 270F270F 270F270F\n08100000 487E7628 270F270F 270F270F\n08100000 487E7630 270F270F 270F270F\n08100000 487E7638 270F270F 270F270F\n04100000 487E7640 270F270F\n08100000 487E79A3 01010101 01010101\n08100000 487E79AB 01010101 01010101\n02100000 487E79B3 00000101\n\n",
+            "title": "[Fish Items x9999@CJB]"
         },
         {
-            "title": "[Bug Items x9999@CJB]",
-            "content": "[Bug Items x9999@CJB]\n08100000 487E7644 270F270F 270F270F\n08100000 487E764C 270F270F 270F270F\n08100000 487E7654 270F270F 270F270F\n08100000 487E765C 270F270F 270F270F\n04100000 487E7664 270F270F\n08100000 487E79B5 01010101 01010101\n08100000 487E79BD 01010101 01010101\n02100000 487E79C5 00000101\n\n"
+            "content": "[Bug Items x9999@CJB]\n08100000 487E7644 270F270F 270F270F\n08100000 487E764C 270F270F 270F270F\n08100000 487E7654 270F270F 270F270F\n08100000 487E765C 270F270F 270F270F\n04100000 487E7664 270F270F\n08100000 487E79B5 01010101 01010101\n08100000 487E79BD 01010101 01010101\n02100000 487E79C5 00000101\n\n",
+            "title": "[Bug Items x9999@CJB]"
         },
         {
-            "title": "[Mineral Items x9999@CJB]",
-            "content": "[Mineral Items x9999@CJB]\n08100000 487E7668 270F270F 270F270F\n08100000 487E7670 270F270F 270F270F\n08100000 487E79C7 01010101 01010101\n\n"
+            "content": "[Mineral Items x9999@CJB]\n08100000 487E7668 270F270F 270F270F\n08100000 487E7670 270F270F 270F270F\n08100000 487E79C7 01010101 01010101\n\n",
+            "title": "[Mineral Items x9999@CJB]"
         },
         {
-            "title": "[Monster Items x9999@CJB]",
-            "content": "[Monster Items x9999@CJB]\n08100000 487E7678 270F270F 270F270F\n08100000 487E7680 270F270F 270F270F\n08100000 487E7688 270F270F 270F270F\n08100000 487E7690 270F270F 270F270F\n08100000 487E7698 270F270F 270F270F\n08100000 487E76A0 270F270F 270F270F\n08100000 487E76A8 270F270F 270F270F\n08100000 487E76B0 270F270F 270F270F\n08100000 487E79CF 01010101 01010101\n08100000 487E79D7 01010101 01010101\n08100000 487E79DF 01010101 01010101\n08100000 487E79E7 01010101 01010101\n\n"
+            "content": "[Monster Items x9999@CJB]\n08100000 487E7678 270F270F 270F270F\n08100000 487E7680 270F270F 270F270F\n08100000 487E7688 270F270F 270F270F\n08100000 487E7690 270F270F 270F270F\n08100000 487E7698 270F270F 270F270F\n08100000 487E76A0 270F270F 270F270F\n08100000 487E76A8 270F270F 270F270F\n08100000 487E76B0 270F270F 270F270F\n08100000 487E79CF 01010101 01010101\n08100000 487E79D7 01010101 01010101\n08100000 487E79DF 01010101 01010101\n08100000 487E79E7 01010101 01010101\n\n",
+            "title": "[Monster Items x9999@CJB]"
         },
         {
-            "title": "[Ancient Items x9999@CJB]",
-            "content": "[Ancient Items x9999@CJB]\n08100000 487E76B8 270F270F 270F270F\n04100000 487E76C0 270F270F\n04100000 487E79EF 01010101\n02100000 487E79F3 00000101\n\n"
+            "content": "[Ancient Items x9999@CJB]\n08100000 487E76B8 270F270F 270F270F\n04100000 487E76C0 270F270F\n04100000 487E79EF 01010101\n02100000 487E79F3 00000101\n\n",
+            "title": "[Ancient Items x9999@CJB]"
         },
         {
-            "title": "[Trophy Items x9999@CJB]",
-            "content": "[Trophy Items x9999@CJB]\n08100000 487E76CE 270F270F 270F270F\n08100000 487E76D6 270F270F 270F270F\n08100000 487E76DE 270F270F 270F270F\n02100000 487E76E6 0000270F\n08100000 487E79FA 01010101 01010101\n04100000 487E7A02 01010101\n01100000 487E7A06 00000001\n\n"
+            "content": "[Trophy Items x9999@CJB]\n08100000 487E76CE 270F270F 270F270F\n08100000 487E76D6 270F270F 270F270F\n08100000 487E76DE 270F270F 270F270F\n02100000 487E76E6 0000270F\n08100000 487E79FA 01010101 01010101\n04100000 487E7A02 01010101\n01100000 487E7A06 00000001\n\n",
+            "title": "[Trophy Items x9999@CJB]"
         },
         {
-            "title": "[No accessory reduction @91wii]",
-            "content": "[No accessory reduction @91wii]\n040B0000 00B85E88 5280000E\n"
+            "content": "[No accessory reduction @91wii]\n040B0000 00B85E88 5280000E\n",
+            "title": "[No accessory reduction @91wii]"
         },
         {
-            "title": "[Rupee not reduced @91wii]",
-            "content": "[Rupee not reduced @91wii]\n040B0000 00B7018C 4B1F0129\n040B0000 00B77014 4B1F0148\n040B0000 00BB6160 4B1F0149\n040B0000 00BC1E34 4B1F0149\n040B0000 00BC9D74 4B1F0149\n040B0000 00BD5A2C 4B1F0148\n"
+            "content": "[Rupee not reduced @91wii]\n040B0000 00B7018C 4B1F0129\n040B0000 00B77014 4B1F0148\n040B0000 00BB6160 4B1F0149\n040B0000 00BC1E34 4B1F0149\n040B0000 00BC9D74 4B1F0149\n040B0000 00BD5A2C 4B1F0148\n",
+            "title": "[Rupee not reduced @91wii]"
         },
         {
-            "title": "[Experience value 4 times @91wii]",
-            "content": "[Experience value 4 times @91wii]\n040B0000 01960400 1E22100F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n"
+            "content": "[Experience value 4 times @91wii]\n040B0000 01960400 1E22100F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n",
+            "title": "[Experience value 4 times @91wii]"
         },
         {
-            "title": "[Experience value 8 times @91wii]",
-            "content": "[Experience value 8 times @91wii]\n040B0000 01960400 1E24100F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n"
+            "content": "[Experience value 8 times @91wii]\n040B0000 01960400 1E24100F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n",
+            "title": "[Experience value 8 times @91wii]"
         },
         {
-            "title": "[Experience value 16 times @91wii]",
-            "content": "[Experience value 16 times @91wii]\n040B0000 01960400 1E26100F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n"
+            "content": "[Experience value 16 times @91wii]\n040B0000 01960400 1E26100F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n",
+            "title": "[Experience value 16 times @91wii]"
         },
         {
-            "title": "[Experience value 30 times @(Kaito B) from 91wii]",
-            "content": "[Experience value 30 times @(Kaito B) from 91wii]\n040B0000 01960400 1E27D00F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n"
+            "content": "[Experience value 30 times @(Kaito B) from 91wii]\n040B0000 01960400 1E27D00F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n",
+            "title": "[Experience value 30 times @(Kaito B) from 91wii]"
         },
         {
-            "title": "[KO number 5 times @91wii]",
-            "content": "[KO number 5 times @91wii]\n040B0000 0063F7CC 1100154B\n040B0000 0063F7D4 1A8B26AA\n"
+            "content": "[KO number 5 times @91wii]\n040B0000 0063F7CC 1100154B\n040B0000 0063F7D4 1A8B26AA\n",
+            "title": "[KO number 5 times @91wii]"
         },
         {
-            "title": "[KO number 10 times @(Kaito B) from 91wii]",
-            "content": "[KO number 10 times @(Kaito B) from 91wii]\n040B0000 0063F7CC 1100294B\n040B0000 0063F7D4 1A8B26AA\n"
+            "content": "[KO number 10 times @(Kaito B) from 91wii]\n040B0000 0063F7CC 1100294B\n040B0000 0063F7D4 1A8B26AA\n",
+            "title": "[KO number 10 times @(Kaito B) from 91wii]"
         },
         {
-            "title": "[KO number 20 times @(Kaito B) from 91wii]",
-            "content": "[KO number 20 times @(Kaito B) from 91wii]\n040B0000 0063F7CC 1100514B\n040B0000 0063F7D4 1A8B26AA\n"
+            "content": "[KO number 20 times @(Kaito B) from 91wii]\n040B0000 0063F7CC 1100514B\n040B0000 0063F7D4 1A8B26AA\n",
+            "title": "[KO number 20 times @(Kaito B) from 91wii]"
         },
         {
-            "title": "[Store inventory max @91wii]",
-            "content": "[Store inventory max @91wii]\n040B0000 00B6FF28 782A69CC\n"
+            "content": "[Store inventory max @91wii]\n040B0000 00B6FF28 782A69CC\n",
+            "title": "[Store inventory max @91wii]"
         },
         {
-            "title": "[Movement speed 1.5 times @(Kaito B) from 91wii]",
-            "content": "[Movement speed 1.5 times @(Kaito B) from 91wii]\n040B0000 01960410 1E2F1005\n040B0000 01960414 1E250821\n040B0000 01960418 1E210800\n040B0000 0196041C D65F03C0\n040B0000 001256EC 9460EB49\n040B0000 0012577C 9460EB25\n040B0000 0012580C 9460EB01\n040B0000 0012589C 9460EADD\n"
+            "content": "[Movement speed 1.5 times @(Kaito B) from 91wii]\n040B0000 01960410 1E2F1005\n040B0000 01960414 1E250821\n040B0000 01960418 1E210800\n040B0000 0196041C D65F03C0\n040B0000 001256EC 9460EB49\n040B0000 0012577C 9460EB25\n040B0000 0012580C 9460EB01\n040B0000 0012589C 9460EADD\n",
+            "title": "[Movement speed 1.5 times @(Kaito B) from 91wii]"
         },
         {
-            "title": "[Movement speed 2 times @(Kaito B) from 91wii]",
-            "content": "[Movement speed 2 times @(Kaito B) from 91wii]\n040B0000 01960410 1E201005\n040B0000 01960414 1E250821\n040B0000 01960418 1E210800\n040B0000 0196041C D65F03C0\n040B0000 001256EC 9460EB49\n040B0000 0012577C 9460EB25\n040B0000 0012580C 9460EB01\n040B0000 0012589C 9460EADD\n"
+            "content": "[Movement speed 2 times @(Kaito B) from 91wii]\n040B0000 01960410 1E201005\n040B0000 01960414 1E250821\n040B0000 01960418 1E210800\n040B0000 0196041C D65F03C0\n040B0000 001256EC 9460EB49\n040B0000 0012577C 9460EB25\n040B0000 0012580C 9460EB01\n040B0000 0012589C 9460EADD\n",
+            "title": "[Movement speed 2 times @(Kaito B) from 91wii]"
         },
         {
-            "title": "[Movement speed 3 times @(Kaito B) from 91wii]",
-            "content": "[Movement speed 3 times @(Kaito B) from 91wii]\n040B0000 01960410 1E211005\n040B0000 01960414 1E250821\n040B0000 01960418 1E210800\n040B0000 0196041C D65F03C0\n040B0000 001256EC 9460EB49\n040B0000 0012577C 9460EB25\n040B0000 0012580C 9460EB01\n040B0000 0012589C 9460EADD\n\n"
+            "content": "[Movement speed 3 times @(Kaito B) from 91wii]\n040B0000 01960410 1E211005\n040B0000 01960414 1E250821\n040B0000 01960418 1E210800\n040B0000 0196041C D65F03C0\n040B0000 001256EC 9460EB49\n040B0000 0012577C 9460EB25\n040B0000 0012580C 9460EB01\n040B0000 0012589C 9460EADD\n\n",
+            "title": "[Movement speed 3 times @(Kaito B) from 91wii]"
         },
         {
-            "title": "[Infinite Ice @(Kaito B) from 91wii]",
-            "content": "[Infinite Ice @(Kaito B) from 91wii]\n04100000 4A573846 0000270F\n\n"
+            "content": "[Infinite Ice @(Kaito B) from 91wii]\n04100000 4A573846 0000270F\n\n",
+            "title": "[Infinite Ice @(Kaito B) from 91wii]"
         },
         {
-            "title": "[Infinite Fire @(Kaito B) from 91wii]",
-            "content": "[Infinite Fire @(Kaito B) from 91wii]\n04100000 4A573840 0000270F\n\n"
+            "content": "[Infinite Fire @(Kaito B) from 91wii]\n04100000 4A573840 0000270F\n\n",
+            "title": "[Infinite Fire @(Kaito B) from 91wii]"
         },
         {
-            "title": "[Infinite Lightning @(Kaito B) from 91wii]",
-            "content": "[Infinite Lightning @(Kaito B) from 91wii]\n04100000 4A573848 0000270F\n\n"
+            "content": "[Infinite Lightning @(Kaito B) from 91wii]\n04100000 4A573848 0000270F\n\n",
+            "title": "[Infinite Lightning @(Kaito B) from 91wii]"
         },
         {
-            "title": "[Have Experience Multiple @(Kaito B) from 91wii]",
-            "content": "[Have Experience Multiple @(Kaito B) from 91wii]\n040B0000 01960400 1E27D00F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n\n"
+            "content": "[Have Experience Multiple @(Kaito B) from 91wii]\n040B0000 01960400 1E27D00F\n040B0000 01960404 1E2F0800\n040B0000 01960408 1E290000\n040B0000 0196040C D65F03C0\n040B0000 00640C14 944C7DFB\n\n",
+            "title": "[Have Experience Multiple @(Kaito B) from 91wii]"
         },
         {
-            "title": "[Have Kill KO Number Multi Kill @(Kaito B) from 91wii]",
-            "content": "[Have Kill KO Number Multi Kill @(Kaito B) from 91wii]\n040B0000 0063F7CC 1100514B\n040B0000 0063F7D4 1A8B26AA\n\n"
+            "content": "[Have Kill KO Number Multi Kill @(Kaito B) from 91wii]\n040B0000 0063F7CC 1100514B\n040B0000 0063F7D4 1A8B26AA\n\n",
+            "title": "[Have Kill KO Number Multi Kill @(Kaito B) from 91wii]"
         },
         {
-            "title": "[Store inventory Maximum @(Kaito B) from 91wii]",
-            "content": "[Store inventory Maximum @(Kaito B) from 91wii]\n040B0000 00B6FF28 782A69CC\n\n"
+            "content": "[Store inventory Maximum @(Kaito B) from 91wii]\n040B0000 00B6FF28 782A69CC\n\n",
+            "title": "[Store inventory Maximum @(Kaito B) from 91wii]"
         },
         {
-            "title": "[Fast Moving Player Speed (like HERO The FLASH) @(Kaito B) from 91wii]",
-            "content": "[Fast Moving Player Speed (like HERO The FLASH) @(Kaito B) from 91wii]\n040B0000 01960410 1E211005\n040B0000 01960414 1E250821\n040B0000 01960418 1E210800\n040B0000 0196041C D65F03C0\n040B0000 001256EC 9460EB49\n040B0000 0012577C 9460EB25\n040B0000 0012580C 9460EB01\n040B0000 0012589C 9460EADD\n\n"
+            "content": "[Fast Moving Player Speed (like HERO The FLASH) @(Kaito B) from 91wii]\n040B0000 01960410 1E211005\n040B0000 01960414 1E250821\n040B0000 01960418 1E210800\n040B0000 0196041C D65F03C0\n040B0000 001256EC 9460EB49\n040B0000 0012577C 9460EB25\n040B0000 0012580C 9460EB01\n040B0000 0012589C 9460EADD\n\n",
+            "title": "[Fast Moving Player Speed (like HERO The FLASH) @(Kaito B) from 91wii]"
         },
         {
-            "title": "[Unlimited Items Have @(Kaito B) from 91wii]",
-            "content": "[Unlimited Items Have @(Kaito B) from 91wii]\n040B0000 00B86074 0B0E0189\n\n"
+            "content": "[Unlimited Items Have @(Kaito B) from 91wii]\n040B0000 00B86074 0B0E0189\n\n",
+            "title": "[Unlimited Items Have @(Kaito B) from 91wii]"
         },
         {
-            "title": "[Infinite Spoils (All Slots) made by @Spiderman]",
-            "content": "[Infinite Spoils (All Slots) made by @Spiderman]\n08100000 4870837c 270F270F 270F270F\n08100000 48708384 270F270F 270F270F\n08100000 4870838c 270F270F 270F270F\n08100000 48708394 270F270F 270F270F\n08100000 4870839a 270F270F 270F270F\n08100000 487083a2 270F270F 270F270F\n08100000 487083aa 270F270F 270F270F\n08100000 487083b2 270F270F 270F270F\n08100000 487083ba 270F270F 270F270F\n08100000 487083c2 270F270F 270F270F\n08100000 487083ca 270F270F 270F270F\n\n"
+            "content": "[Infinite Spoils (All Slots) made by @Spiderman]\n08100000 4870837c 270F270F 270F270F\n08100000 48708384 270F270F 270F270F\n08100000 4870838c 270F270F 270F270F\n08100000 48708394 270F270F 270F270F\n08100000 4870839a 270F270F 270F270F\n08100000 487083a2 270F270F 270F270F\n08100000 487083aa 270F270F 270F270F\n08100000 487083b2 270F270F 270F270F\n08100000 487083ba 270F270F 270F270F\n08100000 487083c2 270F270F 270F270F\n08100000 487083ca 270F270F 270F270F\n\n",
+            "title": "[Infinite Spoils (All Slots) made by @Spiderman]"
         },
         {
-            "title": "[Wear Hylian Armor Set @CJB]",
-            "content": "[Wear Hylian Armor Set @CJB]\n01100000 487E5E56 00000002\n01100000 487E5E57 00000002\n01100000 487E5E58 00000002\n\n"
+            "content": "[Wear Hylian Armor Set @CJB]\n01100000 487E5E56 00000002\n01100000 487E5E57 00000002\n01100000 487E5E58 00000002\n\n",
+            "title": "[Wear Hylian Armor Set @CJB]"
         },
         {
-            "title": "[Wear Stealth Armor Set @CJB]",
-            "content": "[Wear Stealth Armor Set @CJB]\n01100000 487E5E56 00000003\n01100000 487E5E57 00000003\n01100000 487E5E58 00000003\n\n"
+            "content": "[Wear Stealth Armor Set @CJB]\n01100000 487E5E56 00000003\n01100000 487E5E57 00000003\n01100000 487E5E58 00000003\n\n",
+            "title": "[Wear Stealth Armor Set @CJB]"
         },
         {
-            "title": "[Wear Soldier Armor Set @CJB]",
-            "content": "[Wear Soldier Armor Set @CJB]\n01100000 487E5E56 00000004\n01100000 487E5E57 00000004\n01100000 487E5E58 00000004\n\n"
+            "content": "[Wear Soldier Armor Set @CJB]\n01100000 487E5E56 00000004\n01100000 487E5E57 00000004\n01100000 487E5E58 00000004\n\n",
+            "title": "[Wear Soldier Armor Set @CJB]"
         },
         {
-            "title": "[Wear Snowquill Armor Set @CJB]",
-            "content": "[Wear Snowquill Armor Set @CJB]\n01100000 487E5E56 00000005\n01100000 487E5E57 00000005\n01100000 487E5E58 00000005\n\n"
+            "content": "[Wear Snowquill Armor Set @CJB]\n01100000 487E5E56 00000005\n01100000 487E5E57 00000005\n01100000 487E5E58 00000005\n\n",
+            "title": "[Wear Snowquill Armor Set @CJB]"
         },
         {
-            "title": "[Wear Gerudo Armor Set @CJB]",
-            "content": "[Wear Gerudo Armor Set @CJB]\n01100000 487E5E56 00000006\n01100000 487E5E57 00000006\n01100000 487E5E58 00000006\n\n"
+            "content": "[Wear Gerudo Armor Set @CJB]\n01100000 487E5E56 00000006\n01100000 487E5E57 00000006\n01100000 487E5E58 00000006\n\n",
+            "title": "[Wear Gerudo Armor Set @CJB]"
         },
         {
-            "title": "[Wear Desert Voe Armor Set @CJB]",
-            "content": "[Wear Desert Voe Armor Set @CJB]\n01100000 487E5E56 00000007\n01100000 487E5E57 00000007\n01100000 487E5E58 00000007\n\n"
+            "content": "[Wear Desert Voe Armor Set @CJB]\n01100000 487E5E56 00000007\n01100000 487E5E57 00000007\n01100000 487E5E58 00000007\n\n",
+            "title": "[Wear Desert Voe Armor Set @CJB]"
         },
         {
-            "title": "[Wear Radiant Armor Set @CJB]",
-            "content": "[Wear Radiant Armor Set @CJB]\n01100000 487E5E56 00000008\n01100000 487E5E57 00000008\n01100000 487E5E58 00000008\n\n"
+            "content": "[Wear Radiant Armor Set @CJB]\n01100000 487E5E56 00000008\n01100000 487E5E57 00000008\n01100000 487E5E58 00000008\n\n",
+            "title": "[Wear Radiant Armor Set @CJB]"
         },
         {
-            "title": "[Wear Flamebreaker Armor Set @CJB]",
-            "content": "[Wear Flamebreaker Armor Set @CJB]\n01100000 487E5E56 00000009\n01100000 487E5E57 00000009\n01100000 487E5E58 00000009\n\n"
+            "content": "[Wear Flamebreaker Armor Set @CJB]\n01100000 487E5E56 00000009\n01100000 487E5E57 00000009\n01100000 487E5E58 00000009\n\n",
+            "title": "[Wear Flamebreaker Armor Set @CJB]"
         },
         {
-            "title": "[Wear Zora Armor Set @CJB]",
-            "content": "[Wear Zora Armor Set @CJB]\n01100000 487E5E56 0000000A\n01100000 487E5E57 0000000A\n01100000 487E5E58 0000000A\n\n"
+            "content": "[Wear Zora Armor Set @CJB]\n01100000 487E5E56 0000000A\n01100000 487E5E57 0000000A\n01100000 487E5E58 0000000A\n\n",
+            "title": "[Wear Zora Armor Set @CJB]"
         },
         {
-            "title": "[Wear Ancient Armor Set @CJB]",
-            "content": "[Wear Ancient Armor Set @CJB]\n01100000 487E5E56 0000000B\n01100000 487E5E57 0000000B\n01100000 487E5E58 0000000B\n\n"
+            "content": "[Wear Ancient Armor Set @CJB]\n01100000 487E5E56 0000000B\n01100000 487E5E57 0000000B\n01100000 487E5E58 0000000B\n\n",
+            "title": "[Wear Ancient Armor Set @CJB]"
         },
         {
-            "title": "[Wear Climber Armor Set @CJB]",
-            "content": "[Wear Climber Armor Set @CJB]\n01100000 487E5E56 0000000C\n01100000 487E5E57 0000000C\n01100000 487E5E58 0000000C\n\n"
+            "content": "[Wear Climber Armor Set @CJB]\n01100000 487E5E56 0000000C\n01100000 487E5E57 0000000C\n01100000 487E5E58 0000000C\n\n",
+            "title": "[Wear Climber Armor Set @CJB]"
         },
         {
-            "title": "[Wear Rubber Armor Set @CJB]",
-            "content": "[Wear Rubber Armor Set @CJB]\n01100000 487E5E56 0000000D\n01100000 487E5E57 0000000D\n01100000 487E5E58 0000000D\n\n"
+            "content": "[Wear Rubber Armor Set @CJB]\n01100000 487E5E56 0000000D\n01100000 487E5E57 0000000D\n01100000 487E5E58 0000000D\n\n",
+            "title": "[Wear Rubber Armor Set @CJB]"
         },
         {
-            "title": "[Wear Barbarian Armor Set @CJB]",
-            "content": "[Wear Barbarian Armor Set @CJB]\n01100000 487E5E56 0000000E\n01100000 487E5E57 0000000E\n01100000 487E5E58 0000000E\n\n"
+            "content": "[Wear Barbarian Armor Set @CJB]\n01100000 487E5E56 0000000E\n01100000 487E5E57 0000000E\n01100000 487E5E58 0000000E\n\n",
+            "title": "[Wear Barbarian Armor Set @CJB]"
         },
         {
-            "title": "[Wear Tunic of the Wild Armor Set @CJB]",
-            "content": "[Wear Tunic of the Wild Armor Set @CJB]\n01100000 487E5E56 0000000F\n01100000 487E5E57 0000000F\n01100000 487E5E58 0000000F\n\n"
+            "content": "[Wear Tunic of the Wild Armor Set @CJB]\n01100000 487E5E56 0000000F\n01100000 487E5E57 0000000F\n01100000 487E5E58 0000000F\n\n",
+            "title": "[Wear Tunic of the Wild Armor Set @CJB]"
         },
         {
-            "title": "[Wear Dark Link Armor Set @CJB]",
-            "content": "[Wear Dark Link Armor Set @CJB]\n01100000 487E5E56 00000010\n01100000 487E5E57 00000010\n01100000 487E5E58 00000010\n\n"
+            "content": "[Wear Dark Link Armor Set @CJB]\n01100000 487E5E56 00000010\n01100000 487E5E57 00000010\n01100000 487E5E58 00000010\n\n",
+            "title": "[Wear Dark Link Armor Set @CJB]"
         },
         {
-            "title": "[Wear Hyrule Warrior Armor Set @CJB]",
-            "content": "[Wear Hyrule Warrior Armor Set @CJB]\n01100000 487E5E56 00000011\n01100000 487E5E57 00000011\n01100000 487E5E58 00000011\n\n"
+            "content": "[Wear Hyrule Warrior Armor Set @CJB]\n01100000 487E5E56 00000011\n01100000 487E5E57 00000011\n01100000 487E5E58 00000011\n\n",
+            "title": "[Wear Hyrule Warrior Armor Set @CJB]"
         },
         {
-            "title": "[Rupees x9999999 @CJB]",
-            "content": "[Rupees x9999999 @CJB]\n04100000 487E73A4 0098967F\n\n"
+            "content": "[Rupees x9999999 @CJB]\n04100000 487E73A4 0098967F\n\n",
+            "title": "[Rupees x9999999 @CJB]"
         },
         {
-            "title": "[Korok Seeds x9999 @CJB]",
-            "content": "[Korok Seeds x9999 @CJB]\n02100000 487E76C6 0000270F\n01100000 487E79F6 00000001\n\n"
+            "content": "[Korok Seeds x9999 @CJB]\n02100000 487E76C6 0000270F\n01100000 487E79F6 00000001\n\n",
+            "title": "[Korok Seeds x9999 @CJB]"
         },
         {
-            "title": "[Terrako Comp. x9999 @CJB]",
-            "content": "[Terrako Comp. x9999 @CJB]\n02100000 487E76C8 0000270F\n01100000 487E79F7 00000001\n\n"
+            "content": "[Terrako Comp. x9999 @CJB]\n02100000 487E76C8 0000270F\n01100000 487E79F7 00000001\n\n",
+            "title": "[Terrako Comp. x9999 @CJB]"
         },
         {
-            "title": "[Etheral Stone x9999 @CJB]",
-            "content": "[Etheral Stone x9999 @CJB]\n02100000 487E76CC 0000270F\n01100000 487E79F9 00000001\n\n"
+            "content": "[Etheral Stone x9999 @CJB]\n02100000 487E76CC 0000270F\n01100000 487E79F9 00000001\n\n",
+            "title": "[Etheral Stone x9999 @CJB]"
         },
         {
-            "title": "[Fruit Items x9999 @CJB]",
-            "content": "[Fruit Items x9999 @CJB]\n02100000 487E75A0 0000270F\n01100000 487E7963 00000001\n08100000 487E75A2 270F270F 270F270F\n04100000 487E75AA 270F270F\n04100000 487E7964 01010101\n02100000 487E7968 00000101\n02100000 487E76E8 0000270F\n01100000 487E7A07 00000001\n\n"
+            "content": "[Fruit Items x9999 @CJB]\n02100000 487E75A0 0000270F\n01100000 487E7963 00000001\n08100000 487E75A2 270F270F 270F270F\n04100000 487E75AA 270F270F\n04100000 487E7964 01010101\n02100000 487E7968 00000101\n02100000 487E76E8 0000270F\n01100000 487E7A07 00000001\n\n",
+            "title": "[Fruit Items x9999 @CJB]"
         },
         {
-            "title": "[Mushroom Items x9999 @CJB]",
-            "content": "[Mushroom Items x9999 @CJB]\n08100000 487E75AE 270F270F 270F270F\n08100000 487E75B6 270F270F 270F270F\n08100000 487E75BE 270F270F 270F270F\n08100000 487E796A 01010101 01010101\n04100000 487E7972 01010101\n\n"
+            "content": "[Mushroom Items x9999 @CJB]\n08100000 487E75AE 270F270F 270F270F\n08100000 487E75B6 270F270F 270F270F\n08100000 487E75BE 270F270F 270F270F\n08100000 487E796A 01010101 01010101\n04100000 487E7972 01010101\n\n",
+            "title": "[Mushroom Items x9999 @CJB]"
         },
         {
-            "title": "[Flower Items x9999 @CJB]",
-            "content": "[Flower Items x9999 @CJB]\n08100000 487E75C6 270F270F 270F270F\n08100000 487E75CE 270F270F 270F270F\n08100000 487E75D6 270F270F 270F270F\n04100000 487E75DE 270F270F\n08100000 487E7976 01010101 01010101\n04100000 487E797E 01010101\n02100000 487E7982 00000101\n02100000 487E76C4 0000270F\n01100000 487E79F5 00000001\n\n"
+            "content": "[Flower Items x9999 @CJB]\n08100000 487E75C6 270F270F 270F270F\n08100000 487E75CE 270F270F 270F270F\n08100000 487E75D6 270F270F 270F270F\n04100000 487E75DE 270F270F\n08100000 487E7976 01010101 01010101\n04100000 487E797E 01010101\n02100000 487E7982 00000101\n02100000 487E76C4 0000270F\n01100000 487E79F5 00000001\n\n",
+            "title": "[Flower Items x9999 @CJB]"
         },
         {
-            "title": "[Meat Items x9999 @CJB]",
-            "content": "[Meat Items x9999 @CJB]\n08100000 487E75E2 270F270F 270F270F\n04100000 487E75EA 270F270F\n04100000 487E7984 01010101\n02100000 487E7988 00000101\n\n"
+            "content": "[Meat Items x9999 @CJB]\n08100000 487E75E2 270F270F 270F270F\n04100000 487E75EA 270F270F\n04100000 487E7984 01010101\n02100000 487E7988 00000101\n\n",
+            "title": "[Meat Items x9999 @CJB]"
         },
         {
-            "title": "[Ingredient Items x9999 @CJB]",
-            "content": "[Ingredient Items x9999 @CJB]\n08100000 487E75EE 270F270F 270F270F\n08100000 487E75F6 270F270F 270F270F\n08100000 487E75FE 270F270F 270F270F\n02100000 487E7606 0000270F\n08100000 487E798A 01010101 01010101\n04100000 487E7992 01010101\n01100000 487E7996 00000001\n\n"
+            "content": "[Ingredient Items x9999 @CJB]\n08100000 487E75EE 270F270F 270F270F\n08100000 487E75F6 270F270F 270F270F\n08100000 487E75FE 270F270F 270F270F\n02100000 487E7606 0000270F\n08100000 487E798A 01010101 01010101\n04100000 487E7992 01010101\n01100000 487E7996 00000001\n\n",
+            "title": "[Ingredient Items x9999 @CJB]"
         },
         {
-            "title": "[Fish Items x9999 @CJB]",
-            "content": "[Fish Items x9999 @CJB]\n08100000 487E7620 270F270F 270F270F\n08100000 487E7628 270F270F 270F270F\n08100000 487E7630 270F270F 270F270F\n08100000 487E7638 270F270F 270F270F\n04100000 487E7640 270F270F\n08100000 487E79A3 01010101 01010101\n08100000 487E79AB 01010101 01010101\n02100000 487E79B3 00000101\n\n"
+            "content": "[Fish Items x9999 @CJB]\n08100000 487E7620 270F270F 270F270F\n08100000 487E7628 270F270F 270F270F\n08100000 487E7630 270F270F 270F270F\n08100000 487E7638 270F270F 270F270F\n04100000 487E7640 270F270F\n08100000 487E79A3 01010101 01010101\n08100000 487E79AB 01010101 01010101\n02100000 487E79B3 00000101\n\n",
+            "title": "[Fish Items x9999 @CJB]"
         },
         {
-            "title": "[Bug Items x9999 @CJB]",
-            "content": "[Bug Items x9999 @CJB]\n08100000 487E7644 270F270F 270F270F\n08100000 487E764C 270F270F 270F270F\n08100000 487E7654 270F270F 270F270F\n08100000 487E765C 270F270F 270F270F\n04100000 487E7664 270F270F\n08100000 487E79B5 01010101 01010101\n08100000 487E79BD 01010101 01010101\n02100000 487E79C5 00000101\n\n"
+            "content": "[Bug Items x9999 @CJB]\n08100000 487E7644 270F270F 270F270F\n08100000 487E764C 270F270F 270F270F\n08100000 487E7654 270F270F 270F270F\n08100000 487E765C 270F270F 270F270F\n04100000 487E7664 270F270F\n08100000 487E79B5 01010101 01010101\n08100000 487E79BD 01010101 01010101\n02100000 487E79C5 00000101\n\n",
+            "title": "[Bug Items x9999 @CJB]"
         },
         {
-            "title": "[Mineral Items x9999 @CJB]",
-            "content": "[Mineral Items x9999 @CJB]\n08100000 487E7668 270F270F 270F270F\n08100000 487E7670 270F270F 270F270F\n08100000 487E79C7 01010101 01010101\n\n"
+            "content": "[Mineral Items x9999 @CJB]\n08100000 487E7668 270F270F 270F270F\n08100000 487E7670 270F270F 270F270F\n08100000 487E79C7 01010101 01010101\n\n",
+            "title": "[Mineral Items x9999 @CJB]"
         },
         {
-            "title": "[Monster Items x9999 @CJB]",
-            "content": "[Monster Items x9999 @CJB]\n08100000 487E7678 270F270F 270F270F\n08100000 487E7680 270F270F 270F270F\n08100000 487E7688 270F270F 270F270F\n08100000 487E7690 270F270F 270F270F\n08100000 487E7698 270F270F 270F270F\n08100000 487E76A0 270F270F 270F270F\n08100000 487E76A8 270F270F 270F270F\n08100000 487E76B0 270F270F 270F270F\n08100000 487E79CF 01010101 01010101\n08100000 487E79D7 01010101 01010101\n08100000 487E79DF 01010101 01010101\n08100000 487E79E7 01010101 01010101\n\n"
+            "content": "[Monster Items x9999 @CJB]\n08100000 487E7678 270F270F 270F270F\n08100000 487E7680 270F270F 270F270F\n08100000 487E7688 270F270F 270F270F\n08100000 487E7690 270F270F 270F270F\n08100000 487E7698 270F270F 270F270F\n08100000 487E76A0 270F270F 270F270F\n08100000 487E76A8 270F270F 270F270F\n08100000 487E76B0 270F270F 270F270F\n08100000 487E79CF 01010101 01010101\n08100000 487E79D7 01010101 01010101\n08100000 487E79DF 01010101 01010101\n08100000 487E79E7 01010101 01010101\n\n",
+            "title": "[Monster Items x9999 @CJB]"
         },
         {
-            "title": "[Ancient Items x9999 @CJB]",
-            "content": "[Ancient Items x9999 @CJB]\n08100000 487E76B8 270F270F 270F270F\n04100000 487E76C0 270F270F\n04100000 487E79EF 01010101\n02100000 487E79F3 00000101\n\n"
+            "content": "[Ancient Items x9999 @CJB]\n08100000 487E76B8 270F270F 270F270F\n04100000 487E76C0 270F270F\n04100000 487E79EF 01010101\n02100000 487E79F3 00000101\n\n",
+            "title": "[Ancient Items x9999 @CJB]"
         },
         {
-            "title": "[Trophy Items x9999 @CJB]",
-            "content": "[Trophy Items x9999 @CJB]\n08100000 487E76CE 270F270F 270F270F\n08100000 487E76D6 270F270F 270F270F\n08100000 487E76DE 270F270F 270F270F\n02100000 487E76E6 0000270F\n08100000 487E79FA 01010101 01010101\n04100000 487E7A02 01010101\n01100000 487E7A06 00000001\n\n"
+            "content": "[Trophy Items x9999 @CJB]\n08100000 487E76CE 270F270F 270F270F\n08100000 487E76D6 270F270F 270F270F\n08100000 487E76DE 270F270F 270F270F\n02100000 487E76E6 0000270F\n08100000 487E79FA 01010101 01010101\n04100000 487E7A02 01010101\n01100000 487E7A06 00000001\n\n",
+            "title": "[Trophy Items x9999 @CJB]"
         },
         {
-            "title": "[Unlock All Characters @CJB]",
-            "content": "[Unlock All Characters @CJB]\n01100000 487E5E76 00000033\n01100000 487E5E79 00000001\n01100000 487E5E7C 00000001\n01100000 487E5E96 0000003D\n01100000 487E5E99 00000001\n01100000 487E5E9C 00000001\n01100000 487E5EB6 00000047\n01100000 487E5EB9 00000001\n01100000 487E5EBC 00000001\n01100000 487E5ED6 00000051\n01100000 487E5ED9 00000001\n01100000 487E5EDC 00000001\n01100000 487E5EF6 0000005B\n01100000 487E5EF9 00000001\n01100000 487E5EFC 00000001\n01100000 487E5F16 00000065\n01100000 487E5F19 00000001\n01100000 487E5F1C 00000001\n01100000 487E5F36 0000006F\n01100000 487E5F39 00000001\n01100000 487E5F3C 00000001\n01100000 487E5F56 00000079\n01100000 487E5F59 00000001\n01100000 487E5F5C 00000001\n01100000 487E5F76 00000083\n01100000 487E5F79 00000001\n01100000 487E5F7C 00000001\n01100000 487E5F96 0000008D\n01100000 487E5F99 00000001\n01100000 487E5F9C 00000001\n01100000 487E5FB6 00000097\n01100000 487E5FB9 00000001\n01100000 487E5FBC 00000001\n01100000 487E5FD6 000000A1\n01100000 487E5FD9 00000001\n01100000 487E5FDC 00000001\n01100000 487E5FF6 000000AB\n01100000 487E5FF9 00000001\n01100000 487E5FFC 00000001\n01100000 487E6016 000000B5\n01100000 487E6019 00000001\n01100000 487E601C 00000001\n01100000 487E6036 000000BF\n01100000 487E6039 00000001\n01100000 487E603C 00000001\n01100000 487E6056 000000C9\n01100000 487E6059 00000001\n01100000 487E605C 00000001\n01100000 487E6076 000000D3\n01100000 487E6079 00000001\n01100000 487E607C 00000001\n\n"
+            "content": "[Unlock All Characters @CJB]\n01100000 487E5E76 00000033\n01100000 487E5E79 00000001\n01100000 487E5E7C 00000001\n01100000 487E5E96 0000003D\n01100000 487E5E99 00000001\n01100000 487E5E9C 00000001\n01100000 487E5EB6 00000047\n01100000 487E5EB9 00000001\n01100000 487E5EBC 00000001\n01100000 487E5ED6 00000051\n01100000 487E5ED9 00000001\n01100000 487E5EDC 00000001\n01100000 487E5EF6 0000005B\n01100000 487E5EF9 00000001\n01100000 487E5EFC 00000001\n01100000 487E5F16 00000065\n01100000 487E5F19 00000001\n01100000 487E5F1C 00000001\n01100000 487E5F36 0000006F\n01100000 487E5F39 00000001\n01100000 487E5F3C 00000001\n01100000 487E5F56 00000079\n01100000 487E5F59 00000001\n01100000 487E5F5C 00000001\n01100000 487E5F76 00000083\n01100000 487E5F79 00000001\n01100000 487E5F7C 00000001\n01100000 487E5F96 0000008D\n01100000 487E5F99 00000001\n01100000 487E5F9C 00000001\n01100000 487E5FB6 00000097\n01100000 487E5FB9 00000001\n01100000 487E5FBC 00000001\n01100000 487E5FD6 000000A1\n01100000 487E5FD9 00000001\n01100000 487E5FDC 00000001\n01100000 487E5FF6 000000AB\n01100000 487E5FF9 00000001\n01100000 487E5FFC 00000001\n01100000 487E6016 000000B5\n01100000 487E6019 00000001\n01100000 487E601C 00000001\n01100000 487E6036 000000BF\n01100000 487E6039 00000001\n01100000 487E603C 00000001\n01100000 487E6056 000000C9\n01100000 487E6059 00000001\n01100000 487E605C 00000001\n01100000 487E6076 000000D3\n01100000 487E6079 00000001\n01100000 487E607C 00000001\n\n",
+            "title": "[Unlock All Characters @CJB]"
         },
         {
-            "title": "[Mega Damage @CJB]",
-            "content": "[Mega Damage @CJB]\n02100000 487E5E4E 0000270F\n02100000 487E5E6E 0000270F\n02100000 487E5E8E 0000270F\n02100000 487E5EAE 0000270F\n02100000 487E5ECE 0000270F\n02100000 487E5EEE 0000270F\n02100000 487E5F0E 0000270F\n02100000 487E5F2E 0000270F\n02100000 487E5F4E 0000270F\n02100000 487E5F6E 0000270F\n02100000 487E5F8E 0000270F\n02100000 487E5FAE 0000270F\n02100000 487E5FCE 0000270F\n02100000 487E5FEE 0000270F\n02100000 487E600E 0000270F\n02100000 487E602E 0000270F\n02100000 487E604E 0000270F\n02100000 487E606E 0000270F\n\n"
+            "content": "[Mega Damage @CJB]\n02100000 487E5E4E 0000270F\n02100000 487E5E6E 0000270F\n02100000 487E5E8E 0000270F\n02100000 487E5EAE 0000270F\n02100000 487E5ECE 0000270F\n02100000 487E5EEE 0000270F\n02100000 487E5F0E 0000270F\n02100000 487E5F2E 0000270F\n02100000 487E5F4E 0000270F\n02100000 487E5F6E 0000270F\n02100000 487E5F8E 0000270F\n02100000 487E5FAE 0000270F\n02100000 487E5FCE 0000270F\n02100000 487E5FEE 0000270F\n02100000 487E600E 0000270F\n02100000 487E602E 0000270F\n02100000 487E604E 0000270F\n02100000 487E606E 0000270F\n\n",
+            "title": "[Mega Damage @CJB]"
         },
         {
-            "title": "[Mega Defense @CJB]",
-            "content": "[Mega Defense @CJB]\n02100000 487E5E50 0000270F\n02100000 487E5E70 0000270F\n02100000 487E5E90 0000270F\n02100000 487E5EB0 0000270F\n02100000 487E5ED0 0000270F\n02100000 487E5EF0 0000270F\n02100000 487E5F10 0000270F\n02100000 487E5F30 0000270F\n02100000 487E5F50 0000270F\n02100000 487E5F70 0000270F\n02100000 487E5F90 0000270F\n02100000 487E5FB0 0000270F\n02100000 487E5FD0 0000270F\n02100000 487E5FF0 0000270F\n02100000 487E6010 0000270F\n02100000 487E6030 0000270F\n02100000 487E6050 0000270F\n02100000 487E6070 0000270F\n\n"
+            "content": "[Mega Defense @CJB]\n02100000 487E5E50 0000270F\n02100000 487E5E70 0000270F\n02100000 487E5E90 0000270F\n02100000 487E5EB0 0000270F\n02100000 487E5ED0 0000270F\n02100000 487E5EF0 0000270F\n02100000 487E5F10 0000270F\n02100000 487E5F30 0000270F\n02100000 487E5F50 0000270F\n02100000 487E5F70 0000270F\n02100000 487E5F90 0000270F\n02100000 487E5FB0 0000270F\n02100000 487E5FD0 0000270F\n02100000 487E5FF0 0000270F\n02100000 487E6010 0000270F\n02100000 487E6030 0000270F\n02100000 487E6050 0000270F\n02100000 487E6070 0000270F\n\n",
+            "title": "[Mega Defense @CJB]"
         },
         {
-            "title": "[Infinite / Max Health @made by spiderman for gbatemp]",
-            "content": "[Infinite / Max Health @made by spiderman for gbatemp]\n580F0000 02515630\n780F0000 001744B4\n640F0000 00000000 46D48000\n04100000 4a46f55c 46899000\n\n"
+            "content": "[Infinite / Max Health @made by spiderman for gbatemp]\n580F0000 02515630\n780F0000 001744B4\n640F0000 00000000 46D48000\n04100000 4a46f55c 46899000\n\n",
+            "title": "[Infinite / Max Health @made by spiderman for gbatemp]"
         },
         {
-            "title": "[#1 All items 999 @Eiffel2018]",
-            "content": "[#1 All items 999 @Eiffel2018]\n580F0000 025170D8\n780F0000 487E75A0\n300E0000 00000029\n680F1000 03E703E7 03E703E7\n310E0000\n620F0000 00000000 000003E7\n780F0000 0000027B\n300E0000 00000014\n680F1000 01010101 01010101\n310E0000\n640F1000 00000000 01010101\n610F1000 00000000 00000001\n\n"
+            "content": "[#1 All items 999 @Eiffel2018]\n580F0000 025170D8\n780F0000 487E75A0\n300E0000 00000029\n680F1000 03E703E7 03E703E7\n310E0000\n620F0000 00000000 000003E7\n780F0000 0000027B\n300E0000 00000014\n680F1000 01010101 01010101\n310E0000\n640F1000 00000000 01010101\n610F1000 00000000 00000001\n\n",
+            "title": "[#1 All items 999 @Eiffel2018]"
         },
         {
-            "title": "[#2 MAX Charaters' LV After Battle @Eiffel2018]",
-            "content": "[#2 MAX Charaters' LV After Battle @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E48\n300E0000 00000012\n640F0000 00000000 0098967F\n780F0000 00000020\n310E0000\n\n"
+            "content": "[#2 MAX Charaters' LV After Battle @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E48\n300E0000 00000012\n640F0000 00000000 0098967F\n780F0000 00000020\n310E0000\n\n",
+            "title": "[#2 MAX Charaters' LV After Battle @Eiffel2018]"
         },
         {
-            "title": "[#3 Max all Charaters' ATK and DEF @Eiffel2018]",
-            "content": "[#3 Max all Charaters' ATK and DEF @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E4E\n300E0000 00000012\n640F0000 00000000 270F270F\n780F0000 00000020\n310E0000\n\n"
+            "content": "[#3 Max all Charaters' ATK and DEF @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E4E\n300E0000 00000012\n640F0000 00000000 270F270F\n780F0000 00000020\n310E0000\n\n",
+            "title": "[#3 Max all Charaters' ATK and DEF @Eiffel2018]"
         },
         {
-            "title": "[#4 Max all Charaters Hearts @Eiffel2018]",
-            "content": "[#4 Max all Charaters Hearts @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E4C\n300E0000 00000012\n610F0000 00000000 0000002D\n780F0000 00000020\n310E0000\n\n"
+            "content": "[#4 Max all Charaters Hearts @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E4C\n300E0000 00000012\n610F0000 00000000 0000002D\n780F0000 00000020\n310E0000\n\n",
+            "title": "[#4 Max all Charaters Hearts @Eiffel2018]"
         },
         {
-            "title": "[#5 Max HP @Eiffel2018]",
-            "content": "[#5 Max HP @Eiffel2018]\n580F0000 025170D8\n780F0000 4A46F554\n680F1000 468CA000 468CA000\n640F1000 00000000 468CA000\n80002000\n300E0000 0000008B\n780F0000 00000050\n680F1000 468CA000 468CA000\n640F1000 00000000 468CA000\n310E0000\n20000000\n\n\n\n\n\n\n\n\n\n"
+            "content": "[#5 Max HP @Eiffel2018]\n580F0000 025170D8\n780F0000 4A46F554\n680F1000 468CA000 468CA000\n640F1000 00000000 468CA000\n80002000\n300E0000 0000008B\n780F0000 00000050\n680F1000 468CA000 468CA000\n640F1000 00000000 468CA000\n310E0000\n20000000\n\n\n\n\n\n\n\n\n\n",
+            "title": "[#5 Max HP @Eiffel2018]"
         }
     ]
 }

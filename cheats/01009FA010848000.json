@@ -1,16 +1,16 @@
 {
     "A066C2C4CA84AFA4": [
         {
-            "title": "[invinicble]",
-            "content": "[invinicble]\n04100000 758B8D14 447A0000\n\n"
+            "content": "[invinicble]\n04100000 758B8D14 447A0000\n\n",
+            "title": "[invinicble]"
         },
         {
-            "title": "[Inf Class Ability usage(aka no cooldown)]",
-            "content": "[Inf Class Ability usage(aka no cooldown)]\n04100000 758B8A68 00000000\n\n"
+            "content": "[Inf Class Ability usage(aka no cooldown)]\n04100000 758B8A68 00000000\n\n",
+            "title": "[Inf Class Ability usage(aka no cooldown)]"
         },
         {
-            "title": "[flying duration(witch or Pirate special ability)]",
-            "content": "[flying duration(witch or Pirate special ability)]\n80000002\n04100000 758B8954 44A28000\n20000000"
+            "content": "[flying duration(witch or Pirate special ability)]\n80000002\n04100000 758B8954 44A28000\n20000000",
+            "title": "[flying duration(witch or Pirate special ability)]"
         }
     ]
 }

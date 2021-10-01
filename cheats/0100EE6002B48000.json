@@ -1,12 +1,12 @@
 {
     "0F9AFFB0CCBEAD2E": [
         {
-            "title": "[P1 Infinite HP]",
-            "content": "[P1 Infinite HP]\n04000000 012385F0 00016060\n\n"
+            "content": "[P1 Infinite HP]\n04000000 012385F0 00016060\n\n",
+            "title": "[P1 Infinite HP]"
         },
         {
-            "title": "[P2 NO HP]",
-            "content": "[P2 NO HP]\n04000000 012387F0 00000101"
+            "content": "[P2 NO HP]\n04000000 012387F0 00000101",
+            "title": "[P2 NO HP]"
         }
     ]
 }

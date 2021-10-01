@@ -1,70 +1,70 @@
 {
-    "F6667BA0D144374F": [
-        {
-            "title": "[SP doesnt reduce on]",
-            "content": "[SP doesnt reduce on]\n040B0000 008AD900 B9400811\n040B0000 008AD904 7100063F\n040B0000 008AD908 1A9F1108\n040B0000 008AD90C 4B080128\n040B0000 008AD910 D65F03C0\n040B0000 006EB358 9407096A\n\n"
-        },
-        {
-            "title": "[SP doesnt reduce off]",
-            "content": "[SP doesnt reduce off]\n040B0000 006EB358 4B080128\n\n"
-        },
-        {
-            "title": "[Accessories / breakage fragments / dimensional points are not reduced on]",
-            "content": "[Accessories / breakage fragments / dimensional points are not reduced on]\n040B0000 00109B24 2A1F03F5\n040B0000 00126270 2A1F03F4\n040B0000 00425BBC 4B1F0001\n\n"
-        },
-        {
-            "title": "[Our damage is reduced to 0 on]",
-            "content": "[Our damage is reduced to 0 on]\n040B0000 008AD914 B9400B31\n040B0000 008AD918 7100063F\n040B0000 008AD91C 1A9F12F7\n040B0000 008AD920 B971D108\n040B0000 008AD924 D65F03C0\n040B0000 006A06C0 94083495\n\n"
-        },
-        {
-            "title": "[Our damage is reduced to 0 off]",
-            "content": "[Our damage is reduced to 0 off]\n040B0000 006A06C0 B971D108\n\n"
-        },
-        {
-            "title": "[Instant fill on]",
-            "content": "[Instant fill on]\n040B0000 008AD928 B9400B31\n040B0000 008AD92C 7100063F\n040B0000 008AD930 1A9B0273\n040B0000 008AD934 4B130375\n040B0000 008AD938 D65F03C0\n040B0000 006A07C0 9408345A\n\n"
-        },
-        {
-            "title": "[instant kill off]",
-            "content": "[instant kill off]\n040B0000 006A07C0 4B130375"
-        }
-    ],
     "4B50363368364A94": [
         {
-            "title": "[*Hp 888 P1 Jericoss]",
-            "content": "[*Hp 888 P1 Jericoss]\n04100000 01566170 00000378\n\n"
+            "content": "[*Hp 888 P1 Jericoss]\n04100000 01566170 00000378\n\n",
+            "title": "[*Hp 888 P1 Jericoss]"
         },
         {
-            "title": "[*Hp 888 P2 Jericoss]",
-            "content": "[*Hp 888 P2 Jericoss]\n04100000 0156F170 00000378\n\n"
+            "content": "[*Hp 888 P2 Jericoss]\n04100000 0156F170 00000378\n\n",
+            "title": "[*Hp 888 P2 Jericoss]"
         },
         {
-            "title": "[*Hp 888 P3]",
-            "content": "[*Hp 888 P3]\n04100000 0157A170 00000378\n\n"
+            "content": "[*Hp 888 P3]\n04100000 0157A170 00000378\n\n",
+            "title": "[*Hp 888 P3]"
         },
         {
-            "title": "[*Hp 888 P4]",
-            "content": "[*Hp 888 P4]\n04100000 01583170 00000378\n\n"
+            "content": "[*Hp 888 P4]\n04100000 01583170 00000378\n\n",
+            "title": "[*Hp 888 P4]"
         },
         {
-            "title": "[*Hp 888 P5]",
-            "content": "[*Hp 888 P5]\n04100000 0158C170 00000378\n\n"
+            "content": "[*Hp 888 P5]\n04100000 0158C170 00000378\n\n",
+            "title": "[*Hp 888 P5]"
         },
         {
-            "title": "[*Item 1 x 88]",
-            "content": "[*Item 1 x 88]\n04100000 004E1140 000003D7\n\n"
+            "content": "[*Item 1 x 88]\n04100000 004E1140 000003D7\n\n",
+            "title": "[*Item 1 x 88]"
         },
         {
-            "title": "[*Exp 888888 P1]",
-            "content": "[*Exp 888888 P1]\n04100000 00530030 000D9038\n\n"
+            "content": "[*Exp 888888 P1]\n04100000 00530030 000D9038\n\n",
+            "title": "[*Exp 888888 P1]"
         },
         {
-            "title": "[*Exp 888888 P2]",
-            "content": "[*Exp 888888 P2]\n04100000 00529030 000D9038\n\n"
+            "content": "[*Exp 888888 P2]\n04100000 00529030 000D9038\n\n",
+            "title": "[*Exp 888888 P2]"
         },
         {
-            "title": "[*Exp 888888 P3]",
-            "content": "[*Exp 888888 P3]\n04100000 0054E030 000D9038"
+            "content": "[*Exp 888888 P3]\n04100000 0054E030 000D9038",
+            "title": "[*Exp 888888 P3]"
+        }
+    ],
+    "F6667BA0D144374F": [
+        {
+            "content": "[SP doesnt reduce on]\n040B0000 008AD900 B9400811\n040B0000 008AD904 7100063F\n040B0000 008AD908 1A9F1108\n040B0000 008AD90C 4B080128\n040B0000 008AD910 D65F03C0\n040B0000 006EB358 9407096A\n\n",
+            "title": "[SP doesnt reduce on]"
+        },
+        {
+            "content": "[SP doesnt reduce off]\n040B0000 006EB358 4B080128\n\n",
+            "title": "[SP doesnt reduce off]"
+        },
+        {
+            "content": "[Accessories / breakage fragments / dimensional points are not reduced on]\n040B0000 00109B24 2A1F03F5\n040B0000 00126270 2A1F03F4\n040B0000 00425BBC 4B1F0001\n\n",
+            "title": "[Accessories / breakage fragments / dimensional points are not reduced on]"
+        },
+        {
+            "content": "[Our damage is reduced to 0 on]\n040B0000 008AD914 B9400B31\n040B0000 008AD918 7100063F\n040B0000 008AD91C 1A9F12F7\n040B0000 008AD920 B971D108\n040B0000 008AD924 D65F03C0\n040B0000 006A06C0 94083495\n\n",
+            "title": "[Our damage is reduced to 0 on]"
+        },
+        {
+            "content": "[Our damage is reduced to 0 off]\n040B0000 006A06C0 B971D108\n\n",
+            "title": "[Our damage is reduced to 0 off]"
+        },
+        {
+            "content": "[Instant fill on]\n040B0000 008AD928 B9400B31\n040B0000 008AD92C 7100063F\n040B0000 008AD930 1A9B0273\n040B0000 008AD934 4B130375\n040B0000 008AD938 D65F03C0\n040B0000 006A07C0 9408345A\n\n",
+            "title": "[Instant fill on]"
+        },
+        {
+            "content": "[instant kill off]\n040B0000 006A07C0 4B130375",
+            "title": "[instant kill off]"
         }
     ]
 }

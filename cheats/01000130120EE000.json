@@ -1,32 +1,32 @@
 {
     "915A86B4D6A5EACD": [
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n010E0000 0065492E 0000001F\n020E0000 006456CC 000003E8\n\n"
+            "content": "[Invincible]\n010E0000 0065492E 0000001F\n020E0000 006456CC 000003E8\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[8x ATK]",
-            "content": "[8x ATK]\n010E0000 0064D12D 0000000D\n\n"
+            "content": "[8x ATK]\n010E0000 0064D12D 0000000D\n\n",
+            "title": "[8x ATK]"
         },
         {
-            "title": "[Infinite Skill Points]",
-            "content": "[Infinite Skill Points]\n010E0000 0065AA22 0000001F\n\n"
+            "content": "[Infinite Skill Points]\n010E0000 0065AA22 0000001F\n\n",
+            "title": "[Infinite Skill Points]"
         },
         {
-            "title": "[Infinite AP (talking)]",
-            "content": "[Infinite AP (talking)]\n040E0000 00564354 2A1F03F4\n\n"
+            "content": "[Infinite AP (talking)]\n040E0000 00564354 2A1F03F4\n\n",
+            "title": "[Infinite AP (talking)]"
         },
         {
-            "title": "[Infinite AP (housework)]",
-            "content": "[Infinite AP (housework)]\n010E0000 005641A6 0000001F\n\n"
+            "content": "[Infinite AP (housework)]\n010E0000 005641A6 0000001F\n\n",
+            "title": "[Infinite AP (housework)]"
         },
         {
-            "title": "[Max items when receiving]",
-            "content": "[Max items when receiving]\n040E0000 005F1390 52800C73\n\n"
+            "content": "[Max items when receiving]\n040E0000 005F1390 52800C73\n\n",
+            "title": "[Max items when receiving]"
         },
         {
-            "title": "[Item not reduce]",
-            "content": "[Item not reduce]\n010E0000 005FFBE2 0000001F"
+            "content": "[Item not reduce]\n010E0000 005FFBE2 0000001F",
+            "title": "[Item not reduce]"
         }
     ]
 }

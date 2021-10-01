@@ -1,98 +1,98 @@
 {
     "3F57F096B84C7CFB": [
         {
-            "title": "[hit range]",
-            "content": "[hit range]\n04000000 001C496C 1E27D00C \n\n"
+            "content": "[hit range]\n04000000 001C496C 1E27D00C \n\n",
+            "title": "[hit range]"
         },
         {
-            "title": "[2 times money]",
-            "content": "[2 times money]\n04000000 003E2690 0B0A056A\n\n"
+            "content": "[2 times money]\n04000000 003E2690 0B0A056A\n\n",
+            "title": "[2 times money]"
         },
         {
-            "title": "[4 times money]",
-            "content": "[4 times money]\n04000000 003E2690 0B0A096A\n\n"
+            "content": "[4 times money]\n04000000 003E2690 0B0A096A\n\n",
+            "title": "[4 times money]"
         },
         {
-            "title": "[8 times money]",
-            "content": "[8 times money]\n04000000 003E2690 0B0A0D6A\n\n"
+            "content": "[8 times money]\n04000000 003E2690 0B0A0D6A\n\n",
+            "title": "[8 times money]"
         },
         {
-            "title": "[Maximum after PT change]",
-            "content": "[Maximum after PT change]\n04000000 00392E18 D503201F\n\n"
+            "content": "[Maximum after PT change]\n04000000 00392E18 D503201F\n\n",
+            "title": "[Maximum after PT change]"
         },
         {
-            "title": "[SP is not reduced]",
-            "content": "[SP is not reduced]\n04000000 0020D128 1E204040\n04000000 0020FA88 1E204040\n\n"
+            "content": "[SP is not reduced]\n04000000 0020D128 1E204040\n04000000 0020FA88 1E204040\n\n",
+            "title": "[SP is not reduced]"
         },
         {
-            "title": "[Seckill while shooting]",
-            "content": "[Seckill while shooting]\n04000000 003FCC9C 1E203843\n800000C0\n04000000 003FCC9C 1E2703E3\n20000000\n\n"
+            "content": "[Seckill while shooting]\n04000000 003FCC9C 1E203843\n800000C0\n04000000 003FCC9C 1E2703E3\n20000000\n\n",
+            "title": "[Seckill while shooting]"
         },
         {
-            "title": "[10 times increase in kill slot]",
-            "content": "[10 times increase in kill slot]\n04000000 012B7800 10000000\n04000000 012B7804 B9401C00\n04000000 012B7808 1E380141\n04000000 012B780C 1B007C21\n04000000 012B7810 1E22002A\n04000000 012B7814 1E202148\n04000000 012B7818 D65F03C0\n04000000 012B781C 0000000A\n04000000 003FE134 943AE5B3\n\n"
+            "content": "[10 times increase in kill slot]\n04000000 012B7800 10000000\n04000000 012B7804 B9401C00\n04000000 012B7808 1E380141\n04000000 012B780C 1B007C21\n04000000 012B7810 1E22002A\n04000000 012B7814 1E202148\n04000000 012B7818 D65F03C0\n04000000 012B781C 0000000A\n04000000 003FE134 943AE5B3\n\n",
+            "title": "[10 times increase in kill slot]"
         },
         {
-            "title": "[20 times increase in kill slot]",
-            "content": "[20 times increase in kill slot]\n04000000 012B7800 10000000\n04000000 012B7804 B9401C00\n04000000 012B7808 1E380141\n04000000 012B780C 1B007C21\n04000000 012B7810 1E22002A\n04000000 012B7814 1E202148\n04000000 012B7818 D65F03C0\n04000000 012B781C 00000014\n04000000 003FE134 943AE5B3\n\n"
+            "content": "[20 times increase in kill slot]\n04000000 012B7800 10000000\n04000000 012B7804 B9401C00\n04000000 012B7808 1E380141\n04000000 012B780C 1B007C21\n04000000 012B7810 1E22002A\n04000000 012B7814 1E202148\n04000000 012B7818 D65F03C0\n04000000 012B781C 00000014\n04000000 003FE134 943AE5B3\n\n",
+            "title": "[20 times increase in kill slot]"
         },
         {
-            "title": "[9999 Money]",
-            "content": "[9999 Money]\n04100000 52F48B94 05F5E0FF\n\n"
+            "content": "[9999 Money]\n04100000 52F48B94 05F5E0FF\n\n",
+            "title": "[9999 Money]"
         },
         {
-            "title": "[999999 Point persona Updrage LVL]",
-            "content": "[999999 Point persona Updrage LVL]\n04100000 52F48B98 05F5E0FF\n04100000 53CFACF0 05F5E0FF\n\n"
+            "content": "[999999 Point persona Updrage LVL]\n04100000 52F48B98 05F5E0FF\n04100000 53CFACF0 05F5E0FF\n\n",
+            "title": "[999999 Point persona Updrage LVL]"
         },
         {
-            "title": "[ALL Weapon ]",
-            "content": "[ALL Weapon ]\n300E0000 00000384\n01100000 52F47600 00000063\n78000000 00000002\n310E0000\n20000000\n\n"
+            "content": "[ALL Weapon ]\n300E0000 00000384\n01100000 52F47600 00000063\n78000000 00000002\n310E0000\n20000000\n\n",
+            "title": "[ALL Weapon ]"
         },
         {
-            "title": "[consume item 99]",
-            "content": "[consume item 99]\n300E0000 00000096\n01100000 52F47CE0 00000063\n78000000 00000002\n310E0000\n20000000\n\n"
+            "content": "[consume item 99]\n300E0000 00000096\n01100000 52F47CE0 00000063\n78000000 00000002\n310E0000\n20000000\n\n",
+            "title": "[consume item 99]"
         },
         {
-            "title": "[skill Item 99]",
-            "content": "[skill Item 99]\n300E0000 00000066\n01100000 52F484B0 00000063\n78000000 00000002\n310E0000\n20000000\n\n"
+            "content": "[skill Item 99]\n300E0000 00000066\n01100000 52F484B0 00000063\n78000000 00000002\n310E0000\n20000000\n\n",
+            "title": "[skill Item 99]"
         },
         {
-            "title": "[hit range]",
-            "content": "[hit range]\n04000000 001C496C 1E27D00C\n\n"
+            "content": "[hit range]\n04000000 001C496C 1E27D00C\n\n",
+            "title": "[hit range]"
         },
         {
-            "title": "[1p invicible]",
-            "content": "[1p invicible]\n04000000 0020EB30 D65F03C0\n\n"
+            "content": "[1p invicible]\n04000000 0020EB30 D65F03C0\n\n",
+            "title": "[1p invicible]"
         },
         {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000002\n580F0000 021C4320\n580F1000 000005D0\n580F1000 00000018\n780F0000 0000000C\n640F0000 00000000 41A33334\n20000000"
+            "content": "[Moon Jump]\n80000002\n580F0000 021C4320\n580F1000 000005D0\n580F1000 00000018\n780F0000 0000000C\n640F0000 00000000 41A33334\n20000000",
+            "title": "[Moon Jump]"
         }
     ],
     "740094A857A59066": [
         {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000002\n580F0000 02A79AB0\n580F1000 000EFF68\n580F1000 00000190\n780F0000 00003D6C\n640F0000 00000000 41A33334\n20000000\n\n"
+            "content": "[Moon Jump]\n80000002\n580F0000 02A79AB0\n580F1000 000EFF68\n580F1000 00000190\n780F0000 00003D6C\n640F0000 00000000 41A33334\n20000000\n\n",
+            "title": "[Moon Jump]"
         },
         {
-            "title": "[Walk Through Walls (hold A)]",
-            "content": "[Walk Through Walls (hold A)]\n04000000 001BE180 B9534400\n80000001\n04000000 001BE180 12804400\n20000000\n\n"
+            "content": "[Walk Through Walls (hold A)]\n04000000 001BE180 B9534400\n80000001\n04000000 001BE180 12804400\n20000000\n\n",
+            "title": "[Walk Through Walls (hold A)]"
         },
         {
-            "title": "[Jump Mod (Push or Hold ZL)]",
-            "content": "[Jump Mod (Push or Hold ZL)]\n80000200\n580F0000 021C74A0\n580F1000 000003F8\n580F1000 00000218\n780F0000 000000E4\n640F0000 00000000 456E8000\n20000000\n\n"
+            "content": "[Jump Mod (Push or Hold ZL)]\n80000200\n580F0000 021C74A0\n580F1000 000003F8\n580F1000 00000218\n780F0000 000000E4\n640F0000 00000000 456E8000\n20000000\n\n",
+            "title": "[Jump Mod (Push or Hold ZL)]"
         },
         {
-            "title": "[hit range x31]",
-            "content": "[hit range x31]\n04000000 001C4DEC 1E27F00C\n\n"
+            "content": "[hit range x31]\n04000000 001C4DEC 1E27F00C\n\n",
+            "title": "[hit range x31]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n04000000 0020F0A0 D65F03C0\n\n"
+            "content": "[Invincible]\n04000000 0020F0A0 D65F03C0\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Enemy Freeze(OFF: +button&LEFT ON: +button&RIGHT)]",
-            "content": "[Enemy Freeze(OFF: +button&LEFT ON: +button&RIGHT)]\n80001400\n04000000 0014AE60 1E2E100A\n20000000\n80004400\n04000000 0014AE60 1E27D00C\n20000000"
+            "content": "[Enemy Freeze(OFF: +button&LEFT ON: +button&RIGHT)]\n80001400\n04000000 0014AE60 1E2E100A\n20000000\n80004400\n04000000 0014AE60 1E27D00C\n20000000",
+            "title": "[Enemy Freeze(OFF: +button&LEFT ON: +button&RIGHT)]"
         }
     ]
 }

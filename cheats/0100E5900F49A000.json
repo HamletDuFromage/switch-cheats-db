@@ -1,28 +1,28 @@
 {
     "1E6BD2F99D2E0547": [
         {
-            "title": "[Inf. Action Point]",
-            "content": "[Inf. Action Point]\n04000000 002E82C0 D65F03C0\n\n"
+            "content": "[Inf. Action Point]\n04000000 002E82C0 D65F03C0\n\n",
+            "title": "[Inf. Action Point]"
         },
         {
-            "title": "[Inf. Action Point - restore]",
-            "content": "[Inf. Action Point - restore]\n04000000 002E82C0 6DBD23E9\n\n"
+            "content": "[Inf. Action Point - restore]\n04000000 002E82C0 6DBD23E9\n\n",
+            "title": "[Inf. Action Point - restore]"
         },
         {
-            "title": "[02# Inf AP]",
-            "content": "[02# Inf AP]\n04000000 028DE51C 43480000\n04000000 028DE55C 1CFFFE00\n"
+            "content": "[02# Inf AP]\n04000000 028DE51C 43480000\n04000000 028DE55C 1CFFFE00\n",
+            "title": "[02# Inf AP]"
         },
         {
-            "title": "[Inf AP (off)]",
-            "content": "[Inf AP (off)]\n04000000 028DE55C BD401100\n"
+            "content": "[Inf AP (off)]\n04000000 028DE55C BD401100\n",
+            "title": "[Inf AP (off)]"
         },
         {
-            "title": "[03# Inf Vitae]",
-            "content": "[03# Inf Vitae]\n04000000 029FE3CC 5284E1E0\n"
+            "content": "[03# Inf Vitae]\n04000000 029FE3CC 5284E1E0\n",
+            "title": "[03# Inf Vitae]"
         },
         {
-            "title": "[Inf Vitae (off)]",
-            "content": "[Inf Vitae (off)]\n04000000 029FE3CC B9401100"
+            "content": "[Inf Vitae (off)]\n04000000 029FE3CC B9401100",
+            "title": "[Inf Vitae (off)]"
         }
     ]
 }

@@ -1,12 +1,12 @@
 {
     "9499AB26583322D6": [
         {
-            "title": "[ZR Player Recover Full Health]",
-            "content": "[ZR Player Recover Full Health]\n80000200\n520f0000 012837bc\n740F0000 0127b3e4\n010F0000 00000000 000000f0\n20000000\n\n"
+            "content": "[ZR Player Recover Full Health]\n80000200\n520f0000 012837bc\n740F0000 0127b3e4\n010F0000 00000000 000000f0\n20000000\n\n",
+            "title": "[ZR Player Recover Full Health]"
         },
         {
-            "title": "[RightStick CPU 0 Health]",
-            "content": "[RightStick CPU 0 Health]\n80000020\n520f0000 012837c0\n740F0000 0127b3e4\n010F0000 00000000 00000000\n20000000\n"
+            "content": "[RightStick CPU 0 Health]\n80000020\n520f0000 012837c0\n740F0000 0127b3e4\n010F0000 00000000 00000000\n20000000\n",
+            "title": "[RightStick CPU 0 Health]"
         }
     ]
 }

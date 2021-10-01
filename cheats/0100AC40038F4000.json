@@ -1,36 +1,36 @@
 {
     "EF700397005B93F4": [
         {
-            "title": "[P1 Infinite Lives]",
-            "content": "[P1 Infinite Lives]\n01000000 0122F1E6 00000005\n\n"
+            "content": "[P1 Infinite Lives]\n01000000 0122F1E6 00000005\n\n",
+            "title": "[P1 Infinite Lives]"
         },
         {
-            "title": "[P1 Infintite Bomb]",
-            "content": "[P1 Infintite Bomb]\n01000000 0122F1FE 00000005\n\n"
+            "content": "[P1 Infintite Bomb]\n01000000 0122F1FE 00000005\n\n",
+            "title": "[P1 Infintite Bomb]"
         },
         {
-            "title": "[P1 Max Fire Power]",
-            "content": "[P1 Max Fire Power]\n01000000 0122F1EA 00000003\n\n"
+            "content": "[P1 Max Fire Power]\n01000000 0122F1EA 00000003\n\n",
+            "title": "[P1 Max Fire Power]"
         },
         {
-            "title": "[P1 Invincible]",
-            "content": "[P1 Invincible]\n04000000 01225A40 60000060\n\n"
+            "content": "[P1 Invincible]\n04000000 01225A40 60000060\n\n",
+            "title": "[P1 Invincible]"
         },
         {
-            "title": "[P2 Infinite Lives]",
-            "content": "[P2 Infinite Lives]\n01000000 0122F248 00000005\n\n"
+            "content": "[P2 Infinite Lives]\n01000000 0122F248 00000005\n\n",
+            "title": "[P2 Infinite Lives]"
         },
         {
-            "title": "[P2 Infintite Bomb]",
-            "content": "[P2 Infintite Bomb]\n01000000 0122F260 00000005\n\n"
+            "content": "[P2 Infintite Bomb]\n01000000 0122F260 00000005\n\n",
+            "title": "[P2 Infintite Bomb]"
         },
         {
-            "title": "[P2 Max Fire Power]",
-            "content": "[P2 Max Fire Power]\n01000000 0122F24C 00000003\n\n"
+            "content": "[P2 Max Fire Power]\n01000000 0122F24C 00000003\n\n",
+            "title": "[P2 Max Fire Power]"
         },
         {
-            "title": "[hitanywhere]",
-            "content": "[hitanywhere]\n580F0000 01231688\n780F0000 00006AD8\n640F0000 00000000 6a0a6014\n580F0000 01231688\n780F0000 00006B00\n640F0000 00000000 604c6002\n580F0000 01231688\n780F0000 00006B08\n640F0000 00000000 60446002\n580F0000 01231688\n780F0000 00006B40\n640F0000 00000000 00036004"
+            "content": "[hitanywhere]\n580F0000 01231688\n780F0000 00006AD8\n640F0000 00000000 6a0a6014\n580F0000 01231688\n780F0000 00006B00\n640F0000 00000000 604c6002\n580F0000 01231688\n780F0000 00006B08\n640F0000 00000000 60446002\n580F0000 01231688\n780F0000 00006B40\n640F0000 00000000 00036004",
+            "title": "[hitanywhere]"
         }
     ]
 }

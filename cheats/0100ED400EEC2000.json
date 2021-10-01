@@ -1,1160 +1,1160 @@
 {
-    "B781309CF5399C6A": [
+    "5CE05588B1D56EC0": [
         {
-            "title": "{Story of Season Friends of Mineral Town USA v1.0.2}",
-            "content": "{Story of Season Friends of Mineral Town USA v1.0.2}\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000004AE\n\n"
+            "content": "[01# Inf Water in can]\n04000000 0004AB38 4B1F018A\n",
+            "title": "[01# Inf Water in can]"
         },
         {
-            "title": "[Villagers max FPP1]",
-            "content": "[Villagers max FPP1]\n400C0000 00000000 00000FDA\n300E0000 00000002\n640C01F0 00000000 000000FF\n780C0000 00000038\n310E0000 20000000\n400C0000 00000000 00001062\n300E0000 00000002\n640C01F0 00000000 000000FF\n780C0000 00000050\n310E0000 20000000\n400C0000 00000000 000010EA\n300E0000 00000002\n640C01F0 00000000 000000FF\n780C0000 00000038\n310E0000 20000000\n400C0000 00000000 0000117A\n300E0000 00000002\n640C01F0 00000000 000000FF\n780C0000 00000050\n310E0000 20000000\n400C0000 00000000 00001202\n300E0000 00000004\n640C01F0 00000000 000000FF\n780C0000 00000038\n310E0000 20000000\n400C0000 00000000 000012FA\n300E0000 00000007\n640C01F0 00000000 000000FF\n780C0000 00000038\n310E0000 20000000\n\n"
+            "content": "[Inf Water in can (off)]\n04000000 0004AB38 4B0A018A\n\n",
+            "title": "[Inf Water in can (off)]"
         },
         {
-            "title": "[Villagers max FPP2]",
-            "content": "[Villagers max FPP2]\n400C0000 00000000 0000149A\n300E0000 00000003\n640C01F0 00000000 000000FF\n780C0000 00000050\n310E0000 20000000\n400C0000 00000000 00001572\n300E0000 00000002\n640C01F0 00000000 000000FF\n780C0000 00000050\n310E0000 20000000\n400C0000 00000000 000015FA\n300E0000 00000003\n640C01F0 00000000 000000FF\n780C0000 00000050\n310E0000 20000000\n400C0000 00000000 000016DE\n300E0000 00000002\n640C01F0 00000000 000000FF\n780C0000 00000038\n310E0000 20000000\n400C0000 00000000 00001766\n300E0000 00000004\n640C01F0 00000000 000000FF\n780C0000 00000050\n310E0000 20000000\n400C0000 00000000 00001892\n300E0000 00000002\n640C01F0 00000000 000000FF\n780C0000 00000038\n310E0000 20000000\n400C0000 00000000 0000191A\n640C01F0 00000000 000000FF\n\n"
+            "content": "[02# Inf Fatigue]\n04000000 00428B24 2A1F03EE\n",
+            "title": "[02# Inf Fatigue]"
         },
         {
-            "title": "[Girls Max Hearts]",
-            "content": "[Girls Max Hearts]\n400C0000 00000000 0000108A\n300E0000 00000002\n640C01F0 00000000 0000FDE8\n780C0000 00000248\n310E0000 20000000\n400C0000 00000000 00001472\n300E0000 00000002\n640C01F0 00000000 0000FDE8\n780C0000 000000A0\n310E0000 20000000\n400C0000 00000000 00001622\n300E0000 00000002\n640C01F0 00000000 0000FDE8\n780C0000 00000320\n310E0000 20000000\n\n"
+            "content": "[Inf Fatigue (off)]\n04000000 00428B24 0B0C01CE\n\n",
+            "title": "[Inf Fatigue (off)]"
         },
         {
-            "title": "[Boys Max Hearts]",
-            "content": "[Boys Max Hearts]\n400C0000 00000000 0000103A\n300E0000 00000002\n640C01F0 00000000 0000FDE8\n780C0000 00000168\n310E0000 20000000\n580F0000 60BFF790\n400C0000 00000000 000014C2\n300E0000 00000002\n640C01F0 00000000 0000FDE8\n780C0000 000000D8\n310E0000 20000000\n400C0000 00000000 00001672\n300E0000 00000002\n640C01F0 00000000 0000FDE8\n780C0000 00000280\n310E0000 20000000\n\n"
+            "content": "[03# No physical loss]\n04000000 00428AE4 1A8BB16B\n",
+            "title": "[03# No physical loss]"
         },
         {
-            "title": "[Pets Max FP/SKILL]",
-            "content": "[Pets Max FP/SKILL]\n400C0000 00000000 000002CA\n300E0000 00000005\n640C01F0 00000000 000000FF\n780C0000 0000025C\n310E0000 20000000\n400C0000 00000000 000002FA\n300E0000 00000005\n640C01F0 00000000 000000FF\n780C0000 0000025C\n310E0000 20000000\n\n\n\n"
+            "content": "[No physical loss (off)]\n04000000 00428AE4 1A8CB16B\n\n",
+            "title": "[No physical loss (off)]"
         },
         {
-            "title": "[01# Inf Water in can]",
-            "content": "[01# Inf Water in can]\n04000000 0004AAC8 4B1F018A\n\n"
+            "content": "[04# Money is not reduced]\n04000000 003C6E6C 4B1F0108\n",
+            "title": "[04# Money is not reduced]"
         },
         {
-            "title": "[Inf Water in can (off)]",
-            "content": "[Inf Water in can (off)]\n04000000 0004AAC8 4B0A018A\n\n"
+            "content": "[Money is not reduced (off)]\n04000000 003C6E6C 4B090108\n\n",
+            "title": "[Money is not reduced (off)]"
         },
         {
-            "title": "[02# Inf Fatigue]",
-            "content": "[02# Inf Fatigue]\n04000000 004287F4 2A1F03EE\n\n"
+            "content": "[05# Money 16x]\n04000000 003C6800 0B0A4129\n",
+            "title": "[05# Money 16x]"
         },
         {
-            "title": "[Inf Fatigue (off)]",
-            "content": "[Inf Fatigue (off)]\n04000000 004287F4 0B0C01CE\n\n"
+            "content": "[Money 16x (off)]\n04000000 003C6800 0B090149\n\n",
+            "title": "[Money 16x (off)]"
         },
         {
-            "title": "[03# No physical loss]",
-            "content": "[03# No physical loss]\n04000000 004287B4 1A8BB16B\n\n"
+            "content": "[06# Pauze Time (hold X)]\n04000000 0002A3AC AA0003F3\n80000004\n04000000 00588E50 52800001\n04000000 00588E54 39010501\n04000000 00588E58 AA0003F3\n04000000 00588E5C D65F03C0\n04000000 0002A3AC 94157AA9\n20000000\n\n",
+            "title": "[06# Pauze Time (hold X)]"
         },
         {
-            "title": "[No physical loss (off)]",
-            "content": "[No physical loss (off)]\n04000000 004287B4 1A8CB16B\n\n"
+            "content": "[07# 8 times increase in refrigerator items]\n04000000 003CA360 0B150D29\n04000000 003CA4C0 0B0E0DAD\n",
+            "title": "[07# 8 times increase in refrigerator items]"
         },
         {
-            "title": "[04# Money is not reduced]",
-            "content": "[04# Money is not reduced]\n04000000 003C6E9C 4B1F0108\n\n"
+            "content": "[08# 8 times the amount of items in the cabinet]\n04000000 003CA774 0B150D29\n",
+            "title": "[08# 8 times the amount of items in the cabinet]"
         },
         {
-            "title": "[Money is not reduced (off)]",
-            "content": "[Money is not reduced (off)]\n04000000 003C6E9C 4B090108\n\n"
+            "content": "[Increase Items (off)]\n04000000 003CA360 0B150129\n04000000 003CA4C0 0B0E01AD\n04000000 003CA774 0B150129\n\n",
+            "title": "[Increase Items (off)]"
         },
         {
-            "title": "[05# Money 16x]",
-            "content": "[05# Money 16x]\n04000000 003C6830 0B0A4129\n\n"
+            "content": "[09# Change Time to 9 o'clock (R+A)]\n80000081\n04000000 00588E60 52800122\n04000000 00588E64 39010142\n04000000 00588E68 72A0002B\n04000000 00588E6C D65F03C0\n04000000 00028634 9415820B\n20000000\n\n",
+            "title": "[09# Change Time to 9 o'clock (R+A)]"
         },
         {
-            "title": "[Money 16x (off)]",
-            "content": "[Money 16x (off)]\n04000000 003C6830 0B090149\n\n"
+            "content": "[10# Change Time to 14 o'clock (R+Y)]\n80000088\n04000000 00588E70 528001C2\n04000000 00588E74 39010142\n04000000 00588E78 72A0002B\n04000000 00588E7C D65F03C0\n04000000 00028634 9415820B\n20000000\n\n",
+            "title": "[10# Change Time to 14 o'clock (R+Y)]"
         },
         {
-            "title": "[06# Pauze Time (hold A)]",
-            "content": "[06# Pauze Time (hold A)]\n04000000 0002A32C AA0003F3\n80000001\n04000000 00588A50 52800001\n04000000 00588A54 39010501\n04000000 00588A58 AA0003F3\n04000000 00588A5C D65F03C0\n04000000 0002A32C 941579C9\n20000000\n\n"
+            "content": "[11# Change time (off)]\n800000C0\n04000000 00028634 72A0002B\n20000000\n\n",
+            "title": "[11# Change time (off)]"
         },
         {
-            "title": "[07# Multiply items in refrigerator]",
-            "content": "[07# Multiply items in refrigerator]\n04000000 003CA390 0B152129\n04000000 003CA4F0 0B0E21AD\n\n"
+            "content": "[12# Spring Weather tomorrow]\n04000000 00588E80 52800003\n04000000 00588E84 3900B143\n04000000 00588E88 8B0B0155\n04000000 00588E8C D65F03C0\n04000000 00028638 94158212\n\n",
+            "title": "[12# Spring Weather tomorrow]"
         },
         {
-            "title": "[08# Multiply items in the cabinet]",
-            "content": "[08# Multiply items in the cabinet]\n04000000 003CA7A4 0B152129\n\n"
+            "content": "[13# It will rain tomorrow]\n04000000 00588E80 52800023\n04000000 00588E84 3900B143\n04000000 00588E88 8B0B0155\n04000000 00588E8C D65F03C0\n04000000 00028638 94158212\n\n",
+            "title": "[13# It will rain tomorrow]"
         },
         {
-            "title": "[Increase Items (off)]",
-            "content": "[Increase Items (off)]\n04000000 003CA390 0B150129\n04000000 003CA4F0 0B0E01AD\n04000000 003CA7A4 0B150129\n\n"
+            "content": "[14# Snow tomorrow]\n04000000 00588E80 52800043\n04000000 00588E84 3900B143\n04000000 00588E88 8B0B0155\n04000000 00588E8C D65F03C0\n04000000 00028638 94158212\n\n",
+            "title": "[14# Snow tomorrow]"
         },
         {
-            "title": "[09# Change Time to 9 o'clock (R+A)]",
-            "content": "[09# Change Time to 9 o'clock (R+A)]\n80000081\n04000000 00588A60 52800122\n04000000 00588A64 39010142\n04000000 00588A68 72A0002B\n04000000 00588A6C D65F03C0\n04000000 000285B4 9415812F\n20000000\n\n"
+            "content": "[15# Typhoon tomorrow]\n04000000 00588E80 52800063\n04000000 00588E84 3900B143\n04000000 00588E88 8B0B0155\n04000000 00588E8C D65F03C0\n04000000 00028638 94158212\n\n",
+            "title": "[15# Typhoon tomorrow]"
         },
         {
-            "title": "[10# Change Time to 14 o'clock (R+Y)]",
-            "content": "[10# Change Time to 14 o'clock (R+Y)]\n80000088\n04000000 00588A70 528001C2\n04000000 00588A74 39010142\n04000000 00588A78 72A0002B\n04000000 00588A7C D65F03C0\n04000000 000285B4 9415812F\n20000000\n\n"
+            "content": "[16# Tomorrow's Snow]\n04000000 00588E80 52800083\n04000000 00588E84 3900B143\n04000000 00588E88 8B0B0155\n04000000 00588E8C D65F03C0\n04000000 00028638 94158212\n\n",
+            "title": "[16# Tomorrow's Snow]"
         },
         {
-            "title": "[11# Change time (off)]",
-            "content": "[11# Change time (off)]\n04000000 000285B4 72A0002B\n\n\n"
+            "content": "[Change Weather (off)]\n04000000 00028638 8B0B0155\n\n",
+            "title": "[Change Weather (off)]"
         },
         {
-            "title": "[12# Spring Weather tomorrow]",
-            "content": "[12# Spring Weather tomorrow]\n04000000 00588A80 52800003\n04000000 00588A84 3900B143\n04000000 00588A88 8B0B0155\n04000000 00588A8C D65F03C0\n04000000 000285B8 94158132\n\n"
+            "content": "[17# Change Costume to dress]\n04000000 00588E90 52800024\n04000000 00588E94 D2996CCC\n04000000 00588E98 8B0C010C\n04000000 00588E9C 79000184\n04000000 00588EA0 52800005\n04000000 00588EA4 39131185\n04000000 00588EA8 39131985\n04000000 00588EAC 5290E889\n04000000 00588EB0 D65F03C0\n04000000 0002A3A8 94157ABA\n\n",
+            "title": "[17# Change Costume to dress]"
         },
         {
-            "title": "[13# It will rain tomorrow]",
-            "content": "[13# It will rain tomorrow]\n04000000 00588A80 52800023\n04000000 00588A84 3900B143\n04000000 00588A88 8B0B0155\n04000000 00588A8C D65F03C0\n04000000 000285B8 94158132\n\n"
+            "content": "[18# Change Costume to Cool Dress]\n04000000 00588E90 52800044\n04000000 00588E94 D2996CCC\n04000000 00588E98 8B0C010C\n04000000 00588E9C 79000184\n04000000 00588EA0 52800005\n04000000 00588EA4 39131185\n04000000 00588EA8 39131985\n04000000 00588EAC 5290E889\n04000000 00588EB0 D65F03C0\n04000000 0002A3A8 94157ABA\n\n",
+            "title": "[18# Change Costume to Cool Dress]"
         },
         {
-            "title": "[14# Snow tomorrow]",
-            "content": "[14# Snow tomorrow]\n04000000 00588A80 52800043\n04000000 00588A84 3900B143\n04000000 00588A88 8B0B0155\n04000000 00588A8C D65F03C0\n04000000 000285B8 94158132\n\n"
+            "content": "[19# Change Costume to sheep]\n04000000 00588E90 52800184\n04000000 00588E94 D2996CCC\n04000000 00588E98 8B0C010C\n04000000 00588E9C 79000184\n04000000 00588EA0 52800005\n04000000 00588EA4 39131185\n04000000 00588EA8 39131985\n04000000 00588EAC 5290E889\n04000000 00588EB0 D65F03C0\n04000000 0002A3A8 94157ABA\n\n",
+            "title": "[19# Change Costume to sheep]"
         },
         {
-            "title": "[15# Typhoon tomorrow]",
-            "content": "[15# Typhoon tomorrow]\n04000000 00588A80 52800063\n04000000 00588A84 3900B143\n04000000 00588A88 8B0B0155\n04000000 00588A8C D65F03C0\n04000000 000285B8 94158132\n\n"
+            "content": "[20# Change Costume to dog]\n04000000 00588E90 528001A4\n04000000 00588E94 D2996CCC\n04000000 00588E98 8B0C010C\n04000000 00588E9C 79000184\n04000000 00588EA0 52800005\n04000000 00588EA4 39131185\n04000000 00588EA8 39131985\n04000000 00588EAC 5290E889\n04000000 00588EB0 D65F03C0\n04000000 0002A3A8 94157ABA\n\n",
+            "title": "[20# Change Costume to dog]"
         },
         {
-            "title": "[16# Tomorrow's Snow]",
-            "content": "[16# Tomorrow's Snow]\n04000000 00588A80 52800083\n04000000 00588A84 3900B143\n04000000 00588A88 8B0B0155\n04000000 00588A8C D65F03C0\n04000000 000285B8 94158132\n\n"
+            "content": "[21# Change Costume to chicken]\n04000000 00588E90 528001C4\n04000000 00588E94 D2996CCC\n04000000 00588E98 8B0C010C\n04000000 00588E9C 79000184\n04000000 00588EA0 52800005\n04000000 00588EA4 39131185\n04000000 00588EA8 39131985\n04000000 00588EAC 5290E889\n04000000 00588EB0 D65F03C0\n04000000 0002A3A8 94157ABA\n\n",
+            "title": "[21# Change Costume to chicken]"
         },
         {
-            "title": "[Change Weather (off)]",
-            "content": "[Change Weather (off)]\n04000000 000285B8 8B0B0155\n\n"
+            "content": "[22# Change Costume to rooster]\n04000000 00588E90 528001E4\n04000000 00588E94 D2996CCC\n04000000 00588E98 8B0C010C\n04000000 00588E9C 79000184\n04000000 00588EA0 52800005\n04000000 00588EA4 39131185\n04000000 00588EA8 39131985\n04000000 00588EAC 5290E889\n04000000 00588EB0 D65F03C0\n04000000 0002A3A8 94157ABA\n\n",
+            "title": "[22# Change Costume to rooster]"
         },
         {
-            "title": "[17# Change Costume to dress]",
-            "content": "[17# Change Costume to dress]\n04000000 00588A90 52800024\n04000000 00588A94 D2996CCC\n04000000 00588A98 8B0C010C\n04000000 00588A9C 79000184\n04000000 00588AA0 52800005\n04000000 00588AA4 39131185\n04000000 00588AA8 39131985\n04000000 00588AAC 5290E889\n04000000 00588AB0 D65F03C0\n04000000 0002A328 941579DA\n\n"
+            "content": "[Instant tool Max upgrades]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000CFA8\n300E0000 00000006\n640F0000 00000000 0000FFFF\n780F0000 00000010\n310E0000 20000000\n\n",
+            "title": "[Instant tool Max upgrades]"
         },
         {
-            "title": "[18# Change Costume to Cool Dress]",
-            "content": "[18# Change Costume to Cool Dress]\n04000000 00588A90 52800044\n04000000 00588A94 D2996CCC\n04000000 00588A98 8B0C010C\n04000000 00588A9C 79000184\n04000000 00588AA0 52800005\n04000000 00588AA4 39131185\n04000000 00588AA8 39131985\n04000000 00588AAC 5290E889\n04000000 00588AB0 D65F03C0\n04000000 0002A328 941579DA\n\n"
+            "content": "[Change Costume (off)]\n04000000 0002A3A8 5290E889\n\n",
+            "title": "[Change Costume (off)]"
         },
         {
-            "title": "[19# Change Costume to sheep]",
-            "content": "[19# Change Costume to sheep]\n04000000 00588A90 52800184\n04000000 00588A94 D2996CCC\n04000000 00588A98 8B0C010C\n04000000 00588A9C 79000184\n04000000 00588AA0 52800005\n04000000 00588AA4 39131185\n04000000 00588AA8 39131985\n04000000 00588AAC 5290E889\n04000000 00588AB0 D65F03C0\n04000000 0002A328 941579DA\n\n"
+            "content": "[Pauze Time Press R]\n80000080\n04000000 00588E50 52800001\n04000000 00588E54 39010501\n04000000 00588E58 AA0003F3\n04000000 00588E5C D65F03C0\n04000000 0002A3AC 94157AA9\n20000000\n\n",
+            "title": "[Pauze Time Press R]"
         },
         {
-            "title": "[20# Change Costume to dog]",
-            "content": "[20# Change Costume to dog]\n04000000 00588A90 528001A4\n04000000 00588A94 D2996CCC\n04000000 00588A98 8B0C010C\n04000000 00588A9C 79000184\n04000000 00588AA0 52800005\n04000000 00588AA4 39131185\n04000000 00588AA8 39131985\n04000000 00588AAC 5290E889\n04000000 00588AB0 D65F03C0\n04000000 0002A328 941579DA\n\n"
+            "content": "[Pauze Time (off) Press L]\n80000040\n04000000 0002A3AC 72A0002B\n20000000\n\n\n",
+            "title": "[Pauze Time (off) Press L]"
         },
         {
-            "title": "[21# Change Costume to chicken]",
-            "content": "[21# Change Costume to chicken]\n04000000 00588A90 528001C4\n04000000 00588A94 D2996CCC\n04000000 00588A98 8B0C010C\n04000000 00588A9C 79000184\n04000000 00588AA0 52800005\n04000000 00588AA4 39131185\n04000000 00588AA8 39131985\n04000000 00588AAC 5290E889\n04000000 00588AB0 D65F03C0\n04000000 0002A328 941579DA\n\n"
+            "content": "[06# Pauze Time]\n04000000 00588E50 52800001\n04000000 00588E54 39010501\n04000000 00588E58 AA0003F3\n04000000 00588E5C D65F03C0\n04000000 0002A3AC 94157AA9\n20000000\n\n",
+            "title": "[06# Pauze Time]"
         },
         {
-            "title": "[22# Change Costume to rooster]",
-            "content": "[22# Change Costume to rooster]\n04000000 00588A90 528001E4\n04000000 00588A94 D2996CCC\n04000000 00588A98 8B0C010C\n04000000 00588A9C 79000184\n04000000 00588AA0 52800005\n04000000 00588AA4 39131185\n04000000 00588AA8 39131985\n04000000 00588AAC 5290E889\n04000000 00588AB0 D65F03C0\n04000000 0002A328 941579DA\n\n"
-        },
-        {
-            "title": "[Change Costume (off)]",
-            "content": "[Change Costume (off)]\n04000000 0002A328 5290E889\n\n"
-        },
-        {
-            "title": "[Instant Max upgrades]",
-            "content": "[Instant Max upgrades]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000CFA8\n300E0000 00000006\n640F0000 00000000 0000FFFF\n780F0000 00000010\n310E0000 20000000\n\n"
-        },
-        {
-            "title": "[Change 1 item in 99 Mythic Stone]",
-            "content": "[Change 1 item in 99 Mythic Stone]\n580F0000 60BFF790\n580F1000 00000380\n580F1000 0000D068\n780F0000 00000004\n640F0000 00000000 00630000\n780F0000 00000004\n640F0000 00000000 00000129\n\n"
-        },
-        {
-            "title": "[Change 1 item in 1 Teleport Stone]",
-            "content": "[Change 1 item in 1 Teleport Stone]\n580F0000 60BFF790\n580F1000 00000380\n580F1000 0000D068\n780F0000 00000004\n640F0000 00000000 00010000\n780F0000 00000004\n640F0000 00000000 00000058\n\n"
-        },
-        {
-            "title": "[time 9AM]",
-            "content": "[time 9AM]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E938\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[time 12 PM]",
-            "content": "[time 12 PM]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E938\n640F0000 00000000 0000000C\n\n"
-        },
-        {
-            "title": "[time 3PM ]",
-            "content": "[time 3PM ]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E938\n640F0000 00000000 0000000F\n\n"
-        },
-        {
-            "title": "[sunny weather today]",
-            "content": "[sunny weather today]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E938\n780F1000 00000018\n640F0000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[rain weather today]",
-            "content": "[rain weather today]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E938\n780F1000 00000018\n640F0000 00000000 00000001\n\n"
-        },
-        {
-            "title": "[snow weather today]",
-            "content": "[snow weather today]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E938\n780F1000 00000018\n640F0000 00000000 00000002\n\n"
-        },
-        {
-            "title": "[typhoon weather today]",
-            "content": "[typhoon weather today]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E938\n780F1000 00000018\n640F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[heavy snow weather today]",
-            "content": "[heavy snow weather today]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E938\n780F1000 00000018\n640F0000 00000000 00000004\n\n"
-        },
-        {
-            "title": "[spring season]",
-            "content": "[spring season]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E940\n640F0000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[summer season]",
-            "content": "[summer season]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E940\n640F0000 00000000 00000001\n\n"
-        },
-        {
-            "title": "[autumn season]",
-            "content": "[autumn season]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E940\n640F0000 00000000 00000002\n\n"
-        },
-        {
-            "title": "[winter season]",
-            "content": "[winter season]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E940\n640F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Villagers max FPP1]",
-            "content": "[Villagers max FPP1]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000004AE\n780F0000 00000FDA\n300F0000 00000002\n640F0000 00000000 000000FF\n780F0000 00000038\n310F0000 20000000\n580F0000 60BFF790\n\n"
-        },
-        {
-            "title": "[1slot in TOOLBOX item is mythic sickle]",
-            "content": "[1slot in TOOLBOX item is mythic sickle]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000004AE\n780F1000 00008F2E\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[1slot in TOOLBOX is 300]",
-            "content": "[1slot in TOOLBOX is 300]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000004AE\n780F1000 00008F2E\n780F0000 00000004\n640F0000 00000000 0000012C\n\n"
-        },
-        {
-            "title": "[Saibara work sleep to finish]",
-            "content": "[Saibara work sleep to finish]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000015FC\n640F0000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[Gotts work sleep to finish]",
-            "content": "[Gotts work sleep to finish]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001B74\n640F0000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[Popuri instant marriage]",
-            "content": "[Popuri instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 0000153C\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Marie instant marriage]",
-            "content": "[Marie instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001784\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Karen instant marriage]",
-            "content": "[Karen instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001924\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Elly instant marriage]",
-            "content": "[Elly instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000019C4\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Ran instant marriage]",
-            "content": "[Ran instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001AD4\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Jennifer instant marriage]",
-            "content": "[Jennifer instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001DF4\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Rick instant marriage]",
-            "content": "[Rick instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000014EC\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Gray instant marriage]",
-            "content": "[Gray instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001654\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Doctor instant marriage]",
-            "content": "[Doctor instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001974\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Cliff instant marriage]",
-            "content": "[Cliff instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001A4C\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Kai instant marriage]",
-            "content": "[Kai instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001B24\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Brandon instant marriage]",
-            "content": "[Brandon instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001DA4\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Huang instant marriage]",
-            "content": "[Huang instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001BEC\n640F0000 00000000 0000FDE8\n780F0000 00000004\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Bon Vivant instant marriage]",
-            "content": "[Bon Vivant instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001C3C\n640F0000 00000000 0000FDE8\n780F0000 00000004\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Harvest Goddess instant marriage]",
-            "content": "[Harvest Goddess instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001C8C\n640F0000 00000000 0000FDE8\n780F0000 00000004\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[Kappa instant marriage]",
-            "content": "[Kappa instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001CDC\n640F0000 00000000 0000FDE8\n780F0000 00000004\n640F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[unlock deluxe fridge cabinet in workshop]",
-            "content": "[unlock deluxe fridge cabinet in workshop]\n580F0000 50BB53B8\n580F1000 00000010\n780F0000 00005AA8\n610F0000 00000000 00000001\n780F0000 00000130\n610F0000 00000000 00000001\n\n"
-        },
-        {
-            "title": "[unlock Big Bag in general shop]",
-            "content": "[unlock Big Bag in general shop]\n580F0000 50BB53B8\n580F1000 00000010\n780F0000 00001368\n610F0000 00000000 00000001\n\n"
-        },
-        {
-            "title": "[House MAX upgrade]",
-            "content": "[House MAX upgrade]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00008B40\n610F0000 00000000 00000002\n780F0000 00000001\n610F0000 00000000 000000FE\n780F0000 00000001\n300E0000 00000002\n610F0000 00000000 00000002\n780F0000 00000001\n310E0000\n780F0000 00000014\n610F0000 00000000 00000001\n780F0000 00000003\n300E0000 00000003\n610F0000 00000000 00000001\n780F0000 00000001\n310E0000\n780F0000 00000003\n610F0000 00000000 00000001\n780F0000 0000000C\n610F0000 00000000 00000001\n780F0000 00000001\n610F0000 00000000 00000001\n780F0000 00000006\n300E0000 0000000A\n610F0000 00000000 00000001\n780F0000 00000001\n310E0000\n\n"
-        },
-        {
-            "title": "[Coop max upgrade]",
-            "content": "[Coop max upgrade]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00008740\n610F0000 00000000 00000001\n780F0000 00000008\n620F0000 00000000 00000101\n780F0000 000002AC\n610F0000 00000000 00000001\n\n"
-        },
-        {
-            "title": "[Barn MAX upgrade]",
-            "content": "[Barn MAX upgrade]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00007070\n610F0000 00000000 00000001\n780F0000 00000008\n640F0000 00000000 01000101\n780F0000 00002C30\n610F0000 00000000 00000001\n\n"
-        },
-        {
-            "title": "[stop TIME]",
-            "content": "[stop TIME]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000041\n610F0000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[time 9AM]",
-            "content": "[time 9AM]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000040\n610F0000 00000000 00000009\n\n"
-        },
-        {
-            "title": "[time 12 PM]",
-            "content": "[time 12 PM]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000040\n610F0000 00000000 0000000C\n\n"
-        },
-        {
-            "title": "[time 3PM ]",
-            "content": "[time 3PM ]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000040\n610F0000 00000000 0000000F\n\n"
-        },
-        {
-            "title": "[spring season]",
-            "content": "[spring season]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000038\n610F0000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[summer season]",
-            "content": "[summer season]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000038\n610F0000 00000000 00000001\n\n"
-        },
-        {
-            "title": "[autumn season]",
-            "content": "[autumn season]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000038\n610F0000 00000000 00000002\n\n"
-        },
-        {
-            "title": "[winter season]",
-            "content": "[winter season]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000038\n610F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[sunny weather today]",
-            "content": "[sunny weather today]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[rain weather today]",
-            "content": "[rain weather today]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000001\n\n"
-        },
-        {
-            "title": "[snow weather today]",
-            "content": "[snow weather today]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000002\n\n"
-        },
-        {
-            "title": "[typhoon weather today]",
-            "content": "[typhoon weather today]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[heavy snow weather today]",
-            "content": "[heavy snow weather today]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000004\n\n"
-        },
-        {
-            "title": "[chicken/rabbit max Hearts/FP]",
-            "content": "[chicken/rabbit max Hearts/FP]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 0000824C\n300E0000 00000008\n610F0000 00000000 00000005\n780F0000 00000280\n310E0000\n580C0000 60BFF790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 00008250\n300E0000 00000008\n610C0000 00000000 000000FF\n780C0000 00000280\n310E0000\n\n"
-        },
-        {
-            "title": "[cow/alpaca/sheep max Hearts/FP]",
-            "content": "[cow/alpaca/sheep max Hearts/FP]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00006A0C\n300E0000 00000016\n610F0000 00000000 00000005\n780F0000 00000280\n310E0000\n580C0000 60BFF790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 00006A10\n300E0000 00000016\n610C0000 00000000 000000FF\n780C0000 00000280\n310E0000\n\n"
-        },
-        {
-            "title": "[horse all max+adult]",
-            "content": "[horse all max+adult]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 0000C6E4\n300E0000 00000002\n610F0000 00000000 000000FF\n780F0000 00000008\n310E0000\n580C0000 60BFF790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 0000C6E9\n610C0000 00000000 00000001\n\n"
-        },
-        {
-            "title": "[Harvest Sprites max FP/SKILL]",
-            "content": "[Harvest Sprites max FP/SKILL]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E978\n300E0000 00000007\n640F0000 00000000 000000FF\n780F0000 00000050\n310E0000\n580C0000 60BFF790\n580C1000 00000380\n780C0000 0000E9A0\n300E0000 00000007\n640C0000 00000000 00FFFFFF\n780C0000 00000050\n310E0000\n\n"
-        },
-        {
-            "title": "[Blueberry job free]",
-            "content": "[Blueberry job free]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E9A8\n610F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Blueberry job  harvest+21 days]",
-            "content": "[Blueberry job  harvest+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E9A8\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Blueberry job  water+21 days]",
-            "content": "[Blueberry job  water+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E9A8\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Blueberry job  care+21 days]",
-            "content": "[Blueberry job  care+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E9A8\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Pumpkin job free]",
-            "content": "[Pumpkin job free]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E9F8\n610F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Pumpkin job  harvest+21 days]",
-            "content": "[Pumpkin job  harvest+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E9F8\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Pumpkin job  water+21 days]",
-            "content": "[Pumpkin job  water+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E9F8\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Pumpkin job  care+21 days]",
-            "content": "[Pumpkin job  care+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E9F8\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Plum job free]",
-            "content": "[Plum job free]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EA48\n610F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Plum job  harvest+21 days]",
-            "content": "[Plum job  harvest+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EA48\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Plum job  water+21 days]",
-            "content": "[Plum job  water+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EA48\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Plum job  care+21 days]",
-            "content": "[Plum job  care+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EA48\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Cherry job free]",
-            "content": "[Cherry job free]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EA98\n610F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Cherry job  harvest+21 days]",
-            "content": "[Cherry job  harvest+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EA98\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Cherry job  water+21 days]",
-            "content": "[Cherry job  water+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EA98\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Cherry job  care+21 days]",
-            "content": "[Cherry job  care+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EA98\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Aqua job free]",
-            "content": "[Aqua job free]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EAE8\n610F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Aqua job  harvest+21 days]",
-            "content": "[Aqua job  harvest+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EAE8\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Aqua job  water+21 days]",
-            "content": "[Aqua job  water+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EAE8\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Aqua job  care+21 days]",
-            "content": "[Aqua job  care+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EAE8\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Sunny job free]",
-            "content": "[Sunny job free]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EB38\n610F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Sunny job  harvest+21 days]",
-            "content": "[Sunny job  harvest+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EB38\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Sunny job  water+21 days]",
-            "content": "[Sunny job  water+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EB38\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Sunny job  care+21 days]",
-            "content": "[Sunny job  care+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EB38\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Mint job free]",
-            "content": "[Mint job free]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EB88\n610F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Mint job  harvest+21 days]",
-            "content": "[Mint job  harvest+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EB88\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Mint job  water+21 days]",
-            "content": "[Mint job  water+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EB88\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[Mint job  care+21 days]",
-            "content": "[Mint job  care+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EB88\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
-        },
-        {
-            "title": "[1slot in TOOLBOX item is mythic sickle]",
-            "content": "[1slot in TOOLBOX item is mythic sickle]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000004AE\n780F1000 00008F2E\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[1slot in TOOLBOX is 300]",
-            "content": "[1slot in TOOLBOX is 300]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000004AE\n780F1000 00008F2E\n780F0000 00000004\n640F0000 00000000 0000012C\n\n"
-        },
-        {
-            "title": "[1st slot in CABINET item is ancient fossil]",
-            "content": "[1st slot in CABINET item is ancient fossil]\n580F0000 60BFF790\n580F1000 00000380\n580F1000 00004088\n780F0000 00000010\n780F1000 00000008\n640F0000 00000000 00000144\n\n"
-        },
-        {
-            "title": "[1st slot in CABINET is 300]",
-            "content": "[1st slot in CABINET is 300]\n580F0000 60BFF790\n580F1000 00000380\n580F1000 00004088\n780F0000 00000010\n640F0000 00000000 0000012C\n\n"
-        },
-        {
-            "title": "[1st slot in FRIDGE item is X Egg]",
-            "content": "[1st slot in FRIDGE item is X Egg]\n580F0000 60BFF790\n580F1000 00000380\n580F1000 00004060\n780F0000 00000010\n780F1000 00000008\n640F0000 00000000 0000001C\n\n"
-        },
-        {
-            "title": "[1st slot in FRIDGE is 300]",
-            "content": "[1st slot in FRIDGE is 300]\n580F0000 60BFF790\n580F1000 00000380\n580F1000 00004060\n780F0000 00000010\n640F0000 00000000 0000012C\n\n"
-        },
-        {
-            "title": "[1st slot in FRIDGE is 5 STARS CROP]",
-            "content": "[1st slot in FRIDGE is 5 STARS CROP]\n580F0000 60BFF790\n580F1000 00000380\n580F1000 00004060\n780F0000 00000010\n780F1000 00000004\n640F0000 00000000 00000004\n"
-        }
-    ],
-    "E963F5692EB8AEDD": [
-        {
-            "title": "[inf Gold]",
-            "content": "[inf Gold]\n04100000 4188AD90 000F4240\n\n"
-        },
-        {
-            "title": "[inf stamina]",
-            "content": "[inf stamina]\n04100000 4188B2CE 0000012C\n\n"
-        },
-        {
-            "title": "[inf water in can]",
-            "content": "[inf water in can]\n02100000 4188B2D4 000000FF\n\n"
-        },
-        {
-            "title": "[Inf. Water in Can]",
-            "content": "[Inf. Water in Can]\n04000000 0004AAC8 4B1F018A\n\n"
-        },
-        {
-            "title": "[Inf. Water in Can (Off)]",
-            "content": "[Inf. Water in Can (Off)]\n04000000 0004AAC8 4B0A018A\n\n"
-        },
-        {
-            "title": "[inf stamina]",
-            "content": "[inf stamina]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000004AE\n640F0000 00000000 0000012C\n\n"
-        },
-        {
-            "title": "[Harvest sprites MAX SKILL PART1]",
-            "content": "[Harvest sprites MAX SKILL PART1]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000028\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000029\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 0000002A\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000028\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000029\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 0000002A\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000028\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000029\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 0000002A\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000028\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000029\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 0000002A\n640F0000 00000000 000000FF\n\n"
-        },
-        {
-            "title": "[Harvest sprites MAX SKILL PART2]",
-            "content": "[Harvest sprites MAX SKILL PART2]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000028\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000029\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 0000002A\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000028\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000029\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 0000002A\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000028\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000029\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 0000002A\n640F0000 00000000 000000FF\n\n"
-        },
-        {
-            "title": "[Blueberry job free]",
-            "content": "[Blueberry job free]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000030\n640F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Blueberry job  harvest+inf days]",
-            "content": "[Blueberry job  harvest+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000030\n640F0000 00000000 00000000\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Blueberry job  water+inf days]",
-            "content": "[Blueberry job  water+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000030\n640F0000 00000000 00000001\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Blueberry job  care +inf days]",
-            "content": "[Blueberry job  care +inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000030\n640F0000 00000000 00000002\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Pumpkin job free]",
-            "content": "[Pumpkin job free]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Pumpkin job  harvest+inf days]",
-            "content": "[Pumpkin job  harvest+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000000\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Pumpkin job  water+inf days]",
-            "content": "[Pumpkin job  water+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000001\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Pumpkin job  care +inf days]",
-            "content": "[Pumpkin job  care +inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000002\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Plum job free]",
-            "content": "[Plum job free]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Plum job  harvest+inf days]",
-            "content": "[Plum job  harvest+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000000\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Plum job  water+inf days]",
-            "content": "[Plum job  water+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000001\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Plum job  care +inf days]",
-            "content": "[Plum job  care +inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000002\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Cherry job free]",
-            "content": "[Cherry job free]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Cherry job  harvest+inf days]",
-            "content": "[Cherry job  harvest+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000000\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Cherry job  water+inf days]",
-            "content": "[Cherry job  water+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000001\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Cherry job  care +inf days]",
-            "content": "[Cherry job  care +inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000002\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Aqua job free]",
-            "content": "[Aqua job free]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Aqua job  harvest+inf days]",
-            "content": "[Aqua job  harvest+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000000\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Aqua job  water+inf days]",
-            "content": "[Aqua job  water+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000001\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Aqua job  care +inf days]",
-            "content": "[Aqua job  care +inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000002\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Sunny job free]",
-            "content": "[Sunny job free]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Sunny job  harvest+inf days]",
-            "content": "[Sunny job  harvest+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000000\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Sunny job  water+inf days]",
-            "content": "[Sunny job  water+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000001\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Sunny job  care +inf days]",
-            "content": "[Sunny job  care +inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000002\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Mint job free]",
-            "content": "[Mint job free]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Mint job  harvest+inf days]",
-            "content": "[Mint job  harvest+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000000\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Mint job  water+inf days]",
-            "content": "[Mint job  water+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000001\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Mint job  care +inf days]",
-            "content": "[Mint job  care +inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000002\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n"
+            "content": "[Pauze Time (off)]\n04000000 0002A3AC 72A0002B\n20000000\n\n",
+            "title": "[Pauze Time (off)]"
         }
     ],
     "7F00EC72055A9DCA": [
         {
-            "title": "[chicken/rabbit Crown]",
-            "content": "[chicken/rabbit Crown]\n580C0000 60BFF790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 00008254\n300E0000 00000008\n610C0000 00000000 00000001\n780C0000 00000280\n310E0000\n\n"
+            "content": "[chicken/rabbit Crown]\n580C0000 60BFF790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 00008254\n300E0000 00000008\n610C0000 00000000 00000001\n780C0000 00000280\n310E0000\n\n",
+            "title": "[chicken/rabbit Crown]"
         },
         {
-            "title": "[cow/alpaca/sheep Crown]",
-            "content": "[cow/alpaca/sheep Crown]\n580C0000 60BFF790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 00006A14\n300E0000 00000016\n610C0000 00000000 00000001\n780C0000 00000280\n310E0000"
+            "content": "[cow/alpaca/sheep Crown]\n580C0000 60BFF790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 00006A14\n300E0000 00000016\n610C0000 00000000 00000001\n780C0000 00000280\n310E0000",
+            "title": "[cow/alpaca/sheep Crown]"
         }
     ],
     "9587AA1DA8220111": [
         {
-            "title": "[stop TIME]",
-            "content": "[stop TIME]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000041\n610F0000 00000000 00000000\n\n"
+            "content": "[stop TIME]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000041\n610F0000 00000000 00000000\n\n",
+            "title": "[stop TIME]"
         },
         {
-            "title": "[time 9AM]",
-            "content": "[time 9AM]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000040\n610F0000 00000000 00000009\n\n"
+            "content": "[time 9AM]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000040\n610F0000 00000000 00000009\n\n",
+            "title": "[time 9AM]"
         },
         {
-            "title": "[time 12 PM]",
-            "content": "[time 12 PM]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000040\n610F0000 00000000 0000000C\n\n"
+            "content": "[time 12 PM]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000040\n610F0000 00000000 0000000C\n\n",
+            "title": "[time 12 PM]"
         },
         {
-            "title": "[time 3PM ]",
-            "content": "[time 3PM ]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000040\n610F0000 00000000 0000000F\n\n"
+            "content": "[time 3PM ]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000040\n610F0000 00000000 0000000F\n\n",
+            "title": "[time 3PM ]"
         },
         {
-            "title": "[spring season]",
-            "content": "[spring season]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000038\n610F0000 00000000 00000000\n\n"
+            "content": "[spring season]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000038\n610F0000 00000000 00000000\n\n",
+            "title": "[spring season]"
         },
         {
-            "title": "[summer season]",
-            "content": "[summer season]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000038\n610F0000 00000000 00000001\n\n"
+            "content": "[summer season]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000038\n610F0000 00000000 00000001\n\n",
+            "title": "[summer season]"
         },
         {
-            "title": "[autumn season]",
-            "content": "[autumn season]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000038\n610F0000 00000000 00000002\n\n"
+            "content": "[autumn season]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000038\n610F0000 00000000 00000002\n\n",
+            "title": "[autumn season]"
         },
         {
-            "title": "[winter season]",
-            "content": "[winter season]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000038\n610F0000 00000000 00000003\n\n"
+            "content": "[winter season]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000038\n610F0000 00000000 00000003\n\n",
+            "title": "[winter season]"
         },
         {
-            "title": "[sunny weather today]",
-            "content": "[sunny weather today]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000000\n\n"
+            "content": "[sunny weather today]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000000\n\n",
+            "title": "[sunny weather today]"
         },
         {
-            "title": "[rain weather today]",
-            "content": "[rain weather today]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000001\n\n"
+            "content": "[rain weather today]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000001\n\n",
+            "title": "[rain weather today]"
         },
         {
-            "title": "[snow weather today]",
-            "content": "[snow weather today]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000002\n\n"
+            "content": "[snow weather today]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000002\n\n",
+            "title": "[snow weather today]"
         },
         {
-            "title": "[typhoon weather today]",
-            "content": "[typhoon weather today]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000003\n\n"
+            "content": "[typhoon weather today]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000003\n\n",
+            "title": "[typhoon weather today]"
         },
         {
-            "title": "[heavy snow weather today]",
-            "content": "[heavy snow weather today]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000004\n\n"
+            "content": "[heavy snow weather today]\n580F0000 60C00790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000004\n\n",
+            "title": "[heavy snow weather today]"
         },
         {
-            "title": "[chickenrabbit max HeartsFP]",
-            "content": "[chickenrabbit max HeartsFP]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 0000824C\n300E0000 00000008\n610F0000 00000000 00000005\n780F0000 00000280\n310E0000\n580C0000 60C00790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 00008250\n300E0000 00000008\n610C0000 00000000 000000FF\n780C0000 00000280\n310E0000\n\n"
+            "content": "[chickenrabbit max HeartsFP]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 0000824C\n300E0000 00000008\n610F0000 00000000 00000005\n780F0000 00000280\n310E0000\n580C0000 60C00790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 00008250\n300E0000 00000008\n610C0000 00000000 000000FF\n780C0000 00000280\n310E0000\n\n",
+            "title": "[chickenrabbit max HeartsFP]"
         },
         {
-            "title": "[cowalpacasheep max HeartsFP]",
-            "content": "[cowalpacasheep max HeartsFP]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00006A0C\n300E0000 00000016\n610F0000 00000000 00000005\n780F0000 00000280\n310E0000\n580C0000 60C00790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 00006A10\n300E0000 00000016\n610C0000 00000000 000000FF\n780C0000 00000280\n310E0000\n\n"
+            "content": "[cowalpacasheep max HeartsFP]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00006A0C\n300E0000 00000016\n610F0000 00000000 00000005\n780F0000 00000280\n310E0000\n580C0000 60C00790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 00006A10\n300E0000 00000016\n610C0000 00000000 000000FF\n780C0000 00000280\n310E0000\n\n",
+            "title": "[cowalpacasheep max HeartsFP]"
         },
         {
-            "title": "[chickenrabbit Crown]",
-            "content": "[chickenrabbit Crown]\n580C0000 60C00790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 00008254\n300E0000 00000008\n610C0000 00000000 00000001\n780C0000 00000280\n310E0000\n\n"
+            "content": "[chickenrabbit Crown]\n580C0000 60C00790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 00008254\n300E0000 00000008\n610C0000 00000000 00000001\n780C0000 00000280\n310E0000\n\n",
+            "title": "[chickenrabbit Crown]"
         },
         {
-            "title": "[cowalpacasheep Crown]",
-            "content": "[cowalpacasheep Crown]\n580C0000 60C00790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 00006A14\n300E0000 00000016\n610C0000 00000000 00000001\n780C0000 00000280\n310E0000\n\n"
+            "content": "[cowalpacasheep Crown]\n580C0000 60C00790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 00006A14\n300E0000 00000016\n610C0000 00000000 00000001\n780C0000 00000280\n310E0000\n\n",
+            "title": "[cowalpacasheep Crown]"
         },
         {
-            "title": "[horse all max+adult]",
-            "content": "[horse all max+adult]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 0000C6E4\n300E0000 00000002\n610F0000 00000000 000000FF\n780F0000 00000008\n310E0000\n580C0000 60C00790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 0000C6E9\n610C0000 00000000 00000001\n\n"
+            "content": "[horse all max+adult]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 0000C6E4\n300E0000 00000002\n610F0000 00000000 000000FF\n780F0000 00000008\n310E0000\n580C0000 60C00790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 0000C6E9\n610C0000 00000000 00000001\n\n",
+            "title": "[horse all max+adult]"
         },
         {
-            "title": "[Villagers max FPP1]",
-            "content": "[Villagers max FPP1]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001488\n300E0000 00000002\n640F0000 00000000 000000FF\n780F0000 00000038\n310E0000\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001510\n300E0000 00000002\n640F0000 00000000 000000FF\n780F0000 00000050\n310E0000\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001598\n300E0000 00000002\n640F0000 00000000 000000FF\n780F0000 00000038\n310E0000\n580C0000 60C00790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C0000 00001628\n300E0000 00000002\n640C0000 00000000 000000FF\n780C0000 00000050\n310E0000\n580C0000 60C00790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C0000 000016B0\n300E0000 00000004\n640C0000 00000000 000000FF\n780C0000 00000038\n310E0000\n580C0000 60C00790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C0000 000017A8\n300E0000 00000007\n640C0000 00000000 000000FF\n780C0000 00000038\n310E0000\n\n"
+            "content": "[Villagers max FPP1]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001488\n300E0000 00000002\n640F0000 00000000 000000FF\n780F0000 00000038\n310E0000\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001510\n300E0000 00000002\n640F0000 00000000 000000FF\n780F0000 00000050\n310E0000\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001598\n300E0000 00000002\n640F0000 00000000 000000FF\n780F0000 00000038\n310E0000\n580C0000 60C00790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C0000 00001628\n300E0000 00000002\n640C0000 00000000 000000FF\n780C0000 00000050\n310E0000\n580C0000 60C00790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C0000 000016B0\n300E0000 00000004\n640C0000 00000000 000000FF\n780C0000 00000038\n310E0000\n580C0000 60C00790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C0000 000017A8\n300E0000 00000007\n640C0000 00000000 000000FF\n780C0000 00000038\n310E0000\n\n",
+            "title": "[Villagers max FPP1]"
         },
         {
-            "title": "[Villagers max FPP2]",
-            "content": "[Villagers max FPP2]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001948\n300E0000 00000003\n640F0000 00000000 000000FF\n780F0000 00000050\n310E0000\n580A0000 60C00790\n580A1000 00000388\n580A1000 00000008\n580A1000 000000F8\n580A1000 00000010\n580A1000 00000070\n780A0000 00001A20\n300E0000 00000002\n640A0000 00000000 000000FF\n780A0000 00000050\n310E0000\n580A0000 60C00790\n580A1000 00000388\n580A1000 00000008\n580A1000 000000F8\n580A1000 00000010\n580A1000 00000070\n780A0000 00001AA8\n300E0000 00000003\n640A0000 00000000 000000FF\n780A0000 00000050\n310E0000\n580A0000 60C00790\n580A1000 00000388\n580A1000 00000008\n580A1000 000000F8\n580A1000 00000010\n580A1000 00000070\n780A0000 00001B8C\n300E0000 00000002\n640A0000 00000000 000000FF\n780A0000 00000038\n310E0000\n580B0000 60C00790\n580B1000 00000388\n580B1000 00000008\n580B1000 000000F8\n580B1000 00000010\n580B1000 00000070\n780B0000 00001C14\n300E0000 00000004\n640B0000 00000000 000000FF\n780B0000 00000050\n310E0000\n580B0000 60C00790\n580B1000 00000388\n580B1000 00000008\n580B1000 000000F8\n580B1000 00000010\n580B1000 00000070\n780B0000 00001D40\n300E0000 00000002\n640B0000 00000000 000000FF\n780B0000 00000038\n310E0000\n580B0000 60C00790\n580B1000 00000388\n580B1000 00000008\n580B1000 000000F8\n580B1000 00000010\n580B1000 00000070\n780B0000 00001DC8\n640B0000 00000000 000000FF\n\n"
+            "content": "[Villagers max FPP2]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001948\n300E0000 00000003\n640F0000 00000000 000000FF\n780F0000 00000050\n310E0000\n580A0000 60C00790\n580A1000 00000388\n580A1000 00000008\n580A1000 000000F8\n580A1000 00000010\n580A1000 00000070\n780A0000 00001A20\n300E0000 00000002\n640A0000 00000000 000000FF\n780A0000 00000050\n310E0000\n580A0000 60C00790\n580A1000 00000388\n580A1000 00000008\n580A1000 000000F8\n580A1000 00000010\n580A1000 00000070\n780A0000 00001AA8\n300E0000 00000003\n640A0000 00000000 000000FF\n780A0000 00000050\n310E0000\n580A0000 60C00790\n580A1000 00000388\n580A1000 00000008\n580A1000 000000F8\n580A1000 00000010\n580A1000 00000070\n780A0000 00001B8C\n300E0000 00000002\n640A0000 00000000 000000FF\n780A0000 00000038\n310E0000\n580B0000 60C00790\n580B1000 00000388\n580B1000 00000008\n580B1000 000000F8\n580B1000 00000010\n580B1000 00000070\n780B0000 00001C14\n300E0000 00000004\n640B0000 00000000 000000FF\n780B0000 00000050\n310E0000\n580B0000 60C00790\n580B1000 00000388\n580B1000 00000008\n580B1000 000000F8\n580B1000 00000010\n580B1000 00000070\n780B0000 00001D40\n300E0000 00000002\n640B0000 00000000 000000FF\n780B0000 00000038\n310E0000\n580B0000 60C00790\n580B1000 00000388\n580B1000 00000008\n580B1000 000000F8\n580B1000 00000010\n580B1000 00000070\n780B0000 00001DC8\n640B0000 00000000 000000FF\n\n",
+            "title": "[Villagers max FPP2]"
         },
         {
-            "title": "[Girls Max Hearts]",
-            "content": "[Girls Max Hearts]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001538\n300E0000 00000002\n640F0000 00000000 0000FDE8\n780F0000 00000248\n310E0000\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001920\n300E0000 00000002\n640F0000 00000000 0000FDE8\n780F0000 000000A0\n310E0000\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001AD0\n300E0000 00000002\n640F0000 00000000 0000FDE8\n780F0000 00000320\n310E0000\n\n"
+            "content": "[Girls Max Hearts]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001538\n300E0000 00000002\n640F0000 00000000 0000FDE8\n780F0000 00000248\n310E0000\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001920\n300E0000 00000002\n640F0000 00000000 0000FDE8\n780F0000 000000A0\n310E0000\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001AD0\n300E0000 00000002\n640F0000 00000000 0000FDE8\n780F0000 00000320\n310E0000\n\n",
+            "title": "[Girls Max Hearts]"
         },
         {
-            "title": "[Boys Max Hearts]",
-            "content": "[Boys Max Hearts]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000014E8\n300E0000 00000002\n640F0000 00000000 0000FDE8\n780F0000 00000168\n310E0000\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001970\n300E0000 00000002\n640F0000 00000000 0000FDE8\n780F0000 000000D8\n310E0000\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001B20\n300E0000 00000002\n640F0000 00000000 0000FDE8\n780F0000 00000280\n310E0000\n\n"
+            "content": "[Boys Max Hearts]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000014E8\n300E0000 00000002\n640F0000 00000000 0000FDE8\n780F0000 00000168\n310E0000\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001970\n300E0000 00000002\n640F0000 00000000 0000FDE8\n780F0000 000000D8\n310E0000\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001B20\n300E0000 00000002\n640F0000 00000000 0000FDE8\n780F0000 00000280\n310E0000\n\n",
+            "title": "[Boys Max Hearts]"
         },
         {
-            "title": "[Pets Max FPSKILL]",
-            "content": "[Pets Max FPSKILL]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00000778\n300E0000 00000005\n640F0000 00000000 000000FF\n780F0000 0000025C\n310E0000\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000007A8\n300E0000 00000005\n640F0000 00000000 000000FF\n780F0000 0000025C\n310E0000\n\n"
+            "content": "[Pets Max FPSKILL]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00000778\n300E0000 00000005\n640F0000 00000000 000000FF\n780F0000 0000025C\n310E0000\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000007A8\n300E0000 00000005\n640F0000 00000000 000000FF\n780F0000 0000025C\n310E0000\n\n",
+            "title": "[Pets Max FPSKILL]"
         },
         {
-            "title": "[Harvest Sprites max FP]",
-            "content": "[Harvest Sprites max FP]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E978\n300E0000 00000007\n640F0000 00000000 000000FF\n780F0000 00000050\n310E0000\n\n"
+            "content": "[Harvest Sprites max FP]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E978\n300E0000 00000007\n640F0000 00000000 000000FF\n780F0000 00000050\n310E0000\n\n",
+            "title": "[Harvest Sprites max FP]"
         },
         {
-            "title": "[Harvest Sprites max SKILL]",
-            "content": "[Harvest Sprites max SKILL]\n580C0000 60C00790\n580C1000 00000380\n780C0000 0000E9A0\n300E0000 00000007\n640C0000 00000000 00FFFFFF\n780C0000 00000050\n310E0000\n\n"
+            "content": "[Harvest Sprites max SKILL]\n580C0000 60C00790\n580C1000 00000380\n780C0000 0000E9A0\n300E0000 00000007\n640C0000 00000000 00FFFFFF\n780C0000 00000050\n310E0000\n\n",
+            "title": "[Harvest Sprites max SKILL]"
         },
         {
-            "title": "[Blueberry job free]",
-            "content": "[Blueberry job free]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E9A8\n610F0000 00000000 00000003\n\n"
+            "content": "[Blueberry job free]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E9A8\n610F0000 00000000 00000003\n\n",
+            "title": "[Blueberry job free]"
         },
         {
-            "title": "[Blueberry job  harvest+21 days]",
-            "content": "[Blueberry job  harvest+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E9A8\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Blueberry job  harvest+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E9A8\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Blueberry job  harvest+21 days]"
         },
         {
-            "title": "[Blueberry job  water+21 days]",
-            "content": "[Blueberry job  water+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E9A8\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Blueberry job  water+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E9A8\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Blueberry job  water+21 days]"
         },
         {
-            "title": "[Blueberry job  care+21 days]",
-            "content": "[Blueberry job  care+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E9A8\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Blueberry job  care+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E9A8\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Blueberry job  care+21 days]"
         },
         {
-            "title": "[Pumpkin job free]",
-            "content": "[Pumpkin job free]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E9F8\n610F0000 00000000 00000003\n\n"
+            "content": "[Pumpkin job free]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E9F8\n610F0000 00000000 00000003\n\n",
+            "title": "[Pumpkin job free]"
         },
         {
-            "title": "[Pumpkin job  harvest+21 days]",
-            "content": "[Pumpkin job  harvest+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E9F8\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Pumpkin job  harvest+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E9F8\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Pumpkin job  harvest+21 days]"
         },
         {
-            "title": "[Pumpkin job  water+21 days]",
-            "content": "[Pumpkin job  water+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E9F8\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Pumpkin job  water+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E9F8\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Pumpkin job  water+21 days]"
         },
         {
-            "title": "[Pumpkin job  care+21 days]",
-            "content": "[Pumpkin job  care+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E9F8\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Pumpkin job  care+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000E9F8\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Pumpkin job  care+21 days]"
         },
         {
-            "title": "[Plum job free]",
-            "content": "[Plum job free]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EA48\n610F0000 00000000 00000003\n\n"
+            "content": "[Plum job free]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EA48\n610F0000 00000000 00000003\n\n",
+            "title": "[Plum job free]"
         },
         {
-            "title": "[Plum job  harvest+21 days]",
-            "content": "[Plum job  harvest+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EA48\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Plum job  harvest+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EA48\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Plum job  harvest+21 days]"
         },
         {
-            "title": "[Plum job  water+21 days]",
-            "content": "[Plum job  water+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EA48\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Plum job  water+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EA48\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Plum job  water+21 days]"
         },
         {
-            "title": "[Plum job  care+21 days]",
-            "content": "[Plum job  care+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EA48\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Plum job  care+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EA48\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Plum job  care+21 days]"
         },
         {
-            "title": "[Cherry job free]",
-            "content": "[Cherry job free]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EA98\n610F0000 00000000 00000003\n\n"
+            "content": "[Cherry job free]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EA98\n610F0000 00000000 00000003\n\n",
+            "title": "[Cherry job free]"
         },
         {
-            "title": "[Cherry job  harvest+21 days]",
-            "content": "[Cherry job  harvest+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EA98\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Cherry job  harvest+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EA98\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Cherry job  harvest+21 days]"
         },
         {
-            "title": "[Cherry job  water+21 days]",
-            "content": "[Cherry job  water+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EA98\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Cherry job  water+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EA98\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Cherry job  water+21 days]"
         },
         {
-            "title": "[Cherry job  care+21 days]",
-            "content": "[Cherry job  care+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EA98\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Cherry job  care+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EA98\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Cherry job  care+21 days]"
         },
         {
-            "title": "[Aqua job free]",
-            "content": "[Aqua job free]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EAE8\n610F0000 00000000 00000003\n\n"
+            "content": "[Aqua job free]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EAE8\n610F0000 00000000 00000003\n\n",
+            "title": "[Aqua job free]"
         },
         {
-            "title": "[Aqua job  harvest+21 days]",
-            "content": "[Aqua job  harvest+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EAE8\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Aqua job  harvest+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EAE8\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Aqua job  harvest+21 days]"
         },
         {
-            "title": "[Aqua job  water+21 days]",
-            "content": "[Aqua job  water+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EAE8\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Aqua job  water+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EAE8\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Aqua job  water+21 days]"
         },
         {
-            "title": "[Aqua job  care+21 days]",
-            "content": "[Aqua job  care+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EAE8\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Aqua job  care+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EAE8\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Aqua job  care+21 days]"
         },
         {
-            "title": "[Sunny job free]",
-            "content": "[Sunny job free]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EB38\n610F0000 00000000 00000003\n\n"
+            "content": "[Sunny job free]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EB38\n610F0000 00000000 00000003\n\n",
+            "title": "[Sunny job free]"
         },
         {
-            "title": "[Sunny job  harvest+21 days]",
-            "content": "[Sunny job  harvest+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EB38\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Sunny job  harvest+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EB38\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Sunny job  harvest+21 days]"
         },
         {
-            "title": "[Sunny job  water+21 days]",
-            "content": "[Sunny job  water+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EB38\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Sunny job  water+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EB38\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Sunny job  water+21 days]"
         },
         {
-            "title": "[Sunny job  care+21 days]",
-            "content": "[Sunny job  care+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EB38\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Sunny job  care+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EB38\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Sunny job  care+21 days]"
         },
         {
-            "title": "[Mint job free]",
-            "content": "[Mint job free]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EB88\n610F0000 00000000 00000003\n\n"
+            "content": "[Mint job free]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EB88\n610F0000 00000000 00000003\n\n",
+            "title": "[Mint job free]"
         },
         {
-            "title": "[Mint job  harvest+21 days]",
-            "content": "[Mint job  harvest+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EB88\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Mint job  harvest+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EB88\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Mint job  harvest+21 days]"
         },
         {
-            "title": "[Mint job  water+21 days]",
-            "content": "[Mint job  water+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EB88\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Mint job  water+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EB88\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Mint job  water+21 days]"
         },
         {
-            "title": "[Mint job  care+21 days]",
-            "content": "[Mint job  care+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EB88\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n"
+            "content": "[Mint job  care+21 days]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000EB88\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Mint job  care+21 days]"
         },
         {
-            "title": "[House MAX upgrade]",
-            "content": "[House MAX upgrade]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00008B40\n610F0000 00000000 00000002\n780F0000 00000001\n610F0000 00000000 000000FE\n780F0000 00000001\n300E0000 00000002\n610F0000 00000000 00000002\n780F0000 00000001\n310E0000\n780F0000 00000014\n610F0000 00000000 00000001\n780F0000 00000003\n300E0000 00000003\n610F0000 00000000 00000001\n780F0000 00000001\n310E0000\n780F0000 00000003\n610F0000 00000000 00000001\n780F0000 0000000C\n610F0000 00000000 00000001\n780F0000 00000001\n610F0000 00000000 00000001\n780F0000 00000006\n300E0000 0000000A\n610F0000 00000000 00000001\n780F0000 00000001\n310E0000\n\n"
+            "content": "[House MAX upgrade]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00008B40\n610F0000 00000000 00000002\n780F0000 00000001\n610F0000 00000000 000000FE\n780F0000 00000001\n300E0000 00000002\n610F0000 00000000 00000002\n780F0000 00000001\n310E0000\n780F0000 00000014\n610F0000 00000000 00000001\n780F0000 00000003\n300E0000 00000003\n610F0000 00000000 00000001\n780F0000 00000001\n310E0000\n780F0000 00000003\n610F0000 00000000 00000001\n780F0000 0000000C\n610F0000 00000000 00000001\n780F0000 00000001\n610F0000 00000000 00000001\n780F0000 00000006\n300E0000 0000000A\n610F0000 00000000 00000001\n780F0000 00000001\n310E0000\n\n",
+            "title": "[House MAX upgrade]"
         },
         {
-            "title": "[Coop max upgrade]",
-            "content": "[Coop max upgrade]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00008740\n610F0000 00000000 00000001\n780F0000 00000008\n620F0000 00000000 00000101\n780F0000 000002AC\n610F0000 00000000 00000001\n\n"
+            "content": "[Coop max upgrade]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00008740\n610F0000 00000000 00000001\n780F0000 00000008\n620F0000 00000000 00000101\n780F0000 000002AC\n610F0000 00000000 00000001\n\n",
+            "title": "[Coop max upgrade]"
         },
         {
-            "title": "[Barn MAX upgrade]",
-            "content": "[Barn MAX upgrade]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00007070\n610F0000 00000000 00000001\n780F0000 00000008\n640F0000 00000000 01000101\n780F0000 00002C30\n610F0000 00000000 00000001\n\n"
+            "content": "[Barn MAX upgrade]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00007070\n610F0000 00000000 00000001\n780F0000 00000008\n640F0000 00000000 01000101\n780F0000 00002C30\n610F0000 00000000 00000001\n\n",
+            "title": "[Barn MAX upgrade]"
         },
         {
-            "title": "[Popuri instant marriage]",
-            "content": "[Popuri instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 0000153C\n640F0000 00000000 00000009\n\n"
+            "content": "[Popuri instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 0000153C\n640F0000 00000000 00000009\n\n",
+            "title": "[Popuri instant marriage]"
         },
         {
-            "title": "[Marie instant marriage]",
-            "content": "[Marie instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001784\n640F0000 00000000 00000009\n\n"
+            "content": "[Marie instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001784\n640F0000 00000000 00000009\n\n",
+            "title": "[Marie instant marriage]"
         },
         {
-            "title": "[Karen instant marriage]",
-            "content": "[Karen instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001924\n640F0000 00000000 00000009\n\n"
+            "content": "[Karen instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001924\n640F0000 00000000 00000009\n\n",
+            "title": "[Karen instant marriage]"
         },
         {
-            "title": "[Elly instant marriage]",
-            "content": "[Elly instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000019C4\n640F0000 00000000 00000009\n\n"
+            "content": "[Elly instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000019C4\n640F0000 00000000 00000009\n\n",
+            "title": "[Elly instant marriage]"
         },
         {
-            "title": "[Ran instant marriage]",
-            "content": "[Ran instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001AD4\n640F0000 00000000 00000009\n\n"
+            "content": "[Ran instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001AD4\n640F0000 00000000 00000009\n\n",
+            "title": "[Ran instant marriage]"
         },
         {
-            "title": "[Jennifer instant marriage]",
-            "content": "[Jennifer instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001DF4\n640F0000 00000000 00000009\n\n"
+            "content": "[Jennifer instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001DF4\n640F0000 00000000 00000009\n\n",
+            "title": "[Jennifer instant marriage]"
         },
         {
-            "title": "[Rick instant marriage]",
-            "content": "[Rick instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000014EC\n640F0000 00000000 00000009\n\n"
+            "content": "[Rick instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000014EC\n640F0000 00000000 00000009\n\n",
+            "title": "[Rick instant marriage]"
         },
         {
-            "title": "[Gray instant marriage]",
-            "content": "[Gray instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001654\n640F0000 00000000 00000009\n\n"
+            "content": "[Gray instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001654\n640F0000 00000000 00000009\n\n",
+            "title": "[Gray instant marriage]"
         },
         {
-            "title": "[Doctor instant marriage]",
-            "content": "[Doctor instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001974\n640F0000 00000000 00000009\n\n"
+            "content": "[Doctor instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001974\n640F0000 00000000 00000009\n\n",
+            "title": "[Doctor instant marriage]"
         },
         {
-            "title": "[Cliff instant marriage]",
-            "content": "[Cliff instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001A4C\n640F0000 00000000 00000009\n\n"
+            "content": "[Cliff instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001A4C\n640F0000 00000000 00000009\n\n",
+            "title": "[Cliff instant marriage]"
         },
         {
-            "title": "[Kai instant marriage]",
-            "content": "[Kai instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001B24\n640F0000 00000000 00000009\n\n"
+            "content": "[Kai instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001B24\n640F0000 00000000 00000009\n\n",
+            "title": "[Kai instant marriage]"
         },
         {
-            "title": "[Brandon instant marriage]",
-            "content": "[Brandon instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001DA4\n640F0000 00000000 00000009\n\n"
+            "content": "[Brandon instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001DA4\n640F0000 00000000 00000009\n\n",
+            "title": "[Brandon instant marriage]"
         },
         {
-            "title": "[Huang instant marriage]",
-            "content": "[Huang instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001BEC\n640F0000 00000000 0000FDE8\n780F0000 00000004\n640F0000 00000000 00000009\n\n"
+            "content": "[Huang instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001BEC\n640F0000 00000000 0000FDE8\n780F0000 00000004\n640F0000 00000000 00000009\n\n",
+            "title": "[Huang instant marriage]"
         },
         {
-            "title": "[bon vivant instant marriage]",
-            "content": "[bon vivant instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001C3C\n640F0000 00000000 0000FDE8\n780F0000 00000004\n640F0000 00000000 00000009\n\n"
+            "content": "[bon vivant instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001C3C\n640F0000 00000000 0000FDE8\n780F0000 00000004\n640F0000 00000000 00000009\n\n",
+            "title": "[bon vivant instant marriage]"
         },
         {
-            "title": "[harvest goddess instant marriage]",
-            "content": "[harvest goddess instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001C8C\n640F0000 00000000 0000FDE8\n780F0000 00000004\n640F0000 00000000 00000009\n\n"
+            "content": "[harvest goddess instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001C8C\n640F0000 00000000 0000FDE8\n780F0000 00000004\n640F0000 00000000 00000009\n\n",
+            "title": "[harvest goddess instant marriage]"
         },
         {
-            "title": "[kappa instant marriage]",
-            "content": "[kappa instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001CDC\n640F0000 00000000 0000FDE8\n780F0000 00000004\n640F0000 00000000 00000009\n\n"
+            "content": "[kappa instant marriage]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001CDC\n640F0000 00000000 0000FDE8\n780F0000 00000004\n640F0000 00000000 00000009\n\n",
+            "title": "[kappa instant marriage]"
         },
         {
-            "title": "[inf stamina]",
-            "content": "[inf stamina]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000004AE\n640F0000 00000000 0000012C\n\n"
+            "content": "[inf stamina]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000004AE\n640F0000 00000000 0000012C\n\n",
+            "title": "[inf stamina]"
         },
         {
-            "title": "[Saibara work sleep to finish]",
-            "content": "[Saibara work sleep to finish]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000015FC\n640F0000 00000000 00000000\n\n"
+            "content": "[Saibara work sleep to finish]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000015FC\n640F0000 00000000 00000000\n\n",
+            "title": "[Saibara work sleep to finish]"
         },
         {
-            "title": "[Gotts work sleep to finish]",
-            "content": "[Gotts work sleep to finish]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001B74\n640F0000 00000000 00000000\n\n"
+            "content": "[Gotts work sleep to finish]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001B74\n640F0000 00000000 00000000\n\n",
+            "title": "[Gotts work sleep to finish]"
         },
         {
-            "title": "[unlock deluxe fridge cabinet in workshop]",
-            "content": "[unlock deluxe fridge cabinet in workshop]\n580F0000 50BB63B8\n580F1000 00000010\n780F0000 00005AA8\n610F0000 00000000 00000001\n780F0000 00000130\n610F0000 00000000 00000001\n\n"
+            "content": "[unlock deluxe fridge cabinet in workshop]\n580F0000 50BB63B8\n580F1000 00000010\n780F0000 00005AA8\n610F0000 00000000 00000001\n780F0000 00000130\n610F0000 00000000 00000001\n\n",
+            "title": "[unlock deluxe fridge cabinet in workshop]"
         },
         {
-            "title": "[unlock Big Bag in general shop]",
-            "content": "[unlock Big Bag in general shop]\n580F0000 50BB63B8\n580F1000 00000010\n780F0000 00001368\n610F0000 00000000 00000001\n\n"
+            "content": "[unlock Big Bag in general shop]\n580F0000 50BB63B8\n580F1000 00000010\n780F0000 00001368\n610F0000 00000000 00000001\n\n",
+            "title": "[unlock Big Bag in general shop]"
         },
         {
-            "title": "[1slot in TOOLBOX item is travel stone]",
-            "content": "[1slot in TOOLBOX item is travel stone]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00008A80\n640F0000 00000000 00000058\n\n"
+            "content": "[1slot in TOOLBOX item is travel stone]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00008A80\n640F0000 00000000 00000058\n\n",
+            "title": "[1slot in TOOLBOX item is travel stone]"
         },
         {
-            "title": "[1slot in TOOLBOX is 999]",
-            "content": "[1slot in TOOLBOX is 999]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00008A7C\n640F0000 00000000 000003E7\n\n"
+            "content": "[1slot in TOOLBOX is 999]\n580F0000 60C00790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00008A7C\n640F0000 00000000 000003E7\n\n",
+            "title": "[1slot in TOOLBOX is 999]"
         },
         {
-            "title": "[1st slot in FRIDGE item is X Egg]",
-            "content": "[1st slot in FRIDGE item is X Egg]\n580F0000 60C00790\n580F1000 00000380\n580F1000 00004060\n780F0000 00000008\n640F0000 00000000 0000001C\n\n"
+            "content": "[1st slot in FRIDGE item is X Egg]\n580F0000 60C00790\n580F1000 00000380\n580F1000 00004060\n780F0000 00000008\n640F0000 00000000 0000001C\n\n",
+            "title": "[1st slot in FRIDGE item is X Egg]"
         },
         {
-            "title": "[1st slot in FRIDGE is 999]",
-            "content": "[1st slot in FRIDGE is 999]\n580F0000 60C00790\n580F1000 00000380\n580F1000 00004060\n780F0000 00000010\n300E0000 00000001\n640F0000 00000000 000003E7\n780F0000 00000014\n310E0000\n\n"
+            "content": "[1st slot in FRIDGE is 999]\n580F0000 60C00790\n580F1000 00000380\n580F1000 00004060\n780F0000 00000010\n300E0000 00000001\n640F0000 00000000 000003E7\n780F0000 00000014\n310E0000\n\n",
+            "title": "[1st slot in FRIDGE is 999]"
         },
         {
-            "title": "[1st slot in FRIDGE is 5 STARS CROP]",
-            "content": "[1st slot in FRIDGE is 5 STARS CROP]\n580F0000 60C00790\n580F1000 00000380\n580F1000 00004060\n780F0000 0000000C\n300E0000 00000001\n640F0000 00000000 00000004\n780F0000 00000014\n310E0000\n\n"
+            "content": "[1st slot in FRIDGE is 5 STARS CROP]\n580F0000 60C00790\n580F1000 00000380\n580F1000 00004060\n780F0000 0000000C\n300E0000 00000001\n640F0000 00000000 00000004\n780F0000 00000014\n310E0000\n\n",
+            "title": "[1st slot in FRIDGE is 5 STARS CROP]"
         },
         {
-            "title": "[1st slot in CABINET item is Master shooper]",
-            "content": "[1st slot in CABINET item is Master shooper]\n580F0000 60C00790\n580F1000 00000380\n580F1000 00004088\n780F0000 00000008\n640F0000 00000000 0000014F\n\n"
+            "content": "[1st slot in CABINET item is Master shooper]\n580F0000 60C00790\n580F1000 00000380\n580F1000 00004088\n780F0000 00000008\n640F0000 00000000 0000014F\n\n",
+            "title": "[1st slot in CABINET item is Master shooper]"
         },
         {
-            "title": "[1st slot in CABINET is 999]",
-            "content": "[1st slot in CABINET is 999]\n580F0000 60C00790\n580F1000 00000380\n580F1000 00004088\n780F0000 00000010\n300E0000 00000001\n640F0000 00000000 000003E7\n780F0000 00000014\n310E0000\n\n"
+            "content": "[1st slot in CABINET is 999]\n580F0000 60C00790\n580F1000 00000380\n580F1000 00004088\n780F0000 00000010\n300E0000 00000001\n640F0000 00000000 000003E7\n780F0000 00000014\n310E0000\n\n",
+            "title": "[1st slot in CABINET is 999]"
         },
         {
-            "title": "[inf gold]",
-            "content": "[inf gold]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000CAD0\n640F0000 00000000 00989680"
+            "content": "[inf gold]\n580F0000 60C00790\n580F1000 00000380\n780F0000 0000CAD0\n640F0000 00000000 00989680",
+            "title": "[inf gold]"
         }
     ],
-    "5CE05588B1D56EC0": [
+    "B781309CF5399C6A": [
         {
-            "title": "[01# Inf Water in can]",
-            "content": "[01# Inf Water in can]\n04000000 0004AB38 4B1F018A\n"
+            "content": "{Story of Season Friends of Mineral Town USA v1.0.2}\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000004AE\n\n",
+            "title": "{Story of Season Friends of Mineral Town USA v1.0.2}"
         },
         {
-            "title": "[Inf Water in can (off)]",
-            "content": "[Inf Water in can (off)]\n04000000 0004AB38 4B0A018A\n\n"
+            "content": "[Villagers max FPP1]\n400C0000 00000000 00000FDA\n300E0000 00000002\n640C01F0 00000000 000000FF\n780C0000 00000038\n310E0000 20000000\n400C0000 00000000 00001062\n300E0000 00000002\n640C01F0 00000000 000000FF\n780C0000 00000050\n310E0000 20000000\n400C0000 00000000 000010EA\n300E0000 00000002\n640C01F0 00000000 000000FF\n780C0000 00000038\n310E0000 20000000\n400C0000 00000000 0000117A\n300E0000 00000002\n640C01F0 00000000 000000FF\n780C0000 00000050\n310E0000 20000000\n400C0000 00000000 00001202\n300E0000 00000004\n640C01F0 00000000 000000FF\n780C0000 00000038\n310E0000 20000000\n400C0000 00000000 000012FA\n300E0000 00000007\n640C01F0 00000000 000000FF\n780C0000 00000038\n310E0000 20000000\n\n",
+            "title": "[Villagers max FPP1]"
         },
         {
-            "title": "[02# Inf Fatigue]",
-            "content": "[02# Inf Fatigue]\n04000000 00428B24 2A1F03EE\n"
+            "content": "[Villagers max FPP2]\n400C0000 00000000 0000149A\n300E0000 00000003\n640C01F0 00000000 000000FF\n780C0000 00000050\n310E0000 20000000\n400C0000 00000000 00001572\n300E0000 00000002\n640C01F0 00000000 000000FF\n780C0000 00000050\n310E0000 20000000\n400C0000 00000000 000015FA\n300E0000 00000003\n640C01F0 00000000 000000FF\n780C0000 00000050\n310E0000 20000000\n400C0000 00000000 000016DE\n300E0000 00000002\n640C01F0 00000000 000000FF\n780C0000 00000038\n310E0000 20000000\n400C0000 00000000 00001766\n300E0000 00000004\n640C01F0 00000000 000000FF\n780C0000 00000050\n310E0000 20000000\n400C0000 00000000 00001892\n300E0000 00000002\n640C01F0 00000000 000000FF\n780C0000 00000038\n310E0000 20000000\n400C0000 00000000 0000191A\n640C01F0 00000000 000000FF\n\n",
+            "title": "[Villagers max FPP2]"
         },
         {
-            "title": "[Inf Fatigue (off)]",
-            "content": "[Inf Fatigue (off)]\n04000000 00428B24 0B0C01CE\n\n"
+            "content": "[Girls Max Hearts]\n400C0000 00000000 0000108A\n300E0000 00000002\n640C01F0 00000000 0000FDE8\n780C0000 00000248\n310E0000 20000000\n400C0000 00000000 00001472\n300E0000 00000002\n640C01F0 00000000 0000FDE8\n780C0000 000000A0\n310E0000 20000000\n400C0000 00000000 00001622\n300E0000 00000002\n640C01F0 00000000 0000FDE8\n780C0000 00000320\n310E0000 20000000\n\n",
+            "title": "[Girls Max Hearts]"
         },
         {
-            "title": "[03# No physical loss]",
-            "content": "[03# No physical loss]\n04000000 00428AE4 1A8BB16B\n"
+            "content": "[Boys Max Hearts]\n400C0000 00000000 0000103A\n300E0000 00000002\n640C01F0 00000000 0000FDE8\n780C0000 00000168\n310E0000 20000000\n580F0000 60BFF790\n400C0000 00000000 000014C2\n300E0000 00000002\n640C01F0 00000000 0000FDE8\n780C0000 000000D8\n310E0000 20000000\n400C0000 00000000 00001672\n300E0000 00000002\n640C01F0 00000000 0000FDE8\n780C0000 00000280\n310E0000 20000000\n\n",
+            "title": "[Boys Max Hearts]"
         },
         {
-            "title": "[No physical loss (off)]",
-            "content": "[No physical loss (off)]\n04000000 00428AE4 1A8CB16B\n\n"
+            "content": "[Pets Max FP/SKILL]\n400C0000 00000000 000002CA\n300E0000 00000005\n640C01F0 00000000 000000FF\n780C0000 0000025C\n310E0000 20000000\n400C0000 00000000 000002FA\n300E0000 00000005\n640C01F0 00000000 000000FF\n780C0000 0000025C\n310E0000 20000000\n\n\n\n",
+            "title": "[Pets Max FP/SKILL]"
         },
         {
-            "title": "[04# Money is not reduced]",
-            "content": "[04# Money is not reduced]\n04000000 003C6E6C 4B1F0108\n"
+            "content": "[01# Inf Water in can]\n04000000 0004AAC8 4B1F018A\n\n",
+            "title": "[01# Inf Water in can]"
         },
         {
-            "title": "[Money is not reduced (off)]",
-            "content": "[Money is not reduced (off)]\n04000000 003C6E6C 4B090108\n\n"
+            "content": "[Inf Water in can (off)]\n04000000 0004AAC8 4B0A018A\n\n",
+            "title": "[Inf Water in can (off)]"
         },
         {
-            "title": "[05# Money 16x]",
-            "content": "[05# Money 16x]\n04000000 003C6800 0B0A4129\n"
+            "content": "[02# Inf Fatigue]\n04000000 004287F4 2A1F03EE\n\n",
+            "title": "[02# Inf Fatigue]"
         },
         {
-            "title": "[Money 16x (off)]",
-            "content": "[Money 16x (off)]\n04000000 003C6800 0B090149\n\n"
+            "content": "[Inf Fatigue (off)]\n04000000 004287F4 0B0C01CE\n\n",
+            "title": "[Inf Fatigue (off)]"
         },
         {
-            "title": "[06# Pauze Time (hold X)]",
-            "content": "[06# Pauze Time (hold X)]\n04000000 0002A3AC AA0003F3\n80000004\n04000000 00588E50 52800001\n04000000 00588E54 39010501\n04000000 00588E58 AA0003F3\n04000000 00588E5C D65F03C0\n04000000 0002A3AC 94157AA9\n20000000\n\n"
+            "content": "[03# No physical loss]\n04000000 004287B4 1A8BB16B\n\n",
+            "title": "[03# No physical loss]"
         },
         {
-            "title": "[07# 8 times increase in refrigerator items]",
-            "content": "[07# 8 times increase in refrigerator items]\n04000000 003CA360 0B150D29\n04000000 003CA4C0 0B0E0DAD\n"
+            "content": "[No physical loss (off)]\n04000000 004287B4 1A8CB16B\n\n",
+            "title": "[No physical loss (off)]"
         },
         {
-            "title": "[08# 8 times the amount of items in the cabinet]",
-            "content": "[08# 8 times the amount of items in the cabinet]\n04000000 003CA774 0B150D29\n"
+            "content": "[04# Money is not reduced]\n04000000 003C6E9C 4B1F0108\n\n",
+            "title": "[04# Money is not reduced]"
         },
         {
-            "title": "[Increase Items (off)]",
-            "content": "[Increase Items (off)]\n04000000 003CA360 0B150129\n04000000 003CA4C0 0B0E01AD\n04000000 003CA774 0B150129\n\n"
+            "content": "[Money is not reduced (off)]\n04000000 003C6E9C 4B090108\n\n",
+            "title": "[Money is not reduced (off)]"
         },
         {
-            "title": "[09# Change Time to 9 o'clock (R+A)]",
-            "content": "[09# Change Time to 9 o'clock (R+A)]\n80000081\n04000000 00588E60 52800122\n04000000 00588E64 39010142\n04000000 00588E68 72A0002B\n04000000 00588E6C D65F03C0\n04000000 00028634 9415820B\n20000000\n\n"
+            "content": "[05# Money 16x]\n04000000 003C6830 0B0A4129\n\n",
+            "title": "[05# Money 16x]"
         },
         {
-            "title": "[10# Change Time to 14 o'clock (R+Y)]",
-            "content": "[10# Change Time to 14 o'clock (R+Y)]\n80000088\n04000000 00588E70 528001C2\n04000000 00588E74 39010142\n04000000 00588E78 72A0002B\n04000000 00588E7C D65F03C0\n04000000 00028634 9415820B\n20000000\n\n"
+            "content": "[Money 16x (off)]\n04000000 003C6830 0B090149\n\n",
+            "title": "[Money 16x (off)]"
         },
         {
-            "title": "[11# Change time (off)]",
-            "content": "[11# Change time (off)]\n800000C0\n04000000 00028634 72A0002B\n20000000\n\n"
+            "content": "[06# Pauze Time (hold A)]\n04000000 0002A32C AA0003F3\n80000001\n04000000 00588A50 52800001\n04000000 00588A54 39010501\n04000000 00588A58 AA0003F3\n04000000 00588A5C D65F03C0\n04000000 0002A32C 941579C9\n20000000\n\n",
+            "title": "[06# Pauze Time (hold A)]"
         },
         {
-            "title": "[12# Spring Weather tomorrow]",
-            "content": "[12# Spring Weather tomorrow]\n04000000 00588E80 52800003\n04000000 00588E84 3900B143\n04000000 00588E88 8B0B0155\n04000000 00588E8C D65F03C0\n04000000 00028638 94158212\n\n"
+            "content": "[07# Multiply items in refrigerator]\n04000000 003CA390 0B152129\n04000000 003CA4F0 0B0E21AD\n\n",
+            "title": "[07# Multiply items in refrigerator]"
         },
         {
-            "title": "[13# It will rain tomorrow]",
-            "content": "[13# It will rain tomorrow]\n04000000 00588E80 52800023\n04000000 00588E84 3900B143\n04000000 00588E88 8B0B0155\n04000000 00588E8C D65F03C0\n04000000 00028638 94158212\n\n"
+            "content": "[08# Multiply items in the cabinet]\n04000000 003CA7A4 0B152129\n\n",
+            "title": "[08# Multiply items in the cabinet]"
         },
         {
-            "title": "[14# Snow tomorrow]",
-            "content": "[14# Snow tomorrow]\n04000000 00588E80 52800043\n04000000 00588E84 3900B143\n04000000 00588E88 8B0B0155\n04000000 00588E8C D65F03C0\n04000000 00028638 94158212\n\n"
+            "content": "[Increase Items (off)]\n04000000 003CA390 0B150129\n04000000 003CA4F0 0B0E01AD\n04000000 003CA7A4 0B150129\n\n",
+            "title": "[Increase Items (off)]"
         },
         {
-            "title": "[15# Typhoon tomorrow]",
-            "content": "[15# Typhoon tomorrow]\n04000000 00588E80 52800063\n04000000 00588E84 3900B143\n04000000 00588E88 8B0B0155\n04000000 00588E8C D65F03C0\n04000000 00028638 94158212\n\n"
+            "content": "[09# Change Time to 9 o'clock (R+A)]\n80000081\n04000000 00588A60 52800122\n04000000 00588A64 39010142\n04000000 00588A68 72A0002B\n04000000 00588A6C D65F03C0\n04000000 000285B4 9415812F\n20000000\n\n",
+            "title": "[09# Change Time to 9 o'clock (R+A)]"
         },
         {
-            "title": "[16# Tomorrow's Snow]",
-            "content": "[16# Tomorrow's Snow]\n04000000 00588E80 52800083\n04000000 00588E84 3900B143\n04000000 00588E88 8B0B0155\n04000000 00588E8C D65F03C0\n04000000 00028638 94158212\n\n"
+            "content": "[10# Change Time to 14 o'clock (R+Y)]\n80000088\n04000000 00588A70 528001C2\n04000000 00588A74 39010142\n04000000 00588A78 72A0002B\n04000000 00588A7C D65F03C0\n04000000 000285B4 9415812F\n20000000\n\n",
+            "title": "[10# Change Time to 14 o'clock (R+Y)]"
         },
         {
-            "title": "[Change Weather (off)]",
-            "content": "[Change Weather (off)]\n04000000 00028638 8B0B0155\n\n"
+            "content": "[11# Change time (off)]\n04000000 000285B4 72A0002B\n\n\n",
+            "title": "[11# Change time (off)]"
         },
         {
-            "title": "[17# Change Costume to dress]",
-            "content": "[17# Change Costume to dress]\n04000000 00588E90 52800024\n04000000 00588E94 D2996CCC\n04000000 00588E98 8B0C010C\n04000000 00588E9C 79000184\n04000000 00588EA0 52800005\n04000000 00588EA4 39131185\n04000000 00588EA8 39131985\n04000000 00588EAC 5290E889\n04000000 00588EB0 D65F03C0\n04000000 0002A3A8 94157ABA\n\n"
+            "content": "[12# Spring Weather tomorrow]\n04000000 00588A80 52800003\n04000000 00588A84 3900B143\n04000000 00588A88 8B0B0155\n04000000 00588A8C D65F03C0\n04000000 000285B8 94158132\n\n",
+            "title": "[12# Spring Weather tomorrow]"
         },
         {
-            "title": "[18# Change Costume to Cool Dress]",
-            "content": "[18# Change Costume to Cool Dress]\n04000000 00588E90 52800044\n04000000 00588E94 D2996CCC\n04000000 00588E98 8B0C010C\n04000000 00588E9C 79000184\n04000000 00588EA0 52800005\n04000000 00588EA4 39131185\n04000000 00588EA8 39131985\n04000000 00588EAC 5290E889\n04000000 00588EB0 D65F03C0\n04000000 0002A3A8 94157ABA\n\n"
+            "content": "[13# It will rain tomorrow]\n04000000 00588A80 52800023\n04000000 00588A84 3900B143\n04000000 00588A88 8B0B0155\n04000000 00588A8C D65F03C0\n04000000 000285B8 94158132\n\n",
+            "title": "[13# It will rain tomorrow]"
         },
         {
-            "title": "[19# Change Costume to sheep]",
-            "content": "[19# Change Costume to sheep]\n04000000 00588E90 52800184\n04000000 00588E94 D2996CCC\n04000000 00588E98 8B0C010C\n04000000 00588E9C 79000184\n04000000 00588EA0 52800005\n04000000 00588EA4 39131185\n04000000 00588EA8 39131985\n04000000 00588EAC 5290E889\n04000000 00588EB0 D65F03C0\n04000000 0002A3A8 94157ABA\n\n"
+            "content": "[14# Snow tomorrow]\n04000000 00588A80 52800043\n04000000 00588A84 3900B143\n04000000 00588A88 8B0B0155\n04000000 00588A8C D65F03C0\n04000000 000285B8 94158132\n\n",
+            "title": "[14# Snow tomorrow]"
         },
         {
-            "title": "[20# Change Costume to dog]",
-            "content": "[20# Change Costume to dog]\n04000000 00588E90 528001A4\n04000000 00588E94 D2996CCC\n04000000 00588E98 8B0C010C\n04000000 00588E9C 79000184\n04000000 00588EA0 52800005\n04000000 00588EA4 39131185\n04000000 00588EA8 39131985\n04000000 00588EAC 5290E889\n04000000 00588EB0 D65F03C0\n04000000 0002A3A8 94157ABA\n\n"
+            "content": "[15# Typhoon tomorrow]\n04000000 00588A80 52800063\n04000000 00588A84 3900B143\n04000000 00588A88 8B0B0155\n04000000 00588A8C D65F03C0\n04000000 000285B8 94158132\n\n",
+            "title": "[15# Typhoon tomorrow]"
         },
         {
-            "title": "[21# Change Costume to chicken]",
-            "content": "[21# Change Costume to chicken]\n04000000 00588E90 528001C4\n04000000 00588E94 D2996CCC\n04000000 00588E98 8B0C010C\n04000000 00588E9C 79000184\n04000000 00588EA0 52800005\n04000000 00588EA4 39131185\n04000000 00588EA8 39131985\n04000000 00588EAC 5290E889\n04000000 00588EB0 D65F03C0\n04000000 0002A3A8 94157ABA\n\n"
+            "content": "[16# Tomorrow's Snow]\n04000000 00588A80 52800083\n04000000 00588A84 3900B143\n04000000 00588A88 8B0B0155\n04000000 00588A8C D65F03C0\n04000000 000285B8 94158132\n\n",
+            "title": "[16# Tomorrow's Snow]"
         },
         {
-            "title": "[22# Change Costume to rooster]",
-            "content": "[22# Change Costume to rooster]\n04000000 00588E90 528001E4\n04000000 00588E94 D2996CCC\n04000000 00588E98 8B0C010C\n04000000 00588E9C 79000184\n04000000 00588EA0 52800005\n04000000 00588EA4 39131185\n04000000 00588EA8 39131985\n04000000 00588EAC 5290E889\n04000000 00588EB0 D65F03C0\n04000000 0002A3A8 94157ABA\n\n"
+            "content": "[Change Weather (off)]\n04000000 000285B8 8B0B0155\n\n",
+            "title": "[Change Weather (off)]"
         },
         {
-            "title": "[Instant tool Max upgrades]",
-            "content": "[Instant tool Max upgrades]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000CFA8\n300E0000 00000006\n640F0000 00000000 0000FFFF\n780F0000 00000010\n310E0000 20000000\n\n"
+            "content": "[17# Change Costume to dress]\n04000000 00588A90 52800024\n04000000 00588A94 D2996CCC\n04000000 00588A98 8B0C010C\n04000000 00588A9C 79000184\n04000000 00588AA0 52800005\n04000000 00588AA4 39131185\n04000000 00588AA8 39131985\n04000000 00588AAC 5290E889\n04000000 00588AB0 D65F03C0\n04000000 0002A328 941579DA\n\n",
+            "title": "[17# Change Costume to dress]"
         },
         {
-            "title": "[Change Costume (off)]",
-            "content": "[Change Costume (off)]\n04000000 0002A3A8 5290E889\n\n"
+            "content": "[18# Change Costume to Cool Dress]\n04000000 00588A90 52800044\n04000000 00588A94 D2996CCC\n04000000 00588A98 8B0C010C\n04000000 00588A9C 79000184\n04000000 00588AA0 52800005\n04000000 00588AA4 39131185\n04000000 00588AA8 39131985\n04000000 00588AAC 5290E889\n04000000 00588AB0 D65F03C0\n04000000 0002A328 941579DA\n\n",
+            "title": "[18# Change Costume to Cool Dress]"
         },
         {
-            "title": "[Pauze Time Press R]",
-            "content": "[Pauze Time Press R]\n80000080\n04000000 00588E50 52800001\n04000000 00588E54 39010501\n04000000 00588E58 AA0003F3\n04000000 00588E5C D65F03C0\n04000000 0002A3AC 94157AA9\n20000000\n\n"
+            "content": "[19# Change Costume to sheep]\n04000000 00588A90 52800184\n04000000 00588A94 D2996CCC\n04000000 00588A98 8B0C010C\n04000000 00588A9C 79000184\n04000000 00588AA0 52800005\n04000000 00588AA4 39131185\n04000000 00588AA8 39131985\n04000000 00588AAC 5290E889\n04000000 00588AB0 D65F03C0\n04000000 0002A328 941579DA\n\n",
+            "title": "[19# Change Costume to sheep]"
         },
         {
-            "title": "[Pauze Time (off) Press L]",
-            "content": "[Pauze Time (off) Press L]\n80000040\n04000000 0002A3AC 72A0002B\n20000000\n\n\n"
+            "content": "[20# Change Costume to dog]\n04000000 00588A90 528001A4\n04000000 00588A94 D2996CCC\n04000000 00588A98 8B0C010C\n04000000 00588A9C 79000184\n04000000 00588AA0 52800005\n04000000 00588AA4 39131185\n04000000 00588AA8 39131985\n04000000 00588AAC 5290E889\n04000000 00588AB0 D65F03C0\n04000000 0002A328 941579DA\n\n",
+            "title": "[20# Change Costume to dog]"
         },
         {
-            "title": "[06# Pauze Time]",
-            "content": "[06# Pauze Time]\n04000000 00588E50 52800001\n04000000 00588E54 39010501\n04000000 00588E58 AA0003F3\n04000000 00588E5C D65F03C0\n04000000 0002A3AC 94157AA9\n20000000\n\n"
+            "content": "[21# Change Costume to chicken]\n04000000 00588A90 528001C4\n04000000 00588A94 D2996CCC\n04000000 00588A98 8B0C010C\n04000000 00588A9C 79000184\n04000000 00588AA0 52800005\n04000000 00588AA4 39131185\n04000000 00588AA8 39131985\n04000000 00588AAC 5290E889\n04000000 00588AB0 D65F03C0\n04000000 0002A328 941579DA\n\n",
+            "title": "[21# Change Costume to chicken]"
         },
         {
-            "title": "[Pauze Time (off)]",
-            "content": "[Pauze Time (off)]\n04000000 0002A3AC 72A0002B\n20000000\n\n"
+            "content": "[22# Change Costume to rooster]\n04000000 00588A90 528001E4\n04000000 00588A94 D2996CCC\n04000000 00588A98 8B0C010C\n04000000 00588A9C 79000184\n04000000 00588AA0 52800005\n04000000 00588AA4 39131185\n04000000 00588AA8 39131985\n04000000 00588AAC 5290E889\n04000000 00588AB0 D65F03C0\n04000000 0002A328 941579DA\n\n",
+            "title": "[22# Change Costume to rooster]"
+        },
+        {
+            "content": "[Change Costume (off)]\n04000000 0002A328 5290E889\n\n",
+            "title": "[Change Costume (off)]"
+        },
+        {
+            "content": "[Instant Max upgrades]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000CFA8\n300E0000 00000006\n640F0000 00000000 0000FFFF\n780F0000 00000010\n310E0000 20000000\n\n",
+            "title": "[Instant Max upgrades]"
+        },
+        {
+            "content": "[Change 1 item in 99 Mythic Stone]\n580F0000 60BFF790\n580F1000 00000380\n580F1000 0000D068\n780F0000 00000004\n640F0000 00000000 00630000\n780F0000 00000004\n640F0000 00000000 00000129\n\n",
+            "title": "[Change 1 item in 99 Mythic Stone]"
+        },
+        {
+            "content": "[Change 1 item in 1 Teleport Stone]\n580F0000 60BFF790\n580F1000 00000380\n580F1000 0000D068\n780F0000 00000004\n640F0000 00000000 00010000\n780F0000 00000004\n640F0000 00000000 00000058\n\n",
+            "title": "[Change 1 item in 1 Teleport Stone]"
+        },
+        {
+            "content": "[time 9AM]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E938\n640F0000 00000000 00000009\n\n",
+            "title": "[time 9AM]"
+        },
+        {
+            "content": "[time 12 PM]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E938\n640F0000 00000000 0000000C\n\n",
+            "title": "[time 12 PM]"
+        },
+        {
+            "content": "[time 3PM ]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E938\n640F0000 00000000 0000000F\n\n",
+            "title": "[time 3PM ]"
+        },
+        {
+            "content": "[sunny weather today]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E938\n780F1000 00000018\n640F0000 00000000 00000000\n\n",
+            "title": "[sunny weather today]"
+        },
+        {
+            "content": "[rain weather today]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E938\n780F1000 00000018\n640F0000 00000000 00000001\n\n",
+            "title": "[rain weather today]"
+        },
+        {
+            "content": "[snow weather today]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E938\n780F1000 00000018\n640F0000 00000000 00000002\n\n",
+            "title": "[snow weather today]"
+        },
+        {
+            "content": "[typhoon weather today]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E938\n780F1000 00000018\n640F0000 00000000 00000003\n\n",
+            "title": "[typhoon weather today]"
+        },
+        {
+            "content": "[heavy snow weather today]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E938\n780F1000 00000018\n640F0000 00000000 00000004\n\n",
+            "title": "[heavy snow weather today]"
+        },
+        {
+            "content": "[spring season]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E940\n640F0000 00000000 00000000\n\n",
+            "title": "[spring season]"
+        },
+        {
+            "content": "[summer season]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E940\n640F0000 00000000 00000001\n\n",
+            "title": "[summer season]"
+        },
+        {
+            "content": "[autumn season]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E940\n640F0000 00000000 00000002\n\n",
+            "title": "[autumn season]"
+        },
+        {
+            "content": "[winter season]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F1000 0000E940\n640F0000 00000000 00000003\n\n",
+            "title": "[winter season]"
+        },
+        {
+            "content": "[Villagers max FPP1]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000004AE\n780F0000 00000FDA\n300F0000 00000002\n640F0000 00000000 000000FF\n780F0000 00000038\n310F0000 20000000\n580F0000 60BFF790\n\n",
+            "title": "[Villagers max FPP1]"
+        },
+        {
+            "content": "[1slot in TOOLBOX item is mythic sickle]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000004AE\n780F1000 00008F2E\n640F0000 00000000 00000007\n\n",
+            "title": "[1slot in TOOLBOX item is mythic sickle]"
+        },
+        {
+            "content": "[1slot in TOOLBOX is 300]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000004AE\n780F1000 00008F2E\n780F0000 00000004\n640F0000 00000000 0000012C\n\n",
+            "title": "[1slot in TOOLBOX is 300]"
+        },
+        {
+            "content": "[Saibara work sleep to finish]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000015FC\n640F0000 00000000 00000000\n\n",
+            "title": "[Saibara work sleep to finish]"
+        },
+        {
+            "content": "[Gotts work sleep to finish]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001B74\n640F0000 00000000 00000000\n\n",
+            "title": "[Gotts work sleep to finish]"
+        },
+        {
+            "content": "[Popuri instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 0000153C\n640F0000 00000000 00000009\n\n",
+            "title": "[Popuri instant marriage]"
+        },
+        {
+            "content": "[Marie instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001784\n640F0000 00000000 00000009\n\n",
+            "title": "[Marie instant marriage]"
+        },
+        {
+            "content": "[Karen instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001924\n640F0000 00000000 00000009\n\n",
+            "title": "[Karen instant marriage]"
+        },
+        {
+            "content": "[Elly instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000019C4\n640F0000 00000000 00000009\n\n",
+            "title": "[Elly instant marriage]"
+        },
+        {
+            "content": "[Ran instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001AD4\n640F0000 00000000 00000009\n\n",
+            "title": "[Ran instant marriage]"
+        },
+        {
+            "content": "[Jennifer instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001DF4\n640F0000 00000000 00000009\n\n",
+            "title": "[Jennifer instant marriage]"
+        },
+        {
+            "content": "[Rick instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000014EC\n640F0000 00000000 00000009\n\n",
+            "title": "[Rick instant marriage]"
+        },
+        {
+            "content": "[Gray instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001654\n640F0000 00000000 00000009\n\n",
+            "title": "[Gray instant marriage]"
+        },
+        {
+            "content": "[Doctor instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001974\n640F0000 00000000 00000009\n\n",
+            "title": "[Doctor instant marriage]"
+        },
+        {
+            "content": "[Cliff instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001A4C\n640F0000 00000000 00000009\n\n",
+            "title": "[Cliff instant marriage]"
+        },
+        {
+            "content": "[Kai instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001B24\n640F0000 00000000 00000009\n\n",
+            "title": "[Kai instant marriage]"
+        },
+        {
+            "content": "[Brandon instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001DA4\n640F0000 00000000 00000009\n\n",
+            "title": "[Brandon instant marriage]"
+        },
+        {
+            "content": "[Huang instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001BEC\n640F0000 00000000 0000FDE8\n780F0000 00000004\n640F0000 00000000 00000009\n\n",
+            "title": "[Huang instant marriage]"
+        },
+        {
+            "content": "[Bon Vivant instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001C3C\n640F0000 00000000 0000FDE8\n780F0000 00000004\n640F0000 00000000 00000009\n\n",
+            "title": "[Bon Vivant instant marriage]"
+        },
+        {
+            "content": "[Harvest Goddess instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001C8C\n640F0000 00000000 0000FDE8\n780F0000 00000004\n640F0000 00000000 00000009\n\n",
+            "title": "[Harvest Goddess instant marriage]"
+        },
+        {
+            "content": "[Kappa instant marriage]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 00001CDC\n640F0000 00000000 0000FDE8\n780F0000 00000004\n640F0000 00000000 00000009\n\n",
+            "title": "[Kappa instant marriage]"
+        },
+        {
+            "content": "[unlock deluxe fridge cabinet in workshop]\n580F0000 50BB53B8\n580F1000 00000010\n780F0000 00005AA8\n610F0000 00000000 00000001\n780F0000 00000130\n610F0000 00000000 00000001\n\n",
+            "title": "[unlock deluxe fridge cabinet in workshop]"
+        },
+        {
+            "content": "[unlock Big Bag in general shop]\n580F0000 50BB53B8\n580F1000 00000010\n780F0000 00001368\n610F0000 00000000 00000001\n\n",
+            "title": "[unlock Big Bag in general shop]"
+        },
+        {
+            "content": "[House MAX upgrade]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00008B40\n610F0000 00000000 00000002\n780F0000 00000001\n610F0000 00000000 000000FE\n780F0000 00000001\n300E0000 00000002\n610F0000 00000000 00000002\n780F0000 00000001\n310E0000\n780F0000 00000014\n610F0000 00000000 00000001\n780F0000 00000003\n300E0000 00000003\n610F0000 00000000 00000001\n780F0000 00000001\n310E0000\n780F0000 00000003\n610F0000 00000000 00000001\n780F0000 0000000C\n610F0000 00000000 00000001\n780F0000 00000001\n610F0000 00000000 00000001\n780F0000 00000006\n300E0000 0000000A\n610F0000 00000000 00000001\n780F0000 00000001\n310E0000\n\n",
+            "title": "[House MAX upgrade]"
+        },
+        {
+            "content": "[Coop max upgrade]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00008740\n610F0000 00000000 00000001\n780F0000 00000008\n620F0000 00000000 00000101\n780F0000 000002AC\n610F0000 00000000 00000001\n\n",
+            "title": "[Coop max upgrade]"
+        },
+        {
+            "content": "[Barn MAX upgrade]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00007070\n610F0000 00000000 00000001\n780F0000 00000008\n640F0000 00000000 01000101\n780F0000 00002C30\n610F0000 00000000 00000001\n\n",
+            "title": "[Barn MAX upgrade]"
+        },
+        {
+            "content": "[stop TIME]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000041\n610F0000 00000000 00000000\n\n",
+            "title": "[stop TIME]"
+        },
+        {
+            "content": "[time 9AM]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000040\n610F0000 00000000 00000009\n\n",
+            "title": "[time 9AM]"
+        },
+        {
+            "content": "[time 12 PM]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000040\n610F0000 00000000 0000000C\n\n",
+            "title": "[time 12 PM]"
+        },
+        {
+            "content": "[time 3PM ]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000040\n610F0000 00000000 0000000F\n\n",
+            "title": "[time 3PM ]"
+        },
+        {
+            "content": "[spring season]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000038\n610F0000 00000000 00000000\n\n",
+            "title": "[spring season]"
+        },
+        {
+            "content": "[summer season]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000038\n610F0000 00000000 00000001\n\n",
+            "title": "[summer season]"
+        },
+        {
+            "content": "[autumn season]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000038\n610F0000 00000000 00000002\n\n",
+            "title": "[autumn season]"
+        },
+        {
+            "content": "[winter season]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000038\n610F0000 00000000 00000003\n\n",
+            "title": "[winter season]"
+        },
+        {
+            "content": "[sunny weather today]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000000\n\n",
+            "title": "[sunny weather today]"
+        },
+        {
+            "content": "[rain weather today]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000001\n\n",
+            "title": "[rain weather today]"
+        },
+        {
+            "content": "[snow weather today]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000002\n\n",
+            "title": "[snow weather today]"
+        },
+        {
+            "content": "[typhoon weather today]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000003\n\n",
+            "title": "[typhoon weather today]"
+        },
+        {
+            "content": "[heavy snow weather today]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 00000028\n610F0000 00000000 00000004\n\n",
+            "title": "[heavy snow weather today]"
+        },
+        {
+            "content": "[chicken/rabbit max Hearts/FP]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 0000824C\n300E0000 00000008\n610F0000 00000000 00000005\n780F0000 00000280\n310E0000\n580C0000 60BFF790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 00008250\n300E0000 00000008\n610C0000 00000000 000000FF\n780C0000 00000280\n310E0000\n\n",
+            "title": "[chicken/rabbit max Hearts/FP]"
+        },
+        {
+            "content": "[cow/alpaca/sheep max Hearts/FP]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 00006A0C\n300E0000 00000016\n610F0000 00000000 00000005\n780F0000 00000280\n310E0000\n580C0000 60BFF790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 00006A10\n300E0000 00000016\n610C0000 00000000 000000FF\n780C0000 00000280\n310E0000\n\n",
+            "title": "[cow/alpaca/sheep max Hearts/FP]"
+        },
+        {
+            "content": "[horse all max+adult]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F1000 0000C6E4\n300E0000 00000002\n610F0000 00000000 000000FF\n780F0000 00000008\n310E0000\n580C0000 60BFF790\n580C1000 00000388\n580C1000 00000008\n580C1000 000000F8\n580C1000 00000010\n580C1000 00000070\n780C1000 0000C6E9\n610C0000 00000000 00000001\n\n",
+            "title": "[horse all max+adult]"
+        },
+        {
+            "content": "[Harvest Sprites max FP/SKILL]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E978\n300E0000 00000007\n640F0000 00000000 000000FF\n780F0000 00000050\n310E0000\n580C0000 60BFF790\n580C1000 00000380\n780C0000 0000E9A0\n300E0000 00000007\n640C0000 00000000 00FFFFFF\n780C0000 00000050\n310E0000\n\n",
+            "title": "[Harvest Sprites max FP/SKILL]"
+        },
+        {
+            "content": "[Blueberry job free]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E9A8\n610F0000 00000000 00000003\n\n",
+            "title": "[Blueberry job free]"
+        },
+        {
+            "content": "[Blueberry job  harvest+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E9A8\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Blueberry job  harvest+21 days]"
+        },
+        {
+            "content": "[Blueberry job  water+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E9A8\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Blueberry job  water+21 days]"
+        },
+        {
+            "content": "[Blueberry job  care+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E9A8\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Blueberry job  care+21 days]"
+        },
+        {
+            "content": "[Pumpkin job free]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E9F8\n610F0000 00000000 00000003\n\n",
+            "title": "[Pumpkin job free]"
+        },
+        {
+            "content": "[Pumpkin job  harvest+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E9F8\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Pumpkin job  harvest+21 days]"
+        },
+        {
+            "content": "[Pumpkin job  water+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E9F8\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Pumpkin job  water+21 days]"
+        },
+        {
+            "content": "[Pumpkin job  care+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000E9F8\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Pumpkin job  care+21 days]"
+        },
+        {
+            "content": "[Plum job free]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EA48\n610F0000 00000000 00000003\n\n",
+            "title": "[Plum job free]"
+        },
+        {
+            "content": "[Plum job  harvest+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EA48\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Plum job  harvest+21 days]"
+        },
+        {
+            "content": "[Plum job  water+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EA48\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Plum job  water+21 days]"
+        },
+        {
+            "content": "[Plum job  care+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EA48\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Plum job  care+21 days]"
+        },
+        {
+            "content": "[Cherry job free]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EA98\n610F0000 00000000 00000003\n\n",
+            "title": "[Cherry job free]"
+        },
+        {
+            "content": "[Cherry job  harvest+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EA98\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Cherry job  harvest+21 days]"
+        },
+        {
+            "content": "[Cherry job  water+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EA98\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Cherry job  water+21 days]"
+        },
+        {
+            "content": "[Cherry job  care+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EA98\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Cherry job  care+21 days]"
+        },
+        {
+            "content": "[Aqua job free]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EAE8\n610F0000 00000000 00000003\n\n",
+            "title": "[Aqua job free]"
+        },
+        {
+            "content": "[Aqua job  harvest+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EAE8\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Aqua job  harvest+21 days]"
+        },
+        {
+            "content": "[Aqua job  water+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EAE8\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Aqua job  water+21 days]"
+        },
+        {
+            "content": "[Aqua job  care+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EAE8\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Aqua job  care+21 days]"
+        },
+        {
+            "content": "[Sunny job free]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EB38\n610F0000 00000000 00000003\n\n",
+            "title": "[Sunny job free]"
+        },
+        {
+            "content": "[Sunny job  harvest+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EB38\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Sunny job  harvest+21 days]"
+        },
+        {
+            "content": "[Sunny job  water+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EB38\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Sunny job  water+21 days]"
+        },
+        {
+            "content": "[Sunny job  care+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EB38\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Sunny job  care+21 days]"
+        },
+        {
+            "content": "[Mint job free]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EB88\n610F0000 00000000 00000003\n\n",
+            "title": "[Mint job free]"
+        },
+        {
+            "content": "[Mint job  harvest+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EB88\n610F0000 00000000 00000000\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Mint job  harvest+21 days]"
+        },
+        {
+            "content": "[Mint job  water+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EB88\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Mint job  water+21 days]"
+        },
+        {
+            "content": "[Mint job  care+21 days]\n580F0000 60BFF790\n580F1000 00000380\n780F0000 0000EB88\n610F0000 00000000 00000002\n780F0000 00000004\n610F0000 00000000 00000015\n\n",
+            "title": "[Mint job  care+21 days]"
+        },
+        {
+            "content": "[1slot in TOOLBOX item is mythic sickle]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000004AE\n780F1000 00008F2E\n640F0000 00000000 00000007\n\n",
+            "title": "[1slot in TOOLBOX item is mythic sickle]"
+        },
+        {
+            "content": "[1slot in TOOLBOX is 300]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000004AE\n780F1000 00008F2E\n780F0000 00000004\n640F0000 00000000 0000012C\n\n",
+            "title": "[1slot in TOOLBOX is 300]"
+        },
+        {
+            "content": "[1st slot in CABINET item is ancient fossil]\n580F0000 60BFF790\n580F1000 00000380\n580F1000 00004088\n780F0000 00000010\n780F1000 00000008\n640F0000 00000000 00000144\n\n",
+            "title": "[1st slot in CABINET item is ancient fossil]"
+        },
+        {
+            "content": "[1st slot in CABINET is 300]\n580F0000 60BFF790\n580F1000 00000380\n580F1000 00004088\n780F0000 00000010\n640F0000 00000000 0000012C\n\n",
+            "title": "[1st slot in CABINET is 300]"
+        },
+        {
+            "content": "[1st slot in FRIDGE item is X Egg]\n580F0000 60BFF790\n580F1000 00000380\n580F1000 00004060\n780F0000 00000010\n780F1000 00000008\n640F0000 00000000 0000001C\n\n",
+            "title": "[1st slot in FRIDGE item is X Egg]"
+        },
+        {
+            "content": "[1st slot in FRIDGE is 300]\n580F0000 60BFF790\n580F1000 00000380\n580F1000 00004060\n780F0000 00000010\n640F0000 00000000 0000012C\n\n",
+            "title": "[1st slot in FRIDGE is 300]"
+        },
+        {
+            "content": "[1st slot in FRIDGE is 5 STARS CROP]\n580F0000 60BFF790\n580F1000 00000380\n580F1000 00004060\n780F0000 00000010\n780F1000 00000004\n640F0000 00000000 00000004\n",
+            "title": "[1st slot in FRIDGE is 5 STARS CROP]"
+        }
+    ],
+    "E963F5692EB8AEDD": [
+        {
+            "content": "[inf Gold]\n04100000 4188AD90 000F4240\n\n",
+            "title": "[inf Gold]"
+        },
+        {
+            "content": "[inf stamina]\n04100000 4188B2CE 0000012C\n\n",
+            "title": "[inf stamina]"
+        },
+        {
+            "content": "[inf water in can]\n02100000 4188B2D4 000000FF\n\n",
+            "title": "[inf water in can]"
+        },
+        {
+            "content": "[Inf. Water in Can]\n04000000 0004AAC8 4B1F018A\n\n",
+            "title": "[Inf. Water in Can]"
+        },
+        {
+            "content": "[Inf. Water in Can (Off)]\n04000000 0004AAC8 4B0A018A\n\n",
+            "title": "[Inf. Water in Can (Off)]"
+        },
+        {
+            "content": "[inf stamina]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000010\n580F1000 00000070\n780F0000 000004AE\n640F0000 00000000 0000012C\n\n",
+            "title": "[inf stamina]"
+        },
+        {
+            "content": "[Harvest sprites MAX SKILL PART1]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000028\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000029\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 0000002A\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000028\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000029\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 0000002A\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000028\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000029\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 0000002A\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000028\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000029\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 0000002A\n640F0000 00000000 000000FF\n\n",
+            "title": "[Harvest sprites MAX SKILL PART1]"
+        },
+        {
+            "content": "[Harvest sprites MAX SKILL PART2]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000028\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000029\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 0000002A\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000028\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000029\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 0000002A\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000028\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000029\n640F0000 00000000 000000FF\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 0000002A\n640F0000 00000000 000000FF\n\n",
+            "title": "[Harvest sprites MAX SKILL PART2]"
+        },
+        {
+            "content": "[Blueberry job free]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000030\n640F0000 00000000 00000003\n\n",
+            "title": "[Blueberry job free]"
+        },
+        {
+            "content": "[Blueberry job  harvest+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000030\n640F0000 00000000 00000000\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Blueberry job  harvest+inf days]"
+        },
+        {
+            "content": "[Blueberry job  water+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000030\n640F0000 00000000 00000001\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Blueberry job  water+inf days]"
+        },
+        {
+            "content": "[Blueberry job  care +inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000030\n640F0000 00000000 00000002\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000118\n580F1000 00000148\n780F0000 000000E8\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Blueberry job  care +inf days]"
+        },
+        {
+            "content": "[Pumpkin job free]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000003\n\n",
+            "title": "[Pumpkin job free]"
+        },
+        {
+            "content": "[Pumpkin job  harvest+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000000\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Pumpkin job  harvest+inf days]"
+        },
+        {
+            "content": "[Pumpkin job  water+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000001\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Pumpkin job  water+inf days]"
+        },
+        {
+            "content": "[Pumpkin job  care +inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000002\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000120\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Pumpkin job  care +inf days]"
+        },
+        {
+            "content": "[Plum job free]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000003\n\n",
+            "title": "[Plum job free]"
+        },
+        {
+            "content": "[Plum job  harvest+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000000\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Plum job  harvest+inf days]"
+        },
+        {
+            "content": "[Plum job  water+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000001\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Plum job  water+inf days]"
+        },
+        {
+            "content": "[Plum job  care +inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000002\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000138\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Plum job  care +inf days]"
+        },
+        {
+            "content": "[Cherry job free]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000003\n\n",
+            "title": "[Cherry job free]"
+        },
+        {
+            "content": "[Cherry job  harvest+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000000\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Cherry job  harvest+inf days]"
+        },
+        {
+            "content": "[Cherry job  water+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000001\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Cherry job  water+inf days]"
+        },
+        {
+            "content": "[Cherry job  care +inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000002\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000140\n580F1000 00000148\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Cherry job  care +inf days]"
+        },
+        {
+            "content": "[Aqua job free]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000003\n\n",
+            "title": "[Aqua job free]"
+        },
+        {
+            "content": "[Aqua job  harvest+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000000\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Aqua job  harvest+inf days]"
+        },
+        {
+            "content": "[Aqua job  water+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000001\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Aqua job  water+inf days]"
+        },
+        {
+            "content": "[Aqua job  care +inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000002\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000188\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Aqua job  care +inf days]"
+        },
+        {
+            "content": "[Sunny job free]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000003\n\n",
+            "title": "[Sunny job free]"
+        },
+        {
+            "content": "[Sunny job  harvest+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000000\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Sunny job  harvest+inf days]"
+        },
+        {
+            "content": "[Sunny job  water+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000001\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Sunny job  water+inf days]"
+        },
+        {
+            "content": "[Sunny job  care +inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000002\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000190\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Sunny job  care +inf days]"
+        },
+        {
+            "content": "[Mint job free]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000003\n\n",
+            "title": "[Mint job free]"
+        },
+        {
+            "content": "[Mint job  harvest+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000000\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Mint job  harvest+inf days]"
+        },
+        {
+            "content": "[Mint job  water+inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000001\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Mint job  water+inf days]"
+        },
+        {
+            "content": "[Mint job  care +inf days]\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000030\n640F0000 00000000 00000002\n580F0000 60BFF790\n580F1000 00000388\n580F1000 00000008\n580F1000 000000F8\n580F1000 00000198\n580F1000 00000068\n780F0000 00000100\n780F0000 00000034\n640F0000 00000000 00000007\n\n",
+            "title": "[Mint job  care +inf days]"
         }
     ]
 }

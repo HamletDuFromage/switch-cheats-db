@@ -1,20 +1,20 @@
 {
     "F8BA90E5CF567C5B": [
         {
-            "title": "[Infinite HP]",
-            "content": "[Infinite HP]\n01000000 0127C93E 00000008\n\n"
+            "content": "[Infinite HP]\n01000000 0127C93E 00000008\n\n",
+            "title": "[Infinite HP]"
         },
         {
-            "title": "[Infinite Pistol Ammo]",
-            "content": "[Infinite Pistol Ammo]\n02000000 0127C916 00000999\n\n"
+            "content": "[Infinite Pistol Ammo]\n02000000 0127C916 00000999\n\n",
+            "title": "[Infinite Pistol Ammo]"
         },
         {
-            "title": "[Infinite Machine Gun Ammo]",
-            "content": "[Infinite Machine Gun Ammo]\n02000000 0127C974 00000999\n\n"
+            "content": "[Infinite Machine Gun Ammo]\n02000000 0127C974 00000999\n\n",
+            "title": "[Infinite Machine Gun Ammo]"
         },
         {
-            "title": "[Knife Infinite Durability]",
-            "content": "[Knife Infinite Durability]\n01000000 0127C995 00000010"
+            "content": "[Knife Infinite Durability]\n01000000 0127C995 00000010",
+            "title": "[Knife Infinite Durability]"
         }
     ]
 }

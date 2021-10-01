@@ -1,32 +1,32 @@
 {
     "D1E6EA9384C3674B": [
         {
-            "title": "[money 1 mil after spend]",
-            "content": "[money 1 mil after spend]\n04000000 001AA724 52884808\n04000000 001AA728 72A001E8\n\n"
+            "content": "[money 1 mil after spend]\n04000000 001AA724 52884808\n04000000 001AA728 72A001E8\n\n",
+            "title": "[money 1 mil after spend]"
         },
         {
-            "title": "[material inf]",
-            "content": "[material inf]\n04000000 00151148 52800014\n04000000 001AA9D0 4B1F014A\n\n"
+            "content": "[material inf]\n04000000 00151148 52800014\n04000000 001AA9D0 4B1F014A\n\n",
+            "title": "[material inf]"
         },
         {
-            "title": "[item after sell not reduced]",
-            "content": "[item after sell not reduced]\n04000000 00150388 52800014\n04000000 001AA9D0 4B1F014A\n\n"
+            "content": "[item after sell not reduced]\n04000000 00150388 52800014\n04000000 001AA9D0 4B1F014A\n\n",
+            "title": "[item after sell not reduced]"
         },
         {
-            "title": "[our side hp inf ON]",
-            "content": "[our side hp inf ON]\n04000000 00191B38 D65F03C0\n\n"
+            "content": "[our side hp inf ON]\n04000000 00191B38 D65F03C0\n\n",
+            "title": "[our side hp inf ON]"
         },
         {
-            "title": "[our side hp inf OFF]",
-            "content": "[our side hp inf OFF]\n04000000 00191B38 B9006101\n\n"
+            "content": "[our side hp inf OFF]\n04000000 00191B38 B9006101\n\n",
+            "title": "[our side hp inf OFF]"
         },
         {
-            "title": "[instant win/kill ON]",
-            "content": "[instant win/kill ON]\n04000000 00191B44 B900051F\n\n"
+            "content": "[instant win/kill ON]\n04000000 00191B44 B900051F\n\n",
+            "title": "[instant win/kill ON]"
         },
         {
-            "title": "[instant win/kill OFF]",
-            "content": "[instant win/kill OFF]\n04000000 00191B44 B9000501"
+            "content": "[instant win/kill OFF]\n04000000 00191B44 B9000501",
+            "title": "[instant win/kill OFF]"
         }
     ]
 }

@@ -1,66 +1,66 @@
 {
-    "B9C8987A2F5EE46E": [
-        {
-            "title": "\ufeff[Inf Money]",
-            "content": "\ufeff[Inf Money]\n580F0000 00C25BC8\n780F0000 00000504\n640F0000 00000000 0001869F\n\n"
-        },
-        {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n580F0000 00C25BC8\n780F0000 000002D0\n680F0000 3F800000 3F800000\n\n"
-        },
-        {
-            "title": "[Inf Health]",
-            "content": "[Inf Health]\n580F0000 00C25BC8\n780F0000 00000188\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[Antiquities Magic Max]",
-            "content": "[Antiquities Magic Max]\n580F0000 00C25BC8\n780F0000 00000500\n620F0000 00000000 00006464\n\n"
-        },
-        {
-            "title": "[Plague Knight Elixir Max]",
-            "content": "[Plague Knight Elixir Max]\n580F0000 00C25BC8\n780F0000 00000500\n610F0000 00000000 0000000A\n\n"
-        },
-        {
-            "title": "[Ghost Rider Red Skull Max]",
-            "content": "[Ghost Rider Red Skull Max]\n01000000 00E8DFB8 00000064\n\n"
-        },
-        {
-            "title": "[King Knight King Crown Coin Max]",
-            "content": "[King Knight King Crown Coin Max]\n01000000 00E8DFB8 00000087\n\n"
-        },
-        {
-            "title": "[Attack Speed 1.5x]",
-            "content": "[Attack Speed 1.5x]\n580F0000 00C25BC8\n580F0000 00000080\n780F0000 00000060\n640F0000 00000000 3FC00000\n\n"
-        },
-        {
-            "title": "[Attack Speed 2x]",
-            "content": "[Attack Speed 2x]\n580F0000 00C25BC8\n580F0000 00000080\n780F0000 00000060\n640F0000 00000000 40000000\n\n"
-        },
-        {
-            "title": "[Attack Enemy HP to Zero(Press L)]",
-            "content": "[Attack Enemy HP to Zero(Press L)]\n80000040\n580F0000 00C25BC8\n780F0000 000002D0\n680F0000 3F800000 3F800000\n04000000 003C7864 BD003AA1\n20000000"
-        }
-    ],
     "1FE2563D9B1FF9B4": [
         {
-            "title": "[Speed Up]",
-            "content": "[Speed Up]\n580F0000 00b29aa0\n780F1000 00000BF8\n640F0000 00000000 40400000\n\n"
+            "content": "[Speed Up]\n580F0000 00b29aa0\n780F1000 00000BF8\n640F0000 00000000 40400000\n\n",
+            "title": "[Speed Up]"
         },
         {
-            "title": "[Size Up]",
-            "content": "[Size Up]\n580F0000 00b29aa0\n780F1000 00000B6C\n640F0000 00000000 40000000\n\n"
+            "content": "[Size Up]\n580F0000 00b29aa0\n780F1000 00000B6C\n640F0000 00000000 40000000\n\n",
+            "title": "[Size Up]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n580F0000 00b29aa0\n780F1000 0000053C\n680F0000 3F800000 3F800000\n\n"
+            "content": "[Invincible]\n580F0000 00b29aa0\n780F1000 0000053C\n680F0000 3F800000 3F800000\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[ATK Speed]",
-            "content": "[ATK Speed]\n580F0000 00b29aa0\n780F0000 000008C4\n640F0000 00000000 40400000\n\n"
+            "content": "[ATK Speed]\n580F0000 00b29aa0\n780F0000 000008C4\n640F0000 00000000 40400000\n\n",
+            "title": "[ATK Speed]"
         },
         {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000002\n580F0000 00b29aa8\n780F0000 00000AFC\n640F0000 00000000 41D00000\n20000000"
+            "content": "[Moon Jump]\n80000002\n580F0000 00b29aa8\n780F0000 00000AFC\n640F0000 00000000 41D00000\n20000000",
+            "title": "[Moon Jump]"
+        }
+    ],
+    "B9C8987A2F5EE46E": [
+        {
+            "content": "\ufeff[Inf Money]\n580F0000 00C25BC8\n780F0000 00000504\n640F0000 00000000 0001869F\n\n",
+            "title": "\ufeff[Inf Money]"
+        },
+        {
+            "content": "[Invincible]\n580F0000 00C25BC8\n780F0000 000002D0\n680F0000 3F800000 3F800000\n\n",
+            "title": "[Invincible]"
+        },
+        {
+            "content": "[Inf Health]\n580F0000 00C25BC8\n780F0000 00000188\n640F0000 00000000 42C80000\n\n",
+            "title": "[Inf Health]"
+        },
+        {
+            "content": "[Antiquities Magic Max]\n580F0000 00C25BC8\n780F0000 00000500\n620F0000 00000000 00006464\n\n",
+            "title": "[Antiquities Magic Max]"
+        },
+        {
+            "content": "[Plague Knight Elixir Max]\n580F0000 00C25BC8\n780F0000 00000500\n610F0000 00000000 0000000A\n\n",
+            "title": "[Plague Knight Elixir Max]"
+        },
+        {
+            "content": "[Ghost Rider Red Skull Max]\n01000000 00E8DFB8 00000064\n\n",
+            "title": "[Ghost Rider Red Skull Max]"
+        },
+        {
+            "content": "[King Knight King Crown Coin Max]\n01000000 00E8DFB8 00000087\n\n",
+            "title": "[King Knight King Crown Coin Max]"
+        },
+        {
+            "content": "[Attack Speed 1.5x]\n580F0000 00C25BC8\n580F0000 00000080\n780F0000 00000060\n640F0000 00000000 3FC00000\n\n",
+            "title": "[Attack Speed 1.5x]"
+        },
+        {
+            "content": "[Attack Speed 2x]\n580F0000 00C25BC8\n580F0000 00000080\n780F0000 00000060\n640F0000 00000000 40000000\n\n",
+            "title": "[Attack Speed 2x]"
+        },
+        {
+            "content": "[Attack Enemy HP to Zero(Press L)]\n80000040\n580F0000 00C25BC8\n780F0000 000002D0\n680F0000 3F800000 3F800000\n04000000 003C7864 BD003AA1\n20000000",
+            "title": "[Attack Enemy HP to Zero(Press L)]"
         }
     ]
 }

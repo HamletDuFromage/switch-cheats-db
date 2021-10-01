@@ -1,36 +1,36 @@
 {
     "5E462A2E7FA7136C": [
         {
-            "title": "[Max GROOVE]",
-            "content": "[Max GROOVE]\n580F0000 0048CD38\n580F1000 00000000\n780F0000 00000054\n640F0000 00000000 43480000\n\n"
+            "content": "[Max GROOVE]\n580F0000 0048CD38\n580F1000 00000000\n780F0000 00000054\n640F0000 00000000 43480000\n\n",
+            "title": "[Max GROOVE]"
         },
         {
-            "title": "[Max Life]",
-            "content": "[Max Life]\n580F0000 0048CD38\n580F1000 00000000\n780F0000 0000005C\n640F0000 00000000 43480000\n\n"
+            "content": "[Max Life]\n580F0000 0048CD38\n580F1000 00000000\n780F0000 0000005C\n640F0000 00000000 43480000\n\n",
+            "title": "[Max Life]"
         },
         {
-            "title": "[Max Score]",
-            "content": "[Max Score]\n580F0000 0048CD38\n580F1000 00000000\n780F0000 00000030\n640F0000 00000000 4B18967F\n\n"
+            "content": "[Max Score]\n580F0000 0048CD38\n580F1000 00000000\n780F0000 00000030\n640F0000 00000000 4B18967F\n\n",
+            "title": "[Max Score]"
         },
         {
-            "title": "[Max Chain]",
-            "content": "[Max Chain]\n580F0000 0048CD38\n580F1000 00000000\n780F0000 00000048\n640F0000 00000000 0000270F\n\n"
+            "content": "[Max Chain]\n580F0000 0048CD38\n580F1000 00000000\n780F0000 00000048\n640F0000 00000000 0000270F\n\n",
+            "title": "[Max Chain]"
         },
         {
-            "title": "[Miss 0]",
-            "content": "[Miss 0]\n580F0000 0048CD38\n580F1000 00000000\n780F0000 00000088\n640F0000 00000000 00000000\n\n"
+            "content": "[Miss 0]\n580F0000 0048CD38\n580F1000 00000000\n780F0000 00000088\n640F0000 00000000 00000000\n\n",
+            "title": "[Miss 0]"
         },
         {
-            "title": "[Max Good]",
-            "content": "[Max Good]\n580F0000 0048CD38\n580F1000 00000000\n780F0000 0000008C\n640F0000 00000000 0000270F\n\n"
+            "content": "[Max Good]\n580F0000 0048CD38\n580F1000 00000000\n780F0000 0000008C\n640F0000 00000000 0000270F\n\n",
+            "title": "[Max Good]"
         },
         {
-            "title": "[Max Cool]",
-            "content": "[Max Cool]\n580F0000 0048CD38\n580F1000 00000000\n780F0000 00000090\n640F0000 00000000 0000270F\n\n"
+            "content": "[Max Cool]\n580F0000 0048CD38\n580F1000 00000000\n780F0000 00000090\n640F0000 00000000 0000270F\n\n",
+            "title": "[Max Cool]"
         },
         {
-            "title": "[Max Great]",
-            "content": "[Max Great]\n580F0000 0048CD38\n580F1000 00000000\n780F0000 00000094\n640F0000 00000000 0000270F"
+            "content": "[Max Great]\n580F0000 0048CD38\n580F1000 00000000\n780F0000 00000094\n640F0000 00000000 0000270F",
+            "title": "[Max Great]"
         }
     ]
 }

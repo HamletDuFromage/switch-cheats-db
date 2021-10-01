@@ -1,12 +1,12 @@
 {
     "A7DC83325C7B69A9": [
         {
-            "title": "[Energy unlimited]",
-            "content": "[Energy unlimited]\n580F0000 0A4BA5D0\n780F0000 000005F4\n640F0000 00000000 43960000\n\n"
+            "content": "[Energy unlimited]\n580F0000 0A4BA5D0\n780F0000 000005F4\n640F0000 00000000 43960000\n\n",
+            "title": "[Energy unlimited]"
         },
         {
-            "title": "[First Weapon Fuel MAX]",
-            "content": "[First Weapon Fuel MAX]\n580F0000 0026D360\n780F0000 000044BC\n610F0000 00000000 00000020\n"
+            "content": "[First Weapon Fuel MAX]\n580F0000 0026D360\n780F0000 000044BC\n610F0000 00000000 00000020\n",
+            "title": "[First Weapon Fuel MAX]"
         }
     ]
 }

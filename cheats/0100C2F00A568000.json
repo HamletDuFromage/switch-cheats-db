@@ -1,24 +1,24 @@
 {
     "98FFC4D49752C04A": [
         {
-            "title": "[JUMP ANYWHERE]",
-            "content": "[JUMP ANYWHERE]\n04000000 0101A7D4 1E27F012\n\n"
+            "content": "[JUMP ANYWHERE]\n04000000 0101A7D4 1E27F012\n\n",
+            "title": "[JUMP ANYWHERE]"
         },
         {
-            "title": "[1P NORMAL SPEED]",
-            "content": "[1P NORMAL SPEED]\n04000000 0177782C 1E2E100A\n\n"
+            "content": "[1P NORMAL SPEED]\n04000000 0177782C 1E2E100A\n\n",
+            "title": "[1P NORMAL SPEED]"
         },
         {
-            "title": "[1P 1.25X SPEED]",
-            "content": "[1P 1.25X SPEED]\n04000000 0177782C 1E2D100A\n\n"
+            "content": "[1P 1.25X SPEED]\n04000000 0177782C 1E2D100A\n\n",
+            "title": "[1P 1.25X SPEED]"
         },
         {
-            "title": "[1P 1.5X SPEED]",
-            "content": "[1P 1.5X SPEED]\n04000000 0177782C 1E2C100A\n\n"
+            "content": "[1P 1.5X SPEED]\n04000000 0177782C 1E2C100A\n\n",
+            "title": "[1P 1.5X SPEED]"
         },
         {
-            "title": "[1P 1.75X SPEED]",
-            "content": "[1P 1.75X SPEED]\n04000000 0177782C 1E2A100A\n"
+            "content": "[1P 1.75X SPEED]\n04000000 0177782C 1E2A100A\n",
+            "title": "[1P 1.75X SPEED]"
         }
     ]
 }

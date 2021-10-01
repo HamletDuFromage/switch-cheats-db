@@ -1,58 +1,58 @@
 {
     "73C01D12EC628195": [
         {
-            "title": "[Character HP]",
-            "content": "[Character HP]\n02000000 00D24B94 00001027\n04000000 00D24BC4 10271027\n\n"
+            "content": "[Character HP]\n02000000 00D24B94 00001027\n04000000 00D24BC4 10271027\n\n",
+            "title": "[Character HP]"
         },
         {
-            "title": "[Crazy jump (ZL+B)]",
-            "content": "[Crazy jump (ZL+B)]\n80000102\n04000000 00C48BF4 00000000\n20000000\n\n"
+            "content": "[Crazy jump (ZL+B)]\n80000102\n04000000 00C48BF4 00000000\n20000000\n\n",
+            "title": "[Crazy jump (ZL+B)]"
         },
         {
-            "title": "[Inf Money]",
-            "content": "[Inf Money]\n04000000 00d22540 0001869F\n04000000 00d23990 0001869F\n\n"
+            "content": "[Inf Money]\n04000000 00d22540 0001869F\n04000000 00d23990 0001869F\n\n",
+            "title": "[Inf Money]"
         },
         {
-            "title": "[hitanywhere]",
-            "content": "[hitanywhere]\n04000000 00571580 D65F03C0\n\n"
+            "content": "[hitanywhere]\n04000000 00571580 D65F03C0\n\n",
+            "title": "[hitanywhere]"
         },
         {
-            "title": "[inf mp]",
-            "content": "[inf mp]\n520F0000 00D24BCC\nA2F00400 00D24BCE\n\n"
+            "content": "[inf mp]\n520F0000 00D24BCC\nA2F00400 00D24BCE\n\n",
+            "title": "[inf mp]"
         },
         {
-            "title": "[inf hp (max -> cur)]",
-            "content": "[inf hp (max -> cur)]\n520F0000 00D24BC4\nA2F00400 00D24B94\n\n"
+            "content": "[inf hp (max -> cur)]\n520F0000 00D24BC4\nA2F00400 00D24B94\n\n",
+            "title": "[inf hp (max -> cur)]"
         },
         {
-            "title": "[(PRESS L STICK) Enter Hero Mode]",
-            "content": "[(PRESS L STICK) Enter Hero Mode]\n80000010\n02000000 00D24B94 00000095\n02000000 00D24BC6 00000095\n04000000 00D24BC8 00950095\n01000000 00D249F1 00000001\n02000000 00D249F4 00000DDD\n20000000\n\n"
+            "content": "[(PRESS L STICK) Enter Hero Mode]\n80000010\n02000000 00D24B94 00000095\n02000000 00D24BC6 00000095\n04000000 00D24BC8 00950095\n01000000 00D249F1 00000001\n02000000 00D249F4 00000DDD\n20000000\n\n",
+            "title": "[(PRESS L STICK) Enter Hero Mode]"
         },
         {
-            "title": "[Enter Hero Mode Always]",
-            "content": "[Enter Hero Mode Always]\n02000000 00D24B94 00000095\n02000000 00D24BC6 00000095\n04000000 00D24BC8 00950095\n01000000 00D249F1 00000001\n02000000 00D249F4 00000DDD\n\n\n"
+            "content": "[Enter Hero Mode Always]\n02000000 00D24B94 00000095\n02000000 00D24BC6 00000095\n04000000 00D24BC8 00950095\n01000000 00D249F1 00000001\n02000000 00D249F4 00000DDD\n\n\n",
+            "title": "[Enter Hero Mode Always]"
         },
         {
-            "title": "[Hero Mode No Expiration]",
-            "content": "[Hero Mode No Expiration]\n11050000 02D15E70 00000002\n02000000 00D249F4 00000DDD\n20000000\n\n"
+            "content": "[Hero Mode No Expiration]\n11050000 02D15E70 00000002\n02000000 00D249F4 00000DDD\n20000000\n\n",
+            "title": "[Hero Mode No Expiration]"
         },
         {
-            "title": "[*Crazy Speed Jericoss]",
-            "content": "[*Crazy Speed Jericoss]\n80000002\n04000000 00C48BF8 00000000\n20000000\n\n"
+            "content": "[*Crazy Speed Jericoss]\n80000002\n04000000 00C48BF8 00000000\n20000000\n\n",
+            "title": "[*Crazy Speed Jericoss]"
         },
         {
-            "title": "[hitanywhere all weapon]",
-            "content": "[hitanywhere all weapon]\n04000000 00569630 D503201F\n\n"
+            "content": "[hitanywhere all weapon]\n04000000 00569630 D503201F\n\n",
+            "title": "[hitanywhere all weapon]"
         }
     ],
     "7AEABB797C931714": [
         {
-            "title": "[hitanywhere all weapon on]",
-            "content": "[hitanywhere all weapon on]\n04000000 00569630 D503201F\n\n"
+            "content": "[hitanywhere all weapon on]\n04000000 00569630 D503201F\n\n",
+            "title": "[hitanywhere all weapon on]"
         },
         {
-            "title": "[hitanywhere all weapon off]",
-            "content": "[hitanywhere all weapon off]\n04000000 00569630 72001C1F"
+            "content": "[hitanywhere all weapon off]\n04000000 00569630 72001C1F",
+            "title": "[hitanywhere all weapon off]"
         }
     ]
 }

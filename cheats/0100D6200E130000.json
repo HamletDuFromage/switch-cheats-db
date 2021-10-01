@@ -1,12 +1,12 @@
 {
     "A40DA7C8DE72FA41": [
         {
-            "title": "[No Damage (On)]",
-            "content": "[No Damage (On)]\n04000000 016189D0 D65F03C0\n"
+            "content": "[No Damage (On)]\n04000000 016189D0 D65F03C0\n",
+            "title": "[No Damage (On)]"
         },
         {
-            "title": "[No Damage (off)]",
-            "content": "[No Damage (off)]\n04000000 016189D0 EB2BBA6D\n\n"
+            "content": "[No Damage (off)]\n04000000 016189D0 EB2BBA6D\n\n",
+            "title": "[No Damage (off)]"
         }
     ]
 }

@@ -1,36 +1,36 @@
 {
     "6738915A3B98814F": [
         {
-            "title": "[Immortal]",
-            "content": "[Immortal]\n080E0000 02593100 39008413 52800033\n080E0000 02593108 D65F03C0 AA0003F3\n040E0000 01961CF4 9430C503\n\n"
+            "content": "[Immortal]\n080E0000 02593100 39008413 52800033\n080E0000 02593108 D65F03C0 AA0003F3\n040E0000 01961CF4 9430C503\n\n",
+            "title": "[Immortal]"
         },
         {
-            "title": "[Reduce Stamina Consumption]",
-            "content": "[Reduce Stamina Consumption]\n040E0000 01963CA8 1E389001\n\n"
+            "content": "[Reduce Stamina Consumption]\n040E0000 01963CA8 1E389001\n\n",
+            "title": "[Reduce Stamina Consumption]"
         },
         {
-            "title": "[Increase for XP gain]",
-            "content": "[Increase for XP gain]\n040E0000 0196E650 110FA028\n\n"
+            "content": "[Increase for XP gain]\n040E0000 0196E650 110FA028\n\n",
+            "title": "[Increase for XP gain]"
         },
         {
-            "title": "[One-Hit kill enemy]",
-            "content": "[One-Hit kill enemy]\n040E0000 0196E634 D503201F\n\n"
+            "content": "[One-Hit kill enemy]\n040E0000 0196E634 D503201F\n\n",
+            "title": "[One-Hit kill enemy]"
         },
         {
-            "title": "[No dedution for Skill Point]",
-            "content": "[No dedution for Skill Point]\n040E0000 01600178 1F0BA100\n\n"
+            "content": "[No dedution for Skill Point]\n040E0000 01600178 1F0BA100\n\n",
+            "title": "[No dedution for Skill Point]"
         },
         {
-            "title": "[No cooldown for using Skill]",
-            "content": "[No cooldown for using Skill]\n040E0000 01C77FA8 1E2A1000\n\n"
+            "content": "[No cooldown for using Skill]\n040E0000 01C77FA8 1E2A1000\n\n",
+            "title": "[No cooldown for using Skill]"
         },
         {
-            "title": "[Max Ingredient when collect]",
-            "content": "[Max Ingredient when collect]\n040E0000 0199AFDC B9407A77\n\n"
+            "content": "[Max Ingredient when collect]\n040E0000 0199AFDC B9407A77\n\n",
+            "title": "[Max Ingredient when collect]"
         },
         {
-            "title": "[Prevent Ingredient Consumption]",
-            "content": "[Prevent Ingredient Consumption]\n040E0000 0199A8C8 2A0C03EA\n040E0000 0199B88C D503201F\n040E0000 0199BA70 2A0B03E8\n040E0000 0199B7B8 2A0E03ED\n040E0000 0199B724 52800020"
+            "content": "[Prevent Ingredient Consumption]\n040E0000 0199A8C8 2A0C03EA\n040E0000 0199B88C D503201F\n040E0000 0199BA70 2A0B03E8\n040E0000 0199B7B8 2A0E03ED\n040E0000 0199B724 52800020",
+            "title": "[Prevent Ingredient Consumption]"
         }
     ]
 }

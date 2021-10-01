@@ -1,204 +1,204 @@
 {
-    "7D68E9E4670405A4": [
-        {
-            "title": "[1p enermy inf health]",
-            "content": "[1p enermy inf health]\n04000000 01AFEB00 D65F03C0\n\n"
-        },
-        {
-            "title": "[1p enermy inf health disable ]",
-            "content": "[1p enermy inf health disable ]\n04000000 01AFEB00 D102C3FF\n\n"
-        },
-        {
-            "title": "[1p hitkill ]",
-            "content": "[1p hitkill ]\n04000000 0157A35C D503201F\nthey are not all enemies\n\n"
-        },
-        {
-            "title": "[R power user recover hp+TTD+speed move disable]",
-            "content": "[R power user recover hp+TTD+speed move disable]\n04000000 014E3D70 1E2E1008\n\n"
-        },
-        {
-            "title": "[R power user recover hp+TTD+speed move 31x]",
-            "content": "[R power user recover hp+TTD+speed move 31x]\n04000000 014E3D70 1E27F008\n\n"
-        },
-        {
-            "title": "[R power user recover hp+TTD+speed move 10x]",
-            "content": "[R power user recover hp+TTD+speed move 10x]\n04000000 014E3D70 1E249008\n\n"
-        },
-        {
-            "title": "[R power user recover hp+TTD+speed move 5x]",
-            "content": "[R power user recover hp+TTD+speed move 5x]\n04000000 014E3D70 1E229008\n\n"
-        },
-        {
-            "title": "[R power user recover hp+TTD+speed move 3x]",
-            "content": "[R power user recover hp+TTD+speed move 3x]\n04000000 014E3D70 1E211008\n\n"
-        },
-        {
-            "title": "[1p enermy inf health]",
-            "content": "[1p enermy inf health]\n04000000 01AFEB00 D65F03C0\n\n"
-        },
-        {
-            "title": "[1p enermy inf health disable ]",
-            "content": "[1p enermy inf health disable ]\n04000000 01AFEB00 D102C3FF\n\n"
-        },
-        {
-            "title": "[1p hitkill ]",
-            "content": "[1p hitkill ]\n04000000 0157A35C D503201F\nthey are not all enemies\n\n"
-        },
-        {
-            "title": "[R power user recover hp+TTD+speed move disable]",
-            "content": "[R power user recover hp+TTD+speed move disable]\n04000000 014E3D70 1E2E1008\n\n"
-        },
-        {
-            "title": "[R power user recover hp+TTD+speed move 31x]",
-            "content": "[R power user recover hp+TTD+speed move 31x]\n04000000 014E3D70 1E27F008\n\n"
-        },
-        {
-            "title": "[R power user recover hp+TTD+speed move 10x]",
-            "content": "[R power user recover hp+TTD+speed move 10x]\n04000000 014E3D70 1E249008\n\n"
-        },
-        {
-            "title": "[R power user recover hp+TTD+speed move 5x]",
-            "content": "[R power user recover hp+TTD+speed move 5x]\n04000000 014E3D70 1E229008\n\n"
-        },
-        {
-            "title": "[R power user recover hp+TTD+speed move 3x]",
-            "content": "[R power user recover hp+TTD+speed move 3x]\n04000000 014E3D70 1E211008"
-        }
-    ],
-    "9F310253603704D9": [
-        {
-            "title": "[01# Inf Health]",
-            "content": "[01# Inf Health]\n580A0000 0714D478\n580A1000 00000370\n580A1000 00000000\n780A0000 000001C8\n640A0000 00000000 45A41000\n\n"
-        },
-        {
-            "title": "[02# Inf Ammo]",
-            "content": "[02# Inf Ammo]\n580A0000 0714D478\n580A1000 00000370\n580A1000 00000048\n580A1000 000002F0\n580A1000 00000218\n780A0000 000000A8\n640F0000 00000000 00000063\n\n"
-        },
-        {
-            "title": "[03# Max XP]",
-            "content": "[03# Max XP]\n580A0000 0714D478\n580A1000 00000310\n580A1000 00000050\n780A0000 000007D0\n640A0000 00000000 3B9AC9FF\n\n"
-        },
-        {
-            "title": "[04# Max Skillpoints]",
-            "content": "[04# Max Skillpoints]\n580A0000 0714D478\n580A1000 00000310\n580A1000 00000050\n780A0000 000007D4\n640A0000 00000000 000003E7\n\n"
-        },
-        {
-            "title": "[05# Max Perks]",
-            "content": "[05# Max Perks]\n580A0000 0714D478\n580A1000 00000310\n580A1000 00000050\n780A0000 00000314\n640A0000 00000000 000003E7\n\n"
-        },
-        {
-            "title": "[05# Max money]",
-            "content": "[05# Max money]\n580A0000 0714D478\n580A1000 00000310\n580A1000 00000060\n580A1000 000001A8\n780A0000 00000078\n640A0000 00000000 0098967F\n\n"
-        },
-        {
-            "title": "[06# Max Ammo mag]",
-            "content": "[06# Max Ammo mag]\n580A0000 0714D478\n580A1000 00000310\n580A1000 00000060\n580A1000 000001A8\n780A0000 00000028\n640A0000 00000000 000003E7\n\n"
-        },
-        {
-            "title": "[07# Moonjump]",
-            "content": "[07# Moonjump]\n80000001\n580A0000 0714D478\n580A1000 00000060\n580A1000 00000018\n780A0000 000000FC\n640A0000 00000000 44000000\n20000000\n\n"
-        },
-        {
-            "title": "[08# Speed x 2 (hold L Stick)]",
-            "content": "[08# Speed x 2 (hold L Stick)]\n580A0000 0714D478\n580A1000 00000060\n580A1000 00000018\n780A0000 000001D4\n640A0000 00000000 43C80000\n80000010\n580A0000 0714D478\n580A1000 00000060\n580A1000 00000018\n780A0000 000001D4\n640A0000 00000000 44960000\n20000000\n\n"
-        },
-        {
-            "title": "[09# Inf TTD]",
-            "content": "[09# Inf TTD]\n580A0000 0714D478\n580A1000 00000310\n580A1000 00000070\n580A1000 00000158\n780A0000 00000180\n640A0000 00000000 3FA00000\n780A0000 00000004\n640A0000 00000000 3FA00000"
-        }
-    ],
-    "761CD556AB357C87": [
-        {
-            "title": "[01# Inf Health]",
-            "content": "[01# Inf Health]\n580A0000 071BE400\n580A1000 00000370\n580A1000 00000000\n780A0000 000001C8\n640A0000 00000000 45A41000\n\n"
-        },
-        {
-            "title": "[02# Inf Ammo]",
-            "content": "[02# Inf Ammo]\n580A0000 071BE400\n580A1000 00000370\n580A1000 00000048\n580A1000 000002F0\n580A1000 00000218\n780A0000 000000A8\n640A0000 00000000 00000063\n\n"
-        },
-        {
-            "title": "[03# Max XP]",
-            "content": "[03# Max XP]\n580A0000 071BE400\n580A1000 00000310\n580A1000 00000050\n780A0000 000007D0\n640A0000 00000000 3B9AC9FF\n\n"
-        },
-        {
-            "title": "[04# Max Skillpoints]",
-            "content": "[04# Max Skillpoints]\n580A0000 071BE400\n580A1000 00000310\n580A1000 00000050\n780A0000 000007D4\n640A0000 00000000 000003E7\n\n"
-        },
-        {
-            "title": "[05# Max Perks]",
-            "content": "[05# Max Perks]\n580A0000 071BE400\n580A1000 00000310\n580A1000 00000050\n780A0000 00000314\n640A0000 00000000 000003E7\n\n"
-        },
-        {
-            "title": "[05# Max money]",
-            "content": "[05# Max money]\n580A0000 071BE400\n580A1000 00000310\n580A1000 00000060\n580A1000 000001A8\n780A0000 00000078\n640A0000 00000000 0098967F\n\n"
-        },
-        {
-            "title": "[06# Max Ammo mag]",
-            "content": "[06# Max Ammo mag]\n580A0000 071BE400\n580A1000 00000310\n580A1000 00000060\n580A1000 000001A8\n780A0000 00000028\n640A0000 00000000 000003E7\n\n"
-        },
-        {
-            "title": "[07# Moonjump]",
-            "content": "[07# Moonjump]\n80000001\n580A0000 071BE400\n580A1000 00000060\n580A1000 00000018\n780A0000 000000FC\n640A0000 00000000 44000000\n20000000\n\n"
-        },
-        {
-            "title": "[08# Speed x 2 (hold L)]",
-            "content": "[08# Speed x 2 (hold L)]\n580A0000 071BE400\n580A1000 00000060\n580A1000 00000018\n780A0000 000001D4\n640A0000 00000000 43C80000\n80000040\n580A0000 071BE400\n580A1000 00000060\n580A1000 00000018\n780A0000 000001D4\n640A0000 00000000 44960000\n20000000\n\n"
-        },
-        {
-            "title": "[09# Inf TTD]",
-            "content": "[09# Inf TTD]\n580A0000 071BE400\n580A1000 00000310\n580A1000 00000070\n580A1000 00000158\n780A0000 00000180\n640A0000 00000000 3FA00000\n780A0000 00000004\n640A0000 00000000 3FA00000"
-        }
-    ],
     "4382212487D292D0": [
         {
-            "title": "[01# Inf Health]",
-            "content": "[01# Inf Health]\n580F0000 06FF1A30\n580F1000 00000370\n580F1000 00000000\n780F0000 000001C8\n640F0000 00000000 45A41000\n\n"
+            "content": "[01# Inf Health]\n580F0000 06FF1A30\n580F1000 00000370\n580F1000 00000000\n780F0000 000001C8\n640F0000 00000000 45A41000\n\n",
+            "title": "[01# Inf Health]"
         },
         {
-            "title": "[02# Inf Ammo]",
-            "content": "[02# Inf Ammo]\n580F0000 06FF1A30\n580F1000 00000370\n580F1000 00000048\n580F1000 000002D0\n580F1000 00000210\n780F0000 00000098\n640F0000 00000000 00000063\n\n"
+            "content": "[02# Inf Ammo]\n580F0000 06FF1A30\n580F1000 00000370\n580F1000 00000048\n580F1000 000002D0\n580F1000 00000210\n780F0000 00000098\n640F0000 00000000 00000063\n\n",
+            "title": "[02# Inf Ammo]"
         },
         {
-            "title": "[03# Max XP]",
-            "content": "[03# Max XP]\n580F0000 06FF1A30\n580F1000 00000310\n580F1000 00000050\n780F0000 00000778\n640F0000 00000000 3B9AC9FF\n\n"
+            "content": "[03# Max XP]\n580F0000 06FF1A30\n580F1000 00000310\n580F1000 00000050\n780F0000 00000778\n640F0000 00000000 3B9AC9FF\n\n",
+            "title": "[03# Max XP]"
         },
         {
-            "title": "[04# Max Skillpoints]",
-            "content": "[04# Max Skillpoints]\n580F0000 06FF1A30\n580F1000 00000310\n580F1000 00000050\n780F0000 0000077C\n640F0000 00000000 000003E7\n\n"
+            "content": "[04# Max Skillpoints]\n580F0000 06FF1A30\n580F1000 00000310\n580F1000 00000050\n780F0000 0000077C\n640F0000 00000000 000003E7\n\n",
+            "title": "[04# Max Skillpoints]"
         },
         {
-            "title": "[05# Max Perks]",
-            "content": "[05# Max Perks]\n580F0000 06FF1A30\n580F1000 00000310\n580F1000 00000050\n780F0000 00000314\n640F0000 00000000 000003E7\n\n"
+            "content": "[05# Max Perks]\n580F0000 06FF1A30\n580F1000 00000310\n580F1000 00000050\n780F0000 00000314\n640F0000 00000000 000003E7\n\n",
+            "title": "[05# Max Perks]"
         },
         {
-            "title": "[05# Max money]",
-            "content": "[05# Max money]\n580F0000 06FF1A30\n580F1000 00000310\n580F1000 00000060\n580F1000 000001A0\n780F0000 00000078\n640F0000 00000000 0098967F\n\n"
+            "content": "[05# Max money]\n580F0000 06FF1A30\n580F1000 00000310\n580F1000 00000060\n580F1000 000001A0\n780F0000 00000078\n640F0000 00000000 0098967F\n\n",
+            "title": "[05# Max money]"
         },
         {
-            "title": "[06# Max Ammo mag]",
-            "content": "[06# Max Ammo mag]\n580F0000 06FF1A30\n580F1000 00000310\n580F1000 00000060\n580F1000 000001A0\n780F0000 00000028\n640F0000 00000000 000003E7\n\n"
+            "content": "[06# Max Ammo mag]\n580F0000 06FF1A30\n580F1000 00000310\n580F1000 00000060\n580F1000 000001A0\n780F0000 00000028\n640F0000 00000000 000003E7\n\n",
+            "title": "[06# Max Ammo mag]"
         },
         {
-            "title": "[07# Moonjump]",
-            "content": "[07# Moonjump]\n80000001\n580F0000 06FF1A30\n580F1000 00000060\n580F1000 00000018\n780F0000 000000FC\n640F0000 00000000 44000000\n20000000\n\n"
+            "content": "[07# Moonjump]\n80000001\n580F0000 06FF1A30\n580F1000 00000060\n580F1000 00000018\n780F0000 000000FC\n640F0000 00000000 44000000\n20000000\n\n",
+            "title": "[07# Moonjump]"
         },
         {
-            "title": "[08# Speed x 2 (hold L Stick)]",
-            "content": "[08# Speed x 2 (hold L Stick)]\n580F0000 06FF1A30\n580F1000 00000060\n580F1000 00000018\n780F0000 000001D4\n640F0000 00000000 43C80000\n80000010\n\n580F0000 06FF1A30\n580F1000 00000060\n580F1000 00000018\n780F0000 000001D4\n640F0000 00000000 44960000\n20000000\n\n"
+            "content": "[08# Speed x 2 (hold L Stick)]\n580F0000 06FF1A30\n580F1000 00000060\n580F1000 00000018\n780F0000 000001D4\n640F0000 00000000 43C80000\n80000010\n\n580F0000 06FF1A30\n580F1000 00000060\n580F1000 00000018\n780F0000 000001D4\n640F0000 00000000 44960000\n20000000\n\n",
+            "title": "[08# Speed x 2 (hold L Stick)]"
         },
         {
-            "title": "[09# Inf TTD]",
-            "content": "[09# Inf TTD]\n580F0000 06FF1A30\n580F1000 00000310\n580F1000 00000070\n580F1000 00000158\n780F0000 00000180\n640F0000 00000000 3FA00000\n780F0000 00000004\n640F0000 00000000 3FA00000\n\n"
+            "content": "[09# Inf TTD]\n580F0000 06FF1A30\n580F1000 00000310\n580F1000 00000070\n580F1000 00000158\n780F0000 00000180\n640F0000 00000000 3FA00000\n780F0000 00000004\n640F0000 00000000 3FA00000\n\n",
+            "title": "[09# Inf TTD]"
         },
         {
-            "title": "[08# Speed x 2 (hold L )]",
-            "content": "[08# Speed x 2 (hold L )]\n580F0000 06FF1A30\n580F1000 00000060\n580F1000 00000018\n780F0000 000001D4\n640F0000 00000000 43C80000\n80000040\n\n580F0000 06FF1A30\n580F1000 00000060\n580F1000 00000018\n780F0000 000001D4\n640F0000 00000000 44960000\n20000000\n"
+            "content": "[08# Speed x 2 (hold L )]\n580F0000 06FF1A30\n580F1000 00000060\n580F1000 00000018\n780F0000 000001D4\n640F0000 00000000 43C80000\n80000040\n\n580F0000 06FF1A30\n580F1000 00000060\n580F1000 00000018\n780F0000 000001D4\n640F0000 00000000 44960000\n20000000\n",
+            "title": "[08# Speed x 2 (hold L )]"
         }
     ],
     "4A64EDCB99DE833C": [
         {
-            "title": "[99 ammo]",
-            "content": "[99 ammo]\n580F0000 07897800\n580F1000 00000000\n580F1000 00000210\n580F1000 000002D0\n580F1000 00000210\n780F0000 00000098\n640F0000 00000000 00000063"
+            "content": "[99 ammo]\n580F0000 07897800\n580F1000 00000000\n580F1000 00000210\n580F1000 000002D0\n580F1000 00000210\n780F0000 00000098\n640F0000 00000000 00000063",
+            "title": "[99 ammo]"
+        }
+    ],
+    "761CD556AB357C87": [
+        {
+            "content": "[01# Inf Health]\n580A0000 071BE400\n580A1000 00000370\n580A1000 00000000\n780A0000 000001C8\n640A0000 00000000 45A41000\n\n",
+            "title": "[01# Inf Health]"
+        },
+        {
+            "content": "[02# Inf Ammo]\n580A0000 071BE400\n580A1000 00000370\n580A1000 00000048\n580A1000 000002F0\n580A1000 00000218\n780A0000 000000A8\n640A0000 00000000 00000063\n\n",
+            "title": "[02# Inf Ammo]"
+        },
+        {
+            "content": "[03# Max XP]\n580A0000 071BE400\n580A1000 00000310\n580A1000 00000050\n780A0000 000007D0\n640A0000 00000000 3B9AC9FF\n\n",
+            "title": "[03# Max XP]"
+        },
+        {
+            "content": "[04# Max Skillpoints]\n580A0000 071BE400\n580A1000 00000310\n580A1000 00000050\n780A0000 000007D4\n640A0000 00000000 000003E7\n\n",
+            "title": "[04# Max Skillpoints]"
+        },
+        {
+            "content": "[05# Max Perks]\n580A0000 071BE400\n580A1000 00000310\n580A1000 00000050\n780A0000 00000314\n640A0000 00000000 000003E7\n\n",
+            "title": "[05# Max Perks]"
+        },
+        {
+            "content": "[05# Max money]\n580A0000 071BE400\n580A1000 00000310\n580A1000 00000060\n580A1000 000001A8\n780A0000 00000078\n640A0000 00000000 0098967F\n\n",
+            "title": "[05# Max money]"
+        },
+        {
+            "content": "[06# Max Ammo mag]\n580A0000 071BE400\n580A1000 00000310\n580A1000 00000060\n580A1000 000001A8\n780A0000 00000028\n640A0000 00000000 000003E7\n\n",
+            "title": "[06# Max Ammo mag]"
+        },
+        {
+            "content": "[07# Moonjump]\n80000001\n580A0000 071BE400\n580A1000 00000060\n580A1000 00000018\n780A0000 000000FC\n640A0000 00000000 44000000\n20000000\n\n",
+            "title": "[07# Moonjump]"
+        },
+        {
+            "content": "[08# Speed x 2 (hold L)]\n580A0000 071BE400\n580A1000 00000060\n580A1000 00000018\n780A0000 000001D4\n640A0000 00000000 43C80000\n80000040\n580A0000 071BE400\n580A1000 00000060\n580A1000 00000018\n780A0000 000001D4\n640A0000 00000000 44960000\n20000000\n\n",
+            "title": "[08# Speed x 2 (hold L)]"
+        },
+        {
+            "content": "[09# Inf TTD]\n580A0000 071BE400\n580A1000 00000310\n580A1000 00000070\n580A1000 00000158\n780A0000 00000180\n640A0000 00000000 3FA00000\n780A0000 00000004\n640A0000 00000000 3FA00000",
+            "title": "[09# Inf TTD]"
+        }
+    ],
+    "7D68E9E4670405A4": [
+        {
+            "content": "[1p enermy inf health]\n04000000 01AFEB00 D65F03C0\n\n",
+            "title": "[1p enermy inf health]"
+        },
+        {
+            "content": "[1p enermy inf health disable ]\n04000000 01AFEB00 D102C3FF\n\n",
+            "title": "[1p enermy inf health disable ]"
+        },
+        {
+            "content": "[1p hitkill ]\n04000000 0157A35C D503201F\nthey are not all enemies\n\n",
+            "title": "[1p hitkill ]"
+        },
+        {
+            "content": "[R power user recover hp+TTD+speed move disable]\n04000000 014E3D70 1E2E1008\n\n",
+            "title": "[R power user recover hp+TTD+speed move disable]"
+        },
+        {
+            "content": "[R power user recover hp+TTD+speed move 31x]\n04000000 014E3D70 1E27F008\n\n",
+            "title": "[R power user recover hp+TTD+speed move 31x]"
+        },
+        {
+            "content": "[R power user recover hp+TTD+speed move 10x]\n04000000 014E3D70 1E249008\n\n",
+            "title": "[R power user recover hp+TTD+speed move 10x]"
+        },
+        {
+            "content": "[R power user recover hp+TTD+speed move 5x]\n04000000 014E3D70 1E229008\n\n",
+            "title": "[R power user recover hp+TTD+speed move 5x]"
+        },
+        {
+            "content": "[R power user recover hp+TTD+speed move 3x]\n04000000 014E3D70 1E211008\n\n",
+            "title": "[R power user recover hp+TTD+speed move 3x]"
+        },
+        {
+            "content": "[1p enermy inf health]\n04000000 01AFEB00 D65F03C0\n\n",
+            "title": "[1p enermy inf health]"
+        },
+        {
+            "content": "[1p enermy inf health disable ]\n04000000 01AFEB00 D102C3FF\n\n",
+            "title": "[1p enermy inf health disable ]"
+        },
+        {
+            "content": "[1p hitkill ]\n04000000 0157A35C D503201F\nthey are not all enemies\n\n",
+            "title": "[1p hitkill ]"
+        },
+        {
+            "content": "[R power user recover hp+TTD+speed move disable]\n04000000 014E3D70 1E2E1008\n\n",
+            "title": "[R power user recover hp+TTD+speed move disable]"
+        },
+        {
+            "content": "[R power user recover hp+TTD+speed move 31x]\n04000000 014E3D70 1E27F008\n\n",
+            "title": "[R power user recover hp+TTD+speed move 31x]"
+        },
+        {
+            "content": "[R power user recover hp+TTD+speed move 10x]\n04000000 014E3D70 1E249008\n\n",
+            "title": "[R power user recover hp+TTD+speed move 10x]"
+        },
+        {
+            "content": "[R power user recover hp+TTD+speed move 5x]\n04000000 014E3D70 1E229008\n\n",
+            "title": "[R power user recover hp+TTD+speed move 5x]"
+        },
+        {
+            "content": "[R power user recover hp+TTD+speed move 3x]\n04000000 014E3D70 1E211008",
+            "title": "[R power user recover hp+TTD+speed move 3x]"
+        }
+    ],
+    "9F310253603704D9": [
+        {
+            "content": "[01# Inf Health]\n580A0000 0714D478\n580A1000 00000370\n580A1000 00000000\n780A0000 000001C8\n640A0000 00000000 45A41000\n\n",
+            "title": "[01# Inf Health]"
+        },
+        {
+            "content": "[02# Inf Ammo]\n580A0000 0714D478\n580A1000 00000370\n580A1000 00000048\n580A1000 000002F0\n580A1000 00000218\n780A0000 000000A8\n640F0000 00000000 00000063\n\n",
+            "title": "[02# Inf Ammo]"
+        },
+        {
+            "content": "[03# Max XP]\n580A0000 0714D478\n580A1000 00000310\n580A1000 00000050\n780A0000 000007D0\n640A0000 00000000 3B9AC9FF\n\n",
+            "title": "[03# Max XP]"
+        },
+        {
+            "content": "[04# Max Skillpoints]\n580A0000 0714D478\n580A1000 00000310\n580A1000 00000050\n780A0000 000007D4\n640A0000 00000000 000003E7\n\n",
+            "title": "[04# Max Skillpoints]"
+        },
+        {
+            "content": "[05# Max Perks]\n580A0000 0714D478\n580A1000 00000310\n580A1000 00000050\n780A0000 00000314\n640A0000 00000000 000003E7\n\n",
+            "title": "[05# Max Perks]"
+        },
+        {
+            "content": "[05# Max money]\n580A0000 0714D478\n580A1000 00000310\n580A1000 00000060\n580A1000 000001A8\n780A0000 00000078\n640A0000 00000000 0098967F\n\n",
+            "title": "[05# Max money]"
+        },
+        {
+            "content": "[06# Max Ammo mag]\n580A0000 0714D478\n580A1000 00000310\n580A1000 00000060\n580A1000 000001A8\n780A0000 00000028\n640A0000 00000000 000003E7\n\n",
+            "title": "[06# Max Ammo mag]"
+        },
+        {
+            "content": "[07# Moonjump]\n80000001\n580A0000 0714D478\n580A1000 00000060\n580A1000 00000018\n780A0000 000000FC\n640A0000 00000000 44000000\n20000000\n\n",
+            "title": "[07# Moonjump]"
+        },
+        {
+            "content": "[08# Speed x 2 (hold L Stick)]\n580A0000 0714D478\n580A1000 00000060\n580A1000 00000018\n780A0000 000001D4\n640A0000 00000000 43C80000\n80000010\n580A0000 0714D478\n580A1000 00000060\n580A1000 00000018\n780A0000 000001D4\n640A0000 00000000 44960000\n20000000\n\n",
+            "title": "[08# Speed x 2 (hold L Stick)]"
+        },
+        {
+            "content": "[09# Inf TTD]\n580A0000 0714D478\n580A1000 00000310\n580A1000 00000070\n580A1000 00000158\n780A0000 00000180\n640A0000 00000000 3FA00000\n780A0000 00000004\n640A0000 00000000 3FA00000",
+            "title": "[09# Inf TTD]"
         }
     ]
 }

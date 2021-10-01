@@ -1,16 +1,16 @@
 {
     "EF1E15AF5EF000E1": [
         {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000002\n58000000 002F1138\n78000000 00000068\n64000000 00000000 FFFFFFC0\n20000000\n\n"
+            "content": "[Moon Jump]\n80000002\n58000000 002F1138\n78000000 00000068\n64000000 00000000 FFFFFFC0\n20000000\n\n",
+            "title": "[Moon Jump]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n58000000 002F1138\n78000000 000000B4\n64000000 00000000 0000003C\n\n"
+            "content": "[Invincible]\n58000000 002F1138\n78000000 000000B4\n64000000 00000000 0000003C\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Inf Life]",
-            "content": "[Inf Life]\n58000000 002F1138\n78000000 0000002C\n68000000 00000050 00000050"
+            "content": "[Inf Life]\n58000000 002F1138\n78000000 0000002C\n68000000 00000050 00000050",
+            "title": "[Inf Life]"
         }
     ]
 }

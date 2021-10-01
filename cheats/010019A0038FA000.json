@@ -1,12 +1,12 @@
 {
     "BF06160B4D5E2FA6": [
         {
-            "title": "[P1 Infinite HP]",
-            "content": "[P1 Infinite HP]\n04000000 0123B4C8 70700000\n\n"
+            "content": "[P1 Infinite HP]\n04000000 0123B4C8 70700000\n\n",
+            "title": "[P1 Infinite HP]"
         },
         {
-            "title": "[P2 NO HP]",
-            "content": "[P2 NO HP]\n04000000 0123B5C8 00000000"
+            "content": "[P2 NO HP]\n04000000 0123B5C8 00000000",
+            "title": "[P2 NO HP]"
         }
     ]
 }

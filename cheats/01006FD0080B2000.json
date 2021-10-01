@@ -1,48 +1,48 @@
 {
     "150F46F0966D1544": [
         {
-            "title": "[01# Faster Chop Speed]",
-            "content": "[01# Faster Chop Speed]\n04000000 00C04648 52800073\n"
+            "content": "[01# Faster Chop Speed]\n04000000 00C04648 52800073\n",
+            "title": "[01# Faster Chop Speed]"
         },
         {
-            "title": "[Faster Chop Speed (off)]",
-            "content": "[Faster Chop Speed (off)]\n04000000 00C04648 2A0103F3\n"
+            "content": "[Faster Chop Speed (off)]\n04000000 00C04648 2A0103F3\n",
+            "title": "[Faster Chop Speed (off)]"
         },
         {
-            "title": "[02# Big Tip]",
-            "content": "[02# Big Tip]\n04000000 00986464 52807CE0\n"
+            "content": "[02# Big Tip]\n04000000 00986464 52807CE0\n",
+            "title": "[02# Big Tip]"
         },
         {
-            "title": "[Big Tip (off)]",
-            "content": "[Big Tip (off)]\n04000000 00986464 B9401660\n"
+            "content": "[Big Tip (off)]\n04000000 00986464 B9401660\n",
+            "title": "[Big Tip (off)]"
         },
         {
-            "title": "[03# Inf Order Time]",
-            "content": "[03# Inf Order Time]\n04000000 008BB040 D65F03C0\n"
+            "content": "[03# Inf Order Time]\n04000000 008BB040 D65F03C0\n",
+            "title": "[03# Inf Order Time]"
         },
         {
-            "title": "[Inf Order Time (off)]",
-            "content": "[Inf Order Time (off)]\n04000000 008BB040 FC1A0FE8\n"
+            "content": "[Inf Order Time (off)]\n04000000 008BB040 FC1A0FE8\n",
+            "title": "[Inf Order Time (off)]"
         },
         {
-            "title": "[04# Instant Cook]",
-            "content": "[04# Instant Cook]\n04000000 0090DD8C 1E259000\n"
+            "content": "[04# Instant Cook]\n04000000 0090DD8C 1E259000\n",
+            "title": "[04# Instant Cook]"
         },
         {
-            "title": "[Inf Order Time (off)]",
-            "content": "[Inf Order Time (off)]\n04000000 0090DD8C 1E282800\n"
+            "content": "[Inf Order Time (off)]\n04000000 0090DD8C 1E282800\n",
+            "title": "[Inf Order Time (off)]"
         },
         {
-            "title": "[05# Stop Timer (Press R stick)]",
-            "content": "[05# Stop Timer (Press R stick)]\n04000000 008CE970 D503201F\n04000000 008F4A74 D503201F\n80000020\n04000000 008CE970 1E202900\n04000000 008F4A74 1E202900\n20000000\n"
+            "content": "[05# Stop Timer (Press R stick)]\n04000000 008CE970 D503201F\n04000000 008F4A74 D503201F\n80000020\n04000000 008CE970 1E202900\n04000000 008F4A74 1E202900\n20000000\n",
+            "title": "[05# Stop Timer (Press R stick)]"
         },
         {
-            "title": "[06# Faster Washtime]",
-            "content": "[06# Faster Washtime]\n04000000 00C01060 52800073\n"
+            "content": "[06# Faster Washtime]\n04000000 00C01060 52800073\n",
+            "title": "[06# Faster Washtime]"
         },
         {
-            "title": "[Faster Washtime (off)]",
-            "content": "[Faster Washtime (off)]\n04000000 00C01060 320003E0\n"
+            "content": "[Faster Washtime (off)]\n04000000 00C01060 320003E0\n",
+            "title": "[Faster Washtime (off)]"
         }
     ]
 }

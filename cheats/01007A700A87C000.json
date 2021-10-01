@@ -1,142 +1,142 @@
 {
     "9B4979A234077441": [
         {
-            "title": "[01# Carry Capacity 1000]",
-            "content": "[01# Carry Capacity 1000]\n04000000 01E769CC 447A0000\n04000000 01E769B4 1C0000C0\n\n"
+            "content": "[01# Carry Capacity 1000]\n04000000 01E769CC 447A0000\n04000000 01E769B4 1C0000C0\n\n",
+            "title": "[01# Carry Capacity 1000]"
         },
         {
-            "title": "[Carry Capacity 1000 (off)]",
-            "content": "[Carry Capacity 1000 (off)]\n04000000 01E769CC D503201F\n04000000 01E769B4 1E202900\n\n"
+            "content": "[Carry Capacity 1000 (off)]\n04000000 01E769CC D503201F\n04000000 01E769B4 1E202900\n\n",
+            "title": "[Carry Capacity 1000 (off)]"
         },
         {
-            "title": "[02# Inf Campfire fuel]",
-            "content": "[02# Inf Campfire fuel]\n04000000 01C79AA8 D503201F\n\n"
+            "content": "[02# Inf Campfire fuel]\n04000000 01C79AA8 D503201F\n\n",
+            "title": "[02# Inf Campfire fuel]"
         },
         {
-            "title": "[Inf Campfire fuel (off)]",
-            "content": "[Inf Campfire fuel (off)]\n04000000 01C79AA8 51000508\n\n"
+            "content": "[Inf Campfire fuel (off)]\n04000000 01C79AA8 51000508\n\n",
+            "title": "[Inf Campfire fuel (off)]"
         },
         {
-            "title": "[03# Inf Sprint]",
-            "content": "[03# Inf Sprint]\n04000000 01E42558 43C80000\n04000000 01E41EF0 1C003348\n\n"
+            "content": "[03# Inf Sprint]\n04000000 01E42558 43C80000\n04000000 01E41EF0 1C003348\n\n",
+            "title": "[03# Inf Sprint]"
         },
         {
-            "title": "[Inf Sprint (off)]",
-            "content": "[Inf Sprint (off)]\n04000000 01E42558 D503201F\n04000000 01E41EF0 BD007E68\n\n"
+            "content": "[Inf Sprint (off)]\n04000000 01E42558 D503201F\n04000000 01E41EF0 BD007E68\n\n",
+            "title": "[Inf Sprint (off)]"
         },
         {
-            "title": "[04# Can craft anywhere]",
-            "content": "[04# Can craft anywhere]\n04000000 01FC1200 52800020\n04000000 01FC1204 D65F03C0\n\n"
+            "content": "[04# Can craft anywhere]\n04000000 01FC1200 52800020\n04000000 01FC1204 D65F03C0\n\n",
+            "title": "[04# Can craft anywhere]"
         },
         {
-            "title": "[Can craft anywhere (off0]",
-            "content": "[Can craft anywhere (off0]\n04000000 01FC1200 F81D0FF5\n04000000 01FC1204 A9014FF4\n\n"
+            "content": "[Can craft anywhere (off0]\n04000000 01FC1200 F81D0FF5\n04000000 01FC1204 A9014FF4\n\n",
+            "title": "[Can craft anywhere (off0]"
         },
         {
-            "title": "[05# No Thirst]",
-            "content": "[05# No Thirst]\n04000000 0219CEC4 1E2703E9\n\n"
+            "content": "[05# No Thirst]\n04000000 0219CEC4 1E2703E9\n\n",
+            "title": "[05# No Thirst]"
         },
         {
-            "title": "[No Thirst (off)]",
-            "content": "[No Thirst (off)]\n04000000 0219CEC4 1E202829\n\n"
+            "content": "[No Thirst (off)]\n04000000 0219CEC4 1E202829\n\n",
+            "title": "[No Thirst (off)]"
         },
         {
-            "title": "[06# Not cold]",
-            "content": "[06# Not cold]\n04000000 020C0A0C 1E2703E0\n\n"
+            "content": "[06# Not cold]\n04000000 020C0A0C 1E2703E0\n\n",
+            "title": "[06# Not cold]"
         },
         {
-            "title": "[Not cold (off)]",
-            "content": "[Not cold (off)]\n04000000 020C0A0C BD402100\n\n"
+            "content": "[Not cold (off)]\n04000000 020C0A0C BD402100\n\n",
+            "title": "[Not cold (off)]"
         },
         {
-            "title": "[07# Inf Fatigue]",
-            "content": "[07# Inf Fatigue]\n04000000 01F541B4 1E2703E0\n\n"
+            "content": "[07# Inf Fatigue]\n04000000 01F541B4 1E2703E0\n\n",
+            "title": "[07# Inf Fatigue]"
         },
         {
-            "title": "[Inf Fatigue (off)]",
-            "content": "[Inf Fatigue (off)]\n04000000 01F541B4 1E202820\n\n"
+            "content": "[Inf Fatigue (off)]\n04000000 01F541B4 1E202820\n\n",
+            "title": "[Inf Fatigue (off)]"
         },
         {
-            "title": "[08# Max Calories]",
-            "content": "[08# Max Calories]\n04000000 020119CC 451C4000\n04000000 02011D30 1CFFE4E9\n\n"
+            "content": "[08# Max Calories]\n04000000 020119CC 451C4000\n04000000 02011D30 1CFFE4E9\n\n",
+            "title": "[08# Max Calories]"
         },
         {
-            "title": "[Max Calories (off)]",
-            "content": "[Max Calories (off)]\n04000000 020119CC D503201F\n04000000 02011D30 BD001A69\n\n"
+            "content": "[Max Calories (off)]\n04000000 020119CC D503201F\n04000000 02011D30 BD001A69\n\n",
+            "title": "[Max Calories (off)]"
         },
         {
-            "title": "[09# Inf health]",
-            "content": "[09# Inf health]\n04000000 01CAF0EC 42DC0000\n04000000 01CAEDF4 1C001769"
+            "content": "[09# Inf health]\n04000000 01CAF0EC 42DC0000\n04000000 01CAEDF4 1C001769",
+            "title": "[09# Inf health]"
         }
     ],
     "AC7114153A1DA944": [
         {
-            "title": "[01# Carry Capacity 1000]",
-            "content": "[01# Carry Capacity 1000]\n04000000 01E769CC 447A0000\n04000000 01E769B4 1C0000C0\n\n"
+            "content": "[01# Carry Capacity 1000]\n04000000 01E769CC 447A0000\n04000000 01E769B4 1C0000C0\n\n",
+            "title": "[01# Carry Capacity 1000]"
         },
         {
-            "title": "[Carry Capacity 1000 (off)]",
-            "content": "[Carry Capacity 1000 (off)]\n04000000 01E769CC D503201F\n04000000 01E769B4 1E202900\n\n"
+            "content": "[Carry Capacity 1000 (off)]\n04000000 01E769CC D503201F\n04000000 01E769B4 1E202900\n\n",
+            "title": "[Carry Capacity 1000 (off)]"
         },
         {
-            "title": "[02# Inf Campfire fuel]",
-            "content": "[02# Inf Campfire fuel]\n04000000 01C79AA8 D503201F\n\n"
+            "content": "[02# Inf Campfire fuel]\n04000000 01C79AA8 D503201F\n\n",
+            "title": "[02# Inf Campfire fuel]"
         },
         {
-            "title": "[Inf Campfire fuel (off)]",
-            "content": "[Inf Campfire fuel (off)]\n04000000 01C79AA8 51000508\n\n"
+            "content": "[Inf Campfire fuel (off)]\n04000000 01C79AA8 51000508\n\n",
+            "title": "[Inf Campfire fuel (off)]"
         },
         {
-            "title": "[03# Inf Sprint]",
-            "content": "[03# Inf Sprint]\n04000000 01E42558 43C80000\n04000000 01E41EF0 1C003348\n\n"
+            "content": "[03# Inf Sprint]\n04000000 01E42558 43C80000\n04000000 01E41EF0 1C003348\n\n",
+            "title": "[03# Inf Sprint]"
         },
         {
-            "title": "[Inf Sprint (off)]",
-            "content": "[Inf Sprint (off)]\n04000000 01E42558 D503201F\n04000000 01E41EF0 BD007E68\n\n"
+            "content": "[Inf Sprint (off)]\n04000000 01E42558 D503201F\n04000000 01E41EF0 BD007E68\n\n",
+            "title": "[Inf Sprint (off)]"
         },
         {
-            "title": "[04# Can craft anywhere]",
-            "content": "[04# Can craft anywhere]\n04000000 01FC1200 52800020\n04000000 01FC1204 D65F03C0\n\n"
+            "content": "[04# Can craft anywhere]\n04000000 01FC1200 52800020\n04000000 01FC1204 D65F03C0\n\n",
+            "title": "[04# Can craft anywhere]"
         },
         {
-            "title": "[Can craft anywhere (off0]",
-            "content": "[Can craft anywhere (off0]\n04000000 01FC1200 F81D0FF5\n04000000 01FC1204 A9014FF4\n\n"
+            "content": "[Can craft anywhere (off0]\n04000000 01FC1200 F81D0FF5\n04000000 01FC1204 A9014FF4\n\n",
+            "title": "[Can craft anywhere (off0]"
         },
         {
-            "title": "[05# No Thirst]",
-            "content": "[05# No Thirst]\n04000000 0219CEC4 1E2703E9\n\n"
+            "content": "[05# No Thirst]\n04000000 0219CEC4 1E2703E9\n\n",
+            "title": "[05# No Thirst]"
         },
         {
-            "title": "[No Thirst (off)]",
-            "content": "[No Thirst (off)]\n04000000 0219CEC4 1E202829\n\n"
+            "content": "[No Thirst (off)]\n04000000 0219CEC4 1E202829\n\n",
+            "title": "[No Thirst (off)]"
         },
         {
-            "title": "[06# Not cold]",
-            "content": "[06# Not cold]\n04000000 020C0A0C 1E2703E0\n\n"
+            "content": "[06# Not cold]\n04000000 020C0A0C 1E2703E0\n\n",
+            "title": "[06# Not cold]"
         },
         {
-            "title": "[Not cold (off)]",
-            "content": "[Not cold (off)]\n04000000 020C0A0C BD402100\n\n"
+            "content": "[Not cold (off)]\n04000000 020C0A0C BD402100\n\n",
+            "title": "[Not cold (off)]"
         },
         {
-            "title": "[07# Inf Fatigue]",
-            "content": "[07# Inf Fatigue]\n04000000 01F541B4 1E2703E0\n\n"
+            "content": "[07# Inf Fatigue]\n04000000 01F541B4 1E2703E0\n\n",
+            "title": "[07# Inf Fatigue]"
         },
         {
-            "title": "[Inf Fatigue (off)]",
-            "content": "[Inf Fatigue (off)]\n04000000 01F541B4 1E202820\n\n"
+            "content": "[Inf Fatigue (off)]\n04000000 01F541B4 1E202820\n\n",
+            "title": "[Inf Fatigue (off)]"
         },
         {
-            "title": "[08# Max Calories]",
-            "content": "[08# Max Calories]\n04000000 020119CC 451C4000\n04000000 02011D30 1CFFE4E9\n\n"
+            "content": "[08# Max Calories]\n04000000 020119CC 451C4000\n04000000 02011D30 1CFFE4E9\n\n",
+            "title": "[08# Max Calories]"
         },
         {
-            "title": "[Max Calories (off)]",
-            "content": "[Max Calories (off)]\n04000000 020119CC D503201F\n04000000 02011D30 BD001A69\n\n"
+            "content": "[Max Calories (off)]\n04000000 020119CC D503201F\n04000000 02011D30 BD001A69\n\n",
+            "title": "[Max Calories (off)]"
         },
         {
-            "title": "[09# Inf health]",
-            "content": "[09# Inf health]\n04000000 01CAF0EC 42DC0000\n04000000 01CAEDF4 1C001769"
+            "content": "[09# Inf health]\n04000000 01CAF0EC 42DC0000\n04000000 01CAEDF4 1C001769",
+            "title": "[09# Inf health]"
         }
     ]
 }

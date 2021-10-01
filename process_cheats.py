@@ -74,9 +74,8 @@ class ProcessCheats:
     def createJson(self, tid):
         out_sheet = f"{self.out_path}/{tid.upper()}.json"
         out = self.constructCheatDict(tid)
-        if self.checkForChanges(out_sheet, out):
-            with open(out_sheet, 'w') as json_file:
-                json.dump(out, json_file, indent=4)
+        with open(out_sheet, 'w') as json_file:
+            json.dump(out, json_file, indent=4, sort_keys=True)
 
     def parseCheats(self):
         subprocess.call(['bash', '-c', f"chmod -R +rw {self.in_path}"])

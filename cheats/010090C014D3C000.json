@@ -1,24 +1,24 @@
 {
     "7C7AAD88B10A5D4D": [
         {
-            "title": "[Unlimited consuming Coins]",
-            "content": "[Unlimited consuming Coins]\n010E0000 0175CE3E 0000001F\n\n"
+            "content": "[Unlimited consuming Coins]\n010E0000 0175CE3E 0000001F\n\n",
+            "title": "[Unlimited consuming Coins]"
         },
         {
-            "title": "[Unlimited consuming Items]",
-            "content": "[Unlimited consuming Items]\n010E0000 014C707E 0000001F\n\n"
+            "content": "[Unlimited consuming Items]\n010E0000 014C707E 0000001F\n\n",
+            "title": "[Unlimited consuming Items]"
         },
         {
-            "title": "[8x EXP]",
-            "content": "[8x EXP]\n040E0000 0153542C 0B160EE8\n\n"
+            "content": "[8x EXP]\n040E0000 0153542C 0B160EE8\n\n",
+            "title": "[8x EXP]"
         },
         {
-            "title": "[Invincible (Not suggest)]",
-            "content": "[Invincible (Not suggest)]\n010E0000 015CB6A6 0000001F\n010E0000 015CB87A 0000001F\n010E0000 015CBAFA 0000001F\n010E0000 015CBE9E 0000001F\n010E0000 015CC8CA 0000001F\n"
+            "content": "[Invincible (Not suggest)]\n010E0000 015CB6A6 0000001F\n010E0000 015CB87A 0000001F\n010E0000 015CBAFA 0000001F\n010E0000 015CBE9E 0000001F\n010E0000 015CC8CA 0000001F\n",
+            "title": "[Invincible (Not suggest)]"
         },
         {
-            "title": "[Invincible - off]",
-            "content": "[Invincible - off]\n010E0000 015CB6A6 00000015\n010E0000 015CB87A 00000015\n010E0000 015CBAFA 00000014\n010E0000 015CBE9E 00000001\n010E0000 015CC8CA 00000014"
+            "content": "[Invincible - off]\n010E0000 015CB6A6 00000015\n010E0000 015CB87A 00000015\n010E0000 015CBAFA 00000014\n010E0000 015CBE9E 00000001\n010E0000 015CC8CA 00000014",
+            "title": "[Invincible - off]"
         }
     ]
 }

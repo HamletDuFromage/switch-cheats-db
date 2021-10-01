@@ -1,20 +1,20 @@
 {
     "FED199FE706FF17D": [
         {
-            "title": "[inf. HP]",
-            "content": "[inf. HP]\n040E0000 0030D79C 9407CFF9\n080E0000 00501780 3942127E F90003FE\n080E0000 00501788 BD420260 3400007E\n080E0000 00501790 1E283800 14000002\n080E0000 00501798 D65F03C0 F94003FE\n\n"
+            "content": "[inf. HP]\n040E0000 0030D79C 9407CFF9\n080E0000 00501780 3942127E F90003FE\n080E0000 00501788 BD420260 3400007E\n080E0000 00501790 1E283800 14000002\n080E0000 00501798 D65F03C0 F94003FE\n\n",
+            "title": "[inf. HP]"
         },
         {
-            "title": "[inf. HP + instant kill]",
-            "content": "[inf. HP + instant kill]\n040E0000 0030D79C 9407CFF9\n080E0000 00501780 3942127E F90003FE\n080E0000 00501788 BD420260 3400007E\n080E0000 00501790 1E2703E0 14000002\n080E0000 00501798 D65F03C0 F94003FE\n\n"
+            "content": "[inf. HP + instant kill]\n040E0000 0030D79C 9407CFF9\n080E0000 00501780 3942127E F90003FE\n080E0000 00501788 BD420260 3400007E\n080E0000 00501790 1E2703E0 14000002\n080E0000 00501798 D65F03C0 F94003FE\n\n",
+            "title": "[inf. HP + instant kill]"
         },
         {
-            "title": "[Restore everything]",
-            "content": "[Restore everything]\n040E0000 0030D79C 1E283800\n\n"
+            "content": "[Restore everything]\n040E0000 0030D79C 1E283800\n\n",
+            "title": "[Restore everything]"
         },
         {
-            "title": "[inf. HP]",
-            "content": "[inf. HP]\n580E0000 00E9E600\n580E1000 00000540\n780E0000 00000068\n640E0000 00000000 44610000"
+            "content": "[inf. HP]\n580E0000 00E9E600\n580E1000 00000540\n780E0000 00000068\n640E0000 00000000 44610000",
+            "title": "[inf. HP]"
         }
     ]
 }

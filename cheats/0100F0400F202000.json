@@ -1,16 +1,16 @@
 {
     "7541670DE3A49D9F": [
         {
-            "title": "[Inf Health]",
-            "content": "[Inf Health]\n580F0000 0160C340\n540F1000 00000164\n780F0000 00000020\n680F0000 459C4000 459C4000\n\n"
+            "content": "[Inf Health]\n580F0000 0160C340\n540F1000 00000164\n780F0000 00000020\n680F0000 459C4000 459C4000\n\n",
+            "title": "[Inf Health]"
         },
         {
-            "title": "[Inf Electricity]",
-            "content": "[Inf Electricity]\n580F0000 0160C340\n540F1000 00000164\n780F0000 00000514\n640F0000 00000000 03E803E8\n\n"
+            "content": "[Inf Electricity]\n580F0000 0160C340\n540F1000 00000164\n780F0000 00000514\n640F0000 00000000 03E803E8\n\n",
+            "title": "[Inf Electricity]"
         },
         {
-            "title": "[Inf Money]",
-            "content": "[Inf Money]\n580F0000 0160C340\n540F1000 00000164\n780F0000 000012EC\n640F0000 00000000 05F5E0FF"
+            "content": "[Inf Money]\n580F0000 0160C340\n540F1000 00000164\n780F0000 000012EC\n640F0000 00000000 05F5E0FF",
+            "title": "[Inf Money]"
         }
     ]
 }

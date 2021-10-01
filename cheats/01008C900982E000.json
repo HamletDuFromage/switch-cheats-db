@@ -1,24 +1,24 @@
 {
     "44F1B4597BF9050E": [
         {
-            "title": "[Infinite Life]",
-            "content": "[Infinite Life]\n021F0000 019C6093 00009999\n\n"
+            "content": "[Infinite Life]\n021F0000 019C6093 00009999\n\n",
+            "title": "[Infinite Life]"
         },
         {
-            "title": "[Infinite Lives]",
-            "content": "[Infinite Lives]\n011F0000 019C6237 00000063\n\n"
+            "content": "[Infinite Lives]\n011F0000 019C6237 00000063\n\n",
+            "title": "[Infinite Lives]"
         },
         {
-            "title": "[Infinite Fairy]",
-            "content": "[Infinite Fairy]\n011F0000 019C6238 00000009\n\n"
+            "content": "[Infinite Fairy]\n011F0000 019C6238 00000009\n\n",
+            "title": "[Infinite Fairy]"
         },
         {
-            "title": "[Infinite Magic]",
-            "content": "[Infinite Magic]\n021F0000 019C625C 0000AAAA\n011F0000 019C6259 00000008\n\n"
+            "content": "[Infinite Magic]\n021F0000 019C625C 0000AAAA\n011F0000 019C6259 00000008\n\n",
+            "title": "[Infinite Magic]"
         },
         {
-            "title": "[Moon Jump (Hold X)]",
-            "content": "[Moon Jump (Hold X)]\n80000004\n021F0000 019C683A 00005801\n20000000"
+            "content": "[Moon Jump (Hold X)]\n80000004\n021F0000 019C683A 00005801\n20000000",
+            "title": "[Moon Jump (Hold X)]"
         }
     ]
 }

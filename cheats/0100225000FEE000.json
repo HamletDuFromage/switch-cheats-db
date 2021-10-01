@@ -1,96 +1,96 @@
 {
     "2F3FCA7B168909B9": [
         {
-            "title": "[Infinite SP]",
-            "content": "[Infinite SP]\n01000000 0073ecea 00000008\n\n"
+            "content": "[Infinite SP]\n01000000 0073ecea 00000008\n\n",
+            "title": "[Infinite SP]"
         },
         {
-            "title": "[Infinite HP]",
-            "content": "[Infinite HP]\n540f0000 0073ed84\n540f1000 00000328\n740f0000 0000000c\n610f0000 00000000 00000010\n\n"
+            "content": "[Infinite HP]\n540f0000 0073ed84\n540f1000 00000328\n740f0000 0000000c\n610f0000 00000000 00000010\n\n",
+            "title": "[Infinite HP]"
         },
         {
-            "title": "[Human Infinite Ammo]",
-            "content": "[Human Infinite Ammo]\n01000000 0073ecf3 0000000a\n04000000 0073ecf4 0105050a\n\n"
+            "content": "[Human Infinite Ammo]\n01000000 0073ecf3 0000000a\n04000000 0073ecf4 0105050a\n\n",
+            "title": "[Human Infinite Ammo]"
         },
         {
-            "title": "[Human Infinite Weapon Guard]",
-            "content": "[Human Infinite Weapon Guard]\n04000000 0073ed7c 00000000\n\n"
+            "content": "[Human Infinite Weapon Guard]\n04000000 0073ed7c 00000000\n\n",
+            "title": "[Human Infinite Weapon Guard]"
         },
         {
-            "title": "[All HP Upgrades]",
-            "content": "[All HP Upgrades]\n01000000 0032cfee 000000ff\n\n"
+            "content": "[All HP Upgrades]\n01000000 0032cfee 000000ff\n\n",
+            "title": "[All HP Upgrades]"
         },
         {
-            "title": "[Car All Weapons]",
-            "content": "[Car All Weapons]\n01000000 0032cfeb 0000001f\n02000000 0032cfec 00001fff\n\n"
+            "content": "[Car All Weapons]\n01000000 0032cfeb 0000001f\n02000000 0032cfec 00001fff\n\n",
+            "title": "[Car All Weapons]"
         },
         {
-            "title": "[Human Have All Weapons]",
-            "content": "[Human Have All Weapons]\n01000000 0032cfea 0000003f\n01000000 0073ecf0 00000008\n\n"
+            "content": "[Human Have All Weapons]\n01000000 0032cfea 0000003f\n01000000 0073ecf0 00000008\n\n",
+            "title": "[Human Have All Weapons]"
         },
         {
-            "title": "[Have All Keys]",
-            "content": "[Have All Keys]\n01000000 0032cff0 0000001f\n\n"
+            "content": "[Have All Keys]\n01000000 0032cff0 0000001f\n\n",
+            "title": "[Have All Keys]"
         },
         {
-            "title": "[Have All Maps]",
-            "content": "[Have All Maps]\n02000000 0032cff1 000001ff\n\n"
+            "content": "[Have All Maps]\n02000000 0032cff1 000001ff\n\n",
+            "title": "[Have All Maps]"
         },
         {
-            "title": "[Unlock EXTRA]",
-            "content": "[Unlock EXTRA]\n01000000 0032cfc1 00000001"
+            "content": "[Unlock EXTRA]\n01000000 0032cfc1 00000001",
+            "title": "[Unlock EXTRA]"
         }
     ],
     "A3BCE5521B979943": [
         {
-            "title": "[Jason Infinite SP]",
-            "content": "[Jason Infinite SP]\n01000000 0050e3e6 00000008\n\n"
+            "content": "[Jason Infinite SP]\n01000000 0050e3e6 00000008\n\n",
+            "title": "[Jason Infinite SP]"
         },
         {
-            "title": "[Infinite HP]",
-            "content": "[Infinite HP]\n540f0000 0050e484\n540f1000 00000328\n740f0000 0000000c\n610f0000 00000000 00000010\n\n"
+            "content": "[Infinite HP]\n540f0000 0050e484\n540f1000 00000328\n740f0000 0000000c\n610f0000 00000000 00000010\n\n",
+            "title": "[Infinite HP]"
         },
         {
-            "title": "[Human Infinite Ammo]",
-            "content": "[Human Infinite Ammo]\n01000000 0050e3ef 0000000a\n04000000 0050e3f0 0105050a\n\n"
+            "content": "[Human Infinite Ammo]\n01000000 0050e3ef 0000000a\n04000000 0050e3f0 0105050a\n\n",
+            "title": "[Human Infinite Ammo]"
         },
         {
-            "title": "[Human Infinite Weapon Guard]",
-            "content": "[Human Infinite Weapon Guard]\n04000000 0050e47c 00000000\n\n"
+            "content": "[Human Infinite Weapon Guard]\n04000000 0050e47c 00000000\n\n",
+            "title": "[Human Infinite Weapon Guard]"
         },
         {
-            "title": "[All HP Upgrades]",
-            "content": "[All HP Upgrades]\n01000000 003dfc3e 000000ff\n\n"
+            "content": "[All HP Upgrades]\n01000000 003dfc3e 000000ff\n\n",
+            "title": "[All HP Upgrades]"
         },
         {
-            "title": "[Car All Weapons]",
-            "content": "[Car All Weapons]\n01000000 003dfc3b 0000001f\n02000000 003dfc3e 00001fff\n\n"
+            "content": "[Car All Weapons]\n01000000 003dfc3b 0000001f\n02000000 003dfc3e 00001fff\n\n",
+            "title": "[Car All Weapons]"
         },
         {
-            "title": "[Human Have All Weapons]",
-            "content": "[Human Have All Weapons]\n01000000 003dfc3a 0000003f\n01000000 0050e3ec 00000008\n\n"
+            "content": "[Human Have All Weapons]\n01000000 003dfc3a 0000003f\n01000000 0050e3ec 00000008\n\n",
+            "title": "[Human Have All Weapons]"
         },
         {
-            "title": "[Have All Keys]",
-            "content": "[Have All Keys]\n01000000 003dfc40 0000001f\n\n"
+            "content": "[Have All Keys]\n01000000 003dfc40 0000001f\n\n",
+            "title": "[Have All Keys]"
         },
         {
-            "title": "[Have All Maps]",
-            "content": "[Have All Maps]\n02000000 003dfc41 000001ff\n\n"
+            "content": "[Have All Maps]\n02000000 003dfc41 000001ff\n\n",
+            "title": "[Have All Maps]"
         },
         {
-            "title": "[Unlock EXTRA]",
-            "content": "[Unlock EXTRA]\n01000000 003dfc11 00000001"
+            "content": "[Unlock EXTRA]\n01000000 003dfc11 00000001",
+            "title": "[Unlock EXTRA]"
         }
     ],
     "CB248EFC0E80B579": [
         {
-            "title": "[Ship Energy unlimited]",
-            "content": "[Ship Energy unlimited]\n01100000 20049014 00000008\n\n"
+            "content": "[Ship Energy unlimited]\n01100000 20049014 00000008\n\n",
+            "title": "[Ship Energy unlimited]"
         },
         {
-            "title": "[Human Energy unlimited]",
-            "content": "[Human Energy unlimited]\n01100000 20049674 00000008\n\n"
+            "content": "[Human Energy unlimited]\n01100000 20049674 00000008\n\n",
+            "title": "[Human Energy unlimited]"
         }
     ]
 }

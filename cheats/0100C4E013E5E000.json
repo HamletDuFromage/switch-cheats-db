@@ -1,28 +1,28 @@
 {
     "5B67EF657677FD66": [
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n080E0000 01162800 B947C128 B943F92A\n080E0000 01162808 1A881168 7100011F\n080E0000 01162810 D65F03C0 D503201F\n040E0000 00235A00 943CB380\n\n"
+            "content": "[Invincible]\n080E0000 01162800 B947C128 B943F92A\n080E0000 01162808 1A881168 7100011F\n080E0000 01162810 D65F03C0 D503201F\n040E0000 00235A00 943CB380\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Damage 5x]",
-            "content": "[Damage 5x]\n080E0000 01162830 B947C109 D503201F\n080E0000 01162838 528000A9 7100013F\n080E0000 01162840 1A8912B5 1B157D29\n080E0000 01162848 D65F03C0 B943F908\n040E0000 002359B8 943CB39E\n\n"
+            "content": "[Damage 5x]\n080E0000 01162830 B947C109 D503201F\n080E0000 01162838 528000A9 7100013F\n080E0000 01162840 1A8912B5 1B157D29\n080E0000 01162848 D65F03C0 B943F908\n040E0000 002359B8 943CB39E\n\n",
+            "title": "[Damage 5x]"
         },
         {
-            "title": "[EXP 5x]",
-            "content": "[EXP 5x]\n040E0000 00382734 0B020856\n\n"
+            "content": "[EXP 5x]\n040E0000 00382734 0B020856\n\n",
+            "title": "[EXP 5x]"
         },
         {
-            "title": "[Inf. MP]",
-            "content": "[Inf. MP]\n040E0000 0023F228 2A1F03E9\n\n"
+            "content": "[Inf. MP]\n040E0000 0023F228 2A1F03E9\n\n",
+            "title": "[Inf. MP]"
         },
         {
-            "title": "[Running Speed 2.5X]",
-            "content": "[Running Speed 2.5X]\n040E0000 0030152C 1E209001\n040E0000 00300FA8 1E209000\n\n"
+            "content": "[Running Speed 2.5X]\n040E0000 0030152C 1E209001\n040E0000 00300FA8 1E209000\n\n",
+            "title": "[Running Speed 2.5X]"
         },
         {
-            "title": "[Created by Eiffel2018]",
-            "content": "[Created by Eiffel2018]"
+            "content": "[Created by Eiffel2018]",
+            "title": "[Created by Eiffel2018]"
         }
     ]
 }

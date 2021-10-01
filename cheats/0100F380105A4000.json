@@ -1,20 +1,20 @@
 {
     "C1524D35C1D101EE": [
         {
-            "title": "[Inf Lives]",
-            "content": "[Inf Lives]\n011F0000 79E4A380 0000009A\n\n"
+            "content": "[Inf Lives]\n011F0000 79E4A380 0000009A\n\n",
+            "title": "[Inf Lives]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n011F0000 79E4A52D 000000FF\n\n"
+            "content": "[Invincible]\n011F0000 79E4A52D 000000FF\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Speed Up]",
-            "content": "[Speed Up]\n011F0000 79E4A50E 00000008\n\n"
+            "content": "[Speed Up]\n011F0000 79E4A50E 00000008\n\n",
+            "title": "[Speed Up]"
         },
         {
-            "title": "[Select Laser]",
-            "content": "[Select Laser]\n011F0000 79E4A518 00000004\n"
+            "content": "[Select Laser]\n011F0000 79E4A518 00000004\n",
+            "title": "[Select Laser]"
         }
     ]
 }

@@ -1,28 +1,28 @@
 {
     "5160D10088BB2289": [
         {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000002\n580F0000 0EE9A160\n780F0000 000001C4\n640F0000 00000000 C0A00000\n20000000\n\n"
+            "content": "[Moon Jump]\n80000002\n580F0000 0EE9A160\n780F0000 000001C4\n640F0000 00000000 C0A00000\n20000000\n\n",
+            "title": "[Moon Jump]"
         },
         {
-            "title": "[Speed Up]",
-            "content": "[Speed Up]\n580F0000 0EE9A160\n780F0000 000001D8\n640F0000 00000000 40800000\n\n"
+            "content": "[Speed Up]\n580F0000 0EE9A160\n780F0000 000001D8\n640F0000 00000000 40800000\n\n",
+            "title": "[Speed Up]"
         },
         {
-            "title": "[Inf HP]",
-            "content": "[Inf HP]\n580F0000 0EE9A160\n780F0000 00000264\n640F0000 00000000 00000190\n\n"
+            "content": "[Inf HP]\n580F0000 0EE9A160\n780F0000 00000264\n640F0000 00000000 00000190\n\n",
+            "title": "[Inf HP]"
         },
         {
-            "title": "[Coin MAX]",
-            "content": "[Coin MAX]\n580F0000 0EE99710\n780F0000 000000D4\n640F0000 00000000 000003E7\n\n"
+            "content": "[Coin MAX]\n580F0000 0EE99710\n780F0000 000000D4\n640F0000 00000000 000003E7\n\n",
+            "title": "[Coin MAX]"
         },
         {
-            "title": "[brown things MAX]",
-            "content": "[brown things MAX]\n580F0000 0EE99710\n780F0000 000000D0\n640F0000 00000000 00640000\n\n"
+            "content": "[brown things MAX]\n580F0000 0EE99710\n780F0000 000000D0\n640F0000 00000000 00640000\n\n",
+            "title": "[brown things MAX]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n580F0000 0028AAE0\n780F0000 00000020\n640F0000 00000000 000000FF"
+            "content": "[Invincible]\n580F0000 0028AAE0\n780F0000 00000020\n640F0000 00000000 000000FF",
+            "title": "[Invincible]"
         }
     ]
 }

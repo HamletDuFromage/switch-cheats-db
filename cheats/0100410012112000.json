@@ -1,12 +1,12 @@
 {
     "48C172D0E2F4BE42": [
         {
-            "title": "[*Inf HP Jericoss v 0.1]",
-            "content": "[*Inf HP Jericoss v 0.1]\n580F0000 03F3F678\n580F1000 00000588\n580F1000 00000A68\n580F1000 000000D8\n780F0000 000001BC\n640F0000 00000000 41000000\n\n"
+            "content": "[*Inf HP Jericoss v 0.1]\n580F0000 03F3F678\n580F1000 00000588\n580F1000 00000A68\n580F1000 000000D8\n780F0000 000001BC\n640F0000 00000000 41000000\n\n",
+            "title": "[*Inf HP Jericoss v 0.1]"
         },
         {
-            "title": "[1p invicible]",
-            "content": "[1p invicible]\n04000000 01FC2650 D503201F"
+            "content": "[1p invicible]\n04000000 01FC2650 D503201F",
+            "title": "[1p invicible]"
         }
     ]
 }

@@ -1,32 +1,32 @@
 {
     "29ACA13A1DCBECBB": [
         {
-            "title": "[Inf Health]",
-            "content": "[Inf Health]\n580F0000 015A2690\n580F1000 000000B0\n780F0000 00000024\n640F0000 00000000 42480000\n\n"
+            "content": "[Inf Health]\n580F0000 015A2690\n580F1000 000000B0\n780F0000 00000024\n640F0000 00000000 42480000\n\n",
+            "title": "[Inf Health]"
         },
         {
-            "title": "[Inf Tension Gage]",
-            "content": "[Inf Tension Gage]\n580F0000 015A2690\n580F1000 000000B0\n780F0000 0000002C\n640F0000 00000000 3F800000\n\n"
+            "content": "[Inf Tension Gage]\n580F0000 015A2690\n580F1000 000000B0\n780F0000 0000002C\n640F0000 00000000 3F800000\n\n",
+            "title": "[Inf Tension Gage]"
         },
         {
-            "title": "[Quick Charge (Hold X)]",
-            "content": "[Quick Charge (Hold X)]\n80000004\n580F0000 015A2690\n580F1000 000000B0\n780F0000 00000194\n640F0000 00000000 0000011C\n20000000\n\n"
+            "content": "[Quick Charge (Hold X)]\n80000004\n580F0000 015A2690\n580F1000 000000B0\n780F0000 00000194\n640F0000 00000000 0000011C\n20000000\n\n",
+            "title": "[Quick Charge (Hold X)]"
         },
         {
-            "title": "[Quick Charge (Hold Y)]",
-            "content": "[Quick Charge (Hold Y)]\n80000008\n580F0000 015A2690\n580F1000 000000B0\n780F0000 00000194\n640F0000 00000000 0000011E\n20000000\n\n"
+            "content": "[Quick Charge (Hold Y)]\n80000008\n580F0000 015A2690\n580F1000 000000B0\n780F0000 00000194\n640F0000 00000000 0000011E\n20000000\n\n",
+            "title": "[Quick Charge (Hold Y)]"
         },
         {
-            "title": "[Inf Electricity]",
-            "content": "[Inf Electricity]\n580F0000 015A2690\n580F1000 000000B0\n780F0000 00000808\n640F0000 00000000 03E803E8\n\n"
+            "content": "[Inf Electricity]\n580F0000 015A2690\n580F1000 000000B0\n780F0000 00000808\n640F0000 00000000 03E803E8\n\n",
+            "title": "[Inf Electricity]"
         },
         {
-            "title": "[Max LB]",
-            "content": "[Max LB]\n580F0000 015A2690\n580F1000 000000B0\n780F0000 00000B70\n640F0000 00000000 0098967F\n\n"
+            "content": "[Max LB]\n580F0000 015A2690\n580F1000 000000B0\n780F0000 00000B70\n640F0000 00000000 0098967F\n\n",
+            "title": "[Max LB]"
         },
         {
-            "title": "[Have Flying Jump]",
-            "content": "[Have Flying Jump]\n80000002\n580F0000 015A2690\n580F1000 000000B0\n780F0000 00000288\n640F0000 00000000 40500000\n20000000"
+            "content": "[Have Flying Jump]\n80000002\n580F0000 015A2690\n580F1000 000000B0\n780F0000 00000288\n640F0000 00000000 40500000\n20000000",
+            "title": "[Have Flying Jump]"
         }
     ]
 }

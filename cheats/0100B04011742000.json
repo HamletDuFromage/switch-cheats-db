@@ -1,1502 +1,1502 @@
 {
-    "F7A7784E77202BE7": [
-        {
-            "title": "[Hp lock]",
-            "content": "[Hp lock]\n58000000 0E5A7AC8\n58001000 00000028\n58001000 000000D8\n58001000 00000118\n78000000 00000010\n64000000 00000000 000000C8\n58000000 0E5A7AC8\n58001000 00000028\n58001000 000000D8\n58001000 00000118\n78000000 00000014\n64000000 00000000 000000C8\n"
-        }
-    ],
-    "6CDEC176EA1D12C5": [
-        {
-            "title": "[1p inf health]",
-            "content": "[1p inf health]\n04000000 02C18724 1E3E1000\n\n"
-        },
-        {
-            "title": "[1p hit kill]",
-            "content": "[1p hit kill]\n04000000 02C18330 1E27F000\n\n"
-        },
-        {
-            "title": "[1p hit normal]",
-            "content": "[1p hit normal]\n04000000 043FE72C 1E2E1000\n\n"
-        },
-        {
-            "title": "[1p hit range]",
-            "content": "[1p hit range]\n04000000 043FE72C 1E27F000\n\n"
-        },
-        {
-            "title": "[dog speed normal]",
-            "content": "[dog speed normal]\n04000000 031AD2B0 1E2E1000\n\n"
-        },
-        {
-            "title": "[dog speed 2x]",
-            "content": "[dog speed 2x]\n04000000 031AD2B0 1E201000\n\n"
-        },
-        {
-            "title": "[dog speed3x]",
-            "content": "[dog speed3x]\n04000000 031AD2B0 1E211000\n\n"
-        },
-        {
-            "title": "[hit range does not affect graphic weapons]",
-            "content": "[hit range does not affect graphic weapons]\n04000000 05302940 1E2F9007\n\n"
-        },
-        {
-            "title": "[inf stamina]",
-            "content": "[inf stamina]\n04000000 0243407C 1E27F000\n\n"
-        },
-        {
-            "title": "[Ammo 25]",
-            "content": "[Ammo 25]\n580F0000 0D68D7C0\n580F1000 00000070\n580F1000 00000030\n580F1000 00000028\n780F0000 00000020\n30000000 00000034\n640F1000 00000000 00000019\n31000000\n\n"
-        },
-        {
-            "title": "[HP and Stamina]",
-            "content": "[HP and Stamina]\n580F0000 0D684A60\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000010\n680F1000 0000012C 0000012C\n680F1000 0000012C 0000012C\n680F0000 45fa0000 45fa0000\n\n"
-        },
-        {
-            "title": "[Time]",
-            "content": "[Time]\n580F0000 0D682CB0\n780F0000 00000114\n640F0000 00000000 45E10000\n\n"
-        },
-        {
-            "title": "[+ Field Pouch all qty 100]",
-            "content": "[+ Field Pouch all qty 100]\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n30000000 00000038\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000014\n640A0000 00000000 00000064\n780F0000 00000008\n31000000\n\n"
-        },
-        {
-            "title": "[Pouch first item barrel bomb]",
-            "content": "[Pouch first item barrel bomb]\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 00000010\n680F0000 000001F4 04100002\n\n"
-        },
-        {
-            "title": "[L Create items in pouch from first item]",
-            "content": "[L Create items in pouch from first item]\n80000040\n580B0000 0D68CA58\n580B1000 00000548\n580B1000 00000010\n580B1000 00000020\n580B1000 00000020\n580B1000 00000010\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n30000000 00000028\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000010\nA4BA1000\n640A0000 00000000 000001F4\n780F0000 00000008\n780B0000 00000001\n31000000\n20000000\n\n"
-        },
-        {
-            "title": "[R Copy last slot item to first slot]",
-            "content": "[R Copy last slot item to first slot]\n80000080\n580B0000 0D68CA58\n580B1000 00000548\n580B1000 00000010\n580B1000 00000158\n580B1000 00000020\n580B1000 00000010\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 00000010\nA8BF0000\n20000000\n\n"
-        },
-        {
-            "title": "[Rstick clear pouch]",
-            "content": "[Rstick clear pouch]\n80000020\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n30000000 00000028\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000010\n680A0000 00000000 04000000\n780F0000 00000008\n31000000\n20000000\n\n"
-        },
-        {
-            "title": "[Item box item one qty 500]",
-            "content": "[Item box item one qty 500]\n580F0000 0D687730\n580F1000 00000160\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 00000014\n640F0000 00000000 000001F4\n\n"
-        },
-        {
-            "title": "[Pouch first item qty 500]",
-            "content": "[Pouch first item qty 500]\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 00000014\n640F0000 00000000 000001F4\n\n"
-        },
-        {
-            "title": "[infinite wirebug use]",
-            "content": "[infinite wirebug use]\n040B0000 02430E64 1E2703E2\n\n"
-        },
-        {
-            "title": "[Max HP & Stamina]",
-            "content": "[Max HP & Stamina]\n580F0000 0D684A60\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000010\n680F1000 0000012C 0000012C\n680F1000 0000012C 0000012C\n680F0000 45fa0000 45fa0000\n\n"
-        },
-        {
-            "title": "[\u221e Health]",
-            "content": "[\u221e Health]\n04000000 02C18724 1E3E1000\n\n"
-        },
-        {
-            "title": "[\u221e Stamina]",
-            "content": "[\u221e Stamina]\n04000000 0243407C 1E27F000\n\n"
-        },
-        {
-            "title": "[\u221e wirebug Hook]",
-            "content": "[\u221e wirebug Hook]\n040B0000 02430E64 1E2703E2\n\n"
-        },
-        {
-            "title": "[\u221e Field Pouch items & Ammo x100]",
-            "content": "[\u221e Field Pouch items & Ammo x100]\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n30000000 00000038\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000014\n640A0000 00000000 00000064\n780F0000 00000008\n31000000\n\n"
-        },
-        {
-            "title": "[25 Bullets in CrossBow]",
-            "content": "[25 Bullets in CrossBow]\n580F0000 0D68D7C0\n580F1000 00000070\n580F1000 00000030\n580F1000 00000028\n780F0000 00000020\n30000000 00000034\n640F1000 00000000 00000019\n31000000\n\n"
-        },
-        {
-            "title": "[1 Hit kill]",
-            "content": "[1 Hit kill]\n04000000 02C18330 1E27F000\n\n"
-        },
-        {
-            "title": "[1 Hit normal]",
-            "content": "[1 Hit normal]\n04000000 043FE72C 1E2E1000\n\n"
-        },
-        {
-            "title": "[Dog Speed 2x]",
-            "content": "[Dog Speed 2x]\n04000000 031AD2B0 1E201000\n\n"
-        },
-        {
-            "title": "[Dog Speed Normal]",
-            "content": "[Dog Speed Normal]\n04000000 031AD2B0 1E2E1000\n\n"
-        },
-        {
-            "title": "[inf Time]",
-            "content": "[inf Time]\n580F0000 0D682CB0\n780F0000 00000114\n640F0000 00000000 45E10000\n\n"
-        },
-        {
-            "title": "[1st ItemBox x500]",
-            "content": "[1st ItemBox x500]\n580F0000 0D687730\n580F1000 00000160\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 00000014\n640F0000 00000000 000001F4\n\n"
-        },
-        {
-            "title": "[Restock Pouch Items]",
-            "content": "[Restock Pouch Items]\n80000020\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n30000000 00000028\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000010\n680A0000 00000000 04000000\n780F0000 00000008\n31000000\n20000000\n\n"
-        },
-        {
-            "title": "[1st Pouch item x500]",
-            "content": "[1st Pouch item x500]\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 00000014\n640F0000 00000000 000001F4\n\n"
-        },
-        {
-            "title": "[Barrel Bomb #1 in Pouch]",
-            "content": "[Barrel Bomb #1 in Pouch]\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 00000010\n680F0000 000001F4 04100002\n\n"
-        },
-        {
-            "title": "[hit range x1.5 does not affect graphics]",
-            "content": "[hit range x1.5 does not affect graphics]\n04000000 05302940 1E2F1007\n\n"
-        },
-        {
-            "title": "[hit range normal]",
-            "content": "[hit range normal]\n04000000 05302940 1E2E1007\n\n"
-        },
-        {
-            "title": "[Kamura Pts]",
-            "content": "[Kamura Pts]\n04100000 1BAFC530 05F5E0FF\n04100000 1DEEE940 05F5E0FF\n\n"
-        },
-        {
-            "title": "[Money]",
-            "content": "[Money]\n04100000 1BAFC528 05F5E0FF\n04100000 1DEF8718 05F5E0FF\n\n"
-        },
-        {
-            "title": "[1p run speed ]",
-            "content": "[1p run speed ]\n04000000 05054394 1E2A1000\n\n"
-        },
-        {
-            "title": "[1p run normal ]",
-            "content": "[1p run normal ]\n04000000 05054394 1E2E1000\n\n"
-        },
-        {
-            "title": "[AirWalk ZR+B]",
-            "content": "[AirWalk ZR+B]\n580F0000 0D684A60\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000268\n780F0000 00000050\n640F0000 00000000 00000002\n\n"
-        },
-        {
-            "title": "[Mini Jump MOD (Hold ZL)]",
-            "content": "[Mini Jump MOD (Hold ZL)]\n80000100\n580F0000 0D684A60\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000590\n640F0000 00000000 00000009\n20000000\n\n"
-        },
-        {
-            "title": "[Moonjump (press B)]",
-            "content": "[Moonjump (press B)]\n80000002\n580F0000 0D684A60\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000058\n780F0000 00000024\n640F0000 00000000 3E000000\n20000000\n\n"
-        },
-        {
-            "title": "[enemy atk 0]",
-            "content": "[enemy atk 0]\n04010000 02C18724 1E2703E0\n"
-        },
-        {
-            "title": "[enemy atk off]",
-            "content": "[enemy atk off]\n04010000 02C18724 1E2E1000\n\n"
-        },
-        {
-            "title": "[atk multiplier x2]",
-            "content": "[atk multiplier x2]\n04010000 02C18330 1E201000\n"
-        },
-        {
-            "title": "[atk multiplier x4]",
-            "content": "[atk multiplier x4]\n04010000 02C18330 1E221000\n"
-        },
-        {
-            "title": "[atk multiplier x8]",
-            "content": "[atk multiplier x8]\n04010000 02C18330 1E241000\n"
-        },
-        {
-            "title": "[atk multiplier x16]",
-            "content": "[atk multiplier x16]\n04010000 02C18330 1E261000\n"
-        },
-        {
-            "title": "[atk multiplier x24]",
-            "content": "[atk multiplier x24]\n04010000 02C18330 1E271000\n"
-        },
-        {
-            "title": "[atk multiplier x31]",
-            "content": "[atk multiplier x31]\n04010000 02C18330 1E27F000\n"
-        },
-        {
-            "title": "[atk multiplier off]",
-            "content": "[atk multiplier off]\n04010000 02C18330 1E2E1000\n\n"
-        },
-        {
-            "title": "[inf sharpness]",
-            "content": "[inf sharpness]\n04010000 02436554 2A0903E8\n"
-        },
-        {
-            "title": "[inf sharpness off]",
-            "content": "[inf sharpness off]\n04010000 02436554 6B09011F\n\n"
-        },
-        {
-            "title": "[inf item pouch]",
-            "content": "[inf item pouch]\n04010000 02E44E4C 14000014\n"
-        },
-        {
-            "title": "[inf item pouch off]",
-            "content": "[inf item pouch off]\n04010000 02E44E4C 3400029A\n\n"
-        },
-        {
-            "title": "[+500 if deposited in an storage box]",
-            "content": "[+500 if deposited in an storage box]\n04010000 03D8AD70 52803E8A\n"
-        },
-        {
-            "title": "[+5000 if deposited in an storage box]",
-            "content": "[+5000 if deposited in an storage box]\n04010000 03D8AD70 5282710A\n"
-        },
-        {
-            "title": "[deposited in an storage box off]",
-            "content": "[deposited in an storage box off]\n04010000 03D8AD70 1A8082CA\n\n"
-        },
-        {
-            "title": "[MAX ATK (1300)]",
-            "content": "[MAX ATK (1300)]\n580F0000 0D684A60\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000074\n640F0000 00000000 0001869F\n\n"
-        },
-        {
-            "title": "[MAX DEF (2000)]",
-            "content": "[MAX DEF (2000)]\n580F0000 0D684A60\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000078\n640F0000 00000000 0001869F\n\n"
-        },
-        {
-            "title": "[MINUS+PLUS Instant Quest Complete]",
-            "content": "[MINUS+PLUS Instant Quest Complete]\n80000C00\n580F0000 0D682CB0\n780F0000 000000D8\n610F0000 00000000 00000003\n780F0000 00000004\n610F0000 00000000 00000001\n780F0000 00000078\n610F0000 00000000 00000003\n780F0000 00000004\n610F0000 00000000 00000008\n20000000\n\n"
-        },
-        {
-            "title": "[PLUS+UP Skip Quest Clear Time]",
-            "content": "[PLUS+UP Skip Quest Clear Time]\n80002400\n580F0000 0D682CB0\n780F0000 0000015C\n640F0000 00000000 00000000\n20000000\n\n"
-        },
-        {
-            "title": "[Playtime 0]",
-            "content": "[Playtime 0]\n58000000 0D694C88\n58001000 00000070\n78000000 00000044\n64000000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[Hunted/Captured All Max]",
-            "content": "[Hunted/Captured All Max]\n580F0000 0D694C88\n580F1000 00000070\n300E0000 00000004\n580F1000 000000F0\n780F0000 00000020\n300E0000 00000064\n640F0000 00000000 0000270F\n780F0000 00000004\n310E0000 20000000\n580F0000 0D694C88\n580F1000 00000070\n300E0000 00000004\n580F1000 000000F8\n780F0000 00000020\n300E0000 00000064\n640F0000 00000000 0000270F\n780F0000 00000004\n310E0000 20000000\n\n"
-        },
-        {
-            "title": "[GuildCard/Weapon Usage All MAX]",
-            "content": "[GuildCard/Weapon Usage All MAX]\n580F0000 0D694C88\n580F1000 00000070\n580F1000 00000120\n780F0000 00000020\n300E0000 0000000E\n640F0000 00000000 0000270F\n780F0000 00000004\n310E0000 20000000\n\n"
-        },
-        {
-            "title": "[GuildCard/Quest All]",
-            "content": "[GuildCard/Quest All]\n580F0000 0D694C88\n580F1000 00000070\n780F0000 00000080\n300E0000 00000005\n640F0000 00000000 0000270F\n780F0000 00000004\n310E0000 20000000\n\n"
-        },
-        {
-            "title": "[GuildCard/Slain Captured]",
-            "content": "[GuildCard/Slain Captured]\n580F0000 0D694C88\n580F1000 00000070\n780F0000 000000A4\n640F0000 00000000 0000270F\n780F0000 00000004\n640F0000 00000000 0000C34F\n\n\n\n\n\n"
-        }
-    ],
-    "B09F83B9EF28C00D": [
-        {
-            "title": "[Unlock 60 FPS Limit]",
-            "content": "[Unlock 60 FPS Limit]\n580F0000 0DB706E8\n580F1000 000000A0 \n780F0000 00012BC4 \n610F0000 00000000 00000001 \n20000000 \n580F0000 0DB706E8 \n780F0000 00000434 \n640F0000 00000000 42700000 \n20000000 \n\n"
-        },
-        {
-            "title": "[Default 30 FPS Limit]",
-            "content": "[Default 30 FPS Limit]\n580F0000 0DB706E8 \n580F1000 000000A0 \n780F0000 00012BC4 \n610F0000 00000000 00000002 \n20000000 \n580F0000 0DB706E8 \n780F0000 00000434 \n640F0000 00000000 41F00000 \n20000000\n\n"
-        },
-        {
-            "title": "[(Hold L3) Game Speed x2]",
-            "content": "[(Hold L3) Game Speed x2]\n580F0000 0DB706E8\n780F0000 00000418\n640F0000 00000000 3F800000\n20000000\n80000010\n580F0000 0DB706E8\n780F0000 00000418\n640F0000 00000000 40000000\n20000000\n\n"
-        },
-        {
-            "title": "[(Hold L3) Game Speed x2 (Hold L) SlowMo]",
-            "content": "[(Hold L3) Game Speed x2 (Hold L) SlowMo]\n580F0000 0DB706E8\n780F0000 00000418\n640F0000 00000000 3F800000\n20000000\n80000010\n580F0000 0DB706E8\n780F0000 00000418\n640F0000 00000000 40000000\n20000000\n80000040\n580F0000 0DB706E8\n780F0000 00000418\n640F0000 00000000 3F000000\n20000000\n\n"
-        },
-        {
-            "title": "[Great Sword Charge Max]",
-            "content": "[Great Sword Charge Max]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000748\n640F0000 00000000 431A0000\n\n"
-        },
-        {
-            "title": "[Long Sword Spirit Gauge Max (Red)]",
-            "content": "[Long Sword Spirit Gauge Max (Red)]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000744\n640F0000 00000000 466A6000\n780F0000 00000004\n640F0000 00000000 42C80000\n780F0000 00000004\n610F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Dual Blades Demon Gauge Max]",
-            "content": "[Dual Blades Demon Gauge Max]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000748\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[Gun Lance Shells Max]",
-            "content": "[Gun Lance Shells Max]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 0000053C\n610F0000 00000000 00000006\n\n"
-        },
-        {
-            "title": "[Gun Lance Inf. Wyrmstake Cannon]",
-            "content": "[Gun Lance Inf. Wyrmstake Cannon]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000778\n640F0000 00000000 00000001\n\n"
-        },
-        {
-            "title": "[Gun Lance No Overheat]",
-            "content": "[Gun Lance No Overheat]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000150\n640F0000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[Switch Axe Gauge Max]",
-            "content": "[Switch Axe Gauge Max]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 000007C8\n610F0000 00000000 00000064\n\n"
-        },
-        {
-            "title": "[Switch Axe Overcharge]",
-            "content": "[Switch Axe Overcharge]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 000007D0\n640F0000 00000000 43160000\n780F0000 00000004\n640F0000 00000000 43960000\n780F0000 00000004\n640F0000 00000000 453B8000\n\n"
-        },
-        {
-            "title": "[Charge Blade Red Charged]",
-            "content": "[Charge Blade Red Charged]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000758\n640F0000 00000000 42380000\n\n"
-        },
-        {
-            "title": "[Charge Blade Phials Max]",
-            "content": "[Charge Blade Phials Max]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000748\n610F0000 00000000 00000005\n\n"
-        },
-        {
-            "title": "[Charge Blade Red Sword Never Expires]",
-            "content": "[Charge Blade Red Sword Never Expires]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 0000077C\n640F0000 00000000 461C4000\n\n"
-        },
-        {
-            "title": "[Charge Blade Red Shield Never Expires]",
-            "content": "[Charge Blade Red Shield Never Expires]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000778\n640F0000 00000000 461C4000\n\n"
-        },
-        {
-            "title": "[BOW Max Charge]",
-            "content": "[BOW Max Charge]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000798\n640F0000 00000000 43960000\n\n"
-        },
-        {
-            "title": "[Kinsect Bar Max]",
-            "content": "[Kinsect Bar Max]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000108\n780F0000 00000164\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[Kinsect Charged]",
-            "content": "[Kinsect Charged]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000108\n780F0000 00000156\n620F0000 00000000 000042C8\n\n"
-        },
-        {
-            "title": "[Kinsect Trio Extract]",
-            "content": "[Kinsect Trio Extract]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000788\n640F0000 00000000 461C4000\n780F0000 00000004\n640F0000 00000000 461C4000\n780F0000 00000004\n640F0000 00000000 461C4000\n\n"
-        },
-        {
-            "title": "[PLUS+DOWN Refill Sharpness (White)]",
-            "content": "[PLUS+DOWN Refill Sharpness (White)]\n80008400\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 000001E8\n610F0000 00000000 00000005\n780F0000 00000004\n620F0000 00000000 000001F4\n780F0000 00000004\n620F0000 00000000 000001F4\n20000000\n\n"
-        },
-        {
-            "title": "[Sharpness Bar Max (White)]",
-            "content": "[Sharpness Bar Max (White)]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 000001E8\n610F0000 00000000 00000005\n780F0000 00000004\n620F0000 00000000 000001F4\n780F0000 00000004\n620F0000 00000000 000001F4\n\n"
-        },
-        {
-            "title": "[Sharpness Bar Halved]",
-            "content": "[Sharpness Bar Halved]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 000001EC\n620F0000 00000000 000000FA\n780F0000 00000004\n620F0000 00000000 000001F4\n\n"
-        },
-        {
-            "title": "[Sharpness Bar Min]",
-            "content": "[Sharpness Bar Min]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 000001EC\n620F0000 00000000 00000001\n780F0000 00000004\n620F0000 00000000 000001F4\n\n"
-        },
-        {
-            "title": "[HP Always Regen]",
-            "content": "[HP Always Regen]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 0000001C\n620F0000 00000000 0000012C\n\n"
-        },
-        {
-            "title": "[HP Cap Max 300]",
-            "content": "[HP Cap Max 300]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000014\n620F0000 00000000 0000012C\n780F0000 00000004\n620F0000 00000000 0000012C\n\n"
-        },
-        {
-            "title": "[HP Max 300]",
-            "content": "[HP Max 300]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000010\n620F0000 00000000 0000012C\n\n"
-        },
-        {
-            "title": "[Max Stamina Cap 300]",
-            "content": "[Max Stamina Cap 300]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000024\n640F0000 00000000 460CA000\n\n"
-        },
-        {
-            "title": "[Max Stamina 300]",
-            "content": "[Max Stamina 300]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000020\n640F0000 00000000 460CA000\n\n"
-        },
-        {
-            "title": "[MINUS+PLUS Instant Quest Clear]",
-            "content": "[MINUS+PLUS Instant Quest Clear]\n80000C00\n580F0000 0DBF76F8\n780F0000 000000E8\n610F0000 00000000 00000003\n780F0000 00000004\n610F0000 00000000 00000001\n780F0000 00000078\n610F0000 00000000 00000003\n780F0000 00000004\n610F0000 00000000 00000008\n20000000\n\n"
-        },
-        {
-            "title": "[PLUS+UP Skip Quest Clear Countdown]",
-            "content": "[PLUS+UP Skip Quest Clear Countdown]\n80002400\n580F0000 0DBF76F8\n780F0000 0000016C\n640F0000 00000000 00000000\n20000000\n\n"
-        },
-        {
-            "title": "[9999 Sec. Quest Clear Countdown Cap, PLUS+UP To End]",
-            "content": "[9999 Sec. Quest Clear Countdown Cap, PLUS+UP To End]\n580F0000 0DBF76F8\n780F0000 00000134\n640F0000 00000000 461C3C00\n20000000\n80002400\n580F0000 0DBF76F8\n780F0000 0000016C\n640F0000 00000000 00000000\n20000000\n\n"
-        },
-        {
-            "title": "[Inf. Mega Demondrug Effect]",
-            "content": "[Inf. Mega Demondrug Effect]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000074\n640F0000 00000000 00000007\n\n"
-        },
-        {
-            "title": "[Inf. Might Seed Effect]",
-            "content": "[Inf. Might Seed Effect]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 0000007C\n640F0000 00000000 0000000A\n780F0000 0000000C\n640F0000 00000000 461C4000\n\n"
-        },
-        {
-            "title": "[Inf. Mega Armorskin Effect]",
-            "content": "[Inf. Mega Armorskin Effect]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000078\n640F0000 00000000 00000019\n\n"
-        },
-        {
-            "title": "[Inf. Adamant Seed Effect]",
-            "content": "[Inf. Adamant Seed Effect]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000080\n640F0000 00000000 00000014\n780F0000 0000000C\n640F0000 00000000 461C4000\n\n"
-        },
-        {
-            "title": "[Inf. Dash Juice Effect]",
-            "content": "[Inf. Dash Juice Effect]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000094\n640F0000 00000000 461C4000\n\n"
-        },
-        {
-            "title": "[Inf. Immunizer Effect]",
-            "content": "[Inf. Immunizer Effect]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 000000E0\n640F0000 00000000 461C4000\n\n"
-        },
-        {
-            "title": "[Inf. Knockbacks Negated + Divine Protection Effect]",
-            "content": "[Inf. Knockbacks Negated + Divine Protection Effect]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 000000B4\n640F0000 00000000 461C4000\n780F0000 00000004\n640F0000 00000000 00000032\n\n"
-        },
-        {
-            "title": "[Inf. 100% Affinity Buff Effect]",
-            "content": "[Inf. 100% Affinity Buff Effect]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 000000AC\n640F0000 00000000 461C4000\n780F0000 00000004\n640F0000 00000000 000000C8\n\n"
-        },
-        {
-            "title": "[M.E. Self-Improvement]",
-            "content": "[M.E. Self-Improvement]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000020\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Attack Up]",
-            "content": "[M.E. Attack Up]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000028\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Defense Up]",
-            "content": "[M.E. Defense Up]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000030\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Affinity Up]",
-            "content": "[M.E. Affinity Up]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000038\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Elemental Attack Boost]",
-            "content": "[M.E. Elemental Attack Boost]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000040\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Attack And Defense Up]",
-            "content": "[M.E. Attack And Defense Up]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000048\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Attack And Affinity Up]",
-            "content": "[M.E. Attack And Affinity Up]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000050\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Knockbacks Negated]",
-            "content": "[M.E. Knockbacks Negated]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000058\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Earplugs (S)]",
-            "content": "[M.E. Earplugs (S)]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000060\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Earplugs (L)]",
-            "content": "[M.E. Earplugs (L)]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000068\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Tremors Negated]",
-            "content": "[M.E. Tremors Negated]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000070\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Wind Pressure Negated]",
-            "content": "[M.E. Wind Pressure Negated]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000078\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Stun Negated]",
-            "content": "[M.E. Stun Negated]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000080\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Blight Negated]",
-            "content": "[M.E. Blight Negated]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000088\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Divine Protection]",
-            "content": "[M.E. Divine Protection]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000090\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Health Regeneration]",
-            "content": "[M.E. Health Regeneration]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 000000B0\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Stamina Use Reduced]",
-            "content": "[M.E. Stamina Use Reduced]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 000000B8\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Stamina Recovery Up]",
-            "content": "[M.E. Stamina Recovery Up]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 000000C0\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Sharpness Loss Reduced]",
-            "content": "[M.E. Sharpness Loss Reduced]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 000000C8\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Environment Damage Negated]",
-            "content": "[M.E. Environment Damage Negated]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 000000D0\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Blowback Negated/Sonic Barrier]",
-            "content": "[M.E. Blowback Negated/Sonic Barrier]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 000000E0\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[M.E. Infernal Melody]",
-            "content": "[M.E. Infernal Melody]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 000000E8\n780F0000 00000010\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[MAX ATK (1300)]",
-            "content": "[MAX ATK (1300)]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000074\n640F0000 00000000 0001869F\n\n"
-        },
-        {
-            "title": "[MAX ATK (1300) OFF]",
-            "content": "[MAX ATK (1300) OFF]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000074\n640F0000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[MAX DEF (2000)]",
-            "content": "[MAX DEF (2000)]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000078\n640F0000 00000000 0001869F\n\n"
-        },
-        {
-            "title": "[MAX DEF (2000) OFF]",
-            "content": "[MAX DEF (2000) OFF]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000078\n640F0000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[0 Deaths In Quest]",
-            "content": "[0 Deaths In Quest]\n580F0000 0DBF76F8\n780F0000 00000104\n640F0000 00000000 00000000\n780F0000 00000014\n640F0000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[1000000 Zenny Rewards From Quest]",
-            "content": "[1000000 Zenny Rewards From Quest]\n580F0000 0DBF76F8\n780F0000 00000100\n640F0000 00000000 000F4240\n780F0000 00000008\n640F0000 00000000 000F4240\n\n"
-        },
-        {
-            "title": "[1000000 Kamura Pts. Rewards From Quest]",
-            "content": "[1000000 Kamura Pts. Rewards From Quest]\n580F0000 0DBF76F8\n780F0000 00000110\n640F0000 00000000 000F4240\n\n"
-        },
-        {
-            "title": "[+1000 HR Pts. Rewards From Quest]",
-            "content": "[+1000 HR Pts. Rewards From Quest]\n580F0000 0DBF76F8\n780F0000 0000010C\n640F0000 00000000 000003E8\n\n"
-        },
-        {
-            "title": "[+10000 HR Pts. Rewards From Quest]",
-            "content": "[+10000 HR Pts. Rewards From Quest]\n580F0000 0DBF76F8\n780F0000 0000010C\n640F0000 00000000 00002710\n\n"
-        },
-        {
-            "title": "[+20000 HR Pts. Rewards From Quest]",
-            "content": "[+20000 HR Pts. Rewards From Quest]\n580F0000 0DBF76F8\n780F0000 0000010C\n640F0000 00000000 00004E20\n\n"
-        },
-        {
-            "title": "[+50000 HR Pts. Rewards From Quest]",
-            "content": "[+50000 HR Pts. Rewards From Quest]\n580F0000 0DBF76F8\n780F0000 0000010C\n640F0000 00000000 0000C350\n\n"
-        },
-        {
-            "title": "[+100000 HR Pts. Rewards From Quest]",
-            "content": "[+100000 HR Pts. Rewards From Quest]\n580F0000 0DBF76F8\n780F0000 0000010C\n640F0000 00000000 000186A0\n\n"
-        },
-        {
-            "title": "[Max HR Pts. Rewards From Quest]",
-            "content": "[Max HR Pts. Rewards From Quest]\n580F0000 0DBF76F8\n780F0000 0000010C\n640F0000 00000000 7FFFFFFF\n\n"
-        },
-        {
-            "title": "[Switch Skill #1 Toggle]",
-            "content": "[Switch Skill #1 Toggle]\n80001100\n580F0000 0DBF86D0\n580F1000 00000020\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000214\n640F0000 00000000 00000000\n20000000\n80004100\n580F0000 0DBF86D0\n580F1000 00000020\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000214\n640F0000 00000000 00000001\n20000000\n\n"
-        },
-        {
-            "title": "[Switch Skill #2 Toggle]",
-            "content": "[Switch Skill #2 Toggle]\n80001080\n580F0000 0DBF86D0\n580F1000 00000020\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000218\n640F0000 00000000 00000000\n20000000\n80004080\n580F0000 0DBF86D0\n580F1000 00000020\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000218\n640F0000 00000000 00000001\n20000000\n\n"
-        },
-        {
-            "title": "[Switch Skill #3 Toggle]",
-            "content": "[Switch Skill #3 Toggle]\n80001002\n580F0000 0DBF86D0\n580F1000 00000020\n580F1000 00000028\n580F1000 000000D8\n780F0000 0000021C\n640F0000 00000000 00000000\n20000000\n80004002\n580F0000 0DBF86D0\n580F1000 00000020\n580F1000 00000028\n580F1000 000000D8\n780F0000 0000021C\n640F0000 00000000 00000001\n20000000\n\n"
-        },
-        {
-            "title": "[1p invicible on ]",
-            "content": "[1p invicible on ]\n04000000 05196C50 D65F03C0\n\n"
-        },
-        {
-            "title": "[1p invicible off ]",
-            "content": "[1p invicible off ]\n04000000 05196C50 6DBC23E9\n\n"
-        },
-        {
-            "title": "[1p inf heath]",
-            "content": "[1p inf heath]\n04000000 037DE978 1E3E1000\n\n"
-        },
-        {
-            "title": "[1p hit kill]",
-            "content": "[1p hit kill]\n04000000 037DE614 1E27F000\n\n"
-        },
-        {
-            "title": "[1p run speed normal]",
-            "content": "[1p run speed normal]\n04000000 051802E4 1E2E1000\n\n"
-        },
-        {
-            "title": "[1p run speed 1.25x]",
-            "content": "[1p run speed 1.25x]\n04000000 051802E4 1E2D1000\n\n"
-        },
-        {
-            "title": "[1p run speed 1.5x]",
-            "content": "[1p run speed 1.5x]\n04000000 051802E4 1E2C1000\n\n"
-        },
-        {
-            "title": "[1p run speed 1.75x]",
-            "content": "[1p run speed 1.75x]\n04000000 051802E4 1E2A1000\n\n\n"
-        },
-        {
-            "title": "[dog speed normal]",
-            "content": "[dog speed normal]\n04000000 03DE70F4 1E2E1000\n\n"
-        },
-        {
-            "title": "[dog speed 1.25x]",
-            "content": "[dog speed 1.25x]\n04000000 03DE70F4 1E2E9000\n\n"
-        },
-        {
-            "title": "[dog speed 1.5x]",
-            "content": "[dog speed 1.5x]\n04000000 03DE70F4 1E2F1000\n\n"
-        },
-        {
-            "title": "[dog speed 1.75x]",
-            "content": "[dog speed 1.75x]\n04000000 03DE70F4 1E2F9000\n\n"
-        },
-        {
-            "title": "[dog speed 2x]",
-            "content": "[dog speed 2x]\n04000000 03DE70F4 1E201000\n\n"
-        },
-        {
-            "title": "[1p hitrange normal]",
-            "content": "[1p hitrange normal]\n04000000 03DE70F4 1E2E1007\n\n"
-        },
-        {
-            "title": "[1p hitrange 1.25x]",
-            "content": "[1p hitrange 1.25x]\n04000000 03DE70F4 1E2E9007\n\n"
-        },
-        {
-            "title": "[1p hitrange 1.5x]",
-            "content": "[1p hitrange 1.5x]\n04000000 03DE70F4 1E2F1007\n\n"
-        },
-        {
-            "title": "[1p hitrange 1.75x]",
-            "content": "[1p hitrange 1.75x]\n04000000 03DE70F4 1E2F9007\n\n"
-        }
-    ],
-    "46205B7BD869E2E4": [
-        {
-            "title": "[1p inf health]",
-            "content": "[1p inf health]\n04000000 0325771C 1E3E1000\n\n"
-        },
-        {
-            "title": "[1p hit kill]",
-            "content": "[1p hit kill]\n04000000 032573B8 1E27F000\n\n"
-        },
-        {
-            "title": "[hit range x1.25 does not affect graphics]",
-            "content": "[hit range x1.25 does not affect graphics]\n04000000 053CFD50 1E2E9007\n\n"
-        },
-        {
-            "title": "[hit range x1.5 does not affect graphics]",
-            "content": "[hit range x1.5 does not affect graphics]\n04000000 053CFD50 1E2F1007\n\n"
-        },
-        {
-            "title": "[hit range normal]",
-            "content": "[hit range normal]\n04000000 053CFD50 1E2E1007\n\n"
-        },
-        {
-            "title": "[1P RUN SPEED NORMAL]",
-            "content": "[1P RUN SPEED NORMAL]\n04000000 05145034 1E3E1000\n\n"
-        },
-        {
-            "title": "[1P RUN SPEED 1.75X ]",
-            "content": "[1P RUN SPEED 1.75X ]\n04000000 05145034 1E2A1000\n\n"
-        },
-        {
-            "title": "[1P RUN SPEED 1.5X ]",
-            "content": "[1P RUN SPEED 1.5X ]\n04000000 05145034 1E2C1000\n\n"
-        },
-        {
-            "title": "[1P RUN SPEED 1.25X ]",
-            "content": "[1P RUN SPEED 1.25X ]\n04000000 05145034 1E2D1000\n\n"
-        },
-        {
-            "title": "[SPEED DOG NORMAL]",
-            "content": "[SPEED DOG NORMAL]\n04000000 0435BA08 1E3E1000\n\n"
-        },
-        {
-            "title": "[SPEED DOG 2X]",
-            "content": "[SPEED DOG 2X]\n04000000 0435BA08 1E201000\n\n"
-        },
-        {
-            "title": "[SPEED DOG 3X]",
-            "content": "[SPEED DOG 3X]\n04000000 0435BA08 1E211000\n\n"
-        },
-        {
-            "title": "[1P INVICIBLE]",
-            "content": "[1P INVICIBLE]\n04000000 0515B9A0 D65F03C0\n\n"
-        },
-        {
-            "title": "[1P INVICIBLE OFF]",
-            "content": "[1P INVICIBLE OFF]\n04000000 0515B9A0 6DBC23E9\n\n"
-        },
-        {
-            "title": "[Instant Kill]",
-            "content": "[Instant Kill]\n04010000 05D5A8F8 4AED5BE2\n04010000 05D5A8E0 B5000098\n04010000 05D5A8E4 10000009\n04010000 05D5A8E8 B9401529\n04010000 05D5A8EC B9002109\n04010000 05D5A8F0 BD402108\n04010000 05D5A8F4 D65F03C0\n04010000 05D5A8FC 1E0089CA\n04010000 02C35648 94C494A6\n\n"
-        },
-        {
-            "title": "[Instant Kill OFF]",
-            "content": "[Instant Kill OFF]\n04010000 02C35648 BD402108\n\n"
-        },
-        {
-            "title": "[Easy Parts Breaker]",
-            "content": "[Easy Parts Breaker]\n04010000 05D5A8D0 4AED5BE2\n04010000 05D5A8D4 1E0089CA\n04010000 05D5A8B0 A93E1FE6\n04010000 05D5A8B4 8B180908\n04010000 05D5A8B8 B4000098\n04010000 05D5A8BC 10000006\n04010000 05D5A8C0 B94014C6\n04010000 05D5A8C4 B9002106\n04010000 05D5A8C8 A97E1FE6\n04010000 05D5A8CC D65F03C0\n04010000 02C35644 94C4949B\n\n"
-        },
-        {
-            "title": "[Easy Breaker OFF]",
-            "content": "[Easy Breaker OFF]\n04010000 02C35644 8B180908\n\n"
-        },
-        {
-            "title": "[Easy Capture 1HP - immune to kill]",
-            "content": "[Easy Capture 1HP - immune to kill]\n04010000 05D5A940 1E283800\n04010000 05D5A944 35000054\n04010000 05D5A948 1E2E1000\n04010000 05D5A94C D65F03C0\n04010000 02C373A4 94C48D67\n\n"
-        },
-        {
-            "title": "[Easy Capture OFF]",
-            "content": "[Easy Capture OFF]\n04010000 02C373A4 1E283800\n\n"
-        },
-        {
-            "title": "[Money 10,000,000]",
-            "content": "[Money 10,000,000]\n58020000 0DB446D0\n58021000 00000058\n78020000 00000018\n64020000 00000000 00989680\n\n"
-        },
-        {
-            "title": "[Kamura 10,000,000]",
-            "content": "[Kamura 10,000,000]\n58020000 0DB446D0\n58021000 00000060\n78020000 00000010\n64020000 00000000 00989680\n\n"
-        },
-        {
-            "title": "[Money Reset To 0]",
-            "content": "[Money Reset To 0]\n58020000 0DB446D0\n58021000 00000058\n78020000 00000018\n64020000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[Kamura Reset To 0]",
-            "content": "[Kamura Reset To 0]\n58020000 0DB446D0\n58021000 00000060\n78020000 00000010\n64020000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[Unlock 60 FPS Limit]",
-            "content": "[Unlock 60 FPS Limit]\n580F0000 0DAFAFF0\n580F1000 000000A0\n780F0000 00012BC4\n610F0000 00000000 00000001\n20000000\n580F0000 0DAFAFF0\n780F0000 00000434\n640F0000 00000000 42700000\n20000000\n\n"
-        },
-        {
-            "title": "[Default 30 FPS Limit]",
-            "content": "[Default 30 FPS Limit]\n580F0000 0DAFAFF0\n580F1000 000000A0\n780F0000 00012BC4\n610F0000 00000000 00000002\n20000000\n580F0000 0DAFAFF0\n780F0000 00000434\n640F0000 00000000 41F00000\n20000000\n\n"
-        },
-        {
-            "title": "[+700 if Deposited in storage Box]",
-            "content": "[+700 if Deposited in storage Box]\n04010000 0411D874 52805E8A\n\n"
-        },
-        {
-            "title": "[Have Invicible]",
-            "content": "[Have Invicible]\n04070000 02F23C44 1E2E1000\n\n"
-        },
-        {
-            "title": "[Have Invicible Disable]",
-            "content": "[Have Invicible Disable]\n04070000 02F23C44 BD440280\n\n"
-        },
-        {
-            "title": "[Have Inf HP]",
-            "content": "[Have Inf HP]\n04070000 05D5AB20 1E202008\n04070000 05D5AB24 5400004A\n04070000 05D5AB28 1E2703E0\n04070000 05D5AB2C 4EA01C08\n04070000 05D5AB30 D65F03C0\n04070000 05D5AB34 1E0089CA\n04070000 02F06D2C 94B94F7D\n\n"
-        },
-        {
-            "title": "[Have Buddy Inf HP]",
-            "content": "[Have Buddy Inf HP]\n04070000 0435C508 52800008\n04070000 03C8C1F8 52800008\n\n"
-        },
-        {
-            "title": "[Have Inf Stamina]",
-            "content": "[Have Inf Stamina]\n04070000 02F07E0C BD402500\n\n"
-        },
-        {
-            "title": "[Have Stamina Limit Max]",
-            "content": "[Have Stamina Limit Max]\n04070000 02F0A078 BD434528\n\n"
-        },
-        {
-            "title": "[Have Inf Sharpness]",
-            "content": "[Have Inf Sharpness]\n04070000 02F0A2C8 2A0903E8\n\n"
-        },
-        {
-            "title": "[Have Wirebug no CD]",
-            "content": "[Have Wirebug no CD]\n04070000 037B27E8 B900111F\n04070000 037B27EC BD401100\n04070000 037B27F0 14000016\n\n"
-        },
-        {
-            "title": "[Have Inf Use Carry Item]",
-            "content": "[Have Inf Use Carry Item]\n04070000 02E2B3B0 5280001A\n\n"
-        },
-        {
-            "title": "[Have Inf Use Carry Item Disable]",
-            "content": "[Have Inf Use Carry Item Disable]\n04070000 02E2B3B0 1A80827A\n\n"
-        },
-        {
-            "title": "[Have Inf Use Ammo]",
-            "content": "[Have Inf Use Ammo]\n04070000 03A40C08 71000129\n\n"
-        },
-        {
-            "title": "[Have Inf Use Coating]",
-            "content": "[Have Inf Use Coating]\n04070000 03BDF5C8 71000129\n\n"
-        },
-        {
-            "title": "[Have Inf Wyvern Riding Gauge]",
-            "content": "[Have Inf Wyvern Riding Gauge]\n04070000 0326F8F8 BD40E100\n04070000 0326F8FC BD00D500\n04070000 0326F900 1E204001\n04070000 0326F904 D503201F\n04070000 0326FD38 1E2703E2\n\n"
-        },
-        {
-            "title": "[HAve Inf Wyvern Riding Time]",
-            "content": "[HAve Inf Wyvern Riding Time]\n04070000 0326F964 1E222840\n\n"
-        },
-        {
-            "title": "[Have Instant Kill]",
-            "content": "[Have Instant Kill]\n04070000 05D5ABF8 4AED5BE2\n04070000 05D5ABE0 B5000098\n04070000 05D5ABE4 10000009\n04070000 05D5ABE8 B9401529\n04070000 05D5ABEC B9002109\n04070000 05D5ABF0 BD402108\n04070000 05D5ABF4 D65F03C0\n04070000 05D5ABFC 1E0089CA\n04070000 02C35648 94C49566\n\n"
-        },
-        {
-            "title": "[Have Instant Kill Disable]",
-            "content": "[Have Instant Kill Disable]\n04070000 02C35648 BD402108\n\n"
-        },
-        {
-            "title": "[Have Demon Bar]",
-            "content": "[Have Demon Bar]\n04070000 05D5A950 BD4722C0\n04070000 05D5A954 BD073AC0\n04070000 05D5A958 52800028\n04070000 05D5A95C B9078AC8\n04070000 05D5A960 BD409A60\n04070000 05D5A964 D65F03C0\n04070000 05D5A968 BD008BF6\n04070000 02933E64 94D09ABB\n\n"
-        },
-        {
-            "title": "[Have Spirit Max]",
-            "content": "[Have Spirit Max]\n04070000 040037A0 14000004\n04070000 04004BD8 D503201F\n04070000 04004C80 D503201F\n04070000 027E09F0 D503201F\n\n"
-        },
-        {
-            "title": "[Have Sword Red Status]",
-            "content": "[Have Sword Red Status]\n04070000 05D5AA20 10000008\n04070000 05D5AA24 B9402516\n04070000 05D5AA28 B9073EF6\n04070000 05D5AA2C F943A2E9\n04070000 05D5AA30 93407EC8\n04070000 05D5AA34 8B080928\n04070000 05D5AA38 BD402100\n04070000 05D5AA3C BD0736E0\n04070000 05D5AA40 D65F03C0\n04070000 05D5AA44 00000003\n04070000 03308130 94A94A3C\n\n"
-        },
-        {
-            "title": "[Have Great Sword Quick Charge]",
-            "content": "[Have Great Sword Quick Charge]\n04070000 02B3E268 14000010\n\n"
-        },
-        {
-            "title": "[Have Hammer Quick Charge]",
-            "content": "[Have Hammer Quick Charge]\n04070000 02F3546C 52A8BE69\n04070000 02F35474 1E220120\n"
-        },
-        {
-            "title": "[Have Always Magnificent Trio]",
-            "content": "[Have Always Magnificent Trio]\n04070000 02E62244 52800029\n04070000 02E6224C 391D06C9\n\n"
-        },
-        {
-            "title": "[Have Change Melody Gauge Max]",
-            "content": "[Have Change Melody Gauge Max]\n04070000 02D0B0E4 17FFFF5D\n04070000 03334DF0 D503201F\n\n"
-        },
-        {
-            "title": "[Have Have Gunlance no Reload]",
-            "content": "[Have Have Gunlance no Reload]\n04070000 02D052FC D503201F\n\n"
-        },
-        {
-            "title": "[Have Have Gunlance Inf Shell]",
-            "content": "[Have Have Gunlance Inf Shell]\n04070000 02AC2C98 52800028\n04070000 02AC2C9C 391DA2C8\n\n"
-        },
-        {
-            "title": "[Have Wyvern Fire Quick CD]",
-            "content": "[Have Wyvern Fire Quick CD]\n04070000 02D06AEC D503201F\n\n"
-        },
-        {
-            "title": "[Have Change Switch Gauge Full]",
-            "content": "[Have Change Switch Gauge Full]\n04070000 0333B924 D503201F\n04070000 0333B928 52800CA8\n04070000 049507A4 52800CAA\n\n"
-        },
-        {
-            "title": "[Have Swith Axe Maximum Potency]",
-            "content": "[Have Swith Axe Maximum Potency]\n04070000 0348A260 BD07C2C0\n04070000 0348A264 1400002C\n\n"
-        },
-        {
-            "title": "[Have Charge Gauge Crisis]",
-            "content": "[Have Charge Gauge Crisis]\n04070000 02981C7C 1E2E1000\n04070000 02981C84 1E203820\n04070000 02981C88 BD074900\n\n"
-        },
-        {
-            "title": "[Have Charge Phials Full]",
-            "content": "[Have Charge Phials Full]\n04070000 05D5A970 528000A9\n04070000 05D5A974 B9073AE9\n04070000 05D5A978 D65F03C0\n04070000 0274D0B8 94D8362E\n\n"
-        },
-        {
-            "title": "[Have Charge Blade Shield Enhance]",
-            "content": "[Have Charge Blade Shield Enhance]\n04070000 033303CC BD403522\n04070000 033303D0 52A8C409\n04070000 033303D4 B9000109\n04070000 033303D8 BD400100\n\n"
-        },
-        {
-            "title": "[Have Charge Blade Sword Enhance]",
-            "content": "[Have Charge Blade Sword Enhance]\n04070000 0333043C BD403522\n04070000 03330440 52A8C409\n04070000 03330444 B9000109\n04070000 03330448 BD400100\n\n"
-        },
-        {
-            "title": "[Have Kinsect Gauge Full]",
-            "content": "[Have Kinsect Gauge Full]\n04070000 034CBB70 1E204020\n04070000 034CBC7C 1E204020\n\n"
-        },
-        {
-            "title": "[Have Inf Kinsect Extract Time]",
-            "content": "[Have Inf Kinsect Extract Time]\n04070000 03A9B7F8 D503201F\n04070000 03A9B868 D503201F\n04070000 03A9B8D8 D503201F\n\n"
-        },
-        {
-            "title": "[Have Bowgun no Reload]",
-            "content": "[Have Bowgun no Reload]\n04070000 03468E28 51000129\n\n"
-        },
-        {
-            "title": "[Have Wyvernblast Quick CD]",
-            "content": "[Have Wyvernblast Quick CD]\n04070000 02F0493C 1E204020\n"
-        },
-        {
-            "title": "[Have Special Ammo Quick CD]",
-            "content": "[Have Special Ammo Quick CD]\n04070000 02F04588 1E2703E0\n04070000 02F04878 1E2703E0\n\n"
-        },
-        {
-            "title": "[Have Inf Wyvernheart]",
-            "content": "[Have Inf Wyvernheart]\n04070000 0465EF58 71000129\n\n"
-        },
-        {
-            "title": "[Have Heavy Bowgun Quick Charge]",
-            "content": "[Have Heavy Bowgun Quick Charge]\n04070000 030F719C 528EEEE9\n04070000 030F71A0 1E220122\n\n"
-        },
-        {
-            "title": "[Have Inf Harvest]",
-            "content": "[Have Inf Harvest]\n04070000 03BAA7AC 1E2703E0\n04070000 03BABA54 1E2703E1\n\n"
-        },
-        {
-            "title": "[Have Mission Passing Time less than 3 Min]",
-            "content": "[Have Mission Passing Time less than 3 Min]\n04070000 05D5ABA8 00000003\n04070000 05D5ABAC 100087BA\n04070000 05D5AB70 10000014\n04070000 05D5AB74 B9403A94\n04070000 05D5AB78 4B140114\n04070000 05D5AB7C 52800793\n04070000 05D5AB80 1B137E94\n04070000 05D5AB84 1E220280\n04070000 05D5AB88 BD412422\n04070000 05D5AB8C 1E202040\n04070000 05D5AB90 5400008A\n04070000 05D5AB94 1B137D08\n04070000 05D5AB98 1E220100\n04070000 05D5AB9C BD012420\n04070000 05D5ABA0 91049028\n04070000 05D5ABA4 D65F03C0\n04070000 03EFF220 94796E54\n\n"
-        },
-        {
-            "title": "[Have Mission Passing Time less than 3 Min Disable]",
-            "content": "[Have Mission Passing Time less than 3 Min Disable]\n04070000 03EFF220 91049028\n\n"
-        },
-        {
-            "title": "[Have Quick Destroy Monster Parts]",
-            "content": "[Have Quick Destroy Monster Parts]\n04070000 05D5ABD0 4AED5BE2\n04070000 05D5ABD4 1E0089CA\n04070000 05D5ABB0 A93E1FE6\n04070000 05D5ABB4 8B180908\n04070000 05D5ABB8 B4000098\n04070000 05D5ABBC 10000006\n04070000 05D5ABC0 B94014C6\n04070000 05D5ABC4 B9002106\n04070000 05D5ABC8 A97E1FE6\n04070000 05D5ABCC D65F03C0\n04070000 02C35644 94C4955B\n\n"
-        },
-        {
-            "title": "[Have Quick Destroy Monster Parts Disable]",
-            "content": "[Have Quick Destroy Monster Parts Disable]\n04070000 02C35644 8B180908\n"
-        },
-        {
-            "title": "[Have Monster HP 1 after Dec]",
-            "content": "[Have Monster HP 1 after Dec]\n04070000 05D5A940 1E283800\n04070000 05D5A944 35000054\n04070000 05D5A948 1E2E1000\n04070000 05D5A94C D65F03C0\n04070000 02C373A4 94C48D67\n\n"
-        },
-        {
-            "title": "[Have Monster HP 1 after Dec Disable]",
-            "content": "[Have Monster HP 1 after Dec Disable]\n04070000 02C373A4 1E283800\n"
-        },
-        {
-            "title": "[Have Affinity 100]",
-            "content": "[Have Affinity 100]\n04070000 02CEEB20 D503201F\n"
-        },
-        {
-            "title": "[Have Affinity 100 Disable]",
-            "content": "[Have Affinity 100 Disable]\n04070000 02CEEB20 5400006B\n"
-        },
-        {
-            "title": "[Have All Resistance 100]",
-            "content": "[Have All Resistance 100]\n04070000 02CEE62C 52800C94\n04070000 02CEE644 52800C94\n\n"
-        },
-        {
-            "title": "[Have 1st Carry Item Display Monster HP]",
-            "content": "[Have 1st Carry Item Display Monster HP]\n04070000 05D5A9FC 1000904D\n04070000 05D5A9C0 D003E260\n04070000 05D5A9C4 1E380008\n04070000 05D5A9C8 35000054\n04070000 05D5A9CC B90FF808\n04070000 05D5A9D0 BD001320\n04070000 05D5A9D4 D65F03C0\n04070000 02C373BC 94C48D81\n04070000 05D5A9E0 B9403320\n04070000 05D5A9E4 35000080\n04070000 05D5A9E8 D003E260\n04070000 05D5A9EC B94FF800\n04070000 05D5A9F0 B9000020\n04070000 05D5A9F4 AA1303E0\n04070000 05D5A9F8 D65F03C0\n04070000 03DE2BB8 947DDF8A\n\n"
-        },
-        {
-            "title": "[Have 1st Carry Item Display Monster HP Disable]",
-            "content": "[Have 1st Carry Item Display Monster HP Disable]\n04070000 02C373BC BD001320\n04070000 03DE2BB8 AA1303E0\n\n"
-        },
-        {
-            "title": "[Have Display BOSS Info]",
-            "content": "[Have Display BOSS Info]\n04070000 05D5AA50 B940A688\n04070000 05D5AA54 D003E269\n04070000 05D5AA58 11000500\n04070000 05D5AA5C B90FF920\n04070000 05D5AA60 D65F03C0\n04070000 05D5AA64 1000904D\n04070000 047AFA9C 9456ABED\n04070000 05D5AAC0 F003E261\n04070000 05D5AAC4 B85F8020\n04070000 05D5AAC8 34000180\n04070000 05D5AACC 51000400\n04070000 05D5AAD0 6B15001F\n04070000 05D5AAD4 54000121\n04070000 05D5AAD8 BD402A80\n04070000 05D5AADC 52807D00\n04070000 05D5AAE0 1E220001\n04070000 05D5AAE4 1E210800\n04070000 05D5AAE8 1E380000\n04070000 05D5AAEC BD401101\n04070000 05D5AAF0 1E380022\n04070000 05D5AAF4 293E0820\n04070000 05D5AAF8 BD401A80\n04070000 05D5AAFC D65F03C0\n04070000 047B0628 9456A926\n04070000 05D5AA70 D003E260\n04070000 05D5AA74 B94FF802\n04070000 05D5AA78 34000102\n04070000 05D5AA7C B9403329\n04070000 05D5AA80 B94FF402\n04070000 05D5AA84 34000089\n04070000 05D5AA88 B94FF002\n04070000 05D5AA8C 7100053F\n04070000 05D5AA90 54000041\n04070000 05D5AA94 B9000022\n04070000 05D5AA98 AA1303E0\n04070000 05D5AA9C D65F03C0\n04070000 03DE2BB8 947DDFAE\n\n"
-        },
-        {
-            "title": "[Have Display BOSS Info Disable]",
-            "content": "[Have Display BOSS Info Disable]\n04070000 047AFA9C B940A688\n04070000 047B0628 BD401A80\n04070000 03DE2BB8 AA1303E0\n\n"
-        },
-        {
-            "title": "[Have Monster no Disappear after Death]",
-            "content": "[Have Monster no Disappear after Death]\n04070000 02E0D7BC 52800068\n\n"
-        },
-        {
-            "title": "[Have Monster no Disappear after Death Disable]",
-            "content": "[Have Monster no Disappear after Death Disable]\n04070000 02E0D7BC B9406E88\n\n"
-        },
-        {
-            "title": "[Have Monster Instant Disappear after Death]",
-            "content": "[Have Monster Instant Disappear after Death]\n04070000 02E0D830 52800035\n\n"
-        },
-        {
-            "title": "[Have Monster Instant Disappear after Death Disable]",
-            "content": "[Have Monster Instant Disappear after Death Disable]\n04070000 02E0D830 2A0003F5\n\n"
-        },
-        {
-            "title": "[Have Inf Return Village Time]",
-            "content": "[Have Inf Return Village Time]\n04070000 03EF8408 D503201F\n800000C0\n04070000 03EF8408 1E203800\n20000000\n\n"
-        },
-        {
-            "title": "[Have inf Return Village Time Disable]",
-            "content": "[Have inf Return Village Time Disable]\n04070000 03EF8408 1E213800\n\n"
-        },
-        {
-            "title": "[Have BOSS Part HP less than 1]",
-            "content": "[Have BOSS Part HP less than 1]\n04070000 05D5AAA0 F9401108\n04070000 05D5AAA4 1E2E1000\n04070000 05D5AAA8 BD401101\n04070000 05D5AAAC 1E202020\n04070000 05D5AAB0 5400004D\n04070000 05D5AAB4 BD001100\n04070000 05D5AAB8 D65F03C0\n04070000 03DA06A4 947EE8FF"
-        }
-    ],
     "1318DD201757A788": [
         {
-            "title": "[1P INVICIBLE ON]",
-            "content": "[1P INVICIBLE ON]\n04000000 0518C990 D65F03C0\n\n"
+            "content": "[1P INVICIBLE ON]\n04000000 0518C990 D65F03C0\n\n",
+            "title": "[1P INVICIBLE ON]"
         },
         {
-            "title": "[1P INVICIBLE OFF]",
-            "content": "[1P INVICIBLE OFF]\n04000000 0518C990 6DBC23E9\n\n"
+            "content": "[1P INVICIBLE OFF]\n04000000 0518C990 6DBC23E9\n\n",
+            "title": "[1P INVICIBLE OFF]"
         },
         {
-            "title": "[1P INF HEALTH ON ]",
-            "content": "[1P INF HEALTH ON ]\n04000000 039BBB40 D65F03C0\n\n"
+            "content": "[1P INF HEALTH ON ]\n04000000 039BBB40 D65F03C0\n\n",
+            "title": "[1P INF HEALTH ON ]"
         },
         {
-            "title": "[1P INF HEALTH OFF ]",
-            "content": "[1P INF HEALTH OFF ]\n04000000 039BBB40 6DBC23E9\n\n"
+            "content": "[1P INF HEALTH OFF ]\n04000000 039BBB40 6DBC23E9\n\n",
+            "title": "[1P INF HEALTH OFF ]"
         },
         {
-            "title": "[1P RUN SPEED NORMAL]",
-            "content": "[1P RUN SPEED NORMAL]\n04000000 05176024 1E2E1000\n\n"
+            "content": "[1P RUN SPEED NORMAL]\n04000000 05176024 1E2E1000\n\n",
+            "title": "[1P RUN SPEED NORMAL]"
         },
         {
-            "title": "[1P RUN SPEED X1.25]",
-            "content": "[1P RUN SPEED X1.25]\n04000000 05176024 1E2D1000\n\n"
+            "content": "[1P RUN SPEED X1.25]\n04000000 05176024 1E2D1000\n\n",
+            "title": "[1P RUN SPEED X1.25]"
         },
         {
-            "title": "[1P RUN SPEED X1.5]",
-            "content": "[1P RUN SPEED X1.5]\n04000000 05176024 1E2C1000\n\n"
+            "content": "[1P RUN SPEED X1.5]\n04000000 05176024 1E2C1000\n\n",
+            "title": "[1P RUN SPEED X1.5]"
         },
         {
-            "title": "[1P RUN SPEED X1.75]",
-            "content": "[1P RUN SPEED X1.75]\n04000000 05176024 1E2A1000\n\n"
+            "content": "[1P RUN SPEED X1.75]\n04000000 05176024 1E2A1000\n\n",
+            "title": "[1P RUN SPEED X1.75]"
         },
         {
-            "title": "[1P HIT RANGE NORMAL]",
-            "content": "[1P HIT RANGE NORMAL]\n04000000 05401980 1E2E1007\n\n"
+            "content": "[1P HIT RANGE NORMAL]\n04000000 05401980 1E2E1007\n\n",
+            "title": "[1P HIT RANGE NORMAL]"
         },
         {
-            "title": "[1P HIT RANGE 1.75]",
-            "content": "[1P HIT RANGE 1.75]\n04000000 05401980 1E2F9007\n\n"
+            "content": "[1P HIT RANGE 1.75]\n04000000 05401980 1E2F9007\n\n",
+            "title": "[1P HIT RANGE 1.75]"
         },
         {
-            "title": "[1P HIT RANGE 1.5]",
-            "content": "[1P HIT RANGE 1.5]\n04000000 05401980 1E2F1007\n\n"
+            "content": "[1P HIT RANGE 1.5]\n04000000 05401980 1E2F1007\n\n",
+            "title": "[1P HIT RANGE 1.5]"
         },
         {
-            "title": "[1P HIT RANGE 1.25]",
-            "content": "[1P HIT RANGE 1.25]\n04000000 05401980 1E2E9007\n"
-        }
-    ],
-    "69B97948A0CFFC01": [
-        {
-            "title": "[1P INVICIBLE]",
-            "content": "[1P INVICIBLE]\n04000000 0506BAF0 D65F03C0\n\n"
-        },
-        {
-            "title": "[1P INVICIBLE OFF]",
-            "content": "[1P INVICIBLE OFF]\n04000000 0506BAF0 6DBC23E9\n\n"
-        },
-        {
-            "title": "[1P INF HEALTH]",
-            "content": "[1P INF HEALTH]\n04000000 02C186A4 1E3E1000\n\n"
-        },
-        {
-            "title": "[1P HIT KILL]",
-            "content": "[1P HIT KILL]\n04000000 02C182B0 1E27F000\n\n"
-        },
-        {
-            "title": "[DOG SPEED NORMAL]",
-            "content": "[DOG SPEED NORMAL]\n04000000 02C182B0 1E2E1000\n\n"
-        },
-        {
-            "title": "[DOG SPEED X1.25]",
-            "content": "[DOG SPEED X1.25]\n04000000 02C182B0 1E2E9000\n\n"
-        },
-        {
-            "title": "[DOG SPEED X1.5]",
-            "content": "[DOG SPEED X1.5]\n04000000 02C182B0 1E2F1000\n\n"
-        },
-        {
-            "title": "[DOG SPEED X7.5]",
-            "content": "[DOG SPEED X7.5]\n04000000 02C182B0 1E2F9000\n\n"
-        },
-        {
-            "title": "[RUN SPEED NORMAL]",
-            "content": "[RUN SPEED NORMAL]\n04000000 05055184 1E2E1000\n\n"
-        },
-        {
-            "title": "[RUN SPEED 1.25]",
-            "content": "[RUN SPEED 1.25]\n04000000 05055184 1E2D1000\n\n"
-        },
-        {
-            "title": "[RUN SPEED 1.5]",
-            "content": "[RUN SPEED 1.5]\n04000000 05055184 1E2C1000\n\n"
-        },
-        {
-            "title": "[RUN SPEED 1.75]",
-            "content": "[RUN SPEED 1.75]\n04000000 05055184 1E2A1000"
-        }
-    ],
-    "2EEFBDB9786E1652": [
-        {
-            "title": "[Mini Jump MOD (Hold ZL+B)]",
-            "content": "[Mini Jump MOD (Hold ZL+B)]\n80000102\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000590\n640F0000 00000000 00001129\n20000000\n\n"
-        },
-        {
-            "title": "[Moonjump (press B)]",
-            "content": "[Moonjump (press B)]\n80000002\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000058\n780F0000 00000024\n640F0000 00000000 3E0D4400\n20000000\n\n"
-        },
-        {
-            "title": "[Ammo 25]",
-            "content": "[Ammo 25]\n580F0000 0D96AD70\n580F1000 00000070\n580F1000 00000030\n580F1000 00000028\n780F0000 00000020\n30000000 00000034\n640F1000 00000000 00000019\n31000000\n\n"
-        },
-        {
-            "title": "[HP and Stamina]",
-            "content": "[HP and Stamina]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000010\n680F1000 0000012C 0000012C\n680F1000 0000012C 0000012C\n680F0000 45FA0000 45FA0000\n\n"
-        },
-        {
-            "title": "[+ Field Pouch all qty 100]",
-            "content": "[+ Field Pouch all qty 100]\n580F0000 0D96BD30\n580F1000 00000548\n580F1000 00000010\n30000000 00000038\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000014\n640A0000 00000000 00000064\n780F0000 00000008\n31000000\n\n"
-        },
-        {
-            "title": "[(Hold L3) Game Speed x2]",
-            "content": "[(Hold L3) Game Speed x2]\n580F0000 0D8DA2C8\n780F0000 00000418\n640F0000 00000000 3F800000\n20000000\n80000010\n580F0000 0D8DA2C8\n780F0000 00000418\n640F0000 00000000 40000000\n20000000\n\n"
-        },
-        {
-            "title": "[(Hold L3) Game Speed x2 (Hold L) SlowMo]",
-            "content": "[(Hold L3) Game Speed x2 (Hold L) SlowMo]\n580F0000 0D8DA2C8\n780F0000 00000418\n640F0000 00000000 3F800000\n20000000\n80000010\n580F0000 0D8DA2C8\n780F0000 00000418\n640F0000 00000000 40000000\n20000000\n80000040\n580F0000 0D8DA2C8\n780F0000 00000418\n640F0000 00000000 3F000000\n20000000\n\n"
-        },
-        {
-            "title": "[Great Sword Charge Max]",
-            "content": "[Great Sword Charge Max]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000738\n640F0000 00000000 431A0000\n\n"
-        },
-        {
-            "title": "[Long Sword Spirit Gauge Max (Red)]",
-            "content": "[Long Sword Spirit Gauge Max (Red)]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000734\n640F0000 00000000 466A6000\n780F0000 00000004\n640F0000 00000000 42C80000\n780F0000 00000004\n610F0000 00000000 00000003\n\n"
-        },
-        {
-            "title": "[Dual Blades Demon Gauge Max]",
-            "content": "[Dual Blades Demon Gauge Max]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000738\n640F0000 00000000 42C80000\n\n"
-        },
-        {
-            "title": "[Gun Lance Shells Max]",
-            "content": "[Gun Lance Shells Max]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 0000052C\n610F0000 00000000 00000006\n\n"
-        },
-        {
-            "title": "[Switch Axe Gauge Max]",
-            "content": "[Switch Axe Gauge Max]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 000007B8\n610F0000 00000000 00000064\n\n"
-        },
-        {
-            "title": "[Switch Axe Overcharge]",
-            "content": "[Switch Axe Overcharge]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 000007C0\n640F0000 00000000 43160000\n780F0000 00000004\n640F0000 00000000 43960000\n780F0000 00000004\n640F0000 00000000 453B8000\n\n"
-        },
-        {
-            "title": "[Charge Blade Red Charged]",
-            "content": "[Charge Blade Red Charged]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000748\n640F0000 00000000 42380000\n\n"
-        },
-        {
-            "title": "[Charge Blade Phials Max]",
-            "content": "[Charge Blade Phials Max]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000738\n610F0000 00000000 00000005\n\n"
-        },
-        {
-            "title": "[Charge Blade Red Sword Never Expires]",
-            "content": "[Charge Blade Red Sword Never Expires]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 0000076C\n640F0000 00000000 461C4000\n\n"
-        },
-        {
-            "title": "[Charge Blade Red Shield Never Expires]",
-            "content": "[Charge Blade Red Shield Never Expires]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000768\n640F0000 00000000 461C4000\n\n"
-        },
-        {
-            "title": "[PLUS+DOWN Refill Sharpness (White)]",
-            "content": "[PLUS+DOWN Refill Sharpness (White)]\n80008400\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 000001E0\n610F0000 00000000 00000005\n780F0000 00000004\n620F0000 00000000 000001F4\n780F0000 00000004\n620F0000 00000000 000001F4\n20000000\n\n"
-        },
-        {
-            "title": "[Sharpness Bar Max (White)]",
-            "content": "[Sharpness Bar Max (White)]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 000001E0\n610F0000 00000000 00000005\n780F0000 00000004\n620F0000 00000000 000001F4\n780F0000 00000004\n620F0000 00000000 000001F4\n\n"
-        },
-        {
-            "title": "[Sharpness Bar Halved]",
-            "content": "[Sharpness Bar Halved]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 000001E4\n620F0000 00000000 000000FA\n780F0000 00000004\n620F0000 00000000 000001F4\n\n"
-        },
-        {
-            "title": "[Sharpness Bar Min]",
-            "content": "[Sharpness Bar Min]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 000001E4\n620F0000 00000000 00000001\n780F0000 00000004\n620F0000 00000000 000001F4\n\n"
-        },
-        {
-            "title": "[HP Always Regen]",
-            "content": "[HP Always Regen]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 0000001C\n620F0000 00000000 0000012C\n\n"
-        },
-        {
-            "title": "[HP Cap Max 300]",
-            "content": "[HP Cap Max 300]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000014\n620F0000 00000000 0000012C\n780F0000 00000004\n620F0000 00000000 0000012C\n\n"
-        },
-        {
-            "title": "[HP Max 300]",
-            "content": "[HP Max 300]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000010\n620F0000 00000000 0000012C\n\n"
-        },
-        {
-            "title": "[Max Stamina Cap 300]",
-            "content": "[Max Stamina Cap 300]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000024\n640F0000 00000000 460CA000\n\n"
-        },
-        {
-            "title": "[Max Stamina 300]",
-            "content": "[Max Stamina 300]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000020\n640F0000 00000000 460CA000\n\n"
-        },
-        {
-            "title": "[MINUS+PLUS Instant Quest Clear]",
-            "content": "[MINUS+PLUS Instant Quest Clear]\n80000C00\n580F0000 0D95CDC0\n780F0000 000000E8\n610F0000 00000000 00000003\n780F0000 00000004\n610F0000 00000000 00000001\n780F0000 00000078\n610F0000 00000000 00000003\n780F0000 00000004\n610F0000 00000000 00000008\n20000000\n\n"
-        },
-        {
-            "title": "[PLUS+UP Skip Quest Clear Countdown]",
-            "content": "[PLUS+UP Skip Quest Clear Countdown]\n80002400\n580F0000 0D95CDC0\n780F0000 0000016C\n640F0000 00000000 00000000\n20000000\n\n"
-        },
-        {
-            "title": "[9999 Sec. Quest Clear Countdown Cap, PLUS+UP To End]",
-            "content": "[9999 Sec. Quest Clear Countdown Cap, PLUS+UP To End]\n580F0000 0D95CDC0\n780F0000 00000134\n640F0000 00000000 461C3C00\n20000000\n80002400\n580F0000 0D95CDC0\n780F0000 0000016C\n640F0000 00000000 00000000\n20000000\n\n"
-        },
-        {
-            "title": "[MAX ATK (1300)]",
-            "content": "[MAX ATK (1300)]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000074\n640F0000 00000000 0001869F\n\n"
-        },
-        {
-            "title": "[MAX DEF (2000)]",
-            "content": "[MAX DEF (2000)]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000078\n640F0000 00000000 0001869F\n\n"
-        },
-        {
-            "title": "[1p inf heath]",
-            "content": "[1p inf heath]\n04000000 04751F54 1E3E1000\n\n"
-        },
-        {
-            "title": "[1p invicible]",
-            "content": "[1p invicible]\n04000000 05097E60 D65F03C0\n\n"
-        },
-        {
-            "title": "[1p invicible off]",
-            "content": "[1p invicible off]\n04000000 05097E60 6DBC23E9\n\n"
-        },
-        {
-            "title": "[1p inf heath]",
-            "content": "[1p inf heath]\n04000000 04751F54 1E3E1000\n\n"
-        },
-        {
-            "title": "[1p hit kill]",
-            "content": "[1p hit kill]\n04000000 04751B28 1E27F000\n\n"
-        },
-        {
-            "title": "[1p invicible]",
-            "content": "[1p invicible]\n04000000 05097E60 D65F03C0\n\n"
-        },
-        {
-            "title": "[1p invicible off]",
-            "content": "[1p invicible off]\n04000000 05097E60 6DBC23E9\n\n"
-        },
-        {
-            "title": "[1p run speed normal]",
-            "content": "[1p run speed normal]\n04000000 05054394 1E2A1000\n\n"
-        },
-        {
-            "title": "[1p run speed 1.25x]",
-            "content": "[1p run speed 1.25x]\n04000000 05054394 1E2D1000\n\n"
-        },
-        {
-            "title": "[1p run speed 1.5x]",
-            "content": "[1p run speed 1.5x]\n04000000 05054394 1E2C1000\n\n"
-        },
-        {
-            "title": "[1p run speed 1.75x]",
-            "content": "[1p run speed 1.75x]\n04000000 05054394 1E2A1000\n\n"
-        },
-        {
-            "title": "[dog speed normal]",
-            "content": "[dog speed normal]\n04000000 03D96808 1E2E1000\n\n"
-        },
-        {
-            "title": "[dog speed 1.25]",
-            "content": "[dog speed 1.25]\n04000000 03D96808 1E2E9000\n\n"
-        },
-        {
-            "title": "[dog speed 1.5]",
-            "content": "[dog speed 1.5]\n04000000 03D96808 1E2F1000\n\n"
-        },
-        {
-            "title": "[dog speed 1.75]",
-            "content": "[dog speed 1.75]\n04000000 03D96808 1E2F9000"
-        }
-    ],
-    "23A75866BAA8B4D9": [
-        {
-            "title": "[1p invicible on ]",
-            "content": "[1p invicible on ]\n04000000 051A07F0 D65F03C0\n\n"
-        },
-        {
-            "title": "[1p invicible off ]",
-            "content": "[1p invicible off ]\n04000000 051A07F0 6DBC23E9\n\n"
-        },
-        {
-            "title": "[1p inf heath]",
-            "content": "[1p inf heath]\n04000000 0473BAC4 1E3E1000\n\n"
-        },
-        {
-            "title": "[1p hit kill]",
-            "content": "[1p hit kill]\n04000000 0473B760 1E27F000\n\n"
-        },
-        {
-            "title": "[1p run speed normal]",
-            "content": "[1p run speed normal]\n04000000 05189E84 1E2E1000\n\n"
-        },
-        {
-            "title": "[1p run speed 1.25x]",
-            "content": "[1p run speed 1.25x]\n04000000 05189E84 1E2D1000\n\n"
-        },
-        {
-            "title": "[1p run speed 1.5x]",
-            "content": "[1p run speed 1.5x]\n04000000 05189E84 1E2C1000\n\n"
-        },
-        {
-            "title": "[1p run speed 1.75x]",
-            "content": "[1p run speed 1.75x]\n04000000 05189E84 1E2A1000\n\n\n"
-        },
-        {
-            "title": "[dog speed normal]",
-            "content": "[dog speed normal]\n04000000 02CCF99C 1E2E1000\n\n"
-        },
-        {
-            "title": "[dog speed 1.25x]",
-            "content": "[dog speed 1.25x]\n04000000 02CCF99C 1E2E9000\n\n"
-        },
-        {
-            "title": "[dog speed 1.5x]",
-            "content": "[dog speed 1.5x]\n04000000 02CCF99C 1E2F1000\n\n"
-        },
-        {
-            "title": "[dog speed 1.75x]",
-            "content": "[dog speed 1.75x]\n04000000 02CCF99C 1E2F9000\n\n"
-        },
-        {
-            "title": "[dog speed 2x]",
-            "content": "[dog speed 2x]\n04000000 02CCF99C 1E201000\n\n"
-        },
-        {
-            "title": "[1p hitrange normal]",
-            "content": "[1p hitrange normal]\n04000000 054157E0 1E2E1007\n\n"
-        },
-        {
-            "title": "[1p hitrange 1.25x]",
-            "content": "[1p hitrange 1.25x]\n04000000 054157E0 1E2E9007\n\n"
-        },
-        {
-            "title": "[1p hitrange 1.5x]",
-            "content": "[1p hitrange 1.5x]\n04000000 054157E0 1E2F1007\n\n"
-        },
-        {
-            "title": "[1p hitrange 1.75x]",
-            "content": "[1p hitrange 1.75x]\n04000000 054157E0 1E2F9007"
+            "content": "[1P HIT RANGE 1.25]\n04000000 05401980 1E2E9007\n",
+            "title": "[1P HIT RANGE 1.25]"
         }
     ],
     "1FEFBA03B2BD13A9": [
         {
-            "title": "[\u6575\u653b\u6483\u529b 0]",
-            "content": "[\u6575\u653b\u6483\u529b 0]\n04010000 02C18724 1E2703E0\n"
+            "content": "[\u6575\u653b\u6483\u529b 0]\n04010000 02C18724 1E2703E0\n",
+            "title": "[\u6575\u653b\u6483\u529b 0]"
         },
         {
-            "title": "[\u6575\u653b\u6483\u529b OFF]",
-            "content": "[\u6575\u653b\u6483\u529b OFF]\n04010000 02C18724 1E2E1000\n\n"
+            "content": "[\u6575\u653b\u6483\u529b OFF]\n04010000 02C18724 1E2E1000\n\n",
+            "title": "[\u6575\u653b\u6483\u529b OFF]"
         },
         {
-            "title": "[\u30c0\u30e1\u30fc\u30b8x2\u500d]",
-            "content": "[\u30c0\u30e1\u30fc\u30b8x2\u500d]\n04010000 02C18330 1E201000\n"
+            "content": "[\u30c0\u30e1\u30fc\u30b8x2\u500d]\n04010000 02C18330 1E201000\n",
+            "title": "[\u30c0\u30e1\u30fc\u30b8x2\u500d]"
         },
         {
-            "title": "[\u30c0\u30e1\u30fc\u30b8x4\u500d]",
-            "content": "[\u30c0\u30e1\u30fc\u30b8x4\u500d]\n04010000 02C18330 1E221000\n"
+            "content": "[\u30c0\u30e1\u30fc\u30b8x4\u500d]\n04010000 02C18330 1E221000\n",
+            "title": "[\u30c0\u30e1\u30fc\u30b8x4\u500d]"
         },
         {
-            "title": "[\u30c0\u30e1\u30fc\u30b8x8\u500d]",
-            "content": "[\u30c0\u30e1\u30fc\u30b8x8\u500d]\n04010000 02C18330 1E241000\n"
+            "content": "[\u30c0\u30e1\u30fc\u30b8x8\u500d]\n04010000 02C18330 1E241000\n",
+            "title": "[\u30c0\u30e1\u30fc\u30b8x8\u500d]"
         },
         {
-            "title": "[\u30c0\u30e1\u30fc\u30b8x16\u500d]",
-            "content": "[\u30c0\u30e1\u30fc\u30b8x16\u500d]\n04010000 02C18330 1E261000\n"
+            "content": "[\u30c0\u30e1\u30fc\u30b8x16\u500d]\n04010000 02C18330 1E261000\n",
+            "title": "[\u30c0\u30e1\u30fc\u30b8x16\u500d]"
         },
         {
-            "title": "[\u30c0\u30e1\u30fc\u30b8x24\u500d]",
-            "content": "[\u30c0\u30e1\u30fc\u30b8x24\u500d]\n04010000 02C18330 1E271000\n"
+            "content": "[\u30c0\u30e1\u30fc\u30b8x24\u500d]\n04010000 02C18330 1E271000\n",
+            "title": "[\u30c0\u30e1\u30fc\u30b8x24\u500d]"
         },
         {
-            "title": "[\u30c0\u30e1\u30fc\u30b8x31\u500d]",
-            "content": "[\u30c0\u30e1\u30fc\u30b8x31\u500d]\n04010000 02C18330 1E27F000\n"
+            "content": "[\u30c0\u30e1\u30fc\u30b8x31\u500d]\n04010000 02C18330 1E27F000\n",
+            "title": "[\u30c0\u30e1\u30fc\u30b8x31\u500d]"
         },
         {
-            "title": "[\u30c0\u30e1\u30fc\u30b8\u500d OFF]",
-            "content": "[\u30c0\u30e1\u30fc\u30b8\u500d OFF]\n04010000 02C18330 1E2E1000\n\n"
+            "content": "[\u30c0\u30e1\u30fc\u30b8\u500d OFF]\n04010000 02C18330 1E2E1000\n\n",
+            "title": "[\u30c0\u30e1\u30fc\u30b8\u500d OFF]"
         },
         {
-            "title": "[\u5207\u308c\u5473\u843d\u3061\u306a\u3044]",
-            "content": "[\u5207\u308c\u5473\u843d\u3061\u306a\u3044]\n04010000 02436554 2A0903E8\n"
+            "content": "[\u5207\u308c\u5473\u843d\u3061\u306a\u3044]\n04010000 02436554 2A0903E8\n",
+            "title": "[\u5207\u308c\u5473\u843d\u3061\u306a\u3044]"
         },
         {
-            "title": "[\u5207\u308c\u5473\u843d\u3061\u306a\u3044 OFF]",
-            "content": "[\u5207\u308c\u5473\u843d\u3061\u306a\u3044 OFF]\n04010000 02436554 6B09011F\n\n"
+            "content": "[\u5207\u308c\u5473\u843d\u3061\u306a\u3044 OFF]\n04010000 02436554 6B09011F\n\n",
+            "title": "[\u5207\u308c\u5473\u843d\u3061\u306a\u3044 OFF]"
         },
         {
-            "title": "[\u30dd\u30fc\u30c1\u306e\u30a2\u30a4\u30c6\u30e0\u6e1b\u3089\u306a\u3044]",
-            "content": "[\u30dd\u30fc\u30c1\u306e\u30a2\u30a4\u30c6\u30e0\u6e1b\u3089\u306a\u3044]\n04010000 02E44E3C 14000014\n"
+            "content": "[\u30dd\u30fc\u30c1\u306e\u30a2\u30a4\u30c6\u30e0\u6e1b\u3089\u306a\u3044]\n04010000 02E44E3C 14000014\n",
+            "title": "[\u30dd\u30fc\u30c1\u306e\u30a2\u30a4\u30c6\u30e0\u6e1b\u3089\u306a\u3044]"
         },
         {
-            "title": "[\u30dd\u30fc\u30c1\u306e\u30a2\u30a4\u30c6\u30e0\u6e1b\u3089\u306a\u3044 OFF]",
-            "content": "[\u30dd\u30fc\u30c1\u306e\u30a2\u30a4\u30c6\u30e0\u6e1b\u3089\u306a\u3044 OFF]\n04010000 02E44E3C 3400029A\n\n"
+            "content": "[\u30dd\u30fc\u30c1\u306e\u30a2\u30a4\u30c6\u30e0\u6e1b\u3089\u306a\u3044 OFF]\n04010000 02E44E3C 3400029A\n\n",
+            "title": "[\u30dd\u30fc\u30c1\u306e\u30a2\u30a4\u30c6\u30e0\u6e1b\u3089\u306a\u3044 OFF]"
         },
         {
-            "title": "[\u30a2\u30a4\u30c6\u30e0\u30dc\u30c3\u30af\u30b9\u306b\u9810\u3051\u3066+500]",
-            "content": "[\u30a2\u30a4\u30c6\u30e0\u30dc\u30c3\u30af\u30b9\u306b\u9810\u3051\u3066+500]\n04010000 03D8AD60 52803E8A\n"
+            "content": "[\u30a2\u30a4\u30c6\u30e0\u30dc\u30c3\u30af\u30b9\u306b\u9810\u3051\u3066+500]\n04010000 03D8AD60 52803E8A\n",
+            "title": "[\u30a2\u30a4\u30c6\u30e0\u30dc\u30c3\u30af\u30b9\u306b\u9810\u3051\u3066+500]"
         },
         {
-            "title": "[\u30a2\u30a4\u30c6\u30e0\u30dc\u30c3\u30af\u30b9\u306b\u9810\u3051\u3066+5000]",
-            "content": "[\u30a2\u30a4\u30c6\u30e0\u30dc\u30c3\u30af\u30b9\u306b\u9810\u3051\u3066+5000]\n04010000 03D8AD60 5282710A\n"
+            "content": "[\u30a2\u30a4\u30c6\u30e0\u30dc\u30c3\u30af\u30b9\u306b\u9810\u3051\u3066+5000]\n04010000 03D8AD60 5282710A\n",
+            "title": "[\u30a2\u30a4\u30c6\u30e0\u30dc\u30c3\u30af\u30b9\u306b\u9810\u3051\u3066+5000]"
         },
         {
-            "title": "[\u30a2\u30a4\u30c6\u30e0\u30dc\u30c3\u30af\u30b9\u306b\u9810\u3051\u3066 OFF]",
-            "content": "[\u30a2\u30a4\u30c6\u30e0\u30dc\u30c3\u30af\u30b9\u306b\u9810\u3051\u3066 OFF]\n04010000 03D8AD60 1A8082CA"
+            "content": "[\u30a2\u30a4\u30c6\u30e0\u30dc\u30c3\u30af\u30b9\u306b\u9810\u3051\u3066 OFF]\n04010000 03D8AD60 1A8082CA",
+            "title": "[\u30a2\u30a4\u30c6\u30e0\u30dc\u30c3\u30af\u30b9\u306b\u9810\u3051\u3066 OFF]"
+        }
+    ],
+    "23A75866BAA8B4D9": [
+        {
+            "content": "[1p invicible on ]\n04000000 051A07F0 D65F03C0\n\n",
+            "title": "[1p invicible on ]"
+        },
+        {
+            "content": "[1p invicible off ]\n04000000 051A07F0 6DBC23E9\n\n",
+            "title": "[1p invicible off ]"
+        },
+        {
+            "content": "[1p inf heath]\n04000000 0473BAC4 1E3E1000\n\n",
+            "title": "[1p inf heath]"
+        },
+        {
+            "content": "[1p hit kill]\n04000000 0473B760 1E27F000\n\n",
+            "title": "[1p hit kill]"
+        },
+        {
+            "content": "[1p run speed normal]\n04000000 05189E84 1E2E1000\n\n",
+            "title": "[1p run speed normal]"
+        },
+        {
+            "content": "[1p run speed 1.25x]\n04000000 05189E84 1E2D1000\n\n",
+            "title": "[1p run speed 1.25x]"
+        },
+        {
+            "content": "[1p run speed 1.5x]\n04000000 05189E84 1E2C1000\n\n",
+            "title": "[1p run speed 1.5x]"
+        },
+        {
+            "content": "[1p run speed 1.75x]\n04000000 05189E84 1E2A1000\n\n\n",
+            "title": "[1p run speed 1.75x]"
+        },
+        {
+            "content": "[dog speed normal]\n04000000 02CCF99C 1E2E1000\n\n",
+            "title": "[dog speed normal]"
+        },
+        {
+            "content": "[dog speed 1.25x]\n04000000 02CCF99C 1E2E9000\n\n",
+            "title": "[dog speed 1.25x]"
+        },
+        {
+            "content": "[dog speed 1.5x]\n04000000 02CCF99C 1E2F1000\n\n",
+            "title": "[dog speed 1.5x]"
+        },
+        {
+            "content": "[dog speed 1.75x]\n04000000 02CCF99C 1E2F9000\n\n",
+            "title": "[dog speed 1.75x]"
+        },
+        {
+            "content": "[dog speed 2x]\n04000000 02CCF99C 1E201000\n\n",
+            "title": "[dog speed 2x]"
+        },
+        {
+            "content": "[1p hitrange normal]\n04000000 054157E0 1E2E1007\n\n",
+            "title": "[1p hitrange normal]"
+        },
+        {
+            "content": "[1p hitrange 1.25x]\n04000000 054157E0 1E2E9007\n\n",
+            "title": "[1p hitrange 1.25x]"
+        },
+        {
+            "content": "[1p hitrange 1.5x]\n04000000 054157E0 1E2F1007\n\n",
+            "title": "[1p hitrange 1.5x]"
+        },
+        {
+            "content": "[1p hitrange 1.75x]\n04000000 054157E0 1E2F9007",
+            "title": "[1p hitrange 1.75x]"
+        }
+    ],
+    "2EEFBDB9786E1652": [
+        {
+            "content": "[Mini Jump MOD (Hold ZL+B)]\n80000102\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000590\n640F0000 00000000 00001129\n20000000\n\n",
+            "title": "[Mini Jump MOD (Hold ZL+B)]"
+        },
+        {
+            "content": "[Moonjump (press B)]\n80000002\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000058\n780F0000 00000024\n640F0000 00000000 3E0D4400\n20000000\n\n",
+            "title": "[Moonjump (press B)]"
+        },
+        {
+            "content": "[Ammo 25]\n580F0000 0D96AD70\n580F1000 00000070\n580F1000 00000030\n580F1000 00000028\n780F0000 00000020\n30000000 00000034\n640F1000 00000000 00000019\n31000000\n\n",
+            "title": "[Ammo 25]"
+        },
+        {
+            "content": "[HP and Stamina]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000010\n680F1000 0000012C 0000012C\n680F1000 0000012C 0000012C\n680F0000 45FA0000 45FA0000\n\n",
+            "title": "[HP and Stamina]"
+        },
+        {
+            "content": "[+ Field Pouch all qty 100]\n580F0000 0D96BD30\n580F1000 00000548\n580F1000 00000010\n30000000 00000038\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000014\n640A0000 00000000 00000064\n780F0000 00000008\n31000000\n\n",
+            "title": "[+ Field Pouch all qty 100]"
+        },
+        {
+            "content": "[(Hold L3) Game Speed x2]\n580F0000 0D8DA2C8\n780F0000 00000418\n640F0000 00000000 3F800000\n20000000\n80000010\n580F0000 0D8DA2C8\n780F0000 00000418\n640F0000 00000000 40000000\n20000000\n\n",
+            "title": "[(Hold L3) Game Speed x2]"
+        },
+        {
+            "content": "[(Hold L3) Game Speed x2 (Hold L) SlowMo]\n580F0000 0D8DA2C8\n780F0000 00000418\n640F0000 00000000 3F800000\n20000000\n80000010\n580F0000 0D8DA2C8\n780F0000 00000418\n640F0000 00000000 40000000\n20000000\n80000040\n580F0000 0D8DA2C8\n780F0000 00000418\n640F0000 00000000 3F000000\n20000000\n\n",
+            "title": "[(Hold L3) Game Speed x2 (Hold L) SlowMo]"
+        },
+        {
+            "content": "[Great Sword Charge Max]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000738\n640F0000 00000000 431A0000\n\n",
+            "title": "[Great Sword Charge Max]"
+        },
+        {
+            "content": "[Long Sword Spirit Gauge Max (Red)]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000734\n640F0000 00000000 466A6000\n780F0000 00000004\n640F0000 00000000 42C80000\n780F0000 00000004\n610F0000 00000000 00000003\n\n",
+            "title": "[Long Sword Spirit Gauge Max (Red)]"
+        },
+        {
+            "content": "[Dual Blades Demon Gauge Max]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000738\n640F0000 00000000 42C80000\n\n",
+            "title": "[Dual Blades Demon Gauge Max]"
+        },
+        {
+            "content": "[Gun Lance Shells Max]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 0000052C\n610F0000 00000000 00000006\n\n",
+            "title": "[Gun Lance Shells Max]"
+        },
+        {
+            "content": "[Switch Axe Gauge Max]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 000007B8\n610F0000 00000000 00000064\n\n",
+            "title": "[Switch Axe Gauge Max]"
+        },
+        {
+            "content": "[Switch Axe Overcharge]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 000007C0\n640F0000 00000000 43160000\n780F0000 00000004\n640F0000 00000000 43960000\n780F0000 00000004\n640F0000 00000000 453B8000\n\n",
+            "title": "[Switch Axe Overcharge]"
+        },
+        {
+            "content": "[Charge Blade Red Charged]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000748\n640F0000 00000000 42380000\n\n",
+            "title": "[Charge Blade Red Charged]"
+        },
+        {
+            "content": "[Charge Blade Phials Max]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000738\n610F0000 00000000 00000005\n\n",
+            "title": "[Charge Blade Phials Max]"
+        },
+        {
+            "content": "[Charge Blade Red Sword Never Expires]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 0000076C\n640F0000 00000000 461C4000\n\n",
+            "title": "[Charge Blade Red Sword Never Expires]"
+        },
+        {
+            "content": "[Charge Blade Red Shield Never Expires]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000768\n640F0000 00000000 461C4000\n\n",
+            "title": "[Charge Blade Red Shield Never Expires]"
+        },
+        {
+            "content": "[PLUS+DOWN Refill Sharpness (White)]\n80008400\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 000001E0\n610F0000 00000000 00000005\n780F0000 00000004\n620F0000 00000000 000001F4\n780F0000 00000004\n620F0000 00000000 000001F4\n20000000\n\n",
+            "title": "[PLUS+DOWN Refill Sharpness (White)]"
+        },
+        {
+            "content": "[Sharpness Bar Max (White)]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 000001E0\n610F0000 00000000 00000005\n780F0000 00000004\n620F0000 00000000 000001F4\n780F0000 00000004\n620F0000 00000000 000001F4\n\n",
+            "title": "[Sharpness Bar Max (White)]"
+        },
+        {
+            "content": "[Sharpness Bar Halved]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 000001E4\n620F0000 00000000 000000FA\n780F0000 00000004\n620F0000 00000000 000001F4\n\n",
+            "title": "[Sharpness Bar Halved]"
+        },
+        {
+            "content": "[Sharpness Bar Min]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n780F0000 000001E4\n620F0000 00000000 00000001\n780F0000 00000004\n620F0000 00000000 000001F4\n\n",
+            "title": "[Sharpness Bar Min]"
+        },
+        {
+            "content": "[HP Always Regen]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 0000001C\n620F0000 00000000 0000012C\n\n",
+            "title": "[HP Always Regen]"
+        },
+        {
+            "content": "[HP Cap Max 300]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000014\n620F0000 00000000 0000012C\n780F0000 00000004\n620F0000 00000000 0000012C\n\n",
+            "title": "[HP Cap Max 300]"
+        },
+        {
+            "content": "[HP Max 300]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000010\n620F0000 00000000 0000012C\n\n",
+            "title": "[HP Max 300]"
+        },
+        {
+            "content": "[Max Stamina Cap 300]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000024\n640F0000 00000000 460CA000\n\n",
+            "title": "[Max Stamina Cap 300]"
+        },
+        {
+            "content": "[Max Stamina 300]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000020\n640F0000 00000000 460CA000\n\n",
+            "title": "[Max Stamina 300]"
+        },
+        {
+            "content": "[MINUS+PLUS Instant Quest Clear]\n80000C00\n580F0000 0D95CDC0\n780F0000 000000E8\n610F0000 00000000 00000003\n780F0000 00000004\n610F0000 00000000 00000001\n780F0000 00000078\n610F0000 00000000 00000003\n780F0000 00000004\n610F0000 00000000 00000008\n20000000\n\n",
+            "title": "[MINUS+PLUS Instant Quest Clear]"
+        },
+        {
+            "content": "[PLUS+UP Skip Quest Clear Countdown]\n80002400\n580F0000 0D95CDC0\n780F0000 0000016C\n640F0000 00000000 00000000\n20000000\n\n",
+            "title": "[PLUS+UP Skip Quest Clear Countdown]"
+        },
+        {
+            "content": "[9999 Sec. Quest Clear Countdown Cap, PLUS+UP To End]\n580F0000 0D95CDC0\n780F0000 00000134\n640F0000 00000000 461C3C00\n20000000\n80002400\n580F0000 0D95CDC0\n780F0000 0000016C\n640F0000 00000000 00000000\n20000000\n\n",
+            "title": "[9999 Sec. Quest Clear Countdown Cap, PLUS+UP To End]"
+        },
+        {
+            "content": "[MAX ATK (1300)]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000074\n640F0000 00000000 0001869F\n\n",
+            "title": "[MAX ATK (1300)]"
+        },
+        {
+            "content": "[MAX DEF (2000)]\n580F0000 0D95EBC0\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000078\n640F0000 00000000 0001869F\n\n",
+            "title": "[MAX DEF (2000)]"
+        },
+        {
+            "content": "[1p inf heath]\n04000000 04751F54 1E3E1000\n\n",
+            "title": "[1p inf heath]"
+        },
+        {
+            "content": "[1p invicible]\n04000000 05097E60 D65F03C0\n\n",
+            "title": "[1p invicible]"
+        },
+        {
+            "content": "[1p invicible off]\n04000000 05097E60 6DBC23E9\n\n",
+            "title": "[1p invicible off]"
+        },
+        {
+            "content": "[1p inf heath]\n04000000 04751F54 1E3E1000\n\n",
+            "title": "[1p inf heath]"
+        },
+        {
+            "content": "[1p hit kill]\n04000000 04751B28 1E27F000\n\n",
+            "title": "[1p hit kill]"
+        },
+        {
+            "content": "[1p invicible]\n04000000 05097E60 D65F03C0\n\n",
+            "title": "[1p invicible]"
+        },
+        {
+            "content": "[1p invicible off]\n04000000 05097E60 6DBC23E9\n\n",
+            "title": "[1p invicible off]"
+        },
+        {
+            "content": "[1p run speed normal]\n04000000 05054394 1E2A1000\n\n",
+            "title": "[1p run speed normal]"
+        },
+        {
+            "content": "[1p run speed 1.25x]\n04000000 05054394 1E2D1000\n\n",
+            "title": "[1p run speed 1.25x]"
+        },
+        {
+            "content": "[1p run speed 1.5x]\n04000000 05054394 1E2C1000\n\n",
+            "title": "[1p run speed 1.5x]"
+        },
+        {
+            "content": "[1p run speed 1.75x]\n04000000 05054394 1E2A1000\n\n",
+            "title": "[1p run speed 1.75x]"
+        },
+        {
+            "content": "[dog speed normal]\n04000000 03D96808 1E2E1000\n\n",
+            "title": "[dog speed normal]"
+        },
+        {
+            "content": "[dog speed 1.25]\n04000000 03D96808 1E2E9000\n\n",
+            "title": "[dog speed 1.25]"
+        },
+        {
+            "content": "[dog speed 1.5]\n04000000 03D96808 1E2F1000\n\n",
+            "title": "[dog speed 1.5]"
+        },
+        {
+            "content": "[dog speed 1.75]\n04000000 03D96808 1E2F9000",
+            "title": "[dog speed 1.75]"
+        }
+    ],
+    "46205B7BD869E2E4": [
+        {
+            "content": "[1p inf health]\n04000000 0325771C 1E3E1000\n\n",
+            "title": "[1p inf health]"
+        },
+        {
+            "content": "[1p hit kill]\n04000000 032573B8 1E27F000\n\n",
+            "title": "[1p hit kill]"
+        },
+        {
+            "content": "[hit range x1.25 does not affect graphics]\n04000000 053CFD50 1E2E9007\n\n",
+            "title": "[hit range x1.25 does not affect graphics]"
+        },
+        {
+            "content": "[hit range x1.5 does not affect graphics]\n04000000 053CFD50 1E2F1007\n\n",
+            "title": "[hit range x1.5 does not affect graphics]"
+        },
+        {
+            "content": "[hit range normal]\n04000000 053CFD50 1E2E1007\n\n",
+            "title": "[hit range normal]"
+        },
+        {
+            "content": "[1P RUN SPEED NORMAL]\n04000000 05145034 1E3E1000\n\n",
+            "title": "[1P RUN SPEED NORMAL]"
+        },
+        {
+            "content": "[1P RUN SPEED 1.75X ]\n04000000 05145034 1E2A1000\n\n",
+            "title": "[1P RUN SPEED 1.75X ]"
+        },
+        {
+            "content": "[1P RUN SPEED 1.5X ]\n04000000 05145034 1E2C1000\n\n",
+            "title": "[1P RUN SPEED 1.5X ]"
+        },
+        {
+            "content": "[1P RUN SPEED 1.25X ]\n04000000 05145034 1E2D1000\n\n",
+            "title": "[1P RUN SPEED 1.25X ]"
+        },
+        {
+            "content": "[SPEED DOG NORMAL]\n04000000 0435BA08 1E3E1000\n\n",
+            "title": "[SPEED DOG NORMAL]"
+        },
+        {
+            "content": "[SPEED DOG 2X]\n04000000 0435BA08 1E201000\n\n",
+            "title": "[SPEED DOG 2X]"
+        },
+        {
+            "content": "[SPEED DOG 3X]\n04000000 0435BA08 1E211000\n\n",
+            "title": "[SPEED DOG 3X]"
+        },
+        {
+            "content": "[1P INVICIBLE]\n04000000 0515B9A0 D65F03C0\n\n",
+            "title": "[1P INVICIBLE]"
+        },
+        {
+            "content": "[1P INVICIBLE OFF]\n04000000 0515B9A0 6DBC23E9\n\n",
+            "title": "[1P INVICIBLE OFF]"
+        },
+        {
+            "content": "[Instant Kill]\n04010000 05D5A8F8 4AED5BE2\n04010000 05D5A8E0 B5000098\n04010000 05D5A8E4 10000009\n04010000 05D5A8E8 B9401529\n04010000 05D5A8EC B9002109\n04010000 05D5A8F0 BD402108\n04010000 05D5A8F4 D65F03C0\n04010000 05D5A8FC 1E0089CA\n04010000 02C35648 94C494A6\n\n",
+            "title": "[Instant Kill]"
+        },
+        {
+            "content": "[Instant Kill OFF]\n04010000 02C35648 BD402108\n\n",
+            "title": "[Instant Kill OFF]"
+        },
+        {
+            "content": "[Easy Parts Breaker]\n04010000 05D5A8D0 4AED5BE2\n04010000 05D5A8D4 1E0089CA\n04010000 05D5A8B0 A93E1FE6\n04010000 05D5A8B4 8B180908\n04010000 05D5A8B8 B4000098\n04010000 05D5A8BC 10000006\n04010000 05D5A8C0 B94014C6\n04010000 05D5A8C4 B9002106\n04010000 05D5A8C8 A97E1FE6\n04010000 05D5A8CC D65F03C0\n04010000 02C35644 94C4949B\n\n",
+            "title": "[Easy Parts Breaker]"
+        },
+        {
+            "content": "[Easy Breaker OFF]\n04010000 02C35644 8B180908\n\n",
+            "title": "[Easy Breaker OFF]"
+        },
+        {
+            "content": "[Easy Capture 1HP - immune to kill]\n04010000 05D5A940 1E283800\n04010000 05D5A944 35000054\n04010000 05D5A948 1E2E1000\n04010000 05D5A94C D65F03C0\n04010000 02C373A4 94C48D67\n\n",
+            "title": "[Easy Capture 1HP - immune to kill]"
+        },
+        {
+            "content": "[Easy Capture OFF]\n04010000 02C373A4 1E283800\n\n",
+            "title": "[Easy Capture OFF]"
+        },
+        {
+            "content": "[Money 10,000,000]\n58020000 0DB446D0\n58021000 00000058\n78020000 00000018\n64020000 00000000 00989680\n\n",
+            "title": "[Money 10,000,000]"
+        },
+        {
+            "content": "[Kamura 10,000,000]\n58020000 0DB446D0\n58021000 00000060\n78020000 00000010\n64020000 00000000 00989680\n\n",
+            "title": "[Kamura 10,000,000]"
+        },
+        {
+            "content": "[Money Reset To 0]\n58020000 0DB446D0\n58021000 00000058\n78020000 00000018\n64020000 00000000 00000000\n\n",
+            "title": "[Money Reset To 0]"
+        },
+        {
+            "content": "[Kamura Reset To 0]\n58020000 0DB446D0\n58021000 00000060\n78020000 00000010\n64020000 00000000 00000000\n\n",
+            "title": "[Kamura Reset To 0]"
+        },
+        {
+            "content": "[Unlock 60 FPS Limit]\n580F0000 0DAFAFF0\n580F1000 000000A0\n780F0000 00012BC4\n610F0000 00000000 00000001\n20000000\n580F0000 0DAFAFF0\n780F0000 00000434\n640F0000 00000000 42700000\n20000000\n\n",
+            "title": "[Unlock 60 FPS Limit]"
+        },
+        {
+            "content": "[Default 30 FPS Limit]\n580F0000 0DAFAFF0\n580F1000 000000A0\n780F0000 00012BC4\n610F0000 00000000 00000002\n20000000\n580F0000 0DAFAFF0\n780F0000 00000434\n640F0000 00000000 41F00000\n20000000\n\n",
+            "title": "[Default 30 FPS Limit]"
+        },
+        {
+            "content": "[+700 if Deposited in storage Box]\n04010000 0411D874 52805E8A\n\n",
+            "title": "[+700 if Deposited in storage Box]"
+        },
+        {
+            "content": "[Have Invicible]\n04070000 02F23C44 1E2E1000\n\n",
+            "title": "[Have Invicible]"
+        },
+        {
+            "content": "[Have Invicible Disable]\n04070000 02F23C44 BD440280\n\n",
+            "title": "[Have Invicible Disable]"
+        },
+        {
+            "content": "[Have Inf HP]\n04070000 05D5AB20 1E202008\n04070000 05D5AB24 5400004A\n04070000 05D5AB28 1E2703E0\n04070000 05D5AB2C 4EA01C08\n04070000 05D5AB30 D65F03C0\n04070000 05D5AB34 1E0089CA\n04070000 02F06D2C 94B94F7D\n\n",
+            "title": "[Have Inf HP]"
+        },
+        {
+            "content": "[Have Buddy Inf HP]\n04070000 0435C508 52800008\n04070000 03C8C1F8 52800008\n\n",
+            "title": "[Have Buddy Inf HP]"
+        },
+        {
+            "content": "[Have Inf Stamina]\n04070000 02F07E0C BD402500\n\n",
+            "title": "[Have Inf Stamina]"
+        },
+        {
+            "content": "[Have Stamina Limit Max]\n04070000 02F0A078 BD434528\n\n",
+            "title": "[Have Stamina Limit Max]"
+        },
+        {
+            "content": "[Have Inf Sharpness]\n04070000 02F0A2C8 2A0903E8\n\n",
+            "title": "[Have Inf Sharpness]"
+        },
+        {
+            "content": "[Have Wirebug no CD]\n04070000 037B27E8 B900111F\n04070000 037B27EC BD401100\n04070000 037B27F0 14000016\n\n",
+            "title": "[Have Wirebug no CD]"
+        },
+        {
+            "content": "[Have Inf Use Carry Item]\n04070000 02E2B3B0 5280001A\n\n",
+            "title": "[Have Inf Use Carry Item]"
+        },
+        {
+            "content": "[Have Inf Use Carry Item Disable]\n04070000 02E2B3B0 1A80827A\n\n",
+            "title": "[Have Inf Use Carry Item Disable]"
+        },
+        {
+            "content": "[Have Inf Use Ammo]\n04070000 03A40C08 71000129\n\n",
+            "title": "[Have Inf Use Ammo]"
+        },
+        {
+            "content": "[Have Inf Use Coating]\n04070000 03BDF5C8 71000129\n\n",
+            "title": "[Have Inf Use Coating]"
+        },
+        {
+            "content": "[Have Inf Wyvern Riding Gauge]\n04070000 0326F8F8 BD40E100\n04070000 0326F8FC BD00D500\n04070000 0326F900 1E204001\n04070000 0326F904 D503201F\n04070000 0326FD38 1E2703E2\n\n",
+            "title": "[Have Inf Wyvern Riding Gauge]"
+        },
+        {
+            "content": "[HAve Inf Wyvern Riding Time]\n04070000 0326F964 1E222840\n\n",
+            "title": "[HAve Inf Wyvern Riding Time]"
+        },
+        {
+            "content": "[Have Instant Kill]\n04070000 05D5ABF8 4AED5BE2\n04070000 05D5ABE0 B5000098\n04070000 05D5ABE4 10000009\n04070000 05D5ABE8 B9401529\n04070000 05D5ABEC B9002109\n04070000 05D5ABF0 BD402108\n04070000 05D5ABF4 D65F03C0\n04070000 05D5ABFC 1E0089CA\n04070000 02C35648 94C49566\n\n",
+            "title": "[Have Instant Kill]"
+        },
+        {
+            "content": "[Have Instant Kill Disable]\n04070000 02C35648 BD402108\n\n",
+            "title": "[Have Instant Kill Disable]"
+        },
+        {
+            "content": "[Have Demon Bar]\n04070000 05D5A950 BD4722C0\n04070000 05D5A954 BD073AC0\n04070000 05D5A958 52800028\n04070000 05D5A95C B9078AC8\n04070000 05D5A960 BD409A60\n04070000 05D5A964 D65F03C0\n04070000 05D5A968 BD008BF6\n04070000 02933E64 94D09ABB\n\n",
+            "title": "[Have Demon Bar]"
+        },
+        {
+            "content": "[Have Spirit Max]\n04070000 040037A0 14000004\n04070000 04004BD8 D503201F\n04070000 04004C80 D503201F\n04070000 027E09F0 D503201F\n\n",
+            "title": "[Have Spirit Max]"
+        },
+        {
+            "content": "[Have Sword Red Status]\n04070000 05D5AA20 10000008\n04070000 05D5AA24 B9402516\n04070000 05D5AA28 B9073EF6\n04070000 05D5AA2C F943A2E9\n04070000 05D5AA30 93407EC8\n04070000 05D5AA34 8B080928\n04070000 05D5AA38 BD402100\n04070000 05D5AA3C BD0736E0\n04070000 05D5AA40 D65F03C0\n04070000 05D5AA44 00000003\n04070000 03308130 94A94A3C\n\n",
+            "title": "[Have Sword Red Status]"
+        },
+        {
+            "content": "[Have Great Sword Quick Charge]\n04070000 02B3E268 14000010\n\n",
+            "title": "[Have Great Sword Quick Charge]"
+        },
+        {
+            "content": "[Have Hammer Quick Charge]\n04070000 02F3546C 52A8BE69\n04070000 02F35474 1E220120\n",
+            "title": "[Have Hammer Quick Charge]"
+        },
+        {
+            "content": "[Have Always Magnificent Trio]\n04070000 02E62244 52800029\n04070000 02E6224C 391D06C9\n\n",
+            "title": "[Have Always Magnificent Trio]"
+        },
+        {
+            "content": "[Have Change Melody Gauge Max]\n04070000 02D0B0E4 17FFFF5D\n04070000 03334DF0 D503201F\n\n",
+            "title": "[Have Change Melody Gauge Max]"
+        },
+        {
+            "content": "[Have Have Gunlance no Reload]\n04070000 02D052FC D503201F\n\n",
+            "title": "[Have Have Gunlance no Reload]"
+        },
+        {
+            "content": "[Have Have Gunlance Inf Shell]\n04070000 02AC2C98 52800028\n04070000 02AC2C9C 391DA2C8\n\n",
+            "title": "[Have Have Gunlance Inf Shell]"
+        },
+        {
+            "content": "[Have Wyvern Fire Quick CD]\n04070000 02D06AEC D503201F\n\n",
+            "title": "[Have Wyvern Fire Quick CD]"
+        },
+        {
+            "content": "[Have Change Switch Gauge Full]\n04070000 0333B924 D503201F\n04070000 0333B928 52800CA8\n04070000 049507A4 52800CAA\n\n",
+            "title": "[Have Change Switch Gauge Full]"
+        },
+        {
+            "content": "[Have Swith Axe Maximum Potency]\n04070000 0348A260 BD07C2C0\n04070000 0348A264 1400002C\n\n",
+            "title": "[Have Swith Axe Maximum Potency]"
+        },
+        {
+            "content": "[Have Charge Gauge Crisis]\n04070000 02981C7C 1E2E1000\n04070000 02981C84 1E203820\n04070000 02981C88 BD074900\n\n",
+            "title": "[Have Charge Gauge Crisis]"
+        },
+        {
+            "content": "[Have Charge Phials Full]\n04070000 05D5A970 528000A9\n04070000 05D5A974 B9073AE9\n04070000 05D5A978 D65F03C0\n04070000 0274D0B8 94D8362E\n\n",
+            "title": "[Have Charge Phials Full]"
+        },
+        {
+            "content": "[Have Charge Blade Shield Enhance]\n04070000 033303CC BD403522\n04070000 033303D0 52A8C409\n04070000 033303D4 B9000109\n04070000 033303D8 BD400100\n\n",
+            "title": "[Have Charge Blade Shield Enhance]"
+        },
+        {
+            "content": "[Have Charge Blade Sword Enhance]\n04070000 0333043C BD403522\n04070000 03330440 52A8C409\n04070000 03330444 B9000109\n04070000 03330448 BD400100\n\n",
+            "title": "[Have Charge Blade Sword Enhance]"
+        },
+        {
+            "content": "[Have Kinsect Gauge Full]\n04070000 034CBB70 1E204020\n04070000 034CBC7C 1E204020\n\n",
+            "title": "[Have Kinsect Gauge Full]"
+        },
+        {
+            "content": "[Have Inf Kinsect Extract Time]\n04070000 03A9B7F8 D503201F\n04070000 03A9B868 D503201F\n04070000 03A9B8D8 D503201F\n\n",
+            "title": "[Have Inf Kinsect Extract Time]"
+        },
+        {
+            "content": "[Have Bowgun no Reload]\n04070000 03468E28 51000129\n\n",
+            "title": "[Have Bowgun no Reload]"
+        },
+        {
+            "content": "[Have Wyvernblast Quick CD]\n04070000 02F0493C 1E204020\n",
+            "title": "[Have Wyvernblast Quick CD]"
+        },
+        {
+            "content": "[Have Special Ammo Quick CD]\n04070000 02F04588 1E2703E0\n04070000 02F04878 1E2703E0\n\n",
+            "title": "[Have Special Ammo Quick CD]"
+        },
+        {
+            "content": "[Have Inf Wyvernheart]\n04070000 0465EF58 71000129\n\n",
+            "title": "[Have Inf Wyvernheart]"
+        },
+        {
+            "content": "[Have Heavy Bowgun Quick Charge]\n04070000 030F719C 528EEEE9\n04070000 030F71A0 1E220122\n\n",
+            "title": "[Have Heavy Bowgun Quick Charge]"
+        },
+        {
+            "content": "[Have Inf Harvest]\n04070000 03BAA7AC 1E2703E0\n04070000 03BABA54 1E2703E1\n\n",
+            "title": "[Have Inf Harvest]"
+        },
+        {
+            "content": "[Have Mission Passing Time less than 3 Min]\n04070000 05D5ABA8 00000003\n04070000 05D5ABAC 100087BA\n04070000 05D5AB70 10000014\n04070000 05D5AB74 B9403A94\n04070000 05D5AB78 4B140114\n04070000 05D5AB7C 52800793\n04070000 05D5AB80 1B137E94\n04070000 05D5AB84 1E220280\n04070000 05D5AB88 BD412422\n04070000 05D5AB8C 1E202040\n04070000 05D5AB90 5400008A\n04070000 05D5AB94 1B137D08\n04070000 05D5AB98 1E220100\n04070000 05D5AB9C BD012420\n04070000 05D5ABA0 91049028\n04070000 05D5ABA4 D65F03C0\n04070000 03EFF220 94796E54\n\n",
+            "title": "[Have Mission Passing Time less than 3 Min]"
+        },
+        {
+            "content": "[Have Mission Passing Time less than 3 Min Disable]\n04070000 03EFF220 91049028\n\n",
+            "title": "[Have Mission Passing Time less than 3 Min Disable]"
+        },
+        {
+            "content": "[Have Quick Destroy Monster Parts]\n04070000 05D5ABD0 4AED5BE2\n04070000 05D5ABD4 1E0089CA\n04070000 05D5ABB0 A93E1FE6\n04070000 05D5ABB4 8B180908\n04070000 05D5ABB8 B4000098\n04070000 05D5ABBC 10000006\n04070000 05D5ABC0 B94014C6\n04070000 05D5ABC4 B9002106\n04070000 05D5ABC8 A97E1FE6\n04070000 05D5ABCC D65F03C0\n04070000 02C35644 94C4955B\n\n",
+            "title": "[Have Quick Destroy Monster Parts]"
+        },
+        {
+            "content": "[Have Quick Destroy Monster Parts Disable]\n04070000 02C35644 8B180908\n",
+            "title": "[Have Quick Destroy Monster Parts Disable]"
+        },
+        {
+            "content": "[Have Monster HP 1 after Dec]\n04070000 05D5A940 1E283800\n04070000 05D5A944 35000054\n04070000 05D5A948 1E2E1000\n04070000 05D5A94C D65F03C0\n04070000 02C373A4 94C48D67\n\n",
+            "title": "[Have Monster HP 1 after Dec]"
+        },
+        {
+            "content": "[Have Monster HP 1 after Dec Disable]\n04070000 02C373A4 1E283800\n",
+            "title": "[Have Monster HP 1 after Dec Disable]"
+        },
+        {
+            "content": "[Have Affinity 100]\n04070000 02CEEB20 D503201F\n",
+            "title": "[Have Affinity 100]"
+        },
+        {
+            "content": "[Have Affinity 100 Disable]\n04070000 02CEEB20 5400006B\n",
+            "title": "[Have Affinity 100 Disable]"
+        },
+        {
+            "content": "[Have All Resistance 100]\n04070000 02CEE62C 52800C94\n04070000 02CEE644 52800C94\n\n",
+            "title": "[Have All Resistance 100]"
+        },
+        {
+            "content": "[Have 1st Carry Item Display Monster HP]\n04070000 05D5A9FC 1000904D\n04070000 05D5A9C0 D003E260\n04070000 05D5A9C4 1E380008\n04070000 05D5A9C8 35000054\n04070000 05D5A9CC B90FF808\n04070000 05D5A9D0 BD001320\n04070000 05D5A9D4 D65F03C0\n04070000 02C373BC 94C48D81\n04070000 05D5A9E0 B9403320\n04070000 05D5A9E4 35000080\n04070000 05D5A9E8 D003E260\n04070000 05D5A9EC B94FF800\n04070000 05D5A9F0 B9000020\n04070000 05D5A9F4 AA1303E0\n04070000 05D5A9F8 D65F03C0\n04070000 03DE2BB8 947DDF8A\n\n",
+            "title": "[Have 1st Carry Item Display Monster HP]"
+        },
+        {
+            "content": "[Have 1st Carry Item Display Monster HP Disable]\n04070000 02C373BC BD001320\n04070000 03DE2BB8 AA1303E0\n\n",
+            "title": "[Have 1st Carry Item Display Monster HP Disable]"
+        },
+        {
+            "content": "[Have Display BOSS Info]\n04070000 05D5AA50 B940A688\n04070000 05D5AA54 D003E269\n04070000 05D5AA58 11000500\n04070000 05D5AA5C B90FF920\n04070000 05D5AA60 D65F03C0\n04070000 05D5AA64 1000904D\n04070000 047AFA9C 9456ABED\n04070000 05D5AAC0 F003E261\n04070000 05D5AAC4 B85F8020\n04070000 05D5AAC8 34000180\n04070000 05D5AACC 51000400\n04070000 05D5AAD0 6B15001F\n04070000 05D5AAD4 54000121\n04070000 05D5AAD8 BD402A80\n04070000 05D5AADC 52807D00\n04070000 05D5AAE0 1E220001\n04070000 05D5AAE4 1E210800\n04070000 05D5AAE8 1E380000\n04070000 05D5AAEC BD401101\n04070000 05D5AAF0 1E380022\n04070000 05D5AAF4 293E0820\n04070000 05D5AAF8 BD401A80\n04070000 05D5AAFC D65F03C0\n04070000 047B0628 9456A926\n04070000 05D5AA70 D003E260\n04070000 05D5AA74 B94FF802\n04070000 05D5AA78 34000102\n04070000 05D5AA7C B9403329\n04070000 05D5AA80 B94FF402\n04070000 05D5AA84 34000089\n04070000 05D5AA88 B94FF002\n04070000 05D5AA8C 7100053F\n04070000 05D5AA90 54000041\n04070000 05D5AA94 B9000022\n04070000 05D5AA98 AA1303E0\n04070000 05D5AA9C D65F03C0\n04070000 03DE2BB8 947DDFAE\n\n",
+            "title": "[Have Display BOSS Info]"
+        },
+        {
+            "content": "[Have Display BOSS Info Disable]\n04070000 047AFA9C B940A688\n04070000 047B0628 BD401A80\n04070000 03DE2BB8 AA1303E0\n\n",
+            "title": "[Have Display BOSS Info Disable]"
+        },
+        {
+            "content": "[Have Monster no Disappear after Death]\n04070000 02E0D7BC 52800068\n\n",
+            "title": "[Have Monster no Disappear after Death]"
+        },
+        {
+            "content": "[Have Monster no Disappear after Death Disable]\n04070000 02E0D7BC B9406E88\n\n",
+            "title": "[Have Monster no Disappear after Death Disable]"
+        },
+        {
+            "content": "[Have Monster Instant Disappear after Death]\n04070000 02E0D830 52800035\n\n",
+            "title": "[Have Monster Instant Disappear after Death]"
+        },
+        {
+            "content": "[Have Monster Instant Disappear after Death Disable]\n04070000 02E0D830 2A0003F5\n\n",
+            "title": "[Have Monster Instant Disappear after Death Disable]"
+        },
+        {
+            "content": "[Have Inf Return Village Time]\n04070000 03EF8408 D503201F\n800000C0\n04070000 03EF8408 1E203800\n20000000\n\n",
+            "title": "[Have Inf Return Village Time]"
+        },
+        {
+            "content": "[Have inf Return Village Time Disable]\n04070000 03EF8408 1E213800\n\n",
+            "title": "[Have inf Return Village Time Disable]"
+        },
+        {
+            "content": "[Have BOSS Part HP less than 1]\n04070000 05D5AAA0 F9401108\n04070000 05D5AAA4 1E2E1000\n04070000 05D5AAA8 BD401101\n04070000 05D5AAAC 1E202020\n04070000 05D5AAB0 5400004D\n04070000 05D5AAB4 BD001100\n04070000 05D5AAB8 D65F03C0\n04070000 03DA06A4 947EE8FF",
+            "title": "[Have BOSS Part HP less than 1]"
         }
     ],
     "5CAC0323CCBC04BF": [
         {
-            "title": "[1p inf health]",
-            "content": "[1p inf health]\n04000000 03E71054 1E3E1000\n\n"
+            "content": "[1p inf health]\n04000000 03E71054 1E3E1000\n\n",
+            "title": "[1p inf health]"
         },
         {
-            "title": "[1p hit kill]",
-            "content": "[1p hit kill]\n04000000 03E70C54 1E27F000\n\n"
+            "content": "[1p hit kill]\n04000000 03E70C54 1E27F000\n\n",
+            "title": "[1p hit kill]"
         },
         {
-            "title": "[1p hit range31x]",
-            "content": "[1p hit range31x]\n04000000 043FE72C 1E27F000\n\n"
+            "content": "[1p hit range31x]\n04000000 043FE72C 1E27F000\n\n",
+            "title": "[1p hit range31x]"
         },
         {
-            "title": "[1p hit range2x]",
-            "content": "[1p hit range2x]\n04000000 043FE72C 1E201000\n\n"
+            "content": "[1p hit range2x]\n04000000 043FE72C 1E201000\n\n",
+            "title": "[1p hit range2x]"
         },
         {
-            "title": "[1p hit range3x]",
-            "content": "[1p hit range3x]\n04000000 043FE72C 1E211000\n\n"
+            "content": "[1p hit range3x]\n04000000 043FE72C 1E211000\n\n",
+            "title": "[1p hit range3x]"
         },
         {
-            "title": "[1p hit range normal]",
-            "content": "[1p hit range normal]\n04000000 043FE72C 1E2E1000\n\n"
+            "content": "[1p hit range normal]\n04000000 043FE72C 1E2E1000\n\n",
+            "title": "[1p hit range normal]"
         },
         {
-            "title": "[inf Wirebug]",
-            "content": "[inf Wirebug]\n04030000 03D201BC B900015F\n\n"
+            "content": "[inf Wirebug]\n04030000 03D201BC B900015F\n\n",
+            "title": "[inf Wirebug]"
         },
         {
-            "title": "[Inf Stamina]",
-            "content": "[Inf Stamina]\n040B0000 03D230F0 BD402500\n\n"
+            "content": "[Inf Stamina]\n040B0000 03D230F0 BD402500\n\n",
+            "title": "[Inf Stamina]"
         },
         {
-            "title": "[Ammo 25]",
-            "content": "[Ammo 25]\n580F0000 0E5A9F60\n580F1000 00000070\n580F1000 00000030\n580F1000 00000028\n780F0000 00000020\n30000000 00000034\n640F1000 00000000 00000019\n31000000\n\n"
+            "content": "[Ammo 25]\n580F0000 0E5A9F60\n580F1000 00000070\n580F1000 00000030\n580F1000 00000028\n780F0000 00000020\n30000000 00000034\n640F1000 00000000 00000019\n31000000\n\n",
+            "title": "[Ammo 25]"
         },
         {
-            "title": "[HP 1000]",
-            "content": "[HP 1000]\n580F0000 0E5A7AC8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000010\n680F1000 000003E8 000003E8\n680F1000 000003E8 000003E8\n\n"
+            "content": "[HP 1000]\n580F0000 0E5A7AC8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000010\n680F1000 000003E8 000003E8\n680F1000 000003E8 000003E8\n\n",
+            "title": "[HP 1000]"
         },
         {
-            "title": "[Extended time]",
-            "content": "[Extended time]\n580F0000 0E5A6DF8\n780F0000 00000110\n640F0000 00000000 45E31D81\n\n"
+            "content": "[Extended time]\n580F0000 0E5A6DF8\n780F0000 00000110\n640F0000 00000000 45E31D81\n\n",
+            "title": "[Extended time]"
         },
         {
-            "title": "[Pouch + Field Pouch all qty 100]",
-            "content": "[Pouch + Field Pouch all qty 100]\n580F0000 0E5A82C0\n580F1000 00000548\n580F1000 00000010\n30000000 00000038\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000014\n640A0000 00000000 00000064\n780F0000 00000008\n31000000\n\n"
+            "content": "[Pouch + Field Pouch all qty 100]\n580F0000 0E5A82C0\n580F1000 00000548\n580F1000 00000010\n30000000 00000038\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000014\n640A0000 00000000 00000064\n780F0000 00000008\n31000000\n\n",
+            "title": "[Pouch + Field Pouch all qty 100]"
         },
         {
-            "title": "[Itembox 200 all qty 500]",
-            "content": "[Itembox 200 all qty 500]\n580F0000 0E5AE848\n580F1000 00000160\n580F1000 00000010\n30000000 000000C8\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000014\n640A0000 00000000 000001F4\n780F0000 00000008\n31000000\n\n"
+            "content": "[Itembox 200 all qty 500]\n580F0000 0E5AE848\n580F1000 00000160\n580F1000 00000010\n30000000 000000C8\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000014\n640A0000 00000000 000001F4\n780F0000 00000008\n31000000\n\n",
+            "title": "[Itembox 200 all qty 500]"
         },
         {
-            "title": "[Itembox 300 all qty 500]",
-            "content": "[Itembox 300 all qty 500]\n580F0000 0E5AE848\n580F1000 00000160\n580F1000 00000010\n30000000 0000012C\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000014\n640A0000 00000000 000001F4\n780F0000 00000008\n31000000\n\n"
+            "content": "[Itembox 300 all qty 500]\n580F0000 0E5AE848\n580F1000 00000160\n580F1000 00000010\n30000000 0000012C\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000014\n640A0000 00000000 000001F4\n780F0000 00000008\n31000000\n\n",
+            "title": "[Itembox 300 all qty 500]"
         },
         {
-            "title": "[Itembox 400 all qty 500]",
-            "content": "[Itembox 400 all qty 500]\n580F0000 0E5AE848\n580F1000 00000160\n580F1000 00000010\n30000000 00000190\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000014\n640A0000 00000000 000001F4\n780F0000 00000008\n31000000\n"
+            "content": "[Itembox 400 all qty 500]\n580F0000 0E5AE848\n580F1000 00000160\n580F1000 00000010\n30000000 00000190\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000014\n640A0000 00000000 000001F4\n780F0000 00000008\n31000000\n",
+            "title": "[Itembox 400 all qty 500]"
+        }
+    ],
+    "69B97948A0CFFC01": [
+        {
+            "content": "[1P INVICIBLE]\n04000000 0506BAF0 D65F03C0\n\n",
+            "title": "[1P INVICIBLE]"
+        },
+        {
+            "content": "[1P INVICIBLE OFF]\n04000000 0506BAF0 6DBC23E9\n\n",
+            "title": "[1P INVICIBLE OFF]"
+        },
+        {
+            "content": "[1P INF HEALTH]\n04000000 02C186A4 1E3E1000\n\n",
+            "title": "[1P INF HEALTH]"
+        },
+        {
+            "content": "[1P HIT KILL]\n04000000 02C182B0 1E27F000\n\n",
+            "title": "[1P HIT KILL]"
+        },
+        {
+            "content": "[DOG SPEED NORMAL]\n04000000 02C182B0 1E2E1000\n\n",
+            "title": "[DOG SPEED NORMAL]"
+        },
+        {
+            "content": "[DOG SPEED X1.25]\n04000000 02C182B0 1E2E9000\n\n",
+            "title": "[DOG SPEED X1.25]"
+        },
+        {
+            "content": "[DOG SPEED X1.5]\n04000000 02C182B0 1E2F1000\n\n",
+            "title": "[DOG SPEED X1.5]"
+        },
+        {
+            "content": "[DOG SPEED X7.5]\n04000000 02C182B0 1E2F9000\n\n",
+            "title": "[DOG SPEED X7.5]"
+        },
+        {
+            "content": "[RUN SPEED NORMAL]\n04000000 05055184 1E2E1000\n\n",
+            "title": "[RUN SPEED NORMAL]"
+        },
+        {
+            "content": "[RUN SPEED 1.25]\n04000000 05055184 1E2D1000\n\n",
+            "title": "[RUN SPEED 1.25]"
+        },
+        {
+            "content": "[RUN SPEED 1.5]\n04000000 05055184 1E2C1000\n\n",
+            "title": "[RUN SPEED 1.5]"
+        },
+        {
+            "content": "[RUN SPEED 1.75]\n04000000 05055184 1E2A1000",
+            "title": "[RUN SPEED 1.75]"
+        }
+    ],
+    "6CDEC176EA1D12C5": [
+        {
+            "content": "[1p inf health]\n04000000 02C18724 1E3E1000\n\n",
+            "title": "[1p inf health]"
+        },
+        {
+            "content": "[1p hit kill]\n04000000 02C18330 1E27F000\n\n",
+            "title": "[1p hit kill]"
+        },
+        {
+            "content": "[1p hit normal]\n04000000 043FE72C 1E2E1000\n\n",
+            "title": "[1p hit normal]"
+        },
+        {
+            "content": "[1p hit range]\n04000000 043FE72C 1E27F000\n\n",
+            "title": "[1p hit range]"
+        },
+        {
+            "content": "[dog speed normal]\n04000000 031AD2B0 1E2E1000\n\n",
+            "title": "[dog speed normal]"
+        },
+        {
+            "content": "[dog speed 2x]\n04000000 031AD2B0 1E201000\n\n",
+            "title": "[dog speed 2x]"
+        },
+        {
+            "content": "[dog speed3x]\n04000000 031AD2B0 1E211000\n\n",
+            "title": "[dog speed3x]"
+        },
+        {
+            "content": "[hit range does not affect graphic weapons]\n04000000 05302940 1E2F9007\n\n",
+            "title": "[hit range does not affect graphic weapons]"
+        },
+        {
+            "content": "[inf stamina]\n04000000 0243407C 1E27F000\n\n",
+            "title": "[inf stamina]"
+        },
+        {
+            "content": "[Ammo 25]\n580F0000 0D68D7C0\n580F1000 00000070\n580F1000 00000030\n580F1000 00000028\n780F0000 00000020\n30000000 00000034\n640F1000 00000000 00000019\n31000000\n\n",
+            "title": "[Ammo 25]"
+        },
+        {
+            "content": "[HP and Stamina]\n580F0000 0D684A60\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000010\n680F1000 0000012C 0000012C\n680F1000 0000012C 0000012C\n680F0000 45fa0000 45fa0000\n\n",
+            "title": "[HP and Stamina]"
+        },
+        {
+            "content": "[Time]\n580F0000 0D682CB0\n780F0000 00000114\n640F0000 00000000 45E10000\n\n",
+            "title": "[Time]"
+        },
+        {
+            "content": "[+ Field Pouch all qty 100]\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n30000000 00000038\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000014\n640A0000 00000000 00000064\n780F0000 00000008\n31000000\n\n",
+            "title": "[+ Field Pouch all qty 100]"
+        },
+        {
+            "content": "[Pouch first item barrel bomb]\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 00000010\n680F0000 000001F4 04100002\n\n",
+            "title": "[Pouch first item barrel bomb]"
+        },
+        {
+            "content": "[L Create items in pouch from first item]\n80000040\n580B0000 0D68CA58\n580B1000 00000548\n580B1000 00000010\n580B1000 00000020\n580B1000 00000020\n580B1000 00000010\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n30000000 00000028\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000010\nA4BA1000\n640A0000 00000000 000001F4\n780F0000 00000008\n780B0000 00000001\n31000000\n20000000\n\n",
+            "title": "[L Create items in pouch from first item]"
+        },
+        {
+            "content": "[R Copy last slot item to first slot]\n80000080\n580B0000 0D68CA58\n580B1000 00000548\n580B1000 00000010\n580B1000 00000158\n580B1000 00000020\n580B1000 00000010\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 00000010\nA8BF0000\n20000000\n\n",
+            "title": "[R Copy last slot item to first slot]"
+        },
+        {
+            "content": "[Rstick clear pouch]\n80000020\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n30000000 00000028\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000010\n680A0000 00000000 04000000\n780F0000 00000008\n31000000\n20000000\n\n",
+            "title": "[Rstick clear pouch]"
+        },
+        {
+            "content": "[Item box item one qty 500]\n580F0000 0D687730\n580F1000 00000160\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 00000014\n640F0000 00000000 000001F4\n\n",
+            "title": "[Item box item one qty 500]"
+        },
+        {
+            "content": "[Pouch first item qty 500]\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 00000014\n640F0000 00000000 000001F4\n\n",
+            "title": "[Pouch first item qty 500]"
+        },
+        {
+            "content": "[infinite wirebug use]\n040B0000 02430E64 1E2703E2\n\n",
+            "title": "[infinite wirebug use]"
+        },
+        {
+            "content": "[Max HP & Stamina]\n580F0000 0D684A60\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000010\n680F1000 0000012C 0000012C\n680F1000 0000012C 0000012C\n680F0000 45fa0000 45fa0000\n\n",
+            "title": "[Max HP & Stamina]"
+        },
+        {
+            "content": "[\u221e Health]\n04000000 02C18724 1E3E1000\n\n",
+            "title": "[\u221e Health]"
+        },
+        {
+            "content": "[\u221e Stamina]\n04000000 0243407C 1E27F000\n\n",
+            "title": "[\u221e Stamina]"
+        },
+        {
+            "content": "[\u221e wirebug Hook]\n040B0000 02430E64 1E2703E2\n\n",
+            "title": "[\u221e wirebug Hook]"
+        },
+        {
+            "content": "[\u221e Field Pouch items & Ammo x100]\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n30000000 00000038\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000014\n640A0000 00000000 00000064\n780F0000 00000008\n31000000\n\n",
+            "title": "[\u221e Field Pouch items & Ammo x100]"
+        },
+        {
+            "content": "[25 Bullets in CrossBow]\n580F0000 0D68D7C0\n580F1000 00000070\n580F1000 00000030\n580F1000 00000028\n780F0000 00000020\n30000000 00000034\n640F1000 00000000 00000019\n31000000\n\n",
+            "title": "[25 Bullets in CrossBow]"
+        },
+        {
+            "content": "[1 Hit kill]\n04000000 02C18330 1E27F000\n\n",
+            "title": "[1 Hit kill]"
+        },
+        {
+            "content": "[1 Hit normal]\n04000000 043FE72C 1E2E1000\n\n",
+            "title": "[1 Hit normal]"
+        },
+        {
+            "content": "[Dog Speed 2x]\n04000000 031AD2B0 1E201000\n\n",
+            "title": "[Dog Speed 2x]"
+        },
+        {
+            "content": "[Dog Speed Normal]\n04000000 031AD2B0 1E2E1000\n\n",
+            "title": "[Dog Speed Normal]"
+        },
+        {
+            "content": "[inf Time]\n580F0000 0D682CB0\n780F0000 00000114\n640F0000 00000000 45E10000\n\n",
+            "title": "[inf Time]"
+        },
+        {
+            "content": "[1st ItemBox x500]\n580F0000 0D687730\n580F1000 00000160\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 00000014\n640F0000 00000000 000001F4\n\n",
+            "title": "[1st ItemBox x500]"
+        },
+        {
+            "content": "[Restock Pouch Items]\n80000020\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n30000000 00000028\n980AF0E0\n580A1000 00000020\n580A1000 00000020\n780A0000 00000010\n680A0000 00000000 04000000\n780F0000 00000008\n31000000\n20000000\n\n",
+            "title": "[Restock Pouch Items]"
+        },
+        {
+            "content": "[1st Pouch item x500]\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 00000014\n640F0000 00000000 000001F4\n\n",
+            "title": "[1st Pouch item x500]"
+        },
+        {
+            "content": "[Barrel Bomb #1 in Pouch]\n580F0000 0D68CA58\n580F1000 00000548\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 00000010\n680F0000 000001F4 04100002\n\n",
+            "title": "[Barrel Bomb #1 in Pouch]"
+        },
+        {
+            "content": "[hit range x1.5 does not affect graphics]\n04000000 05302940 1E2F1007\n\n",
+            "title": "[hit range x1.5 does not affect graphics]"
+        },
+        {
+            "content": "[hit range normal]\n04000000 05302940 1E2E1007\n\n",
+            "title": "[hit range normal]"
+        },
+        {
+            "content": "[Kamura Pts]\n04100000 1BAFC530 05F5E0FF\n04100000 1DEEE940 05F5E0FF\n\n",
+            "title": "[Kamura Pts]"
+        },
+        {
+            "content": "[Money]\n04100000 1BAFC528 05F5E0FF\n04100000 1DEF8718 05F5E0FF\n\n",
+            "title": "[Money]"
+        },
+        {
+            "content": "[1p run speed ]\n04000000 05054394 1E2A1000\n\n",
+            "title": "[1p run speed ]"
+        },
+        {
+            "content": "[1p run normal ]\n04000000 05054394 1E2E1000\n\n",
+            "title": "[1p run normal ]"
+        },
+        {
+            "content": "[AirWalk ZR+B]\n580F0000 0D684A60\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000268\n780F0000 00000050\n640F0000 00000000 00000002\n\n",
+            "title": "[AirWalk ZR+B]"
+        },
+        {
+            "content": "[Mini Jump MOD (Hold ZL)]\n80000100\n580F0000 0D684A60\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000590\n640F0000 00000000 00000009\n20000000\n\n",
+            "title": "[Mini Jump MOD (Hold ZL)]"
+        },
+        {
+            "content": "[Moonjump (press B)]\n80000002\n580F0000 0D684A60\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000058\n780F0000 00000024\n640F0000 00000000 3E000000\n20000000\n\n",
+            "title": "[Moonjump (press B)]"
+        },
+        {
+            "content": "[enemy atk 0]\n04010000 02C18724 1E2703E0\n",
+            "title": "[enemy atk 0]"
+        },
+        {
+            "content": "[enemy atk off]\n04010000 02C18724 1E2E1000\n\n",
+            "title": "[enemy atk off]"
+        },
+        {
+            "content": "[atk multiplier x2]\n04010000 02C18330 1E201000\n",
+            "title": "[atk multiplier x2]"
+        },
+        {
+            "content": "[atk multiplier x4]\n04010000 02C18330 1E221000\n",
+            "title": "[atk multiplier x4]"
+        },
+        {
+            "content": "[atk multiplier x8]\n04010000 02C18330 1E241000\n",
+            "title": "[atk multiplier x8]"
+        },
+        {
+            "content": "[atk multiplier x16]\n04010000 02C18330 1E261000\n",
+            "title": "[atk multiplier x16]"
+        },
+        {
+            "content": "[atk multiplier x24]\n04010000 02C18330 1E271000\n",
+            "title": "[atk multiplier x24]"
+        },
+        {
+            "content": "[atk multiplier x31]\n04010000 02C18330 1E27F000\n",
+            "title": "[atk multiplier x31]"
+        },
+        {
+            "content": "[atk multiplier off]\n04010000 02C18330 1E2E1000\n\n",
+            "title": "[atk multiplier off]"
+        },
+        {
+            "content": "[inf sharpness]\n04010000 02436554 2A0903E8\n",
+            "title": "[inf sharpness]"
+        },
+        {
+            "content": "[inf sharpness off]\n04010000 02436554 6B09011F\n\n",
+            "title": "[inf sharpness off]"
+        },
+        {
+            "content": "[inf item pouch]\n04010000 02E44E4C 14000014\n",
+            "title": "[inf item pouch]"
+        },
+        {
+            "content": "[inf item pouch off]\n04010000 02E44E4C 3400029A\n\n",
+            "title": "[inf item pouch off]"
+        },
+        {
+            "content": "[+500 if deposited in an storage box]\n04010000 03D8AD70 52803E8A\n",
+            "title": "[+500 if deposited in an storage box]"
+        },
+        {
+            "content": "[+5000 if deposited in an storage box]\n04010000 03D8AD70 5282710A\n",
+            "title": "[+5000 if deposited in an storage box]"
+        },
+        {
+            "content": "[deposited in an storage box off]\n04010000 03D8AD70 1A8082CA\n\n",
+            "title": "[deposited in an storage box off]"
+        },
+        {
+            "content": "[MAX ATK (1300)]\n580F0000 0D684A60\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000074\n640F0000 00000000 0001869F\n\n",
+            "title": "[MAX ATK (1300)]"
+        },
+        {
+            "content": "[MAX DEF (2000)]\n580F0000 0D684A60\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000118\n780F0000 00000078\n640F0000 00000000 0001869F\n\n",
+            "title": "[MAX DEF (2000)]"
+        },
+        {
+            "content": "[MINUS+PLUS Instant Quest Complete]\n80000C00\n580F0000 0D682CB0\n780F0000 000000D8\n610F0000 00000000 00000003\n780F0000 00000004\n610F0000 00000000 00000001\n780F0000 00000078\n610F0000 00000000 00000003\n780F0000 00000004\n610F0000 00000000 00000008\n20000000\n\n",
+            "title": "[MINUS+PLUS Instant Quest Complete]"
+        },
+        {
+            "content": "[PLUS+UP Skip Quest Clear Time]\n80002400\n580F0000 0D682CB0\n780F0000 0000015C\n640F0000 00000000 00000000\n20000000\n\n",
+            "title": "[PLUS+UP Skip Quest Clear Time]"
+        },
+        {
+            "content": "[Playtime 0]\n58000000 0D694C88\n58001000 00000070\n78000000 00000044\n64000000 00000000 00000000\n\n",
+            "title": "[Playtime 0]"
+        },
+        {
+            "content": "[Hunted/Captured All Max]\n580F0000 0D694C88\n580F1000 00000070\n300E0000 00000004\n580F1000 000000F0\n780F0000 00000020\n300E0000 00000064\n640F0000 00000000 0000270F\n780F0000 00000004\n310E0000 20000000\n580F0000 0D694C88\n580F1000 00000070\n300E0000 00000004\n580F1000 000000F8\n780F0000 00000020\n300E0000 00000064\n640F0000 00000000 0000270F\n780F0000 00000004\n310E0000 20000000\n\n",
+            "title": "[Hunted/Captured All Max]"
+        },
+        {
+            "content": "[GuildCard/Weapon Usage All MAX]\n580F0000 0D694C88\n580F1000 00000070\n580F1000 00000120\n780F0000 00000020\n300E0000 0000000E\n640F0000 00000000 0000270F\n780F0000 00000004\n310E0000 20000000\n\n",
+            "title": "[GuildCard/Weapon Usage All MAX]"
+        },
+        {
+            "content": "[GuildCard/Quest All]\n580F0000 0D694C88\n580F1000 00000070\n780F0000 00000080\n300E0000 00000005\n640F0000 00000000 0000270F\n780F0000 00000004\n310E0000 20000000\n\n",
+            "title": "[GuildCard/Quest All]"
+        },
+        {
+            "content": "[GuildCard/Slain Captured]\n580F0000 0D694C88\n580F1000 00000070\n780F0000 000000A4\n640F0000 00000000 0000270F\n780F0000 00000004\n640F0000 00000000 0000C34F\n\n\n\n\n\n",
+            "title": "[GuildCard/Slain Captured]"
+        }
+    ],
+    "B09F83B9EF28C00D": [
+        {
+            "content": "[Unlock 60 FPS Limit]\n580F0000 0DB706E8\n580F1000 000000A0 \n780F0000 00012BC4 \n610F0000 00000000 00000001 \n20000000 \n580F0000 0DB706E8 \n780F0000 00000434 \n640F0000 00000000 42700000 \n20000000 \n\n",
+            "title": "[Unlock 60 FPS Limit]"
+        },
+        {
+            "content": "[Default 30 FPS Limit]\n580F0000 0DB706E8 \n580F1000 000000A0 \n780F0000 00012BC4 \n610F0000 00000000 00000002 \n20000000 \n580F0000 0DB706E8 \n780F0000 00000434 \n640F0000 00000000 41F00000 \n20000000\n\n",
+            "title": "[Default 30 FPS Limit]"
+        },
+        {
+            "content": "[(Hold L3) Game Speed x2]\n580F0000 0DB706E8\n780F0000 00000418\n640F0000 00000000 3F800000\n20000000\n80000010\n580F0000 0DB706E8\n780F0000 00000418\n640F0000 00000000 40000000\n20000000\n\n",
+            "title": "[(Hold L3) Game Speed x2]"
+        },
+        {
+            "content": "[(Hold L3) Game Speed x2 (Hold L) SlowMo]\n580F0000 0DB706E8\n780F0000 00000418\n640F0000 00000000 3F800000\n20000000\n80000010\n580F0000 0DB706E8\n780F0000 00000418\n640F0000 00000000 40000000\n20000000\n80000040\n580F0000 0DB706E8\n780F0000 00000418\n640F0000 00000000 3F000000\n20000000\n\n",
+            "title": "[(Hold L3) Game Speed x2 (Hold L) SlowMo]"
+        },
+        {
+            "content": "[Great Sword Charge Max]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000748\n640F0000 00000000 431A0000\n\n",
+            "title": "[Great Sword Charge Max]"
+        },
+        {
+            "content": "[Long Sword Spirit Gauge Max (Red)]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000744\n640F0000 00000000 466A6000\n780F0000 00000004\n640F0000 00000000 42C80000\n780F0000 00000004\n610F0000 00000000 00000003\n\n",
+            "title": "[Long Sword Spirit Gauge Max (Red)]"
+        },
+        {
+            "content": "[Dual Blades Demon Gauge Max]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000748\n640F0000 00000000 42C80000\n\n",
+            "title": "[Dual Blades Demon Gauge Max]"
+        },
+        {
+            "content": "[Gun Lance Shells Max]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 0000053C\n610F0000 00000000 00000006\n\n",
+            "title": "[Gun Lance Shells Max]"
+        },
+        {
+            "content": "[Gun Lance Inf. Wyrmstake Cannon]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000778\n640F0000 00000000 00000001\n\n",
+            "title": "[Gun Lance Inf. Wyrmstake Cannon]"
+        },
+        {
+            "content": "[Gun Lance No Overheat]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000150\n640F0000 00000000 00000000\n\n",
+            "title": "[Gun Lance No Overheat]"
+        },
+        {
+            "content": "[Switch Axe Gauge Max]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 000007C8\n610F0000 00000000 00000064\n\n",
+            "title": "[Switch Axe Gauge Max]"
+        },
+        {
+            "content": "[Switch Axe Overcharge]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 000007D0\n640F0000 00000000 43160000\n780F0000 00000004\n640F0000 00000000 43960000\n780F0000 00000004\n640F0000 00000000 453B8000\n\n",
+            "title": "[Switch Axe Overcharge]"
+        },
+        {
+            "content": "[Charge Blade Red Charged]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000758\n640F0000 00000000 42380000\n\n",
+            "title": "[Charge Blade Red Charged]"
+        },
+        {
+            "content": "[Charge Blade Phials Max]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000748\n610F0000 00000000 00000005\n\n",
+            "title": "[Charge Blade Phials Max]"
+        },
+        {
+            "content": "[Charge Blade Red Sword Never Expires]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 0000077C\n640F0000 00000000 461C4000\n\n",
+            "title": "[Charge Blade Red Sword Never Expires]"
+        },
+        {
+            "content": "[Charge Blade Red Shield Never Expires]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000778\n640F0000 00000000 461C4000\n\n",
+            "title": "[Charge Blade Red Shield Never Expires]"
+        },
+        {
+            "content": "[BOW Max Charge]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000798\n640F0000 00000000 43960000\n\n",
+            "title": "[BOW Max Charge]"
+        },
+        {
+            "content": "[Kinsect Bar Max]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000108\n780F0000 00000164\n640F0000 00000000 42C80000\n\n",
+            "title": "[Kinsect Bar Max]"
+        },
+        {
+            "content": "[Kinsect Charged]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000108\n780F0000 00000156\n620F0000 00000000 000042C8\n\n",
+            "title": "[Kinsect Charged]"
+        },
+        {
+            "content": "[Kinsect Trio Extract]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000788\n640F0000 00000000 461C4000\n780F0000 00000004\n640F0000 00000000 461C4000\n780F0000 00000004\n640F0000 00000000 461C4000\n\n",
+            "title": "[Kinsect Trio Extract]"
+        },
+        {
+            "content": "[PLUS+DOWN Refill Sharpness (White)]\n80008400\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 000001E8\n610F0000 00000000 00000005\n780F0000 00000004\n620F0000 00000000 000001F4\n780F0000 00000004\n620F0000 00000000 000001F4\n20000000\n\n",
+            "title": "[PLUS+DOWN Refill Sharpness (White)]"
+        },
+        {
+            "content": "[Sharpness Bar Max (White)]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 000001E8\n610F0000 00000000 00000005\n780F0000 00000004\n620F0000 00000000 000001F4\n780F0000 00000004\n620F0000 00000000 000001F4\n\n",
+            "title": "[Sharpness Bar Max (White)]"
+        },
+        {
+            "content": "[Sharpness Bar Halved]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 000001EC\n620F0000 00000000 000000FA\n780F0000 00000004\n620F0000 00000000 000001F4\n\n",
+            "title": "[Sharpness Bar Halved]"
+        },
+        {
+            "content": "[Sharpness Bar Min]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n780F0000 000001EC\n620F0000 00000000 00000001\n780F0000 00000004\n620F0000 00000000 000001F4\n\n",
+            "title": "[Sharpness Bar Min]"
+        },
+        {
+            "content": "[HP Always Regen]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 0000001C\n620F0000 00000000 0000012C\n\n",
+            "title": "[HP Always Regen]"
+        },
+        {
+            "content": "[HP Cap Max 300]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000014\n620F0000 00000000 0000012C\n780F0000 00000004\n620F0000 00000000 0000012C\n\n",
+            "title": "[HP Cap Max 300]"
+        },
+        {
+            "content": "[HP Max 300]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000010\n620F0000 00000000 0000012C\n\n",
+            "title": "[HP Max 300]"
+        },
+        {
+            "content": "[Max Stamina Cap 300]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000024\n640F0000 00000000 460CA000\n\n",
+            "title": "[Max Stamina Cap 300]"
+        },
+        {
+            "content": "[Max Stamina 300]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000020\n640F0000 00000000 460CA000\n\n",
+            "title": "[Max Stamina 300]"
+        },
+        {
+            "content": "[MINUS+PLUS Instant Quest Clear]\n80000C00\n580F0000 0DBF76F8\n780F0000 000000E8\n610F0000 00000000 00000003\n780F0000 00000004\n610F0000 00000000 00000001\n780F0000 00000078\n610F0000 00000000 00000003\n780F0000 00000004\n610F0000 00000000 00000008\n20000000\n\n",
+            "title": "[MINUS+PLUS Instant Quest Clear]"
+        },
+        {
+            "content": "[PLUS+UP Skip Quest Clear Countdown]\n80002400\n580F0000 0DBF76F8\n780F0000 0000016C\n640F0000 00000000 00000000\n20000000\n\n",
+            "title": "[PLUS+UP Skip Quest Clear Countdown]"
+        },
+        {
+            "content": "[9999 Sec. Quest Clear Countdown Cap, PLUS+UP To End]\n580F0000 0DBF76F8\n780F0000 00000134\n640F0000 00000000 461C3C00\n20000000\n80002400\n580F0000 0DBF76F8\n780F0000 0000016C\n640F0000 00000000 00000000\n20000000\n\n",
+            "title": "[9999 Sec. Quest Clear Countdown Cap, PLUS+UP To End]"
+        },
+        {
+            "content": "[Inf. Mega Demondrug Effect]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000074\n640F0000 00000000 00000007\n\n",
+            "title": "[Inf. Mega Demondrug Effect]"
+        },
+        {
+            "content": "[Inf. Might Seed Effect]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 0000007C\n640F0000 00000000 0000000A\n780F0000 0000000C\n640F0000 00000000 461C4000\n\n",
+            "title": "[Inf. Might Seed Effect]"
+        },
+        {
+            "content": "[Inf. Mega Armorskin Effect]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000078\n640F0000 00000000 00000019\n\n",
+            "title": "[Inf. Mega Armorskin Effect]"
+        },
+        {
+            "content": "[Inf. Adamant Seed Effect]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000080\n640F0000 00000000 00000014\n780F0000 0000000C\n640F0000 00000000 461C4000\n\n",
+            "title": "[Inf. Adamant Seed Effect]"
+        },
+        {
+            "content": "[Inf. Dash Juice Effect]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000094\n640F0000 00000000 461C4000\n\n",
+            "title": "[Inf. Dash Juice Effect]"
+        },
+        {
+            "content": "[Inf. Immunizer Effect]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 000000E0\n640F0000 00000000 461C4000\n\n",
+            "title": "[Inf. Immunizer Effect]"
+        },
+        {
+            "content": "[Inf. Knockbacks Negated + Divine Protection Effect]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 000000B4\n640F0000 00000000 461C4000\n780F0000 00000004\n640F0000 00000000 00000032\n\n",
+            "title": "[Inf. Knockbacks Negated + Divine Protection Effect]"
+        },
+        {
+            "content": "[Inf. 100% Affinity Buff Effect]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 000000AC\n640F0000 00000000 461C4000\n780F0000 00000004\n640F0000 00000000 000000C8\n\n",
+            "title": "[Inf. 100% Affinity Buff Effect]"
+        },
+        {
+            "content": "[M.E. Self-Improvement]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000020\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Self-Improvement]"
+        },
+        {
+            "content": "[M.E. Attack Up]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000028\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Attack Up]"
+        },
+        {
+            "content": "[M.E. Defense Up]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000030\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Defense Up]"
+        },
+        {
+            "content": "[M.E. Affinity Up]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000038\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Affinity Up]"
+        },
+        {
+            "content": "[M.E. Elemental Attack Boost]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000040\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Elemental Attack Boost]"
+        },
+        {
+            "content": "[M.E. Attack And Defense Up]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000048\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Attack And Defense Up]"
+        },
+        {
+            "content": "[M.E. Attack And Affinity Up]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000050\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Attack And Affinity Up]"
+        },
+        {
+            "content": "[M.E. Knockbacks Negated]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000058\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Knockbacks Negated]"
+        },
+        {
+            "content": "[M.E. Earplugs (S)]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000060\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Earplugs (S)]"
+        },
+        {
+            "content": "[M.E. Earplugs (L)]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000068\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Earplugs (L)]"
+        },
+        {
+            "content": "[M.E. Tremors Negated]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000070\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Tremors Negated]"
+        },
+        {
+            "content": "[M.E. Wind Pressure Negated]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000078\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Wind Pressure Negated]"
+        },
+        {
+            "content": "[M.E. Stun Negated]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000080\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Stun Negated]"
+        },
+        {
+            "content": "[M.E. Blight Negated]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000088\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Blight Negated]"
+        },
+        {
+            "content": "[M.E. Divine Protection]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 00000090\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Divine Protection]"
+        },
+        {
+            "content": "[M.E. Health Regeneration]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 000000B0\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Health Regeneration]"
+        },
+        {
+            "content": "[M.E. Stamina Use Reduced]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 000000B8\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Stamina Use Reduced]"
+        },
+        {
+            "content": "[M.E. Stamina Recovery Up]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 000000C0\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Stamina Recovery Up]"
+        },
+        {
+            "content": "[M.E. Sharpness Loss Reduced]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 000000C8\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Sharpness Loss Reduced]"
+        },
+        {
+            "content": "[M.E. Environment Damage Negated]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 000000D0\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Environment Damage Negated]"
+        },
+        {
+            "content": "[M.E. Blowback Negated/Sonic Barrier]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 000000E0\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Blowback Negated/Sonic Barrier]"
+        },
+        {
+            "content": "[M.E. Infernal Melody]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000208\n580F1000 000000E8\n780F0000 00000010\n640F0000 00000000 42C80000\n\n",
+            "title": "[M.E. Infernal Melody]"
+        },
+        {
+            "content": "[MAX ATK (1300)]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000074\n640F0000 00000000 0001869F\n\n",
+            "title": "[MAX ATK (1300)]"
+        },
+        {
+            "content": "[MAX ATK (1300) OFF]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000074\n640F0000 00000000 00000000\n\n",
+            "title": "[MAX ATK (1300) OFF]"
+        },
+        {
+            "content": "[MAX DEF (2000)]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000078\n640F0000 00000000 0001869F\n\n",
+            "title": "[MAX DEF (2000)]"
+        },
+        {
+            "content": "[MAX DEF (2000) OFF]\n580F0000 0DBF95D8\n580F1000 00000028\n580F1000 000000D8\n580F1000 00000120\n780F0000 00000078\n640F0000 00000000 00000000\n\n",
+            "title": "[MAX DEF (2000) OFF]"
+        },
+        {
+            "content": "[0 Deaths In Quest]\n580F0000 0DBF76F8\n780F0000 00000104\n640F0000 00000000 00000000\n780F0000 00000014\n640F0000 00000000 00000000\n\n",
+            "title": "[0 Deaths In Quest]"
+        },
+        {
+            "content": "[1000000 Zenny Rewards From Quest]\n580F0000 0DBF76F8\n780F0000 00000100\n640F0000 00000000 000F4240\n780F0000 00000008\n640F0000 00000000 000F4240\n\n",
+            "title": "[1000000 Zenny Rewards From Quest]"
+        },
+        {
+            "content": "[1000000 Kamura Pts. Rewards From Quest]\n580F0000 0DBF76F8\n780F0000 00000110\n640F0000 00000000 000F4240\n\n",
+            "title": "[1000000 Kamura Pts. Rewards From Quest]"
+        },
+        {
+            "content": "[+1000 HR Pts. Rewards From Quest]\n580F0000 0DBF76F8\n780F0000 0000010C\n640F0000 00000000 000003E8\n\n",
+            "title": "[+1000 HR Pts. Rewards From Quest]"
+        },
+        {
+            "content": "[+10000 HR Pts. Rewards From Quest]\n580F0000 0DBF76F8\n780F0000 0000010C\n640F0000 00000000 00002710\n\n",
+            "title": "[+10000 HR Pts. Rewards From Quest]"
+        },
+        {
+            "content": "[+20000 HR Pts. Rewards From Quest]\n580F0000 0DBF76F8\n780F0000 0000010C\n640F0000 00000000 00004E20\n\n",
+            "title": "[+20000 HR Pts. Rewards From Quest]"
+        },
+        {
+            "content": "[+50000 HR Pts. Rewards From Quest]\n580F0000 0DBF76F8\n780F0000 0000010C\n640F0000 00000000 0000C350\n\n",
+            "title": "[+50000 HR Pts. Rewards From Quest]"
+        },
+        {
+            "content": "[+100000 HR Pts. Rewards From Quest]\n580F0000 0DBF76F8\n780F0000 0000010C\n640F0000 00000000 000186A0\n\n",
+            "title": "[+100000 HR Pts. Rewards From Quest]"
+        },
+        {
+            "content": "[Max HR Pts. Rewards From Quest]\n580F0000 0DBF76F8\n780F0000 0000010C\n640F0000 00000000 7FFFFFFF\n\n",
+            "title": "[Max HR Pts. Rewards From Quest]"
+        },
+        {
+            "content": "[Switch Skill #1 Toggle]\n80001100\n580F0000 0DBF86D0\n580F1000 00000020\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000214\n640F0000 00000000 00000000\n20000000\n80004100\n580F0000 0DBF86D0\n580F1000 00000020\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000214\n640F0000 00000000 00000001\n20000000\n\n",
+            "title": "[Switch Skill #1 Toggle]"
+        },
+        {
+            "content": "[Switch Skill #2 Toggle]\n80001080\n580F0000 0DBF86D0\n580F1000 00000020\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000218\n640F0000 00000000 00000000\n20000000\n80004080\n580F0000 0DBF86D0\n580F1000 00000020\n580F1000 00000028\n580F1000 000000D8\n780F0000 00000218\n640F0000 00000000 00000001\n20000000\n\n",
+            "title": "[Switch Skill #2 Toggle]"
+        },
+        {
+            "content": "[Switch Skill #3 Toggle]\n80001002\n580F0000 0DBF86D0\n580F1000 00000020\n580F1000 00000028\n580F1000 000000D8\n780F0000 0000021C\n640F0000 00000000 00000000\n20000000\n80004002\n580F0000 0DBF86D0\n580F1000 00000020\n580F1000 00000028\n580F1000 000000D8\n780F0000 0000021C\n640F0000 00000000 00000001\n20000000\n\n",
+            "title": "[Switch Skill #3 Toggle]"
+        },
+        {
+            "content": "[1p invicible on ]\n04000000 05196C50 D65F03C0\n\n",
+            "title": "[1p invicible on ]"
+        },
+        {
+            "content": "[1p invicible off ]\n04000000 05196C50 6DBC23E9\n\n",
+            "title": "[1p invicible off ]"
+        },
+        {
+            "content": "[1p inf heath]\n04000000 037DE978 1E3E1000\n\n",
+            "title": "[1p inf heath]"
+        },
+        {
+            "content": "[1p hit kill]\n04000000 037DE614 1E27F000\n\n",
+            "title": "[1p hit kill]"
+        },
+        {
+            "content": "[1p run speed normal]\n04000000 051802E4 1E2E1000\n\n",
+            "title": "[1p run speed normal]"
+        },
+        {
+            "content": "[1p run speed 1.25x]\n04000000 051802E4 1E2D1000\n\n",
+            "title": "[1p run speed 1.25x]"
+        },
+        {
+            "content": "[1p run speed 1.5x]\n04000000 051802E4 1E2C1000\n\n",
+            "title": "[1p run speed 1.5x]"
+        },
+        {
+            "content": "[1p run speed 1.75x]\n04000000 051802E4 1E2A1000\n\n\n",
+            "title": "[1p run speed 1.75x]"
+        },
+        {
+            "content": "[dog speed normal]\n04000000 03DE70F4 1E2E1000\n\n",
+            "title": "[dog speed normal]"
+        },
+        {
+            "content": "[dog speed 1.25x]\n04000000 03DE70F4 1E2E9000\n\n",
+            "title": "[dog speed 1.25x]"
+        },
+        {
+            "content": "[dog speed 1.5x]\n04000000 03DE70F4 1E2F1000\n\n",
+            "title": "[dog speed 1.5x]"
+        },
+        {
+            "content": "[dog speed 1.75x]\n04000000 03DE70F4 1E2F9000\n\n",
+            "title": "[dog speed 1.75x]"
+        },
+        {
+            "content": "[dog speed 2x]\n04000000 03DE70F4 1E201000\n\n",
+            "title": "[dog speed 2x]"
+        },
+        {
+            "content": "[1p hitrange normal]\n04000000 03DE70F4 1E2E1007\n\n",
+            "title": "[1p hitrange normal]"
+        },
+        {
+            "content": "[1p hitrange 1.25x]\n04000000 03DE70F4 1E2E9007\n\n",
+            "title": "[1p hitrange 1.25x]"
+        },
+        {
+            "content": "[1p hitrange 1.5x]\n04000000 03DE70F4 1E2F1007\n\n",
+            "title": "[1p hitrange 1.5x]"
+        },
+        {
+            "content": "[1p hitrange 1.75x]\n04000000 03DE70F4 1E2F9007\n\n",
+            "title": "[1p hitrange 1.75x]"
+        }
+    ],
+    "F7A7784E77202BE7": [
+        {
+            "content": "[Hp lock]\n58000000 0E5A7AC8\n58001000 00000028\n58001000 000000D8\n58001000 00000118\n78000000 00000010\n64000000 00000000 000000C8\n58000000 0E5A7AC8\n58001000 00000028\n58001000 000000D8\n58001000 00000118\n78000000 00000014\n64000000 00000000 000000C8\n",
+            "title": "[Hp lock]"
         }
     ]
 }

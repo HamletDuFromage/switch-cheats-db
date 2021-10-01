@@ -1,24 +1,24 @@
 {
     "5B2E5BD36B0A27BA": [
         {
-            "title": "[Infinite Lives]",
-            "content": "[Infinite Lives]\n011F0000 017F90A0 00000007\n\n"
+            "content": "[Infinite Lives]\n011F0000 017F90A0 00000007\n\n",
+            "title": "[Infinite Lives]"
         },
         {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000001\n011F0000 017F90DE 00000002\n20000000\n\n"
+            "content": "[Moon Jump]\n80000001\n011F0000 017F90DE 00000002\n20000000\n\n",
+            "title": "[Moon Jump]"
         },
         {
-            "title": "[Time Stop]",
-            "content": "[Time Stop]\n011F0000 017F90AA 00000064\n\n"
+            "content": "[Time Stop]\n011F0000 017F90AA 00000064\n\n",
+            "title": "[Time Stop]"
         },
         {
-            "title": "[Enemy on the ground does not appear (Hold ZL)]",
-            "content": "[Enemy on the ground does not appear (Hold ZL)]\n80000100\n041F0000 017F9170 00000000\n041F0000 017F9174 00000000\n041F0000 017F9178 00000000\n20000000\n\n"
+            "content": "[Enemy on the ground does not appear (Hold ZL)]\n80000100\n041F0000 017F9170 00000000\n041F0000 017F9174 00000000\n041F0000 017F9178 00000000\n20000000\n\n",
+            "title": "[Enemy on the ground does not appear (Hold ZL)]"
         },
         {
-            "title": "[Rapid Fire]",
-            "content": "[Rapid Fire]\n041F0000 017F9038 00000000"
+            "content": "[Rapid Fire]\n041F0000 017F9038 00000000",
+            "title": "[Rapid Fire]"
         }
     ]
 }

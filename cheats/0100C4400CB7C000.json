@@ -1,70 +1,70 @@
 {
-    "E4FFB041ED1E1B44": [
-        {
-            "title": "[#01# Player Infinite HP]",
-            "content": "[#01# Player Infinite HP]\n580F0000 008F06A0\n780F0000 00001CDA\n640f0000 00000000 2EE02EE0\n\n"
-        },
-        {
-            "title": "[#02# Player Infinite Super]",
-            "content": "[#02# Player Infinite Super]\n580F0000 008F06A0\n780F0000 00001CE0\n620f0000 00000000 00000BB8\n\n"
-        },
-        {
-            "title": "[#03# Player Infinite Support]",
-            "content": "[#03# Player Infinite Support]\n580F0000 008F06A0\n780F0000 00001CE4\n620f0000 00000000 00001770\n\n"
-        },
-        {
-            "title": "[#04# Player Infinite AP]",
-            "content": "[#04# Player Infinite AP]\n580F0000 008F06A0\n780F0000 00001CE8\n620f0000 00000000 00000064\n\n"
-        },
-        {
-            "title": "[#05# CPU 1-Hit Kill]",
-            "content": "[#05# CPU 1-Hit Kill]\n580F0000 008F06B0\n780F0000 00001CDA\n620f0000 00000000 00000001\n\n"
-        },
-        {
-            "title": "[#06# CPU No Super]",
-            "content": "[#06# CPU No Super]\n580F0000 008F06B0\n780F0000 00001CE0\n620f0000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[#07# CPU No Support]",
-            "content": "[#07# CPU No Support]\n580F0000 008F06B0\n780F0000 00001CE4\n620f0000 00000000 00000000\n\n"
-        },
-        {
-            "title": "[#08# CPU No AP]",
-            "content": "[#08# CPU No AP]\n580F0000 008F06B0\n780F0000 00001CE8\n620f0000 00000000 00000000"
-        }
-    ],
     "80B750F7AB6A6D9B": [
         {
-            "title": "[#01# Player Infinite HP]",
-            "content": "[#01# Player Infinite HP]\n580F0000 00957750\n780F0000 00001CDA\n640f0000 00000000 2EE02EE0\n\n"
+            "content": "[#01# Player Infinite HP]\n580F0000 00957750\n780F0000 00001CDA\n640f0000 00000000 2EE02EE0\n\n",
+            "title": "[#01# Player Infinite HP]"
         },
         {
-            "title": "[#02# Player Infinite Super]",
-            "content": "[#02# Player Infinite Super]\n580F0000 00957750\n780F0000 00001CE0\n620f0000 00000000 00000BB8\n\n"
+            "content": "[#02# Player Infinite Super]\n580F0000 00957750\n780F0000 00001CE0\n620f0000 00000000 00000BB8\n\n",
+            "title": "[#02# Player Infinite Super]"
         },
         {
-            "title": "[#03# Player Infinite Support]",
-            "content": "[#03# Player Infinite Support]\n580F0000 00957750\n780F0000 00001CE4\n620f0000 00000000 00001770\n\n"
+            "content": "[#03# Player Infinite Support]\n580F0000 00957750\n780F0000 00001CE4\n620f0000 00000000 00001770\n\n",
+            "title": "[#03# Player Infinite Support]"
         },
         {
-            "title": "[#04# Player Infinite AP]",
-            "content": "[#04# Player Infinite AP]\n580F0000 00957750\n780F0000 00001CE8\n620f0000 00000000 00000064\n\n"
+            "content": "[#04# Player Infinite AP]\n580F0000 00957750\n780F0000 00001CE8\n620f0000 00000000 00000064\n\n",
+            "title": "[#04# Player Infinite AP]"
         },
         {
-            "title": "[#05# CPU 1-Hit Kill]",
-            "content": "[#05# CPU 1-Hit Kill]\n580F0000 00957760\n780F0000 00001CDA\n620f0000 00000000 00000001\n\n"
+            "content": "[#05# CPU 1-Hit Kill]\n580F0000 00957760\n780F0000 00001CDA\n620f0000 00000000 00000001\n\n",
+            "title": "[#05# CPU 1-Hit Kill]"
         },
         {
-            "title": "[#06# CPU No Super]",
-            "content": "[#06# CPU No Super]\n580F0000 00957760\n780F0000 00001CE0\n620f0000 00000000 00000000\n\n"
+            "content": "[#06# CPU No Super]\n580F0000 00957760\n780F0000 00001CE0\n620f0000 00000000 00000000\n\n",
+            "title": "[#06# CPU No Super]"
         },
         {
-            "title": "[#07# CPU No Support]",
-            "content": "[#07# CPU No Support]\n580F0000 00957760\n780F0000 00001CE4\n620f0000 00000000 00000000\n\n"
+            "content": "[#07# CPU No Support]\n580F0000 00957760\n780F0000 00001CE4\n620f0000 00000000 00000000\n\n",
+            "title": "[#07# CPU No Support]"
         },
         {
-            "title": "[#08# CPU No AP]",
-            "content": "[#08# CPU No AP]\n580F0000 00957760\n780F0000 00001CE8\n620f0000 00000000 00000000"
+            "content": "[#08# CPU No AP]\n580F0000 00957760\n780F0000 00001CE8\n620f0000 00000000 00000000",
+            "title": "[#08# CPU No AP]"
+        }
+    ],
+    "E4FFB041ED1E1B44": [
+        {
+            "content": "[#01# Player Infinite HP]\n580F0000 008F06A0\n780F0000 00001CDA\n640f0000 00000000 2EE02EE0\n\n",
+            "title": "[#01# Player Infinite HP]"
+        },
+        {
+            "content": "[#02# Player Infinite Super]\n580F0000 008F06A0\n780F0000 00001CE0\n620f0000 00000000 00000BB8\n\n",
+            "title": "[#02# Player Infinite Super]"
+        },
+        {
+            "content": "[#03# Player Infinite Support]\n580F0000 008F06A0\n780F0000 00001CE4\n620f0000 00000000 00001770\n\n",
+            "title": "[#03# Player Infinite Support]"
+        },
+        {
+            "content": "[#04# Player Infinite AP]\n580F0000 008F06A0\n780F0000 00001CE8\n620f0000 00000000 00000064\n\n",
+            "title": "[#04# Player Infinite AP]"
+        },
+        {
+            "content": "[#05# CPU 1-Hit Kill]\n580F0000 008F06B0\n780F0000 00001CDA\n620f0000 00000000 00000001\n\n",
+            "title": "[#05# CPU 1-Hit Kill]"
+        },
+        {
+            "content": "[#06# CPU No Super]\n580F0000 008F06B0\n780F0000 00001CE0\n620f0000 00000000 00000000\n\n",
+            "title": "[#06# CPU No Super]"
+        },
+        {
+            "content": "[#07# CPU No Support]\n580F0000 008F06B0\n780F0000 00001CE4\n620f0000 00000000 00000000\n\n",
+            "title": "[#07# CPU No Support]"
+        },
+        {
+            "content": "[#08# CPU No AP]\n580F0000 008F06B0\n780F0000 00001CE8\n620f0000 00000000 00000000",
+            "title": "[#08# CPU No AP]"
         }
     ]
 }

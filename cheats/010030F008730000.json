@@ -1,24 +1,24 @@
 {
     "1C61F740AACAB8CD": [
         {
-            "title": "[P1 Infinite HP]",
-            "content": "[P1 Infinite HP]\n01000000 0125b458 000000C0\n\n"
+            "content": "[P1 Infinite HP]\n01000000 0125b458 000000C0\n\n",
+            "title": "[P1 Infinite HP]"
         },
         {
-            "title": "[P1 Infinite Super]",
-            "content": "[P1 Infinite Super]\n04000000 0125B48A 00013D3C\n\n"
+            "content": "[P1 Infinite Super]\n04000000 0125B48A 00013D3C\n\n",
+            "title": "[P1 Infinite Super]"
         },
         {
-            "title": "[P2 NO HP]",
-            "content": "[P2 NO HP]\n01000000 0125b558 00000000\n\n"
+            "content": "[P2 NO HP]\n01000000 0125b558 00000000\n\n",
+            "title": "[P2 NO HP]"
         },
         {
-            "title": "[P2 NO Super]",
-            "content": "[P2 NO Super]\n04000000 0125B588 00000000\n\n"
+            "content": "[P2 NO Super]\n04000000 0125B588 00000000\n\n",
+            "title": "[P2 NO Super]"
         },
         {
-            "title": "[HITANYWHERE BOTH]",
-            "content": "[HITANYWHERE BOTH]\n04100000 0087B0CABC 60004A40"
+            "content": "[HITANYWHERE BOTH]\n04100000 0087B0CABC 60004A40",
+            "title": "[HITANYWHERE BOTH]"
         }
     ]
 }

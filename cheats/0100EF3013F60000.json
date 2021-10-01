@@ -1,28 +1,28 @@
 {
     "A164C9DAB8988B11": [
         {
-            "title": "[HP 100/100]",
-            "content": "[HP 100/100]\n580F0000 02F5C6B8\n580F1000 000000B8\n580F1000 00000008\n780F0000 00000020\n640F0000 00000000 42C80000\n\n"
+            "content": "[HP 100/100]\n580F0000 02F5C6B8\n580F1000 000000B8\n580F1000 00000008\n780F0000 00000020\n640F0000 00000000 42C80000\n\n",
+            "title": "[HP 100/100]"
         },
         {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000002\n580F0000 0330D580\n580F1000 00000040\n580F1000 00000370\n580F1000 00000010\n580F1000 00000060\n780F0000 00000044\n640F0000 00000000 41498520\n20000000\n\n"
+            "content": "[Moon Jump]\n80000002\n580F0000 0330D580\n580F1000 00000040\n580F1000 00000370\n580F1000 00000010\n580F1000 00000060\n780F0000 00000044\n640F0000 00000000 41498520\n20000000\n\n",
+            "title": "[Moon Jump]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n040E0000 01790534 BD402508\n040E0000 01790538 BD002108\n040E0000 0179053C D65F03C0\n040E0000 0179065C 97FFFFB6\n\n"
+            "content": "[Invincible]\n040E0000 01790534 BD402508\n040E0000 01790538 BD002108\n040E0000 0179053C D65F03C0\n040E0000 0179065C 97FFFFB6\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Inf. Wine]",
-            "content": "[Inf. Wine]\n040E0000 0178E078 1CFFFF08\n\n"
+            "content": "[Inf. Wine]\n040E0000 0178E078 1CFFFF08\n\n",
+            "title": "[Inf. Wine]"
         },
         {
-            "title": "[Invincible - off]",
-            "content": "[Invincible - off]\n040E0000 0179065C BD002108\n\n"
+            "content": "[Invincible - off]\n040E0000 0179065C BD002108\n\n",
+            "title": "[Invincible - off]"
         },
         {
-            "title": "{Created by Eiffel2018}",
-            "content": "{Created by Eiffel2018}\n040E0000 0178E058 42C80000"
+            "content": "{Created by Eiffel2018}\n040E0000 0178E058 42C80000",
+            "title": "{Created by Eiffel2018}"
         }
     ]
 }

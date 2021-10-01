@@ -1,20 +1,20 @@
 {
     "38D978866DA4E740": [
         {
-            "title": "[1st gun ammo]",
-            "content": "[1st gun ammo]\n580F0000 051DACD0\n580F1000 00000000\n580F1000 00000898\n780F0000 00000908\n640F0000 00000000 000003E7\n\n"
+            "content": "[1st gun ammo]\n580F0000 051DACD0\n580F1000 00000000\n580F1000 00000898\n780F0000 00000908\n640F0000 00000000 000003E7\n\n",
+            "title": "[1st gun ammo]"
         },
         {
-            "title": "[2nd gun ammo]",
-            "content": "[2nd gun ammo]\n580F0000 051DACD0\n580F1000 00000000\n580F1000 00000898\n780F0000 00000904\n640F0000 00000000 000003E7\n\n"
+            "content": "[2nd gun ammo]\n580F0000 051DACD0\n580F1000 00000000\n580F1000 00000898\n780F0000 00000904\n640F0000 00000000 000003E7\n\n",
+            "title": "[2nd gun ammo]"
         },
         {
-            "title": "[inf stamina]",
-            "content": "[inf stamina]\n580F0000 051DACD0\n580F1000 00000000\n780F0000 00000A70\n640F0000 00000000 41880000\n\n"
+            "content": "[inf stamina]\n580F0000 051DACD0\n580F1000 00000000\n780F0000 00000A70\n640F0000 00000000 41880000\n\n",
+            "title": "[inf stamina]"
         },
         {
-            "title": "[Lstick inf scope ]",
-            "content": "[Lstick inf scope ]\n80000010\n580F0000 051DACD0\n580F1000 00000000\n780F0000 00000A68\n640F0000 00000000 40C092DC\n20000000"
+            "content": "[Lstick inf scope ]\n80000010\n580F0000 051DACD0\n580F1000 00000000\n780F0000 00000A68\n640F0000 00000000 40C092DC\n20000000",
+            "title": "[Lstick inf scope ]"
         }
     ]
 }

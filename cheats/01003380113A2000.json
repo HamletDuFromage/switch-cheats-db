@@ -1,20 +1,20 @@
 {
     "0D2088E1F2AF8DDC": [
         {
-            "title": "[Inf Lives]",
-            "content": "[Inf Lives]\n010F0000 0246DD38 0000000A\n\n"
+            "content": "[Inf Lives]\n010F0000 0246DD38 0000000A\n\n",
+            "title": "[Inf Lives]"
         },
         {
-            "title": "[Inf Bomb]",
-            "content": "[Inf Bomb]\n010F0000 0246DD3A 0000000A\n\n"
+            "content": "[Inf Bomb]\n010F0000 0246DD3A 0000000A\n\n",
+            "title": "[Inf Bomb]"
         },
         {
-            "title": "[Invincible]",
-            "content": "[Invincible]\n010F0000 0246DCCF 000000FF\n\n"
+            "content": "[Invincible]\n010F0000 0246DCCF 000000FF\n\n",
+            "title": "[Invincible]"
         },
         {
-            "title": "[Sub Weapon]",
-            "content": "[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+            "content": "[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005",
+            "title": "[Sub Weapon]"
         }
     ]
 }

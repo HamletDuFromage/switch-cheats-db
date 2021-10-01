@@ -1,16 +1,16 @@
 {
     "64B19FA91081374F": [
         {
-            "title": "[AUTO CUISIDES ENEMIES]",
-            "content": "[AUTO CUISIDES ENEMIES]\n04100000 00905EAF8C E320F000\n\n"
+            "content": "[AUTO CUISIDES ENEMIES]\n04100000 00905EAF8C E320F000\n\n",
+            "title": "[AUTO CUISIDES ENEMIES]"
         },
         {
-            "title": "[SPEED MODE PRESS PAD]",
-            "content": "[SPEED MODE PRESS PAD]\n04100000 00905C6990 E320F000\n\n"
+            "content": "[SPEED MODE PRESS PAD]\n04100000 00905C6990 E320F000\n\n",
+            "title": "[SPEED MODE PRESS PAD]"
         },
         {
-            "title": "[1p invincible]",
-            "content": "[1p invincible]\n04100000 00905E6DA4 E320F000\n04100000 00905CFA4C E320F000"
+            "content": "[1p invincible]\n04100000 00905E6DA4 E320F000\n04100000 00905CFA4C E320F000",
+            "title": "[1p invincible]"
         }
     ]
 }

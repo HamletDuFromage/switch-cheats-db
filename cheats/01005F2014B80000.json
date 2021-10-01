@@ -1,72 +1,72 @@
 {
     "0570324E7DC2D797": [
         {
-            "title": "[Moon Jump]",
-            "content": "[Moon Jump]\n80000002\n580C0000 01F0A960\n580C1000 000000B0\n580C1000 00000068\n580C1000 00000010\n580C1000 00000058\n580C1000 00000010\n580C1000 00000470\n780C0000 00000004\n640C0000 00000000 C0133333\n20000000\n\n"
+            "content": "[Moon Jump]\n80000002\n580C0000 01F0A960\n580C1000 000000B0\n580C1000 00000068\n580C1000 00000010\n580C1000 00000058\n580C1000 00000010\n580C1000 00000470\n780C0000 00000004\n640C0000 00000000 C0133333\n20000000\n\n",
+            "title": "[Moon Jump]"
         },
         {
-            "title": "[(ZR) Speed Up]",
-            "content": "[(ZR) Speed Up]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000940\n780C1000 0000017C\n640C0000 00000000 40019999\n80000200\n640C0000 00000000 4014CCCD\n20000000\n\n"
+            "content": "[(ZR) Speed Up]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000940\n780C1000 0000017C\n640C0000 00000000 40019999\n80000200\n640C0000 00000000 4014CCCD\n20000000\n\n",
+            "title": "[(ZR) Speed Up]"
         },
         {
-            "title": "[Inf. Health (AMS only)]",
-            "content": "[Inf. Health (AMS only)]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000940\n980DC100 00000000 00000024\n980EC100 00000000 00000034\n580E1000 00000000\nA4ED0000\n\n"
+            "content": "[Inf. Health (AMS only)]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000940\n980DC100 00000000 00000024\n980EC100 00000000 00000034\n580E1000 00000000\nA4ED0000\n\n",
+            "title": "[Inf. Health (AMS only)]"
         },
         {
-            "title": "[Inf. Air]",
-            "content": "[Inf. Air]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000940\n780C1000 0000014C\n640C0000 00000000 C0200000\n\n"
+            "content": "[Inf. Air]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000940\n780C1000 0000014C\n640C0000 00000000 C0200000\n\n",
+            "title": "[Inf. Air]"
         },
         {
-            "title": "[Inf. Healing Orbs (AMS only)]",
-            "content": "[Inf. Healing Orbs (AMS only)]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000640\n980DC100 00000000 00000064\n980EC100 00000000 00000074\n580E1000 00000000\nA4ED0000\n\n"
+            "content": "[Inf. Healing Orbs (AMS only)]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000640\n980DC100 00000000 00000064\n980EC100 00000000 00000074\n580E1000 00000000\nA4ED0000\n\n",
+            "title": "[Inf. Healing Orbs (AMS only)]"
         },
         {
-            "title": "[Inf. Crimson Power usage (AMS only)]",
-            "content": "[Inf. Crimson Power usage (AMS only)]\n80000300\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 000003D0\n980DC100 00000000 00000064\n980EC100 00000000 00000054\n580E1000 00000000\nA4ED0000\n20000000\n\n"
+            "content": "[Inf. Crimson Power usage (AMS only)]\n80000300\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 000003D0\n980DC100 00000000 00000064\n980EC100 00000000 00000054\n580E1000 00000000\nA4ED0000\n20000000\n\n",
+            "title": "[Inf. Crimson Power usage (AMS only)]"
         },
         {
-            "title": "[Always Crimson Power (AMS only)]",
-            "content": "[Always Crimson Power (AMS only)]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 000003D0\n980DC100 00000000 00000064\n980EC100 00000000 00000054\n580E1000 00000000\nA4ED0000\n\n"
+            "content": "[Always Crimson Power (AMS only)]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 000003D0\n980DC100 00000000 00000064\n980EC100 00000000 00000054\n580E1000 00000000\nA4ED0000\n\n",
+            "title": "[Always Crimson Power (AMS only)]"
         },
         {
-            "title": "[Invincible (On)]",
-            "content": "[Invincible (On)]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000940\n780C1000 00000B00\n680C0000 3FF00000 00000000\n\n"
+            "content": "[Invincible (On)]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000940\n780C1000 00000B00\n680C0000 3FF00000 00000000\n\n",
+            "title": "[Invincible (On)]"
         },
         {
-            "title": "[Invincible (Off)]",
-            "content": "[Invincible (Off)]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000940\n780C1000 00000B00\n680C0000 00000000 00000000\n\n"
+            "content": "[Invincible (Off)]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000940\n780C1000 00000B00\n680C0000 00000000 00000000\n\n",
+            "title": "[Invincible (Off)]"
         },
         {
-            "title": "[9999 Red Crystals]",
-            "content": "[9999 Red Crystals]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000960\n780C0000 00000040\n680C0000 40C38780 00000000\n\n"
+            "content": "[9999 Red Crystals]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000960\n780C0000 00000040\n680C0000 40C38780 00000000\n\n",
+            "title": "[9999 Red Crystals]"
         },
         {
-            "title": "[Max Red Crystals]",
-            "content": "[Max Red Crystals]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000960\n780C0000 00000040\n680C0000 412E8480 00000000\n\n"
+            "content": "[Max Red Crystals]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000960\n780C0000 00000040\n680C0000 412E8480 00000000\n\n",
+            "title": "[Max Red Crystals]"
         },
         {
-            "title": "[- SXOS Version -]",
-            "content": "[- SXOS Version -]\n00000000 00000000 00000000\n\n"
+            "content": "[- SXOS Version -]\n00000000 00000000 00000000\n\n",
+            "title": "[- SXOS Version -]"
         },
         {
-            "title": "[Inf. Health]",
-            "content": "[Inf. Health]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000940\n780C0000 00000024\n640C0000 00000000 40200000\n\n"
+            "content": "[Inf. Health]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000940\n780C0000 00000024\n640C0000 00000000 40200000\n\n",
+            "title": "[Inf. Health]"
         },
         {
-            "title": "[Inf. Healing Orbs]",
-            "content": "[Inf. Healing Orbs]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000640\n780C0000 00000064\n640C0000 00000000 40140000\n\n"
+            "content": "[Inf. Healing Orbs]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 00000640\n780C0000 00000064\n640C0000 00000000 40140000\n\n",
+            "title": "[Inf. Healing Orbs]"
         },
         {
-            "title": "[Inf. Crimson Power usage]",
-            "content": "[Inf. Crimson Power usage]\n80000300\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 000003D0\n780C0000 00000064\n640C0000 00000000 40590000\n20000000\n\n"
+            "content": "[Inf. Crimson Power usage]\n80000300\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 000003D0\n780C0000 00000064\n640C0000 00000000 40590000\n20000000\n\n",
+            "title": "[Inf. Crimson Power usage]"
         },
         {
-            "title": "[Always Crimson Power]",
-            "content": "[Always Crimson Power]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 000003D0\n780C0000 00000064\n640C0000 00000000 40590000\n\n"
+            "content": "[Always Crimson Power]\n580C0000 01F0D008\n580C1000 00000058\n580C1000 00000010\n580C1000 000003D0\n780C0000 00000064\n640C0000 00000000 40590000\n\n",
+            "title": "[Always Crimson Power]"
         },
         {
-            "title": "[Credits: crazy_p, Jericoss]",
-            "content": "[Credits: crazy_p, Jericoss]\n00000000 00000000 00000000"
+            "content": "[Credits: crazy_p, Jericoss]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p, Jericoss]"
         }
     ]
 }

@@ -1,118 +1,118 @@
 {
     "DC27156B7AB58D31": [
         {
-            "title": "[Crazy jump (ZL+B)]",
-            "content": "[Crazy jump (ZL+B)]\n80000102\n04000000 018C37D4 00000000\n20000000\n\n"
+            "content": "[Crazy jump (ZL+B)]\n80000102\n04000000 018C37D4 00000000\n20000000\n\n",
+            "title": "[Crazy jump (ZL+B)]"
         },
         {
-            "title": "[01# Inf Life]",
-            "content": "[01# Inf Life]\n04000000 008F22F0 D65F03C0\n\n"
+            "content": "[01# Inf Life]\n04000000 008F22F0 D65F03C0\n\n",
+            "title": "[01# Inf Life]"
         },
         {
-            "title": "[Inf Life (off)]",
-            "content": "[Inf Life (off)]\n04000000 008F22F0 D10383FF\n\n"
+            "content": "[Inf Life (off)]\n04000000 008F22F0 D10383FF\n\n",
+            "title": "[Inf Life (off)]"
         },
         {
-            "title": "[02# Quick Accumulation]",
-            "content": "[02# Quick Accumulation]\n04000000 00060DA8 0B000508\n04000000 00800BF0 52800020\n\n"
+            "content": "[02# Quick Accumulation]\n04000000 00060DA8 0B000508\n04000000 00800BF0 52800020\n\n",
+            "title": "[02# Quick Accumulation]"
         },
         {
-            "title": "[Quick Accumulation (off)]",
-            "content": "[Quick Accumulation (off)]\n04000000 00060DA8 0B000108\n04000000 00800BF0 38696900\n\n"
+            "content": "[Quick Accumulation (off)]\n04000000 00060DA8 0B000108\n04000000 00800BF0 38696900\n\n",
+            "title": "[Quick Accumulation (off)]"
         },
         {
-            "title": "[03# Yellow Soul 16 times]",
-            "content": "[03# Yellow Soul 16 times]\n04000000 00C35FE0 1E210800\n04000000 00C35FE4 1E261001\n04000000 00C35FE8 1E210800\n04000000 00C35FEC D65F03C0\n04000000 007FEAE8 9410DD3E\n\n"
+            "content": "[03# Yellow Soul 16 times]\n04000000 00C35FE0 1E210800\n04000000 00C35FE4 1E261001\n04000000 00C35FE8 1E210800\n04000000 00C35FEC D65F03C0\n04000000 007FEAE8 9410DD3E\n\n",
+            "title": "[03# Yellow Soul 16 times]"
         },
         {
-            "title": "[Yellow Soul 16 times (off)]",
-            "content": "[Yellow Soul 16 times (off)]\n04000000 007FEAE8 1E210800\n\n"
+            "content": "[Yellow Soul 16 times (off)]\n04000000 007FEAE8 1E210800\n\n",
+            "title": "[Yellow Soul 16 times (off)]"
         },
         {
-            "title": "[04# Combo x15]",
-            "content": "[04# Combo x15]\n04000000 00048368 11003D08\n\n"
+            "content": "[04# Combo x15]\n04000000 00048368 11003D08\n\n",
+            "title": "[04# Combo x15]"
         },
         {
-            "title": "[Combo x15 (off)]",
-            "content": "[Combo x15 (off)]\n04000000 00048368 11000508\n\n"
+            "content": "[Combo x15 (off)]\n04000000 00048368 11000508\n\n",
+            "title": "[Combo x15 (off)]"
         },
         {
-            "title": "[05# Inf Combo]",
-            "content": "[05# Inf Combo]\n04000000 00048348 D503201F\n\n"
+            "content": "[05# Inf Combo]\n04000000 00048348 D503201F\n\n",
+            "title": "[05# Inf Combo]"
         },
         {
-            "title": "[Inf Combo (off)]",
-            "content": "[Inf Combo (off)]\n04000000 00048348 340000A8\n\n"
+            "content": "[Inf Combo (off)]\n04000000 00048348 340000A8\n\n",
+            "title": "[Inf Combo (off)]"
         },
         {
-            "title": "[06# Scrolls can be used without ninjutsu]",
-            "content": "[06# Scrolls can be used without ninjutsu]\n04000000 006FB998 52800000\n04000000 006FB9B8 52800000\n\n"
+            "content": "[06# Scrolls can be used without ninjutsu]\n04000000 006FB998 52800000\n04000000 006FB9B8 52800000\n\n",
+            "title": "[06# Scrolls can be used without ninjutsu]"
         },
         {
-            "title": "[Scrolls can be used without ninjutsu (off)]",
-            "content": "[Scrolls can be used without ninjutsu (off)]\n04000000 006FB998 79400D20\n04000000 006FB9B8 79400D00\n\n"
+            "content": "[Scrolls can be used without ninjutsu (off)]\n04000000 006FB998 79400D20\n04000000 006FB9B8 79400D00\n\n",
+            "title": "[Scrolls can be used without ninjutsu (off)]"
         },
         {
-            "title": "[hit range normal]",
-            "content": "[hit range normal]\n04000000 00A18FA4 1E2E1001\n\n"
+            "content": "[hit range normal]\n04000000 00A18FA4 1E2E1001\n\n",
+            "title": "[hit range normal]"
         },
         {
-            "title": "[hit range x61]",
-            "content": "[hit range x61]\n04000000 00A18FA4 1E2E1002\n\n"
+            "content": "[hit range x61]\n04000000 00A18FA4 1E2E1002\n\n",
+            "title": "[hit range x61]"
         },
         {
-            "title": "[(PRESS L STICK) Enter Hero Mode]",
-            "content": "[(PRESS L STICK) Enter Hero Mode]\n80000010\n02000000 018C46C6 00000100\n02000000 018C46D8 00000100\n02000000 018C4716 00000100\n04000000 018C4718 01000100\n02000000 018C471C 00000100\n01000000 01EA3D50 00000001\n02000000 01EA3D50 00000E10\n20000000\n\n"
+            "content": "[(PRESS L STICK) Enter Hero Mode]\n80000010\n02000000 018C46C6 00000100\n02000000 018C46D8 00000100\n02000000 018C4716 00000100\n04000000 018C4718 01000100\n02000000 018C471C 00000100\n01000000 01EA3D50 00000001\n02000000 01EA3D50 00000E10\n20000000\n\n",
+            "title": "[(PRESS L STICK) Enter Hero Mode]"
         },
         {
-            "title": "[Enter Hero Mode Always]",
-            "content": "[Enter Hero Mode Always]\n02000000 018C46C6 0000000A\n02000000 018C46D8 0000000A\n02000000 018C4716 0000000A\n04000000 018C4718 000A000A\n02000000 018C471C 0000000A\n01000000 01EA3D50 00000001\n02000000 01EA3D50 00000E10\n\n"
+            "content": "[Enter Hero Mode Always]\n02000000 018C46C6 0000000A\n02000000 018C46D8 0000000A\n02000000 018C4716 0000000A\n04000000 018C4718 000A000A\n02000000 018C471C 0000000A\n01000000 01EA3D50 00000001\n02000000 01EA3D50 00000E10\n\n",
+            "title": "[Enter Hero Mode Always]"
         },
         {
-            "title": "[Hero Mode No Expiration]",
-            "content": "[Hero Mode No Expiration]\n14060000 01EA3D50 00000000\n02000000 01EA3D50 00000E10\n20000000\n\n"
+            "content": "[Hero Mode No Expiration]\n14060000 01EA3D50 00000000\n02000000 01EA3D50 00000E10\n20000000\n\n",
+            "title": "[Hero Mode No Expiration]"
         },
         {
-            "title": "[Maintain FPS Limit to 60]",
-            "content": "[Maintain FPS Limit to 60]\n580F0000 01EEBCF0\n580F1000 000003D0\n580F1000 00000030\n780F0000 00000F14\n640F0000 00000000 00000001\n\n"
+            "content": "[Maintain FPS Limit to 60]\n580F0000 01EEBCF0\n580F1000 000003D0\n580F1000 00000030\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[Maintain FPS Limit to 60]"
         },
         {
-            "title": "[*Crazy Speed Jericoss]",
-            "content": "[*Crazy Speed Jericoss]\n80000002\n04000000 018C37D8 00000000\n20000000\n\n"
+            "content": "[*Crazy Speed Jericoss]\n80000002\n04000000 018C37D8 00000000\n20000000\n\n",
+            "title": "[*Crazy Speed Jericoss]"
         },
         {
-            "title": "[hitanywhere all weapon on]",
-            "content": "[hitanywhere all weapon on]\n04000000 006E50C0 D65F03C0\n\n"
+            "content": "[hitanywhere all weapon on]\n04000000 006E50C0 D65F03C0\n\n",
+            "title": "[hitanywhere all weapon on]"
         },
         {
-            "title": "[hitanywhere all weapon off]",
-            "content": "[hitanywhere all weapon off]\n04000000 006E50C0 FC170FEC\n\n"
+            "content": "[hitanywhere all weapon off]\n04000000 006E50C0 FC170FEC\n\n",
+            "title": "[hitanywhere all weapon off]"
         },
         {
-            "title": "[rachel hitanywhere Inferno Hammer on]",
-            "content": "[rachel hitanywhere Inferno Hammer on]\n04000000 006EB6D0 D65F03C0\n\n"
+            "content": "[rachel hitanywhere Inferno Hammer on]\n04000000 006EB6D0 D65F03C0\n\n",
+            "title": "[rachel hitanywhere Inferno Hammer on]"
         },
         {
-            "title": "[rachel hitanywhere Inferno Hammer off]",
-            "content": "[rachel hitanywhere Inferno Hammer off]\n04000000 006EB6D0 D10483FF"
+            "content": "[rachel hitanywhere Inferno Hammer off]\n04000000 006EB6D0 D10483FF",
+            "title": "[rachel hitanywhere Inferno Hammer off]"
         }
     ],
     "EB526F5A41621D69": [
         {
-            "title": "[hitanywhere all weapon on]",
-            "content": "[hitanywhere all weapon on]\n04000000 006E3C40 D65F03C0\n\n"
+            "content": "[hitanywhere all weapon on]\n04000000 006E3C40 D65F03C0\n\n",
+            "title": "[hitanywhere all weapon on]"
         },
         {
-            "title": "[hitanywhere all weapon off]",
-            "content": "[hitanywhere all weapon off]\n04000000 006E3C40 FC170FEC\n\n"
+            "content": "[hitanywhere all weapon off]\n04000000 006E3C40 FC170FEC\n\n",
+            "title": "[hitanywhere all weapon off]"
         },
         {
-            "title": "[hitanywhere rachel arms on]",
-            "content": "[hitanywhere rachel arms on]\n04000000 006E9BE0 D65F03C0\n\n"
+            "content": "[hitanywhere rachel arms on]\n04000000 006E9BE0 D65F03C0\n\n",
+            "title": "[hitanywhere rachel arms on]"
         },
         {
-            "title": "[hitanywhere rachel arms off]",
-            "content": "[hitanywhere rachel arms off]\n04000000 006E9BE0 D10483FF"
+            "content": "[hitanywhere rachel arms off]\n04000000 006E9BE0 D10483FF",
+            "title": "[hitanywhere rachel arms off]"
         }
     ]
 }

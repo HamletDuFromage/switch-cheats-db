@@ -1,56 +1,56 @@
 {
     "092E5781403F9625": [
         {
-            "title": "[HP]",
-            "content": "[HP]\n580F0000 046C7068\n580F1000 00000050\n780F0000 0000032C\n640F0000 00000000 00000003\n\n"
+            "content": "[HP]\n580F0000 046C7068\n580F1000 00000050\n780F0000 0000032C\n640F0000 00000000 00000003\n\n",
+            "title": "[HP]"
         },
         {
-            "title": "[Golden Seeds 250]",
-            "content": "[Golden Seeds 250]\n580F0000 046C7068\n580F1000 00000050\n780F0000 00000268\n640F0000 00000000 000000FF\n\n"
+            "content": "[Golden Seeds 250]\n580F0000 046C7068\n580F1000 00000050\n780F0000 00000268\n640F0000 00000000 000000FF\n\n",
+            "title": "[Golden Seeds 250]"
         },
         {
-            "title": "[Silver Coins 99]",
-            "content": "[Silver Coins 99]\n580F0000 046C7068\n580F1000 00000050\n780F0000 00000270\n640F0000 00000000 00000063\n\n"
+            "content": "[Silver Coins 99]\n580F0000 046C7068\n580F1000 00000050\n780F0000 00000270\n640F0000 00000000 00000063\n\n",
+            "title": "[Silver Coins 99]"
         },
         {
-            "title": "[Manaroc 6]",
-            "content": "[Manaroc 6]\n580F0000 046C7068\n580F1000 00000050\n780F0000 0000024C\n640F0000 00000000 00000006\n\n"
+            "content": "[Manaroc 6]\n580F0000 046C7068\n580F1000 00000050\n780F0000 0000024C\n640F0000 00000000 00000006\n\n",
+            "title": "[Manaroc 6]"
         },
         {
-            "title": "[Hits Received 0 - For stats at the end of a level]",
-            "content": "[Hits Received 0 - For stats at the end of a level]\n580F0000 046C7068\n580F1000 00000050\n780F0000 00000330\n640F0000 00000000 00000000"
+            "content": "[Hits Received 0 - For stats at the end of a level]\n580F0000 046C7068\n580F1000 00000050\n780F0000 00000330\n640F0000 00000000 00000000",
+            "title": "[Hits Received 0 - For stats at the end of a level]"
         }
     ],
     "64D3B49F38C60F55": [
         {
-            "title": "[Hearts unlimited]",
-            "content": "[Hearts unlimited]\n580F0000 0460D6C8\n780F0000 00000314\n640F0000 00000000 00000003\n"
+            "content": "[Hearts unlimited]\n580F0000 0460D6C8\n780F0000 00000314\n640F0000 00000000 00000003\n",
+            "title": "[Hearts unlimited]"
         }
     ],
     "F0E3BD5E823C6145": [
         {
-            "title": "[HP]",
-            "content": "[HP]\n580F0000 04C47748\n580F1000 00000230\n580F1000 00000010\n780F0000 00000468\n640F0000 00000000 00000003\n\n"
+            "content": "[HP]\n580F0000 04C47748\n580F1000 00000230\n580F1000 00000010\n780F0000 00000468\n640F0000 00000000 00000003\n\n",
+            "title": "[HP]"
         },
         {
-            "title": "[Manaroc 6. With L3 0]",
-            "content": "[Manaroc 6. With L3 0]\n580F0000 04C47748\n580F1000 00000230\n580F1000 00000010\n780F0000 0000034C\n640F0000 00000000 00000006\n80000010\n640F0000 00000000 00000000\n20000000\n\n"
+            "content": "[Manaroc 6. With L3 0]\n580F0000 04C47748\n580F1000 00000230\n580F1000 00000010\n780F0000 0000034C\n640F0000 00000000 00000006\n80000010\n640F0000 00000000 00000000\n20000000\n\n",
+            "title": "[Manaroc 6. With L3 0]"
         },
         {
-            "title": "[Semillas de Oro 255]",
-            "content": "[Semillas de Oro 255]\n580F0000 04C47748\n580F1000 00000230\n580F1000 00000010\n780F0000 00000368\n640F0000 00000000 000000FF\n\n"
+            "content": "[Semillas de Oro 255]\n580F0000 04C47748\n580F1000 00000230\n580F1000 00000010\n780F0000 00000368\n640F0000 00000000 000000FF\n\n",
+            "title": "[Semillas de Oro 255]"
         },
         {
-            "title": "[Monedas de Plata 99. With R3 0]",
-            "content": "[Monedas de Plata 99. With R3 0]\n580F0000 04C47748\n580F1000 00000230\n580F1000 00000010\n780F0000 00000370\n640F0000 00000000 00000063\n80000020\n640F0000 00000000 00000000\n20000000\n\n"
+            "content": "[Monedas de Plata 99. With R3 0]\n580F0000 04C47748\n580F1000 00000230\n580F1000 00000010\n780F0000 00000370\n640F0000 00000000 00000063\n80000020\n640F0000 00000000 00000000\n20000000\n\n",
+            "title": "[Monedas de Plata 99. With R3 0]"
         },
         {
-            "title": "[Golpes recibidos 0]",
-            "content": "[Golpes recibidos 0]\n580F0000 04C47748\n580F1000 00000230\n580F1000 00000010\n780F0000 00000470\n640F0000 00000000 00000000\n\n"
+            "content": "[Golpes recibidos 0]\n580F0000 04C47748\n580F1000 00000230\n580F1000 00000010\n780F0000 00000470\n640F0000 00000000 00000000\n\n",
+            "title": "[Golpes recibidos 0]"
         },
         {
-            "title": "[Combos a 99]",
-            "content": "[Combos a 99]\n580F0000 04C49D90\n580F1000 00000028\n780F0000 0000003C\n640F0000 00000000 00000063\n780F0000 00000004\n640F0000 00000000 00000063\n780F0000 00000004\n640F0000 00000000 00000063\n"
+            "content": "[Combos a 99]\n580F0000 04C49D90\n580F1000 00000028\n780F0000 0000003C\n640F0000 00000000 00000063\n780F0000 00000004\n640F0000 00000000 00000063\n780F0000 00000004\n640F0000 00000000 00000063\n",
+            "title": "[Combos a 99]"
         }
     ]
 }

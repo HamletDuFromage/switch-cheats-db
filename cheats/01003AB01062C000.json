@@ -1,24 +1,24 @@
 {
     "494799A88D1CD64D": [
         {
-            "title": "[01# Inf Health Player]",
-            "content": "[01# Inf Health Player]\n580F0000 046E4E18\n580F1000 000000B8\n580F1000 00000278\n580F1000 00000030\n780F0000 000000FC\n640F0000 00000000 43FA0000\n\n"
+            "content": "[01# Inf Health Player]\n580F0000 046E4E18\n580F1000 000000B8\n580F1000 00000278\n580F1000 00000030\n780F0000 000000FC\n640F0000 00000000 43FA0000\n\n",
+            "title": "[01# Inf Health Player]"
         },
         {
-            "title": "[02# Inf Power Gauge]",
-            "content": "[02# Inf Power Gauge]\n580F0000 046E4E18\n580F1000 000000B8\n580F1000 00000278\n580F1000 00000030\n780F0000 00000104\n640F0000 00000000 43C80000\n\n"
+            "content": "[02# Inf Power Gauge]\n580F0000 046E4E18\n580F1000 000000B8\n580F1000 00000278\n580F1000 00000030\n780F0000 00000104\n640F0000 00000000 43C80000\n\n",
+            "title": "[02# Inf Power Gauge]"
         },
         {
-            "title": "[03# CPU Easy Kill]",
-            "content": "[03# CPU Easy Kill]\n580F0000 046E4E18\n580F1000 000000B8\n580F1000 00000278\n580F1000 00000028\n780F0000 000000FC\n640F0000 00000000 00000001\n\n"
+            "content": "[03# CPU Easy Kill]\n580F0000 046E4E18\n580F1000 000000B8\n580F1000 00000278\n580F1000 00000028\n780F0000 000000FC\n640F0000 00000000 00000001\n\n",
+            "title": "[03# CPU Easy Kill]"
         },
         {
-            "title": "[04# CPU No Power Gauge]",
-            "content": "[04# CPU No Power Gauge]\n580F0000 046E4E18\n580F1000 000000B8\n580F1000 00000278\n580F1000 00000028\n780F0000 00000104\n640F0000 00000000 00000000\n\n"
+            "content": "[04# CPU No Power Gauge]\n580F0000 046E4E18\n580F1000 000000B8\n580F1000 00000278\n580F1000 00000028\n780F0000 00000104\n640F0000 00000000 00000000\n\n",
+            "title": "[04# CPU No Power Gauge]"
         },
         {
-            "title": "[05# Inf Time]",
-            "content": "[05# Inf Time]\n580F0000 046E4E18\n580F1000 000000B8\n780F0000 000001D8\n640F0000 00000000 42B40000"
+            "content": "[05# Inf Time]\n580F0000 046E4E18\n580F1000 000000B8\n780F0000 000001D8\n640F0000 00000000 42B40000",
+            "title": "[05# Inf Time]"
         }
     ]
 }

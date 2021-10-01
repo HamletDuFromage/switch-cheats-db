@@ -1,20 +1,20 @@
 {
     "1FE34416E3F057AD": [
         {
-            "title": "[Money]",
-            "content": "[Money]\n04000000 00FEEEF0 0098967F\n\n"
+            "content": "[Money]\n04000000 00FEEEF0 0098967F\n\n",
+            "title": "[Money]"
         },
         {
-            "title": "[HP]",
-            "content": "[HP]\n08100000 c189beb0 0001869F 0001869F\n\n"
+            "content": "[HP]\n08100000 c189beb0 0001869F 0001869F\n\n",
+            "title": "[HP]"
         },
         {
-            "title": "[SP]",
-            "content": "[SP]\n04100000 c189bec0 270F270F\n\n"
+            "content": "[SP]\n04100000 c189bec0 270F270F\n\n",
+            "title": "[SP]"
         },
         {
-            "title": "[exp]",
-            "content": "[exp]\n04100000 c189beb8 3B9AC9FF"
+            "content": "[exp]\n04100000 c189beb8 3B9AC9FF",
+            "title": "[exp]"
         }
     ]
 }

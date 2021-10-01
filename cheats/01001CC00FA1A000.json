@@ -1,36 +1,36 @@
 {
     "2FF03FC088CBA7A7": [
         {
-            "title": "[Inf Hp]",
-            "content": "[Inf Hp]\n040F0000 4D15C76C 00000101\n"
+            "content": "[Inf Hp]\n040F0000 4D15C76C 00000101\n",
+            "title": "[Inf Hp]"
         },
         {
-            "title": "[Achieve rate]",
-            "content": "[Achieve rate]\n040F0000 4D15C770 01000000"
-        }
-    ],
-    "E0C41878F636AD4F": [
-        {
-            "title": "[Max VP Points]",
-            "content": "[Max VP Points]\n04000000 4D0F51B8 0098967F\n\n"
-        },
-        {
-            "title": "[Max Score In Song]",
-            "content": "[Max Score In Song]\n04000000 4D15E798 01000000\n\n"
-        },
-        {
-            "title": "[Infinite Life]",
-            "content": "[Infinite Life]\n04000000 4D15E794 00000101"
+            "content": "[Achieve rate]\n040F0000 4D15C770 01000000",
+            "title": "[Achieve rate]"
         }
     ],
     "8CF5D24227C5DD98": [
         {
-            "title": "[Inf Life]",
-            "content": "[Inf Life]\n040F0000 4D14F704 00000101\n\n"
+            "content": "[Inf Life]\n040F0000 4D14F704 00000101\n\n",
+            "title": "[Inf Life]"
         },
         {
-            "title": "[Achievement rate]",
-            "content": "[Achievement rate]\n040F0000 4D14F708 01000000"
+            "content": "[Achievement rate]\n040F0000 4D14F708 01000000",
+            "title": "[Achievement rate]"
+        }
+    ],
+    "E0C41878F636AD4F": [
+        {
+            "content": "[Max VP Points]\n04000000 4D0F51B8 0098967F\n\n",
+            "title": "[Max VP Points]"
+        },
+        {
+            "content": "[Max Score In Song]\n04000000 4D15E798 01000000\n\n",
+            "title": "[Max Score In Song]"
+        },
+        {
+            "content": "[Infinite Life]\n04000000 4D15E794 00000101",
+            "title": "[Infinite Life]"
         }
     ]
 }

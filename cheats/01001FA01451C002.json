@@ -1,24 +1,24 @@
 {
     "CA075EB0DB8BBF91": [
         {
-            "title": "[Inf. Max HP/STM/ACT]",
-            "content": "[Inf. Max HP/STM/ACT]\n300C0000 00000032\n04010000 004A8664 0001869F\n04010000 004A866C 0001869F\n04010000 004A8668 0000270F\n04010000 004A8774 0000270F\n78010000 00000298\n310C0000\n\n"
+            "content": "[Inf. Max HP/STM/ACT]\n300C0000 00000032\n04010000 004A8664 0001869F\n04010000 004A866C 0001869F\n04010000 004A8668 0000270F\n04010000 004A8774 0000270F\n78010000 00000298\n310C0000\n\n",
+            "title": "[Inf. Max HP/STM/ACT]"
         },
         {
-            "title": "[Max Stats]",
-            "content": "[Max Stats]\n300C0000 00000032\n04020000 004A8674 0001869F \n04020000 004A8678 0001869F \n04020000 004A867C 0001869F \n04020000 004A8680 0001869F \n04020000 004A8684 0001869F \n04020000 004A8688 0001869F \n78020000 00000298\n310C0000\n\n"
+            "content": "[Max Stats]\n300C0000 00000032\n04020000 004A8674 0001869F \n04020000 004A8678 0001869F \n04020000 004A867C 0001869F \n04020000 004A8680 0001869F \n04020000 004A8684 0001869F \n04020000 004A8688 0001869F \n78020000 00000298\n310C0000\n\n",
+            "title": "[Max Stats]"
         },
         {
-            "title": "[Max EXP after Battle]",
-            "content": "[Max EXP after Battle]\n300C0000 00000032\n08030000 004A8518 00000023 7F091B0C\n78030000 00000298\n310C0000\n\n"
+            "content": "[Max EXP after Battle]\n300C0000 00000032\n08030000 004A8518 00000023 7F091B0C\n78030000 00000298\n310C0000\n\n",
+            "title": "[Max EXP after Battle]"
         },
         {
-            "title": "[Max GP]",
-            "content": "[Max GP]\n040C0000 0048D9C8 3B9AC9FF\n\n"
+            "content": "[Max GP]\n040C0000 0048D9C8 3B9AC9FF\n\n",
+            "title": "[Max GP]"
         },
         {
-            "title": "[Credits: crazy_p]",
-            "content": "[Credits: crazy_p]\n00000000 00000000 00000000"
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p]"
         }
     ]
 }

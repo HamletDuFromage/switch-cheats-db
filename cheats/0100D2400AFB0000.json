@@ -1,54 +1,54 @@
 {
-    "7CC18779B44CC2E4": [
-        {
-            "title": "[P1 Infinite HP]",
-            "content": "[P1 Infinite HP]\n01000000 0127F202 00000064\n\n"
-        },
-        {
-            "title": "[P1 Infinite MP]",
-            "content": "[P1 Infinite MP]\n01000000 0127F205 0000000a\n\n"
-        },
-        {
-            "title": "[P1 Money 9999]",
-            "content": "[P1 Money 9999]\n02000000 0127F20E 0000270f\n\n"
-        },
-        {
-            "title": "[P2 Infinite HP]",
-            "content": "[P2 Infinite HP]\n01000000 0127F282 00000064\n\n"
-        },
-        {
-            "title": "[P2 Infinite MP]",
-            "content": "[P2 Infinite MP]\n01000000 0127F285 0000000a\n\n"
-        },
-        {
-            "title": "[P2 Money 9999]",
-            "content": "[P2 Money 9999]\n02000000 0127F28E 0000270f"
-        }
-    ],
     "1DA52476C29E672A": [
         {
-            "title": "[P1 Infinite HP]",
-            "content": "[P1 Infinite HP]\n01000000 0127F202 00000064\n\n"
+            "content": "[P1 Infinite HP]\n01000000 0127F202 00000064\n\n",
+            "title": "[P1 Infinite HP]"
         },
         {
-            "title": "[P1 Infinite MP]",
-            "content": "[P1 Infinite MP]\n01000000 0127F205 0000000a\n\n"
+            "content": "[P1 Infinite MP]\n01000000 0127F205 0000000a\n\n",
+            "title": "[P1 Infinite MP]"
         },
         {
-            "title": "[P1 Money 9999]",
-            "content": "[P1 Money 9999]\n02000000 0127F20E 0000270f\n\n"
+            "content": "[P1 Money 9999]\n02000000 0127F20E 0000270f\n\n",
+            "title": "[P1 Money 9999]"
         },
         {
-            "title": "[P2 Infinite HP]",
-            "content": "[P2 Infinite HP]\n01000000 0127F282 00000064\n\n"
+            "content": "[P2 Infinite HP]\n01000000 0127F282 00000064\n\n",
+            "title": "[P2 Infinite HP]"
         },
         {
-            "title": "[P2 Infinite MP]",
-            "content": "[P2 Infinite MP]\n01000000 0127F285 0000000a\n\n"
+            "content": "[P2 Infinite MP]\n01000000 0127F285 0000000a\n\n",
+            "title": "[P2 Infinite MP]"
         },
         {
-            "title": "[P2 Money 9999]",
-            "content": "[P2 Money 9999]\n02000000 0127F28E 0000270f"
+            "content": "[P2 Money 9999]\n02000000 0127F28E 0000270f",
+            "title": "[P2 Money 9999]"
+        }
+    ],
+    "7CC18779B44CC2E4": [
+        {
+            "content": "[P1 Infinite HP]\n01000000 0127F202 00000064\n\n",
+            "title": "[P1 Infinite HP]"
+        },
+        {
+            "content": "[P1 Infinite MP]\n01000000 0127F205 0000000a\n\n",
+            "title": "[P1 Infinite MP]"
+        },
+        {
+            "content": "[P1 Money 9999]\n02000000 0127F20E 0000270f\n\n",
+            "title": "[P1 Money 9999]"
+        },
+        {
+            "content": "[P2 Infinite HP]\n01000000 0127F282 00000064\n\n",
+            "title": "[P2 Infinite HP]"
+        },
+        {
+            "content": "[P2 Infinite MP]\n01000000 0127F285 0000000a\n\n",
+            "title": "[P2 Infinite MP]"
+        },
+        {
+            "content": "[P2 Money 9999]\n02000000 0127F28E 0000270f",
+            "title": "[P2 Money 9999]"
         }
     ]
 }

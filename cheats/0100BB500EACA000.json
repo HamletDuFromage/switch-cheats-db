@@ -1,12 +1,12 @@
 {
     "FA0405385B531FCF": [
         {
-            "title": "[Infinite Health]",
-            "content": "[Infinite Health]\n580F0000 0125E210\n780F0000 000002E8\n640F0000 00000000 00000064\n\n"
+            "content": "[Infinite Health]\n580F0000 0125E210\n780F0000 000002E8\n640F0000 00000000 00000064\n\n",
+            "title": "[Infinite Health]"
         },
         {
-            "title": "[Infinite Ammo]",
-            "content": "[Infinite Ammo]\n580F0000 01204238\n780F1000 000066f4\n640F0000 00000000 000003E7"
+            "content": "[Infinite Ammo]\n580F0000 01204238\n780F1000 000066f4\n640F0000 00000000 000003E7",
+            "title": "[Infinite Ammo]"
         }
     ]
 }

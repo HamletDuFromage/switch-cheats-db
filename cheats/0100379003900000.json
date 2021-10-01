@@ -1,36 +1,36 @@
 {
     "7F38079D766279AA": [
         {
-            "title": "[P1 Infinite HP]",
-            "content": "[P1 Infinite HP]\n01000000 0123DDD8 00000005\n01000000 0123DDE9 00000005\n\n"
+            "content": "[P1 Infinite HP]\n01000000 0123DDD8 00000005\n01000000 0123DDE9 00000005\n\n",
+            "title": "[P1 Infinite HP]"
         },
         {
-            "title": "[P1 Infinite Lives]",
-            "content": "[P1 Infinite Lives]\n01000000 0123DDC9 00000009\n\n"
+            "content": "[P1 Infinite Lives]\n01000000 0123DDC9 00000009\n\n",
+            "title": "[P1 Infinite Lives]"
         },
         {
-            "title": "[P1 Infinite Roses]",
-            "content": "[P1 Infinite Roses]\n01000000 0123DDD9 0000007f\n\n"
+            "content": "[P1 Infinite Roses]\n01000000 0123DDD9 0000007f\n\n",
+            "title": "[P1 Infinite Roses]"
         },
         {
-            "title": "[P1 Invincible]",
-            "content": "[P1 Invincible]\n01000000 0123DDD0 000000ff\n\n"
+            "content": "[P1 Invincible]\n01000000 0123DDD0 000000ff\n\n",
+            "title": "[P1 Invincible]"
         },
         {
-            "title": "[P2 Infinite HP]",
-            "content": "[P2 Infinite HP]\n01000000 0123E1D8 00000005\n01000000 0123E1E9 00000005\n\n"
+            "content": "[P2 Infinite HP]\n01000000 0123E1D8 00000005\n01000000 0123E1E9 00000005\n\n",
+            "title": "[P2 Infinite HP]"
         },
         {
-            "title": "[P2 Infinite Lives]",
-            "content": "[P2 Infinite Lives]\n01000000 0123E1C9 00000009\n\n"
+            "content": "[P2 Infinite Lives]\n01000000 0123E1C9 00000009\n\n",
+            "title": "[P2 Infinite Lives]"
         },
         {
-            "title": "[P2 Infinite Roses]",
-            "content": "[P2 Infinite Roses]\n01000000 0123E1D9 0000007f\n\n"
+            "content": "[P2 Infinite Roses]\n01000000 0123E1D9 0000007f\n\n",
+            "title": "[P2 Infinite Roses]"
         },
         {
-            "title": "[P2 Invincible]",
-            "content": "[P2 Invincible]\n01000000 0123E1D0 000000ff"
+            "content": "[P2 Invincible]\n01000000 0123E1D0 000000ff",
+            "title": "[P2 Invincible]"
         }
     ]
 }

@@ -1,7 +1,10 @@
+#!/usr/bin/env python3
+
 import json
 import cbor2
 import requests
 import os
+
 
 class ProcessVersions:
     def __init__(self, url):
@@ -17,9 +20,8 @@ class ProcessVersions:
         self.loadVersionFile()
         self.getVersionDict()
         self.checkForChanges()
-        if self.changed:
-            self.writeMasterFiles()
-            self.writeTitleFiles()
+        self.writeMasterFiles()
+        self.writeTitleFiles()
 
     def loadVersionFile(self):
         self.data = json.loads(requests.get(self.url).text)
@@ -30,7 +32,8 @@ class ProcessVersions:
                 self.versions_dict[tid[:13].upper() + "000"] = {}
             for ver in self.data[tid]:
                 if "buildId" in self.data[tid][ver]["contentEntries"][0]:
-                    self.versions_dict[tid[:13].upper() + "000"][str(self.data[tid][ver]["version"])] = self.data[tid][ver]["contentEntries"][0]["buildId"][:16].upper()
+                    self.versions_dict[tid[:13].upper() + "000"][str(self.data[tid][ver]["version"])
+                                                                 ] = self.data[tid][ver]["contentEntries"][0]["buildId"][:16].upper()
 
     def checkForChanges(self):
         try:
@@ -45,10 +48,9 @@ class ProcessVersions:
 
     def writeMasterFiles(self):
         with open(self.json_path, 'w') as json_file:
-            json.dump(self.versions_dict, json_file, indent = 4)
+            json.dump(self.versions_dict, json_file, indent=4, sort_keys=True)
         """ with open(self.cbor_path, 'wb') as cbor_file:
             cbor2.dump(json.dumps(self.versions_dict), cbor_file) """
-        print(f"Updated master {self.json_path}")
 
     def writeTitleFiles(self):
         if not(os.path.exists(self.dir_path)):
@@ -56,18 +58,11 @@ class ProcessVersions:
 
         for tid in self.versions_dict:
             path = f"{self.dir_path}{tid}.json"
-            change = False
-            if os.path.exists(path):
-                with open(path, 'r') as json_file:
-                    old = json.load(json_file)
-                if old != self.versions_dict[tid]:
-                    change = True
-            else:
-                change = True
-            if change:
-                with open(path, 'w') as json_file:
-                    json.dump(self.versions_dict[tid], json_file, indent = 4)
-                    print(f"Updated {path}")
+            with open(path, 'w') as json_file:
+                json.dump(
+                    self.versions_dict[tid], json_file, indent=4, sort_keys=True)
+
 
 if __name__ == '__main__':
-    ProcessVersions("https://raw.githubusercontent.com/blawar/titledb/master/cnmts.json").updateVersions()
+    ProcessVersions(
+        "https://raw.githubusercontent.com/blawar/titledb/master/cnmts.json").updateVersions()

@@ -1,36 +1,36 @@
 {
     "9B7A1E12C165644E": [
         {
-            "title": "[01# Add a lot off money when buy stuff]",
-            "content": "[01# Add a lot off money when buy stuff]\n04000000 0189458C 00000001\n04000000 01894590 58FFFFC0\n\n"
+            "content": "[01# Add a lot off money when buy stuff]\n04000000 0189458C 00000001\n04000000 01894590 58FFFFC0\n\n",
+            "title": "[01# Add a lot off money when buy stuff]"
         },
         {
-            "title": "[Add a lot off money when buy stuff (off)]",
-            "content": "[Add a lot off money when buy stuff (off)]\n04000000 0189458C D503201F\n04000000 01894590 CB010000\n\n"
+            "content": "[Add a lot off money when buy stuff (off)]\n04000000 0189458C D503201F\n04000000 01894590 CB010000\n\n",
+            "title": "[Add a lot off money when buy stuff (off)]"
         },
         {
-            "title": "[02# Inf Energy]",
-            "content": "[02# Inf Energy]\n04000000 017CFF5C 447A0000\n04000000 017D01BC 1CFFED09\n\n"
+            "content": "[02# Inf Energy]\n04000000 017CFF5C 447A0000\n04000000 017D01BC 1CFFED09\n\n",
+            "title": "[02# Inf Energy]"
         },
         {
-            "title": "[Inf Energy (off)]",
-            "content": "[Inf Energy (off)]\n04000000 017CFF5C D503201F\n04000000 017D01BC BD401109\n\n"
+            "content": "[Inf Energy (off)]\n04000000 017CFF5C D503201F\n04000000 017D01BC BD401109\n\n",
+            "title": "[Inf Energy (off)]"
         },
         {
-            "title": "[03# Can Affort]",
-            "content": "[03# Can Affort]\n04000000 01815B40 52800020\n04000000 01815B44 D65F03C0\n\n"
+            "content": "[03# Can Affort]\n04000000 01815B40 52800020\n04000000 01815B44 D65F03C0\n\n",
+            "title": "[03# Can Affort]"
         },
         {
-            "title": "[Can Affort (off)]",
-            "content": "[Can Affort (off)]\n04000000 01815B40 F9403800\n04000000 01815B44 AA1F03E2\n\n"
+            "content": "[Can Affort (off)]\n04000000 01815B40 F9403800\n04000000 01815B44 AA1F03E2\n\n",
+            "title": "[Can Affort (off)]"
         },
         {
-            "title": "[04# 999999 Money]",
-            "content": "[04# 999999 Money]\n580F0000 04B14ED0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000068\n780F0000 00000070\n680F0000 00000000 05F5E09C\n\n"
+            "content": "[04# 999999 Money]\n580F0000 04B14ED0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000068\n780F0000 00000070\n680F0000 00000000 05F5E09C\n\n",
+            "title": "[04# 999999 Money]"
         },
         {
-            "title": "[05# 9999 Developers points]",
-            "content": "[05# 9999 Developers points]\n580F0000 04BAD670\n580F1000 00000088\n580F1000 000002F0\n580F1000 00000070\n780F0000 00000028\n640F0000 00000000 000F41DC"
+            "content": "[05# 9999 Developers points]\n580F0000 04BAD670\n580F1000 00000088\n580F1000 000002F0\n580F1000 00000070\n780F0000 00000028\n640F0000 00000000 000F41DC",
+            "title": "[05# 9999 Developers points]"
         }
     ]
 }

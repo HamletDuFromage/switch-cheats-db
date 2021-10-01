@@ -1,102 +1,102 @@
 {
-    "C5FED26BF457566D": [
-        {
-            "title": "[Infinite HP]",
-            "content": "[Infinite HP]\n02000000 002dd31a 000009c0\n\n"
-        },
-        {
-            "title": "[Infinite Coins]",
-            "content": "[Infinite Coins]\n01000000 002dd320 00000009\n\n"
-        },
-        {
-            "title": "[All Swords]",
-            "content": "[All Swords]\n04000000 002dd2e8 01010101\n04000000 002dd2ec 01010101\n02000000 002dd2f0 00000101\n\n"
-        },
-        {
-            "title": "[All Shields]",
-            "content": "[All Shields]\n04000000 002dd2f4 01010101\n04000000 002dd2f8 01010101\n02000000 002dd2f2 00000101\n\n"
-        },
-        {
-            "title": "[All Armors]",
-            "content": "[All Armors]\n04000000 002dd2fc 01010101\n04000000 002dd300 01010101\n02000000 002dd304 00000101\n\n"
-        },
-        {
-            "title": "[Infinite Keys]",
-            "content": "[Infinite Keys]\n01000000 002dd311 00000009\n\n"
-        },
-        {
-            "title": "[Infinite Potions]",
-            "content": "[Infinite Potions]\n01000000 002dd312 00000009\n\n"
-        },
-        {
-            "title": "[Infinite Fireball]",
-            "content": "[Infinite Fireball]\n01000000 002dd306 00000009\n\n"
-        },
-        {
-            "title": "[Infinite Tornado]",
-            "content": "[Infinite Tornado]\n01000000 002dd307 00000009\n\n"
-        },
-        {
-            "title": "[Infinite Arrow]",
-            "content": "[Infinite Arrow]\n01000000 002dd308 00000009\n\n"
-        },
-        {
-            "title": "[Infinite Boomerang]",
-            "content": "[Infinite Boomerang]\n01000000 002dd309 00000009\n\n"
-        },
-        {
-            "title": "[Infinite Thunder]",
-            "content": "[Infinite Thunder]\n01000000 002dd30A 00000009"
-        }
-    ],
     "13793F02E257147F": [
         {
-            "title": "[Infinite HP]",
-            "content": "[Infinite HP]\n02000000 002CD5EA 000009c0\n\n"
+            "content": "[Infinite HP]\n02000000 002CD5EA 000009c0\n\n",
+            "title": "[Infinite HP]"
         },
         {
-            "title": "[Infinite Coins]",
-            "content": "[Infinite Coins]\n01000000 002CD5F0 00000009\n\n"
+            "content": "[Infinite Coins]\n01000000 002CD5F0 00000009\n\n",
+            "title": "[Infinite Coins]"
         },
         {
-            "title": "[Infinite Keys]",
-            "content": "[Infinite Keys]\n01000000 002CD5E1 00000009\n\n"
+            "content": "[Infinite Keys]\n01000000 002CD5E1 00000009\n\n",
+            "title": "[Infinite Keys]"
         },
         {
-            "title": "[Infinite Potions]",
-            "content": "[Infinite Potions]\n01000000 002CD5E2 00000009\n\n"
+            "content": "[Infinite Potions]\n01000000 002CD5E2 00000009\n\n",
+            "title": "[Infinite Potions]"
         },
         {
-            "title": "[Infinite Fireball]",
-            "content": "[Infinite Fireball]\n01000000 002CD5D6 00000009\n\n"
+            "content": "[Infinite Fireball]\n01000000 002CD5D6 00000009\n\n",
+            "title": "[Infinite Fireball]"
         },
         {
-            "title": "[Infinite Tornado]",
-            "content": "[Infinite Tornado]\n01000000 002CD5D7 00000009\n\n"
+            "content": "[Infinite Tornado]\n01000000 002CD5D7 00000009\n\n",
+            "title": "[Infinite Tornado]"
         },
         {
-            "title": "[Infinite Arrow]",
-            "content": "[Infinite Arrow]\n01000000 002CD5D8 00000009\n\n"
+            "content": "[Infinite Arrow]\n01000000 002CD5D8 00000009\n\n",
+            "title": "[Infinite Arrow]"
         },
         {
-            "title": "[Infinite Boomerang]",
-            "content": "[Infinite Boomerang]\n01000000 002CD5D9 00000009\n\n"
+            "content": "[Infinite Boomerang]\n01000000 002CD5D9 00000009\n\n",
+            "title": "[Infinite Boomerang]"
         },
         {
-            "title": "[Infinite Thunder]",
-            "content": "[Infinite Thunder]\n01000000 002CD5DA 00000009\n\n"
+            "content": "[Infinite Thunder]\n01000000 002CD5DA 00000009\n\n",
+            "title": "[Infinite Thunder]"
         },
         {
-            "title": "[All Swords]",
-            "content": "[All Swords]\n04000000 002cd5b8 01010101\n04000000 002cd5bc 01010101\n02000000 002cd5c0 00000101\n\n"
+            "content": "[All Swords]\n04000000 002cd5b8 01010101\n04000000 002cd5bc 01010101\n02000000 002cd5c0 00000101\n\n",
+            "title": "[All Swords]"
         },
         {
-            "title": "[All Shields]",
-            "content": "[All Shields]\n04000000 002cd5c4 01010101\n04000000 002cd5c8 01010101\n02000000 002cd5c2 00000101\n\n"
+            "content": "[All Shields]\n04000000 002cd5c4 01010101\n04000000 002cd5c8 01010101\n02000000 002cd5c2 00000101\n\n",
+            "title": "[All Shields]"
         },
         {
-            "title": "[All Armors]",
-            "content": "[All Armors]\n04000000 002cd5cc 01010101\n04000000 002cd5d0 01010101\n02000000 002cd5d4 00000101"
+            "content": "[All Armors]\n04000000 002cd5cc 01010101\n04000000 002cd5d0 01010101\n02000000 002cd5d4 00000101",
+            "title": "[All Armors]"
+        }
+    ],
+    "C5FED26BF457566D": [
+        {
+            "content": "[Infinite HP]\n02000000 002dd31a 000009c0\n\n",
+            "title": "[Infinite HP]"
+        },
+        {
+            "content": "[Infinite Coins]\n01000000 002dd320 00000009\n\n",
+            "title": "[Infinite Coins]"
+        },
+        {
+            "content": "[All Swords]\n04000000 002dd2e8 01010101\n04000000 002dd2ec 01010101\n02000000 002dd2f0 00000101\n\n",
+            "title": "[All Swords]"
+        },
+        {
+            "content": "[All Shields]\n04000000 002dd2f4 01010101\n04000000 002dd2f8 01010101\n02000000 002dd2f2 00000101\n\n",
+            "title": "[All Shields]"
+        },
+        {
+            "content": "[All Armors]\n04000000 002dd2fc 01010101\n04000000 002dd300 01010101\n02000000 002dd304 00000101\n\n",
+            "title": "[All Armors]"
+        },
+        {
+            "content": "[Infinite Keys]\n01000000 002dd311 00000009\n\n",
+            "title": "[Infinite Keys]"
+        },
+        {
+            "content": "[Infinite Potions]\n01000000 002dd312 00000009\n\n",
+            "title": "[Infinite Potions]"
+        },
+        {
+            "content": "[Infinite Fireball]\n01000000 002dd306 00000009\n\n",
+            "title": "[Infinite Fireball]"
+        },
+        {
+            "content": "[Infinite Tornado]\n01000000 002dd307 00000009\n\n",
+            "title": "[Infinite Tornado]"
+        },
+        {
+            "content": "[Infinite Arrow]\n01000000 002dd308 00000009\n\n",
+            "title": "[Infinite Arrow]"
+        },
+        {
+            "content": "[Infinite Boomerang]\n01000000 002dd309 00000009\n\n",
+            "title": "[Infinite Boomerang]"
+        },
+        {
+            "content": "[Infinite Thunder]\n01000000 002dd30A 00000009",
+            "title": "[Infinite Thunder]"
         }
     ]
 }

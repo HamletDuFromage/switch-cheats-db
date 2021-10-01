@@ -1,130 +1,130 @@
 {
     "985E17C3D9255F4D": [
         {
-            "title": "[NORMAL RUN SPEED]",
-            "content": "[NORMAL RUN SPEED]\n04000000 01385CA8 1E2E1000\n\n"
+            "content": "[NORMAL RUN SPEED]\n04000000 01385CA8 1E2E1000\n\n",
+            "title": "[NORMAL RUN SPEED]"
         },
         {
-            "title": "[1.25X RUN SPEED]",
-            "content": "[1.25X RUN SPEED]\n04000000 01385CA8 1E2E9000\n\n"
+            "content": "[1.25X RUN SPEED]\n04000000 01385CA8 1E2E9000\n\n",
+            "title": "[1.25X RUN SPEED]"
         },
         {
-            "title": "[1.5X RUN SPEED]",
-            "content": "[1.5X RUN SPEED]\n04000000 01385CA8 1E2F1000\n\n"
+            "content": "[1.5X RUN SPEED]\n04000000 01385CA8 1E2F1000\n\n",
+            "title": "[1.5X RUN SPEED]"
         },
         {
-            "title": "[1.75X RUN SPEED]",
-            "content": "[1.75X RUN SPEED]\n04000000 01385CA8 1E2F9000\n\n"
+            "content": "[1.75X RUN SPEED]\n04000000 01385CA8 1E2F9000\n\n",
+            "title": "[1.75X RUN SPEED]"
         },
         {
-            "title": "[2X RUN SPEED]",
-            "content": "[2X RUN SPEED]\n04000000 01385CA8 1E201000\n\n"
+            "content": "[2X RUN SPEED]\n04000000 01385CA8 1E201000\n\n",
+            "title": "[2X RUN SPEED]"
         },
         {
-            "title": "[NORMAL SPEED GAME]",
-            "content": "[NORMAL SPEED GAME]\n04000000 013E11B0 1E2E1001\n\n"
+            "content": "[NORMAL SPEED GAME]\n04000000 013E11B0 1E2E1001\n\n",
+            "title": "[NORMAL SPEED GAME]"
         },
         {
-            "title": "[1.25X SPEED GAME]",
-            "content": "[1.25X SPEED GAME]\n04000000 013E11B0 1E2E9001\n\n"
+            "content": "[1.25X SPEED GAME]\n04000000 013E11B0 1E2E9001\n\n",
+            "title": "[1.25X SPEED GAME]"
         },
         {
-            "title": "[1.5X SPEED GAME]",
-            "content": "[1.5X SPEED GAME]\n04000000 013E11B0 1E2F1001\n\n"
+            "content": "[1.5X SPEED GAME]\n04000000 013E11B0 1E2F1001\n\n",
+            "title": "[1.5X SPEED GAME]"
         },
         {
-            "title": "[1.75X SPEED GAME]",
-            "content": "[1.75X SPEED GAME]\n04000000 013E11B0 1E2F9001\n\n"
+            "content": "[1.75X SPEED GAME]\n04000000 013E11B0 1E2F9001\n\n",
+            "title": "[1.75X SPEED GAME]"
         },
         {
-            "title": "[2X SPEED GAME]",
-            "content": "[2X SPEED GAME]\n04000000 013E11B0 1E201001\n\n"
+            "content": "[2X SPEED GAME]\n04000000 013E11B0 1E201001\n\n",
+            "title": "[2X SPEED GAME]"
         },
         {
-            "title": "[5X SPEED GAME]",
-            "content": "[5X SPEED GAME]\n04000000 013E11B0 1E229001\n\n"
+            "content": "[5X SPEED GAME]\n04000000 013E11B0 1E229001\n\n",
+            "title": "[5X SPEED GAME]"
         },
         {
-            "title": "[10X SPEED GAME]",
-            "content": "[10X SPEED GAME]\n04000000 013E11B0 1E249001\n\n"
+            "content": "[10X SPEED GAME]\n04000000 013E11B0 1E249001\n\n",
+            "title": "[10X SPEED GAME]"
         },
         {
-            "title": "[1P INVINCIBLE L PAD ON R PAD OFF]",
-            "content": "[1P INVINCIBLE L PAD ON R PAD OFF]\n80000040\n04000000 010BF5B0 D65F03C0\n20000000\n80000080\n04000000 010BF5B0 D101C3FF\n20000000"
+            "content": "[1P INVINCIBLE L PAD ON R PAD OFF]\n80000040\n04000000 010BF5B0 D65F03C0\n20000000\n80000080\n04000000 010BF5B0 D101C3FF\n20000000",
+            "title": "[1P INVINCIBLE L PAD ON R PAD OFF]"
         }
     ],
     "A2EB89C60B10B04A": [
         {
-            "title": "[01# Inf life]",
-            "content": "[01# Inf life]\n040A0000 013E28E0 D503201F\n040A0000 013E2944 D503201F\n\n"
+            "content": "[01# Inf life]\n040A0000 013E28E0 D503201F\n040A0000 013E2944 D503201F\n\n",
+            "title": "[01# Inf life]"
         },
         {
-            "title": "[Inf life (off)]",
-            "content": "[Inf life (off)]\n040A0000 013E28E0 4B140129\n040A0000 013E2944 4B010129\n\n"
+            "content": "[Inf life (off)]\n040A0000 013E28E0 4B140129\n040A0000 013E2944 4B010129\n\n",
+            "title": "[Inf life (off)]"
         },
         {
-            "title": "[02# Coin Multiplier x4]",
-            "content": "[02# Coin Multiplier x4]\n040A0000 013E250C 0B012129\n\n"
+            "content": "[02# Coin Multiplier x4]\n040A0000 013E250C 0B012129\n\n",
+            "title": "[02# Coin Multiplier x4]"
         },
         {
-            "title": "[Coin Multiplier (off)]",
-            "content": "[Coin Multiplier (off)]\n040A0000 013E2A04 0B010129\n\n"
+            "content": "[Coin Multiplier (off)]\n040A0000 013E2A04 0B010129\n\n",
+            "title": "[Coin Multiplier (off)]"
         },
         {
-            "title": "[03# Coins Don't Decrease]",
-            "content": "[03# Coins Don't Decrease]\n040A0000 013E2A04 D503201F\n\n"
+            "content": "[03# Coins Don't Decrease]\n040A0000 013E2A04 D503201F\n\n",
+            "title": "[03# Coins Don't Decrease]"
         },
         {
-            "title": "[Coins Don't Decrease (off)]",
-            "content": "[Coins Don't Decrease (off)]\n040A0000 013E250C 4B010129\n\n"
+            "content": "[Coins Don't Decrease (off)]\n040A0000 013E250C 4B010129\n\n",
+            "title": "[Coins Don't Decrease (off)]"
         },
         {
-            "title": "[04# Orb Multiplier x4]",
-            "content": "[04# Orb Multiplier x4]\n040A0000 013E261C 0B012129\n\n"
+            "content": "[04# Orb Multiplier x4]\n040A0000 013E261C 0B012129\n\n",
+            "title": "[04# Orb Multiplier x4]"
         },
         {
-            "title": "[Orb Multiplier(off)]",
-            "content": "[Orb Multiplier(off)]\n040A0000 013E261C 0B010129\n\n"
+            "content": "[Orb Multiplier(off)]\n040A0000 013E261C 0B010129\n\n",
+            "title": "[Orb Multiplier(off)]"
         },
         {
-            "title": "[05# Orb Don't Decrease]",
-            "content": "[05# Orb Don't Decrease]\n040A0000 013E29A4 D503201F\n\n"
+            "content": "[05# Orb Don't Decrease]\n040A0000 013E29A4 D503201F\n\n",
+            "title": "[05# Orb Don't Decrease]"
         },
         {
-            "title": "[Orb Don't Decrease (off)]",
-            "content": "[Orb Don't Decrease (off)]\n040A0000 013E29A4 4B010129\n\n"
+            "content": "[Orb Don't Decrease (off)]\n040A0000 013E29A4 4B010129\n\n",
+            "title": "[Orb Don't Decrease (off)]"
         },
         {
-            "title": "[06# Inf Items]",
-            "content": "[06# Inf Items]\n040A0000 013E29A4 D503201F\n\n"
+            "content": "[06# Inf Items]\n040A0000 013E29A4 D503201F\n\n",
+            "title": "[06# Inf Items]"
         },
         {
-            "title": "[Inf Items (off)]",
-            "content": "[Inf Items (off)]\n040A0000 013E29A4 4B140129\n\n"
+            "content": "[Inf Items (off)]\n040A0000 013E29A4 4B140129\n\n",
+            "title": "[Inf Items (off)]"
         },
         {
-            "title": "[07# Inf Stamina]",
-            "content": "[07# Inf Stamina]\n040A0000 013860B8 D503201F\n\n"
+            "content": "[07# Inf Stamina]\n040A0000 013860B8 D503201F\n\n",
+            "title": "[07# Inf Stamina]"
         },
         {
-            "title": "[Inf Items (off)]",
-            "content": "[Inf Items (off)]\n040A0000 013860B8 1E213800\n\n"
+            "content": "[Inf Items (off)]\n040A0000 013860B8 1E213800\n\n",
+            "title": "[Inf Items (off)]"
         },
         {
-            "title": "[08# Runspeed x 2]",
-            "content": "[08# Runspeed x 2]\n040A0000 01385D50 1E255009\n\n"
+            "content": "[08# Runspeed x 2]\n040A0000 01385D50 1E255009\n\n",
+            "title": "[08# Runspeed x 2]"
         },
         {
-            "title": "[Runspeed x 2 (off)]",
-            "content": "[Runspeed x 2 (off)]\n040A0000 01385D50 1E213800\n\n"
+            "content": "[Runspeed x 2 (off)]\n040A0000 01385D50 1E213800\n\n",
+            "title": "[Runspeed x 2 (off)]"
         },
         {
-            "title": "[09# Inf Dungeonkeys]",
-            "content": "[09# Inf Dungeonkeys]\n040A0000 013E2E58 D503201F\n\n"
+            "content": "[09# Inf Dungeonkeys]\n040A0000 013E2E58 D503201F\n\n",
+            "title": "[09# Inf Dungeonkeys]"
         },
         {
-            "title": "[Inf Dungeonkeys (off)]",
-            "content": "[Inf Dungeonkeys (off)]\n040A0000 013E2E58 51000529"
+            "content": "[Inf Dungeonkeys (off)]\n040A0000 013E2E58 51000529",
+            "title": "[Inf Dungeonkeys (off)]"
         }
     ]
 }

@@ -1,16 +1,16 @@
 {
     "B70F06EAC87FA2AF": [
         {
-            "title": "[call at fight time 1p invicible only enemies plus pad on]",
-            "content": "[call at fight time 1p invicible only enemies plus pad on]\n80000400\n04000000 002308D0 D65F03C0\n20000000\n\n"
+            "content": "[call at fight time 1p invicible only enemies plus pad on]\n80000400\n04000000 002308D0 D65F03C0\n20000000\n\n",
+            "title": "[call at fight time 1p invicible only enemies plus pad on]"
         },
         {
-            "title": "[1p invicible only enemies minus pad off]",
-            "content": "[1p invicible only enemies minus pad off]\n80000800\n04000000 002308D0 D10083FF\n20000000\n\n"
+            "content": "[1p invicible only enemies minus pad off]\n80000800\n04000000 002308D0 D10083FF\n20000000\n\n",
+            "title": "[1p invicible only enemies minus pad off]"
         },
         {
-            "title": "[call only in game never dead L on pad R pad off change player]",
-            "content": "[call only in game never dead L on pad R pad off change player]\n80000040\n04000000 00344670 D65F03C0\n20000000\n80000080\n04000000 00344670 D10083FF\n20000000"
+            "content": "[call only in game never dead L on pad R pad off change player]\n80000040\n04000000 00344670 D65F03C0\n20000000\n80000080\n04000000 00344670 D10083FF\n20000000",
+            "title": "[call only in game never dead L on pad R pad off change player]"
         }
     ]
 }

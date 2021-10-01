@@ -1,20 +1,20 @@
 {
     "BC47AD4E7BED34E3": [
         {
-            "title": "[P1 Infinite HP]",
-            "content": "[P1 Infinite HP]\n04000000 01238B1C 78000000\n\n"
+            "content": "[P1 Infinite HP]\n04000000 01238B1C 78000000\n\n",
+            "title": "[P1 Infinite HP]"
         },
         {
-            "title": "[P1 Maximum Power]",
-            "content": "[P1 Maximum Power]\n04000000 01238B4C 80000000\n\n"
+            "content": "[P1 Maximum Power]\n04000000 01238B4C 80000000\n\n",
+            "title": "[P1 Maximum Power]"
         },
         {
-            "title": "[P2 NO HP]",
-            "content": "[P2 NO HP]\n04000000 01238C1C 00000000\n\n"
+            "content": "[P2 NO HP]\n04000000 01238C1C 00000000\n\n",
+            "title": "[P2 NO HP]"
         },
         {
-            "title": "[P2 NO Maximum Power]",
-            "content": "[P2 NO Maximum Power]\n04000000 01238C4C 00000000"
+            "content": "[P2 NO Maximum Power]\n04000000 01238C4C 00000000",
+            "title": "[P2 NO Maximum Power]"
         }
     ]
 }

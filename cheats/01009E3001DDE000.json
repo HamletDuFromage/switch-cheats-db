@@ -1,20 +1,20 @@
 {
     "7BB496830FBAEFB5": [
         {
-            "title": "[P1 Infinite HP]",
-            "content": "[P1 Infinite HP]\n580f0000 00252ab8\n780f0000 000003c1\n610f0000 00000000 00000033\n\n"
+            "content": "[P1 Infinite HP]\n580f0000 00252ab8\n780f0000 000003c1\n610f0000 00000000 00000033\n\n",
+            "title": "[P1 Infinite HP]"
         },
         {
-            "title": "[P1 Infinite Lives]",
-            "content": "[P1 Infinite Lives]\n580f0000 00252ab8\n780f0000 000003ea\n610f0000 00000000 00000009\n\n"
+            "content": "[P1 Infinite Lives]\n580f0000 00252ab8\n780f0000 000003ea\n610f0000 00000000 00000009\n\n",
+            "title": "[P1 Infinite Lives]"
         },
         {
-            "title": "[P2 Infinite HP]",
-            "content": "[P2 Infinite HP]\n580f0000 00252ab8\n780f0000 00000420\n610f0000 00000000 00000033\n\n"
+            "content": "[P2 Infinite HP]\n580f0000 00252ab8\n780f0000 00000420\n610f0000 00000000 00000033\n\n",
+            "title": "[P2 Infinite HP]"
         },
         {
-            "title": "[P2 Infinite Lives]",
-            "content": "[P2 Infinite Lives]\n580f0000 00252ab8\n780f0000 00000449\n610f0000 00000000 00000009"
+            "content": "[P2 Infinite Lives]\n580f0000 00252ab8\n780f0000 00000449\n610f0000 00000000 00000009",
+            "title": "[P2 Infinite Lives]"
         }
     ]
 }

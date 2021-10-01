@@ -1,76 +1,76 @@
 {
     "FE5B26032BFC9289": [
         {
-            "title": "[MAX HP]",
-            "content": "[MAX HP]\n04100000 A5BB4EA4 408EF000\n\n"
+            "content": "[MAX HP]\n04100000 A5BB4EA4 408EF000\n\n",
+            "title": "[MAX HP]"
         },
         {
-            "title": "[MAX MP]",
-            "content": "[MAX MP]\n04100000 A5BB4E94 408EF000\n\n"
+            "content": "[MAX MP]\n04100000 A5BB4E94 408EF000\n\n",
+            "title": "[MAX MP]"
         },
         {
-            "title": "[INF HP]",
-            "content": "[INF HP]\n04100000 A5BB4F24 40C38780\n\n"
+            "content": "[INF HP]\n04100000 A5BB4F24 40C38780\n\n",
+            "title": "[INF HP]"
         },
         {
-            "title": "[INF MP]",
-            "content": "[INF MP]\n04100000 A5BB4F14 40C38780\n\n"
+            "content": "[INF MP]\n04100000 A5BB4F14 40C38780\n\n",
+            "title": "[INF MP]"
         },
         {
-            "title": "[MAX Time]",
-            "content": "[MAX Time]\n04100000 A5BB4E34 40BA0500\n\n"
+            "content": "[MAX Time]\n04100000 A5BB4E34 40BA0500\n\n",
+            "title": "[MAX Time]"
         },
         {
-            "title": "[MAX Knife]",
-            "content": "[MAX Knife]\n04100000 A5BB4E44 40A9FE00\n\n"
+            "content": "[MAX Knife]\n04100000 A5BB4E44 40A9FE00\n\n",
+            "title": "[MAX Knife]"
         },
         {
-            "title": "[MAX AMETHYST]",
-            "content": "[MAX AMETHYST]\n04100000 A5BB4E14 40C38780\n\n"
+            "content": "[MAX AMETHYST]\n04100000 A5BB4E14 40C38780\n\n",
+            "title": "[MAX AMETHYST]"
         },
         {
-            "title": "[MAX AQUAMARINE]",
-            "content": "[MAX AQUAMARINE]\n04100000 A5BB4E04 40C38780\n\n"
+            "content": "[MAX AQUAMARINE]\n04100000 A5BB4E04 40C38780\n\n",
+            "title": "[MAX AQUAMARINE]"
         },
         {
-            "title": "[MAX TOPAZ]",
-            "content": "[MAX TOPAZ]\n04100000 A5BB4DF4 40C38780\n\n"
+            "content": "[MAX TOPAZ]\n04100000 A5BB4DF4 40C38780\n\n",
+            "title": "[MAX TOPAZ]"
         },
         {
-            "title": "[MAX RUBY]",
-            "content": "[MAX RUBY]\n04100000 A5BB4DE4 40C38780\n\n"
+            "content": "[MAX RUBY]\n04100000 A5BB4DE4 40C38780\n\n",
+            "title": "[MAX RUBY]"
         },
         {
-            "title": "[MAX SAPPIRE]",
-            "content": "[MAX SAPPIRE]\n04100000 A5BB4DD4 40C38780\n\n"
+            "content": "[MAX SAPPIRE]\n04100000 A5BB4DD4 40C38780\n\n",
+            "title": "[MAX SAPPIRE]"
         },
         {
-            "title": "[MAX EMERALD]",
-            "content": "[MAX EMERALD]\n04100000 A5BB4DC4 40C38780\n\n"
+            "content": "[MAX EMERALD]\n04100000 A5BB4DC4 40C38780\n\n",
+            "title": "[MAX EMERALD]"
         },
         {
-            "title": "[MAX DIAMOND]",
-            "content": "[MAX DIAMOND]\n04100000 A5BB4DB4 40C38780\n\n"
+            "content": "[MAX DIAMOND]\n04100000 A5BB4DB4 40C38780\n\n",
+            "title": "[MAX DIAMOND]"
         },
         {
-            "title": "[MAX EXP]",
-            "content": "[MAX EXP]\n04100000 A5BB4E74 412E847E\n\n"
+            "content": "[MAX EXP]\n04100000 A5BB4E74 412E847E\n\n",
+            "title": "[MAX EXP]"
         },
         {
-            "title": "[MAX Gold]",
-            "content": "[MAX Gold]\n04100000 A5BB4F04 4197D784\n\n"
+            "content": "[MAX Gold]\n04100000 A5BB4F04 4197D784\n\n",
+            "title": "[MAX Gold]"
         },
         {
-            "title": "[Moon Jump (HOLD ZR+A)]",
-            "content": "[Moon Jump (HOLD ZR+A)]\n80000201\n580F0000 0193BF98\n580F1000 00000008\n580F1000 00000058\n580F1000 00000010\n580F1000 00000B30\n780F0000 00000004\n640F0000 00000000 C0200000\n20000000\n\n"
+            "content": "[Moon Jump (HOLD ZR+A)]\n80000201\n580F0000 0193BF98\n580F1000 00000008\n580F1000 00000058\n580F1000 00000010\n580F1000 00000B30\n780F0000 00000004\n640F0000 00000000 C0200000\n20000000\n\n",
+            "title": "[Moon Jump (HOLD ZR+A)]"
         },
         {
-            "title": "[SPEED UP (HOLD ZL)]",
-            "content": "[SPEED UP (HOLD ZL)] \n580F0000 0193BF98\n580F1000 00000008\n580F1000 00000058\n580F1000 00000010\n580F1000 00000E30\n780F0000 00000004\n640F0000 00000000 400A6666\n80000100\n640F0000 00000000 40240000\n20000000\n\n"
+            "content": "[SPEED UP (HOLD ZL)] \n580F0000 0193BF98\n580F1000 00000008\n580F1000 00000058\n580F1000 00000010\n580F1000 00000E30\n780F0000 00000004\n640F0000 00000000 400A6666\n80000100\n640F0000 00000000 40240000\n20000000\n\n",
+            "title": "[SPEED UP (HOLD ZL)]"
         },
         {
-            "title": "[Invisible (HOLD ZR after hurt)]",
-            "content": "[Invisible (HOLD ZR after hurt)]\n80000200\n580F0000 0193BF98\n580F1000 00000008\n580F1000 00000058\n580F1000 00000010\n580F1000 000003A0\n780F0000 00000004\n640F0000 00000000 40000000\n20000000"
+            "content": "[Invisible (HOLD ZR after hurt)]\n80000200\n580F0000 0193BF98\n580F1000 00000008\n580F1000 00000058\n580F1000 00000010\n580F1000 000003A0\n780F0000 00000004\n640F0000 00000000 40000000\n20000000",
+            "title": "[Invisible (HOLD ZR after hurt)]"
         }
     ]
 }

@@ -1,68 +1,68 @@
 {
     "9346D69ABD4CC24B": [
         {
-            "title": "[accelerator normal]",
-            "content": "[accelerator normal]\n04000000 01893F48 1E2E1001\n\n"
+            "content": "[accelerator normal]\n04000000 01893F48 1E2E1001\n\n",
+            "title": "[accelerator normal]"
         },
         {
-            "title": "[accelerator 1.25x]",
-            "content": "[accelerator 1.25x]\n04000000 01893F48 1E2E9001\n\n"
+            "content": "[accelerator 1.25x]\n04000000 01893F48 1E2E9001\n\n",
+            "title": "[accelerator 1.25x]"
         },
         {
-            "title": "[accelerator 1.5x]",
-            "content": "[accelerator 1.5x]\n04000000 01893F48 1E2F1001\n\n"
+            "content": "[accelerator 1.5x]\n04000000 01893F48 1E2F1001\n\n",
+            "title": "[accelerator 1.5x]"
         },
         {
-            "title": "[accelerator 1.75x]",
-            "content": "[accelerator 1.75x]\n04000000 01893F48 1E2F9001\n\n"
+            "content": "[accelerator 1.75x]\n04000000 01893F48 1E2F9001\n\n",
+            "title": "[accelerator 1.75x]"
         },
         {
-            "title": "[accelerator 31x]",
-            "content": "[accelerator 31x]\n04000000 01893F48 1E27F001\n\n"
+            "content": "[accelerator 31x]\n04000000 01893F48 1E27F001\n\n",
+            "title": "[accelerator 31x]"
         },
         {
-            "title": "[accelerartor2 normal]",
-            "content": "[accelerartor2 normal]\n04000000 01897C8C 1E2E1001\n\n"
+            "content": "[accelerartor2 normal]\n04000000 01897C8C 1E2E1001\n\n",
+            "title": "[accelerartor2 normal]"
         },
         {
-            "title": "[accelerartor2 1.25x]",
-            "content": "[accelerartor2 1.25x]\n04000000 01897C8C 1E2E9001\n\n"
+            "content": "[accelerartor2 1.25x]\n04000000 01897C8C 1E2E9001\n\n",
+            "title": "[accelerartor2 1.25x]"
         },
         {
-            "title": "[accelerartor2 1.5x]",
-            "content": "[accelerartor2 1.5x]\n04000000 01897C8C 1E2F1001\n\n"
+            "content": "[accelerartor2 1.5x]\n04000000 01897C8C 1E2F1001\n\n",
+            "title": "[accelerartor2 1.5x]"
         },
         {
-            "title": "[accelerartor2 1.75x]",
-            "content": "[accelerartor2 1.75x]\n04000000 01897C8C 1E2F9001\n\n"
+            "content": "[accelerartor2 1.75x]\n04000000 01897C8C 1E2F9001\n\n",
+            "title": "[accelerartor2 1.75x]"
         },
         {
-            "title": "[accelerartor2 31x]",
-            "content": "[accelerartor2 31x]\n04000000 01897C8C 1E27F001\n\n"
+            "content": "[accelerartor2 31x]\n04000000 01897C8C 1E27F001\n\n",
+            "title": "[accelerartor2 31x]"
         },
         {
-            "title": "[auto win 1 off]",
-            "content": "[auto win 1 off]\n04000000 017E1C98 1E2E1009\n\n"
+            "content": "[auto win 1 off]\n04000000 017E1C98 1E2E1009\n\n",
+            "title": "[auto win 1 off]"
         },
         {
-            "title": "[auto win 1 on]",
-            "content": "[auto win 1 on]\n04000000 017E1C98 1E27F009\n\n"
+            "content": "[auto win 1 on]\n04000000 017E1C98 1E27F009\n\n",
+            "title": "[auto win 1 on]"
         },
         {
-            "title": "[always stay first 1on ]",
-            "content": "[always stay first 1on ]\n04000000 0181B060 D65F03C0\n\n"
+            "content": "[always stay first 1on ]\n04000000 0181B060 D65F03C0\n\n",
+            "title": "[always stay first 1on ]"
         },
         {
-            "title": "[always stay first 1 off]",
-            "content": "[always stay first 1 off]\n04000000 0181B060 FC1D0FE8\n\n"
+            "content": "[always stay first 1 off]\n04000000 0181B060 FC1D0FE8\n\n",
+            "title": "[always stay first 1 off]"
         },
         {
-            "title": "[always stay first 1on ]",
-            "content": "[always stay first 1on ]\n04000000 0181B060 D65F03C0\n\n"
+            "content": "[always stay first 1on ]\n04000000 0181B060 D65F03C0\n\n",
+            "title": "[always stay first 1on ]"
         },
         {
-            "title": "[always stay first 1 off]",
-            "content": "[always stay first 1 off]\n04000000 0181B060 FC1D0FE8"
+            "content": "[always stay first 1 off]\n04000000 0181B060 FC1D0FE8",
+            "title": "[always stay first 1 off]"
         }
     ]
 }

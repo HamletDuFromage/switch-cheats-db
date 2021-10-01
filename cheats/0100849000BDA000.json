@@ -1,44 +1,44 @@
 {
     "0BBA2167AED893BE": [
         {
-            "title": "{Mastercode}",
-            "content": "{Mastercode}\n04000000 001F7B44 4B140108\n04000000 001F7BAC 4B140108\n04000000 002EA9D4 2B130108\n04000000 002EACD0 4B140108\n04070000 001CE898 B9401109\n04000000 0019AA6C BD404260\n04000000 0025DC8C 39417000\n04000000 00287998 4B140108\n\n"
+            "content": "{Mastercode}\n04000000 001F7B44 4B140108\n04000000 001F7BAC 4B140108\n04000000 002EA9D4 2B130108\n04000000 002EACD0 4B140108\n04070000 001CE898 B9401109\n04000000 0019AA6C BD404260\n04000000 0025DC8C 39417000\n04000000 00287998 4B140108\n\n",
+            "title": "{Mastercode}"
         },
         {
-            "title": "[01# HP is not reduced]",
-            "content": "[01# HP is not reduced]\n04000000 0183D880 B9401271\n04000000 0183D884 51002622\n04000000 0183D888 7100005F\n04000000 0183D88C 5400004A\n04000000 0183D890 52800014\n04000000 0183D894 4B140108\n04000000 0183D898 D65F03C0\n04000000 001F7B44 9459174F\n\n"
+            "content": "[01# HP is not reduced]\n04000000 0183D880 B9401271\n04000000 0183D884 51002622\n04000000 0183D888 7100005F\n04000000 0183D88C 5400004A\n04000000 0183D890 52800014\n04000000 0183D894 4B140108\n04000000 0183D898 D65F03C0\n04000000 001F7B44 9459174F\n\n",
+            "title": "[01# HP is not reduced]"
         },
         {
-            "title": "[02# MP not reduced]",
-            "content": "[02# MP not reduced]\n04000000 001F7BAC 4B1F0108\n\n"
+            "content": "[02# MP not reduced]\n04000000 001F7BAC 4B1F0108\n\n",
+            "title": "[02# MP not reduced]"
         },
         {
-            "title": "[03# Add a lot off Money when get]",
-            "content": "[03# Add a lot off Money when get]\n04000000 002EA9D4 2B132908\n\n"
+            "content": "[03# Add a lot off Money when get]\n04000000 002EA9D4 2B132908\n\n",
+            "title": "[03# Add a lot off Money when get]"
         },
         {
-            "title": "[04# Money is not reduced]",
-            "content": "[04# Money is not reduced]\n04000000 002EACD0 4B1F0108\n\n"
+            "content": "[04# Money is not reduced]\n04000000 002EACD0 4B1F0108\n\n",
+            "title": "[04# Money is not reduced]"
         },
         {
-            "title": "[05# Get more experience]",
-            "content": "[05# Get more experience]\n04070000 001CE898 5284E1E9\n\n"
+            "content": "[05# Get more experience]\n04070000 001CE898 5284E1E9\n\n",
+            "title": "[05# Get more experience]"
         },
         {
-            "title": "[06# Instant ATB gauge]",
-            "content": "[06# Instant ATB gauge]\n04000000 0019AA6C 1E249000\n\n"
+            "content": "[06# Instant ATB gauge]\n04000000 0019AA6C 1E249000\n\n",
+            "title": "[06# Instant ATB gauge]"
         },
         {
-            "title": "[07# Save anywere]",
-            "content": "[07# Save anywere]\n04000000 0025DC8C 52800020\n\n"
+            "content": "[07# Save anywere]\n04000000 0025DC8C 52800020\n\n",
+            "title": "[07# Save anywere]"
         },
         {
-            "title": "[Save anywere (off)]",
-            "content": "[Save anywere (off)]\n04000000 0025DC8C 39417000\n\n"
+            "content": "[Save anywere (off)]\n04000000 0025DC8C 39417000\n\n",
+            "title": "[Save anywere (off)]"
         },
         {
-            "title": "[08# Inf Items]",
-            "content": "[08# Inf Items]\n04000000 00287998 D503201F"
+            "content": "[08# Inf Items]\n04000000 00287998 D503201F",
+            "title": "[08# Inf Items]"
         }
     ]
 }
