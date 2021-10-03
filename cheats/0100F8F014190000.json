@@ -1,0 +1,40 @@
+{
+    "AF7114F019CE6E1D": [
+        {
+            "content": "[Invincible]\n080E0000 035B9E60 B9400268 1E270101\n080E0000 035B9E68 7122811F 12002D08\n080E0000 035B9E70 D65F03C0 1E280C08\n040E0000 003B506C 94C8137D\n\n",
+            "title": "[Invincible]"
+        },
+        {
+            "content": "[Max Wrath (L+ZR Transform back)]\n040E0000 00488C60 1E294D22\n\n",
+            "title": "[Max Wrath (L+ZR Transform back)]"
+        },
+        {
+            "content": "[No decrease for Soul]\n040E0000 004FCA1C 4B1F0129\n\n",
+            "title": "[No decrease for Soul]"
+        },
+        {
+            "content": "[Infinite Consumable Items]\n080E0000 035B9E00 6B13003F B9402D13\n080E0000 035B9E08 D65F03C0 1A93A021\n040E0000 004F67C8 94C30D8E\n\n",
+            "title": "[Infinite Consumable Items]"
+        },
+        {
+            "content": "[Infinite Upgrade Materials]\n040E0000 004FC880 6B0903FB\n\n",
+            "title": "[Infinite Upgrade Materials]"
+        },
+        {
+            "content": "[No decrease for Items sold (for earn soul)]\n040E0000 004FCB04 2A1F03F5\n\n",
+            "title": "[No decrease for Items sold (for earn soul)]"
+        },
+        {
+            "content": "[300% Damage]\n080E0000 035B9E80 12002EB5 B94002D5\n080E0000 035B9E88 540000A1 710702BF\n080E0000 035B9E90 BD400300 1E211001\n080E0000 035B9E98 BD000300 1E210800\n080E0000 035B9EA0 D65F03C0 AA0003F5\n040E0000 004B25A8 94C41E36\n\n",
+            "title": "[300% Damage]"
+        },
+        {
+            "content": "[30x Damage (Not recommended)]\n080E0000 035B9E80 12002EB5 B94002D5\n080E0000 035B9E88 540000A1 710702BF\n080E0000 035B9E90 BD400300 1E27D001\n080E0000 035B9E98 BD000300 1E210800\n080E0000 035B9EA0 D65F03C0 AA0003F5\n040E0000 004B25A8 94C41E36\n\n",
+            "title": "[30x Damage (Not recommended)]"
+        },
+        {
+            "content": "[Created by Eiffel2018]",
+            "title": "[Created by Eiffel2018]"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "B7FF059E225348DF": [
+        {
+            "content": "[empty potty]\n04000000 09E8198C 0000000A\n\n",
+            "title": "[empty potty]"
+        },
+        {
+            "content": "[first aid kit]\n04000000 09E81808 0000000A\n\n",
+            "title": "[first aid kit]"
+        },
+        {
+            "content": "[coin]\n04000000 09E818A4 0000000A\n\n",
+            "title": "[coin]"
+        },
+        {
+            "content": "[handkerchief]\n04000000 09E81884 0000000A\n\n",
+            "title": "[handkerchief]"
+        },
+        {
+            "content": "[ring]\n04000000 09E8186C 0000000A\n\n",
+            "title": "[ring]"
+        },
+        {
+            "content": "[depleted u ball]\n04000000 09E818DC 0000000A\n\n",
+            "title": "[depleted u ball]"
+        },
+        {
+            "content": "[XP = 10]\n04000000 09E81380 0000000A\n\n",
+            "title": "[XP = 10]"
+        },
+        {
+            "content": "[ammo on hand]\n04000000 09E818A0 00000063\n\n",
+            "title": "[ammo on hand]"
+        },
+        {
+            "content": "[ammo in gun]\n04000000 09E817E8 00000063\n",
+            "title": "[ammo in gun]"
+        }
+    ]
+}
