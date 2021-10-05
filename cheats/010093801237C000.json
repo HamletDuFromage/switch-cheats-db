@@ -1,0 +1,124 @@
+{
+    "49161D9CCBC15DF9": [
+        {
+            "content": "[1p invincible on]\n04000000 0111E104 34000123\n\n",
+            "title": "[1p invincible on]"
+        },
+        {
+            "content": "[ invincible off]\n04000000 0111E104 5400012C\n\n",
+            "title": "[ invincible off]"
+        },
+        {
+            "content": "[0.25x slow enermies ]\n04000000 00D6A368 1E2A1001\n\n",
+            "title": "[0.25x slow enermies ]"
+        },
+        {
+            "content": "[0.5x slow enermies ]\n04000000 00D6A368 1E2C1001\n\n",
+            "title": "[0.5x slow enermies ]"
+        },
+        {
+            "content": "[0.75x slow enermies ]\n04000000 00D6A368 1E2D1001\n\n",
+            "title": "[0.75x slow enermies ]"
+        },
+        {
+            "content": "[normal enermies ]\n04000000 00D6A368 1E2E1001\n\n",
+            "title": "[normal enermies ]"
+        },
+        {
+            "content": "[1.25x speed enermies ]\n04000000 00D6A368 1E2E9001\n\n",
+            "title": "[1.25x speed enermies ]"
+        },
+        {
+            "content": "[1.5x speed enermies ]\n04000000 00D6A368 1E2F1001\n\n",
+            "title": "[1.5x speed enermies ]"
+        },
+        {
+            "content": "[1.75x speed enermies ]\n04000000 00D6A368 1E2F9001\n\n",
+            "title": "[1.75x speed enermies ]"
+        },
+        {
+            "content": "[2x speed enermies ]\n04000000 00D6A368 1E201001\n\n",
+            "title": "[2x speed enermies ]"
+        },
+        {
+            "content": "[game slow 0.25x]\n04000000 0070C25C 1E2A1009\n\n",
+            "title": "[game slow 0.25x]"
+        },
+        {
+            "content": "[game slow 0.5x]\n04000000 0070C25C 1E2C1009\n\n",
+            "title": "[game slow 0.5x]"
+        },
+        {
+            "content": "[game slow 0.75x]\n04000000 0070C25C 1E2D1009\n\n",
+            "title": "[game slow 0.75x]"
+        },
+        {
+            "content": "[game speed normal]\n04000000 0070C25C 1E2E1009\n\n",
+            "title": "[game speed normal]"
+        },
+        {
+            "content": "[game speed 1.25x]\n04000000 0070C25C 1E2E9009\n\n",
+            "title": "[game speed 1.25x]"
+        },
+        {
+            "content": "[game speed 1.5x]\n04000000 0070C25C 1E2F1009\n\n",
+            "title": "[game speed 1.5x]"
+        },
+        {
+            "content": "[game speed 1.75x]\n04000000 0070C25C 1E2F9009\n\n",
+            "title": "[game speed 1.75x]"
+        },
+        {
+            "content": "[game speed 2x]\n04000000 0070C25C 1E201009\n\n",
+            "title": "[game speed 2x]"
+        },
+        {
+            "content": "[run+jump modific up normal]\n04000000 009E5EE4 1E2E100C\n\n",
+            "title": "[run+jump modific up normal]"
+        },
+        {
+            "content": "[run+jump modific up1.25x]\n04000000 009E5EE4 1E2E900C\n\n",
+            "title": "[run+jump modific up1.25x]"
+        },
+        {
+            "content": "[run+jump modific up 1.5x]\n04000000 009E5EE4 1E2F100C\n\n",
+            "title": "[run+jump modific up 1.5x]"
+        },
+        {
+            "content": "[run+jump modific up 1.75x]\n04000000 009E5EE4 1E2F900C\n\n",
+            "title": "[run+jump modific up 1.75x]"
+        },
+        {
+            "content": "[run+jump modific up 2x]\n04000000 009E5EE4 1E20100C\n\n",
+            "title": "[run+jump modific up 2x]"
+        },
+        {
+            "content": "[ZL+B moon jump]\n80000102\n04100000 394C256C 447A0000\n20000000\n\n",
+            "title": "[ZL+B moon jump]"
+        },
+        {
+            "content": "[HP]\n04100000 394D4564 43470000\n\n",
+            "title": "[HP]"
+        },
+        {
+            "content": "[Rocket]\n581F0000 394BEF78\n580F1000 00000008\n780F0000 00000000\n640F0000 00000000 42C80000\n\n",
+            "title": "[Rocket]"
+        },
+        {
+            "content": "[Max Rocket 99]\n581F0000 394BFA20\n580F1000 00000008\n780F0000 00000000\n640F0000 00000000 42C60000\n\n",
+            "title": "[Max Rocket 99]"
+        },
+        {
+            "content": "[Infinite HP]\n580F0000 6E244BD0\n580F1000 00000800\n780F0000 0000065C\n640F0000 00000000 42C60000\n\n",
+            "title": "[Infinite HP]"
+        },
+        {
+            "content": "[Infinite Missles]\n580F0000 726EDDC0\n580F1000 00000180\n580F1000 00000430\n580F1000 00000048\n580F1000 00000008\n780F0000 00000000\n640F0000 00000000 4FFF0000\n\n",
+            "title": "[Infinite Missles]"
+        },
+        {
+            "content": "[Arch9SK7]",
+            "title": "[Arch9SK7]"
+        }
+    ]
+}

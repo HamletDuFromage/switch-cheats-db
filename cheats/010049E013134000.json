@@ -29,8 +29,40 @@
             "title": "[Reduce Cool Time for Miracle]"
         },
         {
-            "content": "[Created by Eiffel2018]\n20000000",
+            "content": "[Created by Eiffel2018]\n20000000\n\n",
             "title": "[Created by Eiffel2018]"
+        },
+        {
+            "content": "[moom jump B pad]\n04000000 01FD8050 1E2E1008\n80000002\n04000000 01FD8050 1E2E1009\n20000000\n\n",
+            "title": "[moom jump B pad]"
+        },
+        {
+            "content": "[speed run normal]\n04000000 01F44338 1E2E1000\n\n",
+            "title": "[speed run normal]"
+        },
+        {
+            "content": "[speed run 1.25x]\n04000000 01F44338 1E2E9000\n\n",
+            "title": "[speed run 1.25x]"
+        },
+        {
+            "content": "[speed run 1.5x]\n04000000 01F44338 1E2F1000\n\n",
+            "title": "[speed run 1.5x]"
+        },
+        {
+            "content": "[speed run 1.75]\n04000000 01F44338 1E2F9000\n\n",
+            "title": "[speed run 1.75]"
+        },
+        {
+            "content": "[don't turn on hits]\n04000000 01F116F0 D65F03C0\n\n",
+            "title": "[don't turn on hits]"
+        },
+        {
+            "content": "[1p to enemies invincible on]\n04000000 01FD9EF0 D65F03C0\n\n",
+            "title": "[1p to enemies invincible on]"
+        },
+        {
+            "content": "[1p to enemies invincible off]\n04000000 01FD9EF0 D10383FF",
+            "title": "[1p to enemies invincible off]"
         }
     ]
 }
