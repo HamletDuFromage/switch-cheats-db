@@ -117,8 +117,12 @@
             "title": "[Infinite Missles]"
         },
         {
-            "content": "[Arch9SK7]",
-            "title": "[Arch9SK7]"
+            "content": "[*HP Jericoss]\n580F0000 729AC7C8\n580F1000 00000000\n580F1000 00000018\n580F1000 000000D8\n580F1000 00000000\n580F1000 000000E8\n780F0000 00000054\n640F0000 00000000 445E0000\n\n",
+            "title": "[*HP Jericoss]"
+        },
+        {
+            "content": "[*Moon Jump ZL+B Jericoss]\n80000102\n580F0000 729AC7C8\n580F1000 00000000\n580F1000 00000018\n580F1000 000000D8\n580F1000 00000018\n580F1000 00000000\n580F1000 00000120\n780F0000 000001DC\n640F0000 00000000 44A8B4DF\n20000000",
+            "title": "[*Moon Jump ZL+B Jericoss]"
         }
     ]
 }
