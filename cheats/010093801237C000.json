@@ -129,8 +129,76 @@
             "title": "[ EMMI 1p invincible]"
         },
         {
-            "content": "[ EMMI 1p invincible off]\n04000000 00D34F40 D10203FF",
+            "content": "[ EMMI 1p invincible off]\n04000000 00D34F40 D10203FF\n\n",
             "title": "[ EMMI 1p invincible off]"
+        },
+        {
+            "content": "[Optanic No KO from EMMI or Damage]\n581f0000 33d3af10\n780f0000 00012a3c\n610f0000 00000000 00000001\n\n",
+            "title": "[Optanic No KO from EMMI or Damage]"
+        },
+        {
+            "content": "[Optanic Samus Speed 1.5x]\n04100000 33d400f8 3fc00000\n\n",
+            "title": "[Optanic Samus Speed 1.5x]"
+        },
+        {
+            "content": "[Optanic Infinite Aeion]\n581f0000 33d3af10\n780f0000 000060b8\n610f0000 00000000 00000001\n\n",
+            "title": "[Optanic Infinite Aeion]"
+        },
+        {
+            "content": "[Optanic Instant Speedbooster]\n80000010\n581f0000 33d3af10\n780f0000 00573e0b\n610f0000 00000000 00000040\n20000000\n\n",
+            "title": "[Optanic Instant Speedbooster]"
+        },
+        {
+            "content": "[Optanic Shinespark time]\n581f0000 33d3af10\n780f0000 00574913\n610f0000 00000000 00000040\n\n",
+            "title": "[Optanic Shinespark time]"
+        },
+        {
+            "content": "[Optanic Pulse Radar Time]\n581f0000 33d3af10\n580f1000 00000680\n780f0000 005750af\n610f0000 00000000 00000040\n780f0000 00000004\n610f0000 00000000 00000040\n\n",
+            "title": "[Optanic Pulse Radar Time]"
+        },
+        {
+            "content": "[Optanic Y+X Charged Rapid Fire]\n8000000c\n581f0000 33d3af10\n780f0000 000062c8\n610f0000 00000000 00000001\n780f0000 00000004\n640f0000 00000000 3f800000\n780f0000 00000005\n610f0000 00000000 00000001\n780f0000 00000013\n610f0000 00000000 00000000\n20000000\n\n",
+            "title": "[Optanic Y+X Charged Rapid Fire]"
+        },
+        {
+            "content": "[Optanic ZL+U On ZL+DOWN Off Small Enemies KO on Touch Not Recommended]\n80002100\n581f0000 33d3af10\n780f0000 00012d10\n610f0000 00000000 00000001\n20000000\n80008100\n581f0000 33d3af10\n780f0000 00012d10\n610f0000 00000000 00000000\n20000000\n\n",
+            "title": "[Optanic ZL+U On ZL+DOWN Off Small Enemies KO on Touch Not Recommended]"
+        },
+        {
+            "content": "[Optanic Missile Quick Charge]\n581f0000 33d3af10\n780f0000 000005f3\n610f0000 00000000 00000040\n\n",
+            "title": "[Optanic Missile Quick Charge]"
+        },
+        {
+            "content": "[Optanic Omega Cannon Quick Charge]\n581f0000 33d3af10\n780f0000 00573478\n640f0000 00000000 3f800000\n\n",
+            "title": "[Optanic Omega Cannon Quick Charge]"
+        },
+        {
+            "content": "[Optanic Power Bomb Quick Charge]\n581f0000 33d3af10\n780f0000 00789c30\n640f0000 00000000 3c000000\n\n",
+            "title": "[Optanic Power Bomb Quick Charge]"
+        },
+        {
+            "content": "[Optanic R+B Samus Moonjump]\n80000082\n581f0000 33d3af10\n780f0000 00000a3c\n640f0000 00000000 44c00000\n20000000\n\n",
+            "title": "[Optanic R+B Samus Moonjump]"
+        },
+        {
+            "content": "[Optanic R+B Ball Moonjump]\n80000082\n581f0000 33d3af10\n780f0000 007872dc\n640f0000 00000000 44c00000\n20000000\n\n",
+            "title": "[Optanic R+B Ball Moonjump]"
+        },
+        {
+            "content": "[Optanic Low Playtime around 3 hours]\n02100000 33d40192 00004628\n\n",
+            "title": "[Optanic Low Playtime around 3 hours]"
+        },
+        {
+            "content": "[Optanic Missiles No Decrease]\n04000000 0084d144 1e2703e1\n\n",
+            "title": "[Optanic Missiles No Decrease]"
+        },
+        {
+            "content": "[Optanic Power Bomb No Decrease]\n04000000 008547dc 1e2703e1\n\n",
+            "title": "[Optanic Power Bomb No Decrease]"
+        },
+        {
+            "content": "[Optanic Escape Time 2:59]\n02000000 007d8a61 00002e10",
+            "title": "[Optanic Escape Time 2:59]"
         }
     ]
 }

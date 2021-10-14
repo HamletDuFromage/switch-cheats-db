@@ -1,0 +1,28 @@
+{
+    "8CD5ADBF3BBF1D5D": [
+        {
+            "content": "[Custom Charater Maxout Attributes]\n040E0000 02E607F0 528000A0\n\n",
+            "title": "[Custom Charater Maxout Attributes]"
+        },
+        {
+            "content": "[100% Success in Chance Dialog]\n080E0000 01771070 D65F03C0 52800020\n080E0000 01A99110 D65F03C0 52800020\n\n",
+            "title": "[100% Success in Chance Dialog]"
+        },
+        {
+            "content": "[No Damage to Endurance (Health)]\n040E0000 019D7B00 D65F03C0\n\n",
+            "title": "[No Damage to Endurance (Health)]"
+        },
+        {
+            "content": "[No Damage to Volition (Morale)]\n040E0000 019D7950 D65F03C0\n\n",
+            "title": "[No Damage to Volition (Morale)]"
+        },
+        {
+            "content": "[Pass all White Check]\n040E0000 0170E59C 52800020\n\n",
+            "title": "[Pass all White Check]"
+        },
+        {
+            "content": "[Created by Eiffel2018]\n20000000",
+            "title": "[Created by Eiffel2018]"
+        }
+    ]
+}
