@@ -1,0 +1,16 @@
+{
+    "96637D97114249AE": [
+        {
+            "content": "[1p invincible]\n04000000 0274D268 340000AD\n\ngrafic size\n\n",
+            "title": "[1p invincible]"
+        },
+        {
+            "content": "[hit range normal]\n04000000 009917D8 1E2E1001\n\n",
+            "title": "[hit range normal]"
+        },
+        {
+            "content": "[hit range 1.25x]\n04000000 009917D8 1E2E9001",
+            "title": "[hit range 1.25x]"
+        }
+    ]
+}
