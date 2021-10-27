@@ -10,6 +10,9 @@ with open("versions.json", "r") as versions_file:
 for line in sys.argv:
     try:
         tid = re.search("/(.+)\.", line).group(1)
-        print(versions[tid]["title"])
-    except (TypeError, AttributeError, KeyError()):
+        if "title" in versions[tid]:
+            print(versions[tid]["title"])
+        else:
+            print(tid)
+    except (TypeError, AttributeError):
         pass
