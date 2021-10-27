@@ -7,35 +7,37 @@ import os
 
 
 class ProcessVersions:
-    def __init__(self, url):
-        self.url = url
-        self.data = {}
-        self.versions_dict = {}
+    def __init__(self, cnmts_url, titles_url):
         self.json_path = "versions.json"
         self.cbor_path = "versions.cbor"
         self.dir_path = "versions/"
         self.changed = False
+        self.versions_dict = dict()
+        self.data = json.loads(requests.get(cnmts_url).text)
+        self.title_dict = self.create_names_dict(titles_url)
 
-    def updateVersions(self):
-        self.loadVersionFile()
-        self.getVersionDict()
-        self.checkForChanges()
-        self.writeMasterFiles()
-        self.writeTitleFiles()
+    def update_versions(self):
+        self.get_version_dict()
+        self.check_for_changes()
+        self.write_master_files()
+        self.write_title_files()
 
-    def loadVersionFile(self):
-        self.data = json.loads(requests.get(self.url).text)
-
-    def getVersionDict(self):
+    def get_version_dict(self):
         for tid in self.data:
-            if (tid[:13].upper() + "000") not in self.versions_dict:
-                self.versions_dict[tid[:13].upper() + "000"] = {}
+            tid_base = tid[:13].upper() + "000"
+            if (tid_base) not in self.versions_dict:
+                self.versions_dict[tid_base] = {}
+                try:
+                    self.versions_dict[tid_base]["title"] = self.title_dict[tid_base]
+                except KeyError:
+                    pass
+
             for ver in self.data[tid]:
                 if "buildId" in self.data[tid][ver]["contentEntries"][0]:
-                    self.versions_dict[tid[:13].upper() + "000"][str(self.data[tid][ver]["version"])
+                    self.versions_dict[tid_base][str(self.data[tid][ver]["version"])
                                                                  ] = self.data[tid][ver]["contentEntries"][0]["buildId"][:16].upper()
 
-    def checkForChanges(self):
+    def check_for_changes(self):
         try:
             with open(self.json_path, 'r') as read_file:
                 old = json.load(read_file)
@@ -46,13 +48,13 @@ class ProcessVersions:
             print("File doesn't exist")
             self.changed = True
 
-    def writeMasterFiles(self):
+    def write_master_files(self):
         with open(self.json_path, 'w') as json_file:
             json.dump(self.versions_dict, json_file, indent=4, sort_keys=True)
         """ with open(self.cbor_path, 'wb') as cbor_file:
             cbor2.dump(json.dumps(self.versions_dict), cbor_file) """
 
-    def writeTitleFiles(self):
+    def write_title_files(self):
         if not(os.path.exists(self.dir_path)):
             os.mkdir(self.dir_path)
 
@@ -62,7 +64,13 @@ class ProcessVersions:
                 json.dump(
                     self.versions_dict[tid], json_file, indent=4, sort_keys=True)
 
+    def create_names_dict(self, url):
+        out = dict()
+        for key, value in json.loads(requests.get(url).text).items():
+            out[value["id"]] = value["name"]
+        return out
+
 
 if __name__ == '__main__':
-    ProcessVersions(
-        "https://raw.githubusercontent.com/blawar/titledb/master/cnmts.json").updateVersions()
+    processor = ProcessVersions("https://raw.githubusercontent.com/blawar/titledb/master/cnmts.json", "https://raw.githubusercontent.com/blawar/titledb/master/US.en.json")
+    processor.update_versions()

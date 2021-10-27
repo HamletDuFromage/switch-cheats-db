@@ -65,27 +65,21 @@ jobs:
           python3 upload_cheats.py -o $(curl -s -L https://github.com/HamletDuFromage/switch-cheats-db/releases/download/v1.0/VERSION)
 
       - name: push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'HamletDuFromage'
           git config --global user.email '90281142+Homletbot@users.noreply.github.com'
           git add cheats/*
-          if [[ `git status --porcelain` ]]; then
+          status=$(git status --porcelain)
+          if [[ `$status` ]]; then
             git commit -m "automatic: updated cheat files"
             git push
+            version=$(cat VERSION)
+            gh release create $version --notes "last updated: $(cat DATE)\nCheats updated:\n$(echo $status | xargs python3 build_changelog.py)"
+            gh release upload $version ./contents.zip --clobber
+            gh release upload $version ./titles.zip --clobber
+            gh release upload $version ./VERSION --clobber
           else
             echo "Nothing to commit!"
           fi
-
-      - name: create release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          if [ -f ./VERSION ]
-            then
-              version=$(cat VERSION)
-              gh release create $version --notes "last updated: $(cat DATE)"
-              gh release upload $version ./contents.zip --clobber
-              gh release upload $version ./titles.zip --clobber
-              gh release upload $version ./VERSION --clobber
-          fi
-
