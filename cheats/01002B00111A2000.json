@@ -1064,5 +1064,55 @@
             "content": "[#5 Max HP @Eiffel2018]\n580F0000 025170D8\n780F0000 4A46F554\n680F1000 468CA000 468CA000\n640F1000 00000000 468CA000\n80002000\n300E0000 0000008B\n780F0000 00000050\n680F1000 468CA000 468CA000\n640F1000 00000000 468CA000\n310E0000\n20000000\n\n\n\n\n\n\n\n\n\n",
             "title": "[#5 Max HP @Eiffel2018]"
         }
+    ],
+    "C3CF52BF2B05D731": [
+        {
+            "content": "[sp]\n580F0000 02B5F708\n580F1000 00000030\n580F1000 00000008\n780F0000 00000054\n640F0000 00000000 00010303\n\n",
+            "title": "[sp]"
+        },
+        {
+            "content": "[Impa 7 powered-up specials]\n580A0000 02B5F708\n580A1000 00000030\n580A1000 00000008\n780A0000 000000D0\n640A0000 00000000 00000007\n",
+            "title": "[Impa 7 powered-up specials]"
+        },
+        {
+            "content": "[Infinite Rods/Apples]\n580A0000 02B5F708\n580A1000 00000030\n580A1000 000003C8\n400C0000 00000000 00000910\n680C11A0 00000005 00000005\n640C01A0 00000000 00000005\n400C0000 00000000 0000092C\n640C01A0 00000000 00000007\n\n",
+            "title": "[Infinite Rods/Apples]"
+        },
+        {
+            "content": "[Instant Rune Charge]\n580A0000 02B5F708\n580A1000 00000030\n780A0000 00000064\n640A0000 00000000 00000000\n\n",
+            "title": "[Instant Rune Charge]"
+        },
+        {
+            "content": "[hold ZL 0 inf red beam special/Thunder gauge]\n58020000 02B5F708\n58021000 00000030\n58021000 00000008\n78020000 000000D4\n64020000 00000000 446D8000\n80000100\n64020000 00000000 00000000\n20000000\n\n",
+            "title": "[hold ZL 0 inf red beam special/Thunder gauge]"
+        },
+        {
+            "content": "[Active character pointer]\n58010000 02B5F708\n58011000 00000030\n58011000 00000008\n54011000 00000018\n94511100 0000FFFF\n72012000 00000008\n580F0000 0277CA68\n980F10F0\n580F1000 00000138\n\n",
+            "title": "[Active character pointer]"
+        },
+        {
+            "content": "[Ghost Mode off]\n80000110\n400C0000 00000000 00000028\n640C01F0 00000000 11800009\n20000000\n\n",
+            "title": "[Ghost Mode off]"
+        },
+        {
+            "content": "[Ghost Mode on]\n80000220\n400C0000 00000000 00000028\n640F01C0 00000000 11801009\n20000000\n\n",
+            "title": "[Ghost Mode on]"
+        },
+        {
+            "content": "[mj]\n80000012\n989DF000\n580D1000 00000158\n780D0000 0000000C\n640D0000 00000000 42000000\n20000000\n\n",
+            "title": "[mj]"
+        },
+        {
+            "content": "[Start dashing much faster]\n400C0000 00000000 00000128\n640C01F0 00000000 464E4000\n\n",
+            "title": "[Start dashing much faster]"
+        },
+        {
+            "content": "[size up(1.5)]\n989DF000\n580D1000 00000150\n780D0000 000001E0\n640D0000 00000000 00960096\n\n",
+            "title": "[size up(1.5)]"
+        },
+        {
+            "content": "[size normal(1.0)]\n989DF000\n580D1000 00000150\n780D0000 000001E0\n640D0000 00000000 00640064",
+            "title": "[size normal(1.0)]"
+        }
     ]
 }

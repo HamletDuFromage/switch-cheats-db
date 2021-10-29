@@ -13,7 +13,10 @@ class ProcessVersions:
         self.dir_path = "versions/"
         self.changed = False
         self.versions_dict = dict()
-        self.data = json.loads(requests.get(cnmts_url).text)
+        try:
+            self.data = json.loads(requests.get(cnmts_url).text)
+        except ValueError:
+            print("Invalid JSON file!")
         self.title_dict = self.create_names_dict(titles_url)
 
     def update_versions(self):

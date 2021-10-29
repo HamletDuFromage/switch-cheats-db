@@ -87,8 +87,36 @@
             "title": "[1p damager attack 31x]"
         },
         {
-            "content": "[1p damager attack 31x Off]\n04000000 02E5C1A0 1E2E1000",
+            "content": "[1p damager attack 31x Off]\n04000000 02E5C1A0 1E2E1000\n\n",
             "title": "[1p damager attack 31x Off]"
+        },
+        {
+            "content": "[Infinite Health]\n04000000 03FADE64 2A1503E8\n",
+            "title": "[Infinite Health]"
+        },
+        {
+            "content": "[Infinite Health (Off)]\n\n04000000 03FADE64 1A95C108\n",
+            "title": "[Infinite Health (Off)]"
+        },
+        {
+            "content": "[Infinite Stamina]\n04000000 03FB6C38 D503201F\n",
+            "title": "[Infinite Stamina]"
+        },
+        {
+            "content": "[Infinite Stamina (Off)]\n04000000 03FB6C38 BD01EAA8\n\n",
+            "title": "[Infinite Stamina (Off)]"
+        },
+        {
+            "content": "[Moonjump Press B]\n80000002\n580F0000 09C3C5C8\n580F1000 00000000\n580F1000 00000088\n580F1000 00000168\n580F1000 00000018\n580F1000 00000020\n780F0000 00000158\n640F0000 00000000 44000000\n20000000\n\n",
+            "title": "[Moonjump Press B]"
+        },
+        {
+            "content": "[Speed Up X2.5 (Y)]\n580F0000 09C3C5C8\n580F1000 00000000\n580F1000 00000188\n780F0000 00000010\n640F0000 00000000 3F800000\n80000008\n640F0000 00000000 40200000\n20000000\n\n",
+            "title": "[Speed Up X2.5 (Y)]"
+        },
+        {
+            "content": "[Speed Down (ZL+R)]\n580F0000 09C3C5C8\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n580F1000 00000050\n780F0000 00000020\n640F0000 00000000 3F800000\n80000180\n640F0000 00000000 3F000000\n20000000",
+            "title": "[Speed Down (ZL+R)]"
         }
     ],
     "7667839B25E6B6EB": [
