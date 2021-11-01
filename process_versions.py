@@ -13,6 +13,7 @@ class ProcessVersions:
         self.dir_path = "versions/"
         self.changed = False
         self.versions_dict = dict()
+        self.data = dict()
         try:
             self.data = json.loads(requests.get(cnmts_url).text)
         except ValueError:
@@ -20,10 +21,11 @@ class ProcessVersions:
         self.title_dict = self.create_names_dict(titles_url)
 
     def update_versions(self):
-        self.get_version_dict()
-        self.check_for_changes()
-        self.write_master_files()
-        self.write_title_files()
+        if not self.data:
+            self.get_version_dict()
+            self.check_for_changes()
+            self.write_master_files()
+            self.write_title_files()
 
     def get_version_dict(self):
         for tid in self.data:
