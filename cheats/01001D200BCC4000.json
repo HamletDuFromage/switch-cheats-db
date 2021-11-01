@@ -1,0 +1,24 @@
+{
+    "B3F0E741DBE41BF5": [
+        {
+            "content": "[10x EXP]\n080E0000 01532E00 FD400020 D102C3A1\n080E0000 01532E08 1E610800 1E649001\n080E0000 01532E10 D65F03C0 FD000020\n040E0000 002B5BEC 9449F485\n\n",
+            "title": "[10x EXP]"
+        },
+        {
+            "content": "[5x Damage]\n080E0000 01532E20 FD400020 AA1303E0\n080E0000 01532E28 1E610800 1E629001\n080E0000 01532E30 D65F03C0 FD000020\n040E0000 0079E888 94365166\n\n",
+            "title": "[5x Damage]"
+        },
+        {
+            "content": "[item no reduce]\n040E0000 0022F448 D503201F\n040E0000 0022FF30 D503201F\n\n",
+            "title": "[item no reduce]"
+        },
+        {
+            "content": "[Money no reduce]\n040E0000 00A9B7AC D503201F\n040E0000 00C113EC D503201F\n040E0000 00C36F50 D503201F\n\n",
+            "title": "[Money no reduce]"
+        },
+        {
+            "content": "[Created by Eiffel2018, enjoy!]\n20000000",
+            "title": "[Created by Eiffel2018, enjoy!]"
+        }
+    ]
+}

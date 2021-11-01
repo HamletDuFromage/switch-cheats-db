@@ -62,7 +62,7 @@ jobs:
 
       - name: run python script
         run: |
-          python3 upload_cheats.py -o $(curl -s -L https://github.com/HamletDuFromage/switch-cheats-db/releases/download/v1.0/VERSION)
+          python3 upload_cheats.py -o $(curl -s -L https://github.com/HamletDuFromage/switch-cheats-db/releases/latest/download/VERSION)
 
       - name: push changes
         env:
