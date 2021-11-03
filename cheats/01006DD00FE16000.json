@@ -1,4 +1,46 @@
 {
+    "7769608A9494E5DB": [
+        {
+            "content": "[Invincible]\n080E0000 04BE9E00 394D1274 AA1303E0\n080E0000 04BE9E08 1A9F17F4 71000A9F\n080E0000 04BE9E10 D65F03C0 39240274\n040E0000 0170C4C4 94D3764F\n\n",
+            "title": "[Invincible]"
+        },
+        {
+            "content": "[Crystals do not deduct]\n010E0000 016681CA 0000001F\n010E0000 016724AA 0000001F\n010E0000 0193772A 0000001F\n\n",
+            "title": "[Crystals do not deduct]"
+        },
+        {
+            "content": "[Solar chips do not deduct]\n010E0000 0166476A 0000001F\n\n",
+            "title": "[Solar chips do not deduct]"
+        },
+        {
+            "content": "[Note: Choose only one of the following **]\n20000000\n\n",
+            "title": "[Note: Choose only one of the following **]"
+        },
+        {
+            "content": "[* 1x Damage (Default)]\n040E0000 0170D3A0 4B080129\n040E0000 018633F0 4B080129\n\n",
+            "title": "[* 1x Damage (Default)]"
+        },
+        {
+            "content": "[* 2x Damage]\n080E0000 04BE9E20 7100081F 394D1260\n080E0000 04BE9E28 531F7908 54000040\n080E0000 04BE9E30 D65F03C0 4B080129\n040E0000 0170D3A0 94D372A0\n040E0000 018633F0 94CE1A8C\n\n",
+            "title": "[* 2x Damage]"
+        },
+        {
+            "content": "[* 4x Damage]\n080E0000 04BE9E20 7100081F 394D1260\n080E0000 04BE9E28 531E7508 54000040\n080E0000 04BE9E30 D65F03C0 4B080129\n040E0000 0170D3A0 94D372A0\n040E0000 018633F0 94CE1A8C\n\n",
+            "title": "[* 4x Damage]"
+        },
+        {
+            "content": "[* 8x Damage]\n080E0000 04BE9E20 7100081F 394D1260\n080E0000 04BE9E28 531D7108 54000040\n080E0000 04BE9E30 D65F03C0 4B080129\n040E0000 0170D3A0 94D372A0\n040E0000 018633F0 94CE1A8C\n\n",
+            "title": "[* 8x Damage]"
+        },
+        {
+            "content": "[* One-Hit-Kill (Not suggest)]\n080E0000 04BE9E20 7100081F 394D1260\n080E0000 04BE9E28 2A0903E8 54000040\n080E0000 04BE9E30 D65F03C0 4B080129\n040E0000 0170D3A0 94D372A0\n040E0000 018633F0 94CE1A8C\n\n",
+            "title": "[* One-Hit-Kill (Not suggest)]"
+        },
+        {
+            "content": "[Created by Eiffel2018, enjoy!]\n20000000",
+            "title": "[Created by Eiffel2018, enjoy!]"
+        }
+    ],
     "AAC1A3684EA9CECF": [
         {
             "content": "[Invincible]\n080E0000 03D95E00 394D1268 AA1303E0\n080E0000 03D95E08 1A9F17E8 7100091F\n080E0000 03D95E10 D65F03C0 39240268\n040E0000 00967158 94D0BB2A\n\n",
