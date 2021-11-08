@@ -1,0 +1,28 @@
+{
+    "AA9F5136791936A7": [
+        {
+            "content": "[HP 999]\n04000000 014C5360 52807CE0\n\n",
+            "title": "[HP 999]"
+        },
+        {
+            "content": "[HP Off]\n04000000 014C5360 2A0103E0\n\n",
+            "title": "[HP Off]"
+        },
+        {
+            "content": "[Coins x4]\n04000000 015872E0 8B336908\n\n",
+            "title": "[Coins x4]"
+        },
+        {
+            "content": "[Coins x4 Off]\n04000000 015872E0 8B334108\n\n",
+            "title": "[Coins x4 Off]"
+        },
+        {
+            "content": "[Coins No decrease]\n04000000 01585AA4 51000100\n\n",
+            "title": "[Coins No decrease]"
+        },
+        {
+            "content": "[Coins No decrease Off]\n04000000 01585AA4 4B010100",
+            "title": "[Coins No decrease Off]"
+        }
+    ]
+}
