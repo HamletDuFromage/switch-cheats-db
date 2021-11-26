@@ -36,5 +36,215 @@
             "content": "[ammo in gun]\n04000000 09E817E8 00000063\n",
             "title": "[ammo in gun]"
         }
+    ],
+    "BA30581E9C9E6C3B": [
+        {
+            "content": "[Inf. Health (On)]\n040C0000 0002FBB8 D503201F\n",
+            "title": "[Inf. Health (On)]"
+        },
+        {
+            "content": "[Inf. Health (Off)]\n040C0000 0002FBB8 B9054268\n\n",
+            "title": "[Inf. Health (Off)]"
+        },
+        {
+            "content": "[Increase Health (On)]\n040C0000 0002FBB0 0B160108\n",
+            "title": "[Increase Health (On)]"
+        },
+        {
+            "content": "[Increase Health (Off)]\n040C0000 0002FBB0 4B160108\n\n",
+            "title": "[Increase Health (Off)]"
+        },
+        {
+            "content": "[Stop Bleeding (On)]\n040C0000 09E83374 00000000\n",
+            "title": "[Stop Bleeding (On)]"
+        },
+        {
+            "content": "[Stop Bleeding (Off)]\n040C0000 09E83374 00000001\n\n",
+            "title": "[Stop Bleeding (Off)]"
+        },
+        {
+            "content": "[Inf. Item usage (On)]\n040C0000 000387A8 D503201F\n",
+            "title": "[Inf. Item usage (On)]"
+        },
+        {
+            "content": "[Inf. Item usage (Off)]\n040C0000 000387A8 B900012A\n\n",
+            "title": "[Inf. Item usage (Off)]"
+        },
+        {
+            "content": "[Increase Items (On)]\n040C0000 000387A4 3100054A\n",
+            "title": "[Increase Items (On)]"
+        },
+        {
+            "content": "[Increase Items (Off)]\n040C0000 000387A4 B900012A\n\n",
+            "title": "[Increase Items (Off)]"
+        },
+        {
+            "content": "[Inf. Ammo (On)]\n040C0000 00039DE0 D503201F\n",
+            "title": "[Inf. Ammo (On)]"
+        },
+        {
+            "content": "[Inf. Ammo (Off)]\n040C0000 00039DE0 B900014B\n\n",
+            "title": "[Inf. Ammo (Off)]"
+        },
+        {
+            "content": "[Increase Ammo (On)]\n040C0000 00039DDC 3100056B\n",
+            "title": "[Increase Ammo (On)]"
+        },
+        {
+            "content": "[Increase Ammo (Off)]\n040C0000 00039DDC 7100056B\n\n",
+            "title": "[Increase Ammo (Off)]"
+        },
+        {
+            "content": "[Set ! Timer to 0]\n040C0000 0A30FB30 00000000\n\n",
+            "title": "[Set ! Timer to 0]"
+        },
+        {
+            "content": "[\u2192 Level Up]\n80004000\n540C0000 09E8339C\nC043C400 00000012\nA4C00400 09E83390\n20000000\n\n",
+            "title": "[\u2192 Level Up]"
+        },
+        {
+            "content": "[/!\\ Unlock Item in Story First /!\\]\n00000000 00000000 00000000\n\n",
+            "title": "[/!\\ Unlock Item in Story First /!\\]"
+        },
+        {
+            "content": "[- Inf. Ammo Cheats -]\n00000000 00000000 00000000\n\n",
+            "title": "[- Inf. Ammo Cheats -]"
+        },
+        {
+            "content": "[Bullets]\n040C0000 09E834A0 00000001\n040C0000 09E838C8 0000000A\n\n",
+            "title": "[Bullets]"
+        },
+        {
+            "content": "[Depleted Uranium Ball]\n040C0000 09E834DC 00000001\n040C0000 09E83904 0000000A\n\n",
+            "title": "[Depleted Uranium Ball]"
+        },
+        {
+            "content": "[Electromagnetic Grenade]\n040C0000 09E83540 00000001\n040C0000 09E83968 0000000A\n\n",
+            "title": "[Electromagnetic Grenade]"
+        },
+        {
+            "content": "[Grenade]\n040C0000 09E833EC 00000001\n040C0000 09E83814 0000000A\n\n",
+            "title": "[Grenade]"
+        },
+        {
+            "content": "[Molotov Cocktail]\n040C0000 09E83494 00000001\n040C0000 09E838BC 0000000A\n\n",
+            "title": "[Molotov Cocktail]"
+        },
+        {
+            "content": "[Pistol]\n040C0000 09E833E8 00000001\n040C0000 09E83810 0000000A\n\n",
+            "title": "[Pistol]"
+        },
+        {
+            "content": "[Rocket]\n040C0000 09E833F0 00000001\n040C0000 09E83818 0000000A\n\n",
+            "title": "[Rocket]"
+        },
+        {
+            "content": "[- Inf. Items Cheats -]\n00000000 00000000 00000000\n\n",
+            "title": "[- Inf. Items Cheats -]"
+        },
+        {
+            "content": "[Battery]\n040C0000 09E834F4 00000001\n040C0000 09E8391C 0000000A\n\n",
+            "title": "[Battery]"
+        },
+        {
+            "content": "[Bottle with Gasoline]\n040C0000 09E8348C 00000001\n040C0000 09E838B4 0000000A\n\n",
+            "title": "[Bottle with Gasoline]"
+        },
+        {
+            "content": "[Bottle with Handkerchief]\n040C0000 09E83490 00000001\n040C0000 09E838B8 0000000A\n\n",
+            "title": "[Bottle with Handkerchief]"
+        },
+        {
+            "content": "[Chloro]\n040C0000 09E834A8 00000001\n040C0000 09E838D0 0000000A\n\n",
+            "title": "[Chloro]"
+        },
+        {
+            "content": "[Chloroform]\n040C0000 09E834B0 00000001\n040C0000 09E838D8 0000000A\n\n",
+            "title": "[Chloroform]"
+        },
+        {
+            "content": "[Cicuit]\n040C0000 09E83438 00000001\n040C0000 09E83860 0000000A\n\n",
+            "title": "[Cicuit]"
+        },
+        {
+            "content": "[Coin]\n040C0000 09E834A4 00000001\n040C0000 09E838CC 0000000A\n\n",
+            "title": "[Coin]"
+        },
+        {
+            "content": "[Empty Bottle]\n040C0000 09E83480 00000001\n040C0000 09E838A8 0000000A\n\n",
+            "title": "[Empty Bottle]"
+        },
+        {
+            "content": "[Empty Potty]\n040C0000 09E8358C 00000001\n040C0000 09E839B4 0000000A\n\n",
+            "title": "[Empty Potty]"
+        },
+        {
+            "content": "[Empty the Full Potty]\n040C0000 09E83590 00000000\n040C0000 09E839B8 00000000\n\n",
+            "title": "[Empty the Full Potty]"
+        },
+        {
+            "content": "[Files]\n040C0000 09E83420 00000001\n040C0000 09E83848 0000000A\n\n",
+            "title": "[Files]"
+        },
+        {
+            "content": "[First Aid Kit]\n040C0000 09E83408 00000001\n040C0000 09E83830 0000000A\n\n",
+            "title": "[First Aid Kit]"
+        },
+        {
+            "content": "[Form]\n040C0000 09E834AC 00000001\n040C0000 09E838D4 0000000A\n\n",
+            "title": "[Form]"
+        },
+        {
+            "content": "[Gasoline]\n040C0000 09E83488 00000001\n040C0000 09E838B0 0000000A\n\n",
+            "title": "[Gasoline]"
+        },
+        {
+            "content": "[Half of a Coin]\n040C0000 09E8343C 00000001\n040C0000 09E83864 0000000A\n\n",
+            "title": "[Half of a Coin]"
+        },
+        {
+            "content": "[Handkerchief]\n040C0000 09E83484 00000001\n040C0000 09E838AC 0000000A\n\n",
+            "title": "[Handkerchief]"
+        },
+        {
+            "content": "[Lighter]\n040C0000 09E83474 00000001\n040C0000 09E8389C 0000000A\n\n",
+            "title": "[Lighter]"
+        },
+        {
+            "content": "[Mini Torpedo]\n040C0000 09E83520 00000001\n040C0000 09E83948 0000000A\n\n",
+            "title": "[Mini Torpedo]"
+        },
+        {
+            "content": "[Plastic Drum]\n040C0000 09E83478 00000001\n040C0000 09E838A0 0000000A\n\n",
+            "title": "[Plastic Drum]"
+        },
+        {
+            "content": "[Ring]\n040C0000 09E8346C 00000001\n040C0000 09E83894 0000000A\n\n",
+            "title": "[Ring]"
+        },
+        {
+            "content": "[Salted Water]\n040C0000 09E834C4 00000001\n040C0000 09E838EC 0000000A\n\n",
+            "title": "[Salted Water]"
+        },
+        {
+            "content": "[Sodium]\n040C0000 09E834B4 00000001\n040C0000 09E838DC 0000000A\n\n",
+            "title": "[Sodium]"
+        },
+        {
+            "content": "[Sunglasses]\n040C0000 09E83470 00000001\n040C0000 09E83898 0000000A\n\n",
+            "title": "[Sunglasses]"
+        },
+        {
+            "content": "[Water]\n040C0000 09E834C0 00000001\n040C0000 09E838E8 0000000A\n\n",
+            "title": "[Water]"
+        },
+        {
+            "content": "[Wrist Watch]\n040C0000 09E83468 00000001\n040C0000 09E83890 0000000A\n\n",
+            "title": "[Wrist Watch]"
+        },
+        {
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p]"
+        }
     ]
 }
