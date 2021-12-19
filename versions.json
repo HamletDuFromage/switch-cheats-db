@@ -26709,6 +26709,9 @@
         "0": "7C7AAD88B10A5D4D",
         "title": "Rogue Explorer"
     },
+    "010090C016EE4000": {
+        "65536": "4C552D489FF64F4E"
+    },
     "010090E00ECF4000": {
         "0": "0B9CE45D62C79D45",
         "65536": "0D7F4DF6C230184A",
@@ -32175,6 +32178,7 @@
     },
     "0100AE300F5B4000": {
         "0": "4C40C98A7AD3734A",
+        "65536": "B9AA2D66AD923D49",
         "title": "Scheming Through The Zombie Apocalypse: The Beginning"
     },
     "0100AE30119E0000": {
@@ -40459,6 +40463,9 @@
     "0100DAE00DE4E000": {
         "0": "368445B76F3D594D",
         "title": "Xtreme Club Racing"
+    },
+    "0100DAE016AEA000": {
+        "0": "2B16CCC1E9B63046"
     },
     "0100DAF00B620000": {
         "0": "88277F285ECC6B44",
