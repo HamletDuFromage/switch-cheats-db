@@ -2260,6 +2260,10 @@
         "title": "Plague Inc: Evolved"
     },
     "01000CE00CBB9000": {},
+    "01000CE01428C000": {
+        "0": "303CDB1E2E02BA70",
+        "title": "Tunnel of Doom"
+    },
     "01000CF0084BC000": {
         "0": "A53D3A1A0D5FC8D0",
         "131072": "8650791726B095A7",
@@ -4520,6 +4524,10 @@
         "65536": "0001A3C931FD9297",
         "title": "Doom & Destiny"
     },
+    "010019F016BFC000": {
+        "0": "8A136533A4D027EC",
+        "title": "Gardener's Path"
+    },
     "01001A0011798000": {
         "0": "D07802E022207509",
         "65536": "02A5C7D5DBE1A061",
@@ -5156,6 +5164,10 @@
         "title": "Hatsune Miku: Project DIVA Mega Mix"
     },
     "01001CC00FA1B000": {},
+    "01001CC012CC4000": {
+        "0": "1A4DCF890C29D449",
+        "title": "Teratopia"
+    },
     "01001CC014784000": {
         "0": "C1CF1D424D9EF7B2",
         "title": "Craps at Aces Casino"
@@ -5438,6 +5450,7 @@
         "65536": "BDBB505356CD0948"
     },
     "01001E7016716000": {
+        "0": "05FF0B001D9C7242",
         "65536": "CC34F577CD515042",
         "title": "Horatio Goes Snowboarding"
     },
@@ -6523,6 +6536,7 @@
         "131072": "338A14502BC08D4C",
         "196608": "94AEBB5693DA0447",
         "262144": "1773D38B8470A848",
+        "327680": "1F49C1662855344C",
         "65536": "2887CAB6E0314B41"
     },
     "010024700901A000": {
@@ -16580,6 +16594,7 @@
         "title": "Escape from the Universe"
     },
     "01005A10123BE000": {
+        "131072": "EC60144160A76622",
         "65536": "5C44F391BDFB4CC2"
     },
     "01005A200F36C000": {
@@ -20787,7 +20802,8 @@
         "title": "60 Seconds! Reatomized"
     },
     "01007010157B4000": {
-        "0": "E876CB6341D675D6"
+        "0": "E876CB6341D675D6",
+        "65536": "2CD73D6B5D65673C"
     },
     "0100701015846000": {
         "0": "AB5EDA81E2DAE441",
@@ -21848,6 +21864,13 @@
     "0100752011628000": {
         "0": "0BFD8CE274844BE1",
         "title": "TTV2"
+    },
+    "0100752016C3C000": {
+        "0": "821BF0472248F758",
+        "title": "Arcade Archives ORIUS"
+    },
+    "010075301687A000": {
+        "65536": "2DD601B80DC7B838"
     },
     "010075400B220000": {
         "0": "D7A17208C2FBA64E",
@@ -23660,6 +23683,9 @@
     },
     "01007F30124EA000": {
         "0": "1475734A0199BB84"
+    },
+    "01007F3012EEA000": {
+        "65536": "9E39487613D9AB86"
     },
     "01007F4004FA4000": {
         "0": "C60224B14ECF7879",
@@ -34466,6 +34492,7 @@
         "title": "Bakery Master"
     },
     "0100BA6015E82000": {
+        "131072": "36F5EE82C6C4447D",
         "65536": "9CEEA0A66EECD747",
         "title": "Shinya Ichizoku The Battle for Hokkaido's Delicious Foods"
     },
@@ -35998,6 +36025,10 @@
     "0100C20015ED8000": {
         "0": "0E47CA85B4A82E42",
         "title": "Enchanted Path"
+    },
+    "0100C200163DE000": {
+        "0": "31A1A73AA90F8C4B",
+        "title": "Lynn, The Girl Drawn On Puzzles"
     },
     "0100C2100F2CE000": {
         "131072": "6558313FD2833C4C",
@@ -38367,6 +38398,7 @@
         "title": "Valthirian Arc: Hero School Story Demo"
     },
     "0100CEC012BCA000": {
+        "131072": "EC60144160A76622",
         "65536": "4DBCBFE87807D5EE"
     },
     "0100CEC013C56000": {
@@ -38445,6 +38477,7 @@
     },
     "0100CF600FF7A000": {
         "0": "5CA92DBDB32E64AF",
+        "65536": "C87FD7CB3BD5C750",
         "title": "Red Bow"
     },
     "0100CF6011A2C000": {
@@ -41092,6 +41125,10 @@
         "0": "C0A73D4DD4CBA1BC",
         "title": "Super Fowlst 2"
     },
+    "0100DD70171CE000": {
+        "0": "A553150B1778F3A1",
+        "title": "Christmas Racing"
+    },
     "0100DD80146F0000": {
         "65536": "A99278B3DC94D94E",
         "title": "RICO: London"
@@ -43277,6 +43314,10 @@
     "0100E88009A34000": {
         "0": "A2664A4BFE35C04B",
         "title": "Rocket Wars"
+    },
+    "0100E890170E8000": {
+        "0": "94740116E569D783",
+        "title": "Santa Throw"
     },
     "0100E8A00BCCA000": {
         "0": "B60BA569B8518F30",
