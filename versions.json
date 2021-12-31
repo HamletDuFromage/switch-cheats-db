@@ -4564,6 +4564,7 @@
     },
     "01001A2016CFE000": {
         "0": "10C6EE12D22BA549",
+        "131072": "5E0B9F217657EEB1",
         "65536": "6D0A40CEA813447A",
         "title": "Crazy Zen Codeword"
     },
@@ -6477,6 +6478,10 @@
         "131072": "C90391591CD33044",
         "title": "Escape from Life Inc"
     },
+    "010023E016F8E000": {
+        "0": "449EE6EBFE953790",
+        "title": "Canceled! Super Puzzles Dream"
+    },
     "010023F008204000": {
         "0": "5D6B7A738E29324E",
         "65536": "27C1B5B38C63D045",
@@ -6782,6 +6787,7 @@
     "010025D01221A000": {
         "0": "9D5A194418348948",
         "196608": "BC45558FBD98AC49",
+        "262144": "4F45E7314562964E",
         "65536": "4A14C2625F66DB48",
         "title": "Alex Kidd in Miracle World DX"
     },
@@ -16491,6 +16497,10 @@
         "65536": "094EA304F3F3CA72",
         "title": "Arcade Archives EARTH DEFENSE FORCE"
     },
+    "01005960159D8000": {
+        "0": "3B8FDEF25F324731",
+        "title": "Eufloria HD"
+    },
     "010059700D4A0000": {
         "0": "274D62F691FA5A40",
         "title": "Sephirothic Stories"
@@ -19062,6 +19072,10 @@
         "65536": "921CA58103B00781",
         "title": "ACA NEOGEO ART OF FIGHTING 2"
     },
+    "0100666016DBC000": {
+        "0": "70C8AA9052D6B742",
+        "title": "Frogs vs. Storks"
+    },
     "0100667009E4C000": {
         "196608": "A1A7CD2780632AEA",
         "262144": "425681DAF1DF6E16",
@@ -21402,7 +21416,8 @@
         "65536": "E2F650581883339C"
     },
     "010072C009826000": {
-        "0": "EBF6A9355F101D4F"
+        "0": "EBF6A9355F101D4F",
+        "title": "Arcade Archives Mutant Night"
     },
     "010072C010002000": {
         "0": "948674D16C107B4D",
@@ -23491,6 +23506,10 @@
         "65536": "1A8BAF6444B59646",
         "title": "Golden Force"
     },
+    "01007DE016E9E000": {
+        "0": "6348715E851F18EE",
+        "title": "Hollow 2"
+    },
     "01007DF00D420000": {
         "131072": "BA3D1F4F9C574A65"
     },
@@ -24653,6 +24672,9 @@
     "010084B012FF0000": {
         "0": "37543F000FBA9A93",
         "title": "Birds and Blocks"
+    },
+    "010084C016F9E000": {
+        "0": "2C9A065FCC4AEB3C"
     },
     "010084D00A134000": {
         "0": "7279A0B167AE48B9",
@@ -36644,6 +36666,7 @@
         "524288": "050B415E2E9C175E",
         "589824": "DDFA7977A70DA660",
         "65536": "F133ACDBEEF9F830",
+        "655360": "F70D90EE4C2C0DA6",
         "title": "Battle Brothers \u2013 A Turn Based Tactical RPG"
     },
     "0100C5000F295000": {},
@@ -40377,6 +40400,7 @@
         "title": "Mind Scanners"
     },
     "0100D8C01674C000": {
+        "0": "6C57FBA727377C44",
         "65536": "20C720EE2F9FB74F",
         "title": "Pawn of the Dead"
     },
