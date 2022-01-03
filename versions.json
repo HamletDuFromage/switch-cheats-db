@@ -13391,6 +13391,7 @@
     "01004820120C0000": {
         "0": "3B45ECB1C3C81656",
         "131072": "08D1DFCFBF20B9C8",
+        "196608": "4C6E196EC4868D72",
         "65536": "B1C91BA8ED7A4DA9",
         "title": "BallzOut"
     },
@@ -38547,6 +38548,9 @@
         "0": "CFB2EEA48D2FA748",
         "title": "Comic Coloring Book - Complete Edition"
     },
+    "0100CF001426A000": {
+        "65536": "BFBCA454BDC81C38"
+    },
     "0100CF10099B2000": {
         "0": "2EDE54D384EF9F44",
         "131072": "106DE0F784A69E43",
@@ -42210,6 +42214,7 @@
     "0100E2800BBC2000": {
         "0": "6EDAA0B542A6EC7D",
         "131072": "196009B95CC16A24",
+        "196608": "841A848933F3EC82",
         "65536": "41D748668F80B4B0",
         "title": "Galactic Defence Squadron"
     },
