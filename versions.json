@@ -3845,7 +3845,8 @@
         "title": "Arcade Archives BLACK HEART"
     },
     "010015E01667E000": {
-        "0": "B12A1178ED47F242"
+        "0": "B12A1178ED47F242",
+        "65536": "BB6CD33B1F38992D"
     },
     "010015F005C8E000": {
         "0": "5637B2476C5DFE45",
@@ -4423,6 +4424,7 @@
         "131072": "F0848BDF3FAA184B",
         "196608": "D8E48DEA59964978",
         "262144": "1D82EC71E02781A9",
+        "327680": "D1F90B799E5EDE7F",
         "title": "DEEEER Simulator: Your Average Everyday Deer Game"
     },
     "0100190014D73000": {},
@@ -5184,6 +5186,10 @@
     "01001C800DBC0000": {
         "0": "A8DF2D5FE22E4E4E",
         "title": "Desktop Table Tennis"
+    },
+    "01001C8016DCC000": {
+        "0": "BE984005EC96442F",
+        "title": "MonsterFruitAcademy"
     },
     "01001C9007614000": {
         "0": "9DEF3260BED3B449",
@@ -13326,6 +13332,7 @@
         "196608": "A61702D6ADC19FF2",
         "65536": "22F01ED9CED3F939"
     },
+    "010046601125B000": {},
     "0100467010EBA000": {
         "0": "D3EB6E428A260A45"
     },
@@ -13373,6 +13380,10 @@
         "0": "EB4CDA619225CE45",
         "65536": "FEC9D36814A625A7",
         "title": "A Pretty Odd Bunny"
+    },
+    "010046D0171C0000": {
+        "0": "A88A857CB6A23E50",
+        "title": "Chef Word Ardee"
     },
     "010046F00F5E4000": {
         "0": "EE0D571E754A454C",
@@ -15203,6 +15214,10 @@
         "title": "Pure / Electric Love \"Everyone else!\" - Ema Sakura -"
     },
     "010050300AC29000": {},
+    "0100503016C1C000": {
+        "0": "47619B1217D2E41E",
+        "title": "BlackJack Math"
+    },
     "010050400BD38000": {
         "0": "68468E05C75F05F5",
         "196608": "C7D8C40CE277EE1D",
@@ -16134,6 +16149,7 @@
     },
     "010055B01636A000": {
         "0": "C09F6182F7649E43",
+        "196608": "A20263BD5E43B548",
         "65536": "84E9EAB654B9D241",
         "title": "Hoplegs"
     },
@@ -19628,6 +19644,10 @@
     "010067D012972000": {
         "0": "A3495B946AB3F243",
         "title": "Retro Arcade Shooter - Attack from Pluto"
+    },
+    "010067D017208000": {
+        "0": "53A35D75F8DA4F4B",
+        "title": "Football Killer"
     },
     "010067E00D9AE000": {
         "0": "DDE2EA73E2092CB0",
@@ -25103,11 +25123,13 @@
     },
     "0100854015868000": {
         "0": "F77D2D1BF2DF654B",
+        "131072": "A23823EA8CE4C45D",
         "65536": "5E0C4D84FC20AA7E",
         "title": "STAR WARS\u2122: Knights of the Old Republic\u2122"
     },
     "010085401766C000": {
-        "0": "AEC34738FBD29D05"
+        "0": "AEC34738FBD29D05",
+        "title": "Shadow Quest"
     },
     "010085500130A000": {
         "0": "9965DA8B232C4D4B",
@@ -25991,6 +26013,10 @@
         "131072": "997349DB1A7A6721",
         "65536": "BAB75F9FD2C8F8E4",
         "title": "Animal Doctor"
+    },
+    "01008A70170FC000": {
+        "0": "EBD93A0FB908B0F1",
+        "title": "Dungeons of Shalnor"
     },
     "01008A801370C000": {
         "0": "95CB3354FB64264C",
@@ -27754,6 +27780,10 @@
         "65536": "4D2483C5BA7800BE",
         "title": "What the Dub?!"
     },
+    "01009370171AA000": {
+        "0": "6B8318CB1193A020",
+        "title": "Kinduo"
+    },
     "010093800A98C000": {
         "0": "A7537F646D2FC84A",
         "title": "Super Blackjack Battle 2 Turbo Edition - The Card Warriors"
@@ -28774,7 +28804,8 @@
         "title": "'n Verlore Verstand"
     },
     "0100989016D56000": {
-        "0": "15D8A77433DFE704"
+        "0": "15D8A77433DFE704",
+        "title": "Pure Mini Golf"
     },
     "010098A00D358000": {
         "65536": "00128EC8A57BB349"
@@ -32577,6 +32608,9 @@
         "65536": "6A37B3A58484379A",
         "title": "Project Nimbus: Complete Edition"
     },
+    "0100ACE0165EE000": {
+        "65536": "2B48DAAED02F5846"
+    },
     "0100ACF00CD2E000": {
         "0": "190B903B15FC5D4D",
         "262144": "824F0C8065417942",
@@ -34372,6 +34406,7 @@
         "131072": "49A3ABB4DD25164B",
         "196608": "5C7AFD01B93B0843",
         "262144": "CE042AC42725634E",
+        "327680": "6511B06A1E44FF4B",
         "65536": "857D2ABF0195974E",
         "title": "THE GAME OF LIFE 2"
     },
@@ -39115,6 +39150,7 @@
         "title": "Comic Coloring Book - Complete Edition"
     },
     "0100CF001426A000": {
+        "0": "E4059E0B6E1CD327",
         "65536": "BFBCA454BDC81C38",
         "title": "Jack 'n' Hat"
     },
@@ -40267,6 +40303,10 @@
         "131072": "0EF9BC5A692EC401",
         "65536": "49406A563E97F57A",
         "title": "Forgotten Hill Disillusion"
+    },
+    "0100D59016874000": {
+        "0": "B5048D29413D6434",
+        "title": "Merek's Market"
     },
     "0100D5A01514C000": {
         "0": "B7BA161C2B563CD6",
@@ -44547,6 +44587,7 @@
         "title": "FUZE4 Nintendo Switch"
     },
     "0100EAD015800000": {
+        "0": "8AB25C20270CC23D",
         "65536": "69082A1CF449C0A3",
         "title": "Horrid Henry's Krazy Karts"
     },
@@ -46212,6 +46253,7 @@
         "1507328": "F79ADA36693F4368",
         "1572864": "467268392EA7EFD4",
         "1638400": "694865AADE3DEFE4",
+        "1703936": "DFEEFA977458DDF8",
         "196608": "95533D116E71F045",
         "262144": "B3D6192B638E0A43",
         "327680": "8AB77F69BA1AA640",
