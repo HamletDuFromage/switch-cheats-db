@@ -8565,6 +8565,10 @@
         "65536": "142544BA52A314F8",
         "title": "Brightstone Mysteries: Paranormal Hotel"
     },
+    "01002E501762C000": {
+        "0": "E403DDBD25759A73",
+        "title": "Trigonal"
+    },
     "01002E6013ED8000": {
         "0": "1FE2ACA3A94FBA78",
         "title": "Boom Blaster"
@@ -20266,6 +20270,8 @@
     },
     "01006B0014590000": {
         "0": "9FB2F3E2446E3346",
+        "131072": "D85A937DB1600F4D",
+        "196608": "BA93BA9CEC9F6047",
         "65536": "593FE32E6ECE274D",
         "title": "BEAUTIFUL DESOLATION"
     },
@@ -31913,6 +31919,7 @@
     "0100A9001317E000": {
         "0": "9280BF35D64EC932",
         "131072": "9280BF35D64EC932",
+        "196608": "7952D31E12637A07",
         "65536": "9280BF35D64EC932",
         "title": "Her Love in the Force"
     },
