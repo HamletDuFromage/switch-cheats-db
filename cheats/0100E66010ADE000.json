@@ -54,5 +54,59 @@
             "content": "[inf blue energy]\n580F0000 0340BBF8\n580F1000 00000070\n580F1000 00000008\n580F1000 000000B0\n580F1000 00000000\n580F1000 00000050\n780F0000 00000040\n640F0000 00000000 43480000\n\n",
             "title": "[inf blue energy]"
         }
+    ],
+    "CDB9F2FC58064064": [
+        {
+            "content": "[Moonjump]\n040C0000 020EE0E0 1E252845\n80000002\n040C0000 020EE0E0 1E241005\n20000000\n\n",
+            "title": "[Moonjump]"
+        },
+        {
+            "content": "[Inf. Health]\n58000000 035B0E20\n58001000 00000158\n58001000 000000D0\n58001000 000008B0\n78000000 00000224\n64000000 00000000 43480000\n\n",
+            "title": "[Inf. Health]"
+        },
+        {
+            "content": "[Inf. Health All (On)]\n040C0000 00288584 BD022E60\n",
+            "title": "[Inf. Health All (On)]"
+        },
+        {
+            "content": "[Inf. Health All (Off)]\n040C0000 00288584 BD022660\n\n",
+            "title": "[Inf. Health All (Off)]"
+        },
+        {
+            "content": "[Inf. Stamina (On)]\n040C0000 002C12E8 1E202820\n",
+            "title": "[Inf. Stamina (On)]"
+        },
+        {
+            "content": "[Inf. Stamina (Off)]\n040C0000 002C12E8 1E203820\n\n",
+            "title": "[Inf. Stamina (Off)]"
+        },
+        {
+            "content": "[Inf. Ammo (On)]\n040C0000 004650EC 52807CF5\n",
+            "title": "[Inf. Ammo (On)]"
+        },
+        {
+            "content": "[Inf. Ammo (Off)]\n040C0000 004650EC 2A0203F5\n\n",
+            "title": "[Inf. Ammo (Off)]"
+        },
+        {
+            "content": "[Inf. Grenades (On)]\n040C0000 009639FC 52800154\n",
+            "title": "[Inf. Grenades (On)]"
+        },
+        {
+            "content": "[Inf. Grenades (Off)]\n040C0000 009639FC 2A0203F4\n\n",
+            "title": "[Inf. Grenades (Off)]"
+        },
+        {
+            "content": "[Inf. Night Vision (On)]\n040C0000 0051FE24 1E202820\n",
+            "title": "[Inf. Night Vision (On)]"
+        },
+        {
+            "content": "[Inf. Night Vision (Off)]\n040C0000 0051FE24 1E203820\n\n",
+            "title": "[Inf. Night Vision (Off)]"
+        },
+        {
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p]"
+        }
     ]
 }

@@ -1,0 +1,158 @@
+{
+    "667484A8F759B6FD": [
+        {
+            "content": "[Inf. Double Jumps/Fly]\n580C0000 02BC2F08\n580C1000 00000C30\n580C1000 00000018\n580C1000 00000058\n580C1000 00000010\n580C1000 00001ED0\n780C0000 00000000\n680C0000 00000000 00000000\n\n",
+            "title": "[Inf. Double Jumps/Fly]"
+        },
+        {
+            "content": "[Inf. Health]\n580C0000 02BDE888\n580C1000 00004710\n780C0000 00000000\n680C0000 40590000 00000000\n\n",
+            "title": "[Inf. Health]"
+        },
+        {
+            "content": "[Inf. Max Health]\n580C0000 02BDE888\n580C1000 00004710\n780C0000 00000000\n680C0000 408F3800 00000000\n\n",
+            "title": "[Inf. Max Health]"
+        },
+        {
+            "content": "[Inf. Mana]\n580C0000 02BDE888\n580C1000 000051A0\n780C0000 00000000\n680C0000 40590000 00000000\n\n",
+            "title": "[Inf. Mana]"
+        },
+        {
+            "content": "[Inf. Max Mana]\n580C0000 02BDE888\n580C1000 000051A0\n780C0000 00000000\n680C0000 408F3800 00000000\n\n",
+            "title": "[Inf. Max Mana]"
+        },
+        {
+            "content": "[Sylph Bar Max]\n580C0000 02BDE888\n580C1000 00004160\n780C0000 00000000\n680C0000 40690000 00000000\n\n",
+            "title": "[Sylph Bar Max]"
+        },
+        {
+            "content": "[Salamander Bar Max]\n580C0000 02BDE888\n580C1000 00005C70\n780C0000 00000000\n680C0000 40690000 00000000\n\n",
+            "title": "[Salamander Bar Max]"
+        },
+        {
+            "content": "[Inf. Air]\n580C0000 02BC2F08\n580C1000 00000C30\n580C1000 00000018\n580C1000 00000058\n580C1000 00000010\n580C1000 00001850\n780C0000 00000000\n680C0000 40590000 00000000\n\n",
+            "title": "[Inf. Air]"
+        },
+        {
+            "content": "[Weapon Max ATK]\n580C0000 02BC2F08\n580C1000 00000C30\n580C1000 00000018\n580C1000 00000058\n580C1000 00000010\n580C1000 00000920\n780C0000 00000000\n680C0000 41CDCD64 FF800000\n\n",
+            "title": "[Weapon Max ATK]"
+        },
+        {
+            "content": "[Bow Max ATK]\n580C0000 02BC2F08\n580C1000 00000C30\n580C1000 00000018\n580C1000 00000058\n580C1000 00000010\n580C1000 00000E80\n780C0000 00000000\n680C0000 41CDCD64 FF800000\n\n",
+            "title": "[Bow Max ATK]"
+        },
+        {
+            "content": "[Wind Max]\n580C0000 02BDE888\n580C1000 00005C90\n780C0000 00000000\n680C0000 408F3800 00000000\n\n",
+            "title": "[Wind Max]"
+        },
+        {
+            "content": "[Fire Max]\n580C0000 02BDE888\n580C1000 000057A0\n780C0000 00000000\n680C0000 408F3800 00000000\n\n",
+            "title": "[Fire Max]"
+        },
+        {
+            "content": "[Max EXP]\n580C0000 02BDE888\n580C1000 000048D0\n780C0000 00000000\n680C0000 412E847E 00000000\n\n",
+            "title": "[Max EXP]"
+        },
+        {
+            "content": "[Unlock Max Health]\n580C0000 02BDE888\n580C1000 00004970\n780C0000 00000000\n680C0000 40567999 9999999A\n\n",
+            "title": "[Unlock Max Health]"
+        },
+        {
+            "content": "[Unlock Max Mana]\n580C0000 02BDE888\n580C1000 00004A30\n780C0000 00000000\n680C0000 40567999 9999999A\n\n",
+            "title": "[Unlock Max Mana]"
+        },
+        {
+            "content": "[Unlock Slide & Double Jump]\n580C0000 02BDE888\n580C1000 00004B90\n780C0000 00000000\n680C0000 40080000 00000000\n\n",
+            "title": "[Unlock Slide & Double Jump]"
+        },
+        {
+            "content": "[Unlock Higher Double Jump]\n580C0000 02BDE888\n580C1000 00004B90\n780C0000 00000000\n680C0000 40140000 00000000\n\n",
+            "title": "[Unlock Higher Double Jump]"
+        },
+        {
+            "content": "[Max Money]\n580C0000 02BDE888\n580C1000 00005500\n780C0000 00000000\n680C0000 416312CF E0000000\n\n",
+            "title": "[Max Money]"
+        },
+        {
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p]"
+        }
+    ],
+    "93A2A9A7C1BE5AA3": [
+        {
+            "content": "[Inf. Double Jumps/Fly]\n580C0000 02BB3F20\n580C1000 00000C30\n580C1000 00000018\n580C1000 00000058\n580C1000 00000010\n580C1000 00001ED0\n780C0000 00000000\n680C0000 00000000 00000000\n\n",
+            "title": "[Inf. Double Jumps/Fly]"
+        },
+        {
+            "content": "[Inf. Health]\n580C0000 02BCF848\n580C1000 00004710\n780C0000 00000000\n680C0000 40590000 00000000\n\n",
+            "title": "[Inf. Health]"
+        },
+        {
+            "content": "[Inf. Max Health]\n580C0000 02BCF848\n580C1000 00004710\n780C0000 00000000\n680C0000 408F3800 00000000\n\n",
+            "title": "[Inf. Max Health]"
+        },
+        {
+            "content": "[Inf. Mana]\n580C0000 02BCF848\n580C1000 000051A0\n780C0000 00000000\n680C0000 40590000 00000000\n\n",
+            "title": "[Inf. Mana]"
+        },
+        {
+            "content": "[Inf. Max Mana]\n580C0000 02BCF848\n580C1000 000051A0\n780C0000 00000000\n680C0000 408F3800 00000000\n\n",
+            "title": "[Inf. Max Mana]"
+        },
+        {
+            "content": "[Sylph Bar Max]\n580C0000 02BCF848\n580C1000 00004160\n780C0000 00000000\n680C0000 40690000 00000000\n\n",
+            "title": "[Sylph Bar Max]"
+        },
+        {
+            "content": "[Salamander Bar Max]\n580C0000 02BCF848\n580C1000 00005C70\n780C0000 00000000\n680C0000 40690000 00000000\n\n",
+            "title": "[Salamander Bar Max]"
+        },
+        {
+            "content": "[Inf. Air]\n580C0000 02BB3F20\n580C1000 00000C30\n580C1000 00000018\n580C1000 00000058\n580C1000 00000010\n580C1000 00001850\n780C0000 00000000\n680C0000 40590000 00000000\n\n",
+            "title": "[Inf. Air]"
+        },
+        {
+            "content": "[Weapon Max ATK]\n580C0000 02BB3F20\n580C1000 00000C30\n580C1000 00000018\n580C1000 00000058\n580C1000 00000010\n580C1000 00000920\n780C0000 00000000\n680C0000 41CDCD64 FF800000\n\n",
+            "title": "[Weapon Max ATK]"
+        },
+        {
+            "content": "[Bow Max ATK]\n580C0000 02BB3F20\n580C1000 00000C30\n580C1000 00000018\n580C1000 00000058\n580C1000 00000010\n580C1000 00000E80\n780C0000 00000000\n680C0000 41CDCD64 FF800000\n\n",
+            "title": "[Bow Max ATK]"
+        },
+        {
+            "content": "[Wind Max]\n580C0000 02BCF848\n580C1000 00005C90\n780C0000 00000000\n680C0000 408F3800 00000000\n\n",
+            "title": "[Wind Max]"
+        },
+        {
+            "content": "[Fire Max]\n580C0000 02BCF848\n580C1000 000057A0\n780C0000 00000000\n680C0000 408F3800 00000000\n\n",
+            "title": "[Fire Max]"
+        },
+        {
+            "content": "[Max EXP]\n580C0000 02BCF848\n580C1000 000048D0\n780C0000 00000000\n680C0000 412E847E 00000000\n\n",
+            "title": "[Max EXP]"
+        },
+        {
+            "content": "[Unlock Max Health]\n580C0000 02BCF848\n580C1000 00004970\n780C0000 00000000\n680C0000 40567999 9999999A\n\n",
+            "title": "[Unlock Max Health]"
+        },
+        {
+            "content": "[Unlock Max Mana]\n580C0000 02BCF848\n580C1000 00004A30\n780C0000 00000000\n680C0000 40567999 9999999A\n\n",
+            "title": "[Unlock Max Mana]"
+        },
+        {
+            "content": "[Unlock Slide & Double Jump]\n580C0000 02BCF848\n580C1000 00004B90\n780C0000 00000000\n680C0000 40080000 00000000\n\n",
+            "title": "[Unlock Slide & Double Jump]"
+        },
+        {
+            "content": "[Unlock Higher Double Jump]\n580C0000 02BCF848\n580C1000 00004B90\n780C0000 00000000\n680C0000 40140000 00000000\n\n",
+            "title": "[Unlock Higher Double Jump]"
+        },
+        {
+            "content": "[Max Money]\n580C0000 02BCF848\n580C1000 00005500\n780C0000 00000000\n680C0000 416312CF E0000000\n\n",
+            "title": "[Max Money]"
+        },
+        {
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p]"
+        }
+    ]
+}
