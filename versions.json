@@ -1293,6 +1293,10 @@
         "65536": "E1F896F8C98285A7",
         "title": "X-Force Genesis"
     },
+    "010006C017006000": {
+        "0": "4DBC1ED069917E37",
+        "title": "Frightence"
+    },
     "010006D00FF34000": {
         "0": "D99444D83D09E44F"
     },
@@ -2955,6 +2959,10 @@
         "65536": "5C6A1B56F498B284",
         "title": "ATV Drift & Tricks"
     },
+    "01000F6010D62000": {
+        "65536": "03BD2F4EAB1A9A2B",
+        "title": "Phantom Breaker: Omnia"
+    },
     "01000F6014D62000": {
         "0": "51818F1E3665C65B",
         "131072": "47DB4F692EEE5DBF",
@@ -4332,6 +4340,11 @@
     "010017B012AFC000": {
         "196608": "AC6631B501550269"
     },
+    "010017B016F38000": {
+        "0": "AEF0B8AAB0BE76D6",
+        "title": "Om Nom: Coloring, Toons & Puzzle"
+    },
+    "010017B016F39000": {},
     "010017C00BE12000": {
         "0": "3E8378E60B76EA40",
         "title": "Gnomes Garden 3: The thief of castles"
@@ -6985,6 +6998,7 @@
         "65536": "1F53E00D05581144"
     },
     "010024B015F76000": {
+        "131072": "F824021F980C2E11",
         "65536": "D1EBDB1A00D92481"
     },
     "010024C001224000": {
@@ -7014,6 +7028,10 @@
         "0": "64CE572028CE0156",
         "196608": "C77FB1FDAB013A4B",
         "title": "Photon Cube"
+    },
+    "010024D016DC0000": {
+        "0": "73BBF5BD9AE5604F",
+        "title": "Syndrome"
     },
     "010024F008742000": {
         "0": "8D30C66AF20E0B49",
@@ -7486,6 +7504,7 @@
     },
     "010027100C79B000": {},
     "0100271010016000": {
+        "0": "9C84518EEDC72942",
         "262144": "31A7744EB94EA740",
         "title": "REPUBLIQUE: Anniversary Edition"
     },
@@ -8185,6 +8204,7 @@
         "65536": "5F8EE9349C4F3B04"
     },
     "01002AE014006000": {
+        "0": "A85F5E3A189F5448",
         "65536": "19DA9CDFDD52EA4A",
         "title": "Ashwalkers"
     },
@@ -9936,6 +9956,7 @@
     "01003320103F0000": {
         "0": "E191F7B53B2BCA4C",
         "131072": "F1E82D25C209FE4B",
+        "262144": "07CE360F85293C43",
         "65536": "56CEE3C09148BE4D",
         "title": "Breakfast Bar Tycoon"
     },
@@ -10621,6 +10642,7 @@
         "title": "Magic Twins"
     },
     "010036F01706A000": {
+        "0": "C3C80D67B426FCFF",
         "65536": "A30A272D4A7EBE04",
         "title": "GRAND MOUNTAIN ADVENTURE WONDERLANDS"
     },
@@ -12666,6 +12688,7 @@
         "0": "9D09026525253E41"
     },
     "0100412015AAE000": {
+        "0": "7B79C48D66C218D8",
         "65536": "A37C0F8691E51CB1",
         "title": "Time Blazer"
     },
@@ -14127,6 +14150,10 @@
         "65536": "208743197858F9EE",
         "title": "My Last First Kiss"
     },
+    "01004800176A2000": {
+        "0": "537306417BC93BD3",
+        "title": "Retro Pixel Racers"
+    },
     "010048100BCD8000": {
         "0": "8CD2DFDD399D9342"
     },
@@ -14137,6 +14164,10 @@
         "262144": "A3AD05A3761D7848"
     },
     "010048100D51B000": {},
+    "01004810171EA000": {
+        "0": "A462614C2DF27332",
+        "title": "Cosmos Bit"
+    },
     "0100482009636000": {},
     "010048200AFC2000": {
         "0": "8C918DDFD8DC2D21",
@@ -15997,6 +16028,7 @@
     },
     "0100515015592000": {
         "0": "BEAEEA7CC33D2711",
+        "131072": "89AD3D9644B2ADBE",
         "65536": "89AD3D9644B2ADBE",
         "title": "Dexter Stardust : Adventures in Outer Space"
     },
@@ -16323,6 +16355,7 @@
         "0": "7C5B87AA84D02548",
         "131072": "1704BC4BBF1A434E",
         "196608": "DD6AAABF554F964D",
+        "262144": "4998BA3F97016C42",
         "65536": "C579E3E758338E47",
         "title": "Castle Morihisa"
     },
@@ -17161,6 +17194,7 @@
         "0": "E4D1E54BEB9FCCBD",
         "131072": "3D9FD225850A5A92",
         "196608": "DFF8D33DF4DC2366",
+        "262144": "7E1A4FD6EA20D596",
         "65536": "46743245BB742473"
     },
     "010057D013210000": {
@@ -18633,6 +18667,7 @@
         "0": "B65E33AEE1B86B46",
         "131072": "5F85322532D3CD40",
         "196608": "23045CDE62223FB6",
+        "262144": "FF6675652849683C",
         "65536": "4A5ED8B55BFD994B",
         "title": "Pixboy"
     },
@@ -18730,6 +18765,10 @@
     "01005F8010D98000": {
         "0": "E1F19426D584D567",
         "title": "Knightin'+"
+    },
+    "01005F80175BE000": {
+        "0": "317AD03F3EC899AA",
+        "title": "Slide Stories: Neko's Journey"
     },
     "01005F900416E000": {
         "0": "3F3A7104965C6040",
@@ -19342,6 +19381,7 @@
     },
     "010061F01734C000": {
         "0": "EBA0BC2CF0BD62DE",
+        "65536": "8061F16D8D8FCB47",
         "title": "Old Coin Pusher Friends"
     },
     "0100620012D6E000": {
@@ -21375,6 +21415,7 @@
         "131072": "7A51C295920E5206",
         "196608": "DA9BDD4792C71DBF",
         "262144": "724B2516EE06DB35",
+        "327680": "22FEBB6E53E35455",
         "65536": "8CD5ADBF3BBF1D5D",
         "title": "Disco Elysium - The Final Cut"
     },
@@ -22166,6 +22207,10 @@
         "65536": "B76F3CBE92A8859B"
     },
     "01007090154B7000": {},
+    "0100709015AA2000": {
+        "0": "C4EB65B6450CCB96",
+        "title": "Ancient Islands"
+    },
     "010070A00A5F4000": {
         "0": "5AA520D3E48DF44F",
         "196608": "CDC2FA30450A1E41",
@@ -23686,7 +23731,8 @@
         "65536": "6FC3C18EEE7AB28A"
     },
     "0100778016D8C000": {
-        "0": "2A6C2ACE7F63B9D1"
+        "0": "2A6C2ACE7F63B9D1",
+        "title": "Arcade Archives QIX"
     },
     "0100778017196000": {
         "0": "25B884791929AA4C",
@@ -27196,6 +27242,11 @@
         "title": "DEEMO -Reborn-"
     },
     "01008B10132A3000": {},
+    "01008B10178BE000": {
+        "0": "E1423A6F50FC3FAB",
+        "65536": "CC9AA20C7B146DC7",
+        "title": "Cyber Pool"
+    },
     "01008B20022AA000": {
         "0": "1DCCDB6FE282748D",
         "65536": "FD54791AE40FD079",
@@ -29379,6 +29430,7 @@
         "title": "Venture Kid"
     },
     "010095B0171D0000": {
+        "0": "0C7278764F5FF8D6",
         "65536": "284C47BA9C7F7DA3",
         "title": "Pocket Slimes"
     },
@@ -29795,6 +29847,7 @@
         "65536": "DA781057B1C22B7D"
     },
     "010097900F550000": {
+        "0": "7CC12D8562D9FA41",
         "131072": "C9648B716EE09245",
         "65536": "3AC9EC4822A89642",
         "title": "Young Souls"
@@ -30899,6 +30952,10 @@
         "131072": "81E1A6FDF1580F41",
         "196608": "BFBDD3A45FC62B48",
         "title": "Car Mechanic Simulator Pocket Edition"
+    },
+    "01009D1017C30000": {
+        "0": "BD6DB069A4BD3CEC",
+        "title": "Truck Simulator USA Car Games - Driving games & Car 2022"
     },
     "01009D200952E000": {
         "0": "ED803A36753CA60B",
@@ -32404,6 +32461,7 @@
     "0100A4E017372000": {
         "0": "83332A377AA75898",
         "131072": "C562A2D58AA53F34",
+        "196608": "158D859A8281BE3D",
         "65536": "83332A377AA75898",
         "title": "Pyramid Quest"
     },
@@ -32845,6 +32903,7 @@
         "title": "Solitaire Spider Minimal"
     },
     "0100A74013F08000": {
+        "0": "5889F905E6C6DA4A",
         "65536": "7E2F14FC57F8559A",
         "title": "Move or Die: Unleashed"
     },
@@ -33612,6 +33671,10 @@
         "0": "9617EF8642FE2444",
         "131072": "E15FC665EC42684A",
         "title": "Shadow Fight 2"
+    },
+    "0100AB0017BEA000": {
+        "0": "469FA0CCA17C3A6F",
+        "title": "Pipes Master"
     },
     "0100AB2010B4C000": {
         "0": "0576F78AC91FEF43",
@@ -35011,6 +35074,7 @@
     "0100B2500E362000": {
         "0": "E2A474079D2A3243",
         "131072": "95685DF34216548F",
+        "196608": "A59A3FDC8E82DC4F",
         "title": "Conan Chop Chop"
     },
     "0100B2500F0E0000": {
@@ -37139,7 +37203,8 @@
         "title": "Super Space Serpent Secondary Edition"
     },
     "0100BD5017D52000": {
-        "0": "F704A62BA5C8355D"
+        "0": "F704A62BA5C8355D",
+        "title": "Detective Inspector: Mysterious Clues"
     },
     "0100BD6010638000": {
         "0": "D03088C9BF4E9D4B",
@@ -37683,6 +37748,7 @@
     "0100BF800DFAC000": {
         "0": "09EB895BE8CE1DD7",
         "131072": "E31867C0398CBECA",
+        "196608": "CFAE9C8D2F2EA94A",
         "65536": "E90A1EC1696678AC",
         "title": "Dungeon Defenders: Awakened"
     },
@@ -39515,6 +39581,7 @@
     },
     "0100C8E00F50B000": {},
     "0100C9001384E000": {
+        "0": "F867D37486609153",
         "65536": "275235032BE1EAF8",
         "title": "Hotel Transylvania: Scary-Tale Adventures"
     },
@@ -39641,6 +39708,7 @@
         "0": "EB79EF243458597C",
         "131072": "8F75C9F4201839A9",
         "196608": "33FBE696EBFABDD3",
+        "262144": "0CCA8591A921B971",
         "65536": "99A2B001850E6A6C",
         "title": "Nintendo 64\u2122 \u2013 Nintendo Switch Online"
     },
@@ -46565,6 +46633,10 @@
         "0": "6A06F3A2582C0954",
         "title": "Death end re;Quest 2"
     },
+    "0100EB70172A2000": {
+        "0": "42AA1D7DCDC2B648",
+        "title": "Chex Quest HD"
+    },
     "0100EB800868C000": {
         "0": "42E15998D3F7FE9B",
         "title": "Azkend 2: The World Beneath"
@@ -46613,6 +46685,9 @@
     "0100EBA01399E000": {
         "0": "B47C5BB473FD5D48",
         "title": "Tap Tap Legions"
+    },
+    "0100EBA0144C0000": {
+        "0": "884A6CE95B263EA3"
     },
     "0100EBB0080EC000": {
         "0": "045620CCAFCBF946",
@@ -47858,6 +47933,10 @@
         "65536": "71A3AD63CA4257AF",
         "title": "Trash Quest"
     },
+    "0100F19016A4A000": {
+        "0": "DAF6F9865E83D6A3",
+        "title": "Dual Brain Complete Edition"
+    },
     "0100F1A00A5DC000": {
         "0": "A3F2BB1FA73EAF50",
         "131072": "A3F2BB1FA73EAF50",
@@ -48817,7 +48896,8 @@
     "0100F6600E4A4000": {
         "262144": "D7555C8FEBA5884D",
         "327680": "57ADEFE798DC7947",
-        "393216": "5C19CDF00D308C42"
+        "393216": "5C19CDF00D308C42",
+        "458752": "95CACE53CC4A3843"
     },
     "0100F6700DBD8000": {
         "0": "68AD39205B10C371",
