@@ -10,7 +10,7 @@ with open("versions.json", "r") as versions_file:
 for line in sys.argv:
     try:
         tid = re.search("/(.+)\.", line).group(1)
-        if "title" in versions[tid]:
+        if tid in versions and "title" in versions[tid]:
             print(versions[tid]["title"])
         else:
             print(tid)
