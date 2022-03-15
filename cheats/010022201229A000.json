@@ -1,0 +1,62 @@
+{
+    "2277B2804ED2C1C6": [
+        {
+            "content": "[Breeze beta19 SUPER ROBOT WARS 30 1.2.3 TID: 010022201229A000 BID: 2277B2804ED2C1C6]\n\n",
+            "title": "[Breeze beta19 SUPER ROBOT WARS 30 1.2.3 TID: 010022201229A000 BID: 2277B2804ED2C1C6]"
+        },
+        {
+            "content": "[Stage Moves 0]\n02000000 01DB6B24 00000000\n\n",
+            "title": "[Stage Moves 0]"
+        },
+        {
+            "content": "[Inf.Money]\n04000000 01DB6B00 05F5E0FF\n\n",
+            "title": "[Inf.Money]"
+        },
+        {
+            "content": "[Inf.PP]\n04000000 01DB6B18 0098967F\n04000000 01DB6B20 0098967F\n\n",
+            "title": "[Inf.PP]"
+        },
+        {
+            "content": "[Inf.MxP]\n04000000 01DB6B0C 05F5E0FF\n\n",
+            "title": "[Inf.MxP]"
+        },
+        {
+            "content": "[Max Strength]\n04000000 01DB6D0C 05F5E0FF\n\n",
+            "title": "[Max Strength]"
+        },
+        {
+            "content": "[Inf.Skill]\n30000000 00000026\n04010000 01DB8B74 00000063\n78010000 00000018\n31000000",
+            "title": "[Inf.Skill]"
+        }
+    ],
+    "E1A7BAF96C0B02F6": [
+        {
+            "content": "[Breeze beta19 SUPER ROBOT WARS 30 1.2.2 TID: 010022201229A000 BID: E1A7BAF96C0B02F6]\n\n",
+            "title": "[Breeze beta19 SUPER ROBOT WARS 30 1.2.2 TID: 010022201229A000 BID: E1A7BAF96C0B02F6]"
+        },
+        {
+            "content": "[Stage Moves 0]\n02000000 01DB4B24 00000000\n\n",
+            "title": "[Stage Moves 0]"
+        },
+        {
+            "content": "[Inf.Money]\n04000000 01DB4B00 05F5E0FF \n04000000 01DB4B08 05F5E0FF \n\n",
+            "title": "[Inf.Money]"
+        },
+        {
+            "content": "[Inf.PP]\n04000000 01DB4B18 0098967F \n04000000 01DB4B20 0098967F \n\n",
+            "title": "[Inf.PP]"
+        },
+        {
+            "content": "[Inf.MxP]\n04000000 01DB4B0C 05F5E0FF \n\n",
+            "title": "[Inf.MxP]"
+        },
+        {
+            "content": "[Max Strength]\n04000000 01DB4D0C 05F5E0FF \n\n",
+            "title": "[Max Strength]"
+        },
+        {
+            "content": "[Inf.All Skill]\n30000000 00000026 \n04010000 01DB6B74 00000063 \n78010000 00000018 \n31000000 \n\n",
+            "title": "[Inf.All Skill]"
+        }
+    ]
+}

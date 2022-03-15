@@ -1,0 +1,28 @@
+{
+    "F0E71BF7EB56937B": [
+        {
+            "content": "[Valis III Infinite HP]\n580f0000 00907378\n780f0000 0004b459\n610f0000 00000000 00000018\n\n",
+            "title": "[Valis III Infinite HP]"
+        },
+        {
+            "content": "[Valis III Infinite MP]\n580f0000 00907378\n780f0000 0004b45a\n610f0000 00000000 00000018\n\n",
+            "title": "[Valis III Infinite MP]"
+        },
+        {
+            "content": "[Valis III Infinite Lives]\n580f0000 00907378\n780f0000 0004b45f\n610f0000 00000000 00000003\n\n",
+            "title": "[Valis III Infinite Lives]"
+        },
+        {
+            "content": "[Valis III Full Red Bar]\n580f0000 00907378\n780f0000 0004b45c\n610f0000 00000000 0000002b\n\n",
+            "title": "[Valis III Full Red Bar]"
+        },
+        {
+            "content": "[Valis III Infinite Time]\n580f0000 00907378\n780f0000 0004c11a\n610f0000 00000000 00000009\n\n",
+            "title": "[Valis III Infinite Time]"
+        },
+        {
+            "content": "[ZR+A Moonjump]\n80000201\n580f0000 00907378\n780f0000 0004b56c\n610f0000 00000000 000000fa\n20000000",
+            "title": "[ZR+A Moonjump]"
+        }
+    ]
+}

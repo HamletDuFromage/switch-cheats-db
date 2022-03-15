@@ -46,5 +46,27 @@
             "content": "[CPU No Moon Gauge]\n04000000 0925c054 00000000",
             "title": "[CPU No Moon Gauge]"
         }
+    ],
+    "B8030081E944E100": [
+        {
+            "content": "[Player Infinite HP]\n08000000 0927187c 00002af8 00002af8\n\n",
+            "title": "[Player Infinite HP]"
+        },
+        {
+            "content": "[Player Infinite Magic Gauge]\n04000000 09271890 00009c40\n\n",
+            "title": "[Player Infinite Magic Gauge]"
+        },
+        {
+            "content": "[Player Infinite Moon Gauge]\n04000000 092721ec 00002710\n\n",
+            "title": "[Player Infinite Moon Gauge]"
+        },
+        {
+            "content": "[CPU No Magic Circuit Gauge]\n04000000 092725b8 00000000\n\n",
+            "title": "[CPU No Magic Circuit Gauge]"
+        },
+        {
+            "content": "[CPU No Moon Gauge]\n04000000 09272f14 00000000",
+            "title": "[CPU No Moon Gauge]"
+        }
     ]
 }

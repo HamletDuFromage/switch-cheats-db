@@ -1,0 +1,114 @@
+{
+    "9941FF76A54112F0": [
+        {
+            "content": "[HP No Decrease]\n04000000 02BC8F00 B940B667\n04000000 02BC8F04 34000047\n04000000 02BC8F08 2A0203E0\n04000000 02BC8F0C 52800007\n04000000 02BC8F10 B9007660\n04000000 02BC8F14 D65F03C0\n04000000 017507E4 9451E1C7\n\n",
+            "title": "[HP No Decrease]"
+        },
+        {
+            "content": "[HP No Decrease Off]\n04000000 02BC8F00 00000000\n04000000 02BC8F04 00000000\n04000000 02BC8F08 00000000\n04000000 02BC8F0C 00000000\n04000000 02BC8F10 00000000\n04000000 02BC8F14 00000000\n04000000 017507E4 B9007660\n\n",
+            "title": "[HP No Decrease Off]"
+        },
+        {
+            "content": "[MP Max]\n04000000 02BC8F20 B940B667\n04000000 02BC8F24 34000047\n04000000 02BC8F28 52807CE1\n04000000 02BC8F2C 52800007\n04000000 02BC8F30 B9007801\n04000000 02BC8F34 D65F03C0\n04000000 01750844 9451E1B7\n\n",
+            "title": "[MP Max]"
+        },
+        {
+            "content": "[MP Max Off]\n04000000 02BC8F20 00000000\n04000000 02BC8F24 00000000\n04000000 02BC8F28 00000000\n04000000 02BC8F2C 00000000\n04000000 02BC8F30 00000000\n04000000 02BC8F34 00000000\n04000000 01750844 B9007801\n\n",
+            "title": "[MP Max Off]"
+        },
+        {
+            "content": "[Coins x4 when Selling]\n04000000 02BC8F40 0B000EC8\n04000000 02BC8F44 0B150108\n04000000 02BC8F48 D65F03C0\n04000000 02B25A9C 94028D29\n\n",
+            "title": "[Coins x4 when Selling]"
+        },
+        {
+            "content": "[Coins x4 when Selling Off]\n04000000 02BC8F40 00000000\n04000000 02BC8F44 00000000\n04000000 02BC8F48 00000000\n04000000 02B25A9C 1B165408\n\n",
+            "title": "[Coins x4 when Selling Off]"
+        },
+        {
+            "content": "[Coins No Decrease]\n04000000 02B25C38 D503201F\n\n",
+            "title": "[Coins No Decrease]"
+        },
+        {
+            "content": "[Coins No Decrease Off]\n04000000 02B25C38 1B14A128\n\n",
+            "title": "[Coins No Decrease Off]"
+        },
+        {
+            "content": "[Exhaustion Not Rise]\n04000000 016C7A1C D503201F\n04000000 016C7C9C D503201F\n\n",
+            "title": "[Exhaustion Not Rise]"
+        },
+        {
+            "content": "[Exhaustion Not Rise Off]\n04000000 016C7A1C B9009680\n04000000 016C7C9C B90096A0\n\n",
+            "title": "[Exhaustion Not Rise Off]"
+        },
+        {
+            "content": "[Combo Bar Not Decrease]\n04000000 017423F8 D503201F\n\n",
+            "title": "[Combo Bar Not Decrease]"
+        },
+        {
+            "content": "[Combo Bar Not Decrease Off]\n04000000 017423F8 1A88B028\n\n",
+            "title": "[Combo Bar Not Decrease Off]"
+        },
+        {
+            "content": "[Made by: jhmiller]\n00000000 00000000 00000000",
+            "title": "[Made by: jhmiller]"
+        }
+    ],
+    "D25000FA1BD13D9B": [
+        {
+            "content": "[Breeze beta19 Rise of the Third Power 1.0.3 TID: 0100F05015052000 BID: D25000FA1BD13D9B]\n\n",
+            "title": "[Breeze beta19 Rise of the Third Power 1.0.3 TID: 0100F05015052000 BID: D25000FA1BD13D9B]"
+        },
+        {
+            "content": "[HP No Decrease]\n04000000 02BCEF00 B940B667\n04000000 02BCEF04 34000047\n04000000 02BCEF08 2A0203E0\n04000000 02BCEF0C 52800007\n04000000 02BCEF10 B9007660\n04000000 02BCEF14 D65F03C0\n04000000 02BABC44 94008CAF\n\n",
+            "title": "[HP No Decrease]"
+        },
+        {
+            "content": "[HP No Decrease Off]\n04000000 02BABC44 B9007660\n\n",
+            "title": "[HP No Decrease Off]"
+        },
+        {
+            "content": "[MP Max]\n04000000 02BCEF20 B940B667\n04000000 02BCEF24 34000047\n04000000 02BCEF28 52807CE1\n04000000 02BCEF2C 52800007\n04000000 02BCEF30 B9007801\n04000000 02BCEF34 D65F03C0\n04000000 02BABCA4 94008C9F\n\n",
+            "title": "[MP Max]"
+        },
+        {
+            "content": "[MP Max Off]\n04000000 02BABCA4 B9007801\n\n",
+            "title": "[MP Max Off]"
+        },
+        {
+            "content": "[Combo Bar Not Decrease]\n04000000 02B9D838 D503201F\n\n",
+            "title": "[Combo Bar Not Decrease]"
+        },
+        {
+            "content": "[Combo Bar Not Decrease Off]\n04000000 02B9D838 1A88B028\n\n",
+            "title": "[Combo Bar Not Decrease Off]"
+        },
+        {
+            "content": "[Exhaustion Not Rise]\n04000000 01778C6C D503201F\n04000000 01778EEC D503201F\n\n",
+            "title": "[Exhaustion Not Rise]"
+        },
+        {
+            "content": "[Exhaustion Not Rise Off]\n04000000 01778C6C B9009680\n04000000 01778EEC B90096A0\n\n",
+            "title": "[Exhaustion Not Rise Off]"
+        },
+        {
+            "content": "[Coins x4 when Selling]\n04000000 02BCEF40 0B160BF6\n04000000 02BCEF44 1B165408\n04000000 02BCEF48 D65F03C0\n04000000 018CE0E8 944C0396\n\n",
+            "title": "[Coins x4 when Selling]"
+        },
+        {
+            "content": "[Coins x4 when Selling Off]\n04000000 018CE0E8 1B165408\n\n",
+            "title": "[Coins x4 when Selling Off]"
+        },
+        {
+            "content": "[Coins No Decrease]\n04000000 017ABBDC D503201F\n04000000 018CE284 D503201F\n\n",
+            "title": "[Coins No Decrease]"
+        },
+        {
+            "content": "[Coins No Decrease Off]\n04000000 017ABBDC 4B090108\n04000000 018CE284 1B14A128\n\n",
+            "title": "[Coins No Decrease Off]"
+        },
+        {
+            "content": "[Made by jhmiller]\n00000000 00000000 00000000\n",
+            "title": "[Made by jhmiller]"
+        }
+    ]
+}

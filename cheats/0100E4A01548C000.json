@@ -1,0 +1,80 @@
+{
+    "85EB6295023DD394": [
+        {
+            "content": "[SPIRIT]\n04000000 00B71194 00001756\n\n",
+            "title": "[SPIRIT]"
+        },
+        {
+            "content": "[SPIRIT 9999]\n04000000 00B71194 0000270F\n\n",
+            "title": "[SPIRIT 9999]"
+        },
+        {
+            "content": "[SPIRIT 99999]\n04000000 00B71194 0001870F\n\n",
+            "title": "[SPIRIT 99999]"
+        },
+        {
+            "content": "[HP PRINCIPAL PERSONAGE]\n04000000 00B871AC 0000270F\n04000000 00B871B0 0000270F\n\n",
+            "title": "[HP PRINCIPAL PERSONAGE]"
+        },
+        {
+            "content": "[ATT PRINCIPAL PERSONAGE]\n04000000 00B871B4 0000270F\n\n",
+            "title": "[ATT PRINCIPAL PERSONAGE]"
+        },
+        {
+            "content": "[DEF PRINCIPAL PERSONAGE]\n04000000 00B871B8 0000270F\n\n",
+            "title": "[DEF PRINCIPAL PERSONAGE]"
+        },
+        {
+            "content": "[AGI PRINCIPAL PERSONAGE]\n04000000 00B871C0 0000270F\n\n",
+            "title": "[AGI PRINCIPAL PERSONAGE]"
+        },
+        {
+            "content": "[LUK PRINCIPAL PERSONAGE]\n04000000 00B871C4 0000270F\n\n",
+            "title": "[LUK PRINCIPAL PERSONAGE]"
+        },
+        {
+            "content": "[LUCK  PERSONAGE PHY STATUE ]\n04000000 00B991BC 00000DAC\n\n",
+            "title": "[LUCK  PERSONAGE PHY STATUE ]"
+        },
+        {
+            "content": "[PRIDE STATUE 999]\n04000000 00B871CC 000003E7\n\n",
+            "title": "[PRIDE STATUE 999]"
+        },
+        {
+            "content": "[SLOTH STATUE 999]\n04000000 00B871D4 000003E7\n\n",
+            "title": "[SLOTH STATUE 999]"
+        },
+        {
+            "content": "[ GLUTTONY STATUE 999]\n04000000 00B871D8 000003E7\n\n",
+            "title": "[ GLUTTONY STATUE 999]"
+        },
+        {
+            "content": "[GREED STATUE 999]\n04000000 00B871DC 000003E7\n\n",
+            "title": "[GREED STATUE 999]"
+        },
+        {
+            "content": "[ENVY STATUE 999]\n04000000 00B871E0 000003E7\n\n",
+            "title": "[ENVY STATUE 999]"
+        },
+        {
+            "content": "[WRATH STATUE999]\n04000000 00B871E4 000003E7\n\n",
+            "title": "[WRATH STATUE999]"
+        },
+        {
+            "content": "[LUST STATUE 999]\n04000000 00B871D0 000003E7\n\n",
+            "title": "[LUST STATUE 999]"
+        },
+        {
+            "content": "[ NOZOMI HP ]\n04000000 00B8A1AC 00001AF4\n04000000 00B8A1B0 00001AF4\n\n",
+            "title": "[ NOZOMI HP ]"
+        },
+        {
+            "content": "[ RYOTARO HP ]\n04000000 00B901AC 00001AF4\n04000000 00B901B0 00001AF4\n\n",
+            "title": "[ RYOTARO HP ]"
+        },
+        {
+            "content": " [ KOKORO HP ]\n04000000 00B931AC 00001AF4\n04000000 00B931B0 00001AF4\n",
+            "title": "[ KOKORO HP ]"
+        }
+    ]
+}
