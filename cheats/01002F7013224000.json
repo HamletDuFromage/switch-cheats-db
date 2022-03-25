@@ -1,0 +1,48 @@
+{
+    "B07BB37077D3A54C": [
+        {
+            "content": "[Breeze beta20 Rune Factory 5 1.0.1 TID: 01002F7013224000 BID: B07BB37077D3A54C]\n\n",
+            "title": "[Breeze beta20 Rune Factory 5 1.0.1 TID: 01002F7013224000 BID: B07BB37077D3A54C]"
+        },
+        {
+            "content": "[One hit kill]\n04000000 01E536B8 145C6E12 \n04000000 0356EF00 A9377BFD \n04000000 0356EF04 79C073FE \n04000000 0356EF08 D280501D \n04000000 0356EF0C EB1D03DF \n04000000 0356EF10 540000C1 \n04000000 0356EF14 B9401900 \n04000000 0356EF18 7100041F \n04000000 0356EF1C 5400006B \n04000000 0356EF20 52800020 \n04000000 0356EF24 B9001900 \n04000000 0356EF28 B9401900 \n04000000 0356EF2C A9777BFD \n04000000 0356EF30 D65F03C0 \n\n",
+            "title": "[One hit kill]"
+        },
+        {
+            "content": "[One hit kill and player HP and RP fill]\n04000000 01E536B8 145C6E12 \n04000000 0356EF00 A9377BFD \n04000000 0356EF04 79C073FE \n04000000 0356EF08 D280501D \n04000000 0356EF0C EB1D03DF \n04000000 0356EF10 54000121 \n04000000 0356EF14 B9401900 \n04000000 0356EF18 7100041F \n04000000 0356EF1C 5400006B \n04000000 0356EF20 52800020 \n04000000 0356EF24 B9001900 \n04000000 0356EF28 B9401900 \n04000000 0356EF2C A9777BFD \n04000000 0356EF30 D65F03C0 \n04000000 0356EF34 D28E1E9D \n04000000 0356EF38 EB1D03DF \n04000000 0356EF3C 54FFFF61 \n04000000 0356EF40 5284E200 \n04000000 0356EF44 B9001900 \n04000000 0356EF48 B9001D00 \n04000000 0356EF4C 17FFFFF7 \n\n",
+            "title": "[One hit kill and player HP and RP fill]"
+        },
+        {
+            "content": "[turn off one hit kill]\n04000000 0356EF10 14000009\n\n\n",
+            "title": "[turn off one hit kill]"
+        },
+        {
+            "content": "{Master code for slot pointer}\n04000000 02176704 144FE1DF \n04000000 0356EE80 A9377BFD \n04000000 0356EE84 90015BFD \n04000000 0356EE88 F90653A0 \n04000000 0356EE8C 8B080C08 \n04000000 0356EE90 A9777BFD \n04000000 0356EE94 17B01E1D \n\n\n",
+            "title": "{Master code for slot pointer}"
+        },
+        {
+            "content": "[slot 1 type]\n580F0000 060EACA0 \n580F1000 00000020 \n780F0000 00000010 \n640F0000 00000000 00000330 \n\n",
+            "title": "[slot 1 type]"
+        },
+        {
+            "content": "[s1ot 1 qty]\n580F0000 060EACA0 \n580F1000 00000020 \n580F1000 00000018 \n780F0000 00000018 \n640F0000 00000000 00000001 \n\n",
+            "title": "[s1ot 1 qty]"
+        },
+        {
+            "content": "[slot 2 type]\n580F0000 060EACA0 \n580F1000 00000028 \n780F0000 00000010 \n640F0000 00000000 00000330 \n\n",
+            "title": "[slot 2 type]"
+        },
+        {
+            "content": "[slot 2 qty]\n580F0000 060EACA0 \n580F1000 00000028 \n580F1000 00000018 \n780F0000 00000018 \n640F0000 00000000 00000009 \n\n",
+            "title": "[slot 2 qty]"
+        },
+        {
+            "content": "[Freeze time off]\n04000000 01D36AA0 0B140308 \n\n",
+            "title": "[Freeze time off]"
+        },
+        {
+            "content": "[Freeze time]\n04000000 01D36AA0 11000308 \n \n",
+            "title": "[Freeze time]"
+        }
+    ]
+}

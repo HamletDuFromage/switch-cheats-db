@@ -9,6 +9,44 @@
             "title": "[Unlock All Parts]"
         }
     ],
+    "4792ABA465F04534": [
+        {
+            "content": "[Mario Kart 8 Deluxe (US) v1.7.2(v655360)  TID=0100152000022000  BID=4792ABA465F04534 ]\n\n",
+            "title": "[Mario Kart 8 Deluxe (US) v1.7.2(v655360)  TID=0100152000022000  BID=4792ABA465F04534 ]"
+        },
+        {
+            "content": "{Created by Eiffel2018, enjoy!}\n010E0000 007D862F 00000003\n010E0000 007D8677 00000003\n010E0000 007D86BF 00000003\n010E0000 007D8707 00000003\n010E0000 007D874F 00000003\n010E0000 007D8797 00000003\n040E0000 007E1F14 E1A05000\n040E0000 007E1FA0 E6EF2077\n040E0000 007E1FB0 E6EF2070\n010E0000 000DAFB2 000000B7\n010E0000 000DB0A6 000000B7\n020E0000 00728A12 000042C8\n040E0000 0017FD18 EEB72A00\n\n\n",
+            "title": "{Created by Eiffel2018, enjoy!}"
+        },
+        {
+            "content": "[Can use all Parts and Characters without Unlock]\n010E0000 007D862F 000000E3\n010E0000 007D8677 000000E3\n010E0000 007D86BF 000000E3\n010E0000 007D8707 000000E3\n010E0000 007D874F 000000E3\n010E0000 007D8797 000000E3\n\n\n",
+            "title": "[Can use all Parts and Characters without Unlock]"
+        },
+        {
+            "content": "[1000 Upper limited Coins]\n040E0000 007E1F14 E3A05FFA\n\n\n",
+            "title": "[1000 Upper limited Coins]"
+        },
+        {
+            "content": "[5x Coins Collected (for Player 1)]\n080E0000 00AF4E18 E3520000 E5D4201C\n080E0000 00AF4E20 00877107 00855107\n080E0000 00AF4E28 E12FFF1E E6EF2077\n040E0000 007E1FA0 EB0C4B9C\n\n\n",
+            "title": "[5x Coins Collected (for Player 1)]"
+        },
+        {
+            "content": "[No Coins Dropped (for Player 1)]\n080E0000 00AF4E00 E3520000 E5D4201C\n080E0000 00AF4E08 03A00000 00855000\n080E0000 00AF4E10 E12FFF1E E6EF2070\n040E0000 007E1FB0 EB0C4B92\n\n\n",
+            "title": "[No Coins Dropped (for Player 1)]"
+        },
+        {
+            "content": "[Double Size (original by @Optantic)]\n010E0000 000DAFB2 000000B0\n010E0000 000DB0A6 000000B0\n\n\n",
+            "title": "[Double Size (original by @Optantic)]"
+        },
+        {
+            "content": "[Confuse Enemies (original by @xtatu)]\n020E0000 00728A12 00004448\n\n\n",
+            "title": "[Confuse Enemies (original by @xtatu)]"
+        },
+        {
+            "content": "[Speed Up Acceleration (original by @xtatu)]\n040E0000 0017FD18 EEB22A04\n\n",
+            "title": "[Speed Up Acceleration (original by @xtatu)]"
+        }
+    ],
     "96DFD1769E560C27": [
         {
             "content": "[Unlock Gold Mario]\n01100000 29af136d 00000003\n\n",
@@ -21,172 +59,40 @@
     ],
     "FE1B230800D4933C": [
         {
-            "content": "[ALWAYS 10 COINS]\n011F0000 56c04ac4 0000000A\n\n",
-            "title": "[ALWAYS 10 COINS]"
+            "content": "[Mario Kart 8 Deluxe (US) v1.7.1(v589824)  TID=0100152000022000  BID=FE1B230800D4933C ]\n\n",
+            "title": "[Mario Kart 8 Deluxe (US) v1.7.1(v589824)  TID=0100152000022000  BID=FE1B230800D4933C ]"
         },
         {
-            "content": "[BIGGER KART DONKEY KONG]\n010F0000 00C2F9B2 000000FF\n\n",
-            "title": "[BIGGER KART DONKEY KONG]"
+            "content": "{Created by Eiffel2018, enjoy!}\n010E0000 007D863B 00000003\n010E0000 007D8683 00000003\n010E0000 007D86CB 00000003\n010E0000 007D8713 00000003\n010E0000 007D875B 00000003\n010E0000 007D87A3 00000003\n040E0000 007E1F20 E1A05000\n040E0000 007E1FAC E6EF2077\n040E0000 007E1FBC E6EF2070\n010E0000 000DAFB2 000000B7\n010E0000 000DB0A6 000000B7\n020E0000 007289B2 000042C8\n040E0000 0017FD18 EEB72A00\n\n\n",
+            "title": "{Created by Eiffel2018, enjoy!}"
         },
         {
-            "content": "[BIGGER KART TOAD]\n010F0000 00C2F9A2 000000FF\n\n",
-            "title": "[BIGGER KART TOAD]"
+            "content": "[Can use all Parts and Characters without Unlock]\n010E0000 007D863B 000000E3\n010E0000 007D8683 000000E3\n010E0000 007D86CB 000000E3\n010E0000 007D8713 000000E3\n010E0000 007D875B 000000E3\n010E0000 007D87A3 000000E3\n\n\n",
+            "title": "[Can use all Parts and Characters without Unlock]"
         },
         {
-            "content": "[BIGGER KART TOADETTE]\n010F0000 00C2F9A6 000000FF\n\n",
-            "title": "[BIGGER KART TOADETTE]"
+            "content": "[1000 Upper limited Coins]\n040E0000 007E1F20 E3A05FFA\n\n\n",
+            "title": "[1000 Upper limited Coins]"
         },
         {
-            "content": "[BIGGER KART KOOPA TROOPA]\n010F0000 00C2F9AA 000000FF\n\n",
-            "title": "[BIGGER KART KOOPA TROOPA]"
+            "content": "[5x Coins Collected (for Player 1)]\n080E0000 00AF4E18 E3520000 E5D4201C\n080E0000 00AF4E20 00877107 00855107\n080E0000 00AF4E28 E12FFF1E E6EF2077\n040E0000 007E1FAC EB0C4B99\n\n\n",
+            "title": "[5x Coins Collected (for Player 1)]"
         },
         {
-            "content": "[BIGGER KART BOWSER]\n010F0000 00C2F9AE 000000FF\n\n",
-            "title": "[BIGGER KART BOWSER]"
+            "content": "[No Coins Dropped (for Player 1)]\n080E0000 00AF4E00 E3520000 E5D4201C\n080E0000 00AF4E08 03A00000 00855000\n080E0000 00AF4E10 E12FFF1E E6EF2070\n040E0000 007E1FBC EB0C4B8F\n\n\n",
+            "title": "[No Coins Dropped (for Player 1)]"
         },
         {
-            "content": "[BIGGER KART WARIO]\n010F0000 00C2F9B6 000000FF\n\n",
-            "title": "[BIGGER KART WARIO]"
+            "content": "[Double Size (original by @Optantic)]\n010E0000 000DAFB2 000000B0\n010E0000 000DB0A6 000000B0\n\n\n",
+            "title": "[Double Size (original by @Optantic)]"
         },
         {
-            "content": "[BIGGER KART WALUIGI]\n010F0000 00C2F9BA 000000FF\n\n",
-            "title": "[BIGGER KART WALUIGI]"
+            "content": "[Confuse Enemies (original by @xtatu)]\n020E0000 007289B2 00004448\n\n\n",
+            "title": "[Confuse Enemies (original by @xtatu)]"
         },
         {
-            "content": "[BIGGER KART ROSALINA]\n010F0000 00C2F9BE 000000FF\n\n",
-            "title": "[BIGGER KART ROSALINA]"
-        },
-        {
-            "content": "[BIGGER KART SHY GUY]\n010F0000 00C2F9CE 000000FF\n\n",
-            "title": "[BIGGER KART SHY GUY]"
-        },
-        {
-            "content": "[BIGGER KART LAKITU]\n010F0000 00C2F9CA 000000FF\n\n",
-            "title": "[BIGGER KART LAKITU]"
-        },
-        {
-            "content": "[BIGGER KART BABY MARIO]\n010F0000 00C2F9D2 000000FF\n\n",
-            "title": "[BIGGER KART BABY MARIO]"
-        },
-        {
-            "content": "[BIGGER KART BABY LUIGI]\n010F0000 00C2F9D6 000000FF\n\n",
-            "title": "[BIGGER KART BABY LUIGI]"
-        },
-        {
-            "content": "[BIGGER KART BABY PEACH]\n010F0000 00C2F9DA 000000FF\n\n",
-            "title": "[BIGGER KART BABY PEACH]"
-        },
-        {
-            "content": "[BIGGER KART BABY DAISY]\n010F0000 00C2F9DE 000000FF\n\n",
-            "title": "[BIGGER KART BABY DAISY]"
-        },
-        {
-            "content": "[BIGGER KART BABY ROSALINA]\n010F0000 00C2F9E2 000000FF\n\n",
-            "title": "[BIGGER KART BABY ROSALINA]"
-        },
-        {
-            "content": "[BIGGER KART LARRY]\n010F0000 00C2F9E6 000000FF\n\n",
-            "title": "[BIGGER KART LARRY]"
-        },
-        {
-            "content": "[BIGGER KART WENDY]\n010F0000 00C2F9EE 000000FF\n\n",
-            "title": "[BIGGER KART WENDY]"
-        },
-        {
-            "content": "[BIGGER KART ROY]\n010F0000 00C2F9FA 000000FF\n\n",
-            "title": "[BIGGER KART ROY]"
-        },
-        {
-            "content": "[BIGGER KART MORTON]\n010F0000 00C2F9FE 000000FF\n\n",
-            "title": "[BIGGER KART MORTON]"
-        },
-        {
-            "content": "[BIGGER KART ISABELLE]\n010F0000 00C2FA12 000000FF\n\n",
-            "title": "[BIGGER KART ISABELLE]"
-        },
-        {
-            "content": "[BIGGER KART DRY BOWSER]\n010F0000 00C2FA1A 000000FF\n\n",
-            "title": "[BIGGER KART DRY BOWSER]"
-        },
-        {
-            "content": "[BIGGER KART DRY BONES]\n010F0000 00C2FA26 000000FF\n\n",
-            "title": "[BIGGER KART DRY BONES]"
-        },
-        {
-            "content": "[BIGGER KART BOWSER JR]\n010F0000 00C2FA2A 000000FF\n\n",
-            "title": "[BIGGER KART BOWSER JR]"
-        },
-        {
-            "content": "[BIGGER KART KING BOO]\n010F0000 00C2FA2E 000000FF\n\n",
-            "title": "[BIGGER KART KING BOO]"
-        },
-        {
-            "content": "[BIGGER KART LINK]\n010F0000 00C2FA3A 000000FF\n010F0000 00C2FA0A 000000FF\n\n",
-            "title": "[BIGGER KART LINK]"
-        },
-        {
-            "content": "[BIGGER KART TANOOKI MARIO]\n010F0000 00C2FA06 000000FF\n\n",
-            "title": "[BIGGER KART TANOOKI MARIO]"
-        },
-        {
-            "content": "[BIGGER KART VILLAGER]\n010F0000 00C2FA0E 000000FF\n\n",
-            "title": "[BIGGER KART VILLAGER]"
-        },
-        {
-            "content": "[BIGGER KART VILLAGER]\n010F0000 00C2FA1E 000000FF\n\n",
-            "title": "[BIGGER KART VILLAGER]"
-        },
-        {
-            "content": "[BIGGER KART CAT PEACH]\n010F0000 00C2FA16 000000FF\n\n",
-            "title": "[BIGGER KART CAT PEACH]"
-        },
-        {
-            "content": "[BIGGER KART INKLING GIRL]\n010F0000 00C2FA32 000000FF\n\n",
-            "title": "[BIGGER KART INKLING GIRL]"
-        },
-        {
-            "content": "[BIGGER KART INKLING BOY]\n010F0000 00C2FA36 000000FF\n\n",
-            "title": "[BIGGER KART INKLING BOY]"
-        },
-        {
-            "content": "[BIGGER KART METAL MARIO]\n010F0000 00C2F9C2 000000FF\n010F0000 00C2FA22 000000FF\n\n",
-            "title": "[BIGGER KART METAL MARIO]"
-        },
-        {
-            "content": "[BIGGER KART PINK GOLD PEACH]\n010F0000 00C2F9C6 000000FF\n\n",
-            "title": "[BIGGER KART PINK GOLD PEACH]"
-        },
-        {
-            "content": "[BIGGER KART LUDWIG]\n010F0000 00C2F9F2 000000FF\n\n",
-            "title": "[BIGGER KART LUDWIG]"
-        },
-        {
-            "content": "[BIGGER KART IGGY]\n010F0000 00C2F9F6 000000FF\n\n",
-            "title": "[BIGGER KART IGGY]"
-        },
-        {
-            "content": "[BIGGER KART LEMMY]\n010F0000 00C2F9EA 000000FF\n\n",
-            "title": "[BIGGER KART LEMMY]"
-        },
-        {
-            "content": "[cpu no move ]\n04000000 007289B0 48D80000\n\n",
-            "title": "[cpu no move ]"
-        },
-        {
-            "content": "[10 coins gp]\n580F0000 00DAD8F8\n580F1000 00001B38\n580F1000 00000028\n580F1000 00001068\n580F1000 00003B4C\n580F1000 00008A84\n780F0000 00000204\n610F0000 00000000 0000000A\n\n",
-            "title": "[10 coins gp]"
-        },
-        {
-            "content": "[DpadL 5 balloons]\n80001000\n580F0000 00DAD8F8\n580F1000 000016E8\n580F1000 000029AC\n580F1000 00003938\n580F1000 00005E84\n580F1000 00002BFC\n780F0000 00000250\n610F0000 00000000 00000005\n20000000\n\n",
-            "title": "[DpadL 5 balloons]"
-        },
-        {
-            "content": "[99 battle coins ]\n580F0000 00DAD8F8\n580F1000 000016E8\n580F1000 000029E4\n580F1000 00003938\n580F1000 00005E84\n580F1000 00002BFC\n780F0000 00000204\n610F0000 00000000 00000063\n\n",
-            "title": "[99 battle coins ]"
-        },
-        {
-            "content": "[speed mod2x]\n04000000 0017FD18 EEB02A00",
-            "title": "[speed mod2x]"
+            "content": "[Speed Up Acceleration (original by @xtatu)]\n040E0000 0017FD18 EEB22A04\n\n",
+            "title": "[Speed Up Acceleration (original by @xtatu)]"
         }
     ]
 }

@@ -1,0 +1,104 @@
+{
+    "2CD73D6B5D65673C": [
+        {
+            "content": "[Breeze beta19 \u30ac\u30ec\u30ea\u30a2\u306e\u5730\u4e0b\u8ff7\u5bae\u3068\u9b54\u5973\u30ce\u65c5\u56e3 1.0.1 TID: 01007010157B4000 BID: 2CD73D6B5D65673C]\n\n",
+            "title": "[Breeze beta19 \u30ac\u30ec\u30ea\u30a2\u306e\u5730\u4e0b\u8ff7\u5bae\u3068\u9b54\u5973\u30ce\u65c5\u56e3 1.0.1 TID: 01007010157B4000 BID: 2CD73D6B5D65673C]"
+        },
+        {
+            "content": "[Inf.Silver Coins]\n04100000 0893D204 0098967F \n\n",
+            "title": "[Inf.Silver Coins]"
+        },
+        {
+            "content": "[Inf.Mana]\n04100000 0893D210 0098967F \n\n",
+            "title": "[Inf.Mana]"
+        },
+        {
+            "content": "[Max Exp]\n04100000 093546F0 3B9AC9FF \n\n",
+            "title": "[Max Exp]"
+        },
+        {
+            "content": "[Max Carry Over]\n04100000 0893D260 3B9AC9FF \n\n",
+            "title": "[Max Carry Over]"
+        },
+        {
+            "content": "[Total Exp]\n04100000 09354720 3B9AC9FF \n\n",
+            "title": "[Total Exp]"
+        },
+        {
+            "content": "[Inf.Reinforce]\n02100000 0893D21C 00000064 \n\n",
+            "title": "[Inf.Reinforce]"
+        },
+        {
+            "content": "[Max Power Source]\n04100000 095F5068 447A0000 \n\n",
+            "title": "[Max Power Source]"
+        },
+        {
+            "content": "[Over Mana Dungeon]\n04100000 0893D20C 000F423F \n\n",
+            "title": "[Over Mana Dungeon]"
+        },
+        {
+            "content": "[Inf.Fog's Veil]\n02100000 0A0D06E8 000003E7 \n\n",
+            "title": "[Inf.Fog's Veil]"
+        },
+        {
+            "content": "[Inf.Shine Light]\n02100000 0A0D06F0 000003E7 \n\n",
+            "title": "[Inf.Shine Light]"
+        },
+        {
+            "content": "[Inf.Dark Light]\n02100000 0A0D06F4 000003E7 \n\n",
+            "title": "[Inf.Dark Light]"
+        },
+        {
+            "content": "[Max Pts]\n04100000 0A08A940 0001869F \n\n",
+            "title": "[Max Pts]"
+        },
+        {
+            "content": "[1st Puppet Max Exp&Status]\n04100000 0945F220 3B9AC9FF \n04100000 0945F230 3B9AC9FF \n04100000 0945F240 0001869F \n04100000 0945F244 0001869F \n04100000 0945F248 0001869F \n04100000 0945F24C 0001869F \n04100000 0945F250 0001869F \n04100000 0945F254 0001869F \n\n",
+            "title": "[1st Puppet Max Exp&Status]"
+        },
+        {
+            "content": "[2nd Puppet Max Exp&Status]\n04100000 093F7220 05F5E0FF \n04100000 093F7230 05F5E0FF \n04100000 093F7240 0001869F \n04100000 093F7244 0001869F \n04100000 093F7248 0001869F \n04100000 093F724C 0001869F \n04100000 093F7250 0001869F \n04100000 093F7254 0001869F \n\n",
+            "title": "[2nd Puppet Max Exp&Status]"
+        },
+        {
+            "content": "[3rd Puppet Max Exp&Status]\n04100000 0941C220 05F5E0FF \n04100000 0941C230 05F5E0FF \n04100000 0941C240 0001869F \n04100000 0941C244 0001869F \n04100000 0941C248 0001869F \n04100000 0941C24C 0001869F \n04100000 0941C250 0001869F \n04100000 0941C254 0001869F \n\n",
+            "title": "[3rd Puppet Max Exp&Status]"
+        },
+        {
+            "content": "[4th Puppet Max Exp&Status]\n04100000 0941D220 05F5E0FF \n04100000 0941D230 05F5E0FF \n04100000 0941D240 0001869F \n04100000 0941D244 0001869F \n04100000 0941D248 0001869F \n04100000 0941D24C 0001869F \n04100000 0941D250 0001869F \n04100000 0941D254 0001869F \n\n",
+            "title": "[4th Puppet Max Exp&Status]"
+        },
+        {
+            "content": "[5th Puppet Max Exp&Status]\n04100000 0941E220 05F5E0FF \n04100000 0941E230 05F5E0FF \n04100000 0941E240 0001869F \n04100000 0941E244 0001869F \n04100000 0941E248 0001869F \n04100000 0941E24C 0001869F \n04100000 0941E250 0001869F \n04100000 0941E254 0001869F \n\n",
+            "title": "[5th Puppet Max Exp&Status]"
+        },
+        {
+            "content": "[6th Puppet Max Exp&Status]\n04100000 0941F220 05F5E0FF \n04100000 0941F230 05F5E0FF \n04100000 0941F240 0001869F \n04100000 0941F244 0001869F \n04100000 0941F248 0001869F \n04100000 0941F24C 0001869F \n04100000 0941F250 0001869F \n04100000 0941F254 0001869F \n\n",
+            "title": "[6th Puppet Max Exp&Status]"
+        },
+        {
+            "content": "[7th Puppet Max Exp&Status]\n04100000 0942D220 05F5E0FF \n04100000 0942D230 05F5E0FF \n04100000 0942D240 0001869F \n04100000 0942D244 0001869F \n04100000 0942D248 0001869F \n04100000 0942D24C 0001869F \n04100000 0942D250 0001869F \n04100000 0942D254 0001869F \n\n",
+            "title": "[7th Puppet Max Exp&Status]"
+        },
+        {
+            "content": "[8th Puppet Max Exp&Status]\n04100000 0942E220 05F5E0FF \n04100000 0942E230 05F5E0FF \n04100000 0942E240 0001869F \n04100000 0942E244 0001869F \n04100000 0942E248 0001869F \n04100000 0942E24C 0001869F \n04100000 0942E250 0001869F \n04100000 0942E254 0001869F \n\n",
+            "title": "[8th Puppet Max Exp&Status]"
+        },
+        {
+            "content": "[9th Puppet Max Exp&Status]\n04100000 0942F220 3B9AC9FF \n04100000 0942F230 3B9AC9FF \n04100000 0942F240 0001869F \n04100000 0942F244 0001869F \n04100000 0942F248 0001869F \n04100000 0942F24C 0001869F \n04100000 0942F250 0001869F \n04100000 0942F254 0001869F \n\n",
+            "title": "[9th Puppet Max Exp&Status]"
+        },
+        {
+            "content": "[10th Puppet Max Exp&Status]\n04100000 09430220 3B9AC9FF \n04100000 09430230 3B9AC9FF \n04100000 09430240 0001869F \n04100000 09430244 0001869F \n04100000 09430248 0001869F \n04100000 0943024C 0001869F \n04100000 09430250 0001869F \n04100000 09430254 0001869F \n\n",
+            "title": "[10th Puppet Max Exp&Status]"
+        },
+        {
+            "content": "[11th Puppet Max Exp&Status]\n04100000 09432220 3B9AC9FF \n04100000 09432230 3B9AC9FF \n04100000 09432240 0001869F \n04100000 09432244 0001869F \n04100000 09432248 0001869F \n04100000 0943224C 0001869F \n04100000 09432250 0001869F \n04100000 09432254 0001869F \n\n",
+            "title": "[11th Puppet Max Exp&Status]"
+        },
+        {
+            "content": "[12th Puppet Max Exp&Status]\n04100000 09433220 3B9AC9FF \n04100000 09433230 3B9AC9FF \n04100000 09433240 0001869F \n04100000 09433244 0001869F \n04100000 09433248 0001869F \n04100000 0943324C 0001869F \n04100000 09433250 0001869F \n04100000 09433254 0001869F \n",
+            "title": "[12th Puppet Max Exp&Status]"
+        }
+    ]
+}
