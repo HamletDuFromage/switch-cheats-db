@@ -11,7 +11,7 @@ for line in sys.argv:
     try:
         tid = re.search("/(.+)\.", line).group(1)
         if tid in versions and "title" in versions[tid]:
-            print(versions[tid]["title"])
+            print(f"{tid} | {versions[tid]['title']}")
         else:
             print(tid)
     except (TypeError, AttributeError):
