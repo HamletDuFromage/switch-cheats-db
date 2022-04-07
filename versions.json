@@ -1430,6 +1430,10 @@
         "131072": "EBB362B0ADF10F47",
         "title": "Crash Drive 2"
     },
+    "010007901467A000": {
+        "65536": "9F15FCD4717ADA85",
+        "title": "The Last Friend"
+    },
     "0100079016724000": {
         "0": "9639A6239893ABA3",
         "title": "Crazy Trucks"
@@ -1970,6 +1974,10 @@
     },
     "01000A700F956000": {
         "title": "Deep Space Rush"
+    },
+    "01000A7016B6A000": {
+        "0": "0FC6FEE8AF29A6A9",
+        "title": "Red White Yellow Zinger"
     },
     "01000A800ADEE000": {
         "0": "718F8023B9941945",
@@ -3006,6 +3014,7 @@
     },
     "01000F6010D62000": {
         "0": "EC37CD32C53B3777",
+        "131072": "2A2B90038FC28F2F",
         "65536": "03BD2F4EAB1A9A2B",
         "title": "Phantom Breaker: Omnia"
     },
@@ -5384,6 +5393,9 @@
         "0": "EBEE3C4502314379",
         "title": "Jumping Helix Ball"
     },
+    "01001C00179E8000": {
+        "0": "A99AD5B97133C9A2"
+    },
     "01001C1009892000": {
         "0": "2C2372626E9E3241"
     },
@@ -5960,6 +5972,7 @@
         "title": "Trouserheart"
     },
     "01001EF016972000": {
+        "0": "DB2AB3A3BA99034B",
         "65536": "A7256D4FB8BA9243",
         "title": "Outbreak: Contagious Memories"
     },
@@ -6390,6 +6403,11 @@
     "010020F01272A000": {
         "0": "823B96ABC9C76D4F"
     },
+    "010020F014DBE000": {
+        "0": "2B37ED2A971948F3",
+        "title": "Sherlock Holmes: The Devil\u2019s Daughter"
+    },
+    "010020F014DBF000": {},
     "010020F017368000": {
         "0": "5D537C95989F34EE",
         "title": "Tax Fugitive"
@@ -8846,6 +8864,10 @@
         "0": "A05AAC55FB7B3D49",
         "title": "King Leo"
     },
+    "01002D0015BFA000": {
+        "0": "A7720F3FC4254385"
+    },
+    "01002D0015BFB000": {},
     "01002D100EF3A000": {
         "0": "B288C9ECB6BF4C4A",
         "131072": "CE6DB2FEA8A6534B",
@@ -11348,6 +11370,7 @@
         "title": "Wizodd"
     },
     "0100397015252000": {
+        "0": "CEACF9A39EF0194F",
         "65536": "3757DA3F6A2DC541",
         "title": "Astrodogs"
     },
@@ -16718,6 +16741,10 @@
         "589824": "D41357A3DA356B09",
         "title": "Hades"
     },
+    "0100535014572000": {
+        "0": "84415AC308298324",
+        "title": "Traditional Braves"
+    },
     "010053600DFA0000": {
         "0": "686E21A69412B538"
     },
@@ -18179,6 +18206,7 @@
     },
     "01005B7016584000": {
         "0": "129A0FB28E39CD24",
+        "65536": "A12297D769540EDE",
         "title": "Will You Snail?"
     },
     "01005B800DF58000": {
@@ -18250,6 +18278,10 @@
     "01005BD015A3C000": {
         "0": "DA1FFDB6135A8BFA",
         "title": "Kirakira stars idol project Memories"
+    },
+    "01005BD017ECA000": {
+        "0": "31A8102BD5D88436",
+        "title": "Cars Puzzles Game - Funny Car & Trucks Preschool Jigsaw Education Learning Puzzle Games for Babies, Kids & Toddlers"
     },
     "01005BE008674000": {
         "0": "EBA24CA1387AC14F",
@@ -18603,6 +18635,9 @@
         "0": "D35CF41386E6B840",
         "65536": "B9A5FFA34635DC44",
         "title": "Poker Pretty Girls Battle: Fantasy World Edition"
+    },
+    "01005DD015534000": {
+        "0": "00F5050101B0BA60"
     },
     "01005DE00CA34000": {
         "0": "27AD7680B9DB1F39"
@@ -20479,6 +20514,7 @@
         "131072": "AB02FCE703B80814",
         "262144": "3B915A3595B48199",
         "327680": "2ADDBA0BCBCB6B59",
+        "393216": "53BCE09DAD2C72C3",
         "65536": "AB2A6CD474D8C81A"
     },
     "0100661013EEF000": {},
@@ -22470,6 +22506,7 @@
     },
     "01007010157B4000": {
         "0": "E876CB6341D675D6",
+        "131072": "CDB74E938B168E72",
         "65536": "2CD73D6B5D65673C"
     },
     "0100701015846000": {
@@ -22605,6 +22642,10 @@
         "0": "2872AD13A9C0830A",
         "65536": "AF04BA8724E86982",
         "title": "Family Vacation: California"
+    },
+    "010070A017A02000": {
+        "0": "6C80B6E770819BDE",
+        "title": "Z-Warp"
     },
     "010070B01260C000": {
         "0": "8505A0A7D6727449",
@@ -26168,6 +26209,7 @@
         "0": "D3FF502AA5FC2418",
         "196608": "ACC3033332AA8A73",
         "262144": "95F2F4CBD5156C04",
+        "327680": "EB69898197085C72",
         "65536": "4F49BD851B16182C",
         "title": "Atelier Sophie 2: The Alchemist of the Mysterious Dream"
     },
@@ -26431,6 +26473,9 @@
     },
     "010083E013AC2000": {
         "65536": "DCF227594A11A24A"
+    },
+    "010083E0147F2000": {
+        "0": "767D0611F541D3D3"
     },
     "010084000DAF6000": {
         "0": "6ABDF48B80CA8B49",
@@ -33238,6 +33283,10 @@
         "65536": "AE3185C0165EA1CB",
         "title": "Wicce"
     },
+    "0100A64017F6C000": {
+        "0": "A55AEC98B8F40B34",
+        "title": "Worm Run"
+    },
     "0100A6500B176000": {
         "0": "D94D5CFA4DD0E145",
         "title": "Calculation Castle : Greco's Ghostly Challenge \"Subtraction \""
@@ -34381,6 +34430,11 @@
     "0100AC101212C000": {
         "0": "23D4AE256F58364B",
         "title": "City Driving Simulator"
+    },
+    "0100AC20128AC000": {
+        "0": "B65ACD7716A27CDE",
+        "65536": "B65ACD7716A27CDE",
+        "title": "CHRONO CROSS: THE RADICAL DREAMERS EDITION"
     },
     "0100AC300919A000": {
         "0": "C0D5723A48563E40",
@@ -35790,6 +35844,7 @@
     },
     "0100B2E00F64C000": {
         "0": "E7B6A28409EF6578",
+        "65536": "E7B6A28409EF6578",
         "title": "An NPC\u2019s Odyssey"
     },
     "0100B2E0160E6000": {
@@ -35907,6 +35962,9 @@
         "65536": "4E665489B9A28946",
         "title": "Life of Fly"
     },
+    "0100B3A017864000": {
+        "65536": "28663C90B7402063"
+    },
     "0100B3B00D81C000": {
         "0": "A9174854303F0D7B",
         "title": "Bad Dream: Fever"
@@ -36005,6 +36063,7 @@
         "title": "Dojoran"
     },
     "0100B440168CE000": {
+        "0": "B42AE5DAC304E109",
         "131072": "422B85DB8D1145EB",
         "65536": "C662730B889FCC62",
         "title": "Slipstream"
@@ -37790,6 +37849,7 @@
     },
     "0100BD5017D52000": {
         "0": "F704A62BA5C8355D",
+        "65536": "914CD095EF816064",
         "title": "Detective Inspector: Mysterious Clues"
     },
     "0100BD6010638000": {
@@ -39144,6 +39204,7 @@
     },
     "0100C3A013840000": {
         "131072": "4AA8C08EE3E8EF5F",
+        "196608": "4AA8C08EE3E8EF5F",
         "65536": "86F9DF67DDB7761E",
         "title": "Shadow Man Remastered"
     },
@@ -41488,6 +41549,9 @@
     "0100CF201641C000": {
         "0": "081E9B448125BC58",
         "title": "Memories of East Coast"
+    },
+    "0100CF20178D0000": {
+        "0": "D6AF370B0BFD68B8"
     },
     "0100CF3007578000": {
         "0": "C0E25A8BE9559AD1",
@@ -43939,6 +44003,7 @@
         "458752": "F22DEC334AD6AB46",
         "589824": "5333537BE20C8540",
         "65536": "2059815466104245",
+        "655360": "85F31B7D36CB1A40",
         "title": "Super Animal Royale"
     },
     "0100DB3014B4C000": {
@@ -45068,6 +45133,10 @@
         "327680": "2247B6B51B01B945"
     },
     "0100E0F008E65000": {},
+    "0100E0F017746000": {
+        "0": "E71D73486D05E913",
+        "title": "Kombinera"
+    },
     "0100E100128BA000": {
         "0": "47FFBAA5B12FDB45"
     },
@@ -48608,6 +48677,10 @@
     "0100F12014856000": {
         "65536": "0AE1CFDB63E77ABE"
     },
+    "0100F12017FA4000": {
+        "0": "C5313DFFC7F9B850",
+        "title": "3D Box Sokoban"
+    },
     "0100F1300EC60000": {
         "0": "31B8141BE6F3BC7B",
         "title": "One Night Stand"
@@ -49455,6 +49528,10 @@
         "65536": "AFB79FAF06E8B9F7",
         "title": "Fire & Water"
     },
+    "0100F4E015480000": {
+        "0": "70A7BDDF5D5DD94A",
+        "title": "Boreal Tenebrae"
+    },
     "0100F4F006EB0000": {
         "0": "186C592D96C45E4E",
         "65536": "59F84903CDF6614F",
@@ -49775,6 +49852,7 @@
         "title": "Little Big Workshop"
     },
     "0100F6B012092000": {
+        "0": "749B8E1BDB43D77D",
         "65536": "0686ACF329670193",
         "title": "Mokoko X"
     },
@@ -49798,6 +49876,7 @@
         "1179648": "7CED9BC4D3730D46",
         "1245184": "87BB908F9AA4B144",
         "131072": "23464CB3EEBD2F43",
+        "1310720": "7368E7F2C597FB4D",
         "196608": "2A67756BCEF84146",
         "262144": "0E53438279399744",
         "327680": "04199816D0BD1C4B",
