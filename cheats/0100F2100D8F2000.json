@@ -1,0 +1,28 @@
+{
+    "F6452D5B121008A8": [
+        {
+            "content": "[HP]\n580F0000 00E0AB98 \n580F1000 00000300 \n580F1000 00000330 \n580F1000 00000040 \n780F0000 00000060 \n640F0000 00000000 461C3C00 \n\n",
+            "title": "[HP]"
+        },
+        {
+            "content": "[Missiles Inf]\n04000000 00116898 51000108 \n\n",
+            "title": "[Missiles Inf]"
+        },
+        {
+            "content": "[Missiles Inf Off]\n04000000 00116898 51000508 \n\n",
+            "title": "[Missiles Inf Off]"
+        },
+        {
+            "content": "[Secondary Weapon Inf]\n04000000 001134A8 D503201F\n\n",
+            "title": "[Secondary Weapon Inf]"
+        },
+        {
+            "content": "[Secondary Weapon Inf Off]\n04000000 001134A8 5400010D\n\n",
+            "title": "[Secondary Weapon Inf Off]"
+        },
+        {
+            "content": "[Made by jhmiller]\n00000000 00000000 00000000\n",
+            "title": "[Made by jhmiller]"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "18455A3B2AE872D7": [
+        {
+            "content": "[Breeze beta20 .hack//G.U. Last Recode 1.0.0 TID: 0100CA9014A04000 BID: 18455A3B2AE872D7]\n\n",
+            "title": "[Breeze beta20 .hack//G.U. Last Recode 1.0.0 TID: 0100CA9014A04000 BID: 18455A3B2AE872D7]"
+        },
+        {
+            "content": "{master code}\n58000000 0001B600 \n40010000 00000000 006B6A90 \n98100010\nA8000400 0001FC00 \n58010000 0001F760 \n98100010\n\n",
+            "title": "{master code}"
+        },
+        {
+            "content": "[Player HP and SP fill]\n04100000 001741A8 1418AF56 \n04100000 0079FF00 B9407E6A \n04100000 0079FF04 B9407669 \n04100000 0079FF08 0B0A4129 \n04100000 0079FF0C B901CE89 \n04100000 0079FF10 17E750A7 \n\n",
+            "title": "[Player HP and SP fill]"
+        },
+        {
+            "content": "[GP gain x256]\n04100000 004ADE40 0B022129 \n\n",
+            "title": "[GP gain x256]"
+        },
+        {
+            "content": "[GP gain x256 off]\n04100000 004ADE40 0B020129 \n\n",
+            "title": "[GP gain x256 off]"
+        },
+        {
+            "content": "[Chim gain x256]\n04100000 004ACC10 0B01210A \n\n",
+            "title": "[Chim gain x256]"
+        },
+        {
+            "content": "[Chim gain x256 off]\n04100000 004ACC10 0B01010A \n\n",
+            "title": "[Chim gain x256 off]"
+        },
+        {
+            "content": "[Chim add instead of subtract]\n04100000 004ACC44 0B01010A \n\n",
+            "title": "[Chim add instead of subtract]"
+        },
+        {
+            "content": "[Chim add instead of subtract off]\n04100000 004ACC44 4B01010A \n\n",
+            "title": "[Chim add instead of subtract off]"
+        }
+    ]
+}
