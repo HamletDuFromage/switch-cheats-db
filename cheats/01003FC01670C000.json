@@ -1,0 +1,28 @@
+{
+    "4B632573CA5C160E": [
+        {
+            "content": "[13 Sentinels, Aegis Rim (TID:01003FC01670C000)]\n\n",
+            "title": "[13 Sentinels, Aegis Rim (TID:01003FC01670C000)]"
+        },
+        {
+            "content": "{Restore Codes and function used in #01 & #02}\n080E0000 00451FC4 00000000 00000000\n040E0000 00451FCC F9509409\n040E0000 00451FD0 39400129\n040E0000 00451FD4 18FFFF95\n040E0000 00451FD8 34000075\n040E0000 00451FDC 7101153F\n040E0000 00451FE0 1A9F037B\n040E0000 00451FE4 18FFFF35\n040E0000 00451FE8 34000095\n040E0000 00451FEC B942C415\n040E0000 00451FF0 7101153F\n040E0000 00451FF4 1A9B02BB\n040E0000 00451FF8 0ABB7F75\n040E0000 00451FFC D65F03C0\n040E0000 0008F0EC 940F0BB8\n040E0000 00078318 BD405800\n040E0000 00079044 BD405800\n040E0000 00079908 BD405800\n040E0000 000BD090 BD405800\n\n",
+            "title": "{Restore Codes and function used in #01 & #02}"
+        },
+        {
+            "content": "[#01 Invincible]\n010E0000 00451FC4 00000001\n\n",
+            "title": "[#01 Invincible]"
+        },
+        {
+            "content": "[#02 One-Hit-Kill]\n010E0000 00451FC8 00000001\n\n",
+            "title": "[#02 One-Hit-Kill]"
+        },
+        {
+            "content": "[#03. EP never decrease]\n040E0000 00078318 1E2703E0\n040E0000 00079044 1E2703E0\n040E0000 00079908 1E2703E0\n040E0000 000BD090 1E2703E0\n\n",
+            "title": "[#03. EP never decrease]"
+        },
+        {
+            "content": "[Created by Eiffel2018, enjoy!]\n",
+            "title": "[Created by Eiffel2018, enjoy!]"
+        }
+    ]
+}
