@@ -76,7 +76,7 @@ jobs:
             git commit -m "automatic: updated cheat files"
             git push
             version=$(cat VERSION)
-            echo -e "Last updated: **$(cat DATE)**\n\nCheats updated:↷\n```$(echo $stat | xargs python3 build_changelog.py)```" > changelog.md
+            echo -e "Last updated: **$(cat DATE)**\n\nCheats updated:↷\n\`\`\`\n$(echo $stat | xargs python3 build_changelog.py)\n\`\`\`" > changelog.md
             gh release create $version -F changelog.md
             gh release upload $version ./contents.zip --clobber
             gh release upload $version ./titles.zip --clobber

@@ -2,6 +2,7 @@ VERSION
 DATE
 contents/
 titles/
+changelog.md
 __pycache__/
 *.rar
 *.zip
