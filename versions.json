@@ -3648,6 +3648,10 @@
     "010012C01643E000": {
         "0": "676A33E406F20CE6"
     },
+    "010012D01215C000": {
+        "0": "66360A4DBAF63A4E",
+        "title": "Deck of Ashes: Complete Edition"
+    },
     "010012D016176000": {
         "0": "D697ACB95EE9A591",
         "title": "Smashy Road: Wanted 2"
@@ -6006,6 +6010,7 @@
     "01001EA014BCC000": {
         "0": "B93501F609D7D750",
         "196608": "505EE97CF580BC9B",
+        "262144": "6F4F0853003ED8CB",
         "65536": "E72DD22A1DD95C4E"
     },
     "01001EB00E9FE000": {
@@ -6081,6 +6086,7 @@
         "title": "Skatemasta Tcheco"
     },
     "01001F101596A000": {
+        "131072": "39D1B82F79B21A38",
         "65536": "3AC452B3DA5D14F8"
     },
     "01001F200A536000": {
@@ -6180,6 +6186,7 @@
     "01001F7016B5A000": {
         "0": "4AC2D1D638D21C3C",
         "131072": "D0C44A558BEC1E82",
+        "196608": "84176F59E36DF84D",
         "title": "Glitchhikers: The Spaces Between"
     },
     "01001F8011FFC000": {
@@ -6402,6 +6409,10 @@
     "0100207015A36000": {
         "0": "68490875EFE7B949",
         "title": "US Navy Sea Conflict"
+    },
+    "01002070168E2000": {
+        "0": "61A1E57056015043",
+        "title": "8 Ball Clash"
     },
     "010020800D924000": {
         "0": "40917C22351D9689"
@@ -8089,6 +8100,10 @@
         "0": "01FED56891DF8D96",
         "65536": "01FED56891DF8D96",
         "title": "The Walking Dead: The Complete First Season"
+    },
+    "010029300E5C4000": {
+        "131072": "8D8D6EB98E25614F",
+        "title": "The Stanley Parable: Ultra Deluxe"
     },
     "010029301250E000": {
         "0": "D3A0CF008C760545"
@@ -10583,6 +10598,7 @@
         "65536": "5653B8CA4C17EDEB",
         "title": "Fast & Furious: Spy Racers Rise of SH1FT3R"
     },
+    "010034C013625000": {},
     "010034C0152A8000": {
         "0": "B805E97C69F9D749",
         "title": "Dancing Dreamer"
@@ -12043,6 +12059,7 @@
         "196608": "78658E36EEE0B140",
         "262144": "1FCD3F3958A2E649",
         "327680": "51987FE882B15B41",
+        "393216": "240F464DB262C042",
         "65536": "AF7CF48B21607841"
     },
     "01003C101481E000": {
@@ -15099,6 +15116,10 @@
     "01004A301226A000": {
         "0": "DBA3C3C4AEB5A34B",
         "title": "Power Racing Bundle"
+    },
+    "01004A30149A6000": {
+        "0": "72042F56058B3244",
+        "title": "Burger Bistro Story"
     },
     "01004A4009106000": {
         "0": "48E75392640AF04E",
@@ -20018,6 +20039,10 @@
         "0": "F211123C5B5F3142",
         "title": "Enter Digiton: Heart of Corruption"
     },
+    "0100623017BF8000": {
+        "0": "DC5B7F5379911E4C",
+        "title": "Japanese NEKOSAMA Escape -The Old Inn-"
+    },
     "010062400E69C000": {
         "0": "4170CAC94BA14040",
         "131072": "D0946C60D04C8848",
@@ -20316,6 +20341,7 @@
         "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Myth Infinite Combate"
     },
     "010063E014AFC000": {
+        "0": "50DED21D9C8386CB",
         "65536": "75BEE7759321C6DE",
         "title": "Revita"
     },
@@ -21264,6 +21290,10 @@
         "0": "52E9B20C87354246",
         "65536": "D1FA051A36D27C4F",
         "title": "Blacksmith of the Sand Kingdom"
+    },
+    "010068E017928000": {
+        "0": "DAC94D95C9DBB8C5",
+        "title": "CosmicBreak Gun & Slash"
     },
     "010068F00AA78000": {
         "0": "00933DA13B7EF547",
@@ -23597,6 +23627,7 @@
     },
     "010073A01401A000": {
         "0": "27068AD8D91C2758",
+        "65536": "5BA3D9721E853DD4",
         "title": "Anuchard"
     },
     "010073B010F6E000": {
@@ -28850,6 +28881,7 @@
         "title": "Skelittle: A Giant Party!"
     },
     "01008E7017524000": {
+        "0": "CF69F98DB8EEBF31",
         "131072": "BB5BBE6ECCB9680A",
         "65536": "F918D5F001B4E521",
         "title": "Galactic Wars EX"
@@ -29869,6 +29901,10 @@
         "0": "6B8318CB1193A020",
         "title": "Kinduo"
     },
+    "0100937018162000": {
+        "0": "39AB9979A58C8D07",
+        "title": "Galagi Shooter"
+    },
     "010093800A98C000": {
         "0": "A7537F646D2FC84A",
         "title": "Super Blackjack Battle 2 Turbo Edition - The Card Warriors"
@@ -30876,6 +30912,10 @@
         "title": "Goonya Fighter"
     },
     "010098000D647000": {},
+    "010098000ECC2000": {
+        "0": "A21FAB3EE9611B45",
+        "title": "Metal Tales Overkill"
+    },
     "01009800100B4000": {
         "0": "9E8E96A94D117243",
         "65536": "9E8E96A94D117243",
@@ -30986,6 +31026,10 @@
     "010098C01791C000": {
         "0": "D224309F9898EA26",
         "65536": "B4E06CEC3B35CEA5"
+    },
+    "010098D017FBC000": {
+        "0": "889D9436CF5D7B1B",
+        "title": "Ludo Game: Just chill out!"
     },
     "010098E010FDA000": {
         "0": "60240E9CC3AC9F49",
@@ -31913,6 +31957,7 @@
     },
     "01009D1017C30000": {
         "0": "BD6DB069A4BD3CEC",
+        "65536": "BD6DB069A4BD3CEC",
         "title": "Truck Simulator USA Car Games - Driving games & Car 2022"
     },
     "01009D200952E000": {
@@ -33129,6 +33174,9 @@
     "0100A31017238000": {
         "0": "02B01B70995F8B0B",
         "title": "THE CARD Perfect Collection"
+    },
+    "0100A310181DC000": {
+        "0": "372B535C38F621EF"
     },
     "0100A32010618000": {
         "0": "258130EECDE7414F",
@@ -36435,6 +36483,7 @@
         "0": "F3349738BAD1429C",
         "131072": "FF21A84EC38B7F94",
         "262144": "5DE838D71DB6CB71",
+        "327680": "9FB1AF466BF69BDD",
         "65536": "0F841EBEF2E22D71",
         "title": "SEGA Genesis\u2122 \u2013 Nintendo Switch Online"
     },
@@ -37027,6 +37076,10 @@
         "0": "4A6C41540CA129B5",
         "65536": "44CD4B792AC1E8AF",
         "title": "Momolu and Friends"
+    },
+    "0100B6B017A50000": {
+        "0": "3BADE0AB5DFB5343",
+        "title": "NeonLore"
     },
     "0100B6C00AF6E000": {
         "0": "801B50C7F58C2B41",
@@ -38735,6 +38788,9 @@
         "title": "FATAL FRAME: Maiden of Black Water"
     },
     "0100BEB015605000": {},
+    "0100BEB01826A000": {
+        "0": "5DCD90AAB0697649"
+    },
     "0100BEC00C7A2000": {
         "0": "2769E70ED09EA790",
         "title": "Arcade Archives ATHENA"
@@ -39057,6 +39113,11 @@
     "0100C06014588000": {
         "0": "78158746CB74094D",
         "title": "Bullseye\u2122"
+    },
+    "0100C06015FF8000": {
+        "0": "4BC0EC19F5BF4D26",
+        "65536": "8A062CB529281EC8",
+        "title": "Winkeltje: The Little Shop"
     },
     "0100C0701310A000": {
         "0": "05B54E984516563F"
@@ -40490,6 +40551,7 @@
     },
     "0100C74017A98000": {
         "131072": "A7A59441109A3884",
+        "196608": "672B85E46FC3CF6A",
         "title": "Watcher Chronicles"
     },
     "0100C75011E96000": {
@@ -42538,6 +42600,7 @@
     },
     "0100D1301367A000": {
         "0": "FA26627CEA60544C",
+        "131072": "D1A85431E9EC1EEA",
         "65536": "739A4F06604A722E",
         "title": "Kraken Academy!!"
     },
@@ -42988,6 +43051,10 @@
     "0100D3C011CA2000": {
         "0": "1D709F61E966264B"
     },
+    "0100D3C018044000": {
+        "0": "05B798B38AA02CE2",
+        "title": "Sakura Angels"
+    },
     "0100D3D008E6C000": {
         "0": "1962DDA88596D44A"
     },
@@ -43110,7 +43177,8 @@
         "title": "Metro 2033 Redux"
     },
     "0100D49017CEE000": {
-        "0": "99451271DC738F1C"
+        "0": "99451271DC738F1C",
+        "title": "My Brother Ate My Pudding!"
     },
     "0100D4A00B284000": {
         "0": "055E05DA95C8E778",
@@ -46710,7 +46778,8 @@
         "title": "PLOID SAGA"
     },
     "0100E5B0178E6000": {
-        "0": "E0B87780BD352B17"
+        "0": "E0B87780BD352B17",
+        "title": "Arcade Archives GAPLUS"
     },
     "0100E5C00DC46000": {
         "0": "13082AAB64BDB509",
@@ -47813,6 +47882,10 @@
         "0": "7A13A0E5D4CB8E47",
         "title": "GONNER2"
     },
+    "0100EA7017CB4000": {
+        "0": "F3B4C6A38CF67C97",
+        "title": "Evasion From Hell"
+    },
     "0100EA80032EA000": {
         "0": "AEE6DCCC06D9C05B",
         "title": "New Super Mario Bros.\u2122 U Deluxe"
@@ -48307,6 +48380,10 @@
     "0100EC7012D34000": {
         "0": "82621F7EA403DE49",
         "title": "Inside Grass: A little adventure"
+    },
+    "0100EC7017A62000": {
+        "0": "D6392A300F982123",
+        "title": "Rotund Zero"
     },
     "0100EC8004762000": {
         "0": "1BEA48B05886F2DF",
@@ -48968,7 +49045,8 @@
         "0": "6235E04BE73FFB68"
     },
     "0100EFE017D22000": {
-        "0": "39103C80136DD91B"
+        "0": "39103C80136DD91B",
+        "title": "Pixel Game Maker Series MessiahEnd Refrain"
     },
     "0100EFF00CE56000": {
         "0": "12D00C93A4C733C7",
@@ -50881,6 +50959,10 @@
         "65536": "6E41F4A62F4C0B45"
     },
     "0100F8E00C999000": {},
+    "0100F8E018194000": {
+        "0": "595A0D7150928C47",
+        "title": "Derby Racing: Xtreme Driver"
+    },
     "0100F8F0000A2000": {
         "0": "F18FF3CFCBAD0884",
         "2359296": "8F461D62E4461B7C",
@@ -51635,6 +51717,10 @@
         "196608": "EE893E93CA819CAA",
         "65536": "302869E283C11E54",
         "title": "Gunborg: Dark Matters"
+    },
+    "0100FD3018286000": {
+        "0": "58C6A0A1FD49470C",
+        "title": "Chickens On The Road"
     },
     "0100FD40102A6000": {
         "0": "E59F03E6BF5F3C6B",
