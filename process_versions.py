@@ -37,10 +37,13 @@ class ProcessVersions:
                 except KeyError:
                     pass
 
+            latest_ver = 0
             for ver in self.data[tid]:
                 if "buildId" in self.data[tid][ver]["contentEntries"][0]:
                     self.versions_dict[tid_base][str(self.data[tid][ver]["version"])
                                                                  ] = self.data[tid][ver]["contentEntries"][0]["buildId"][:16].upper()
+                latest_ver = max(latest_ver, int(ver))
+            self.versions_dict[tid_base]["latest"] = latest_ver
 
     def check_for_changes(self):
         try:
