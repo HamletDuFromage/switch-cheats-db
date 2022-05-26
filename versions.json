@@ -230,6 +230,10 @@
         "latest": 0,
         "title": "Space Warlord Organ Trading Simulator"
     },
+    "010000D017EB4000": {
+        "0": "072F39DF11930547",
+        "latest": 0
+    },
     "010000E004DAE000": {
         "0": "586BE676B31966FA",
         "196608": "03A4E5A008521403",
@@ -1167,8 +1171,9 @@
     },
     "010004900BF6E000": {
         "131072": "B2A69450CD22C674",
+        "196608": "8B4FD9159A13549C",
         "65536": "991C5085F7FF5C63",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Farm Tycoon"
     },
     "010004900D772000": {
@@ -2208,6 +2213,10 @@
         "0": "D7F9FDB59F62124A",
         "latest": 0,
         "title": "Being Stronger While Playing! SilverStar Go DX"
+    },
+    "0100092017C8E000": {
+        "0": "84E125B4773DA7E2",
+        "latest": 0
     },
     "010009300AA6C000": {
         "0": "CF350F4752DD59BD",
@@ -5454,7 +5463,8 @@
     },
     "010016B00EBE6000": {
         "0": "5D125B7D60943542",
-        "latest": 0,
+        "65536": "E1898F330006E268",
+        "latest": 65536,
         "title": "EMERGENCY HQ"
     },
     "010016B010FDE000": {
@@ -9214,6 +9224,11 @@
         "latest": 65536,
         "title": "Cover Fire: Offline Shooter"
     },
+    "01002530181E8000": {
+        "0": "6E70CE8AB727027B",
+        "latest": 0,
+        "title": "Underland: The Climb"
+    },
     "010025400AECE000": {
         "0": "E694E3120B67CEEE",
         "3670016": "B03F8AEACBCD65FC",
@@ -9374,6 +9389,10 @@
         "196608": "9378EA40D7DA337A",
         "65536": "F5983CFE8DA09CB6",
         "latest": 196608
+    },
+    "010025D01799C000": {
+        "0": "20D094D4F82B64AC",
+        "latest": 0
     },
     "010025E0092B6000": {
         "0": "69DA58139FF54242",
@@ -10369,6 +10388,10 @@
         "65536": "F68BBEC5D00C546D",
         "latest": 196608,
         "title": "Need for Speed\u2122 Hot Pursuit Remastered"
+    },
+    "010029B0178EC000": {
+        "0": "EF4738E7A7AE4752",
+        "latest": 0
     },
     "010029C00D768000": {
         "0": "39887BE281DF4A48",
@@ -12694,6 +12717,10 @@
         "latest": 0,
         "title": "WarriOrb"
     },
+    "0100327015A72000": {
+        "0": "898CF7FACC653B6D",
+        "latest": 0
+    },
     "0100328009800000": {
         "0": "8A1BDE094FFFB53C",
         "latest": 0,
@@ -13283,6 +13310,10 @@
         "latest": 131072
     },
     "0100346017305000": {
+        "latest": 0
+    },
+    "010034701860A000": {
+        "0": "7BD16BF55504AF50",
         "latest": 0
     },
     "0100348001DE6000": {
@@ -15155,6 +15186,9 @@
         "0": "6BE5846B0E28CCC7",
         "131072": "34C284DD17C6DA7F",
         "latest": 131072
+    },
+    "01003BB017945000": {
+        "latest": 0
     },
     "01003BC0000A0000": {
         "0": "F18FF3CFCBAD0884",
@@ -18529,6 +18563,10 @@
     "0100482015D95000": {
         "latest": 0
     },
+    "010048201891A000": {
+        "0": "AABE47D78F17F7CD",
+        "latest": 0
+    },
     "010048300854E000": {
         "0": "70CB4AD3C4DA661B",
         "131072": "05ADFDE316680A3D",
@@ -20351,6 +20389,7 @@
         "title": "Beastie Bay DX"
     },
     "01004EF01829A000": {
+        "0": "7B51760DD07429AD",
         "131072": "DE4F5EF1C996838E",
         "latest": 131072
     },
@@ -24468,6 +24507,12 @@
         "latest": 0,
         "title": "Knightin'+"
     },
+    "01005F80166FA000": {
+        "0": "4AC77F8A9C6FA3BB",
+        "65536": "28519844ECD5AEAF",
+        "latest": 65536,
+        "title": "Senren * Banka"
+    },
     "01005F80175BE000": {
         "0": "317AD03F3EC899AA",
         "latest": 0,
@@ -26510,6 +26555,11 @@
         "65536": "97C0686D5F02F842",
         "latest": 131072,
         "title": "Magic Potion Millionaire"
+    },
+    "0100672017E02000": {
+        "0": "39103C80136DD91B",
+        "latest": 0,
+        "title": "Pixel Game Maker Series KINGDOM FIGHTER"
     },
     "010067300059A000": {
         "0": "9765B2C86C9A70CE",
@@ -29636,6 +29686,11 @@
         "65536": "E2F650581883339C",
         "latest": 131072
     },
+    "010072B017ACE000": {
+        "0": "0C3721E7E98E4A3F",
+        "latest": 0,
+        "title": "Sakura Succubus 5"
+    },
     "010072C009826000": {
         "0": "EBF6A9355F101D4F",
         "latest": 0,
@@ -32466,7 +32521,8 @@
     },
     "01007E100E734000": {
         "0": "7F1690E7F855BE92",
-        "latest": 0,
+        "65536": "F944390C8CF8428B",
+        "latest": 65536,
         "title": "Ping Pong Arcade"
     },
     "01007E100EFA8000": {
@@ -35663,6 +35719,11 @@
         "65536": "EDD8365BECADF244",
         "latest": 65536
     },
+    "01008B4017DDA000": {
+        "0": "29D86A09FF28AC51",
+        "latest": 0,
+        "title": "Balloon Flight"
+    },
     "01008B50144EC000": {
         "0": "2259994931019AB7",
         "latest": 0,
@@ -36003,6 +36064,7 @@
         "latest": 0
     },
     "01008CB01716E000": {
+        "0": "A451102BFDED42F5",
         "65536": "E56201E708F38D59",
         "latest": 65536,
         "title": "Coloring Pixels: Collection 1"
@@ -37312,8 +37374,9 @@
         "196608": "8D0CDD0BA4E88643",
         "262144": "FC518059AB2C394A",
         "327680": "03303BF9AF4EB64D",
+        "393216": "92550D9714E60E4B",
         "65536": "19BE060773A76542",
-        "latest": 327680
+        "latest": 393216
     },
     "01009120155CD000": {
         "latest": 0
@@ -37582,6 +37645,10 @@
         "65536": "87A3F91103EEB440",
         "latest": 65536,
         "title": "Isolation Story"
+    },
+    "0100925014864000": {
+        "0": "E278C95419254A8D",
+        "latest": 0
     },
     "010092600E9A2000": {
         "0": "D60A86235290AA43",
@@ -38425,6 +38492,11 @@
     },
     "0100958015657000": {
         "latest": 0
+    },
+    "0100958017FF4000": {
+        "0": "7BAE8AB925E073B3",
+        "latest": 0,
+        "title": "Mudness Offroad Car Simulator"
     },
     "010095900B436000": {
         "0": "B27A372645A23E48",
@@ -43478,8 +43550,12 @@
         "title": "Olympia Soir\u00e9e"
     },
     "0100A91015274000": {
+        "0": "398F3087B616D883",
         "65536": "B73A2CC57ED02A9D",
         "latest": 65536
+    },
+    "0100A91015275000": {
+        "latest": 0
     },
     "0100A9200F300000": {
         "131072": "F751EA9BF8CF08EB",
@@ -44465,6 +44541,9 @@
         "65536": "97C65B128B54734F",
         "latest": 458752,
         "title": "Atomicrops"
+    },
+    "0100AD30095A5000": {
+        "latest": 0
     },
     "0100AD300B786000": {
         "0": "1670DDED6E894E48",
@@ -46679,6 +46758,9 @@
         "65536": "E9E33416BBC3E33E",
         "latest": 65536
     },
+    "0100B5D01703B000": {
+        "latest": 0
+    },
     "0100B5E00D218000": {
         "0": "5FF7E7CD4737D74D",
         "latest": 0,
@@ -48163,6 +48245,9 @@
         "0": "38A7E92181F2F58C",
         "latest": 0,
         "title": "Rolling Car"
+    },
+    "0100BBF017BC7000": {
+        "latest": 0
     },
     "0100BC0009716000": {
         "0": "B47A45DE54B44296",
@@ -50962,6 +51047,11 @@
         "0": "8F8246F2C12E7557",
         "latest": 0
     },
+    "0100C620180C4000": {
+        "0": "B28F8276A9C97550",
+        "latest": 0,
+        "title": "Mechanic Battle"
+    },
     "0100C6300AFE0000": {
         "0": "C2FA38AF0363DC27",
         "65536": "BAD22D8931440CC1",
@@ -50976,7 +51066,8 @@
     },
     "0100C64015F84000": {
         "0": "0DA13A7E3D27208B",
-        "latest": 0,
+        "65536": "957C1A8B040DE754",
+        "latest": 65536,
         "title": "RiffTrax: The Game"
     },
     "0100C65013DA0000": {
@@ -51021,7 +51112,7 @@
         "title": "Legend of Keepers: Career of a Dungeon Manager"
     },
     "0100C67015077000": {
-        "latest": 65536
+        "latest": 131072
     },
     "0100C67015270000": {
         "0": "61E5BD3FDB6BFA47",
@@ -51103,6 +51194,11 @@
         "65536": "638F8B91EE4B02CD",
         "latest": 65536,
         "title": "Twin Breaker: A Sacred Symbols Adventure"
+    },
+    "0100C68016136000": {
+        "0": "C506F47885E1324F",
+        "latest": 0,
+        "title": "BIOMOTOR UNITRON"
     },
     "0100C69010522000": {
         "0": "6006D1EBC2E185C0",
@@ -51968,6 +52064,10 @@
         "65536": "46E0A3EFED6AD502",
         "latest": 65536,
         "title": "Lacuna"
+    },
+    "0100CA2017EAC000": {
+        "0": "E3C5598A71A7331F",
+        "latest": 0
     },
     "0100CA300C5BA000": {
         "0": "65B141747CB2F6BB",
@@ -53483,6 +53583,10 @@
         "65536": "1DCF081AA8555E4B",
         "latest": 65536,
         "title": "Wild Park Manager"
+    },
+    "0100CFF018090000": {
+        "0": "9B7193744E4F5F08",
+        "latest": 0
     },
     "0100D000111C2000": {
         "0": "44AD19B3DA1EBC4F",
@@ -55800,6 +55904,7 @@
         "title": "Car Demolition Clicker"
     },
     "0100D8B015818000": {
+        "0": "4539909F6565BF4A",
         "131072": "068F52A38D891A4B",
         "latest": 131072
     },
@@ -61360,6 +61465,11 @@
         "latest": 0,
         "title": "Road Racing: Highway Car Chase"
     },
+    "0100ED4017AD2000": {
+        "0": "528B0FC98569D05F",
+        "latest": 0,
+        "title": "Amazing Superhero Squad"
+    },
     "0100ED500DF56000": {
         "0": "BA3403BA40E65046",
         "65536": "A2D5E257E44B034D",
@@ -63588,6 +63698,7 @@
         "title": "Explosive Candy World"
     },
     "0100F5A017FE8000": {
+        "0": "46EF7BC551B1F218",
         "65536": "315BA17FD941C553",
         "latest": 65536,
         "title": "Twin Blades of the Three Kingdoms"
@@ -63630,6 +63741,11 @@
         "65536": "0C5414F925BA1745",
         "latest": 65536,
         "title": "The Adventures of Elena Temple: Definitive Edition"
+    },
+    "0100F5D018142000": {
+        "0": "2848A52214CA1CE3",
+        "latest": 0,
+        "title": "Eye Exercise - Ver. kompeito"
     },
     "0100F5E008AA0000": {
         "0": "C2C1C51D4EC2EA9A",
@@ -63917,6 +64033,11 @@
         "0": "9CE3B495EBE74F44",
         "latest": 0,
         "title": "My Butler"
+    },
+    "0100F6F014CB6000": {
+        "0": "91C166B3F2B23DF4",
+        "latest": 0,
+        "title": "Beatus Creation Solitaire"
     },
     "0100F6F015D9A000": {
         "0": "2052EB4B2B45D16B",
