@@ -1,0 +1,76 @@
+{
+    "DACD97A329B3C1AD": [
+        {
+            "content": "[01# Inf HP]\n040A0000 0448DFC0 B940CA63\n040A0000 0448DFC4 7100047F\n040A0000 0448DFC8 54000041\n040A0000 0448DFCC BD410260\n040A0000 0448DFD0 BD00FA60\n040A0000 0448DFD4 D65F03C0\n040A0000 008E6410 94EE9EEC\n\n",
+            "title": "[01# Inf HP]"
+        },
+        {
+            "content": "[Inf HP (off)]\n040A0000 008E6410 BD00FA60\n\n",
+            "title": "[Inf HP (off)]"
+        },
+        {
+            "content": "[02# Inf Food]\n040A0000 0448DFD8 B9447E68\n040A0000 0448DFDC B9047A68\n040A0000 0448DFE0 17139E8D\n040A0000 00975A10 14EC6172\n\n",
+            "title": "[02# Inf Food]"
+        },
+        {
+            "content": "[Inf Food (off)]\n040A0000 00975A10 B9047A68\n\n",
+            "title": "[Inf Food (off)]"
+        },
+        {
+            "content": "[03# Inf Water]\n040A0000 0448DFE4 B9449268\n040A0000 0448DFE8 B9048E68\n040A0000 0448DFEC 17139F0E\n040A0000 00975C20 14EC60F1\n\n",
+            "title": "[03# Inf Water]"
+        },
+        {
+            "content": "[Inf Water (off)]\n040A0000 00975C20 B9048E68\n\n",
+            "title": "[Inf Water (off)]"
+        },
+        {
+            "content": "[04# Inf Energy]\n040A0000 0448DFF0 B9446A68\n040A0000 0448DFF4 B9046668\n040A0000 0448DFF8 1713949F\n040A0000 00973270 14EC6B60\n\n",
+            "title": "[04# Inf Energy]"
+        },
+        {
+            "content": "[Inf Energy (off)]\n040A0000 00973270 B9046668\n\n",
+            "title": "[Inf Energy (off)]"
+        },
+        {
+            "content": "[05# Max Items]\n040A0000 00C26194 52800C68\n040A0000 00C261A4 52800C68\n\n",
+            "title": "[05# Max Items]"
+        },
+        {
+            "content": "[Max Items (off)]\n040A0000 00C26194 0B010108\n040A0000 00C261A4 4B010108\n\n",
+            "title": "[Max Items (off)]"
+        },
+        {
+            "content": "[06# Inf Zombie energie (Press L)]\n040A0000 0097716C B9049A68\n80000040\n040A0000 000001B4 B9449E68\n040A0000 000001B8 B9049A68\n040A0000 000001BC 1425DBED\n040A0000 0097716C 17DA2412\n20000000\n\n",
+            "title": "[06# Inf Zombie energie (Press L)]"
+        },
+        {
+            "content": "[Inf Zombie energie (off)]\n040A0000 0097716C B9049A68\n\n",
+            "title": "[Inf Zombie energie (off)]"
+        },
+        {
+            "content": "[07# Max Money When Opening Menu]\n040A0000 00BE2C34 0098967F\n040A0000 00BE2C0C 18000140\n\n",
+            "title": "[07# Max Money When Opening Menu]"
+        },
+        {
+            "content": "[Max Money (off)]\n040A0000 00BE2C0C B9400100\n\n",
+            "title": "[Max Money (off)]"
+        },
+        {
+            "content": "[08# No Wanted Level]\n040A0000 00C38974 52800028\n040A0000 00C38978 B9000408\n040A0000 00C3897C 17FFFFD0\n040A0000 00C388B8 1400002F\n040A0000 00C38E54 52800008\n040A0000 00C38E58 B9000008\n040A0000 00C38E5C 17FFFEA1\n040A0000 00C388DC 1400015E\n\n",
+            "title": "[08# No Wanted Level]"
+        },
+        {
+            "content": "[No Wanted Level (off)]\n040A0000 00C388B8 B9000408\n040A0000 00C388DC B9000008\n\n",
+            "title": "[No Wanted Level (off)]"
+        },
+        {
+            "content": "[09# Max SP When Opening Menu]\n040A0000 00C08DF8 05F5E0FF\n040A0000 00C08D80 180003C9\n\n",
+            "title": "[09# Max SP When Opening Menu]"
+        },
+        {
+            "content": "[Max Sp (off)]\n040A0000 00C08D80 1A8AB3E9",
+            "title": "[Max Sp (off)]"
+        }
+    ]
+}

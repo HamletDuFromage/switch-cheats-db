@@ -1,0 +1,36 @@
+{
+    "6F1BEE519CDF2B7C": [
+        {
+            "content": "[Breeze beta34 Miss Kobayashi's Dragonmaid  Burst Forth!! Choro-gon\u2606Breath 1.0.0 TID: 01005AB015994000 BID: 6F1BEE519CDF2B7C]\n\n",
+            "title": "[Breeze beta34 Miss Kobayashi's Dragonmaid  Burst Forth!! Choro-gon\u2606Breath 1.0.0 TID: 01005AB015994000 BID: 6F1BEE519CDF2B7C]"
+        },
+        {
+            "content": "[Back to normal]\n04000000 01658150 0B1A0108 \n04000000 0165AC88 4B130108 \n04000000 01759150 0B14014A \n\n",
+            "title": "[Back to normal]"
+        },
+        {
+            "content": "[hp no decrease]\n04000000 0165AC88 D503201F \n\n",
+            "title": "[hp no decrease]"
+        },
+        {
+            "content": "[hp recover 16x]\n04000000 01658150 0B1A1108 \n\n",
+            "title": "[hp recover 16x]"
+        },
+        {
+            "content": "[sp full]\n04000000 01759150 5284650A \n\n",
+            "title": "[sp full]"
+        },
+        {
+            "content": "[hp1]\n580F0000 02F2BBD0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 00000028 \n580F1000 00000018 \n580F1000 00000020 \n780F0000 00000018 \n640F0000 00000000 0000044C \n\n",
+            "title": "[hp1]"
+        },
+        {
+            "content": "[hp2]\n580F0000 02F2BBD0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 00000028 \n580F1000 00000018 \n580F1000 00000028 \n780F0000 00000018 \n640F0000 00000000 000003B6 \n\n",
+            "title": "[hp2]"
+        },
+        {
+            "content": "[hp3]\n580F0000 02F2BBD0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 00000028 \n580F1000 00000018 \n580F1000 00000030 \n780F0000 00000018 \n640F0000 00000000 000002BC \n\n",
+            "title": "[hp3]"
+        }
+    ]
+}

@@ -61,8 +61,28 @@
             "title": "[Green Herb Lollipop x99]"
         },
         {
-            "content": "[Witchs Recipes x99]\n01000000 034e49b4 00000063\n\nMade by Stoned and RyuSeisuke1992",
+            "content": "[Witchs Recipes x99]\n01000000 034e49b4 00000063\n\nMade by Stoned and RyuSeisuke1992 updated by gamerjin\n\n",
             "title": "[Witchs Recipes x99]"
+        },
+        {
+            "content": "[invincible/time control(stop) v4]\n08000000 0120DF00 35000075 180001F5 \n08000000 0120DF08 17B83A9B B9400108 \n08000000 0120DF10 54FFFFCB 71000ABF \n08000000 0120DF18 B9000115 52800035 \n08000000 0120DF20 B9001D15 52A85E15 \n08000000 0120DF28 F9000915 58000075 \n08000000 0120DF30 38D1B717 17FFFFF7 \n04000000 0120DF38 40000000 \n04000000 0001C974 1447C563 \n\n",
+            "title": "[invincible/time control(stop) v4]"
+        },
+        {
+            "content": "[enable option 1 (invincible)]\n14060000 0120DF3C 00000002 \n04000000 0120DF3C 00000001 \n20000000 \n\n",
+            "title": "[enable option 1 (invincible)]"
+        },
+        {
+            "content": "[enable option 2 (time control)]\n80000010 \n04000000 0120DF3C 00000002 \n20000000 \n\n",
+            "title": "[enable option 2 (time control)]"
+        },
+        {
+            "content": "[disable option 2(time control)]\n80000020 \n04000000 0120DF3C 00000000 \n20000000 \n\n",
+            "title": "[disable option 2(time control)]"
+        },
+        {
+            "content": "[time control mod stop to slow]\n04000000 0120DF34 3DCCCCCD\n\n",
+            "title": "[time control mod stop to slow]"
         }
     ]
 }
