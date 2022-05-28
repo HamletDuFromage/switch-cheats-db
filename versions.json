@@ -9709,7 +9709,8 @@
     },
     "010026E017F54000": {
         "0": "EAA59F1693011055",
-        "latest": 0,
+        "65536": "306CC058A0284495",
+        "latest": 65536,
         "title": "REMOTE LIFE"
     },
     "010026F00E45E000": {
@@ -20234,7 +20235,8 @@
     },
     "01004E00168C0000": {
         "0": "803BF48DB2E4DC39",
-        "latest": 0,
+        "65536": "550985C4D8B1719D",
+        "latest": 65536,
         "title": "Dungeons of Dreadrock"
     },
     "01004E10142FE000": {
@@ -23053,8 +23055,9 @@
     },
     "01005A0015A9C000": {
         "0": "80CC35A1C9DA4FB5",
+        "131072": "12EDF0D0391EA47A",
         "65536": "A01DBA4B2E7660EE",
-        "latest": 65536
+        "latest": 131072
     },
     "01005A0015A9D000": {
         "latest": 0
@@ -27640,8 +27643,9 @@
         "0": "9FB2F3E2446E3346",
         "131072": "D85A937DB1600F4D",
         "196608": "BA93BA9CEC9F6047",
+        "262144": "87AB3ECC2B7BB74F",
         "65536": "593FE32E6ECE274D",
-        "latest": 196608,
+        "latest": 262144,
         "title": "BEAUTIFUL DESOLATION"
     },
     "01006B0014CAA000": {
@@ -31351,6 +31355,7 @@
         "latest": 0
     },
     "010078C01769A000": {
+        "0": "121346964EC4CD45",
         "65536": "8FB0C2D2A6730D26",
         "latest": 65536,
         "title": "Kao the Kangaroo"
@@ -31729,6 +31734,11 @@
         "65536": "3F874ED82483A045",
         "latest": 65536,
         "title": "Anima: Gate of Memories - The Nameless Chronicles"
+    },
+    "01007A4018226000": {
+        "0": "14E89CB37E30670E",
+        "latest": 0,
+        "title": "The Fly Plane: Flight Simulator"
     },
     "01007A500B0B2000": {
         "0": "9F26352EDD792841",
@@ -38509,6 +38519,7 @@
         "title": "STAB STAB STAB!"
     },
     "0100956016464000": {
+        "0": "121346964EC4CD45",
         "65536": "8FB0C2D2A6730D26",
         "latest": 65536
     },
@@ -40566,6 +40577,11 @@
         "65536": "789C206EA0C11EA3",
         "latest": 262144,
         "title": "Ultimate Racing 2D"
+    },
+    "01009D00177EC000": {
+        "0": "8257A27C6C4F2746",
+        "latest": 0,
+        "title": "Buck Bradley 2"
     },
     "01009D1003A96000": {
         "0": "2975E47F02C6AB02",
@@ -46116,6 +46132,11 @@
         "0": "6C6FF12669E64BB6",
         "latest": 0
     },
+    "0100B2C016252000": {
+        "65536": "0760B47AF1251480",
+        "latest": 65536,
+        "title": "STAR WARS\u2122: Knights of the Old Republic\u2122 II: The Sith Lords"
+    },
     "0100B2D00C63A000": {
         "0": "F8A164071F05BB12",
         "131072": "73527E5A7DFE7AFD",
@@ -46961,6 +46982,11 @@
     },
     "0100B6400CA57000": {
         "latest": 0
+    },
+    "0100B65013636000": {
+        "0": "664244C1CBABE8B7",
+        "latest": 0,
+        "title": "Super Toy Cars Offroad"
     },
     "0100B6600FE06000": {
         "0": "62C8976E3DEE9740",
@@ -47903,8 +47929,9 @@
     "0100BA6015E82000": {
         "0": "9CEEA0A66EECD747",
         "131072": "36F5EE82C6C4447D",
+        "196608": "AEDD5F28777419FE",
         "65536": "9CEEA0A66EECD747",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Shinya Ichizoku The Battle for Hokkaido's Delicious Foods"
     },
     "0100BA700E8A6000": {
@@ -59368,6 +59395,11 @@
     "0100E5F01122C000": {
         "65536": "E991DF03A5F0C8A4",
         "latest": 65536
+    },
+    "0100E5F0175D2000": {
+        "0": "3D5E92B967E69DB3",
+        "latest": 0,
+        "title": "Toonkars Racer"
     },
     "0100E6000CB50000": {
         "0": "7E970B0D41248D49",
