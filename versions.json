@@ -26380,8 +26380,9 @@
         "327680": "2ADDBA0BCBCB6B59",
         "393216": "53BCE09DAD2C72C3",
         "458752": "838A1D4F3BC741EC",
+        "524288": "1E3E7CAAD3904017",
         "65536": "AB2A6CD474D8C81A",
-        "latest": 458752
+        "latest": 524288
     },
     "0100661013EEF000": {
         "latest": 0
@@ -33724,8 +33725,9 @@
         "262144": "95F2F4CBD5156C04",
         "327680": "EB69898197085C72",
         "393216": "68E04AC3481868B7",
+        "458752": "BF8FD76564319AB3",
         "65536": "4F49BD851B16182C",
-        "latest": 393216,
+        "latest": 458752,
         "title": "Atelier Sophie 2: The Alchemist of the Mysterious Dream"
     },
     "010082A01538F000": {
@@ -56761,8 +56763,9 @@
     },
     "0100DBC013496000": {
         "0": "70E05C9756043C4E",
+        "131072": "1A6659F8D6A2AA42",
         "65536": "07EF3AB0EF4EAC43",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Wrestledunk Sports"
     },
     "0100DBD00ABF4000": {
