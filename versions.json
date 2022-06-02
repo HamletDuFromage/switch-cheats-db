@@ -210,6 +210,11 @@
         "latest": 327680,
         "title": "The Church in the Darkness"
     },
+    "010000B018892000": {
+        "0": "9EDDF2B2080EF6CB",
+        "latest": 0,
+        "title": "The Minesweeper: Crew Bomber Expedition"
+    },
     "010000C010E76000": {
         "0": "673F385780AE0C40",
         "131072": "9927923C963E162A",
@@ -1281,7 +1286,8 @@
     },
     "0100052012B02000": {
         "0": "7A1471EC27F35946",
-        "latest": 0,
+        "65536": "8AC589499A13D04C",
+        "latest": 65536,
         "title": "Wolfstride"
     },
     "010005300EDCC000": {
@@ -2588,7 +2594,8 @@
     },
     "01000AA01350A000": {
         "131072": "D3C39ABE36ECD090",
-        "latest": 131072
+        "196608": "9A37B74E7764EFBC",
+        "latest": 196608
     },
     "01000AA013A5E000": {
         "0": "68A914876FFBD141",
@@ -3665,6 +3672,11 @@
         "latest": 65536,
         "title": "Coast Guard: Beach Rescue Team"
     },
+    "01000EC013EB0000": {
+        "65536": "87D60D9519D24244",
+        "latest": 65536,
+        "title": "Autonauts"
+    },
     "01000ED00E39A000": {
         "65536": "E101F8DC83772A0B",
         "latest": 65536
@@ -4081,6 +4093,11 @@
         "0": "7F8E91FC6B0DC775",
         "latest": 0,
         "title": "Zero Zero Zero Zero"
+    },
+    "0100105017ABC000": {
+        "0": "89CC7D667FCF6895",
+        "latest": 0,
+        "title": "QUByte Classics: Jim Power: The Lost Dimension by PIKO"
     },
     "0100106010C3E000": {
         "65536": "B00D5F5B0FD216E6",
@@ -4872,7 +4889,8 @@
     },
     "010013F017A3E000": {
         "0": "5BCEDA0CED7F1E3F",
-        "latest": 0,
+        "65536": "429BC6989CDD575F",
+        "latest": 65536,
         "title": "Ravenous Devils"
     },
     "010014000C63C000": {
@@ -5513,6 +5531,10 @@
     },
     "010016C011AAA000": {
         "0": "094ABFBB251D844C",
+        "latest": 0
+    },
+    "010016C01858A000": {
+        "0": "54FC363FA4C87709",
         "latest": 0
     },
     "010016D00A964000": {
@@ -7822,6 +7844,7 @@
         "latest": 0
     },
     "01001F7014F14000": {
+        "0": "7ACF18642C661D49",
         "65536": "B046759D3BC18047",
         "latest": 65536,
         "title": "TOKOYO: Tower of Perpetuity"
@@ -8476,7 +8499,8 @@
         "655360": "2277B2804ED2C1C6",
         "720896": "41D5E91AEEF49246",
         "786432": "2D29710B54BE6EE6",
-        "latest": 786432
+        "851968": "B3A483DC896A379A",
+        "latest": 851968
     },
     "010022201229B000": {
         "latest": 0
@@ -9031,6 +9055,11 @@
         "latest": 0,
         "title": "Shiro"
     },
+    "01002440177F8000": {
+        "0": "5C96EA651F7CEF73",
+        "latest": 0,
+        "title": "EleMetals: Death Metal Death Match!"
+    },
     "01002450112D4000": {
         "0": "6AC95259448C9249",
         "131072": "2B3DD10A7B44444E",
@@ -9374,6 +9403,7 @@
         "latest": 0
     },
     "010025B01585A000": {
+        "0": "EE582323BEB547EB",
         "65536": "B7115DE9A751F050",
         "latest": 65536,
         "title": "DEATHRUN TV"
@@ -9486,6 +9516,11 @@
         "0": "AD12A137DC166E4F",
         "latest": 0,
         "title": "Fishing Adventure"
+    },
+    "010026100A2CA000": {
+        "0": "1F223D6157F367D4",
+        "latest": 0,
+        "title": "The Big Con - GRIFT OF THE YEAR EDITION"
     },
     "01002610159C4000": {
         "131072": "7538A54938F3EC4D",
@@ -10762,6 +10797,12 @@
     },
     "01002B00111A3000": {
         "latest": 0
+    },
+    "01002B00117FC000": {
+        "0": "F3A022AA6682552C",
+        "65536": "56B3CAF3A5B91661",
+        "latest": 65536,
+        "title": "Pinku Kult: Hex Mortis"
     },
     "01002B100B122000": {
         "0": "E61FA2E029169C49",
@@ -13019,8 +13060,9 @@
     },
     "010033301690E000": {
         "0": "08B2D51A962CE10E",
+        "131072": "3DA9A530602C6916",
         "65536": "CCC9E7D726EDBBB0",
-        "latest": 65536,
+        "latest": 131072,
         "title": "orbit.industries"
     },
     "0100334011C6C000": {
@@ -16126,8 +16168,9 @@
         "title": "Lost Artifacts"
     },
     "01003F5018110000": {
+        "131072": "74AB251291B57E3E",
         "65536": "9D8997091F9185E4",
-        "latest": 65536
+        "latest": 131072
     },
     "01003F601025E000": {
         "0": "F0A4874A7FA53947",
@@ -17214,6 +17257,11 @@
         "131072": "EAA2BA5A14A00157",
         "65536": "A2EF0997B5ED1781",
         "latest": 131072
+    },
+    "010043100BFFA000": {
+        "0": "E8D73CF2E8D25B66",
+        "latest": 0,
+        "title": "Samurai Riot"
     },
     "010043100F0EA000": {
         "0": "EBA4919E77E6CC4A",
@@ -21560,6 +21608,11 @@
         "latest": 0,
         "title": "Traditional Braves"
     },
+    "0100535018684000": {
+        "0": "DD2CBC1B8EEF544D",
+        "65536": "DD2CBC1B8EEF544D",
+        "latest": 65536
+    },
     "010053600DFA0000": {
         "0": "686E21A69412B538",
         "latest": 0
@@ -23460,7 +23513,8 @@
         "262144": "63630D5C4E81220A",
         "327680": "9CDBF82316ED82A3",
         "393216": "AD8D9CFCBB5928A3",
-        "latest": 393216
+        "458752": "AD8D9CFCBB5928A3",
+        "latest": 458752
     },
     "01005B900BD2E000": {
         "latest": 0
@@ -24191,6 +24245,10 @@
         "latest": 65536,
         "title": "Hidden Paws"
     },
+    "01005E9016BDE000": {
+        "0": "48953CCE30E71AE0",
+        "latest": 0
+    },
     "01005EA00A57E000": {
         "65536": "0EE6D42C7660AA4D",
         "latest": 65536
@@ -24639,7 +24697,8 @@
     },
     "01005FA01778E000": {
         "0": "B0A4246C43D0C45F",
-        "latest": 0,
+        "65536": "2499D160A552E137",
+        "latest": 65536,
         "title": "Shiorinokotoha - DarkReflections -"
     },
     "01005FB00DA7C000": {
@@ -25551,6 +25610,11 @@
         "latest": 0,
         "title": "Gunslugs 2"
     },
+    "010062A0178A8000": {
+        "0": "31C14E7807F7A8C0",
+        "latest": 0,
+        "title": "LOOPERS"
+    },
     "010062B00A874000": {
         "0": "B4F6BF218296B54B",
         "latest": 0,
@@ -25910,6 +25974,10 @@
         "65536": "38731F4215845947",
         "latest": 65536,
         "title": "Forgotten Tales - Day of the Dead"
+    },
+    "0100643017BD8000": {
+        "0": "19AC2C2EB5A8FE47",
+        "latest": 0
     },
     "0100644008454000": {
         "0": "EEE1F3B794F9130E",
@@ -29665,7 +29733,8 @@
         "655360": "DCEDBABB85CB4237",
         "786432": "99DC340F6CF6BAEF",
         "851968": "00AFFEE2D538F86C",
-        "latest": 851968,
+        "917504": "14C096242459ECF1",
+        "latest": 917504,
         "title": "Diablo\u00ae II: Resurrected\u2122"
     },
     "0100726014BF4000": {
@@ -29971,8 +30040,9 @@
         "393216": "E56926D17FBEBE4A",
         "458752": "CE4FAA74739B8543",
         "524288": "2A6E030514B0D145",
+        "589824": "20E25FACA848994E",
         "65536": "DD5C2E4BBADCD64D",
-        "latest": 524288,
+        "latest": 589824,
         "title": "SUPER BOMBERMAN R ONLINE"
     },
     "01007380121FF000": {
@@ -31959,6 +32029,10 @@
         "65536": "5F669F098058224D",
         "latest": 65536,
         "title": "Astro Rangers"
+    },
+    "01007B4018728000": {
+        "0": "69AAB57C4C4F638A",
+        "latest": 0
     },
     "01007B5002F56000": {
         "0": "61FA6EEDA9A63672",
@@ -35261,6 +35335,11 @@
         "latest": 0,
         "title": "Kine"
     },
+    "0100890016A74000": {
+        "0": "5C65739E536DA3E3",
+        "latest": 0,
+        "title": "Fishing Paradiso"
+    },
     "010089200F0E4000": {
         "0": "D6FD3571F1F25149",
         "131072": "5AF739C96DAD3B48",
@@ -35655,6 +35734,10 @@
     },
     "01008AD00BE3F000": {
         "latest": 0
+    },
+    "01008AD013A86000": {
+        "131072": "5454F6FD2D27BD48",
+        "latest": 131072
     },
     "01008AE00E95C000": {
         "0": "59A2727F19FDC44D",
@@ -37474,6 +37557,10 @@
         "0": "3C5F1E198A79FBA2",
         "latest": 0
     },
+    "010091201701C000": {
+        "0": "8458319B3C5D0E44",
+        "latest": 0
+    },
     "0100913006CC6000": {
         "0": "2A207ECD269D4CA7",
         "latest": 0
@@ -37707,6 +37794,11 @@
         "0": "82968028FC703AEC",
         "latest": 0,
         "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 2"
+    },
+    "01009220117FE000": {
+        "0": "75DFC3AE81574702",
+        "latest": 0,
+        "title": "Flewfie's Adventure"
     },
     "010092201711E000": {
         "0": "E77D18E7FD3B301E",
@@ -40889,6 +40981,11 @@
         "latest": 262144,
         "title": "Team Troopers"
     },
+    "01009E001803C000": {
+        "0": "D451765CA42C8945",
+        "latest": 0,
+        "title": "Pretty Girls Speed"
+    },
     "01009E100BDD6000": {
         "0": "184CD27602CEF34D",
         "latest": 0,
@@ -43550,6 +43647,11 @@
         "0": "C6D6837F7CA47740",
         "latest": 0,
         "title": "Dirt Bike Insanity"
+    },
+    "0100A8A017EC6000": {
+        "0": "C5154D42867C0636",
+        "latest": 0,
+        "title": "Ocean Animals Puzzle - Preschool Animal Learning Puzzles Game for Kids & Toddlers"
     },
     "0100A8B00E14A000": {
         "0": "053ABE9494B5397A",
@@ -47305,6 +47407,16 @@
         "latest": 65536,
         "title": "Neo ATLAS 1469"
     },
+    "0100B7801693A000": {
+        "0": "54C6ECE0AD913749",
+        "latest": 0,
+        "title": "Behind the Frame: The Finest Scenery"
+    },
+    "0100B78017CFC000": {
+        "0": "245F36267ACC1252",
+        "latest": 0,
+        "title": "Jigsaw Fun 3-in-1 Collection"
+    },
     "0100B7900B024000": {
         "0": "40E1CB5D5950EFE5",
         "65536": "40E1CB5D5950EFE5",
@@ -48605,7 +48717,8 @@
     },
     "0100BCE013042000": {
         "0": "E54049229AB01648",
-        "latest": 0,
+        "262144": "1A16F227312739A2",
+        "latest": 262144,
         "title": "G-DARIUS HD"
     },
     "0100BCF00E970000": {
@@ -49175,6 +49288,7 @@
         "title": "Dream House Days DX"
     },
     "0100BE901801C000": {
+        "0": "36EB3483E90502C8",
         "65536": "6D630C30986ECE60",
         "latest": 65536,
         "title": "Gravitar: Recharged"
@@ -50359,6 +50473,10 @@
         "latest": 458752,
         "title": "Black Legend"
     },
+    "0100C32017482000": {
+        "0": "2ED3EDFF7FCEC78A",
+        "latest": 0
+    },
     "0100C3300C3F2000": {
         "0": "6D9EFED017F9EC42",
         "65536": "EEA77D66C814BD4A",
@@ -51352,7 +51470,8 @@
         "327680": "C84DF650E5F07145",
         "393216": "724A372CAAFBCD46",
         "458752": "B08FD53565C59F49",
-        "latest": 458752,
+        "589824": "ACA8297844930A43",
+        "latest": 589824,
         "title": "Super Sami Roll"
     },
     "0100C69014D4E000": {
@@ -51478,6 +51597,10 @@
         "65536": "BB2D0E990D177809",
         "latest": 327680,
         "title": "Toree 2"
+    },
+    "0100C73017EC4000": {
+        "0": "4ECC6AF6E5F5102D",
+        "latest": 0
     },
     "0100C7400CFB4000": {
         "131072": "A2545901A600524A",
@@ -55241,8 +55364,9 @@
     },
     "0100D6300ED2E000": {
         "0": "DCC2EACCEAC93B3F",
+        "131072": "6E0CB43354D0C21D",
         "65536": "C36B2AB2037D9378",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Gleaner Heights"
     },
     "0100D63015BA2000": {
@@ -56091,6 +56215,7 @@
         "latest": 0
     },
     "0100D90009530000": {
+        "0": "3E95C9FF67BA9E4B",
         "131072": "21C45CBF9D0D7C43",
         "latest": 131072,
         "title": "KnightOut"
@@ -57495,8 +57620,9 @@
     },
     "0100DE80166F6000": {
         "0": "3D3291B765AA57F1",
+        "131072": "BC5C3E71832F4BA8",
         "65536": "1901E4A0A7BA9080",
-        "latest": 65536,
+        "latest": 131072,
         "title": "City Pipes"
     },
     "0100DE9005170000": {
@@ -60083,6 +60209,7 @@
     },
     "0100E8200DAF4000": {
         "0": "4068F724F73CD234",
+        "1048576": "6DCFE3BB7948AB2E",
         "131072": "AA6D5E50B8441FBF",
         "196608": "A5E9A8CD6953C6AF",
         "262144": "413A0CF4876699D9",
@@ -60098,7 +60225,7 @@
         "851968": "E222F052FB88A172",
         "917504": "263BD79DE945EDF5",
         "983040": "0B223B69750B0581",
-        "latest": 983040,
+        "latest": 1048576,
         "title": "Vigor"
     },
     "0100E820117E8000": {
@@ -60643,6 +60770,12 @@
         "0": "16CA951423280773",
         "latest": 0,
         "title": "Creepy Balls"
+    },
+    "0100EA001813A000": {
+        "0": "D1587145692DC04A",
+        "65536": "9A844639DC022E43",
+        "latest": 65536,
+        "title": "Dungeon Village 2"
     },
     "0100EA1009022000": {
         "0": "1176D443FADF2F45",
@@ -61470,7 +61603,8 @@
         "655360": "2277B2804ED2C1C6",
         "720896": "41D5E91AEEF49246",
         "786432": "2D29710B54BE6EE6",
-        "latest": 786432
+        "851968": "B3A483DC896A379A",
+        "latest": 851968
     },
     "0100ECB0129BF000": {
         "latest": 0
@@ -62019,6 +62153,10 @@
         "0": "22E2C78C6BD845B3",
         "latest": 0,
         "title": "Sky Gamblers - Air Supremacy 2"
+    },
+    "0100EF0018106000": {
+        "0": "BD5915717A3C3187",
+        "latest": 0
     },
     "0100EF100AFE6000": {
         "0": "B5398489C48CA2DC",
@@ -64222,7 +64360,8 @@
     },
     "0100F6F014CB6000": {
         "0": "91C166B3F2B23DF4",
-        "latest": 0,
+        "65536": "E2C3185FF5082484",
+        "latest": 65536,
         "title": "Beatus Creation Solitaire"
     },
     "0100F6F015D9A000": {
@@ -64602,8 +64741,9 @@
         "196608": "02CF70AB44473065",
         "262144": "F970CCF737C2944C",
         "327680": "67BF9C1701230B43",
+        "393216": "67BF9C1701230B43",
         "65536": "614E0780D0DD8896",
-        "latest": 327680
+        "latest": 393216
     },
     "0100F8A00853C000": {
         "0": "069E6B6EAF92F172",
@@ -64894,6 +65034,11 @@
     "0100F9A012EA0000": {
         "65536": "E9F8107A851A251B",
         "latest": 65536
+    },
+    "0100F9A01462A000": {
+        "0": "C1C52F36A7D015AA",
+        "latest": 0,
+        "title": "Silt"
     },
     "0100F9B012C6A000": {
         "0": "5F26F36E5E095A40",
