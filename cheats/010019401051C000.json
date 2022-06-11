@@ -1,0 +1,104 @@
+{
+    "DFBC95E3F21EE632": [
+        {
+            "content": "[Home Team 99 Goals (Left Side)]\n580C0000 00E85910\n780C0000 00000094\n640C0000 00000000 00000063\n",
+            "title": "[Home Team 99 Goals (Left Side)]"
+        },
+        {
+            "content": "[Home Team 0 Goals (Left Side)]\n580C0000 00E85910\n780C0000 00000094\n640C0000 00000000 00000000\n\n",
+            "title": "[Home Team 0 Goals (Left Side)]"
+        },
+        {
+            "content": "[Visitor Team 99 Goals (Right Side)]\n580C0000 00E85910\n780C0000 000001B4\n640C0000 00000000 00000063\n",
+            "title": "[Visitor Team 99 Goals (Right Side)]"
+        },
+        {
+            "content": "[Visitor Team 0 Goals (Right Side)]\n580C0000 00E85910\n780C0000 000001B4\n640C0000 00000000 00000000\n\n",
+            "title": "[Visitor Team 0 Goals (Right Side)]"
+        },
+        {
+            "content": "[L+R Finish Match]\n800000C0\n580C0000 00E858D8\n780C0000 00000008\n640C0000 00000000 3DCCCCCD\n20000000\n\n",
+            "title": "[L+R Finish Match]"
+        },
+        {
+            "content": "[- Home Team Item Cheats -]\n00000000 00000000 00000000\n\n",
+            "title": "[- Home Team Item Cheats -]"
+        },
+        {
+            "content": "[(X) Inf. Bomb-Ombs Home Team (Left Side)]\n580C0000 00E858D8\n580C1000 00000030\n780C0000 00000120\n640C0000 00000000 00000000\n780C0000 00000008\n640C0000 00000000 00000001\n",
+            "title": "[(X) Inf. Bomb-Ombs Home Team (Left Side)]"
+        },
+        {
+            "content": "[(X) Inf. Bananas Home Team (Left Side)]\n580C0000 00E858D8\n580C1000 00000030\n780C0000 00000120\n640C0000 00000000 00000001\n780C0000 00000008\n640C0000 00000000 00000001\n",
+            "title": "[(X) Inf. Bananas Home Team (Left Side)]"
+        },
+        {
+            "content": "[(X) Inf. Stars Home Team (Left Side)]\n580C0000 00E858D8\n580C1000 00000030\n780C0000 00000120\n640C0000 00000000 00000002\n780C0000 00000008\n640C0000 00000000 00000001\n",
+            "title": "[(X) Inf. Stars Home Team (Left Side)]"
+        },
+        {
+            "content": "[(X) Inf. Mushrooms Home Team (Left Side)]\n580C0000 00E858D8\n580C1000 00000030\n780C0000 00000120\n640C0000 00000000 00000003\n780C0000 00000008\n640C0000 00000000 00000001\n",
+            "title": "[(X) Inf. Mushrooms Home Team (Left Side)]"
+        },
+        {
+            "content": "[(X) Inf. Green Shells Home Team (Left Side)]\n580C0000 00E858D8\n580C1000 00000030\n780C0000 00000120\n640C0000 00000000 00000006\n780C0000 00000008\n640C0000 00000000 00000001\n",
+            "title": "[(X) Inf. Green Shells Home Team (Left Side)]"
+        },
+        {
+            "content": "[(X) Inf. Red Shells Home Team (Left Side)]\n580C0000 00E858D8\n580C1000 00000030\n780C0000 00000120\n640C0000 00000000 00000007\n780C0000 00000008\n640C0000 00000000 00000001\n\n",
+            "title": "[(X) Inf. Red Shells Home Team (Left Side)]"
+        },
+        {
+            "content": "[- Visitor Team Item Cheats -]\n00000000 00000000 00000000\n\n",
+            "title": "[- Visitor Team Item Cheats -]"
+        },
+        {
+            "content": "[(X) Inf. Bomb-Ombs Visitor Team (Right Side)]\n580C0000 00E858D8\n580C1000 00000038\n780C0000 00000120\n640C0000 00000000 00000000\n780C0000 00000008\n640C0000 00000000 00000001\n",
+            "title": "[(X) Inf. Bomb-Ombs Visitor Team (Right Side)]"
+        },
+        {
+            "content": "[(X) Inf. Bananas Visitor Team (Right Side)]\n580C0000 00E858D8\n580C1000 00000038\n780C0000 00000120\n640C0000 00000000 00000001\n780C0000 00000008\n640C0000 00000000 00000001\n",
+            "title": "[(X) Inf. Bananas Visitor Team (Right Side)]"
+        },
+        {
+            "content": "[(X) Inf. Stars Visitor Team (Right Side)]\n580C0000 00E858D8\n580C1000 00000038\n780C0000 00000120\n640C0000 00000000 00000002\n780C0000 00000008\n640C0000 00000000 00000001\n",
+            "title": "[(X) Inf. Stars Visitor Team (Right Side)]"
+        },
+        {
+            "content": "[(X) Inf. Mushrooms Visitor Team (Right Side)]\n580C0000 00E858D8\n580C1000 00000038\n780C0000 00000120\n640C0000 00000000 00000003\n780C0000 00000008\n640C0000 00000000 00000001\n",
+            "title": "[(X) Inf. Mushrooms Visitor Team (Right Side)]"
+        },
+        {
+            "content": "[(X) Inf. Green Shells Visitor Team (Right Side)]\n580C0000 00E858D8\n580C1000 00000038\n780C0000 00000120\n640C0000 00000000 00000006\n780C0000 00000008\n640C0000 00000000 00000001\n",
+            "title": "[(X) Inf. Green Shells Visitor Team (Right Side)]"
+        },
+        {
+            "content": "[(X) Inf. Red Shells Visitor Team (Right Side)]\n580C0000 00E858D8\n580C1000 00000038\n780C0000 00000120\n640C0000 00000000 00000007\n780C0000 00000008\n640C0000 00000000 00000001\n\n",
+            "title": "[(X) Inf. Red Shells Visitor Team (Right Side)]"
+        },
+        {
+            "content": "[\u2192/\u2190 Stop Time On/Off]\n80004000\n04000000 003B7728 D503201F\n20000000\n80001000\n04000000 003B7728 2D010261\n20000000\n\n",
+            "title": "[\u2192/\u2190 Stop Time On/Off]"
+        },
+        {
+            "content": "[Time always 10 Min]\n580C0000 00E858D8\n780C0000 00000008\n640C0000 00000000 44164000\n\n",
+            "title": "[Time always 10 Min]"
+        },
+        {
+            "content": "[Time always 4 Min]\n580C0000 00E858D8\n780C0000 00000008\n640C0000 00000000 43710000\n\n",
+            "title": "[Time always 4 Min]"
+        },
+        {
+            "content": "[Time always 10 Sec]\n580C0000 00E858D8\n780C0000 00000008\n640C0000 00000000 41300000\n\n",
+            "title": "[Time always 10 Sec]"
+        },
+        {
+            "content": "[Inf. Coins]\n580C0000 00F0BD68\n580C1000 00000000\n780C0000 000002B8\n640C0000 00000000 3B9AC9FF\n\n",
+            "title": "[Inf. Coins]"
+        },
+        {
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p]"
+        }
+    ]
+}

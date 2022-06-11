@@ -1,12 +1,24 @@
 {
     "AA14F75E7C738844": [
         {
-            "content": "[Inf Stamina]\n580F0000 0286BB20\n580F1000 00000098\n580F1000 00000000\n580F1000 00000020\n580F1000 00000020\n780F0000 00000038\n640F0000 00000000 43960000\n\n",
-            "title": "[Inf Stamina]"
+            "content": "[Breeze beta36 Caveman Warriors 2.0.0 TID: 01006DB004566000 BID: AA14F75E7C738844]\n\n",
+            "title": "[Breeze beta36 Caveman Warriors 2.0.0 TID: 01006DB004566000 BID: AA14F75E7C738844]"
         },
         {
-            "content": "[Inf Hp]\n580F0000 0286BB20\n580F1000 00000098\n580F1000 00000000\n580F1000 00000020\n580F1000 00000020\n780F0000 0000009C\n640F0000 00000000 42200000",
-            "title": "[Inf Hp]"
+            "content": "[Life]\n04000000 00462A58 D503201F \n\n",
+            "title": "[Life]"
+        },
+        {
+            "content": "[Stamina]\n04000000 0090197C D503201F \n\n",
+            "title": "[Stamina]"
+        },
+        {
+            "content": "[HP]\n04000000 0090A37C 1E27F000 \n\n",
+            "title": "[HP]"
+        },
+        {
+            "content": "[off]\n04000000 00462A58 51000529 \n04000000 0090197C 1E283800 \n04000000 0090A37C 1E203820 \n\n",
+            "title": "[off]"
         }
     ]
 }
