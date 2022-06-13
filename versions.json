@@ -13419,6 +13419,10 @@
         "latest": 0,
         "title": "What The Zombies?!"
     },
+    "01003410185CC000": {
+        "0": "8879E7D1EF303353",
+        "latest": 0
+    },
     "0100342009E16000": {
         "0": "8AF4725685D63343",
         "latest": 0,
@@ -31306,6 +31310,14 @@
         "65536": "4FA5F7BDE80A03A7",
         "latest": 65536
     },
+    "01007730159FC000": {
+        "0": "0D943D0172949DFD",
+        "latest": 0,
+        "title": "JUMANJI: The Curse Returns"
+    },
+    "01007730159FD000": {
+        "latest": 0
+    },
     "01007740041BC000": {
         "262144": "89DB804158AC864F",
         "latest": 262144
@@ -35693,6 +35705,11 @@
         "65536": "3F6E693178118A4D",
         "latest": 65536,
         "title": "PICROSS S GENESIS & Master System edition"
+    },
+    "010089701892C000": {
+        "0": "CB297D41DEFF199E",
+        "latest": 0,
+        "title": "Supaplex HARD"
     },
     "0100898015EA0000": {
         "0": "07E482D8730FA74B",
@@ -40539,8 +40556,9 @@
     },
     "01009BA0135BE000": {
         "0": "28090C24A15B2C4B",
+        "131072": "10906F47A6E10948",
         "65536": "EFC03D364327C04A",
-        "latest": 65536,
+        "latest": 131072,
         "title": "RPGolf Legends"
     },
     "01009BB00AD62000": {
