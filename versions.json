@@ -57,8 +57,9 @@
     "0100001017FD6000": {
         "0": "95151A32B06F7F7F",
         "131072": "6F3E4B7E5B202824",
+        "196608": "191F9D6CBB88ACBF",
         "65536": "BBAC791149F805FE",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Dragon Caffi"
     },
     "010000300B4EE000": {
@@ -3698,6 +3699,7 @@
         "title": "Coast Guard: Beach Rescue Team"
     },
     "01000EC013EB0000": {
+        "0": "FE5494E675B2B241",
         "65536": "87D60D9519D24244",
         "latest": 65536,
         "title": "Autonauts"
@@ -5102,6 +5104,13 @@
         "latest": 196608,
         "title": "Digimon Story Cyber Sleuth: Complete Edition"
     },
+    "010014E017B14000": {
+        "0": "82779E9F3AEA9421",
+        "131072": "E43E1AF77C6EE52F",
+        "65536": "51C1DCCC6AD5A1BD",
+        "latest": 131072,
+        "title": "OMORI"
+    },
     "010014F001DE2000": {
         "0": "2D35508ABCCBC556",
         "latest": 0,
@@ -5774,6 +5783,11 @@
     "0100179015DE1000": {
         "latest": 0
     },
+    "010017A017F94000": {
+        "0": "8AA29E1625EB64D8",
+        "latest": 0,
+        "title": "Plunder Dungeons"
+    },
     "010017B0102A8000": {
         "0": "18ACFD4443539F49",
         "latest": 0,
@@ -6269,7 +6283,8 @@
     },
     "010019801868E000": {
         "0": "326527F4BCCE6345",
-        "latest": 0
+        "latest": 0,
+        "title": "Haunted Zombie School"
     },
     "0100199012ACC000": {
         "65536": "6EF25DFD3AC0C7EC",
@@ -7513,6 +7528,7 @@
         "0": "40BB62F31821C80A",
         "1048576": "CC7E7EBAFA4DD8A5",
         "1114112": "F3354CF08F429719",
+        "1179648": "4AE82E41A0BC5F04",
         "131072": "3B4A6E68B859FFDA",
         "262144": "030E8ED4B6ECD104",
         "524288": "D0A16CF8E426E0DC",
@@ -7522,7 +7538,7 @@
         "720896": "3F7C6DFED0AC9604",
         "851968": "58752013BAE07FB9",
         "917504": "0C8511B5474A248D",
-        "latest": 1114112,
+        "latest": 1179648,
         "title": "MELTY BLOOD: TYPE LUMINA - Deluxe Edition"
     },
     "01001E30126A1000": {
@@ -7902,8 +7918,9 @@
     },
     "01001F7014F14000": {
         "0": "7ACF18642C661D49",
+        "196608": "24E6E5E0E06C7F81",
         "65536": "B046759D3BC18047",
-        "latest": 65536,
+        "latest": 196608,
         "title": "TOKOYO: Tower of Perpetuity"
     },
     "01001F701615C000": {
@@ -9339,8 +9356,9 @@
     },
     "0100253016DDC000": {
         "0": "8993B5BBDEA3BB4E",
+        "131072": "52799D7B5CDD1B44",
         "65536": "8BA07CC8FD540244",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Cover Fire: Offline Shooter"
     },
     "01002530181E8000": {
@@ -9460,6 +9478,11 @@
         "524288": "955E6E11BB6A74A5",
         "589824": "6C316E81B5F7E0F6",
         "latest": 589824
+    },
+    "010025A018164000": {
+        "0": "93A0C8E9D217361B",
+        "latest": 0,
+        "title": "Tales of Aravorn: Seasons of the Wolf"
     },
     "010025B002E92000": {
         "0": "F140820F388414D7",
@@ -10117,9 +10140,13 @@
     "010027F0128EA000": {
         "0": "AB12EB06826A8B44",
         "196608": "87B7A43263A08D40",
+        "262144": "FDDE5089CF5501C1",
         "65536": "91E6239ACA62174F",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Who Wants to Be a Millionaire?"
+    },
+    "010027F0128EB000": {
+        "latest": 0
     },
     "010028000E88C000": {
         "0": "F67EBEF35E6A1C40",
@@ -11620,8 +11647,9 @@
     },
     "01002DB007A96000": {
         "0": "45396FCB2433872F",
+        "131072": "FF50A59E3E699B99",
         "65536": "8943D6E6BFDA84B2",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Legend of Kay Anniversary"
     },
     "01002DB00DDFE000": {
@@ -14541,6 +14569,7 @@
         "latest": 65536
     },
     "010038A016E92000": {
+        "0": "3390494C13DAFE12",
         "65536": "529A02DB4E71D5F4",
         "latest": 65536,
         "title": "Oxide Room 104"
@@ -16109,6 +16138,11 @@
         "latest": 65536,
         "title": "Tokyo Dark \u2013 Remembrance \u2013"
     },
+    "01003E5018536000": {
+        "0": "C73252F10694974A",
+        "latest": 0,
+        "title": "Time Rift"
+    },
     "01003E6009F7E000": {
         "0": "784E10974DBE634C",
         "196608": "6F88CC18F7C0914F",
@@ -17560,6 +17594,7 @@
         "title": "Souldiers"
     },
     "0100439017C2C000": {
+        "0": "20C5D2D51E3961BD",
         "65536": "EBBDA6B636F9F222",
         "latest": 65536,
         "title": "Final Vendetta"
@@ -19768,8 +19803,9 @@
     },
     "01004B500E57E000": {
         "131072": "1EA49D173C43E6AB",
+        "196608": "A82155273D76E682",
         "65536": "8E96CCCFBFA36E8D",
-        "latest": 131072
+        "latest": 196608
     },
     "01004B500F07C000": {
         "0": "E8785F78D8D42B74",
@@ -20346,8 +20382,10 @@
         "title": "Shadows of Kurgansk"
     },
     "01004DA00E57A000": {
+        "0": "D0A328AB81E86C2D",
+        "131072": "05CA9F7F169EBE34",
         "65536": "EF4FF2AE2ACE4C77",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Freshly Frosted"
     },
     "01004DA012976000": {
@@ -21318,6 +21356,11 @@
         "latest": 65536,
         "title": "Cube Life: Island Survival"
     },
+    "010051901774C000": {
+        "65536": "6AB596C703F88429",
+        "latest": 65536,
+        "title": "Blade Runner: Enhanced Edition"
+    },
     "010051A00AAEA000": {
         "0": "2F0F6EB207C8E145",
         "latest": 0,
@@ -21824,6 +21867,7 @@
     "0100538012496000": {
         "0": "4EDB74E38E421247",
         "1048576": "FC03BFE846C2A438",
+        "1114112": "D79128F94115BBA2",
         "131072": "03FC7D3D3786954D",
         "196608": "175AF935BC964B44",
         "262144": "464BEAEDFF2966BB",
@@ -21838,7 +21882,7 @@
         "851968": "6CEE7895830D2D84",
         "917504": "D505948C54BE4F78",
         "983040": "BA6022264FCF3A3C",
-        "latest": 1048576,
+        "latest": 1114112,
         "title": "Grindstone"
     },
     "010053900F4BA000": {
@@ -25467,8 +25511,9 @@
     },
     "01006160163C6000": {
         "0": "DD417668C66A3F46",
+        "131072": "886FFEDAB5CDC442",
         "65536": "10311FE851EFAC46",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Ogre: Console Edition"
     },
     "010061601676A000": {
@@ -26036,7 +26081,8 @@
     },
     "010063A016A14000": {
         "0": "E376E40F0A474749",
-        "latest": 0
+        "latest": 0,
+        "title": "Family Chess"
     },
     "010063B00BF70000": {
         "131072": "0D35E454B4527AA0",
@@ -26731,6 +26777,10 @@
         "latest": 65536,
         "title": "Ultimate Bumper Cars: Dodgems"
     },
+    "0100664016D5C000": {
+        "0": "054525D566903BDD",
+        "latest": 0
+    },
     "010066501069C000": {
         "1048576": "205EB1F378BE86BE",
         "1114112": "79CA8A04F31E9802",
@@ -26896,7 +26946,8 @@
     "0100670014B3E000": {
         "131072": "92FAF8CF90820C4A",
         "196608": "0992C61EE0752544",
-        "latest": 196608
+        "327680": "372AB37327DB2C31",
+        "latest": 327680
     },
     "01006700152AE000": {
         "0": "00CEE9169FF9DCE0",
@@ -27985,7 +28036,8 @@
     },
     "01006B0016BC0000": {
         "0": "6D281D549D39276D",
-        "latest": 0
+        "latest": 0,
+        "title": "Arcade Archives SPACE SEEKER"
     },
     "01006B100D4B2000": {
         "0": "B4017BD79CE9A845",
@@ -29896,6 +29948,7 @@
         "1245184": "615FAD84A7E40E84",
         "1310720": "99D8AC7E118BCC92",
         "1376256": "3C8B94F06C072F9C",
+        "1441792": "4CD058B9FC9D1C35",
         "196608": "80643D9AA81E02DC",
         "262144": "3DDEAA6C4E485B65",
         "327680": "75AFF8798B84E93B",
@@ -29910,7 +29963,7 @@
         "851968": "76F61A924FDA43FB",
         "917504": "46C20CEAF3C35E50",
         "983040": "D17C46696338F4CD",
-        "latest": 1376256,
+        "latest": 1441792,
         "title": "Pok\u00e9mon Caf\u00e9 Mix"
     },
     "010072401447A000": {
@@ -31722,8 +31775,9 @@
     },
     "010078C01769A000": {
         "0": "121346964EC4CD45",
+        "131072": "9CFDCA58FD752266",
         "65536": "8FB0C2D2A6730D26",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Kao the Kangaroo"
     },
     "010078D000F88000": {
@@ -32333,7 +32387,8 @@
         "458752": "56258F12ECADDE6E",
         "524288": "FB1C72EE7C7B783A",
         "589824": "B0A6DB4EBE3F8D49",
-        "latest": 589824,
+        "655360": "965F909967CEDD2B",
+        "latest": 655360,
         "title": "MUSYNX"
     },
     "01007B6006093000": {
@@ -33429,6 +33484,11 @@
         "latest": 65536,
         "title": "Source of Madness"
     },
+    "01007FC0170FE000": {
+        "0": "C8C70772B3BBEB45",
+        "latest": 0,
+        "title": "Zorro The Chronicles"
+    },
     "01007FE00C3F0000": {
         "0": "87A1390FBEDB424C",
         "131072": "518C0244A2E6D243",
@@ -33664,7 +33724,8 @@
     },
     "010080F018046000": {
         "65536": "6DA8D6FAFBECEAD4",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Him & Her Collection"
     },
     "0100810012A1A000": {
         "0": "F7B61A1037C56644",
@@ -33905,6 +33966,11 @@
         "65536": "CFF50AFDA441CC05",
         "latest": 262144,
         "title": "Rhythm of the Gods"
+    },
+    "010081D01720C000": {
+        "0": "E939C9A77E59EF37",
+        "latest": 0,
+        "title": "Barn Finders"
     },
     "010081E001DD2000": {
         "0": "440BA52CE133424A",
@@ -34698,6 +34764,11 @@
         "131072": "0BDAD8522807F948",
         "latest": 131072,
         "title": "Summer Catchers"
+    },
+    "010085301797E000": {
+        "0": "85E97E42211C7681",
+        "latest": 0,
+        "title": "Horgihugh And Friends"
     },
     "0100854015868000": {
         "0": "F77D2D1BF2DF654B",
@@ -35635,7 +35706,8 @@
     },
     "010088F01599C000": {
         "0": "DACD97A329B3C1AD",
-        "latest": 0,
+        "65536": "C4C5A630FBC95BA1",
+        "latest": 65536,
         "title": "DEADCRAFT"
     },
     "010088F01599D000": {
@@ -35785,6 +35857,11 @@
         "131072": "C0A75CFE9B9B814A",
         "latest": 131072,
         "title": "Valfaris"
+    },
+    "01008970149B0000": {
+        "65536": "7C0876057EE29DF3",
+        "latest": 65536,
+        "title": "Rabbids\u00ae: Party of Legends"
     },
     "010089701559E000": {
         "0": "805526250EF2F14E",
@@ -39434,8 +39511,9 @@
         "0": "8EAE4CB807BF8F41",
         "131072": "B083638AD728634B",
         "196608": "D5E818C289888F4C",
+        "262144": "D0A507990B5B8EBC",
         "65536": "9A8D896E9F62AD4A",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Sagrada"
     },
     "010096D013AA4000": {
@@ -45556,7 +45634,8 @@
         "655360": "21938A67E2F8797C",
         "720896": "F21BDF8F7655E0B0",
         "786432": "A478908538D77DB3",
-        "latest": 786432
+        "851968": "C1785E9C84980951",
+        "latest": 851968
     },
     "0100AE7013B90000": {
         "0": "50F5C05BD9EFE2D7",
@@ -46662,6 +46741,11 @@
         "65536": "84BCB77B57EAC34D",
         "latest": 458752
     },
+    "0100B2B015598000": {
+        "0": "2E2236E772F3ABCC",
+        "latest": 0,
+        "title": "Perfect Gold"
+    },
     "0100B2B016C84000": {
         "0": "EF0243B993BC6545",
         "latest": 0
@@ -47004,7 +47088,8 @@
     },
     "0100B46017500000": {
         "0": "8DCAD42D84DF6244",
-        "latest": 0
+        "latest": 0,
+        "title": "MOFUMOFUSENSEN"
     },
     "0100B4700A47C000": {
         "65536": "AAEDD948CC859B40",
@@ -48187,6 +48272,7 @@
         "latest": 0
     },
     "0100B9201406A000": {
+        "0": "9D770BA48942A21C",
         "65536": "D5C4846605153085",
         "latest": 65536,
         "title": "Neon White"
@@ -48780,8 +48866,9 @@
     },
     "0100BB700EF82000": {
         "0": "736AA1229139B2C9",
+        "131072": "AD5DA013F591E6E1",
         "65536": "973F9DBADC474FA9",
-        "latest": 65536,
+        "latest": 131072,
         "title": "RetroMania Wrestling"
     },
     "0100BB70140BA000": {
@@ -49743,8 +49830,9 @@
     },
     "0100BE901801C000": {
         "0": "36EB3483E90502C8",
+        "131072": "42C7E38F45A70203",
         "65536": "6D630C30986ECE60",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Gravitar: Recharged"
     },
     "0100BEA0096CE000": {
@@ -51090,6 +51178,11 @@
         "393216": "2A4CD727FB61F4EA",
         "65536": "5912317EF545C648",
         "latest": 393216
+    },
+    "0100C3C015738000": {
+        "131072": "DBEB5A96310F8945",
+        "latest": 131072,
+        "title": "Fall Guys"
     },
     "0100C3D00923A000": {
         "0": "BCD86546DDDD984F",
@@ -52814,8 +52907,9 @@
         "131072": "BC2CF5F4F269D84B",
         "196608": "CD2DA64972120B4E",
         "262144": "ED7710B41D1C9D42",
+        "393216": "372AB37327DB2C31",
         "65536": "DE51C0BE086E584F",
-        "latest": 262144,
+        "latest": 393216,
         "title": "Umurangi Generation Special Edition"
     },
     "0100CA30174EA000": {
@@ -54579,6 +54673,11 @@
         "65536": "28F5E169E1145FAA",
         "latest": 65536,
         "title": "Aqua Moto Racing Utopia"
+    },
+    "0100D0D017FB6000": {
+        "0": "F2DD60EFDEB4CF4E",
+        "latest": 0,
+        "title": "I Love Finding MORE Cats! - Collector's Edition"
     },
     "0100D0E00E51E000": {
         "0": "AA3ACA00ABDB16DC",
@@ -60604,6 +60703,11 @@
         "latest": 0,
         "title": "My Memory of Us"
     },
+    "0100E77018A58000": {
+        "0": "0308E126F033A841",
+        "latest": 0,
+        "title": "Car Dealer Driver"
+    },
     "0100E79009A94000": {
         "0": "D15F9061806F0446",
         "131072": "D15F9061806F0446",
@@ -62178,7 +62282,8 @@
     },
     "0100ECD0180F0000": {
         "0": "D8E46BC91F0DFE48",
-        "latest": 0
+        "65536": "C8C69BCF1915254E",
+        "latest": 65536
     },
     "0100ECE00B210000": {
         "0": "EAE7088F5F134AE1",
@@ -63970,6 +64075,11 @@
         "65536": "CE722DDE09C1826E",
         "latest": 131072,
         "title": "The Rusty Sword: Vanguard Island"
+    },
+    "0100F37017832000": {
+        "65536": "673ECF682C0DD53C",
+        "latest": 65536,
+        "title": "The Legend of Bum-Bo"
     },
     "0100F380105A4000": {
         "0": "C1524D35C1D101EE",
@@ -66173,6 +66283,11 @@
         "latest": 0,
         "title": "Skittles"
     },
+    "0100FC10159EC000": {
+        "0": "0AFE1AE664D9AFA1",
+        "latest": 0,
+        "title": "Space Marshals 3"
+    },
     "0100FC2012680000": {
         "0": "136AE19A30CD704E",
         "65536": "63D553F1BA284644",
@@ -66320,6 +66435,11 @@
         "0": "24107DEDC14E1712",
         "latest": 0,
         "title": "Polgar Magic Detective: Murder Mystery Journey"
+    },
+    "0100FCF017FCE000": {
+        "0": "3949F1A3728A8D87",
+        "latest": 0,
+        "title": "Demon's Residence"
     },
     "0100FD0010BD8000": {
         "131072": "040A44515E7569D6",
@@ -66649,7 +66769,8 @@
     "0100FED01624C000": {
         "0": "C2D8F8D9B73FD329",
         "131072": "12EAD2C45D6C3B8A",
-        "latest": 131072
+        "latest": 131072,
+        "title": "The Quest for Excalibur - Puy du Fou"
     },
     "0100FEE00A64E000": {
         "0": "F9DCC7C0961F04FF",
