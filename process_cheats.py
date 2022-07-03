@@ -39,37 +39,25 @@ class ProcessCheats:
     def constructBidDict(self, sheet_path):
         out = []
         pos = []
-        try:
-            with open(sheet_path, 'r', encoding="utf-8", errors="ignore") as cheatSheet:
-                lines = cheatSheet.readlines()
+        with open(sheet_path, 'r', encoding="utf-8", errors="ignore") as cheatSheet:
+            lines = cheatSheet.readlines()
 
-            for i in range(len(lines)):
-                titles = re.search("(\[.+\]|\{.+\})", lines[i])
-                if titles:
-                    pos.append(i)
+        for i in range(len(lines)):
+            titles = re.search("(\[.+\]|\{.+\})", lines[i])
+            if titles:
+                pos.append(i)
 
-            for i in range(len(pos) - 1):
-                code = "".join(lines[pos[i]:pos[i + 1]])
-                if pos[i + 1] - pos[i] > 1 and re.search("[0-9a-fA-F]{8}", code):
+        for i in range(len(pos)):
+            try:
+                codeLines = lines[pos[i]:pos[i + 1]]
+            except IndexError:
+                codeLines = lines[pos[i]:]
+            if len(codeLines) > 1:
+                code = "".join(codeLines)
+                if re.search("[0-9a-fA-F]{8}", code):
                     out.append({"title": lines[pos[i]].strip(),
                                 "content": code})
-            out.append({"title": lines[pos[-1]].strip(),
-                        "content": "".join(lines[pos[-1]:])})
-        except IndexError:
-            print(f"error: IndexError in {sheet_path}")
         return out
-
-    def checkForChanges(self, path, cheats_dict):
-        try:
-            with open(path, 'r') as read_file:
-                old = json.load(read_file)
-            if old != cheats_dict:
-                print(f"{path} changed")
-                return True
-        except FileNotFoundError:
-            print(f"File {path} doesn't exist, creating it")
-            return True
-        return False
 
     def createJson(self, tid):
         out_sheet = f"{self.out_path}/{tid.upper()}.json"
