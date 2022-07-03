@@ -1,0 +1,72 @@
+{
+    "6956C0CAAF39A04F": [
+        {
+            "content": "{OVERLORD -ESCAPE FROM NAZARICK-}\n04000000 0216C4BC BD412501\n04000000 0217DF08 BD40550A\n04000000 0216BC18 540008AD\n04000000 022948CC 4B0002C8\n04000000 02219C54 4B140108\n04000000 022956D4 51000529\n04000000 02295608 1E213800\n04000000 0217A074 BD40BA60\n04000000 02179D98 BD40BA60\n04000000 022957B0 B9402100\n04000000 02246154 B9401EB3\n04000000 02248044 11000508\n04000000 022462A8 B9402E89\n04000000 022462B8 B9403289\n04000000 022462C8 B9403689\n04000000 022462D8 B9403A89\n04000000 022462E8 B9403E89\n\n",
+            "title": "{OVERLORD -ESCAPE FROM NAZARICK-}"
+        },
+        {
+            "content": "[(L+B) Moon Jump]\n80000042\n04000000 0216C4BC 1E25D001\n20000000\n\n",
+            "title": "[(L+B) Moon Jump]"
+        },
+        {
+            "content": "[(ZR) Speed Up]\n80000200\n04000000 0217DF08 1E26900A\n20000000\n\n",
+            "title": "[(ZR) Speed Up]"
+        },
+        {
+            "content": "[Invincible]\n04000000 0216BC18 14000045\n\n",
+            "title": "[Invincible]"
+        },
+        {
+            "content": "[Inf. Health]\n04000000 022948CC 4B1F02C8\n\n",
+            "title": "[Inf. Health]"
+        },
+        {
+            "content": "[Insta-Kill]\n04000000 02219C54 2A1F03E8\n\n",
+            "title": "[Insta-Kill]"
+        },
+        {
+            "content": "[Inf. Magic (Usage)]\n04000000 022956D4 52800C69\n\n",
+            "title": "[Inf. Magic (Usage)]"
+        },
+        {
+            "content": "[Inf. Magic (Duration)]\n04000000 02295608 1E249000\n\n",
+            "title": "[Inf. Magic (Duration)]"
+        },
+        {
+            "content": "[Inf. Hang Duration]\n04000000 0217A074 1E229000\n04000000 02179D98 1E229000\n\n",
+            "title": "[Inf. Hang Duration]"
+        },
+        {
+            "content": "[Have all Magic Types]\n04000000 022957B0 52800C60\n\n",
+            "title": "[Have all Magic Types]"
+        },
+        {
+            "content": "[Weapon LVL Max]\n04000000 02246154 528000B3\n\n",
+            "title": "[Weapon LVL Max]"
+        },
+        {
+            "content": "[Weapon LVL Max after Upgrade]\n04000000 02248044 528000A8\n\n",
+            "title": "[Weapon LVL Max after Upgrade]"
+        },
+        {
+            "content": "[Equipped Weapon Attack = 9'999]\n300E0000 00000005\n04000000 022462A8 5284E1E9\n78000000 00000010\n310E0000\n\n",
+            "title": "[Equipped Weapon Attack = 9'999]"
+        },
+        {
+            "content": "[Overall Damage Max (On)]\n08000000 0232DF50 72993FE8 52A77348\n04000000 0232DF58 17FD9998\n04000000 022945B4 14026667\n",
+            "title": "[Overall Damage Max (On)]"
+        },
+        {
+            "content": "[(ZL+ZR) Overall Damage Max (Off)]\n08000000 0232DF50 72800008 52800008\n04000000 0232DF58 17FD9998\n80000300\n04000000 022945B4 B9402508\n20000000\n\n",
+            "title": "[(ZL+ZR) Overall Damage Max (Off)]"
+        },
+        {
+            "content": "[Inf. Mana Points]\n580C0000 03CB9188\n580C1000 000000C8\n580C1000 00000068\n580C1000 00000258\n580C1000 00000078\n580C1000 000000B8\n580C1000 00000000\n780C0000 00000018\n680C0000 4E6E6B28 3B9AC9FF\n\n",
+            "title": "[Inf. Mana Points]"
+        },
+        {
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p]"
+        }
+    ]
+}

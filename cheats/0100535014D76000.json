@@ -1,0 +1,64 @@
+{
+    "289F756D51EA8A9E": [
+        {
+            "content": "{- Little Noah Scion of Paradise -}\n04000000 01AAD4F0 B9433668\n04000000 01AADAE8 BC686A6A\n04000000 01AABA7C BD405E60\n04000000 016FD894 1E203821\n04000000 0170AFC0 B9401C08\n04000000 0170B010 B9401A68\n04000000 015E1E68 B940A269\n04000000 015E2360 B940A269\n\n",
+            "title": "{- Little Noah Scion of Paradise -}"
+        },
+        {
+            "content": "[Inf. Double Jumps]\n04000000 01AAD4F0 2A1F03E8\n\n",
+            "title": "[Inf. Double Jumps]"
+        },
+        {
+            "content": "[(ZL+B) High Jump]\n80000102\n04000000 01AADAE8 1E23100A\n20000000\n\n",
+            "title": "[(ZL+B) High Jump]"
+        },
+        {
+            "content": "[(ZL) Speed Up]\n80000100\n04000000 01AABA7C 1E253000\n20000000\n\n",
+            "title": "[(ZL) Speed Up]"
+        },
+        {
+            "content": "[Inf. Health]\n580C0000 038C78B0\n580C1000 000000A0\n580C1000 00000DD8\n580C1000 00000028\n9801C100 00000000 00000464\n9802C100 00000000 00000238\n58021000 00000000\nA4210000 \n\n",
+            "title": "[Inf. Health]"
+        },
+        {
+            "content": "[Inf. Burst]\n580C0000 038C78B0\n580C1000 000000A0\n580C1000 00000DD8\n580C1000 000001F8\n9801C100 00000000 00000054\n9802C100 00000000 00000058\n58021000 00000000\nA4210000 \n\n",
+            "title": "[Inf. Burst]"
+        },
+        {
+            "content": "[Skills no Cooldown]\n04000000 016FD894 1E2703E1\n\n",
+            "title": "[Skills no Cooldown]"
+        },
+        {
+            "content": "[No Keys needed]\n04000000 0170AFC0 52800028\n\n",
+            "title": "[No Keys needed]"
+        },
+        {
+            "content": "[Max Money after Pick Up Coins]\n08000000 02621938 72993FF4 52A77354\n04000000 02621940 17C3A5B5\n04000000 0170B010 143C5A4A\n\n",
+            "title": "[Max Money after Pick Up Coins]"
+        },
+        {
+            "content": "[Buy Stuff with insufficient Money]\n04000000 015E1E68 2A1F03E9\n04000000 015E2360 2A1F03E9\n\n",
+            "title": "[Buy Stuff with insufficient Money]"
+        },
+        {
+            "content": "[Max Health = 9'999]\n580C0000 038C78B0\n580C1000 000000A0\n580C1000 00000DD8\n580C1000 00000028\n780C0000 00000238\n640C0000 00000000 0000270F\n\n",
+            "title": "[Max Health = 9'999]"
+        },
+        {
+            "content": "[Inf. Keys]\n580C0000 038C78B0\n580C1000 000006E0\n580C1000 00000A48\n580C1000 00000040\n780C0000 0000072C\n640C0000 00000000 00000063\n\n",
+            "title": "[Inf. Keys]"
+        },
+        {
+            "content": "[Inf. Money]\n580C0000 038C78B0\n580C1000 000006E0\n580C1000 00000A48\n580C1000 00000040\n780C0000 00000728\n640C0000 00000000 000F423F\n\n",
+            "title": "[Inf. Money]"
+        },
+        {
+            "content": "[Inf. Mana]\n580C0000 038C78B0\n580C1000 000006E0\n580C1000 00000A48\n580C1000 00000040\n780C0000 0000060C\n640C0000 00000000 000F423F\n\n",
+            "title": "[Inf. Mana]"
+        },
+        {
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p]"
+        }
+    ]
+}

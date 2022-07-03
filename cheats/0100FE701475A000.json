@@ -1,0 +1,20 @@
+{
+    "18C437D0F8D74CC1": [
+        {
+            "content": "[Breeze beta37 Teenage Mutant Ninja Turtles: Shredder's Revenge 1.0.0 TID: 0100FE701475A000 BID: 18C437D0F8D74CC1]\n\n",
+            "title": "[Breeze beta37 Teenage Mutant Ninja Turtles: Shredder's Revenge 1.0.0 TID: 0100FE701475A000 BID: 18C437D0F8D74CC1]"
+        },
+        {
+            "content": "[off]\n04000000 00880080 6B090001 \n04000000 0138F43C B9405100 \n\n",
+            "title": "[off]"
+        },
+        {
+            "content": "[Damage x4]\n04000000 00880080 6B090801 \n\n",
+            "title": "[Damage x4]"
+        },
+        {
+            "content": "[HP and special 100/100\t]\n04000000 0138F43C 14B04C25 \n08000000 03FA24D0 B9004D00 52800C80 \n08000000 03FA24D8 B9005900 B9005100 \n08000000 03FA24E0 174FB3D7 B9005D00 \n\n\n\n",
+            "title": "[HP and special 100/100\t]"
+        }
+    ]
+}

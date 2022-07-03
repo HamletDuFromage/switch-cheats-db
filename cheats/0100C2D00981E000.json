@@ -1,24 +1,36 @@
 {
     "5B2E5BD36B0A27BA": [
         {
-            "content": "[Infinite Lives]\n011F0000 017F90A0 00000007\n\n",
+            "content": "[Breeze beta39 Arcade Archives RYGAR 1.0.0 TID: 0100C2D00981E000 BID: 5B2E5BD36B0A27BA]\n\n",
+            "title": "[Breeze beta39 Arcade Archives RYGAR 1.0.0 TID: 0100C2D00981E000 BID: 5B2E5BD36B0A27BA]"
+        },
+        {
+            "content": "[Inf.Credits]\n01100000 017F903A 00000063 \n\n",
+            "title": "[Inf.Credits]"
+        },
+        {
+            "content": "[Invincibility]\n01100000 017F15AA 000000C9 \n\n",
+            "title": "[Invincibility]"
+        },
+        {
+            "content": "[Rapid Fire]\n01100000 017F9038 00000000 \n\n",
+            "title": "[Rapid Fire]"
+        },
+        {
+            "content": "[Infinite Lives]\n01100000 017F90A0 00000009 \n\n",
             "title": "[Infinite Lives]"
         },
         {
-            "content": "[Moon Jump]\n80000001\n011F0000 017F90DE 00000002\n20000000\n\n",
-            "title": "[Moon Jump]"
+            "content": "[Always Barrier All Powers PL1]\n01100000 017F90EE 0000001F \n\n",
+            "title": "[Always Barrier All Powers PL1]"
         },
         {
-            "content": "[Time Stop]\n011F0000 017F90AA 00000064\n\n",
-            "title": "[Time Stop]"
+            "content": "[Inf.Time]\n01100000 017F90AA 00000064 \n\n",
+            "title": "[Inf.Time]"
         },
         {
-            "content": "[Enemy on the ground does not appear (Hold ZL)]\n80000100\n041F0000 017F9170 00000000\n041F0000 017F9174 00000000\n041F0000 017F9178 00000000\n20000000\n\n",
-            "title": "[Enemy on the ground does not appear (Hold ZL)]"
-        },
-        {
-            "content": "[Rapid Fire]\n041F0000 017F9038 00000000",
-            "title": "[Rapid Fire]"
+            "content": "[Next Star always 70000pts PL1]\n01100000 017F90BC 00000007 \n\n",
+            "title": "[Next Star always 70000pts PL1]"
         }
     ]
 }
