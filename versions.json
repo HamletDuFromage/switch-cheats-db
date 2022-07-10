@@ -10430,8 +10430,9 @@
         "title": "Reigns: Game of Thrones"
     },
     "010028B017788000": {
+        "131072": "6455FA68E2E57246",
         "65536": "90772B2D84C0F917",
-        "latest": 65536
+        "latest": 131072
     },
     "010028B017789000": {
         "latest": 0
@@ -48643,8 +48644,9 @@
     },
     "0100B7801693A000": {
         "0": "54C6ECE0AD913749",
+        "131072": "ED8E82C22F12F947",
         "65536": "1BB7D3A5B6CA1B40",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Behind the Frame: The Finest Scenery"
     },
     "0100B78017CFC000": {
