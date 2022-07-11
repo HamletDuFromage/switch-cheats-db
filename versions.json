@@ -10415,6 +10415,14 @@
         "latest": 196608,
         "title": "Woodsalt"
     },
+    "0100288015E8C000": {
+        "0": "536A0221DDBA4A91",
+        "latest": 0,
+        "title": "KLONOA Phantasy Reverie Series"
+    },
+    "0100288015E8D000": {
+        "latest": 0
+    },
     "010028900EFBC000": {
         "0": "E6A435DA62A91D93",
         "latest": 0
@@ -14040,6 +14048,11 @@
         "0": "93AF34D447906982",
         "latest": 0,
         "title": "Mushroom Quest"
+    },
+    "01003590188D6000": {
+        "0": "1D90E126474A5B4F",
+        "latest": 0,
+        "title": "Galactic Pioneer"
     },
     "010035A0044E8000": {
         "0": "1DB092E0D37A5C3B",
@@ -25390,8 +25403,9 @@
         "0": "DEAF99CA8A5C5F0B",
         "131072": "2C1388FCD172506E",
         "196608": "6FE16B8922F34041",
+        "262144": "72A2B32C0A57E719",
         "65536": "B5A3BA85F73E8714",
-        "latest": 196608,
+        "latest": 262144,
         "title": "MONOPOLY\u00ae Madness"
     },
     "01006000040C2000": {
@@ -48935,6 +48949,11 @@
         "65536": "66C32C58FF426B6E",
         "latest": 65536,
         "title": "Dadish"
+    },
+    "0100B8B018962000": {
+        "0": "CF4F42BD95E49A7A",
+        "latest": 0,
+        "title": "Firefighter:Car Fire Truck Sim Driving 2022 Simulator"
     },
     "0100B8C00CFCE000": {
         "0": "7B4A7AC0B9B38544",
