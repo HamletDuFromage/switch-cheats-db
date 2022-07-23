@@ -751,6 +751,11 @@
         "latest": 0,
         "title": "Doodle Games Bundle"
     },
+    "010002B018D4E000": {
+        "0": "9C7490B16DEE6FAF",
+        "latest": 0,
+        "title": "Japanese Escape Games The Hotel of Tricks"
+    },
     "010002C00C270000": {
         "0": "73BC5EC65393FD19",
         "65536": "4991BC2B0F1795EA",
@@ -1050,7 +1055,8 @@
     "010003E0186A0000": {
         "0": "2B7982F1703AFFB5",
         "65536": "A35076EAAD2E09A1",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Animal Puzzle for Toddlers and Kids - Preschool and kindergarten learning and fun game"
     },
     "010003F003A34000": {
         "0": "1C375692DE4F4B87",
@@ -2470,8 +2476,9 @@
     "010009F014D98000": {
         "0": "1D9A32569F90BF6F",
         "131072": "2C2CC9B00DB2FEC4",
+        "196608": "28C582A3C2644F98",
         "65536": "918B150E32E5AF50",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Pok\u00e9mon TV"
     },
     "010009F0175B2000": {
@@ -2543,6 +2550,11 @@
         "0": "3E80502048A935D3",
         "latest": 0,
         "title": "Freezer Pops"
+    },
+    "01000A30189AA000": {
+        "0": "D3D7C609BA50CF4C",
+        "latest": 0,
+        "title": "Inertia: Redux"
     },
     "01000A400AF2A000": {
         "0": "668EAFBBD09E8344",
@@ -5144,7 +5156,8 @@
     },
     "010014A016E0C000": {
         "0": "141077E5BB6FC8BB",
-        "latest": 0
+        "latest": 0,
+        "title": "Arcade Archives Chack'n Pop"
     },
     "010014B00BB04000": {
         "0": "CEC5ABAA8D12354B",
@@ -6333,7 +6346,8 @@
     },
     "010019401051C000": {
         "0": "DFBC95E3F21EE632",
-        "latest": 0,
+        "65536": "3FC4CFE8CE9E67EE",
+        "latest": 65536,
         "title": "Mario Strikers\u2122: Battle League"
     },
     "010019500B69A000": {
@@ -7667,7 +7681,8 @@
         "327680": "A95EA57E04731DB6",
         "393216": "BA8772185E206FDA",
         "458752": "2DDDB0B9FC71C2E7",
-        "latest": 458752,
+        "524288": "CDC2B3FFF0BF22D4",
+        "latest": 524288,
         "title": "Capcom Arcade Stadium"
     },
     "01001E0013209000": {
@@ -7935,8 +7950,9 @@
     "01001EF016972000": {
         "0": "DB2AB3A3BA99034B",
         "131072": "6A7E31C8C38ADB4A",
+        "196608": "6A7E31C8C38ADB4A",
         "65536": "A7256D4FB8BA9243",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Outbreak: Contagious Memories"
     },
     "01001F0012868000": {
@@ -8306,7 +8322,8 @@
         "720896": "CA0BCBB205EF572D",
         "786432": "E7B399D393E88405",
         "851968": "BA3BCA4694F7F0F8",
-        "latest": 851968,
+        "917504": "73B9FC142B9031C0",
+        "latest": 917504,
         "title": "Colors Live"
     },
     "010020500BD98000": {
@@ -8393,6 +8410,11 @@
         "0": "61A1E57056015043",
         "latest": 0,
         "title": "8 Ball Clash"
+    },
+    "0100207018F62000": {
+        "0": "129767E2E5B2A37C",
+        "latest": 0,
+        "title": "Sakura Fantasy"
     },
     "010020800D924000": {
         "0": "40917C22351D9689",
@@ -8540,6 +8562,11 @@
         "0": "7ECDBBE717ACC541",
         "latest": 0,
         "title": "Alone Musc"
+    },
+    "01002110181E2000": {
+        "0": "D48521C6E6505D47",
+        "latest": 0,
+        "title": "Animal Rivals: Up In The Air"
     },
     "010021200E062000": {
         "0": "7738DD0075F2D84E",
@@ -9135,8 +9162,9 @@
         "title": "Rainbow Billy: The Curse of the Leviathan"
     },
     "0100235015C56000": {
+        "131072": "D406AD25B46281EA",
         "65536": "A15314AC18EEF7C5",
-        "latest": 65536
+        "latest": 131072
     },
     "010023600AA34000": {
         "0": "E895E09FE4E84374",
@@ -9792,6 +9820,11 @@
     "010025E014FF4000": {
         "65536": "41B9756FC57CD244",
         "latest": 65536
+    },
+    "010025E018E88000": {
+        "0": "4340705CC37F4F46",
+        "latest": 0,
+        "title": "My Cute Unicorns - Coloring Book"
     },
     "010025F011DB4000": {
         "0": "5F4A844C6C9B3A4B",
@@ -12573,6 +12606,10 @@
     "0100302010338000": {
         "0": "1F9F0568C941BF44",
         "latest": 0
+    },
+    "0100303013192000": {
+        "65536": "FB37988105DBF445",
+        "latest": 65536
     },
     "01003030160B4000": {
         "131072": "EBB57B37EFA82D1A",
@@ -15419,6 +15456,10 @@
         "latest": 262144,
         "title": "YouTube"
     },
+    "01003A40170EA000": {
+        "65536": "4350B06CB2416BED",
+        "latest": 65536
+    },
     "01003A5001DBA000": {
         "0": "8064D8D08B439BFC",
         "latest": 0,
@@ -16200,6 +16241,11 @@
         "65536": "9DDA1EFEEF70DE46",
         "latest": 131072,
         "title": "Pok\u00e9mon Mystery Dungeon\u2122: Rescue Team DX"
+    },
+    "01003D2018E06000": {
+        "0": "04D74D057FAC263D",
+        "latest": 0,
+        "title": "Tiki Party: Quiz Game with Friends"
     },
     "01003D3009996000": {
         "0": "DDC910F3886D424C",
@@ -18405,6 +18451,11 @@
         "latest": 0,
         "title": "The Secret Order: Shadow Breach"
     },
+    "010044F018C30000": {
+        "0": "E1B05D26C70DA762",
+        "latest": 0,
+        "title": "Encounters: Music Stories"
+    },
     "010045000BF6A000": {
         "0": "6FCA7A7E925B7D3C",
         "latest": 0,
@@ -19603,8 +19654,9 @@
     },
     "0100491014980000": {
         "0": "4F850974BB6D380A",
+        "131072": "A55FDA67EA97165D",
         "65536": "EB736D27F0BBF7CF",
-        "latest": 65536,
+        "latest": 131072,
         "title": "The Lightbringer"
     },
     "010049200B536000": {
@@ -22474,8 +22526,9 @@
     },
     "0100540013468000": {
         "0": "C73A45F522CE1E4D",
+        "131072": "611882862F8C5145",
         "65536": "4F63C397B27A844A",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Secret Neighbor"
     },
     "01005400145AC000": {
@@ -22605,6 +22658,11 @@
     "0100549013060000": {
         "0": "309BA0A73879BF45",
         "latest": 0
+    },
+    "0100549018300000": {
+        "0": "8ACDACCBAF516F43",
+        "latest": 0,
+        "title": "Best Sniper: Shooting Hunter"
     },
     "010054A0085CA000": {
         "0": "64D4FBE375857EB5",
@@ -23092,6 +23150,11 @@
     "010056B0081A6000": {
         "latest": 0
     },
+    "010056C01859A000": {
+        "0": "68216A43BBBB75C3",
+        "latest": 0,
+        "title": "Cow Rush: Water Adventure"
+    },
     "010056D00B0F4000": {
         "0": "45A9F8E80E29A9D3",
         "1048576": "3E70876C1EF60EFA",
@@ -23158,7 +23221,8 @@
     "010056E0187FE000": {
         "0": "D3A626D24CD2AB43",
         "65536": "D3A626D24CD2AB43",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Construction Ramp Jumping"
     },
     "010056F0134AC000": {
         "0": "3CA8570469E0833D",
@@ -24905,6 +24969,11 @@
         "latest": 327680,
         "title": "Spirit of the North"
     },
+    "01005E101705C000": {
+        "0": "CBB1A5CCEB75C544",
+        "latest": 0,
+        "title": "River City Saga: Three Kingdoms"
+    },
     "01005E200A3AC000": {
         "0": "30C00A3A4F1D7749",
         "latest": 0,
@@ -26193,8 +26262,9 @@
     },
     "010061D0139D0000": {
         "0": "E86CD018826CB44B",
+        "131072": "7C234CB1B242C046",
         "65536": "CC9E4AD8B4B21D42",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Mickey Storm and the Cursed Mask"
     },
     "010061D0144D0000": {
@@ -26976,7 +27046,8 @@
     },
     "0100647017A42000": {
         "0": "A92BF7EDFDDBB199",
-        "latest": 0,
+        "65536": "64F1D815B81028CA",
+        "latest": 65536,
         "title": "Rainbow Laser Disco Dungeon"
     },
     "010064800C6DA000": {
@@ -29677,7 +29748,8 @@
     },
     "01006EE013100000": {
         "0": "E710A0E5ED885042",
-        "latest": 0,
+        "65536": "E710A0E5ED885042",
+        "latest": 65536,
         "title": "Outbreak The Nightmare Chronicles"
     },
     "01006F0004FB4000": {
@@ -30267,6 +30339,15 @@
         "65536": "DCAB397031F60CCA",
         "latest": 327680,
         "title": "Spelunky"
+    },
+    "01007100188FE000": {
+        "0": "BCFCC6865B0BE521",
+        "65536": "D64750453059180E",
+        "latest": 65536,
+        "title": "Puzzle Galaxy"
+    },
+    "01007100188FF000": {
+        "latest": 0
     },
     "0100713010E7A000": {
         "0": "649131EC5E72DE40",
@@ -37657,6 +37738,7 @@
         "1048576": "19467285563D3189",
         "1114112": "D4C3DCA3FA7ECBDD",
         "1179648": "D4C3DCA3FA7ECBDD",
+        "1245184": "46CFFEEFE486D553",
         "131072": "7DEE5F17E2A08DE1",
         "262144": "17E2196C82869FDA",
         "393216": "350B80C42C87369C",
@@ -37668,7 +37750,7 @@
         "851968": "995501BEC6A7FFA6",
         "917504": "646D451EE64296D6",
         "983040": "F9CB15E5332C495A",
-        "latest": 1179648,
+        "latest": 1245184,
         "title": "Super Nintendo Entertainment System\u2122 - Nintendo Switch Online"
     },
     "01008D30128E0000": {
@@ -38564,6 +38646,11 @@
         "latest": 0,
         "title": "Pinball Frenzy"
     },
+    "01008FF018970000": {
+        "0": "EB9963BD0FF121C6",
+        "latest": 0,
+        "title": "Dungeon Slime Collection"
+    },
     "010090000C26C000": {
         "0": "CF4EC4569A568DC7",
         "131072": "74E88DDAA4C0693B",
@@ -38681,8 +38768,9 @@
         "latest": 0
     },
     "0100908017CC8000": {
+        "131072": "7BCD694B69C98104",
         "65536": "A26BEBCE59C16B65",
-        "latest": 65536
+        "latest": 131072
     },
     "01009090159FE000": {
         "0": "3F7987ADD755A811",
@@ -39192,6 +39280,10 @@
     "010092801379E000": {
         "0": "D43DD87872AA4842",
         "latest": 0
+    },
+    "0100928018CF2000": {
+        "65536": "39EA913ED1669DA0",
+        "latest": 65536
     },
     "010092901203A000": {
         "0": "F65F17EA16C29146",
@@ -45086,7 +45178,8 @@
     "0100A86014332000": {
         "0": "9E0B8DE6C9132EF8",
         "131072": "0ADF2CFA6CA22A81",
-        "latest": 131072,
+        "196608": "08CEC746EF1BD214",
+        "latest": 196608,
         "title": "Transiruby"
     },
     "0100A86014333000": {
@@ -47393,6 +47486,11 @@
         "latest": 589824,
         "title": "Sakuna: Of Rice and Ruin"
     },
+    "0100B140185CE000": {
+        "0": "C4E96CC437E2C750",
+        "latest": 0,
+        "title": "Faircroft's Antiques: The Mountaineer's Legacy - Collector's Edition"
+    },
     "0100B1401880E000": {
         "0": "1FDC1FAFE6C7C494",
         "latest": 0,
@@ -48346,13 +48444,14 @@
         "1703936": "90C1117A57A0190A",
         "1769472": "33BF4AC38317C3A4",
         "1835008": "953C6CBA1BE4BD73",
+        "1900544": "C6F5389F17C06B25",
         "458752": "8295181F573F4DFE",
         "720896": "2149BC773FBA4547",
         "786432": "FB66D74DC46E347D",
         "851968": "9B728BEBAAC0055C",
         "917504": "6056FF4FAFF98E95",
         "983040": "A88C585BB434DD71",
-        "latest": 1835008
+        "latest": 1900544
     },
     "0100B4E012CAC000": {
         "0": "BEBDF967DAEEFC6A",
@@ -53065,8 +53164,9 @@
         "0": "0DA13A7E3D27208B",
         "131072": "CC68CD2109349B52",
         "196608": "3AC41A994FDB7372",
+        "262144": "4205764FF8EA5CDC",
         "65536": "957C1A8B040DE754",
-        "latest": 196608,
+        "latest": 262144,
         "title": "RiffTrax: The Game"
     },
     "0100C65013DA0000": {
@@ -55555,6 +55655,11 @@
         "latest": 65536,
         "title": "Coffee Crisis"
     },
+    "0100CF801776C000": {
+        "0": "6E1059ADB083B99F",
+        "latest": 0,
+        "title": "LIVE A LIVE"
+    },
     "0100CF900FA3E000": {
         "0": "6DF7C8E12B9B8D24",
         "131072": "9202714AE1FF3520",
@@ -58022,13 +58127,14 @@
         "1703936": "1F6D3F5FC75D2241",
         "1769472": "25FB52660154AA2D",
         "1835008": "F7BCC6F1DC0713F2",
+        "1900544": "9B80C3C4ABB4B520",
         "458752": "CF601BE60A711A22",
         "720896": "601BB6A2A355B3EE",
         "786432": "B523717DCFDEEECF",
         "851968": "122C8A8449BEC319",
         "917504": "101A83E34AFBAFE9",
         "983040": "E9CB2C94E4AD073F",
-        "latest": 1835008,
+        "latest": 1900544,
         "title": "Nintendo Entertainment System\u2122 - Nintendo Switch Online"
     },
     "0100D87009954000": {
@@ -58988,8 +59094,9 @@
     },
     "0100DC0012E48000": {
         "0": "D4840CA75D7B48F3",
+        "131072": "7BCD694B69C98104",
         "65536": "9926F51221C28212",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Wreckfest"
     },
     "0100DC0012E49000": {
@@ -59053,6 +59160,15 @@
         "latest": 458752
     },
     "0100DC60085BB000": {
+        "latest": 0
+    },
+    "0100DC60167B4000": {
+        "0": "4E38EF36ADBAC662",
+        "65536": "2516EF8711E78D57",
+        "latest": 65536,
+        "title": "Capcom Arcade 2nd Stadium"
+    },
+    "0100DC60167B5000": {
         "latest": 0
     },
     "0100DC7013938000": {
@@ -59257,6 +59373,11 @@
         "65536": "A4B5B1E91110164D",
         "latest": 262144,
         "title": "Exit the Gungeon"
+    },
+    "0100DD3018CAE000": {
+        "0": "481393B291357B8A",
+        "latest": 0,
+        "title": "Polygraph: Escape from the Lie Detector"
     },
     "0100DD400C468000": {
         "131072": "91179A3BACC3A6C3",
@@ -60187,6 +60308,11 @@
         "latest": 0,
         "title": "Sockventure"
     },
+    "0100E0D018E0E000": {
+        "0": "AEDE1A083245D0A3",
+        "latest": 0,
+        "title": "9 in 1 Puzzles"
+    },
     "0100E0E00B108000": {
         "0": "F7F2F0F27C154C49",
         "latest": 0,
@@ -60358,6 +60484,11 @@
     "0100E1C00DB6C000": {
         "0": "18A682A6706E044E",
         "latest": 0
+    },
+    "0100E1C0148F8000": {
+        "0": "A1D76BDCE142B968",
+        "latest": 0,
+        "title": "Severed Steel"
     },
     "0100E1D00FBDE000": {
         "0": "5522CBDD28D3F60B",
@@ -60671,8 +60802,9 @@
         "0": "7EBC14C1B8F33343",
         "131072": "FEC398D424684E08",
         "196608": "941EA668EC5FF68B",
+        "262144": "C5F60446EB57CA61",
         "65536": "138D5D1DE2E74941",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Crash Drive 3"
     },
     "0100E2B00E064000": {
@@ -62314,6 +62446,7 @@
         "1048576": "6F07419696623C35",
         "1114112": "2550B71D3159896B",
         "1179648": "2550B71D3159896B",
+        "1245184": "84813755D63A2F12",
         "131072": "38CF9EF8DF2A8AEE",
         "262144": "859FAB08F0B8A3DB",
         "393216": "4A77F4915BF7E56E",
@@ -62324,7 +62457,7 @@
         "851968": "AD1703C4DF0531B5",
         "917504": "A9468DE1DA791DAE",
         "983040": "6A6D811B450714C0",
-        "latest": 1179648
+        "latest": 1245184
     },
     "0100E8600C866000": {
         "0": "2D1CE2262461F54C",
@@ -64632,7 +64765,8 @@
         "65536": "3C9CF3FC790DE947",
         "655360": "943284F1122B9644",
         "720896": "5BBA076ED7573D40",
-        "latest": 720896,
+        "786432": "F129840ED9000545",
+        "latest": 786432,
         "title": "Ring of Pain"
     },
     "0100F090177B8000": {
@@ -67126,7 +67260,8 @@
     },
     "0100F95015DD6000": {
         "0": "69EACA2F4BA9C4A6",
-        "latest": 0,
+        "196608": "8AA6FF435FBF1FD6",
+        "latest": 196608,
         "title": "DC League of Super-Pets: The Adventures of Krypto and Ace"
     },
     "0100F9600DA78000": {
@@ -67315,8 +67450,9 @@
         "131072": "E93EE07A70973D40",
         "196608": "AA2236607A193A4B",
         "262144": "9CD2278DDC42CA46",
+        "327680": "9E95A4957F16B841",
         "65536": "1D71F1624DFD664D",
-        "latest": 262144,
+        "latest": 327680,
         "title": "SkateBIRD"
     },
     "0100FA500B124000": {
