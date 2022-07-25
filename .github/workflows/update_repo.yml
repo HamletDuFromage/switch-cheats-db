@@ -58,7 +58,7 @@ jobs:
           if [ -f ./requirements_cheats.txt ]; then pip3 install -r ./requirements_cheats.txt; fi
 
       - name: install dependencies
-        run: sudo apt-get install unrar rename
+        run: sudo apt-get install unrar
 
       - name: run python script
         run: |
