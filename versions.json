@@ -26744,7 +26744,7 @@
         "title": "Family Chess"
     },
     "010063A016A15000": {
-        "latest": 0
+        "latest": 65536
     },
     "010063B00BF70000": {
         "131072": "0D35E454B4527AA0",
@@ -27777,6 +27777,11 @@
         "65536": "9A38E5A4E1099F4F",
         "latest": 65536,
         "title": "Tiger Trio's Tasty Travels"
+    },
+    "0100679018C18000": {
+        "0": "BB8022015692A047",
+        "latest": 0,
+        "title": "amazin' George 2 Digital Deluxe"
     },
     "010067A00964E000": {
         "0": "8C6AE0D6A3E33341",
@@ -50983,6 +50988,10 @@
         "latest": 0,
         "title": "Metal Commando"
     },
+    "0100BE5017A86000": {
+        "0": "10555EB48CD479C1",
+        "latest": 0
+    },
     "0100BE600D07A000": {
         "0": "5DC3C46EF8C9EE48",
         "131072": "72E914886D8D444A",
@@ -55002,6 +55011,11 @@
     "0100CCD017F42000": {
         "0": "4E363BB7F1FA734F",
         "latest": 0
+    },
+    "0100CCD018626000": {
+        "65536": "198336BA94F13BB4",
+        "latest": 65536,
+        "title": "Hot Lap League: Deluxe Edition"
     },
     "0100CCE00A4F2000": {
         "0": "03EEFC5718CFFD4D",
