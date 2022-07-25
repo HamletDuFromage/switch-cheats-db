@@ -1,0 +1,96 @@
+{
+    "36159C112F06495E": [
+        {
+            "content": "{Master Code \u95dc\u9375\u78bc}\n040E0000 027C3758 BD428E6C\n580F0000 069A4608\n580F1000 00000118\n\n",
+            "title": "{Master Code \u95dc\u9375\u78bc}"
+        },
+        {
+            "content": "[Restore Code \u9084\u539f\u78bc]\n040E0000 00962968 B9033EA8\n040E0000 00962954 B9433EA9\n040E0000 00959AB0 A9454FF4\n040E0000 0097042C 2A0203F3\n040E0000 00970A18 0B190001\n040E0000 00970A44 0B190001\n040E0000 00970A6C 0B150001\n040E0000 00970A94 0B150001\n040E0000 00970ABC 0B150001\n040E0000 00970AE8 0B150001\n040E0000 00970B10 0B150001\n040E0000 00970B38 0B150001\n480D0000 00000000 00000050\n640F01D0 00000000 0000004C\n480D0000 00000000 00000058\n640F01D0 00000000 000003E7\n480D0000 00000000 00000190\n640F01D0 00000000 000003E7\n480D0000 00000000 00000178\n640F01D0 00000000 00000063\n480D0000 00000000 00000180\n640F01D0 00000000 00000096\n480D0000 00000000 000001A0\n640F01D0 00000000 00000063\n480D0000 00000000 000001A8\n640F01D0 00000000 00000063\n040E0000 0094C354 1E300009\n\n\n",
+            "title": "[Restore Code \u9084\u539f\u78bc]"
+        },
+        {
+            "content": "[#01. Inf HP \u7121\u9650\u751f\u547d]\n080E0000 04008FF8 D65F03C0 B9033EA8\n080E0000 04008FF0 34000049 394CA2A9\n040E0000 00962968 94DA99A2\n\n",
+            "title": "[#01. Inf HP \u7121\u9650\u751f\u547d]"
+        },
+        {
+            "content": "[#02. One Hit Kill \u79d2\u6bba]\n080E0000 04008FE8 D65F03C0 B9433EA9\n080E0000 04008FE0 B9433EA8 34000049\n040E0000 04008FDC 394CA2A9\n040E0000 00962954 94DA99A2\n\n",
+            "title": "[#02. One Hit Kill \u79d2\u6bba]"
+        },
+        {
+            "content": "[#03(a) EXP Multiplier \u7d93\u9a57\u500d\u7387 (2x)]\n080E0000 04008FD4 D65F03C0 A9454FF4\n080E0000 04008FCC B9000288 0B080108\n080E0000 04008FC4 B9400288 B9000268\n080E0000 04008FBC 0B080108 B9400268\n040E0000 00959AB0 94DABD43\n\n",
+            "title": "[#03(a) EXP Multiplier \u7d93\u9a57\u500d\u7387 (2x)]"
+        },
+        {
+            "content": "[#03(b) EXP Multiplier \u7d93\u9a57\u500d\u7387 (3x)]\n080E0000 04008FD4 D65F03C0 A9454FF4\n080E0000 04008FCC B9000288 0B080508\n080E0000 04008FC4 B9400288 B9000268\n080E0000 04008FBC 0B080508 B9400268\n040E0000 00959AB0 94DABD43\n\n",
+            "title": "[#03(b) EXP Multiplier \u7d93\u9a57\u500d\u7387 (3x)]"
+        },
+        {
+            "content": "[#03(c) EXP Multiplier \u7d93\u9a57\u500d\u7387 (4x)]\n080E0000 04008FD4 D65F03C0 A9454FF4\n080E0000 04008FCC B9000288 531E7508\n080E0000 04008FC4 B9400288 B9000268\n080E0000 04008FBC 531E7508 B9400268\n040E0000 00959AB0 94DABD43\n\n",
+            "title": "[#03(c) EXP Multiplier \u7d93\u9a57\u500d\u7387 (4x)]"
+        },
+        {
+            "content": "[#03(d) EXP Multiplier \u7d93\u9a57\u500d\u7387 (5x)]\n080E0000 04008FD4 D65F03C0 A9454FF4\n080E0000 04008FCC B9000288 0B080908\n080E0000 04008FC4 B9400288 B9000268\n080E0000 04008FBC 0B080908 B9400268\n040E0000 00959AB0 94DABD43\n\n",
+            "title": "[#03(d) EXP Multiplier \u7d93\u9a57\u500d\u7387 (5x)]"
+        },
+        {
+            "content": "[#03(e) Level Up After Every Battle \u6bcf\u6230\u5347\u7d1a]\n040E0000 0097042C 52800C93\n\n",
+            "title": "[#03(e) Level Up After Every Battle \u6bcf\u6230\u5347\u7d1a]"
+        },
+        {
+            "content": "[#04(a) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (2x)]\n040E0000 00970A18 0B000721\n040E0000 00970A44 0B000721\n040E0000 00970A6C 0B0006A1\n040E0000 00970A94 0B0006A1\n040E0000 00970ABC 0B0006A1\n040E0000 00970AE8 0B0006A1\n040E0000 00970B10 0B0006A1\n040E0000 00970B38 0B0006A1\n\n",
+            "title": "[#04(a) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (2x)]"
+        },
+        {
+            "content": "[#04(b) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (4x)]\n040E0000 00970A18 0B000B21\n040E0000 00970A44 0B000B21\n040E0000 00970A6C 0B000AA1\n040E0000 00970A94 0B000AA1\n040E0000 00970ABC 0B000AA1\n040E0000 00970AE8 0B000AA1\n040E0000 00970B10 0B000AA1\n040E0000 00970B38 0B000AA1\n\n",
+            "title": "[#04(b) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (4x)]"
+        },
+        {
+            "content": "[#04(c) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (8x)]\n040E0000 00970A18 0B000F21\n040E0000 00970A44 0B000F21\n040E0000 00970A6C 0B000EA1\n040E0000 00970A94 0B000EA1\n040E0000 00970ABC 0B000EA1\n040E0000 00970AE8 0B000EA1\n040E0000 00970B10 0B000EA1\n040E0000 00970B38 0B000EA1\n\n",
+            "title": "[#04(c) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (8x)]"
+        },
+        {
+            "content": "[#05(a) Movement Speed \u79fb\u52d5\u500d\u7387 (1.5x) Hold ZR]\n80000200\n040E0000 027C3758 1E2F100C\n20000000\n\n",
+            "title": "[#05(a) Movement Speed \u79fb\u52d5\u500d\u7387 (1.5x) Hold ZR]"
+        },
+        {
+            "content": "[#05(b) Movement Speed \u79fb\u52d5\u500d\u7387 (2.0x) Hold ZR]\n80000200\n040E0000 027C3758 1E20100C\n20000000\n\n",
+            "title": "[#05(b) Movement Speed \u79fb\u52d5\u500d\u7387 (2.0x) Hold ZR]"
+        },
+        {
+            "content": "[#05(c) Movement Speed \u79fb\u52d5\u500d\u7387 (2.5x) Hold ZR]\n80000200\n040E0000 027C3758 1E20900C\n20000000\n\n",
+            "title": "[#05(c) Movement Speed \u79fb\u52d5\u500d\u7387 (2.5x) Hold ZR]"
+        },
+        {
+            "content": "[#06. Character Accuracy Value \u64ca\u4e2d\u6a5f\u7387 100%]\n480D0000 00000000 00000050\n640F01D0 00000000 00000064\n\n",
+            "title": "[#06. Character Accuracy Value \u64ca\u4e2d\u6a5f\u7387 100%]"
+        },
+        {
+            "content": "[#07. Damage UpperLimit \u50b7\u5bb3\u4e0a\u9650 99999]\n480D0000 00000000 00000058\n640F01D0 00000000 0001869F\n\n",
+            "title": "[#07. Damage UpperLimit \u50b7\u5bb3\u4e0a\u9650 99999]"
+        },
+        {
+            "content": "[#08. HP UpperLimit \u751f\u547d\u4e0a\u9650 19999]\n480D0000 00000000 00000190\n640F01D0 00000000 00004E1F\n\n",
+            "title": "[#08. HP UpperLimit \u751f\u547d\u4e0a\u9650 19999]"
+        },
+        {
+            "content": "[#09. Abilities UpperLimit \u5c6c\u6027\u4e0a\u9650 9999]\n480D0000 00000000 00000178\n640F01D0 00000000 0000270F\n480D0000 00000000 00000180\n640F01D0 00000000 0000270F\n480D0000 00000000 000001A0\n640F01D0 00000000 0000270F\n480D0000 00000000 000001A8\n640F01D0 00000000 0000270F\n\n",
+            "title": "[#09. Abilities UpperLimit \u5c6c\u6027\u4e0a\u9650 9999]"
+        },
+        {
+            "content": "[#10(a) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (2x)]\n080E0000 04008FB4 D65F03C0 1E300009\n080E0000 04008FAC 1E210800 1E209001\n080E0000 04008FA4 35000069 394CA129\n040E0000 04008FA0 F940FA89\n040E0000 0094C354 94DAF313\n\n",
+            "title": "[#10(a) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (2x)]"
+        },
+        {
+            "content": "[#10(b) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (5x)]\n080E0000 04008FB4 D65F03C0 1E300009\n080E0000 04008FAC 1E210800 1E229001\n080E0000 04008FA4 35000069 394CA129\n040E0000 04008FA0 F940FA89\n040E0000 0094C354 94DAF313\n\n",
+            "title": "[#10(b) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (5x)]"
+        },
+        {
+            "content": "[#10(c) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (10x)]\n080E0000 04008FB4 D65F03C0 1E300009\n080E0000 04008FAC 1E210800 1E249001\n080E0000 04008FA4 35000069 394CA129\n040E0000 04008FA0 F940FA89\n040E0000 0094C354 94DAF313\n\n",
+            "title": "[#10(c) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (10x)]"
+        },
+        {
+            "content": "[#10(d) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (30x)]\n080E0000 04008FB4 D65F03C0 1E300009\n080E0000 04008FAC 1E210800 1E27D001\n080E0000 04008FA4 35000069 394CA129\n040E0000 04008FA0 F940FA89\n040E0000 0094C354 94DAF313\n\n",
+            "title": "[#10(d) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (30x)]"
+        }
+    ]
+}

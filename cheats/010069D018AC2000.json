@@ -1,0 +1,108 @@
+{
+    "B173C53415F10114": [
+        {
+            "content": "[(L+B) Moonjump]\n80000042\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n580C1000 000001E0\n780C0000 000000B4\n640C0000 00000000 41700000\n20000000\n\n",
+            "title": "[(L+B) Moonjump]"
+        },
+        {
+            "content": "[\u2192/\u2190 Speed Up (On/Off)]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n780C0000 00000270\n80001000\n640C0000 00000000 41400000\n20000000\n80004000\n640C0000 00000000 41C80000\n20000000\n\n",
+            "title": "[\u2192/\u2190 Speed Up (On/Off)]"
+        },
+        {
+            "content": "[Insta-Kill]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000168\n580C1000 00000010\n300D0000 00000003\n9801C0E0\n58011000 00000020\n58011000 00000328\n78010000 00000038\n64010000 00000000 00000000\n780C0000 00000008\n310D0000\n\n",
+            "title": "[Insta-Kill]"
+        },
+        {
+            "content": "[Invincible]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n780C0000 00000278\n640C0000 00000000 3F800000\n780C0000 0000008C\n640C0000 00000000 3F800000\n\n",
+            "title": "[Invincible]"
+        },
+        {
+            "content": "[Inf. Health]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n580C1000 000001F8\n780C0000 00000038\n640C0000 00000000 461C3C00\n\n",
+            "title": "[Inf. Health]"
+        },
+        {
+            "content": "[Inf. Stamina]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n580C1000 000001F8\n780C0000 0000008C\n640C0000 00000000 461C3C00\n\n",
+            "title": "[Inf. Stamina]"
+        },
+        {
+            "content": "[Inf. MP]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n580C1000 000001F8\n780C0000 00000088\n640C0000 00000000 461C3C00\n\n",
+            "title": "[Inf. MP]"
+        },
+        {
+            "content": "[Inf. Occult Devotion]\n580C0000 03B9BB40\n580C1000 000000B8\n580C1000 00000020\n580C1000 00000010\n580C1000 000000A0\n780C0000 00000088\n640C0000 00000000 000003E7\n\n",
+            "title": "[Inf. Occult Devotion]"
+        },
+        {
+            "content": "[Inf. Hunter Potions]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n580C1000 000001F8\n580C1000 00000090\n780C0000 00000038\n640C0000 00000000 00000063\n\n",
+            "title": "[Inf. Hunter Potions]"
+        },
+        {
+            "content": "[Instant Stamina Recovery]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n580C1000 000001F8\n780C0000 00000054\n640C0000 00000000 461C3C00\n\n",
+            "title": "[Instant Stamina Recovery]"
+        },
+        {
+            "content": "[Guard no Stamina Cost]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n580C1000 000001F8\n780C0000 00000058\n640C0000 00000000 00000000\n\n",
+            "title": "[Guard no Stamina Cost]"
+        },
+        {
+            "content": "[Dash no Stamina Cost]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n580C1000 000001F8\n780C0000 0000005C\n640C0000 00000000 00000000\n\n",
+            "title": "[Dash no Stamina Cost]"
+        },
+        {
+            "content": "[\u2192/\u2190 Jump Height x2 (On/Off)]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n580C1000 00000228\n780C0000 000000B4\n80001000\n640C0000 00000000 40E00000\n20000000\n80004000\n640C0000 00000000 41600000\n20000000\n\n",
+            "title": "[\u2192/\u2190 Jump Height x2 (On/Off)]"
+        },
+        {
+            "content": "[Inf. Jump Attacks]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n780C0000 00000308\n640C0000 00000000 00000001\n\n",
+            "title": "[Inf. Jump Attacks]"
+        },
+        {
+            "content": "[Inf. Jump SP Attacks]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n780C0000 0000030C\n640C0000 00000000 00000001\n\n",
+            "title": "[Inf. Jump SP Attacks]"
+        },
+        {
+            "content": "[Inf. Air Dashes]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n780C0000 00000310\n640C0000 00000000 00000001\n\n",
+            "title": "[Inf. Air Dashes]"
+        },
+        {
+            "content": "[\u2192/\u2190 Dash Distance x2 (On/Off)]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n580C1000 00000230\n780C0000 000000B4\n80001000\n640C0000 00000000 40C00000\n20000000\n80004000\n640C0000 00000000 41400000\n20000000\n\n",
+            "title": "[\u2192/\u2190 Dash Distance x2 (On/Off)]"
+        },
+        {
+            "content": "[\u2192/\u2190 Dash Speed x2 (On/Off)]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n580C1000 00000230\n780C0000 000000B8\n80001000\n640C0000 00000000 42200000\n20000000\n80004000\n640C0000 00000000 42A00000\n20000000\n\n",
+            "title": "[\u2192/\u2190 Dash Speed x2 (On/Off)]"
+        },
+        {
+            "content": "[No Dash Cooldown]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n580C1000 00000230\n780C0000 000000BC\n640C0000 00000000 00000000\n\n",
+            "title": "[No Dash Cooldown]"
+        },
+        {
+            "content": "[\u2192/\u2190 Sliding Distance x2 (On/Off)]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n580C1000 00000238\n780C0000 000000B4\n80001000\n640C0000 00000000 40800000\n20000000\n80004000\n640C0000 00000000 41000000\n20000000\n\n",
+            "title": "[\u2192/\u2190 Sliding Distance x2 (On/Off)]"
+        },
+        {
+            "content": "[\u2192/\u2190 Sliding Speed x2 (On/Off)]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n580C1000 00000238\n780C0000 000000B8\n80001000\n640C0000 00000000 41F00000\n20000000\n80004000\n640C0000 00000000 42700000\n20000000\n\n",
+            "title": "[\u2192/\u2190 Sliding Speed x2 (On/Off)]"
+        },
+        {
+            "content": "[No Sliding Cooldown]\n580C0000 03B9B7B8\n580C1000 000000B8\n580C1000 00000198\n580C1000 00000238\n780C0000 000000BC\n640C0000 00000000 00000000\n\n",
+            "title": "[No Sliding Cooldown]"
+        },
+        {
+            "content": "[(ZL) Have all Items/Equipment x99]\n04000000 01BC9D80 B9403800\n80000100\n04000000 01BC9D80 52800C60\n20000000\n\n",
+            "title": "[(ZL) Have all Items/Equipment x99]"
+        },
+        {
+            "content": "[Inf. Keystones]\n580C0000 03B9BB40\n580C1000 000000B8\n580C1000 00000020\n580C1000 00000010\n580C1000 000000A0\n780C0000 00000038\n640C0000 00000000 00000063\n\n",
+            "title": "[Inf. Keystones]"
+        },
+        {
+            "content": "[(ZL) Max Karma]\n80000100\n580C0000 03B9BB40\n580C1000 000000B8\n780C0000 00000010\n680C0000 3B9AC9FF 3B9AC9FF\n20000000\n\n",
+            "title": "[(ZL) Max Karma]"
+        },
+        {
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p]"
+        }
+    ]
+}
