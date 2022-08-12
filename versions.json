@@ -2811,6 +2811,10 @@
         "latest": 65536,
         "title": "Pocky & Rocky Reshrined"
     },
+    "01000AF019164000": {
+        "0": "A35076EAAD2E09A1",
+        "latest": 0
+    },
     "01000B100D4B0000": {
         "0": "40C1BC9BAAFD9C4F",
         "latest": 0
@@ -3240,7 +3244,8 @@
         "0": "CDE3849E4B407796",
         "131072": "E79FA34CF721E36B",
         "196608": "383CCAD631BD75A1",
-        "latest": 196608,
+        "262144": "3ECA51682136AC1D",
+        "latest": 262144,
         "title": "Overboard!"
     },
     "01000CA018A54000": {
@@ -4799,6 +4804,11 @@
     "010012700F232000": {
         "0": "1A3BC7C189D8B698",
         "latest": 0
+    },
+    "0100127018F76000": {
+        "0": "AEBFC87097463619",
+        "latest": 0,
+        "title": "Japanese NEKOSAMA Escape The Sento"
     },
     "0100128003A24000": {
         "0": "75B6F3935221AF6D",
@@ -7269,6 +7279,11 @@
     "01001BF0107FC000": {
         "0": "B9BB5AEB4ADBAC48",
         "latest": 0
+    },
+    "01001BF018B12000": {
+        "0": "1EDECA944363DA26",
+        "latest": 0,
+        "title": "Cat Slide Tiles"
     },
     "01001C000ACD0000": {
         "196608": "D500328C3934F2C6",
@@ -12319,9 +12334,14 @@
         "title": "Brunswick Pro Billiards"
     },
     "01002E7016C46000": {
+        "0": "A5354E56C47B9547",
+        "131072": "03077C4F3C046241",
         "65536": "D22A342CE479684D",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Cult of the Lamb"
+    },
+    "01002E7016C47000": {
+        "latest": 0
     },
     "01002E800D44E000": {
         "0": "260175EFC477D64C",
@@ -16477,6 +16497,11 @@
         "65536": "0BC1660A1CD4CC41",
         "latest": 65536
     },
+    "01003D6019032000": {
+        "0": "DBD1ED1D7EAC18BC",
+        "latest": 0,
+        "title": "Viki Spotter: Space Mission"
+    },
     "01003D7002CC0000": {
         "0": "CA5156D01627E847",
         "latest": 0,
@@ -19105,6 +19130,11 @@
         "latest": 65536,
         "title": "Oneiros"
     },
+    "01004630190BA000": {
+        "0": "A35076EAAD2E09A1",
+        "latest": 0,
+        "title": "Knight's Castle - Medieval Minigames for Toddlers and Kids"
+    },
     "0100464009294000": {
         "0": "0C4C7A6B32D04E4E",
         "latest": 0,
@@ -19795,6 +19825,11 @@
         "131072": "860D7513B65CDA4A",
         "65536": "6DB6BCDBEF9FAB4A",
         "latest": 131072
+    },
+    "010048E018CDC000": {
+        "0": "7D6B779ACDA9CE9A",
+        "latest": 0,
+        "title": "Voyage"
     },
     "010048F007ADE000": {
         "0": "65D06EE2A911164B",
@@ -21410,6 +21445,9 @@
         "latest": 131072,
         "title": "Azure Striker GUNVOLT 3"
     },
+    "01004E90149AB000": {
+        "latest": 0
+    },
     "01004EA00DF70000": {
         "0": "F05ACE00362CBCFB",
         "131072": "97946FF39EAFEB52",
@@ -21480,7 +21518,8 @@
     },
     "01004ED017B22000": {
         "0": "EF4F9ED837E710FD",
-        "latest": 0,
+        "65536": "0FC1131D6C5C0BD0",
+        "latest": 65536,
         "title": "Tricky Doors"
     },
     "01004EE0104F6000": {
@@ -23856,6 +23895,9 @@
         "latest": 0,
         "title": "Shadowverse: Champion's Battle"
     },
+    "01005880134C3000": {
+        "latest": 65536
+    },
     "010058900D29A000": {
         "0": "E55877EEF2ADB646",
         "131072": "DBC801B8D05C3C49",
@@ -25091,6 +25133,11 @@
         "0": "32D20070D984C840",
         "latest": 0
     },
+    "01005D401629A000": {
+        "0": "E4B630B4A1D6E1D9",
+        "latest": 0,
+        "title": "Jeopardy! PlayShow"
+    },
     "01005D50107F2000": {
         "0": "133B1770D67ED5C4",
         "latest": 0,
@@ -25442,6 +25489,11 @@
         "65536": "D7610CAE4733A150",
         "latest": 65536,
         "title": "Iron Crypticle"
+    },
+    "01005EC018DB4000": {
+        "0": "CB008944E6D3C3D9",
+        "latest": 0,
+        "title": "Sakura MMO"
     },
     "01005ED00AD0C000": {
         "393216": "A91DD0BDFDA34423",
@@ -25827,6 +25879,7 @@
         "1179648": "E9F54780CBBD114F",
         "1245184": "E5B43F4C4C46004F",
         "1310720": "1BACE04BA5BD644D",
+        "1376256": "840A4C0EE3F9A944",
         "196608": "D70EF5C4D28EFE41",
         "262144": "A09A2281FD980043",
         "327680": "668C109613C35241",
@@ -25840,7 +25893,7 @@
         "851968": "83F466380CC9BD4C",
         "917504": "0CA9EBF569ED7C4A",
         "983040": "21C77587C980A248",
-        "latest": 1310720,
+        "latest": 1376256,
         "title": "Elemental Knights R"
     },
     "01005FA015D68000": {
@@ -26829,6 +26882,10 @@
         "65536": "29756FEDBB32164E",
         "latest": 65536,
         "title": "Road Fury"
+    },
+    "010062C018644000": {
+        "0": "0EDB5CFAA1E6C51B",
+        "latest": 0
     },
     "010062D013C16000": {
         "131072": "2CE1BC3C44E77846",
@@ -32307,6 +32364,11 @@
         "latest": 0,
         "title": "Castle Of Pixel Skulls"
     },
+    "0100765015C2A000": {
+        "0": "005553790E973D4B",
+        "65536": "E1E933E1C6E3D94F",
+        "latest": 65536
+    },
     "0100765018DD6000": {
         "0": "C8E32525DCABB3CD",
         "latest": 0
@@ -32623,7 +32685,8 @@
     },
     "01007730159FC000": {
         "0": "0D943D0172949DFD",
-        "latest": 0,
+        "65536": "9788D04EB94C4EB1",
+        "latest": 65536,
         "title": "JUMANJI: The Curse Returns"
     },
     "01007730159FD000": {
@@ -50917,8 +50980,9 @@
     "0100BC20118EE000": {
         "0": "5EF0283134537D40",
         "131072": "85A9B2B85AA13842",
+        "196608": "67FB728F37039C4D",
         "65536": "69AB4A19347B5045",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Exploding Kittens"
     },
     "0100BC300CB48000": {
@@ -51642,6 +51706,11 @@
         "65536": "5A965F8D759D8F44",
         "latest": 65536,
         "title": "Amazing Breaker"
+    },
+    "0100BE7016BA6000": {
+        "65536": "E44DEB86EF7DC158",
+        "latest": 65536,
+        "title": "Like No Other"
     },
     "0100BE70172A8000": {
         "0": "458BEDE62A0B8CBC",
@@ -53022,6 +53091,7 @@
         "title": "Night Vision"
     },
     "0100C380190EA000": {
+        "0": "4D1A731FBB8DB5CA",
         "65536": "0AC975009E06D442",
         "latest": 65536,
         "title": "EXTREME BIKE X"
@@ -54212,6 +54282,11 @@
     "0100C7801232D000": {
         "latest": 0
     },
+    "0100C79018ABA000": {
+        "0": "2C34A5E67EB580B6",
+        "latest": 0,
+        "title": "Fashion Girls"
+    },
     "0100C7A012688000": {
         "0": "F97CC2A18915EE42",
         "latest": 0
@@ -54462,6 +54537,14 @@
         "0": "E50299000C98E74C",
         "latest": 0,
         "title": "Kosmonavtes: Escape Reality"
+    },
+    "0100C89017D08000": {
+        "0": "4684BB42CD4FE34A",
+        "latest": 0,
+        "title": "Cyber Protocol Prologue"
+    },
+    "0100C89017D09000": {
+        "latest": 0
     },
     "0100C8A014BB0000": {
         "0": "FEB5994983B9AE49",
@@ -55341,7 +55424,8 @@
     },
     "0100CBC015C2C000": {
         "0": "0F7C069D3428CE42",
-        "latest": 0
+        "65536": "0F7C069D3428CE42",
+        "latest": 65536
     },
     "0100CBD012CF4000": {
         "0": "B3571407C64784C2",
@@ -55651,6 +55735,7 @@
         "1179648": "F0F23E76A01159C8",
         "1245184": "1656EEC05220AE4E",
         "131072": "7065841AF421ECAC",
+        "1310720": "CD6C78046EDAFADD",
         "196608": "A76AA87103ABB94C",
         "262144": "A6E73731D5C6E39F",
         "327680": "067A7ADF31D46E68",
@@ -55663,7 +55748,7 @@
         "786432": "C8E39D73F9B3EB7B",
         "851968": "76CE1BCAE4443148",
         "983040": "74FCE292FBFC182A",
-        "latest": 1245184,
+        "latest": 1310720,
         "title": "Ninjala"
     },
     "0100CCD0073EB000": {
@@ -55915,6 +56000,7 @@
         "title": "Glitchangels"
     },
     "0100CDA016FAA000": {
+        "0": "298D25F9E6102A4B",
         "65536": "F4DF2F175A49F946",
         "latest": 65536,
         "title": "Super Bullet Break"
@@ -56579,8 +56665,9 @@
     },
     "0100D02014CE0000": {
         "0": "C5B1A0B69E29C444",
+        "131072": "153158E9EB4B324C",
         "65536": "E6BA3C4E12D8F540",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Arcade Paradise"
     },
     "0100D03003F0E000": {
@@ -61136,7 +61223,8 @@
     "0100E11019268000": {
         "131072": "5662AE7587BBC9D1",
         "65536": "4B53693DEB1D41D7",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Home Deco Puzzles"
     },
     "0100E1200DC1A000": {
         "0": "6891F262CBC1FE4B",
