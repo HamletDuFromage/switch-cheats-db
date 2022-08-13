@@ -1776,6 +1776,10 @@
     "010006C017355000": {
         "latest": 0
     },
+    "010006D00D0E6000": {
+        "0": "875EB96CF4531A3C",
+        "latest": 0
+    },
     "010006D00FF34000": {
         "0": "D99444D83D09E44F",
         "latest": 0
@@ -2813,7 +2817,8 @@
     },
     "01000AF019164000": {
         "0": "A35076EAAD2E09A1",
-        "latest": 0
+        "latest": 0,
+        "title": "Super Glow Puzzle"
     },
     "01000B100D4B0000": {
         "0": "40C1BC9BAAFD9C4F",
@@ -7863,6 +7868,7 @@
         "title": "Cooking Simulator"
     },
     "01001E4012484000": {
+        "0": "FA7DA5075AC256E9",
         "65536": "11EE52C0C8828506",
         "latest": 65536,
         "title": "Path of Titans"
@@ -10829,6 +10835,10 @@
         "latest": 0,
         "title": "Bullet Battle: Evolution"
     },
+    "010029400E016000": {
+        "0": "A1D894F2038B2543",
+        "latest": 0
+    },
     "010029500DFBA000": {
         "0": "94E79E909CD7D64B",
         "latest": 0,
@@ -10898,7 +10908,8 @@
     },
     "0100297016B1C000": {
         "0": "DE53EC0B7CC1E27F",
-        "latest": 0,
+        "65536": "8436CCDEF509D071",
+        "latest": 65536,
         "title": "Gems of Magic: Dwarf's Destiny"
     },
     "0100298013B4A000": {
@@ -20581,7 +20592,7 @@
         "latest": 131072
     },
     "01004B500BA29000": {
-        "latest": 0
+        "latest": 65536
     },
     "01004B500E57E000": {
         "131072": "1EA49D173C43E6AB",
@@ -21868,7 +21879,8 @@
         "524288": "69FF978DF2098FF7",
         "589824": "CB5B8BAD09E24278",
         "655360": "8693BBE280ACE638",
-        "latest": 655360
+        "720896": "909BA2E7199EE483",
+        "latest": 720896
     },
     "01005010150CA000": {
         "0": "2FABEB78E7A892CC",
@@ -22497,6 +22509,11 @@
         "65536": "17B260BD5C1E614A",
         "latest": 65536,
         "title": "This is the Zodiac Speaking"
+    },
+    "010052D01922A000": {
+        "0": "08CAC589C05853D8",
+        "latest": 0,
+        "title": "ALUMNI - Escape Room Adventure"
     },
     "010052E011A62000": {
         "0": "EFCA22EFE0F0B141",
@@ -23758,6 +23775,7 @@
         "title": "Halloween Forever"
     },
     "010057E00AC56000": {
+        "0": "9837ECE39544EE37",
         "65536": "2D5B93C856CDF009",
         "latest": 65536
     },
@@ -24293,7 +24311,8 @@
         "262144": "5670181241F138F7",
         "327680": "DB534C3E2D028311",
         "393216": "F18A91337B2236BF",
-        "latest": 393216,
+        "458752": "76AE68C31BAF3CEE",
+        "latest": 458752,
         "title": "Windstorm: Start of a Great Friendship"
     },
     "01005A100D16E000": {
@@ -26044,8 +26063,9 @@
     "0100602014212000": {
         "0": "394CA9EB5C07974E",
         "131072": "F87227CB4FAAB71E",
+        "196608": "9F447C8EB6BCE4A3",
         "65536": "2DDD93E6E67492C1",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Critadel"
     },
     "010060300A67C000": {
@@ -26885,7 +26905,8 @@
     },
     "010062C018644000": {
         "0": "0EDB5CFAA1E6C51B",
-        "latest": 0
+        "latest": 0,
+        "title": "Arcade Archives GUN & FRONTIER"
     },
     "010062D013C16000": {
         "131072": "2CE1BC3C44E77846",
@@ -32749,6 +32770,11 @@
         "0": "E4465748990DC74C",
         "latest": 0
     },
+    "0100777018812000": {
+        "0": "470020F9248C6527",
+        "latest": 0,
+        "title": "Marmoset"
+    },
     "01007780117CC000": {
         "65536": "6FC3C18EEE7AB28A",
         "latest": 65536
@@ -34972,7 +34998,8 @@
     },
     "010080A012804000": {
         "0": "C828200ACDB86360",
-        "latest": 0
+        "latest": 0,
+        "title": "Break thru the wall"
     },
     "010080B00AD66000": {
         "0": "4FCC0B0A5B4C63F5",
@@ -39174,8 +39201,9 @@
     "010090100E334000": {
         "0": "4D0E7A46016CAF6F",
         "131072": "C9B980F785F0501D",
+        "196608": "F71EE0DCAFACD5E9",
         "65536": "83CCDCC860D1EB06",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Don't Starve Together"
     },
     "010090100EA18000": {
@@ -40977,6 +41005,7 @@
         "title": "DISTRAINT Collection"
     },
     "010096800D6BA000": {
+        "0": "3032566793120A4A",
         "65536": "6BB2862DA76F7C49",
         "latest": 65536
     },
@@ -43725,7 +43754,8 @@
         "589824": "DCD0980720263B4D",
         "65536": "20DC722CC503F946",
         "655360": "45A6F5FC8BBC954F",
-        "latest": 655360,
+        "720896": "45A6F5FC8BBC954F",
+        "latest": 720896,
         "title": "Fell Seal: Arbiter's Mark"
     },
     "0100A0C00D847000": {
@@ -49773,7 +49803,8 @@
     },
     "0100B78017CFC000": {
         "0": "245F36267ACC1252",
-        "latest": 0,
+        "65536": "FA78C764B5827599",
+        "latest": 65536,
         "title": "Jigsaw Fun 3-in-1 Collection"
     },
     "0100B7900B024000": {
@@ -51426,6 +51457,11 @@
         "65536": "2C40395599032EF9",
         "latest": 196608,
         "title": "Composer"
+    },
+    "0100BDA019166000": {
+        "0": "56B334E37B1B7586",
+        "latest": 0,
+        "title": "Hero Wheels"
     },
     "0100BDB0113B0000": {
         "0": "32F3995AD0962F4E",
@@ -61978,7 +62014,8 @@
         "131072": "921EAB4E3B3AF92F",
         "196608": "99B8CE4467FB667A",
         "262144": "99B8CE4467FB667A",
-        "latest": 262144,
+        "327680": "3C22CA9B5A8E85F3",
+        "latest": 327680,
         "title": "Moorhuhn Jump and Run 'Traps and Treasures'"
     },
     "0100E3F0106D6000": {
