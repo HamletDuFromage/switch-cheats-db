@@ -59,8 +59,9 @@
         "131072": "6F3E4B7E5B202824",
         "196608": "191F9D6CBB88ACBF",
         "262144": "E57F2B7915C52CF8",
+        "327680": "628BA82AEF82CBAD",
         "65536": "BBAC791149F805FE",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Dragon Caffi"
     },
     "010000300B4EE000": {
@@ -6431,8 +6432,9 @@
     },
     "010019401051C000": {
         "0": "DFBC95E3F21EE632",
+        "131072": "B5C0614D93E34A61",
         "65536": "3FC4CFE8CE9E67EE",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Mario Strikers\u2122: Battle League"
     },
     "010019500B69A000": {
@@ -14101,7 +14103,8 @@
     },
     "010034701860A000": {
         "0": "7BD16BF55504AF50",
-        "latest": 0
+        "65536": "159E7B6DD5735AC0",
+        "latest": 65536
     },
     "0100348001DE6000": {
         "0": "8B3FE605F3F820AB",
@@ -19681,7 +19684,8 @@
         "720896": "805CE9CAA4F725DD",
         "786432": "B411971FC2235DA4",
         "851968": "0D28AB01CCECA7C4",
-        "latest": 851968
+        "917504": "F39EF3528823C4DD",
+        "latest": 917504
     },
     "0100484014C12000": {
         "0": "B033D3788812B89F",
@@ -33720,6 +33724,11 @@
         "latest": 0,
         "title": "Halloween Snowball Bubble"
     },
+    "01007B6018E02000": {
+        "0": "93598C3E1FA8EAB1",
+        "latest": 0,
+        "title": "Puppy Balloon Ride"
+    },
     "01007B701315E000": {
         "0": "845B67A5B7DD2FCE",
         "65536": "8CE670FB4D0063D3",
@@ -40705,6 +40714,11 @@
         "latest": 0,
         "title": "Let it Roll 2 Slide Puzzles"
     },
+    "010095901933C000": {
+        "0": "C44089B2FDF92D23",
+        "latest": 0,
+        "title": "Webgeon Speedrun Edition"
+    },
     "010095A004040000": {
         "0": "B49498727C28649B",
         "131072": "FE4275A340B03960",
@@ -43127,6 +43141,11 @@
         "0": "7BB496830FBAEFB5",
         "latest": 0,
         "title": "Arcade Archives DOUBLE DRAGON II The Revenge"
+    },
+    "01009E3018DC4000": {
+        "0": "EC715C86F11EBB72",
+        "latest": 0,
+        "title": "PunchMan Online"
     },
     "01009E4006CC8000": {
         "0": "1A36C22B7EB3B74C",
@@ -45650,6 +45669,11 @@
         "latest": 131072,
         "title": "PigShip and the Giant Wolf"
     },
+    "0100A7B018668000": {
+        "65536": "6EAADAE704332945",
+        "latest": 65536,
+        "title": "Chameneon"
+    },
     "0100A7D008392000": {
         "0": "CF427FD6EB8C5148",
         "131072": "9664F7281E563948",
@@ -46960,7 +46984,8 @@
         "720896": "50ED6CFB855BEB40",
         "786432": "948808204F5A864E",
         "851968": "4D80FC96D3673947",
-        "latest": 851968
+        "917504": "17C45AB482E34A47",
+        "latest": 917504
     },
     "0100ACF00CD2E000": {
         "0": "190B903B15FC5D4D",
@@ -50610,8 +50635,9 @@
         "196608": "C36C3E44D37AD646",
         "262144": "F029BB8044A3A149",
         "393216": "48FEAF16AFB29340",
+        "458752": "58027B9209AA584B",
         "65536": "1C871FE572E9F146",
-        "latest": 393216,
+        "latest": 458752,
         "title": "Neon Abyss"
     },
     "0100BAB01113B000": {
@@ -68764,6 +68790,7 @@
         "latest": 0
     },
     "0100FBB0180FE000": {
+        "0": "09CDDE0C4F884143",
         "65536": "D4A88C43051B6978",
         "latest": 65536,
         "title": "Blossom Tales II: The Minotaur Prince"
