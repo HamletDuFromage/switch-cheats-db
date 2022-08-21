@@ -11292,7 +11292,8 @@
     },
     "01002AB017786000": {
         "0": "EB0019A05E18403D",
-        "latest": 0,
+        "65536": "31FA4209CA151838",
+        "latest": 65536,
         "title": "Moorhuhn Jump and Run 'Traps and Treasures 2'"
     },
     "01002AC0113DE000": {
@@ -13848,6 +13849,11 @@
         "latest": 0,
         "title": "Family Mysteries 2: Echoes of Tomorrow"
     },
+    "0100335019124000": {
+        "0": "CC88D04E3D0175C7",
+        "latest": 0,
+        "title": "Spin Path"
+    },
     "010033600A008000": {
         "0": "EDBFD62AA633C445",
         "131072": "88709C86D9D25243",
@@ -14746,6 +14752,10 @@
     },
     "010036E00FB21000": {
         "latest": 65536
+    },
+    "010036E015C1E000": {
+        "0": "E3C5598A71A7331F",
+        "latest": 0
     },
     "010036F013A40000": {
         "0": "D9089B2F8343B3B9",
@@ -24665,6 +24675,11 @@
         "latest": 65536,
         "title": "dweeMIXED: Thwee Pack"
     },
+    "01005AD017E80000": {
+        "0": "D84CC0907DBB2DBB",
+        "latest": 0,
+        "title": "Strike Buster Prototype"
+    },
     "01005AE00A528000": {
         "0": "6CE7842CEFCCB94F",
         "latest": 0,
@@ -29045,6 +29060,11 @@
         "latest": 0,
         "title": "HellGunner"
     },
+    "01006A70186D2000": {
+        "65536": "A03DCE6ED1CDD940",
+        "latest": 65536,
+        "title": "Narona Sports"
+    },
     "01006A800016E000": {
         "0": "FD471EB458C915E7",
         "1048576": "D45361E905C9E3C1",
@@ -31697,7 +31717,8 @@
     },
     "0100738018D8E000": {
         "0": "011554EEFC360849",
-        "latest": 0,
+        "65536": "7AED5C100BBC7231",
+        "latest": 65536,
         "title": "Light Fairytale Episode 2"
     },
     "010073900A7A0000": {
@@ -42740,6 +42761,11 @@
         "latest": 0,
         "title": "Solitaire Collection"
     },
+    "01009C4018F6A000": {
+        "0": "F332A9D68F2E3C49",
+        "latest": 0,
+        "title": "Arenas Of Tanks"
+    },
     "01009C5011274000": {
         "0": "883F3728EC53224A",
         "latest": 0
@@ -47878,8 +47904,9 @@
     },
     "0100AFA01750C000": {
         "0": "843FA5709311E8F8",
+        "131072": "ACEB26EAF5C8D540",
         "65536": "ACEB26EAF5C8D540",
-        "latest": 65536
+        "latest": 131072
     },
     "0100AFB00DAC0000": {
         "0": "25143E4724F4F340",
@@ -48290,7 +48317,8 @@
     },
     "0100B1201814C000": {
         "0": "54D8052277B779C3",
-        "latest": 0,
+        "65536": "CC6E764EF4078532",
+        "latest": 65536,
         "title": "Gigapocalypse"
     },
     "0100B1300783E000": {
@@ -54620,8 +54648,9 @@
         "196608": "D2DCAA70625C4D5D",
         "327680": "3C0BB76F40A142B1",
         "393216": "D8783893BD222153",
+        "458752": "8305CB29502E19A8",
         "65536": "1A9F7090D7FFFABC",
-        "latest": 393216,
+        "latest": 458752,
         "title": "Fight'N Rage"
     },
     "0100C7D012FB8000": {
