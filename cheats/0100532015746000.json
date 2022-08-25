@@ -1,0 +1,60 @@
+{
+    "887EC8C9A74C314F": [
+        {
+            "content": "{Koumajou Remilia Scarlet Symphony}\n040C0000 01394184 1E202900\n040C0000 01397B90 BD400121\n040C0000 01396944 BD400100\n040C0000 013969C4 BD400100\n040C0000 013970B0 39414268\n040C0000 014227E4 4B150108\n040C0000 01397D38 B9404E68\n040C0000 01395440 4B150380\n040C0000 01398CC0 B940CD09\n040C0000 0139825C B940CD09\n040C0000 01393600 1E293940\n040C0000 0135A724 B9407E68\n040C0000 014228E4 0B080128\n040C0000 014228DC B9409408\n080C0000 01D038B0 72993FE8 52A77348\n040C0000 01D038B8 17DC7C0A\n\n",
+            "title": "{Koumajou Remilia Scarlet Symphony}"
+        },
+        {
+            "content": "[(ZL+B) Moonjump]\n80000102\n040C0000 01394184 1E221000\n20000000\n\n",
+            "title": "[(ZL+B) Moonjump]"
+        },
+        {
+            "content": "[(ZL) Speed Up]\n80000100\n040C0000 01397B90 1E23D001\n040C0000 01396944 1E23D000\n040C0000 013969C4 1E23D000\n20000000\n\n",
+            "title": "[(ZL) Speed Up]"
+        },
+        {
+            "content": "[Inf. Fly]\n040C0000 013970B0 52800028\n\n",
+            "title": "[Inf. Fly]"
+        },
+        {
+            "content": "[Insta-Kill]\n040C0000 014227E4 2A1F03E8\n\n",
+            "title": "[Insta-Kill]"
+        },
+        {
+            "content": "[Invincible]\n040C0000 01397D38 52800148\n\n",
+            "title": "[Invincible]"
+        },
+        {
+            "content": "[Inf. Health]\n040C0000 01395440 4B1F0380\n\n",
+            "title": "[Inf. Health]"
+        },
+        {
+            "content": "[Inf. Souls]\n040C0000 01398CC0 52807D09\n040C0000 0139825C 52807D09\n\n",
+            "title": "[Inf. Souls]"
+        },
+        {
+            "content": "[No Cooldown]\n040C0000 01393600 1E2703E0\n\n",
+            "title": "[No Cooldown]"
+        },
+        {
+            "content": "[Inf. Lives]\n040C0000 0135A724 52800C88\n\n",
+            "title": "[Inf. Lives]"
+        },
+        {
+            "content": "[Points x2]\n040C0000 014228E4 0B080528\n",
+            "title": "[Points x2]"
+        },
+        {
+            "content": "[Points x4]\n040C0000 014228E4 0B080928\n\n",
+            "title": "[Points x4]"
+        },
+        {
+            "content": "[Max Score]\n040C0000 014228DC 142383F5\n\n",
+            "title": "[Max Score]"
+        },
+        {
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p]"
+        }
+    ]
+}

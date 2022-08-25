@@ -1,4 +1,42 @@
 {
+    "03FE981064A8E44F": [
+        {
+            "content": "{- Cuphead -}\n04000000 01518A48 BD404268\n04000000 0151A954 BD4012A0\n04000000 0114E5C4 BD40A268\n04000000 0116E16C 51000508\n04000000 0116B17C BD409A60\n04000000 0116AFF0 BD409800\n04000000 011532E0 B9401275\n04000000 01153274 B9401275\n08000000 022EF150 72900004 52A89764\n08000000 022EF158 17C8ADFF 1E270080\n\n",
+            "title": "{- Cuphead -}"
+        },
+        {
+            "content": "[Moonjump]\n80000002\n04000000 01518A48 1E3C1008\n20000000\n\n",
+            "title": "[Moonjump]"
+        },
+        {
+            "content": "[(ZL) Speed Up]\n80000100\n04000000 0151A954 143751FF\n20000000\n\n",
+            "title": "[(ZL) Speed Up]"
+        },
+        {
+            "content": "[Invincible after Hit]\n04000000 0114E5C4 1E2E1008\n\n",
+            "title": "[Invincible after Hit]"
+        },
+        {
+            "content": "[Inf. Health]\n04000000 0116E16C 4B1F0108\n\n",
+            "title": "[Inf. Health]"
+        },
+        {
+            "content": "[Inf. EX]\n04000000 0116B17C 1E27D000\n\n",
+            "title": "[Inf. EX]"
+        },
+        {
+            "content": "[Inf. Special]\n04000000 0116AFF0 BD409400\n\n",
+            "title": "[Inf. Special]"
+        },
+        {
+            "content": "[Inf. Coins]\n04000000 011532E0 52800795\n04000000 01153274 52800795\n\n",
+            "title": "[Inf. Coins]"
+        },
+        {
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p]"
+        }
+    ],
     "80537FB47433794B": [
         {
             "content": "[P1 Infinite HP]\n580f0000 0338f848\n580f1000 00000010\n580f1000 00000030\n580f1000 00000028\n580f1000 00000020\n580f1000 00000060\n780f0000 00000068\n610f0000 00000000 00000003\n780f0000 00000004\n610f0000 00000000 00000003\n\n",

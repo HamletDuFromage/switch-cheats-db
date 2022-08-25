@@ -1,0 +1,64 @@
+{
+    "CBB1A5CCEB75C544": [
+        {
+            "content": "[HP Inf]\n04000000 02957F00 34000085\n04000000 02957F04 71001CBF\n04000000 02957F08 54000040\n04000000 02957F0C 4B140000\n04000000 02957F10 D65F03C0\n04000000 0196D5B0 943FAA54\n\n",
+            "title": "[HP Inf]"
+        },
+        {
+            "content": "[HP Inf Off]\n04000000 0196D5B0 4B140000\n\n",
+            "title": "[HP Inf Off]"
+        },
+        {
+            "content": "[Focus]\n04000000 0196F2D4 2A0203E0\n\n",
+            "title": "[Focus]"
+        },
+        {
+            "content": "[Focus Off]\n04000000 0196F2D4 0B140000\n\n",
+            "title": "[Focus Off]"
+        },
+        {
+            "content": "[Coins x4 and No Decrease]\n04000000 0293B188 0B130901\n04000000 01C1E2FC 0B130901 \n04000000 01C1ED20 0B000901\n04000000 02957F20 B9409A60\n04000000 02957F24 6B00029F\n04000000 02957F28 5400004D\n04000000 02957F2C B9009A74\n04000000 02957F30 D65F03C0\n04000000 01C16674 9435062B\n\n",
+            "title": "[Coins x4 and No Decrease]"
+        },
+        {
+            "content": "[Coins x4 and No Decrease Off]\n04000000 0293B188 0B130101\n04000000 01C1E2FC 0B080261\n04000000 01C1ED20 0B000101\n04000000 01C16674 B9009A74\n\n",
+            "title": "[Coins x4 and No Decrease Off]"
+        },
+        {
+            "content": "[Experience x4]\n04000000 0293BE2C 0B140929\n\n",
+            "title": "[Experience x4]"
+        },
+        {
+            "content": "[Experience x4 Off]\n04000000 0293BE2C 0B140129\n\n",
+            "title": "[Experience x4 Off]"
+        },
+        {
+            "content": "[Stat Points]\n04000000 01C2065C B9408C13\n\n",
+            "title": "[Stat Points]"
+        },
+        {
+            "content": "[Stat Points Off]\n04000000 01C2065C 2A0203F3\n\n",
+            "title": "[Stat Points Off]"
+        },
+        {
+            "content": "[Reputation x4 and No Decrease]\n04000000 02957F40 7100029F\n04000000 02957F44 54000044\n04000000 02957F48 0B140929\n04000000 02957F4C D65F03C0\n04000000 0293B27C 94007331\n\n",
+            "title": "[Reputation x4 and No Decrease]"
+        },
+        {
+            "content": "[Reputation x4 and No Decrease Off]\n04000000 0293B27C 0B140129\n\n",
+            "title": "[Reputation x4 and No Decrease Off]"
+        },
+        {
+            "content": "[Tactics Gauge]\n04000000 0199583C 52800C81\n\n",
+            "title": "[Tactics Gauge]"
+        },
+        {
+            "content": "[Tactics Gauge Off]\n04000000 0199583C 0B130101\n\n",
+            "title": "[Tactics Gauge Off]"
+        },
+        {
+            "content": "[Made by: jhmiller]\n00000000 00000000 00000000\n",
+            "title": "[Made by: jhmiller]"
+        }
+    ]
+}
