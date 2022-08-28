@@ -42588,6 +42588,11 @@
         "latest": 0,
         "title": "Airport Simulator: Day & Night"
     },
+    "01009AE019202000": {
+        "0": "090BE26CA1785694",
+        "latest": 0,
+        "title": "Viki Spotter: Undersea"
+    },
     "01009AF00E0BE000": {
         "0": "2685009F0801E348",
         "latest": 0
@@ -64899,7 +64904,8 @@
     },
     "0100EB301601A000": {
         "65536": "BB2B476F99AAA39B",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Overdriven Evolution"
     },
     "0100EB40103EA000": {
         "0": "5CDBBC1C481F364D",
