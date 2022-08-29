@@ -19878,7 +19878,8 @@
         "786432": "B411971FC2235DA4",
         "851968": "0D28AB01CCECA7C4",
         "917504": "F39EF3528823C4DD",
-        "latest": 917504
+        "983040": "ED06C1095BEC54AA",
+        "latest": 983040
     },
     "0100484014C12000": {
         "0": "B033D3788812B89F",
@@ -22971,6 +22972,10 @@
     "010053A00932E000": {
         "0": "320CCBB4EBDB4916",
         "65536": "568C90D43E7F1FA2",
+        "latest": 65536
+    },
+    "010053A0117F2000": {
+        "65536": "AA0F5ABFCAE1045A",
         "latest": 65536
     },
     "010053B00D26E000": {
@@ -33833,6 +33838,11 @@
         "65536": "AC7114153A1DA944",
         "latest": 589824,
         "title": "The Long Dark"
+    },
+    "01007A701924C000": {
+        "0": "F8E910CFF17A463A",
+        "latest": 0,
+        "title": "Krispain Hero:Roguelite Dungeon Shooter Fire Simulator Counter FPS World"
     },
     "01007A800D520000": {
         "0": "33DE4C850E58445C",
