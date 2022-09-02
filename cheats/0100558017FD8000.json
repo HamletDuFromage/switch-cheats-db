@@ -1,0 +1,40 @@
+{
+    "FBD60E9240C3F26D": [
+        {
+            "content": "[HP Inf]\n04000000 01528E5C 1A8AC14A\n\n",
+            "title": "[HP Inf]"
+        },
+        {
+            "content": "[HP Inf Off]\n04000000 01528E5C 1A89C14A\n\n",
+            "title": "[HP Inf Off]"
+        },
+        {
+            "content": "[MP Inf]\n04000000 0152B66C 51000108\n04000000 01525250 71000109\n04000000 0152B688 51000108\n\n",
+            "title": "[MP Inf]"
+        },
+        {
+            "content": "[MP Inf Off]\n04000000 0152B66C 4B090108\n04000000 01525250 6B090109\n04000000 0152B688 4B090108\n\n",
+            "title": "[MP Inf Off]"
+        },
+        {
+            "content": "[Coins x4]\n04000000 0140988C 0B090908\n\n",
+            "title": "[Coins x4]"
+        },
+        {
+            "content": "[Coins x4 Off]\n04000000 0140988C 0B080128\n\n",
+            "title": "[Coins x4 Off]"
+        },
+        {
+            "content": "[Coins No Decrease]\n04000000 01409B10 51000109\n\n",
+            "title": "[Coins No Decrease]"
+        },
+        {
+            "content": "[Coins No Decrease Off]\n04000000 01409B10 4B010109\n\n",
+            "title": "[Coins No Decrease Off]"
+        },
+        {
+            "content": "[Made by jhmiller]\n00000000 00000000 00000000",
+            "title": "[Made by jhmiller]"
+        }
+    ]
+}

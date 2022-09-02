@@ -87,6 +87,56 @@
             "title": "[normal mode+speed]"
         }
     ],
+    "D02CD50295124A48": [
+        {
+            "content": "{- Cuphead -}\n04000000 0094A798 BD404268\n04000000 0094C6A4 BD4012A0\n08000000 022EFBD0 72900004 52A89764\n08000000 022EFBD8 179972B3 1E270080\n04000000 0075C970 F81E0FF3\n04000000 0138AF60 F81E0FF3\n04000000 00759710 BD40C400\n04000000 007501E0 F81E0FF3\n04000000 0074B090 F81E0FF3\n04000000 0074D9D0 F81E0FF3\n04000000 00751670 F81E0FF3\n04000000 0138D920 F81E0FF3\n04000000 0138B790 F81E0FF3\n04000000 0094BC18 52800028\n04000000 0094B2F0 B9401288\n04000000 00414E80 A9BD57F6\n04000000 00434DDC 51000508\n04000000 00431DEC BD409A60\n04000000 00431C60 BD409800\n04000000 00419974 B9401275\n04000000 00419C94 B9401275\n04000000 00419D00 B9401275\n\n",
+            "title": "{- Cuphead -}"
+        },
+        {
+            "content": "[Moonjump]\n80000002\n04000000 0094A798 1E3C1008\n20000000\n\n",
+            "title": "[Moonjump]"
+        },
+        {
+            "content": "[(ZL) Speed Up]\n80000100\n04000000 0094C6A4 14668D4B\n20000000\n\n",
+            "title": "[(ZL) Speed Up]"
+        },
+        {
+            "content": "[Rapid Fire]\n04000000 0075C970 D65F03C0\n04000000 0138AF60 D65F03C0\n04000000 00759710 D65F03C0\n04000000 007501E0 D65F03C0\n04000000 0074B090 D65F03C0\n04000000 0074D9D0 D65F03C0\n04000000 00751670 D65F03C0\n04000000 0138D920 D65F03C0\n04000000 0138B790 D65F03C0\n\n",
+            "title": "[Rapid Fire]"
+        },
+        {
+            "content": "[Inf. Parry]\n04000000 0094BC18 2A1F03E8\n\n",
+            "title": "[Inf. Parry]"
+        },
+        {
+            "content": "[Inf. Dash]\n04000000 0094B2F0 2A1F03E8\n\n",
+            "title": "[Inf. Dash]"
+        },
+        {
+            "content": "[Invincible]\n04000000 00414E80 D65F03C0\n\n",
+            "title": "[Invincible]"
+        },
+        {
+            "content": "[Inf. Health]\n04000000 00434DDC 4B1F0108\n\n",
+            "title": "[Inf. Health]"
+        },
+        {
+            "content": "[Inf. EX]\n04000000 00431DEC 1E27D000\n\n",
+            "title": "[Inf. EX]"
+        },
+        {
+            "content": "[Inf. Special]\n04000000 00431C60 BD409400\n\n",
+            "title": "[Inf. Special]"
+        },
+        {
+            "content": "[Inf. Coins]\n04000000 00419974 52800795\n04000000 00419C94 52800795\n04000000 00419D00 52800795\n\n",
+            "title": "[Inf. Coins]"
+        },
+        {
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p]"
+        }
+    ],
     "E5F6265D8D486648": [
         {
             "content": "[No Damage On]\n04000000 004AD780 D65F03C0\n\n",

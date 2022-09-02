@@ -1,24 +1,28 @@
 {
     "44F1B4597BF9050E": [
         {
-            "content": "[Infinite Life]\n021F0000 019C6093 00009999\n\n",
-            "title": "[Infinite Life]"
+            "content": "[Breeze beta44 Arcade Archives Solomon's Key 1.0.0 TID: 01008C900982E000 BID: 44F1B4597BF9050E]\n\n",
+            "title": "[Breeze beta44 Arcade Archives Solomon's Key 1.0.0 TID: 01008C900982E000 BID: 44F1B4597BF9050E]"
         },
         {
-            "content": "[Infinite Lives]\n011F0000 019C6237 00000063\n\n",
-            "title": "[Infinite Lives]"
+            "content": "[Inf.Time]\n01100000 019C6094 00000099\n\n",
+            "title": "[Inf.Time]"
         },
         {
-            "content": "[Infinite Fairy]\n011F0000 019C6238 00000009\n\n",
-            "title": "[Infinite Fairy]"
+            "content": "[Inf.Lives]\n01100000 019C6237 00000063\n\n",
+            "title": "[Inf.Lives]"
         },
         {
-            "content": "[Infinite Magic]\n021F0000 019C625C 0000AAAA\n011F0000 019C6259 00000008\n\n",
-            "title": "[Infinite Magic]"
+            "content": "[Inf.Fireballs]\n01100000 019C625D 00000054\n\n",
+            "title": "[Inf.Fireballs]"
         },
         {
-            "content": "[Moon Jump (Hold X)]\n80000004\n021F0000 019C683A 00005801\n20000000",
-            "title": "[Moon Jump (Hold X)]"
+            "content": "[One Fairy for extra life]\n01100000 019C6238 00000009\n\n",
+            "title": "[One Fairy for extra life]"
+        },
+        {
+            "content": "[Finish Stage Now]\n01100000 019C64EC 00000001\n01100000 019C61B8 00000000\n01100000 019C603C 0000001C",
+            "title": "[Finish Stage Now]"
         }
     ]
 }

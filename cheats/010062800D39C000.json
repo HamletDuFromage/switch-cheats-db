@@ -20,5 +20,35 @@
             "content": "[05# Inf Jump]\n580F0000 05F4C930\n580F1000 00000000\n580F1000 00000020\n780F0000 00000368\n640F0000 00000000 00000000",
             "title": "[05# Inf Jump]"
         }
+    ],
+    "28240EE1884416AE": [
+        {
+            "content": "{- SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated -}\n040C0000 005601EC B9436A68\n040C0000 0055B0D4 B947AA60\n040C0000 0055B0DC B947AE60\n040C0000 0055B0CC B947B260\n040C0000 0055B0C4 B947A260\n\n",
+            "title": "{- SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated -}"
+        },
+        {
+            "content": "[Inf. Jumps]\n040C0000 005601EC 2A1F03E8\n\n",
+            "title": "[Inf. Jumps]"
+        },
+        {
+            "content": "[Inf. Shiny Objects (SeaPoints)]\n040C0000 0055B0D4 5284E1E0\n\n",
+            "title": "[Inf. Shiny Objects (SeaPoints)]"
+        },
+        {
+            "content": "[Inf. Socks]\n040C0000 0055B0DC 5284E1E0\n\n",
+            "title": "[Inf. Socks]"
+        },
+        {
+            "content": "[Inf. Golden Spatulas]\n040C0000 0055B0CC 5284E1E0\n\n",
+            "title": "[Inf. Golden Spatulas]"
+        },
+        {
+            "content": "[Inf. Lives]\n040C0000 0055B0C4 B947A660\n\n",
+            "title": "[Inf. Lives]"
+        },
+        {
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p]"
+        }
     ]
 }
