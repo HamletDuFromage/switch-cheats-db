@@ -1121,6 +1121,11 @@
         "65536": "67DD519F94A3CA40",
         "latest": 65536
     },
+    "0100040016EE2000": {
+        "65536": "331E3DFBDF650226",
+        "latest": 65536,
+        "title": "BPM: Bullets Per Minute"
+    },
     "0100040017C72000": {
         "0": "F99FA36A4761C792",
         "65536": "74DE3579ABA3B78F",
@@ -5376,9 +5381,13 @@
     },
     "0100152012BB0000": {
         "0": "AE1DFFBD382A8790",
+        "196608": "5F601DFE02960E00",
         "65536": "CB5CE97648030780",
-        "latest": 65536,
+        "latest": 196608,
         "title": "Kill It With Fire"
+    },
+    "0100152012BB1000": {
+        "latest": 65536
     },
     "010015201868C000": {
         "0": "7AA8E69426FF336F",
@@ -8113,6 +8122,11 @@
         "latest": 0,
         "title": "Tic-Tac-Letters by POWGI"
     },
+    "01001ED012E84000": {
+        "0": "2BC257886EEB2D51",
+        "latest": 0,
+        "title": "Onsen Master"
+    },
     "01001EE00A6B0000": {
         "0": "4B8EB170B6ADD1E9",
         "65536": "099EC546108AC73B",
@@ -9678,6 +9692,11 @@
         "latest": 0,
         "title": "Mimic Hunter"
     },
+    "010024A0192C6000": {
+        "0": "2E47FA13470BCA26",
+        "latest": 0,
+        "title": "Sokoban Block Puzzle"
+    },
     "010024B00E1D6000": {
         "0": "442438A090468844",
         "131072": "D83EF8761ED1964C",
@@ -10533,6 +10552,12 @@
         "0": "A4FDDC7FD35B30CB",
         "latest": 0,
         "title": "OKAMI HD"
+    },
+    "0100276018002000": {
+        "0": "E1B46B8E531A314F",
+        "65536": "314761C8FD30894F",
+        "latest": 65536,
+        "title": "Chenso Club"
     },
     "010027700FD2E000": {
         "0": "EC326B9D377D3C4C",
@@ -11953,6 +11978,11 @@
         "65536": "833B93270803234E",
         "latest": 327680,
         "title": "Mayhem Brawler"
+    },
+    "01002C7018174000": {
+        "0": "17FA83DCF7B3C5A3",
+        "latest": 0,
+        "title": "Mini Kart Racing"
     },
     "01002C80086E6000": {
         "0": "F8FA65DA5444C94F",
@@ -13599,8 +13629,9 @@
     },
     "010032600F064000": {
         "0": "291893FE1CE1C24A",
+        "131072": "3763CAF71CFADE04",
         "65536": "107167AC964706AA",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Lord Winklebottom Investigates"
     },
     "0100326010B98000": {
@@ -15601,8 +15632,9 @@
     },
     "0100396012844000": {
         "0": "B00648986617757A",
+        "131072": "0653A2A3FC140936",
         "65536": "962E9AB99F2A3F1C",
-        "latest": 65536,
+        "latest": 131072,
         "title": "RESEARCH and DESTROY"
     },
     "0100396012845000": {
@@ -15937,6 +15969,11 @@
     "01003A701703C000": {
         "65536": "1D2D175864AA4120",
         "latest": 65536
+    },
+    "01003A7018150000": {
+        "0": "DE5E4C8A1ED7DB43",
+        "latest": 0,
+        "title": "Chess Brain: Dark Troops"
     },
     "01003A800B102000": {
         "0": "FE3A276CB0C33C4B",
@@ -19579,8 +19616,9 @@
     },
     "0100470016C10000": {
         "0": "F370608945394A0A",
+        "131072": "D3527B367E13CF0C",
         "65536": "F112E11D09345E3D",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Pixel Game Maker Series Arcanion: Tale of Magi"
     },
     "010047100F978000": {
@@ -22845,8 +22883,9 @@
         "262144": "4998BA3F97016C42",
         "327680": "4E68387DE08E864E",
         "524288": "A09C39161C53CA4A",
+        "589824": "935B1CFCB92EEC4D",
         "65536": "C579E3E758338E47",
-        "latest": 524288,
+        "latest": 589824,
         "title": "Castle Morihisa"
     },
     "01005300169D3000": {
@@ -23436,6 +23475,7 @@
         "latest": 0
     },
     "010055601684A000": {
+        "0": "29BF4DADB965FFF3",
         "65536": "512D264976946C33",
         "latest": 65536,
         "title": "Restless Soul"
@@ -23974,6 +24014,11 @@
         "65536": "CF9E723EF27121E7",
         "latest": 65536,
         "title": "Bullet Trail"
+    },
+    "010057B01905C000": {
+        "0": "E539BF419DB67437",
+        "latest": 0,
+        "title": "Battleship War: Time to Sink the Fleet"
     },
     "010057C00D374000": {
         "0": "36B178A23CF1F0B1",
@@ -27931,6 +27976,10 @@
         "0": "CA2380082C1A7D23",
         "latest": 0
     },
+    "010065301834C000": {
+        "0": "DDEABEE1DDEF49BC",
+        "latest": 0
+    },
     "010065500B218000": {
         "0": "5D389698D1FAD122",
         "196608": "1106C625DB901600",
@@ -29039,6 +29088,11 @@
         "0": "E6210AE42CC34ADA",
         "latest": 0,
         "title": "Happy Birthdays Demo"
+    },
+    "0100697018D44000": {
+        "0": "D7F2A1EFF92A11C8",
+        "latest": 0,
+        "title": "Pixel Game Maker Series Ninja Sneaking R"
     },
     "0100698009C6E000": {
         "0": "70C806F458D36843",
@@ -35645,7 +35699,8 @@
     },
     "0100814017CB6000": {
         "0": "A7CED1B403DBB564",
-        "latest": 0,
+        "65536": "3E81271EF6476011",
+        "latest": 65536,
         "title": "The Jackbox Party Starter"
     },
     "0100815009DD4000": {
@@ -38961,7 +39016,8 @@
     },
     "01008D8018646000": {
         "0": "F015546348D5861F",
-        "latest": 0
+        "latest": 0,
+        "title": "Arcade Archives PAC & PAL"
     },
     "01008D900B984000": {
         "0": "D9DDFD1F44DEDB45",
@@ -39209,6 +39265,11 @@
         "0": "C9F1FCD67805E241",
         "latest": 0,
         "title": "Wayout"
+    },
+    "01008E301955E000": {
+        "0": "820F971894368D03",
+        "latest": 0,
+        "title": "Supaplex WOW!"
     },
     "01008E400D1A6000": {
         "65536": "BF79490C39574640",
@@ -40375,6 +40436,11 @@
         "0": "E278C95419254A8D",
         "latest": 0
     },
+    "0100925018DD8000": {
+        "0": "09A46CF2A8D4E2B8",
+        "latest": 0,
+        "title": "2weistein \u2013 The Curse of the Red Dragon 3 - Ronger Pirates"
+    },
     "010092600E9A2000": {
         "0": "D60A86235290AA43",
         "latest": 0,
@@ -40718,6 +40784,11 @@
         "65536": "711E37E5E71AA635",
         "latest": 65536,
         "title": "Arcade Archives Gemini Wing"
+    },
+    "0100938017E5C000": {
+        "65536": "FA41EB48D977EDC4",
+        "latest": 65536,
+        "title": "Hell Pie"
     },
     "0100939011ED4000": {
         "0": "DFA52D86BC18724A",
@@ -42118,6 +42189,11 @@
         "latest": 65536,
         "title": "Empire Invasion"
     },
+    "01009860182B4000": {
+        "0": "E8CFA966ACD9CF2F",
+        "latest": 0,
+        "title": "Zombies in City: Apocalypse Survival"
+    },
     "010098800A1E4000": {
         "0": "52CC5AC581149547",
         "131072": "5776AE694E1FA945",
@@ -42342,6 +42418,11 @@
     },
     "0100997012423000": {
         "latest": 0
+    },
+    "0100997014004000": {
+        "0": "29E56E9EDF9EE20C",
+        "latest": 0,
+        "title": "Golazo! 2"
     },
     "0100998011330000": {
         "0": "DA404117DA4A7D6C",
@@ -45538,6 +45619,11 @@
         "0": "EFBFC1D9FC72A94E",
         "latest": 0,
         "title": "InfiniteCorp: Cyberpunk Card Game"
+    },
+    "0100A4F0192C2000": {
+        "0": "ECF90E0BA973979C",
+        "latest": 0,
+        "title": "Mahjong Connect Onet Puzzle"
     },
     "0100A5000D590000": {
         "0": "A1A785BB294FC046",
@@ -51180,6 +51266,7 @@
         "title": "Crypt of the Serpent King"
     },
     "0100BA101712A000": {
+        "0": "C835CFB5881778D1",
         "131072": "FE73B368D80E741B",
         "65536": "C835CFB5881778D1",
         "latest": 131072,
@@ -53094,8 +53181,9 @@
         "327680": "BE002E7E38A7AEFA",
         "393216": "5B6C3202E79A0651",
         "458752": "64536A61EA4B5191",
+        "524288": "B26128C3BD0E1E43",
         "65536": "8A062CB529281EC8",
-        "latest": 458752,
+        "latest": 524288,
         "title": "Winkeltje: The Little Shop"
     },
     "0100C0701310A000": {
@@ -55080,6 +55168,12 @@
         "latest": 0,
         "title": "JIGSAW MASTER KIDS"
     },
+    "0100C77018F90000": {
+        "0": "D410699A5BAFFB89",
+        "65536": "56E9E32DDADE696B",
+        "latest": 65536,
+        "title": "City Wars: Tokyo Reign"
+    },
     "0100C7800C7A0000": {
         "0": "A4F87440FD8B34F1",
         "latest": 0,
@@ -55389,6 +55483,11 @@
         "65536": "535141C04F353842",
         "latest": 196608,
         "title": "Radical Rabbit Stew"
+    },
+    "0100C8B012DEA000": {
+        "131072": "5A0F204DDE32F545",
+        "latest": 131072,
+        "title": "Temtem"
     },
     "0100C8B0153CE000": {
         "0": "CF45B8D088B11B4A",
@@ -58359,8 +58458,9 @@
         "title": "A Musical Story"
     },
     "0100D39012C1A000": {
+        "131072": "85C8BDE130748F7E",
         "65536": "97F7329EA93B1F05",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Disney Dreamlight Valley"
     },
     "0100D3A00409E000": {
@@ -59307,7 +59407,8 @@
         "4128768": "723EAB9AC0BB3CBF",
         "4194304": "1E3A73CDC6AA0E1A",
         "4259840": "96EE2FBE2343F557",
-        "latest": 4259840,
+        "4325376": "7672B675365EA692",
+        "latest": 4325376,
         "title": "Minecraft"
     },
     "0100D7100FDDE000": {
@@ -60030,6 +60131,11 @@
         "0": "95D67912BC7C6F40",
         "latest": 0,
         "title": "Ski Jump Challenge"
+    },
+    "0100D9501927E000": {
+        "0": "672361DDA625FAA5",
+        "latest": 0,
+        "title": "Space Tanks"
     },
     "0100D9600BA8E000": {
         "0": "104AE60EC3BC4C41",
@@ -61449,6 +61555,11 @@
         "latest": 262144,
         "title": "City Pipes"
     },
+    "0100DE8018F72000": {
+        "0": "8CF9B135E59E1473",
+        "latest": 0,
+        "title": "Fashion Princess"
+    },
     "0100DE9005170000": {
         "0": "599BB2CCA7AB9A0A",
         "262144": "3C90DFD87B19495C",
@@ -62124,8 +62235,9 @@
     "0100E11019268000": {
         "0": "118CCE5659EF86E4",
         "131072": "5662AE7587BBC9D1",
+        "196608": "0113E71149ADD435",
         "65536": "4B53693DEB1D41D7",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Home Deco Puzzles"
     },
     "0100E1200DC1A000": {
@@ -62715,6 +62827,10 @@
         "0": "66DFA7EDEF3B76B4",
         "latest": 0,
         "title": "Demolish Derby Nitro-Battle Driving Car Games 2022 Deluxe Driver"
+    },
+    "0100E33019454000": {
+        "0": "98415DBDB19C0B40",
+        "latest": 0
     },
     "0100E3400F242000": {
         "0": "3432F32F3F75228D",
@@ -64436,8 +64552,9 @@
     },
     "0100E9400FE34000": {
         "0": "7719151EE0010E11",
+        "131072": "71131C3A369F2CDA",
         "65536": "9114C87C791DECF2",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Endling - Extinction is Forever"
     },
     "0100E94014792000": {
@@ -69005,7 +69122,8 @@
     },
     "0100F8D01810E000": {
         "131072": "9114C87C791DECF2",
-        "latest": 131072
+        "196608": "71131C3A369F2CDA",
+        "latest": 196608
     },
     "0100F8E009DFA000": {
         "0": "947DE9B506280C4E",
@@ -69687,8 +69805,9 @@
     },
     "0100FBB0180FE000": {
         "0": "09CDDE0C4F884143",
+        "131072": "4CEB70B746B4C127",
         "65536": "D4A88C43051B6978",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Blossom Tales II: The Minotaur Prince"
     },
     "0100FBC007EAE000": {
@@ -70507,6 +70626,7 @@
         "latest": 0
     },
     "0100FF401640C000": {
+        "0": "2CF6A84386873FF1",
         "65536": "8607EE7363BC53E4",
         "latest": 65536,
         "title": "Gerda: A Flame in Winter"
