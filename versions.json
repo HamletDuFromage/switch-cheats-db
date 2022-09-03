@@ -4151,6 +4151,11 @@
         "0": "4B73429F5B1D6FF2",
         "latest": 0
     },
+    "01000F7019066000": {
+        "0": "DAAAB5133F032942",
+        "latest": 0,
+        "title": "City Traffic Driver 2"
+    },
     "01000F900B6CC000": {
         "0": "E65003C947EC61B6",
         "latest": 0
@@ -6046,9 +6051,13 @@
         "latest": 0
     },
     "010017A0128C4000": {
+        "0": "5FDCE6B17D633BC2",
         "131072": "C7EDB92F7610C690",
         "latest": 131072,
         "title": "JoJo's Bizarre Adventure: All-Star Battle R"
+    },
+    "010017A0128C5000": {
+        "latest": 0
     },
     "010017A017F94000": {
         "0": "8AA29E1625EB64D8",
@@ -8124,7 +8133,8 @@
     },
     "01001ED012E84000": {
         "0": "2BC257886EEB2D51",
-        "latest": 0,
+        "65536": "1556B290DE42CBD9",
+        "latest": 65536,
         "title": "Onsen Master"
     },
     "01001EE00A6B0000": {
@@ -15389,6 +15399,11 @@
         "0": "E296BF30DB884D44",
         "65536": "931A7E4CA17DD146",
         "latest": 65536
+    },
+    "010038A01628A000": {
+        "0": "125A94441F5EBCDA",
+        "latest": 0,
+        "title": "LEGO\u00ae Brawls"
     },
     "010038A016E92000": {
         "0": "3390494C13DAFE12",
@@ -26588,6 +26603,7 @@
         "latest": 262144
     },
     "01006080117C2000": {
+        "0": "830C36FF1A4869B3",
         "65536": "AA0F5ABFCAE1045A",
         "latest": 65536,
         "title": "Made in Abyss: Binary Star Falling into Darkness"
@@ -27940,6 +27956,11 @@
         "latest": 0,
         "title": "Sherlock Holmes: Crimes and Punishments"
     },
+    "0100651019372000": {
+        "0": "D20484E653CD9A40",
+        "latest": 0,
+        "title": "Mechapunk"
+    },
     "010065200D192000": {
         "0": "2948249C2E051D4E",
         "latest": 0,
@@ -27978,7 +27999,8 @@
     },
     "010065301834C000": {
         "0": "DDEABEE1DDEF49BC",
-        "latest": 0
+        "latest": 0,
+        "title": "Into The Dark"
     },
     "010065500B218000": {
         "0": "5D389698D1FAD122",
@@ -29348,8 +29370,9 @@
     },
     "01006A70186D2000": {
         "0": "9590478D6D8F2492",
+        "131072": "7D77B2B2372C9EF3",
         "65536": "A03DCE6ED1CDD940",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Narona Sports"
     },
     "01006A800016E000": {
@@ -31626,6 +31649,11 @@
     },
     "0100725011797000": {
         "latest": 0
+    },
+    "0100725016EDE000": {
+        "0": "078DA8F0513B80B9",
+        "latest": 0,
+        "title": "Super Sunny Island"
     },
     "0100725017244000": {
         "0": "53A92E76F64FB742",
@@ -47331,8 +47359,9 @@
         "title": "Earth Marines"
     },
     "0100AB50175BC000": {
+        "131072": "BCA1C03F2EFAC74E",
         "65536": "5DAB677991B735D6",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Guns at Dawn Arena"
     },
     "0100AB600ACB4000": {
@@ -53256,6 +53285,11 @@
         "latest": 0,
         "title": "Retro Classix 2-in-1 Pack: Express Raider & Shootout"
     },
+    "0100C0D0189A0000": {
+        "0": "B492A5681A58B503",
+        "latest": 0,
+        "title": "Please, Touch The Artwork"
+    },
     "0100C0E008340000": {
         "0": "498F36F55A42E1BF",
         "131072": "675279C9EDD03843",
@@ -57595,8 +57629,9 @@
     "0100D02014CE0000": {
         "0": "C5B1A0B69E29C444",
         "131072": "153158E9EB4B324C",
+        "196608": "FD56407FA33F7B4E",
         "65536": "E6BA3C4E12D8F540",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Arcade Paradise"
     },
     "0100D03003F0E000": {
@@ -59422,6 +59457,10 @@
         "65536": "E1A830D966CC7960",
         "latest": 65536,
         "title": "Gemini"
+    },
+    "0100D720131FC000": {
+        "65536": "9E2C57601310A745",
+        "latest": 65536
     },
     "0100D72018078000": {
         "0": "28E52B5638CE23DF",
@@ -62830,7 +62869,8 @@
     },
     "0100E33019454000": {
         "0": "98415DBDB19C0B40",
-        "latest": 0
+        "latest": 0,
+        "title": "Matisse's 3D World"
     },
     "0100E3400F242000": {
         "0": "3432F32F3F75228D",
@@ -65228,6 +65268,7 @@
         "latest": 65536
     },
     "0100EB301601A000": {
+        "0": "0B8B22CB6B6AEDFF",
         "65536": "BB2B476F99AAA39B",
         "latest": 65536,
         "title": "Overdriven Evolution"
@@ -69584,6 +69625,11 @@
     "0100FAA00CF1C000": {
         "0": "0FE126AC3B9E624D",
         "latest": 0
+    },
+    "0100FAA015FB0000": {
+        "0": "B82A483F44915195",
+        "latest": 0,
+        "title": "Troupe"
     },
     "0100FAA0174A6000": {
         "0": "9B22FA9E06ABBD4B",
