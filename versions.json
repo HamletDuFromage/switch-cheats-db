@@ -1323,6 +1323,11 @@
         "latest": 131072,
         "title": "Turrican Flashback"
     },
+    "010004B017D10000": {
+        "0": "60F3A7AE436F9C45",
+        "latest": 0,
+        "title": "Cthulhu pub"
+    },
     "010004C00ACE0000": {
         "latest": 0
     },
@@ -1500,6 +1505,11 @@
         "latest": 65536,
         "title": "Seeds of Resilience"
     },
+    "01000580191C2000": {
+        "0": "6C9B0BA6CE65BBD7",
+        "latest": 0,
+        "title": "Japanese Escape Games The Mansion of Tricks"
+    },
     "0100059009EFE000": {
         "0": "279A46895302C24A",
         "131072": "8B549C155C72E84F",
@@ -1647,7 +1657,8 @@
     },
     "01000640174DA000": {
         "0": "AB7746329DDD9346",
-        "latest": 0,
+        "65536": "86C6644E1E4DFB41",
+        "latest": 65536,
         "title": "An Airport for Aliens Currently Run by Dogs"
     },
     "01000650134FE000": {
@@ -5256,6 +5267,11 @@
     "0100148016BAA000": {
         "0": "37DE09F54BF38F8E",
         "latest": 0
+    },
+    "01001480181FC000": {
+        "0": "384A21DF3D85B9CA",
+        "latest": 0,
+        "title": "Soulsland"
     },
     "010014900865A000": {
         "0": "E6CE58BB80C0A41B",
@@ -10358,6 +10374,7 @@
         "title": "Deep Diving Adventures"
     },
     "010026801939E000": {
+        "0": "F95A034961AF4385",
         "65536": "0684F3F4A6EC719C",
         "latest": 65536,
         "title": "Foretales"
@@ -12113,6 +12130,7 @@
         "title": "Terra Lander"
     },
     "01002C8017BCC000": {
+        "0": "8F479BFCE6611C4E",
         "65536": "55BE67891C58054F",
         "latest": 65536,
         "title": "Wayward Strand"
@@ -15102,6 +15120,11 @@
         "0": "3F46B9E8D2B62646",
         "65536": "45AAF57C084B6D44",
         "latest": 65536
+    },
+    "01003720104B6000": {
+        "0": "E0BDA28D0F2A44D4",
+        "latest": 0,
+        "title": "Gold Crusader"
     },
     "01003720118E0000": {
         "0": "5EA1FD0B72CC9746",
@@ -18630,6 +18653,11 @@
         "latest": 0,
         "title": "Game Type DX"
     },
+    "0100433018FD2000": {
+        "0": "6591BC8EFF27AB43",
+        "latest": 0,
+        "title": "Devoured by Darkness"
+    },
     "0100434003C58000": {
         "0": "7611172AE861024E",
         "65536": "E52E115FACCE314F",
@@ -18885,6 +18913,7 @@
         "title": "DARQ Complete Edition"
     },
     "0100441018E7E000": {
+        "0": "A8A4A650889E10F3",
         "65536": "A8A4A650889E10F3",
         "latest": 65536,
         "title": "Loot Box Simulator - RPG Anime Girls"
@@ -20291,6 +20320,7 @@
         "title": "Between Time: Escape Room"
     },
     "010048B01855A000": {
+        "0": "67EB9332FC813381",
         "65536": "D71BFB66A8876007",
         "latest": 65536,
         "title": "Innocence Island"
@@ -24259,6 +24289,11 @@
         "latest": 65536,
         "title": "Bullet Trail"
     },
+    "010057B017F5C000": {
+        "0": "09D7D601EC9DC6A2",
+        "latest": 0,
+        "title": "Accident"
+    },
     "010057B01905C000": {
         "0": "E539BF419DB67437",
         "latest": 0,
@@ -24568,6 +24603,11 @@
         "latest": 0,
         "title": "The Prince of Landis"
     },
+    "010058C017024000": {
+        "0": "10E8B7911A01CCF0",
+        "latest": 0,
+        "title": "Dungeons 3 - Nintendo Switch\u2122 Edition"
+    },
     "010058C017025000": {
         "latest": 0
     },
@@ -24803,7 +24843,8 @@
     },
     "010059B0177EA000": {
         "0": "8BD80A928A26D147",
-        "latest": 0,
+        "65536": "AF2D14BA3745DF44",
+        "latest": 65536,
         "title": "Kayko & Kokosh Coloring Book"
     },
     "010059C002AC2000": {
@@ -33108,6 +33149,11 @@
         "latest": 0,
         "title": "Takotan"
     },
+    "0100761019082000": {
+        "0": "E79E7177BFAB4494",
+        "latest": 0,
+        "title": "The Dark Prophecy"
+    },
     "010076200CA16000": {
         "0": "3E85B413D006E7F4",
         "196608": "B47EB7B0771F33DD",
@@ -35342,6 +35388,7 @@
         "title": "ACA NEOGEO NINJA COMMANDO"
     },
     "01007E8019208000": {
+        "0": "CB6B2DD4FE3DE9BF",
         "65536": "1BA1932CBE7A2E8D",
         "latest": 65536,
         "title": "Foretales : Digital Artbook"
@@ -35683,13 +35730,15 @@
     },
     "01007FC0152AC000": {
         "0": "433B3C7EA479084C",
+        "131072": "799EA378BB41254A",
         "65536": "ABBA4D97D5CA6543",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Source of Madness"
     },
     "01007FC0170FE000": {
         "0": "C8C70772B3BBEB45",
-        "latest": 0,
+        "65536": "74D994B648916241",
+        "latest": 65536,
         "title": "Zorro The Chronicles"
     },
     "01007FD0189A2000": {
@@ -38287,7 +38336,8 @@
     },
     "010089701892C000": {
         "0": "CB297D41DEFF199E",
-        "latest": 0,
+        "65536": "F0BD896FE3D2EAD2",
+        "latest": 65536,
         "title": "Supaplex HARD"
     },
     "0100898015EA0000": {
@@ -38884,6 +38934,11 @@
         "65536": "176B5D598173854C",
         "latest": 65536
     },
+    "01008BE0179BC000": {
+        "65536": "FFCDFB3C0C02B0A4",
+        "latest": 65536,
+        "title": "Airoheart"
+    },
     "01008C0014C10000": {
         "0": "A266FAA4A5B60131",
         "latest": 0,
@@ -38911,6 +38966,11 @@
         "65536": "5E6AA5D8D4A2BF41",
         "latest": 65536,
         "title": "Infinite Adventures\u00ae"
+    },
+    "01008C10196C4000": {
+        "0": "E74EFCAA4CF36C4B",
+        "latest": 0,
+        "title": "Venice Taxi Boats"
     },
     "01008C200DF4C000": {
         "0": "7D180B613D14DA43",
@@ -41791,6 +41851,11 @@
         "latest": 0,
         "title": "Let it Roll 2 Slide Puzzles"
     },
+    "010095901925C000": {
+        "0": "0C1DD3CC05333848",
+        "latest": 0,
+        "title": "Gunslingers & Zombies"
+    },
     "010095901933C000": {
         "0": "C44089B2FDF92D23",
         "latest": 0,
@@ -42033,8 +42098,9 @@
     },
     "0100963014D92000": {
         "0": "C41ED3EAF0592B4B",
+        "131072": "332D5F1EF4F4C49B",
         "65536": "F6909CB80A7C1EAE",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Wood Block Escape Puzzles"
     },
     "010096400CBC6000": {
@@ -47069,6 +47135,11 @@
         "latest": 131072,
         "title": "art of rally"
     },
+    "0100A880180CC000": {
+        "65536": "EF87EE4502BE8290",
+        "latest": 65536,
+        "title": "Bunny Park"
+    },
     "0100A8900AF04000": {
         "0": "02343AA7C8639349",
         "65536": "8684F9BD9F372242",
@@ -47804,6 +47875,7 @@
         "title": "Earth Marines"
     },
     "0100AB50175BC000": {
+        "0": "958001AE80CCEED2",
         "131072": "BCA1C03F2EFAC74E",
         "65536": "5DAB677991B735D6",
         "latest": 131072,
@@ -48158,6 +48230,7 @@
         "title": "HUNDRED FIRES: The rising of red star"
     },
     "0100ACA017E4E000": {
+        "0": "CBEC53186F0D2944",
         "65536": "7E8BA5483C4F5B45",
         "latest": 65536,
         "title": "NBA 2K23"
@@ -54585,6 +54658,11 @@
         "latest": 196608,
         "title": "Shadow Man Remastered"
     },
+    "0100C3A017834000": {
+        "65536": "BDA9E45A7B81737F",
+        "latest": 65536,
+        "title": "Prodeus"
+    },
     "0100C3B016350000": {
         "0": "684D524D0E91539B",
         "131072": "D7E7AE78A8231C00",
@@ -56048,6 +56126,7 @@
         "title": "Radical Rabbit Stew"
     },
     "0100C8B012DEA000": {
+        "0": "8187E71ACFA4A04C",
         "131072": "5A0F204DDE32F545",
         "latest": 131072,
         "title": "Temtem"
@@ -57783,6 +57862,7 @@
         "title": "Ever Forward"
     },
     "0100CEE0140CE000": {
+        "0": "17CEF19E3899E814",
         "65536": "4B9F056D355024CC",
         "latest": 65536
     },
@@ -58274,6 +58354,11 @@
         "0": "96676EF402ACBF5F",
         "latest": 0,
         "title": "Transient: Extended Edition"
+    },
+    "0100D0901963E000": {
+        "0": "3A401249F64ACC7D",
+        "latest": 0,
+        "title": "Blobufo"
     },
     "0100D0A009310000": {
         "0": "866EB653D251C11B",
@@ -59086,8 +59171,9 @@
         "latest": 0
     },
     "0100D3C017780000": {
+        "131072": "9721A8025C2A2CFE",
         "65536": "9721A8025C2A2CFE",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Beacon Pines"
     },
     "0100D3C018044000": {
@@ -60021,6 +60107,7 @@
         "title": "Gemini"
     },
     "0100D720131FC000": {
+        "0": "701344E612B0AA06",
         "131072": "A13AE14903CB438D",
         "65536": "9E2C57601310A745",
         "latest": 131072,
@@ -61071,7 +61158,8 @@
     },
     "0100DA70137B6000": {
         "0": "7043957168D38C49",
-        "latest": 0,
+        "65536": "ECC72D0EEFF27F45",
+        "latest": 65536,
         "title": "Haiku, the Robot"
     },
     "0100DA7013D66000": {
@@ -63409,6 +63497,7 @@
         "title": "Reventure"
     },
     "0100E2E0152E4000": {
+        "0": "70FD604EA91453CF",
         "65536": "5AE4D13F04CA6AB3",
         "latest": 65536
     },
@@ -64205,6 +64294,11 @@
         "latest": 65536,
         "title": "Noel the Mortal Fate"
     },
+    "0100E5A018AE2000": {
+        "65536": "35705532D30C244F",
+        "latest": 65536,
+        "title": "DRAW AND COLOR: KAWAII"
+    },
     "0100E5B011F48000": {
         "0": "D7F4647799B2C4B7",
         "131072": "EF7B1A84D3E08B8C",
@@ -64652,6 +64746,7 @@
         "latest": 0
     },
     "0100E700114D6000": {
+        "0": "EBE9C421C12D8251",
         "65536": "D40A684AB4073EB1",
         "latest": 65536,
         "title": "Bear and Breakfast"
@@ -64846,6 +64941,11 @@
         "0": "B7B9ED9D7BDB135E",
         "latest": 0
     },
+    "0100E7A018076000": {
+        "0": "5ABBF7CFDFCC4919",
+        "latest": 0,
+        "title": "The Gallery"
+    },
     "0100E7B00BF24000": {
         "0": "61EB2EDED802D54D",
         "latest": 0,
@@ -64940,7 +65040,8 @@
     },
     "0100E81015B46000": {
         "0": "8E1EFD7D1B88A19B",
-        "latest": 0,
+        "65536": "8E1EFD7D1B88A19B",
+        "latest": 65536,
         "title": "Supaplex"
     },
     "0100E81016774000": {
@@ -66911,6 +67012,11 @@
         "0": "8186D748A615ACDA",
         "latest": 0
     },
+    "0100EE90180C8000": {
+        "65536": "44FEFD3F5A971564",
+        "latest": 65536,
+        "title": "Lemon Cake"
+    },
     "0100EEA00AFB2000": {
         "0": "215CF94D2C92751A",
         "latest": 0,
@@ -67060,6 +67166,9 @@
         "65536": "A164C9DAB8988B11",
         "latest": 196608,
         "title": "Tails Of Iron"
+    },
+    "0100EF3013F61000": {
+        "latest": 0
     },
     "0100EF3016D2A000": {
         "0": "B7844CE67BB3C6B2",
@@ -67912,6 +68021,11 @@
         "131072": "1EA1826DD422364F",
         "65536": "A16529795857BA44",
         "latest": 131072
+    },
+    "0100F1F012734000": {
+        "0": "173D5DF1A3589487",
+        "latest": 0,
+        "title": "Mozart Requiem"
     },
     "0100F200049C8000": {
         "0": "3836C875F9FCB549",
