@@ -4638,6 +4638,11 @@
         "latest": 0,
         "title": "Sacred Valley"
     },
+    "0100115012260000": {
+        "65536": "2824F7BB32A8CACA",
+        "latest": 65536,
+        "title": "SWORD ART ONLINE Alicization Lycoris"
+    },
     "010011501274A000": {
         "65536": "C06F3043B77184D0",
         "latest": 65536
@@ -14429,6 +14434,10 @@
         "65536": "31B8A03920810BA6",
         "latest": 65536,
         "title": "Impossible Mission"
+    },
+    "010034501225C000": {
+        "65536": "125BB060D0B677C1",
+        "latest": 65536
     },
     "0100345014C54000": {
         "0": "60ED3BD86E66A541",
@@ -45648,6 +45657,11 @@
         "latest": 196608,
         "title": "Yum Yum Line"
     },
+    "0100A2F017A24000": {
+        "65536": "6380D7945619A5A3",
+        "latest": 65536,
+        "title": "Kamiwaza: Way of the Thief"
+    },
     "0100A3000F070000": {
         "0": "5A973E0AB5FCFA4D",
         "196608": "5FD8228D04621646",
@@ -62380,7 +62394,8 @@
     },
     "0100DED01920A000": {
         "0": "15651AD00BC6C74C",
-        "latest": 0
+        "latest": 0,
+        "title": "Kraken Smash: Volleyball"
     },
     "0100DEE00F508000": {
         "0": "09CD99A6653A6CC5",
