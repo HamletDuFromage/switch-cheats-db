@@ -16557,6 +16557,11 @@
         "latest": 0,
         "title": "Hacky Zack"
     },
+    "01003BA01575E000": {
+        "65536": "D59CCA486C46E386",
+        "latest": 65536,
+        "title": "Nickelodeon Kart Racers 3: Slime Speedway"
+    },
     "01003BA015A12000": {
         "65536": "3DF4CB475E46FA5E",
         "latest": 65536
@@ -49414,7 +49419,8 @@
     },
     "0100AFE0147A0000": {
         "0": "F863B5BF45436179",
-        "latest": 0,
+        "65536": "F9891E9B67F99B48",
+        "latest": 65536,
         "title": "Blind Fate: Edo no Yami"
     },
     "0100AFF00F938000": {
@@ -52705,7 +52711,8 @@
     },
     "0100BBF015CE8000": {
         "0": "BC49A341ED0E2C70",
-        "latest": 0,
+        "65536": "1E259035A2AC57E4",
+        "latest": 65536,
         "title": "Hobo: Tough Life"
     },
     "0100BBF017BC6000": {
@@ -68679,6 +68686,11 @@
         "131072": "0A80573C73D4B60F",
         "65536": "5286AB2FDDC48E4D",
         "latest": 131072
+    },
+    "0100F2C0181C4000": {
+        "65536": "2F8A105DF65928D1",
+        "latest": 65536,
+        "title": "RAILGRADE"
     },
     "0100F2D00C7DE000": {
         "0": "945C712DFD196A4C",
