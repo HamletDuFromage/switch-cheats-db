@@ -1,0 +1,80 @@
+{
+    "992787E2B5425994": [
+        {
+            "content": "[NieR, Automata The End of YoRHa Edition (HK) v1.0.2 TID=0100B8E016F76000 BID=992787E2B5425994]\n\n",
+            "title": "[NieR, Automata The End of YoRHa Edition (HK) v1.0.2 TID=0100B8E016F76000 BID=992787E2B5425994]"
+        },
+        {
+            "content": "[Restore Code (Use after unchecking any cheats below)]\n580F0000 0139C2E5\n510F1000 00000000\n915FF100 000000BF\nA1F00400 0139C2E5\n040E0000 00399E30 2A1403E0\n040E0000 005FAF84 2A0103F5\n040E0000 00655B1C 2A0003F3\n040E0000 00664E28 11000508\n040E0000 0064C148 0B010129\n040E0000 0023690C 1E270102\n080E0000 0067E4F0 7100113F B9580929\n040E0000 0067E4F8 5400016B\n040E0000 0023FFD0 B87B6908\n040E0000 0026DED0 B9148A68\n040E0000 0026D048 1E2E1008\n040E0000 0026B4FC 1E2E1008\n580F0000 0139C2EB\n510F1000 00000000\n915FF100 000000BF\nA1F00400 0139C2EB\n580F0000 0139C2EB\n510F1000 00000000\n915FF100 000000FB\nA1F00400 0139C2EB\n580F0000 0139C2E4\n510F1000 00000000\n915FF100 000000DF\nA1F00400 0139C2E4\n580F0000 0139C2EF\n510F1000 00000000\n915FF100 000000FB\nA1F00400 0139C2EF\n580F0000 0139C2E5\n510F1000 00000000\n915FF100 000000E0\nA1F00400 0139C2E5\n580F0000 0139C2E5\n510F1000 00000000\n915FF100 0000007F\nA1F00400 0139C2E5\n\n",
+            "title": "[Restore Code (Use after unchecking any cheats below)]"
+        },
+        {
+            "content": "[#01. Invincible]\n580F0000 0139C2E5\n510F1000 00000000\n916FF100 00000040\nA1F00400 0139C2E5\n\n",
+            "title": "[#01. Invincible]"
+        },
+        {
+            "content": "[#02. Slow Motion (ZL)]\n040E0000 0062B32C 39421508\n80000100\n040E0000 0062B32C 52801FE8\n20000000\n\n",
+            "title": "[#02. Slow Motion (ZL)]"
+        },
+        {
+            "content": "[#03. Damage to Foe (5x)]\n040E0000 00399E30 0B140A80\n\n",
+            "title": "[#03. Damage to Foe (5x)]"
+        },
+        {
+            "content": "[#04. EXP (5x)]\n040E0000 005FAF84 0B010835\n\n",
+            "title": "[#04. EXP (5x)]"
+        },
+        {
+            "content": "[#05. Money (5x)]\n040E0000 00655B1C 0B000813\n040E0000 00664E28 11001508\n\n",
+            "title": "[#05. Money (5x)]"
+        },
+        {
+            "content": "[#06. Free shopping]\n080E0000 00D9DFF8 17E2B854 0B010129\n040E0000 00D9DFF4 37F80041\n040E0000 0064C148 141D47AB\n\n",
+            "title": "[#06. Free shopping]"
+        },
+        {
+            "content": "[#07. Instant Charge Skill]\n040E0000 0023690C 1E3E1002\n\n",
+            "title": "[#07. Instant Charge Skill]"
+        },
+        {
+            "content": "[#08. Max Weapon LV (Effective when equipped)]\n080E0000 0067E4F0 B918092B 5280008B\n040E0000 0067E4F8 D503201F\n\n",
+            "title": "[#08. Max Weapon LV (Effective when equipped)]"
+        },
+        {
+            "content": "[#09. Max Pod System LV (Effective when equipped)]\n080E0000 00D9DFEC D65F03C0 2A0003E8\n080E0000 00D9DFE4 B83B6900 52800080\n040E0000 0023FFD0 942D7805\n\n",
+            "title": "[#09. Max Pod System LV (Effective when equipped)]"
+        },
+        {
+            "content": "[#10. Infinite Air Jump]\n040E0000 0026DED0 D503201F\n\n",
+            "title": "[#10. Infinite Air Jump]"
+        },
+        {
+            "content": "[#11. Speed Move (ZR)]\n040E0000 0026D048 1E211008\n040E0000 0026B4FC 1E2E9008\n\n",
+            "title": "[#11. Speed Move (ZR)]"
+        },
+        {
+            "content": "[#12. Enemy is always on standby]\n580F0000 0139C2EB\n510F1000 00000000\n916FF100 00000040\nA1F00400 0139C2EB\n\n",
+            "title": "[#12. Enemy is always on standby]"
+        },
+        {
+            "content": "[#13. Enemy takes more damage]\n580F0000 0139C2EB\n510F1000 00000000\n916FF100 00000004\nA1F00400 0139C2EB\n\n",
+            "title": "[#13. Enemy takes more damage]"
+        },
+        {
+            "content": "[#14. 9S Hacking Debug (Ally Control Level Max)]\n580F0000 0139C2E4\n510F1000 00000000\n916FF100 00000020\nA1F00400 0139C2E4\n\n",
+            "title": "[#14. 9S Hacking Debug (Ally Control Level Max)]"
+        },
+        {
+            "content": "[#15. Hacking Speed Maximum]\n580F0000 0139C2EF\n510F1000 00000000\n916FF100 00000004\nA1F00400 0139C2EF\n\n",
+            "title": "[#15. Hacking Speed Maximum]"
+        },
+        {
+            "content": "[#16. Not sure it is multiplier of what!]\n580F0000 0139C2E5\n510F1000 00000000\n916FF100 00000010\nA1F00400 0139C2E5\n\n",
+            "title": "[#16. Not sure it is multiplier of what!]"
+        },
+        {
+            "content": "[#17. (Spare) Player HP does not decrease]\n580F0000 0139C2E5\n510F1000 00000000\n916FF100 00000080\nA1F00400 0139C2E5\n\n",
+            "title": "[#17. (Spare) Player HP does not decrease]"
+        }
+    ]
+}

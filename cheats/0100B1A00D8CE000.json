@@ -725,6 +725,128 @@
             "title": "[Credits: crazy_p, Patjenova]"
         }
     ],
+    "5AF6F31EAC42DBC0": [
+        {
+            "content": "{- Doom Eternal -}\n040C0000 06A21398 00000000\n040A0000 06A1AB40 00000000\n040A0000 06A4ACD8 00000000\n040C0000 06A48518 00000000\n040C0000 06A449C8 00000000\n040A0000 06A4AD50 00000000\n040A0000 06A4AC60 00000000\n040A0000 06A4AFA8 00000000\n040A0000 06A4ADC8 00000000\n040A0000 06932378 00000000\n040A0000 069C5320 00000000\n040C0000 069C5398 00000500\n040C0000 06966DD0 00000000\n040C0000 0693F670 00000001\n040C0000 069572E8 00000001\n040C0000 06958A58 00000001\n040C0000 0694C888 00000000\n\n",
+            "title": "{- Doom Eternal -}"
+        },
+        {
+            "content": "[Moon Jump]\n80000002\n58000000 06A12750\n58001000 00000000\n58001000 00000010\n58001000 000001C8\n58001000 00003870\n78000000 000006D4\n64000000 00000000 40A00000 \n20000000\n\n",
+            "title": "[Moon Jump]"
+        },
+        {
+            "content": "[(ZL) Speed Up]\n58000000 06A12750\n58001000 00000000\n58001000 00000010\n58001000 000001C8\n58001000 00003870\n78000000 00000A0C\n64000000 00000000 3F800000 \n80000100\n64000000 00000000 40400000 \n20000000\n\n",
+            "title": "[(ZL) Speed Up]"
+        },
+        {
+            "content": "[Inf. Health]\n58000000 06A12750\n58001000 00000000\n58001000 00000018\n78000000 00000094\n64000000 00000000 43480000\n\n",
+            "title": "[Inf. Health]"
+        },
+        {
+            "content": "[Inf. Shield]\n58000000 06A12750\n58001000 00000000\n58001000 00000018\n78000000 00000144\n64000000 00000000 43480000\n\n",
+            "title": "[Inf. Shield]"
+        },
+        {
+            "content": "[Inf. Extra Lives]\n040C0000 06A21398 00000001\n\n",
+            "title": "[Inf. Extra Lives]"
+        },
+        {
+            "content": "[God Mode]\n040A0000 06A1AB40 00000001\n\n",
+            "title": "[God Mode]"
+        },
+        {
+            "content": "[Inf. Ammo]\n040A0000 06A4ACD8 00000001\n\n",
+            "title": "[Inf. Ammo]"
+        },
+        {
+            "content": "[Inf. Chainsaw]\n040C0000 06A48518 00000001\n\n",
+            "title": "[Inf. Chainsaw]"
+        },
+        {
+            "content": "[Inf. Blood Punch]\n040C0000 06A449C8 00000001\n\n",
+            "title": "[Inf. Blood Punch]"
+        },
+        {
+            "content": "[Inf. Clips]\n040A0000 06A4AD50 00000001\n\n",
+            "title": "[Inf. Clips]"
+        },
+        {
+            "content": "[Ignore Charge Timeout]\n040A0000 06A4AC60 00000001\n\n",
+            "title": "[Ignore Charge Timeout]"
+        },
+        {
+            "content": "[No Weapon Overheat]\n040A0000 06A4AFA8 00000001\n\n",
+            "title": "[No Weapon Overheat]"
+        },
+        {
+            "content": "[Inf. Throw Items]\n040A0000 06A4ADC8 00000001\n\n",
+            "title": "[Inf. Throw Items]"
+        },
+        {
+            "content": "[Inf. Doublejumps]\n040A0000 06932378 00000001\n\n",
+            "title": "[Inf. Doublejumps]"
+        },
+        {
+            "content": "[Inf. Dash]\n040A0000 069C5320 00000001\n\n",
+            "title": "[Inf. Dash]"
+        },
+        {
+            "content": "[Quick Re-Dash]\n040C0000 069C5398 00000005\n\n",
+            "title": "[Quick Re-Dash]"
+        },
+        {
+            "content": "[Demons always drop Ammo & Health]\n040C0000 06966DD0 00000001\n\n",
+            "title": "[Demons always drop Ammo & Health]"
+        },
+        {
+            "content": "[Disable Demon Attacks]\n040C0000 0693F670 00000000\n\n",
+            "title": "[Disable Demon Attacks]"
+        },
+        {
+            "content": "[Disable Enemy Movement]\n040C0000 069572E8 00000000\n\n",
+            "title": "[Disable Enemy Movement]"
+        },
+        {
+            "content": "[Disable Enemy Senses]\n040C0000 06958A58 00000000\n\n",
+            "title": "[Disable Enemy Senses]"
+        },
+        {
+            "content": "[Force Enemy Idle]\n040C0000 0694C888 00000001\n\n",
+            "title": "[Force Enemy Idle]"
+        },
+        {
+            "content": "[Inf. Upgrade Points]\n58000000 06A12750\n58001000 00000000\n58001000 00000018\n58001000 000001F0\n58001000 00000010\n78000000 00000084\n64001000 00000000 000003E7\n64001000 00000000 000003E7\n64000000 00000000 000003E7\n78000000 00000008\n64000000 00000000 000003E7\n\n",
+            "title": "[Inf. Upgrade Points]"
+        },
+        {
+            "content": "[Unlock Classic Doom]\n040C0000 069761B0 00000001\n\n",
+            "title": "[Unlock Classic Doom]"
+        },
+        {
+            "content": "[-- Doom I & II Cheats --]\n00000000 00000000 00000000\n\n",
+            "title": "[-- Doom I & II Cheats --]"
+        },
+        {
+            "content": "[Inf. Health]\n58000000 066C97E8\n58001000 000023D0\n58001000 000000C0\n78000000 00000024\n64000000 00000000 000003E7\n58000000 066C97E8\n58001000 000023D0\n58001000 00000100\n78000000 000000CC\n64000000 00000000 000003E7\n\n",
+            "title": "[Inf. Health]"
+        },
+        {
+            "content": "[Inf. Armor]\n58000000 066C97E8\n58001000 000023D0\n58001000 000000C0\n78000000 00000028\n64000000 00000000 000003E7\n\n",
+            "title": "[Inf. Armor]"
+        },
+        {
+            "content": "[Inf. Ammo]\n58000000 066C97E8\n58001000 000023D0\n58001000 000000C0\n78000000 000000A0\n300D0000 00000004\n64000000 00000000 000003E7\n78000000 00000004\n310D0000\n\n",
+            "title": "[Inf. Ammo]"
+        },
+        {
+            "content": "[Have all Weapons]\n58000000 066C97E8\n58001000 000023D0\n58001000 000000C0\n78000000 00000080\n300D0000 00000006\n64000000 00000000 00000001\n78000000 00000004\n310D0000\n\n",
+            "title": "[Have all Weapons]"
+        },
+        {
+            "content": "[Credits: crazy_p, Patjenova]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p, Patjenova]"
+        }
+    ],
     "B2E03687892E59FB": [
         {
             "content": "[Moon Jump]\n80000002\n580F0000 06518E88\n580F1000 00000000\n580F1000 00000010\n580F1000 000001C8\n580F1000 00003870\n780F0000 000006D4\n640F0000 00000000 40A00000 \n20000000\n\n",

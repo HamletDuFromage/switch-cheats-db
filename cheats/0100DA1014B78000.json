@@ -1,0 +1,80 @@
+{
+    "095B0D3F9B1FBD3E": [
+        {
+            "content": "[Tower Princess (US) v1.0 TID=0100DA1014B78000 BID=095B0D3F9B1FBD3E]\n\n",
+            "title": "[Tower Princess (US) v1.0 TID=0100DA1014B78000 BID=095B0D3F9B1FBD3E]"
+        },
+        {
+            "content": "{Master Code (includes share functions)}\n580F0000 0681AA98\n580F1000 00000030\n580F1000 000005B8\nC10F0F10\n580F1000 000002C0\nC015F400 00000001\nC10F0F00\n\n",
+            "title": "{Master Code (includes share functions)}"
+        },
+        {
+            "content": "[Restore Code (Use after unchecking any cheats below)]\n480D0000 00000000 000008F9\n610F01D0 00000000 00000000\n480D0000 00000000 000008A4\n640F01D0 00000000 00000014\n480D0000 00000000 000008E0\n640F01D0 00000000 00000000\n480D0000 00000000 000008D8\n680F01D0 00000000 00000000\n480D0000 00000000 00000A28\n640F01D0 00000000 00000002\n480D0000 00000000 00000A74\n640F01D0 00000000 00000002\n480D0000 00000000 00000A78\n640F01D0 00000000 00000002\n480D0000 00000000 00000A3C\n640F01D0 00000000 3FC00000\n480D0000 00000000 00000A5C\n640F01D0 00000000 3F800000\n480D0000 00000000 00000A98\n640F01D0 00000000 3FC00000\n480D0000 00000000 00001768\n640F01D0 00000000 3FC00000\n580F1000 00000970\n480D0000 00000000 00000754\n680F01D0 00000016 00000016\nC10F0F00\n\n",
+            "title": "[Restore Code (Use after unchecking any cheats below)]"
+        },
+        {
+            "content": "[#01. Invulnerable]\n480D0000 00000000 000008F9\n610F01D0 00000000 00000001\n\n",
+            "title": "[#01. Invulnerable]"
+        },
+        {
+            "content": "[#02. Infinite HP]\n480D0000 00000000 000008A0\n640F01D0 00000000 00000028\n\n",
+            "title": "[#02. Infinite HP]"
+        },
+        {
+            "content": "[#03. Maximum MHP]\n480D0000 00000000 000008A4\n640F01D0 00000000 00000028\n\n",
+            "title": "[#03. Maximum MHP]"
+        },
+        {
+            "content": "[#04. Maximum Armour]\n480D0000 00000000 000008E0\n680F01D0 00000006 00000006\n\n",
+            "title": "[#04. Maximum Armour]"
+        },
+        {
+            "content": "[#05. Touched by God]\n480D0000 00000000 000008D8\n680F01D0 00000002 00000002\n\n",
+            "title": "[#05. Touched by God]"
+        },
+        {
+            "content": "[#06. Damage Ratio (5x)]\n480D0000 00000000 00000A28\n640F01D0 00000000 0000000A\n480D0000 00000000 00000A74\n640F01D0 00000000 0000000A\n480D0000 00000000 00000A78\n640F01D0 00000000 0000000A\n480D0000 00000000 00000A3C\n640F01D0 00000000 40F00000\n480D0000 00000000 00000A5C\n640F01D0 00000000 40A00000\n480D0000 00000000 00000A98\n640F01D0 00000000 40F00000\n480D0000 00000000 00001768\n640F01D0 00000000 40F00000\n\n",
+            "title": "[#06. Damage Ratio (5x)]"
+        },
+        {
+            "content": "[#07. Unlock Special 1 (X)]\n480D0000 00000000 00000A2C\n610F01D0 00000000 00000001\n480D0000 00000000 00000A8C\n610F01D0 00000000 00000001\n\n",
+            "title": "[#07. Unlock Special 1 (X)]"
+        },
+        {
+            "content": "[#08. No Cooldown for Special 1 (btn X)]\n480D0000 00000000 00000A30\n640F01D0 00000000 00000000\n480D0000 00000000 00000A94\n640F01D0 00000000 00000000\n\n",
+            "title": "[#08. No Cooldown for Special 1 (btn X)]"
+        },
+        {
+            "content": "[#09. Unlock Special 2 (A)]\n480D0000 00000000 00000A59\n610F01D0 00000000 00000001\n480D0000 00000000 00000A9E\n610F01D0 00000000 00000001\n\n",
+            "title": "[#09. Unlock Special 2 (A)]"
+        },
+        {
+            "content": "[#10. No Cooldown for Special 2 (btn A)]\n480D0000 00000000 00000A60\n640F01D0 00000000 00000001\n480D0000 00000000 00001764\n640F01D0 00000000 00000001\n\n",
+            "title": "[#10. No Cooldown for Special 2 (btn A)]"
+        },
+        {
+            "content": "[#11. No Cooldown for Princess Power (btn L)]\n580F1000 00000970\n480D0000 00000000 00000754\n680F01D0 00000001 00000001\nC10F0F00\n\n",
+            "title": "[#11. No Cooldown for Princess Power (btn L)]"
+        },
+        {
+            "content": "[#12. Infinite Musket Bullets]\n480D0000 00000000 00000A7C\n680F01D0 0000000A 0000000A\n\n",
+            "title": "[#12. Infinite Musket Bullets]"
+        },
+        {
+            "content": "[#13. 2.5x Movement Speed (Hold ZL)]\n480D0000 00000000 000009B0\n640F01D0 00000000 44480000\n80000100\n640F01D0 00000000 44FA0000\n20000000\n\n",
+            "title": "[#13. 2.5x Movement Speed (Hold ZL)]"
+        },
+        {
+            "content": "[#14. 2.8x Jumping Height (Hold ZL)]\n580F1000 00000288\n480D0000 00000000 00000158\n640F01D0 00000000 44BB8000\n80000100\n640F01D0 00000000 45834000\n20000000\nC10F0F00\n\n",
+            "title": "[#14. 2.8x Jumping Height (Hold ZL)]"
+        },
+        {
+            "content": "[#15. Tokens 99]\n580F1000 00001730\n580F1000 000001E0\n480D0000 00000000 00000250\n640F01D0 00000000 00000063\nC10F0F00\n\n",
+            "title": "[#15. Tokens 99]"
+        },
+        {
+            "content": "[#16. EXP 1000000]\n580F1000 00001730\n580F1000 000001E0\n480D0000 00000000 00000254\n680F01D0 49742400 49742400\n480D0000 00000000 0000025C\n680F01D0 49742400 49742400\nC10F0F00\n\n",
+            "title": "[#16. EXP 1000000]"
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "4AB357090740A54F": [
+        {
+            "content": "{- Anno Mutationem -}\n040C0000 01AC3C00 A9BC7BFD\n040C0000 018FF67C B9401408\n040C0000 01E12060 BD403000\n040C0000 01E12070 BD403400\n040C0000 01E12140 BD407400\n040C0000 01E12250 BD405000\n040C0000 01E12270 BD406800\n040C0000 01E12280 BD406C00\n040C0000 01E12290 BD407000\n040C0000 01E122A0 BD407800\n040C0000 01E122C0 BD408000\n040C0000 01E122B0 BD407C00\n040C0000 018DE6D0 B9404269\n040C0000 018DE8F0 B9404669\n040C0000 0190FE14 B9401400\n040C0000 01913720 B9401408\n080C0000 04EB6650 72993FE0 52A77340\n080C0000 04EB6658 52A77348 172965F0\n080C0000 04EB6660 6B1F0101 72993FE8\n080C0000 04EB6668 1C000040 17297430\n080C0000 04EB6670 47C34F80 D65F03C0\n\n",
+            "title": "{- Anno Mutationem -}"
+        },
+        {
+            "content": "[Inf. Health]\n58000000 09832FF0\n58001000 000000B8\n58001000 00000008\n58001000 00000478\n98010100 00000000 00000028\n98020100 00000000 00000020\n58021000 00000000\nA4210000 \n\n",
+            "title": "[Inf. Health]"
+        },
+        {
+            "content": "[Inf. Armor]\n58000000 09832FF0\n58001000 000000B8\n58001000 00000008\n58001000 00000478\n98010100 00000000 0000002C\n98020100 00000000 00000024\n58021000 00000000\nA4210000 \n\n",
+            "title": "[Inf. Armor]"
+        },
+        {
+            "content": "[Inf. Ammo]\n040C0000 01AC3C00 D65F03C0\n\n",
+            "title": "[Inf. Ammo]"
+        },
+        {
+            "content": "[Inf. Items]\n040C0000 018FF67C 528000A8\n\n",
+            "title": "[Inf. Items]"
+        },
+        {
+            "content": "[Max Attack]\n040C0000 01E12060 14C29183\n\n",
+            "title": "[Max Attack]"
+        },
+        {
+            "content": "[Max Defence]\n040C0000 01E12070 14C2917F\n\n",
+            "title": "[Max Defence]"
+        },
+        {
+            "content": "[Max Luck]\n040C0000 01E12140 14C2914B\n\n",
+            "title": "[Max Luck]"
+        },
+        {
+            "content": "[Max Critical Damage]\n040C0000 01E12250 14C29107\n\n",
+            "title": "[Max Critical Damage]"
+        },
+        {
+            "content": "[Max Electric Damage]\n040C0000 01E12270 14C290FF\n\n",
+            "title": "[Max Electric Damage]"
+        },
+        {
+            "content": "[Max Ice Damage]\n040C0000 01E12280 14C290FB\n\n",
+            "title": "[Max Ice Damage]"
+        },
+        {
+            "content": "[Max Fire Damage]\n040C0000 01E12290 14C290F7\n\n",
+            "title": "[Max Fire Damage]"
+        },
+        {
+            "content": "[Max Electric Resistence]\n040C0000 01E122A0 14C290F3\n\n",
+            "title": "[Max Electric Resistence]"
+        },
+        {
+            "content": "[Max Ice Resistence]\n040C0000 01E122C0 14C290EB\n\n",
+            "title": "[Max Ice Resistence]"
+        },
+        {
+            "content": "[Max Fire Resistence]\n040C0000 01E122B0 14C290EF\n\n",
+            "title": "[Max Fire Resistence]"
+        },
+        {
+            "content": "[Free Talent Upgrades]\n040C0000 018DE6D0 2A1F03E9\n040C0000 018DE8F0 2A1F03E9\n\n",
+            "title": "[Free Talent Upgrades]"
+        },
+        {
+            "content": "[Inf. Money]\n040C0000 0190FE14 14D69A0F\n040C0000 01913720 14D68BCF\n\n",
+            "title": "[Inf. Money]"
+        },
+        {
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p]"
+        }
+    ],
+    "60990251C36F1E4C": [
+        {
+            "content": "{- Anno: Mutationem -}\n040C0000 01CBB8D0 A9BC7BFD\n040C0000 01A931CC B9401408\n040C0000 01A72220 B9404269\n040C0000 01A72440 B9404669\n040C0000 01AA3964 B9401400\n040C0000 01AA7270 B9401408\n080C0000 04EB6560 72993FE0 52A77340\n080C0000 04EB6568 52A77348 172FB500\n080C0000 04EB6570 6B1F0101 72993FE8\n040C0000 04EB6578 172FC340\n040C0000 020E91B0 BD403000\n040C0000 020E91C0 BD403400\n040C0000 020E9290 BD407400\n040C0000 020E93A0 BD405000\n040C0000 020E93C0 BD406800\n040C0000 020E93D0 BD406C00\n040C0000 020E93E0 BD407000\n040C0000 020E93F0 BD407800\n040C0000 020E9410 BD408000\n040C0000 020E9400 BD407C00\n080C0000 04EB657C D65F03C0 1C000040\n040C0000 04EB6584 47C34F80\n\n",
+            "title": "{- Anno: Mutationem -}"
+        },
+        {
+            "content": "[Inf. Health]\n58000000 09835B68\n58001000 000000B8\n58001000 00000008\n58001000 00000478\n98010100 00000000 00000028\n98020100 00000000 00000020\n58021000 00000000\nA4210000 \n\n",
+            "title": "[Inf. Health]"
+        },
+        {
+            "content": "[Inf. Armor]\n58000000 09835B68\n58001000 000000B8\n58001000 00000008\n58001000 00000478\n98010100 00000000 0000002C\n98020100 00000000 00000024\n58021000 00000000\nA4210000 \n\n",
+            "title": "[Inf. Armor]"
+        },
+        {
+            "content": "[Inf. Ammo]\n040C0000 01CBB8D0 D65F03C0\n\n",
+            "title": "[Inf. Ammo]"
+        },
+        {
+            "content": "[Inf. Items]\n040C0000 01A931CC 528000A8\n\n",
+            "title": "[Inf. Items]"
+        },
+        {
+            "content": "[Max Attack]\n040C0000 020E91B0 14B734F3\n\n",
+            "title": "[Max Attack]"
+        },
+        {
+            "content": "[Max Defence]\n040C0000 020E91C0 14B734EF\n\n",
+            "title": "[Max Defence]"
+        },
+        {
+            "content": "[Max Luck]\n040C0000 020E9290 14B734BB\n\n",
+            "title": "[Max Luck]"
+        },
+        {
+            "content": "[Max Critical Damage]\n040C0000 020E93A0 14B73477\n\n",
+            "title": "[Max Critical Damage]"
+        },
+        {
+            "content": "[Max Electric Damage]\n040C0000 020E93C0 14B7346F\n\n",
+            "title": "[Max Electric Damage]"
+        },
+        {
+            "content": "[Max Ice Damage]\n040C0000 020E93D0 14B7346B\n\n",
+            "title": "[Max Ice Damage]"
+        },
+        {
+            "content": "[Max Fire Damage]\n040C0000 020E93E0 14B73467\n\n",
+            "title": "[Max Fire Damage]"
+        },
+        {
+            "content": "[Max Electric Resistence]\n040C0000 020E93F0 14B73463\n\n",
+            "title": "[Max Electric Resistence]"
+        },
+        {
+            "content": "[Max Ice Resistence]\n040C0000 020E9410 14B7345B\n\n",
+            "title": "[Max Ice Resistence]"
+        },
+        {
+            "content": "[Max Fire Resistence]\n040C0000 020E9400 14B7345F\n\n",
+            "title": "[Max Fire Resistence]"
+        },
+        {
+            "content": "[Free Talent Upgrades]\n040C0000 01A72220 2A1F03E9\n040C0000 01A72440 2A1F03E9\n\n",
+            "title": "[Free Talent Upgrades]"
+        },
+        {
+            "content": "[Inf. Money]\n040C0000 01AA3964 14D04AFF\n040C0000 01AA7270 14D03CBF\n\n",
+            "title": "[Inf. Money]"
+        },
+        {
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000\n",
+            "title": "[Credits: crazy_p]"
+        }
+    ]
+}

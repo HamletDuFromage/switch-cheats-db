@@ -1,0 +1,124 @@
+{
+    "B379E2545C068B65": [
+        {
+            "content": "[01# 99999 Money]\n040A0000 0271C110 5284E1E8\n040A0000 0271C114 B9004268\n040A0000 0271C118 D65F03C0\n040A0000 01577A18 944691BE\n\n",
+            "title": "[01# 99999 Money]"
+        },
+        {
+            "content": "[99999 Money (off)]\n040A0000 01577A18 B9004268\n\n",
+            "title": "[99999 Money (off)]"
+        },
+        {
+            "content": "[02# 99999 Sparkle]\n040A0000 0271C100 B9401900\n040A0000 0271C104 5284E1E0\n040A0000 0271C108 B9001900\n040A0000 0271C10C D65F03C0\n040A0000 01707000 94405440\n\n",
+            "title": "[02# 99999 Sparkle]"
+        },
+        {
+            "content": "[99999 Sparkle]\n040A0000 01707000 B9401908\n\n",
+            "title": "[99999 Sparkle]"
+        },
+        {
+            "content": "[03# Inf Items]\n040A0000 0164A8B8 31018D08\n\n",
+            "title": "[03# Inf Items]"
+        },
+        {
+            "content": "[Inf Items (off)]\n040A0000 0164A8B8 71000508\n\n",
+            "title": "[Inf Items (off)]"
+        },
+        {
+            "content": "[04# Inf WaterCan]\n040A0000 0165133C 52800C88\n\n",
+            "title": "[04# Inf WaterCan]"
+        },
+        {
+            "content": "[Inf WaterCan (off)]\n040A0000 0165133C 4B1602A8\n\n",
+            "title": "[Inf WaterCan (off)]"
+        },
+        {
+            "content": "[05# Instant Grow Plants]\n040A0000 0176F2C4 5284E1E8\n\n",
+            "title": "[05# Instant Grow Plants]"
+        },
+        {
+            "content": "[Instant Grow Plants (off)]\n040A0000 0176F2C4 11000508\n\n",
+            "title": "[Instant Grow Plants (off)]"
+        },
+        {
+            "content": "[06# Add Exp end of the day]\n040A0000 0153BD08 0B144108\n\n",
+            "title": "[06# Add Exp end of the day]"
+        },
+        {
+            "content": "[Add Exp end of the day (off)]\n040A0000 0153BD08 0B140108\n\n",
+            "title": "[Add Exp end of the day (off)]"
+        },
+        {
+            "content": "[07# Inf Stamina]\n040A0000 01652A74 461C3C00\n040A0000 01652A60 1C0000A0\n\n",
+            "title": "[07# Inf Stamina]"
+        },
+        {
+            "content": "[Inf Stamina (off)]\n040A0000 01652A60 9430DA3C\n\n",
+            "title": "[Inf Stamina (off)]"
+        },
+        {
+            "content": "[08# Inf Energy]\n040A0000 01651448 461C3C00\n040A0000 01651404 1C000228\n\n",
+            "title": "[08# Inf Energy]"
+        },
+        {
+            "content": "[Inf Energy (off)]\n040A0000 01651404 1E214808\n\n",
+            "title": "[Inf Energy (off)]"
+        },
+        {
+            "content": "[09# Instant Max Beats]\n040A0000 0271C120 0B080128\n040A0000 0271C124 B9406282\n040A0000 0271C128 7100045F\n040A0000 0271C12C 54000041\n040A0000 0271C130 52800C68\n040A0000 0271C134 17B6CD53\n040A0000 014CF67C 144932A9\n\n",
+            "title": "[09# Instant Max Beats]"
+        },
+        {
+            "content": "[Instant Max Beats (off)]\n040A0000 014CF67C 0B080128\n\n",
+            "title": "[Instant Max Beats (off)]"
+        },
+        {
+            "content": "[10# Inf Move Points]\n040A0000 0271C140 4B010108\n040A0000 0271C144 B9406002\n040A0000 0271C148 7100045F\n040A0000 0271C14C 54000041\n040A0000 0271C150 52800068\n040A0000 0271C154 17FE7631\n040A0000 026B9A14 140189CB\n\n",
+            "title": "[10# Inf Move Points]"
+        },
+        {
+            "content": "[Instant Max Beats (off)]\n040A0000 026B9A14 0B080128\n\n",
+            "title": "[Instant Max Beats (off)]"
+        },
+        {
+            "content": "[11# Ooblets Xp]\n040A0000 0151C6A8 0B144108\n\n",
+            "title": "[11# Ooblets Xp]"
+        },
+        {
+            "content": "[Ooblets Xp (off)]\n040A0000 0151C6A8 0B140108\n\n",
+            "title": "[Ooblets Xp (off)]"
+        },
+        {
+            "content": "[12# Unlock All Recipes]\n040A0000 017B5580 52800020\n040A0000 017B5584 D65F03C0\n\n",
+            "title": "[12# Unlock All Recipes]"
+        },
+        {
+            "content": "[Unlock All Recipes (off)]\n040A0000 017B5580 A9BD7BFD\n040A0000 017B5584 F9000BF5\n\n",
+            "title": "[Unlock All Recipes (off)]"
+        },
+        {
+            "content": "[13# Add Friendship Fast]\n040A0000 0156A8C0 0B154295\n\n",
+            "title": "[13# Add Friendship Fast]"
+        },
+        {
+            "content": "[Add Friendship Fast (off)]\n040A0000 0156A8C0 0B150295\n\n",
+            "title": "[Add Friendship Fast (off)]"
+        },
+        {
+            "content": "[14# Split Item to Add 99]\n040A0000 0164B35C 11018D08\n\n",
+            "title": "[14# Split Item to Add 99]"
+        },
+        {
+            "content": "[Split Item to Add 99 (off)]\n040A0000 0164B35C 4B150108\n\n",
+            "title": "[Split Item to Add 99 (off)]"
+        },
+        {
+            "content": "[15# Move Item To get 99]\n040A0000 016533E0 52800C77\n\n",
+            "title": "[15# Move Item To get 99]"
+        },
+        {
+            "content": "[Move Item To get 99 (off)]\n040A0000 016533E0 B9401AB7",
+            "title": "[Move Item To get 99 (off)]"
+        }
+    ]
+}

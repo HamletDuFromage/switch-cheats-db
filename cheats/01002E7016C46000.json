@@ -1,0 +1,376 @@
+{
+    "B5DC69CED031D447": [
+        {
+            "content": "{- Cult Of The Lamb -}\n040C0000 01962F9C BD40FA6A\n040C0000 01DB3580 1E2A2920\n040C0000 01ADE120 BD407800\n040C0000 01E4AFE0 D10143FF\n040C0000 01CD4B70 1E283800\n040C0000 01E52E20 BD413000\n040C0000 01BE5178 4EA81D00\n040C0000 019FBF78 1E203940\n040C0000 01A6FB60 D10243FF\n040C0000 01BE5668 4EA81D00\n040C0000 01BE5598 4EA81D00\n040C0000 0216A358 1100050A\n040C0000 0216A354 B9407128\n040C0000 0216AAD0 B9407509\n080C0000 0216E4E4 1E212800 BD40B100\n040C0000 0216EA10 B940BD00\n040C0000 01B88308 B9470C19\n040C0000 038A8D0C B9402D08\n040C0000 01CB1E34 BD009900\n040C0000 01CAFA4C BD009900\n040C0000 02646310 BD009900\n040C0000 01A7A7C4 1E2E1001\n080C0000 01C3974C 1E212800 1E229001\n080C0000 0217BCAC 1E201000 1E2E1008\n040C0000 01CB0230 B940F900\n040C0000 01DABD0C B9486000\n080C0000 0263DE00 A9014FF4 A9BE7BFD\n040C0000 018F1D48 B9401513\n040C0000 018F1BE0 B948A013\n040C0000 018F2050 0B130108\n040C0000 018F11D4 0B140108\n\n",
+            "title": "{- Cult Of The Lamb -}"
+        },
+        {
+            "content": "[(ZL) Speed Up]\n80000100\n040C0000 01962F9C 1E26100A\n20000000\n\n",
+            "title": "[(ZL) Speed Up]"
+        },
+        {
+            "content": "[Freeze Time]\n040C0000 01DB3580 D503201F\n\n",
+            "title": "[Freeze Time]"
+        },
+        {
+            "content": "[(L+R) Skip to next Day]\n800000C0\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n78000000 000002D0\n64000000 00000000 44960000\n20000000\n\n",
+            "title": "[(L+R) Skip to next Day]"
+        },
+        {
+            "content": "[Insta-Kill]\n040C0000 01ADE120 1E2703E0\n\n",
+            "title": "[Insta-Kill]"
+        },
+        {
+            "content": "[Inf. Red Hearts]\n040C0000 01E4AFE0 D65F03C0\n\n",
+            "title": "[Inf. Red Hearts]"
+        },
+        {
+            "content": "[Inf. Max Red Hearts]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n78000000 000007F8\n68000000 41A00000 41A00000\n\n",
+            "title": "[Inf. Max Red Hearts]"
+        },
+        {
+            "content": "[Inf. Blue Hearts]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n78000000 00000800\n64000000 00000000 41A00000\n\n",
+            "title": "[Inf. Blue Hearts]"
+        },
+        {
+            "content": "[Inf. Black Hearts]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n78000000 00000804\n64000000 00000000 41A00000\n\n",
+            "title": "[Inf. Black Hearts]"
+        },
+        {
+            "content": "[Inf. Spirit Hearts]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n78000000 00000808\n68000000 41A00000 41A00000\n\n",
+            "title": "[Inf. Spirit Hearts]"
+        },
+        {
+            "content": "[Inf. Fervour]\n040C0000 01CD4B70 1E282800\n\n",
+            "title": "[Inf. Fervour]"
+        },
+        {
+            "content": "[Inf. Hunger]\n040C0000 01E52E20 1E270100\n\n",
+            "title": "[Inf. Hunger]"
+        },
+        {
+            "content": "[Inf. Hunger Worshippers]\n040C0000 01BE5178 1E204040\n\n",
+            "title": "[Inf. Hunger Worshippers]"
+        },
+        {
+            "content": "[Inf. Faith]\n040C0000 019FBF78 1E2A0940\n\n",
+            "title": "[Inf. Faith]"
+        },
+        {
+            "content": "[No Illness]\n040C0000 01A6FB60 D65F03C0\n\n",
+            "title": "[No Illness]"
+        },
+        {
+            "content": "[Worshippers don't get Sick]\n040C0000 01BE5668 1E2703E0\n\n",
+            "title": "[Worshippers don't get Sick]"
+        },
+        {
+            "content": "[Worshippers don't get Tired]\n040C0000 01BE5598 1E204040\n\n",
+            "title": "[Worshippers don't get Tired]"
+        },
+        {
+            "content": "[Worshippers don't get older]\n040C0000 0216A358 0B1F010A\n\n",
+            "title": "[Worshippers don't get older]"
+        },
+        {
+            "content": "[Worshippers are 1 Year old]\n040C0000 0216A354 52800028\n\n",
+            "title": "[Worshippers are 1 Year old]"
+        },
+        {
+            "content": "[Worshippers Life Expectation is 1'000 Years]\n040C0000 0216AAD0 52807D09\n\n",
+            "title": "[Worshippers Life Expectation is 1'000 Years]"
+        },
+        {
+            "content": "[Worshippers max Loyalty after Blessing]\n080C0000 0216E4E4 1E200800 1E249000\n\n",
+            "title": "[Worshippers max Loyalty after Blessing]"
+        },
+        {
+            "content": "[Worshippers max Level after Blessing]\n080C0000 0216E4E4 1E200800 1E249000\n040C0000 0216EA10 528003A0\n\n",
+            "title": "[Worshippers max Level after Blessing]"
+        },
+        {
+            "content": "[Weapon Level Max]\n040C0000 01B88308 5284E1F9\n\n",
+            "title": "[Weapon Level Max]"
+        },
+        {
+            "content": "[Weapon Attachment no Cooldown]\n040C0000 038A8D0C 2A1F03E8\n\n",
+            "title": "[Weapon Attachment no Cooldown]"
+        },
+        {
+            "content": "[Insta-Chop Wood]\n040C0000 01CB1E34 BD009901\n\n",
+            "title": "[Insta-Chop Wood]"
+        },
+        {
+            "content": "[Insta-Mine Stones]\n040C0000 01CAFA4C BD009903\n\n",
+            "title": "[Insta-Mine Stones]"
+        },
+        {
+            "content": "[Insta-Pick Up Berries/Flowers]\n040C0000 02646310 BD009901\n\n",
+            "title": "[Insta-Pick Up Berries/Flowers]"
+        },
+        {
+            "content": "[Insta-Dig Up Stumps]\n040C0000 01A7A7C4 1E27F001\n\n",
+            "title": "[Insta-Dig Up Stumps]"
+        },
+        {
+            "content": "[Insta-Build Buildings]\n080C0000 01C3974C 1E210820 1E27F001\n\n",
+            "title": "[Insta-Build Buildings]"
+        },
+        {
+            "content": "[Insta-Consecrate/Refine Resources]\n080C0000 0217BCAC 1E27F000 1E27F008\n\n",
+            "title": "[Insta-Consecrate/Refine Resources]"
+        },
+        {
+            "content": "[Inf. Divine Inspiration Souls]\n040C0000 01CB0230 52800020\n\n",
+            "title": "[Inf. Divine Inspiration Souls]"
+        },
+        {
+            "content": "[Inf. Divine Inspiration Points]\n040C0000 01DABD0C 52800020\n\n",
+            "title": "[Inf. Divine Inspiration Points]"
+        },
+        {
+            "content": "[Unlock All Structures]\n080C0000 0263DE00 D65F03C0 52800020\n\n",
+            "title": "[Unlock All Structures]"
+        },
+        {
+            "content": "[Easy Cooking/Crafting (Only 1 Item Required)]\n040C0000 018F1D48 52807CF3\n040C0000 018F2050 0B1F0108\n\n",
+            "title": "[Easy Cooking/Crafting (Only 1 Item Required)]"
+        },
+        {
+            "content": "[Inf. Commandment Stones]\n040C0000 018F1BE0 52800033\n\n",
+            "title": "[Inf. Commandment Stones]"
+        },
+        {
+            "content": "[Inf. Items]\n040C0000 018F2050 0B1F0108\n\n",
+            "title": "[Inf. Items]"
+        },
+        {
+            "content": "[Picked Up Item x2]\n040C0000 018F11D4 0B140508\n",
+            "title": "[Picked Up Item x2]"
+        },
+        {
+            "content": "[Picked Up Item x4]\n040C0000 018F11D4 0B140908\n",
+            "title": "[Picked Up Item x4]"
+        },
+        {
+            "content": "[Picked Up Item x16]\n040C0000 018F11D4 0B141108\n",
+            "title": "[Picked Up Item x16]"
+        },
+        {
+            "content": "[Picked Up Item x32]\n040C0000 018F11D4 0B141508\n",
+            "title": "[Picked Up Item x32]"
+        },
+        {
+            "content": "[Picked Up Item x999]\n040C0000 018F11D4 52807CE8\n\n",
+            "title": "[Picked Up Item x999]"
+        },
+        {
+            "content": "[Slot 1 - 50 x999]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n300D0000 00000032\n980100E0\n58011000 00000020\n78010000 00000014\n64010000 00000000 000003E7\n78000000 00000008\n310D0000\n\n",
+            "title": "[Slot 1 - 50 x999]"
+        },
+        {
+            "content": "[- Currency Cheats -]\n00000000 00000000 00000000\n\n",
+            "title": "[- Currency Cheats -]"
+        },
+        {
+            "content": "[Slot 1 Lumber]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000001\n\n",
+            "title": "[Slot 1 Lumber]"
+        },
+        {
+            "content": "[Slot 1 Stone]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000002\n\n",
+            "title": "[Slot 1 Stone]"
+        },
+        {
+            "content": "[Slot 1 Bone]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000009\n\n",
+            "title": "[Slot 1 Bone]"
+        },
+        {
+            "content": "[Slot 1 Coin]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000014\n\n",
+            "title": "[Slot 1 Coin]"
+        },
+        {
+            "content": "[Slot 1 Heart of a Heretic]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000016\n\n",
+            "title": "[Slot 1 Heart of a Heretic]"
+        },
+        {
+            "content": "[Slot 1 Holy Talisman]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000072\n\n",
+            "title": "[Slot 1 Holy Talisman]"
+        },
+        {
+            "content": "[- Food Cheats -]\n00000000 00000000 00000000\n\n",
+            "title": "[- Food Cheats -]"
+        },
+        {
+            "content": "[Slot 1 Beetroot]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000061\n\n",
+            "title": "[Slot 1 Beetroot]"
+        },
+        {
+            "content": "[Slot 1 Berry]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000015\n\n",
+            "title": "[Slot 1 Berry]"
+        },
+        {
+            "content": "[Slot 1 Blowfish]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000060\n\n",
+            "title": "[Slot 1 Blowfish]"
+        },
+        {
+            "content": "[Slot 1 Cauliflower]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000066\n\n",
+            "title": "[Slot 1 Cauliflower]"
+        },
+        {
+            "content": "[Slot 1 Crab]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 0000005B\n\n",
+            "title": "[Slot 1 Crab]"
+        },
+        {
+            "content": "[Slot 1 Fertilizer]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000027\n\n",
+            "title": "[Slot 1 Fertilizer]"
+        },
+        {
+            "content": "[Slot 1 Follower Meat]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 0000003E\n\n",
+            "title": "[Slot 1 Follower Meat]"
+        },
+        {
+            "content": "[Slot 1 Grass]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000023\n\n",
+            "title": "[Slot 1 Grass]"
+        },
+        {
+            "content": "[Slot 1 Lobster]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 0000005C\n\n",
+            "title": "[Slot 1 Lobster]"
+        },
+        {
+            "content": "[Slot 1 Meat]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000006\n\n",
+            "title": "[Slot 1 Meat]"
+        },
+        {
+            "content": "[Slot 1 Minnow]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000021\n\n",
+            "title": "[Slot 1 Minnow]"
+        },
+        {
+            "content": "[Slot 1 Morsel]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000069\n\n",
+            "title": "[Slot 1 Morsel]"
+        },
+        {
+            "content": "[Slot 1 Octopus]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 0000005D\n\n",
+            "title": "[Slot 1 Octopus]"
+        },
+        {
+            "content": "[Slot 1 Pumpkin]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000032\n\n",
+            "title": "[Slot 1 Pumpkin]"
+        },
+        {
+            "content": "[Slot 1 Salmon]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 0000001C\n\n",
+            "title": "[Slot 1 Salmon]"
+        },
+        {
+            "content": "[Slot 1 Squid]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 0000005E\n\n",
+            "title": "[Slot 1 Squid]"
+        },
+        {
+            "content": "[Slot 1 Swordfish]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 0000005F\n\n",
+            "title": "[Slot 1 Swordfish]"
+        },
+        {
+            "content": "[Slot 1 Tuna]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000022\n\n",
+            "title": "[Slot 1 Tuna]"
+        },
+        {
+            "content": "[- Item Cheats -]\n00000000 00000000 00000000\n\n",
+            "title": "[- Item Cheats -]"
+        },
+        {
+            "content": "[Slot 1 Beetroot Seed]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000062\n\n",
+            "title": "[Slot 1 Beetroot Seed]"
+        },
+        {
+            "content": "[Slot 1 Berry Bush Seed]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000008\n\n",
+            "title": "[Slot 1 Berry Bush Seed]"
+        },
+        {
+            "content": "[Slot 1 Big Gift]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 0000002C\n\n",
+            "title": "[Slot 1 Big Gift]"
+        },
+        {
+            "content": "[Slot 1 Camellia]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000037\n\n",
+            "title": "[Slot 1 Camellia]"
+        },
+        {
+            "content": "[Slot 1 Camellia Seed]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000048\n\n",
+            "title": "[Slot 1 Camellia Seed]"
+        },
+        {
+            "content": "[Slot 1 Cauliflower Seed]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000067\n\n",
+            "title": "[Slot 1 Cauliflower Seed]"
+        },
+        {
+            "content": "[Slot 1 Crystal Shards]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000059\n\n",
+            "title": "[Slot 1 Crystal Shards]"
+        },
+        {
+            "content": "[Slot 1 Eye of the Witness]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000065\n\n",
+            "title": "[Slot 1 Eye of the Witness]"
+        },
+        {
+            "content": "[Slot 1 Feather Necklace]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 0000002E\n\n",
+            "title": "[Slot 1 Feather Necklace]"
+        },
+        {
+            "content": "[Slot 1 Flower Necklace]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 0000002D\n\n",
+            "title": "[Slot 1 Flower Necklace]"
+        },
+        {
+            "content": "[Slot 1 Gold Bars]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000056\n\n",
+            "title": "[Slot 1 Gold Bars]"
+        },
+        {
+            "content": "[Slot 1 Gold Nugget]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000053\n\n",
+            "title": "[Slot 1 Gold Nugget]"
+        },
+        {
+            "content": "[Slot 1 Menticide Mushroom]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 0000001D\n\n",
+            "title": "[Slot 1 Menticide Mushroom]"
+        },
+        {
+            "content": "[Slot 1 Menticide Mushroom Spore]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000046\n\n",
+            "title": "[Slot 1 Menticide Mushroom Spore]"
+        },
+        {
+            "content": "[Slot 1 Moon Necklace]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000031\n\n",
+            "title": "[Slot 1 Moon Necklace]"
+        },
+        {
+            "content": "[Slot 1 Natures Necklace]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000030\n\n",
+            "title": "[Slot 1 Natures Necklace]"
+        },
+        {
+            "content": "[Slot 1 Pumpkin Seed]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000033\n\n",
+            "title": "[Slot 1 Pumpkin Seed]"
+        },
+        {
+            "content": "[Slot 1 Shell]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000075\n\n",
+            "title": "[Slot 1 Shell]"
+        },
+        {
+            "content": "[Slot 1 Skull Necklace]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 0000002F\n\n",
+            "title": "[Slot 1 Skull Necklace]"
+        },
+        {
+            "content": "[Slot 1 Small Gift]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 0000002B\n\n",
+            "title": "[Slot 1 Small Gift]"
+        },
+        {
+            "content": "[Slot 1 Spider Silk]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 0000005A\n\n",
+            "title": "[Slot 1 Spider Silk]"
+        },
+        {
+            "content": "[Slot 1 Stone Blocks]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000052\n\n",
+            "title": "[Slot 1 Stone Blocks]"
+        },
+        {
+            "content": "[Slot 1 Wooden Planks]\n58000000 074F5E70\n58001000 000000B8\n58001000 000000B8\n58001000 000006B8\n58001000 00000010\n58001000 00000020\n78000000 00000010\n64000000 00000000 00000051\n\n",
+            "title": "[Slot 1 Wooden Planks]"
+        },
+        {
+            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
+            "title": "[Credits: crazy_p]"
+        }
+    ]
+}
