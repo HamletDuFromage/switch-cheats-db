@@ -893,6 +893,7 @@
         "title": "Endless Memories"
     },
     "0100031018CFE000": {
+        "0": "587F5E0024835C69",
         "65536": "B81BB3E0BD1D6B34",
         "latest": 65536,
         "title": "Touhou Gouyoku Ibun\u3000\uff5e Sunken Fossil World."
@@ -1086,7 +1087,8 @@
     },
     "010003D018708000": {
         "0": "4A06EBBB5A2E4FE4",
-        "latest": 0,
+        "65536": "4A06EBBB5A2E4FE4",
+        "latest": 65536,
         "title": "Sherlock Holmes and The Hound of The Baskervilles"
     },
     "010003E0099AC000": {
@@ -2691,6 +2693,11 @@
         "latest": 0,
         "title": "Inertia: Redux"
     },
+    "01000A3019352000": {
+        "0": "42FC9B577CFF48E3",
+        "latest": 0,
+        "title": "Lost Grimoires 2: Shard of Mystery"
+    },
     "01000A400AF2A000": {
         "0": "668EAFBBD09E8344",
         "latest": 0
@@ -4200,8 +4207,9 @@
         "262144": "5C8C6E8A2192458A",
         "327680": "ECDA36C02B0D9305",
         "393216": "D7A4F40C98F88DC7",
+        "458752": "9EF425C7699C0388",
         "65536": "D407259B442EF81A",
-        "latest": 393216,
+        "latest": 458752,
         "title": "MotoGP\u212221"
     },
     "01000F5014620000": {
@@ -5165,8 +5173,9 @@
         "0": "AA9ACAC58094CA92",
         "131072": "F3AF1664AC7AF012",
         "196608": "4521B38DD81FD0AC",
+        "262144": "97D1824F692E1609",
         "65536": "EAB3D1B91A287E9E",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Grapple Dog"
     },
     "0100134011E32000": {
@@ -5653,6 +5662,11 @@
         "65536": "C8C895DC91281516",
         "latest": 262144,
         "title": "Taiko no Tatsujin: Rhythmic Adventure 2"
+    },
+    "01001580188F6000": {
+        "65536": "C69BD070AA12CAC2",
+        "latest": 65536,
+        "title": "Apr\u00e9 Lapli [After the rain]"
     },
     "010015A00AF1E000": {
         "0": "5F6A4A66CB8C2E46",
@@ -6645,6 +6659,7 @@
         "title": "Arcade Archives BOMB JACK"
     },
     "010019200C620000": {
+        "0": "286A7F280A5FC348",
         "327680": "5DFE45262BC3CC40",
         "393216": "70B147DD0EDF2C44",
         "458752": "5DE070205081F94E",
@@ -9135,6 +9150,11 @@
         "latest": 0,
         "title": "Fly The Bird"
     },
+    "0100217019A10000": {
+        "0": "6D25E7F6F16F3EDE",
+        "latest": 0,
+        "title": "CubicBan"
+    },
     "010021800B6C0000": {
         "0": "056ADD8E36FACF4A",
         "65536": "9BD7DE8187A10C44",
@@ -10021,8 +10041,9 @@
         "327680": "8B67A0C2A963C648",
         "393216": "2FCAD0D471C55D4D",
         "458752": "8D537DC87A26F54B",
+        "524288": "E2F47A771B3D794A",
         "65536": "1F53E00D05581144",
-        "latest": 458752
+        "latest": 524288
     },
     "010024B015F76000": {
         "131072": "F824021F980C2E11",
@@ -10408,8 +10429,9 @@
         "131072": "52C8E63264BE2CD1",
         "196608": "C569DC63AEBEDC86",
         "262144": "C9E27E373A8415EC",
+        "327680": "43F848B0FAC23E65",
         "65536": "7A410D12F6C321F2",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Potion Permit"
     },
     "010025F0126FF000": {
@@ -13822,9 +13844,13 @@
         "latest": 0
     },
     "0100317013770000": {
+        "0": "262444E011E629AB",
         "65536": "29C71F06D781EFF1",
         "latest": 65536,
         "title": "MARIO + RABBIDS SPARKS OF HOPE"
+    },
+    "0100317013771000": {
+        "latest": 0
     },
     "0100317015A2A000": {
         "65536": "3E4E6700DFCBB640",
@@ -14301,8 +14327,9 @@
         "0": "4DAFEC7BC7213DBF",
         "131072": "76213D59B9F18ACF",
         "196608": "079DDFF74339F3B4",
+        "262144": "FF2FE832AFD41DE2",
         "65536": "C73CC7F2A1442AAD",
-        "latest": 196608,
+        "latest": 262144,
         "title": "THE Table Game"
     },
     "010032E0163ED000": {
@@ -17690,6 +17717,9 @@
         "65536": "B4F410AFD99DA685",
         "latest": 131072,
         "title": "Them's Fightin' Herds"
+    },
+    "01003E80178A1000": {
+        "latest": 0
     },
     "01003EA01290A000": {
         "0": "5A743EAD076CB444",
@@ -22253,6 +22283,10 @@
         "0": "DF37FC89829C9393",
         "latest": 0,
         "title": "Shadows of Kurgansk"
+    },
+    "01004D901984C000": {
+        "0": "0D95F55A2FE10889",
+        "latest": 0
     },
     "01004DA00E57A000": {
         "0": "D0A328AB81E86C2D",
@@ -28865,6 +28899,10 @@
         "latest": 0,
         "title": "Rotund Rebound"
     },
+    "010064C0191D0000": {
+        "0": "D7F2A1EFF92A11C8",
+        "latest": 0
+    },
     "010064E00A932000": {
         "0": "0D39200CBA054D56",
         "65536": "525B902E6F916EA5",
@@ -30015,6 +30053,11 @@
         "latest": 0,
         "title": "Horror Stories"
     },
+    "0100691018650000": {
+        "0": "6803A0A3F0FEE601",
+        "latest": 0,
+        "title": "One True Hero"
+    },
     "0100692003FCE000": {
         "0": "B15690A450CD404D",
         "latest": 0,
@@ -30918,6 +30961,7 @@
         "1441792": "F33C2DC2B4D92167",
         "1507328": "068952BEFD54652A",
         "1572864": "32BBB76EDD262EE1",
+        "1638400": "0AA16177CA01D5E6",
         "196608": "870832BF5B09FF82",
         "262144": "8BA139CC8F1E57B7",
         "327680": "FD6B97411349DDB3",
@@ -30932,7 +30976,7 @@
         "851968": "5310AD446D674D2C",
         "917504": "9B50BF653C4900DD",
         "983040": "AE8C04D0E3F8949B",
-        "latest": 1572864,
+        "latest": 1638400,
         "title": "Minecraft Dungeons"
     },
     "01006C100EC09000": {
@@ -31812,6 +31856,11 @@
         "65536": "C374324399D5DB73",
         "latest": 65536,
         "title": "Arcade Archives The Genji and the Heike Clans"
+    },
+    "01006F7017102000": {
+        "0": "4D808895D47C7845",
+        "latest": 0,
+        "title": "Spinfrog: All aboard the Frogcopter"
     },
     "01006F8002326000": {
         "0": "7FC1BAFF976AECA4",
@@ -33915,7 +33964,8 @@
     },
     "01007600115CE000": {
         "0": "9101CD39A5D71C29",
-        "latest": 0,
+        "65536": "9101CD39A5D71C29",
+        "latest": 65536,
         "title": "CHAOS CODE -NEW SIGN OF CATASTROPHE-"
     },
     "010076001311E000": {
@@ -35386,8 +35436,9 @@
         "title": "CLANNAD Side Stories"
     },
     "01007B5017A12000": {
+        "131072": "95FA701F6A1F1409",
         "65536": "95FA701F6A1F1409",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Sifu"
     },
     "01007B6006092000": {
@@ -35976,7 +36027,8 @@
         "393216": "051894A6CCF05242",
         "458752": "2AC34563C81AE543",
         "524288": "20AA566D3712A644",
-        "latest": 524288
+        "589824": "9E9E40CC264AB743",
+        "latest": 589824
     },
     "01007DA0140E8000": {
         "0": "336B156B45A4DAA1",
@@ -37536,6 +37588,10 @@
         "latest": 0,
         "title": "Construction Machines SIM: Bridges, buildings and constructor trucks simulator"
     },
+    "010082F018D00000": {
+        "65536": "4147672FC59BECA2",
+        "latest": 65536
+    },
     "0100830004FB6000": {
         "0": "EA92897A5BE7AE42",
         "131072": "40F973CE3B5EC8D7",
@@ -37612,6 +37668,10 @@
         "0": "D2AD028E37A42107",
         "latest": 0,
         "title": "Work It Out! Job Challenge"
+    },
+    "010083501786A000": {
+        "65536": "7E06FBEF7AD8E317",
+        "latest": 65536
     },
     "010083600AE9E000": {
         "0": "B5186849F0B450C6",
@@ -38168,8 +38228,9 @@
     },
     "0100856016B8E000": {
         "0": "B72671D3B8963B52",
+        "131072": "E1FB3A4089544F59",
         "65536": "59195C9A7A64E47F",
-        "latest": 65536
+        "latest": 131072
     },
     "010085700ABC8000": {
         "0": "389DDD44A2150B60",
@@ -43176,7 +43237,8 @@
         "262144": "4D02333A812D9A48",
         "327680": "662C8025F146F54A",
         "393216": "F17E896749BE5646",
-        "latest": 393216,
+        "458752": "2641EC4578CC4B49",
+        "latest": 458752,
         "title": "TerraTech"
     },
     "010096400CBC7000": {
@@ -43496,6 +43558,11 @@
     "01009770152D4000": {
         "0": "777DFDE4A2922EA8",
         "latest": 0
+    },
+    "0100977017900000": {
+        "0": "C344D05E28A9063C",
+        "latest": 0,
+        "title": "The Walking Zombie 2"
     },
     "0100978009B98000": {
         "0": "424C9467CCA5724C",
@@ -46609,6 +46676,11 @@
     "0100A2600FCA1000": {
         "latest": 131072
     },
+    "0100A2601720A000": {
+        "0": "E81A048599A89881",
+        "latest": 0,
+        "title": "Gas Station Simulator"
+    },
     "0100A2700A86E000": {
         "0": "D358C95DCF624347",
         "latest": 0,
@@ -47213,8 +47285,9 @@
     "0100A4A016B1A000": {
         "0": "34A0EF26AF353707",
         "131072": "D1C9002F1650FC7E",
+        "196608": "9D92732AE5593C03",
         "65536": "E9251248AE1C5571",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Life in Willowdale: Farm Adventures"
     },
     "0100A4B012D72000": {
@@ -49429,8 +49502,9 @@
     "0100ACA017E4E000": {
         "0": "CBEC53186F0D2944",
         "131072": "7F528F2C7BBF814C",
+        "196608": "DA72F711ABF45649",
         "65536": "7E8BA5483C4F5B45",
-        "latest": 131072,
+        "latest": 196608,
         "title": "NBA 2K23"
     },
     "0100ACB004006000": {
@@ -49465,6 +49539,7 @@
         "latest": 196608
     },
     "0100ACB0187C0000": {
+        "0": "23F73B258DB77395",
         "65536": "4BCBB9C2A7F1652E",
         "latest": 65536,
         "title": "RichMan 11"
@@ -50467,8 +50542,9 @@
     },
     "0100B040195F6000": {
         "0": "F820907D83D08F2B",
+        "131072": "84A14E1FE790D349",
         "65536": "1E3A6D4291D90135",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Beeny"
     },
     "0100B0500FE4E000": {
@@ -54989,6 +55065,7 @@
         "latest": 0
     },
     "0100BFA0180EE000": {
+        "0": "7651C9AF991EEE4E",
         "65536": "133BC488AE6C8B4D",
         "latest": 65536,
         "title": "Shutter Nyan! Enhanced Edition"
@@ -56953,8 +57030,9 @@
         "4194304": "5F482622C5ABD490",
         "4259840": "684EA3AAB49E0F01",
         "4325376": "CCC98A2E477041B5",
+        "4390912": "1775F44F8C2D72EC",
         "786432": "403546D24898F9E9",
-        "latest": 4325376,
+        "latest": 4390912,
         "title": "Brawlhalla"
     },
     "0100C6800D770000": {
@@ -58760,6 +58838,7 @@
         "131072": "7065841AF421ECAC",
         "1310720": "CD6C78046EDAFADD",
         "1376256": "14F346831403B9FB",
+        "1441792": "FB92A3F0636997E1",
         "196608": "A76AA87103ABB94C",
         "262144": "A6E73731D5C6E39F",
         "327680": "067A7ADF31D46E68",
@@ -58772,7 +58851,7 @@
         "786432": "C8E39D73F9B3EB7B",
         "851968": "76CE1BCAE4443148",
         "983040": "74FCE292FBFC182A",
-        "latest": 1376256,
+        "latest": 1441792,
         "title": "Ninjala"
     },
     "0100CCD0073EB000": {
@@ -60288,6 +60367,11 @@
         "latest": 131072,
         "title": "Swords & Bones"
     },
+    "0100D210177C6000": {
+        "65536": "C30E9E92F86C4143",
+        "latest": 65536,
+        "title": "ODDWORLD: SOULSTORM"
+    },
     "0100D2200BC82000": {
         "0": "76ABCD179E360A41",
         "131072": "51628CCCD6B4EA49",
@@ -60441,8 +60525,9 @@
         "131072": "1203DBA8157B772B",
         "196608": "C97135F03130DDC9",
         "262144": "A3BA2A96C743AD1C",
+        "327680": "B651AA9E65F0F860",
         "65536": "2A18D706D6557DC8",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Nintendo Switch\u2122 Sports"
     },
     "0100D3000AEC2000": {
@@ -60597,8 +60682,9 @@
         "196608": "C892B7168B1274A3",
         "262144": "D8CA15C9D1688E1E",
         "327680": "140186D6DDA777CD",
+        "393216": "0A44EF98614073BB",
         "65536": "97F7329EA93B1F05",
-        "latest": 327680,
+        "latest": 393216,
         "title": "Disney Dreamlight Valley"
     },
     "0100D3A00409E000": {
@@ -61003,7 +61089,8 @@
     },
     "0100D51017162000": {
         "0": "93C8899ABC7EA24E",
-        "latest": 0,
+        "65536": "67FFE9674527E04E",
+        "latest": 65536,
         "title": "THE Bass Fishing"
     },
     "0100D520119D6000": {
@@ -61186,6 +61273,10 @@
         "65536": "FA5DA4A9DEBBD649",
         "latest": 65536,
         "title": "Kairobotica"
+    },
+    "0100D5F019B2A000": {
+        "196608": "99FC018EDF9183BA",
+        "latest": 196608
     },
     "0100D6000B52C000": {
         "393216": "F31EC040CBAE04D8",
@@ -61493,10 +61584,20 @@
         "latest": 131072,
         "title": "Smash Club: Streets of Shmeenis"
     },
+    "0100D6F0157B0000": {
+        "0": "2BE8A997C9BECE9C",
+        "latest": 0,
+        "title": "Daardoa"
+    },
     "0100D6F016676000": {
         "0": "FFDC6FF9B444DA08",
         "latest": 0,
         "title": "Seven Pirates H"
+    },
+    "0100D6F018576000": {
+        "0": "3BAE08FF9858D1C4",
+        "latest": 0,
+        "title": "Aery - Last Day of Earth"
     },
     "0100D7000AE6A000": {
         "0": "101279C95BF61B40",
@@ -63478,6 +63579,11 @@
         "0": "481393B291357B8A",
         "latest": 0,
         "title": "Polygraph: Escape from the Lie Detector"
+    },
+    "0100DD30191DC000": {
+        "0": "9511CC8D27746B20",
+        "latest": 0,
+        "title": "She Wants Me Dead"
     },
     "0100DD400C468000": {
         "131072": "91179A3BACC3A6C3",
@@ -65508,7 +65614,8 @@
         "655360": "D5AA1EEA190AFA4A",
         "720896": "1E1DC2A07DE6914F",
         "786432": "F09BDED360427748",
-        "latest": 786432,
+        "851968": "2CDB39E001512C41",
+        "latest": 851968,
         "title": "Terraria"
     },
     "0100E4600B166000": {
@@ -65629,7 +65736,8 @@
     },
     "0100E490189BE000": {
         "0": "BCB28072F898578E",
-        "latest": 0,
+        "65536": "BCB28072F898578E",
+        "latest": 65536,
         "title": "CrashMetal - Drift Racing Car Driving Simulator 2022 Games"
     },
     "0100E4A00D066000": {
@@ -68336,10 +68444,19 @@
         "latest": 196608,
         "title": "Mario Kart Live: Home Circuit\u2122"
     },
+    "0100ED100E982000": {
+        "0": "1E19E3DE9F6CBB41",
+        "latest": 0
+    },
     "0100ED1016FDC000": {
         "0": "3E4E84C099E08903",
         "latest": 0,
         "title": "Pixel Game Maker Series MEDIUM-NAUT"
+    },
+    "0100ED10189C8000": {
+        "0": "4236C249C8D9CF1B",
+        "65536": "C3EECA8CA6D4251A",
+        "latest": 65536
     },
     "0100ED200B6FC000": {
         "0": "41E7D227F248534E",
@@ -68396,6 +68513,7 @@
         "title": "Amazing Superhero Squad"
     },
     "0100ED401918A000": {
+        "0": "CE013D6A859D0911",
         "65536": "DD2608736472A214",
         "latest": 65536,
         "title": "Sea Horizon"
@@ -70017,8 +70135,9 @@
         "latest": 0
     },
     "0100F3000E9E4000": {
+        "131072": "EAFE1AA17E443490",
         "65536": "99D64088F7837545",
-        "latest": 65536
+        "latest": 131072
     },
     "0100F3000EBA8000": {
         "0": "E5FF055E3B99174B",
@@ -70247,8 +70366,9 @@
     },
     "0100F3A00FB78000": {
         "0": "6911A0B8B685E532",
+        "131072": "6911A0B8B685E532",
         "65536": "6911A0B8B685E532",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Mononoke Slashdown"
     },
     "0100F3B00CF32000": {
@@ -70740,6 +70860,12 @@
         "131072": "92E5635BF196244A",
         "latest": 131072,
         "title": "Rally Rock 'N Racing"
+    },
+    "0100F570160CC000": {
+        "0": "F70621D5EF43C837",
+        "65536": "398D070397D942BD",
+        "latest": 65536,
+        "title": "Seduced in the Sleepless City"
     },
     "0100F5800ABE8000": {
         "latest": 0
@@ -71519,6 +71645,11 @@
         "latest": 0,
         "title": "Fingun"
     },
+    "0100F85016E2C000": {
+        "0": "21130C77544EA84B",
+        "latest": 0,
+        "title": "Pnevmo-Capsula"
+    },
     "0100F85018B94000": {
         "0": "BBF8D96D3D362964",
         "65536": "BBF8D96D3D362964",
@@ -72031,6 +72162,11 @@
         "65536": "99CAC56A0829EF37",
         "latest": 262144,
         "title": "STAR WARS\u2122 Republic Commando\u2122"
+    },
+    "0100FA1019772000": {
+        "0": "4925D291DBE976D2",
+        "latest": 0,
+        "title": "Pure-hearted Gyaru and the Shape of Happiness"
     },
     "0100FA2014C78000": {
         "0": "6F551009B2033683",
@@ -72733,7 +72869,8 @@
         "458752": "93B789E2AB2E1645",
         "589824": "385D0E43A4FE6793",
         "720896": "A0942C1580E54C88",
-        "latest": 720896,
+        "786432": "72373241F48930CD",
+        "latest": 786432,
         "title": "Ultimate Chicken Horse"
     },
     "0100FCF00F6CC000": {
