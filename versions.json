@@ -2665,8 +2665,9 @@
     "01000A10041EA000": {
         "0": "B3F6E5DA5C501857",
         "196608": "6E9B8523F3F0BD6D",
+        "262144": "771BDFB65F8D0AF7",
         "65536": "F924779598832227",
-        "latest": 196608,
+        "latest": 262144,
         "title": "The Elder Scrolls V: Skyrim"
     },
     "01000A10041EB000": {
@@ -4037,6 +4038,11 @@
         "65536": "0854BA405CD1554F",
         "latest": 262144,
         "title": "Retro Machina"
+    },
+    "01000ED015DA4000": {
+        "0": "8D5250A2209D4DF1",
+        "latest": 0,
+        "title": "One More Island"
     },
     "01000EE010B40000": {
         "0": "53FE8E0FD4009F61",
@@ -5664,6 +5670,7 @@
         "title": "Taiko no Tatsujin: Rhythmic Adventure 2"
     },
     "01001580188F6000": {
+        "0": "C69BD070AA12CAC2",
         "65536": "C69BD070AA12CAC2",
         "latest": 65536,
         "title": "Apr\u00e9 Lapli [After the rain]"
@@ -6612,6 +6619,11 @@
         "latest": 0,
         "title": "FRACTER"
     },
+    "010018F017D7E000": {
+        "0": "79552A7BC1332DE0",
+        "latest": 0,
+        "title": "H1.Jack"
+    },
     "010019000034A000": {
         "0": "E91F29B4792C7FA4",
         "196608": "B008FB962046F3B6",
@@ -7095,6 +7107,7 @@
         "title": "Castlevania Anniversary Collection"
     },
     "01001A800D926000": {
+        "0": "2CA0F2EC4E27BA44",
         "65536": "EBC2D66DF652064F",
         "latest": 65536
     },
@@ -8505,6 +8518,11 @@
         "latest": 131072,
         "title": "Gradiently"
     },
+    "01001F3018880000": {
+        "65536": "5CEA26D7402736C5",
+        "latest": 65536,
+        "title": "Asterix & Obelix XXXL : The Ram From Hibernia"
+    },
     "01001F400F08A000": {
         "0": "39C342343CD1B944",
         "65536": "64ECD02DDA8D6348",
@@ -9822,6 +9840,11 @@
         "65536": "D1EBDB1A00D92481",
         "latest": 131072,
         "title": "Beyond a Steel Sky"
+    },
+    "010023C0182DA000": {
+        "0": "C4C434EE1640C34B",
+        "latest": 0,
+        "title": "Doomed to Hell"
     },
     "010023D012C52000": {
         "0": "4CA78EBA545B3044",
@@ -12048,9 +12071,13 @@
         "latest": 0
     },
     "01002B7013440000": {
+        "0": "DDB76C8E23E68784",
         "131072": "A19E113723E5C32E",
         "latest": 131072,
         "title": "New Tales from the Borderlands"
+    },
+    "01002B7013441000": {
+        "latest": 0
     },
     "01002B70148E8000": {
         "0": "D8FE028F78C2E247",
@@ -15076,6 +15103,11 @@
         "0": "2D4497858894BF4A",
         "latest": 0,
         "title": "Animal Hunter Z"
+    },
+    "0100355015F0A000": {
+        "65536": "01B02E1D7E78E79C",
+        "latest": 65536,
+        "title": "Pirated Code: Admin Edition"
     },
     "0100356009860000": {
         "0": "0A9C8C76D0B32948",
@@ -19386,6 +19418,11 @@
         "latest": 262144,
         "title": "DARQ Complete Edition"
     },
+    "0100440018960000": {
+        "0": "7227639B269C17BC",
+        "latest": 0,
+        "title": "Forest Pop"
+    },
     "0100441018E7E000": {
         "0": "A8A4A650889E10F3",
         "65536": "A8A4A650889E10F3",
@@ -20872,7 +20909,8 @@
     },
     "010048D014322000": {
         "0": "6FE1111EAC21761B",
-        "latest": 0,
+        "65536": "3E87883F24198FA9",
+        "latest": 65536,
         "title": "Coromon"
     },
     "010048D0157B2000": {
@@ -21485,8 +21523,9 @@
     "01004AC015F18000": {
         "0": "9D4C4CD628A066F7",
         "131072": "01CBF1A19FC88546",
+        "196608": "01CBF1A19FC88546",
         "65536": "33DCA4B2E988CBAC",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Clouzy!"
     },
     "01004AD00E094000": {
@@ -21987,7 +22026,8 @@
     },
     "01004C701479C000": {
         "0": "688B6CCFE599004E",
-        "latest": 0
+        "latest": 0,
+        "title": "The Darkest Tales"
     },
     "01004C70167C8000": {
         "0": "84268BA5595ACB3F",
@@ -22398,8 +22438,9 @@
         "196608": "013DC955B6C145CD",
         "262144": "986782C635CC1BFC",
         "327680": "D62BFE0380321A64",
+        "393216": "152F0AFCDCD2FE5B",
         "65536": "82978FC84D472A56",
-        "latest": 327680,
+        "latest": 393216,
         "title": "Youtubers Life 2"
     },
     "01004DE014AEE000": {
@@ -23909,6 +23950,11 @@
         "65536": "1D928C9E5C89C847",
         "latest": 196608
     },
+    "0100539019A2E000": {
+        "0": "7D9A477C1B19358A",
+        "latest": 0,
+        "title": "METAL NINJA"
+    },
     "010053A00932E000": {
         "0": "320CCBB4EBDB4916",
         "65536": "568C90D43E7F1FA2",
@@ -24244,6 +24290,9 @@
         "65536": "DBEA775017BD6FF5",
         "latest": 262144,
         "title": "Minigolf Adventure"
+    },
+    "01005500158D1000": {
+        "latest": 0
     },
     "0100551001D88000": {
         "0": "CCFB8481673ED84B",
@@ -28133,6 +28182,11 @@
         "latest": 0,
         "title": "Enter Digiton: Heart of Corruption"
     },
+    "0100623017A58000": {
+        "0": "E3D4C44D41E65899",
+        "latest": 0,
+        "title": "Alan Wake Remastered"
+    },
     "0100623017BF8000": {
         "0": "DC5B7F5379911E4C",
         "latest": 0,
@@ -28901,7 +28955,8 @@
     },
     "010064C0191D0000": {
         "0": "D7F2A1EFF92A11C8",
-        "latest": 0
+        "latest": 0,
+        "title": "BYTE CATS"
     },
     "010064E00A932000": {
         "0": "0D39200CBA054D56",
@@ -33607,8 +33662,9 @@
         "0": "60887A25B6652991",
         "131072": "03EE3DBAC10CACB8",
         "196608": "6FC949F6349352EF",
+        "262144": "4F971CC669C78AC0",
         "65536": "16F4915DF864674D",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Xenoblade Chronicles\u2122 3"
     },
     "010074F013263000": {
@@ -35028,8 +35084,9 @@
         "131072": "92C399FEAD05D3A9",
         "196608": "B4AF85340C4B4286",
         "262144": "EA47AA9A37B0EC6F",
+        "327680": "93AB31E1BD8CB21E",
         "65536": "04240EF6046BD0F2",
-        "latest": 262144
+        "latest": 327680
     },
     "010079801502D000": {
         "latest": 0
@@ -35259,8 +35316,9 @@
     },
     "01007A9017A2A000": {
         "0": "414175C6326EE1C5",
+        "131072": "A7E7F3C8692F4350",
         "65536": "D1273E559A9ED105",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Wally and the FANTASTIC PREDATORS"
     },
     "01007AA00A91A000": {
@@ -39086,6 +39144,7 @@
         "latest": 65536
     },
     "010088B0155E2000": {
+        "0": "C2AE521FCDD1F212",
         "65536": "A27E18072EC0CFB9",
         "latest": 65536,
         "title": "Warhammer 40,000: Shootas, Blood & Teef"
@@ -39115,6 +39174,12 @@
         "0": "480B952AD15D7B4B",
         "latest": 0,
         "title": "Vaporum: Lockdown"
+    },
+    "010088D014258000": {
+        "0": "D6D7362F8315B4FE",
+        "65536": "FC9931E9295AC6EB",
+        "latest": 65536,
+        "title": "Matchpoint - Tennis Championships"
     },
     "010088E003A76000": {
         "0": "7B2F22815617EB43",
@@ -40652,6 +40717,14 @@
         "0": "1E21FFB841147846",
         "latest": 0
     },
+    "01008E0019388000": {
+        "0": "53384CC3D2B4CA9F",
+        "latest": 0,
+        "title": "Ultra Kaiju Monster Rancher"
+    },
+    "01008E0019389000": {
+        "latest": 0
+    },
     "01008E100E416000": {
         "0": "12828CE0CD5B00A1",
         "131072": "B5F1F98B1822FE7F",
@@ -41363,8 +41436,9 @@
         "0": "4D0E7A46016CAF6F",
         "131072": "C9B980F785F0501D",
         "196608": "F71EE0DCAFACD5E9",
+        "262144": "6C7E0479183520B5",
         "65536": "83CCDCC860D1EB06",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Don't Starve Together"
     },
     "010090100EA18000": {
@@ -44059,7 +44133,8 @@
     },
     "0100997014004000": {
         "0": "29E56E9EDF9EE20C",
-        "latest": 0,
+        "65536": "1D673CA33CE5D10B",
+        "latest": 65536,
         "title": "Golazo! 2"
     },
     "0100997017690000": {
@@ -52042,6 +52117,11 @@
         "latest": 65536,
         "title": "Mermaid Castle"
     },
+    "0100B590181BE000": {
+        "0": "0CC2F97F43DCAF48",
+        "latest": 0,
+        "title": "Beholgar"
+    },
     "0100B5A004302000": {
         "0": "06918CC11CD36943",
         "65536": "2E9D4FA24540354E",
@@ -52518,6 +52598,11 @@
         "0": "61D991D9D673DF4D",
         "latest": 0,
         "title": "Whisper Trip"
+    },
+    "0100B7201947A000": {
+        "0": "0FE4363C857B52CF",
+        "latest": 0,
+        "title": "Backgammon: Board Game Puzzle"
     },
     "0100B7400A304000": {
         "0": "DFE60318C2DC55A9",
@@ -55082,6 +55167,11 @@
         "latest": 65536,
         "title": "Regency Solitaire"
     },
+    "0100BFB018134000": {
+        "0": "93B6B5FF5640A55E",
+        "latest": 0,
+        "title": "The Jackbox Party Pack 9"
+    },
     "0100BFC002B4E000": {
         "0": "F000171741236440",
         "196608": "861FFE82BFAF4B4F",
@@ -57247,6 +57337,11 @@
         "latest": 65536,
         "title": "Fate Of The Pharaoh"
     },
+    "0100C75019274000": {
+        "0": "582ADD6F24A2A6B7",
+        "latest": 0,
+        "title": "TEMPUS"
+    },
     "0100C7600AF00000": {
         "0": "82D210C2687E3F4D",
         "131072": "CF8FF45FA4415044",
@@ -57892,6 +57987,11 @@
         "65536": "A7F339F38EE6B26C",
         "latest": 262144,
         "title": "Mario Golf\u2122: Super Rush"
+    },
+    "0100C9C0178A6000": {
+        "0": "5E96FCC96B0E5A72",
+        "latest": 0,
+        "title": "Harmonia"
     },
     "0100C9D00C8E2000": {
         "0": "4F30069D2EDE974A",
@@ -58761,8 +58861,9 @@
     "0100CC9015360000": {
         "131072": "AB8BF2D0576E7245",
         "196608": "51A86ADB41BE8F05",
+        "262144": "B17AE164683808DD",
         "65536": "F074D16A4DC73A58",
-        "latest": 196608,
+        "latest": 262144,
         "title": "XEL"
     },
     "0100CC9015E30000": {
@@ -60351,8 +60452,9 @@
         "title": "Professor Lupo: Ocean"
     },
     "0100D20013DF0000": {
+        "131072": "A67F39553DCE4F0F",
         "65536": "8BF7F8421A12EA7D",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Horse Tales: Emerald Valley Ranch"
     },
     "0100D20015C06000": {
@@ -60471,6 +60573,11 @@
         "589824": "5BF86B7A64A812A5",
         "latest": 589824,
         "title": "Rivals of Aether"
+    },
+    "0100D2701762E000": {
+        "0": "569099A3311A5422",
+        "latest": 0,
+        "title": "Flying Neko Delivery"
     },
     "0100D2800EB40000": {
         "0": "F76D1498BCFE634C",
@@ -61275,8 +61382,10 @@
         "title": "Kairobotica"
     },
     "0100D5F019B2A000": {
+        "0": "AD3425A968601D14",
         "196608": "99FC018EDF9183BA",
-        "latest": 196608
+        "latest": 196608,
+        "title": "Once Upon a Time on Halloween"
     },
     "0100D6000B52C000": {
         "393216": "F31EC040CBAE04D8",
@@ -64154,8 +64263,9 @@
     "0100DF6014302000": {
         "0": "DC5733D7A8AA4C4C",
         "131072": "E0E653407A613741",
+        "196608": "2E05CEDD8F0B3C4D",
         "65536": "72C93D92DF062142",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Turbo Shot"
     },
     "0100DF8009BEE000": {
@@ -67514,6 +67624,11 @@
         "latest": 0,
         "title": "CHRONO CLASH: Fantasy Tactics"
     },
+    "0100EA600E8D0000": {
+        "0": "6ABF77DC90508690",
+        "latest": 0,
+        "title": "Dead Secret Circle"
+    },
     "0100EA6014BB8000": {
         "0": "E63D7A75EE916F07",
         "65536": "E5D10E503F5876EA",
@@ -68446,7 +68561,8 @@
     },
     "0100ED100E982000": {
         "0": "1E19E3DE9F6CBB41",
-        "latest": 0
+        "latest": 0,
+        "title": "Puzzle by Nikoli S Akari"
     },
     "0100ED1016FDC000": {
         "0": "3E4E84C099E08903",
@@ -68456,7 +68572,8 @@
     "0100ED10189C8000": {
         "0": "4236C249C8D9CF1B",
         "65536": "C3EECA8CA6D4251A",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Arcade Archives TOUKI DENSHOU ANGEL EYES"
     },
     "0100ED200B6FC000": {
         "0": "41E7D227F248534E",
@@ -68664,6 +68781,11 @@
         "196608": "C9BF68B72922AFFC",
         "65536": "CB1DD2A60EEAA198",
         "latest": 196608
+    },
+    "0100EDC019C10000": {
+        "0": "C40202AD1CB8FDCA",
+        "latest": 0,
+        "title": "Survive & Craft"
     },
     "0100EDD0068A6000": {
         "0": "09B9EEAB3ADE54EA",
@@ -70017,6 +70139,12 @@
         "851968": "F6FE2BD422FA4547",
         "latest": 851968,
         "title": "Killer Queen Black"
+    },
+    "0100F29018F9C000": {
+        "0": "2F67B036EAE399C8",
+        "65536": "8E5E5BD4A33BC647",
+        "latest": 65536,
+        "title": "Hatchwell"
     },
     "0100F2A005C98000": {
         "0": "B55F4EDF564FC344",
