@@ -1335,6 +1335,11 @@
         "latest": 0,
         "title": "Fightro"
     },
+    "010004A019B52000": {
+        "0": "7F1501715491EE4A",
+        "latest": 0,
+        "title": "Construction Site Driver 2"
+    },
     "010004B0130C8000": {
         "0": "995E954E8606F40F",
         "131072": "42197C234FA9AF6D",
@@ -3430,8 +3435,9 @@
     },
     "01000CC01440A000": {
         "0": "27D7E6B84955D069",
+        "131072": "AC1F219654E38835",
         "65536": "1C7AFAD4EAFE9F9C",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Gloom and Doom"
     },
     "01000CD014B5C000": {
@@ -5527,6 +5533,11 @@
         "latest": 0,
         "title": "Space Wars"
     },
+    "010014F018D94000": {
+        "0": "776D1206F89C0544",
+        "latest": 0,
+        "title": "World Soccer Cup 2022"
+    },
     "010015000DB1A000": {
         "0": "FA0A0C3E921D1946",
         "latest": 0,
@@ -6792,6 +6803,11 @@
         "65536": "8583F94429B74632",
         "latest": 65536,
         "title": "Pity Pit"
+    },
+    "0100197018C56000": {
+        "0": "6A9543A5888CABDF",
+        "latest": 0,
+        "title": "Crowalt: Traces of the Lost Colony"
     },
     "0100198015682000": {
         "0": "979ABE8005FFDA4F",
@@ -10652,8 +10668,9 @@
     "010026801939E000": {
         "0": "F95A034961AF4385",
         "131072": "30E8D83D1B1A6E4E",
+        "196608": "750916BCB554C47B",
         "65536": "0684F3F4A6EC719C",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Foretales"
     },
     "01002690160CA000": {
@@ -13973,6 +13990,11 @@
         "latest": 65536,
         "title": "PROJECT : KNIGHT\u2122 2 Dusk of Souls"
     },
+    "010031B018F68000": {
+        "0": "2B601E50AA70CE31",
+        "latest": 0,
+        "title": "RUNOUT"
+    },
     "010031C0110F6000": {
         "0": "4DB7A7F2B60A874C",
         "latest": 0,
@@ -16669,7 +16691,8 @@
         "196608": "214A93B26D4C0B47",
         "262144": "8031CE65C5B5B941",
         "327680": "D5B33442F515AC90",
-        "latest": 327680,
+        "393216": "0303C9D685F7E7A7",
+        "latest": 393216,
         "title": "Super Puzzle Pack"
     },
     "01003AB012F00000": {
@@ -26309,6 +26332,11 @@
     "01005CA00E003000": {
         "latest": 0
     },
+    "01005CA01580E000": {
+        "0": "708BCACA873EA32B",
+        "latest": 0,
+        "title": "Persona 5 Royal"
+    },
     "01005CB009E20000": {
         "0": "B0290B3F9030B848",
         "65536": "09B97C664CFB184A",
@@ -30377,7 +30405,8 @@
         "262144": "F45584028657D345",
         "327680": "AA2765841234A39A",
         "393216": "C2A4E82BDE14B9F8",
-        "latest": 393216,
+        "458752": "41969F4FDAF7F0F1",
+        "latest": 458752,
         "title": "Ultra Mega Xtra Party Challenge"
     },
     "010069D018AC2000": {
@@ -34662,7 +34691,8 @@
     },
     "010077F01949C000": {
         "0": "3EDC07D009865248",
-        "latest": 0,
+        "65536": "3EDC07D009865248",
+        "latest": 65536,
         "title": "Bunker Life"
     },
     "0100780009BEC000": {
@@ -39618,6 +39648,11 @@
     },
     "01008A801370D000": {
         "latest": 0
+    },
+    "01008A80180EA000": {
+        "65536": "64F874FC74897AB4",
+        "latest": 65536,
+        "title": "Lonesome Village"
     },
     "01008A9001DC2000": {
         "0": "B4EE7C055C9D50BF",
@@ -46155,7 +46190,9 @@
     },
     "0100A07018F10000": {
         "0": "15352BEB589B760B",
-        "latest": 0,
+        "131072": "8F7ACDAF21DDAC4A",
+        "65536": "642946BC22B7C90F",
+        "latest": 131072,
         "title": "Space Roguelike Adventure"
     },
     "0100A0800B83A000": {
@@ -50413,6 +50450,11 @@
         "latest": 65536,
         "title": "Voxel Pirates"
     },
+    "0100AFA01731E000": {
+        "0": "ABEAC2BA485BBF6A",
+        "latest": 0,
+        "title": "Howloween Hero"
+    },
     "0100AFA01750C000": {
         "0": "843FA5709311E8F8",
         "131072": "ACEB26EAF5C8D540",
@@ -50863,8 +50905,9 @@
     "0100B12017F0A000": {
         "0": "42EB5BF3AD99420A",
         "131072": "4D8C4897C46D3D34",
+        "196608": "9DC1C741C5C816B3",
         "65536": "1352731444CFA312",
-        "latest": 131072,
+        "latest": 196608,
         "title": "LEGO\u00ae Bricktales"
     },
     "0100B1201814C000": {
@@ -56314,8 +56357,9 @@
     "0100C3E01846C000": {
         "0": "98DE0D8AC68F9B96",
         "131072": "AF2430C70704451A",
+        "196608": "6A517EE7837015F7",
         "65536": "2231BEF8042E40A6",
-        "latest": 131072,
+        "latest": 196608,
         "title": "fig."
     },
     "0100C3F000BD8000": {
@@ -57390,8 +57434,9 @@
         "0": "D410699A5BAFFB89",
         "131072": "6B5B607B347A8D02",
         "196608": "75F3BB19B022D31E",
+        "262144": "158376DA0196AD27",
         "65536": "56E9E32DDADE696B",
-        "latest": 196608,
+        "latest": 262144,
         "title": "City Wars: Tokyo Reign"
     },
     "0100C7800C7A0000": {
@@ -62993,6 +63038,11 @@
         "latest": 0,
         "title": "Xtreme Club Racing"
     },
+    "0100DAE01315C000": {
+        "0": "7BB8B6A403D8694E",
+        "latest": 0,
+        "title": "JoJo Siwa: Worldwide Party"
+    },
     "0100DAE016AEA000": {
         "0": "2B16CCC1E9B63046",
         "131072": "97AD1EBEE25A2746",
@@ -63022,6 +63072,10 @@
         "65536": "ADE27C9817227FDD",
         "latest": 131072,
         "title": "Firegirl: Hack 'n Splash Rescue DX"
+    },
+    "0100DAF019A7E000": {
+        "0": "AE0727C2BA2D79E5",
+        "latest": 0
     },
     "0100DB0007FF6000": {
         "0": "845A99CD92533B4E",
@@ -68124,6 +68178,11 @@
         "latest": 196608,
         "title": "Nickelodeon Kart Racers 2: Grand Prix"
     },
+    "0100EBC019652000": {
+        "0": "0B5A1C4B5B8BA398",
+        "latest": 0,
+        "title": "Crystal Goddess"
+    },
     "0100EBD00B21E000": {
         "0": "A5CE2EC4086F0E41",
         "latest": 0
@@ -72713,7 +72772,8 @@
         "65536": "0FD6698D0F8ADE89",
         "655360": "E151670BA87D4657",
         "720896": "DF6543B370693D7D",
-        "latest": 720896,
+        "786432": "DEB0E3335177940C",
+        "latest": 786432,
         "title": "SnowRunner"
     },
     "0100FBD013AB7000": {
@@ -72882,6 +72942,7 @@
         "latest": 196608
     },
     "0100FC60185AE000": {
+        "0": "C4F4288F2F829416",
         "65536": "4BB063882C875A6E",
         "latest": 65536
     },
@@ -73216,6 +73277,9 @@
         "65536": "515A1C9D12970749",
         "latest": 196608,
         "title": "Little Mouse's Encyclopedia"
+    },
+    "0100FE0014201000": {
+        "latest": 0
     },
     "0100FE1011400000": {
         "0": "7A08E8F8D5C93B46",
