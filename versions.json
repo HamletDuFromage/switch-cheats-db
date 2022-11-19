@@ -7067,8 +7067,9 @@
     },
     "01001A0018C46000": {
         "0": "0DCA09DAC78A30C5",
+        "131072": "5DA3B8476A767073",
         "65536": "69135C5EAA3F6DE3",
-        "latest": 65536
+        "latest": 131072
     },
     "01001A100C0E8000": {
         "0": "37974C170346D3E6",
@@ -8876,6 +8877,11 @@
         "65536": "5DE83E12145B6B4F",
         "latest": 65536,
         "title": "Weapon of Choice DX"
+    },
+    "01001FB017B36000": {
+        "65536": "C84710E0CD9C5143",
+        "latest": 65536,
+        "title": "Wavetale"
     },
     "01001FC0152F6000": {
         "0": "4EB3E896060CBA45",
@@ -11828,7 +11834,8 @@
     },
     "010029B019D38000": {
         "0": "9D64AD89C2F5CDD8",
-        "latest": 0
+        "latest": 0,
+        "title": "THAT'S A COW"
     },
     "010029C00D768000": {
         "0": "39887BE281DF4A48",
@@ -13021,8 +13028,9 @@
     "01002D6019696000": {
         "0": "52E6FBA0F92C4943",
         "131072": "1A7388E3DA708FAD",
+        "196608": "A254B74DF2FF0FDA",
         "65536": "1440C6DAA244A31B",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Buddy Simulator 1984"
     },
     "01002D70049CA000": {
@@ -15849,8 +15857,14 @@
     },
     "010036B0169C6000": {
         "0": "93052E2C47D7ADCD",
+        "131072": "24E3333C8F79084A",
         "65536": "C4E9383561F50E8B",
-        "latest": 65536
+        "latest": 131072
+    },
+    "010036B016EDC000": {
+        "0": "A0EA92DBB2E6DB62",
+        "latest": 0,
+        "title": "Slime's Journey"
     },
     "010036C00BDE4000": {
         "0": "FBDFF94F5EEBFE4A",
@@ -20680,6 +20694,10 @@
         "65536": "CE94DAA54F7C2242",
         "latest": 65536
     },
+    "01004620180D2000": {
+        "131072": "8956B6196644A73B",
+        "latest": 131072
+    },
     "0100463013246000": {
         "0": "991BC5F84DAB2048",
         "65536": "8FB980096BFA7744",
@@ -23815,6 +23833,11 @@
         "latest": 0,
         "title": "It's Kooky"
     },
+    "0100510019E2E000": {
+        "0": "5665D452F363D1BC",
+        "latest": 0,
+        "title": "Quantum Storm"
+    },
     "01005110142A8000": {
         "0": "2A273D2F2EA3714B",
         "131072": "1E86D19CE9AAB24C",
@@ -25263,8 +25286,9 @@
         "title": "War-Torn Dreams"
     },
     "01005630194A8000": {
+        "131072": "409FBFC60BE90E87",
         "65536": "A36FB0FD0AE237C0",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Kardboard Kings: Card Shop Simulator"
     },
     "01005640080B0000": {
@@ -25753,6 +25777,11 @@
         "0": "B9063E2200B7DC63",
         "latest": 0,
         "title": "WAKU WAKU SWEETS"
+    },
+    "0100581019EDA000": {
+        "0": "299DA8D06B6C0A2D",
+        "latest": 0,
+        "title": "Camper Van Simulator 2"
     },
     "0100582010AE0000": {
         "0": "CBB843DE5DB3E533",
@@ -32995,8 +33024,9 @@
         "0": "B8C709BF59A92444",
         "131072": "5B54F83A42D9724E",
         "196608": "297268C900544D48",
+        "262144": "E00B96DEFB5B6C46",
         "65536": "3E6A79C544B84C40",
-        "latest": 196608,
+        "latest": 262144,
         "title": "60 Seconds! Reatomized"
     },
     "01007010157B4000": {
@@ -35107,8 +35137,9 @@
         "title": "Treasures of the Aegean"
     },
     "010076901806C000": {
+        "131072": "87C53822C31302EA",
         "65536": "330A8D1A4808446D",
-        "latest": 65536
+        "latest": 131072
     },
     "010076A009426000": {
         "0": "76BA44F93A19FC42",
@@ -35983,8 +36014,9 @@
         "196608": "B4AF85340C4B4286",
         "262144": "EA47AA9A37B0EC6F",
         "327680": "93AB31E1BD8CB21E",
+        "393216": "AE483A4B5F434A6F",
         "65536": "04240EF6046BD0F2",
-        "latest": 327680
+        "latest": 393216
     },
     "010079801502D000": {
         "latest": 0
@@ -36707,8 +36739,9 @@
     },
     "01007C50186CE000": {
         "0": "F6589310D4E9A5ED",
+        "131072": "BA3013F06D3F66E0",
         "65536": "2A915B2AEBECA8FC",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Madorica Real Estate 2 -The mystery of the new property-"
     },
     "01007C600294E000": {
@@ -38743,7 +38776,8 @@
     },
     "0100837017CBA000": {
         "0": "6B40BB756387BD62",
-        "latest": 0,
+        "65536": "AA392D1D5884C281",
+        "latest": 65536,
         "title": "CHAOS;CHILD"
     },
     "0100838002AEA000": {
@@ -41192,7 +41226,8 @@
     },
     "01008C7017DD8000": {
         "0": "C4B466210F66A3F9",
-        "latest": 0,
+        "65536": "EFA5E6ED0BFA9A32",
+        "latest": 65536,
         "title": "Robotry!"
     },
     "01008C800E654000": {
@@ -48537,6 +48572,11 @@
         "65536": "2C07CF8016E96E10",
         "latest": 65536
     },
+    "0100A480178C0000": {
+        "0": "E7CD583E5A686447",
+        "latest": 0,
+        "title": "Heidelberg 1693"
+    },
     "0100A4900B2DE000": {
         "0": "389F9F8676B48CE0",
         "65536": "87FE1B88FEC057B1",
@@ -54258,6 +54298,7 @@
         "title": "Bassmaster\u00ae Fishing 2022: Super Deluxe Edition"
     },
     "0100B86019098000": {
+        "0": "7D6D4E7E7FBBC4B2",
         "131072": "2670FCE434790CC8",
         "latest": 131072,
         "title": "GOODBYE WORLD"
@@ -57016,7 +57057,8 @@
     "0100C17017CBC000": {
         "0": "193D5907BD09DD0E",
         "131072": "5FFFB0C2A91B80FB",
-        "latest": 131072,
+        "196608": "FC5F05A5FC78AB82",
+        "latest": 196608,
         "title": "CHAOS;HEAD NOAH"
     },
     "0100C17017CBD000": {
@@ -57091,6 +57133,11 @@
     "0100C1B00E1CA000": {
         "0": "724C58E71F1C5146",
         "latest": 0
+    },
+    "0100C1B018DF2000": {
+        "0": "D52EA18006AF128B",
+        "latest": 0,
+        "title": "Scar of the Doll: A Psycho-Horror Story about the Mystery of an Older Sister"
     },
     "0100C1C00D01C000": {
         "0": "A9B07B4B391F5140",
@@ -62016,8 +62063,9 @@
     },
     "0100D20013DF0000": {
         "131072": "A67F39553DCE4F0F",
+        "196608": "1E5F8CED9A6D8886",
         "65536": "8BF7F8421A12EA7D",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Horse Tales: Emerald Valley Ranch"
     },
     "0100D20013DF1000": {
@@ -62627,6 +62675,10 @@
         "latest": 0,
         "title": "My Brother Ate My Pudding!"
     },
+    "0100D4901838C000": {
+        "65536": "225D8C057E3E764A",
+        "latest": 65536
+    },
     "0100D4A00B284000": {
         "0": "055E05DA95C8E778",
         "131072": "80E78E7022B9ECED",
@@ -63147,6 +63199,10 @@
         "0": "A8C62527C4EFEB4F",
         "latest": 0,
         "title": "Kosmonavtes: Academy Escape"
+    },
+    "0100D650180CA000": {
+        "196608": "69E633AF145AB5C9",
+        "latest": 196608
     },
     "0100D66018544000": {
         "65536": "882BA77584FDE159",
@@ -66905,6 +66961,11 @@
         "latest": 262144,
         "title": "Crash Drive 3"
     },
+    "0100E2A018AAA000": {
+        "0": "4AC6CBC64C944DEF",
+        "latest": 0,
+        "title": "Super Toy Cars Collection"
+    },
     "0100E2B00E064000": {
         "0": "57E656C23F8A1744",
         "65536": "560C464EBBF9B04B",
@@ -70263,7 +70324,8 @@
     "0100ECF01537C000": {
         "0": "D45ADAC2D6270C22",
         "131072": "5CBEC56F9E90FC6C",
-        "latest": 131072,
+        "196608": "8E2517C7CCC887A9",
+        "latest": 196608,
         "title": "Bus Simulator City Ride"
     },
     "0100ECF01800C000": {
