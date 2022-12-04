@@ -62,7 +62,9 @@ jobs:
 
       - name: run python script
         run: |
-          python3 upload_cheats.py -o $(curl -s -L https://github.com/HamletDuFromage/switch-cheats-db/releases/latest/download/VERSION)
+          python3 download_extract_archive.py
+          python3 process_cheats.py
+          python3 archive_builder.py
 
       - name: push changes
         env:
@@ -75,12 +77,12 @@ jobs:
           if [ ! -z "$stat" ]; then
             git commit -m "automatic: updated cheat files"
             git push
-            version=$(cat VERSION)
+            version=$(cat ./out/VERSION)
             echo -e "Last updated: **$(cat DATE)**\n\nCheats updated:↷\n\`\`\`\n$(echo $stat | xargs python3 build_changelog.py)\n\`\`\`" > changelog.md
             gh release create $version -F changelog.md
-            gh release upload $version ./contents.zip --clobber
-            gh release upload $version ./titles.zip --clobber
-            gh release upload $version ./VERSION --clobber
+            gh release upload $version ./out/contents.zip --clobber
+            gh release upload $version ./out/titles.zip --clobber
+            gh release upload $version ./out/VERSION --clobber
           else
             echo "Nothing to commit!"
           fi

@@ -10,31 +10,25 @@ import json
 
 class ProcessCheats:
     def __init__(self, in_path, out_path):
-        self.out_path = out_path
-        self.in_path = in_path
+        self.out_path = Path(out_path)
+        self.in_path = Path(in_path)
 
     def isHexAnd16Char(self, file_name):
         return (len(file_name) == 16) and (all(c in hexdigits for c in file_name[0:15]))
 
     def getCheatsPath(self, tid):
-        folder_path = f"{self.in_path}/{tid}"
-        folders = listdir(folder_path)
-        for folder in folders:
-            if folder.lower() == "cheats":
-                return f"{folder_path}/{folder}"
-        return ""
+        for folder in tid.iterdir():
+            if folder.name.lower() == "cheats":
+                return folder
+        return None
 
-    def constructCheatDict(self, tid):
-        out = {}
-        folder_path = self.getCheatsPath(tid)
-        try:
-            cheatSheets = listdir(folder_path)
-            for sheet in cheatSheets:
-                if self.isHexAnd16Char(sheet[:-4]):
-                    out[sheet[:-4].upper()] = self.constructBidDict(f"{folder_path}/{sheet}")
-        except FileNotFoundError:
-            print(f"error: FileNotFoundError {folder_path}")
-        return out
+    def getAttribution(self, tid):
+        attribution = {}
+        for f in tid.iterdir():
+            if f.suffix.lower() == ".txt":
+                with open(f, "r") as attribution_file:
+                    attribution[f.name] = attribution_file.read()
+        return attribution
 
     def constructBidDict(self, sheet_path):
         out = []
@@ -60,20 +54,36 @@ class ProcessCheats:
         return out
 
     def createJson(self, tid):
-        out_sheet = f"{self.out_path}/{tid.upper()}.json"
-        out = self.constructCheatDict(tid)
-        with open(out_sheet, 'w') as json_file:
+        out = {}
+        cheats_dir = self.getCheatsPath(tid)
+        try:
+            for sheet in cheats_dir.iterdir():
+                if self.isHexAnd16Char(sheet.stem):
+                    out[sheet.stem.upper()] = self.constructBidDict(sheet)
+        except FileNotFoundError:
+            print(f"error: FileNotFoundError {folder_path}")
+        out["attribution"] = self.getAttribution(tid)
+
+
+        cheats_file = self.out_path.joinpath(f"{tid.name.upper()}.json")
+        try:
+            with open(cheats_file, 'r') as json_file:
+                out |= json.load(json_file)
+        except FileNotFoundError:
+            pass
+
+        with open(cheats_file, 'w') as json_file:
             json.dump(out, json_file, indent=4, sort_keys=True)
 
     def parseCheats(self):
         subprocess.call(['bash', '-c', f"chmod -R +rw {self.in_path}"])
-        if not(Path(self.out_path).is_dir()):
-            mkdir(self.out_path)
-        tids = listdir(self.in_path)
-        for tid in tids:
-            if self.isHexAnd16Char(tid):
+        if not(self.out_path.exists()):
+            self.out_path.mkdir()
+        for tid in self.in_path.iterdir():
+            if self.isHexAnd16Char(tid.name):
                 self.createJson(tid)
 
 
 if __name__ == '__main__':
-    ProcessCheats("contents", "cheats").parseCheats()
+    ProcessCheats("titles", "cheats").parseCheats()
+    ProcessCheats("NX-60FPS-RES-GFX-Cheats-main/titles", "cheats").parseCheats()
