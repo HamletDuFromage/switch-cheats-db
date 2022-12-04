@@ -62,9 +62,7 @@ jobs:
 
       - name: run python script
         run: |
-          python3 download_extract_archive.py
-          python3 process_cheats.py
-          python3 archive_builder.py
+          python3 database_builder.py
 
       - name: push changes
         env:

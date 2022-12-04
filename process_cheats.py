@@ -12,6 +12,7 @@ class ProcessCheats:
     def __init__(self, in_path, out_path):
         self.out_path = Path(out_path)
         self.in_path = Path(in_path)
+        self.parseCheats()
 
     def isHexAnd16Char(self, file_name):
         return (len(file_name) == 16) and (all(c in hexdigits for c in file_name[0:15]))
@@ -84,8 +85,3 @@ class ProcessCheats:
         for tid in self.in_path.iterdir():
             if self.isHexAnd16Char(tid.name):
                 self.createJson(tid)
-
-
-if __name__ == '__main__':
-    ProcessCheats("titles", "cheats").parseCheats()
-    ProcessCheats("NX-60FPS-RES-GFX-Cheats-main/titles", "cheats").parseCheats()
