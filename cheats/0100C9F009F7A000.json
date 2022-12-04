@@ -74,6 +74,5 @@
             "content": "[3rd Character Infinite Battle HP]\n580f0000 016a9a28\n580f1000 000000F0\n780f0000 00000014\n620f0000 00000000 0000xxxx\n\nxxxx = set HP input value must not more than your characters Max HP\nwill update cheat if TX adds function for copying value from another address",
             "title": "[3rd Character Infinite Battle HP]"
         }
-    ],
-    "attribution": {}
+    ]
 }

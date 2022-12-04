@@ -62,7 +62,9 @@ class ProcessCheats:
                     out[sheet.stem.upper()] = self.constructBidDict(sheet)
         except FileNotFoundError:
             print(f"error: FileNotFoundError {folder_path}")
-        out["attribution"] = self.getAttribution(tid)
+        attribution = self.getAttribution(tid)
+        if attribution:
+            out["attribution"] = self.getAttribution(tid)
 
 
         cheats_file = self.out_path.joinpath(f"{tid.name.upper()}.json")
