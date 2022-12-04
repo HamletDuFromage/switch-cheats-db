@@ -1,126 +1,36 @@
 {
-    "34AE27060A0DE1D5": [
-        {
-            "content": "[SD GUNDAM BATTLE ALLIANCE (HK) v1.0.0 TID=010080001783A000 BID=34AE27060A0DE1D5]\n\n",
-            "title": "[SD GUNDAM BATTLE ALLIANCE (HK) v1.0.0 TID=010080001783A000 BID=34AE27060A0DE1D5]"
-        },
-        {
-            "content": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 00835E30 39400108\n040E0000 0083C950 39400108\n040E0000 00CDC4BC 39400129\n040E0000 0083BFB0 39400108\n040E0000 0083A06C B9417E68\n040E0000 00B7F7CC BD417F21\n040E0000 00B7F808 BD417F21\n040E0000 00839E9C 1E216800\n040E0000 0083C1C4 39400108\n040E0000 0083C1FC 39400108\n040E0000 0083C0D0 39400108\n040E0000 0083C084 39400108\n040E0000 008354D8 39400108\n040E0000 008CF9E0 1E270104\n040E0000 008CFEFC F9400268\n040E0000 008D45B4 BD4CB260\n040E0000 0083EA64 39470A88\n040E0000 009A66A4 B901E028\n040E0000 00C1443C 2A0203F5\n\n",
-            "title": "[Restore Code (Use after unchecking any cheats below)]"
-        },
-        {
-            "content": "[#01. No Damage My Side]\n040E0000 00835E30 52800028\n040E0000 0083C950 52800028\n\n",
-            "title": "[#01. No Damage My Side]"
-        },
-        {
-            "content": "[#02. Unlimited Bullet]\n040E0000 00CDC4BC 52800029\n\n",
-            "title": "[#02. Unlimited Bullet]"
-        },
-        {
-            "content": "[#03. Unlimited Boost Meter]\n040E0000 0083BFB0 52800028\n\n",
-            "title": "[#03. Unlimited Boost Meter]"
-        },
-        {
-            "content": "[#04. Unlimited Role Actions & Chain Breakers(Max Skill Meter)]\n040E0000 0083A06C B9418268\n040E0000 00B7F7CC BD418321\n040E0000 00B7F808 BD418321\n\n",
-            "title": "[#04. Unlimited Role Actions & Chain Breakers(Max Skill Meter)]"
-        },
-        {
-            "content": "[#05. Unlimited SPAs (Max Recast Meter)]\n040E0000 00839E9C 1E204020\n040E0000 0083C1C4 52800028\n040E0000 0083C1FC 52800028\n\n",
-            "title": "[#05. Unlimited SPAs (Max Recast Meter)]"
-        },
-        {
-            "content": "[#06. Unlimited SPA Trans-Am]\n040E0000 0083C0D0 52800028\n040E0000 0083C084 52800028\n\n",
-            "title": "[#06. Unlimited SPA Trans-Am]"
-        },
-        {
-            "content": "[#07. One-Hit-Kill (Itigeki)]\n040E0000 008354D8 B940BE88\n\n",
-            "title": "[#07. One-Hit-Kill (Itigeki)]"
-        },
-        {
-            "content": "[#08. Movement Speed (5x)]\n080E0000 04489FF8 457A0000 D65F03C0\n080E0000 04489FF0 1C000043 35000048\n080E0000 04489FE8 B940BD08 F943A268\n040E0000 04489FE4 1E270104\n040E0000 008CF9E0 94EEE981\n080E0000 04489FDC 46147000 D65F03C0\n080E0000 04489FD4 F9400268 1C000068\n080E0000 04489FCC 35000048 B940BC08\n040E0000 008CFEFC 94EEE834\n\n",
-            "title": "[#08. Movement Speed (5x)]"
-        },
-        {
-            "content": "[#09. Jumping Height (3x)]\n080E0000 04489FC4 D65F03C0 1E290800\n080E0000 04489FBC 1E211009 35000060\n080E0000 04489FB4 B940BC00 F943A260\n040E0000 04489FB0 BD4CB260\n040E0000 008D45B4 94EED67F\n\n",
-            "title": "[#09. Jumping Height (3x)]"
-        },
-        {
-            "content": "[#10. Unlimited Using Repair Kit]\n040E0000 0083EA64 52800028\n\n",
-            "title": "[#10. Unlimited Using Repair Kit]"
-        },
-        {
-            "content": "[#11. Unlimited Spending Capital]\n040E0000 009A66A4 D503201F\n\n",
-            "title": "[#11. Unlimited Spending Capital]"
-        },
-        {
-            "content": "[#12. Pilot Experience 5x]\n040E0000 00C1443C 0B020855\n\n",
-            "title": "[#12. Pilot Experience 5x]"
-        }
-    ],
-    "44EB9091B80AE639": [
-        {
-            "content": "[SD GUNDAM BATTLE ALLIANCE (HK) v1.0.1 TID=010080001783A000 BID=44EB9091B80AE639]\n\n",
-            "title": "[SD GUNDAM BATTLE ALLIANCE (HK) v1.0.1 TID=010080001783A000 BID=44EB9091B80AE639]"
-        },
-        {
-            "content": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 00835F88 39400108\n040E0000 0083CB0C 39400108\n040E0000 00CE2EF0 39400129\n040E0000 0083C16C 39400108\n040E0000 0083A228 B9417E68\n040E0000 00B81FB4 BD417EA1\n040E0000 00B81FF0 BD417EA1\n040E0000 0083A058 1E216800\n040E0000 0083C380 39400108\n040E0000 0083C3B8 39400108\n040E0000 0083C28C 39400108\n040E0000 0083C240 39400108\n040E0000 0083561C 39400108\n040E0000 008CF8A0 1E270104\n040E0000 008CFDBC F9400268\n040E0000 008D43EC BD4CC260\n040E0000 0083EC20 39470A88\n040E0000 009A7E8C B901E028\n040E0000 00C18A3C 2A0203F5\n040E0000 00B3B49C 2A0303F5\n040E0000 009A6628 97FF5C62\n040E0000 009A5FFC 97FF5DED\n040E0000 009A6698 4B1803E2\n\n",
-            "title": "[Restore Code (Use after unchecking any cheats below)]"
-        },
-        {
-            "content": "[#01. No Damage My Side]\n040E0000 00835F88 52800028\n040E0000 0083CB0C 52800028\n\n",
-            "title": "[#01. No Damage My Side]"
-        },
-        {
-            "content": "[#02. Unlimited Bullet]\n040E0000 00CE2EF0 52800029\n\n",
-            "title": "[#02. Unlimited Bullet]"
-        },
-        {
-            "content": "[#03. Unlimited Boost Meter]\n040E0000 0083C16C 52800028\n\n",
-            "title": "[#03. Unlimited Boost Meter]"
-        },
-        {
-            "content": "[#04. Unlimited Role Actions & Chain Breakers(Max Skill Meter)]\n040E0000 0083A228 B9418268\n040E0000 00B81FB4 BD4182A1\n040E0000 00B81FF0 BD4182A1\n\n",
-            "title": "[#04. Unlimited Role Actions & Chain Breakers(Max Skill Meter)]"
-        },
-        {
-            "content": "[#05. Unlimited SPAs (Max Recast Meter)]\n040E0000 0083A058 1E204020\n040E0000 0083C380 52800028\n040E0000 0083C3B8 52800028\n\n",
-            "title": "[#05. Unlimited SPAs (Max Recast Meter)]"
-        },
-        {
-            "content": "[#06. Unlimited SPA Trans-Am]\n040E0000 0083C28C 52800028\n040E0000 0083C240 52800028\n\n",
-            "title": "[#06. Unlimited SPA Trans-Am]"
-        },
-        {
-            "content": "[#07. One-Hit-Kill (Itigeki)]\n040E0000 0083561C B940BE88\n\n",
-            "title": "[#07. One-Hit-Kill (Itigeki)]"
-        },
-        {
-            "content": "[#08. Movement Speed (5x)]\n080E0000 04493FF8 457A0000 D65F03C0\n080E0000 04493FF0 1C000043 35000048\n080E0000 04493FE8 B940BD08 F943A268\n040E0000 04493FE4 1E270104\n040E0000 008CF8A0 94EF11D1\n080E0000 04493FDC 46147000 D65F03C0\n080E0000 04493FD4 F9400268 1C000068\n080E0000 04493FCC 35000048 B940BC08\n040E0000 008CFDBC 94EF1084\n\n",
-            "title": "[#08. Movement Speed (5x)]"
-        },
-        {
-            "content": "[#09. Jumping Height (3x)]\n080E0000 04493FC4 D65F03C0 1E290800\n080E0000 04493FBC 1E211009 35000060\n080E0000 04493FB4 B940BC00 F943A260\n040E0000 04493FB0 BD4CB260\n040E0000 008D43EC 94EEFEF1\n\n",
-            "title": "[#09. Jumping Height (3x)]"
-        },
-        {
-            "content": "[#10. Unlimited Using Repair Kit]\n040E0000 0083EC20 52800028\n\n",
-            "title": "[#10. Unlimited Using Repair Kit]"
-        },
-        {
-            "content": "[#11. Unlimited Spending Capital]\n040E0000 009A7E8C D503201F\n\n",
-            "title": "[#11. Unlimited Spending Capital]"
-        },
-        {
-            "content": "[#12. Pilot Experience 5x]\n040E0000 00C18A3C 0B020855\n\n",
-            "title": "[#12. Pilot Experience 5x]"
-        },
-        {
-            "content": "[#13. Increase Quantity when Selling Materials (Hold L)]\n040E0000 00C5EEE0 4B0803E2\n80000040\n040E0000 00C5EEE0 2A0803E2\n20000000\n\n",
-            "title": "[#13. Increase Quantity when Selling Materials (Hold L)]"
-        },
-        {
-            "content": "[#14. No Materials Required for Uncapping MS Level]\n040E0000 00B3B49C 52800C95\n040E0000 009A6628 52800C80\n040E0000 009A5FFC 52800C80\n040E0000 009A6698 2A1F03E2\n\n",
-            "title": "[#14. No Materials Required for Uncapping MS Level]"
-        }
-    ]
+    "44EB9091B80AE639": {
+        "[SD GUNDAM BATTLE ALLIANCE (HK) v1.0.1 TID=010080001783A000 BID=44EB9091B80AE639]": "[SD GUNDAM BATTLE ALLIANCE (HK) v1.0.1 TID=010080001783A000 BID=44EB9091B80AE639]\n\n",
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 00835F88 39400108\n040E0000 0083CB0C 39400108\n040E0000 00CE2EF0 39400129\n040E0000 0083C16C 39400108\n040E0000 0083A228 B9417E68\n040E0000 00B81FB4 BD417EA1\n040E0000 00B81FF0 BD417EA1\n040E0000 0083A058 1E216800\n040E0000 0083C380 39400108\n040E0000 0083C3B8 39400108\n040E0000 0083C28C 39400108\n040E0000 0083C240 39400108\n040E0000 0083561C 39400108\n040E0000 008CF8A0 1E270104\n040E0000 008CFDBC F9400268\n040E0000 008D43EC BD4CC260\n040E0000 0083EC20 39470A88\n040E0000 009A7E8C B901E028\n040E0000 00C18A3C 2A0203F5\n040E0000 00B3B49C 2A0303F5\n040E0000 009A6628 97FF5C62\n040E0000 009A5FFC 97FF5DED\n040E0000 009A6698 4B1803E2\n\n",
+        "[#01. No Damage My Side]": "[#01. No Damage My Side]\n040E0000 00835F88 52800028\n040E0000 0083CB0C 52800028\n\n",
+        "[#02. Unlimited Bullet]": "[#02. Unlimited Bullet]\n040E0000 00CE2EF0 52800029\n\n",
+        "[#03. Unlimited Boost Meter]": "[#03. Unlimited Boost Meter]\n040E0000 0083C16C 52800028\n\n",
+        "[#04. Unlimited Role Actions & Chain Breakers(Max Skill Meter)]": "[#04. Unlimited Role Actions & Chain Breakers(Max Skill Meter)]\n040E0000 0083A228 B9418268\n040E0000 00B81FB4 BD4182A1\n040E0000 00B81FF0 BD4182A1\n\n",
+        "[#05. Unlimited SPAs (Max Recast Meter)]": "[#05. Unlimited SPAs (Max Recast Meter)]\n040E0000 0083A058 1E204020\n040E0000 0083C380 52800028\n040E0000 0083C3B8 52800028\n\n",
+        "[#06. Unlimited SPA Trans-Am]": "[#06. Unlimited SPA Trans-Am]\n040E0000 0083C28C 52800028\n040E0000 0083C240 52800028\n\n",
+        "[#07. One-Hit-Kill (Itigeki)]": "[#07. One-Hit-Kill (Itigeki)]\n040E0000 0083561C B940BE88\n\n",
+        "[#08. Movement Speed (5x)]": "[#08. Movement Speed (5x)]\n080E0000 04493FF8 457A0000 D65F03C0\n080E0000 04493FF0 1C000043 35000048\n080E0000 04493FE8 B940BD08 F943A268\n040E0000 04493FE4 1E270104\n040E0000 008CF8A0 94EF11D1\n080E0000 04493FDC 46147000 D65F03C0\n080E0000 04493FD4 F9400268 1C000068\n080E0000 04493FCC 35000048 B940BC08\n040E0000 008CFDBC 94EF1084\n\n",
+        "[#09. Jumping Height (3x)]": "[#09. Jumping Height (3x)]\n080E0000 04493FC4 D65F03C0 1E290800\n080E0000 04493FBC 1E211009 35000060\n080E0000 04493FB4 B940BC00 F943A260\n040E0000 04493FB0 BD4CB260\n040E0000 008D43EC 94EEFEF1\n\n",
+        "[#10. Unlimited Using Repair Kit]": "[#10. Unlimited Using Repair Kit]\n040E0000 0083EC20 52800028\n\n",
+        "[#11. Unlimited Spending Capital]": "[#11. Unlimited Spending Capital]\n040E0000 009A7E8C D503201F\n\n",
+        "[#12. Pilot Experience 5x]": "[#12. Pilot Experience 5x]\n040E0000 00C18A3C 0B020855\n\n",
+        "[#13. Increase Quantity when Selling Materials (Hold L)]": "[#13. Increase Quantity when Selling Materials (Hold L)]\n040E0000 00C5EEE0 4B0803E2\n80000040\n040E0000 00C5EEE0 2A0803E2\n20000000\n\n",
+        "[#14. No Materials Required for Uncapping MS Level]": "[#14. No Materials Required for Uncapping MS Level]\n040E0000 00B3B49C 52800C95\n040E0000 009A6628 52800C80\n040E0000 009A5FFC 52800C80\n040E0000 009A6698 2A1F03E2\n\n"
+    },
+    "34AE27060A0DE1D5": {
+        "[SD GUNDAM BATTLE ALLIANCE (HK) v1.0.0 TID=010080001783A000 BID=34AE27060A0DE1D5]": "[SD GUNDAM BATTLE ALLIANCE (HK) v1.0.0 TID=010080001783A000 BID=34AE27060A0DE1D5]\n\n",
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 00835E30 39400108\n040E0000 0083C950 39400108\n040E0000 00CDC4BC 39400129\n040E0000 0083BFB0 39400108\n040E0000 0083A06C B9417E68\n040E0000 00B7F7CC BD417F21\n040E0000 00B7F808 BD417F21\n040E0000 00839E9C 1E216800\n040E0000 0083C1C4 39400108\n040E0000 0083C1FC 39400108\n040E0000 0083C0D0 39400108\n040E0000 0083C084 39400108\n040E0000 008354D8 39400108\n040E0000 008CF9E0 1E270104\n040E0000 008CFEFC F9400268\n040E0000 008D45B4 BD4CB260\n040E0000 0083EA64 39470A88\n040E0000 009A66A4 B901E028\n040E0000 00C1443C 2A0203F5\n\n",
+        "[#01. No Damage My Side]": "[#01. No Damage My Side]\n040E0000 00835E30 52800028\n040E0000 0083C950 52800028\n\n",
+        "[#02. Unlimited Bullet]": "[#02. Unlimited Bullet]\n040E0000 00CDC4BC 52800029\n\n",
+        "[#03. Unlimited Boost Meter]": "[#03. Unlimited Boost Meter]\n040E0000 0083BFB0 52800028\n\n",
+        "[#04. Unlimited Role Actions & Chain Breakers(Max Skill Meter)]": "[#04. Unlimited Role Actions & Chain Breakers(Max Skill Meter)]\n040E0000 0083A06C B9418268\n040E0000 00B7F7CC BD418321\n040E0000 00B7F808 BD418321\n\n",
+        "[#05. Unlimited SPAs (Max Recast Meter)]": "[#05. Unlimited SPAs (Max Recast Meter)]\n040E0000 00839E9C 1E204020\n040E0000 0083C1C4 52800028\n040E0000 0083C1FC 52800028\n\n",
+        "[#06. Unlimited SPA Trans-Am]": "[#06. Unlimited SPA Trans-Am]\n040E0000 0083C0D0 52800028\n040E0000 0083C084 52800028\n\n",
+        "[#07. One-Hit-Kill (Itigeki)]": "[#07. One-Hit-Kill (Itigeki)]\n040E0000 008354D8 B940BE88\n\n",
+        "[#08. Movement Speed (5x)]": "[#08. Movement Speed (5x)]\n080E0000 04489FF8 457A0000 D65F03C0\n080E0000 04489FF0 1C000043 35000048\n080E0000 04489FE8 B940BD08 F943A268\n040E0000 04489FE4 1E270104\n040E0000 008CF9E0 94EEE981\n080E0000 04489FDC 46147000 D65F03C0\n080E0000 04489FD4 F9400268 1C000068\n080E0000 04489FCC 35000048 B940BC08\n040E0000 008CFEFC 94EEE834\n\n",
+        "[#09. Jumping Height (3x)]": "[#09. Jumping Height (3x)]\n080E0000 04489FC4 D65F03C0 1E290800\n080E0000 04489FBC 1E211009 35000060\n080E0000 04489FB4 B940BC00 F943A260\n040E0000 04489FB0 BD4CB260\n040E0000 008D45B4 94EED67F\n\n",
+        "[#10. Unlimited Using Repair Kit]": "[#10. Unlimited Using Repair Kit]\n040E0000 0083EA64 52800028\n\n",
+        "[#11. Unlimited Spending Capital]": "[#11. Unlimited Spending Capital]\n040E0000 009A66A4 D503201F\n\n",
+        "[#12. Pilot Experience 5x]": "[#12. Pilot Experience 5x]\n040E0000 00C1443C 0B020855\n\n"
+    }
 }

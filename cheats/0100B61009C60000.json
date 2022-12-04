@@ -1,42 +1,15 @@
 {
-    "9B3795D79E82816F": [
-        {
-            "content": "[Special Items]\n02000000 003D9952 0000012C\n\n",
-            "title": "[Special Items]"
-        },
-        {
-            "content": "[First Character Status]\n02000000 003DAA06 0000270F\n02000000 003DAA16 0000270F\n02000000 003DAA08 000000FA\n02000000 003DAA18 000000FA\n\n",
-            "title": "[First Character Status]"
-        },
-        {
-            "content": "[Second Character Status]\n02000000 003DAC3E 0000270F\n02000000 003DAC4E 0000270F\n02000000 003DAC40 000000FA\n02000000 003DAA50 000000FA\n\n",
-            "title": "[Second Character Status]"
-        },
-        {
-            "content": "[Third Character Status]\n02000000 003DAE76 0000270F\n02000000 003DAE86 0000270F\n02000000 003DAE78 000000FA\n02000000 003DAE88 000000FA\n\n",
-            "title": "[Third Character Status]"
-        },
-        {
-            "content": "[4th Character Status]\n02000000 003DB0AE 0000270F\n02000000 003DB0BE 0000270F\n02000000 003DB0B0 000000FA\n02000000 003DB0C0 000000FA\n\n",
-            "title": "[4th Character Status]"
-        },
-        {
-            "content": "[First Character  Moon Jump]\n80000004\n580F0000 00419b88\n780F0000 000000a4\n640F0000 00000000 40800000\n20000000\n\n",
-            "title": "[First Character  Moon Jump]"
-        },
-        {
-            "content": "[Second Character  Moon Jump]\n80000004\n580F0000 00419b98\n780F0000 000000a4\n640F0000 00000000 40800000\n20000000\n\n",
-            "title": "[Second Character  Moon Jump]"
-        },
-        {
-            "content": "[Third Character  Moon Jump]\n80000004\n580F0000 00419ba0\n780F0000 000000a4\n640F0000 00000000 40800000\n20000000\n\n",
-            "title": "[Third Character  Moon Jump]"
-        },
-        {
-            "content": "[4th Character  Moon Jump]\n80000004\n580F0000 00419ba8\n780F0000 000000a4\n640F0000 00000000 40800000\n20000000\n",
-            "title": "[4th Character  Moon Jump]"
-        }
-    ],
+    "9B3795D79E82816F": {
+        "[Special Items]": "[Special Items]\n02000000 003D9952 0000012C\n\n",
+        "[First Character Status]": "[First Character Status]\n02000000 003DAA06 0000270F\n02000000 003DAA16 0000270F\n02000000 003DAA08 000000FA\n02000000 003DAA18 000000FA\n\n",
+        "[Second Character Status]": "[Second Character Status]\n02000000 003DAC3E 0000270F\n02000000 003DAC4E 0000270F\n02000000 003DAC40 000000FA\n02000000 003DAA50 000000FA\n\n",
+        "[Third Character Status]": "[Third Character Status]\n02000000 003DAE76 0000270F\n02000000 003DAE86 0000270F\n02000000 003DAE78 000000FA\n02000000 003DAE88 000000FA\n\n",
+        "[4th Character Status]": "[4th Character Status]\n02000000 003DB0AE 0000270F\n02000000 003DB0BE 0000270F\n02000000 003DB0B0 000000FA\n02000000 003DB0C0 000000FA\n\n",
+        "[First Character  Moon Jump]": "[First Character  Moon Jump]\n80000004\n580F0000 00419b88\n780F0000 000000a4\n640F0000 00000000 40800000\n20000000\n\n",
+        "[Second Character  Moon Jump]": "[Second Character  Moon Jump]\n80000004\n580F0000 00419b98\n780F0000 000000a4\n640F0000 00000000 40800000\n20000000\n\n",
+        "[Third Character  Moon Jump]": "[Third Character  Moon Jump]\n80000004\n580F0000 00419ba0\n780F0000 000000a4\n640F0000 00000000 40800000\n20000000\n\n",
+        "[4th Character  Moon Jump]": "[4th Character  Moon Jump]\n80000004\n580F0000 00419ba8\n780F0000 000000a4\n640F0000 00000000 40800000\n20000000\n\n"
+    },
     "attribution": {
         "STAY COOL KOBAYASHI SAN A RIVER CITY RANSOM STORY by zit866.txt": "[Special Items]\n02000000 003D9952 0000012C\n\n[First Character Status]\n02000000 003DAA06 0000270F\n02000000 003DAA16 0000270F\n02000000 003DAA08 000000FA\n02000000 003DAA18 000000FA\n\n[Second Character Status]\n02000000 003DAC3E 0000270F\n02000000 003DAC4E 0000270F\n02000000 003DAC40 000000FA\n02000000 003DAA50 000000FA\n\n[Third Character Status]\n02000000 003DAE76 0000270F\n02000000 003DAE86 0000270F\n02000000 003DAE78 000000FA\n02000000 003DAE88 000000FA\n\n[4th Character Status]\n02000000 003DB0AE 0000270F\n02000000 003DB0BE 0000270F\n02000000 003DB0B0 000000FA\n02000000 003DB0C0 000000FA\n\n[First Character  Moon Jump]\n80000004\n580F0000 00419b88\n780F0000 000000a4\n640F0000 00000000 40800000\n20000000\n\n[Second Character  Moon Jump]\n80000004\n580F0000 00419b98\n780F0000 000000a4\n640F0000 00000000 40800000\n20000000\n\n[Third Character  Moon Jump]\n80000004\n580F0000 00419ba0\n780F0000 000000a4\n640F0000 00000000 40800000\n20000000\n\n[4th Character  Moon Jump]\n80000004\n580F0000 00419ba8\n780F0000 000000a4\n640F0000 00000000 40800000\n20000000\n"
     }

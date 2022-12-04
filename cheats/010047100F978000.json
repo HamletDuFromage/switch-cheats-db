@@ -1,18 +1,9 @@
 {
-    "7D6224F7125CE217": [
-        {
-            "content": "[Infinite Lives]\n011F0000 0078CDBD 0000001B\n\n",
-            "title": "[Infinite Lives]"
-        },
-        {
-            "content": "[Time Stop]\n011F0000 0078CDB4 000000FF\n\n",
-            "title": "[Time Stop]"
-        },
-        {
-            "content": "[Easy clear (ZL)]\n80000100\n011F0000 0078CA1F 00000030\n20000000",
-            "title": "[Easy clear (ZL)]"
-        }
-    ],
+    "7D6224F7125CE217": {
+        "[Infinite Lives]": "[Infinite Lives]\n011F0000 0078CDBD 0000001B\n\n",
+        "[Time Stop]": "[Time Stop]\n011F0000 0078CDB4 000000FF\n\n",
+        "[Easy clear (ZL)]": "[Easy clear (ZL)]\n80000100\n011F0000 0078CA1F 00000030\n20000000\n\n"
+    },
     "attribution": {
         "Arcade Archives FROGGER by ZiT866.txt": "This Code Becomes Effective While The Motorcycle is Jumping."
     }

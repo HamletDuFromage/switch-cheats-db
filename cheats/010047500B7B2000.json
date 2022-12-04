@@ -1,64 +1,19 @@
 {
-    "91F1E17F8D8D0B4A": [
-        {
-            "content": "[MASTER CODE]\n04000000 017BBDD4 B900FC08\n\n",
-            "title": "[MASTER CODE]"
-        },
-        {
-            "content": "[SP is not reduced ON]\n04000000 017BBDD4 B9010001\n\n",
-            "title": "[SP is not reduced ON]"
-        },
-        {
-            "content": "[SP is not reduced OFF]\n04000000 017BBDD4 B900FC08\n\n",
-            "title": "[SP is not reduced OFF]"
-        },
-        {
-            "content": "[2 times experience]\n04000000 02112170 0B010929\n\n",
-            "title": "[2 times experience]"
-        },
-        {
-            "content": "[4 times experience]\n04000000 02112170 0B011129\n\n",
-            "title": "[4 times experience]"
-        },
-        {
-            "content": "[Level 99 after gaining experience]\n04000000 02112170 0B015129\n\n",
-            "title": "[Level 99 after gaining experience]"
-        },
-        {
-            "content": "[Exp Gained OFF]\n04000000 02112170 0B010129\n\n",
-            "title": "[Exp Gained OFF]"
-        },
-        {
-            "content": "[locked items Number ON]\n04000000 01670E48 B9401400\n\n",
-            "title": "[locked items Number ON]"
-        },
-        {
-            "content": "[locked items Number OFF]\n04000000 01670E48 B9001408\n\n",
-            "title": "[locked items Number OFF]"
-        },
-        {
-            "content": "[Max after the Items are Gained ON]\n04000000 01670E34 0B015108\n\n",
-            "title": "[Max after the Items are Gained ON]"
-        },
-        {
-            "content": "[Max after the Items are Gained OFF]\n04000000 01670E34 0B010108\n\n",
-            "title": "[Max after the Items are Gained OFF]"
-        },
-        {
-            "content": "[HP is 9999 ON]\n04000000 01825BB4 291EA669\n\n",
-            "title": "[HP is 9999 ON]"
-        },
-        {
-            "content": "[HP is 9999 OFF]\n04000000 01825BB4 291E8260\n\n",
-            "title": "[HP is 9999 OFF]"
-        },
-        {
-            "content": "[Maximum intimacy after obtaining ON]\n04000000 01988EB0 B900256C\n04000000 014BAAF8 29098A62\n04000000 01988EAC 0B13514A\n\n",
-            "title": "[Maximum intimacy after obtaining ON]"
-        },
-        {
-            "content": "[Maximum intimacy after obtaining OFF]\n04000000 01988EB0 B900256A\n04000000 014BAAF8 2909D275\n04000000 01988EAC 0B13014A",
-            "title": "[Maximum intimacy after obtaining OFF]"
-        }
-    ]
+    "91F1E17F8D8D0B4A": {
+        "[MASTER CODE]": "[MASTER CODE]\n04000000 017BBDD4 B900FC08\n\n",
+        "[SP is not reduced ON]": "[SP is not reduced ON]\n04000000 017BBDD4 B9010001\n\n",
+        "[SP is not reduced OFF]": "[SP is not reduced OFF]\n04000000 017BBDD4 B900FC08\n\n",
+        "[2 times experience]": "[2 times experience]\n04000000 02112170 0B010929\n\n",
+        "[4 times experience]": "[4 times experience]\n04000000 02112170 0B011129\n\n",
+        "[Level 99 after gaining experience]": "[Level 99 after gaining experience]\n04000000 02112170 0B015129\n\n",
+        "[Exp Gained OFF]": "[Exp Gained OFF]\n04000000 02112170 0B010129\n\n",
+        "[locked items Number ON]": "[locked items Number ON]\n04000000 01670E48 B9401400\n\n",
+        "[locked items Number OFF]": "[locked items Number OFF]\n04000000 01670E48 B9001408\n\n",
+        "[Max after the Items are Gained ON]": "[Max after the Items are Gained ON]\n04000000 01670E34 0B015108\n\n",
+        "[Max after the Items are Gained OFF]": "[Max after the Items are Gained OFF]\n04000000 01670E34 0B010108\n\n",
+        "[HP is 9999 ON]": "[HP is 9999 ON]\n04000000 01825BB4 291EA669\n\n",
+        "[HP is 9999 OFF]": "[HP is 9999 OFF]\n04000000 01825BB4 291E8260\n\n",
+        "[Maximum intimacy after obtaining ON]": "[Maximum intimacy after obtaining ON]\n04000000 01988EB0 B900256C\n04000000 014BAAF8 29098A62\n04000000 01988EAC 0B13514A\n\n",
+        "[Maximum intimacy after obtaining OFF]": "[Maximum intimacy after obtaining OFF]\n04000000 01988EB0 B900256A\n04000000 014BAAF8 2909D275\n04000000 01988EAC 0B13014A\n\n"
+    }
 }

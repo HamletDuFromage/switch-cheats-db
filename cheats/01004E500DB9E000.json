@@ -1,34 +1,13 @@
 {
-    "F203511733AE3449": [
-        {
-            "content": "[max point]\n04100000 00cb7554 05f5e0ff\n\n",
-            "title": "[max point]"
-        },
-        {
-            "content": "[max Gold coin for gasphon]\n04100000 00cb7550 05f5e0ff\n\n",
-            "title": "[max Gold coin for gasphon]"
-        },
-        {
-            "content": "[max ability coin]\n04100000 01907770 05f5e0ff\n\n",
-            "title": "[max ability coin]"
-        },
-        {
-            "content": "[231 energy]\n01100000 019077b8 000000E7\n\n",
-            "title": "[231 energy]"
-        },
-        {
-            "content": "[231 looks]\n01100000 019077a8 000000E7\n\n",
-            "title": "[231 looks]"
-        },
-        {
-            "content": "[231 art]\n01100000 01907798 000000E7\n\n",
-            "title": "[231 art]"
-        },
-        {
-            "content": "[231 culture]\n01100000 01907788 000000E7",
-            "title": "[231 culture]"
-        }
-    ],
+    "F203511733AE3449": {
+        "[max point]": "[max point]\n04100000 00cb7554 05f5e0ff\n\n",
+        "[max Gold coin for gasphon]": "[max Gold coin for gasphon]\n04100000 00cb7550 05f5e0ff\n\n",
+        "[max ability coin]": "[max ability coin]\n04100000 01907770 05f5e0ff\n\n",
+        "[231 energy]": "[231 energy]\n01100000 019077b8 000000E7\n\n",
+        "[231 looks]": "[231 looks]\n01100000 019077a8 000000E7\n\n",
+        "[231 art]": "[231 art]\n01100000 01907798 000000E7\n\n",
+        "[231 culture]": "[231 culture]\n01100000 01907788 000000E7\n\n"
+    },
     "attribution": {
         "Summer sweet heart  by IMnoob.txt": ""
     }

@@ -1,22 +1,10 @@
 {
-    "A5A0BEA13AD893FE": [
-        {
-            "content": "[coin]\n04100000 2E809E88 05F5E100\n\n",
-            "title": "[coin]"
-        },
-        {
-            "content": "[bomd 99]\n01100000 2E809E8C 00000063\n\n",
-            "title": "[bomd 99]"
-        },
-        {
-            "content": "[rope 99]\n01100000 2E809E8D 00000063\n\n",
-            "title": "[rope 99]"
-        },
-        {
-            "content": "[life 99]\n01100000 2E809E92 00000063",
-            "title": "[life 99]"
-        }
-    ],
+    "A5A0BEA13AD893FE": {
+        "[coin]": "[coin]\n04100000 2E809E88 05F5E100\n\n",
+        "[bomd 99]": "[bomd 99]\n01100000 2E809E8C 00000063\n\n",
+        "[rope 99]": "[rope 99]\n01100000 2E809E8D 00000063\n\n",
+        "[life 99]": "[life 99]\n01100000 2E809E92 00000063\n\n"
+    },
     "attribution": {
         "Spelunky 2 ver 1.23 by jericoss.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }

@@ -1,14 +1,8 @@
 {
-    "2B242D6BB478F127": [
-        {
-            "content": "[*Inf Movement 88]\n580F0000 008D5578\n580F1000 00000000\n580F1000 00000008\n780F0000 0000004C\n640F0000 00000000 42B00000\n\n",
-            "title": "[*Inf Movement 88]"
-        },
-        {
-            "content": "[*Max Bellotas 8888888]\n580F0000 00EDC620\n580F1000 00000000\n580F1000 00000060\n580F1000 00000310\n780F0000 0000003A\n620F0000 00000000 0087A238",
-            "title": "[*Max Bellotas 8888888]"
-        }
-    ],
+    "2B242D6BB478F127": {
+        "[*Inf Movement 88]": "[*Inf Movement 88]\n580F0000 008D5578\n580F1000 00000000\n580F1000 00000008\n780F0000 0000004C\n640F0000 00000000 42B00000\n\n",
+        "[*Max Bellotas 8888888]": "[*Max Bellotas 8888888]\n580F0000 00EDC620\n580F1000 00000000\n580F1000 00000060\n580F1000 00000310\n780F0000 0000003A\n620F0000 00000000 0087A238\n\n"
+    },
     "attribution": {
         "Pokemon Cafe Mix ver 1.0.0 by Jericoos.txt": "caution\ncan some problems"
     }

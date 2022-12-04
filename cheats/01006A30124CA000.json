@@ -1,12 +1,9 @@
 {
-    "6C8C4B4B699FAD29": [
-        {
-            "content": "[tickets]\n580F0000 07B55E08\n580F1000 00000280\n780F0000 00000040\n640F0000 00000000 0000270F",
-            "title": "[tickets]"
-        }
-    ],
+    "6C8C4B4B699FAD29": {
+        "[tickets]": "[tickets]\n580F0000 07B55E08\n580F1000 00000280\n780F0000 00000040\n640F0000 00000000 0000270F\n\n"
+    },
     "attribution": {
-        "Chocobo GP 1.0.3 by TomSwitch.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code.",
-        "Chocobo GP 1.0.3 by optanic andTomSwitch.txt": "httpswww.youtube.comwatchv=rNGLXudFx1M"
+        "Chocobo GP 1.0.3 by optanic andTomSwitch.txt": "httpswww.youtube.comwatchv=rNGLXudFx1M",
+        "Chocobo GP 1.0.3 by TomSwitch.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
     }
 }

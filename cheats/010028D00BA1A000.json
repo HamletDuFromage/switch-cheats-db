@@ -1,18 +1,9 @@
 {
-    "85E49C169A8B988A": [
-        {
-            "content": "[Infinite HP]\n04070000 004e4000 d503201f\n\n",
-            "title": "[Infinite HP]"
-        },
-        {
-            "content": "[Infinite ammo]\n04070000 0055fe9c 52800002\n04070000 0055feb4 71000109\n\n",
-            "title": "[Infinite ammo]"
-        },
-        {
-            "content": "[Infinite Stamina]\n04070000 02c5cb40 52a88f48\n04070000 02c5cb44 b900c268\n04070000 02c5cb48 2d578660\n04070000 02c5cb4c d65f03c0\n04070000 02c5cb50 b9004cb8\n04070000 00445338 94a05e02",
-            "title": "[Infinite Stamina]"
-        }
-    ],
+    "85E49C169A8B988A": {
+        "[Infinite HP]": "[Infinite HP]\n04070000 004e4000 d503201f\n\n",
+        "[Infinite ammo]": "[Infinite ammo]\n04070000 0055fe9c 52800002\n04070000 0055feb4 71000109\n\n",
+        "[Infinite Stamina]": "[Infinite Stamina]\n04070000 02c5cb40 52a88f48\n04070000 02c5cb44 b900c268\n04070000 02c5cb48 2d578660\n04070000 02c5cb4c d65f03c0\n04070000 02c5cb50 b9004cb8\n04070000 00445338 94a05e02\n\n"
+    },
     "attribution": {
         "The Sinking City by FXDX.txt": ""
     }

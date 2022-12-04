@@ -1,34 +1,13 @@
 {
-    "FE9DDB64D10BF747": [
-        {
-            "content": "[Crediti infiniti]\n02100000 9ddf7aa4 00000063\n\n",
-            "title": "[Crediti infiniti]"
-        },
-        {
-            "content": "[Vite infinite Giocatore 1]\n02100000 9ddf7ab4 00000009\n\n",
-            "title": "[Vite infinite Giocatore 1]"
-        },
-        {
-            "content": "[Vite infinite Giocatore 2]\n02100000 9ddf7ab8 00000009\n\n",
-            "title": "[Vite infinite Giocatore 2]"
-        },
-        {
-            "content": "[Inf Life]\n580F0000 0166A930\n580F1000 00000210\n580F1000 00000420\n780F0000 000000C0\n640F0000 00000000 00000080\n\n",
-            "title": "[Inf Life]"
-        },
-        {
-            "content": "[Speed Up]\n580F0000 0166A930\n580F1000 00000210\n580F1000 00000420\n580F1000 00000158\n780F0000 000000E4\n640F0000 00000000 43840000\n\n",
-            "title": "[Speed Up]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 0166A930\n580F1000 00000210\n580F1000 00000420\n580F1000 00000158\n780F0000 0000034C\n640F0000 00000000 00000051\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Moon Jump]\n80000004\n580F0000 0166A930\n580F1000 00000210\n580F1000 00000420\n580F1000 00000158\n780F0000 00000358\n640F0000 00000000 42000000\n20000000",
-            "title": "[Moon Jump]"
-        }
-    ],
+    "FE9DDB64D10BF747": {
+        "[Crediti infiniti]": "[Crediti infiniti]\n02100000 9ddf7aa4 00000063\n\n",
+        "[Vite infinite Giocatore 1]": "[Vite infinite Giocatore 1]\n02100000 9ddf7ab4 00000009\n\n",
+        "[Vite infinite Giocatore 2]": "[Vite infinite Giocatore 2]\n02100000 9ddf7ab8 00000009\n\n",
+        "[Inf Life]": "[Inf Life]\n580F0000 0166A930\n580F1000 00000210\n580F1000 00000420\n780F0000 000000C0\n640F0000 00000000 00000080\n\n",
+        "[Speed Up]": "[Speed Up]\n580F0000 0166A930\n580F1000 00000210\n580F1000 00000420\n580F1000 00000158\n780F0000 000000E4\n640F0000 00000000 43840000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 0166A930\n580F1000 00000210\n580F1000 00000420\n580F1000 00000158\n780F0000 0000034C\n640F0000 00000000 00000051\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000004\n580F0000 0166A930\n580F1000 00000210\n580F1000 00000420\n580F1000 00000158\n780F0000 00000358\n640F0000 00000000 42000000\n20000000\n\n"
+    },
     "attribution": {
         "Double Dragon 4 by djchunni ver 1.0.2 by Optanic.txt": "[From MAX-CHEATS.com by Djchubby for Double Dragon 4]\n\n[Crediti infiniti]\n02100000 9ddf7aa4 00000063\n\n[Vite infinite Giocatore 1]\n02100000 9ddf7ab4 00000009\n\n[Vite infinite Giocatore 2]\n02100000 9ddf7ab8 00000009\n\n[Inf Life]\n580F0000 0166A930\n580F1000 00000210\n580F1000 00000420\n780F0000 000000C0\n640F0000 00000000 00000080\n\n[Speed Up]\n580F0000 0166A930\n580F1000 00000210\n580F1000 00000420\n580F1000 00000158\n780F0000 000000E4\n640F0000 00000000 43840000\n\n[Invincible]\n580F0000 0166A930\n580F1000 00000210\n580F1000 00000420\n580F1000 00000158\n780F0000 0000034C\n640F0000 00000000 00000051\n\n[Moon Jump]\n80000004\n580F0000 0166A930\n580F1000 00000210\n580F1000 00000420\n580F1000 00000158\n780F0000 00000358\n640F0000 00000000 42000000\n20000000"
     }

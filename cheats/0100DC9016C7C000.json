@@ -1,26 +1,11 @@
 {
-    "DB92FB1A713C6B45": [
-        {
-            "content": "[Breeze beta34 Touken Ranbu Warriors 1.0.2 TID: 0100DC9016C7C000 BID: DB92FB1A713C6B45]\n\n",
-            "title": "[Breeze beta34 Touken Ranbu Warriors 1.0.2 TID: 0100DC9016C7C000 BID: DB92FB1A713C6B45]"
-        },
-        {
-            "content": "{exp finder}\n04000000 009330C8 14290B5E \n04000000 01375E40 B00076E8 \n04000000 01375E44 F904B91B \n04000000 01375E48 B9404368 \n04000000 01375E4C 17D6F4A0 \n\n",
-            "title": "{exp finder}"
-        },
-        {
-            "content": "[exp]\n580F0000 02252970 \n780F0000 00000040 \n640F0000 00000000 000009D8 \n\n",
-            "title": "[exp]"
-        },
-        {
-            "content": "[material]\n580F0000 01E2D9E8 \n580F1000 00000010 \n580F1000 00000008 \n580F1000 00000020 \n580F1000 00000000 \n780F0000 00000060 \n680F1000 000F423F 000F423F \n680F0000 000F423F 000F423F \n\n",
-            "title": "[material]"
-        },
-        {
-            "content": "[coins]\n580F0000 01E2D9E8 \n580F1000 00000010 \n580F1000 00000008 \n580F1000 00000020 \n580F1000 00000000 \n780F0000 0000005C \n640F0000 00000000 05F5E0FF ",
-            "title": "[coins]"
-        }
-    ],
+    "DB92FB1A713C6B45": {
+        "[Breeze beta34 Touken Ranbu Warriors 1.0.2 TID: 0100DC9016C7C000 BID: DB92FB1A713C6B45]": "[Breeze beta34 Touken Ranbu Warriors 1.0.2 TID: 0100DC9016C7C000 BID: DB92FB1A713C6B45]\n\n",
+        "{exp finder}": "{exp finder}\n04000000 009330C8 14290B5E \n04000000 01375E40 B00076E8 \n04000000 01375E44 F904B91B \n04000000 01375E48 B9404368 \n04000000 01375E4C 17D6F4A0\n\n",
+        "[exp]": "[exp]\n580F0000 02252970 \n780F0000 00000040 \n640F0000 00000000 000009D8\n\n",
+        "[material]": "[material]\n580F0000 01E2D9E8 \n580F1000 00000010 \n580F1000 00000008 \n580F1000 00000020 \n580F1000 00000000 \n780F0000 00000060 \n680F1000 000F423F 000F423F \n680F0000 000F423F 000F423F\n\n",
+        "[coins]": "[coins]\n580F0000 01E2D9E8 \n580F1000 00000010 \n580F1000 00000008 \n580F1000 00000020 \n580F1000 00000000 \n780F0000 0000005C \n640F0000 00000000 05F5E0FF\n\n"
+    },
     "attribution": {
         "Touken Ranbu Warriors 1.0.2   by Tomswitch.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
     }

@@ -1,22 +1,10 @@
 {
-    "AD1D1E92D1BD38D5": [
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 00F2B268\n580F1000 00000040\n580F1000 00000020\n580F1000 00000060\n780F0000 000000C8\n640F0000 00000000 41200000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Moon Jump 2P]\n80000002\n580F0000 00F2B268\n580F1000 00000040\n580F1000 00000020\n580F1000 00000068\n780F0000 000000C8\n640F0000 00000000 41200000\n20000000\n\n",
-            "title": "[Moon Jump 2P]"
-        },
-        {
-            "content": "[Inf Life]\n580F0000 00F2B268\n580F1000 00000040\n580F1000 00000068\n780F0000 00000054\n620F0000 00000000 00000519\n\n",
-            "title": "[Inf Life]"
-        },
-        {
-            "content": "[Inf Combo (Hold ZL)]\n80000100\n580F0000 00F2B268\n580F1000 00000040\n780F0000 000000DC\n640F0000 00000000 00000021\n20000000",
-            "title": "[Inf Combo (Hold ZL)]"
-        }
-    ],
+    "AD1D1E92D1BD38D5": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 00F2B268\n580F1000 00000040\n580F1000 00000020\n580F1000 00000060\n780F0000 000000C8\n640F0000 00000000 41200000\n20000000\n\n",
+        "[Moon Jump 2P]": "[Moon Jump 2P]\n80000002\n580F0000 00F2B268\n580F1000 00000040\n580F1000 00000020\n580F1000 00000068\n780F0000 000000C8\n640F0000 00000000 41200000\n20000000\n\n",
+        "[Inf Life]": "[Inf Life]\n580F0000 00F2B268\n580F1000 00000040\n580F1000 00000068\n780F0000 00000054\n620F0000 00000000 00000519\n\n",
+        "[Inf Combo (Hold ZL)]": "[Inf Combo (Hold ZL)]\n80000100\n580F0000 00F2B268\n580F1000 00000040\n780F0000 000000DC\n640F0000 00000000 00000021\n20000000\n\n"
+    },
     "attribution": {
         "Asterix & Obelix XXL Romastered ver 1.0.0 by ZiT.txt": "Item ID= xxxxxxxx\nCode:\n00000000:Handgun\n00000001:Handgun Bullets\n00000002:Painkillers\n00000003:Combat Shotgun\n00000004:Shotgun Shells\n00000005:Submachine Gun\n00000006:SMG Rounds\n00000007:Magnum\n00000008:Magnum Rounds\n00000009:Hunting knife\n0000000A:Ointment\n0000000B:Coagulant\n0000000C:Aid Spray\n0000000D;Remedy\n0000000E:First Aid Kit\n0000000F:Pouch\n00000010:Old Key\n00000011:Floppy Disk\n00000012:Grenade Launcher\n00000013:Grenade Rounds\n00000014:Small Key\n00000015:Cutters\n00000016:Screwdriver\n00000017:Wire Coil\n00000018:C4\n00000019:Detonator\n0000001A:Car Key\n0000001B:Ticket\n0000001C:Ornate Key\n0000001D:Security Card A\n0000001E:Security Card B\n0000001F:Reinforced Key\n00000020:Valve\n00000021:Lockpick\n00000022:Sledgehammer\n00000023:Fire Axe\n00000024:Empty Battery\n00000025:Charged Battery"
     }

@@ -1,22 +1,10 @@
 {
-    "341CD937B9A177A5": [
-        {
-            "content": "[gold 1M]\n08100000 A1AECBA0 40F871E0 00000000\n\n",
-            "title": "[gold 1M]"
-        },
-        {
-            "content": "[level 1]\n08100000 A1AECB70 3FF00000 00000000\n\n",
-            "title": "[level 1]"
-        },
-        {
-            "content": "[instant level 15]\n08100000 A1AECB80 50000000 00000000\n\n",
-            "title": "[instant level 15]"
-        },
-        {
-            "content": "[points 1]\n08100000 A1AECBB0 3FF00000 00000000",
-            "title": "[points 1]"
-        }
-    ],
+    "341CD937B9A177A5": {
+        "[gold 1M]": "[gold 1M]\n08100000 A1AECBA0 40F871E0 00000000\n\n",
+        "[level 1]": "[level 1]\n08100000 A1AECB70 3FF00000 00000000\n\n",
+        "[instant level 15]": "[instant level 15]\n08100000 A1AECB80 50000000 00000000\n\n",
+        "[points 1]": "[points 1]\n08100000 A1AECBB0 3FF00000 00000000\n\n"
+    },
     "attribution": {
         "Monster Slayers by TomSwitch.txt": ""
     }

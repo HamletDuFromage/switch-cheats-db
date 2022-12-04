@@ -1,30 +1,12 @@
 {
-    "F66CF247527E8B42": [
-        {
-            "content": "[Speed UP]\n580F0000 024D6B08\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000018\n640F0000 00000000 41500000\n\n",
-            "title": "[Speed UP]"
-        },
-        {
-            "content": "[Inf Health]\n580F0000 024D6B08\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000001C\n680F0000 0000270F 0000270F\n\n",
-            "title": "[Inf Health]"
-        },
-        {
-            "content": "[Max P]\n580F0000 024D6B08\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000024\n640F0000 00000000 0000270F\n\n",
-            "title": "[Max P]"
-        },
-        {
-            "content": "[Unlock Gun Shop]\n580F0000 024D6B08\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000058\n640F0000 00000000 00000001\n\n",
-            "title": "[Unlock Gun Shop]"
-        },
-        {
-            "content": "[Shield ON]\n580F0000 024D6B08\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000064\n640F0000 00000000 00000001\n\n",
-            "title": "[Shield ON]"
-        },
-        {
-            "content": "[Inf Ammo]\n580F0000 024FBCD0\n580F1000 00000380\n580F1000 00000080\n580F1000 000001F0\n580F1000 00000290\n580F1000 00000178\n780F0000 00000084\n640F0000 00000000 00000000",
-            "title": "[Inf Ammo]"
-        }
-    ],
+    "F66CF247527E8B42": {
+        "[Speed UP]": "[Speed UP]\n580F0000 024D6B08\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000018\n640F0000 00000000 41500000\n\n",
+        "[Inf Health]": "[Inf Health]\n580F0000 024D6B08\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000001C\n680F0000 0000270F 0000270F\n\n",
+        "[Max P]": "[Max P]\n580F0000 024D6B08\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000024\n640F0000 00000000 0000270F\n\n",
+        "[Unlock Gun Shop]": "[Unlock Gun Shop]\n580F0000 024D6B08\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000058\n640F0000 00000000 00000001\n\n",
+        "[Shield ON]": "[Shield ON]\n580F0000 024D6B08\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000064\n640F0000 00000000 00000001\n\n",
+        "[Inf Ammo]": "[Inf Ammo]\n580F0000 024FBCD0\n580F1000 00000380\n580F1000 00000080\n580F1000 000001F0\n580F1000 00000290\n580F1000 00000178\n780F0000 00000084\n640F0000 00000000 00000000\n\n"
+    },
     "attribution": {
         "Ailment 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
     }

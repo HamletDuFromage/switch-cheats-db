@@ -1,1444 +1,366 @@
 {
-    "1EA294AF01F90F4C": [
-        {
-            "content": "[(ZL) Stop Time | (ZR) Resume Time]\n80000200\n040C0000 0190CACC 9423C421\n20000000\n80000100\n040C0000 0190CACC D503201F\n20000000\n\n",
-            "title": "[(ZL) Stop Time | (ZR) Resume Time]"
-        },
-        {
-            "content": "[Inf. Stamina]\n80000008\n580C0000 04A1A568\n580C1000 00000B10\n580C1000 00000010\n580C1000 00000070\n580C1000 00000020\n580C1000 00000028\n580C1000 00000070\n780C0000 0000007C\n640C0000 00000000 44FA0000\n20000000\n\n",
-            "title": "[Inf. Stamina]"
-        },
-        {
-            "content": "[Inf. Water in Can]\n80000008\n580C0000 0465AC20\n580C1000 000000B8\n580C1000 00000000\n780C0000 00000058\n640C0000 00000000 00000063\n20000000\n\n",
-            "title": "[Inf. Water in Can]"
-        },
-        {
-            "content": "[Insta-Catch Fish]\n80000008\n580C0000 0465AF20\n580C1000 000000B8\n580C1000 00000010\n580C1000 00000010\n580C1000 00000028\n580C1000 00000010\n580C1000 00000028\n780C0000 00000048\n640C0000 00000000 3F800000\n20000000\n\n",
-            "title": "[Insta-Catch Fish]"
-        },
-        {
-            "content": "[999 Followers (Sprite Management)]\n580C0000 0465AC80\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000010\n580C1000 00000028\n580C1000 00000088\n780C0000 0000003C\n640C0000 00000000 000003E7\n\n",
-            "title": "[999 Followers (Sprite Management)]"
-        },
-        {
-            "content": "[Max Money after Purchase]\n580C0000 04A1A568\n580C1000 00000B10\n580C1000 00000010\n580C1000 00000090\n580C1000 00000028\n580C1000 00000070\n780C0000 00000024\n640C0000 00000000 05F5E0FF\n\n",
-            "title": "[Max Money after Purchase]"
-        },
-        {
-            "content": "[Max Sprite Coins]\n580C0000 04A1A568\n580C1000 00000B10\n580C1000 00000010\n580C1000 00000090\n580C1000 00000028\n580C1000 00000070\n780C0000 00000028\n640C0000 00000000 05F5E0FF\n\n",
-            "title": "[Max Sprite Coins]"
-        },
-        {
-            "content": "[Max Sprite Points]\n580C0000 04A1A568\n580C1000 00000B10\n580C1000 00000010\n580C1000 00000090\n580C1000 00000028\n580C1000 00000070\n780C0000 0000002C\n640C0000 00000000 0001869F\n\n",
-            "title": "[Max Sprite Points]"
-        },
-        {
-            "content": "[Max Skills]\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000020\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000028\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000030\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000038\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000040\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000048\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000050\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000058\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000060\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000068\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000070\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000078\n780C0000 0000001C\n640C0000 00000000 0000D903\n\n",
-            "title": "[Max Skills]"
-        },
-        {
-            "content": "[Max Friendship All Pt. 1]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000288\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000001F8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000000C0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000000A8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000002A0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000228\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000078\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000318\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000048\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000168\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000138\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000030\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n",
-            "title": "[Max Friendship All Pt. 1]"
-        },
-        {
-            "content": "[Max Friendship All Pt. 2]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000060\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000150\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000001B0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000270\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000390\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000240\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000000D8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000378\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000002E8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000002D0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000001E0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000380\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n",
-            "title": "[Max Friendship All Pt. 2]"
-        },
-        {
-            "content": "[Max Friendship All Pt. 3]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000210\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000002B8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000198\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000348\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000180\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000090\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000300\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000108\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000001C8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000380\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000258\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000120\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000330\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000360\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000003A8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n",
-            "title": "[Max Friendship All Pt. 3]"
-        },
-        {
-            "content": "[Slot 1 Row 2 x1]\n580C0000 0465AD10\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000014\n640C0000 00000000 00000001\n\n",
-            "title": "[Slot 1 Row 2 x1]"
-        },
-        {
-            "content": "[Slot 1 Row 2 x10]\n580C0000 0465AD10\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000014\n640C0000 00000000 0000000A\n\n",
-            "title": "[Slot 1 Row 2 x10]"
-        },
-        {
-            "content": "[Slot 1 Row 2 x99]\n580C0000 0465AD10\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000014\n640C0000 00000000 00000063\n\n",
-            "title": "[Slot 1 Row 2 x99]"
-        },
-        {
-            "content": "[Slot 1 Row 2 x999]\n580C0000 0465AD10\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000014\n640C0000 00000000 000003E7\n\n",
-            "title": "[Slot 1 Row 2 x999]"
-        },
-        {
-            "content": "[Slot 1 Row 2 Max Quality]\n580C0000 0465AD10\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000018\n640C0000 00000000 0000000A\n\n",
-            "title": "[Slot 1 Row 2 Max Quality]"
-        },
-        {
-            "content": "[/!\\ { Master Item Slot 1 Row 2 } /!\\]\n580D0000 0465AD10\n580D1000 000000B8\n580D1000 00000000\n580D1000 00000028\n580D1000 00000010\n580D1000 00000018\n580D1000 000000F0\n780D0000 00000014\n640D0000 00000000 00000001\n580C0000 0465AD10\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000010\n\n",
-            "title": "[/!\\ { Master Item Slot 1 Row 2 } /!\\]"
-        },
-        {
-            "content": "[-- Materials --]\n00000000 00000000 00000000\n\n",
-            "title": "[-- Materials --]"
-        },
-        {
-            "content": "[Alpaca Cloth]\n640C0000 00000000 0001D4C7\n\n",
-            "title": "[Alpaca Cloth]"
-        },
-        {
-            "content": "[Alpaca Yarn]\n640C0000 00000000 0001D0E0\n\n",
-            "title": "[Alpaca Yarn]"
-        },
-        {
-            "content": "[Bouquet Essence]\n640C0000 00000000 0001E07B\n\n",
-            "title": "[Bouquet Essence]"
-        },
-        {
-            "content": "[Brown Alpaca Cloth]\n640C0000 00000000 0001D4C8\n\n",
-            "title": "[Brown Alpaca Cloth]"
-        },
-        {
-            "content": "[Brown Alpaca Yarn]\n640C0000 00000000 0001D0E1\n\n",
-            "title": "[Brown Alpaca Yarn]"
-        },
-        {
-            "content": "[Cloth]\n640C0000 00000000 0001D4C0\n\n",
-            "title": "[Cloth]"
-        },
-        {
-            "content": "[Coal Lump]\n640C0000 00000000 0001C90A\n\n",
-            "title": "[Coal Lump]"
-        },
-        {
-            "content": "[Diamond]\n640C0000 00000000 0001DC94\n\n",
-            "title": "[Diamond]"
-        },
-        {
-            "content": "[Durable Lumber]\n640C0000 00000000 0001CCF3\n\n",
-            "title": "[Durable Lumber]"
-        },
-        {
-            "content": "[Emerald]\n640C0000 00000000 0001DC93\n\n",
-            "title": "[Emerald]"
-        },
-        {
-            "content": "[Flexible Cloth]\n640C0000 00000000 0001D4C1\n\n",
-            "title": "[Flexible Cloth]"
-        },
-        {
-            "content": "[Flexible Grass]\n640C0000 00000000 0001C521\n\n",
-            "title": "[Flexible Grass]"
-        },
-        {
-            "content": "[Flexible Thread]\n640C0000 00000000 0001D0DA\n\n",
-            "title": "[Flexible Thread]"
-        },
-        {
-            "content": "[Floral Essence]\n640C0000 00000000 0001E07A\n\n",
-            "title": "[Floral Essence]"
-        },
-        {
-            "content": "[Fruit Eseence]\n640C0000 00000000 0001E07C\n\n",
-            "title": "[Fruit Eseence]"
-        },
-        {
-            "content": "[Glass]\n640C0000 00000000 0001D8A9\n\n",
-            "title": "[Glass]"
-        },
-        {
-            "content": "[Glass Rock]\n640C0000 00000000 0001C909\n\n",
-            "title": "[Glass Rock]"
-        },
-        {
-            "content": "[Gold Ingot]\n640C0000 00000000 0001D8AC\n\n",
-            "title": "[Gold Ingot]"
-        },
-        {
-            "content": "[Gold Ore]\n640C0000 00000000 0001C90D\n\n",
-            "title": "[Gold Ore]"
-        },
-        {
-            "content": "[Grass]\n640C0000 00000000 0001C520\n\n",
-            "title": "[Grass]"
-        },
-        {
-            "content": "[Gray Rabbit Cloth]\n640C0000 00000000 0001D4CA\n\n",
-            "title": "[Gray Rabbit Cloth]"
-        },
-        {
-            "content": "[Gray Rabbit Yarn]\n640C0000 00000000 0001D0E3\n\n",
-            "title": "[Gray Rabbit Yarn]"
-        },
-        {
-            "content": "[Iron Ingot]\n640C0000 00000000 0001D8AA\n\n",
-            "title": "[Iron Ingot]"
-        },
-        {
-            "content": "[Iron Ore]\n640C0000 00000000 0001C90B\n\n",
-            "title": "[Iron Ore]"
-        },
-        {
-            "content": "[Lumber]\n640C0000 00000000 0001CCF0\n\n",
-            "title": "[Lumber]"
-        },
-        {
-            "content": "[Mirage Cloth]\n640C0000 00000000 0001D4C4\n\n",
-            "title": "[Mirage Cloth]"
-        },
-        {
-            "content": "[Mirage Grass]\n640C0000 00000000 0001C524\n\n",
-            "title": "[Mirage Grass]"
-        },
-        {
-            "content": "[Mirage Lumber]\n640C0000 00000000 0001CCF4\n\n",
-            "title": "[Mirage Lumber]"
-        },
-        {
-            "content": "[Mirage Thread]\n640C0000 00000000 0001D0DD\n\n",
-            "title": "[Mirage Thread]"
-        },
-        {
-            "content": "[Oricalum Ingot]\n640C0000 00000000 0001D8AD\n\n",
-            "title": "[Oricalum Ingot]"
-        },
-        {
-            "content": "[Orichalum Ore]\n640C0000 00000000 0001C90E\n\n",
-            "title": "[Orichalum Ore]"
-        },
-        {
-            "content": "[Pink Rabbit Cloth]\n640C0000 00000000 0001D4CB\n\n",
-            "title": "[Pink Rabbit Cloth]"
-        },
-        {
-            "content": "[Pink Rabbit Yarn]\n640C0000 00000000 0001D0E4\n\n",
-            "title": "[Pink Rabbit Yarn]"
-        },
-        {
-            "content": "[Rabbit Cloth]\n640C0000 00000000 0001D4C9\n\n",
-            "title": "[Rabbit Cloth]"
-        },
-        {
-            "content": "[Rabbit Yarn]\n640C0000 00000000 0001D0E2\n\n",
-            "title": "[Rabbit Yarn]"
-        },
-        {
-            "content": "[Raw Diamond]\n640C0000 00000000 0001C913\n\n",
-            "title": "[Raw Diamond]"
-        },
-        {
-            "content": "[Raw Emerland]\n640C0000 00000000 0001C912\n\n",
-            "title": "[Raw Emerland]"
-        },
-        {
-            "content": "[Raw Red Beryl]\n640C0000 00000000 0001C914\n\n",
-            "title": "[Raw Red Beryl]"
-        },
-        {
-            "content": "[Raw Ruby]\n640C0000 00000000 0001C910\n\n",
-            "title": "[Raw Ruby]"
-        },
-        {
-            "content": "[Raw Sapphire]\n640C0000 00000000 0001C911\n\n",
-            "title": "[Raw Sapphire]"
-        },
-        {
-            "content": "[Raw White Opal]\n640C0000 00000000 0001C90F\n\n",
-            "title": "[Raw White Opal]"
-        },
-        {
-            "content": "[Red Beryl]\n640C0000 00000000 0001DC95\n\n",
-            "title": "[Red Beryl]"
-        },
-        {
-            "content": "[Refined Coal]\n640C0000 00000000 0001D8A8\n\n",
-            "title": "[Refined Coal]"
-        },
-        {
-            "content": "[Ruby]\n640C0000 00000000 0001DC91\n\n",
-            "title": "[Ruby]"
-        },
-        {
-            "content": "[Saphire]\n640C0000 00000000 0001DC92\n\n",
-            "title": "[Saphire]"
-        },
-        {
-            "content": "[Silver Ingot]\n640C0000 00000000 0001D8AB\n\n",
-            "title": "[Silver Ingot]"
-        },
-        {
-            "content": "[Silver Ore]\n640C0000 00000000 0001C90C\n\n",
-            "title": "[Silver Ore]"
-        },
-        {
-            "content": "[Smooth Cloth]\n640C0000 00000000 0001D4C3\n\n",
-            "title": "[Smooth Cloth]"
-        },
-        {
-            "content": "[Smooth Thread]\n640C0000 00000000 0001D0DC\n\n",
-            "title": "[Smooth Thread]"
-        },
-        {
-            "content": "[Smoth Grass]\n640C0000 00000000 0001C523\n\n",
-            "title": "[Smoth Grass]"
-        },
-        {
-            "content": "[Solid Lumber]\n640C0000 00000000 0001CCF1\n\n",
-            "title": "[Solid Lumber]"
-        },
-        {
-            "content": "[Stone]\n640C0000 00000000 0001C908\n\n",
-            "title": "[Stone]"
-        },
-        {
-            "content": "[Suffolk Cloth]\n640C0000 00000000 0001D4C6\n\n",
-            "title": "[Suffolk Cloth]"
-        },
-        {
-            "content": "[Suffolk Yarn]\n640C0000 00000000 0001D0DF\n\n",
-            "title": "[Suffolk Yarn]"
-        },
-        {
-            "content": "[Supple Lumber]\n640C0000 00000000 0001CCF2\n\n",
-            "title": "[Supple Lumber]"
-        },
-        {
-            "content": "[Though Cloth]\n640C0000 00000000 0001D4C2\n\n",
-            "title": "[Though Cloth]"
-        },
-        {
-            "content": "[Though Grass]\n640C0000 00000000 0001C522\n\n",
-            "title": "[Though Grass]"
-        },
-        {
-            "content": "[Though Thread]\n640C0000 00000000 0001D0DB\n\n",
-            "title": "[Though Thread]"
-        },
-        {
-            "content": "[Thread]\n640C0000 00000000 0001D0D9\n\n",
-            "title": "[Thread]"
-        },
-        {
-            "content": "[Twine]\n640C0000 00000000 0001D0D8\n\n",
-            "title": "[Twine]"
-        },
-        {
-            "content": "[White Opal]\n640C0000 00000000 0001DC90\n\n",
-            "title": "[White Opal]"
-        },
-        {
-            "content": "[Woolen Cloth]\n640C0000 00000000 0001D4C5\n\n",
-            "title": "[Woolen Cloth]"
-        },
-        {
-            "content": "[Woolen Yarn]\n640C0000 00000000 0001D0DE\n\n",
-            "title": "[Woolen Yarn]"
-        },
-        {
-            "content": "[-- Fossils --]\n00000000 00000000 00000000\n\n",
-            "title": "[-- Fossils --]"
-        },
-        {
-            "content": "[Ambergis]\n640C0000 00000000 00021B28\n\n",
-            "title": "[Ambergis]"
-        },
-        {
-            "content": "[Ancient Black Tome]\n640C0000 00000000 00021B1D\n\n",
-            "title": "[Ancient Black Tome]"
-        },
-        {
-            "content": "[Ancient Bug Fosil]\n640C0000 00000000 00021B2C\n\n",
-            "title": "[Ancient Bug Fosil]"
-        },
-        {
-            "content": "[Ancient Fosil]\n640C0000 00000000 00021B2B\n\n",
-            "title": "[Ancient Fosil]"
-        },
-        {
-            "content": "[Ancient White Tome]\n640C0000 00000000 00021B1E\n\n",
-            "title": "[Ancient White Tome]"
-        },
-        {
-            "content": "[Antique Accesory]\n640C0000 00000000 00021B10\n\n",
-            "title": "[Antique Accesory]"
-        },
-        {
-            "content": "[Antique Decoration]\n640C0000 00000000 00021B12\n\n",
-            "title": "[Antique Decoration]"
-        },
-        {
-            "content": "[Antique Mirror]\n640C0000 00000000 00021B11\n\n",
-            "title": "[Antique Mirror]"
-        },
-        {
-            "content": "[Antique Monument]\n640C0000 00000000 00021B13\n\n",
-            "title": "[Antique Monument]"
-        },
-        {
-            "content": "[Arthurite]\n640C0000 00000000 00021B23\n\n",
-            "title": "[Arthurite]"
-        },
-        {
-            "content": "[Cave Pearl]\n640C0000 00000000 00021B29\n\n",
-            "title": "[Cave Pearl]"
-        },
-        {
-            "content": "[Cow Helm]\n640C0000 00000000 00021B1B\n\n",
-            "title": "[Cow Helm]"
-        },
-        {
-            "content": "[Crystalized Amber]\n640C0000 00000000 00021B2A\n\n",
-            "title": "[Crystalized Amber]"
-        },
-        {
-            "content": "[Desert Rose]\n640C0000 00000000 00021B24\n\n",
-            "title": "[Desert Rose]"
-        },
-        {
-            "content": "[Dinosaur Fosil]\n640C0000 00000000 00021B2D\n\n",
-            "title": "[Dinosaur Fosil]"
-        },
-        {
-            "content": "[Fulgurite]\n640C0000 00000000 00021B22\n\n",
-            "title": "[Fulgurite]"
-        },
-        {
-            "content": "[Gibeon Stone]\n640C0000 00000000 00021B27\n\n",
-            "title": "[Gibeon Stone]"
-        },
-        {
-            "content": "[Glass Sliper]\n640C0000 00000000 00021B1F\n\n",
-            "title": "[Glass Sliper]"
-        },
-        {
-            "content": "[Golden Horn]\n640C0000 00000000 00021B1C\n\n",
-            "title": "[Golden Horn]"
-        },
-        {
-            "content": "[Okine]\n640C0000 00000000 00021B25\n\n",
-            "title": "[Okine]"
-        },
-        {
-            "content": "[Olive Crystal]\n640C0000 00000000 00021B21\n\n",
-            "title": "[Olive Crystal]"
-        },
-        {
-            "content": "[Parasite Stone]\n640C0000 00000000 00021B26\n\n",
-            "title": "[Parasite Stone]"
-        },
-        {
-            "content": "[Prehistoric Gear]\n640C0000 00000000 00021B20\n\n",
-            "title": "[Prehistoric Gear]"
-        },
-        {
-            "content": "[Shiny Trophy Buckle]\n640C0000 00000000 00021B1A\n\n",
-            "title": "[Shiny Trophy Buckle]"
-        },
-        {
-            "content": "[Sparkling Spur]\n640C0000 00000000 00021B19\n\n",
-            "title": "[Sparkling Spur]"
-        },
-        {
-            "content": "[Timeworn Coin]\n640C0000 00000000 00021B14\n\n",
-            "title": "[Timeworn Coin]"
-        },
-        {
-            "content": "[Timeworn Compass]\n640C0000 00000000 00021B17\n\n",
-            "title": "[Timeworn Compass]"
-        },
-        {
-            "content": "[Timeworn Fan]\n640C0000 00000000 00021B15\n\n",
-            "title": "[Timeworn Fan]"
-        },
-        {
-            "content": "[Timeworn Map]\n640C0000 00000000 00021B18\n\n",
-            "title": "[Timeworn Map]"
-        },
-        {
-            "content": "[Timeworn Scroll]\n640C0000 00000000 00021B16\n\n",
-            "title": "[Timeworn Scroll]"
-        },
-        {
-            "content": "[-- Forage --]\n00000000 00000000 00000000\n\n",
-            "title": "[-- Forage --]"
-        },
-        {
-            "content": "[Bamboo Shoot]\n640C0000 00000000 0001E465\n\n",
-            "title": "[Bamboo Shoot]"
-        },
-        {
-            "content": "[Butterbur]\n640C0000 00000000 0001E462\n\n",
-            "title": "[Butterbur]"
-        },
-        {
-            "content": "[Chestnut]\n640C0000 00000000 0001E464\n\n",
-            "title": "[Chestnut]"
-        },
-        {
-            "content": "[Horsetail]\n640C0000 00000000 0001E463\n\n",
-            "title": "[Horsetail]"
-        },
-        {
-            "content": "[Royal Fern]\n640C0000 00000000 0001E461\n\n",
-            "title": "[Royal Fern]"
-        },
-        {
-            "content": "[Wild Berry]\n640C0000 00000000 0001E460\n\n",
-            "title": "[Wild Berry]"
-        },
-        {
-            "content": "[-- Jewelery --]\n00000000 00000000 00000000\n\n",
-            "title": "[-- Jewelery --]"
-        },
-        {
-            "content": "[Confesion Pendant]\n640C0000 00000000 00021340\n\n",
-            "title": "[Confesion Pendant]"
-        },
-        {
-            "content": "[Fashionable Bracelet]\n640C0000 00000000 00020B72\n\n",
-            "title": "[Fashionable Bracelet]"
-        },
-        {
-            "content": "[Jewerly Locket]\n640C0000 00000000 00020B71\n\n",
-            "title": "[Jewerly Locket]"
-        },
-        {
-            "content": "[Jewerly Ring]\n640C0000 00000000 00020B70\n\n",
-            "title": "[Jewerly Ring]"
-        },
-        {
-            "content": "[Shiny Watch]\n640C0000 00000000 00020B73\n\n",
-            "title": "[Shiny Watch]"
-        },
-        {
-            "content": "[-- Other --]\n00000000 00000000 00000000\n\n",
-            "title": "[-- Other --]"
-        },
-        {
-            "content": "[Beans]\n640C0000 00000000 00019642\n\n",
-            "title": "[Beans]"
-        },
-        {
-            "content": "[Bouncy Ball]\n640C0000 00000000 00022E9D\n\n",
-            "title": "[Bouncy Ball]"
-        },
-        {
-            "content": "[Brick]\n640C0000 00000000 00022E9A\n\n",
-            "title": "[Brick]"
-        },
-        {
-            "content": "[Candy Cane Snail Shell]\n640C0000 00000000 00022EA8\n\n",
-            "title": "[Candy Cane Snail Shell]"
-        },
-        {
-            "content": "[Clay]\n640C0000 00000000 00022E99\n\n",
-            "title": "[Clay]"
-        },
-        {
-            "content": "[Coral]\n640C0000 00000000 00022EA6\n\n",
-            "title": "[Coral]"
-        },
-        {
-            "content": "[Deluxe Fodder]\n640C0000 00000000 00019645\n\n",
-            "title": "[Deluxe Fodder]"
-        },
-        {
-            "content": "[Empty Bottle]\n640C0000 00000000 00022EA5\n\n",
-            "title": "[Empty Bottle]"
-        },
-        {
-            "content": "[Empty Can]\n640C0000 00000000 00022EA3\n\n",
-            "title": "[Empty Can]"
-        },
-        {
-            "content": "[Fancy Pet Treat]\n640C0000 00000000 00022E9C\n\n",
-            "title": "[Fancy Pet Treat]"
-        },
-        {
-            "content": "[Fodder]\n640C0000 00000000 00019644\n\n",
-            "title": "[Fodder]"
-        },
-        {
-            "content": "[Heart Cockle Shell]\n640C0000 00000000 00022EA7\n\n",
-            "title": "[Heart Cockle Shell]"
-        },
-        {
-            "content": "[Mouse Ball]\n640C0000 00000000 00022E9E\n\n",
-            "title": "[Mouse Ball]"
-        },
-        {
-            "content": "[Old Boot]\n640C0000 00000000 00022EA4\n\n",
-            "title": "[Old Boot]"
-        },
-        {
-            "content": "[Pet Treat]\n640C0000 00000000 00022E9B\n\n",
-            "title": "[Pet Treat]"
-        },
-        {
-            "content": "[Rice]\n640C0000 00000000 00019640\n\n",
-            "title": "[Rice]"
-        },
-        {
-            "content": "[Tea Leaves]\n640C0000 00000000 00019643\n\n",
-            "title": "[Tea Leaves]"
-        },
-        {
-            "content": "[Venus Comb]\n640C0000 00000000 00022EA9\n\n",
-            "title": "[Venus Comb]"
-        },
-        {
-            "content": "[Wheat]\n640C0000 00000000 00019641\n\n",
-            "title": "[Wheat]"
-        },
-        {
-            "content": "[-- Fish --]\n00000000 00000000 00000000\n\n",
-            "title": "[-- Fish --]"
-        },
-        {
-            "content": "[Abalone]\n640C0000 00000000 0001B5A4\n\n",
-            "title": "[Abalone]"
-        },
-        {
-            "content": "[Aligator Gar]\n640C0000 00000000 0001B594\n\n",
-            "title": "[Aligator Gar]"
-        },
-        {
-            "content": "[Angler Fish]\n640C0000 00000000 0001B595\n\n",
-            "title": "[Angler Fish]"
-        },
-        {
-            "content": "[Aurora Fish]\n640C0000 00000000 0001B5AE\n\n",
-            "title": "[Aurora Fish]"
-        },
-        {
-            "content": "[Big Fin Reff Squid]\n640C0000 00000000 0001B5AA\n\n",
-            "title": "[Big Fin Reff Squid]"
-        },
-        {
-            "content": "[Blood Clam]\n640C0000 00000000 0001B5A3\n\n",
-            "title": "[Blood Clam]"
-        },
-        {
-            "content": "[Blue Crab]\n640C0000 00000000 0001B5A8\n\n",
-            "title": "[Blue Crab]"
-        },
-        {
-            "content": "[Cat Fish]\n640C0000 00000000 0001B58A\n\n",
-            "title": "[Cat Fish]"
-        },
-        {
-            "content": "[Cod]\n640C0000 00000000 0001B585\n\n",
-            "title": "[Cod]"
-        },
-        {
-            "content": "[Common Squid]\n640C0000 00000000 0001B5AC\n\n",
-            "title": "[Common Squid]"
-        },
-        {
-            "content": "[Cray Fish]\n640C0000 00000000 0001B5B1\n\n",
-            "title": "[Cray Fish]"
-        },
-        {
-            "content": "[Cuttle Fish]\n640C0000 00000000 0001B5AB\n\n",
-            "title": "[Cuttle Fish]"
-        },
-        {
-            "content": "[Dace]\n640C0000 00000000 0001B583\n\n",
-            "title": "[Dace]"
-        },
-        {
-            "content": "[Eel]\n640C0000 00000000 0001B586\n\n",
-            "title": "[Eel]"
-        },
-        {
-            "content": "[Flounder]\n640C0000 00000000 0001B58F\n\n",
-            "title": "[Flounder]"
-        },
-        {
-            "content": "[Gazami Crab]\n640C0000 00000000 0001B5A7\n\n",
-            "title": "[Gazami Crab]"
-        },
-        {
-            "content": "[Giant Cat Fish]\n640C0000 00000000 0001B596\n\n",
-            "title": "[Giant Cat Fish]"
-        },
-        {
-            "content": "[Giant Freshwater Prawn]\n640C0000 00000000 0001B59C\n\n",
-            "title": "[Giant Freshwater Prawn]"
-        },
-        {
-            "content": "[Giant Grouper]\n640C0000 00000000 0001B599\n\n",
-            "title": "[Giant Grouper]"
-        },
-        {
-            "content": "[Giant King Crab]\n640C0000 00000000 0001B5A9\n\n",
-            "title": "[Giant King Crab]"
-        },
-        {
-            "content": "[Giant Squid]\n640C0000 00000000 0001B59A\n\n",
-            "title": "[Giant Squid]"
-        },
-        {
-            "content": "[Giant Tiger Shrimp]\n640C0000 00000000 0001B59E\n\n",
-            "title": "[Giant Tiger Shrimp]"
-        },
-        {
-            "content": "[Hailbut]\n640C0000 00000000 0001B598\n\n",
-            "title": "[Hailbut]"
-        },
-        {
-            "content": "[Herring]\n640C0000 00000000 0001B584\n\n",
-            "title": "[Herring]"
-        },
-        {
-            "content": "[Horse Mackerel]\n640C0000 00000000 0001B582\n\n",
-            "title": "[Horse Mackerel]"
-        },
-        {
-            "content": "[Hoursehair Crab]\n640C0000 00000000 0001B5A6\n\n",
-            "title": "[Hoursehair Crab]"
-        },
-        {
-            "content": "[Lobster]\n640C0000 00000000 0001B59F\n\n",
-            "title": "[Lobster]"
-        },
-        {
-            "content": "[Mahi Mahi]\n640C0000 00000000 0001B590\n\n",
-            "title": "[Mahi Mahi]"
-        },
-        {
-            "content": "[Marlin]\n640C0000 00000000 0001B59B\n\n",
-            "title": "[Marlin]"
-        },
-        {
-            "content": "[Milk Fish]\n640C0000 00000000 0001B58D\n\n",
-            "title": "[Milk Fish]"
-        },
-        {
-            "content": "[Mussel]\n640C0000 00000000 0001B5A2\n\n",
-            "title": "[Mussel]"
-        },
-        {
-            "content": "[Oarfish]\n640C0000 00000000 0001B592\n\n",
-            "title": "[Oarfish]"
-        },
-        {
-            "content": "[Oyster]\n640C0000 00000000 0001B5A1\n\n",
-            "title": "[Oyster]"
-        },
-        {
-            "content": "[Rock Lobster]\n640C0000 00000000 0001B5A0\n\n",
-            "title": "[Rock Lobster]"
-        },
-        {
-            "content": "[Salmon]\n640C0000 00000000 0001B591\n\n",
-            "title": "[Salmon]"
-        },
-        {
-            "content": "[Sardine]\n640C0000 00000000 0001B581\n\n",
-            "title": "[Sardine]"
-        },
-        {
-            "content": "[Sea Bass]\n640C0000 00000000 0001B587\n\n",
-            "title": "[Sea Bass]"
-        },
-        {
-            "content": "[Sea Bream]\n640C0000 00000000 0001B58E\n\n",
-            "title": "[Sea Bream]"
-        },
-        {
-            "content": "[Shining Fish]\n640C0000 00000000 0001B5AF\n\n",
-            "title": "[Shining Fish]"
-        },
-        {
-            "content": "[Shishamo Smelt]\n640C0000 00000000 0001B581\n\n",
-            "title": "[Shishamo Smelt]"
-        },
-        {
-            "content": "[Snakehead]\n640C0000 00000000 0001B58B\n\n",
-            "title": "[Snakehead]"
-        },
-        {
-            "content": "[Snow Crab]\n640C0000 00000000 0001B5A5\n\n",
-            "title": "[Snow Crab]"
-        },
-        {
-            "content": "[Spear Squid]\n640C0000 00000000 0001B5AD\n\n",
-            "title": "[Spear Squid]"
-        },
-        {
-            "content": "[Spotted Eagle Ray]\n640C0000 00000000 0001B597\n\n",
-            "title": "[Spotted Eagle Ray]"
-        },
-        {
-            "content": "[Sprakling Fish]\n640C0000 00000000 0001B5B0\n\n",
-            "title": "[Sprakling Fish]"
-        },
-        {
-            "content": "[Star Snaper]\n640C0000 00000000 0001B58C\n\n",
-            "title": "[Star Snaper]"
-        },
-        {
-            "content": "[Tilapia]\n640C0000 00000000 0001B589\n\n",
-            "title": "[Tilapia]"
-        },
-        {
-            "content": "[Tuna]\n640C0000 00000000 0001B593\n\n",
-            "title": "[Tuna]"
-        },
-        {
-            "content": "[Whiskered Velvet Shrimp]\n640C0000 00000000 0001B59D\n\n",
-            "title": "[Whiskered Velvet Shrimp]"
-        },
-        {
-            "content": "[Yellow Perch]\n640C0000 00000000 0001B588\n\n",
-            "title": "[Yellow Perch]"
-        },
-        {
-            "content": "[-- Food --]\n00000000 00000000 00000000\n\n",
-            "title": "[-- Food --]"
-        },
-        {
-            "content": "[Boiled Fish]\n640C0000 00000000 0001F7EC\n\n",
-            "title": "[Boiled Fish]"
-        },
-        {
-            "content": "[Boiled Sweet Potato]\n640C0000 00000000 0001F7F7\n\n",
-            "title": "[Boiled Sweet Potato]"
-        },
-        {
-            "content": "[Boiled Vegetables]\n640C0000 00000000 0001F7F6\n\n",
-            "title": "[Boiled Vegetables]"
-        },
-        {
-            "content": "[Chestnut Rice]\n640C0000 00000000 0001F7F3\n\n",
-            "title": "[Chestnut Rice]"
-        },
-        {
-            "content": "[Chuka Shoba]\n640C0000 00000000 0001F7ED\n\n",
-            "title": "[Chuka Shoba]"
-        },
-        {
-            "content": "[Egg Sandwich]\n640C0000 00000000 0001F7FC\n\n",
-            "title": "[Egg Sandwich]"
-        },
-        {
-            "content": "[French Toast]\n640C0000 00000000 0001F7FA\n\n",
-            "title": "[French Toast]"
-        },
-        {
-            "content": "[Fried Egg]\n640C0000 00000000 0001F7E8\n\n",
-            "title": "[Fried Egg]"
-        },
-        {
-            "content": "[Fried Tuna Cutlets]\n640C0000 00000000 0001F7F8\n\n",
-            "title": "[Fried Tuna Cutlets]"
-        },
-        {
-            "content": "[Griled Fish]\n640C0000 00000000 0001F7EB\n\n",
-            "title": "[Griled Fish]"
-        },
-        {
-            "content": "[Griled Gar]\n640C0000 00000000 0001F7F4\n\n",
-            "title": "[Griled Gar]"
-        },
-        {
-            "content": "[Hot Pot]\n640C0000 00000000 0001F7FE\n\n",
-            "title": "[Hot Pot]"
-        },
-        {
-            "content": "[Jam Sandwich]\n640C0000 00000000 0001F7F9\n\n",
-            "title": "[Jam Sandwich]"
-        },
-        {
-            "content": "[Kimchi Hot Pot]\n640C0000 00000000 0001F7FF\n\n",
-            "title": "[Kimchi Hot Pot]"
-        },
-        {
-            "content": "[Kitsune Udon]\n640C0000 00000000 0001F7EE\n\n",
-            "title": "[Kitsune Udon]"
-        },
-        {
-            "content": "[Marlin Sushi]\n640C0000 00000000 0001F7EA\n\n",
-            "title": "[Marlin Sushi]"
-        },
-        {
-            "content": "[Matsutake Rice]\n640C0000 00000000 0001F7F2\n\n",
-            "title": "[Matsutake Rice]"
-        },
-        {
-            "content": "[Mixed Rice]\n640C0000 00000000 0001F7F1\n\n",
-            "title": "[Mixed Rice]"
-        },
-        {
-            "content": "[Sea Bream Sashimi]\n640C0000 00000000 0001F7E9\n\n",
-            "title": "[Sea Bream Sashimi]"
-        },
-        {
-            "content": "[Shasimi Bowl]\n640C0000 00000000 0001F7F5\n\n",
-            "title": "[Shasimi Bowl]"
-        },
-        {
-            "content": "[Tempura]\n640C0000 00000000 0001F7EF\n\n",
-            "title": "[Tempura]"
-        },
-        {
-            "content": "[Tuna Sandwich]\n640C0000 00000000 0001F7FD\n\n",
-            "title": "[Tuna Sandwich]"
-        },
-        {
-            "content": "[Unaju]\n640C0000 00000000 0001F7F0\n\n",
-            "title": "[Unaju]"
-        },
-        {
-            "content": "[Vegetable Sandwich]\n640C0000 00000000 0001F7FB\n\n",
-            "title": "[Vegetable Sandwich]"
-        },
-        {
-            "content": "[Butter]\n640C0000 00000000 0001EC3E\n\n",
-            "title": "[Butter]"
-        },
-        {
-            "content": "[Cheese]\n640C0000 00000000 0001EC3F\n\n",
-            "title": "[Cheese]"
-        },
-        {
-            "content": "[Cocoa Powder]\n640C0000 00000000 0001EC3C\n\n",
-            "title": "[Cocoa Powder]"
-        },
-        {
-            "content": "[Coffee Powder]\n640C0000 00000000 0001EC3B\n\n",
-            "title": "[Coffee Powder]"
-        },
-        {
-            "content": "[Flour]\n640C0000 00000000 0001EC3D\n\n",
-            "title": "[Flour]"
-        },
-        {
-            "content": "[Golden Rain Rosemary]\n640C0000 00000000 0001E84B\n\n",
-            "title": "[Golden Rain Rosemary]"
-        },
-        {
-            "content": "[Lemon Marigold]\n640C0000 00000000 0001E84A\n\n",
-            "title": "[Lemon Marigold]"
-        },
-        {
-            "content": "[Mayonnaise]\n640C0000 00000000 0001EC40\n\n",
-            "title": "[Mayonnaise]"
-        },
-        {
-            "content": "[Mixed Herbs]\n640C0000 00000000 0001EC39\n\n",
-            "title": "[Mixed Herbs]"
-        },
-        {
-            "content": "[Mixed Spices]\n640C0000 00000000 0001EC3A\n\n",
-            "title": "[Mixed Spices]"
-        },
-        {
-            "content": "[Olive Oil]\n640C0000 00000000 0001EC38\n\n",
-            "title": "[Olive Oil]"
-        },
-        {
-            "content": "[Oregano]\n640C0000 00000000 0001E848\n\n",
-            "title": "[Oregano]"
-        },
-        {
-            "content": "[Pepper]\n640C0000 00000000 0001EC34\n\n",
-            "title": "[Pepper]"
-        },
-        {
-            "content": "[Peppercorn]\n640C0000 00000000 0001EC31\n\n",
-            "title": "[Peppercorn]"
-        },
-        {
-            "content": "[Rock Salt]\n640C0000 00000000 0001EC30\n\n",
-            "title": "[Rock Salt]"
-        },
-        {
-            "content": "[Sage]\n640C0000 00000000 0001E849\n\n",
-            "title": "[Sage]"
-        },
-        {
-            "content": "[Salt]\n640C0000 00000000 0001EC33\n\n",
-            "title": "[Salt]"
-        },
-        {
-            "content": "[Soy Sauce]\n640C0000 00000000 0001EC36\n\n",
-            "title": "[Soy Sauce]"
-        },
-        {
-            "content": "[Sugar]\n640C0000 00000000 0001EC35\n\n",
-            "title": "[Sugar]"
-        },
-        {
-            "content": "[Sugarcane]\n640C0000 00000000 0001EC32\n\n",
-            "title": "[Sugarcane]"
-        },
-        {
-            "content": "[Vinegar]\n640C0000 00000000 0001EC37\n\n",
-            "title": "[Vinegar]"
-        },
-        {
-            "content": "[Yogurt]\n640C0000 00000000 0001EC41\n\n",
-            "title": "[Yogurt]"
-        },
-        {
-            "content": "[-- Flowers --]\n00000000 00000000 00000000\n\n",
-            "title": "[-- Flowers --]"
-        },
-        {
-            "content": "[Begonia]\n640C0000 00000000 00019A39\n\n",
-            "title": "[Begonia]"
-        },
-        {
-            "content": "[Black Pansy ]\n640C0000 00000000 00019A2C\n\n",
-            "title": "[Black Pansy ]"
-        },
-        {
-            "content": "[Black Rose]\n640C0000 00000000 00019A35\n\n",
-            "title": "[Black Rose]"
-        },
-        {
-            "content": "[Buttercup]\n640C0000 00000000 00019A2B\n\n",
-            "title": "[Buttercup]"
-        },
-        {
-            "content": "[Campanula]\n640C0000 00000000 00019A3B\n\n",
-            "title": "[Campanula]"
-        },
-        {
-            "content": "[Cineraria]\n640C0000 00000000 00019A37\n\n",
-            "title": "[Cineraria]"
-        },
-        {
-            "content": "[Clematis]\n640C0000 00000000 00019A34\n\n",
-            "title": "[Clematis]"
-        },
-        {
-            "content": "[Daisy]\n640C0000 00000000 00019A36\n\n",
-            "title": "[Daisy]"
-        },
-        {
-            "content": "[Hellebore]\n640C0000 00000000 00019A3A\n\n",
-            "title": "[Hellebore]"
-        },
-        {
-            "content": "[Hibiscus]\n640C0000 00000000 00019A2D\n\n",
-            "title": "[Hibiscus]"
-        },
-        {
-            "content": "[Lily]\n640C0000 00000000 00019A31\n\n",
-            "title": "[Lily]"
-        },
-        {
-            "content": "[Magic Blue Flower]\n640C0000 00000000 00022EA1\n\n",
-            "title": "[Magic Blue Flower]"
-        },
-        {
-            "content": "[Magic Red Flower]\n640C0000 00000000 00022EA2\n\n",
-            "title": "[Magic Red Flower]"
-        },
-        {
-            "content": "[Marigold]\n640C0000 00000000 00019A2F\n\n",
-            "title": "[Marigold]"
-        },
-        {
-            "content": "[Moondrop Flower]\n640C0000 00000000 00022E9F\n\n",
-            "title": "[Moondrop Flower]"
-        },
-        {
-            "content": "[Mum]\n640C0000 00000000 00019A33\n\n",
-            "title": "[Mum]"
-        },
-        {
-            "content": "[Nemophilia]\n640C0000 00000000 00019A29\n\n",
-            "title": "[Nemophilia]"
-        },
-        {
-            "content": "[Pansy]\n640C0000 00000000 00019A2A\n\n",
-            "title": "[Pansy]"
-        },
-        {
-            "content": "[Petunia]\n640C0000 00000000 00019A2E\n\n",
-            "title": "[Petunia]"
-        },
-        {
-            "content": "[Pink Cat Flower]\n640C0000 00000000 00022EA0\n\n",
-            "title": "[Pink Cat Flower]"
-        },
-        {
-            "content": "[Primerose]\n640C0000 00000000 00019A38\n\n",
-            "title": "[Primerose]"
-        },
-        {
-            "content": "[Rose]\n640C0000 00000000 00019A32\n\n",
-            "title": "[Rose]"
-        },
-        {
-            "content": "[Sunflower]\n640C0000 00000000 00019A30\n\n",
-            "title": "[Sunflower]"
-        },
-        {
-            "content": "[Tulip]\n640C0000 00000000 00019A28\n\n",
-            "title": "[Tulip]"
-        },
-        {
-            "content": "[-- Fruits --]\n00000000 00000000 00000000\n\n",
-            "title": "[-- Fruits --]"
-        },
-        {
-            "content": "[Almond]\n640C0000 00000000 00019E15\n\n",
-            "title": "[Almond]"
-        },
-        {
-            "content": "[Apple]\n640C0000 00000000 00019E1D\n\n",
-            "title": "[Apple]"
-        },
-        {
-            "content": "[Avocado]\n640C0000 00000000 00019E11\n\n",
-            "title": "[Avocado]"
-        },
-        {
-            "content": "[Banana]\n640C0000 00000000 00019E19\n\n",
-            "title": "[Banana]"
-        },
-        {
-            "content": "[Cacao]\n640C0000 00000000 00019E1A\n\n",
-            "title": "[Cacao]"
-        },
-        {
-            "content": "[Cherry]\n640C0000 00000000 00019E13\n\n",
-            "title": "[Cherry]"
-        },
-        {
-            "content": "[Coconut]\n640C0000 00000000 00019E18\n\n",
-            "title": "[Coconut]"
-        },
-        {
-            "content": "[Coffee Beans]\n640C0000 00000000 00019E10\n\n",
-            "title": "[Coffee Beans]"
-        },
-        {
-            "content": "[Giant Avocado]\n640C0000 00000000 00019E12\n\n",
-            "title": "[Giant Avocado]"
-        },
-        {
-            "content": "[Golden Apple]\n640C0000 00000000 00019E1E\n\n",
-            "title": "[Golden Apple]"
-        },
-        {
-            "content": "[Golden Peach ]\n640C0000 00000000 00019E1C\n\n",
-            "title": "[Golden Peach ]"
-        },
-        {
-            "content": "[Grape]\n640C0000 00000000 00019E1F\n\n",
-            "title": "[Grape]"
-        },
-        {
-            "content": "[Lemon]\n640C0000 00000000 00019E16\n\n",
-            "title": "[Lemon]"
-        },
-        {
-            "content": "[Mango]\n640C0000 00000000 00019E17\n\n",
-            "title": "[Mango]"
-        },
-        {
-            "content": "[Olive ]\n640C0000 00000000 00019E20\n\n",
-            "title": "[Olive ]"
-        },
-        {
-            "content": "[Orange]\n640C0000 00000000 00019E14\n\n",
-            "title": "[Orange]"
-        },
-        {
-            "content": "[Peach]\n640C0000 00000000 00019E1B\n\n",
-            "title": "[Peach]"
-        },
-        {
-            "content": "[-- Vegetables / Crops --]\n00000000 00000000 00000000\n\n",
-            "title": "[-- Vegetables / Crops --]"
-        },
-        {
-            "content": "[Bok Choy]\n640C0000 00000000 00019276\n\n",
-            "title": "[Bok Choy]"
-        },
-        {
-            "content": "[Broccoli]\n640C0000 00000000 00019278\n\n",
-            "title": "[Broccoli]"
-        },
-        {
-            "content": "[Burdock]\n640C0000 00000000 0001927F\n\n",
-            "title": "[Burdock]"
-        },
-        {
-            "content": "[Cabbage]\n640C0000 00000000 0001925C\n\n",
-            "title": "[Cabbage]"
-        },
-        {
-            "content": "[Carrot]\n640C0000 00000000 0001926F\n\n",
-            "title": "[Carrot]"
-        },
-        {
-            "content": "[Chili Pepper]\n640C0000 00000000 00019277\n\n",
-            "title": "[Chili Pepper]"
-        },
-        {
-            "content": "[Corn]\n640C0000 00000000 00019266\n\n",
-            "title": "[Corn]"
-        },
-        {
-            "content": "[Cucumber]\n640C0000 00000000 0001925D\n\n",
-            "title": "[Cucumber]"
-        },
-        {
-            "content": "[Daikon Radish]\n640C0000 00000000 00019279\n\n",
-            "title": "[Daikon Radish]"
-        },
-        {
-            "content": "[Eggplant]\n640C0000 00000000 00019270\n\n",
-            "title": "[Eggplant]"
-        },
-        {
-            "content": "[Fork-root Daikon]\n640C0000 00000000 0001927A\n\n",
-            "title": "[Fork-root Daikon]"
-        },
-        {
-            "content": "[Garlic]\n640C0000 00000000 00019261\n\n",
-            "title": "[Garlic]"
-        },
-        {
-            "content": "[Giant Leek]\n640C0000 00000000 0001927E\n\n",
-            "title": "[Giant Leek]"
-        },
-        {
-            "content": "[Giant Sweet Potato]\n640C0000 00000000 00019273\n\n",
-            "title": "[Giant Sweet Potato]"
-        },
-        {
-            "content": "[Giant Tomato]\n640C0000 00000000 00019264\n\n",
-            "title": "[Giant Tomato]"
-        },
-        {
-            "content": "[Giant Turnip]\n640C0000 00000000 00019259\n\n",
-            "title": "[Giant Turnip]"
-        },
-        {
-            "content": "[Golden Nappa Cabbage]\n640C0000 00000000 0001927C\n\n",
-            "title": "[Golden Nappa Cabbage]"
-        },
-        {
-            "content": "[Golden Strawberry]\n640C0000 00000000 00019260\n\n",
-            "title": "[Golden Strawberry]"
-        },
-        {
-            "content": "[Green Pepper]\n640C0000 00000000 00019274\n\n",
-            "title": "[Green Pepper]"
-        },
-        {
-            "content": "[Heart Spinach]\n640C0000 00000000 0001926E\n\n",
-            "title": "[Heart Spinach]"
-        },
-        {
-            "content": "[Jewel Melon]\n640C0000 00000000 0001926B\n\n",
-            "title": "[Jewel Melon]"
-        },
-        {
-            "content": "[Leek]\n640C0000 00000000 0001927D\n\n",
-            "title": "[Leek]"
-        },
-        {
-            "content": "[Melon]\n640C0000 00000000 0001926A\n\n",
-            "title": "[Melon]"
-        },
-        {
-            "content": "[Mosaic Corn]\n640C0000 00000000 00019267\n\n",
-            "title": "[Mosaic Corn]"
-        },
-        {
-            "content": "[Nappa Cabbage]\n640C0000 00000000 0001927B\n\n",
-            "title": "[Nappa Cabbage]"
-        },
-        {
-            "content": "[Okra]\n640C0000 00000000 00019275\n\n",
-            "title": "[Okra]"
-        },
-        {
-            "content": "[Onion]\n640C0000 00000000 0001925E\n\n",
-            "title": "[Onion]"
-        },
-        {
-            "content": "[Pepper]\n640C0000 00000000 00019265\n\n",
-            "title": "[Pepper]"
-        },
-        {
-            "content": "[Pineapple]\n640C0000 00000000 0001926C\n\n",
-            "title": "[Pineapple]"
-        },
-        {
-            "content": "[Potato]\n640C0000 00000000 0001925A\n\n",
-            "title": "[Potato]"
-        },
-        {
-            "content": "[Pumpkin]\n640C0000 00000000 00019262\n\n",
-            "title": "[Pumpkin]"
-        },
-        {
-            "content": "[Radish]\n640C0000 00000000 00019280\n\n",
-            "title": "[Radish]"
-        },
-        {
-            "content": "[Round Eggplant]\n640C0000 00000000 00019271\n\n",
-            "title": "[Round Eggplant]"
-        },
-        {
-            "content": "[Spinach]\n640C0000 00000000 0001926D\n\n",
-            "title": "[Spinach]"
-        },
-        {
-            "content": "[Star Potato]\n640C0000 00000000 0001925B\n\n",
-            "title": "[Star Potato]"
-        },
-        {
-            "content": "[Strawberry]\n640C0000 00000000 0001925F\n\n",
-            "title": "[Strawberry]"
-        },
-        {
-            "content": "[Sweet Potato]\n640C0000 00000000 00019272\n\n",
-            "title": "[Sweet Potato]"
-        },
-        {
-            "content": "[Tomato]\n640C0000 00000000 00019263\n\n",
-            "title": "[Tomato]"
-        },
-        {
-            "content": "[Turnip]\n640C0000 00000000 00019258\n\n",
-            "title": "[Turnip]"
-        },
-        {
-            "content": "[Watermelon]\n640C0000 00000000 00019269\n\n",
-            "title": "[Watermelon]"
-        },
-        {
-            "content": "[Zucchini]\n640C0000 00000000 00019268\n\n",
-            "title": "[Zucchini]"
-        },
-        {
-            "content": "[-- Animal Products --]\n00000000 00000000 00000000\n\n",
-            "title": "[-- Animal Products --]"
-        },
-        {
-            "content": "[Alpaca Wool]\n640C0000 00000000 0001B19A\n\n",
-            "title": "[Alpaca Wool]"
-        },
-        {
-            "content": "[Alpaca Wool+]\n640C0000 00000000 0001B1A1\n\n",
-            "title": "[Alpaca Wool+]"
-        },
-        {
-            "content": "[Brown Alpaca Wool]\n640C0000 00000000 0001B19B\n\n",
-            "title": "[Brown Alpaca Wool]"
-        },
-        {
-            "content": "[Brown Alpaca Wool+]\n640C0000 00000000 0001B1A2\n\n",
-            "title": "[Brown Alpaca Wool+]"
-        },
-        {
-            "content": "[Buffalo Milk]\n640C0000 00000000 0001A9C9\n\n",
-            "title": "[Buffalo Milk]"
-        },
-        {
-            "content": "[Buffalo Milk+]\n640C0000 00000000 0001A9CC\n\n",
-            "title": "[Buffalo Milk+]"
-        },
-        {
-            "content": "[Egg]\n640C0000 00000000 0001ADB0\n\n",
-            "title": "[Egg]"
-        },
-        {
-            "content": "[Egg+]\n640C0000 00000000 0001ADB2\n\n",
-            "title": "[Egg+]"
-        },
-        {
-            "content": "[Goat Milk]\n640C0000 00000000 0001A9CA\n\n",
-            "title": "[Goat Milk]"
-        },
-        {
-            "content": "[Goat Milk+]\n640C0000 00000000 0001A9CD\n\n",
-            "title": "[Goat Milk+]"
-        },
-        {
-            "content": "[Gray Rabbit Fur]\n640C0000 00000000 0001B19D\n\n",
-            "title": "[Gray Rabbit Fur]"
-        },
-        {
-            "content": "[Gray Rabbit Fur+]\n640C0000 00000000 0001B1A4\n\n",
-            "title": "[Gray Rabbit Fur+]"
-        },
-        {
-            "content": "[Milk]\n640C0000 00000000 0001A9C8\n\n",
-            "title": "[Milk]"
-        },
-        {
-            "content": "[Milk+]\n640C0000 00000000 0001A9CB\n\n",
-            "title": "[Milk+]"
-        },
-        {
-            "content": "[Pink Rabbit Fur]\n640C0000 00000000 0001B19E\n\n",
-            "title": "[Pink Rabbit Fur]"
-        },
-        {
-            "content": "[Pink Rabbit Fur+]\n640C0000 00000000 0001B1A5\n\n",
-            "title": "[Pink Rabbit Fur+]"
-        },
-        {
-            "content": "[Rabbit Fur]\n640C0000 00000000 0001B19C\n\n",
-            "title": "[Rabbit Fur]"
-        },
-        {
-            "content": "[Rabbit Fur+]\n640C0000 00000000 0001B1A3\n\n",
-            "title": "[Rabbit Fur+]"
-        },
-        {
-            "content": "[Silkie Egg]\n640C0000 00000000 0001ADB1\n\n",
-            "title": "[Silkie Egg]"
-        },
-        {
-            "content": "[Silkie Egg+]\n640C0000 00000000 0001ADB3\n\n",
-            "title": "[Silkie Egg+]"
-        },
-        {
-            "content": "[Suffolk Wool]\n640C0000 00000000 0001B199\n\n",
-            "title": "[Suffolk Wool]"
-        },
-        {
-            "content": "[Suffolk Wool+]\n640C0000 00000000 0001B1A0\n\n",
-            "title": "[Suffolk Wool+]"
-        },
-        {
-            "content": "[Wool]\n640C0000 00000000 0001B198\n\n",
-            "title": "[Wool]"
-        },
-        {
-            "content": "[Wool+]\n640C0000 00000000 0001B19F\n\n",
-            "title": "[Wool+]"
-        },
-        {
-            "content": "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]\n20000000",
-            "title": "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]"
-        }
-    ],
-    "A4095ADD59310847": [
-        {
-            "content": "[Row 3 Slot 5 999]\n58060000 04671B88\n58061000 000000B8\n58061000 00000000\n58061000 00000028\n58061000 00000010\n58061000 00000018\n58061000 00000210\n78060000 00000014\n64060000 00000000 000003E7\n\n",
-            "title": "[Row 3 Slot 5 999]"
-        },
-        {
-            "content": "[Row 3 Slot 5 10 star (Press ZR)]\n80000200\n58030000 04671B88\n58031000 000000B8\n58031000 00000000\n58031000 00000028\n58031000 00000010\n58031000 00000018\n58031000 00000210\n78030000 00000018\n64030000 00000000 0000000A\n20000000\n\n",
-            "title": "[Row 3 Slot 5 10 star (Press ZR)]"
-        },
-        {
-            "content": "[time stop]\n04040000 0192144C AA0003E0\n",
-            "title": "[time stop]"
-        },
-        {
-            "content": "[time resume]\n04040000 0192144C 9425EBDD",
-            "title": "[time resume]"
-        }
-    ],
+    "1EA294AF01F90F4C": {
+        "[(ZL) Stop Time | (ZR) Resume Time]": "[(ZL) Stop Time | (ZR) Resume Time]\n80000200\n040C0000 0190CACC 9423C421\n20000000\n80000100\n040C0000 0190CACC D503201F\n20000000\n\n",
+        "[Inf. Stamina]": "[Inf. Stamina]\n80000008\n580C0000 04A1A568\n580C1000 00000B10\n580C1000 00000010\n580C1000 00000070\n580C1000 00000020\n580C1000 00000028\n580C1000 00000070\n780C0000 0000007C\n640C0000 00000000 44FA0000\n20000000\n\n",
+        "[Inf. Water in Can]": "[Inf. Water in Can]\n80000008\n580C0000 0465AC20\n580C1000 000000B8\n580C1000 00000000\n780C0000 00000058\n640C0000 00000000 00000063\n20000000\n\n",
+        "[Insta-Catch Fish]": "[Insta-Catch Fish]\n80000008\n580C0000 0465AF20\n580C1000 000000B8\n580C1000 00000010\n580C1000 00000010\n580C1000 00000028\n580C1000 00000010\n580C1000 00000028\n780C0000 00000048\n640C0000 00000000 3F800000\n20000000\n\n",
+        "[999 Followers (Sprite Management)]": "[999 Followers (Sprite Management)]\n580C0000 0465AC80\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000010\n580C1000 00000028\n580C1000 00000088\n780C0000 0000003C\n640C0000 00000000 000003E7\n\n",
+        "[Max Money after Purchase]": "[Max Money after Purchase]\n580C0000 04A1A568\n580C1000 00000B10\n580C1000 00000010\n580C1000 00000090\n580C1000 00000028\n580C1000 00000070\n780C0000 00000024\n640C0000 00000000 05F5E0FF\n\n",
+        "[Max Sprite Coins]": "[Max Sprite Coins]\n580C0000 04A1A568\n580C1000 00000B10\n580C1000 00000010\n580C1000 00000090\n580C1000 00000028\n580C1000 00000070\n780C0000 00000028\n640C0000 00000000 05F5E0FF\n\n",
+        "[Max Sprite Points]": "[Max Sprite Points]\n580C0000 04A1A568\n580C1000 00000B10\n580C1000 00000010\n580C1000 00000090\n580C1000 00000028\n580C1000 00000070\n780C0000 0000002C\n640C0000 00000000 0001869F\n\n",
+        "[Max Skills]": "[Max Skills]\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000020\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000028\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000030\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000038\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000040\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000048\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000050\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000058\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000060\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000068\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000070\n780C0000 0000001C\n640C0000 00000000 0000D903\n580C0000 0465ADD0\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000010\n580C1000 00000078\n780C0000 0000001C\n640C0000 00000000 0000D903\n\n",
+        "[Max Friendship All Pt. 1]": "[Max Friendship All Pt. 1]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000288\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000001F8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000000C0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000000A8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000002A0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000228\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000078\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000318\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000048\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000168\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000138\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000030\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n",
+        "[Max Friendship All Pt. 2]": "[Max Friendship All Pt. 2]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000060\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000150\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000001B0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000270\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000390\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000240\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000000D8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000378\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000002E8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000002D0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000001E0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000380\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n",
+        "[Max Friendship All Pt. 3]": "[Max Friendship All Pt. 3]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000210\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000002B8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000198\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000348\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000180\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000090\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000300\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000108\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000001C8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000380\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000258\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000120\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000330\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000360\n780C0000 00000010\n640C0000 00000000 0000DAC0\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000003A8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n",
+        "[Slot 1 Row 2 x1]": "[Slot 1 Row 2 x1]\n580C0000 0465AD10\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000014\n640C0000 00000000 00000001\n\n",
+        "[Slot 1 Row 2 x10]": "[Slot 1 Row 2 x10]\n580C0000 0465AD10\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000014\n640C0000 00000000 0000000A\n\n",
+        "[Slot 1 Row 2 x99]": "[Slot 1 Row 2 x99]\n580C0000 0465AD10\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000014\n640C0000 00000000 00000063\n\n",
+        "[Slot 1 Row 2 x999]": "[Slot 1 Row 2 x999]\n580C0000 0465AD10\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000014\n640C0000 00000000 000003E7\n\n",
+        "[Slot 1 Row 2 Max Quality]": "[Slot 1 Row 2 Max Quality]\n580C0000 0465AD10\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000018\n640C0000 00000000 0000000A\n\n",
+        "[/!\\ { Master Item Slot 1 Row 2 } /!\\]": "[/!\\ { Master Item Slot 1 Row 2 } /!\\]\n580D0000 0465AD10\n580D1000 000000B8\n580D1000 00000000\n580D1000 00000028\n580D1000 00000010\n580D1000 00000018\n580D1000 000000F0\n780D0000 00000014\n640D0000 00000000 00000001\n580C0000 0465AD10\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000010\n\n",
+        "[-- Materials --]": "[-- Materials --]\n00000000 00000000 00000000\n\n",
+        "[Alpaca Cloth]": "[Alpaca Cloth]\n640C0000 00000000 0001D4C7\n\n",
+        "[Alpaca Yarn]": "[Alpaca Yarn]\n640C0000 00000000 0001D0E0\n\n",
+        "[Bouquet Essence]": "[Bouquet Essence]\n640C0000 00000000 0001E07B\n\n",
+        "[Brown Alpaca Cloth]": "[Brown Alpaca Cloth]\n640C0000 00000000 0001D4C8\n\n",
+        "[Brown Alpaca Yarn]": "[Brown Alpaca Yarn]\n640C0000 00000000 0001D0E1\n\n",
+        "[Cloth]": "[Cloth]\n640C0000 00000000 0001D4C0\n\n",
+        "[Coal Lump]": "[Coal Lump]\n640C0000 00000000 0001C90A\n\n",
+        "[Diamond]": "[Diamond]\n640C0000 00000000 0001DC94\n\n",
+        "[Durable Lumber]": "[Durable Lumber]\n640C0000 00000000 0001CCF3\n\n",
+        "[Emerald]": "[Emerald]\n640C0000 00000000 0001DC93\n\n",
+        "[Flexible Cloth]": "[Flexible Cloth]\n640C0000 00000000 0001D4C1\n\n",
+        "[Flexible Grass]": "[Flexible Grass]\n640C0000 00000000 0001C521\n\n",
+        "[Flexible Thread]": "[Flexible Thread]\n640C0000 00000000 0001D0DA\n\n",
+        "[Floral Essence]": "[Floral Essence]\n640C0000 00000000 0001E07A\n\n",
+        "[Fruit Eseence]": "[Fruit Eseence]\n640C0000 00000000 0001E07C\n\n",
+        "[Glass]": "[Glass]\n640C0000 00000000 0001D8A9\n\n",
+        "[Glass Rock]": "[Glass Rock]\n640C0000 00000000 0001C909\n\n",
+        "[Gold Ingot]": "[Gold Ingot]\n640C0000 00000000 0001D8AC\n\n",
+        "[Gold Ore]": "[Gold Ore]\n640C0000 00000000 0001C90D\n\n",
+        "[Grass]": "[Grass]\n640C0000 00000000 0001C520\n\n",
+        "[Gray Rabbit Cloth]": "[Gray Rabbit Cloth]\n640C0000 00000000 0001D4CA\n\n",
+        "[Gray Rabbit Yarn]": "[Gray Rabbit Yarn]\n640C0000 00000000 0001D0E3\n\n",
+        "[Iron Ingot]": "[Iron Ingot]\n640C0000 00000000 0001D8AA\n\n",
+        "[Iron Ore]": "[Iron Ore]\n640C0000 00000000 0001C90B\n\n",
+        "[Lumber]": "[Lumber]\n640C0000 00000000 0001CCF0\n\n",
+        "[Mirage Cloth]": "[Mirage Cloth]\n640C0000 00000000 0001D4C4\n\n",
+        "[Mirage Grass]": "[Mirage Grass]\n640C0000 00000000 0001C524\n\n",
+        "[Mirage Lumber]": "[Mirage Lumber]\n640C0000 00000000 0001CCF4\n\n",
+        "[Mirage Thread]": "[Mirage Thread]\n640C0000 00000000 0001D0DD\n\n",
+        "[Oricalum Ingot]": "[Oricalum Ingot]\n640C0000 00000000 0001D8AD\n\n",
+        "[Orichalum Ore]": "[Orichalum Ore]\n640C0000 00000000 0001C90E\n\n",
+        "[Pink Rabbit Cloth]": "[Pink Rabbit Cloth]\n640C0000 00000000 0001D4CB\n\n",
+        "[Pink Rabbit Yarn]": "[Pink Rabbit Yarn]\n640C0000 00000000 0001D0E4\n\n",
+        "[Rabbit Cloth]": "[Rabbit Cloth]\n640C0000 00000000 0001D4C9\n\n",
+        "[Rabbit Yarn]": "[Rabbit Yarn]\n640C0000 00000000 0001D0E2\n\n",
+        "[Raw Diamond]": "[Raw Diamond]\n640C0000 00000000 0001C913\n\n",
+        "[Raw Emerland]": "[Raw Emerland]\n640C0000 00000000 0001C912\n\n",
+        "[Raw Red Beryl]": "[Raw Red Beryl]\n640C0000 00000000 0001C914\n\n",
+        "[Raw Ruby]": "[Raw Ruby]\n640C0000 00000000 0001C910\n\n",
+        "[Raw Sapphire]": "[Raw Sapphire]\n640C0000 00000000 0001C911\n\n",
+        "[Raw White Opal]": "[Raw White Opal]\n640C0000 00000000 0001C90F\n\n",
+        "[Red Beryl]": "[Red Beryl]\n640C0000 00000000 0001DC95\n\n",
+        "[Refined Coal]": "[Refined Coal]\n640C0000 00000000 0001D8A8\n\n",
+        "[Ruby]": "[Ruby]\n640C0000 00000000 0001DC91\n\n",
+        "[Saphire]": "[Saphire]\n640C0000 00000000 0001DC92\n\n",
+        "[Silver Ingot]": "[Silver Ingot]\n640C0000 00000000 0001D8AB\n\n",
+        "[Silver Ore]": "[Silver Ore]\n640C0000 00000000 0001C90C\n\n",
+        "[Smooth Cloth]": "[Smooth Cloth]\n640C0000 00000000 0001D4C3\n\n",
+        "[Smooth Thread]": "[Smooth Thread]\n640C0000 00000000 0001D0DC\n\n",
+        "[Smoth Grass]": "[Smoth Grass]\n640C0000 00000000 0001C523\n\n",
+        "[Solid Lumber]": "[Solid Lumber]\n640C0000 00000000 0001CCF1\n\n",
+        "[Stone]": "[Stone]\n640C0000 00000000 0001C908\n\n",
+        "[Suffolk Cloth]": "[Suffolk Cloth]\n640C0000 00000000 0001D4C6\n\n",
+        "[Suffolk Yarn]": "[Suffolk Yarn]\n640C0000 00000000 0001D0DF\n\n",
+        "[Supple Lumber]": "[Supple Lumber]\n640C0000 00000000 0001CCF2\n\n",
+        "[Though Cloth]": "[Though Cloth]\n640C0000 00000000 0001D4C2\n\n",
+        "[Though Grass]": "[Though Grass]\n640C0000 00000000 0001C522\n\n",
+        "[Though Thread]": "[Though Thread]\n640C0000 00000000 0001D0DB\n\n",
+        "[Thread]": "[Thread]\n640C0000 00000000 0001D0D9\n\n",
+        "[Twine]": "[Twine]\n640C0000 00000000 0001D0D8\n\n",
+        "[White Opal]": "[White Opal]\n640C0000 00000000 0001DC90\n\n",
+        "[Woolen Cloth]": "[Woolen Cloth]\n640C0000 00000000 0001D4C5\n\n",
+        "[Woolen Yarn]": "[Woolen Yarn]\n640C0000 00000000 0001D0DE\n\n",
+        "[-- Fossils --]": "[-- Fossils --]\n00000000 00000000 00000000\n\n",
+        "[Ambergis]": "[Ambergis]\n640C0000 00000000 00021B28\n\n",
+        "[Ancient Black Tome]": "[Ancient Black Tome]\n640C0000 00000000 00021B1D\n\n",
+        "[Ancient Bug Fosil]": "[Ancient Bug Fosil]\n640C0000 00000000 00021B2C\n\n",
+        "[Ancient Fosil]": "[Ancient Fosil]\n640C0000 00000000 00021B2B\n\n",
+        "[Ancient White Tome]": "[Ancient White Tome]\n640C0000 00000000 00021B1E\n\n",
+        "[Antique Accesory]": "[Antique Accesory]\n640C0000 00000000 00021B10\n\n",
+        "[Antique Decoration]": "[Antique Decoration]\n640C0000 00000000 00021B12\n\n",
+        "[Antique Mirror]": "[Antique Mirror]\n640C0000 00000000 00021B11\n\n",
+        "[Antique Monument]": "[Antique Monument]\n640C0000 00000000 00021B13\n\n",
+        "[Arthurite]": "[Arthurite]\n640C0000 00000000 00021B23\n\n",
+        "[Cave Pearl]": "[Cave Pearl]\n640C0000 00000000 00021B29\n\n",
+        "[Cow Helm]": "[Cow Helm]\n640C0000 00000000 00021B1B\n\n",
+        "[Crystalized Amber]": "[Crystalized Amber]\n640C0000 00000000 00021B2A\n\n",
+        "[Desert Rose]": "[Desert Rose]\n640C0000 00000000 00021B24\n\n",
+        "[Dinosaur Fosil]": "[Dinosaur Fosil]\n640C0000 00000000 00021B2D\n\n",
+        "[Fulgurite]": "[Fulgurite]\n640C0000 00000000 00021B22\n\n",
+        "[Gibeon Stone]": "[Gibeon Stone]\n640C0000 00000000 00021B27\n\n",
+        "[Glass Sliper]": "[Glass Sliper]\n640C0000 00000000 00021B1F\n\n",
+        "[Golden Horn]": "[Golden Horn]\n640C0000 00000000 00021B1C\n\n",
+        "[Okine]": "[Okine]\n640C0000 00000000 00021B25\n\n",
+        "[Olive Crystal]": "[Olive Crystal]\n640C0000 00000000 00021B21\n\n",
+        "[Parasite Stone]": "[Parasite Stone]\n640C0000 00000000 00021B26\n\n",
+        "[Prehistoric Gear]": "[Prehistoric Gear]\n640C0000 00000000 00021B20\n\n",
+        "[Shiny Trophy Buckle]": "[Shiny Trophy Buckle]\n640C0000 00000000 00021B1A\n\n",
+        "[Sparkling Spur]": "[Sparkling Spur]\n640C0000 00000000 00021B19\n\n",
+        "[Timeworn Coin]": "[Timeworn Coin]\n640C0000 00000000 00021B14\n\n",
+        "[Timeworn Compass]": "[Timeworn Compass]\n640C0000 00000000 00021B17\n\n",
+        "[Timeworn Fan]": "[Timeworn Fan]\n640C0000 00000000 00021B15\n\n",
+        "[Timeworn Map]": "[Timeworn Map]\n640C0000 00000000 00021B18\n\n",
+        "[Timeworn Scroll]": "[Timeworn Scroll]\n640C0000 00000000 00021B16\n\n",
+        "[-- Forage --]": "[-- Forage --]\n00000000 00000000 00000000\n\n",
+        "[Bamboo Shoot]": "[Bamboo Shoot]\n640C0000 00000000 0001E465\n\n",
+        "[Butterbur]": "[Butterbur]\n640C0000 00000000 0001E462\n\n",
+        "[Chestnut]": "[Chestnut]\n640C0000 00000000 0001E464\n\n",
+        "[Horsetail]": "[Horsetail]\n640C0000 00000000 0001E463\n\n",
+        "[Royal Fern]": "[Royal Fern]\n640C0000 00000000 0001E461\n\n",
+        "[Wild Berry]": "[Wild Berry]\n640C0000 00000000 0001E460\n\n",
+        "[-- Jewelery --]": "[-- Jewelery --]\n00000000 00000000 00000000\n\n",
+        "[Confesion Pendant]": "[Confesion Pendant]\n640C0000 00000000 00021340\n\n",
+        "[Fashionable Bracelet]": "[Fashionable Bracelet]\n640C0000 00000000 00020B72\n\n",
+        "[Jewerly Locket]": "[Jewerly Locket]\n640C0000 00000000 00020B71\n\n",
+        "[Jewerly Ring]": "[Jewerly Ring]\n640C0000 00000000 00020B70\n\n",
+        "[Shiny Watch]": "[Shiny Watch]\n640C0000 00000000 00020B73\n\n",
+        "[-- Other --]": "[-- Other --]\n00000000 00000000 00000000\n\n",
+        "[Beans]": "[Beans]\n640C0000 00000000 00019642\n\n",
+        "[Bouncy Ball]": "[Bouncy Ball]\n640C0000 00000000 00022E9D\n\n",
+        "[Brick]": "[Brick]\n640C0000 00000000 00022E9A\n\n",
+        "[Candy Cane Snail Shell]": "[Candy Cane Snail Shell]\n640C0000 00000000 00022EA8\n\n",
+        "[Clay]": "[Clay]\n640C0000 00000000 00022E99\n\n",
+        "[Coral]": "[Coral]\n640C0000 00000000 00022EA6\n\n",
+        "[Deluxe Fodder]": "[Deluxe Fodder]\n640C0000 00000000 00019645\n\n",
+        "[Empty Bottle]": "[Empty Bottle]\n640C0000 00000000 00022EA5\n\n",
+        "[Empty Can]": "[Empty Can]\n640C0000 00000000 00022EA3\n\n",
+        "[Fancy Pet Treat]": "[Fancy Pet Treat]\n640C0000 00000000 00022E9C\n\n",
+        "[Fodder]": "[Fodder]\n640C0000 00000000 00019644\n\n",
+        "[Heart Cockle Shell]": "[Heart Cockle Shell]\n640C0000 00000000 00022EA7\n\n",
+        "[Mouse Ball]": "[Mouse Ball]\n640C0000 00000000 00022E9E\n\n",
+        "[Old Boot]": "[Old Boot]\n640C0000 00000000 00022EA4\n\n",
+        "[Pet Treat]": "[Pet Treat]\n640C0000 00000000 00022E9B\n\n",
+        "[Rice]": "[Rice]\n640C0000 00000000 00019640\n\n",
+        "[Tea Leaves]": "[Tea Leaves]\n640C0000 00000000 00019643\n\n",
+        "[Venus Comb]": "[Venus Comb]\n640C0000 00000000 00022EA9\n\n",
+        "[Wheat]": "[Wheat]\n640C0000 00000000 00019641\n\n",
+        "[-- Fish --]": "[-- Fish --]\n00000000 00000000 00000000\n\n",
+        "[Abalone]": "[Abalone]\n640C0000 00000000 0001B5A4\n\n",
+        "[Aligator Gar]": "[Aligator Gar]\n640C0000 00000000 0001B594\n\n",
+        "[Angler Fish]": "[Angler Fish]\n640C0000 00000000 0001B595\n\n",
+        "[Aurora Fish]": "[Aurora Fish]\n640C0000 00000000 0001B5AE\n\n",
+        "[Big Fin Reff Squid]": "[Big Fin Reff Squid]\n640C0000 00000000 0001B5AA\n\n",
+        "[Blood Clam]": "[Blood Clam]\n640C0000 00000000 0001B5A3\n\n",
+        "[Blue Crab]": "[Blue Crab]\n640C0000 00000000 0001B5A8\n\n",
+        "[Cat Fish]": "[Cat Fish]\n640C0000 00000000 0001B58A\n\n",
+        "[Cod]": "[Cod]\n640C0000 00000000 0001B585\n\n",
+        "[Common Squid]": "[Common Squid]\n640C0000 00000000 0001B5AC\n\n",
+        "[Cray Fish]": "[Cray Fish]\n640C0000 00000000 0001B5B1\n\n",
+        "[Cuttle Fish]": "[Cuttle Fish]\n640C0000 00000000 0001B5AB\n\n",
+        "[Dace]": "[Dace]\n640C0000 00000000 0001B583\n\n",
+        "[Eel]": "[Eel]\n640C0000 00000000 0001B586\n\n",
+        "[Flounder]": "[Flounder]\n640C0000 00000000 0001B58F\n\n",
+        "[Gazami Crab]": "[Gazami Crab]\n640C0000 00000000 0001B5A7\n\n",
+        "[Giant Cat Fish]": "[Giant Cat Fish]\n640C0000 00000000 0001B596\n\n",
+        "[Giant Freshwater Prawn]": "[Giant Freshwater Prawn]\n640C0000 00000000 0001B59C\n\n",
+        "[Giant Grouper]": "[Giant Grouper]\n640C0000 00000000 0001B599\n\n",
+        "[Giant King Crab]": "[Giant King Crab]\n640C0000 00000000 0001B5A9\n\n",
+        "[Giant Squid]": "[Giant Squid]\n640C0000 00000000 0001B59A\n\n",
+        "[Giant Tiger Shrimp]": "[Giant Tiger Shrimp]\n640C0000 00000000 0001B59E\n\n",
+        "[Hailbut]": "[Hailbut]\n640C0000 00000000 0001B598\n\n",
+        "[Herring]": "[Herring]\n640C0000 00000000 0001B584\n\n",
+        "[Horse Mackerel]": "[Horse Mackerel]\n640C0000 00000000 0001B582\n\n",
+        "[Hoursehair Crab]": "[Hoursehair Crab]\n640C0000 00000000 0001B5A6\n\n",
+        "[Lobster]": "[Lobster]\n640C0000 00000000 0001B59F\n\n",
+        "[Mahi Mahi]": "[Mahi Mahi]\n640C0000 00000000 0001B590\n\n",
+        "[Marlin]": "[Marlin]\n640C0000 00000000 0001B59B\n\n",
+        "[Milk Fish]": "[Milk Fish]\n640C0000 00000000 0001B58D\n\n",
+        "[Mussel]": "[Mussel]\n640C0000 00000000 0001B5A2\n\n",
+        "[Oarfish]": "[Oarfish]\n640C0000 00000000 0001B592\n\n",
+        "[Oyster]": "[Oyster]\n640C0000 00000000 0001B5A1\n\n",
+        "[Rock Lobster]": "[Rock Lobster]\n640C0000 00000000 0001B5A0\n\n",
+        "[Salmon]": "[Salmon]\n640C0000 00000000 0001B591\n\n",
+        "[Sardine]": "[Sardine]\n640C0000 00000000 0001B581\n\n",
+        "[Sea Bass]": "[Sea Bass]\n640C0000 00000000 0001B587\n\n",
+        "[Sea Bream]": "[Sea Bream]\n640C0000 00000000 0001B58E\n\n",
+        "[Shining Fish]": "[Shining Fish]\n640C0000 00000000 0001B5AF\n\n",
+        "[Shishamo Smelt]": "[Shishamo Smelt]\n640C0000 00000000 0001B581\n\n",
+        "[Snakehead]": "[Snakehead]\n640C0000 00000000 0001B58B\n\n",
+        "[Snow Crab]": "[Snow Crab]\n640C0000 00000000 0001B5A5\n\n",
+        "[Spear Squid]": "[Spear Squid]\n640C0000 00000000 0001B5AD\n\n",
+        "[Spotted Eagle Ray]": "[Spotted Eagle Ray]\n640C0000 00000000 0001B597\n\n",
+        "[Sprakling Fish]": "[Sprakling Fish]\n640C0000 00000000 0001B5B0\n\n",
+        "[Star Snaper]": "[Star Snaper]\n640C0000 00000000 0001B58C\n\n",
+        "[Tilapia]": "[Tilapia]\n640C0000 00000000 0001B589\n\n",
+        "[Tuna]": "[Tuna]\n640C0000 00000000 0001B593\n\n",
+        "[Whiskered Velvet Shrimp]": "[Whiskered Velvet Shrimp]\n640C0000 00000000 0001B59D\n\n",
+        "[Yellow Perch]": "[Yellow Perch]\n640C0000 00000000 0001B588\n\n",
+        "[-- Food --]": "[-- Food --]\n00000000 00000000 00000000\n\n",
+        "[Boiled Fish]": "[Boiled Fish]\n640C0000 00000000 0001F7EC\n\n",
+        "[Boiled Sweet Potato]": "[Boiled Sweet Potato]\n640C0000 00000000 0001F7F7\n\n",
+        "[Boiled Vegetables]": "[Boiled Vegetables]\n640C0000 00000000 0001F7F6\n\n",
+        "[Chestnut Rice]": "[Chestnut Rice]\n640C0000 00000000 0001F7F3\n\n",
+        "[Chuka Shoba]": "[Chuka Shoba]\n640C0000 00000000 0001F7ED\n\n",
+        "[Egg Sandwich]": "[Egg Sandwich]\n640C0000 00000000 0001F7FC\n\n",
+        "[French Toast]": "[French Toast]\n640C0000 00000000 0001F7FA\n\n",
+        "[Fried Egg]": "[Fried Egg]\n640C0000 00000000 0001F7E8\n\n",
+        "[Fried Tuna Cutlets]": "[Fried Tuna Cutlets]\n640C0000 00000000 0001F7F8\n\n",
+        "[Griled Fish]": "[Griled Fish]\n640C0000 00000000 0001F7EB\n\n",
+        "[Griled Gar]": "[Griled Gar]\n640C0000 00000000 0001F7F4\n\n",
+        "[Hot Pot]": "[Hot Pot]\n640C0000 00000000 0001F7FE\n\n",
+        "[Jam Sandwich]": "[Jam Sandwich]\n640C0000 00000000 0001F7F9\n\n",
+        "[Kimchi Hot Pot]": "[Kimchi Hot Pot]\n640C0000 00000000 0001F7FF\n\n",
+        "[Kitsune Udon]": "[Kitsune Udon]\n640C0000 00000000 0001F7EE\n\n",
+        "[Marlin Sushi]": "[Marlin Sushi]\n640C0000 00000000 0001F7EA\n\n",
+        "[Matsutake Rice]": "[Matsutake Rice]\n640C0000 00000000 0001F7F2\n\n",
+        "[Mixed Rice]": "[Mixed Rice]\n640C0000 00000000 0001F7F1\n\n",
+        "[Sea Bream Sashimi]": "[Sea Bream Sashimi]\n640C0000 00000000 0001F7E9\n\n",
+        "[Shasimi Bowl]": "[Shasimi Bowl]\n640C0000 00000000 0001F7F5\n\n",
+        "[Tempura]": "[Tempura]\n640C0000 00000000 0001F7EF\n\n",
+        "[Tuna Sandwich]": "[Tuna Sandwich]\n640C0000 00000000 0001F7FD\n\n",
+        "[Unaju]": "[Unaju]\n640C0000 00000000 0001F7F0\n\n",
+        "[Vegetable Sandwich]": "[Vegetable Sandwich]\n640C0000 00000000 0001F7FB\n\n",
+        "[Butter]": "[Butter]\n640C0000 00000000 0001EC3E\n\n",
+        "[Cheese]": "[Cheese]\n640C0000 00000000 0001EC3F\n\n",
+        "[Cocoa Powder]": "[Cocoa Powder]\n640C0000 00000000 0001EC3C\n\n",
+        "[Coffee Powder]": "[Coffee Powder]\n640C0000 00000000 0001EC3B\n\n",
+        "[Flour]": "[Flour]\n640C0000 00000000 0001EC3D\n\n",
+        "[Golden Rain Rosemary]": "[Golden Rain Rosemary]\n640C0000 00000000 0001E84B\n\n",
+        "[Lemon Marigold]": "[Lemon Marigold]\n640C0000 00000000 0001E84A\n\n",
+        "[Mayonnaise]": "[Mayonnaise]\n640C0000 00000000 0001EC40\n\n",
+        "[Mixed Herbs]": "[Mixed Herbs]\n640C0000 00000000 0001EC39\n\n",
+        "[Mixed Spices]": "[Mixed Spices]\n640C0000 00000000 0001EC3A\n\n",
+        "[Olive Oil]": "[Olive Oil]\n640C0000 00000000 0001EC38\n\n",
+        "[Oregano]": "[Oregano]\n640C0000 00000000 0001E848\n\n",
+        "[Pepper]": "[Pepper]\n640C0000 00000000 00019265\n\n",
+        "[Peppercorn]": "[Peppercorn]\n640C0000 00000000 0001EC31\n\n",
+        "[Rock Salt]": "[Rock Salt]\n640C0000 00000000 0001EC30\n\n",
+        "[Sage]": "[Sage]\n640C0000 00000000 0001E849\n\n",
+        "[Salt]": "[Salt]\n640C0000 00000000 0001EC33\n\n",
+        "[Soy Sauce]": "[Soy Sauce]\n640C0000 00000000 0001EC36\n\n",
+        "[Sugar]": "[Sugar]\n640C0000 00000000 0001EC35\n\n",
+        "[Sugarcane]": "[Sugarcane]\n640C0000 00000000 0001EC32\n\n",
+        "[Vinegar]": "[Vinegar]\n640C0000 00000000 0001EC37\n\n",
+        "[Yogurt]": "[Yogurt]\n640C0000 00000000 0001EC41\n\n",
+        "[-- Flowers --]": "[-- Flowers --]\n00000000 00000000 00000000\n\n",
+        "[Begonia]": "[Begonia]\n640C0000 00000000 00019A39\n\n",
+        "[Black Pansy ]": "[Black Pansy ]\n640C0000 00000000 00019A2C\n\n",
+        "[Black Rose]": "[Black Rose]\n640C0000 00000000 00019A35\n\n",
+        "[Buttercup]": "[Buttercup]\n640C0000 00000000 00019A2B\n\n",
+        "[Campanula]": "[Campanula]\n640C0000 00000000 00019A3B\n\n",
+        "[Cineraria]": "[Cineraria]\n640C0000 00000000 00019A37\n\n",
+        "[Clematis]": "[Clematis]\n640C0000 00000000 00019A34\n\n",
+        "[Daisy]": "[Daisy]\n640C0000 00000000 00019A36\n\n",
+        "[Hellebore]": "[Hellebore]\n640C0000 00000000 00019A3A\n\n",
+        "[Hibiscus]": "[Hibiscus]\n640C0000 00000000 00019A2D\n\n",
+        "[Lily]": "[Lily]\n640C0000 00000000 00019A31\n\n",
+        "[Magic Blue Flower]": "[Magic Blue Flower]\n640C0000 00000000 00022EA1\n\n",
+        "[Magic Red Flower]": "[Magic Red Flower]\n640C0000 00000000 00022EA2\n\n",
+        "[Marigold]": "[Marigold]\n640C0000 00000000 00019A2F\n\n",
+        "[Moondrop Flower]": "[Moondrop Flower]\n640C0000 00000000 00022E9F\n\n",
+        "[Mum]": "[Mum]\n640C0000 00000000 00019A33\n\n",
+        "[Nemophilia]": "[Nemophilia]\n640C0000 00000000 00019A29\n\n",
+        "[Pansy]": "[Pansy]\n640C0000 00000000 00019A2A\n\n",
+        "[Petunia]": "[Petunia]\n640C0000 00000000 00019A2E\n\n",
+        "[Pink Cat Flower]": "[Pink Cat Flower]\n640C0000 00000000 00022EA0\n\n",
+        "[Primerose]": "[Primerose]\n640C0000 00000000 00019A38\n\n",
+        "[Rose]": "[Rose]\n640C0000 00000000 00019A32\n\n",
+        "[Sunflower]": "[Sunflower]\n640C0000 00000000 00019A30\n\n",
+        "[Tulip]": "[Tulip]\n640C0000 00000000 00019A28\n\n",
+        "[-- Fruits --]": "[-- Fruits --]\n00000000 00000000 00000000\n\n",
+        "[Almond]": "[Almond]\n640C0000 00000000 00019E15\n\n",
+        "[Apple]": "[Apple]\n640C0000 00000000 00019E1D\n\n",
+        "[Avocado]": "[Avocado]\n640C0000 00000000 00019E11\n\n",
+        "[Banana]": "[Banana]\n640C0000 00000000 00019E19\n\n",
+        "[Cacao]": "[Cacao]\n640C0000 00000000 00019E1A\n\n",
+        "[Cherry]": "[Cherry]\n640C0000 00000000 00019E13\n\n",
+        "[Coconut]": "[Coconut]\n640C0000 00000000 00019E18\n\n",
+        "[Coffee Beans]": "[Coffee Beans]\n640C0000 00000000 00019E10\n\n",
+        "[Giant Avocado]": "[Giant Avocado]\n640C0000 00000000 00019E12\n\n",
+        "[Golden Apple]": "[Golden Apple]\n640C0000 00000000 00019E1E\n\n",
+        "[Golden Peach ]": "[Golden Peach ]\n640C0000 00000000 00019E1C\n\n",
+        "[Grape]": "[Grape]\n640C0000 00000000 00019E1F\n\n",
+        "[Lemon]": "[Lemon]\n640C0000 00000000 00019E16\n\n",
+        "[Mango]": "[Mango]\n640C0000 00000000 00019E17\n\n",
+        "[Olive ]": "[Olive ]\n640C0000 00000000 00019E20\n\n",
+        "[Orange]": "[Orange]\n640C0000 00000000 00019E14\n\n",
+        "[Peach]": "[Peach]\n640C0000 00000000 00019E1B\n\n",
+        "[-- Vegetables / Crops --]": "[-- Vegetables / Crops --]\n00000000 00000000 00000000\n\n",
+        "[Bok Choy]": "[Bok Choy]\n640C0000 00000000 00019276\n\n",
+        "[Broccoli]": "[Broccoli]\n640C0000 00000000 00019278\n\n",
+        "[Burdock]": "[Burdock]\n640C0000 00000000 0001927F\n\n",
+        "[Cabbage]": "[Cabbage]\n640C0000 00000000 0001925C\n\n",
+        "[Carrot]": "[Carrot]\n640C0000 00000000 0001926F\n\n",
+        "[Chili Pepper]": "[Chili Pepper]\n640C0000 00000000 00019277\n\n",
+        "[Corn]": "[Corn]\n640C0000 00000000 00019266\n\n",
+        "[Cucumber]": "[Cucumber]\n640C0000 00000000 0001925D\n\n",
+        "[Daikon Radish]": "[Daikon Radish]\n640C0000 00000000 00019279\n\n",
+        "[Eggplant]": "[Eggplant]\n640C0000 00000000 00019270\n\n",
+        "[Fork-root Daikon]": "[Fork-root Daikon]\n640C0000 00000000 0001927A\n\n",
+        "[Garlic]": "[Garlic]\n640C0000 00000000 00019261\n\n",
+        "[Giant Leek]": "[Giant Leek]\n640C0000 00000000 0001927E\n\n",
+        "[Giant Sweet Potato]": "[Giant Sweet Potato]\n640C0000 00000000 00019273\n\n",
+        "[Giant Tomato]": "[Giant Tomato]\n640C0000 00000000 00019264\n\n",
+        "[Giant Turnip]": "[Giant Turnip]\n640C0000 00000000 00019259\n\n",
+        "[Golden Nappa Cabbage]": "[Golden Nappa Cabbage]\n640C0000 00000000 0001927C\n\n",
+        "[Golden Strawberry]": "[Golden Strawberry]\n640C0000 00000000 00019260\n\n",
+        "[Green Pepper]": "[Green Pepper]\n640C0000 00000000 00019274\n\n",
+        "[Heart Spinach]": "[Heart Spinach]\n640C0000 00000000 0001926E\n\n",
+        "[Jewel Melon]": "[Jewel Melon]\n640C0000 00000000 0001926B\n\n",
+        "[Leek]": "[Leek]\n640C0000 00000000 0001927D\n\n",
+        "[Melon]": "[Melon]\n640C0000 00000000 0001926A\n\n",
+        "[Mosaic Corn]": "[Mosaic Corn]\n640C0000 00000000 00019267\n\n",
+        "[Nappa Cabbage]": "[Nappa Cabbage]\n640C0000 00000000 0001927B\n\n",
+        "[Okra]": "[Okra]\n640C0000 00000000 00019275\n\n",
+        "[Onion]": "[Onion]\n640C0000 00000000 0001925E\n\n",
+        "[Pineapple]": "[Pineapple]\n640C0000 00000000 0001926C\n\n",
+        "[Potato]": "[Potato]\n640C0000 00000000 0001925A\n\n",
+        "[Pumpkin]": "[Pumpkin]\n640C0000 00000000 00019262\n\n",
+        "[Radish]": "[Radish]\n640C0000 00000000 00019280\n\n",
+        "[Round Eggplant]": "[Round Eggplant]\n640C0000 00000000 00019271\n\n",
+        "[Spinach]": "[Spinach]\n640C0000 00000000 0001926D\n\n",
+        "[Star Potato]": "[Star Potato]\n640C0000 00000000 0001925B\n\n",
+        "[Strawberry]": "[Strawberry]\n640C0000 00000000 0001925F\n\n",
+        "[Sweet Potato]": "[Sweet Potato]\n640C0000 00000000 00019272\n\n",
+        "[Tomato]": "[Tomato]\n640C0000 00000000 00019263\n\n",
+        "[Turnip]": "[Turnip]\n640C0000 00000000 00019258\n\n",
+        "[Watermelon]": "[Watermelon]\n640C0000 00000000 00019269\n\n",
+        "[Zucchini]": "[Zucchini]\n640C0000 00000000 00019268\n\n",
+        "[-- Animal Products --]": "[-- Animal Products --]\n00000000 00000000 00000000\n\n",
+        "[Alpaca Wool]": "[Alpaca Wool]\n640C0000 00000000 0001B19A\n\n",
+        "[Alpaca Wool+]": "[Alpaca Wool+]\n640C0000 00000000 0001B1A1\n\n",
+        "[Brown Alpaca Wool]": "[Brown Alpaca Wool]\n640C0000 00000000 0001B19B\n\n",
+        "[Brown Alpaca Wool+]": "[Brown Alpaca Wool+]\n640C0000 00000000 0001B1A2\n\n",
+        "[Buffalo Milk]": "[Buffalo Milk]\n640C0000 00000000 0001A9C9\n\n",
+        "[Buffalo Milk+]": "[Buffalo Milk+]\n640C0000 00000000 0001A9CC\n\n",
+        "[Egg]": "[Egg]\n640C0000 00000000 0001ADB0\n\n",
+        "[Egg+]": "[Egg+]\n640C0000 00000000 0001ADB2\n\n",
+        "[Goat Milk]": "[Goat Milk]\n640C0000 00000000 0001A9CA\n\n",
+        "[Goat Milk+]": "[Goat Milk+]\n640C0000 00000000 0001A9CD\n\n",
+        "[Gray Rabbit Fur]": "[Gray Rabbit Fur]\n640C0000 00000000 0001B19D\n\n",
+        "[Gray Rabbit Fur+]": "[Gray Rabbit Fur+]\n640C0000 00000000 0001B1A4\n\n",
+        "[Milk]": "[Milk]\n640C0000 00000000 0001A9C8\n\n",
+        "[Milk+]": "[Milk+]\n640C0000 00000000 0001A9CB\n\n",
+        "[Pink Rabbit Fur]": "[Pink Rabbit Fur]\n640C0000 00000000 0001B19E\n\n",
+        "[Pink Rabbit Fur+]": "[Pink Rabbit Fur+]\n640C0000 00000000 0001B1A5\n\n",
+        "[Rabbit Fur]": "[Rabbit Fur]\n640C0000 00000000 0001B19C\n\n",
+        "[Rabbit Fur+]": "[Rabbit Fur+]\n640C0000 00000000 0001B1A3\n\n",
+        "[Silkie Egg]": "[Silkie Egg]\n640C0000 00000000 0001ADB1\n\n",
+        "[Silkie Egg+]": "[Silkie Egg+]\n640C0000 00000000 0001ADB3\n\n",
+        "[Suffolk Wool]": "[Suffolk Wool]\n640C0000 00000000 0001B199\n\n",
+        "[Suffolk Wool+]": "[Suffolk Wool+]\n640C0000 00000000 0001B1A0\n\n",
+        "[Wool]": "[Wool]\n640C0000 00000000 0001B198\n\n",
+        "[Wool+]": "[Wool+]\n640C0000 00000000 0001B19F\n\n",
+        "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]": "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]\n20000000\n\n"
+    },
+    "A4095ADD59310847": {
+        "[Row 3 Slot 5 999]": "[Row 3 Slot 5 999]\n58060000 04671B88\n58061000 000000B8\n58061000 00000000\n58061000 00000028\n58061000 00000010\n58061000 00000018\n58061000 00000210\n78060000 00000014\n64060000 00000000 000003E7\n\n",
+        "[Row 3 Slot 5 10 star (Press ZR)]": "[Row 3 Slot 5 10 star (Press ZR)]\n80000200\n58030000 04671B88\n58031000 000000B8\n58031000 00000000\n58031000 00000028\n58031000 00000010\n58031000 00000018\n58031000 00000210\n78030000 00000018\n64030000 00000000 0000000A\n20000000\n\n",
+        "[time stop]": "[time stop]\n04040000 0192144C AA0003E0\n\n",
+        "[time resume]": "[time resume]\n04040000 0192144C 9425EBDD\n\n"
+    },
     "attribution": {
         "ITEM ID'S.txt": "  ____  _                            __   ____                                                       \n / ___|| |_ ___  _ __ _   _    ___  / _| / ___|  ___  __ _ ___  ___  _ __  ___                       \n \\___ \\| __/ _ \\| '__| | | |  / _ \\| |_  \\___ \\ / _ \\/ _` / __|/ _ \\| '_ \\/ __|                      \n  ___) | || (_) | |  | |_| | | (_) |  _|  ___) |  __| (_| \\__ | (_) | | | \\__ \\                      \n |____/ \\__\\___/|_|   \\__, |  \\___/|_|   |____/ \\___|\\__,_|___/\\___/|_| |_|___/           \n  ____  _             |___/                       __    ___  _ _             _____                   \n |  _ \\(_) ___  _ __   ___  ___ _ __ ___    ___  / _|  / _ \\| (___   _____  |_   ______      ___ __  \n | |_) | |/ _ \\| '_ \\ / _ \\/ _ | '__/ __|  / _ \\| |_  | | | | | \\ \\ / / _ \\   | |/ _ \\ \\ /\\ / | '_ \\ \n |  __/| | (_) | | | |  __|  __| |  \\__ \\ | (_) |  _| | |_| | | |\\ V |  __/   | | (_) \\ V  V /| | | |\n |_|   |_|\\___/|_| |_|\\___|\\___|_|  |___/  \\___/|_|    \\___/|_|_| \\_/ \\___|   |_|\\___/ \\_/\\_/ |_| |_|\n                                                                                                        \n-----------------------------------------------------------------------------------------------------\n\nTitle:      \u7267\u5834\u7269\u8a9e \u30aa\u30ea\u30fc\u30d6\u30bf\u30a6\u30f3\u3068\u5e0c\u671b\u306e\u5927\u5730\n            Story of Seasons: Pioneers of Olive Town Japanese Version\nTitle ID:   010017301007E000\nBuild ID:   1EA294AF01F90F4C\n                                                                      Credits Angely, crazy_p, IMNoob\n-----------------------------------------------------------------------------------------------------\n\nITEM ID'S\n\nPress CTRL + F to find your Categories quicker\n\n[-- Animal Products --]\n[-- Fish --]\n[-- Flowers --]\n[-- Food --]\n[-- Forage --]\n[-- Fossils --]\n[-- Fruits --]\n[-- Jewelery --]\n[-- Materials --]\n[-- Other --]\n[-- Seasoning / Condiments / Herbs --]\n[-- Vegetables / Crops --]\n                                                                    \n--------------------------------------------------------------------------------------------------------------\n\n[-- Animal Products --]\n00000000 00000000 00000000\n\n[Alpaca Wool]\n640C0000 00000000 0001B19A\n\n[Alpaca Wool+]\n640C0000 00000000 0001B1A1\n\n[Brown Alpaca Wool]\n640C0000 00000000 0001B19B\n\n[Brown Alpaca Wool+]\n640C0000 00000000 0001B1A2\n\n[Buffalo Milk]\n640C0000 00000000 0001A9C9\n\n[Buffalo Milk+]\n640C0000 00000000 0001A9CC\n\n[Egg]\n640C0000 00000000 0001ADB0\n\n[Egg+]\n640C0000 00000000 0001ADB2\n\n[Goat Milk]\n640C0000 00000000 0001A9CA\n\n[Goat Milk+]\n640C0000 00000000 0001A9CD\n\n[Gray Rabbit Fur]\n640C0000 00000000 0001B19D\n\n[Gray Rabbit Fur+]\n640C0000 00000000 0001B1A4\n\n[Milk]\n640C0000 00000000 0001A9C8\n\n[Milk+]\n640C0000 00000000 0001A9CB\n\n[Pink Rabbit Fur]\n640C0000 00000000 0001B19E\n\n[Pink Rabbit Fur+]\n640C0000 00000000 0001B1A5\n\n[Rabbit Fur]\n640C0000 00000000 0001B19C\n\n[Rabbit Fur+]\n640C0000 00000000 0001B1A3\n\n[Silkie Egg]\n640C0000 00000000 0001ADB1\n\n[Silkie Egg+]\n640C0000 00000000 0001ADB3\n\n[Suffolk Wool]\n640C0000 00000000 0001B199\n\n[Suffolk Wool+]\n640C0000 00000000 0001B1A0\n\n[Wool]\n640C0000 00000000 0001B198\n\n[Wool+]\n640C0000 00000000 0001B19F\n\n--------------------------------------------------------------------------------------------------------------\n\n[-- Fish --]\n00000000 00000000 00000000\n\n[Abalone]\n640C0000 00000000 0001B5A4\n\n[Aligator Gar]\n640C0000 00000000 0001B594\n\n[Angler Fish]\n640C0000 00000000 0001B595\n\n[Aurora Fish]\n640C0000 00000000 0001B5AE\n\n[Big Fin Reff Squid]\n640C0000 00000000 0001B5AA\n\n[Blood Clam]\n640C0000 00000000 0001B5A3\n\n[Blue Crab]\n640C0000 00000000 0001B5A8\n\n[Cat Fish]\n640C0000 00000000 0001B58A\n\n[Cod]\n640C0000 00000000 0001B585\n\n[Common Squid]\n640C0000 00000000 0001B5AC\n\n[Cray Fish]\n640C0000 00000000 0001B5B1\n\n[Cuttle Fish]\n640C0000 00000000 0001B5AB\n\n[Dace]\n640C0000 00000000 0001B583\n\n[Eel]\n640C0000 00000000 0001B586\n\n[Flounder]\n640C0000 00000000 0001B58F\n\n[Gazami Crab]\n640C0000 00000000 0001B5A7\n\n[Giant Cat Fish]\n640C0000 00000000 0001B596\n\n[Giant Freshwater Prawn]\n640C0000 00000000 0001B59C\n\n[Giant Grouper]\n640C0000 00000000 0001B599\n\n[Giant King Crab]\n640C0000 00000000 0001B5A9\n\n[Giant Squid]\n640C0000 00000000 0001B59A\n\n[Giant Tiger Shrimp]\n640C0000 00000000 0001B59E\n\n[Hailbut]\n640C0000 00000000 0001B598\n\n[Herring]\n640C0000 00000000 0001B584\n\n[Horse Mackerel]\n640C0000 00000000 0001B582\n\n[Hoursehair Crab]\n640C0000 00000000 0001B5A6\n\n[Lobster]\n640C0000 00000000 0001B59F\n\n[Mahi Mahi]\n640C0000 00000000 0001B590\n\n[Marlin]\n640C0000 00000000 0001B59B\n\n[Milk Fish]\n640C0000 00000000 0001B58D\n\n[Mussel]\n640C0000 00000000 0001B5A2\n\n[Oarfish]\n640C0000 00000000 0001B592\n\n[Oyster]\n640C0000 00000000 0001B5A1\n\n[Rock Lobster]\n640C0000 00000000 0001B5A0\n\n[Salmon]\n640C0000 00000000 0001B591\n\n[Sardine]\n640C0000 00000000 0001B581\n\n[Sea Bass]\n640C0000 00000000 0001B587\n\n[Sea Bream]\n640C0000 00000000 0001B58E\n\n[Shining Fish]\n640C0000 00000000 0001B5AF\n\n[Shishamo Smelt]\n640C0000 00000000 0001B581\n\n[Snakehead]\n640C0000 00000000 0001B58B\n\n[Snow Crab]\n640C0000 00000000 0001B5A5\n\n[Spear Squid]\n640C0000 00000000 0001B5AD\n\n[Spotted Eagle Ray]\n640C0000 00000000 0001B597\n\n[Sprakling Fish]\n640C0000 00000000 0001B5B0\n\n[Star Snaper]\n640C0000 00000000 0001B58C\n\n[Tilapia]\n640C0000 00000000 0001B589\n\n[Tuna]\n640C0000 00000000 0001B593\n\n[Whiskered Velvet Shrimp]\n640C0000 00000000 0001B59D\n\n[Yellow Perch]\n640C0000 00000000 0001B588\n\n--------------------------------------------------------------------------------------------------------------\n\n[-- Flowers --]\n00000000 00000000 00000000\n\n[Begonia]\n640C0000 00000000 00019A39\n\n[Black Pansy ]\n640C0000 00000000 00019A2C\n\n[Black Rose]\n640C0000 00000000 00019A35\n\n[Buttercup]\n640C0000 00000000 00019A2B\n\n[Campanula]\n640C0000 00000000 00019A3B\n\n[Cineraria]\n640C0000 00000000 00019A37\n\n[Clematis]\n640C0000 00000000 00019A34\n\n[Daisy]\n640C0000 00000000 00019A36\n\n[Hellebore]\n640C0000 00000000 00019A3A\n\n[Hibiscus]\n640C0000 00000000 00019A2D\n\n[Lily]\n640C0000 00000000 00019A31\n\n[Magic Blue Flower]\n640C0000 00000000 00022EA1\n\n[Magic Red Flower]\n640C0000 00000000 00022EA2\n\n[Marigold]\n640C0000 00000000 00019A2F\n\n[Moondrop Flower]\n640C0000 00000000 00022E9F\n\n[Mum]\n640C0000 00000000 00019A33\n\n[Nemophilia]\n640C0000 00000000 00019A29\n\n[Pansy]\n640C0000 00000000 00019A2A\n\n[Petunia]\n640C0000 00000000 00019A2E\n\n[Pink Cat Flower]\n640C0000 00000000 00022EA0\n\n[Primerose]\n640C0000 00000000 00019A38\n\n[Rose]\n640C0000 00000000 00019A32\n\n[Sunflower]\n640C0000 00000000 00019A30\n\n[Tulip]\n640C0000 00000000 00019A28\n\n--------------------------------------------------------------------------------------------------------------\n\n[-- Food --]\n00000000 00000000 00000000\n\n[Boiled Fish]\n640C0000 00000000 0001F7EC\n\n[Boiled Sweet Potato]\n640C0000 00000000 0001F7F7\n\n[Boiled Vegetables]\n640C0000 00000000 0001F7F6\n\n[Chestnut Rice]\n640C0000 00000000 0001F7F3\n\n[Chuka Shoba]\n640C0000 00000000 0001F7ED\n\n[Egg Sandwich]\n640C0000 00000000 0001F7FC\n\n[French Toast]\n640C0000 00000000 0001F7FA\n\n[Fried Egg]\n640C0000 00000000 0001F7E8\n\n[Fried Tuna Cutlets]\n640C0000 00000000 0001F7F8\n\n[Griled Fish]\n640C0000 00000000 0001F7EB\n\n[Griled Gar]\n640C0000 00000000 0001F7F4\n\n[Hot Pot]\n640C0000 00000000 0001F7FE\n\n[Jam Sandwich]\n640C0000 00000000 0001F7F9\n\n[Kimchi Hot Pot]\n640C0000 00000000 0001F7FF\n\n[Kitsune Udon]\n640C0000 00000000 0001F7EE\n\n[Marlin Sushi]\n640C0000 00000000 0001F7EA\n\n[Matsutake Rice]\n640C0000 00000000 0001F7F2\n\n[Mixed Rice]\n640C0000 00000000 0001F7F1\n\n[Sea Bream Sashimi]\n640C0000 00000000 0001F7E9\n\n[Shasimi Bowl]\n640C0000 00000000 0001F7F5\n\n[Tempura]\n640C0000 00000000 0001F7EF\n\n[Tuna Sandwich]\n640C0000 00000000 0001F7FD\n\n[Unaju]\n640C0000 00000000 0001F7F0\n\n[Vegetable Sandwich]\n640C0000 00000000 0001F7FB\n\n--------------------------------------------------------------------------------------------------------------\n\n[-- Forage --]\n00000000 00000000 00000000\n\n[Bamboo Shoot]\n640C0000 00000000 0001E465\n\n[Butterbur]\n640C0000 00000000 0001E462\n\n[Chestnut]\n640C0000 00000000 0001E464\n\n[Horsetail]\n640C0000 00000000 0001E463\n\n[Royal Fern]\n640C0000 00000000 0001E461\n\n[Wild Berry]\n640C0000 00000000 0001E460\n\n--------------------------------------------------------------------------------------------------------------\n\n[-- Fossils --]\n00000000 00000000 00000000\n\n[Ambergis]\n640C0000 00000000 00021B28\n\n[Ancient Black Tome]\n640C0000 00000000 00021B1D\n\n[Ancient Bug Fosil]\n640C0000 00000000 00021B2C\n\n[Ancient Fosil]\n640C0000 00000000 00021B2B\n\n[Ancient White Tome]\n640C0000 00000000 00021B1E\n\n[Antique Accesory]\n640C0000 00000000 00021B10\n\n[Antique Decoration]\n640C0000 00000000 00021B12\n\n[Antique Mirror]\n640C0000 00000000 00021B11\n\n[Antique Monument]\n640C0000 00000000 00021B13\n\n[Arthurite]\n640C0000 00000000 00021B23\n\n[Cave Pearl]\n640C0000 00000000 00021B29\n\n[Cow Helm]\n640C0000 00000000 00021B1B\n\n[Crystalized Amber]\n640C0000 00000000 00021B2A\n\n[Desert Rose]\n640C0000 00000000 00021B24\n\n[Dinosaur Fosil]\n640C0000 00000000 00021B2D\n\n[Fulgurite]\n640C0000 00000000 00021B22\n\n[Gibeon Stone]\n640C0000 00000000 00021B27\n\n[Glass Sliper]\n640C0000 00000000 00021B1F\n\n[Golden Horn]\n640C0000 00000000 00021B1C\n\n[Okine]\n640C0000 00000000 00021B25\n\n[Olive Crystal]\n640C0000 00000000 00021B21\n\n[Parasite Stone]\n640C0000 00000000 00021B26\n\n[Prehistoric Gear]\n640C0000 00000000 00021B20\n\n[Shiny Trophy Buckle]\n640C0000 00000000 00021B1A\n\n[Sparkling Spur]\n640C0000 00000000 00021B19\n\n[Timeworn Coin]\n640C0000 00000000 00021B14\n\n[Timeworn Compass]\n640C0000 00000000 00021B17\n\n[Timeworn Fan]\n640C0000 00000000 00021B15\n\n[Timeworn Map]\n640C0000 00000000 00021B18\n\n[Timeworn Scroll]\n640C0000 00000000 00021B16\n\n--------------------------------------------------------------------------------------------------------------\n\n[-- Fruits --]\n00000000 00000000 00000000\n\n[Almond]\n640C0000 00000000 00019E15\n\n[Apple]\n640C0000 00000000 00019E1D\n\n[Avocado]\n640C0000 00000000 00019E11\n\n[Banana]\n640C0000 00000000 00019E19\n\n[Cacao]\n640C0000 00000000 00019E1A\n\n[Cherry]\n640C0000 00000000 00019E13\n\n[Coconut]\n640C0000 00000000 00019E18\n\n[Coffee Beans]\n640C0000 00000000 00019E10\n\n[Giant Avocado]\n640C0000 00000000 00019E12\n\n[Golden Apple]\n640C0000 00000000 00019E1E\n\n[Golden Peach ]\n640C0000 00000000 00019E1C\n\n[Grape]\n640C0000 00000000 00019E1F\n\n[Lemon]\n640C0000 00000000 00019E16\n\n[Mango]\n640C0000 00000000 00019E17\n\n[Olive ]\n640C0000 00000000 00019E20\n\n[Orange]\n640C0000 00000000 00019E14\n\n[Peach]\n640C0000 00000000 00019E1B\n\n--------------------------------------------------------------------------------------------------------------\n\n[-- Jewelery --]\n00000000 00000000 00000000\n\n[Confesion Pendant]\n640C0000 00000000 00021340\n\n[Fashionable Bracelet]\n640C0000 00000000 00020B72\n\n[Jewerly Locket]\n640C0000 00000000 00020B71\n\n[Jewerly Ring]\n640C0000 00000000 00020B70\n\n[Shiny Watch]\n640C0000 00000000 00020B73\n\n--------------------------------------------------------------------------------------------------------------\n\n[-- Materials --]\n00000000 00000000 00000000\n\n[Alpaca Cloth]\n640C0000 00000000 0001D4C7\n\n[Alpaca Yarn]\n640C0000 00000000 0001D0E0\n\n[Bouquet Essence]\n640C0000 00000000 0001E07B\n\n[Brown Alpaca Cloth]\n640C0000 00000000 0001D4C8\n\n[Brown Alpaca Yarn]\n640C0000 00000000 0001D0E1\n\n[Cloth]\n640C0000 00000000 0001D4C0\n\n[Coal Lump]\n640C0000 00000000 0001C90A\n\n[Diamond]\n640C0000 00000000 0001DC94\n\n[Durable Lumber]\n640C0000 00000000 0001CCF3\n\n[Emerald]\n640C0000 00000000 0001DC93\n\n[Flexible Cloth]\n640C0000 00000000 0001D4C1\n\n[Flexible Grass]\n640C0000 00000000 0001C521\n\n[Flexible Thread]\n640C0000 00000000 0001D0DA\n\n[Floral Essence]\n640C0000 00000000 0001E07A\n\n[Fruit Eseence]\n640C0000 00000000 0001E07C\n\n[Glass]\n640C0000 00000000 0001D8A9\n\n[Glass Rock]\n640C0000 00000000 0001C909\n\n[Gold Ingot]\n640C0000 00000000 0001D8AC\n\n[Gold Ore]\n640C0000 00000000 0001C90D\n\n[Grass]\n640C0000 00000000 0001C520\n\n[Gray Rabbit Cloth]\n640C0000 00000000 0001D4CA\n\n[Gray Rabbit Yarn]\n640C0000 00000000 0001D0E3\n\n[Iron Ingot]\n640C0000 00000000 0001D8AA\n\n[Iron Ore]\n640C0000 00000000 0001C90B\n\n[Lumber]\n640C0000 00000000 0001CCF0\n\n[Mirage Cloth]\n640C0000 00000000 0001D4C4\n\n[Mirage Grass]\n640C0000 00000000 0001C524\n\n[Mirage Lumber]\n640C0000 00000000 0001CCF4\n\n[Mirage Thread]\n640C0000 00000000 0001D0DD\n\n[Oricalum Ingot]\n640C0000 00000000 0001D8AD\n\n[Orichalum Ore]\n640C0000 00000000 0001C90E\n\n[Pink Rabbit Cloth]\n640C0000 00000000 0001D4CB\n\n[Pink Rabbit Yarn]\n640C0000 00000000 0001D0E4\n\n[Rabbit Cloth]\n640C0000 00000000 0001D4C9\n\n[Rabbit Yarn]\n640C0000 00000000 0001D0E2\n\n[Raw Diamond]\n640C0000 00000000 0001C913\n\n[Raw Emerland]\n640C0000 00000000 0001C912\n\n[Raw Red Beryl]\n640C0000 00000000 0001C914\n\n[Raw Ruby]\n640C0000 00000000 0001C910\n\n[Raw Sapphire]\n640C0000 00000000 0001C911\n\n[Raw White Opal]\n640C0000 00000000 0001C90F\n\n[Red Beryl]\n640C0000 00000000 0001DC95\n\n[Refined Coal]\n640C0000 00000000 0001D8A8\n\n[Ruby]\n640C0000 00000000 0001DC91\n\n[Saphire]\n640C0000 00000000 0001DC92\n\n[Silver Ingot]\n640C0000 00000000 0001D8AB\n\n[Silver Ore]\n640C0000 00000000 0001C90C\n\n[Smooth Cloth]\n640C0000 00000000 0001D4C3\n\n[Smooth Thread]\n640C0000 00000000 0001D0DC\n\n[Smooth Grass]\n640C0000 00000000 0001C523\n\n[Solid Lumber]\n640C0000 00000000 0001CCF1\n\n[Stone]\n640C0000 00000000 0001C908\n\n[Suffolk Cloth]\n640C0000 00000000 0001D4C6\n\n[Suffolk Yarn]\n640C0000 00000000 0001D0DF\n\n[Supple Lumber]\n640C0000 00000000 0001CCF2\n\n[Though Cloth]\n640C0000 00000000 0001D4C2\n\n[Though Grass]\n640C0000 00000000 0001C522\n\n[Though Thread]\n640C0000 00000000 0001D0DB\n\n[Thread]\n640C0000 00000000 0001D0D9\n\n[Twine]\n640C0000 00000000 0001D0D8\n\n[White Opal]\n640C0000 00000000 0001DC90\n\n[Woolen Cloth]\n640C0000 00000000 0001D4C5\n\n[Woolen Yarn]\n640C0000 00000000 0001D0DE\n\n--------------------------------------------------------------------------------------------------------------\n\n[-- Other --]\n00000000 00000000 00000000\n\n[Beans]\n640C0000 00000000 00019642\n\n[Bouncy Ball]\n640C0000 00000000 00022E9D\n\n[Brick]\n640C0000 00000000 00022E9A\n\n[Candy Cane Snail Shell]\n640C0000 00000000 00022EA8\n\n[Clay]\n640C0000 00000000 00022E99\n\n[Coral]\n640C0000 00000000 00022EA6\n\n[Deluxe Fodder]\n640C0000 00000000 00019645\n\n[Empty Bottle]\n640C0000 00000000 00022EA5\n\n[Empty Can]\n640C0000 00000000 00022EA3\n\n[Fancy Pet Treat]\n640C0000 00000000 00022E9C\n\n[Fodder]\n640C0000 00000000 00019644\n\n[Heart Cockle Shell]\n640C0000 00000000 00022EA7\n\n[Mouse Ball]\n640C0000 00000000 00022E9E\n\n[Old Boot]\n640C0000 00000000 00022EA4\n\n[Pet Treat]\n640C0000 00000000 00022E9B\n\n[Rice]\n640C0000 00000000 00019640\n\n[Tea Leaves]\n640C0000 00000000 00019643\n\n[Venus Comb]\n640C0000 00000000 00022EA9\n\n[Wheat]\n640C0000 00000000 00019641\n\n--------------------------------------------------------------------------------------------------------------\n\n[-- Seasoning / Condiments / Herbs --]\n\n[Butter]\n640C0000 00000000 0001EC3E\n\n[Cheese]\n640C0000 00000000 0001EC3F\n\n[Cocoa Powder]\n640C0000 00000000 0001EC3C\n\n[Coffee Powder]\n640C0000 00000000 0001EC3B\n\n[Flour]\n640C0000 00000000 0001EC3D\n\n[Golden Rain Rosemary]\n640C0000 00000000 0001E84B\n\n[Lemon Marigold]\n640C0000 00000000 0001E84A\n\n[Mayonnaise]\n640C0000 00000000 0001EC40\n\n[Mixed Herbs]\n640C0000 00000000 0001EC39\n\n[Mixed Spices]\n640C0000 00000000 0001EC3A\n\n[Olive Oil]\n640C0000 00000000 0001EC38\n\n[Oregano]\n640C0000 00000000 0001E848\n\n[Pepper]\n640C0000 00000000 0001EC34\n\n[Peppercorn]\n640C0000 00000000 0001EC31\n\n[Rock Salt]\n640C0000 00000000 0001EC30\n\n[Sage]\n640C0000 00000000 0001E849\n\n[Salt]\n640C0000 00000000 0001EC33\n\n[Soy Sauce]\n640C0000 00000000 0001EC36\n\n[Sugar]\n640C0000 00000000 0001EC35\n\n[Sugarcane]\n640C0000 00000000 0001EC32\n\n[Vinegar]\n640C0000 00000000 0001EC37\n\n[Yogurt]\n640C0000 00000000 0001EC41\n\n--------------------------------------------------------------------------------------------------------------\n\n[-- Vegetables / Crops --]\n00000000 00000000 00000000\n\n[Bok Choy]\n640C0000 00000000 00019276\n\n[Broccoli]\n640C0000 00000000 00019278\n\n[Burdock]\n640C0000 00000000 0001927F\n\n[Cabbage]\n640C0000 00000000 0001925C\n\n[Carrot]\n640C0000 00000000 0001926F\n\n[Chili Pepper]\n640C0000 00000000 00019277\n\n[Corn]\n640C0000 00000000 00019266\n\n[Cucumber]\n640C0000 00000000 0001925D\n\n[Daikon Radish]\n640C0000 00000000 00019279\n\n[Eggplant]\n640C0000 00000000 00019270\n\n[Fork-root Daikon]\n640C0000 00000000 0001927A\n\n[Garlic]\n640C0000 00000000 00019261\n\n[Giant Leek]\n640C0000 00000000 0001927E\n\n[Giant Sweet Potato]\n640C0000 00000000 00019273\n\n[Giant Tomato]\n640C0000 00000000 00019264\n\n[Giant Turnip]\n640C0000 00000000 00019259\n\n[Golden Nappa Cabbage]\n640C0000 00000000 0001927C\n\n[Golden Strawberry]\n640C0000 00000000 00019260\n\n[Green Pepper]\n640C0000 00000000 00019274\n\n[Heart Spinach]\n640C0000 00000000 0001926E\n\n[Jewel Melon]\n640C0000 00000000 0001926B\n\n[Leek]\n640C0000 00000000 0001927D\n\n[Melon]\n640C0000 00000000 0001926A\n\n[Mosaic Corn]\n640C0000 00000000 00019267\n\n[Nappa Cabbage]\n640C0000 00000000 0001927B\n\n[Okra]\n640C0000 00000000 00019275\n\n[Onion]\n640C0000 00000000 0001925E\n\n[Pepper]\n640C0000 00000000 00019265\n\n[Pineapple]\n640C0000 00000000 0001926C\n\n[Potato]\n640C0000 00000000 0001925A\n\n[Pumpkin]\n640C0000 00000000 00019262\n\n[Radish]\n640C0000 00000000 00019280\n\n[Round Eggplant]\n640C0000 00000000 00019271\n\n[Spinach]\n640C0000 00000000 0001926D\n\n[Star Potato]\n640C0000 00000000 0001925B\n\n[Strawberry]\n640C0000 00000000 0001925F\n\n[Sweet Potato]\n640C0000 00000000 00019272\n\n[Tomato]\n640C0000 00000000 00019263\n\n[Turnip]\n640C0000 00000000 00019258\n\n[Watermelon]\n640C0000 00000000 00019269\n\n[Zucchini]\n640C0000 00000000 00019268",
         "Readme.txt": "  ____  _                            __   ____                                                       \n / ___|| |_ ___  _ __ _   _    ___  / _| / ___|  ___  __ _ ___  ___  _ __  ___                       \n \\___ \\| __/ _ \\| '__| | | |  / _ \\| |_  \\___ \\ / _ \\/ _` / __|/ _ \\| '_ \\/ __|                      \n  ___) | || (_) | |  | |_| | | (_) |  _|  ___) |  __| (_| \\__ | (_) | | | \\__ \\                      \n |____/ \\__\\___/|_|   \\__, |  \\___/|_|   |____/ \\___|\\__,_|___/\\___/|_| |_|___/           by Crazy P.\n  ____  _             |___/                       __    ___  _ _             _____                   \n |  _ \\(_) ___  _ __   ___  ___ _ __ ___    ___  / _|  / _ \\| (___   _____  |_   ______      ___ __  \n | |_) | |/ _ \\| '_ \\ / _ \\/ _ | '__/ __|  / _ \\| |_  | | | | | \\ \\ / / _ \\   | |/ _ \\ \\ /\\ / | '_ \\ \n |  __/| | (_) | | | |  __|  __| |  \\__ \\ | (_) |  _| | |_| | | |\\ V |  __/   | | (_) \\ V  V /| | | |\n |_|   |_|\\___/|_| |_|\\___|\\___|_|  |___/  \\___/|_|    \\___/|_|_| \\_/ \\___|   |_|\\___/ \\_/\\_/ |_| |_|\n\n-------------------------------------------------------------------------------------------------------------------\n\nTitle:      \u7267\u5834\u7269\u8a9e \u30aa\u30ea\u30fc\u30d6\u30bf\u30a6\u30f3\u3068\u5e0c\u671b\u306e\u5927\u5730\n            Story of Seasons: Pioneers of Olive Town Japanese Version\nTitle ID:   010017301007E000\nBuild ID:   1EA294AF01F90F4C\n\n-------------------------------------------------------------------------------------------------------------------\n\nUsage:\n\nDrag'n'Drop the atmosphere and/or sxos Folder to the Root of your Micro SD Card.\n\n-------------------------------------------------------------------------------------------------------------------\n\nAtmosphere Exclusive Cheats\n\n- Row 2 - 4 Items x99\n- Row 2 - 4 Items x999\n- Row 2 - 4 Items Max Quality\n- Box Items x999\n- Animals Max Friedship & Happiness\n\nThere are Instructions how to make them SXOS Compatible.\n\n-------------------------------------------------------------------------------------------------------------------\n\nSlot Modification\n\n1. Enable [/!\\ { Master Item Slot 1 Row 2 } /!\\]\n2. Toggle [Your Item of Choice] On & Off (Only use one at the Time!)\n3. Disable [/!\\ { Master Item Slot 1 Row 2 } /!\\]\n\nIf you try to enable two Cheats at the same Time, your Game will Crash!\nIf you don't disable the Cheat you're canstantly writing the Value 1 to the Amount Address,\nif you then try to change the Amount your Game will also Crash!\n\n-------------------------------------------------------------------------------------------------------------------\n\nAnimals Max Friedship & Happiness\n\nIf you have more/less than 20 Animals / 2 Stables increase/decrease the Hexadecimal Value \"14\"\n\n[(R) Animals Max Friedship & Happiness]\n80000080\n580C0000 04DD44D0\n580C1000 000000B8\n580C1000 00000010\n580C1000 00000018\n580C1000 00000010\n580C1000 00000010\n400F0000 00000000 00000080\n400B0000 00000000 00000084\n300E0000 00000014 <- = 20 Animals / 2 Stables / 14 Hex = 20 Dec\n989DC000\n580D1000 00000030\n640D01F0 00000000 0000012C\n640D01B0 00000000 0000012C\n780C0000 00000008\n310E0000 20000000\n\nFor Up to:\n\n10 Animals / 1 Stable  use 0A     60 Animals /  6 Stables use 3C\n20 Animals / 2 Stables use 14     70 Animals /  7 Stables use 46\n30 Animals / 3 Stables use 1E     80 Animals /  8 Stables use 50\n40 Animals / 4 Stables use 28     90 Animals /  9 Stables use 5A\n50 Animals / 5 Stables use 32    100 Animals / 10 Stables use 64\n\nThe Game looks how many Slots for Animals you have.\nYou can not write a Value to an Address that does not not exist\nor is occupied with something else.\n\nMax Loop Count = Number of Stables with Animals in them x10.\n\nIf you set the Animal Loop Count higher as your Number of Stables, your Game might Crash!\n\nI Tested the Cheat with 50 Animals in 5 Stables.\nFor the best Results buy the Ugraded Stables.\n\n-------------------------------------------------------------------------------------------------------------------\n\n[Box Items x999]\n580C0000 04BBA3C0\n580C1000 00000068\n580C1000 000000C8\n580C1000 000000A8\n580C1000 00000010\n580C1000 00000018\n400F0000 00000000 00000014\n300E0000 00000018\n989DC000\n580D1000 00000030\n640D01F0 00000000 000003E7\n780C0000 00000018\n310E0000 20000000\n\nOpen the Box twice for 24 x 999 Items.\n\n-------------------------------------------------------------------------------------------------------------------\n\nAtmosphere Info\n\nSince only 1024 Opcodes / 128 Cheats are allowed you have to manually add the missing Items.\nI included a .txt File with all Item ID's (Ready to Copy & Paste).\nSimply delete what's below the [/!\\ { Master Item Slot 1 Row 2 } /!\\] Cheat and make your own Collection of Items.\n(Delete Line 232 - 560)\n\n-------------------------------------------------------------------------------------------------------------------\n\nSXOS Info\n\nSXOS's Cheat Engine tends to Enable Cheats on it's own, double Check that only your desired Item is enabled.\n(In my Case it was Gibeon Stone)\n\nIn future Updates i will drop the Support for SXOS.\n\nI'm not willing to convert every Cheat Code anymore.\n\nExample:\n\nLook at the Max Friendship Cheat SXOS -> AMS\n(347 Lines of Code vs 15 Lines of Code)\n\nIt is easy enough to switch to Atmosphere.\n\nI'm not always here to Hand Hold or Spoon Feed you.\n\n- Extract 2 .zip Files to the Root of your SD Card.\n\n- Send fusee-primary.bin with TegraRCM.\n\n- Or rename fusee-primary.bin to payload.bin and Copy it to the Root of your SD Card\n  then use the SX Boot Menu to boot Atmosphere.\n\nTwo simple steps, it can't be that difficult?\n\nhttps://github.com/Atmosphere-NX/Atmosphere/releases/latest -> (download WITHOUT_MESOSPHERE)\nhttps://github.com/ITotalJustice/patches/releases/latest -> (download fusee)\n\nThe following Steps only need to be done once\n\nCheats always On?\n\nGo to Atmosphere/config_templates/system_settings.ini\nor Atmosphere/config/system_settings.ini\n\nChange:\n\n; dmnt_cheats_enabled_by_default = u8!0x1\nor\n; dmnt_cheats_enabled_by_default = u8!0x0\n\nto \n\ndmnt_cheats_enabled_by_default = u8!0x0\n\nCopy system_settings.ini from:\n\nAtmosphere/config_templates/system_settings.ini\n\nto\n\nAtmosphere/config/system_settings.ini\n\nEdizonSE & Tesla Overlay\n\nhttps://github.com/tomvita/EdiZon-SE/releases/latest\nhttps://github.com/WerWolv/Tesla-Menu/releases/latest\nhttps://github.com/WerWolv/nx-ovlloader/releases/latest\nhttps://werwolv.net/downloads/EdiZonOverlay.zip\n\nExtract all Contents to the Root of your Micro SD Card.\n\n(Highlight all .zip Files Press extract here.\nCopy the atmosphere & switch Folder to the Root of your Micro SD Card)\n\nhttps://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/\n\nKeep / Make an SXOS Emunand\n\nUse Hekate to migrate your SXOS Emunand to Atmosphere.\n\nhttps://github.com/CTCaer/hekate/releases/latest\n\nOr Make an 11.0.0 SXOS Emunand just for XCI loading.\n\nXCI's belong anyway only to your External Hard Drive.\n\nThe Effort and Amount of Time it takes to install an XCI / NSP is the same\nas Copying the XCI to your Micro SD Card.\n\nSimply use DBI (Duck Bill Installer)\n\nYou literally only have to Drag'n'Drop your XCI / NSP via MTP Install to you SD Card.\n\nhttps://github.com/rashevskyv/dbi/releases/latest\n\nThe SXOS Cheat Engine is Outdatet and Bugged since 2.9.x. or even longer.\n(I like the RAM Editor though, but Edizon catches up..)\n\n-------------------------------------------------------------------------------------------------------------------\n\nRyujiNX / YUZU Info\n\nI'm not using any Emulator, these Cheats were done for the Switch, so don't expect any Support from me.\n\n-------------------------------------------------------------------------------------------------------------------\n\nGeneral Info\n\nCheats manipulate your Game in a way that was not intended.\nTherefore the Risk of corrupted Saves always remains.\nTo avoid this Problem simply Backup your Saves regularly with JKSV or Checkpoint.\nIn Case something happens, simply revert back to a working State.\n\nYOU and only YOU are Responsible for your Saves.\n\nJKSV\nhttps://github.com/J-D-K/JKSV/releases/latest\n\nCheckpoint\nhttps://github.com/FlagBrew/Checkpoint/releases/latest\n\n-------------------------------------------------------------------------------------------------------------------\n\nAnimals Max Friedship & Happiness\n\n[1st Animal Max Friedship]\n580C0000 04DD44D0\n580C1000 000000B8\n580C1000 00000010\n580C1000 00000018\n580C1000 00000010\n580C1000 00000010\n580C1000 00000030 +8 -> next Animal\n780C0000 00000080\n640C0000 00000000 0000012C\n\n[1st Animal Max Happiness]\n580C0000 04DD44D0\n580C1000 000000B8\n580C1000 00000010\n580C1000 00000018\n580C1000 00000010\n580C1000 00000010\n580C1000 00000030 +8 -> next Animal\n780C0000 00000084\n640C0000 00000000 0000012C\n\nUse the Windows Calculator in Programmer Mode or any DEC to HEX Converter to Calculate the next Offset. (Hex +8)\n\n-------------------------------------------------------------------------------------------------------------------\n\nBox Items x999\n\n[1st Item Box 1 x999]\n580C0000 04BBA3C0\n580C1000 00000068\n580C1000 000000C8\n580C1000 000000A8\n580C1000 00000010\n580C1000 00000018\n580C1000 00000030 +18 Next Item in Box\n780C0000 00000014\n640C0000 00000000 000003E7\n\nUse the Windows Calculator in Programmer Mode or any DEC to HEX Converter to Calculate the next Offset. (Hex +18)\n\n-------------------------------------------------------------------------------------------------------------------\n\nFriendship Cheats\n\nIf you only want to Max out the Friendship of an individual Villager use the following Cheats.\n\n[Max Friendship Angela]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000288\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Beth]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000001F8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Blaire]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000000C0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Bridget]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000000A8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Cindy]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000002A0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Clemens]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000228\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Damon]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000078\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Dosetsu]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000318\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Emilio]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000048\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Georg]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000168\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Gloria]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000138\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Iori]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000030\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Jack]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000060\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Jacopo]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000150\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Jason]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000001B0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Jessie]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000270\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Karina]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000390\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Lars]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000240\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Laura]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000000D8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Linh]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Lovette]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000378\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Manuela]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000002E8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Marcos]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000002D0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Mikey]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000001E0\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Misaki]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000210\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Nguyen]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000002B8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Nigel]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000198\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Norman]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000348\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Patricia]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000180\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Ralph]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000090\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Raul]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000300\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Reina]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000108\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Sally]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000001C8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Sidney]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000360\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Simon]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000258\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship Victor]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000120\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship ???]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 00000330\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n[Max Friendship ???]\n580C0000 0465ADA0\n580C1000 00000040\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000030\n580C1000 00000018\n580C1000 000003A8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n-------------------------------------------------------------------------------------------------------------------\n\nDo not repost my Cheats on Cheatslips!\n\n-------------------------------------------------------------------------------------------------------------------\n\nCredits: Angely, bbhark, crazy_p, IMNoob, Merlin555",

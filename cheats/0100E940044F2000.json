@@ -1,26 +1,14 @@
 {
-    "15B87FDC1D89954C": [
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 0214F7C0\n580F1000 000000B8\n580F1000 00000060\n780F0000 000000B8\n640F0000 00000000 3E500000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Speed UP]\n580F0000 0214F7C0\n580F1000 000000B8\n580F1000 00000060\n780F0000 00000058\n640F0000 00000000 41000000\n\n",
-            "title": "[Speed UP]"
-        },
-        {
-            "content": "[Inf Heart]\n580F0000 0214F7C0\n580F1000 000000B8\n580F1000 00000060\n780F0000 00000238\n640F0000 00000000 0000000B",
-            "title": "[Inf Heart]"
-        }
-    ],
-    "2745FD4AFF073F4E": [
-        {
-            "content": "[Hearts MAX]\n580F0000 0215A218\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000238\n610F0000 00000000 0000000A\n",
-            "title": "[Hearts MAX]"
-        }
-    ],
+    "2745FD4AFF073F4E": {
+        "[Hearts MAX]": "[Hearts MAX]\n580F0000 0215A218\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000238\n610F0000 00000000 0000000A\n\n"
+    },
+    "15B87FDC1D89954C": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 0214F7C0\n580F1000 000000B8\n580F1000 00000060\n780F0000 000000B8\n640F0000 00000000 3E500000\n20000000\n\n",
+        "[Speed UP]": "[Speed UP]\n580F0000 0214F7C0\n580F1000 000000B8\n580F1000 00000060\n780F0000 00000058\n640F0000 00000000 41000000\n\n",
+        "[Inf Heart]": "[Inf Heart]\n580F0000 0214F7C0\n580F1000 000000B8\n580F1000 00000060\n780F0000 00000238\n640F0000 00000000 0000000B\n\n"
+    },
     "attribution": {
-        "Neversong ver 1.0.0 by ZiT and ver 2.0 by merlin555.txt": "\u203b Valid for DATA01 only.",
-        "Neversong ver 1.0.0 by ZiT.txt": "\u203b Valid for DATA01 only."
+        "Neversong ver 1.0.0 by ZiT.txt": "\u203b Valid for DATA01 only.",
+        "Neversong ver 1.0.0 by ZiT and ver 2.0 by merlin555.txt": "\u203b Valid for DATA01 only."
     }
 }

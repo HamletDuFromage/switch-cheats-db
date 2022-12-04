@@ -1,22 +1,10 @@
 {
-    "59D3AEC4B3C1F9C6": [
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 02263DB0\n580F1000 00000000\n580F1000 00000000\n580F1000 00000000\n780F0000 0000000C\n640F0000 00000000 42E00000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Inf HP]\n580F0000 02263DB0\n580F1000 00000000\n580F1000 00000000\n580F1000 00000000\n780F0000 00000030\n680F0000 41200000 41200000\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 02263DB0\n580F1000 00000000\n580F1000 00000000\n580F1000 00000000\n780F0000 00000038\n610F0000 00000000 00000001\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Speed Up]\n580F0000 02263DB0\n580F1000 00000000\n580F1000 00000000\n580F1000 00000000\n780F0000 00000108\n640F0000 00000000 40400000",
-            "title": "[Speed Up]"
-        }
-    ],
+    "59D3AEC4B3C1F9C6": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 02263DB0\n580F1000 00000000\n580F1000 00000000\n580F1000 00000000\n780F0000 0000000C\n640F0000 00000000 42E00000\n20000000\n\n",
+        "[Inf HP]": "[Inf HP]\n580F0000 02263DB0\n580F1000 00000000\n580F1000 00000000\n580F1000 00000000\n780F0000 00000030\n680F0000 41200000 41200000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 02263DB0\n580F1000 00000000\n580F1000 00000000\n580F1000 00000000\n780F0000 00000038\n610F0000 00000000 00000001\n\n",
+        "[Speed Up]": "[Speed Up]\n580F0000 02263DB0\n580F1000 00000000\n580F1000 00000000\n580F1000 00000000\n780F0000 00000108\n640F0000 00000000 40400000\n\n"
+    },
     "attribution": {
         "Mechstermination Force ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
     }

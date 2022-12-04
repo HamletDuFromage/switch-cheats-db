@@ -1,38 +1,14 @@
 {
-    "D89FFAA2062E373D": [
-        {
-            "content": "[enemies don't attack]\n04000000 00D07290 1E27D001\n\n",
-            "title": "[enemies don't attack]"
-        },
-        {
-            "content": "[01# Max Health]\n580F0000 02AAF598\n580F1000 00000060\n580F1000 000000E8\n780F0000 000006D0\n640F0000 00000000 43960000\n\n",
-            "title": "[01# Max Health]"
-        },
-        {
-            "content": "[02# Max Eve]\n580F0000 02AAF598\n580F1000 00000060\n580F1000 000000E8\n780F0000 00000D68\n640F0000 00000000 43480000\n\n",
-            "title": "[02# Max Eve]"
-        },
-        {
-            "content": "[03# Max Money]\n580F0000 02AAF598\n580F1000 00000060\n580F1000 000000E8\n780F0000 00000D5C\n640F0000 00000000 000015B3\n\n",
-            "title": "[03# Max Money]"
-        },
-        {
-            "content": "[04# Max Adam]\n580F0000 02AAF598\n580F1000 00000060\n580F1000 000000E8\n780F0000 00000D64\n640F0000 00000000 000015B3\n\n",
-            "title": "[04# Max Adam]"
-        },
-        {
-            "content": "[05# Max Ammo]\n580F0000 021B6BE8\n580F1000 00000078\n580F1000 000011A8\n780F0000 0000064C\n640F0000 00000000 00000063\n\n",
-            "title": "[05# Max Ammo]"
-        },
-        {
-            "content": "[asm inf health 1p]\n04000000 00A70824 D503201F\n\n",
-            "title": "[asm inf health 1p]"
-        },
-        {
-            "content": "[run speed mod 2x]\n04000000 00CFDDEC 1E201005",
-            "title": "[run speed mod 2x]"
-        }
-    ],
+    "D89FFAA2062E373D": {
+        "[enemies don't attack]": "[enemies don't attack]\n04000000 00D07290 1E27D001\n\n",
+        "[01# Max Health]": "[01# Max Health]\n580F0000 02AAF598\n580F1000 00000060\n580F1000 000000E8\n780F0000 000006D0\n640F0000 00000000 43960000\n\n",
+        "[02# Max Eve]": "[02# Max Eve]\n580F0000 02AAF598\n580F1000 00000060\n580F1000 000000E8\n780F0000 00000D68\n640F0000 00000000 43480000\n\n",
+        "[03# Max Money]": "[03# Max Money]\n580F0000 02AAF598\n580F1000 00000060\n580F1000 000000E8\n780F0000 00000D5C\n640F0000 00000000 000015B3\n\n",
+        "[04# Max Adam]": "[04# Max Adam]\n580F0000 02AAF598\n580F1000 00000060\n580F1000 000000E8\n780F0000 00000D64\n640F0000 00000000 000015B3\n\n",
+        "[05# Max Ammo]": "[05# Max Ammo]\n580F0000 021B6BE8\n580F1000 00000078\n580F1000 000011A8\n780F0000 0000064C\n640F0000 00000000 00000063\n\n",
+        "[asm inf health 1p]": "[asm inf health 1p]\n04000000 00A70824 D503201F\n\n",
+        "[run speed mod 2x]": "[run speed mod 2x]\n04000000 00CFDDEC 1E201005\n\n"
+    },
     "attribution": {
         "BioShock Remastered ver 1.0.2 by xtatu and Patjenova.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
     }

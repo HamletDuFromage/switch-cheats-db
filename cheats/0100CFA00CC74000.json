@@ -1,34 +1,16 @@
 {
-    "5E7CDA9E555594F7": [
-        {
-            "content": "[GOD Mode - Enabled]\n04000000 00065388 52800020\n\n",
-            "title": "[GOD Mode - Enabled]"
-        },
-        {
-            "content": "[GOD Mode - Disabled]\n04000000 00065388 39404100",
-            "title": "[GOD Mode - Disabled]"
-        }
-    ],
-    "7D5566784A94EC45": [
-        {
-            "content": "[GOD Mode - Enabled]\n04000000 00064928 52800020\n\n",
-            "title": "[GOD Mode - Enabled]"
-        },
-        {
-            "content": "[GOD Mode - Disabled]\n04000000 00064928 39404100",
-            "title": "[GOD Mode - Disabled]"
-        }
-    ],
-    "AACC3E192951142C": [
-        {
-            "content": "[GOD Mode - Enabled]\n04000000 00065538 52800020\n\n",
-            "title": "[GOD Mode - Enabled]"
-        },
-        {
-            "content": "[GOD Mode - Disabled]\n04000000 00065538 39404100",
-            "title": "[GOD Mode - Disabled]"
-        }
-    ],
+    "AACC3E192951142C": {
+        "[GOD Mode - Enabled]": "[GOD Mode - Enabled]\n04000000 00065538 52800020\n\n",
+        "[GOD Mode - Disabled]": "[GOD Mode - Disabled]\n04000000 00065538 39404100\n\n"
+    },
+    "5E7CDA9E555594F7": {
+        "[GOD Mode - Enabled]": "[GOD Mode - Enabled]\n04000000 00065388 52800020\n\n",
+        "[GOD Mode - Disabled]": "[GOD Mode - Disabled]\n04000000 00065388 39404100\n\n"
+    },
+    "7D5566784A94EC45": {
+        "[GOD Mode - Enabled]": "[GOD Mode - Enabled]\n04000000 00064928 52800020\n\n",
+        "[GOD Mode - Disabled]": "[GOD Mode - Disabled]\n04000000 00064928 39404100\n\n"
+    },
     "attribution": {
         "Blades of Time v1.2.191015 by DaBlackdeath.txt": "",
         "BladesOfTime.txt": ""

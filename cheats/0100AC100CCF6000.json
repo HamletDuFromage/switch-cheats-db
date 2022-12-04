@@ -1,10 +1,7 @@
 {
-    "2AD1DB30685B030E": [
-        {
-            "content": "[Energy unlimited]\n580F0000 0145D468\n780F1000 00C8F4F8\n640F0000 00000000 403F0000\n",
-            "title": "[Energy unlimited]"
-        }
-    ],
+    "2AD1DB30685B030E": {
+        "[Energy unlimited]": "[Energy unlimited]\n580F0000 0145D468\n780F1000 00C8F4F8\n640F0000 00000000 403F0000\n\n"
+    },
     "attribution": {
         "Cryogear 1.0.1 BY mERLIN555.txt": "",
         "Cryogear c1.0.1 Made by merlin555.txt": ""

@@ -1,126 +1,42 @@
 {
-    "5F13BF9EDD2C1C1A": [
-        {
-            "content": "[60 FPS]\n581F0000 476977E8 \n780F0000 00000F14 \n640F0000 00000000 00000001 \n\n",
-            "title": "[60 FPS]"
-        },
-        {
-            "content": "[30 FPS (Default)]\n581F0000 476977E8 \n780F0000 00000F14 \n640F0000 00000000 00000002 \n\n",
-            "title": "[30 FPS (Default)]"
-        }
-    ],
-    "9BBB7D896E153DA5": [
-        {
-            "content": "[60 FPS]\n580F0000 0BB0F1A0\n780F0000 00006B14\n640F0000 00000000 00000001\n\n",
-            "title": "[60 FPS]"
-        },
-        {
-            "content": "[Default 30 FPS]\n580F0000 0BB0F1A0\n780F0000 00006B14\n640F0000 00000000 00000002\n\n",
-            "title": "[Default 30 FPS]"
-        },
-        {
-            "content": "[Minimize Resolution (Disables D Res)]\n04000000 0A9C3E84 00000000\n\n",
-            "title": "[Minimize Resolution (Disables D Res)]"
-        },
-        {
-            "content": "[Minimize Resolution OFF (Re-enables D Res)]\n14050000 0A9C3E84 00000000\n04000000 0A9C3E84 00000003\n20000000\n",
-            "title": "[Minimize Resolution OFF (Re-enables D Res)]"
-        }
-    ],
-    "C090F63A748D29E8": [
-        {
-            "content": "[60 FPS]\n580F0000 0BA421A0\n780F0000 00006B14\n640F0000 00000000 00000001\n\n",
-            "title": "[60 FPS]"
-        },
-        {
-            "content": "[Default 30 FPS]\n580F0000 0BA421A0\n780F0000 00006B14\n640F0000 00000000 00000002\n\n",
-            "title": "[Default 30 FPS]"
-        },
-        {
-            "content": "[Minimize Resolution (Disables D Res)]\n04000000 0A8FAE74 00000000\n\n",
-            "title": "[Minimize Resolution (Disables D Res)]"
-        },
-        {
-            "content": "[Minimize Resolution OFF (Re-enables D Res)]\n14050000 0A8FAE74 00000000\n04000000 0A8FAE74 00000003\n20000000\n",
-            "title": "[Minimize Resolution OFF (Re-enables D Res)]"
-        }
-    ],
-    "C6901CE5426C704A": [
-        {
-            "content": "[60 FPS]\n580F0000 0BB461A0\n780F0000 00006B14\n640F0000 00000000 00000001\n\n",
-            "title": "[60 FPS]"
-        },
-        {
-            "content": "[Default 30 FPS]\n580F0000 0BB461A0\n780F0000 00006B14\n640F0000 00000000 00000002\n\n",
-            "title": "[Default 30 FPS]"
-        },
-        {
-            "content": "[Minimize Resolution (Disables D Res)]\n04000000 0A9FAE84 00000000\n\n",
-            "title": "[Minimize Resolution (Disables D Res)]"
-        },
-        {
-            "content": "[Minimize Resolution OFF (Re-enables D Res)]\n14050000 0A9FAE84 00000000\n04000000 0A9FAE84 00000003\n20000000\n",
-            "title": "[Minimize Resolution OFF (Re-enables D Res)]"
-        }
-    ],
-    "FD65326219EC426C": [
-        {
-            "content": "{Mastercode}\n040A0000 060DEB00 B9447A60\n040A0000 060DEB04 7100001F\n040A0000 060DEB08 540000C0\n040A0000 060DEB0C 18000182\n040A0000 060DEB10 7100005F\n040A0000 060DEB14 540000E0\n040A0000 060DEB18 1C000108\n040A0000 060DEB1C 14000005\n040A0000 060DEB20 18000102\n040A0000 060DEB24 7100005F\n040A0000 060DEB28 54000040\n040A0000 060DEB2C 1E2E1008\n040A0000 060DEB30 BD04C268\n040A0000 060DEB34 D65F03C0\n040A0000 060DEB38 461C4000\n040A0000 0111B044 953F0EAF\n\n",
-            "title": "{Mastercode}"
-        },
-        {
-            "content": "[01# Can Afford upgrades]\n040A0000 0311DE7C 52800000\n040A0000 0311DE80 D65F03C0\n040A0000 0312B94C 52800000\n040A0000 0312B950 D65F03C0\n040A0000 02A58004 52800000\n040A0000 02A58008 D65F03C0\n040A0000 02A4E4EC 52800000\n040A0000 02A4E4F0 D65F03C0\n\n",
-            "title": "[01# Can Afford upgrades]"
-        },
-        {
-            "content": "[Can Afford upgrades (off)]\n040A0000 0311DE7C F81E0FFE\n040A0000 0311DE80 A9014FF4\n040A0000 0312B94C F81E0FFE\n040A0000 0312B950 A9014FF4\n040A0000 02A58004 F81E0FFE\n040A0000 02A58008 A9014FF4\n040A0000 02A4E4EC F81E0FFE\n040A0000 02A4E4F0 A9014FF4\n\n",
-            "title": "[Can Afford upgrades (off)]"
-        },
-        {
-            "content": "[02# Inf Health]\n040A0000 060DEB3C 00000001\n\n",
-            "title": "[02# Inf Health]"
-        },
-        {
-            "content": "[Inf Health (off)]\n040A0000 060DEB3C 00000000\n\n",
-            "title": "[Inf Health (off)]"
-        },
-        {
-            "content": "[03# Instant Kill]\n040A0000 060DEB40 00000001\n\n",
-            "title": "[03# Instant Kill]"
-        },
-        {
-            "content": "[Instant Kill (off)]\n040A0000 060DEB40 00000000\n\n",
-            "title": "[Instant Kill (off)]"
-        },
-        {
-            "content": "[04# Studs Multiplier]\n040A0000 04E66990 2A0903F3\n040A0000 04E66A60 2A0903F3\n040A0000 04E66A88 2A0903F3\n040A0000 04E66B18 2A0903E0\n\n",
-            "title": "[04# Studs Multiplier]"
-        },
-        {
-            "content": "[Studs Multiplier (off)]\n040A0000 04E66990 1A930133\n040A0000 04E66A60 1A930133\n040A0000 04E66A88 1A930133\n040A0000 04E66818 1A930120\n\n",
-            "title": "[Studs Multiplier (off)]"
-        },
-        {
-            "content": "[05# Inf Race Time]\n040A0000 041766A0 D503201F\n\n",
-            "title": "[05# Inf Race Time]"
-        },
-        {
-            "content": "[Inf Race Time (off)]\n040A0000 041766A0 1E212800\n\n",
-            "title": "[Inf Race Time (off)]"
-        },
-        {
-            "content": "[06# Inf ProtonTorpedo]\n040A0000 01014450 52801A49\n\n",
-            "title": "[06# Inf ProtonTorpedo]"
-        },
-        {
-            "content": "[Inf ProtonTorpedo (off)]\n040A0000 01014450 B9401909\n\n",
-            "title": "[Inf ProtonTorpedo (off)]"
-        },
-        {
-            "content": "[07# Moonjump (Press B)]\n040A0000 0509E158 1E232842\n80000002\n040A0000 0509E158 1E201002\n20000000",
-            "title": "[07# Moonjump (Press B)]"
-        }
-    ],
+    "C090F63A748D29E8": {
+        "[60 FPS]": "[60 FPS]\n580F0000 0BA421A0\n780F0000 00006B14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 0BA421A0\n780F0000 00006B14\n640F0000 00000000 00000002\n\n",
+        "[Minimize Resolution (Disables D Res)]": "[Minimize Resolution (Disables D Res)]\n04000000 0A8FAE74 00000000\n\n",
+        "[Minimize Resolution OFF (Re-enables D Res)]": "[Minimize Resolution OFF (Re-enables D Res)]\n14050000 0A8FAE74 00000000\n04000000 0A8FAE74 00000003\n20000000\n\n"
+    },
+    "C6901CE5426C704A": {
+        "[60 FPS]": "[60 FPS]\n580F0000 0BB461A0\n780F0000 00006B14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 0BB461A0\n780F0000 00006B14\n640F0000 00000000 00000002\n\n",
+        "[Minimize Resolution (Disables D Res)]": "[Minimize Resolution (Disables D Res)]\n04000000 0A9FAE84 00000000\n\n",
+        "[Minimize Resolution OFF (Re-enables D Res)]": "[Minimize Resolution OFF (Re-enables D Res)]\n14050000 0A9FAE84 00000000\n04000000 0A9FAE84 00000003\n20000000\n\n"
+    },
+    "9BBB7D896E153DA5": {
+        "[60 FPS]": "[60 FPS]\n580F0000 0BB0F1A0\n780F0000 00006B14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 0BB0F1A0\n780F0000 00006B14\n640F0000 00000000 00000002\n\n",
+        "[Minimize Resolution (Disables D Res)]": "[Minimize Resolution (Disables D Res)]\n04000000 0A9C3E84 00000000\n\n",
+        "[Minimize Resolution OFF (Re-enables D Res)]": "[Minimize Resolution OFF (Re-enables D Res)]\n14050000 0A9C3E84 00000000\n04000000 0A9C3E84 00000003\n20000000\n\n"
+    },
+    "5F13BF9EDD2C1C1A": {
+        "[60 FPS]": "[60 FPS]\n581F0000 476977E8 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n581F0000 476977E8 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
+    "FD65326219EC426C": {
+        "{Mastercode}": "{Mastercode}\n040A0000 060DEB00 B9447A60\n040A0000 060DEB04 7100001F\n040A0000 060DEB08 540000C0\n040A0000 060DEB0C 18000182\n040A0000 060DEB10 7100005F\n040A0000 060DEB14 540000E0\n040A0000 060DEB18 1C000108\n040A0000 060DEB1C 14000005\n040A0000 060DEB20 18000102\n040A0000 060DEB24 7100005F\n040A0000 060DEB28 54000040\n040A0000 060DEB2C 1E2E1008\n040A0000 060DEB30 BD04C268\n040A0000 060DEB34 D65F03C0\n040A0000 060DEB38 461C4000\n040A0000 0111B044 953F0EAF\n\n",
+        "[01# Can Afford upgrades]": "[01# Can Afford upgrades]\n040A0000 0311DE7C 52800000\n040A0000 0311DE80 D65F03C0\n040A0000 0312B94C 52800000\n040A0000 0312B950 D65F03C0\n040A0000 02A58004 52800000\n040A0000 02A58008 D65F03C0\n040A0000 02A4E4EC 52800000\n040A0000 02A4E4F0 D65F03C0\n\n",
+        "[Can Afford upgrades (off)]": "[Can Afford upgrades (off)]\n040A0000 0311DE7C F81E0FFE\n040A0000 0311DE80 A9014FF4\n040A0000 0312B94C F81E0FFE\n040A0000 0312B950 A9014FF4\n040A0000 02A58004 F81E0FFE\n040A0000 02A58008 A9014FF4\n040A0000 02A4E4EC F81E0FFE\n040A0000 02A4E4F0 A9014FF4\n\n",
+        "[02# Inf Health]": "[02# Inf Health]\n040A0000 060DEB3C 00000001\n\n",
+        "[Inf Health (off)]": "[Inf Health (off)]\n040A0000 060DEB3C 00000000\n\n",
+        "[03# Instant Kill]": "[03# Instant Kill]\n040A0000 060DEB40 00000001\n\n",
+        "[Instant Kill (off)]": "[Instant Kill (off)]\n040A0000 060DEB40 00000000\n\n",
+        "[04# Studs Multiplier]": "[04# Studs Multiplier]\n040A0000 04E66990 2A0903F3\n040A0000 04E66A60 2A0903F3\n040A0000 04E66A88 2A0903F3\n040A0000 04E66B18 2A0903E0\n\n",
+        "[Studs Multiplier (off)]": "[Studs Multiplier (off)]\n040A0000 04E66990 1A930133\n040A0000 04E66A60 1A930133\n040A0000 04E66A88 1A930133\n040A0000 04E66818 1A930120\n\n",
+        "[05# Inf Race Time]": "[05# Inf Race Time]\n040A0000 041766A0 D503201F\n\n",
+        "[Inf Race Time (off)]": "[Inf Race Time (off)]\n040A0000 041766A0 1E212800\n\n",
+        "[06# Inf ProtonTorpedo]": "[06# Inf ProtonTorpedo]\n040A0000 01014450 52801A49\n\n",
+        "[Inf ProtonTorpedo (off)]": "[Inf ProtonTorpedo (off)]\n040A0000 01014450 B9401909\n\n",
+        "[07# Moonjump (Press B)]": "[07# Moonjump (Press B)]\n040A0000 0509E158 1E232842\n80000002\n040A0000 0509E158 1E201002\n20000000\n\n"
+    },
     "attribution": {
         "LEGO Star Wars The Skywalker Saga ver 1.0.3 by patjenova.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
     }

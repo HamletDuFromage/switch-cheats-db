@@ -1,46 +1,16 @@
 {
-    "EE81FDF68D947BDE": [
-        {
-            "content": "[Inf Lives]\n011F0000 7A0702A0 00000008\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Inf Barrier]\n011F0000 7A0700B5 00000020\n\n",
-            "title": "[Inf Barrier]"
-        },
-        {
-            "content": "[Invincible]\n011F0000 7A070800 00000001\n011F0000 7A07080A 00000002\n011F0000 7A070819 00000000\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Speed Up]\n011F0000 7A07080E 00000006\n\n",
-            "title": "[Speed Up]"
-        },
-        {
-            "content": "[Constant Missile]\n011F0000 7A070825 00000001\n\n",
-            "title": "[Constant Missile]"
-        },
-        {
-            "content": "[Constant Laser]\n011F0000 7A070827 00000002\n\n",
-            "title": "[Constant Laser]"
-        },
-        {
-            "content": "[Inf 5 Coins (Hold L)]\n80000040\n011F0000 7A0702AC 00000005\n20000000\n\n",
-            "title": "[Inf 5 Coins (Hold L)]"
-        },
-        {
-            "content": "[Inf 6 Coins (Hold R)]\n80000080\n011F0000 7A0702AC 00000006\n20000000\n\n",
-            "title": "[Inf 6 Coins (Hold R)]"
-        },
-        {
-            "content": "[hitanywhere]\n021f0000 7a01f514 00002060\n021f0000 7a01f720 00001a60\n\n",
-            "title": "[hitanywhere]"
-        },
-        {
-            "content": "[Get Items From Anywhere]\n021f0000 7a019444 0000714e\n021f0000 7a019458 0000714e",
-            "title": "[Get Items From Anywhere]"
-        }
-    ],
+    "EE81FDF68D947BDE": {
+        "[Inf Lives]": "[Inf Lives]\n011F0000 7A0702A0 00000008\n\n",
+        "[Inf Barrier]": "[Inf Barrier]\n011F0000 7A0700B5 00000020\n\n",
+        "[Invincible]": "[Invincible]\n011F0000 7A070800 00000001\n011F0000 7A07080A 00000002\n011F0000 7A070819 00000000\n\n",
+        "[Speed Up]": "[Speed Up]\n011F0000 7A07080E 00000006\n\n",
+        "[Constant Missile]": "[Constant Missile]\n011F0000 7A070825 00000001\n\n",
+        "[Constant Laser]": "[Constant Laser]\n011F0000 7A070827 00000002\n\n",
+        "[Inf 5 Coins (Hold L)]": "[Inf 5 Coins (Hold L)]\n80000040\n011F0000 7A0702AC 00000005\n20000000\n\n",
+        "[Inf 6 Coins (Hold R)]": "[Inf 6 Coins (Hold R)]\n80000080\n011F0000 7A0702AC 00000006\n20000000\n\n",
+        "[hitanywhere]": "[hitanywhere]\n021f0000 7a01f514 00002060\n021f0000 7a01f720 00001a60\n\n",
+        "[Get Items From Anywhere]": "[Get Items From Anywhere]\n021f0000 7a019444 0000714e\n021f0000 7a019458 0000714e\n\n"
+    },
     "attribution": {
         "Arcade Archives GRADIUS ver 1.0.0 by ZiT and xtatu.txt": "\u203b Valid for DATA01 only."
     }

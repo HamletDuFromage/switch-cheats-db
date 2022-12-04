@@ -1,20 +1,11 @@
 {
-    "8A1DF79432172B4D": [
-        {
-            "content": "[30 FPS Default]\n580F0000 054FF508\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
-            "title": "[30 FPS Default]"
-        },
-        {
-            "content": "[60 FPS]\n580F0000 054FF508\n780F0000 00000F14\n640F0000 00000000 00000001",
-            "title": "[60 FPS]"
-        }
-    ],
-    "9D1C31C1E9270643": [
-        {
-            "content": "[60 FPS]\n580F0000 053D49C8\n780F0000 00000F14\n640F0000 00000000 00000001",
-            "title": "[60 FPS]"
-        }
-    ],
+    "9D1C31C1E9270643": {
+        "[60 FPS]": "[60 FPS]\n580F0000 053D49C8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n"
+    },
+    "8A1DF79432172B4D": {
+        "[30 FPS Default]": "[30 FPS Default]\n580F0000 054FF508\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 054FF508\n780F0000 00000F14\n640F0000 00000000 00000001\n\n"
+    },
     "attribution": {
         "Cris Tales 1.01 by Cucholix.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"
     }

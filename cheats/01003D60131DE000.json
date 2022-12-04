@@ -1,80 +1,26 @@
 {
-    "5D37985FFD683D9A": [
-        {
-            "content": "[HP 999 by jhmiller]\n04000000 0262A280 52807CE0 \n\n",
-            "title": "[HP 999 by jhmiller]"
-        },
-        {
-            "content": "[HP 999 Off by jhmiller]\n04000000 0262A280 2A0103E0 \n\n",
-            "title": "[HP 999 Off by jhmiller]"
-        },
-        {
-            "content": "[Coins x4 by jhmiller]\n04000000 0274F010 8B336908 \n\n",
-            "title": "[Coins x4 by jhmiller]"
-        },
-        {
-            "content": "[Coins x4 Off by jhmiller]\n04000000 0274F010 8B334108 \n\n",
-            "title": "[Coins x4 Off by jhmiller]"
-        },
-        {
-            "content": "[Coins No decrease by jhmiller]\n04000000 0274DAA4 51000100 \n\n",
-            "title": "[Coins No decrease by jhmiller]"
-        },
-        {
-            "content": "[Coins No decrease Off by jhmiller]\n04000000 0274DAA4 4B010100 \n\n",
-            "title": "[Coins No decrease Off by jhmiller]"
-        },
-        {
-            "content": "[MP Inf by jhmiller]\n04000000 02637A40 D503201F \n\n",
-            "title": "[MP Inf by jhmiller]"
-        },
-        {
-            "content": "[MP Inf Off by jhmiller]\n04000000 02637A40 BD02AA60 \n\n",
-            "title": "[MP Inf Off by jhmiller]"
-        },
-        {
-            "content": "[Magic Ingredients No Decrease by jhmiller]\n04000000 0274DADC D503201F \n\n",
-            "title": "[Magic Ingredients No Decrease by jhmiller]"
-        },
-        {
-            "content": "[Magic Ingredients No Decrease Off by jhmiller]\n04000000 0274DADC B9001408 \n\n",
-            "title": "[Magic Ingredients No Decrease Off by jhmiller]"
-        },
-        {
-            "content": "[Special Inf by jhmiller]\n04000000 0263A6C4 D503201F \n\n",
-            "title": "[Special Inf by jhmiller]"
-        },
-        {
-            "content": "[Special Inf Off by jhmiller]\n04000000 0263A6C4 BD02AA60 \n",
-            "title": "[Special Inf Off by jhmiller]"
-        }
-    ],
-    "AA9F5136791936A7": [
-        {
-            "content": "[HP 999]\n04000000 014C5360 52807CE0\n\n",
-            "title": "[HP 999]"
-        },
-        {
-            "content": "[HP Off]\n04000000 014C5360 2A0103E0\n\n",
-            "title": "[HP Off]"
-        },
-        {
-            "content": "[Coins x4]\n04000000 015872E0 8B336908\n\n",
-            "title": "[Coins x4]"
-        },
-        {
-            "content": "[Coins x4 Off]\n04000000 015872E0 8B334108\n\n",
-            "title": "[Coins x4 Off]"
-        },
-        {
-            "content": "[Coins No decrease]\n04000000 01585AA4 51000100\n\n",
-            "title": "[Coins No decrease]"
-        },
-        {
-            "content": "[Coins No decrease Off]\n04000000 01585AA4 4B010100\n\n",
-            "title": "[Coins No decrease Off]"
-        }
-    ],
+    "AA9F5136791936A7": {
+        "[HP 999]": "[HP 999]\n04000000 014C5360 52807CE0\n\n",
+        "[HP Off]": "[HP Off]\n04000000 014C5360 2A0103E0\n\n",
+        "[Coins x4]": "[Coins x4]\n04000000 015872E0 8B336908\n\n",
+        "[Coins x4 Off]": "[Coins x4 Off]\n04000000 015872E0 8B334108\n\n",
+        "[Coins No decrease]": "[Coins No decrease]\n04000000 01585AA4 51000100\n\n",
+        "[Coins No decrease Off]": "[Coins No decrease Off]\n04000000 01585AA4 4B010100\n\n"
+    },
+    "5D37985FFD683D9A": {
+        "[HP 999 by jhmiller]": "[HP 999 by jhmiller]\n04000000 0262A280 52807CE0\n\n",
+        "[HP 999 Off by jhmiller]": "[HP 999 Off by jhmiller]\n04000000 0262A280 2A0103E0\n\n",
+        "[Coins x4 by jhmiller]": "[Coins x4 by jhmiller]\n04000000 0274F010 8B336908\n\n",
+        "[Coins x4 Off by jhmiller]": "[Coins x4 Off by jhmiller]\n04000000 0274F010 8B334108\n\n",
+        "[Coins No decrease by jhmiller]": "[Coins No decrease by jhmiller]\n04000000 0274DAA4 51000100\n\n",
+        "[Coins No decrease Off by jhmiller]": "[Coins No decrease Off by jhmiller]\n04000000 0274DAA4 4B010100\n\n",
+        "[MP Inf by jhmiller]": "[MP Inf by jhmiller]\n04000000 02637A40 D503201F\n\n",
+        "[MP Inf Off by jhmiller]": "[MP Inf Off by jhmiller]\n04000000 02637A40 BD02AA60\n\n",
+        "[Magic Ingredients No Decrease by jhmiller]": "[Magic Ingredients No Decrease by jhmiller]\n04000000 0274DADC D503201F\n\n",
+        "[Magic Ingredients No Decrease Off by jhmiller]": "[Magic Ingredients No Decrease Off by jhmiller]\n04000000 0274DADC B9001408\n\n",
+        "[Special Inf by jhmiller]": "[Special Inf by jhmiller]\n04000000 0263A6C4 D503201F\n\n",
+        "[Special Inf Off by jhmiller]": "[Special Inf Off by jhmiller]\n04000000 0263A6C4 BD02AA60\n\n"
+    },
     "attribution": {
         "Labyrinth Legend ver 1.0.0 by jhmiller.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"
     }

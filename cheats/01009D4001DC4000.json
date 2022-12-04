@@ -1,20 +1,8 @@
 {
-    "CE31F943F1E25699": [
-        {
-            "content": "[P1 Infinite HP]\n04000000 0123F40C 0000C0C0\n\n",
-            "title": "[P1 Infinite HP]"
-        },
-        {
-            "content": "[P1 Maximum Power]\n04000000 0123FE16 00DF00DF\n\n",
-            "title": "[P1 Maximum Power]"
-        },
-        {
-            "content": "[P2 NO HP]\n04000000 0123F50C 00000000\n\n",
-            "title": "[P2 NO HP]"
-        },
-        {
-            "content": "[P2 NO Maximum Power]\n04000000 0123FF16 00000000",
-            "title": "[P2 NO Maximum Power]"
-        }
-    ]
+    "CE31F943F1E25699": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n04000000 0123F40C 0000C0C0\n\n",
+        "[P1 Maximum Power]": "[P1 Maximum Power]\n04000000 0123FE16 00DF00DF\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n04000000 0123F50C 00000000\n\n",
+        "[P2 NO Maximum Power]": "[P2 NO Maximum Power]\n04000000 0123FF16 00000000\n\n"
+    }
 }

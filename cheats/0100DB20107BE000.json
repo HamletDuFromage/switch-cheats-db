@@ -1,18 +1,9 @@
 {
-    "3AC8A3DB96D5D843": [
-        {
-            "content": "[Disable Code]\n04000000 001F0668 E202154B\n\n",
-            "title": "[Disable Code]"
-        },
-        {
-            "content": "[Item / Gold / Chests not decreasing]\n04000000 001F0668 510002E2\n\n",
-            "title": "[Item / Gold / Chests not decreasing]"
-        },
-        {
-            "content": "[999 Item / Gold / Chest at Use / Buy]\n04000000 001F0668 52807CE2",
-            "title": "[999 Item / Gold / Chest at Use / Buy]"
-        }
-    ],
+    "3AC8A3DB96D5D843": {
+        "[Disable Code]": "[Disable Code]\n04000000 001F0668 E202154B\n\n",
+        "[Item / Gold / Chests not decreasing]": "[Item / Gold / Chests not decreasing]\n04000000 001F0668 510002E2\n\n",
+        "[999 Item / Gold / Chest at Use / Buy]": "[999 Item / Gold / Chest at Use / Buy]\n04000000 001F0668 52807CE2\n\n"
+    },
     "attribution": {
         "Boulder Dash 30th Anniversary v1.0 by DaBlackDeath.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
     }

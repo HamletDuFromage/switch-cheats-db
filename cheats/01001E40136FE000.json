@@ -1,10 +1,7 @@
 {
-    "67FCF2133C80E746": [
-        {
-            "content": "[*Inf Time Jericoss]\n580F0000 02CED718\n580F1000 000000B8\n580F1000 00000018\n580F1000 00000020\n780F0000 00000094\n640F0000 00000000 41000000\n\n\n\n",
-            "title": "[*Inf Time Jericoss]"
-        }
-    ],
+    "67FCF2133C80E746": {
+        "[*Inf Time Jericoss]": "[*Inf Time Jericoss]\n580F0000 02CED718\n580F1000 000000B8\n580F1000 00000018\n580F1000 00000020\n780F0000 00000094\n640F0000 00000000 41000000\n\n"
+    },
     "attribution": {
         "Spinny's Journey ver 1.0.1 by jericoss.txt": "Ammo 255 don't always work. The other two seems to be consistent"
     }

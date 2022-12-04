@@ -1,62 +1,23 @@
 {
-    "73C01D12EC628195": [
-        {
-            "content": "[Character HP]\n02000000 00D24B94 00001027\n04000000 00D24BC4 10271027\n\n",
-            "title": "[Character HP]"
-        },
-        {
-            "content": "[Crazy jump (ZL+B)]\n80000102\n04000000 00C48BF4 00000000\n20000000\n\n",
-            "title": "[Crazy jump (ZL+B)]"
-        },
-        {
-            "content": "[Inf Money]\n04000000 00d22540 0001869F\n04000000 00d23990 0001869F\n\n",
-            "title": "[Inf Money]"
-        },
-        {
-            "content": "[hitanywhere]\n04000000 00571580 D65F03C0\n\n",
-            "title": "[hitanywhere]"
-        },
-        {
-            "content": "[inf mp]\n520F0000 00D24BCC\nA2F00400 00D24BCE\n\n",
-            "title": "[inf mp]"
-        },
-        {
-            "content": "[inf hp (max -> cur)]\n520F0000 00D24BC4\nA2F00400 00D24B94\n\n",
-            "title": "[inf hp (max -> cur)]"
-        },
-        {
-            "content": "[(PRESS L STICK) Enter Hero Mode]\n80000010\n02000000 00D24B94 00000095\n02000000 00D24BC6 00000095\n04000000 00D24BC8 00950095\n01000000 00D249F1 00000001\n02000000 00D249F4 00000DDD\n20000000\n\n",
-            "title": "[(PRESS L STICK) Enter Hero Mode]"
-        },
-        {
-            "content": "[Enter Hero Mode Always]\n02000000 00D24B94 00000095\n02000000 00D24BC6 00000095\n04000000 00D24BC8 00950095\n01000000 00D249F1 00000001\n02000000 00D249F4 00000DDD\n\n\n",
-            "title": "[Enter Hero Mode Always]"
-        },
-        {
-            "content": "[Hero Mode No Expiration]\n11050000 02D15E70 00000002\n02000000 00D249F4 00000DDD\n20000000\n\n",
-            "title": "[Hero Mode No Expiration]"
-        },
-        {
-            "content": "[*Crazy Speed Jericoss]\n80000002\n04000000 00C48BF8 00000000\n20000000\n\n",
-            "title": "[*Crazy Speed Jericoss]"
-        },
-        {
-            "content": "[hitanywhere all weapon]\n04000000 00569630 D503201F\n\n",
-            "title": "[hitanywhere all weapon]"
-        }
-    ],
-    "7AEABB797C931714": [
-        {
-            "content": "[hitanywhere all weapon on]\n04000000 00569630 D503201F\n\n",
-            "title": "[hitanywhere all weapon on]"
-        },
-        {
-            "content": "[hitanywhere all weapon off]\n04000000 00569630 72001C1F",
-            "title": "[hitanywhere all weapon off]"
-        }
-    ],
+    "7AEABB797C931714": {
+        "[hitanywhere all weapon on]": "[hitanywhere all weapon on]\n04000000 00569630 D503201F\n\n",
+        "[hitanywhere all weapon off]": "[hitanywhere all weapon off]\n04000000 00569630 72001C1F\n\n"
+    },
+    "73C01D12EC628195": {
+        "[Character HP]": "[Character HP]\n02000000 00D24B94 00001027\n04000000 00D24BC4 10271027\n\n",
+        "[Crazy jump (ZL+B)]": "[Crazy jump (ZL+B)]\n80000102\n04000000 00C48BF4 00000000\n20000000\n\n",
+        "[Inf Money]": "[Inf Money]\n04000000 00d22540 0001869F\n04000000 00d23990 0001869F\n\n",
+        "[hitanywhere]": "[hitanywhere]\n04000000 00571580 D65F03C0\n\n",
+        "[inf mp]": "[inf mp]\n520F0000 00D24BCC\nA2F00400 00D24BCE\n\n",
+        "[inf hp (max -> cur)]": "[inf hp (max -> cur)]\n520F0000 00D24BC4\nA2F00400 00D24B94\n\n",
+        "[(PRESS L STICK) Enter Hero Mode]": "[(PRESS L STICK) Enter Hero Mode]\n80000010\n02000000 00D24B94 00000095\n02000000 00D24BC6 00000095\n04000000 00D24BC8 00950095\n01000000 00D249F1 00000001\n02000000 00D249F4 00000DDD\n20000000\n\n",
+        "[Enter Hero Mode Always]": "[Enter Hero Mode Always]\n02000000 00D24B94 00000095\n02000000 00D24BC6 00000095\n04000000 00D24BC8 00950095\n01000000 00D249F1 00000001\n02000000 00D249F4 00000DDD\n\n",
+        "[Hero Mode No Expiration]": "[Hero Mode No Expiration]\n11050000 02D15E70 00000002\n02000000 00D249F4 00000DDD\n20000000\n\n",
+        "[*Crazy Speed Jericoss]": "[*Crazy Speed Jericoss]\n80000002\n04000000 00C48BF8 00000000\n20000000\n\n",
+        "[hitanywhere all weapon]": "[hitanywhere all weapon]\n04000000 00569630 D503201F\n\n"
+    },
     "attribution": {
-        "NINJA GAIDEN \u03a3 by Tomswitch and xtatu and Jericoss ver 1.0.2 by xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",
-        "NINJA GAIDEN \u03a3 ver 1.0.1 by DaBlachDeath and Patjenova Matias3ds xtatu gamerjin Hazerou.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+        "NINJA GAIDEN \u03a3 ver 1.0.1 by DaBlachDeath and Patjenova Matias3ds xtatu gamerjin Hazerou.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",
+        "NINJA GAIDEN \u03a3 by Tomswitch and xtatu and Jericoss ver 1.0.2 by xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }
 }

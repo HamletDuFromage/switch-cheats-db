@@ -1,18 +1,9 @@
 {
-    "8728EFBC0732AA2F": [
-        {
-            "content": "[Credits Collected after battle by jhmiller]\n04000000 0046C984 000F423F\n\n",
-            "title": "[Credits Collected after battle by jhmiller]"
-        },
-        {
-            "content": "[No Reload by jhmiller]\n580F0000 0046CA80\n580F1000 00000000\n580F1000 00000000\n580F1000 00000648\n780F0000 000000B8\n640F0000 00000000 41A00000\n\n",
-            "title": "[No Reload by jhmiller]"
-        },
-        {
-            "content": "[Special by jhmiller]\n580F0000 0046CA80\n580F1000 00000000\n580F1000 00000000\n580F1000 00000470\n780F0000 000000A0\n640F0000 00000000 00000003",
-            "title": "[Special by jhmiller]"
-        }
-    ],
+    "8728EFBC0732AA2F": {
+        "[Credits Collected after battle by jhmiller]": "[Credits Collected after battle by jhmiller]\n04000000 0046C984 000F423F\n\n",
+        "[No Reload by jhmiller]": "[No Reload by jhmiller]\n580F0000 0046CA80\n580F1000 00000000\n580F1000 00000000\n580F1000 00000648\n780F0000 000000B8\n640F0000 00000000 41A00000\n\n",
+        "[Special by jhmiller]": "[Special by jhmiller]\n580F0000 0046CA80\n580F1000 00000000\n580F1000 00000000\n580F1000 00000470\n780F0000 000000A0\n640F0000 00000000 00000003\n\n"
+    },
     "attribution": {
         "Jydge ver 1.1.0 by jhmiller.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }

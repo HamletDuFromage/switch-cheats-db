@@ -1,14 +1,8 @@
 {
-    "D37C29F215A33A45": [
-        {
-            "content": "[Starfish 9999999]\n041F0000 00B317F0 0098967F\n\n",
-            "title": "[Starfish 9999999]"
-        },
-        {
-            "content": "[moncoin 99999]\n041F0000 00B31858 0000270F",
-            "title": "[moncoin 99999]"
-        }
-    ],
+    "D37C29F215A33A45": {
+        "[Starfish 9999999]": "[Starfish 9999999]\n041F0000 00B317F0 0098967F\n\n",
+        "[moncoin 99999]": "[moncoin 99999]\n041F0000 00B31858 0000270F\n\n"
+    },
     "attribution": {
         "HEROLAND by Brynthomas80.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
     }

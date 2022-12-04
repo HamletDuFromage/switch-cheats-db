@@ -1,18 +1,9 @@
 {
-    "B1891931C1EBA942": [
-        {
-            "content": "[Shield unlimited]\n580F0000 0228A6E0\n780F1000 00000DD8\n610F0000 00000000 00000005\n\n",
-            "title": "[Shield unlimited]"
-        },
-        {
-            "content": "[Laser unlimited]\n580F0000 02286EC8\n780F1000 00000F90\n610F0000 00000000 000000FF\n\n",
-            "title": "[Laser unlimited]"
-        },
-        {
-            "content": "[Coins MAX]\n580F0000 02280000\n780F1000 000009D4\n620F0000 00000000 000003E7\n",
-            "title": "[Coins MAX]"
-        }
-    ],
+    "B1891931C1EBA942": {
+        "[Shield unlimited]": "[Shield unlimited]\n580F0000 0228A6E0\n780F1000 00000DD8\n610F0000 00000000 00000005\n\n",
+        "[Laser unlimited]": "[Laser unlimited]\n580F0000 02286EC8\n780F1000 00000F90\n610F0000 00000000 000000FF\n\n",
+        "[Coins MAX]": "[Coins MAX]\n580F0000 02280000\n780F1000 000009D4\n620F0000 00000000 000003E7\n\n"
+    },
     "attribution": {
         "Read first Flying Girl Striker v1.0.0 by merlin555.txt": "The addresses are dynamic, but sometimes work.\nDelete Savegame first !"
     }

@@ -1,69 +1,24 @@
 {
-    "3614F40345BDBDAA": [
-        {
-            "content": "{Master code cave}\n08000000 0335FF00 BD030020 BD415820\n08000000 0335FF08 179CC435 BD430020\n08000000 0335FF10 BD030660 BD415E60\n08000000 0335FF18 179CC43A BD430660\n08000000 0335FF30 D2800C6A 00000000\n08000000 0335FF38 D65F03C0 A902AD0A\n\n",
-            "title": "{Master code cave}"
-        },
-        {
-            "content": "[Inf Hp]\n04000000 01A90FDC 14633BC9\n\n",
-            "title": "[Inf Hp]"
-        },
-        {
-            "content": "[Inf Hp Off]\n04000000 01A90FDC BD430020\n\n",
-            "title": "[Inf Hp Off]"
-        },
-        {
-            "content": "[Inf Mp]\n04000000 01A91000 14633BC4\n\n",
-            "title": "[Inf Mp]"
-        },
-        {
-            "content": "[Inf Mp off]\n04000000 01A91000 BD430660\n\n",
-            "title": "[Inf Mp off]"
-        },
-        {
-            "content": "[16x exp]\n04000000 01829BB4 0B091108\n\n",
-            "title": "[16x exp]"
-        },
-        {
-            "content": "[Can Always use Comsic Action v4]\n04000000 01A94AA0 52800C88\n04000000 01A94C10 52800C88\n\n",
-            "title": "[Can Always use Comsic Action v4]"
-        },
-        {
-            "content": "[inf CA off]\n04000000 01A94AA0 B9430A68\n04000000 01A94C10 B9430A68\n\n",
-            "title": "[inf CA off]"
-        },
-        {
-            "content": "[can always use stat orb]\n04000000 01948C08 52800D40\n\n",
-            "title": "[can always use stat orb]"
-        },
-        {
-            "content": "[always have SP to spend]\n04000000 01797AC8 528D2DC8\n\n",
-            "title": "[always have SP to spend]"
-        },
-        {
-            "content": "[Inf Focus pts(summons included)]\n04000000 01BDA93C 52800153\n\n",
-            "title": "[Inf Focus pts(summons included)]"
-        },
-        {
-            "content": "[Inf Focus pts off]\n04000000 01BDA93C B9409013\n\n",
-            "title": "[Inf Focus pts off]"
-        },
-        {
-            "content": "[MAX Item (ZR)]\n04000000 0307580C A902AD0A\n80000200\n04000000 0307580C 940BA9CA\n20000000",
-            "title": "[MAX Item (ZR)]"
-        }
-    ],
-    "AFC57887C8397A84": [
-        {
-            "content": "[30 fps]\n580F0000 052AFF30\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
-            "title": "[30 fps]"
-        },
-        {
-            "content": "[60 fps (default)]\n580F0000 052AFF30\n780F0000 00000F14\n640F0000 00000000 00000001\n",
-            "title": "[60 fps (default)]"
-        }
-    ],
+    "AFC57887C8397A84": {
+        "[30 fps]": "[30 fps]\n580F0000 052AFF30\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+        "[60 fps (default)]": "[60 fps (default)]\n580F0000 052AFF30\n780F0000 00000F14\n640F0000 00000000 00000001\n\n"
+    },
     "attribution": {
         "Astria Ascending 1.0.132 by Gamerjin.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+    },
+    "3614F40345BDBDAA": {
+        "{Master code cave}": "{Master code cave}\n08000000 0335FF00 BD030020 BD415820\n08000000 0335FF08 179CC435 BD430020\n08000000 0335FF10 BD030660 BD415E60\n08000000 0335FF18 179CC43A BD430660\n08000000 0335FF30 D2800C6A 00000000\n08000000 0335FF38 D65F03C0 A902AD0A\n\n",
+        "[Inf Hp]": "[Inf Hp]\n04000000 01A90FDC 14633BC9\n\n",
+        "[Inf Hp Off]": "[Inf Hp Off]\n04000000 01A90FDC BD430020\n\n",
+        "[Inf Mp]": "[Inf Mp]\n04000000 01A91000 14633BC4\n\n",
+        "[Inf Mp off]": "[Inf Mp off]\n04000000 01A91000 BD430660\n\n",
+        "[16x exp]": "[16x exp]\n04000000 01829BB4 0B091108\n\n",
+        "[Can Always use Comsic Action v4]": "[Can Always use Comsic Action v4]\n04000000 01A94AA0 52800C88\n04000000 01A94C10 52800C88\n\n",
+        "[inf CA off]": "[inf CA off]\n04000000 01A94AA0 B9430A68\n04000000 01A94C10 B9430A68\n\n",
+        "[can always use stat orb]": "[can always use stat orb]\n04000000 01948C08 52800D40\n\n",
+        "[always have SP to spend]": "[always have SP to spend]\n04000000 01797AC8 528D2DC8\n\n",
+        "[Inf Focus pts(summons included)]": "[Inf Focus pts(summons included)]\n04000000 01BDA93C 52800153\n\n",
+        "[Inf Focus pts off]": "[Inf Focus pts off]\n04000000 01BDA93C B9409013\n\n",
+        "[MAX Item (ZR)]": "[MAX Item (ZR)]\n04000000 0307580C A902AD0A\n80000200\n04000000 0307580C 940BA9CA\n20000000\n\n"
     }
 }

@@ -1,26 +1,11 @@
 {
-    "E6784F640B1CDFF9": [
-        {
-            "content": "[Infinite Lives ignore icon display]\n01000000 00b5aefd 00000001\n\n",
-            "title": "[Infinite Lives ignore icon display]"
-        },
-        {
-            "content": "[INF TIME L PAD ON]\n80000040\n04000000 00765B80 D65F03C0\n20000000\n\n",
-            "title": "[INF TIME L PAD ON]"
-        },
-        {
-            "content": "[INF TIME R PAD OFF]\n80000080\n04000000 00765B80 FC190FEA\n20000000\n\n",
-            "title": "[INF TIME R PAD OFF]"
-        },
-        {
-            "content": "[AUTO WIN]\n04000000 0137FA00 D65F03C0\n\n",
-            "title": "[AUTO WIN]"
-        },
-        {
-            "content": "[AUTO WIN OFF]\n04000000 0137FA00 D102C3FF\n\n",
-            "title": "[AUTO WIN OFF]"
-        }
-    ],
+    "E6784F640B1CDFF9": {
+        "[Infinite Lives ignore icon display]": "[Infinite Lives ignore icon display]\n01000000 00b5aefd 00000001\n\n",
+        "[INF TIME L PAD ON]": "[INF TIME L PAD ON]\n80000040\n04000000 00765B80 D65F03C0\n20000000\n\n",
+        "[INF TIME R PAD OFF]": "[INF TIME R PAD OFF]\n80000080\n04000000 00765B80 FC190FEA\n20000000\n\n",
+        "[AUTO WIN]": "[AUTO WIN]\n04000000 0137FA00 D65F03C0\n\n",
+        "[AUTO WIN OFF]": "[AUTO WIN OFF]\n04000000 0137FA00 D102C3FF\n\n"
+    },
     "attribution": {
         "WarioWare Get It Together! Infinite Lives by optanic and xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }

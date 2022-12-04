@@ -1,38 +1,14 @@
 {
-    "B5E50E20DEA65D80": [
-        {
-            "content": "[p[Gold Max]\n040F0000 0088DAD8 0098967F\n\n",
-            "title": "[p[Gold Max]"
-        },
-        {
-            "content": "[Life MAX]\n040F0000 0088B9C4 270F0000\n\n",
-            "title": "[Life MAX]"
-        },
-        {
-            "content": "[Power MAX]\n040F0000 0088B9C8 270F0000\n\n",
-            "title": "[Power MAX]"
-        },
-        {
-            "content": "[Robustness & Hit MAX]\n040F0000 0088B9CC 270F270F\n\n",
-            "title": "[Robustness & Hit MAX]"
-        },
-        {
-            "content": "[Avoidance MAX]\n040F0000 0088B9D0 270F0000\n\n",
-            "title": "[Avoidance MAX]"
-        },
-        {
-            "content": "[Intelligence MAX]\n040F0000 0088B9D4 0000270F\n\n",
-            "title": "[Intelligence MAX]"
-        },
-        {
-            "content": "[Loyalty MAX]\n040F0000 0088B9E8 00000000\n040F0000 0088B9EC 00000064\n040F0000 0088B9F0 00000065\n\n",
-            "title": "[Loyalty MAX]"
-        },
-        {
-            "content": "[Grade Max]\n010F0000 0088BB08 00000005",
-            "title": "[Grade Max]"
-        }
-    ],
+    "B5E50E20DEA65D80": {
+        "[p[Gold Max]": "[p[Gold Max]\n040F0000 0088DAD8 0098967F\n\n",
+        "[Life MAX]": "[Life MAX]\n040F0000 0088B9C4 270F0000\n\n",
+        "[Power MAX]": "[Power MAX]\n040F0000 0088B9C8 270F0000\n\n",
+        "[Robustness & Hit MAX]": "[Robustness & Hit MAX]\n040F0000 0088B9CC 270F270F\n\n",
+        "[Avoidance MAX]": "[Avoidance MAX]\n040F0000 0088B9D0 270F0000\n\n",
+        "[Intelligence MAX]": "[Intelligence MAX]\n040F0000 0088B9D4 0000270F\n\n",
+        "[Loyalty MAX]": "[Loyalty MAX]\n040F0000 0088B9E8 00000000\n040F0000 0088B9EC 00000064\n040F0000 0088B9F0 00000065\n\n",
+        "[Grade Max]": "[Grade Max]\n010F0000 0088BB08 00000005\n\n"
+    },
     "attribution": {
         "Monster Farm by ZiT866.txt": "[Golden Axe Full Potions]\n11050000 030fa83a 00000000\n01000000 030fa839 00000006\n20000000\n11050000 030fa83a 00000001\n01000000 030fa839 00000009\n20000000\n11050000 030fa83a 00000002\n01000000 030fa839 00000004\n20000000\n\n[Golden Axe Infinite HP]\n01000000 030fa837 00000050\n\n[Golden Axe 2 Full Potions]\n11050000 030eb162 00000001\n01000000 030eb23b 00000005\n20000000\n11050000 030eb162 00000002\n01000000 030eb23b 00000008\n20000000\n11050000 030eb162 00000003\n01000000 030eb23b 00000004\n20000000\n\n[Golden Axe 2 Infinite HP]\n01000000 030eb1f7 00000005\n\n[Golden Axe 3 Full Potions]\n01000000 030f729d 00000006\n\n[Golden Axe 3 Infinite HP]\n01000000 030f729f 00000033\n\nusa\n\n[Golden Axe Full Potions]\n11050000 030fa82a 00000000\n01000000 030fa829 00000006\n20000000\n11050000 030fa82a 00000001\n01000000 030fa829 00000009\n20000000\n11050000 030fa82a 00000002\n01000000 030fa829 00000004\n20000000\n\n[Golden Axe Infinite HP]\n01000000 030fa827 00000050\n\n[Golden Axe 2 Full Potions]\n11050000 030eb152 00000001\n01000000 030eb22b 00000005\n20000000\n11050000 030eb152 00000002\n01000000 030eb22b 00000008\n20000000\n11050000 030eb152 00000003\n01000000 030eb22b 00000004\n20000000\n\n[Golden Axe 2 Infinite HP]\n01000000 030eb1e7 00000005\n\n[Golden Axe 3 Full Potions]\n01000000 030f728d 00000006\n\n[Golden Axe 3 Infinite HP]\n01000000 030f728f 00000033\n"
     }

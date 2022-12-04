@@ -1,54 +1,13 @@
 {
-    "E2611F3937023235": [
-        {
-            "content": "[Moon Jump]\n80010002\n040F0000 00D74C54 BFB00000\n040F0000 00D74C58 3FD00000\n20000000\n80040002\n040F0000 00D74C54 3FB00000\n040F0000 00D74C58 3FD00000\n20000000\n80000002\n040F0000 00D74C58 3FD00000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Inf Life]\n040F0000 00D74CD0 00000004\n\n",
-            "title": "[Inf Life]"
-        },
-        {
-            "content": "[Speed Up]\n040F0000 00D74CD4 3FB00000\n\n",
-            "title": "[Speed Up]"
-        },
-        {
-            "content": "[Inf Lives]\n040F0000 04CBE078 00000001\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Time Stop]\n010F0000 04CBE08F 00000000\n\n",
-            "title": "[Time Stop]"
-        },
-        {
-            "content": "[Moon Jump]\n80010002\n040F0000 00D74C54 BFB00000\n040F0000 00D74C58 3FD00000\n20000000\n80040002\n040F0000 00D74C54 3FB00000\n040F0000 00D74C58 3FD00000\n20000000\n80000002\n040F0000 00D74C58 3FD00000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Inf Life]\n040F0000 00D74CD0 00000004\n\n",
-            "title": "[Inf Life]"
-        },
-        {
-            "content": "[Speed Up]\n040F0000 00D74CD4 3FB00000\n\n",
-            "title": "[Speed Up]"
-        },
-        {
-            "content": "[Invincible]\n010F0000 00D74C30 000000DC\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf Lives]\n040F0000 04CBE078 00000001\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Time Stop]\n010F0000 04CBE08F 00000000\n\n",
-            "title": "[Time Stop]"
-        },
-        {
-            "content": "[Max Combo]\n80000100\n010F0000 04CBE0C6 00000064\n20000000\n",
-            "title": "[Max Combo]"
-        }
-    ],
+    "E2611F3937023235": {
+        "[Moon Jump]": "[Moon Jump]\n80010002\n040F0000 00D74C54 BFB00000\n040F0000 00D74C58 3FD00000\n20000000\n80040002\n040F0000 00D74C54 3FB00000\n040F0000 00D74C58 3FD00000\n20000000\n80000002\n040F0000 00D74C58 3FD00000\n20000000\n\n",
+        "[Inf Life]": "[Inf Life]\n040F0000 00D74CD0 00000004\n\n",
+        "[Speed Up]": "[Speed Up]\n040F0000 00D74CD4 3FB00000\n\n",
+        "[Inf Lives]": "[Inf Lives]\n040F0000 04CBE078 00000001\n\n",
+        "[Time Stop]": "[Time Stop]\n010F0000 04CBE08F 00000000\n\n",
+        "[Invincible]": "[Invincible]\n010F0000 00D74C30 000000DC\n\n",
+        "[Max Combo]": "[Max Combo]\n80000100\n010F0000 04CBE0C6 00000064\n20000000\n\n"
+    },
     "attribution": {
         "Prinny\u00ac Can I Really Be the Hero  ver 1.0.0 by ZiT.txt": ""
     }

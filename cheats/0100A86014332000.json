@@ -1,50 +1,17 @@
 {
-    "0ADF2CFA6CA22A81": [
-        {
-            "content": "[Breeze beta28 Transiruby 1.0.5 TID: 0100A86014332000 BID: 0ADF2CFA6CA22A81]\n\n",
-            "title": "[Breeze beta28 Transiruby 1.0.5 TID: 0100A86014332000 BID: 0ADF2CFA6CA22A81]"
-        },
-        {
-            "content": "[HP Inf]\n04000000 02D6CF00 F100043F\n04000000 02D6CF04 54000040\n04000000 02D6CF08 4B010108\n04000000 02D6CF0C D65F03C0\n04000000 019F7A0C 944DD53D\n\n",
-            "title": "[HP Inf]"
-        },
-        {
-            "content": "[HP Inf Off]\n04000000 019F7A0C 4B010108\n\n",
-            "title": "[HP Inf Off]"
-        },
-        {
-            "content": "[EP No Decrease]\n04000000 019F70A8 2A0803E1\n\n",
-            "title": "[EP No Decrease]"
-        },
-        {
-            "content": "[EP No Decrease Off]\n04000000 019F70A8 71002901\n\n",
-            "title": "[EP No Decrease Off]"
-        },
-        {
-            "content": "[Made by jhmiller]\n00000000 00000000 00000000\n",
-            "title": "[Made by jhmiller]"
-        }
-    ],
-    "9E0B8DE6C9132EF8": [
-        {
-            "content": "[HP Inf]\n04000000 02D59F00 F100043F\n04000000 02D59F04 54000040\n04000000 02D59F08 4B010108\n04000000 02D59F0C D65F03C0\n04000000 02C25908 9404D17E\n\n",
-            "title": "[HP Inf]"
-        },
-        {
-            "content": "[HP Inf Off]\n04000000 02C25908 4B010108\n\n",
-            "title": "[HP Inf Off]"
-        },
-        {
-            "content": "[EP No Decrease]\n04000000 02C24E58 2A0803E1\n\n",
-            "title": "[EP No Decrease]"
-        },
-        {
-            "content": "[EP No Decrease Off]\n04000000 02C24E58 71002901\n\n",
-            "title": "[EP No Decrease Off]"
-        },
-        {
-            "content": "[Made by jhmiller]\n00000000 00000000 00000000\n",
-            "title": "[Made by jhmiller]"
-        }
-    ]
+    "9E0B8DE6C9132EF8": {
+        "[HP Inf]": "[HP Inf]\n04000000 02D59F00 F100043F\n04000000 02D59F04 54000040\n04000000 02D59F08 4B010108\n04000000 02D59F0C D65F03C0\n04000000 02C25908 9404D17E\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 02C25908 4B010108\n\n",
+        "[EP No Decrease]": "[EP No Decrease]\n04000000 02C24E58 2A0803E1\n\n",
+        "[EP No Decrease Off]": "[EP No Decrease Off]\n04000000 02C24E58 71002901\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    },
+    "0ADF2CFA6CA22A81": {
+        "[Breeze beta28 Transiruby 1.0.5 TID: 0100A86014332000 BID: 0ADF2CFA6CA22A81]": "[Breeze beta28 Transiruby 1.0.5 TID: 0100A86014332000 BID: 0ADF2CFA6CA22A81]\n\n",
+        "[HP Inf]": "[HP Inf]\n04000000 02D6CF00 F100043F\n04000000 02D6CF04 54000040\n04000000 02D6CF08 4B010108\n04000000 02D6CF0C D65F03C0\n04000000 019F7A0C 944DD53D\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 019F7A0C 4B010108\n\n",
+        "[EP No Decrease]": "[EP No Decrease]\n04000000 019F70A8 2A0803E1\n\n",
+        "[EP No Decrease Off]": "[EP No Decrease Off]\n04000000 019F70A8 71002901\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
 }

@@ -1,67 +1,29 @@
 {
-    "3FFE0E20EC5360DA": [
-        {
-            "content": "[Infinite health]\n041F0000 5AF9A940 44A70000\n\n",
-            "title": "[Infinite health]"
-        },
-        {
-            "content": "[Infinite Money]\n041F0000 5AF9A928 3B9AC99C",
-            "title": "[Infinite Money]"
-        }
-    ],
-    "5AEE4A11A2391D4D": [
-        {
-            "content": "[01# Inf health]\n04100000 5A99A940 44FA0000\n\n",
-            "title": "[01# Inf health]"
-        },
-        {
-            "content": "[02# Max Money]\n04100000 5A99A928 3B9AC99C\n\n",
-            "title": "[02# Max Money]"
-        },
-        {
-            "content": "[03# No reload]\n580F0000 06E0F770\n780F0000 000001D4\n640F0000 00000000 0000000A\n\n",
-            "title": "[03# No reload]"
-        },
-        {
-            "content": "[04# 999 ammo]\n580F0000 08850C88\n580F1000 000001AC\n780F0000 00000020\n640F0000 00000000 000003E7\n\n",
-            "title": "[04# 999 ammo]"
-        },
-        {
-            "content": "[05# 999 Clusters]\n580F0000 08D26D80\n580F1000 00000664\n580F1000 000007A0\n780F0000 000004A4\n640F0000 00000000 000003E7\n\n",
-            "title": "[05# 999 Clusters]"
-        },
-        {
-            "content": "[06# Max XP]\n580F0000 08D26D80\n580F1000 0000046C\n780F0000 000001BC\n640F0000 00000000 00044C96",
-            "title": "[06# Max XP]"
-        }
-    ],
-    "E601D29108935CBA": [
-        {
-            "content": "[01# Inf health]\n04100000 5A99A940 44FA0000\n\n",
-            "title": "[01# Inf health]"
-        },
-        {
-            "content": "[02# Max Money]\n04100000 5A99A928 3B9AC99C\n\n",
-            "title": "[02# Max Money]"
-        },
-        {
-            "content": "[03# No reload]\n580F0000 06E0F770\n780F0000 000001D4\n640F0000 00000000 0000000A\n\n",
-            "title": "[03# No reload]"
-        },
-        {
-            "content": "[04# 999 ammo]\n580F0000 08850C88\n580F1000 000001AC\n780F0000 00000020\n640F0000 00000000 000003E7\n\n",
-            "title": "[04# 999 ammo]"
-        },
-        {
-            "content": "[05# 999 Clusters]\n580F0000 08D27180\n580F1000 00000664\n580F1000 000007A0\n780F0000 000004A4\n640F0000 00000000 000003E7\n\n",
-            "title": "[05# 999 Clusters]"
-        },
-        {
-            "content": "[06# Max XP]\n580F0000 08D27180\n580F1000 0000046C\n780F0000 000001BC\n640F0000 00000000 00044C96",
-            "title": "[06# Max XP]"
-        }
-    ],
+    "D9BE4EFEE8168234": {
+        "[Default 60 FPS]": "[Default 60 FPS]\n580F0000 06B3C118\n580F1000 00000118\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 06B3C118\n580F1000 00000118\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
     "attribution": {
         "Saints Row 4 ver 1.0 and 1.1 by wiitendo84 ver 1.4 Patjenova.txt": "Not valid for mini games"
+    },
+    "E601D29108935CBA": {
+        "[01# Inf health]": "[01# Inf health]\n04100000 5A99A940 44FA0000\n\n",
+        "[02# Max Money]": "[02# Max Money]\n04100000 5A99A928 3B9AC99C\n\n",
+        "[03# No reload]": "[03# No reload]\n580F0000 06E0F770\n780F0000 000001D4\n640F0000 00000000 0000000A\n\n",
+        "[04# 999 ammo]": "[04# 999 ammo]\n580F0000 08850C88\n580F1000 000001AC\n780F0000 00000020\n640F0000 00000000 000003E7\n\n",
+        "[05# 999 Clusters]": "[05# 999 Clusters]\n580F0000 08D27180\n580F1000 00000664\n580F1000 000007A0\n780F0000 000004A4\n640F0000 00000000 000003E7\n\n",
+        "[06# Max XP]": "[06# Max XP]\n580F0000 08D27180\n580F1000 0000046C\n780F0000 000001BC\n640F0000 00000000 00044C96\n\n"
+    },
+    "5AEE4A11A2391D4D": {
+        "[01# Inf health]": "[01# Inf health]\n04100000 5A99A940 44FA0000\n\n",
+        "[02# Max Money]": "[02# Max Money]\n04100000 5A99A928 3B9AC99C\n\n",
+        "[03# No reload]": "[03# No reload]\n580F0000 06E0F770\n780F0000 000001D4\n640F0000 00000000 0000000A\n\n",
+        "[04# 999 ammo]": "[04# 999 ammo]\n580F0000 08850C88\n580F1000 000001AC\n780F0000 00000020\n640F0000 00000000 000003E7\n\n",
+        "[05# 999 Clusters]": "[05# 999 Clusters]\n580F0000 08D26D80\n580F1000 00000664\n580F1000 000007A0\n780F0000 000004A4\n640F0000 00000000 000003E7\n\n",
+        "[06# Max XP]": "[06# Max XP]\n580F0000 08D26D80\n580F1000 0000046C\n780F0000 000001BC\n640F0000 00000000 00044C96\n\n"
+    },
+    "3FFE0E20EC5360DA": {
+        "[Infinite health]": "[Infinite health]\n041F0000 5AF9A940 44A70000\n\n",
+        "[Infinite Money]": "[Infinite Money]\n041F0000 5AF9A928 3B9AC99C\n\n"
     }
 }

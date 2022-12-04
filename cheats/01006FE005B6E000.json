@@ -1,80 +1,26 @@
 {
-    "7EF14F11EA37D414": [
-        {
-            "content": "[P1 Infinite Health]\n580f0000 027C2FA8\n580f1000 00000098\n580f1000 000000a8\n780f0000 00000254\n640f0000 00000000 41f00000\n\n",
-            "title": "[P1 Infinite Health]"
-        },
-        {
-            "content": "[P2 Infinite Health]\n580f0000 027C2FA8\n580f1000 00000098\n580f1000 000000b0\n780f0000 00000254\n640f0000 00000000 41f00000\n\n",
-            "title": "[P2 Infinite Health]"
-        },
-        {
-            "content": "[Infinite Stars]\n580f0000 027C3230\n580f1000 00000098\n780f0000 0000001e\n610f0000 00000000 00000009\n\n",
-            "title": "[Infinite Stars]"
-        },
-        {
-            "content": "[Infinite Lasers]\n580f0000 027C3230\n580f1000 00000098\n780f0000 00000040\n610f0000 00000000 00000005\n580f0000 027c34b0\n580f1000 00000098\n780f0000 00000038\n640f0000 00000000 40c00000\n\n",
-            "title": "[Infinite Lasers]"
-        },
-        {
-            "content": "[Infinite Mega Bombs]\n580f0000 027C3230\n580f1000 00000098\n780f0000 00000044\n610f0000 00000000 00000009\n\n",
-            "title": "[Infinite Mega Bombs]"
-        },
-        {
-            "content": "[Infinite Shields]\n580f0000 027C3230\n580f1000 00000098\n780f0000 00000048\n620f0000 00000000 0000270f\n580f0000 027c34b0\n580f1000 00000098\n780f0000 0000007c\n620f0000 00000000 0000270f",
-            "title": "[Infinite Shields]"
-        }
-    ],
-    "98ABC1AFA513404A": [
-        {
-            "content": "[P1 Infinite Health]\n580f0000 027D4800\n580f1000 00000098\n580f1000 000000a8\n780f0000 00000254\n640f0000 00000000 41f00000\n\n",
-            "title": "[P1 Infinite Health]"
-        },
-        {
-            "content": "[P2 Infinite Health]\n580f0000 027D4800\n580f1000 00000098\n580f1000 000000b0\n780f0000 00000254\n640f0000 00000000 41f00000\n\n",
-            "title": "[P2 Infinite Health]"
-        },
-        {
-            "content": "[Infinite Stars]\n580f0000 027D4B28\n580f1000 00000098\n780f0000 0000001e\n610f0000 00000000 00000009\n\n",
-            "title": "[Infinite Stars]"
-        },
-        {
-            "content": "[Infinite Lasers]\n580f0000 027D4B28\n580f1000 00000098\n780f0000 00000040\n610f0000 00000000 00000005\n580f0000 027D4DA0\n580f1000 00000098\n780f0000 00000038\n640f0000 00000000 40c00000\n\n",
-            "title": "[Infinite Lasers]"
-        },
-        {
-            "content": "[Infinite Mega Bombs]\n580f0000 027D4B28\n580f1000 00000098\n780f0000 00000044\n610f0000 00000000 00000009\n\n",
-            "title": "[Infinite Mega Bombs]"
-        },
-        {
-            "content": "[Infinite Shields]\n580f0000 027D4B28\n580f1000 00000098\n780f0000 00000048\n620f0000 00000000 0000270f\n580f0000 027D4DA0\n580f1000 00000098\n780f0000 0000007c\n620f0000 00000000 0000270f",
-            "title": "[Infinite Shields]"
-        }
-    ],
-    "F35D3DF7CC780649": [
-        {
-            "content": "[P1 Infinite Health]\n580f0000 030C8C50\n580f1000 000000a0\n580f1000 000000a8\n780f0000 00000254\n640f0000 00000000 41f00000\n\n",
-            "title": "[P1 Infinite Health]"
-        },
-        {
-            "content": "[P2 Infinite Health]\n580f0000 030C8C50\n580f1000 000000a0\n580f1000 000000b0\n780f0000 00000254\n640f0000 00000000 41f00000\n\n",
-            "title": "[P2 Infinite Health]"
-        },
-        {
-            "content": "[Infinite Stars]\n580f0000 030C8F70\n580f1000 000000a0\n780f0000 0000001e\n610f0000 00000000 00000009\n\n",
-            "title": "[Infinite Stars]"
-        },
-        {
-            "content": "[Infinite Lasers]\n580f0000 030C8F70\n580f1000 000000a0\n780f0000 00000040\n610f0000 00000000 00000005\n580f0000 030c91e8\n580f1000 000000a0\n780f0000 00000038\n640f0000 00000000 40c00000\n\n",
-            "title": "[Infinite Lasers]"
-        },
-        {
-            "content": "[Infinite Mega Bombs]\n580f0000 030C8F70\n580f1000 000000a0\n780f0000 00000044\n610f0000 00000000 00000009\n\n",
-            "title": "[Infinite Mega Bombs]"
-        },
-        {
-            "content": "[Infinite Shields]\n580f0000 030C8F70\n580f1000 000000a0\n780f0000 00000048\n610f0000 00000000 00000009\n580f0000 030c91e8\n580f1000 000000a0\n780f0000 0000007c\n640f0000 00000000 40c00000",
-            "title": "[Infinite Shields]"
-        }
-    ]
+    "F35D3DF7CC780649": {
+        "[P1 Infinite Health]": "[P1 Infinite Health]\n580f0000 030C8C50\n580f1000 000000a0\n580f1000 000000a8\n780f0000 00000254\n640f0000 00000000 41f00000\n\n",
+        "[P2 Infinite Health]": "[P2 Infinite Health]\n580f0000 030C8C50\n580f1000 000000a0\n580f1000 000000b0\n780f0000 00000254\n640f0000 00000000 41f00000\n\n",
+        "[Infinite Stars]": "[Infinite Stars]\n580f0000 030C8F70\n580f1000 000000a0\n780f0000 0000001e\n610f0000 00000000 00000009\n\n",
+        "[Infinite Lasers]": "[Infinite Lasers]\n580f0000 030C8F70\n580f1000 000000a0\n780f0000 00000040\n610f0000 00000000 00000005\n580f0000 030c91e8\n580f1000 000000a0\n780f0000 00000038\n640f0000 00000000 40c00000\n\n",
+        "[Infinite Mega Bombs]": "[Infinite Mega Bombs]\n580f0000 030C8F70\n580f1000 000000a0\n780f0000 00000044\n610f0000 00000000 00000009\n\n",
+        "[Infinite Shields]": "[Infinite Shields]\n580f0000 030C8F70\n580f1000 000000a0\n780f0000 00000048\n610f0000 00000000 00000009\n580f0000 030c91e8\n580f1000 000000a0\n780f0000 0000007c\n640f0000 00000000 40c00000\n\n"
+    },
+    "7EF14F11EA37D414": {
+        "[P1 Infinite Health]": "[P1 Infinite Health]\n580f0000 027C2FA8\n580f1000 00000098\n580f1000 000000a8\n780f0000 00000254\n640f0000 00000000 41f00000\n\n",
+        "[P2 Infinite Health]": "[P2 Infinite Health]\n580f0000 027C2FA8\n580f1000 00000098\n580f1000 000000b0\n780f0000 00000254\n640f0000 00000000 41f00000\n\n",
+        "[Infinite Stars]": "[Infinite Stars]\n580f0000 027C3230\n580f1000 00000098\n780f0000 0000001e\n610f0000 00000000 00000009\n\n",
+        "[Infinite Lasers]": "[Infinite Lasers]\n580f0000 027C3230\n580f1000 00000098\n780f0000 00000040\n610f0000 00000000 00000005\n580f0000 027c34b0\n580f1000 00000098\n780f0000 00000038\n640f0000 00000000 40c00000\n\n",
+        "[Infinite Mega Bombs]": "[Infinite Mega Bombs]\n580f0000 027C3230\n580f1000 00000098\n780f0000 00000044\n610f0000 00000000 00000009\n\n",
+        "[Infinite Shields]": "[Infinite Shields]\n580f0000 027C3230\n580f1000 00000098\n780f0000 00000048\n620f0000 00000000 0000270f\n580f0000 027c34b0\n580f1000 00000098\n780f0000 0000007c\n620f0000 00000000 0000270f\n\n"
+    },
+    "98ABC1AFA513404A": {
+        "[P1 Infinite Health]": "[P1 Infinite Health]\n580f0000 027D4800\n580f1000 00000098\n580f1000 000000a8\n780f0000 00000254\n640f0000 00000000 41f00000\n\n",
+        "[P2 Infinite Health]": "[P2 Infinite Health]\n580f0000 027D4800\n580f1000 00000098\n580f1000 000000b0\n780f0000 00000254\n640f0000 00000000 41f00000\n\n",
+        "[Infinite Stars]": "[Infinite Stars]\n580f0000 027D4B28\n580f1000 00000098\n780f0000 0000001e\n610f0000 00000000 00000009\n\n",
+        "[Infinite Lasers]": "[Infinite Lasers]\n580f0000 027D4B28\n580f1000 00000098\n780f0000 00000040\n610f0000 00000000 00000005\n580f0000 027D4DA0\n580f1000 00000098\n780f0000 00000038\n640f0000 00000000 40c00000\n\n",
+        "[Infinite Mega Bombs]": "[Infinite Mega Bombs]\n580f0000 027D4B28\n580f1000 00000098\n780f0000 00000044\n610f0000 00000000 00000009\n\n",
+        "[Infinite Shields]": "[Infinite Shields]\n580f0000 027D4B28\n580f1000 00000098\n780f0000 00000048\n620f0000 00000000 0000270f\n580f0000 027D4DA0\n580f1000 00000098\n780f0000 0000007c\n620f0000 00000000 0000270f\n\n"
+    }
 }

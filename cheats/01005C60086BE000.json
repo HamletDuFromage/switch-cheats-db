@@ -1,74 +1,18 @@
 {
-    "EAD37D36ABD7C4C8": [
-        {
-            "content": "[mmx inf hp]\n580F0000 02519240\n780F0000 00001CF7\n610F0000 00000000 00000010\n\n",
-            "title": "[mmx inf hp]"
-        },
-        {
-            "content": "[mmx2 inf hp]\n580F0000 02519240\n780F0000 00001B27\n610F0000 00000000 00000010\n\n",
-            "title": "[mmx2 inf hp]"
-        },
-        {
-            "content": "[mmx 3 inf hp]\n580F0000 02519240\n780F0000 00001B27\n610F0000 00000000 00000010\n\n",
-            "title": "[mmx 3 inf hp]"
-        },
-        {
-            "content": "[mmx4 inf hp]\n580F0000 025A9FC0\n780F0000 00000B78\n610F0000 00000000 00000020\n\n",
-            "title": "[mmx4 inf hp]"
-        },
-        {
-            "content": "[mmx inf hp]\n580F0000 02519240\n780F0000 00001CF7\n610F0000 00000000 00000010\n\n",
-            "title": "[mmx inf hp]"
-        },
-        {
-            "content": "[mmx rapid fire]\n580F0000 02519240\n780F0000 00001D04\n640F0000 00000000 00000000\n\n",
-            "title": "[mmx rapid fire]"
-        },
-        {
-            "content": "[mmx invincible]\n580F0000 02519240\n780F0000 00001D3B\n610F0000 00000000 00000028\n\n",
-            "title": "[mmx invincible]"
-        },
-        {
-            "content": "[mmx auto chargeball]\n580F0000 02519240\n780F0000 00001D28\n640F0000 00000000 02010004\n\n",
-            "title": "[mmx auto chargeball]"
-        },
-        {
-            "content": "[mmx2 inf hp]\n580F0000 02519240\n780F0000 00001B27\n610F0000 00000000 00000010\n\n",
-            "title": "[mmx2 inf hp]"
-        },
-        {
-            "content": "[mmx2 invincible]\n580F0000 02519240\n780F0000 00001B6B\n610F0000 00000000 00000018\n\n",
-            "title": "[mmx2 invincible]"
-        },
-        {
-            "content": "[mmx 3 inf hp]\n580F0000 02519240\n780F0000 00001B27\n610F0000 00000000 00000010\n\n",
-            "title": "[mmx 3 inf hp]"
-        },
-        {
-            "content": "[mmx3 invincible]\n580F0000 02519240\n780F0000 00001B6B\n610F0000 00000000 00000018\n\n",
-            "title": "[mmx3 invincible]"
-        },
-        {
-            "content": "[mmx4 inf hp]\n580F0000 025A9FC0\n780F0000 00000B78\n610F0000 00000000 00000020\n\n",
-            "title": "[mmx4 inf hp]"
-        },
-        {
-            "content": "[mmx4 invincible]\n580F0000 025A9FC0\n780F0000 00000B88\n640F0000 00000000 42480000\n\n",
-            "title": "[mmx4 invincible]"
-        },
-        {
-            "content": "[inf health]\n04000000 0003e8ff20 09ffAD00\n\n",
-            "title": "[inf health]"
-        },
-        {
-            "content": "[hitanywhere]\n04000000 0003ec57bc 2408D865\n04000000 0003ec5adc ADAA7F29\n04000000 0003ec5430 08A56002\n\n",
-            "title": "[hitanywhere]"
-        },
-        {
-            "content": "[hitanywhere]\n04000000 0003e24bac 032404cc\n",
-            "title": "[hitanywhere]"
-        }
-    ],
+    "EAD37D36ABD7C4C8": {
+        "[mmx inf hp]": "[mmx inf hp]\n580F0000 02519240\n780F0000 00001CF7\n610F0000 00000000 00000010\n\n",
+        "[mmx2 inf hp]": "[mmx2 inf hp]\n580F0000 02519240\n780F0000 00001B27\n610F0000 00000000 00000010\n\n",
+        "[mmx 3 inf hp]": "[mmx 3 inf hp]\n580F0000 02519240\n780F0000 00001B27\n610F0000 00000000 00000010\n\n",
+        "[mmx4 inf hp]": "[mmx4 inf hp]\n580F0000 025A9FC0\n780F0000 00000B78\n610F0000 00000000 00000020\n\n",
+        "[mmx rapid fire]": "[mmx rapid fire]\n580F0000 02519240\n780F0000 00001D04\n640F0000 00000000 00000000\n\n",
+        "[mmx invincible]": "[mmx invincible]\n580F0000 02519240\n780F0000 00001D3B\n610F0000 00000000 00000028\n\n",
+        "[mmx auto chargeball]": "[mmx auto chargeball]\n580F0000 02519240\n780F0000 00001D28\n640F0000 00000000 02010004\n\n",
+        "[mmx2 invincible]": "[mmx2 invincible]\n580F0000 02519240\n780F0000 00001B6B\n610F0000 00000000 00000018\n\n",
+        "[mmx3 invincible]": "[mmx3 invincible]\n580F0000 02519240\n780F0000 00001B6B\n610F0000 00000000 00000018\n\n",
+        "[mmx4 invincible]": "[mmx4 invincible]\n580F0000 025A9FC0\n780F0000 00000B88\n640F0000 00000000 42480000\n\n",
+        "[inf health]": "[inf health]\n04000000 0003e8ff20 09ffAD00\n\n",
+        "[hitanywhere]": "[hitanywhere]\n04000000 0003e24bac 032404cc\n\n"
+    },
     "attribution": {
         "Mega Man X Legacy Collection BY ARISMENDY64.txt": "[Golden Axe Full Potions]\n11050000 030fa83a 00000000\n01000000 030fa839 00000006\n20000000\n11050000 030fa83a 00000001\n01000000 030fa839 00000009\n20000000\n11050000 030fa83a 00000002\n01000000 030fa839 00000004\n20000000\n\n[Golden Axe Infinite HP]\n01000000 030fa837 00000050\n\n[Golden Axe 2 Full Potions]\n11050000 030eb162 00000001\n01000000 030eb23b 00000005\n20000000\n11050000 030eb162 00000002\n01000000 030eb23b 00000008\n20000000\n11050000 030eb162 00000003\n01000000 030eb23b 00000004\n20000000\n\n[Golden Axe 2 Infinite HP]\n01000000 030eb1f7 00000005\n\n[Golden Axe 3 Full Potions]\n01000000 030f729d 00000006\n\n[Golden Axe 3 Infinite HP]\n01000000 030f729f 00000033\n\nusa\n\n[Golden Axe Full Potions]\n11050000 030fa82a 00000000\n01000000 030fa829 00000006\n20000000\n11050000 030fa82a 00000001\n01000000 030fa829 00000009\n20000000\n11050000 030fa82a 00000002\n01000000 030fa829 00000004\n20000000\n\n[Golden Axe Infinite HP]\n01000000 030fa827 00000050\n\n[Golden Axe 2 Full Potions]\n11050000 030eb152 00000001\n01000000 030eb22b 00000005\n20000000\n11050000 030eb152 00000002\n01000000 030eb22b 00000008\n20000000\n11050000 030eb152 00000003\n01000000 030eb22b 00000004\n20000000\n\n[Golden Axe 2 Infinite HP]\n01000000 030eb1e7 00000005\n\n[Golden Axe 3 Full Potions]\n01000000 030f728d 00000006\n\n[Golden Axe 3 Infinite HP]\n01000000 030f728f 00000033\n"
     }

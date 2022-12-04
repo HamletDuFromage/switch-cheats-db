@@ -1,20 +1,8 @@
 {
-    "60798EAF949E504C": [
-        {
-            "content": "[Breeze beta42 Forgotton Anne 1.0.0 TID: 010059E00B93C000 BID: 60798EAF949E504C]\n\n",
-            "title": "[Breeze beta42 Forgotton Anne 1.0.0 TID: 010059E00B93C000 BID: 60798EAF949E504C]"
-        },
-        {
-            "content": "[Left - Arca Empty]\n80001000 \n580F0000 0314D090 \n580F1000 000000A0 \n580F1000 00000000 \n780F0000 0000001C \n640F0000 00000000 00000000 \n20000000 \n\n",
-            "title": "[Left - Arca Empty]"
-        },
-        {
-            "content": "[Right - Arca Full]\n80004000 \n580F0000 0314D090 \n580F1000 000000A0 \n580F1000 00000000 \n780F0000 0000001C \n640F0000 00000000 00000064 \n20000000 \n\n",
-            "title": "[Right - Arca Full]"
-        },
-        {
-            "content": "[Made by jhmiller]\n00000000 00000000 00000000\n",
-            "title": "[Made by jhmiller]"
-        }
-    ]
+    "60798EAF949E504C": {
+        "[Breeze beta42 Forgotton Anne 1.0.0 TID: 010059E00B93C000 BID: 60798EAF949E504C]": "[Breeze beta42 Forgotton Anne 1.0.0 TID: 010059E00B93C000 BID: 60798EAF949E504C]\n\n",
+        "[Left - Arca Empty]": "[Left - Arca Empty]\n80001000 \n580F0000 0314D090 \n580F1000 000000A0 \n580F1000 00000000 \n780F0000 0000001C \n640F0000 00000000 00000000 \n20000000\n\n",
+        "[Right - Arca Full]": "[Right - Arca Full]\n80004000 \n580F0000 0314D090 \n580F1000 000000A0 \n580F1000 00000000 \n780F0000 0000001C \n640F0000 00000000 00000064 \n20000000\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
 }

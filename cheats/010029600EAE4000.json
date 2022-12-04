@@ -1,38 +1,14 @@
 {
-    "7B4F8C2530BB4564": [
-        {
-            "content": "[Lives unlimited]\n01100000 0078C093 00000009\n\n",
-            "title": "[Lives unlimited]"
-        },
-        {
-            "content": "[Energy unlimited]\n01100000 0078C0AE 00000040\n\n",
-            "title": "[Energy unlimited]"
-        },
-        {
-            "content": "[Add Hearts MAX with ZR]\n80000200\n01100000 0078C0DA 00000063\n\n",
-            "title": "[Add Hearts MAX with ZR]"
-        },
-        {
-            "content": "[Infinite Life]\n011F0000 0078C0AE 00000040\n\n",
-            "title": "[Infinite Life]"
-        },
-        {
-            "content": "[Infinite Lives]\n011F0000 0078C093 00000065\n\n",
-            "title": "[Infinite Lives]"
-        },
-        {
-            "content": "[Time Stop (Time 0 = ZL)]\n011F0000 0078C0AC 00000099\n011F0000 0078C0AB 00000099\n80000100\n011F0000 0078C0AC 00000000\n011F0000 0078C0AB 00000000\n20000000\n\n",
-            "title": "[Time Stop (Time 0 = ZL)]"
-        },
-        {
-            "content": "[Invincible]\n011F0000 0078C0C4 00000020\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Moon Jump]\n80000001\n011F0000 0078C57D 00000000\n011F0000 0078C545 000000BF\n20000000\n",
-            "title": "[Moon Jump]"
-        }
-    ],
+    "7B4F8C2530BB4564": {
+        "[Lives unlimited]": "[Lives unlimited]\n01100000 0078C093 00000009\n\n",
+        "[Energy unlimited]": "[Energy unlimited]\n01100000 0078C0AE 00000040\n\n",
+        "[Add Hearts MAX with ZR]": "[Add Hearts MAX with ZR]\n80000200\n01100000 0078C0DA 00000063\n\n",
+        "[Infinite Life]": "[Infinite Life]\n011F0000 0078C0AE 00000040\n\n",
+        "[Infinite Lives]": "[Infinite Lives]\n011F0000 0078C093 00000065\n\n",
+        "[Time Stop (Time 0 = ZL)]": "[Time Stop (Time 0 = ZL)]\n011F0000 0078C0AC 00000099\n011F0000 0078C0AB 00000099\n80000100\n011F0000 0078C0AC 00000000\n011F0000 0078C0AB 00000000\n20000000\n\n",
+        "[Invincible]": "[Invincible]\n011F0000 0078C0C4 00000020\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000001\n011F0000 0078C57D 00000000\n011F0000 0078C545 000000BF\n20000000\n\n"
+    },
     "attribution": {
         "Arcade Archives VS. CASTLEVANIA ver1.00 by merlin555.txt": ""
     }

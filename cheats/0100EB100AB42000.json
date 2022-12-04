@@ -1,62 +1,20 @@
 {
-    "C2932C4D1C84ED7D": [
-        {
-            "content": "[Infinite Items on change (99)]\n04000000 00201E18 52800C7C\n",
-            "title": "[Infinite Items on change (99)]"
-        },
-        {
-            "content": "[Infinite Items on change (10)]\n04000000 00201E18 5280015C\n",
-            "title": "[Infinite Items on change (10)]"
-        },
-        {
-            "content": "[Infinite Items on change (Off)]\n04000000 00201E18 1A8EB1BC\n\n",
-            "title": "[Infinite Items on change (Off)]"
-        },
-        {
-            "content": "[Gain 2x LP]\n04000000 001FF374 0B010508\n",
-            "title": "[Gain 2x LP]"
-        },
-        {
-            "content": "[Gain 4x LP]\n04000000 001FF374 0B010908\n",
-            "title": "[Gain 4x LP]"
-        },
-        {
-            "content": "[Gain 8x LP]\n04000000 001FF374 0B010D08\n",
-            "title": "[Gain 8x LP]"
-        },
-        {
-            "content": "[Gain 16x LP]\n04000000 001FF374 0B011108\n",
-            "title": "[Gain 16x LP]"
-        },
-        {
-            "content": "[Gain Normal LP]\n04000000 001FF374 0B010108\n\n",
-            "title": "[Gain Normal LP]"
-        },
-        {
-            "content": "[Gain 2x EXP]\n04000000 001FF2E8 0B080528\n",
-            "title": "[Gain 2x EXP]"
-        },
-        {
-            "content": "[Gain 4x EXP]\n04000000 001FF2E8 0B080928\n",
-            "title": "[Gain 4x EXP]"
-        },
-        {
-            "content": "[Gain 8x EXP]\n04000000 001FF2E8 0B080D28\n",
-            "title": "[Gain 8x EXP]"
-        },
-        {
-            "content": "[Gain 16x EXP]\n04000000 001FF2E8 0B081128\n",
-            "title": "[Gain 16x EXP]"
-        },
-        {
-            "content": "[Gain Normal EXP]\n04000000 001FF2E8 0B080128\n\n",
-            "title": "[Gain Normal EXP]"
-        },
-        {
-            "content": "[INF HP vaan,ashe,balthier,fran,basch,panelo]\n04000000 0177f3fc 0000270F\n04000000 0177f400 0000270F\n04100000 0020a22c 0000270F\n04100000 0020a250 0000270F\n04100000 0042f040 0000270F\n04000000 0177f3f8 0000270F\n04000000 0177f57c 0000270F\n04000000 0177f580 0000270F\n04100000 0020a3f4 0000270F\n04000000 0177f578 0000270F\n04100000 0020a418 0000270F\n04100000 0020a5bc 0000270F\n04100000 0020a5e0 0000270F\n04100000 0020a784 0000270F\n04000000 0177f4bc 0000270F\n04000000 0177f4c0 0000270F\n04100000 002017a8 0000270F\n04100000 0042f100 0000270F\n04100000 0f1a32ee 0000270F\n04000000 0177f4b8 0000270F\n04000000 01786cc0 0000270F\n04000000 0177f87c 0000270F\n04000000 0177f880 0000270F\n04100000 0020ab14 0000270F\n04000000 0177f878 0000270F\n04100000 0020ab38 0000270F\n04000000 0177f7bc 0000270F\n04000000 0177f7c0 0000270F\n04100000 0020a94c 0000270F\n04000000 0177f7b8 0000270F\n04100000 0020a970 0000270F\n04000000 0177f6f8 0000270F\n04100000 0020a7a8 0000270F",
-            "title": "[INF HP vaan,ashe,balthier,fran,basch,panelo]"
-        }
-    ],
+    "C2932C4D1C84ED7D": {
+        "[Infinite Items on change (99)]": "[Infinite Items on change (99)]\n04000000 00201E18 52800C7C\n\n",
+        "[Infinite Items on change (10)]": "[Infinite Items on change (10)]\n04000000 00201E18 5280015C\n\n",
+        "[Infinite Items on change (Off)]": "[Infinite Items on change (Off)]\n04000000 00201E18 1A8EB1BC\n\n",
+        "[Gain 2x LP]": "[Gain 2x LP]\n04000000 001FF374 0B010508\n\n",
+        "[Gain 4x LP]": "[Gain 4x LP]\n04000000 001FF374 0B010908\n\n",
+        "[Gain 8x LP]": "[Gain 8x LP]\n04000000 001FF374 0B010D08\n\n",
+        "[Gain 16x LP]": "[Gain 16x LP]\n04000000 001FF374 0B011108\n\n",
+        "[Gain Normal LP]": "[Gain Normal LP]\n04000000 001FF374 0B010108\n\n",
+        "[Gain 2x EXP]": "[Gain 2x EXP]\n04000000 001FF2E8 0B080528\n\n",
+        "[Gain 4x EXP]": "[Gain 4x EXP]\n04000000 001FF2E8 0B080928\n\n",
+        "[Gain 8x EXP]": "[Gain 8x EXP]\n04000000 001FF2E8 0B080D28\n\n",
+        "[Gain 16x EXP]": "[Gain 16x EXP]\n04000000 001FF2E8 0B081128\n\n",
+        "[Gain Normal EXP]": "[Gain Normal EXP]\n04000000 001FF2E8 0B080128\n\n",
+        "[INF HP vaan,ashe,balthier,fran,basch,panelo]": "[INF HP vaan,ashe,balthier,fran,basch,panelo]\n04000000 0177f3fc 0000270F\n04000000 0177f400 0000270F\n04100000 0020a22c 0000270F\n04100000 0020a250 0000270F\n04100000 0042f040 0000270F\n04000000 0177f3f8 0000270F\n04000000 0177f57c 0000270F\n04000000 0177f580 0000270F\n04100000 0020a3f4 0000270F\n04000000 0177f578 0000270F\n04100000 0020a418 0000270F\n04100000 0020a5bc 0000270F\n04100000 0020a5e0 0000270F\n04100000 0020a784 0000270F\n04000000 0177f4bc 0000270F\n04000000 0177f4c0 0000270F\n04100000 002017a8 0000270F\n04100000 0042f100 0000270F\n04100000 0f1a32ee 0000270F\n04000000 0177f4b8 0000270F\n04000000 01786cc0 0000270F\n04000000 0177f87c 0000270F\n04000000 0177f880 0000270F\n04100000 0020ab14 0000270F\n04000000 0177f878 0000270F\n04100000 0020ab38 0000270F\n04000000 0177f7bc 0000270F\n04000000 0177f7c0 0000270F\n04100000 0020a94c 0000270F\n04000000 0177f7b8 0000270F\n04100000 0020a970 0000270F\n04000000 0177f6f8 0000270F\n04100000 0020a7a8 0000270F\n\n"
+    },
     "attribution": {
         "FinalFantasy12.txt": ""
     }

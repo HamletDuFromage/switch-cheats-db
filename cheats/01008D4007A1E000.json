@@ -1,10 +1,7 @@
 {
-    "C3D46BB3C7059DB1": [
-        {
-            "content": "[inf battery]\n580F0000 03676588\n580F1000 00000258\n780F0000 0000322C\n640F0000 00000000 45000000",
-            "title": "[inf battery]"
-        }
-    ],
+    "C3D46BB3C7059DB1": {
+        "[inf battery]": "[inf battery]\n580F0000 03676588\n580F1000 00000258\n780F0000 0000322C\n640F0000 00000000 45000000\n\n"
+    },
     "attribution": {
         "Outlast Bundle of Terror by arismendy64.txt": "Super Mario Allstars\nSuper Mario 3"
     }

@@ -1,18 +1,12 @@
 {
-    "07B0A65F53280FC8": [
-        {
-            "content": "[Ticket 999x]\n041F0000 0A22B320 00000999 ",
-            "title": "[Ticket 999x]"
-        }
-    ],
-    "3F63328F03AAF417": [
-        {
-            "content": "[999 Tickets]\n02100000 0A2D32A8 000003E7",
-            "title": "[999 Tickets]"
-        }
-    ],
+    "3F63328F03AAF417": {
+        "[999 Tickets]": "[999 Tickets]\n02100000 0A2D32A8 000003E7\n\n"
+    },
+    "07B0A65F53280FC8": {
+        "[Ticket 999x]": "[Ticket 999x]\n041F0000 0A22B320 00000999\n\n"
+    },
     "attribution": {
-        "Tetris 99 by cucholix.txt": "[999 Tickets]\n02100000 0A2D32A8 000003E7",
-        "by rubbersoul.txt": "CC buttle and AP buttle codes will only apply during battle\nthese code are only work with atmosphere,because code include address and value check to avoid crash\nI'm not sure that the check is enough to avoid crash,so it's better to use only field cheat code."
+        "by rubbersoul.txt": "CC buttle and AP buttle codes will only apply during battle\nthese code are only work with atmosphere,because code include address and value check to avoid crash\nI'm not sure that the check is enough to avoid crash,so it's better to use only field cheat code.",
+        "Tetris 99 by cucholix.txt": "[999 Tickets]\n02100000 0A2D32A8 000003E7"
     }
 }

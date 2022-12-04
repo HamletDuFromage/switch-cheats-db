@@ -1,24 +1,12 @@
 {
-    "318F9F225A532857": [
-        {
-            "content": "[P1 Lives unlimited]\n580F0000 0241BCE8\n780F1000 000012BC\n640F0000 00000000 40140000\n\n",
-            "title": "[P1 Lives unlimited]"
-        },
-        {
-            "content": "[P2 Lives unlimited]\n580F0000 0241CD08\n780F1000 0000126C\n640F0000 00000000 40140000\n",
-            "title": "[P2 Lives unlimited]"
-        }
-    ],
-    "DA4276DF8ADE4EEC": [
-        {
-            "content": "[P1 Lives unlimited]\n580F0000 023BEB78\n780F1000 000012DC\n640F0000 00000000 40140000\n\n",
-            "title": "[P1 Lives unlimited]"
-        },
-        {
-            "content": "[P2 Lives unlimited]\n580F0000 023BEF98\n780F1000 0000126C\n640F0000 00000000 40140000\n",
-            "title": "[P2 Lives unlimited]"
-        }
-    ],
+    "DA4276DF8ADE4EEC": {
+        "[P1 Lives unlimited]": "[P1 Lives unlimited]\n580F0000 023BEB78\n780F1000 000012DC\n640F0000 00000000 40140000\n\n",
+        "[P2 Lives unlimited]": "[P2 Lives unlimited]\n580F0000 023BEF98\n780F1000 0000126C\n640F0000 00000000 40140000\n\n"
+    },
+    "318F9F225A532857": {
+        "[P1 Lives unlimited]": "[P1 Lives unlimited]\n580F0000 0241BCE8\n780F1000 000012BC\n640F0000 00000000 40140000\n\n",
+        "[P2 Lives unlimited]": "[P2 Lives unlimited]\n580F0000 0241CD08\n780F1000 0000126C\n640F0000 00000000 40140000\n\n"
+    },
     "attribution": {
         "Blazing Chrome CHEAT file 1.0.1 and 1.0.2 by merlin555.txt": ""
     }

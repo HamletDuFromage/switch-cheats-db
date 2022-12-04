@@ -1,10 +1,7 @@
 {
-    "7F112D4C048E9EEE": [
-        {
-            "content": "[inf lives]\n01000000 0138797C 00000008",
-            "title": "[inf lives]"
-        }
-    ],
+    "7F112D4C048E9EEE": {
+        "[inf lives]": "[inf lives]\n01000000 0138797C 00000008\n\n"
+    },
     "attribution": {
         "Crimzon Clover World Explosion by arismendy64.txt": ""
     }

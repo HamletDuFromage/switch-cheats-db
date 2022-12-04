@@ -1,18 +1,9 @@
 {
-    "4A52E0E29438C94A": [
-        {
-            "content": "[Max Coins]\n580F0000 02716418\n580F1000 00000028\n580F1000 000000C8\n580F1000 000000F8\n580F1000 00000078\n780F0000 00000094\n640F0000 00000000 0000270F\n\n",
-            "title": "[Max Coins]"
-        },
-        {
-            "content": "[Inf Health]\n580F0000 02716418\n580F1000 00000028\n580F1000 000000C8\n580F1000 000000F8\n580F1000 00000078\n780F0000 000000AC\n640F0000 00000000 00000000\n\n",
-            "title": "[Inf Health]"
-        },
-        {
-            "content": "[Inf Power]\n580F0000 02716418\n580F1000 00000028\n580F1000 000000C8\n580F1000 000000F8\n580F1000 00000078\n780F0000 000000A0\n640F0000 00000000 00000005",
-            "title": "[Inf Power]"
-        }
-    ],
+    "4A52E0E29438C94A": {
+        "[Max Coins]": "[Max Coins]\n580F0000 02716418\n580F1000 00000028\n580F1000 000000C8\n580F1000 000000F8\n580F1000 00000078\n780F0000 00000094\n640F0000 00000000 0000270F\n\n",
+        "[Inf Health]": "[Inf Health]\n580F0000 02716418\n580F1000 00000028\n580F1000 000000C8\n580F1000 000000F8\n580F1000 00000078\n780F0000 000000AC\n640F0000 00000000 00000000\n\n",
+        "[Inf Power]": "[Inf Power]\n580F0000 02716418\n580F1000 00000028\n580F1000 000000C8\n580F1000 000000F8\n580F1000 00000078\n780F0000 000000A0\n640F0000 00000000 00000005\n\n"
+    },
     "attribution": {
         "Radio Squid ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
     }

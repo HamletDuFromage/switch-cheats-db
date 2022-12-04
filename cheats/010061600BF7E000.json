@@ -1,30 +1,12 @@
 {
-    "C356ED633D2BF7FC": [
-        {
-            "content": "[P1 Inf Lives]\n01000000 0127B3B0 00000009\n\n",
-            "title": "[P1 Inf Lives]"
-        },
-        {
-            "content": "[P1 Inf Bombs]\n01000000 0127B3B2 00000009\n\n",
-            "title": "[P1 Inf Bombs]"
-        },
-        {
-            "content": "[P1 Instand Bomber Availability]\n01000000 0127B3D0 00000000\n\n",
-            "title": "[P1 Instand Bomber Availability]"
-        },
-        {
-            "content": "[P1 Max Fire Power]\n01000000 0127B3B4 00000004\n\n",
-            "title": "[P1 Max Fire Power]"
-        },
-        {
-            "content": "[P1 Inf Super Shot]\n01000000 0127B3BC 00000008\n01000000 0127B3B8 00000008\n\n",
-            "title": "[P1 Inf Super Shot]"
-        },
-        {
-            "content": "[P1 Invincible]\n01000000 0127D4AA 000000F0\n01000000 0127D43D 000000FF\n01000000 0127D43E 000000FF\n01000000 0127D43F 000000FF\n01000000 0127D440 000000FF",
-            "title": "[P1 Invincible]"
-        }
-    ],
+    "C356ED633D2BF7FC": {
+        "[P1 Inf Lives]": "[P1 Inf Lives]\n01000000 0127B3B0 00000009\n\n",
+        "[P1 Inf Bombs]": "[P1 Inf Bombs]\n01000000 0127B3B2 00000009\n\n",
+        "[P1 Instand Bomber Availability]": "[P1 Instand Bomber Availability]\n01000000 0127B3D0 00000000\n\n",
+        "[P1 Max Fire Power]": "[P1 Max Fire Power]\n01000000 0127B3B4 00000004\n\n",
+        "[P1 Inf Super Shot]": "[P1 Inf Super Shot]\n01000000 0127B3BC 00000008\n01000000 0127B3B8 00000008\n\n",
+        "[P1 Invincible]": "[P1 Invincible]\n01000000 0127D4AA 000000F0\n01000000 0127D43D 000000FF\n01000000 0127D43E 000000FF\n01000000 0127D43F 000000FF\n01000000 0127D440 000000FF\n\n"
+    },
     "attribution": {
         "ACA NeoGeo Strikers 1945 Plus ver 1.0.2 by Smoker1.txt": "Pressing the A button and using the roll will release invincibility. This is a game specification.\n"
     }

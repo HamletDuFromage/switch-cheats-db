@@ -1,38 +1,14 @@
 {
-    "6559C96F6A92504D": [
-        {
-            "content": "[Inf Health]\n58000000 04385188\n78000000 000020DC\n61000000 00000000 000000C8\n\n",
-            "title": "[Inf Health]"
-        },
-        {
-            "content": "[Inf Armor]\n58000000 04385188\n78000000 000020E0\n61000000 00000000 000000C8\n\n",
-            "title": "[Inf Armor]"
-        },
-        {
-            "content": "[Inf Bullets]\n58000000 04385188\n78000000 00002158\n61000000 00000000 000000C8\n\n",
-            "title": "[Inf Bullets]"
-        },
-        {
-            "content": "[Inf Shells]\n58000000 04385188\n78000000 0000215C\n61000000 00000000 00000032\n\n",
-            "title": "[Inf Shells]"
-        },
-        {
-            "content": "[Inf Rockets]\n58000000 04385188\n78000000 00002164\n61000000 00000000 00000032\n\n",
-            "title": "[Inf Rockets]"
-        },
-        {
-            "content": "[Inf Cells]\n58000000 04385188\n78000000 00002160\n62000000 00000000 0000012C\n\n",
-            "title": "[Inf Cells]"
-        },
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 009A9EB8\n580F1000 00000018\n780F0000 000000C4\n640F0000 00000000 41700000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 009A9EB8\n580F1000 00000088\n780F0000 00000350\n640F0000 00000000 50000000",
-            "title": "[Invincible]"
-        }
-    ],
+    "6559C96F6A92504D": {
+        "[Inf Health]": "[Inf Health]\n58000000 04385188\n78000000 000020DC\n61000000 00000000 000000C8\n\n",
+        "[Inf Armor]": "[Inf Armor]\n58000000 04385188\n78000000 000020E0\n61000000 00000000 000000C8\n\n",
+        "[Inf Bullets]": "[Inf Bullets]\n58000000 04385188\n78000000 00002158\n61000000 00000000 000000C8\n\n",
+        "[Inf Shells]": "[Inf Shells]\n58000000 04385188\n78000000 0000215C\n61000000 00000000 00000032\n\n",
+        "[Inf Rockets]": "[Inf Rockets]\n58000000 04385188\n78000000 00002164\n61000000 00000000 00000032\n\n",
+        "[Inf Cells]": "[Inf Cells]\n58000000 04385188\n78000000 00002160\n62000000 00000000 0000012C\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 009A9EB8\n580F1000 00000018\n780F0000 000000C4\n640F0000 00000000 41700000\n20000000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 009A9EB8\n580F1000 00000088\n780F0000 00000350\n640F0000 00000000 50000000\n\n"
+    },
     "attribution": {
         "Shantae Half Genie Hero Ultimate Edition By ZiT866.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
     }

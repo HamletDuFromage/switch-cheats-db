@@ -1,14 +1,8 @@
 {
-    "A3179FEF84570923": [
-        {
-            "content": "[999999 Infinite Coins]\n\n04100000 009429d0 000F423F\n\n",
-            "title": "[999999 Infinite Coins]"
-        },
-        {
-            "content": "[Armily 9999 Hp]\n04100000 85355a20 0000270F\n\n\n",
-            "title": "[Armily 9999 Hp]"
-        }
-    ],
+    "A3179FEF84570923": {
+        "[999999 Infinite Coins]": "[999999 Infinite Coins]\n\n04100000 009429d0 000F423F\n\n",
+        "[Armily 9999 Hp]": "[Armily 9999 Hp]\n04100000 85355a20 0000270F\n\n"
+    },
     "attribution": {
         "SteamWorldQuest.txt": ""
     }

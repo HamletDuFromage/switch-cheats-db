@@ -1,20 +1,8 @@
 {
-    "8945FC868C858831": [
-        {
-            "content": "[P1 Infinite Lives]\n01000000 01229179 00000009\n\n",
-            "title": "[P1 Infinite Lives]"
-        },
-        {
-            "content": "[P1 Infinite HP]\n01000000 0122917e 00000004\n\n",
-            "title": "[P1 Infinite HP]"
-        },
-        {
-            "content": "[P1 Max Power]\n01000000 0122917d 00000002\n\n",
-            "title": "[P1 Max Power]"
-        },
-        {
-            "content": "[P1 Invincible]\n01000000 01229180 000000ff",
-            "title": "[P1 Invincible]"
-        }
-    ]
+    "8945FC868C858831": {
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 01229179 00000009\n\n",
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 0122917e 00000004\n\n",
+        "[P1 Max Power]": "[P1 Max Power]\n01000000 0122917d 00000002\n\n",
+        "[P1 Invincible]": "[P1 Invincible]\n01000000 01229180 000000ff\n\n"
+    }
 }

@@ -1,152 +1,44 @@
 {
-    "BDD6DC7DA7A69290": [
-        {
-            "content": "[02# max Coins]\n580F0000 0184A078\n780F0000 00000148\n640F0000 00000000 0001869F\n\n",
-            "title": "[02# max Coins]"
-        },
-        {
-            "content": "[03# Inf Paper]\n580F0000 0184A078\n780F0000 00000154\n640F0000 00000000 407F4000\n\n",
-            "title": "[03# Inf Paper]"
-        },
-        {
-            "content": "[Gold coin 4 times]\n040B0000 005223D0 0B08094A\n",
-            "title": "[Gold coin 4 times]"
-        },
-        {
-            "content": "[Gold coins 8 times]\n040B0000 005223D0 0B080D4A\n",
-            "title": "[Gold coins 8 times]"
-        },
-        {
-            "content": "[16 times gold coins]\n040B0000 005223D0 0B08114A\n",
-            "title": "[16 times gold coins]"
-        },
-        {
-            "content": "[Life is not reduced]\n040B0000 009888C0 B9414537\n040B0000 009888C4 B9014137\n040B0000 009888C8 B9414137\n040B0000 009888CC D65F03C0\n040B0000 00442BFC 94151731\n",
-            "title": "[Life is not reduced]"
-        },
-        {
-            "content": "[God Paper Max]\n040B0000 009888D0 BD415D21\n040B0000 009888D4 BD015521\n040B0000 009888D8 91051129\n040B0000 009888DC D65F03C0\n040B0000 00442C00 94151734\n\n",
-            "title": "[God Paper Max]"
-        },
-        {
-            "content": "[Props are not reduced in battle]\n040B0000 003EA800 7100016C\n040B0000 004851EC 710001AE\n",
-            "title": "[Props are not reduced in battle]"
-        },
-        {
-            "content": "[No reduction in Chinobio points]\n040B0000 0089EB20 0B1F0169\n040B0000 0089EB5C 4B1F0128\n",
-            "title": "[No reduction in Chinobio points]"
-        },
-        {
-            "content": "[Weapon durability]\n040B0000 009888E0 D2827E04\n040B0000 009888E4 8B040124\n040B0000 009888E8 52800005\n040B0000 009888EC 528012C6\n040B0000 009888F0 6B0600BF\n040B0000 009888F4 540000AC\n040B0000 009888F8 B900009F\n040B0000 009888FC 91005084\n040B0000 00988900 110004A5\n040B0000 00988904 17FFFFFB\n040B0000 00988908 B9400129\n040B0000 0098890C D65F03C0\n040B0000 00442C24 9415172F\n",
-            "title": "[Weapon durability]"
-        },
-        {
-            "content": "[Unlimited number of operation rings]\n580F0000 01855650\n780F0000 0000001C\n640F0000 00000000 00000002\n",
-            "title": "[Unlimited number of operation rings]"
-        },
-        {
-            "content": "[Number of actions 5 ZL key]\n80000100\n580F0000 01855650\n780F0000 00000024\n680F0000 00000005 00000005\n20000000\n\n",
-            "title": "[Number of actions 5 ZL key]"
-        },
-        {
-            "content": "[Moon Jump]\n80000001\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n780F0000 000007F4\n680F0000 BD000000 3F800000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Big Mario (Hold ZR)]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n780F0000 00000090\n680F0000 3F800000 3F800000\n80000200\n680F0000 40800000 40800000\n20000000\n\n",
-            "title": "[Big Mario (Hold ZR)]"
-        },
-        {
-            "content": "[Inf Star Power]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n780F0000 00000E98\n680F0000 00000001 2B000001\n\n",
-            "title": "[Inf Star Power]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000E00\n780F0000 00000148\n640F0000 00000000 000000FF\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Stage Reset (Hold L R ZL ZR)]\n800003C0\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n780F0000 00000030\n640F0000 00000000 4F000000\n780F0000 00000004\n640F0000 00000000 00000000\n780F0000 00000008\n640F0000 00000000 4F000000\n20000000\n\n",
-            "title": "[Stage Reset (Hold L R ZL ZR)]"
-        },
-        {
-            "content": "[Speed Up (Hold L)]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000DF8\n780F0000 00000044\n680F0000 3EE66667 3EE66667\n80000040\n680F0000 3FE66667 3FE66667\n20000000\n\n",
-            "title": "[Speed Up (Hold L)]"
-        },
-        {
-            "content": "[Timer OFF]\n04000000 008DA6C0 4B1F02C8\n\n",
-            "title": "[Timer OFF]"
-        },
-        {
-            "content": "[Timer ON]\n04000000 008DA6C0 4B0802C8\n\n",
-            "title": "[Timer ON]"
-        },
-        {
-            "content": "[Walk Through Walls (Hold R)]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 000002D8\n780F0000 00000170\n640F0000 00000000 3F99999A\n80000080\n640F0000 00000000 4199999A\n20000000\n\n",
-            "title": "[Walk Through Walls (Hold R)]"
-        },
-        {
-            "content": "[escape rate 100 percent]\n040B0000 00778950 52800C88",
-            "title": "[escape rate 100 percent]"
-        }
-    ],
-    "E74395F066FD8CCB": [
-        {
-            "content": "[Inf Health]\n580F0000 0184A078\n780F0000 00000140\n640F0000 00000000 00000063\n780F0000 00000004\n640F0000 00000000 00000063\n\n",
-            "title": "[Inf Health]"
-        },
-        {
-            "content": "[max Coins]\n580F0000 0184A078\n780F0000 00000148\n640F0000 00000000 0001869F\n\n",
-            "title": "[max Coins]"
-        },
-        {
-            "content": "[Inf Paper]\n580F0000 0184A078\n780F0000 00000154\n640F0000 00000000 407F4000\n\n",
-            "title": "[Inf Paper]"
-        },
-        {
-            "content": "[Weapon Durability]\n040B0000 009888E0 D2827E04\n040B0000 009888E4 8B040124\n040B0000 009888E8 52800005\n040B0000 009888EC 528012C6\n040B0000 009888F0 6B0600BF\n040B0000 009888F4 540000AC\n040B0000 009888F8 B900009F\n040B0000 009888FC 91005084\n040B0000 00988900 110004A5\n040B0000 00988904 17FFFFFB\n040B0000 00988908 B9400129\n040B0000 0098890C D65F03C0\n040B0000 00442C24 9415172F\n\n",
-            "title": "[Weapon Durability]"
-        },
-        {
-            "content": "[Number of actions 5 ZL key]\n80000100\n580F0000 01855650\n780F0000 00000024\n680F0000 00000005 00000005\n20000000\n\n",
-            "title": "[Number of actions 5 ZL key]"
-        },
-        {
-            "content": "[Moon Jump]\n80000001\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n780F0000 000007F4\n680F0000 BD000000 3F800000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Inf Star Power]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n780F0000 00000E98\n680F0000 00000001 2B000001\n\n",
-            "title": "[Inf Star Power]"
-        },
-        {
-            "content": "[Speed Up (Hold L)]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000DF8\n780F0000 00000044\n680F0000 3EE66667 3EE66667\n80000040\n680F0000 3FE66667 3FE66667\n20000000\n\n",
-            "title": "[Speed Up (Hold L)]"
-        },
-        {
-            "content": "[Walk Through Walls (Hold R)]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 000002D8\n780F0000 00000170\n640F0000 00000000 3F99999A\n80000080\n640F0000 00000000 4199999A\n20000000\n\n",
-            "title": "[Walk Through Walls (Hold R)]"
-        },
-        {
-            "content": "[Inf Toad Radar Battery]\n580F0000 0184A078\n780F1000 0145D6A0\n680F0000 00000000 00000000\n\n",
-            "title": "[Inf Toad Radar Battery]"
-        },
-        {
-            "content": "[Recharge Toad Radar ZR key]\n80000200\n580F0000 0184A078\n780F1000 0145D6A0\n680F0000 00000000 00000000\n20000000\n\n",
-            "title": "[Recharge Toad Radar ZR key]"
-        },
-        {
-            "content": "[Enable Timer]\n04000000 008DA7A0 4B0802C8\n\n",
-            "title": "[Enable Timer]"
-        },
-        {
-            "content": "[Disable Timer]\n04000000 008DA7A0 4B1F02C8\n\n",
-            "title": "[Disable Timer]"
-        },
-        {
-            "content": "[Inf iFrames (Invincible)]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000E00\n780F0000 00000148\n640F0000 00000000 000000FF",
-            "title": "[Inf iFrames (Invincible)]"
-        }
-    ],
+    "E74395F066FD8CCB": {
+        "[Inf Health]": "[Inf Health]\n580F0000 0184A078\n780F0000 00000140\n640F0000 00000000 00000063\n780F0000 00000004\n640F0000 00000000 00000063\n\n",
+        "[max Coins]": "[max Coins]\n580F0000 0184A078\n780F0000 00000148\n640F0000 00000000 0001869F\n\n",
+        "[Inf Paper]": "[Inf Paper]\n580F0000 0184A078\n780F0000 00000154\n640F0000 00000000 407F4000\n\n",
+        "[Weapon Durability]": "[Weapon Durability]\n040B0000 009888E0 D2827E04\n040B0000 009888E4 8B040124\n040B0000 009888E8 52800005\n040B0000 009888EC 528012C6\n040B0000 009888F0 6B0600BF\n040B0000 009888F4 540000AC\n040B0000 009888F8 B900009F\n040B0000 009888FC 91005084\n040B0000 00988900 110004A5\n040B0000 00988904 17FFFFFB\n040B0000 00988908 B9400129\n040B0000 0098890C D65F03C0\n040B0000 00442C24 9415172F\n\n",
+        "[Number of actions 5 ZL key]": "[Number of actions 5 ZL key]\n80000100\n580F0000 01855650\n780F0000 00000024\n680F0000 00000005 00000005\n20000000\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000001\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n780F0000 000007F4\n680F0000 BD000000 3F800000\n20000000\n\n",
+        "[Inf Star Power]": "[Inf Star Power]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n780F0000 00000E98\n680F0000 00000001 2B000001\n\n",
+        "[Speed Up (Hold L)]": "[Speed Up (Hold L)]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000DF8\n780F0000 00000044\n680F0000 3EE66667 3EE66667\n80000040\n680F0000 3FE66667 3FE66667\n20000000\n\n",
+        "[Walk Through Walls (Hold R)]": "[Walk Through Walls (Hold R)]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 000002D8\n780F0000 00000170\n640F0000 00000000 3F99999A\n80000080\n640F0000 00000000 4199999A\n20000000\n\n",
+        "[Inf Toad Radar Battery]": "[Inf Toad Radar Battery]\n580F0000 0184A078\n780F1000 0145D6A0\n680F0000 00000000 00000000\n\n",
+        "[Recharge Toad Radar ZR key]": "[Recharge Toad Radar ZR key]\n80000200\n580F0000 0184A078\n780F1000 0145D6A0\n680F0000 00000000 00000000\n20000000\n\n",
+        "[Enable Timer]": "[Enable Timer]\n04000000 008DA7A0 4B0802C8\n\n",
+        "[Disable Timer]": "[Disable Timer]\n04000000 008DA7A0 4B1F02C8\n\n",
+        "[Inf iFrames (Invincible)]": "[Inf iFrames (Invincible)]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000E00\n780F0000 00000148\n640F0000 00000000 000000FF\n\n"
+    },
+    "BDD6DC7DA7A69290": {
+        "[02# max Coins]": "[02# max Coins]\n580F0000 0184A078\n780F0000 00000148\n640F0000 00000000 0001869F\n\n",
+        "[03# Inf Paper]": "[03# Inf Paper]\n580F0000 0184A078\n780F0000 00000154\n640F0000 00000000 407F4000\n\n",
+        "[Gold coin 4 times]": "[Gold coin 4 times]\n040B0000 005223D0 0B08094A\n\n",
+        "[Gold coins 8 times]": "[Gold coins 8 times]\n040B0000 005223D0 0B080D4A\n\n",
+        "[16 times gold coins]": "[16 times gold coins]\n040B0000 005223D0 0B08114A\n\n",
+        "[Life is not reduced]": "[Life is not reduced]\n040B0000 009888C0 B9414537\n040B0000 009888C4 B9014137\n040B0000 009888C8 B9414137\n040B0000 009888CC D65F03C0\n040B0000 00442BFC 94151731\n\n",
+        "[God Paper Max]": "[God Paper Max]\n040B0000 009888D0 BD415D21\n040B0000 009888D4 BD015521\n040B0000 009888D8 91051129\n040B0000 009888DC D65F03C0\n040B0000 00442C00 94151734\n\n",
+        "[Props are not reduced in battle]": "[Props are not reduced in battle]\n040B0000 003EA800 7100016C\n040B0000 004851EC 710001AE\n\n",
+        "[No reduction in Chinobio points]": "[No reduction in Chinobio points]\n040B0000 0089EB20 0B1F0169\n040B0000 0089EB5C 4B1F0128\n\n",
+        "[Weapon durability]": "[Weapon durability]\n040B0000 009888E0 D2827E04\n040B0000 009888E4 8B040124\n040B0000 009888E8 52800005\n040B0000 009888EC 528012C6\n040B0000 009888F0 6B0600BF\n040B0000 009888F4 540000AC\n040B0000 009888F8 B900009F\n040B0000 009888FC 91005084\n040B0000 00988900 110004A5\n040B0000 00988904 17FFFFFB\n040B0000 00988908 B9400129\n040B0000 0098890C D65F03C0\n040B0000 00442C24 9415172F\n\n",
+        "[Unlimited number of operation rings]": "[Unlimited number of operation rings]\n580F0000 01855650\n780F0000 0000001C\n640F0000 00000000 00000002\n\n",
+        "[Number of actions 5 ZL key]": "[Number of actions 5 ZL key]\n80000100\n580F0000 01855650\n780F0000 00000024\n680F0000 00000005 00000005\n20000000\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000001\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n780F0000 000007F4\n680F0000 BD000000 3F800000\n20000000\n\n",
+        "[Big Mario (Hold ZR)]": "[Big Mario (Hold ZR)]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n780F0000 00000090\n680F0000 3F800000 3F800000\n80000200\n680F0000 40800000 40800000\n20000000\n\n",
+        "[Inf Star Power]": "[Inf Star Power]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n780F0000 00000E98\n680F0000 00000001 2B000001\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000E00\n780F0000 00000148\n640F0000 00000000 000000FF\n\n",
+        "[Stage Reset (Hold L R ZL ZR)]": "[Stage Reset (Hold L R ZL ZR)]\n800003C0\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n780F0000 00000030\n640F0000 00000000 4F000000\n780F0000 00000004\n640F0000 00000000 00000000\n780F0000 00000008\n640F0000 00000000 4F000000\n20000000\n\n",
+        "[Speed Up (Hold L)]": "[Speed Up (Hold L)]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000DF8\n780F0000 00000044\n680F0000 3EE66667 3EE66667\n80000040\n680F0000 3FE66667 3FE66667\n20000000\n\n",
+        "[Timer OFF]": "[Timer OFF]\n04000000 008DA6C0 4B1F02C8\n\n",
+        "[Timer ON]": "[Timer ON]\n04000000 008DA6C0 4B0802C8\n\n",
+        "[Walk Through Walls (Hold R)]": "[Walk Through Walls (Hold R)]\n580F0000 0186B7D0\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 000002D8\n780F0000 00000170\n640F0000 00000000 3F99999A\n80000080\n640F0000 00000000 4199999A\n20000000\n\n",
+        "[escape rate 100 percent]": "[escape rate 100 percent]\n040B0000 00778950 52800C88\n\n"
+    },
     "attribution": {
         "Paper Mario The Origami King ver 1.0.0 by patjenova ZiT DaBlackDeath ver 1.0.1 shared by abadidea.txt": "caution\ncan some problems"
     }

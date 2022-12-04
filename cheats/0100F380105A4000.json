@@ -1,22 +1,10 @@
 {
-    "C1524D35C1D101EE": [
-        {
-            "content": "[Inf Lives]\n011F0000 79E4A380 0000009A\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Invincible]\n011F0000 79E4A52D 000000FF\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Speed Up]\n011F0000 79E4A50E 00000008\n\n",
-            "title": "[Speed Up]"
-        },
-        {
-            "content": "[Select Laser]\n011F0000 79E4A518 00000004\n",
-            "title": "[Select Laser]"
-        }
-    ],
+    "C1524D35C1D101EE": {
+        "[Inf Lives]": "[Inf Lives]\n011F0000 79E4A380 0000009A\n\n",
+        "[Invincible]": "[Invincible]\n011F0000 79E4A52D 000000FF\n\n",
+        "[Speed Up]": "[Speed Up]\n011F0000 79E4A50E 00000008\n\n",
+        "[Select Laser]": "[Select Laser]\n011F0000 79E4A518 00000004\n\n"
+    },
     "attribution": {
         "Arcade Archives LIFE FORCE 1.0.0 by ZiT.txt": "Turn on the code when you can move your character"
     }

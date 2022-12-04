@@ -1,96 +1,27 @@
 {
-    "FB827BF029E0778A": [
-        {
-            "content": "[Inf. Health]\n580C0000 008D1C88\n580C1000 00000440\n580C1000 00000000\n580C1000 00000218\n580C1000 00000220\n580C1000 00000250\n9801C100 00000000 00000778\n9802C100 00000000 0000077C\n58021000 00000000\nA4210000\n\n",
-            "title": "[Inf. Health]"
-        },
-        {
-            "content": "[Inf. Stamina]\n580C0000 008D1C88\n580C1000 00000440\n580C1000 00000000\n580C1000 00000218\n580C1000 00000220\n580C1000 00000250\n9801C100 00000000 00000790\n9802C100 00000000 00000794\n58021000 00000000\nA4210000\n\n",
-            "title": "[Inf. Stamina]"
-        },
-        {
-            "content": "[Inf. Shinobi Extreme Power]\n580C0000 008D1C88\n580C1000 00000440\n580C1000 00000000\n580C1000 00000218\n580C1000 00000220\n580C1000 00000250\n9801C100 00000000 000007B0\n9802C100 00000000 000007B4\n58021000 00000000\nA4210000\n\n",
-            "title": "[Inf. Shinobi Extreme Power]"
-        },
-        {
-            "content": "[Inf. Fuurinkazan Drive Usage (On)]\n04000000 000EEA30 51000108\n",
-            "title": "[Inf. Fuurinkazan Drive Usage (On)]"
-        },
-        {
-            "content": "[Inf. Fuurinkazan Drive Usage (Off)]\n04000000 000EEA30 51000508\n\n",
-            "title": "[Inf. Fuurinkazan Drive Usage (Off)]"
-        },
-        {
-            "content": "[Inf. Fuurinkazan Drive Time (On)]\n04000000 000B5EEC D503201F\n",
-            "title": "[Inf. Fuurinkazan Drive Time (On)]"
-        },
-        {
-            "content": "[Inf. Fuurinkazan Drive Time (Off)]\n04000000 000B5EEC 1E282800\n\n",
-            "title": "[Inf. Fuurinkazan Drive Time (Off)]"
-        },
-        {
-            "content": "[Inf. Kunais/Shuriken (On)]\n04000000 00114844 4B1F0108\n",
-            "title": "[Inf. Kunais/Shuriken (On)]"
-        },
-        {
-            "content": "[Inf. Kunais/Shuriken (Off)]\n04000000 00114844 4B1B0108\n\n",
-            "title": "[Inf. Kunais/Shuriken (Off)]"
-        },
-        {
-            "content": "[Inf. Items in Battle (On)]\n04000000 00062A80 0B1F0108\n",
-            "title": "[Inf. Items in Battle (On)]"
-        },
-        {
-            "content": "[Items x99 after Usage in Battle (On)]\n04000000 00062A80 52800C68\n",
-            "title": "[Items x99 after Usage in Battle (On)]"
-        },
-        {
-            "content": "[Items in Battle Normal]\n04000000 00062A80 0B130108\n\n",
-            "title": "[Items in Battle Normal]"
-        },
-        {
-            "content": "[EXP x2]\n04000000 00109B80 0B010514\n",
-            "title": "[EXP x2]"
-        },
-        {
-            "content": "[EXP x4]\n04000000 00109B80 0B010914\n",
-            "title": "[EXP x4]"
-        },
-        {
-            "content": "[EXP x8]\n04000000 00109B80 0B010D14\n",
-            "title": "[EXP x8]"
-        },
-        {
-            "content": "[EXP x16]\n04000000 00109B80 0B011114\n",
-            "title": "[EXP x16]"
-        },
-        {
-            "content": "[EXP x32]\n04000000 00109B80 0B011514\n",
-            "title": "[EXP x32]"
-        },
-        {
-            "content": "[Max EXP]\n04000000 00109B80 0B017514\n",
-            "title": "[Max EXP]"
-        },
-        {
-            "content": "[EXP Multiplier Off]\n04000000 00109B80 0B010114\n\n",
-            "title": "[EXP Multiplier Off]"
-        },
-        {
-            "content": "[Inf. Money (On)]\n04000000 00064794 0B1F0149\n",
-            "title": "[Inf. Money (On)]"
-        },
-        {
-            "content": "[Inf. Money (Off)]\n04000000 00064794 0B000149\n",
-            "title": "[Inf. Money (Off)]"
-        },
-        {
-            "content": "[Max Money]\n04000000 00954F04 3B9AC9FF\n\n",
-            "title": "[Max Money]"
-        },
-        {
-            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
-            "title": "[Credits: crazy_p]"
-        }
-    ]
+    "FB827BF029E0778A": {
+        "[Inf. Health]": "[Inf. Health]\n580C0000 008D1C88\n580C1000 00000440\n580C1000 00000000\n580C1000 00000218\n580C1000 00000220\n580C1000 00000250\n9801C100 00000000 00000778\n9802C100 00000000 0000077C\n58021000 00000000\nA4210000\n\n",
+        "[Inf. Stamina]": "[Inf. Stamina]\n580C0000 008D1C88\n580C1000 00000440\n580C1000 00000000\n580C1000 00000218\n580C1000 00000220\n580C1000 00000250\n9801C100 00000000 00000790\n9802C100 00000000 00000794\n58021000 00000000\nA4210000\n\n",
+        "[Inf. Shinobi Extreme Power]": "[Inf. Shinobi Extreme Power]\n580C0000 008D1C88\n580C1000 00000440\n580C1000 00000000\n580C1000 00000218\n580C1000 00000220\n580C1000 00000250\n9801C100 00000000 000007B0\n9802C100 00000000 000007B4\n58021000 00000000\nA4210000\n\n",
+        "[Inf. Fuurinkazan Drive Usage (On)]": "[Inf. Fuurinkazan Drive Usage (On)]\n04000000 000EEA30 51000108\n\n",
+        "[Inf. Fuurinkazan Drive Usage (Off)]": "[Inf. Fuurinkazan Drive Usage (Off)]\n04000000 000EEA30 51000508\n\n",
+        "[Inf. Fuurinkazan Drive Time (On)]": "[Inf. Fuurinkazan Drive Time (On)]\n04000000 000B5EEC D503201F\n\n",
+        "[Inf. Fuurinkazan Drive Time (Off)]": "[Inf. Fuurinkazan Drive Time (Off)]\n04000000 000B5EEC 1E282800\n\n",
+        "[Inf. Kunais/Shuriken (On)]": "[Inf. Kunais/Shuriken (On)]\n04000000 00114844 4B1F0108\n\n",
+        "[Inf. Kunais/Shuriken (Off)]": "[Inf. Kunais/Shuriken (Off)]\n04000000 00114844 4B1B0108\n\n",
+        "[Inf. Items in Battle (On)]": "[Inf. Items in Battle (On)]\n04000000 00062A80 0B1F0108\n\n",
+        "[Items x99 after Usage in Battle (On)]": "[Items x99 after Usage in Battle (On)]\n04000000 00062A80 52800C68\n\n",
+        "[Items in Battle Normal]": "[Items in Battle Normal]\n04000000 00062A80 0B130108\n\n",
+        "[EXP x2]": "[EXP x2]\n04000000 00109B80 0B010514\n\n",
+        "[EXP x4]": "[EXP x4]\n04000000 00109B80 0B010914\n\n",
+        "[EXP x8]": "[EXP x8]\n04000000 00109B80 0B010D14\n\n",
+        "[EXP x16]": "[EXP x16]\n04000000 00109B80 0B011114\n\n",
+        "[EXP x32]": "[EXP x32]\n04000000 00109B80 0B011514\n\n",
+        "[Max EXP]": "[Max EXP]\n04000000 00109B80 0B017514\n\n",
+        "[EXP Multiplier Off]": "[EXP Multiplier Off]\n04000000 00109B80 0B010114\n\n",
+        "[Inf. Money (On)]": "[Inf. Money (On)]\n04000000 00064794 0B1F0149\n\n",
+        "[Inf. Money (Off)]": "[Inf. Money (Off)]\n04000000 00064794 0B000149\n\n",
+        "[Max Money]": "[Max Money]\n04000000 00954F04 3B9AC9FF\n\n",
+        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n"
+    }
 }

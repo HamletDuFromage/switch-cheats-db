@@ -1,22 +1,9 @@
 {
-    "FED199FE706FF17D": [
-        {
-            "content": "[inf. HP]\n040E0000 0030D79C 9407CFF9\n080E0000 00501780 3942127E F90003FE\n080E0000 00501788 BD420260 3400007E\n080E0000 00501790 1E283800 14000002\n080E0000 00501798 D65F03C0 F94003FE\n\n",
-            "title": "[inf. HP]"
-        },
-        {
-            "content": "[inf. HP + instant kill]\n040E0000 0030D79C 9407CFF9\n080E0000 00501780 3942127E F90003FE\n080E0000 00501788 BD420260 3400007E\n080E0000 00501790 1E2703E0 14000002\n080E0000 00501798 D65F03C0 F94003FE\n\n",
-            "title": "[inf. HP + instant kill]"
-        },
-        {
-            "content": "[Restore everything]\n040E0000 0030D79C 1E283800\n\n",
-            "title": "[Restore everything]"
-        },
-        {
-            "content": "[inf. HP]\n580E0000 00E9E600\n580E1000 00000540\n780E0000 00000068\n640E0000 00000000 44610000",
-            "title": "[inf. HP]"
-        }
-    ],
+    "FED199FE706FF17D": {
+        "[inf. HP]": "[inf. HP]\n580E0000 00E9E600\n580E1000 00000540\n780E0000 00000068\n640E0000 00000000 44610000\n\n",
+        "[inf. HP + instant kill]": "[inf. HP + instant kill]\n040E0000 0030D79C 9407CFF9\n080E0000 00501780 3942127E F90003FE\n080E0000 00501788 BD420260 3400007E\n080E0000 00501790 1E2703E0 14000002\n080E0000 00501798 D65F03C0 F94003FE\n\n",
+        "[Restore everything]": "[Restore everything]\n040E0000 0030D79C 1E283800\n\n"
+    },
     "attribution": {
         "Infinite Tanks World War 2 v1.0.0 by Eiffel.txt": "This is another set of cheat, lock only the HP of my tank.\n"
     }

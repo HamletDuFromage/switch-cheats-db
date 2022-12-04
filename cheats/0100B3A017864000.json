@@ -1,24 +1,9 @@
 {
-    "28663C90B7402063": [
-        {
-            "content": "[THE HOUSE OF THE DEAD, Remake (JP) v1.0.1(v65536)  TID=0100B3A017864000  BID=28663C90B7402063]\n\n",
-            "title": "[THE HOUSE OF THE DEAD, Remake (JP) v1.0.1(v65536)  TID=0100B3A017864000  BID=28663C90B7402063]"
-        },
-        {
-            "content": "{Restore Codes}\n040E0000 0395CBB8 1A9F07E0\n040E0000 01A5880C 36000880\n040E0000 01C68D84 B9006A68\n040E0000 018F58C0 2A0203F3\n\n\n",
-            "title": "{Restore Codes}"
-        },
-        {
-            "content": "[#01. God Mode (Invincible+UnlockEverying+1HitKill)]\n040E0000 0395CBB8 52800020\n\n",
-            "title": "[#01. God Mode (Invincible+UnlockEverying+1HitKill)]"
-        },
-        {
-            "content": "[#02. Infinite Ammo]\n040E0000 01A5880C D503201F\n040E0000 01C68D84 D503201F\n\n",
-            "title": "[#02. Infinite Ammo]"
-        },
-        {
-            "content": "[#03. Infinite Health]\n040E0000 018F58C0 2A1F03F3\n\n",
-            "title": "[#03. Infinite Health]"
-        }
-    ]
+    "28663C90B7402063": {
+        "[THE HOUSE OF THE DEAD, Remake (JP) v1.0.1(v65536)  TID=0100B3A017864000  BID=28663C90B7402063]": "[THE HOUSE OF THE DEAD, Remake (JP) v1.0.1(v65536)  TID=0100B3A017864000  BID=28663C90B7402063]\n\n",
+        "{Restore Codes}": "{Restore Codes}\n040E0000 0395CBB8 1A9F07E0\n040E0000 01A5880C 36000880\n040E0000 01C68D84 B9006A68\n040E0000 018F58C0 2A0203F3\n\n",
+        "[#01. God Mode (Invincible+UnlockEverying+1HitKill)]": "[#01. God Mode (Invincible+UnlockEverying+1HitKill)]\n040E0000 0395CBB8 52800020\n\n",
+        "[#02. Infinite Ammo]": "[#02. Infinite Ammo]\n040E0000 01A5880C D503201F\n040E0000 01C68D84 D503201F\n\n",
+        "[#03. Infinite Health]": "[#03. Infinite Health]\n040E0000 018F58C0 2A1F03F3\n\n"
+    }
 }

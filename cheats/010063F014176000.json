@@ -1,14 +1,8 @@
 {
-    "6CBEE0573826FF73": [
-        {
-            "content": "[60 FPS]\n580F0000 04714158\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-            "title": "[60 FPS]"
-        },
-        {
-            "content": "[Default 30 FPS]\n580F0000 04714158\n780F0000 00000F14\n640F0000 00000000 00000002",
-            "title": "[Default 30 FPS]"
-        }
-    ],
+    "6CBEE0573826FF73": {
+        "[60 FPS]": "[60 FPS]\n580F0000 04714158\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 04714158\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
     "attribution": {
         "Danganronpa V3 Killing Harmony Anniversary Edition.txt": "By Hazerou"
     }

@@ -1,18 +1,9 @@
 {
-    "3B1F3C4E8D93B74A": [
-        {
-            "content": "[*Inf Hp]\n580F0000 02DAA6B0\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n780F0000 00000080\n640F0000 00000000 42200000\n\n",
-            "title": "[*Inf Hp]"
-        },
-        {
-            "content": "[*Rage last more]\n580F0000 02DAA6B0\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n780F0000 00000050\n640F0000 00000000 41000000\n\n",
-            "title": "[*Rage last more]"
-        },
-        {
-            "content": "[*Inf Jump B]\n80000002\n580F0000 02DAA6B0\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n780F0000 00000140\n640F0000 00000000 FFFFFF00\n20000000",
-            "title": "[*Inf Jump B]"
-        }
-    ],
+    "3B1F3C4E8D93B74A": {
+        "[*Inf Hp]": "[*Inf Hp]\n580F0000 02DAA6B0\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n780F0000 00000080\n640F0000 00000000 42200000\n\n",
+        "[*Rage last more]": "[*Rage last more]\n580F0000 02DAA6B0\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n780F0000 00000050\n640F0000 00000000 41000000\n\n",
+        "[*Inf Jump B]": "[*Inf Jump B]\n80000002\n580F0000 02DAA6B0\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n780F0000 00000140\n640F0000 00000000 FFFFFF00\n20000000\n\n"
+    },
     "attribution": {
         "Mother Russia Bleeds ver 1.0.0 by jericoss.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
     }

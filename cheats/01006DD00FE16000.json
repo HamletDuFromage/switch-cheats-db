@@ -1,80 +1,26 @@
 {
-    "7769608A9494E5DB": [
-        {
-            "content": "[Invincible]\n080E0000 04BE9E00 394D1274 AA1303E0\n080E0000 04BE9E08 1A9F17F4 71000A9F\n080E0000 04BE9E10 D65F03C0 39240274\n040E0000 0170C4C4 94D3764F\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Crystals do not deduct]\n010E0000 016681CA 0000001F\n010E0000 016724AA 0000001F\n010E0000 0193772A 0000001F\n\n",
-            "title": "[Crystals do not deduct]"
-        },
-        {
-            "content": "[Solar chips do not deduct]\n010E0000 0166476A 0000001F\n\n",
-            "title": "[Solar chips do not deduct]"
-        },
-        {
-            "content": "[Note: Choose only one of the following **]\n20000000\n\n",
-            "title": "[Note: Choose only one of the following **]"
-        },
-        {
-            "content": "[* 1x Damage (Default)]\n040E0000 0170D3A0 4B080129\n040E0000 018633F0 4B080129\n\n",
-            "title": "[* 1x Damage (Default)]"
-        },
-        {
-            "content": "[* 2x Damage]\n080E0000 04BE9E20 7100081F 394D1260\n080E0000 04BE9E28 531F7908 54000040\n080E0000 04BE9E30 D65F03C0 4B080129\n040E0000 0170D3A0 94D372A0\n040E0000 018633F0 94CE1A8C\n\n",
-            "title": "[* 2x Damage]"
-        },
-        {
-            "content": "[* 4x Damage]\n080E0000 04BE9E20 7100081F 394D1260\n080E0000 04BE9E28 531E7508 54000040\n080E0000 04BE9E30 D65F03C0 4B080129\n040E0000 0170D3A0 94D372A0\n040E0000 018633F0 94CE1A8C\n\n",
-            "title": "[* 4x Damage]"
-        },
-        {
-            "content": "[* 8x Damage]\n080E0000 04BE9E20 7100081F 394D1260\n080E0000 04BE9E28 531D7108 54000040\n080E0000 04BE9E30 D65F03C0 4B080129\n040E0000 0170D3A0 94D372A0\n040E0000 018633F0 94CE1A8C\n\n",
-            "title": "[* 8x Damage]"
-        },
-        {
-            "content": "[* One-Hit-Kill (Not suggest)]\n080E0000 04BE9E20 7100081F 394D1260\n080E0000 04BE9E28 2A0903E8 54000040\n080E0000 04BE9E30 D65F03C0 4B080129\n040E0000 0170D3A0 94D372A0\n040E0000 018633F0 94CE1A8C\n\n",
-            "title": "[* One-Hit-Kill (Not suggest)]"
-        },
-        {
-            "content": "[Created by Eiffel2018, enjoy!]\n20000000",
-            "title": "[Created by Eiffel2018, enjoy!]"
-        }
-    ],
-    "AAC1A3684EA9CECF": [
-        {
-            "content": "[Invincible]\n080E0000 03D95E00 394D1268 AA1303E0\n080E0000 03D95E08 1A9F17E8 7100091F\n080E0000 03D95E10 D65F03C0 39240268\n040E0000 00967158 94D0BB2A\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Crystals do not deduct]\n010E0000 008EFE9E 0000001F\n010E0000 008EFCE2 0000001F\n010E0000 008F771A 0000001F\n\n",
-            "title": "[Crystals do not deduct]"
-        },
-        {
-            "content": "[Solar chips do not deduct]\n010E0000 008ED56A 0000001F\n\n",
-            "title": "[Solar chips do not deduct]"
-        },
-        {
-            "content": "[1x Damage (Default)]\n040E0000 009678D0 4B080129\n\n",
-            "title": "[1x Damage (Default)]"
-        },
-        {
-            "content": "[2x Damage]\n080E0000 03D95E20 7100081F 394D1260\n080E0000 03D95E28 531F7908 54000040\n080E0000 03D95E30 D65F03C0 4B080129\n040E0000 009678D0 94D0B954\n\n",
-            "title": "[2x Damage]"
-        },
-        {
-            "content": "[4x Damage]\n080E0000 03D95E20 7100081F 394D1260\n080E0000 03D95E28 531E7508 54000040\n080E0000 03D95E30 D65F03C0 4B080129\n040E0000 009678D0 94D0B954\n\n",
-            "title": "[4x Damage]"
-        },
-        {
-            "content": "[8x Damage]\n080E0000 03D95E20 7100081F 394D1260\n080E0000 03D95E28 531D7108 54000040\n080E0000 03D95E30 D65F03C0 4B080129\n040E0000 009678D0 94D0B954\n\n",
-            "title": "[8x Damage]"
-        },
-        {
-            "content": "[One-Hit-Kill (Not suggest)]\n080E0000 03D95E20 7100081F 394D1260\n080E0000 03D95E28 2A0903E8 54000040\n080E0000 03D95E30 D65F03C0 4B080129\n040E0000 009678D0 94D0B954\n\n",
-            "title": "[One-Hit-Kill (Not suggest)]"
-        }
-    ],
+    "AAC1A3684EA9CECF": {
+        "[Invincible]": "[Invincible]\n080E0000 03D95E00 394D1268 AA1303E0\n080E0000 03D95E08 1A9F17E8 7100091F\n080E0000 03D95E10 D65F03C0 39240268\n040E0000 00967158 94D0BB2A\n\n",
+        "[Crystals do not deduct]": "[Crystals do not deduct]\n010E0000 008EFE9E 0000001F\n010E0000 008EFCE2 0000001F\n010E0000 008F771A 0000001F\n\n",
+        "[Solar chips do not deduct]": "[Solar chips do not deduct]\n010E0000 008ED56A 0000001F\n\n",
+        "[1x Damage (Default)]": "[1x Damage (Default)]\n040E0000 009678D0 4B080129\n\n",
+        "[2x Damage]": "[2x Damage]\n080E0000 03D95E20 7100081F 394D1260\n080E0000 03D95E28 531F7908 54000040\n080E0000 03D95E30 D65F03C0 4B080129\n040E0000 009678D0 94D0B954\n\n",
+        "[4x Damage]": "[4x Damage]\n080E0000 03D95E20 7100081F 394D1260\n080E0000 03D95E28 531E7508 54000040\n080E0000 03D95E30 D65F03C0 4B080129\n040E0000 009678D0 94D0B954\n\n",
+        "[8x Damage]": "[8x Damage]\n080E0000 03D95E20 7100081F 394D1260\n080E0000 03D95E28 531D7108 54000040\n080E0000 03D95E30 D65F03C0 4B080129\n040E0000 009678D0 94D0B954\n\n",
+        "[One-Hit-Kill (Not suggest)]": "[One-Hit-Kill (Not suggest)]\n080E0000 03D95E20 7100081F 394D1260\n080E0000 03D95E28 2A0903E8 54000040\n080E0000 03D95E30 D65F03C0 4B080129\n040E0000 009678D0 94D0B954\n\n"
+    },
+    "7769608A9494E5DB": {
+        "[Invincible]": "[Invincible]\n080E0000 04BE9E00 394D1274 AA1303E0\n080E0000 04BE9E08 1A9F17F4 71000A9F\n080E0000 04BE9E10 D65F03C0 39240274\n040E0000 0170C4C4 94D3764F\n\n",
+        "[Crystals do not deduct]": "[Crystals do not deduct]\n010E0000 016681CA 0000001F\n010E0000 016724AA 0000001F\n010E0000 0193772A 0000001F\n\n",
+        "[Solar chips do not deduct]": "[Solar chips do not deduct]\n010E0000 0166476A 0000001F\n\n",
+        "[Note: Choose only one of the following **]": "[Note: Choose only one of the following **]\n20000000\n\n",
+        "[* 1x Damage (Default)]": "[* 1x Damage (Default)]\n040E0000 0170D3A0 4B080129\n040E0000 018633F0 4B080129\n\n",
+        "[* 2x Damage]": "[* 2x Damage]\n080E0000 04BE9E20 7100081F 394D1260\n080E0000 04BE9E28 531F7908 54000040\n080E0000 04BE9E30 D65F03C0 4B080129\n040E0000 0170D3A0 94D372A0\n040E0000 018633F0 94CE1A8C\n\n",
+        "[* 4x Damage]": "[* 4x Damage]\n080E0000 04BE9E20 7100081F 394D1260\n080E0000 04BE9E28 531E7508 54000040\n080E0000 04BE9E30 D65F03C0 4B080129\n040E0000 0170D3A0 94D372A0\n040E0000 018633F0 94CE1A8C\n\n",
+        "[* 8x Damage]": "[* 8x Damage]\n080E0000 04BE9E20 7100081F 394D1260\n080E0000 04BE9E28 531D7108 54000040\n080E0000 04BE9E30 D65F03C0 4B080129\n040E0000 0170D3A0 94D372A0\n040E0000 018633F0 94CE1A8C\n\n",
+        "[* One-Hit-Kill (Not suggest)]": "[* One-Hit-Kill (Not suggest)]\n080E0000 04BE9E20 7100081F 394D1260\n080E0000 04BE9E28 2A0903E8 54000040\n080E0000 04BE9E30 D65F03C0 4B080129\n040E0000 0170D3A0 94D372A0\n040E0000 018633F0 94CE1A8C\n\n",
+        "[Created by Eiffel2018, enjoy!]": "[Created by Eiffel2018, enjoy!]\n20000000\n\n"
+    },
     "attribution": {
         "Ultra Age ver 1.0.0 and 1.0.2 by eiffel2018 v1.0.2 (v131072).txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }

@@ -1,26 +1,11 @@
 {
-    "6DACEF3FD1431455": [
-        {
-            "content": "[Lion King S Infinite Health]\n58000000 0050D090\n58001000 00001758\n58001000 000000A0\n58001000 000000E8\n78000000 0000CCF7\n61000000 00000000 00040004\n\n",
-            "title": "[Lion King S Infinite Health]"
-        },
-        {
-            "content": "[Lion King N infinite health 1]\n58000000 0050D718\n58001000 00000108\n58001000 00000170\n58001000 00001760\n78000000 00002094\n64000000 00000000 7F540004\n\n",
-            "title": "[Lion King N infinite health 1]"
-        },
-        {
-            "content": "[Lion King Japan Infinite health 1]\n58000000 0050D718\n58001000 00000108\n58001000 00000170\n58001000 00001760\n78000000 00002094\n64000000 00000000 00000004\n\n",
-            "title": "[Lion King Japan Infinite health 1]"
-        },
-        {
-            "content": "[Aladdin S Infinite Health]\n58000000 0050D718\n58001000 00000170\n58001000 00001758\n58001000 000000A0\n58001000 000000E8\n78000000 0000EFFA\n64000000 00000000 00000008\n\n",
-            "title": "[Aladdin S Infinite Health]"
-        },
-        {
-            "content": "[Aladdin Special Cut]\n58000000 0050D718\n58001000 00000170\n58001000 00001758\n58001000 000000A0\n58001000 000000E8\n78000000 0000F514\n64000000 00000000 00000008 ",
-            "title": "[Aladdin Special Cut]"
-        }
-    ],
+    "6DACEF3FD1431455": {
+        "[Lion King S Infinite Health]": "[Lion King S Infinite Health]\n58000000 0050D090\n58001000 00001758\n58001000 000000A0\n58001000 000000E8\n78000000 0000CCF7\n61000000 00000000 00040004\n\n",
+        "[Lion King N infinite health 1]": "[Lion King N infinite health 1]\n58000000 0050D718\n58001000 00000108\n58001000 00000170\n58001000 00001760\n78000000 00002094\n64000000 00000000 7F540004\n\n",
+        "[Lion King Japan Infinite health 1]": "[Lion King Japan Infinite health 1]\n58000000 0050D718\n58001000 00000108\n58001000 00000170\n58001000 00001760\n78000000 00002094\n64000000 00000000 00000004\n\n",
+        "[Aladdin S Infinite Health]": "[Aladdin S Infinite Health]\n58000000 0050D718\n58001000 00000170\n58001000 00001758\n58001000 000000A0\n58001000 000000E8\n78000000 0000EFFA\n64000000 00000000 00000008\n\n",
+        "[Aladdin Special Cut]": "[Aladdin Special Cut]\n58000000 0050D718\n58001000 00000170\n58001000 00001758\n58001000 000000A0\n58001000 000000E8\n78000000 0000F514\n64000000 00000000 00000008\n\n"
+    },
     "attribution": {
         "Lion King and Aladdin by Wiitendo84.txt": "CC buttle and AP buttle codes will only apply during battle\nthese code are only work with atmosphere,because code include address and value check to avoid crash\nI'm not sure that the check is enough to avoid crash,so it's better to use only field cheat code."
     }

@@ -1,22 +1,10 @@
 {
-    "BA6922F2E506D442": [
-        {
-            "content": "[Infinite Money]\n580F0000 025A5468\n580F1000 000000B8\n780F0000 00000F90\n640F0000 00000000 3B9AC9FF\n\n",
-            "title": "[Infinite Money]"
-        },
-        {
-            "content": "[Infinite Stamina]\n580F0000 025A5468\n580F1000 000000B8\n580F1000 00001680\n780F0000 00000020\n640F0000 00000000 000000FA\n\n",
-            "title": "[Infinite Stamina]"
-        },
-        {
-            "content": "[Infinite Concept Points]\n580F0000 025A5468\n580F1000 000000B8\n780F0000 000013D4\n640F0000 00000000 00000063\n\n",
-            "title": "[Infinite Concept Points]"
-        },
-        {
-            "content": "[Infinite Band Points]\n580F0000 025A5468\n580F1000 000000B8\n780F0000 00001180\n640F0000 00000000 00000063",
-            "title": "[Infinite Band Points]"
-        }
-    ],
+    "BA6922F2E506D442": {
+        "[Infinite Money]": "[Infinite Money]\n580F0000 025A5468\n580F1000 000000B8\n780F0000 00000F90\n640F0000 00000000 3B9AC9FF\n\n",
+        "[Infinite Stamina]": "[Infinite Stamina]\n580F0000 025A5468\n580F1000 000000B8\n580F1000 00001680\n780F0000 00000020\n640F0000 00000000 000000FA\n\n",
+        "[Infinite Concept Points]": "[Infinite Concept Points]\n580F0000 025A5468\n580F1000 000000B8\n780F0000 000013D4\n640F0000 00000000 00000063\n\n",
+        "[Infinite Band Points]": "[Infinite Band Points]\n580F0000 025A5468\n580F1000 000000B8\n780F0000 00001180\n640F0000 00000000 00000063\n\n"
+    },
     "attribution": {
         "March to a Million ver 1.0.0 by wiitendo84.txt": ""
     }

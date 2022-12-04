@@ -1,92 +1,26 @@
 {
-    "708BCACA873EA32B": [
-        {
-            "content": "[Persona 5 Royal (HK) v1.0.0 TID=01004B10157F2000 BID=708BCACA873EA32B]\n\n",
-            "title": "[Persona 5 Royal (HK) v1.0.0 TID=01004B10157F2000 BID=708BCACA873EA32B]"
-        },
-        {
-            "content": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 008A64E0 79452809\n040E0000 008A3A60 0B010108\n040E0000 008A3A5C B9400C08\n040E0000 008A3AA0 0B010108\n040E0000 00679790 0B000114\n040E0000 0088FCA4 0B010108\n040E0000 008808F8 0B000129\n040E0000 009C078C 0B080128\n040E0000 0088C08C 39680100\n040E0000 0088C0EC 397C0100\n040E0000 0088BFFC 38686800\n040E0000 0088C180 38696900\n040E0000 0088C02C 39500100\n040E0000 0088C120 38696900\n040E0000 0088C05C 39600100\n040E0000 0088C150 38696900\n040E0000 0088C0BC 39780100\n040E0000 0097C3C8 97FC9B7A\n080E0000 0097A9A0 A9014FF4 A9BE7BFD\n040E0000 00858DB4 2A0103F4\n040E0000 00E37194 2A0003F8\n040E0000 00D9D664 97FFA2B7\n040E0000 00DD3FB4 97FEC81F\n040E0000 00DE1B10 97FE9110\n040E0000 00DC33EC 97FF0BAD\n040E0000 00DC33FC 97FF0BA9\n040E0000 009A40A8 9402A2C6\n040E0000 009A44D4 9402A1BB\n040E0000 009DDD78 9401BB92\n020E0000 02286B28 00000000\n020E0000 02286B2A 00000000\n020E0000 02286B2C 00000000\n\n",
-            "title": "[Restore Code (Use after unchecking any cheats below)]"
-        },
-        {
-            "content": "[#01. Inf AMMO]\n040E0000 008A64E0 D65F03C0\n\n",
-            "title": "[#01. Inf AMMO]"
-        },
-        {
-            "content": "[#02. Inf HP]\n080E0000 01318FF8 D65F03C0 0B010108\n080E0000 01318FF0 37180053 39400C13\n040E0000 01318FEC 36F80061\n040E0000 008A3A60 9429D563\n\n",
-            "title": "[#02. Inf HP]"
-        },
-        {
-            "content": "[#03. 5x Damage]\n080E0000 01318FE4 D65F03C0 B9400C08\n080E0000 01318FDC 0B010821 37180048\n080E0000 01318FD4 39400C08 36F80061\n040E0000 008A3A5C 9429D55E\n\n",
-            "title": "[#03. 5x Damage]"
-        },
-        {
-            "content": "[#04. Inf SP]\n080E0000 01318FCC D65F03C0 0B010108\n040E0000 01318FC8 37F80041\n040E0000 008A3AA0 9429D54A\n\n",
-            "title": "[#04. Inf SP]"
-        },
-        {
-            "content": "[#05. 8x EXP for player]\n040E0000 00679790 0B080C14\n\n",
-            "title": "[#05. 8x EXP for player]"
-        },
-        {
-            "content": "[#06. 8x EXP for Persona]\n040E0000 0088FCA4 0B010D08\n\n",
-            "title": "[#06. 8x EXP for Persona]"
-        },
-        {
-            "content": "[#07. Inf Money with 8x income]\n080E0000 01318FC0 17D59E4E 0B000D29\n040E0000 01318FBC 37F80040\n040E0000 008808F8 142A61B1\n080E0000 01318FB4 D65F03C0 2A0903E8\n080E0000 01318FAC 0B080D29 37F80048\n040E0000 009C078C 94256208\n\n",
-            "title": "[#07. Inf Money with 8x income]"
-        },
-        {
-            "content": "[#08. All items 88 (Realize after changed)]\n040E0000 0088C08C 52800B00\n\n",
-            "title": "[#08. All items 88 (Realize after changed)]"
-        },
-        {
-            "content": "[#09. Have all Treasures]\n040E0000 0088C0EC 52800020\n\n",
-            "title": "[#09. Have all Treasures]"
-        },
-        {
-            "content": "[#10. All weapons, accessory and outfit are ready]\n040E0000 0088BFFC 52800020\n040E0000 0088C180 52800020\n040E0000 0088C02C 52800020\n040E0000 0088C120 52800020\n040E0000 0088C05C 52800020\n040E0000 0088C150 52800020\n\n",
-            "title": "[#10. All weapons, accessory and outfit are ready]"
-        },
-        {
-            "content": "[#11. Have All Key Items (Fake)]\n040E0000 0088C0BC 52800020\n\n",
-            "title": "[#11. Have All Key Items (Fake)]"
-        },
-        {
-            "content": "[#12. No level restrictions on Persona Fusion]\n040E0000 0097C3C8 52800C60\n\n",
-            "title": "[#12. No level restrictions on Persona Fusion]"
-        },
-        {
-            "content": "[#13. Max Relative Confidant on Persona Fusion]\n080E0000 0097A9A0 D65F03C0 52800140\n\n",
-            "title": "[#13. Max Relative Confidant on Persona Fusion]"
-        },
-        {
-            "content": "[#14. 5x Confidant Raising Speed]\n040E0000 00858DB4 0B010834\n\n",
-            "title": "[#14. 5x Confidant Raising Speed]"
-        },
-        {
-            "content": "[#15. 5x Social Stats Raising Speed]\n040E0000 00E37194 0B000818\n\n",
-            "title": "[#15. 5x Social Stats Raising Speed]"
-        },
-        {
-            "content": "[#16. Thieves Den (PP) do not decrease]\n040E0000 00D9D664 2A1F03E0\n040E0000 00DD3FB4 2A1F03E0\n040E0000 00DE1B10 2A1F03E0\n040E0000 00DC33EC 2A1F03E0\n040E0000 00DC33FC 2A1F03E0\n\n",
-            "title": "[#16. Thieves Den (PP) do not decrease]"
-        },
-        {
-            "content": "[#17. Mementos Flowers do not decrease]\n040E0000 009A40A8 D503201F\n040E0000 009A44D4 D503201F\n040E0000 009DDD78 D503201F\n\n",
-            "title": "[#17. Mementos Flowers do not decrease]"
-        },
-        {
-            "content": "[#18. Max Mementos Stamps - Exp Up (200%)]\n020E0000 02286B28 0000000A\n\n",
-            "title": "[#18. Max Mementos Stamps - Exp Up (200%)]"
-        },
-        {
-            "content": "[#19. Max Mementos Stamps - Money Rewards Up (200%)]\n020E0000 02286B2A 0000000A\n\n",
-            "title": "[#19. Max Mementos Stamps - Money Rewards Up (200%)]"
-        },
-        {
-            "content": "[#20. Max Mementos Stamps - Item Rewards Up (200%)]\n020E0000 02286B2C 0000000A\n\n",
-            "title": "[#20. Max Mementos Stamps - Item Rewards Up (200%)]"
-        }
-    ]
+    "708BCACA873EA32B": {
+        "[Persona 5 Royal (HK) v1.0.0 TID=01004B10157F2000 BID=708BCACA873EA32B]": "[Persona 5 Royal (HK) v1.0.0 TID=01004B10157F2000 BID=708BCACA873EA32B]\n\n",
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 008A64E0 79452809\n040E0000 008A3A60 0B010108\n040E0000 008A3A5C B9400C08\n040E0000 008A3AA0 0B010108\n040E0000 00679790 0B000114\n040E0000 0088FCA4 0B010108\n040E0000 008808F8 0B000129\n040E0000 009C078C 0B080128\n040E0000 0088C08C 39680100\n040E0000 0088C0EC 397C0100\n040E0000 0088BFFC 38686800\n040E0000 0088C180 38696900\n040E0000 0088C02C 39500100\n040E0000 0088C120 38696900\n040E0000 0088C05C 39600100\n040E0000 0088C150 38696900\n040E0000 0088C0BC 39780100\n040E0000 0097C3C8 97FC9B7A\n080E0000 0097A9A0 A9014FF4 A9BE7BFD\n040E0000 00858DB4 2A0103F4\n040E0000 00E37194 2A0003F8\n040E0000 00D9D664 97FFA2B7\n040E0000 00DD3FB4 97FEC81F\n040E0000 00DE1B10 97FE9110\n040E0000 00DC33EC 97FF0BAD\n040E0000 00DC33FC 97FF0BA9\n040E0000 009A40A8 9402A2C6\n040E0000 009A44D4 9402A1BB\n040E0000 009DDD78 9401BB92\n020E0000 02286B28 00000000\n020E0000 02286B2A 00000000\n020E0000 02286B2C 00000000\n\n",
+        "[#01. Inf AMMO]": "[#01. Inf AMMO]\n040E0000 008A64E0 D65F03C0\n\n",
+        "[#02. Inf HP]": "[#02. Inf HP]\n080E0000 01318FF8 D65F03C0 0B010108\n080E0000 01318FF0 37180053 39400C13\n040E0000 01318FEC 36F80061\n040E0000 008A3A60 9429D563\n\n",
+        "[#03. 5x Damage]": "[#03. 5x Damage]\n080E0000 01318FE4 D65F03C0 B9400C08\n080E0000 01318FDC 0B010821 37180048\n080E0000 01318FD4 39400C08 36F80061\n040E0000 008A3A5C 9429D55E\n\n",
+        "[#04. Inf SP]": "[#04. Inf SP]\n080E0000 01318FCC D65F03C0 0B010108\n040E0000 01318FC8 37F80041\n040E0000 008A3AA0 9429D54A\n\n",
+        "[#05. 8x EXP for player]": "[#05. 8x EXP for player]\n040E0000 00679790 0B080C14\n\n",
+        "[#06. 8x EXP for Persona]": "[#06. 8x EXP for Persona]\n040E0000 0088FCA4 0B010D08\n\n",
+        "[#07. Inf Money with 8x income]": "[#07. Inf Money with 8x income]\n080E0000 01318FC0 17D59E4E 0B000D29\n040E0000 01318FBC 37F80040\n040E0000 008808F8 142A61B1\n080E0000 01318FB4 D65F03C0 2A0903E8\n080E0000 01318FAC 0B080D29 37F80048\n040E0000 009C078C 94256208\n\n",
+        "[#08. All items 88 (Realize after changed)]": "[#08. All items 88 (Realize after changed)]\n040E0000 0088C08C 52800B00\n\n",
+        "[#09. Have all Treasures]": "[#09. Have all Treasures]\n040E0000 0088C0EC 52800020\n\n",
+        "[#10. All weapons, accessory and outfit are ready]": "[#10. All weapons, accessory and outfit are ready]\n040E0000 0088BFFC 52800020\n040E0000 0088C180 52800020\n040E0000 0088C02C 52800020\n040E0000 0088C120 52800020\n040E0000 0088C05C 52800020\n040E0000 0088C150 52800020\n\n",
+        "[#11. Have All Key Items (Fake)]": "[#11. Have All Key Items (Fake)]\n040E0000 0088C0BC 52800020\n\n",
+        "[#12. No level restrictions on Persona Fusion]": "[#12. No level restrictions on Persona Fusion]\n040E0000 0097C3C8 52800C60\n\n",
+        "[#13. Max Relative Confidant on Persona Fusion]": "[#13. Max Relative Confidant on Persona Fusion]\n080E0000 0097A9A0 D65F03C0 52800140\n\n",
+        "[#14. 5x Confidant Raising Speed]": "[#14. 5x Confidant Raising Speed]\n040E0000 00858DB4 0B010834\n\n",
+        "[#15. 5x Social Stats Raising Speed]": "[#15. 5x Social Stats Raising Speed]\n040E0000 00E37194 0B000818\n\n",
+        "[#16. Thieves Den (PP) do not decrease]": "[#16. Thieves Den (PP) do not decrease]\n040E0000 00D9D664 2A1F03E0\n040E0000 00DD3FB4 2A1F03E0\n040E0000 00DE1B10 2A1F03E0\n040E0000 00DC33EC 2A1F03E0\n040E0000 00DC33FC 2A1F03E0\n\n",
+        "[#17. Mementos Flowers do not decrease]": "[#17. Mementos Flowers do not decrease]\n040E0000 009A40A8 D503201F\n040E0000 009A44D4 D503201F\n040E0000 009DDD78 D503201F\n\n",
+        "[#18. Max Mementos Stamps - Exp Up (200%)]": "[#18. Max Mementos Stamps - Exp Up (200%)]\n020E0000 02286B28 0000000A\n\n",
+        "[#19. Max Mementos Stamps - Money Rewards Up (200%)]": "[#19. Max Mementos Stamps - Money Rewards Up (200%)]\n020E0000 02286B2A 0000000A\n\n",
+        "[#20. Max Mementos Stamps - Item Rewards Up (200%)]": "[#20. Max Mementos Stamps - Item Rewards Up (200%)]\n020E0000 02286B2C 0000000A\n\n"
+    }
 }

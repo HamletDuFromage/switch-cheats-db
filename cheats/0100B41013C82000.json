@@ -1,70 +1,20 @@
 {
-    "9346D69ABD4CC24B": [
-        {
-            "content": "[accelerator normal]\n04000000 01893F48 1E2E1001\n\n",
-            "title": "[accelerator normal]"
-        },
-        {
-            "content": "[accelerator 1.25x]\n04000000 01893F48 1E2E9001\n\n",
-            "title": "[accelerator 1.25x]"
-        },
-        {
-            "content": "[accelerator 1.5x]\n04000000 01893F48 1E2F1001\n\n",
-            "title": "[accelerator 1.5x]"
-        },
-        {
-            "content": "[accelerator 1.75x]\n04000000 01893F48 1E2F9001\n\n",
-            "title": "[accelerator 1.75x]"
-        },
-        {
-            "content": "[accelerator 31x]\n04000000 01893F48 1E27F001\n\n",
-            "title": "[accelerator 31x]"
-        },
-        {
-            "content": "[accelerartor2 normal]\n04000000 01897C8C 1E2E1001\n\n",
-            "title": "[accelerartor2 normal]"
-        },
-        {
-            "content": "[accelerartor2 1.25x]\n04000000 01897C8C 1E2E9001\n\n",
-            "title": "[accelerartor2 1.25x]"
-        },
-        {
-            "content": "[accelerartor2 1.5x]\n04000000 01897C8C 1E2F1001\n\n",
-            "title": "[accelerartor2 1.5x]"
-        },
-        {
-            "content": "[accelerartor2 1.75x]\n04000000 01897C8C 1E2F9001\n\n",
-            "title": "[accelerartor2 1.75x]"
-        },
-        {
-            "content": "[accelerartor2 31x]\n04000000 01897C8C 1E27F001\n\n",
-            "title": "[accelerartor2 31x]"
-        },
-        {
-            "content": "[auto win 1 off]\n04000000 017E1C98 1E2E1009\n\n",
-            "title": "[auto win 1 off]"
-        },
-        {
-            "content": "[auto win 1 on]\n04000000 017E1C98 1E27F009\n\n",
-            "title": "[auto win 1 on]"
-        },
-        {
-            "content": "[always stay first 1on ]\n04000000 0181B060 D65F03C0\n\n",
-            "title": "[always stay first 1on ]"
-        },
-        {
-            "content": "[always stay first 1 off]\n04000000 0181B060 FC1D0FE8\n\n",
-            "title": "[always stay first 1 off]"
-        },
-        {
-            "content": "[always stay first 1on ]\n04000000 0181B060 D65F03C0\n\n",
-            "title": "[always stay first 1on ]"
-        },
-        {
-            "content": "[always stay first 1 off]\n04000000 0181B060 FC1D0FE8",
-            "title": "[always stay first 1 off]"
-        }
-    ],
+    "9346D69ABD4CC24B": {
+        "[accelerator normal]": "[accelerator normal]\n04000000 01893F48 1E2E1001\n\n",
+        "[accelerator 1.25x]": "[accelerator 1.25x]\n04000000 01893F48 1E2E9001\n\n",
+        "[accelerator 1.5x]": "[accelerator 1.5x]\n04000000 01893F48 1E2F1001\n\n",
+        "[accelerator 1.75x]": "[accelerator 1.75x]\n04000000 01893F48 1E2F9001\n\n",
+        "[accelerator 31x]": "[accelerator 31x]\n04000000 01893F48 1E27F001\n\n",
+        "[accelerartor2 normal]": "[accelerartor2 normal]\n04000000 01897C8C 1E2E1001\n\n",
+        "[accelerartor2 1.25x]": "[accelerartor2 1.25x]\n04000000 01897C8C 1E2E9001\n\n",
+        "[accelerartor2 1.5x]": "[accelerartor2 1.5x]\n04000000 01897C8C 1E2F1001\n\n",
+        "[accelerartor2 1.75x]": "[accelerartor2 1.75x]\n04000000 01897C8C 1E2F9001\n\n",
+        "[accelerartor2 31x]": "[accelerartor2 31x]\n04000000 01897C8C 1E27F001\n\n",
+        "[auto win 1 off]": "[auto win 1 off]\n04000000 017E1C98 1E2E1009\n\n",
+        "[auto win 1 on]": "[auto win 1 on]\n04000000 017E1C98 1E27F009\n\n",
+        "[always stay first 1on ]": "[always stay first 1on ]\n04000000 0181B060 D65F03C0\n\n",
+        "[always stay first 1 off]": "[always stay first 1 off]\n04000000 0181B060 FC1D0FE8\n\n"
+    },
     "attribution": {
         "Cruis n Blast ver 1.0.7 by xtatu.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"
     }

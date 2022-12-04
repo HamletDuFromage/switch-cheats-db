@@ -1,12 +1,6 @@
 {
-    "A44F64BA820EAA46": [
-        {
-            "content": "[9.999.999 Visible Punches]\n580F0000 0250DC40\n780F1000 00000324\n640F0000 00000000 0098967F\n\n",
-            "title": "[9.999.999 Visible Punches]"
-        },
-        {
-            "content": "[9.999.999 Invisible Punches]\n580F0000 02509C10\n780F0000 00000828\n640F0000 00000000 0098967F",
-            "title": "[9.999.999 Invisible Punches]"
-        }
-    ]
+    "A44F64BA820EAA46": {
+        "[9.999.999 Visible Punches]": "[9.999.999 Visible Punches]\n580F0000 0250DC40\n780F1000 00000324\n640F0000 00000000 0098967F\n\n",
+        "[9.999.999 Invisible Punches]": "[9.999.999 Invisible Punches]\n580F0000 02509C10\n780F0000 00000828\n640F0000 00000000 0098967F\n\n"
+    }
 }

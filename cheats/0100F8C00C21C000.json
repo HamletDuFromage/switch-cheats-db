@@ -1,10 +1,7 @@
 {
-    "199AEE8CFFFD5E73": [
-        {
-            "content": "[inf hp]\n580F0000 00B31808\n580F1000 000000E0\n580F1000 00000058\n580F1000 00000010\n580F1000 00000040\n780F0000 00000004\n640F0000 00000000 40400000",
-            "title": "[inf hp]"
-        }
-    ],
+    "199AEE8CFFFD5E73": {
+        "[inf hp]": "[inf hp]\n580F0000 00B31808\n580F1000 000000E0\n580F1000 00000058\n580F1000 00000010\n580F1000 00000040\n780F0000 00000004\n640F0000 00000000 40400000\n\n"
+    },
     "attribution": {
         "Omega Strike by arismendy64.txt": "Super Mario Allstars\nSuper Mario 3"
     }

@@ -1,18 +1,9 @@
 {
-    "24DB68E0A702F77A": [
-        {
-            "content": "[Inf Lives]\n011F0000 BFA3A353 0000000A\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Invincible]\n021F0000 BFA3A350 0000FC30\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf Power]\n011F0000 BFA3A352 0000000A\n",
-            "title": "[Inf Power]"
-        }
-    ],
+    "24DB68E0A702F77A": {
+        "[Inf Lives]": "[Inf Lives]\n011F0000 BFA3A353 0000000A\n\n",
+        "[Invincible]": "[Invincible]\n021F0000 BFA3A350 0000FC30\n\n",
+        "[Inf Power]": "[Inf Power]\n011F0000 BFA3A352 0000000A\n\n"
+    },
     "attribution": {
         "Arcade Archives Gemini Wing 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
     }

@@ -1,102 +1,30 @@
 {
-    "A70B9EB509780B4A": [
-        {
-            "content": "[Breeze beta19 Labyrinth of Refrain: Coven of Dusk 1.0.4 TID: 010058500B3E0000 BID: A70B9EB509780B4A]\n\n",
-            "title": "[Breeze beta19 Labyrinth of Refrain: Coven of Dusk 1.0.4 TID: 010058500B3E0000 BID: A70B9EB509780B4A]"
-        },
-        {
-            "content": "[HP Max]\n04000000 000529B4 1A80B008\n\n",
-            "title": "[HP Max]"
-        },
-        {
-            "content": "[HP Max Off]\n04000000 000529B4 1A94B008\n\n",
-            "title": "[HP Max Off]"
-        },
-        {
-            "content": "[DP Inf]\n04000000 000689C8 1A80B008\n04000000 000689E8 1A80B008\n04000000 00068A08 1A80B008\n\n",
-            "title": "[DP Inf]"
-        },
-        {
-            "content": "[DP Inf Off]\n04000000 000689C8 1A97B008\n04000000 000689E8 1A98B008\n04000000 00068A08 1A99B008\n\n",
-            "title": "[DP Inf Off]"
-        },
-        {
-            "content": "[Exp x4]\n04000000 0004E9B8 0B010908\n04000000 0004E9CC 0B010908\n\n",
-            "title": "[Exp x4]"
-        },
-        {
-            "content": "[Exp x4 Off]\n04000000 0004E9B8 0B010108\n04000000 0004E9CC 0B010108\n\n",
-            "title": "[Exp x4 Off]"
-        },
-        {
-            "content": "[Mana x4 (Battles and Labyrinth)]\n04000000 000CE228 0B160908\n04000000 00373F00 0B090BE9\n04000000 00373F04 0B080128\n04000000 00373F08 B9009269\n04000000 00373F0C D65F03C0\n04000000 0027F700 9403D200\n\n",
-            "title": "[Mana x4 (Battles and Labyrinth)]"
-        },
-        {
-            "content": "[Mana x4 (Battles and Labyrinth) Off]\n04000000 000CE228 0B160108\n04000000 0027F700 0B080128\n\n",
-            "title": "[Mana x4 (Battles and Labyrinth) Off]"
-        },
-        {
-            "content": "[Mana Max (Labyrinth)]\n04000000 0027F710 1A89B129\n\n",
-            "title": "[Mana Max (Labyrinth)]"
-        },
-        {
-            "content": "[Mana Max (Labyrinth) Off]\n04000000 0027F710 1A89B109\n\n",
-            "title": "[Mana Max (Labyrinth) Off]"
-        },
-        {
-            "content": "[Mana Max (Caravan)]\n04000000 002C03C8 1A89B129\n04000000 000FB4E0 1A89B129\n04000000 002AFC10 1A8AB14A\n04000000 000FB5EC 1A89B129\n04000000 002BA598 1A8AB14A\n\n",
-            "title": "[Mana Max (Caravan)]"
-        },
-        {
-            "content": "[Mana Max (Caravan) Off]\n04000000 002C03C8 1A89B109\n04000000 000FB4E0 1A89B109\n04000000 002AFC10 1A8AB12A\n04000000 000FB5EC 1A89B109\n04000000 002BA598 1A8AB12A\n\n",
-            "title": "[Mana Max (Caravan) Off]"
-        },
-        {
-            "content": "[Silver Coins Max]\n04000000 00218418 1A89B129\n04000000 0021C1CC 1A89B129\n\n",
-            "title": "[Silver Coins Max]"
-        },
-        {
-            "content": "[Silver Coins Max Off]\n04000000 00218418 1A89B109\n04000000 0021C1CC 1A89B109\n\n",
-            "title": "[Silver Coins Max Off]"
-        },
-        {
-            "content": "[Reinforcements Inf]\n04000000 0027CF18 1A89B128\n04000000 0027A660 1A89B128\n04000000 0027A778 1A89B128\n04000000 000BD7DC 1A89B129\n04000000 0027F4BC 1A89B128\n\n",
-            "title": "[Reinforcements Inf]"
-        },
-        {
-            "content": "[Reinforcements Inf Off]\n04000000 0027CF18 1A89B108\n04000000 0027A660 1A89B108\n04000000 0027A778 1A89B108\n04000000 000BD7DC 1A89B109\n04000000 0027F4BC 1A89B108\n\n",
-            "title": "[Reinforcements Inf Off]"
-        },
-        {
-            "content": "[One Hit Kill]\n04000000 00373F10 6B13001F\n04000000 00373F14 54000040\n04000000 00373F18 2A1F03E8\n04000000 00373F1C B900FE88\n04000000 00373F20 D65F03C0\n04000000 00029D38 940D2876\n\n",
-            "title": "[One Hit Kill]"
-        },
-        {
-            "content": "[One Hit Kill Off]\n04000000 00029D38 B900FE88\n\n",
-            "title": "[One Hit Kill Off]"
-        },
-        {
-            "content": "[Karma 0 After Battle]\n04000000 00281B40 1A9FB3E8\n\n",
-            "title": "[Karma 0 After Battle]"
-        },
-        {
-            "content": "[Karma 0 After Battle Off]\n04000000 00281B40 1A89B3E8\n\n",
-            "title": "[Karma 0 After Battle Off]"
-        },
-        {
-            "content": "[Items 50]\n04000000 000FA8E0 5280064A\n04000000 000FA8E4 1A8AB14A\n\n",
-            "title": "[Items 50]"
-        },
-        {
-            "content": "[Items 50 Off]\n04000000 000FA8E0 52800C6A\n04000000 000FA8E4 1A8AB10A\n\n",
-            "title": "[Items 50 Off]"
-        },
-        {
-            "content": "[Made by jhmiller]\n00000000 00000000 00000000\n",
-            "title": "[Made by jhmiller]"
-        }
-    ],
+    "A70B9EB509780B4A": {
+        "[Breeze beta19 Labyrinth of Refrain: Coven of Dusk 1.0.4 TID: 010058500B3E0000 BID: A70B9EB509780B4A]": "[Breeze beta19 Labyrinth of Refrain: Coven of Dusk 1.0.4 TID: 010058500B3E0000 BID: A70B9EB509780B4A]\n\n",
+        "[HP Max]": "[HP Max]\n04000000 000529B4 1A80B008\n\n",
+        "[HP Max Off]": "[HP Max Off]\n04000000 000529B4 1A94B008\n\n",
+        "[DP Inf]": "[DP Inf]\n04000000 000689C8 1A80B008\n04000000 000689E8 1A80B008\n04000000 00068A08 1A80B008\n\n",
+        "[DP Inf Off]": "[DP Inf Off]\n04000000 000689C8 1A97B008\n04000000 000689E8 1A98B008\n04000000 00068A08 1A99B008\n\n",
+        "[Exp x4]": "[Exp x4]\n04000000 0004E9B8 0B010908\n04000000 0004E9CC 0B010908\n\n",
+        "[Exp x4 Off]": "[Exp x4 Off]\n04000000 0004E9B8 0B010108\n04000000 0004E9CC 0B010108\n\n",
+        "[Mana x4 (Battles and Labyrinth)]": "[Mana x4 (Battles and Labyrinth)]\n04000000 000CE228 0B160908\n04000000 00373F00 0B090BE9\n04000000 00373F04 0B080128\n04000000 00373F08 B9009269\n04000000 00373F0C D65F03C0\n04000000 0027F700 9403D200\n\n",
+        "[Mana x4 (Battles and Labyrinth) Off]": "[Mana x4 (Battles and Labyrinth) Off]\n04000000 000CE228 0B160108\n04000000 0027F700 0B080128\n\n",
+        "[Mana Max (Labyrinth)]": "[Mana Max (Labyrinth)]\n04000000 0027F710 1A89B129\n\n",
+        "[Mana Max (Labyrinth) Off]": "[Mana Max (Labyrinth) Off]\n04000000 0027F710 1A89B109\n\n",
+        "[Mana Max (Caravan)]": "[Mana Max (Caravan)]\n04000000 002C03C8 1A89B129\n04000000 000FB4E0 1A89B129\n04000000 002AFC10 1A8AB14A\n04000000 000FB5EC 1A89B129\n04000000 002BA598 1A8AB14A\n\n",
+        "[Mana Max (Caravan) Off]": "[Mana Max (Caravan) Off]\n04000000 002C03C8 1A89B109\n04000000 000FB4E0 1A89B109\n04000000 002AFC10 1A8AB12A\n04000000 000FB5EC 1A89B109\n04000000 002BA598 1A8AB12A\n\n",
+        "[Silver Coins Max]": "[Silver Coins Max]\n04000000 00218418 1A89B129\n04000000 0021C1CC 1A89B129\n\n",
+        "[Silver Coins Max Off]": "[Silver Coins Max Off]\n04000000 00218418 1A89B109\n04000000 0021C1CC 1A89B109\n\n",
+        "[Reinforcements Inf]": "[Reinforcements Inf]\n04000000 0027CF18 1A89B128\n04000000 0027A660 1A89B128\n04000000 0027A778 1A89B128\n04000000 000BD7DC 1A89B129\n04000000 0027F4BC 1A89B128\n\n",
+        "[Reinforcements Inf Off]": "[Reinforcements Inf Off]\n04000000 0027CF18 1A89B108\n04000000 0027A660 1A89B108\n04000000 0027A778 1A89B108\n04000000 000BD7DC 1A89B109\n04000000 0027F4BC 1A89B108\n\n",
+        "[One Hit Kill]": "[One Hit Kill]\n04000000 00373F10 6B13001F\n04000000 00373F14 54000040\n04000000 00373F18 2A1F03E8\n04000000 00373F1C B900FE88\n04000000 00373F20 D65F03C0\n04000000 00029D38 940D2876\n\n",
+        "[One Hit Kill Off]": "[One Hit Kill Off]\n04000000 00029D38 B900FE88\n\n",
+        "[Karma 0 After Battle]": "[Karma 0 After Battle]\n04000000 00281B40 1A9FB3E8\n\n",
+        "[Karma 0 After Battle Off]": "[Karma 0 After Battle Off]\n04000000 00281B40 1A89B3E8\n\n",
+        "[Items 50]": "[Items 50]\n04000000 000FA8E0 5280064A\n04000000 000FA8E4 1A8AB14A\n\n",
+        "[Items 50 Off]": "[Items 50 Off]\n04000000 000FA8E0 52800C6A\n04000000 000FA8E4 1A8AB10A\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    },
     "attribution": {
         "LABYRINTH OF REFRAIN COVEN OF DUSK ver 1.0.4 cyiuspi.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
     }

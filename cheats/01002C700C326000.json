@@ -1,46 +1,16 @@
 {
-    "4E87ACAD6E878C33": [
-        {
-            "content": "[P1 Lives 9]\n08100000 AEA80E70 40220000 00000000\n\n",
-            "title": "[P1 Lives 9]"
-        },
-        {
-            "content": "[P1 Time Clock 9]\n08100000 AEA80E90 40220000 00000000\n\n",
-            "title": "[P1 Time Clock 9]"
-        },
-        {
-            "content": "[P1 Dynamite 9]\n08100000 AEA80EC0 40220000 00000000\n\n",
-            "title": "[P1 Dynamite 9]"
-        },
-        {
-            "content": "[P1 Turret]\n08100000 AEA80EF0 3FF00000 00000000\n\n",
-            "title": "[P1 Turret]"
-        },
-        {
-            "content": "[P2 Lives 9]\n08100000 AEA80E80 40220000 00000000\n\n",
-            "title": "[P2 Lives 9]"
-        },
-        {
-            "content": "[P2 Time Clock 9]\n08100000 AEA80EA0 40220000 00000000\n\n",
-            "title": "[P2 Time Clock 9]"
-        },
-        {
-            "content": "[P2 Dynamite 9]\n08100000 AEA80ED0 40220000 00000000\n\n",
-            "title": "[P2 Dynamite 9]"
-        },
-        {
-            "content": "[P2 Turret]\n08100000 AEA80F00 3FF00000 00000000\n\n",
-            "title": "[P2 Turret]"
-        },
-        {
-            "content": "[Gold 99999 - Story]\n08100000 AEA83740 40F869F0 00000000\n\n",
-            "title": "[Gold 99999 - Story]"
-        },
-        {
-            "content": "[Gold 99999 - Arcade]\n08100000 AEA83BE0 40F869F0 00000000",
-            "title": "[Gold 99999 - Arcade]"
-        }
-    ],
+    "4E87ACAD6E878C33": {
+        "[P1 Lives 9]": "[P1 Lives 9]\n08100000 AEA80E70 40220000 00000000\n\n",
+        "[P1 Time Clock 9]": "[P1 Time Clock 9]\n08100000 AEA80E90 40220000 00000000\n\n",
+        "[P1 Dynamite 9]": "[P1 Dynamite 9]\n08100000 AEA80EC0 40220000 00000000\n\n",
+        "[P1 Turret]": "[P1 Turret]\n08100000 AEA80EF0 3FF00000 00000000\n\n",
+        "[P2 Lives 9]": "[P2 Lives 9]\n08100000 AEA80E80 40220000 00000000\n\n",
+        "[P2 Time Clock 9]": "[P2 Time Clock 9]\n08100000 AEA80EA0 40220000 00000000\n\n",
+        "[P2 Dynamite 9]": "[P2 Dynamite 9]\n08100000 AEA80ED0 40220000 00000000\n\n",
+        "[P2 Turret]": "[P2 Turret]\n08100000 AEA80F00 3FF00000 00000000\n\n",
+        "[Gold 99999 - Story]": "[Gold 99999 - Story]\n08100000 AEA83740 40F869F0 00000000\n\n",
+        "[Gold 99999 - Arcade]": "[Gold 99999 - Arcade]\n08100000 AEA83BE0 40F869F0 00000000\n\n"
+    },
     "attribution": {
         "Riddled Corpses EX ver 1.0.1 by jhmiller.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }

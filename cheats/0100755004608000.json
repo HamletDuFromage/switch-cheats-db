@@ -1,26 +1,11 @@
 {
-    "E6565A2D8F70B84C": [
-        {
-            "content": "[Infinite Lives]\n011F0000 0198D152 00000007\n\n",
-            "title": "[Infinite Lives]"
-        },
-        {
-            "content": "[Infinite POW]\n011F0000 0198D89C 00000001\n\n",
-            "title": "[Infinite POW]"
-        },
-        {
-            "content": "[Invincible (Push ZL)]\n80000100\n041F0000 0198D13C 00040006\n20000000\n\n",
-            "title": "[Invincible (Push ZL)]"
-        },
-        {
-            "content": "[Super Jump]\n80000001\n011F0000 0198D147 000000DC\n20000000\n\n",
-            "title": "[Super Jump]"
-        },
-        {
-            "content": "[Anywhere POW (ZR)]\n80000200\n041F0000 0198D6F3 00000001\n20000000",
-            "title": "[Anywhere POW (ZR)]"
-        }
-    ],
+    "E6565A2D8F70B84C": {
+        "[Infinite Lives]": "[Infinite Lives]\n011F0000 0198D152 00000007\n\n",
+        "[Infinite POW]": "[Infinite POW]\n011F0000 0198D89C 00000001\n\n",
+        "[Invincible (Push ZL)]": "[Invincible (Push ZL)]\n80000100\n041F0000 0198D13C 00040006\n20000000\n\n",
+        "[Super Jump]": "[Super Jump]\n80000001\n011F0000 0198D147 000000DC\n20000000\n\n",
+        "[Anywhere POW (ZR)]": "[Anywhere POW (ZR)]\n80000200\n041F0000 0198D6F3 00000001\n20000000\n\n"
+    },
     "attribution": {
         "Arcade Archives Mario Bros by ZiT866.txt": "?After the 2th person, please add +08 to the following code\n580F1000 00000020"
     }

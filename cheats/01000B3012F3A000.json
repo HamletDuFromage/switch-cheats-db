@@ -1,14 +1,8 @@
 {
-    "72C59093E64EAB49": [
-        {
-            "content": "[Free shops]\n04000000 0169FB44 350004E8\n\n",
-            "title": "[Free shops]"
-        },
-        {
-            "content": "[Free shops (off)]\n04000000 0169FB44 340004E8\n",
-            "title": "[Free shops (off)]"
-        }
-    ],
+    "72C59093E64EAB49": {
+        "[Free shops]": "[Free shops]\n04000000 0169FB44 350004E8\n\n",
+        "[Free shops (off)]": "[Free shops (off)]\n04000000 0169FB44 340004E8\n\n"
+    },
     "attribution": {
         "Undermine by SveinParty.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }

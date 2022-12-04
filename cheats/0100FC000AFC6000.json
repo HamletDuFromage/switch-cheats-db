@@ -1,20 +1,8 @@
 {
-    "9EA96E90474DEA51": [
-        {
-            "content": "[P1 Infinite HP English Version]\n01000000 01280678 00000048\n\n",
-            "title": "[P1 Infinite HP English Version]"
-        },
-        {
-            "content": "[P2 HP 0 English Version]\n01000000 01280778 00000000\n\n",
-            "title": "[P2 HP 0 English Version]"
-        },
-        {
-            "content": "[P1 Infinite HP Japanese Version]\n01000000 01280478 00000048\n\n",
-            "title": "[P1 Infinite HP Japanese Version]"
-        },
-        {
-            "content": "[P2 HP 0 Japanese Version]\n01000000 01280578 00000000",
-            "title": "[P2 HP 0 Japanese Version]"
-        }
-    ]
+    "9EA96E90474DEA51": {
+        "[P1 Infinite HP English Version]": "[P1 Infinite HP English Version]\n01000000 01280678 00000048\n\n",
+        "[P2 HP 0 English Version]": "[P2 HP 0 English Version]\n01000000 01280778 00000000\n\n",
+        "[P1 Infinite HP Japanese Version]": "[P1 Infinite HP Japanese Version]\n01000000 01280478 00000048\n\n",
+        "[P2 HP 0 Japanese Version]": "[P2 HP 0 Japanese Version]\n01000000 01280578 00000000\n\n"
+    }
 }

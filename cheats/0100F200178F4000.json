@@ -1,88 +1,28 @@
 {
-    "194E08AE28646EFA": [
-        {
-            "content": "[60 FPS]\n580F0000 05F66DE8 \n780F0000 00000F14 \n640F0000 00000000 00000001 \n\n",
-            "title": "[60 FPS]"
-        },
-        {
-            "content": "[30 FPS (Default)]\n580F0000 05F66DE8 \n780F0000 00000F14 \n640F0000 00000000 00000002 \n\n",
-            "title": "[30 FPS (Default)]"
-        },
-        {
-            "content": "[360p Overall Resolution]\n580F0000 05F037C0 \n780F0000 000000C0 \n680F0000 00000168 00000280 \n780F0000 00000008 \n610F0000 00000000 00000001 \n\n",
-            "title": "[360p Overall Resolution]"
-        },
-        {
-            "content": "[480p Overall Resolution]\n580F0000 05F037C0 \n780F0000 000000C0 \n680F0000 000001E0 00000356 \n780F0000 00000008 \n610F0000 00000000 00000001 \n\n",
-            "title": "[480p Overall Resolution]"
-        },
-        {
-            "content": "[540p Overall Resolution]\n580F0000 05F037C0 \n780F0000 000000C0 \n680F0000 0000021C 000003C0 \n780F0000 00000008 \n610F0000 00000000 00000001 \n\n",
-            "title": "[540p Overall Resolution]"
-        },
-        {
-            "content": "[612p Overall Resolution]\n580F0000 05F037C0 \n780F0000 000000C0 \n680F0000 00000264 00000440 \n780F0000 00000008 \n610F0000 00000000 00000001 \n\n",
-            "title": "[612p Overall Resolution]"
-        },
-        {
-            "content": "[720p Overall Resolution (Handheld's Default)]\n580F0000 05F037C0 \n780F0000 000000C0 \n680F0000 000002D0 00000500 \n780F0000 00000008 \n610F0000 00000000 00000001 \n\n",
-            "title": "[720p Overall Resolution (Handheld's Default)]"
-        },
-        {
-            "content": "[810p Overall Resolution]\n580F0000 05F037C0 \n780F0000 000000C0 \n680F0000 0000032A 000005A0 \n780F0000 00000008 \n610F0000 00000000 00000001 \n\n",
-            "title": "[810p Overall Resolution]"
-        },
-        {
-            "content": "[900p Overall Resolution]\n580F0000 05F037C0 \n780F0000 000000C0 \n680F0000 00000384 00000640 \n780F0000 00000008 \n610F0000 00000000 00000001 \n\n",
-            "title": "[900p Overall Resolution]"
-        },
-        {
-            "content": "[1080p Overall Resolution (Docked's Default)]\n580F0000 05F037C0 \n780F0000 000000C0 \n680F0000 00000438 00000780 \n780F0000 00000008 \n610F0000 00000000 00000001 \n\n",
-            "title": "[1080p Overall Resolution (Docked's Default)]"
-        }
-    ],
-    "3F80B00963C3B024": [
-        {
-            "content": "[60 FPS]\n580F0000 05F6C068 \n780F0000 00000F14 \n640F0000 00000000 00000001 \n\n",
-            "title": "[60 FPS]"
-        },
-        {
-            "content": "[30 FPS (Default)]\n580F0000 05F6C068 \n780F0000 00000F14 \n640F0000 00000000 00000002 \n\n",
-            "title": "[30 FPS (Default)]"
-        },
-        {
-            "content": "[360p Overall Resolution]\n580F0000 05F08A40 \n780F0000 000000C0 \n680F0000 00000168 00000280 \n780F0000 00000008 \n610F0000 00000000 00000001 \n\n",
-            "title": "[360p Overall Resolution]"
-        },
-        {
-            "content": "[480p Overall Resolution]\n580F0000 05F08A40 \n780F0000 000000C0 \n680F0000 000001E0 00000356 \n780F0000 00000008 \n610F0000 00000000 00000001 \n\n",
-            "title": "[480p Overall Resolution]"
-        },
-        {
-            "content": "[540p Overall Resolution]\n580F0000 05F08A40 \n780F0000 000000C0 \n680F0000 0000021C 000003C0 \n780F0000 00000008 \n610F0000 00000000 00000001 \n\n",
-            "title": "[540p Overall Resolution]"
-        },
-        {
-            "content": "[612p Overall Resolution]\n580F0000 05F08A40 \n780F0000 000000C0 \n680F0000 00000264 00000440 \n780F0000 00000008 \n610F0000 00000000 00000001 \n\n",
-            "title": "[612p Overall Resolution]"
-        },
-        {
-            "content": "[720p Overall Resolution (Handheld's Default)]\n580F0000 05F08A40 \n780F0000 000000C0 \n680F0000 000002D0 00000500 \n780F0000 00000008 \n610F0000 00000000 00000001 \n\n",
-            "title": "[720p Overall Resolution (Handheld's Default)]"
-        },
-        {
-            "content": "[810p Overall Resolution]\n580F0000 05F08A40 \n780F0000 000000C0 \n680F0000 0000032A 000005A0 \n780F0000 00000008 \n610F0000 00000000 00000001 \n\n",
-            "title": "[810p Overall Resolution]"
-        },
-        {
-            "content": "[900p Overall Resolution]\n580F0000 05F08A40 \n780F0000 000000C0 \n680F0000 00000384 00000640 \n780F0000 00000008 \n610F0000 00000000 00000001 \n\n",
-            "title": "[900p Overall Resolution]"
-        },
-        {
-            "content": "[1080p Overall Resolution (Docked's Default)]\n580F0000 05F08A40 \n780F0000 000000C0 \n680F0000 00000438 00000780 \n780F0000 00000008 \n610F0000 00000000 00000001 \n",
-            "title": "[1080p Overall Resolution (Docked's Default)]"
-        }
-    ],
+    "194E08AE28646EFA": {
+        "[60 FPS]": "[60 FPS]\n580F0000 05F66DE8 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 05F66DE8 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[360p Overall Resolution]": "[360p Overall Resolution]\n580F0000 05F037C0 \n780F0000 000000C0 \n680F0000 00000168 00000280 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[480p Overall Resolution]": "[480p Overall Resolution]\n580F0000 05F037C0 \n780F0000 000000C0 \n680F0000 000001E0 00000356 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[540p Overall Resolution]": "[540p Overall Resolution]\n580F0000 05F037C0 \n780F0000 000000C0 \n680F0000 0000021C 000003C0 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[612p Overall Resolution]": "[612p Overall Resolution]\n580F0000 05F037C0 \n780F0000 000000C0 \n680F0000 00000264 00000440 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[720p Overall Resolution (Handheld's Default)]": "[720p Overall Resolution (Handheld's Default)]\n580F0000 05F037C0 \n780F0000 000000C0 \n680F0000 000002D0 00000500 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[810p Overall Resolution]": "[810p Overall Resolution]\n580F0000 05F037C0 \n780F0000 000000C0 \n680F0000 0000032A 000005A0 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[900p Overall Resolution]": "[900p Overall Resolution]\n580F0000 05F037C0 \n780F0000 000000C0 \n680F0000 00000384 00000640 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[1080p Overall Resolution (Docked's Default)]": "[1080p Overall Resolution (Docked's Default)]\n580F0000 05F037C0 \n780F0000 000000C0 \n680F0000 00000438 00000780 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n"
+    },
+    "3F80B00963C3B024": {
+        "[60 FPS]": "[60 FPS]\n580F0000 05F6C068 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 05F6C068 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[360p Overall Resolution]": "[360p Overall Resolution]\n580F0000 05F08A40 \n780F0000 000000C0 \n680F0000 00000168 00000280 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[480p Overall Resolution]": "[480p Overall Resolution]\n580F0000 05F08A40 \n780F0000 000000C0 \n680F0000 000001E0 00000356 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[540p Overall Resolution]": "[540p Overall Resolution]\n580F0000 05F08A40 \n780F0000 000000C0 \n680F0000 0000021C 000003C0 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[612p Overall Resolution]": "[612p Overall Resolution]\n580F0000 05F08A40 \n780F0000 000000C0 \n680F0000 00000264 00000440 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[720p Overall Resolution (Handheld's Default)]": "[720p Overall Resolution (Handheld's Default)]\n580F0000 05F08A40 \n780F0000 000000C0 \n680F0000 000002D0 00000500 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[810p Overall Resolution]": "[810p Overall Resolution]\n580F0000 05F08A40 \n780F0000 000000C0 \n680F0000 0000032A 000005A0 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[900p Overall Resolution]": "[900p Overall Resolution]\n580F0000 05F08A40 \n780F0000 000000C0 \n680F0000 00000384 00000640 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[1080p Overall Resolution (Docked's Default)]": "[1080p Overall Resolution (Docked's Default)]\n580F0000 05F08A40 \n780F0000 000000C0 \n680F0000 00000438 00000780 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n"
+    },
     "attribution": {
         "Front Mission 1st Remake.txt": "by retole\nNeed OC GPU 768\nIncluded in the text file:\nOverall Resolution Cheats from [360p] up to [1080p]"
     }

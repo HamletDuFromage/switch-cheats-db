@@ -1,26 +1,11 @@
 {
-    "49B81BB7A4A30917": [
-        {
-            "content": "[99999999]\n580F0000 000ADE20\n580F1000 00000004\n580F1000 00001010\n580F1000 00024868\n580F1000 00002758\n780F0000 0000010C\n640F0000 00000000 05F5E0FF\n\n",
-            "title": "[99999999]"
-        },
-        {
-            "content": "[*Inf Hp]\n580F0000 000C3870\n580F1000 00000E68\n580F1000 00001480\n580F1000 000005C8\n780F0000 000059E4\n640F0000 00000000 44C80000\n\n",
-            "title": "[*Inf Hp]"
-        },
-        {
-            "content": "[*No Overheat]\n580F0000 000C3870\n580F1000 00000E68\n580F1000 00001480\n580F1000 000005C8\n780F0000 00005AD4\n640F0000 00000000 3F800000\n\n",
-            "title": "[*No Overheat]"
-        },
-        {
-            "content": "[*Inf Hp 88888]\n580F0000 000C3870\n580F1000 00000E68\n580F1000 00001480\n580F1000 000005C8\n780F0000 000059E4\n640F0000 00000000 47AD9C00\n\n",
-            "title": "[*Inf Hp 88888]"
-        },
-        {
-            "content": "[Invulnerable]\n04100000 010C9D07 0080BB44",
-            "title": "[Invulnerable]"
-        }
-    ],
+    "49B81BB7A4A30917": {
+        "[99999999]": "[99999999]\n580F0000 000ADE20\n580F1000 00000004\n580F1000 00001010\n580F1000 00024868\n580F1000 00002758\n780F0000 0000010C\n640F0000 00000000 05F5E0FF\n\n",
+        "[*Inf Hp]": "[*Inf Hp]\n580F0000 000C3870\n580F1000 00000E68\n580F1000 00001480\n580F1000 000005C8\n780F0000 000059E4\n640F0000 00000000 44C80000\n\n",
+        "[*No Overheat]": "[*No Overheat]\n580F0000 000C3870\n580F1000 00000E68\n580F1000 00001480\n580F1000 000005C8\n780F0000 00005AD4\n640F0000 00000000 3F800000\n\n",
+        "[*Inf Hp 88888]": "[*Inf Hp 88888]\n580F0000 000C3870\n580F1000 00000E68\n580F1000 00001480\n580F1000 000005C8\n780F0000 000059E4\n640F0000 00000000 47AD9C00\n\n",
+        "[Invulnerable]": "[Invulnerable]\n04100000 010C9D07 0080BB44\n\n"
+    },
     "attribution": {
         "Jets'n'Guns ver 1.0.0 by merlin555.txt": "[Invulnerable]\n04100000 010C9D07 0080BB44\n",
         "jets n guns by bariesmendy64 and jericoss.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"

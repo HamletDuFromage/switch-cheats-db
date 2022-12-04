@@ -1,10 +1,7 @@
 {
-    "607440A612128046": [
-        {
-            "content": "[Ships unlimited]\n01100000 019E18A5 00000005\n",
-            "title": "[Ships unlimited]"
-        }
-    ],
+    "607440A612128046": {
+        "[Ships unlimited]": "[Ships unlimited]\n01100000 019E18A5 00000005\n\n"
+    },
     "attribution": {
         "Arcade Archives IMAGE FIGHT CHEAT file v1.0.1 By merlin555.txt": ""
     }

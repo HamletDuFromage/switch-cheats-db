@@ -1,42 +1,15 @@
 {
-    "EC34FB71507C2B42": [
-        {
-            "content": "[Inf Health DOT]\n04000000 00478318 D503201F\n\n",
-            "title": "[Inf Health DOT]"
-        },
-        {
-            "content": "[Inf Health in Battle - Hold ZR to get injured]\n04000000 00555900 D65F03C0\n80000200\n04000000 00555900 FC1E0FE8\n20000000\n\n",
-            "title": "[Inf Health in Battle - Hold ZR to get injured]"
-        },
-        {
-            "content": "[Money]\n04000000 003D0798 0098967F\n04000000 003D0790 18000040\n\n",
-            "title": "[Money]"
-        },
-        {
-            "content": "[exp x2]\n04000000 00543A6C 0B010535\n\n",
-            "title": "[exp x2]"
-        },
-        {
-            "content": "[exp x4]\n04000000 00543A6C 0B010935\n\n",
-            "title": "[exp x4]"
-        },
-        {
-            "content": "[exp x8]\n04000000 00543A6C 0B010D35\n\n",
-            "title": "[exp x8]"
-        },
-        {
-            "content": "[exp x16]\n04000000 00543A6C 0B011D35\n\n",
-            "title": "[exp x16]"
-        },
-        {
-            "content": "[exp x64]\n04000000 00543A6C 0B011135\n\n",
-            "title": "[exp x64]"
-        },
-        {
-            "content": "[exp max]\n04000000 00543A6C 0B017D35",
-            "title": "[exp max]"
-        }
-    ],
+    "EC34FB71507C2B42": {
+        "[Inf Health DOT]": "[Inf Health DOT]\n04000000 00478318 D503201F\n\n",
+        "[Inf Health in Battle - Hold ZR to get injured]": "[Inf Health in Battle - Hold ZR to get injured]\n04000000 00555900 D65F03C0\n80000200\n04000000 00555900 FC1E0FE8\n20000000\n\n",
+        "[Money]": "[Money]\n04000000 003D0798 0098967F\n04000000 003D0790 18000040\n\n",
+        "[exp x2]": "[exp x2]\n04000000 00543A6C 0B010535\n\n",
+        "[exp x4]": "[exp x4]\n04000000 00543A6C 0B010935\n\n",
+        "[exp x8]": "[exp x8]\n04000000 00543A6C 0B010D35\n\n",
+        "[exp x16]": "[exp x16]\n04000000 00543A6C 0B011D35\n\n",
+        "[exp x64]": "[exp x64]\n04000000 00543A6C 0B011135\n\n",
+        "[exp max]": "[exp max]\n04000000 00543A6C 0B017D35\n\n"
+    },
     "attribution": {
         "Legrand Legacy Tale of the Fatebounds v1.0.0 by DaBlackDeath.txt": "Turn on the cheat code after the stage starts."
     }

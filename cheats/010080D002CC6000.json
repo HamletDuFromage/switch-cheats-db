@@ -1,10 +1,7 @@
 {
-    "A08736D63A033846": [
-        {
-            "content": "[1P HITANHWHERE]\n04100000 02DFE958 6002008C\n04100000 02DFE968 BE604E71\n04100000 02DFE970 4E710C2D",
-            "title": "[1P HITANHWHERE]"
-        }
-    ],
+    "A08736D63A033846": {
+        "[1P HITANHWHERE]": "[1P HITANHWHERE]\n04100000 02DFE958 6002008C\n04100000 02DFE968 BE604E71\n04100000 02DFE970 4E710C2D\n\n"
+    },
     "attribution": {
         "Johnny Turbos Arcade Two Crude Dudes ver 1.0.0 by xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }

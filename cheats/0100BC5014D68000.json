@@ -1,40 +1,13 @@
 {
-    "6EC8ACB10D0CA14F": [
-        {
-            "content": "[HP Inf]\n04000000 01421624 D503201F\n\n",
-            "title": "[HP Inf]"
-        },
-        {
-            "content": "[HP Inf Off]\n04000000 01421624 4B140108\n\n",
-            "title": "[HP Inf Off]"
-        },
-        {
-            "content": "[Energy No Decrease]\n04000000 01421AC8 D503201F\n\n",
-            "title": "[Energy No Decrease]"
-        },
-        {
-            "content": "[Energy No Decrease Off]\n04000000 01421AC8 4B140108\n\n",
-            "title": "[Energy No Decrease Off]"
-        },
-        {
-            "content": "[Coins Max]\n04000000 016B5EC4 1A88B108\n\n",
-            "title": "[Coins Max]"
-        },
-        {
-            "content": "[Coins Max Off]\n04000000 016B5EC4 1A88B268\n\n",
-            "title": "[Coins Max Off]"
-        },
-        {
-            "content": "[Medals 9]\n04000000 016B5F58 52800133\n\n",
-            "title": "[Medals 9]"
-        },
-        {
-            "content": "[Medals 9 Off]\n04000000 016B5F58 2A0003F3\n\n",
-            "title": "[Medals 9 Off]"
-        },
-        {
-            "content": "[Made by jhmiller]\n00000000 00000000 00000000\n",
-            "title": "[Made by jhmiller]"
-        }
-    ]
+    "6EC8ACB10D0CA14F": {
+        "[HP Inf]": "[HP Inf]\n04000000 01421624 D503201F\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 01421624 4B140108\n\n",
+        "[Energy No Decrease]": "[Energy No Decrease]\n04000000 01421AC8 D503201F\n\n",
+        "[Energy No Decrease Off]": "[Energy No Decrease Off]\n04000000 01421AC8 4B140108\n\n",
+        "[Coins Max]": "[Coins Max]\n04000000 016B5EC4 1A88B108\n\n",
+        "[Coins Max Off]": "[Coins Max Off]\n04000000 016B5EC4 1A88B268\n\n",
+        "[Medals 9]": "[Medals 9]\n04000000 016B5F58 52800133\n\n",
+        "[Medals 9 Off]": "[Medals 9 Off]\n04000000 016B5F58 2A0003F3\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
 }

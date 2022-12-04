@@ -1,22 +1,10 @@
 {
-    "DE8DAE262124A8B8": [
-        {
-            "content": "[enermies dont attack on]\n04000000 02C614C8 D503201F\n\nturn on the code only in the fight\n\n",
-            "title": "[enermies dont attack on]"
-        },
-        {
-            "content": "[enermies dont attack off]\n04000000 02C614C8 7100011F\n\nturn off code to hit enemies they stay put\n\n",
-            "title": "[enermies dont attack off]"
-        },
-        {
-            "content": "[damager normal 1p to enermies]\n04000000 00912EB4 1E2E1000\n\n",
-            "title": "[damager normal 1p to enermies]"
-        },
-        {
-            "content": "[damager 31x 1p to enermies]\n04000000 00912EB4 1E27F000",
-            "title": "[damager 31x 1p to enermies]"
-        }
-    ],
+    "DE8DAE262124A8B8": {
+        "[enermies dont attack on]": "[enermies dont attack on]\n04000000 02C614C8 D503201F\n\nturn on the code only in the fight\n\n",
+        "[enermies dont attack off]": "[enermies dont attack off]\n04000000 02C614C8 7100011F\n\nturn off code to hit enemies they stay put\n\n",
+        "[damager normal 1p to enermies]": "[damager normal 1p to enermies]\n04000000 00912EB4 1E2E1000\n\n",
+        "[damager 31x 1p to enermies]": "[damager 31x 1p to enermies]\n04000000 00912EB4 1E27F000\n\n"
+    },
     "attribution": {
         "Ultra Age Demo ver 1.0.0.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }

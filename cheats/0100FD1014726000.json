@@ -1,114 +1,36 @@
 {
-    "CC01700D7BC40CC9": [
-        {
-            "content": "[Inf Gold 99999]\n04000000 003e4754 0001869F",
-            "title": "[Inf Gold 99999]"
-        }
-    ],
-    "D0B3501DC634C120": [
-        {
-            "content": "[1p inf health]\n04000000 000C06F0 D65F03C0\n\n",
-            "title": "[1p inf health]"
-        },
-        {
-            "content": "[1p stealth]\n04000000 000A4EF0 1E283000\n\n",
-            "title": "[1p stealth]"
-        },
-        {
-            "content": "[Inf Gold 99999]\n04000000 003e4754 0001869F\n\n",
-            "title": "[Inf Gold 99999]"
-        },
-        {
-            "content": "[ Inf Slot 1 ]\n04000000 003e5004 00000004\n\n",
-            "title": "[ Inf Slot 1 ]"
-        },
-        {
-            "content": "[ Inf Slot 2]\n04000000 003e4fc4 00000004\n\n",
-            "title": "[ Inf Slot 2]"
-        },
-        {
-            "content": "[ Inf Slot 3]\n04000000 003e4fe4 00000004\n\n",
-            "title": "[ Inf Slot 3]"
-        },
-        {
-            "content": "[ Inf Slot 4]\n04000000 003e4ff4 00000004\n\n",
-            "title": "[ Inf Slot 4]"
-        },
-        {
-            "content": "[Item Slot 1 x10]\n04000000 003E4FC4 0000000A\n\n",
-            "title": "[Item Slot 1 x10]"
-        },
-        {
-            "content": "[Item Slot 2 x10]\n04000000 003E4FD4 0000000A\n\n",
-            "title": "[Item Slot 2 x10]"
-        },
-        {
-            "content": "[Item Slot 3 x10]\n04000000 003E4FE4 0000000A\n\n",
-            "title": "[Item Slot 3 x10]"
-        },
-        {
-            "content": "[Item Slot 4 x10]\n04000000 003E4FF4 0000000A\n\n",
-            "title": "[Item Slot 4 x10]"
-        },
-        {
-            "content": "[Infinite HP]\n04000000 003E471C 46C80000\n\n",
-            "title": "[Infinite HP]"
-        },
-        {
-            "content": "[Max HP]\n04000000 003E4720 46C80000\n\n",
-            "title": "[Max HP]"
-        },
-        {
-            "content": "[Infinite MP]\n04000000 003E4734 46C80000\n\n",
-            "title": "[Infinite MP]"
-        },
-        {
-            "content": "[Max MP]\n04000000 003E4738 46C80000\n\n",
-            "title": "[Max MP]"
-        },
-        {
-            "content": "[ZL+X 999 Skill Points]\n80000104\n02000000 003E4758 000003E7\n20000000\n\n",
-            "title": "[ZL+X 999 Skill Points]"
-        },
-        {
-            "content": "[ZR+X 0 Skill Points]\n80000204\n02000000 003E4758 00000000\n20000000\n\n",
-            "title": "[ZR+X 0 Skill Points]"
-        },
-        {
-            "content": "[Quick Lv. 40]\n04000000 003E46D0 000F4240\n\n",
-            "title": "[Quick Lv. 40]"
-        },
-        {
-            "content": "[Super High Carry Limit]\n04000000 003E47A0 4B095440\n\n",
-            "title": "[Super High Carry Limit]"
-        },
-        {
-            "content": "[High Strength]\n04000000 003E46EC 000000FA\n\n",
-            "title": "[High Strength]"
-        },
-        {
-            "content": "[High Intelligence]\n04000000 003E46F0 000000C8\n\n",
-            "title": "[High Intelligence]"
-        },
-        {
-            "content": "[High Wisdom]\n04000000 003E46F4 000000C8\n\n",
-            "title": "[High Wisdom]"
-        },
-        {
-            "content": "[High Dexterity]\n04000000 003E46F8 000000C8\n\n",
-            "title": "[High Dexterity]"
-        },
-        {
-            "content": "[High Constitution]\n04000000 003E46FC 000000C8\n\n",
-            "title": "[High Constitution]"
-        },
-        {
-            "content": "[High Charisma]\n04000000 003E4700 000000C8\n\n\n",
-            "title": "[High Charisma]"
-        }
-    ],
+    "CC01700D7BC40CC9": {
+        "[Inf Gold 99999]": "[Inf Gold 99999]\n04000000 003e4754 0001869F\n\n"
+    },
+    "D0B3501DC634C120": {
+        "[1p inf health]": "[1p inf health]\n04000000 000C06F0 D65F03C0\n\n",
+        "[1p stealth]": "[1p stealth]\n04000000 000A4EF0 1E283000\n\n",
+        "[Inf Gold 99999]": "[Inf Gold 99999]\n04000000 003e4754 0001869F\n\n",
+        "[ Inf Slot 1 ]": "[ Inf Slot 1 ]\n04000000 003e5004 00000004\n\n",
+        "[ Inf Slot 2]": "[ Inf Slot 2]\n04000000 003e4fc4 00000004\n\n",
+        "[ Inf Slot 3]": "[ Inf Slot 3]\n04000000 003e4fe4 00000004\n\n",
+        "[ Inf Slot 4]": "[ Inf Slot 4]\n04000000 003e4ff4 00000004\n\n",
+        "[Item Slot 1 x10]": "[Item Slot 1 x10]\n04000000 003E4FC4 0000000A\n\n",
+        "[Item Slot 2 x10]": "[Item Slot 2 x10]\n04000000 003E4FD4 0000000A\n\n",
+        "[Item Slot 3 x10]": "[Item Slot 3 x10]\n04000000 003E4FE4 0000000A\n\n",
+        "[Item Slot 4 x10]": "[Item Slot 4 x10]\n04000000 003E4FF4 0000000A\n\n",
+        "[Infinite HP]": "[Infinite HP]\n04000000 003E471C 46C80000\n\n",
+        "[Max HP]": "[Max HP]\n04000000 003E4720 46C80000\n\n",
+        "[Infinite MP]": "[Infinite MP]\n04000000 003E4734 46C80000\n\n",
+        "[Max MP]": "[Max MP]\n04000000 003E4738 46C80000\n\n",
+        "[ZL+X 999 Skill Points]": "[ZL+X 999 Skill Points]\n80000104\n02000000 003E4758 000003E7\n20000000\n\n",
+        "[ZR+X 0 Skill Points]": "[ZR+X 0 Skill Points]\n80000204\n02000000 003E4758 00000000\n20000000\n\n",
+        "[Quick Lv. 40]": "[Quick Lv. 40]\n04000000 003E46D0 000F4240\n\n",
+        "[Super High Carry Limit]": "[Super High Carry Limit]\n04000000 003E47A0 4B095440\n\n",
+        "[High Strength]": "[High Strength]\n04000000 003E46EC 000000FA\n\n",
+        "[High Intelligence]": "[High Intelligence]\n04000000 003E46F0 000000C8\n\n",
+        "[High Wisdom]": "[High Wisdom]\n04000000 003E46F4 000000C8\n\n",
+        "[High Dexterity]": "[High Dexterity]\n04000000 003E46F8 000000C8\n\n",
+        "[High Constitution]": "[High Constitution]\n04000000 003E46FC 000000C8\n\n",
+        "[High Charisma]": "[High Charisma]\n04000000 003E4700 000000C8\n\n"
+    },
     "attribution": {
-        "Baldurs Gate Drak Alliance ver 1.0.0 by Matias3ds ver 1.0.1 by ChristianFLrenss Xtatu and Matias3ds.txt": "NOTE:\nIf stats become unusable, set to lower number (tested with these a little and seemd fine. Dont exceed too hard or you might get 1 shot etc).\nStat changes will be made when you teleport in/out or level up.",
-        "Baldurs Gate Drak Alliance ver 1.0.0 by Matias3ds ver 1.0.1 by Xtatu and Matias3ds.txt": ""
+        "Baldurs Gate Drak Alliance ver 1.0.0 by Matias3ds ver 1.0.1 by Xtatu and Matias3ds.txt": "",
+        "Baldurs Gate Drak Alliance ver 1.0.0 by Matias3ds ver 1.0.1 by ChristianFLrenss Xtatu and Matias3ds.txt": "NOTE:\nIf stats become unusable, set to lower number (tested with these a little and seemd fine. Dont exceed too hard or you might get 1 shot etc).\nStat changes will be made when you teleport in/out or level up."
     }
 }

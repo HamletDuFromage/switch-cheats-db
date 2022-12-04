@@ -1,48 +1,18 @@
 {
-    "3F4477107AB9B84C": [
-        {
-            "content": "[Inf Health - Hold RStick to be vulnerable]\n04000000 001D3B80 B9402000\n80000020\n04000000 001D3B80 B9401800\n20000000\n\n",
-            "title": "[Inf Health - Hold RStick to be vulnerable]"
-        },
-        {
-            "content": "[Inf Energy]\n04000000 001D3D60 B944E800\n\n",
-            "title": "[Inf Energy]"
-        },
-        {
-            "content": "[Upgrade to get 99 Blood Medal]\n04000000 002BC78C 52800C62\n\n",
-            "title": "[Upgrade to get 99 Blood Medal]"
-        },
-        {
-            "content": "[Low GameTime]\n04000000 00261C60 52800000",
-            "title": "[Low GameTime]"
-        }
-    ],
-    "C0A75CFE9B9B814A": [
-        {
-            "content": "[Inf Health - Hold RStick to be vulnerable]\n04000000 0007CA70 B9402000\n80000020\n04000000 0007CA70 B9401800\n20000000\n\n",
-            "title": "[Inf Health - Hold RStick to be vulnerable]"
-        },
-        {
-            "content": "[Inf Energy]\n04000000 0007CC50 B944E800\n\n",
-            "title": "[Inf Energy]"
-        },
-        {
-            "content": "[no deadly damage]\n04000000 00082640 D65F03C0\n\n",
-            "title": "[no deadly damage]"
-        },
-        {
-            "content": "[Upgrade to get 99 Blood Medal]\n04000000 003044CC 52800C62\n\n",
-            "title": "[Upgrade to get 99 Blood Medal]"
-        },
-        {
-            "content": "[Low GameTime]\n04000000 00249E70 52800000\n\n",
-            "title": "[Low GameTime]"
-        },
-        {
-            "content": "[L+B Superjump]\n04000000 001D77B4 1E2E1001\n80000040\n04000000 001D77B4 1E201001\n20000000",
-            "title": "[L+B Superjump]"
-        }
-    ],
+    "C0A75CFE9B9B814A": {
+        "[Inf Health - Hold RStick to be vulnerable]": "[Inf Health - Hold RStick to be vulnerable]\n04000000 0007CA70 B9402000\n80000020\n04000000 0007CA70 B9401800\n20000000\n\n",
+        "[Inf Energy]": "[Inf Energy]\n04000000 0007CC50 B944E800\n\n",
+        "[no deadly damage]": "[no deadly damage]\n04000000 00082640 D65F03C0\n\n",
+        "[Upgrade to get 99 Blood Medal]": "[Upgrade to get 99 Blood Medal]\n04000000 003044CC 52800C62\n\n",
+        "[Low GameTime]": "[Low GameTime]\n04000000 00249E70 52800000\n\n",
+        "[L+B Superjump]": "[L+B Superjump]\n04000000 001D77B4 1E2E1001\n80000040\n04000000 001D77B4 1E201001\n20000000\n\n"
+    },
+    "3F4477107AB9B84C": {
+        "[Inf Health - Hold RStick to be vulnerable]": "[Inf Health - Hold RStick to be vulnerable]\n04000000 001D3B80 B9402000\n80000020\n04000000 001D3B80 B9401800\n20000000\n\n",
+        "[Inf Energy]": "[Inf Energy]\n04000000 001D3D60 B944E800\n\n",
+        "[Upgrade to get 99 Blood Medal]": "[Upgrade to get 99 Blood Medal]\n04000000 002BC78C 52800C62\n\n",
+        "[Low GameTime]": "[Low GameTime]\n04000000 00261C60 52800000\n\n"
+    },
     "attribution": {
         "Valfaris v1.0.0 and ver 1.0.2 by DaBlackdeath.txt": ""
     }

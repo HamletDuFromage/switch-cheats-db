@@ -1,52 +1,19 @@
 {
-    "010050F00BC1A000": [
-        {
-            "content": "[Infinite Slot 1]\n580F0000 015A4FA8\n780F0000 00000090\n640F0000 00000000 000003E7\n580F0000 015A4FA8\n780F0000 00000048\n640F0000 00000000 000003E7\n\n",
-            "title": "[Infinite Slot 1]"
-        }
-    ],
-    "6BEC9B23B09DF46C": [
-        {
-            "content": "[Walk Through Walls (ON:- and Y, OFF:- and B)]\n581F0000 14001c10\n780F0000 00000F4C\n80000808\n640F0000 00000000 00000000\n20000000\n80000802\n640F0000 00000000 00010001\n20000000\n\n",
-            "title": "[Walk Through Walls (ON:- and Y, OFF:- and B)]"
-        },
-        {
-            "content": "[Character Speed Up (Hold B)]\n581F0000 14001c10\n780F0000 0000009c\n640F0000 00000000 3f800000\n80000002\n640F0000 00000000 40800000\n20000000\n\n",
-            "title": "[Character Speed Up (Hold B)]"
-        },
-        {
-            "content": "[Character Size Up (Hold Y)]\n581F0000 14001C10\n780F1000 000004AC\n300E0000 00000003\n640F0000 00000000 3F800000\n780F0000 00000004\n80000008\n640F0000 00000000 3FB00000\n780F0000 00000004\n310E0000\n20000000\n\n",
-            "title": "[Character Size Up (Hold Y)]"
-        },
-        {
-            "content": "[Game Speed (ON:- and Up, OFF:- and Down)]\n580F0000 015d3440\n780F0000 00002a24\n80008800\n640F0000 00000000 3f800000\n20000000\n80002800\n640F0000 00000000 40800000\n20000000\n\n",
-            "title": "[Game Speed (ON:- and Up, OFF:- and Down)]"
-        },
-        {
-            "content": "[Infinite Health]\n021f0000 14039c1c 000003c0 \n\n",
-            "title": "[Infinite Health]"
-        },
-        {
-            "content": "[1P INVICIBLE]\n04000000 001A7050 D65F03C0\n\n",
-            "title": "[1P INVICIBLE]"
-        },
-        {
-            "content": "[HITAYWHERE]\n04000000 00017A70 D65F03C0\n\n",
-            "title": "[HITAYWHERE]"
-        },
-        {
-            "content": "[o Play As Jill (Chris Scenario)]\n80000110 011F0000 1E7A51B8 00000001\n041F0000 1E7A51C7 00000000\n20000000\n",
-            "title": "[o Play As Jill (Chris Scenario)]"
-        },
-        {
-            "content": "[o Play As Chris (Jills Scenario)]\n80000120 011F0000 1E7A51B8 00000000\n041F0000 1E7A51C7 01010101\n20000000\n",
-            "title": "[o Play As Chris (Jills Scenario)]"
-        },
-        {
-            "content": "[Infinite Ammo]\n80000081\n58000000 01EC7A98\n58001000 00000378\n58001000 00000110\n78000000 000011A4\n64000000 00000000 000003e7\n20000000\n80000201\n58000000 01EC7A98\n58001000 00000378\n58001000 00000110\n78000000 000011A4\n64000000 00000000 000003e7\n20000000",
-            "title": "[Infinite Ammo]"
-        }
-    ],
+    "6BEC9B23B09DF46C": {
+        "[Walk Through Walls (ON:- and Y, OFF:- and B)]": "[Walk Through Walls (ON:- and Y, OFF:- and B)]\n581F0000 14001c10\n780F0000 00000F4C\n80000808\n640F0000 00000000 00000000\n20000000\n80000802\n640F0000 00000000 00010001\n20000000\n\n",
+        "[Character Speed Up (Hold B)]": "[Character Speed Up (Hold B)]\n581F0000 14001c10\n780F0000 0000009c\n640F0000 00000000 3f800000\n80000002\n640F0000 00000000 40800000\n20000000\n\n",
+        "[Character Size Up (Hold Y)]": "[Character Size Up (Hold Y)]\n581F0000 14001C10\n780F1000 000004AC\n300E0000 00000003\n640F0000 00000000 3F800000\n780F0000 00000004\n80000008\n640F0000 00000000 3FB00000\n780F0000 00000004\n310E0000\n20000000\n\n",
+        "[Game Speed (ON:- and Up, OFF:- and Down)]": "[Game Speed (ON:- and Up, OFF:- and Down)]\n580F0000 015d3440\n780F0000 00002a24\n80008800\n640F0000 00000000 3f800000\n20000000\n80002800\n640F0000 00000000 40800000\n20000000\n\n",
+        "[Infinite Health]": "[Infinite Health]\n021f0000 14039c1c 000003c0\n\n",
+        "[1P INVICIBLE]": "[1P INVICIBLE]\n04000000 001A7050 D65F03C0\n\n",
+        "[HITAYWHERE]": "[HITAYWHERE]\n04000000 00017A70 D65F03C0\n\n",
+        "[o Play As Jill (Chris Scenario)]": "[o Play As Jill (Chris Scenario)]\n80000110 011F0000 1E7A51B8 00000001\n041F0000 1E7A51C7 00000000\n20000000\n\n",
+        "[o Play As Chris (Jills Scenario)]": "[o Play As Chris (Jills Scenario)]\n80000120 011F0000 1E7A51B8 00000000\n041F0000 1E7A51C7 01010101\n20000000\n\n",
+        "[Infinite Ammo]": "[Infinite Ammo]\n80000081\n58000000 01EC7A98\n58001000 00000378\n58001000 00000110\n78000000 000011A4\n64000000 00000000 000003e7\n20000000\n80000201\n58000000 01EC7A98\n58001000 00000378\n58001000 00000110\n78000000 000011A4\n64000000 00000000 000003e7\n20000000\n\n"
+    },
+    "010050F00BC1A000": {
+        "[Infinite Slot 1]": "[Infinite Slot 1]\n580F0000 015A4FA8\n780F0000 00000090\n640F0000 00000000 000003E7\n580F0000 015A4FA8\n780F0000 00000048\n640F0000 00000000 000003E7\n\n"
+    },
     "attribution": {
         "Resident Evil HD by rotten.txt": ""
     }

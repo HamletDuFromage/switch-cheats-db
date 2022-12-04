@@ -1,10 +1,7 @@
 {
-    "611F06C0EC29B743": [
-        {
-            "content": "[Energy unlimited]\n580F0000 0367EBD0\n780F1000 000000B0\n640F0000 00000000 40A00000\n",
-            "title": "[Energy unlimited]"
-        }
-    ],
+    "611F06C0EC29B743": {
+        "[Energy unlimited]": "[Energy unlimited]\n580F0000 0367EBD0\n780F1000 000000B0\n640F0000 00000000 40A00000\n\n"
+    },
     "attribution": {
         "Monkey Barrels v1.0 by merlin555.txt": ""
     }

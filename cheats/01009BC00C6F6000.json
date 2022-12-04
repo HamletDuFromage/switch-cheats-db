@@ -1,54 +1,18 @@
 {
-    "4FD4BFE66C5353D4": [
-        {
-            "content": "[Infinite Money]\n04000000 00bb7968 0098967F\n\n",
-            "title": "[Infinite Money]"
-        },
-        {
-            "content": "[99 x Magic Grass Available Infinite]\n04000000 00bbc858 00000063\n\n",
-            "title": "[99 x Magic Grass Available Infinite]"
-        },
-        {
-            "content": "[99 x Magic Grass B Aromatic Available Infinite]\n04000000 00bbc85c 00000063\n\n",
-            "title": "[99 x Magic Grass B Aromatic Available Infinite]"
-        },
-        {
-            "content": "[99 x Fest A  Available infinite]\n04000000 00bbc864 00000063\n\n",
-            "title": "[99 x Fest A  Available infinite]"
-        },
-        {
-            "content": "[99 xMandra Root E Available infinite]\n04000000 00bbc868 00000063\n\n",
-            "title": "[99 xMandra Root E Available infinite]"
-        },
-        {
-            "content": "[99 xPhlogiston E Available infinite]\n04000000 00bbc86c 00000063\n\n",
-            "title": "[99 xPhlogiston E Available infinite]"
-        },
-        {
-            "content": "[99 x Serenity Flower E Available infinite]\n04000000 00bbc870 00000063\n\n",
-            "title": "[99 x Serenity Flower E Available infinite]"
-        },
-        {
-            "content": "[99 x Globe Sphere E Available infinite]\n04000000 00bbc874 00000063\n\n",
-            "title": "[99 x Globe Sphere E Available infinite]"
-        },
-        {
-            "content": "[99 x Forgotten Bone D Available infinite]\n04000000 00bbc878 00000063\n\n",
-            "title": "[99 x Forgotten Bone D Available infinite]"
-        },
-        {
-            "content": "[99 x Puniball E Available infinite]\n04000000 00bbc87c 00000063\n\n",
-            "title": "[99 x Puniball E Available infinite]"
-        },
-        {
-            "content": "[99 x Audras Tail C Available infinite]\n04000000 00bbc880 00000063\n\n",
-            "title": "[99 x Audras Tail C Available infinite]"
-        },
-        {
-            "content": "[99 x Original Gem S Available infinite]\n04000000 00bbc884 00000063\n",
-            "title": "[99 x Original Gem S Available infinite]"
-        }
-    ],
+    "4FD4BFE66C5353D4": {
+        "[Infinite Money]": "[Infinite Money]\n04000000 00bb7968 0098967F\n\n",
+        "[99 x Magic Grass Available Infinite]": "[99 x Magic Grass Available Infinite]\n04000000 00bbc858 00000063\n\n",
+        "[99 x Magic Grass B Aromatic Available Infinite]": "[99 x Magic Grass B Aromatic Available Infinite]\n04000000 00bbc85c 00000063\n\n",
+        "[99 x Fest A  Available infinite]": "[99 x Fest A  Available infinite]\n04000000 00bbc864 00000063\n\n",
+        "[99 xMandra Root E Available infinite]": "[99 xMandra Root E Available infinite]\n04000000 00bbc868 00000063\n\n",
+        "[99 xPhlogiston E Available infinite]": "[99 xPhlogiston E Available infinite]\n04000000 00bbc86c 00000063\n\n",
+        "[99 x Serenity Flower E Available infinite]": "[99 x Serenity Flower E Available infinite]\n04000000 00bbc870 00000063\n\n",
+        "[99 x Globe Sphere E Available infinite]": "[99 x Globe Sphere E Available infinite]\n04000000 00bbc874 00000063\n\n",
+        "[99 x Forgotten Bone D Available infinite]": "[99 x Forgotten Bone D Available infinite]\n04000000 00bbc878 00000063\n\n",
+        "[99 x Puniball E Available infinite]": "[99 x Puniball E Available infinite]\n04000000 00bbc87c 00000063\n\n",
+        "[99 x Audras Tail C Available infinite]": "[99 x Audras Tail C Available infinite]\n04000000 00bbc880 00000063\n\n",
+        "[99 x Original Gem S Available infinite]": "[99 x Original Gem S Available infinite]\n04000000 00bbc884 00000063\n\n"
+    },
     "attribution": {
         "AtelierTotora.txt": ""
     }

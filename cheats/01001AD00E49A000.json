@@ -1,22 +1,10 @@
 {
-    "C4994905D081354C": [
-        {
-            "content": "[Inf HP]\n580F0000 026C98E0\n580F1000 00000008\n780F0000 0000045D\n610F0000 00000000 0000005E\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 026C98E0\n580F1000 00000008\n780F0000 00000405\n610F0000 00000000 00000000\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Moon Jump (Hold R)]\n80000080\n580F0000 026C98E0\n580F1000 00000008\n780F0000 00000044\n610F0000 00000000 0000000A\n20000000\n\n",
-            "title": "[Moon Jump (Hold R)]"
-        },
-        {
-            "content": "[Inf Weapon]\n580F0000 026C98E0\n580F1000 00000008\n780F0000 000006DF\n640F0000 00000000 63636363",
-            "title": "[Inf Weapon]"
-        }
-    ],
+    "C4994905D081354C": {
+        "[Inf HP]": "[Inf HP]\n580F0000 026C98E0\n580F1000 00000008\n780F0000 0000045D\n610F0000 00000000 0000005E\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 026C98E0\n580F1000 00000008\n780F0000 00000405\n610F0000 00000000 00000000\n\n",
+        "[Moon Jump (Hold R)]": "[Moon Jump (Hold R)]\n80000080\n580F0000 026C98E0\n580F1000 00000008\n780F0000 00000044\n610F0000 00000000 0000000A\n20000000\n\n",
+        "[Inf Weapon]": "[Inf Weapon]\n580F0000 026C98E0\n580F1000 00000008\n780F0000 000006DF\n640F0000 00000000 63636363\n\n"
+    },
     "attribution": {
         "DOUBLE DRAGON \u2162 The Sacred Stones ver 1.0.0 by ZiT.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
     }

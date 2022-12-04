@@ -1,10 +1,7 @@
 {
-    "E03782D850353F40": [
-        {
-            "content": "[*Inf Shuriken Jericoss]\n580F0000 022DC950\n580F1000 000000A0\n580F1000 00000000\n780F0000 0000005C\n640F0000 00000000 00000003",
-            "title": "[*Inf Shuriken Jericoss]"
-        }
-    ],
+    "E03782D850353F40": {
+        "[*Inf Shuriken Jericoss]": "[*Inf Shuriken Jericoss]\n580F0000 022DC950\n580F1000 000000A0\n580F1000 00000000\n780F0000 0000005C\n640F0000 00000000 00000003\n\n"
+    },
     "attribution": {
         "Shadow Blade Reload ver 1.0.0 by jericoss.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
     }

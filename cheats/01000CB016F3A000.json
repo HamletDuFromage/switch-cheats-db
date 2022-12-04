@@ -1,18 +1,9 @@
 {
-    "1A8EE1AF3EDCAFAE": [
-        {
-            "content": "[\uff08\u0e07\u30c4\uff09\u0e27 Restore Codes]\n040F0000 01BC91F4 F9400289\n\n",
-            "title": "[\uff08\u0e07\u30c4\uff09\u0e27 Restore Codes]"
-        },
-        {
-            "content": "[Inf. Health / Age / Stamina ]\n040F0000 0338AFD0 3941468A\n040F0000 0338AFD4 3400012A\n040F0000 0338AFD8 B940D68A\n040F0000 0338AFDC B900D28A\n040F0000 0338AFE0 B940F68A\n040F0000 0338AFE4 B900F28A\n040F0000 0338AFE8 B941068A\n040F0000 0338AFEC B901028A\n040F0000 0338AFF0 5280002A\n040F0000 0338AFF4 39065A8A\n040F0000 0338AFF8 F9400289\n040F0000 0338AFFC D65F03C0\n040F0000 01BC91F4 945F0777\n\n",
-            "title": "[Inf. Health / Age / Stamina ]"
-        },
-        {
-            "content": "[- khuong \u30c4 -]\n20000000",
-            "title": "[- khuong \u30c4 -]"
-        }
-    ],
+    "1A8EE1AF3EDCAFAE": {
+        "[\uff08\u0e07\u30c4\uff09\u0e27 Restore Codes]": "[\uff08\u0e07\u30c4\uff09\u0e27 Restore Codes]\n040F0000 01BC91F4 F9400289\n\n",
+        "[Inf. Health / Age / Stamina ]": "[Inf. Health / Age / Stamina ]\n040F0000 0338AFD0 3941468A\n040F0000 0338AFD4 3400012A\n040F0000 0338AFD8 B940D68A\n040F0000 0338AFDC B900D28A\n040F0000 0338AFE0 B940F68A\n040F0000 0338AFE4 B900F28A\n040F0000 0338AFE8 B941068A\n040F0000 0338AFEC B901028A\n040F0000 0338AFF0 5280002A\n040F0000 0338AFF4 39065A8A\n040F0000 0338AFF8 F9400289\n040F0000 0338AFFC D65F03C0\n040F0000 01BC91F4 945F0777\n\n",
+        "[- khuong \u30c4 -]": "[- khuong \u30c4 -]\n20000000\n\n"
+    },
     "attribution": {
         "The Serpent Rogue v1.0.1 ver 1.0.1 by abadidea.txt": ""
     }

@@ -1,247 +1,79 @@
 {
-    "0011956AB1854781": [
-        {
-            "content": "[1p hit range 31x]\n04000000 04441868 1E27F000\n\n",
-            "title": "[1p hit range 31x]"
-        },
-        {
-            "content": "[1p hit range normal]\n04000000 04441868 1E2E1000\n\n",
-            "title": "[1p hit range normal]"
-        },
-        {
-            "content": "[1p damager attack 31x]\n04000000 0301FE10 1E27F000\n\n",
-            "title": "[1p damager attack 31x]"
-        },
-        {
-            "content": "[1p damager attack normal]\n04000000 0301FE10 1E2E1000",
-            "title": "[1p damager attack normal]"
-        }
-    ],
-    "305A12DD6B139A0A": [
-        {
-            "content": "[01# inf Health]\n04000000 03498044 2A1503E8\n",
-            "title": "[01# inf Health]"
-        },
-        {
-            "content": "[01# inf Health (off)]\n04000000 03498044 1A95C108\n[]\n",
-            "title": "[01# inf Health (off)]"
-        },
-        {
-            "content": "[02# Inf Stamina]\n04000000 034A0C28 D503201F\n",
-            "title": "[02# Inf Stamina]"
-        },
-        {
-            "content": "[02# Inf Stamina (off)]\n04000000 034A0C28 BD01EAA8\n[]\n",
-            "title": "[02# Inf Stamina (off)]"
-        },
-        {
-            "content": "[03# Items not reduce]\n04070000 02E60000 D65F03C0\n",
-            "title": "[03# Items not reduce]"
-        },
-        {
-            "content": "[03# Items not reduce (off)]\n04070000 02E60000 D102C3FF\n[]\n",
-            "title": "[03# Items not reduce (off)]"
-        },
-        {
-            "content": "[04# moonjump]\n80000002\n580F0000 098118D0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n780F0000 00000158\n640F0000 00000000 44000000\n20000000\n[]\n",
-            "title": "[04# moonjump]"
-        },
-        {
-            "content": "[05# Character movement Speed Up X2.5 (Y)]\n580F0000 098118D0\n580F1000 00000000\n580F1000 00000188\n780F0000 00000010\n640F0000 00000000 3F800000\n80000008\n640F0000 00000000 40200000\n20000000\n[]\n",
-            "title": "[05# Character movement Speed Up X2.5 (Y)]"
-        },
-        {
-            "content": "[06# Speed Down for arrow X0.5 (ZL+R)]\n580F0000 098118D0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n580F1000 00000050\n780F0000 00000020\n640F0000 00000000 3F800000\n80000180\n640F0000 00000000 3F000000\n20000000\n\n",
-            "title": "[06# Speed Down for arrow X0.5 (ZL+R)]"
-        }
-    ],
-    "46B9082762AC86DE": [
-        {
-            "content": "[1P HIT RANGE]\n04000000 04650190 1E27F000\n\n",
-            "title": "[1P HIT RANGE]"
-        },
-        {
-            "content": "[1P HIT RANGE NORMAL]\n04000000 04650190 1E2E1000\n\n",
-            "title": "[1P HIT RANGE NORMAL]"
-        },
-        {
-            "content": "[1P HIT HIT KILL]\n04000000 02DD9980 1E27F000\n\n",
-            "title": "[1P HIT HIT KILL]"
-        },
-        {
-            "content": "[1P HIT KILL NORMAL]\n04000000 02DD9980 1E2E1000",
-            "title": "[1P HIT KILL NORMAL]"
-        }
-    ],
-    "70F3F6751D73C644": [
-        {
-            "content": "[1p hit range 31x]\n04000000 04725790 1E27F000\n",
-            "title": "[1p hit range 31x]"
-        },
-        {
-            "content": "[1p hit range 31x Off]\n04000000 04725790 1E2E1000\n",
-            "title": "[1p hit range 31x Off]"
-        },
-        {
-            "content": "[1p damager attack 31x]\n04000000 02E5C1A0 1E27F000\n",
-            "title": "[1p damager attack 31x]"
-        },
-        {
-            "content": "[1p damager attack 31x Off]\n04000000 02E5C1A0 1E2E1000\n\n",
-            "title": "[1p damager attack 31x Off]"
-        },
-        {
-            "content": "[Infinite Health]\n04000000 03FADE64 2A1503E8\n",
-            "title": "[Infinite Health]"
-        },
-        {
-            "content": "[Infinite Health (Off)]\n\n04000000 03FADE64 1A95C108\n",
-            "title": "[Infinite Health (Off)]"
-        },
-        {
-            "content": "[Infinite Stamina]\n04000000 03FB6C38 D503201F\n",
-            "title": "[Infinite Stamina]"
-        },
-        {
-            "content": "[Infinite Stamina (Off)]\n04000000 03FB6C38 BD01EAA8\n\n",
-            "title": "[Infinite Stamina (Off)]"
-        },
-        {
-            "content": "[Moonjump Press B]\n80000002\n580F0000 09C3C5C8\n580F1000 00000000\n580F1000 00000088\n580F1000 00000168\n580F1000 00000018\n580F1000 00000020\n780F0000 00000158\n640F0000 00000000 44000000\n20000000\n\n",
-            "title": "[Moonjump Press B]"
-        },
-        {
-            "content": "[Speed Up X2.5 (Y)]\n580F0000 09C3C5C8\n580F1000 00000000\n580F1000 00000188\n780F0000 00000010\n640F0000 00000000 3F800000\n80000008\n640F0000 00000000 40200000\n20000000\n\n",
-            "title": "[Speed Up X2.5 (Y)]"
-        },
-        {
-            "content": "[Speed Down (ZL+R)]\n580F0000 09C3C5C8\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n580F1000 00000050\n780F0000 00000020\n640F0000 00000000 3F800000\n80000180\n640F0000 00000000 3F000000\n20000000",
-            "title": "[Speed Down (ZL+R)]"
-        }
-    ],
-    "7667839B25E6B6EB": [
-        {
-            "content": "[1p hit range 31x]\n04000000 04159888 1E27F000\n\n",
-            "title": "[1p hit range 31x]"
-        },
-        {
-            "content": "[1p hit range normal]\n04000000 04159888 1E2E1000\n\n",
-            "title": "[1p hit range normal]"
-        },
-        {
-            "content": "[1p damager attack 31x]\n04000000 03422FEC 1E27F000\n\n",
-            "title": "[1p damager attack 31x]"
-        },
-        {
-            "content": "[1p damager attack normal]\n04000000 03422FEC 1E2E1000\n",
-            "title": "[1p damager attack normal]"
-        }
-    ],
-    "89B1333EAC986EDA": [
-        {
-            "content": "[01# inf Health]\n04000000 02FD3AF4 2A1503E8\n",
-            "title": "[01# inf Health]"
-        },
-        {
-            "content": "[01# inf Health (off)]\n04000000 02FD3AF4 1A95C108\n[]\n",
-            "title": "[01# inf Health (off)]"
-        },
-        {
-            "content": "[02# Inf Stamina]\n04000000 02FDC258 D503201F\n",
-            "title": "[02# Inf Stamina]"
-        },
-        {
-            "content": "[02# Inf Stamina (off)]\n04000000 02FDC258 BD01DAA8\n[]\n",
-            "title": "[02# Inf Stamina (off)]"
-        },
-        {
-            "content": "[03# Items not reduce]\n04070000 03596B10 D65F03C0\n",
-            "title": "[03# Items not reduce]"
-        },
-        {
-            "content": "[03# Items not reduce (off)]\n04070000 03596B10 D102C3FF\n[]\n",
-            "title": "[03# Items not reduce (off)]"
-        },
-        {
-            "content": "[04# moonjump]\n80000002\n580F0000 0978B1A0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000018\n780F0000 00000158\n640F0000 00000000 44000000\n20000000\n[]\n",
-            "title": "[04# moonjump]"
-        },
-        {
-            "content": "[05# Character movement Speed Up X2.5 (Y)]\n580F0000 0978B1A0\n580F1000 00000000\n580F1000 00000188\n780F0000 00000010\n640F0000 00000000 3F800000\n80000008\n640F0000 00000000 40200000\n20000000\n[]\n",
-            "title": "[05# Character movement Speed Up X2.5 (Y)]"
-        },
-        {
-            "content": "[06# Speed Down for arrow X0.5 (ZL+R)]\n580F0000 0978B1A0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n580F1000 00000050\n780F0000 00000020\n640F0000 00000000 3F800000\n80000180\n640F0000 00000000 3F000000\n20000000\n\n",
-            "title": "[06# Speed Down for arrow X0.5 (ZL+R)]"
-        }
-    ],
-    "B20264C1F11968BC": [
-        {
-            "content": "[1P HIT RANGE]\n04000000 04650180 1E27F000\n\n",
-            "title": "[1P HIT RANGE]"
-        },
-        {
-            "content": "[1P HIT KILL]\n04000000 02DD9980 1E27F000",
-            "title": "[1P HIT KILL]"
-        }
-    ],
-    "CADE195FE9F14B2A": [
-        {
-            "content": "[01# inf Health]\n04000000 03495204 2A1503E8\n",
-            "title": "[01# inf Health]"
-        },
-        {
-            "content": "[01# inf Health (off)]\n04000000 03495204 1A95C108\n[]\n",
-            "title": "[01# inf Health (off)]"
-        },
-        {
-            "content": "[02# Inf Stamina]\n04000000 0349DDE8 D503201F\n",
-            "title": "[02# Inf Stamina]"
-        },
-        {
-            "content": "[02# Inf Stamina (off)]\n04000000 0349DDE8 BD01EAA8\n[]\n",
-            "title": "[02# Inf Stamina (off)]"
-        },
-        {
-            "content": "[03# Items not reduce]\n04070000 02E5D1C0 D65F03C0\n",
-            "title": "[03# Items not reduce]"
-        },
-        {
-            "content": "[03# Items not reduce (off)]\n04070000 02E5D1C0 D102C3FF\n[]\n",
-            "title": "[03# Items not reduce (off)]"
-        },
-        {
-            "content": "[04# moonjump]\n80000002\n580F0000 0980C8D0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n780F0000 00000158\n640F0000 00000000 44000000\n20000000\n[]\n",
-            "title": "[04# moonjump]"
-        },
-        {
-            "content": "[05# Character movement Speed Up X2.5 (Y)]\n580F0000 0980C8D0\n580F1000 00000000\n580F1000 00000188\n780F0000 00000010\n640F0000 00000000 3F800000\n80000008\n640F0000 00000000 40200000\n20000000\n[]\n",
-            "title": "[05# Character movement Speed Up X2.5 (Y)]"
-        },
-        {
-            "content": "[06# Speed Down for arrow X0.5 (ZL+R)]\n580F0000 0980C8D0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n580F1000 00000050\n780F0000 00000020\n640F0000 00000000 3F800000\n80000180\n640F0000 00000000 3F000000\n20000000\n\n",
-            "title": "[06# Speed Down for arrow X0.5 (ZL+R)]"
-        }
-    ],
-    "FDBD4273618F7207": [
-        {
-            "content": "[1P HIT RANGE]\n04000000 04651440 1E27F000\n",
-            "title": "[1P HIT RANGE]"
-        },
-        {
-            "content": "[1P HIT RANGE Off]\n04000000 04651440 1E2E1000\n",
-            "title": "[1P HIT RANGE Off]"
-        },
-        {
-            "content": "[1P HIT KILL]\n04000000 02DD95D0 1E27F000\n",
-            "title": "[1P HIT KILL]"
-        },
-        {
-            "content": "[1P HIT KILL Off]\n04000000 02DD95D0 1E2E1000",
-            "title": "[1P HIT KILL Off]"
-        }
-    ],
+    "70F3F6751D73C644": {
+        "[1p hit range 31x]": "[1p hit range 31x]\n04000000 04725790 1E27F000\n\n",
+        "[1p hit range 31x Off]": "[1p hit range 31x Off]\n04000000 04725790 1E2E1000\n\n",
+        "[1p damager attack 31x]": "[1p damager attack 31x]\n04000000 02E5C1A0 1E27F000\n\n",
+        "[1p damager attack 31x Off]": "[1p damager attack 31x Off]\n04000000 02E5C1A0 1E2E1000\n\n",
+        "[Infinite Health]": "[Infinite Health]\n04000000 03FADE64 2A1503E8\n\n",
+        "[Infinite Health (Off)]": "[Infinite Health (Off)]\n\n04000000 03FADE64 1A95C108\n\n",
+        "[Infinite Stamina]": "[Infinite Stamina]\n04000000 03FB6C38 D503201F\n\n",
+        "[Infinite Stamina (Off)]": "[Infinite Stamina (Off)]\n04000000 03FB6C38 BD01EAA8\n\n",
+        "[Moonjump Press B]": "[Moonjump Press B]\n80000002\n580F0000 09C3C5C8\n580F1000 00000000\n580F1000 00000088\n580F1000 00000168\n580F1000 00000018\n580F1000 00000020\n780F0000 00000158\n640F0000 00000000 44000000\n20000000\n\n",
+        "[Speed Up X2.5 (Y)]": "[Speed Up X2.5 (Y)]\n580F0000 09C3C5C8\n580F1000 00000000\n580F1000 00000188\n780F0000 00000010\n640F0000 00000000 3F800000\n80000008\n640F0000 00000000 40200000\n20000000\n\n",
+        "[Speed Down (ZL+R)]": "[Speed Down (ZL+R)]\n580F0000 09C3C5C8\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n580F1000 00000050\n780F0000 00000020\n640F0000 00000000 3F800000\n80000180\n640F0000 00000000 3F000000\n20000000\n\n"
+    },
     "attribution": {
         "Inmortal Fenix ver 1.3.1 and 1.3.0 by xtatu 1.2 by Patjenova and xtatu ver 1.0.4 upd by gamerjin ver 1.1.0 and ver 1.2.0 by xtatu.txt": ""
+    },
+    "CADE195FE9F14B2A": {
+        "[01# inf Health]": "[01# inf Health]\n04000000 03495204 2A1503E8\n\n",
+        "[01# inf Health (off)]": "[01# inf Health (off)]\n04000000 03495204 1A95C108\n[]\n\n",
+        "[02# Inf Stamina]": "[02# Inf Stamina]\n04000000 0349DDE8 D503201F\n\n",
+        "[02# Inf Stamina (off)]": "[02# Inf Stamina (off)]\n04000000 0349DDE8 BD01EAA8\n[]\n\n",
+        "[03# Items not reduce]": "[03# Items not reduce]\n04070000 02E5D1C0 D65F03C0\n\n",
+        "[03# Items not reduce (off)]": "[03# Items not reduce (off)]\n04070000 02E5D1C0 D102C3FF\n[]\n\n",
+        "[04# moonjump]": "[04# moonjump]\n80000002\n580F0000 0980C8D0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n780F0000 00000158\n640F0000 00000000 44000000\n20000000\n[]\n\n",
+        "[05# Character movement Speed Up X2.5 (Y)]": "[05# Character movement Speed Up X2.5 (Y)]\n580F0000 0980C8D0\n580F1000 00000000\n580F1000 00000188\n780F0000 00000010\n640F0000 00000000 3F800000\n80000008\n640F0000 00000000 40200000\n20000000\n[]\n\n",
+        "[06# Speed Down for arrow X0.5 (ZL+R)]": "[06# Speed Down for arrow X0.5 (ZL+R)]\n580F0000 0980C8D0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n580F1000 00000050\n780F0000 00000020\n640F0000 00000000 3F800000\n80000180\n640F0000 00000000 3F000000\n20000000\n\n"
+    },
+    "FDBD4273618F7207": {
+        "[1P HIT RANGE]": "[1P HIT RANGE]\n04000000 04651440 1E27F000\n\n",
+        "[1P HIT RANGE Off]": "[1P HIT RANGE Off]\n04000000 04651440 1E2E1000\n\n",
+        "[1P HIT KILL]": "[1P HIT KILL]\n04000000 02DD95D0 1E27F000\n\n",
+        "[1P HIT KILL Off]": "[1P HIT KILL Off]\n04000000 02DD95D0 1E2E1000\n\n"
+    },
+    "B20264C1F11968BC": {
+        "[1P HIT RANGE]": "[1P HIT RANGE]\n04000000 04650180 1E27F000\n\n",
+        "[1P HIT KILL]": "[1P HIT KILL]\n04000000 02DD9980 1E27F000\n\n"
+    },
+    "0011956AB1854781": {
+        "[1p hit range 31x]": "[1p hit range 31x]\n04000000 04441868 1E27F000\n\n",
+        "[1p hit range normal]": "[1p hit range normal]\n04000000 04441868 1E2E1000\n\n",
+        "[1p damager attack 31x]": "[1p damager attack 31x]\n04000000 0301FE10 1E27F000\n\n",
+        "[1p damager attack normal]": "[1p damager attack normal]\n04000000 0301FE10 1E2E1000\n\n"
+    },
+    "46B9082762AC86DE": {
+        "[1P HIT RANGE]": "[1P HIT RANGE]\n04000000 04650190 1E27F000\n\n",
+        "[1P HIT RANGE NORMAL]": "[1P HIT RANGE NORMAL]\n04000000 04650190 1E2E1000\n\n",
+        "[1P HIT HIT KILL]": "[1P HIT HIT KILL]\n04000000 02DD9980 1E27F000\n\n",
+        "[1P HIT KILL NORMAL]": "[1P HIT KILL NORMAL]\n04000000 02DD9980 1E2E1000\n\n"
+    },
+    "7667839B25E6B6EB": {
+        "[1p hit range 31x]": "[1p hit range 31x]\n04000000 04159888 1E27F000\n\n",
+        "[1p hit range normal]": "[1p hit range normal]\n04000000 04159888 1E2E1000\n\n",
+        "[1p damager attack 31x]": "[1p damager attack 31x]\n04000000 03422FEC 1E27F000\n\n",
+        "[1p damager attack normal]": "[1p damager attack normal]\n04000000 03422FEC 1E2E1000\n\n"
+    },
+    "89B1333EAC986EDA": {
+        "[01# inf Health]": "[01# inf Health]\n04000000 02FD3AF4 2A1503E8\n\n",
+        "[01# inf Health (off)]": "[01# inf Health (off)]\n04000000 02FD3AF4 1A95C108\n[]\n\n",
+        "[02# Inf Stamina]": "[02# Inf Stamina]\n04000000 02FDC258 D503201F\n\n",
+        "[02# Inf Stamina (off)]": "[02# Inf Stamina (off)]\n04000000 02FDC258 BD01DAA8\n[]\n\n",
+        "[03# Items not reduce]": "[03# Items not reduce]\n04070000 03596B10 D65F03C0\n\n",
+        "[03# Items not reduce (off)]": "[03# Items not reduce (off)]\n04070000 03596B10 D102C3FF\n[]\n\n",
+        "[04# moonjump]": "[04# moonjump]\n80000002\n580F0000 0978B1A0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000018\n780F0000 00000158\n640F0000 00000000 44000000\n20000000\n[]\n\n",
+        "[05# Character movement Speed Up X2.5 (Y)]": "[05# Character movement Speed Up X2.5 (Y)]\n580F0000 0978B1A0\n580F1000 00000000\n580F1000 00000188\n780F0000 00000010\n640F0000 00000000 3F800000\n80000008\n640F0000 00000000 40200000\n20000000\n[]\n\n",
+        "[06# Speed Down for arrow X0.5 (ZL+R)]": "[06# Speed Down for arrow X0.5 (ZL+R)]\n580F0000 0978B1A0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n580F1000 00000050\n780F0000 00000020\n640F0000 00000000 3F800000\n80000180\n640F0000 00000000 3F000000\n20000000\n\n"
+    },
+    "305A12DD6B139A0A": {
+        "[01# inf Health]": "[01# inf Health]\n04000000 03498044 2A1503E8\n\n",
+        "[01# inf Health (off)]": "[01# inf Health (off)]\n04000000 03498044 1A95C108\n[]\n\n",
+        "[02# Inf Stamina]": "[02# Inf Stamina]\n04000000 034A0C28 D503201F\n\n",
+        "[02# Inf Stamina (off)]": "[02# Inf Stamina (off)]\n04000000 034A0C28 BD01EAA8\n[]\n\n",
+        "[03# Items not reduce]": "[03# Items not reduce]\n04070000 02E60000 D65F03C0\n\n",
+        "[03# Items not reduce (off)]": "[03# Items not reduce (off)]\n04070000 02E60000 D102C3FF\n[]\n\n",
+        "[04# moonjump]": "[04# moonjump]\n80000002\n580F0000 098118D0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n780F0000 00000158\n640F0000 00000000 44000000\n20000000\n[]\n\n",
+        "[05# Character movement Speed Up X2.5 (Y)]": "[05# Character movement Speed Up X2.5 (Y)]\n580F0000 098118D0\n580F1000 00000000\n580F1000 00000188\n780F0000 00000010\n640F0000 00000000 3F800000\n80000008\n640F0000 00000000 40200000\n20000000\n[]\n\n",
+        "[06# Speed Down for arrow X0.5 (ZL+R)]": "[06# Speed Down for arrow X0.5 (ZL+R)]\n580F0000 098118D0\n580F1000 00000000\n580F1000 00000188\n580F1000 00000018\n580F1000 00000020\n580F1000 00000050\n780F0000 00000020\n640F0000 00000000 3F800000\n80000180\n640F0000 00000000 3F000000\n20000000\n\n"
     }
 }

@@ -1,66 +1,21 @@
 {
-    "C4DF04F647BDC727": [
-        {
-            "content": "[Money 888888 Jericoss]\n580F0000 022172B8\n780F0000 005E5D2C\n640F0000 00000000 000D9038\n\n",
-            "title": "[Money 888888 Jericoss]"
-        },
-        {
-            "content": "[PP 888887]\n580F0000 022172B8\n780F0000 005E5D30\n640F0000 00000000 000D9037\n\n",
-            "title": "[PP 888887]"
-        },
-        {
-            "content": "[Health (Float) @patjenova ]\n58000000 022176A0\n58001000 000004E0\n78000000 00000A94\n64000000 00000000 4479C000\n\n",
-            "title": "[Health (Float) @patjenova ]"
-        },
-        {
-            "content": "[Health Max(float) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000A9C\n64000000 00000000 4479C000\n\n",
-            "title": "[Health Max(float) @patjenova]"
-        },
-        {
-            "content": "[Sp(float) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000C38\n64000000 00000000 4479C000\n\n",
-            "title": "[Sp(float) @patjenova]"
-        },
-        {
-            "content": "[Sp Max(float) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000C40\n64000000 00000000 4479C000\n\n",
-            "title": "[Sp Max(float) @patjenova]"
-        },
-        {
-            "content": "[Ammo(u32) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000C88\n64000000 00000000 0000000C\n\n",
-            "title": "[Ammo(u32) @patjenova]"
-        },
-        {
-            "content": "[1P INVICIBLE]\n04000000 0020F090 D65F03C0\n\n",
-            "title": "[1P INVICIBLE]"
-        },
-        {
-            "content": "[walk through walls ON]\n04000000 001B97A0 D65F03C0\n\n",
-            "title": "[walk through walls ON]"
-        },
-        {
-            "content": "[walk through walls OFF]\n04000000 001B97A0 D10503FF\n\n",
-            "title": "[walk through walls OFF]"
-        },
-        {
-            "content": "[HIT RANGE 31X]\n04000000 001D0154 1E27F000\n\n",
-            "title": "[HIT RANGE 31X]"
-        },
-        {
-            "content": "[money] \n04100000 53F2C8EC 00001388\n\n",
-            "title": "[money]"
-        },
-        {
-            "content": "[pp] \n04100000 53F2C8F0 0001A217\n\n",
-            "title": "[pp]"
-        },
-        {
-            "content": "[bond] \n04100000 53F2C740 0000005A\n\n",
-            "title": "[bond]"
-        },
-        {
-            "content": "[moon jump]\n80000002\n580F0000 02217320\n580F1000 000005D0\n580F1000 00000018\n780F0000 0000000C\n640F0000 00000000 41333334\n20000000\n",
-            "title": "[moon jump]"
-        }
-    ],
+    "C4DF04F647BDC727": {
+        "[Money 888888 Jericoss]": "[Money 888888 Jericoss]\n580F0000 022172B8\n780F0000 005E5D2C\n640F0000 00000000 000D9038\n\n",
+        "[PP 888887]": "[PP 888887]\n580F0000 022172B8\n780F0000 005E5D30\n640F0000 00000000 000D9037\n\n",
+        "[Health (Float) @patjenova ]": "[Health (Float) @patjenova ]\n58000000 022176A0\n58001000 000004E0\n78000000 00000A94\n64000000 00000000 4479C000\n\n",
+        "[Health Max(float) @patjenova]": "[Health Max(float) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000A9C\n64000000 00000000 4479C000\n\n",
+        "[Sp(float) @patjenova]": "[Sp(float) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000C38\n64000000 00000000 4479C000\n\n",
+        "[Sp Max(float) @patjenova]": "[Sp Max(float) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000C40\n64000000 00000000 4479C000\n\n",
+        "[Ammo(u32) @patjenova]": "[Ammo(u32) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000C88\n64000000 00000000 0000000C\n\n",
+        "[1P INVICIBLE]": "[1P INVICIBLE]\n04000000 0020F090 D65F03C0\n\n",
+        "[walk through walls ON]": "[walk through walls ON]\n04000000 001B97A0 D65F03C0\n\n",
+        "[walk through walls OFF]": "[walk through walls OFF]\n04000000 001B97A0 D10503FF\n\n",
+        "[HIT RANGE 31X]": "[HIT RANGE 31X]\n04000000 001D0154 1E27F000\n\n",
+        "[money]": "[money] \n04100000 53F2C8EC 00001388\n\n",
+        "[pp]": "[pp] \n04100000 53F2C8F0 0001A217\n\n",
+        "[bond]": "[bond] \n04100000 53F2C740 0000005A\n\n",
+        "[moon jump]": "[moon jump]\n80000002\n580F0000 02217320\n580F1000 000005D0\n580F1000 00000018\n780F0000 0000000C\n640F0000 00000000 41333334\n20000000\n\n"
+    },
     "attribution": {
         "Persona 5 by Patjenova and xtatu.txt": "",
         "Persona 5 by Patjenova.txt": ""

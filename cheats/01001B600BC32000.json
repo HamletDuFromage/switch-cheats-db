@@ -1,14 +1,8 @@
 {
-    "69AA157D881DE641": [
-        {
-            "content": "[Inf Shield]\n580F0000 03761100\n580F1000 000000B8\n580F1000 00000050\n580F1000 00000020\n780F0000 0000012C\n680F0000 447A0000 447A0000\n\n",
-            "title": "[Inf Shield]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 03761100\n580F1000 000000B8\n580F1000 00000050\n580F1000 00000020\n780F0000 00000040\n610F0000 00000000 00000001",
-            "title": "[Invincible]"
-        }
-    ],
+    "69AA157D881DE641": {
+        "[Inf Shield]": "[Inf Shield]\n580F0000 03761100\n580F1000 000000B8\n580F1000 00000050\n580F1000 00000020\n780F0000 0000012C\n680F0000 447A0000 447A0000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 03761100\n580F1000 000000B8\n580F1000 00000050\n580F1000 00000020\n780F0000 00000040\n610F0000 00000000 00000001\n\n"
+    },
     "attribution": {
         "Stardust Galaxy Warriors Stellar Climax ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
     }

@@ -1,24 +1,9 @@
 {
-    "14F0C4AB904A3F47": [
-        {
-            "content": "[HP by jhmiller]\n580F0000 06958EE8 \n580F1000 00000068 \n580F1000 000000F8 \n580F1000 00000020 \n780F0000 00001558 \n640F0000 00000000 42C80000 \n\n",
-            "title": "[HP by jhmiller]"
-        },
-        {
-            "content": "[Hunger by jhmiller]\n580F0000 06958EE8 \n580F1000 00000068 \n580F1000 000000F8 \n580F1000 00000018 \n780F0000 000014C0 \n640F0000 00000000 00000064 \n\n",
-            "title": "[Hunger by jhmiller]"
-        },
-        {
-            "content": "[Thirst by jhmiller]\n580F0000 06958EE8 \n580F1000 00000068 \n580F1000 000000F8 \n580F1000 00000018 \n780F0000 000014C4 \n640F0000 00000000 00000064 \n\n",
-            "title": "[Thirst by jhmiller]"
-        },
-        {
-            "content": "[Temp 20 by jhmiller]\n580F0000 06958EE8 \n580F1000 00000068 \n580F1000 000000F8 \n580F1000 00000018 \n780F0000 000014C8 \n640F0000 00000000 41A00000 \n\n",
-            "title": "[Temp 20 by jhmiller]"
-        },
-        {
-            "content": "[Energy by jhmiller]\n580F0000 06958EE8 \n580F1000 00000068 \n580F1000 000000F8 \n580F1000 00000018 \n780F0000 000014CC \n640F0000 00000000 00000064 \n",
-            "title": "[Energy by jhmiller]"
-        }
-    ]
+    "14F0C4AB904A3F47": {
+        "[HP by jhmiller]": "[HP by jhmiller]\n580F0000 06958EE8 \n580F1000 00000068 \n580F1000 000000F8 \n580F1000 00000020 \n780F0000 00001558 \n640F0000 00000000 42C80000\n\n",
+        "[Hunger by jhmiller]": "[Hunger by jhmiller]\n580F0000 06958EE8 \n580F1000 00000068 \n580F1000 000000F8 \n580F1000 00000018 \n780F0000 000014C0 \n640F0000 00000000 00000064\n\n",
+        "[Thirst by jhmiller]": "[Thirst by jhmiller]\n580F0000 06958EE8 \n580F1000 00000068 \n580F1000 000000F8 \n580F1000 00000018 \n780F0000 000014C4 \n640F0000 00000000 00000064\n\n",
+        "[Temp 20 by jhmiller]": "[Temp 20 by jhmiller]\n580F0000 06958EE8 \n580F1000 00000068 \n580F1000 000000F8 \n580F1000 00000018 \n780F0000 000014C8 \n640F0000 00000000 41A00000\n\n",
+        "[Energy by jhmiller]": "[Energy by jhmiller]\n580F0000 06958EE8 \n580F1000 00000068 \n580F1000 000000F8 \n580F1000 00000018 \n780F0000 000014CC \n640F0000 00000000 00000064\n\n"
+    }
 }

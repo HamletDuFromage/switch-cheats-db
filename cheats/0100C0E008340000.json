@@ -1,22 +1,10 @@
 {
-    "498F36F55A42E1BF": [
-        {
-            "content": "[Inf Lives]\n010F0000 06CD92F0 00000009\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Invincible]\n010F0000 06CD92D2 00000096\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf Bomb]\n010F0000 06CD92EE 00000009\n\n",
-            "title": "[Inf Bomb]"
-        },
-        {
-            "content": "[Max Power]\n010F0000 06CD92E8 00000003",
-            "title": "[Max Power]"
-        }
-    ],
+    "498F36F55A42E1BF": {
+        "[Inf Lives]": "[Inf Lives]\n010F0000 06CD92F0 00000009\n\n",
+        "[Invincible]": "[Invincible]\n010F0000 06CD92D2 00000096\n\n",
+        "[Inf Bomb]": "[Inf Bomb]\n010F0000 06CD92EE 00000009\n\n",
+        "[Max Power]": "[Max Power]\n010F0000 06CD92E8 00000003\n\n"
+    },
     "attribution": {
         "SENGOKU ACE EPISODE III by ZiT.txt": "Please turn on the code when you can move the character\nSwap your numbers in Health and Energy with floating point ( 461C9000 = 10020 )\n"
     }

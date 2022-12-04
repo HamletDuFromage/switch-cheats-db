@@ -1,50 +1,16 @@
 {
-    "150F46F0966D1544": [
-        {
-            "content": "[01# Faster Chop Speed]\n04000000 00C04648 52800073\n",
-            "title": "[01# Faster Chop Speed]"
-        },
-        {
-            "content": "[Faster Chop Speed (off)]\n04000000 00C04648 2A0103F3\n",
-            "title": "[Faster Chop Speed (off)]"
-        },
-        {
-            "content": "[02# Big Tip]\n04000000 00986464 52807CE0\n",
-            "title": "[02# Big Tip]"
-        },
-        {
-            "content": "[Big Tip (off)]\n04000000 00986464 B9401660\n",
-            "title": "[Big Tip (off)]"
-        },
-        {
-            "content": "[03# Inf Order Time]\n04000000 008BB040 D65F03C0\n",
-            "title": "[03# Inf Order Time]"
-        },
-        {
-            "content": "[Inf Order Time (off)]\n04000000 008BB040 FC1A0FE8\n",
-            "title": "[Inf Order Time (off)]"
-        },
-        {
-            "content": "[04# Instant Cook]\n04000000 0090DD8C 1E259000\n",
-            "title": "[04# Instant Cook]"
-        },
-        {
-            "content": "[Inf Order Time (off)]\n04000000 0090DD8C 1E282800\n",
-            "title": "[Inf Order Time (off)]"
-        },
-        {
-            "content": "[05# Stop Timer (Press R stick)]\n04000000 008CE970 D503201F\n04000000 008F4A74 D503201F\n80000020\n04000000 008CE970 1E202900\n04000000 008F4A74 1E202900\n20000000\n",
-            "title": "[05# Stop Timer (Press R stick)]"
-        },
-        {
-            "content": "[06# Faster Washtime]\n04000000 00C01060 52800073\n",
-            "title": "[06# Faster Washtime]"
-        },
-        {
-            "content": "[Faster Washtime (off)]\n04000000 00C01060 320003E0\n",
-            "title": "[Faster Washtime (off)]"
-        }
-    ],
+    "150F46F0966D1544": {
+        "[01# Faster Chop Speed]": "[01# Faster Chop Speed]\n04000000 00C04648 52800073\n\n",
+        "[Faster Chop Speed (off)]": "[Faster Chop Speed (off)]\n04000000 00C04648 2A0103F3\n\n",
+        "[02# Big Tip]": "[02# Big Tip]\n04000000 00986464 52807CE0\n\n",
+        "[Big Tip (off)]": "[Big Tip (off)]\n04000000 00986464 B9401660\n\n",
+        "[03# Inf Order Time]": "[03# Inf Order Time]\n04000000 008BB040 D65F03C0\n\n",
+        "[Inf Order Time (off)]": "[Inf Order Time (off)]\n04000000 0090DD8C 1E282800\n\n",
+        "[04# Instant Cook]": "[04# Instant Cook]\n04000000 0090DD8C 1E259000\n\n",
+        "[05# Stop Timer (Press R stick)]": "[05# Stop Timer (Press R stick)]\n04000000 008CE970 D503201F\n04000000 008F4A74 D503201F\n80000020\n04000000 008CE970 1E202900\n04000000 008F4A74 1E202900\n20000000\n\n",
+        "[06# Faster Washtime]": "[06# Faster Washtime]\n04000000 00C01060 52800073\n\n",
+        "[Faster Washtime (off)]": "[Faster Washtime (off)]\n04000000 00C01060 320003E0\n\n"
+    },
     "attribution": {
         "Overcooked 2 ver 1.0.15 by patjenova.txt": "\u203b If you activate the code at the start of the game, it will freeze."
     }

@@ -1,10 +1,7 @@
 {
-    "64B19FA91081374F": [
-        {
-            "content": "[hitanywhere both]\n04100000 00905D6C00 EA00000D\n04100000 00905D6C60 E1A00000",
-            "title": "[hitanywhere both]"
-        }
-    ],
+    "64B19FA91081374F": {
+        "[hitanywhere both]": "[hitanywhere both]\n04100000 00905D6C00 EA00000D\n04100000 00905D6C60 E1A00000\n\n"
+    },
     "attribution": {
         "JOHNNY TURBO'S ARCADE FIGHTER'S HISTORY ver 1.0.0 by xtatu.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"
     }

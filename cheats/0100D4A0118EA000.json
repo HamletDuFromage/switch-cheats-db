@@ -1,14 +1,8 @@
 {
-    "BE248FA714078251": [
-        {
-            "content": "[60 FPS]\n580F0000 00F7AED8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-            "title": "[60 FPS]"
-        },
-        {
-            "content": "[Default 30 FPS]\n580F0000 00F7AED8\n780F0000 00000F14\n640F0000 00000000 00000002",
-            "title": "[Default 30 FPS]"
-        }
-    ],
+    "BE248FA714078251": {
+        "[60 FPS]": "[60 FPS]\n580F0000 00F7AED8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 00F7AED8\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
     "attribution": {
         "Curse of the Dead Gods.txt": "By Hazerou"
     }

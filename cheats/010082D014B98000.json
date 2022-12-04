@@ -1,24 +1,9 @@
 {
-    "9B33414BF1F4504C": [
-        {
-            "content": "[HP Inf]\n04000000 01EE7F00 B9404802\n04000000 01EE7F04 F100085F\n04000000 01EE7F08 54000060\n04000000 01EE7F0C BD001800\n04000000 01EE7F10 D65F03C0\n04000000 01EE7F14 BD001801\n04000000 01EE7F18 D65F03C0\n04000000 015F2634 9423D633\n\n",
-            "title": "[HP Inf]"
-        },
-        {
-            "content": "[HP Inf Off]\n04000000 015F2634 BD001800\n\n",
-            "title": "[HP Inf Off]"
-        },
-        {
-            "content": "[Coins x4]\n04000000 0160F3F4 0B000AA8\n\n",
-            "title": "[Coins x4]"
-        },
-        {
-            "content": "[Coins x4 Off]\n04000000 0160F3F4 0B150008\n\n",
-            "title": "[Coins x4 Off]"
-        },
-        {
-            "content": "[Made by jhmiller]\n00000000 00000000 00000000\n",
-            "title": "[Made by jhmiller]"
-        }
-    ]
+    "9B33414BF1F4504C": {
+        "[HP Inf]": "[HP Inf]\n04000000 01EE7F00 B9404802\n04000000 01EE7F04 F100085F\n04000000 01EE7F08 54000060\n04000000 01EE7F0C BD001800\n04000000 01EE7F10 D65F03C0\n04000000 01EE7F14 BD001801\n04000000 01EE7F18 D65F03C0\n04000000 015F2634 9423D633\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 015F2634 BD001800\n\n",
+        "[Coins x4]": "[Coins x4]\n04000000 0160F3F4 0B000AA8\n\n",
+        "[Coins x4 Off]": "[Coins x4 Off]\n04000000 0160F3F4 0B150008\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
 }

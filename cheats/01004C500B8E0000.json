@@ -1,24 +1,9 @@
 {
-    "40961C0A47988049": [
-        {
-            "content": "[Infinite Lives]\n01100000 017b5dcc 00000009\n\n",
-            "title": "[Infinite Lives]"
-        },
-        {
-            "content": "[P1 Power 8]\n01100000 00A84A40 00000008\n\n",
-            "title": "[P1 Power 8]"
-        },
-        {
-            "content": "[P1 F 3]\n01100000 00A84A10 00000003\n\n",
-            "title": "[P1 F 3]"
-        },
-        {
-            "content": "[P2 Power 8]\n01100000 00A84A44 00000008\n\n",
-            "title": "[P2 Power 8]"
-        },
-        {
-            "content": "[P2 F 3]\n01100000 00A84A14 00000003",
-            "title": "[P2 F 3]"
-        }
-    ]
+    "40961C0A47988049": {
+        "[Infinite Lives]": "[Infinite Lives]\n01100000 017b5dcc 00000009\n\n",
+        "[P1 Power 8]": "[P1 Power 8]\n01100000 00A84A40 00000008\n\n",
+        "[P1 F 3]": "[P1 F 3]\n01100000 00A84A10 00000003\n\n",
+        "[P2 Power 8]": "[P2 Power 8]\n01100000 00A84A44 00000008\n\n",
+        "[P2 F 3]": "[P2 F 3]\n01100000 00A84A14 00000003\n\n"
+    }
 }

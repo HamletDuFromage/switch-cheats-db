@@ -1,30 +1,12 @@
 {
-    "1E6BD2F99D2E0547": [
-        {
-            "content": "[Inf. Action Point]\n04000000 002E82C0 D65F03C0\n\n",
-            "title": "[Inf. Action Point]"
-        },
-        {
-            "content": "[Inf. Action Point - restore]\n04000000 002E82C0 6DBD23E9\n\n",
-            "title": "[Inf. Action Point - restore]"
-        },
-        {
-            "content": "[02# Inf AP]\n04000000 028DE51C 43480000\n04000000 028DE55C 1CFFFE00\n",
-            "title": "[02# Inf AP]"
-        },
-        {
-            "content": "[Inf AP (off)]\n04000000 028DE55C BD401100\n",
-            "title": "[Inf AP (off)]"
-        },
-        {
-            "content": "[03# Inf Vitae]\n04000000 029FE3CC 5284E1E0\n",
-            "title": "[03# Inf Vitae]"
-        },
-        {
-            "content": "[Inf Vitae (off)]\n04000000 029FE3CC B9401100",
-            "title": "[Inf Vitae (off)]"
-        }
-    ],
+    "1E6BD2F99D2E0547": {
+        "[Inf. Action Point]": "[Inf. Action Point]\n04000000 002E82C0 D65F03C0\n\n",
+        "[Inf. Action Point - restore]": "[Inf. Action Point - restore]\n04000000 002E82C0 6DBD23E9\n\n",
+        "[02# Inf AP]": "[02# Inf AP]\n04000000 028DE51C 43480000\n04000000 028DE55C 1CFFFE00\n\n",
+        "[Inf AP (off)]": "[Inf AP (off)]\n04000000 028DE55C BD401100\n\n",
+        "[03# Inf Vitae]": "[03# Inf Vitae]\n04000000 029FE3CC 5284E1E0\n\n",
+        "[Inf Vitae (off)]": "[Inf Vitae (off)]\n04000000 029FE3CC B9401100\n\n"
+    },
     "attribution": {
         "Othercide v.1.2.0.2 Eiffel2018 and patjenova.txt": "",
         "Othercide v.1.2.0.2 Eiffel2018.txt": ""

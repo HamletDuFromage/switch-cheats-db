@@ -1,450 +1,120 @@
 {
-    "6E1059ADB083B99F": [
-        {
-            "content": "{Master Code \u95dc\u9375\u78bc}\n040E0000 027C3758 BD428E6C\n580F0000 069A4608\n580F1000 00000118\n\n",
-            "title": "{Master Code \u95dc\u9375\u78bc}"
-        },
-        {
-            "content": "[Restore Code \u9084\u539f\u78bc]\n040E0000 00962968 B9033EA8\n040E0000 00962954 B9433EA9\n040E0000 00959AB0 A9454FF4\n040E0000 0097042C 2A0203F3\n040E0000 00970A18 0B190001\n040E0000 00970A44 0B190001\n040E0000 00970A6C 0B150001\n040E0000 00970A94 0B150001\n040E0000 00970ABC 0B150001\n040E0000 00970AE8 0B150001\n040E0000 00970B10 0B150001\n040E0000 00970B38 0B150001\n480D0000 00000000 00000050\n640F01D0 00000000 0000004C\n480D0000 00000000 00000058\n640F01D0 00000000 000003E7\n480D0000 00000000 00000190\n640F01D0 00000000 000003E7\n480D0000 00000000 00000178\n640F01D0 00000000 00000063\n480D0000 00000000 00000180\n640F01D0 00000000 00000096\n480D0000 00000000 000001A0\n640F01D0 00000000 00000063\n480D0000 00000000 000001A8\n640F01D0 00000000 00000063\n040E0000 0094C354 1E300009\n\n\n",
-            "title": "[Restore Code \u9084\u539f\u78bc]"
-        },
-        {
-            "content": "[#01. Inf HP \u7121\u9650\u751f\u547d]\n080E0000 04008FF8 D65F03C0 B9033EA8\n080E0000 04008FF0 34000049 394CA2A9\n040E0000 00962968 94DA99A2\n\n",
-            "title": "[#01. Inf HP \u7121\u9650\u751f\u547d]"
-        },
-        {
-            "content": "[#02. One Hit Kill \u79d2\u6bba]\n080E0000 04008FE8 D65F03C0 B9433EA9\n080E0000 04008FE0 B9433EA8 34000049\n040E0000 04008FDC 394CA2A9\n040E0000 00962954 94DA99A2\n\n",
-            "title": "[#02. One Hit Kill \u79d2\u6bba]"
-        },
-        {
-            "content": "[#03(a) EXP Multiplier \u7d93\u9a57\u500d\u7387 (2x)]\n080E0000 04008FD4 D65F03C0 A9454FF4\n080E0000 04008FCC B9000288 0B080108\n080E0000 04008FC4 B9400288 B9000268\n080E0000 04008FBC 0B080108 B9400268\n040E0000 00959AB0 94DABD43\n\n",
-            "title": "[#03(a) EXP Multiplier \u7d93\u9a57\u500d\u7387 (2x)]"
-        },
-        {
-            "content": "[#03(b) EXP Multiplier \u7d93\u9a57\u500d\u7387 (3x)]\n080E0000 04008FD4 D65F03C0 A9454FF4\n080E0000 04008FCC B9000288 0B080508\n080E0000 04008FC4 B9400288 B9000268\n080E0000 04008FBC 0B080508 B9400268\n040E0000 00959AB0 94DABD43\n\n",
-            "title": "[#03(b) EXP Multiplier \u7d93\u9a57\u500d\u7387 (3x)]"
-        },
-        {
-            "content": "[#03(c) EXP Multiplier \u7d93\u9a57\u500d\u7387 (4x)]\n080E0000 04008FD4 D65F03C0 A9454FF4\n080E0000 04008FCC B9000288 531E7508\n080E0000 04008FC4 B9400288 B9000268\n080E0000 04008FBC 531E7508 B9400268\n040E0000 00959AB0 94DABD43\n\n",
-            "title": "[#03(c) EXP Multiplier \u7d93\u9a57\u500d\u7387 (4x)]"
-        },
-        {
-            "content": "[#03(d) EXP Multiplier \u7d93\u9a57\u500d\u7387 (5x)]\n080E0000 04008FD4 D65F03C0 A9454FF4\n080E0000 04008FCC B9000288 0B080908\n080E0000 04008FC4 B9400288 B9000268\n080E0000 04008FBC 0B080908 B9400268\n040E0000 00959AB0 94DABD43\n\n",
-            "title": "[#03(d) EXP Multiplier \u7d93\u9a57\u500d\u7387 (5x)]"
-        },
-        {
-            "content": "[#03(e) Level Up After Every Battle \u6bcf\u6230\u5347\u7d1a]\n040E0000 0097042C 52800C93\n\n",
-            "title": "[#03(e) Level Up After Every Battle \u6bcf\u6230\u5347\u7d1a]"
-        },
-        {
-            "content": "[#04(a) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (2x)]\n040E0000 00970A18 0B000721\n040E0000 00970A44 0B000721\n040E0000 00970A6C 0B0006A1\n040E0000 00970A94 0B0006A1\n040E0000 00970ABC 0B0006A1\n040E0000 00970AE8 0B0006A1\n040E0000 00970B10 0B0006A1\n040E0000 00970B38 0B0006A1\n\n",
-            "title": "[#04(a) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (2x)]"
-        },
-        {
-            "content": "[#04(b) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (4x)]\n040E0000 00970A18 0B000B21\n040E0000 00970A44 0B000B21\n040E0000 00970A6C 0B000AA1\n040E0000 00970A94 0B000AA1\n040E0000 00970ABC 0B000AA1\n040E0000 00970AE8 0B000AA1\n040E0000 00970B10 0B000AA1\n040E0000 00970B38 0B000AA1\n\n",
-            "title": "[#04(b) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (4x)]"
-        },
-        {
-            "content": "[#04(c) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (8x)]\n040E0000 00970A18 0B000F21\n040E0000 00970A44 0B000F21\n040E0000 00970A6C 0B000EA1\n040E0000 00970A94 0B000EA1\n040E0000 00970ABC 0B000EA1\n040E0000 00970AE8 0B000EA1\n040E0000 00970B10 0B000EA1\n040E0000 00970B38 0B000EA1\n\n",
-            "title": "[#04(c) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (8x)]"
-        },
-        {
-            "content": "[#05(a) Movement Speed \u79fb\u52d5\u500d\u7387 (1.5x) Hold ZR]\n80000200\n040E0000 027C3758 1E2F100C\n20000000\n\n",
-            "title": "[#05(a) Movement Speed \u79fb\u52d5\u500d\u7387 (1.5x) Hold ZR]"
-        },
-        {
-            "content": "[#05(b) Movement Speed \u79fb\u52d5\u500d\u7387 (2.0x) Hold ZR]\n80000200\n040E0000 027C3758 1E20100C\n20000000\n\n",
-            "title": "[#05(b) Movement Speed \u79fb\u52d5\u500d\u7387 (2.0x) Hold ZR]"
-        },
-        {
-            "content": "[#05(c) Movement Speed \u79fb\u52d5\u500d\u7387 (2.5x) Hold ZR]\n80000200\n040E0000 027C3758 1E20900C\n20000000\n\n",
-            "title": "[#05(c) Movement Speed \u79fb\u52d5\u500d\u7387 (2.5x) Hold ZR]"
-        },
-        {
-            "content": "[#06. Character Accuracy Value \u64ca\u4e2d\u6a5f\u7387 100%]\n480D0000 00000000 00000050\n640F01D0 00000000 00000064\n\n",
-            "title": "[#06. Character Accuracy Value \u64ca\u4e2d\u6a5f\u7387 100%]"
-        },
-        {
-            "content": "[#07. Damage UpperLimit \u50b7\u5bb3\u4e0a\u9650 99999]\n480D0000 00000000 00000058\n640F01D0 00000000 0001869F\n\n",
-            "title": "[#07. Damage UpperLimit \u50b7\u5bb3\u4e0a\u9650 99999]"
-        },
-        {
-            "content": "[#08. HP UpperLimit \u751f\u547d\u4e0a\u9650 19999]\n480D0000 00000000 00000190\n640F01D0 00000000 00004E1F\n\n",
-            "title": "[#08. HP UpperLimit \u751f\u547d\u4e0a\u9650 19999]"
-        },
-        {
-            "content": "[#09. Abilities UpperLimit \u5c6c\u6027\u4e0a\u9650 9999]\n480D0000 00000000 00000178\n640F01D0 00000000 0000270F\n480D0000 00000000 00000180\n640F01D0 00000000 0000270F\n480D0000 00000000 000001A0\n640F01D0 00000000 0000270F\n480D0000 00000000 000001A8\n640F01D0 00000000 0000270F\n\n",
-            "title": "[#09. Abilities UpperLimit \u5c6c\u6027\u4e0a\u9650 9999]"
-        },
-        {
-            "content": "[#10(a) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (2x)]\n080E0000 04008FB4 D65F03C0 1E300009\n080E0000 04008FAC 1E210800 1E209001\n080E0000 04008FA4 35000069 394CA129\n040E0000 04008FA0 F940FA89\n040E0000 0094C354 94DAF313\n\n",
-            "title": "[#10(a) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (2x)]"
-        },
-        {
-            "content": "[#10(b) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (5x)]\n080E0000 04008FB4 D65F03C0 1E300009\n080E0000 04008FAC 1E210800 1E229001\n080E0000 04008FA4 35000069 394CA129\n040E0000 04008FA0 F940FA89\n040E0000 0094C354 94DAF313\n\n",
-            "title": "[#10(b) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (5x)]"
-        },
-        {
-            "content": "[#10(c) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (10x)]\n080E0000 04008FB4 D65F03C0 1E300009\n080E0000 04008FAC 1E210800 1E249001\n080E0000 04008FA4 35000069 394CA129\n040E0000 04008FA0 F940FA89\n040E0000 0094C354 94DAF313\n\n",
-            "title": "[#10(c) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (10x)]"
-        },
-        {
-            "content": "[#10(d) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (30x)]\n080E0000 04008FB4 D65F03C0 1E300009\n080E0000 04008FAC 1E210800 1E27D001\n080E0000 04008FA4 35000069 394CA129\n040E0000 04008FA0 F940FA89\n040E0000 0094C354 94DAF313\n\n",
-            "title": "[#10(d) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (30x)]"
-        }
-    ],
-    "CF22083371DDACB2": [
-        {
-            "content": "[60 FPS]\n580F0000 06DE1C90\n580F1000 00000018\n580F1000 00000078\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-            "title": "[60 FPS]"
-        },
-        {
-            "content": "[Default 30 FPS]\n580F0000 06DE1C90\n580F1000 00000018\n580F1000 00000078\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
-            "title": "[Default 30 FPS]"
-        },
-        {
-            "content": "[Upscale Quality Type-0]\n580F0000 07536098\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[Upscale Quality Type-0]"
-        },
-        {
-            "content": "[Upscale Quality Type-1]\n580F0000 07536098\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
-            "title": "[Upscale Quality Type-1]"
-        },
-        {
-            "content": "[Default Upscale Quality Type-2]\n580F0000 07536098\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
-            "title": "[Default Upscale Quality Type-2]"
-        },
-        {
-            "content": "[Upscale Quality Type-3]\n580F0000 07536098\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
-            "title": "[Upscale Quality Type-3]"
-        },
-        {
-            "content": "[Upscale Quality Type-4]\n580F0000 07536098\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
-            "title": "[Upscale Quality Type-4]"
-        },
-        {
-            "content": "[Upscale Quality Type-5]\n580F0000 07536098\n780F0000 00000044\n680F0000 00000005 00000005\n\n",
-            "title": "[Upscale Quality Type-5]"
-        },
-        {
-            "content": "[Enable Dynamic Resolution]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
-            "title": "[Enable Dynamic Resolution]"
-        },
-        {
-            "content": "[Default Disable Dynamic Resolution]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[Default Disable Dynamic Resolution]"
-        },
-        {
-            "content": "[Handheld RRS 50% (360p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42855555 42855555\n\n",
-            "title": "[Handheld RRS 50% (360p)]"
-        },
-        {
-            "content": "[Handheld RRS 66.66% (480p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42855555 42855555\n\n",
-            "title": "[Handheld RRS 66.66% (480p)]"
-        },
-        {
-            "content": "[Handheld RRS 75% (540p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42960000 42960000\n\n",
-            "title": "[Handheld RRS 75% (540p)]"
-        },
-        {
-            "content": "[Handheld RRS 85% (612p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42AA0000 42AA0000\n\n",
-            "title": "[Handheld RRS 85% (612p)]"
-        },
-        {
-            "content": "[Default Handheld RRS 100% (720p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42C80000 42C80000\n\n",
-            "title": "[Default Handheld RRS 100% (720p)]"
-        },
-        {
-            "content": "[Docked RRS 66.66% (720p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42855555 42855555\n\n",
-            "title": "[Docked RRS 66.66% (720p)]"
-        },
-        {
-            "content": "[Docked RRS 75% (812p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42960000 42960000\n\n",
-            "title": "[Docked RRS 75% (812p)]"
-        },
-        {
-            "content": "[Docked RRS 83.33% (900p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42A6AAA6 42A6AAA6\n\n",
-            "title": "[Docked RRS 83.33% (900p)]"
-        },
-        {
-            "content": "[Default Docked RRS 100% (1080p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42C80000 42C80000\n\n",
-            "title": "[Default Docked RRS 100% (1080p)]"
-        },
-        {
-            "content": "[Default Image Sharpening OFF]\n580F0000 07535F78\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[Default Image Sharpening OFF]"
-        },
-        {
-            "content": "[Image Sharpening ON]\n580F0000 07535F78\n780F0000 00000044\n680F0000 3F800000 3F800000\n\n",
-            "title": "[Image Sharpening ON]"
-        },
-        {
-            "content": "[Vignette OFF]\n580F0000 075D0828\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[Vignette OFF]"
-        },
-        {
-            "content": "[Default Vignette ON]\n580F0000 075D0828\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
-            "title": "[Default Vignette ON]"
-        },
-        {
-            "content": "[Fog OFF]\n580F0000 074E0350\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[Fog OFF]"
-        },
-        {
-            "content": "[Default Fog ON]\n580F0000 074E0350\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
-            "title": "[Default Fog ON]"
-        },
-        {
-            "content": "[Default Motion Blur OFF]\n580F0000 06DDCB30\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[Default Motion Blur OFF]"
-        },
-        {
-            "content": "[Motion Blur ON]\n580F0000 06DDCB30\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
-            "title": "[Motion Blur ON]"
-        },
-        {
-            "content": "[Default Film Grain OFF]\n580F0000 06DDCF98\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[Default Film Grain OFF]"
-        },
-        {
-            "content": "[Film Grain ON]\n580F0000 06DDCF98\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
-            "title": "[Film Grain ON]"
-        },
-        {
-            "content": "[CHROM AB OFF]\n580F0000 06DDCAD0\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[CHROM AB OFF]"
-        },
-        {
-            "content": "[Default CHROM AB ON]\n580F0000 06DDCAD0\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
-            "title": "[Default CHROM AB ON]"
-        },
-        {
-            "content": "[Default Lens Flare OFF]\n580F0000 0752C728\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[Default Lens Flare OFF]"
-        },
-        {
-            "content": "[Lens Flare ON]\n580F0000 0752C728\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
-            "title": "[Lens Flare ON]"
-        },
-        {
-            "content": "[Sky Lighting Quality OFF]\n580F0000 06DDD1A8\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[Sky Lighting Quality OFF]"
-        },
-        {
-            "content": "[Default Sky Lighting Quality ON]\n580F0000 06DDD1A8\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
-            "title": "[Default Sky Lighting Quality ON]"
-        },
-        {
-            "content": "[Adaptive Exposure OFF]\n580F0000 06DDCF50\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[Adaptive Exposure OFF]"
-        },
-        {
-            "content": "[Adaptive Exposure Low]\n580F0000 06DDCF50\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
-            "title": "[Adaptive Exposure Low]"
-        },
-        {
-            "content": "[Default Adaptive Exposure Normal]\n580F0000 06DDCF50\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
-            "title": "[Default Adaptive Exposure Normal]"
-        },
-        {
-            "content": "[Adaptive Exposure High]\n580F0000 06DDCF50\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
-            "title": "[Adaptive Exposure High]"
-        },
-        {
-            "content": "[View Distance Scale x0.5]\n580F0000 06DDCE78\n780F0000 00000044\n680F0000 3F000000 3F000000\n\n",
-            "title": "[View Distance Scale x0.5]"
-        },
-        {
-            "content": "[Default View Distance Scale x0.8]\n580F0000 06DDCE78\n780F0000 00000044\n680F0000 3F4CCCCD 3F4CCCCD\n\n",
-            "title": "[Default View Distance Scale x0.8]"
-        },
-        {
-            "content": "[View Distance Scale x1]\n580F0000 06DDCE78\n780F0000 00000044\n680F0000 3F800000 3F800000\n\n",
-            "title": "[View Distance Scale x1]"
-        },
-        {
-            "content": "[View Distance Scale x1.5]\n580F0000 06DDCE78\n780F0000 00000044\n680F0000 3FC00000 3FC00000\n\n",
-            "title": "[View Distance Scale x1.5]"
-        },
-        {
-            "content": "[View Distance Scale x2]\n580F0000 06DDCE78\n780F0000 00000044\n680F0000 40000000 40000000\n\n",
-            "title": "[View Distance Scale x2]"
-        },
-        {
-            "content": "[DOF OFF]\n580F0000 06DDCBC0\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[DOF OFF]"
-        },
-        {
-            "content": "[Default DOF low]\n580F0000 06DDCBC0\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
-            "title": "[Default DOF low]"
-        },
-        {
-            "content": "[DOF High]\n580F0000 06DDCBC0\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
-            "title": "[DOF High]"
-        },
-        {
-            "content": "[DOF Very High]\n580F0000 06DDCBC0\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
-            "title": "[DOF Very High]"
-        },
-        {
-            "content": "[DOF Extreme]\n580F0000 06DDCBC0\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
-            "title": "[DOF Extreme]"
-        },
-        {
-            "content": "[Default Anisotropic Filtering x1]\n580F0000 06DDCDA0\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
-            "title": "[Default Anisotropic Filtering x1]"
-        },
-        {
-            "content": "[Anisotropic Filtering x2]\n580F0000 06DDCDA0\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
-            "title": "[Anisotropic Filtering x2]"
-        },
-        {
-            "content": "[Anisotropic Filtering x4]\n580F0000 06DDCDA0\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
-            "title": "[Anisotropic Filtering x4]"
-        },
-        {
-            "content": "[Anisotropic Filtering x8]\n580F0000 06DDCDA0\n780F0000 00000044\n680F0000 00000008 00000008\n\n",
-            "title": "[Anisotropic Filtering x8]"
-        },
-        {
-            "content": "[Anisotropic Filtering x16]\n580F0000 06DDCDA0\n780F0000 00000044\n680F0000 00000010 00000010\n\n",
-            "title": "[Anisotropic Filtering x16]"
-        },
-        {
-            "content": "[MSAA OFF]\n580F0000 06DDCCC8\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
-            "title": "[MSAA OFF]"
-        },
-        {
-            "content": "[MSAA 2x]\n580F0000 06DDCCC8\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
-            "title": "[MSAA 2x]"
-        },
-        {
-            "content": "[Default MSAA 4x]\n580F0000 06DDCCC8\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
-            "title": "[Default MSAA 4x]"
-        },
-        {
-            "content": "[MSAA 8x]\n580F0000 06DDCCC8\n780F0000 00000044\n680F0000 00000008 00000008\n\n",
-            "title": "[MSAA 8x]"
-        },
-        {
-            "content": "[AA OFF]\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[AA OFF]"
-        },
-        {
-            "content": "[AA Very Low (Faster FXAA)]\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
-            "title": "[AA Very Low (Faster FXAA)]"
-        },
-        {
-            "content": "[AA Low (FXAA)]\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
-            "title": "[AA Low (FXAA)]"
-        },
-        {
-            "content": "[Default AA Medium (Faster TAA)]\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
-            "title": "[Default AA Medium (Faster TAA)]"
-        },
-        {
-            "content": "[AA High (Default TAA)]\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
-            "title": "[AA High (Default TAA)]"
-        },
-        {
-            "content": "[AA Very High]\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000005 00000005\n\n",
-            "title": "[AA Very High]"
-        },
-        {
-            "content": "[AA Max]\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000006 00000006\n\n",
-            "title": "[AA Max]"
-        },
-        {
-            "content": "[Shadow OFF]\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[Shadow OFF]"
-        },
-        {
-            "content": "[Shadow Low (Unfiltered)]\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
-            "title": "[Shadow Low (Unfiltered)]"
-        },
-        {
-            "content": "[Shadow Low]\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
-            "title": "[Shadow Low]"
-        },
-        {
-            "content": "[Default Shadow Medium]\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
-            "title": "[Default Shadow Medium]"
-        },
-        {
-            "content": "[Shadow High]\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
-            "title": "[Shadow High]"
-        },
-        {
-            "content": "[Shadow Max]\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000005 00000005\n\n",
-            "title": "[Shadow Max]"
-        },
-        {
-            "content": "[Shadow Distance x0.5]\n580F0000 06DDCF68\n780F0000 00000044\n680F0000 3F000000 3F000000\n\n",
-            "title": "[Shadow Distance x0.5]"
-        },
-        {
-            "content": "[Default Shadow Distance x1]\n580F0000 06DDCF68\n780F0000 00000044\n680F0000 3F800000 3F800000\n\n",
-            "title": "[Default Shadow Distance x1]"
-        },
-        {
-            "content": "[Shadow Distance x1.5]\n580F0000 06DDCF68\n780F0000 00000044\n680F0000 3FC00000 3FC00000\n\n",
-            "title": "[Shadow Distance x1.5]"
-        },
-        {
-            "content": "[Shadow Distance x2]\n580F0000 06DDCF68\n780F0000 00000044\n680F0000 40000000 40000000\n\n",
-            "title": "[Shadow Distance x2]"
-        },
-        {
-            "content": "[SSA0 OFF]\n580F0000 06DDCAE8\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[SSA0 OFF]"
-        },
-        {
-            "content": "[Default SSA0 x0.5]\n580F0000 06DDCAE8\n780F0000 00000044\n680F0000 3F000000 3F000000\n\n",
-            "title": "[Default SSA0 x0.5]"
-        },
-        {
-            "content": "[SSA0 x1]\n580F0000 06DDCAE8\n780F0000 00000044\n680F0000 3F800000 3F800000\n\n",
-            "title": "[SSA0 x1]"
-        },
-        {
-            "content": "[SSA0 x2]\n580F0000 06DDCAE8\n780F0000 00000044\n680F0000 40000000 40000000\n\n",
-            "title": "[SSA0 x2]"
-        },
-        {
-            "content": "[Bloom OFF]\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[Bloom OFF]"
-        },
-        {
-            "content": "[Bloom Very Low]\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
-            "title": "[Bloom Very Low]"
-        },
-        {
-            "content": "[Default Bloom Low]\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
-            "title": "[Default Bloom Low]"
-        },
-        {
-            "content": "[Bloom Medium]\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
-            "title": "[Bloom Medium]"
-        },
-        {
-            "content": "[Bloom High]\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
-            "title": "[Bloom High]"
-        },
-        {
-            "content": "[Bloom Very High]\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000005 00000005\n\n",
-            "title": "[Bloom Very High]"
-        },
-        {
-            "content": "[MAX GFX QUALITY]\n580F0000 06DDCF50\n780F0000 00000044\n680F0000 00000003 00000003\n580F0000 06DDCE78\n780F0000 00000044\n680F0000 40000000 40000000\n580F0000 06DDCBC0\n780F0000 00000044\n680F0000 00000004 00000004\n580F0000 06DDCDA0\n780F0000 00000044\n680F0000 00000010 00000010\n580F0000 06DDCCC8\n780F0000 00000044\n680F0000 00000008 00000008\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000006 00000006\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000005 00000005\n580F0000 06DDCF68\n780F0000 00000044\n680F0000 40000000 40000000\n580F0000 06DDCAE8\n780F0000 00000044\n680F0000 40000000 40000000\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000005 00000005\n\n",
-            "title": "[MAX GFX QUALITY]"
-        },
-        {
-            "content": "[MIN GFX QUALITY]\n580F0000 06DDCF50\n780F0000 00000044\n680F0000 00000001 00000001\n580F0000 06DDCE78\n780F0000 00000044\n680F0000 3F000000 3F000000\n580F0000 06DDCBC0\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCDA0\n780F0000 00000044\n680F0000 00000001 00000001\n580F0000 06DDCCC8\n780F0000 00000044\n680F0000 00000001 00000001\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCF68\n780F0000 00000044\n680F0000 3F000000 3F000000\n580F0000 06DDCAE8\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
-            "title": "[MIN GFX QUALITY]"
-        },
-        {
-            "content": "[DEFAULT GFX QUALITY]\n580F0000 06DDCF50\n780F0000 00000044\n680F0000 00000002 00000002\n580F0000 06DDCE78\n780F0000 00000044\n680F0000 3F4CCCCD 3F4CCCCD\n580F0000 06DDCBC0\n780F0000 00000044\n680F0000 00000001 00000001\n580F0000 06DDCDA0\n780F0000 00000044\n680F0000 00000001 00000001\n580F0000 06DDCCC8\n780F0000 00000044\n680F0000 00000004 00000004\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000003 00000003\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000003 00000003\n580F0000 06DDCF68\n780F0000 00000044\n680F0000 3F800000 3F800000\n580F0000 06DDCAE8\n780F0000 00000044\n680F0000 3F000000 3F000000\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000002 00000002\n",
-            "title": "[DEFAULT GFX QUALITY]"
-        }
-    ]
+    "6E1059ADB083B99F": {
+        "{Master Code \u95dc\u9375\u78bc}": "{Master Code \u95dc\u9375\u78bc}\n040E0000 027C3758 BD428E6C\n580F0000 069A4608\n580F1000 00000118\n\n",
+        "[Restore Code \u9084\u539f\u78bc]": "[Restore Code \u9084\u539f\u78bc]\n040E0000 00962968 B9033EA8\n040E0000 00962954 B9433EA9\n040E0000 00959AB0 A9454FF4\n040E0000 0097042C 2A0203F3\n040E0000 00970A18 0B190001\n040E0000 00970A44 0B190001\n040E0000 00970A6C 0B150001\n040E0000 00970A94 0B150001\n040E0000 00970ABC 0B150001\n040E0000 00970AE8 0B150001\n040E0000 00970B10 0B150001\n040E0000 00970B38 0B150001\n480D0000 00000000 00000050\n640F01D0 00000000 0000004C\n480D0000 00000000 00000058\n640F01D0 00000000 000003E7\n480D0000 00000000 00000190\n640F01D0 00000000 000003E7\n480D0000 00000000 00000178\n640F01D0 00000000 00000063\n480D0000 00000000 00000180\n640F01D0 00000000 00000096\n480D0000 00000000 000001A0\n640F01D0 00000000 00000063\n480D0000 00000000 000001A8\n640F01D0 00000000 00000063\n040E0000 0094C354 1E300009\n\n",
+        "[#01. Inf HP \u7121\u9650\u751f\u547d]": "[#01. Inf HP \u7121\u9650\u751f\u547d]\n080E0000 04008FF8 D65F03C0 B9033EA8\n080E0000 04008FF0 34000049 394CA2A9\n040E0000 00962968 94DA99A2\n\n",
+        "[#02. One Hit Kill \u79d2\u6bba]": "[#02. One Hit Kill \u79d2\u6bba]\n080E0000 04008FE8 D65F03C0 B9433EA9\n080E0000 04008FE0 B9433EA8 34000049\n040E0000 04008FDC 394CA2A9\n040E0000 00962954 94DA99A2\n\n",
+        "[#03(a) EXP Multiplier \u7d93\u9a57\u500d\u7387 (2x)]": "[#03(a) EXP Multiplier \u7d93\u9a57\u500d\u7387 (2x)]\n080E0000 04008FD4 D65F03C0 A9454FF4\n080E0000 04008FCC B9000288 0B080108\n080E0000 04008FC4 B9400288 B9000268\n080E0000 04008FBC 0B080108 B9400268\n040E0000 00959AB0 94DABD43\n\n",
+        "[#03(b) EXP Multiplier \u7d93\u9a57\u500d\u7387 (3x)]": "[#03(b) EXP Multiplier \u7d93\u9a57\u500d\u7387 (3x)]\n080E0000 04008FD4 D65F03C0 A9454FF4\n080E0000 04008FCC B9000288 0B080508\n080E0000 04008FC4 B9400288 B9000268\n080E0000 04008FBC 0B080508 B9400268\n040E0000 00959AB0 94DABD43\n\n",
+        "[#03(c) EXP Multiplier \u7d93\u9a57\u500d\u7387 (4x)]": "[#03(c) EXP Multiplier \u7d93\u9a57\u500d\u7387 (4x)]\n080E0000 04008FD4 D65F03C0 A9454FF4\n080E0000 04008FCC B9000288 531E7508\n080E0000 04008FC4 B9400288 B9000268\n080E0000 04008FBC 531E7508 B9400268\n040E0000 00959AB0 94DABD43\n\n",
+        "[#03(d) EXP Multiplier \u7d93\u9a57\u500d\u7387 (5x)]": "[#03(d) EXP Multiplier \u7d93\u9a57\u500d\u7387 (5x)]\n080E0000 04008FD4 D65F03C0 A9454FF4\n080E0000 04008FCC B9000288 0B080908\n080E0000 04008FC4 B9400288 B9000268\n080E0000 04008FBC 0B080908 B9400268\n040E0000 00959AB0 94DABD43\n\n",
+        "[#03(e) Level Up After Every Battle \u6bcf\u6230\u5347\u7d1a]": "[#03(e) Level Up After Every Battle \u6bcf\u6230\u5347\u7d1a]\n040E0000 0097042C 52800C93\n\n",
+        "[#04(a) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (2x)]": "[#04(a) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (2x)]\n040E0000 00970A18 0B000721\n040E0000 00970A44 0B000721\n040E0000 00970A6C 0B0006A1\n040E0000 00970A94 0B0006A1\n040E0000 00970ABC 0B0006A1\n040E0000 00970AE8 0B0006A1\n040E0000 00970B10 0B0006A1\n040E0000 00970B38 0B0006A1\n\n",
+        "[#04(b) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (4x)]": "[#04(b) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (4x)]\n040E0000 00970A18 0B000B21\n040E0000 00970A44 0B000B21\n040E0000 00970A6C 0B000AA1\n040E0000 00970A94 0B000AA1\n040E0000 00970ABC 0B000AA1\n040E0000 00970AE8 0B000AA1\n040E0000 00970B10 0B000AA1\n040E0000 00970B38 0B000AA1\n\n",
+        "[#04(c) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (8x)]": "[#04(c) Lv Up Abilities Multiplier \u5347\u7d1a\u80fd\u529b\u500d\u7387 (8x)]\n040E0000 00970A18 0B000F21\n040E0000 00970A44 0B000F21\n040E0000 00970A6C 0B000EA1\n040E0000 00970A94 0B000EA1\n040E0000 00970ABC 0B000EA1\n040E0000 00970AE8 0B000EA1\n040E0000 00970B10 0B000EA1\n040E0000 00970B38 0B000EA1\n\n",
+        "[#05(a) Movement Speed \u79fb\u52d5\u500d\u7387 (1.5x) Hold ZR]": "[#05(a) Movement Speed \u79fb\u52d5\u500d\u7387 (1.5x) Hold ZR]\n80000200\n040E0000 027C3758 1E2F100C\n20000000\n\n",
+        "[#05(b) Movement Speed \u79fb\u52d5\u500d\u7387 (2.0x) Hold ZR]": "[#05(b) Movement Speed \u79fb\u52d5\u500d\u7387 (2.0x) Hold ZR]\n80000200\n040E0000 027C3758 1E20100C\n20000000\n\n",
+        "[#05(c) Movement Speed \u79fb\u52d5\u500d\u7387 (2.5x) Hold ZR]": "[#05(c) Movement Speed \u79fb\u52d5\u500d\u7387 (2.5x) Hold ZR]\n80000200\n040E0000 027C3758 1E20900C\n20000000\n\n",
+        "[#06. Character Accuracy Value \u64ca\u4e2d\u6a5f\u7387 100%]": "[#06. Character Accuracy Value \u64ca\u4e2d\u6a5f\u7387 100%]\n480D0000 00000000 00000050\n640F01D0 00000000 00000064\n\n",
+        "[#07. Damage UpperLimit \u50b7\u5bb3\u4e0a\u9650 99999]": "[#07. Damage UpperLimit \u50b7\u5bb3\u4e0a\u9650 99999]\n480D0000 00000000 00000058\n640F01D0 00000000 0001869F\n\n",
+        "[#08. HP UpperLimit \u751f\u547d\u4e0a\u9650 19999]": "[#08. HP UpperLimit \u751f\u547d\u4e0a\u9650 19999]\n480D0000 00000000 00000190\n640F01D0 00000000 00004E1F\n\n",
+        "[#09. Abilities UpperLimit \u5c6c\u6027\u4e0a\u9650 9999]": "[#09. Abilities UpperLimit \u5c6c\u6027\u4e0a\u9650 9999]\n480D0000 00000000 00000178\n640F01D0 00000000 0000270F\n480D0000 00000000 00000180\n640F01D0 00000000 0000270F\n480D0000 00000000 000001A0\n640F01D0 00000000 0000270F\n480D0000 00000000 000001A8\n640F01D0 00000000 0000270F\n\n",
+        "[#10(a) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (2x)]": "[#10(a) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (2x)]\n080E0000 04008FB4 D65F03C0 1E300009\n080E0000 04008FAC 1E210800 1E209001\n080E0000 04008FA4 35000069 394CA129\n040E0000 04008FA0 F940FA89\n040E0000 0094C354 94DAF313\n\n",
+        "[#10(b) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (5x)]": "[#10(b) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (5x)]\n080E0000 04008FB4 D65F03C0 1E300009\n080E0000 04008FAC 1E210800 1E229001\n080E0000 04008FA4 35000069 394CA129\n040E0000 04008FA0 F940FA89\n040E0000 0094C354 94DAF313\n\n",
+        "[#10(c) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (10x)]": "[#10(c) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (10x)]\n080E0000 04008FB4 D65F03C0 1E300009\n080E0000 04008FAC 1E210800 1E249001\n080E0000 04008FA4 35000069 394CA129\n040E0000 04008FA0 F940FA89\n040E0000 0094C354 94DAF313\n\n",
+        "[#10(d) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (30x)]": "[#10(d) Damage Multiplier \u653b\u64ca\u50b7\u5bb3\u500d\u7387 (30x)]\n080E0000 04008FB4 D65F03C0 1E300009\n080E0000 04008FAC 1E210800 1E27D001\n080E0000 04008FA4 35000069 394CA129\n040E0000 04008FA0 F940FA89\n040E0000 0094C354 94DAF313\n\n"
+    },
+    "CF22083371DDACB2": {
+        "[60 FPS]": "[60 FPS]\n580F0000 06DE1C90\n580F1000 00000018\n580F1000 00000078\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 06DE1C90\n580F1000 00000018\n580F1000 00000078\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+        "[Upscale Quality Type-0]": "[Upscale Quality Type-0]\n580F0000 07536098\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[Upscale Quality Type-1]": "[Upscale Quality Type-1]\n580F0000 07536098\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+        "[Default Upscale Quality Type-2]": "[Default Upscale Quality Type-2]\n580F0000 07536098\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+        "[Upscale Quality Type-3]": "[Upscale Quality Type-3]\n580F0000 07536098\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
+        "[Upscale Quality Type-4]": "[Upscale Quality Type-4]\n580F0000 07536098\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
+        "[Upscale Quality Type-5]": "[Upscale Quality Type-5]\n580F0000 07536098\n780F0000 00000044\n680F0000 00000005 00000005\n\n",
+        "[Enable Dynamic Resolution]": "[Enable Dynamic Resolution]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+        "[Default Disable Dynamic Resolution]": "[Default Disable Dynamic Resolution]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[Handheld RRS 50% (360p)]": "[Handheld RRS 50% (360p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42855555 42855555\n\n",
+        "[Handheld RRS 66.66% (480p)]": "[Handheld RRS 66.66% (480p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42855555 42855555\n\n",
+        "[Handheld RRS 75% (540p)]": "[Handheld RRS 75% (540p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42960000 42960000\n\n",
+        "[Handheld RRS 85% (612p)]": "[Handheld RRS 85% (612p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42AA0000 42AA0000\n\n",
+        "[Default Handheld RRS 100% (720p)]": "[Default Handheld RRS 100% (720p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42C80000 42C80000\n\n",
+        "[Docked RRS 66.66% (720p)]": "[Docked RRS 66.66% (720p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42855555 42855555\n\n",
+        "[Docked RRS 75% (812p)]": "[Docked RRS 75% (812p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42960000 42960000\n\n",
+        "[Docked RRS 83.33% (900p)]": "[Docked RRS 83.33% (900p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42A6AAA6 42A6AAA6\n\n",
+        "[Default Docked RRS 100% (1080p)]": "[Default Docked RRS 100% (1080p)]\n580F0000 075D8438\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCBD8\n780F0000 00000044\n680F0000 42C80000 42C80000\n\n",
+        "[Default Image Sharpening OFF]": "[Default Image Sharpening OFF]\n580F0000 07535F78\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[Image Sharpening ON]": "[Image Sharpening ON]\n580F0000 07535F78\n780F0000 00000044\n680F0000 3F800000 3F800000\n\n",
+        "[Vignette OFF]": "[Vignette OFF]\n580F0000 075D0828\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[Default Vignette ON]": "[Default Vignette ON]\n580F0000 075D0828\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+        "[Fog OFF]": "[Fog OFF]\n580F0000 074E0350\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[Default Fog ON]": "[Default Fog ON]\n580F0000 074E0350\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+        "[Default Motion Blur OFF]": "[Default Motion Blur OFF]\n580F0000 06DDCB30\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[Motion Blur ON]": "[Motion Blur ON]\n580F0000 06DDCB30\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
+        "[Default Film Grain OFF]": "[Default Film Grain OFF]\n580F0000 06DDCF98\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[Film Grain ON]": "[Film Grain ON]\n580F0000 06DDCF98\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+        "[CHROM AB OFF]": "[CHROM AB OFF]\n580F0000 06DDCAD0\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[Default CHROM AB ON]": "[Default CHROM AB ON]\n580F0000 06DDCAD0\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+        "[Default Lens Flare OFF]": "[Default Lens Flare OFF]\n580F0000 0752C728\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[Lens Flare ON]": "[Lens Flare ON]\n580F0000 0752C728\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+        "[Sky Lighting Quality OFF]": "[Sky Lighting Quality OFF]\n580F0000 06DDD1A8\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[Default Sky Lighting Quality ON]": "[Default Sky Lighting Quality ON]\n580F0000 06DDD1A8\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+        "[Adaptive Exposure OFF]": "[Adaptive Exposure OFF]\n580F0000 06DDCF50\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[Adaptive Exposure Low]": "[Adaptive Exposure Low]\n580F0000 06DDCF50\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+        "[Default Adaptive Exposure Normal]": "[Default Adaptive Exposure Normal]\n580F0000 06DDCF50\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+        "[Adaptive Exposure High]": "[Adaptive Exposure High]\n580F0000 06DDCF50\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
+        "[View Distance Scale x0.5]": "[View Distance Scale x0.5]\n580F0000 06DDCE78\n780F0000 00000044\n680F0000 3F000000 3F000000\n\n",
+        "[Default View Distance Scale x0.8]": "[Default View Distance Scale x0.8]\n580F0000 06DDCE78\n780F0000 00000044\n680F0000 3F4CCCCD 3F4CCCCD\n\n",
+        "[View Distance Scale x1]": "[View Distance Scale x1]\n580F0000 06DDCE78\n780F0000 00000044\n680F0000 3F800000 3F800000\n\n",
+        "[View Distance Scale x1.5]": "[View Distance Scale x1.5]\n580F0000 06DDCE78\n780F0000 00000044\n680F0000 3FC00000 3FC00000\n\n",
+        "[View Distance Scale x2]": "[View Distance Scale x2]\n580F0000 06DDCE78\n780F0000 00000044\n680F0000 40000000 40000000\n\n",
+        "[DOF OFF]": "[DOF OFF]\n580F0000 06DDCBC0\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[Default DOF low]": "[Default DOF low]\n580F0000 06DDCBC0\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+        "[DOF High]": "[DOF High]\n580F0000 06DDCBC0\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+        "[DOF Very High]": "[DOF Very High]\n580F0000 06DDCBC0\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
+        "[DOF Extreme]": "[DOF Extreme]\n580F0000 06DDCBC0\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
+        "[Default Anisotropic Filtering x1]": "[Default Anisotropic Filtering x1]\n580F0000 06DDCDA0\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+        "[Anisotropic Filtering x2]": "[Anisotropic Filtering x2]\n580F0000 06DDCDA0\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+        "[Anisotropic Filtering x4]": "[Anisotropic Filtering x4]\n580F0000 06DDCDA0\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
+        "[Anisotropic Filtering x8]": "[Anisotropic Filtering x8]\n580F0000 06DDCDA0\n780F0000 00000044\n680F0000 00000008 00000008\n\n",
+        "[Anisotropic Filtering x16]": "[Anisotropic Filtering x16]\n580F0000 06DDCDA0\n780F0000 00000044\n680F0000 00000010 00000010\n\n",
+        "[MSAA OFF]": "[MSAA OFF]\n580F0000 06DDCCC8\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+        "[MSAA 2x]": "[MSAA 2x]\n580F0000 06DDCCC8\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+        "[Default MSAA 4x]": "[Default MSAA 4x]\n580F0000 06DDCCC8\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
+        "[MSAA 8x]": "[MSAA 8x]\n580F0000 06DDCCC8\n780F0000 00000044\n680F0000 00000008 00000008\n\n",
+        "[AA OFF]": "[AA OFF]\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[AA Very Low (Faster FXAA)]": "[AA Very Low (Faster FXAA)]\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+        "[AA Low (FXAA)]": "[AA Low (FXAA)]\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+        "[Default AA Medium (Faster TAA)]": "[Default AA Medium (Faster TAA)]\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
+        "[AA High (Default TAA)]": "[AA High (Default TAA)]\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
+        "[AA Very High]": "[AA Very High]\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000005 00000005\n\n",
+        "[AA Max]": "[AA Max]\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000006 00000006\n\n",
+        "[Shadow OFF]": "[Shadow OFF]\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[Shadow Low (Unfiltered)]": "[Shadow Low (Unfiltered)]\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+        "[Shadow Low]": "[Shadow Low]\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+        "[Default Shadow Medium]": "[Default Shadow Medium]\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
+        "[Shadow High]": "[Shadow High]\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
+        "[Shadow Max]": "[Shadow Max]\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000005 00000005\n\n",
+        "[Shadow Distance x0.5]": "[Shadow Distance x0.5]\n580F0000 06DDCF68\n780F0000 00000044\n680F0000 3F000000 3F000000\n\n",
+        "[Default Shadow Distance x1]": "[Default Shadow Distance x1]\n580F0000 06DDCF68\n780F0000 00000044\n680F0000 3F800000 3F800000\n\n",
+        "[Shadow Distance x1.5]": "[Shadow Distance x1.5]\n580F0000 06DDCF68\n780F0000 00000044\n680F0000 3FC00000 3FC00000\n\n",
+        "[Shadow Distance x2]": "[Shadow Distance x2]\n580F0000 06DDCF68\n780F0000 00000044\n680F0000 40000000 40000000\n\n",
+        "[SSA0 OFF]": "[SSA0 OFF]\n580F0000 06DDCAE8\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[Default SSA0 x0.5]": "[Default SSA0 x0.5]\n580F0000 06DDCAE8\n780F0000 00000044\n680F0000 3F000000 3F000000\n\n",
+        "[SSA0 x1]": "[SSA0 x1]\n580F0000 06DDCAE8\n780F0000 00000044\n680F0000 3F800000 3F800000\n\n",
+        "[SSA0 x2]": "[SSA0 x2]\n580F0000 06DDCAE8\n780F0000 00000044\n680F0000 40000000 40000000\n\n",
+        "[Bloom OFF]": "[Bloom OFF]\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[Bloom Very Low]": "[Bloom Very Low]\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+        "[Default Bloom Low]": "[Default Bloom Low]\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+        "[Bloom Medium]": "[Bloom Medium]\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
+        "[Bloom High]": "[Bloom High]\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
+        "[Bloom Very High]": "[Bloom Very High]\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000005 00000005\n\n",
+        "[MAX GFX QUALITY]": "[MAX GFX QUALITY]\n580F0000 06DDCF50\n780F0000 00000044\n680F0000 00000003 00000003\n580F0000 06DDCE78\n780F0000 00000044\n680F0000 40000000 40000000\n580F0000 06DDCBC0\n780F0000 00000044\n680F0000 00000004 00000004\n580F0000 06DDCDA0\n780F0000 00000044\n680F0000 00000010 00000010\n580F0000 06DDCCC8\n780F0000 00000044\n680F0000 00000008 00000008\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000006 00000006\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000005 00000005\n580F0000 06DDCF68\n780F0000 00000044\n680F0000 40000000 40000000\n580F0000 06DDCAE8\n780F0000 00000044\n680F0000 40000000 40000000\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000005 00000005\n\n",
+        "[MIN GFX QUALITY]": "[MIN GFX QUALITY]\n580F0000 06DDCF50\n780F0000 00000044\n680F0000 00000001 00000001\n580F0000 06DDCE78\n780F0000 00000044\n680F0000 3F000000 3F000000\n580F0000 06DDCBC0\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCDA0\n780F0000 00000044\n680F0000 00000001 00000001\n580F0000 06DDCCC8\n780F0000 00000044\n680F0000 00000001 00000001\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCF68\n780F0000 00000044\n680F0000 3F000000 3F000000\n580F0000 06DDCAE8\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+        "[DEFAULT GFX QUALITY]": "[DEFAULT GFX QUALITY]\n580F0000 06DDCF50\n780F0000 00000044\n680F0000 00000002 00000002\n580F0000 06DDCE78\n780F0000 00000044\n680F0000 3F4CCCCD 3F4CCCCD\n580F0000 06DDCBC0\n780F0000 00000044\n680F0000 00000001 00000001\n580F0000 06DDCDA0\n780F0000 00000044\n680F0000 00000001 00000001\n580F0000 06DDCCC8\n780F0000 00000044\n680F0000 00000004 00000004\n580F0000 06DDCB48\n780F0000 00000044\n680F0000 00000003 00000003\n580F0000 06DDCB18\n780F0000 00000044\n680F0000 00000003 00000003\n580F0000 06DDCF68\n780F0000 00000044\n680F0000 3F800000 3F800000\n580F0000 06DDCAE8\n780F0000 00000044\n680F0000 3F000000 3F000000\n580F0000 06DDCAB8\n780F0000 00000044\n680F0000 00000002 00000002\n\n"
+    },
+    "attribution": {
+        "LIVE A LIVE.txt": "by Hazerou\nIncluded in the text file;\n\n[Upscale Quality]\n[Enable / Disable Dynamic Resolution]\n[RRS]\n[Image Sharpening]\n[Vignette]\n[Fog] <= NEW!\n[Motion Blur]\n[Film Grain]\n[CHROM AB]\n[Lens Flare]\n[Sky Lighting Quality]\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n[MIN/MAX/Default GFX Quality]\n\nNote;\n\nThe [GFX Quality] Are For;\n\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n\n=====\n\n[Upscale Quality] Is noticeable (more usable) when using lower RRS + AA OFF, AA Very Low or AA Low.\n\nType-0: Nearest filtering\n\nType-1: Simple Bilinear\n\nType-2: Directional blur with unsharp mask upsample.\n\nType-3: 5-tap Catmull-Rom bicubic, approximating Lanczos 2. (default)\n\nType-4: 13-tap Lanczos 3.\n\nType-5: 36-tap Gaussian-filtered unsharp mask (very expensive, but good for extreme upsampling)\n\n\n[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function. Also some RRS may not fit the display to the screen correctly.\nPlease use;\nHandheld RRS for Handheld Mode.\nDocked RRS for Docked Mode.\nAnd please don't activate both at the same time!\n\nSome GFX Codes has no Function/Effect to the Game. \n"
+    }
 }

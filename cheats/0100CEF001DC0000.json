@@ -1,44 +1,17 @@
 {
-    "E9849E22467B5E3B": [
-        {
-            "content": "[P1 Infinite HP]\n02000000 0123886a 0000FFE4\n\n",
-            "title": "[P1 Infinite HP]"
-        },
-        {
-            "content": "[P1 Infinite Super]\n01000000 01238878 00000003\n\n",
-            "title": "[P1 Infinite Super]"
-        },
-        {
-            "content": "[P2 No HP]\n02000000 012389aa 00000000\n\n",
-            "title": "[P2 No HP]"
-        },
-        {
-            "content": "[P2 No Super]\n01000000 012389b8 00000000",
-            "title": "[P2 No Super]"
-        }
-    ],
-    "F15D4F7092756A32": [
-        {
-            "content": "[P1 Infinite HP]\n02000000 0125d6da 0000FFE4\n\n",
-            "title": "[P1 Infinite HP]"
-        },
-        {
-            "content": "[P1 Infinite Super]\n01000000 0125d6e8 00000003\n\n",
-            "title": "[P1 Infinite Super]"
-        },
-        {
-            "content": "[P2 NO HP]\n02000000 0125d81a 00000000\n\n",
-            "title": "[P2 NO HP]"
-        },
-        {
-            "content": "[P2 NO Super]\n01000000 0125d828 00000000\n\n",
-            "title": "[P2 NO Super]"
-        },
-        {
-            "content": "[hitanywhere]\n580F0000 0126DE68\n780F0000 000B7DA4\n640F0000 00000000 013e6002",
-            "title": "[hitanywhere]"
-        }
-    ],
+    "F15D4F7092756A32": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n02000000 0125d6da 0000FFE4\n\n",
+        "[P1 Infinite Super]": "[P1 Infinite Super]\n01000000 0125d6e8 00000003\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n02000000 0125d81a 00000000\n\n",
+        "[P2 NO Super]": "[P2 NO Super]\n01000000 0125d828 00000000\n\n",
+        "[hitanywhere]": "[hitanywhere]\n580F0000 0126DE68\n780F0000 000B7DA4\n640F0000 00000000 013e6002\n\n"
+    },
+    "E9849E22467B5E3B": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n02000000 0123886a 0000FFE4\n\n",
+        "[P1 Infinite Super]": "[P1 Infinite Super]\n01000000 01238878 00000003\n\n",
+        "[P2 No HP]": "[P2 No HP]\n02000000 012389aa 00000000\n\n",
+        "[P2 No Super]": "[P2 No Super]\n01000000 012389b8 00000000\n\n"
+    },
     "attribution": {
         "by optantic for ACA NEOGEO WAKU WAKU 7 1.0.2 and xtatu.txt": "[From MAX-CHEATS.com by optantic for ACA NEOGEO WAKU WAKU 7 1.0.2]\n\n[P1 Infinite HP]\n02000000 0125d6da 0000FFE4\n\n[P1 Infinite Super]\n01000000 0125d6e8 00000003\n\n[P2 NO HP]\n02000000 0125d81a 00000000\n\n[P2 NO Super]\n01000000 0125d828 00000000\n\n[hitanywhere]\n580F0000 0126DE68\n780F0000 000B7DA4\n640F0000 00000000 013e6002"
     }

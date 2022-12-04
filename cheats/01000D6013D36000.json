@@ -1,26 +1,11 @@
 {
-    "3D46F1C57C982E45": [
-        {
-            "content": "[CPU NO MOVE]\n04000000 014D6588 1E2703E2\n\n",
-            "title": "[CPU NO MOVE]"
-        },
-        {
-            "content": "[walk through walls ON]\n04000000 0177647C 1E27F000\n\n",
-            "title": "[walk through walls ON]"
-        },
-        {
-            "content": "[walk through walls OFF]\n04000000 0177647C 1E2E1000\n\n",
-            "title": "[walk through walls OFF]"
-        },
-        {
-            "content": "[SPEED CAR MOD X2.0]\n04000000 00BC5C74 1E301000\n\n",
-            "title": "[SPEED CAR MOD X2.0]"
-        },
-        {
-            "content": "[SPEED CAR MOD OFF]\n04000000 00BC5C74 1E2E1000",
-            "title": "[SPEED CAR MOD OFF]"
-        }
-    ],
+    "3D46F1C57C982E45": {
+        "[CPU NO MOVE]": "[CPU NO MOVE]\n04000000 014D6588 1E2703E2\n\n",
+        "[walk through walls ON]": "[walk through walls ON]\n04000000 0177647C 1E27F000\n\n",
+        "[walk through walls OFF]": "[walk through walls OFF]\n04000000 0177647C 1E2E1000\n\n",
+        "[SPEED CAR MOD X2.0]": "[SPEED CAR MOD X2.0]\n04000000 00BC5C74 1E301000\n\n",
+        "[SPEED CAR MOD OFF]": "[SPEED CAR MOD OFF]\n04000000 00BC5C74 1E2E1000\n\n"
+    },
     "attribution": {
         "Speedway Bundle Stock and Truck by xtatu.txt": "[Inf Coins 99999 @Matias3ds]\n04000000 01a77670 0001869F\n\n[Inf Skill Tree @Matias3ds]\n04000000 019c46d8 0001869F\n\n[Inf Gems @Matias3ds]\n04000000 01a71d3c 0001869F"
     }

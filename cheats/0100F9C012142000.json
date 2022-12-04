@@ -1,14 +1,8 @@
 {
-    "4403F1E8097BAD4C": [
-        {
-            "content": "[Default 60 FPS]\n580F0000 051E1558\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-            "title": "[Default 60 FPS]"
-        },
-        {
-            "content": "[30 FPS]\n580F0000 051E1558\n780F0000 00000F14\n640F0000 00000000 00000002",
-            "title": "[30 FPS]"
-        }
-    ],
+    "4403F1E8097BAD4C": {
+        "[Default 60 FPS]": "[Default 60 FPS]\n580F0000 051E1558\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 051E1558\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
     "attribution": {
         "MageQuit.txt": "by hazerou"
     }

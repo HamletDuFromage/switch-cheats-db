@@ -1,18 +1,9 @@
 {
-    "B55B6DBC68ECA640": [
-        {
-            "content": "[INf Health]\n04000000 0031EB60 D65F03C0\n\n",
-            "title": "[INf Health]"
-        },
-        {
-            "content": "[Inf Ammo]\n04000000 00317CD0 D503201F\n04000000 0038C19C D503201F\n\n",
-            "title": "[Inf Ammo]"
-        },
-        {
-            "content": "[Inf Ammo (off)]\n04000000 00317CD0 51000508\n04000000 0038C19C 51000508",
-            "title": "[Inf Ammo (off)]"
-        }
-    ],
+    "B55B6DBC68ECA640": {
+        "[INf Health]": "[INf Health]\n04000000 0031EB60 D65F03C0\n\n",
+        "[Inf Ammo]": "[Inf Ammo]\n04000000 00317CD0 D503201F\n04000000 0038C19C D503201F\n\n",
+        "[Inf Ammo (off)]": "[Inf Ammo (off)]\n04000000 00317CD0 51000508\n04000000 0038C19C 51000508\n\n"
+    },
     "attribution": {
         "Zombieland Double Tap Road Trip by patjenova.txt": ""
     }

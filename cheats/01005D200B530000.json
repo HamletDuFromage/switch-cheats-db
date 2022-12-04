@@ -1,62 +1,8 @@
 {
-    "DEAB38CED1AC0D22": [
-        {
-            "content": "[Inf HP]\n010F0000 01EE0AD8 00000090\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Invincible]\n010F0000 01EE0B20 000000FF\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf HP]\n010F0000 01ED97F2 00000064\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Invincible]\n010F0000 01ED97E7 000000FF\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf HP]\n010F0000 01EE2F28 00000048\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Invincible]\n010F0000 01EE2FC0 000000FF\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf HP]\n010F0000 01EE30FC 00000050\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Invincible]\n010F0000 01EE31D3 000000FF\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf HP]\n010F0000 01EE43F6 00000068\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Invincible]\n010F0000 01EE442C 000000FF\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf HP]\n010F0000 01EE1B36 00000050\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Invincible]\n010F0000 01EE1BAE 000000FF\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf HP]\n010F0000 01EE0842 00000048\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Invincible]\n010F0000 01EE0865 000000FF",
-            "title": "[Invincible]"
-        }
-    ],
+    "DEAB38CED1AC0D22": {
+        "[Inf HP]": "[Inf HP]\n010F0000 01EE0842 00000048\n\n",
+        "[Invincible]": "[Invincible]\n010F0000 01EE0865 000000FF\n\n"
+    },
     "attribution": {
         "Capcom Beat Em Up Bundle ver 1.0.0 by Zit.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
     }

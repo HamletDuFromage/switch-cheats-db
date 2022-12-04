@@ -1,18 +1,9 @@
 {
-    "BE9B1BE2C3EB8846": [
-        {
-            "content": "[1. Wool MAX]\n580F0000 030950E0\n780F0000 00000F50\n640F0000 00000000 000003E7\n\n",
-            "title": "[1. Wool MAX]"
-        },
-        {
-            "content": "[2. Wool MAX]\n580F0000 030964B0\n780F0000 00000D70\n640F0000 00000000 000003E7\n\n",
-            "title": "[2. Wool MAX]"
-        },
-        {
-            "content": "[3. Wool MAX]\n580F0000 030950E0\n780F0000 00000B60\n640F0000 00000000 000003E7",
-            "title": "[3. Wool MAX]"
-        }
-    ],
+    "BE9B1BE2C3EB8846": {
+        "[1. Wool MAX]": "[1. Wool MAX]\n580F0000 030950E0\n780F0000 00000F50\n640F0000 00000000 000003E7\n\n",
+        "[2. Wool MAX]": "[2. Wool MAX]\n580F0000 030964B0\n780F0000 00000D70\n640F0000 00000000 000003E7\n\n",
+        "[3. Wool MAX]": "[3. Wool MAX]\n580F0000 030950E0\n780F0000 00000B60\n640F0000 00000000 000003E7\n\n"
+    },
     "attribution": {
         "merlin555.txt": ""
     }

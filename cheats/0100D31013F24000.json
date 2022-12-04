@@ -1,24 +1,12 @@
 {
-    "206C185E2F5A9A2E": [
-        {
-            "content": "[*HP Jericoss v 3.3]\n580F0000 037EA480\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000020\n780F0000 00000064\n640F0000 00000000 42B40000",
-            "title": "[*HP Jericoss v 3.3]"
-        }
-    ],
-    "C41D950BA5984BFC": [
-        {
-            "content": "[Money 20000]\n580F0000 037EA708\n580F1000 00000088\n580F1000 000000B8\n580F1000 00000020\n580F1000 00000010\n580F1000 00000098\n780F0000 00000058\n640F0000 00000000 00004E20\n\n",
-            "title": "[Money 20000]"
-        },
-        {
-            "content": "[Misiles 8]\n580F0000 037EA750\n580F1000 00000078\n580F1000 00000568\n580F1000 00000010\n580F1000 00000098\n580F1000 00000078\n780F0000 00000020\n640F0000 00000000 00000008\n\n",
-            "title": "[Misiles 8]"
-        },
-        {
-            "content": "[Continues 22]\n580F0000 037EA708\n580F1000 00000088\n580F1000 000000B8\n580F1000 00000020\n580F1000 00000010\n580F1000 00000098\n780F0000 00000128\n640F0000 00000000 00000016",
-            "title": "[Continues 22]"
-        }
-    ],
+    "C41D950BA5984BFC": {
+        "[Money 20000]": "[Money 20000]\n580F0000 037EA708\n580F1000 00000088\n580F1000 000000B8\n580F1000 00000020\n580F1000 00000010\n580F1000 00000098\n780F0000 00000058\n640F0000 00000000 00004E20\n\n",
+        "[Misiles 8]": "[Misiles 8]\n580F0000 037EA750\n580F1000 00000078\n580F1000 00000568\n580F1000 00000010\n580F1000 00000098\n580F1000 00000078\n780F0000 00000020\n640F0000 00000000 00000008\n\n",
+        "[Continues 22]": "[Continues 22]\n580F0000 037EA708\n580F1000 00000088\n580F1000 000000B8\n580F1000 00000020\n580F1000 00000010\n580F1000 00000098\n780F0000 00000128\n640F0000 00000000 00000016\n\n"
+    },
+    "206C185E2F5A9A2E": {
+        "[*HP Jericoss v 3.3]": "[*HP Jericoss v 3.3]\n580F0000 037EA480\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000020\n780F0000 00000064\n640F0000 00000000 42B40000\n\n"
+    },
     "attribution": {
         "Toon Shooters 2 The Freelancers by jhmiler and ver 3.3 by jericoss.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }

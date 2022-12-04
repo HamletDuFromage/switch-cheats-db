@@ -1,26 +1,11 @@
 {
-    "82092DF70410F821": [
-        {
-            "content": "[Time Stop]\n040F0000 006812F0 00000720\n\n",
-            "title": "[Time Stop]"
-        },
-        {
-            "content": "[No Over Heat & Rapid Fire]\n040F0000 00625BBC 00000000\n\n",
-            "title": "[No Over Heat & Rapid Fire]"
-        },
-        {
-            "content": "[Moon Jump]\n80000002\n020F0000 00625B66 0000190A\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Inf HP]\n010F0000 00625A11 00000064\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Have All Weapon]\n300E0000 00000026\n020F0000 00568E54 000003E7\n780F0000 00000002\n310E0000\n20000000",
-            "title": "[Have All Weapon]"
-        }
-    ],
+    "82092DF70410F821": {
+        "[Time Stop]": "[Time Stop]\n040F0000 006812F0 00000720\n\n",
+        "[No Over Heat & Rapid Fire]": "[No Over Heat & Rapid Fire]\n040F0000 00625BBC 00000000\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n020F0000 00625B66 0000190A\n20000000\n\n",
+        "[Inf HP]": "[Inf HP]\n010F0000 00625A11 00000064\n\n",
+        "[Have All Weapon]": "[Have All Weapon]\n300E0000 00000026\n020F0000 00568E54 000003E7\n780F0000 00000002\n310E0000\n20000000\n\n"
+    },
     "attribution": {
         "Shakedown Hawaii ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
     }

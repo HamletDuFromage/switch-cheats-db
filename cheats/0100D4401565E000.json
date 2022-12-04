@@ -1,66 +1,24 @@
 {
-    "0058D033DAA48B17": [
-        {
-            "content": "[60 FPS]\n580F0000 0380FFB0\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-            "title": "[60 FPS]"
-        },
-        {
-            "content": "[Default 30 FPS]\n580F0000 0380FFB0\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
-            "title": "[Default 30 FPS]"
-        },
-        {
-            "content": "[360p Overall Resolution]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 00000168 00000280\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
-            "title": "[360p Overall Resolution]"
-        },
-        {
-            "content": "[480p Overall Resolution]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 000001E0 00000356\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
-            "title": "[480p Overall Resolution]"
-        },
-        {
-            "content": "[540p Overall Resolution]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 0000021C 000003C0\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
-            "title": "[540p Overall Resolution]"
-        },
-        {
-            "content": "[576p Overall Resolution (Handheld's Performance Mode)]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 00000240 00000400\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
-            "title": "[576p Overall Resolution (Handheld's Performance Mode)]"
-        },
-        {
-            "content": "[612p Overall Resolution]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 00000264 00000440\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
-            "title": "[612p Overall Resolution]"
-        },
-        {
-            "content": "[720p Overall Resolution (Handheld's Resolution Mode)]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 000002D0 00000500\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
-            "title": "[720p Overall Resolution (Handheld's Resolution Mode)]"
-        },
-        {
-            "content": "[810p Overall Resolution (Docked's Performance Mode)]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 0000032A 000005A0\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
-            "title": "[810p Overall Resolution (Docked's Performance Mode)]"
-        },
-        {
-            "content": "[900p Overall Resolution]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 00000384 00000640\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
-            "title": "[900p Overall Resolution]"
-        },
-        {
-            "content": "[1080p Overall Resolution (Docked's Resolution Mode)]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 00000438 00000780\n780F0000 00000008\n610F0000 00000000 00000001\n",
-            "title": "[1080p Overall Resolution (Docked's Resolution Mode)]"
-        }
-    ],
-    "A6742C9FD2D34157": [
-        {
-            "content": "[ZR high jump]\n80000200\n580F0000 032DA768\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000618\n640F0000 00000000 3ECCCCCD\n20000000\n\n",
-            "title": "[ZR high jump]"
-        },
-        {
-            "content": "[Inf HP - fall damage]\n580F0000 032DAB58\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000002C\n640F0000 00000000 00000004\n\n",
-            "title": "[Inf HP - fall damage]"
-        },
-        {
-            "content": "[Inf Lives]\n580F0000 033B61E0\n580F1000 000000B8\n780F0000 000000B0\n640F0000 00000000 000003E7\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[995 Pac Pellots]\n580F0000 033B5CB8\n580F1000 000000B8\n580F1000 000002E0\n580F1000 000002B8\n780F0000 0000002C\n640F0000 00000000 000003E3\n580F0000 032DA348\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000028\n780F0000 00000048\n640F0000 00000000 000003E3",
-            "title": "[995 Pac Pellots]"
-        }
-    ]
+    "0058D033DAA48B17": {
+        "[60 FPS]": "[60 FPS]\n580F0000 0380FFB0\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 0380FFB0\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+        "[360p Overall Resolution]": "[360p Overall Resolution]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 00000168 00000280\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
+        "[480p Overall Resolution]": "[480p Overall Resolution]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 000001E0 00000356\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
+        "[540p Overall Resolution]": "[540p Overall Resolution]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 0000021C 000003C0\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
+        "[576p Overall Resolution (Handheld's Performance Mode)]": "[576p Overall Resolution (Handheld's Performance Mode)]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 00000240 00000400\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
+        "[612p Overall Resolution]": "[612p Overall Resolution]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 00000264 00000440\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
+        "[720p Overall Resolution (Handheld's Resolution Mode)]": "[720p Overall Resolution (Handheld's Resolution Mode)]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 000002D0 00000500\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
+        "[810p Overall Resolution (Docked's Performance Mode)]": "[810p Overall Resolution (Docked's Performance Mode)]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 0000032A 000005A0\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
+        "[900p Overall Resolution]": "[900p Overall Resolution]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 00000384 00000640\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
+        "[1080p Overall Resolution (Docked's Resolution Mode)]": "[1080p Overall Resolution (Docked's Resolution Mode)]\n580F0000 0377AD20\n780F0000 000000C0\n680F0000 00000438 00000780\n780F0000 00000008\n610F0000 00000000 00000001\n\n"
+    },
+    "A6742C9FD2D34157": {
+        "[ZR high jump]": "[ZR high jump]\n80000200\n580F0000 032DA768\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000618\n640F0000 00000000 3ECCCCCD\n20000000\n\n",
+        "[Inf HP - fall damage]": "[Inf HP - fall damage]\n580F0000 032DAB58\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000002C\n640F0000 00000000 00000004\n\n",
+        "[Inf Lives]": "[Inf Lives]\n580F0000 033B61E0\n580F1000 000000B8\n780F0000 000000B0\n640F0000 00000000 000003E7\n\n",
+        "[995 Pac Pellots]": "[995 Pac Pellots]\n580F0000 033B5CB8\n580F1000 000000B8\n580F1000 000002E0\n580F1000 000002B8\n780F0000 0000002C\n640F0000 00000000 000003E3\n580F0000 032DA348\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000028\n780F0000 00000048\n640F0000 00000000 000003E3\n\n"
+    },
+    "attribution": {
+        "PAC-MAN WORLD Re-PAC.txt": "by Hazerou\nIncluded in the text file;\n\nOverall Resolution Cheats from [360p] up to [1080p].\n\nNote for Emulator Users requesting;\n\nWe can't go even higher like 2K or 4K because the View port is still messed up even if we set Fullscreen=True."
+    }
 }

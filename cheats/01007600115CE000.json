@@ -1,18 +1,9 @@
 {
-    "9101CD39A5D71C29": [
-        {
-            "content": "[Inf HP]\n580F0000 00548a90\n780F0000 00000898\n640F0000 00000000 00015F90\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[No STUN]\n580F0000 00548a90\n780F0000 000008A0\n640F0000 00000000 00000000\n\n",
-            "title": "[No STUN]"
-        },
-        {
-            "content": "[Inf CHAOS GAGE]\n580F0000 00548a90\n780F0000 0001327C\n640F0000 00000000 00000003\n",
-            "title": "[Inf CHAOS GAGE]"
-        }
-    ],
+    "9101CD39A5D71C29": {
+        "[Inf HP]": "[Inf HP]\n580F0000 00548a90\n780F0000 00000898\n640F0000 00000000 00015F90\n\n",
+        "[No STUN]": "[No STUN]\n580F0000 00548a90\n780F0000 000008A0\n640F0000 00000000 00000000\n\n",
+        "[Inf CHAOS GAGE]": "[Inf CHAOS GAGE]\n580F0000 00548a90\n780F0000 0001327C\n640F0000 00000000 00000003\n\n"
+    },
     "attribution": {
         "CHAOS CODE -NEW SIGN OF CATASTROPHE-by zit.txt": "Not valid for mini games"
     }

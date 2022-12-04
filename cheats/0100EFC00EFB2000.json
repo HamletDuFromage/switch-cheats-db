@@ -1,20 +1,8 @@
 {
-    "4C1E8F555E6B88DA": [
-        {
-            "content": "[Infinite Hp]\n02100000 025280A0 000003E7\n\n",
-            "title": "[Infinite Hp]"
-        },
-        {
-            "content": "[Infinite Mp]\n02100000 025280A4 000003E7\n\n",
-            "title": "[Infinite Mp]"
-        },
-        {
-            "content": "[Keys x9]\n01100000 025280F8 00000009\n\n",
-            "title": "[Keys x9]"
-        },
-        {
-            "content": "[Gold]\n04100000 025280F8 0000C350",
-            "title": "[Gold]"
-        }
-    ]
+    "4C1E8F555E6B88DA": {
+        "[Infinite Hp]": "[Infinite Hp]\n02100000 025280A0 000003E7\n\n",
+        "[Infinite Mp]": "[Infinite Mp]\n02100000 025280A4 000003E7\n\n",
+        "[Keys x9]": "[Keys x9]\n01100000 025280F8 00000009\n\n",
+        "[Gold]": "[Gold]\n04100000 025280F8 0000C350\n\n"
+    }
 }

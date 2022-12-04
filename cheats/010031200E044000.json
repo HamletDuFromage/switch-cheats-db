@@ -1,212 +1,65 @@
 {
-    "04B125635599F349": [
-        {
-            "content": "[Add Cash with minus]\n80000800\n580F0000 074AB1B8\n580F1000 00000050\n580F1000 00000040\n580F1000 000000C0\n580F1000 00000030\n780F0000 000000A8\n640F0000 00000000 3B9AC9FF\n20000000\n\n",
-            "title": "[Add Cash with minus]"
-        },
-        {
-            "content": "[Add Coins with minus]\n80000800\n580F0000 074AB1B8\n580F1000 00000050\n580F1000 00000040\n580F1000 00000100\n580F1000 00000028\n780F0000 00000058\n640F0000 00000000 0000270F\n20000000\n",
-            "title": "[Add Coins with minus]"
-        }
-    ],
-    "13265E4EBA0F0D41": [
-        {
-            "content": "[9999 K Coins Lionheartwolf]\n580F0000 06F66EB0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000028\n580F1000 00000260\n780F0000 00000058\n640F0000 00000000 0000270F\n\n",
-            "title": "[9999 K Coins Lionheartwolf]"
-        },
-        {
-            "content": "[99999999 Cash]\n580F0000 06F66EB0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000028\n580F1000 00000110\n780F0000 000000A8\n640F0000 00000000 05F5E0FF",
-            "title": "[99999999 Cash]"
-        }
-    ],
-    "296658DE5EF59049": [
-        {
-            "content": "[9999 K Coins]\n580F0000 0769CB18\n580F1000 000000B8\n580F1000 00000000\n580F1000 000000A0\n580F1000 00000090\n780F0000 00000058\n640F0000 00000000 0000270F\n\n",
-            "title": "[9999 K Coins]"
-        },
-        {
-            "content": "[99999999 Cash]\n580F0000 076ACC68\n580F1000 000000B8\n580F1000 00000030\n580F1000 000000A0\n580F1000 00000030\n780F0000 000000A8\n640F0000 00000000 05F5E0FF\n",
-            "title": "[99999999 Cash]"
-        }
-    ],
-    "49BFAD179AF06E42": [
-        {
-            "content": "[1,000,000 Money]\n580F0000 07A2ECD0\n580F1000 000000B8\n580F1000 00000018\n580F1000 00000120\n780F0000 000000A8\n640F0000 00000000 000F4240\n\n",
-            "title": "[1,000,000 Money]"
-        },
-        {
-            "content": "[1,000,000 Coins]\n580F0000 07AFB0F0\n580F1000 00000750\n580F1000 000000A0\n580F1000 00000058\n780F0000 00000060\n640F0000 00000000 000F4240\n780F0000 00000004\n640F0000 00000000 000F4240",
-            "title": "[1,000,000 Coins]"
-        }
-    ],
-    "C3C6A6DC345FE046": [
-        {
-            "content": "[01# max money]\n040A0000 005ED878 52A01315\n040A0000 005ED87C 7292CFF5\n\n",
-            "title": "[01# max money]"
-        },
-        {
-            "content": "[max money (off)]\n040A0000 005ED878 320103E8\n040A0000 005ED87C 1A88C135\n\n",
-            "title": "[max money (off)]"
-        },
-        {
-            "content": "[02# max Kudosh]\n040A0000 00541DA0 52A01300\n040A0000 00541DA4 7292CFE0\n040A0000 00541DA8 D65F03C0\n\n",
-            "title": "[02# max Kudosh]"
-        },
-        {
-            "content": "[max Kudosh (off)]\n040A0000 00541DA0 B9406000\n040A0000 00541DA4 D65F03C0\n\n",
-            "title": "[max Kudosh (off)]"
-        },
-        {
-            "content": "[03# Unlock All Items]\n040A0000 00542CE0 52800020\n040A0000 00542CE4 D65F03C0\n\n",
-            "title": "[03# Unlock All Items]"
-        },
-        {
-            "content": "[Unlock All Items (off)]\n040A0000 00542CE0 D10103FF\n040A0000 00542CE4 A90157F6\n\n",
-            "title": "[Unlock All Items (off)]"
-        },
-        {
-            "content": "[04# Unlock All Hospitals]\n040A0000 003B8480 52800020\n040A0000 003B8484 D65F03C0\n\n",
-            "title": "[04# Unlock All Hospitals]"
-        },
-        {
-            "content": "[Unlock All Hospitals (off)]\n040A0000 003B8480 A9BD57F6\n040A0000 003B8484 A9014FF4\n\n",
-            "title": "[Unlock All Hospitals (off)]"
-        },
-        {
-            "content": "[05# Max Reputation]\n040A0000 004F3564 4B18967F\n040A0000 004F348C 1C0006C0\n\n",
-            "title": "[05# Max Reputation]"
-        },
-        {
-            "content": "[Max Reputation (off)]\n040A0000 004F348C BD003A69\n\n",
-            "title": "[Max Reputation (off)]"
-        },
-        {
-            "content": "[06# Inf Waiting Time]\n040A0000 005A9AEC D503201F\n\n",
-            "title": "[06# Inf Waiting Time]"
-        },
-        {
-            "content": "[Inf Waiting Time (off)]\n040A0000 005A9AEC 1E203900\n\n",
-            "title": "[Inf Waiting Time (off)]"
-        },
-        {
-            "content": "[07# Instant Upgrade]\n040A0000 045DA5A0 1C000060\n040A0000 045DA5A4 BD005800\n040A0000 045DA5A8 D65F03C0\n040A0000 045DA5AC 461C3C00\n040A0000 004518EC 9506232D\n\n",
-            "title": "[07# Instant Upgrade]"
-        },
-        {
-            "content": "[Instant Upgrade]\n040A0000 004518EC BD405800\n\n",
-            "title": "[Instant Upgrade]"
-        },
-        {
-            "content": "[08# Max Staff Level]\n040A0000 0044B350 52800080\n\n",
-            "title": "[08# Max Staff Level]"
-        },
-        {
-            "content": "[Max Staff Level (off)]\n040A0000 0044B350 B942DC00\n\n",
-            "title": "[Max Staff Level (off)]"
-        },
-        {
-            "content": "[09# Max Staff Energy]\n040A0000 045DA510 BD401800\n040A0000 045DA514 BD001000\n040A0000 045DA518 D65F03C0\n040A0000 00461550 9505E3F0\n\n",
-            "title": "[09# Max Staff Energy]"
-        },
-        {
-            "content": "[Max Staff Energy (off)]\n040A0000 00461550 945CBD0C\n\n",
-            "title": "[Max Staff Energy (off)]"
-        },
-        {
-            "content": "[10# No Maintenance Needed]\n040A0000 045DA500 BD401400\n040A0000 045DA504 BD001000\n040A0000 045DA508 D65F03C0\n040A0000 006375D0 94FE8BCC\n\n",
-            "title": "[10# No Maintenance Needed]"
-        },
-        {
-            "content": "[No Maintenance Needed (off)]\n040A0000 006375D0 945564EC\n\n",
-            "title": "[No Maintenance Needed (off)]"
-        },
-        {
-            "content": "[11# Max Happiness]\n040A0000 045DA520 BD401800\n040A0000 045DA524 BD001000\n040A0000 045DA528 D65F03C0\n040A0000 0079A66C 94F8FFAD\n\n",
-            "title": "[11# Max Happiness]"
-        },
-        {
-            "content": "[Max Happiness (off)]\n040A0000 0079A66C 944FD8C5\n\n",
-            "title": "[Max Happiness (off)]"
-        },
-        {
-            "content": "[12# Max Hygiene]\n040A0000 045DA530 BD401800\n040A0000 045DA534 BD001000\n040A0000 045DA538 D65F03C0\n040A0000 004BC63C 950477BD\n\n",
-            "title": "[12# Max Hygiene]"
-        },
-        {
-            "content": "[Max Hygiene (off)]\n040A0000 004BC63C 945B50D1\n\n",
-            "title": "[Max Hygiene (off)]"
-        },
-        {
-            "content": "[13# 100% Diagnosis Certainty]\n040A0000 045DA54C 461C3C00\n040A0000 045DA540 1C000060\n040A0000 045DA544 BD003800\n040A0000 045DA548 D65F03C0\n040A0000 0045172C 95062385\n\n",
-            "title": "[13# 100% Diagnosis Certainty]"
-        },
-        {
-            "content": "[100% Diagnosis Certainty (off)]\n040A0000 0045172C BD403800\n\n",
-            "title": "[100% Diagnosis Certainty (off)]"
-        },
-        {
-            "content": "[14# Always Cure Successfully]\n040A0000 00601458 52800020\n\n",
-            "title": "[14# Always Cure Successfully]"
-        },
-        {
-            "content": "[Always Cure Successfully (off)]\n040A0000 00601458 97FDD426\n\n",
-            "title": "[Always Cure Successfully (off)]"
-        },
-        {
-            "content": "[15# Fulfill All Staff/Patient Needs]\n040A0000 00681E28 C61C3C00\n040A0000 00681DF8 1C000180\n040A0000 00681E00 1C000140\n040A0000 00681E08 1C000100\n040A0000 00681E10 1C0000C0\n\n",
-            "title": "[15# Fulfill All Staff/Patient Needs]"
-        },
-        {
-            "content": "[Fulfill All Staff/Patient Needs (off)]\n040A0000 00681DF8 BD40E800\n040A0000 00681E00 BD40EC00\n040A0000 00681E08 BD40F000\n040A0000 00681E10 BD40F400\n\n",
-            "title": "[Fulfill All Staff/Patient Needs (off)]"
-        },
-        {
-            "content": "[16# Max Hospital Level]\n040A0000 045DA550 1C000060\n040A0000 045DA554 BD003A60\n040A0000 045DA558 D65F03C0\n040A0000 045DA55C 4B18967F\n040A0000 0058D0E4 9501351B\n\n",
-            "title": "[16# Max Hospital Level]"
-        },
-        {
-            "content": "[Max Hospital Level (off)]\n040A0000 0058D0E4 BD403A60\n\n",
-            "title": "[Max Hospital Level (off)]"
-        },
-        {
-            "content": "[17# Max Patients Health]\n040A0000 045DA560 BD401800\n040A0000 045DA564 BD001000\n040A0000 045DA568 D65F03C0\n040A0000 00893CBC 94F51A29\n\n",
-            "title": "[17# Max Patients Health]"
-        },
-        {
-            "content": "[Max Patients Health (off)]\n040A0000 00893CBC 944BF331\n\n",
-            "title": "[Max Patients Health (off)]"
-        },
-        {
-            "content": "[18# Instant Training]\n040A0000 045DA570 1C000068\n040A0000 045DA574 BD001108\n040A0000 045DA578 D65F03C0\n040A0000 045DA57C 461C4000\n040A0000 00452574 95061FFF\n\n",
-            "title": "[18# Instant Training]"
-        },
-        {
-            "content": "[Instant Training (off)]\n040A0000 00452574 BD401108\n\n",
-            "title": "[Instant Training (off)]"
-        },
-        {
-            "content": "[19# Instant Refill Applicant List]\n040A0000 045DA580 1C000061\n040A0000 045DA584 BD004661\n040A0000 045DA588 D65F03C0\n040A0000 045DA58C 447A0000\n040A0000 00322BD8 950ADE6A\n\n[Instant Refill Applicant List (off)\n040A0000 00322BD8 BD404661\n\n",
-            "title": "[19# Instant Refill Applicant List]"
-        },
-        {
-            "content": "[20# Instant Research]\n040A0000 045DA590 1C000060\n040A0000 045DA594 BD002A60\n040A0000 045DA598 D65F03C0\n040A0000 045DA59C 461C4000\n040A0000 004F8E94 950385BF\n\n",
-            "title": "[20# Instant Research]"
-        },
-        {
-            "content": "[Instant Research (off)]\n040A0000 004F8E94 1E282940",
-            "title": "[Instant Research (off)]"
-        }
-    ],
-    "DB0700010FEE8447": [
-        {
-            "content": "[Add Cash with minus]\n80000800\n580F0000 075B93B0\n580F1000 00000050\n580F1000 00000040\n580F1000 000000C0\n580F1000 00000030\n780F0000 000000A8\n640F0000 00000000 3B9AC9FF\n20000000\n\n",
-            "title": "[Add Cash with minus]"
-        },
-        {
-            "content": "[Add Coins with minus]\n80000800\n580F0000 075B93B0\n580F1000 00000050\n580F1000 00000040\n580F1000 00000100\n580F1000 00000028\n780F0000 00000058\n620F0000 00000000 0000270F\n20000000\n",
-            "title": "[Add Coins with minus]"
-        }
-    ],
+    "DB0700010FEE8447": {
+        "[Add Cash with minus]": "[Add Cash with minus]\n80000800\n580F0000 075B93B0\n580F1000 00000050\n580F1000 00000040\n580F1000 000000C0\n580F1000 00000030\n780F0000 000000A8\n640F0000 00000000 3B9AC9FF\n20000000\n\n",
+        "[Add Coins with minus]": "[Add Coins with minus]\n80000800\n580F0000 075B93B0\n580F1000 00000050\n580F1000 00000040\n580F1000 00000100\n580F1000 00000028\n780F0000 00000058\n620F0000 00000000 0000270F\n20000000\n\n"
+    },
+    "13265E4EBA0F0D41": {
+        "[9999 K Coins Lionheartwolf]": "[9999 K Coins Lionheartwolf]\n580F0000 06F66EB0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000028\n580F1000 00000260\n780F0000 00000058\n640F0000 00000000 0000270F\n\n",
+        "[99999999 Cash]": "[99999999 Cash]\n580F0000 06F66EB0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000028\n580F1000 00000110\n780F0000 000000A8\n640F0000 00000000 05F5E0FF\n\n"
+    },
+    "04B125635599F349": {
+        "[Add Cash with minus]": "[Add Cash with minus]\n80000800\n580F0000 074AB1B8\n580F1000 00000050\n580F1000 00000040\n580F1000 000000C0\n580F1000 00000030\n780F0000 000000A8\n640F0000 00000000 3B9AC9FF\n20000000\n\n",
+        "[Add Coins with minus]": "[Add Coins with minus]\n80000800\n580F0000 074AB1B8\n580F1000 00000050\n580F1000 00000040\n580F1000 00000100\n580F1000 00000028\n780F0000 00000058\n640F0000 00000000 0000270F\n20000000\n\n"
+    },
+    "296658DE5EF59049": {
+        "[9999 K Coins]": "[9999 K Coins]\n580F0000 0769CB18\n580F1000 000000B8\n580F1000 00000000\n580F1000 000000A0\n580F1000 00000090\n780F0000 00000058\n640F0000 00000000 0000270F\n\n",
+        "[99999999 Cash]": "[99999999 Cash]\n580F0000 076ACC68\n580F1000 000000B8\n580F1000 00000030\n580F1000 000000A0\n580F1000 00000030\n780F0000 000000A8\n640F0000 00000000 05F5E0FF\n\n"
+    },
+    "49BFAD179AF06E42": {
+        "[1,000,000 Money]": "[1,000,000 Money]\n580F0000 07A2ECD0\n580F1000 000000B8\n580F1000 00000018\n580F1000 00000120\n780F0000 000000A8\n640F0000 00000000 000F4240\n\n",
+        "[1,000,000 Coins]": "[1,000,000 Coins]\n580F0000 07AFB0F0\n580F1000 00000750\n580F1000 000000A0\n580F1000 00000058\n780F0000 00000060\n640F0000 00000000 000F4240\n780F0000 00000004\n640F0000 00000000 000F4240\n\n"
+    },
+    "C3C6A6DC345FE046": {
+        "[01# max money]": "[01# max money]\n040A0000 005ED878 52A01315\n040A0000 005ED87C 7292CFF5\n\n",
+        "[max money (off)]": "[max money (off)]\n040A0000 005ED878 320103E8\n040A0000 005ED87C 1A88C135\n\n",
+        "[02# max Kudosh]": "[02# max Kudosh]\n040A0000 00541DA0 52A01300\n040A0000 00541DA4 7292CFE0\n040A0000 00541DA8 D65F03C0\n\n",
+        "[max Kudosh (off)]": "[max Kudosh (off)]\n040A0000 00541DA0 B9406000\n040A0000 00541DA4 D65F03C0\n\n",
+        "[03# Unlock All Items]": "[03# Unlock All Items]\n040A0000 00542CE0 52800020\n040A0000 00542CE4 D65F03C0\n\n",
+        "[Unlock All Items (off)]": "[Unlock All Items (off)]\n040A0000 00542CE0 D10103FF\n040A0000 00542CE4 A90157F6\n\n",
+        "[04# Unlock All Hospitals]": "[04# Unlock All Hospitals]\n040A0000 003B8480 52800020\n040A0000 003B8484 D65F03C0\n\n",
+        "[Unlock All Hospitals (off)]": "[Unlock All Hospitals (off)]\n040A0000 003B8480 A9BD57F6\n040A0000 003B8484 A9014FF4\n\n",
+        "[05# Max Reputation]": "[05# Max Reputation]\n040A0000 004F3564 4B18967F\n040A0000 004F348C 1C0006C0\n\n",
+        "[Max Reputation (off)]": "[Max Reputation (off)]\n040A0000 004F348C BD003A69\n\n",
+        "[06# Inf Waiting Time]": "[06# Inf Waiting Time]\n040A0000 005A9AEC D503201F\n\n",
+        "[Inf Waiting Time (off)]": "[Inf Waiting Time (off)]\n040A0000 005A9AEC 1E203900\n\n",
+        "[07# Instant Upgrade]": "[07# Instant Upgrade]\n040A0000 045DA5A0 1C000060\n040A0000 045DA5A4 BD005800\n040A0000 045DA5A8 D65F03C0\n040A0000 045DA5AC 461C3C00\n040A0000 004518EC 9506232D\n\n",
+        "[Instant Upgrade]": "[Instant Upgrade]\n040A0000 004518EC BD405800\n\n",
+        "[08# Max Staff Level]": "[08# Max Staff Level]\n040A0000 0044B350 52800080\n\n",
+        "[Max Staff Level (off)]": "[Max Staff Level (off)]\n040A0000 0044B350 B942DC00\n\n",
+        "[09# Max Staff Energy]": "[09# Max Staff Energy]\n040A0000 045DA510 BD401800\n040A0000 045DA514 BD001000\n040A0000 045DA518 D65F03C0\n040A0000 00461550 9505E3F0\n\n",
+        "[Max Staff Energy (off)]": "[Max Staff Energy (off)]\n040A0000 00461550 945CBD0C\n\n",
+        "[10# No Maintenance Needed]": "[10# No Maintenance Needed]\n040A0000 045DA500 BD401400\n040A0000 045DA504 BD001000\n040A0000 045DA508 D65F03C0\n040A0000 006375D0 94FE8BCC\n\n",
+        "[No Maintenance Needed (off)]": "[No Maintenance Needed (off)]\n040A0000 006375D0 945564EC\n\n",
+        "[11# Max Happiness]": "[11# Max Happiness]\n040A0000 045DA520 BD401800\n040A0000 045DA524 BD001000\n040A0000 045DA528 D65F03C0\n040A0000 0079A66C 94F8FFAD\n\n",
+        "[Max Happiness (off)]": "[Max Happiness (off)]\n040A0000 0079A66C 944FD8C5\n\n",
+        "[12# Max Hygiene]": "[12# Max Hygiene]\n040A0000 045DA530 BD401800\n040A0000 045DA534 BD001000\n040A0000 045DA538 D65F03C0\n040A0000 004BC63C 950477BD\n\n",
+        "[Max Hygiene (off)]": "[Max Hygiene (off)]\n040A0000 004BC63C 945B50D1\n\n",
+        "[13# 100% Diagnosis Certainty]": "[13# 100% Diagnosis Certainty]\n040A0000 045DA54C 461C3C00\n040A0000 045DA540 1C000060\n040A0000 045DA544 BD003800\n040A0000 045DA548 D65F03C0\n040A0000 0045172C 95062385\n\n",
+        "[100% Diagnosis Certainty (off)]": "[100% Diagnosis Certainty (off)]\n040A0000 0045172C BD403800\n\n",
+        "[14# Always Cure Successfully]": "[14# Always Cure Successfully]\n040A0000 00601458 52800020\n\n",
+        "[Always Cure Successfully (off)]": "[Always Cure Successfully (off)]\n040A0000 00601458 97FDD426\n\n",
+        "[15# Fulfill All Staff/Patient Needs]": "[15# Fulfill All Staff/Patient Needs]\n040A0000 00681E28 C61C3C00\n040A0000 00681DF8 1C000180\n040A0000 00681E00 1C000140\n040A0000 00681E08 1C000100\n040A0000 00681E10 1C0000C0\n\n",
+        "[Fulfill All Staff/Patient Needs (off)]": "[Fulfill All Staff/Patient Needs (off)]\n040A0000 00681DF8 BD40E800\n040A0000 00681E00 BD40EC00\n040A0000 00681E08 BD40F000\n040A0000 00681E10 BD40F400\n\n",
+        "[16# Max Hospital Level]": "[16# Max Hospital Level]\n040A0000 045DA550 1C000060\n040A0000 045DA554 BD003A60\n040A0000 045DA558 D65F03C0\n040A0000 045DA55C 4B18967F\n040A0000 0058D0E4 9501351B\n\n",
+        "[Max Hospital Level (off)]": "[Max Hospital Level (off)]\n040A0000 0058D0E4 BD403A60\n\n",
+        "[17# Max Patients Health]": "[17# Max Patients Health]\n040A0000 045DA560 BD401800\n040A0000 045DA564 BD001000\n040A0000 045DA568 D65F03C0\n040A0000 00893CBC 94F51A29\n\n",
+        "[Max Patients Health (off)]": "[Max Patients Health (off)]\n040A0000 00893CBC 944BF331\n\n",
+        "[18# Instant Training]": "[18# Instant Training]\n040A0000 045DA570 1C000068\n040A0000 045DA574 BD001108\n040A0000 045DA578 D65F03C0\n040A0000 045DA57C 461C4000\n040A0000 00452574 95061FFF\n\n",
+        "[Instant Training (off)]": "[Instant Training (off)]\n040A0000 00452574 BD401108\n\n",
+        "[19# Instant Refill Applicant List]": "[19# Instant Refill Applicant List]\n040A0000 045DA580 1C000061\n040A0000 045DA584 BD004661\n040A0000 045DA588 D65F03C0\n040A0000 045DA58C 447A0000\n040A0000 00322BD8 950ADE6A\n\n[Instant Refill Applicant List (off)\n040A0000 00322BD8 BD404661\n\n",
+        "[20# Instant Research]": "[20# Instant Research]\n040A0000 045DA590 1C000060\n040A0000 045DA594 BD002A60\n040A0000 045DA598 D65F03C0\n040A0000 045DA59C 461C4000\n040A0000 004F8E94 950385BF\n\n",
+        "[Instant Research (off)]": "[Instant Research (off)]\n040A0000 004F8E94 1E282940\n\n"
+    },
     "attribution": {
         "Two Point Hospital by lionheartwolf ver 1.0.11 by patjenova ver 1.0.3 xtatu and 1.0.4 by merlin555.txt": "Not valid for mini games"
     }

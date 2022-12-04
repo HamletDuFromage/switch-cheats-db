@@ -1,14 +1,8 @@
 {
-    "CB90194ECED68B43": [
-        {
-            "content": "[*Inf Money jericoss v 1.0.0]\n58000000 04035E40\n58001000 00002198\n58001000 000000E8\n78000000 0000005C\n64000000 00000000 000D9038\n\n",
-            "title": "[*Inf Money jericoss v 1.0.0]"
-        },
-        {
-            "content": "[*Inf Energy Cells]\n58000000 04035E40\n58001000 00002198\n58001000 000000E8\n78000000 00000058\n64000000 00000000 000D9038",
-            "title": "[*Inf Energy Cells]"
-        }
-    ],
+    "CB90194ECED68B43": {
+        "[*Inf Money jericoss v 1.0.0]": "[*Inf Money jericoss v 1.0.0]\n58000000 04035E40\n58001000 00002198\n58001000 000000E8\n78000000 0000005C\n64000000 00000000 000D9038\n\n",
+        "[*Inf Energy Cells]": "[*Inf Energy Cells]\n58000000 04035E40\n58001000 00002198\n58001000 000000E8\n78000000 00000058\n64000000 00000000 000D9038\n\n"
+    },
     "attribution": {
         "Deep Sky Derelicts Definitive Edition ver 1.0.0 by jericoos.txt": "Not valid for mini games"
     }

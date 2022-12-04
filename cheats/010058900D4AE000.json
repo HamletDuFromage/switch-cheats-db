@@ -1,18 +1,9 @@
 {
-    "94DE01F0651171F3": [
-        {
-            "content": "[Inf Food 99 @Matias3ds]\n01000000 04b1ad0c 00000063\n\n",
-            "title": "[Inf Food 99 @Matias3ds]"
-        },
-        {
-            "content": "[Inf wood 99 @Matias3ds]\n01000000 04b1ad10 00000063\n\n",
-            "title": "[Inf wood 99 @Matias3ds]"
-        },
-        {
-            "content": "[Inf Coins 99 @Matias3ds]\n01000000 04b1ad14 00000063\n\n\n\n\n",
-            "title": "[Inf Coins 99 @Matias3ds]"
-        }
-    ],
+    "94DE01F0651171F3": {
+        "[Inf Food 99 @Matias3ds]": "[Inf Food 99 @Matias3ds]\n01000000 04b1ad0c 00000063\n\n",
+        "[Inf wood 99 @Matias3ds]": "[Inf wood 99 @Matias3ds]\n01000000 04b1ad10 00000063\n\n",
+        "[Inf Coins 99 @Matias3ds]": "[Inf Coins 99 @Matias3ds]\n01000000 04b1ad14 00000063\n\n"
+    },
     "attribution": {
         "12 Labors of Hercules ver 1.0.0 by Matias3ds.txt": "Ammo 255 don't always work. The other two seems to be consistent"
     }

@@ -1,10 +1,7 @@
 {
-    "34A500AA3FAFFF47": [
-        {
-            "content": "[Inf. Branches & Food]\n58000000 02E634E0\n58000000 00000360\n78000000 00000048\n68000000 00000063 000003E7",
-            "title": "[Inf. Branches & Food]"
-        }
-    ],
+    "34A500AA3FAFFF47": {
+        "[Inf. Branches & Food]": "[Inf. Branches & Food]\n58000000 02E634E0\n58000000 00000360\n78000000 00000048\n68000000 00000063 000003E7\n\n"
+    },
     "attribution": {
         "Niche - a genetics survival game ver 1.0 by Eiffel2018.txt": "[Add Stamp Cards with minus]\n80000800\n04100000 6DD40796 008B0000\n"
     }

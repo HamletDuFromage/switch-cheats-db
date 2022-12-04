@@ -1,72 +1,24 @@
 {
-    "49A4A5CFF8450314": [
-        {
-            "content": "[Inf Health]\n020F0000 0070A556 000003E7\n\n",
-            "title": "[Inf Health]"
-        },
-        {
-            "content": "[Inf Ammo]\n040F0000 0070A558 03E703E7\n040F0000 0070A55C 03E703E7\n040F0000 0070A560 03E703E7\n040F0000 0070A564 03E703E7\n040F0000 0070A568 03E703E7\n040F0000 0070A56C 03E703E7\n040F0000 0070A570 03E703E7\n020F0000 0070A576 000003E7\n\n",
-            "title": "[Inf Ammo]"
-        },
-        {
-            "content": "[Inf Armor]\n040F0000 0070A600 03E703E7\n\n",
-            "title": "[Inf Armor]"
-        },
-        {
-            "content": "[Moon Jump]\n80000002\n020F0000 0070A58C 000000B5\n20000000",
-            "title": "[Moon Jump]"
-        }
-    ],
-    "68EA5BFA8DAA9371": [
-        {
-            "content": "[HP x999]\n02000000 0119F90E 000003E7\n02000000 0070b556 000003E7\n\n",
-            "title": "[HP x999]"
-        },
-        {
-            "content": "[ARMOR x999]\n02000000 0070B602 000003E7\n\n",
-            "title": "[ARMOR x999]"
-        },
-        {
-            "content": "[All KeyCards]\n01000000 0070B59E 00000007\n\n",
-            "title": "[All KeyCards]"
-        },
-        {
-            "content": "[Holoduke x100]\n02000000 0070B584 00000960\n\n",
-            "title": "[Holoduke x100]"
-        },
-        {
-            "content": "[Portable Medkit x999]\n02000000 0070B5A2 000003E7\n\n",
-            "title": "[Portable Medkit x999]"
-        },
-        {
-            "content": "[Scuba Gear x100]\n02000000 0070B5FC 00001900\n\n",
-            "title": "[Scuba Gear x100]"
-        },
-        {
-            "content": "[Jetpack x100]\n02000000 0070B5FE 00000640\n\n",
-            "title": "[Jetpack x100]"
-        },
-        {
-            "content": "[Steroids x100]\n02000000 0070B600 00000190\n\n",
-            "title": "[Steroids x100]"
-        },
-        {
-            "content": "[Protective Boots x200]\n02000000 0070B612 00000190\n\n",
-            "title": "[Protective Boots x200]"
-        },
-        {
-            "content": "[Night Vision Goggles x100]\n02000000 0070B5BC 000004B0\n\n",
-            "title": "[Night Vision Goggles x100]"
-        },
-        {
-            "content": "[AMMO x99]\n300E0000 00000009\n02000000 0070B55C 00000063\n78000000 00000002\n310E0000\n\n",
-            "title": "[AMMO x99]"
-        },
-        {
-            "content": "[Moon Jump @made by spiderman for gbatemp]\n80000002\n020F0000 0070b58C 000000B5\n20000000\n",
-            "title": "[Moon Jump @made by spiderman for gbatemp]"
-        }
-    ],
+    "68EA5BFA8DAA9371": {
+        "[HP x999]": "[HP x999]\n02000000 0119F90E 000003E7\n02000000 0070b556 000003E7\n\n",
+        "[ARMOR x999]": "[ARMOR x999]\n02000000 0070B602 000003E7\n\n",
+        "[All KeyCards]": "[All KeyCards]\n01000000 0070B59E 00000007\n\n",
+        "[Holoduke x100]": "[Holoduke x100]\n02000000 0070B584 00000960\n\n",
+        "[Portable Medkit x999]": "[Portable Medkit x999]\n02000000 0070B5A2 000003E7\n\n",
+        "[Scuba Gear x100]": "[Scuba Gear x100]\n02000000 0070B5FC 00001900\n\n",
+        "[Jetpack x100]": "[Jetpack x100]\n02000000 0070B5FE 00000640\n\n",
+        "[Steroids x100]": "[Steroids x100]\n02000000 0070B600 00000190\n\n",
+        "[Protective Boots x200]": "[Protective Boots x200]\n02000000 0070B612 00000190\n\n",
+        "[Night Vision Goggles x100]": "[Night Vision Goggles x100]\n02000000 0070B5BC 000004B0\n\n",
+        "[AMMO x99]": "[AMMO x99]\n300E0000 00000009\n02000000 0070B55C 00000063\n78000000 00000002\n310E0000\n\n",
+        "[Moon Jump @made by spiderman for gbatemp]": "[Moon Jump @made by spiderman for gbatemp]\n80000002\n020F0000 0070b58C 000000B5\n20000000\n\n"
+    },
+    "49A4A5CFF8450314": {
+        "[Inf Health]": "[Inf Health]\n020F0000 0070A556 000003E7\n\n",
+        "[Inf Ammo]": "[Inf Ammo]\n040F0000 0070A558 03E703E7\n040F0000 0070A55C 03E703E7\n040F0000 0070A560 03E703E7\n040F0000 0070A564 03E703E7\n040F0000 0070A568 03E703E7\n040F0000 0070A56C 03E703E7\n040F0000 0070A570 03E703E7\n020F0000 0070A576 000003E7\n\n",
+        "[Inf Armor]": "[Inf Armor]\n040F0000 0070A600 03E703E7\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n020F0000 0070A58C 000000B5\n20000000\n\n"
+    },
     "attribution": {
         "Duke Nukem 3D 20th Anniversary World Tour ver 1.0.0 by ZiT and ver 1.2.0 by DaBlackDeath.txt": " Inf Health should be used in conjunction with Inf Armor."
     }

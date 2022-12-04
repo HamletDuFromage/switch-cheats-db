@@ -1,144 +1,42 @@
 {
-    "60B4E42155E07989": [
-        {
-            "content": "[inf use ultimate skill]\n04000000 00EE6DDC 1E27F00C\n\n",
-            "title": "[inf use ultimate skill]"
-        },
-        {
-            "content": "[inf user rage]\n04000000 00D69730 D65F03C0\n\n",
-            "title": "[inf user rage]"
-        },
-        {
-            "content": "[inf use musou]\n04000000 00D69030 D65F03C0\n\n",
-            "title": "[inf use musou]"
-        },
-        {
-            "content": "[speed run normal]\n04000000 00D3DB80 1E2E1008\n\n",
-            "title": "[speed run normal]"
-        },
-        {
-            "content": "[speed run 1.25x]\n04000000 00D3DB80 1E2E9008\n\n",
-            "title": "[speed run 1.25x]"
-        },
-        {
-            "content": "[speed run 1.5x]\n04000000 00D3DB80 1E2F1008\n\n",
-            "title": "[speed run 1.5x]"
-        },
-        {
-            "content": "[speed run 1.75x]\n04000000 00D3DB80 1E2F9008\n\n",
-            "title": "[speed run 1.75x]"
-        },
-        {
-            "content": "[speed run 2x]\n04000000 00D3DB80 1E201008\n\n",
-            "title": "[speed run 2x]"
-        },
-        {
-            "content": "[hitanywhere on]\n04000000 00D07380 D65F03C0\n\n",
-            "title": "[hitanywhere on]"
-        },
-        {
-            "content": "[hitanywhere off]\n04000000 00D07380 A9BF7BFD\n\n",
-            "title": "[hitanywhere off]"
-        },
-        {
-            "content": "[1p hit kill]\n04000000 00E56780 D65F03C0\n\n",
-            "title": "[1p hit kill]"
-        },
-        {
-            "content": "[always ice wind lightning on]\n04000000 00CC6AF0 D65F03C0\n\n",
-            "title": "[always ice wind lightning on]"
-        },
-        {
-            "content": "[always ice wind lightning off]\n04000000 00CC6AF0 F81C0FF7\n\n",
-            "title": "[always ice wind lightning off]"
-        },
-        {
-            "content": "[speed attack]\n04000000 00D1BC4C 1E2E1000\n\n",
-            "title": "[speed attack]"
-        },
-        {
-            "content": "[enemies no attack on]\n04000000 00EFA860 D65F03C0\n\n",
-            "title": "[enemies no attack on]"
-        },
-        {
-            "content": "[enemies no attack off]\n04000000 00EFA860 A9BD57F6\n",
-            "title": "[enemies no attack off]"
-        }
-    ],
-    "AEA6B2652EA9E34B": [
-        {
-            "content": "[inf use ultimate skill]\n04000000 00EE5F70 1E27F00C\n\n",
-            "title": "[inf use ultimate skill]"
-        },
-        {
-            "content": "[inf user rage]\n04000000 00D691E0 D65F03C0\n\n",
-            "title": "[inf user rage]"
-        },
-        {
-            "content": "[inf use musou]\n04000000 00D68AE0 D65F03C0\n\n",
-            "title": "[inf use musou]"
-        },
-        {
-            "content": "[speed run normal]\n04000000 00D3D630 1E2E1008\n\n",
-            "title": "[speed run normal]"
-        },
-        {
-            "content": "[speed run 1.25x]\n04000000 00D3D630 1E2E9008\n\n",
-            "title": "[speed run 1.25x]"
-        },
-        {
-            "content": "[speed run 1.5x]\n04000000 00D3D630 1E2F1008\n\n",
-            "title": "[speed run 1.5x]"
-        },
-        {
-            "content": "[speed run 1.75x]\n04000000 00D3D630 1E2F9008\n\n",
-            "title": "[speed run 1.75x]"
-        },
-        {
-            "content": "[speed run 2x]\n04000000 00D3D630 1E201008\n\n",
-            "title": "[speed run 2x]"
-        },
-        {
-            "content": "[hitanywhere on]\n04000000 00D074D0 D65F03C0\n\n",
-            "title": "[hitanywhere on]"
-        },
-        {
-            "content": "[hitanywhere off]\n04000000 00D074D0 A9BF7BFD\n\n",
-            "title": "[hitanywhere off]"
-        },
-        {
-            "content": "[L pad Invicible both]\n04000000 00D07470 A9BF7BFD\n80000040\n04000000 00D07470 D65F03C0\n20000000\n\n",
-            "title": "[L pad Invicible both]"
-        },
-        {
-            "content": "[always ice wind lightning hit on]\n04000000 00CC6C60 D65F03C0\n\n",
-            "title": "[always ice wind lightning hit on]"
-        },
-        {
-            "content": "[always ice wind lightning hit off]\n04000000 00CC6C60 F81C0FF7\n\n",
-            "title": "[always ice wind lightning hit off]"
-        },
-        {
-            "content": "[1p hit kill]\n04000000 00E55B10 D65F03C0\n\n",
-            "title": "[1p hit kill]"
-        },
-        {
-            "content": "[Inf Gold]\n04100000 01e2a444 000F423F\n\n",
-            "title": "[Inf Gold]"
-        },
-        {
-            "content": "[Inf Skill]\n04100000 01e2a450 000F423F\n\n",
-            "title": "[Inf Skill]"
-        },
-        {
-            "content": "[INF EXP]\n04100000 0a7b4b88 0098967F\n\n",
-            "title": "[INF EXP]"
-        },
-        {
-            "content": "[INF MASTERY]\n04100000 01e2a454 0098967F\n",
-            "title": "[INF MASTERY]"
-        }
-    ],
+    "60B4E42155E07989": {
+        "[inf use ultimate skill]": "[inf use ultimate skill]\n04000000 00EE6DDC 1E27F00C\n\n",
+        "[inf user rage]": "[inf user rage]\n04000000 00D69730 D65F03C0\n\n",
+        "[inf use musou]": "[inf use musou]\n04000000 00D69030 D65F03C0\n\n",
+        "[speed run normal]": "[speed run normal]\n04000000 00D3DB80 1E2E1008\n\n",
+        "[speed run 1.25x]": "[speed run 1.25x]\n04000000 00D3DB80 1E2E9008\n\n",
+        "[speed run 1.5x]": "[speed run 1.5x]\n04000000 00D3DB80 1E2F1008\n\n",
+        "[speed run 1.75x]": "[speed run 1.75x]\n04000000 00D3DB80 1E2F9008\n\n",
+        "[speed run 2x]": "[speed run 2x]\n04000000 00D3DB80 1E201008\n\n",
+        "[hitanywhere on]": "[hitanywhere on]\n04000000 00D07380 D65F03C0\n\n",
+        "[hitanywhere off]": "[hitanywhere off]\n04000000 00D07380 A9BF7BFD\n\n",
+        "[1p hit kill]": "[1p hit kill]\n04000000 00E56780 D65F03C0\n\n",
+        "[always ice wind lightning on]": "[always ice wind lightning on]\n04000000 00CC6AF0 D65F03C0\n\n",
+        "[always ice wind lightning off]": "[always ice wind lightning off]\n04000000 00CC6AF0 F81C0FF7\n\n",
+        "[speed attack]": "[speed attack]\n04000000 00D1BC4C 1E2E1000\n\n",
+        "[enemies no attack on]": "[enemies no attack on]\n04000000 00EFA860 D65F03C0\n\n",
+        "[enemies no attack off]": "[enemies no attack off]\n04000000 00EFA860 A9BD57F6\n\n"
+    },
+    "AEA6B2652EA9E34B": {
+        "[inf use ultimate skill]": "[inf use ultimate skill]\n04000000 00EE5F70 1E27F00C\n\n",
+        "[inf user rage]": "[inf user rage]\n04000000 00D691E0 D65F03C0\n\n",
+        "[inf use musou]": "[inf use musou]\n04000000 00D68AE0 D65F03C0\n\n",
+        "[speed run normal]": "[speed run normal]\n04000000 00D3D630 1E2E1008\n\n",
+        "[speed run 1.25x]": "[speed run 1.25x]\n04000000 00D3D630 1E2E9008\n\n",
+        "[speed run 1.5x]": "[speed run 1.5x]\n04000000 00D3D630 1E2F1008\n\n",
+        "[speed run 1.75x]": "[speed run 1.75x]\n04000000 00D3D630 1E2F9008\n\n",
+        "[speed run 2x]": "[speed run 2x]\n04000000 00D3D630 1E201008\n\n",
+        "[hitanywhere on]": "[hitanywhere on]\n04000000 00D074D0 D65F03C0\n\n",
+        "[hitanywhere off]": "[hitanywhere off]\n04000000 00D074D0 A9BF7BFD\n\n",
+        "[L pad Invicible both]": "[L pad Invicible both]\n04000000 00D07470 A9BF7BFD\n80000040\n04000000 00D07470 D65F03C0\n20000000\n\n",
+        "[always ice wind lightning hit on]": "[always ice wind lightning hit on]\n04000000 00CC6C60 D65F03C0\n\n",
+        "[always ice wind lightning hit off]": "[always ice wind lightning hit off]\n04000000 00CC6C60 F81C0FF7\n\n",
+        "[1p hit kill]": "[1p hit kill]\n04000000 00E55B10 D65F03C0\n\n",
+        "[Inf Gold]": "[Inf Gold]\n04100000 01e2a444 000F423F\n\n",
+        "[Inf Skill]": "[Inf Skill]\n04100000 01e2a450 000F423F\n\n",
+        "[INF EXP]": "[INF EXP]\n04100000 0a7b4b88 0098967F\n\n",
+        "[INF MASTERY]": "[INF MASTERY]\n04100000 01e2a454 0098967F\n\n"
+    },
     "attribution": {
         "SAMURAI WARRIORS 5 ver 1.0.1 and 1.0.2 by xtatu and Bekim.txt": "note: Infinite Jump can be used after learning double jump\n"
     }

@@ -1,144 +1,42 @@
 {
-    "9B4979A234077441": [
-        {
-            "content": "[01# Carry Capacity 1000]\n04000000 01E769CC 447A0000\n04000000 01E769B4 1C0000C0\n\n",
-            "title": "[01# Carry Capacity 1000]"
-        },
-        {
-            "content": "[Carry Capacity 1000 (off)]\n04000000 01E769CC D503201F\n04000000 01E769B4 1E202900\n\n",
-            "title": "[Carry Capacity 1000 (off)]"
-        },
-        {
-            "content": "[02# Inf Campfire fuel]\n04000000 01C79AA8 D503201F\n\n",
-            "title": "[02# Inf Campfire fuel]"
-        },
-        {
-            "content": "[Inf Campfire fuel (off)]\n04000000 01C79AA8 51000508\n\n",
-            "title": "[Inf Campfire fuel (off)]"
-        },
-        {
-            "content": "[03# Inf Sprint]\n04000000 01E42558 43C80000\n04000000 01E41EF0 1C003348\n\n",
-            "title": "[03# Inf Sprint]"
-        },
-        {
-            "content": "[Inf Sprint (off)]\n04000000 01E42558 D503201F\n04000000 01E41EF0 BD007E68\n\n",
-            "title": "[Inf Sprint (off)]"
-        },
-        {
-            "content": "[04# Can craft anywhere]\n04000000 01FC1200 52800020\n04000000 01FC1204 D65F03C0\n\n",
-            "title": "[04# Can craft anywhere]"
-        },
-        {
-            "content": "[Can craft anywhere (off0]\n04000000 01FC1200 F81D0FF5\n04000000 01FC1204 A9014FF4\n\n",
-            "title": "[Can craft anywhere (off0]"
-        },
-        {
-            "content": "[05# No Thirst]\n04000000 0219CEC4 1E2703E9\n\n",
-            "title": "[05# No Thirst]"
-        },
-        {
-            "content": "[No Thirst (off)]\n04000000 0219CEC4 1E202829\n\n",
-            "title": "[No Thirst (off)]"
-        },
-        {
-            "content": "[06# Not cold]\n04000000 020C0A0C 1E2703E0\n\n",
-            "title": "[06# Not cold]"
-        },
-        {
-            "content": "[Not cold (off)]\n04000000 020C0A0C BD402100\n\n",
-            "title": "[Not cold (off)]"
-        },
-        {
-            "content": "[07# Inf Fatigue]\n04000000 01F541B4 1E2703E0\n\n",
-            "title": "[07# Inf Fatigue]"
-        },
-        {
-            "content": "[Inf Fatigue (off)]\n04000000 01F541B4 1E202820\n\n",
-            "title": "[Inf Fatigue (off)]"
-        },
-        {
-            "content": "[08# Max Calories]\n04000000 020119CC 451C4000\n04000000 02011D30 1CFFE4E9\n\n",
-            "title": "[08# Max Calories]"
-        },
-        {
-            "content": "[Max Calories (off)]\n04000000 020119CC D503201F\n04000000 02011D30 BD001A69\n\n",
-            "title": "[Max Calories (off)]"
-        },
-        {
-            "content": "[09# Inf health]\n04000000 01CAF0EC 42DC0000\n04000000 01CAEDF4 1C001769",
-            "title": "[09# Inf health]"
-        }
-    ],
-    "AC7114153A1DA944": [
-        {
-            "content": "[01# Carry Capacity 1000]\n04000000 01E769CC 447A0000\n04000000 01E769B4 1C0000C0\n\n",
-            "title": "[01# Carry Capacity 1000]"
-        },
-        {
-            "content": "[Carry Capacity 1000 (off)]\n04000000 01E769CC D503201F\n04000000 01E769B4 1E202900\n\n",
-            "title": "[Carry Capacity 1000 (off)]"
-        },
-        {
-            "content": "[02# Inf Campfire fuel]\n04000000 01C79AA8 D503201F\n\n",
-            "title": "[02# Inf Campfire fuel]"
-        },
-        {
-            "content": "[Inf Campfire fuel (off)]\n04000000 01C79AA8 51000508\n\n",
-            "title": "[Inf Campfire fuel (off)]"
-        },
-        {
-            "content": "[03# Inf Sprint]\n04000000 01E42558 43C80000\n04000000 01E41EF0 1C003348\n\n",
-            "title": "[03# Inf Sprint]"
-        },
-        {
-            "content": "[Inf Sprint (off)]\n04000000 01E42558 D503201F\n04000000 01E41EF0 BD007E68\n\n",
-            "title": "[Inf Sprint (off)]"
-        },
-        {
-            "content": "[04# Can craft anywhere]\n04000000 01FC1200 52800020\n04000000 01FC1204 D65F03C0\n\n",
-            "title": "[04# Can craft anywhere]"
-        },
-        {
-            "content": "[Can craft anywhere (off0]\n04000000 01FC1200 F81D0FF5\n04000000 01FC1204 A9014FF4\n\n",
-            "title": "[Can craft anywhere (off0]"
-        },
-        {
-            "content": "[05# No Thirst]\n04000000 0219CEC4 1E2703E9\n\n",
-            "title": "[05# No Thirst]"
-        },
-        {
-            "content": "[No Thirst (off)]\n04000000 0219CEC4 1E202829\n\n",
-            "title": "[No Thirst (off)]"
-        },
-        {
-            "content": "[06# Not cold]\n04000000 020C0A0C 1E2703E0\n\n",
-            "title": "[06# Not cold]"
-        },
-        {
-            "content": "[Not cold (off)]\n04000000 020C0A0C BD402100\n\n",
-            "title": "[Not cold (off)]"
-        },
-        {
-            "content": "[07# Inf Fatigue]\n04000000 01F541B4 1E2703E0\n\n",
-            "title": "[07# Inf Fatigue]"
-        },
-        {
-            "content": "[Inf Fatigue (off)]\n04000000 01F541B4 1E202820\n\n",
-            "title": "[Inf Fatigue (off)]"
-        },
-        {
-            "content": "[08# Max Calories]\n04000000 020119CC 451C4000\n04000000 02011D30 1CFFE4E9\n\n",
-            "title": "[08# Max Calories]"
-        },
-        {
-            "content": "[Max Calories (off)]\n04000000 020119CC D503201F\n04000000 02011D30 BD001A69\n\n",
-            "title": "[Max Calories (off)]"
-        },
-        {
-            "content": "[09# Inf health]\n04000000 01CAF0EC 42DC0000\n04000000 01CAEDF4 1C001769",
-            "title": "[09# Inf health]"
-        }
-    ],
+    "9B4979A234077441": {
+        "[01# Carry Capacity 1000]": "[01# Carry Capacity 1000]\n04000000 01E769CC 447A0000\n04000000 01E769B4 1C0000C0\n\n",
+        "[Carry Capacity 1000 (off)]": "[Carry Capacity 1000 (off)]\n04000000 01E769CC D503201F\n04000000 01E769B4 1E202900\n\n",
+        "[02# Inf Campfire fuel]": "[02# Inf Campfire fuel]\n04000000 01C79AA8 D503201F\n\n",
+        "[Inf Campfire fuel (off)]": "[Inf Campfire fuel (off)]\n04000000 01C79AA8 51000508\n\n",
+        "[03# Inf Sprint]": "[03# Inf Sprint]\n04000000 01E42558 43C80000\n04000000 01E41EF0 1C003348\n\n",
+        "[Inf Sprint (off)]": "[Inf Sprint (off)]\n04000000 01E42558 D503201F\n04000000 01E41EF0 BD007E68\n\n",
+        "[04# Can craft anywhere]": "[04# Can craft anywhere]\n04000000 01FC1200 52800020\n04000000 01FC1204 D65F03C0\n\n",
+        "[Can craft anywhere (off0]": "[Can craft anywhere (off0]\n04000000 01FC1200 F81D0FF5\n04000000 01FC1204 A9014FF4\n\n",
+        "[05# No Thirst]": "[05# No Thirst]\n04000000 0219CEC4 1E2703E9\n\n",
+        "[No Thirst (off)]": "[No Thirst (off)]\n04000000 0219CEC4 1E202829\n\n",
+        "[06# Not cold]": "[06# Not cold]\n04000000 020C0A0C 1E2703E0\n\n",
+        "[Not cold (off)]": "[Not cold (off)]\n04000000 020C0A0C BD402100\n\n",
+        "[07# Inf Fatigue]": "[07# Inf Fatigue]\n04000000 01F541B4 1E2703E0\n\n",
+        "[Inf Fatigue (off)]": "[Inf Fatigue (off)]\n04000000 01F541B4 1E202820\n\n",
+        "[08# Max Calories]": "[08# Max Calories]\n04000000 020119CC 451C4000\n04000000 02011D30 1CFFE4E9\n\n",
+        "[Max Calories (off)]": "[Max Calories (off)]\n04000000 020119CC D503201F\n04000000 02011D30 BD001A69\n\n",
+        "[09# Inf health]": "[09# Inf health]\n04000000 01CAF0EC 42DC0000\n04000000 01CAEDF4 1C001769\n\n"
+    },
+    "AC7114153A1DA944": {
+        "[01# Carry Capacity 1000]": "[01# Carry Capacity 1000]\n04000000 01E769CC 447A0000\n04000000 01E769B4 1C0000C0\n\n",
+        "[Carry Capacity 1000 (off)]": "[Carry Capacity 1000 (off)]\n04000000 01E769CC D503201F\n04000000 01E769B4 1E202900\n\n",
+        "[02# Inf Campfire fuel]": "[02# Inf Campfire fuel]\n04000000 01C79AA8 D503201F\n\n",
+        "[Inf Campfire fuel (off)]": "[Inf Campfire fuel (off)]\n04000000 01C79AA8 51000508\n\n",
+        "[03# Inf Sprint]": "[03# Inf Sprint]\n04000000 01E42558 43C80000\n04000000 01E41EF0 1C003348\n\n",
+        "[Inf Sprint (off)]": "[Inf Sprint (off)]\n04000000 01E42558 D503201F\n04000000 01E41EF0 BD007E68\n\n",
+        "[04# Can craft anywhere]": "[04# Can craft anywhere]\n04000000 01FC1200 52800020\n04000000 01FC1204 D65F03C0\n\n",
+        "[Can craft anywhere (off0]": "[Can craft anywhere (off0]\n04000000 01FC1200 F81D0FF5\n04000000 01FC1204 A9014FF4\n\n",
+        "[05# No Thirst]": "[05# No Thirst]\n04000000 0219CEC4 1E2703E9\n\n",
+        "[No Thirst (off)]": "[No Thirst (off)]\n04000000 0219CEC4 1E202829\n\n",
+        "[06# Not cold]": "[06# Not cold]\n04000000 020C0A0C 1E2703E0\n\n",
+        "[Not cold (off)]": "[Not cold (off)]\n04000000 020C0A0C BD402100\n\n",
+        "[07# Inf Fatigue]": "[07# Inf Fatigue]\n04000000 01F541B4 1E2703E0\n\n",
+        "[Inf Fatigue (off)]": "[Inf Fatigue (off)]\n04000000 01F541B4 1E202820\n\n",
+        "[08# Max Calories]": "[08# Max Calories]\n04000000 020119CC 451C4000\n04000000 02011D30 1CFFE4E9\n\n",
+        "[Max Calories (off)]": "[Max Calories (off)]\n04000000 020119CC D503201F\n04000000 02011D30 BD001A69\n\n",
+        "[09# Inf health]": "[09# Inf health]\n04000000 01CAF0EC 42DC0000\n04000000 01CAEDF4 1C001769\n\n"
+    },
     "attribution": {
         "The Long Dark 1.0.0 by ZiT and ver 1.84.65582 by patjenova.txt": "If you want to change the status change 00000150."
     }

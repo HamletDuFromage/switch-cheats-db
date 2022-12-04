@@ -1,16 +1,7 @@
 {
-    "A44E17749BAC250B": [
-        {
-            "content": "[Breeze beta20 Pinball Jam 1.0.1 TID: 0100AD50167EC000 BID: A44E17749BAC250B]\n\n",
-            "title": "[Breeze beta20 Pinball Jam 1.0.1 TID: 0100AD50167EC000 BID: A44E17749BAC250B]"
-        },
-        {
-            "content": "[Ball deduction on]\n04000000 01491654 51000508 \n\n",
-            "title": "[Ball deduction on]"
-        },
-        {
-            "content": "[Ball deduction off]\n04000000 01491654 D503201F \n\n",
-            "title": "[Ball deduction off]"
-        }
-    ]
+    "A44E17749BAC250B": {
+        "[Breeze beta20 Pinball Jam 1.0.1 TID: 0100AD50167EC000 BID: A44E17749BAC250B]": "[Breeze beta20 Pinball Jam 1.0.1 TID: 0100AD50167EC000 BID: A44E17749BAC250B]\n\n",
+        "[Ball deduction on]": "[Ball deduction on]\n04000000 01491654 51000508\n\n",
+        "[Ball deduction off]": "[Ball deduction off]\n04000000 01491654 D503201F\n\n"
+    }
 }

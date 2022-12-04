@@ -1,54 +1,18 @@
 {
-    "4A14C2625F66DB48": [
-        {
-            "content": "[inf lives]\n04000000 014D0E58 51000101\n\n",
-            "title": "[inf lives]"
-        },
-        {
-            "content": "[buy without money]\n04000000 014FA664 D503201F\n\n",
-            "title": "[buy without money]"
-        },
-        {
-            "content": "[get money to have max]\n04000000 014FA0B0 5284E1F4\n\n",
-            "title": "[get money to have max]"
-        },
-        {
-            "content": "[inf item use]\n04000000 014FA994 D503201F\n[]\n",
-            "title": "[inf item use]"
-        },
-        {
-            "content": "[invincible on / Ghosts can kill]\n04000000 014C22C0 D65F03C0\n\n",
-            "title": "[invincible on / Ghosts can kill]"
-        },
-        {
-            "content": "[invincible off]\n04000000 014C22C0 2A1F03E1\n\n",
-            "title": "[invincible off]"
-        },
-        {
-            "content": "[01# High Jump No Gravity]\n040A0000 0170229C BD40466B\n80000002\n040A0000 0170229C 1E2703EB\n20000000\n\n",
-            "title": "[01# High Jump No Gravity]"
-        },
-        {
-            "content": "[02# Inf Health]\n040A0000 014D0C60 D65F03C0\n\n",
-            "title": "[02# Inf Health]"
-        },
-        {
-            "content": "[Inf Health (off)]\n040A0000 014D0C60 D101C3FF\n\n",
-            "title": "[Inf Health (off)]"
-        },
-        {
-            "content": "[03# Money X16]\n040A0000 014FA0B0 0B1412D4\n\n",
-            "title": "[03# Money X16]"
-        },
-        {
-            "content": "[Money X16 (off)]\n040A0000 014FA0B0 0B1402D4\n\n",
-            "title": "[Money X16 (off)]"
-        },
-        {
-            "content": "[04# moonjump]\n80000002\n580A0000 0407EC10\n580A1000 000000B8\n580A1000 00000020\n580A1000 00000078\n780A0000 00000030\n640A0000 00000000 C2000000\n20000000\n",
-            "title": "[04# moonjump]"
-        }
-    ],
+    "4A14C2625F66DB48": {
+        "[inf lives]": "[inf lives]\n04000000 014D0E58 51000101\n\n",
+        "[buy without money]": "[buy without money]\n04000000 014FA664 D503201F\n\n",
+        "[get money to have max]": "[get money to have max]\n04000000 014FA0B0 5284E1F4\n\n",
+        "[inf item use]": "[inf item use]\n04000000 014FA994 D503201F\n[]\n\n",
+        "[invincible on / Ghosts can kill]": "[invincible on / Ghosts can kill]\n04000000 014C22C0 D65F03C0\n\n",
+        "[invincible off]": "[invincible off]\n04000000 014C22C0 2A1F03E1\n\n",
+        "[01# High Jump No Gravity]": "[01# High Jump No Gravity]\n040A0000 0170229C BD40466B\n80000002\n040A0000 0170229C 1E2703EB\n20000000\n\n",
+        "[02# Inf Health]": "[02# Inf Health]\n040A0000 014D0C60 D65F03C0\n\n",
+        "[Inf Health (off)]": "[Inf Health (off)]\n040A0000 014D0C60 D101C3FF\n\n",
+        "[03# Money X16]": "[03# Money X16]\n040A0000 014FA0B0 0B1412D4\n\n",
+        "[Money X16 (off)]": "[Money X16 (off)]\n040A0000 014FA0B0 0B1402D4\n\n",
+        "[04# moonjump]": "[04# moonjump]\n80000002\n580A0000 0407EC10\n580A1000 000000B8\n580A1000 00000020\n580A1000 00000078\n780A0000 00000030\n640A0000 00000000 C2000000\n20000000\n\n"
+    },
     "attribution": {
         "Alex Kidd DX v1.1.0 by DaBlackDeath and Patjenova.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }

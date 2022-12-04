@@ -6,6 +6,7 @@ from pathlib import Path
 import re
 import subprocess
 import json
+from collections import OrderedDict
 
 
 class ProcessCheats:
@@ -32,7 +33,7 @@ class ProcessCheats:
         return attribution
 
     def constructBidDict(self, sheet_path):
-        out = []
+        out = OrderedDict()
         pos = []
         with open(sheet_path, 'r', encoding="utf-8", errors="ignore") as cheatSheet:
             lines = cheatSheet.readlines()
@@ -50,12 +51,11 @@ class ProcessCheats:
             if len(codeLines) > 1:
                 code = "".join(codeLines)
                 if re.search("[0-9a-fA-F]{8}", code):
-                    out.append({"title": lines[pos[i]].strip(),
-                                "content": code})
+                    out[lines[pos[i]].strip()] = code.strip("\n ") + "\n\n"
         return out
 
     def createJson(self, tid):
-        out = {}
+        out = OrderedDict()
         cheats_dir = self.getCheatsPath(tid)
         try:
             for sheet in cheats_dir.iterdir():
@@ -67,7 +67,6 @@ class ProcessCheats:
         if attribution:
             out["attribution"] = self.getAttribution(tid)
 
-
         cheats_file = self.out_path.joinpath(f"{tid.name.upper()}.json")
         try:
             with open(cheats_file, 'r') as json_file:
@@ -76,7 +75,7 @@ class ProcessCheats:
             pass
 
         with open(cheats_file, 'w') as json_file:
-            json.dump(out, json_file, indent=4, sort_keys=True)
+            json.dump(out, json_file, indent=4)
 
     def parseCheats(self):
         subprocess.call(['bash', '-c', f"chmod -R +rw {self.in_path}"])

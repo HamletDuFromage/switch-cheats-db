@@ -1,26 +1,11 @@
 {
-    "7C7AAD88B10A5D4D": [
-        {
-            "content": "[Unlimited consuming Coins]\n010E0000 0175CE3E 0000001F\n\n",
-            "title": "[Unlimited consuming Coins]"
-        },
-        {
-            "content": "[Unlimited consuming Items]\n010E0000 014C707E 0000001F\n\n",
-            "title": "[Unlimited consuming Items]"
-        },
-        {
-            "content": "[8x EXP]\n040E0000 0153542C 0B160EE8\n\n",
-            "title": "[8x EXP]"
-        },
-        {
-            "content": "[Invincible (Not suggest)]\n010E0000 015CB6A6 0000001F\n010E0000 015CB87A 0000001F\n010E0000 015CBAFA 0000001F\n010E0000 015CBE9E 0000001F\n010E0000 015CC8CA 0000001F\n",
-            "title": "[Invincible (Not suggest)]"
-        },
-        {
-            "content": "[Invincible - off]\n010E0000 015CB6A6 00000015\n010E0000 015CB87A 00000015\n010E0000 015CBAFA 00000014\n010E0000 015CBE9E 00000001\n010E0000 015CC8CA 00000014",
-            "title": "[Invincible - off]"
-        }
-    ],
+    "7C7AAD88B10A5D4D": {
+        "[Unlimited consuming Coins]": "[Unlimited consuming Coins]\n010E0000 0175CE3E 0000001F\n\n",
+        "[Unlimited consuming Items]": "[Unlimited consuming Items]\n010E0000 014C707E 0000001F\n\n",
+        "[8x EXP]": "[8x EXP]\n040E0000 0153542C 0B160EE8\n\n",
+        "[Invincible (Not suggest)]": "[Invincible (Not suggest)]\n010E0000 015CB6A6 0000001F\n010E0000 015CB87A 0000001F\n010E0000 015CBAFA 0000001F\n010E0000 015CBE9E 0000001F\n010E0000 015CC8CA 0000001F\n\n",
+        "[Invincible - off]": "[Invincible - off]\n010E0000 015CB6A6 00000015\n010E0000 015CB87A 00000015\n010E0000 015CBAFA 00000014\n010E0000 015CBE9E 00000001\n010E0000 015CC8CA 00000014\n\n"
+    },
     "attribution": {
         "Rogue Explorer v1.0.0 (v0) by Eiffel.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }

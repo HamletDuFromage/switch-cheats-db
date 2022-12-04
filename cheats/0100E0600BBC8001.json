@@ -1,10 +1,7 @@
 {
-    "8B679E3F55BD9DE5": [
-        {
-            "content": "[Grandia 1 money 9999]\n041F0000 00445164 0000270F\n",
-            "title": "[Grandia 1 money 9999]"
-        }
-    ],
+    "8B679E3F55BD9DE5": {
+        "[Grandia 1 money 9999]": "[Grandia 1 money 9999]\n041F0000 00445164 0000270F\n\n"
+    },
     "attribution": {
         "Gandia HD V1.00.26 made by Patjenova.txt": "",
         "Grandia collection hd by patjenova.txt": ""

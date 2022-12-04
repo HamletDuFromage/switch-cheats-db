@@ -1,26 +1,11 @@
 {
-    "8AE3FAC28FFDBA0E": [
-        {
-            "content": "[Inf HP & Air (Hold ZL)]\n80000100\n580F0000 00AFA820\n580F1000 00000230\n780F0000 00000080\n640F0000 00000000 03E703E7\n20000000\n\n",
-            "title": "[Inf HP & Air (Hold ZL)]"
-        },
-        {
-            "content": "[Inf Life (Hold ZL)]\n80000100\n580F0000 00AFA820\n580F1000 00000230\n780F0000 0000008A\n620F0000 00000000 000003E7\n20000000\n\n",
-            "title": "[Inf Life (Hold ZL)]"
-        },
-        {
-            "content": "[Inf Life2 (Hold ZL)]\n80000100\n580F0000 00AFA820\n580F1000 00000230\n580F1000 00000010\n780F0000 0000008A\n620F0000 00000000 000003E7\n20000000\n\n",
-            "title": "[Inf Life2 (Hold ZL)]"
-        },
-        {
-            "content": "[HORRORNIGHT Only Inf HP (Hold ZR and Minus)]\n80000A00\n580F0000 00AFA820\n580F1000 00000230\n780F0000 000001E0\n640F0000 00000000 000003E7\n20000000\n\n",
-            "title": "[HORRORNIGHT Only Inf HP (Hold ZR and Minus)]"
-        },
-        {
-            "content": "[Max Bit (Hold Minus)]\n80000800\n580F0000 00AFA820\n780F0000 0000020C\n640F0000 00000000 05F5E0FF\n20000000",
-            "title": "[Max Bit (Hold Minus)]"
-        }
-    ],
+    "8AE3FAC28FFDBA0E": {
+        "[Inf HP & Air (Hold ZL)]": "[Inf HP & Air (Hold ZL)]\n80000100\n580F0000 00AFA820\n580F1000 00000230\n780F0000 00000080\n640F0000 00000000 03E703E7\n20000000\n\n",
+        "[Inf Life (Hold ZL)]": "[Inf Life (Hold ZL)]\n80000100\n580F0000 00AFA820\n580F1000 00000230\n780F0000 0000008A\n620F0000 00000000 000003E7\n20000000\n\n",
+        "[Inf Life2 (Hold ZL)]": "[Inf Life2 (Hold ZL)]\n80000100\n580F0000 00AFA820\n580F1000 00000230\n580F1000 00000010\n780F0000 0000008A\n620F0000 00000000 000003E7\n20000000\n\n",
+        "[HORRORNIGHT Only Inf HP (Hold ZR and Minus)]": "[HORRORNIGHT Only Inf HP (Hold ZR and Minus)]\n80000A00\n580F0000 00AFA820\n580F1000 00000230\n780F0000 000001E0\n640F0000 00000000 000003E7\n20000000\n\n",
+        "[Max Bit (Hold Minus)]": "[Max Bit (Hold Minus)]\n80000800\n580F0000 00AFA820\n780F0000 0000020C\n640F0000 00000000 05F5E0FF\n20000000\n\n"
+    },
     "attribution": {
         "Mr. DRILLER DrillLand ver 1.0.0 by ZiT.txt": " Inf Health should be used in conjunction with Inf Armor."
     }

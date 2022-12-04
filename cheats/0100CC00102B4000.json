@@ -1,217 +1,61 @@
 {
-    "8AFCBE6A930CD42E": [
-        {
-            "content": "[Inf. Special Meter (On)]\n040A0000 01B53A64 1E204001\n",
-            "title": "[Inf. Special Meter (On)]"
-        },
-        {
-            "content": "[Inf. Special Meter (Off)]\n040A0000 01B53A64 1E202008\n\n",
-            "title": "[Inf. Special Meter (Off)]"
-        },
-        {
-            "content": "[Perfect Balance (On)]\n040A0000 019A24C0 52800028\n",
-            "title": "[Perfect Balance (On)]"
-        },
-        {
-            "content": "[Perfect Balance (Off)]\n040A0000 019A24C0 39407408\n\n",
-            "title": "[Perfect Balance (Off)]"
-        },
-        {
-            "content": "[Score Multiplier x2]\n040A0000 0184A4C0 0B08053B\n",
-            "title": "[Score Multiplier x2]"
-        },
-        {
-            "content": "[Score Multiplier x4]\n040A0000 0184A4C0 0B08093B\n",
-            "title": "[Score Multiplier x4]"
-        },
-        {
-            "content": "[Score Multiplier x8]\n040A0000 0184A4C0 0B080D3B\n",
-            "title": "[Score Multiplier x8]"
-        },
-        {
-            "content": "[Score Multiplier x16]\n040A0000 0184A4C0 0B08113B\n",
-            "title": "[Score Multiplier x16]"
-        },
-        {
-            "content": "[Score Multiplier x1]\n040A0000 0184A4C0 1B087D3B\n\n",
-            "title": "[Score Multiplier x1]"
-        },
-        {
-            "content": "[Infinite/Max Money]\n58000000 07650568\n58001000 00000010\n58001000 000000A0\n78000000 00000008\n64000000 00000000 3B9AC9FF\n\n",
-            "title": "[Infinite/Max Money]"
-        },
-        {
-            "content": "[Exp 999'999]\n580A0000 07650568\n580A1000 00000010\n580A1000 000000A0\n780A0000 00000020\n640A0000 00000000 000F423F\n\n",
-            "title": "[Exp 999'999]"
-        },
-        {
-            "content": "[Max Score]\n580C0000 07DE1CA8\n580C1000 00000030\n580C1000 000000A8\n580C1000 00000050\n780C0000 00000300\n640C0000 00000000 3B9AC9FF\n\n",
-            "title": "[Max Score]"
-        },
-        {
-            "content": "[Inf. Skill Points (AMS Only)]\n580C0000 07650568\n580C1000 00000010\n580C1000 00000140\n300D0000 00000015\n980EC0F0\n580E1000 00000008\n780E0000 000008A8\n620E0000 00000000 000003E7\n780C0000 00000060\n310D0000\n\n",
-            "title": "[Inf. Skill Points (AMS Only)]"
-        },
-        {
-            "content": "[Inf. Skill Points Custom Skaters (AMS Only)]\t\n580C0000 07650568\n580C1000 00000010\n580C1000 00000140\n300D0000 00000004\n980EC0F0\n580E1000 00000968\n780E0000 00000008\n620E0000 00000000 000003E7\n780C0000 00000060\n310D0000\n\n",
-            "title": "[Inf. Skill Points Custom Skaters (AMS Only)]"
-        },
-        {
-            "content": "[== Infinite/Max Points ==]\n00000000 00000000\n\n",
-            "title": "[== Infinite/Max Points ==]"
-        },
-        {
-            "content": "[o Custom Skater #1]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000968\n78000000 00000008\n62000000 00000000 000003E7\n\n",
-            "title": "[o Custom Skater #1]"
-        },
-        {
-            "content": "[o Custom Skater #2]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 000009C8\n78000000 00000008\n62000000 00000000 000003E7\n\n",
-            "title": "[o Custom Skater #2]"
-        },
-        {
-            "content": "[o Custom Skater #3]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000A28\n78000000 00000008\n62000000 00000000 000003E7\n\n",
-            "title": "[o Custom Skater #3]"
-        },
-        {
-            "content": "[o Custom Skater #4]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000A88\n78000000 00000008\n62000000 00000000 000003E7\n\n",
-            "title": "[o Custom Skater #4]"
-        },
-        {
-            "content": "[o Tony Hawk]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000848\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Tony Hawk]"
-        },
-        {
-            "content": "[o Bob Burnquist]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 000000C8\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Bob Burnquist]"
-        },
-        {
-            "content": "[o Jamie Thomas]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000308\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Jamie Thomas]"
-        },
-        {
-            "content": "[o Rodney Mullen]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000608\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Rodney Mullen]"
-        },
-        {
-            "content": "[o Steve Caballerd]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 000007E8\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Steve Caballerd]"
-        },
-        {
-            "content": "[o Bucky Lasek]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000128\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Bucky Lasek]"
-        },
-        {
-            "content": "[o Chad Muska]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000188\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Chad Muska]"
-        },
-        {
-            "content": "[o Elissa Steamer]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 000001E8\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Elissa Steamer]"
-        },
-        {
-            "content": "[o Eric Koston]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000248\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Eric Koston]"
-        },
-        {
-            "content": "[o Geoff Rowley]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 000002A8\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Geoff Rowley]"
-        },
-        {
-            "content": "[o Kareem Campbell]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000368\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Kareem Campbell]"
-        },
-        {
-            "content": "[o Rune Glifberg]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000668\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Rune Glifberg]"
-        },
-        {
-            "content": "[o Andrew Reynolds]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000008\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Andrew Reynolds]"
-        },
-        {
-            "content": "[o Aori Nishimura]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000068\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Aori Nishimura]"
-        },
-        {
-            "content": "[o Leo Baker]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 000003C8\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Leo Baker]"
-        },
-        {
-            "content": "[o Leticia Bufoni]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000428\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Leticia Bufoni]"
-        },
-        {
-            "content": "[o Lizzie Armanto]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000488\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Lizzie Armanto]"
-        },
-        {
-            "content": "[o Nyjah Huston]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 000004E8\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Nyjah Huston]"
-        },
-        {
-            "content": "[o Riley Hawk]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000548\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Riley Hawk]"
-        },
-        {
-            "content": "[o Shane O'Neill]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000788\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Shane O'Neill]"
-        },
-        {
-            "content": "[o Tyshawn Jones]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 000008A8\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[o Tyshawn Jones]"
-        },
-        {
-            "content": "[Credits: crazy_p, Patjenova, Spiderman]\n00000000 00000000 00000000",
-            "title": "[Credits: crazy_p, Patjenova, Spiderman]"
-        }
-    ],
-    "93A4BFB86BCA2C3D": [
-        {
-            "content": "[o Infinite/Max Money]\n58000000 075FA538\n58001000 00000010\n58001000 000000A0\n78000000 00000008\n64000000 00000000 3B9AC9FF\n\n",
-            "title": "[o Infinite/Max Money]"
-        },
-        {
-            "content": "[o Set Score to 999,999,999 (Press L3)]\n80000010\n58000000 07D65820\n58001000 00000050\n58001000 000000A0\n58001000 00000C58\n78000000 00000300\n64000000 00000000 3B9AC9FF\n58000000 07D65820\n58001000 00000050\n58001000 000000A0\n58001000 00000C58\n78000000 00000350\n64000000 00000000 3B9AC9FF\n20000000\n\n",
-            "title": "[o Set Score to 999,999,999 (Press L3)]"
-        },
-        {
-            "content": "[01# Inf special meter]\n040A0000 01B1F9F4 1E204001\n\n",
-            "title": "[01# Inf special meter]"
-        },
-        {
-            "content": "[02# Perfect Balance]\n040A0000 0196E530 52800028\n\n",
-            "title": "[02# Perfect Balance]"
-        },
-        {
-            "content": "[03# Score Multiplier x4]\n040A0000 01816974 0B08113B\n\n",
-            "title": "[03# Score Multiplier x4]"
-        },
-        {
-            "content": "[04# Money 999999]\n580A0000 075FA538\n580A1000 00000010\n580A1000 000000A0\n780A0000 00000008\n640A0000 00000000 000F423F\n\n",
-            "title": "[04# Money 999999]"
-        },
-        {
-            "content": "[05# Exp 999999]\n580A0000 075FA538\n580A1000 00000010\n580A1000 000000A0\n780A0000 00000020\n640A0000 00000000 000F423F\n\n",
-            "title": "[05# Exp 999999]"
-        },
-        {
-            "content": "[06# Points]\n580A0000 075FA538\n580A1000 00000010\n580A1000 00000140\n580A1000 00000968\n780A0000 00000008\n640A0000 00000000 00000064\n\n",
-            "title": "[06# Points]"
-        },
-        {
-            "content": "[999 Upgrade Points Tony Hawk]\n58000000 075FA538\n58001000 00000010\n58001000 00000140\n58001000 00000848\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[999 Upgrade Points Tony Hawk]"
-        },
-        {
-            "content": "[999 Upgrade Points Bob Burnquist]\n58000000 075FA538\n58001000 00000010\n58001000 00000140\n58001000 000000C8\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
-            "title": "[999 Upgrade Points Bob Burnquist]"
-        },
-        {
-            "content": "[999 Upgrade Points Jamie Thomas]\n58000000 075FA538\n58001000 00000010\n58001000 00000140\n58001000 00000308\n78000000 000008A8\n62000000 00000000 000003E7",
-            "title": "[999 Upgrade Points Jamie Thomas]"
-        }
-    ],
+    "8AFCBE6A930CD42E": {
+        "[Inf. Special Meter (On)]": "[Inf. Special Meter (On)]\n040A0000 01B53A64 1E204001\n\n",
+        "[Inf. Special Meter (Off)]": "[Inf. Special Meter (Off)]\n040A0000 01B53A64 1E202008\n\n",
+        "[Perfect Balance (On)]": "[Perfect Balance (On)]\n040A0000 019A24C0 52800028\n\n",
+        "[Perfect Balance (Off)]": "[Perfect Balance (Off)]\n040A0000 019A24C0 39407408\n\n",
+        "[Score Multiplier x2]": "[Score Multiplier x2]\n040A0000 0184A4C0 0B08053B\n\n",
+        "[Score Multiplier x4]": "[Score Multiplier x4]\n040A0000 0184A4C0 0B08093B\n\n",
+        "[Score Multiplier x8]": "[Score Multiplier x8]\n040A0000 0184A4C0 0B080D3B\n\n",
+        "[Score Multiplier x16]": "[Score Multiplier x16]\n040A0000 0184A4C0 0B08113B\n\n",
+        "[Score Multiplier x1]": "[Score Multiplier x1]\n040A0000 0184A4C0 1B087D3B\n\n",
+        "[Infinite/Max Money]": "[Infinite/Max Money]\n58000000 07650568\n58001000 00000010\n58001000 000000A0\n78000000 00000008\n64000000 00000000 3B9AC9FF\n\n",
+        "[Exp 999'999]": "[Exp 999'999]\n580A0000 07650568\n580A1000 00000010\n580A1000 000000A0\n780A0000 00000020\n640A0000 00000000 000F423F\n\n",
+        "[Max Score]": "[Max Score]\n580C0000 07DE1CA8\n580C1000 00000030\n580C1000 000000A8\n580C1000 00000050\n780C0000 00000300\n640C0000 00000000 3B9AC9FF\n\n",
+        "[Inf. Skill Points (AMS Only)]": "[Inf. Skill Points (AMS Only)]\n580C0000 07650568\n580C1000 00000010\n580C1000 00000140\n300D0000 00000015\n980EC0F0\n580E1000 00000008\n780E0000 000008A8\n620E0000 00000000 000003E7\n780C0000 00000060\n310D0000\n\n",
+        "[Inf. Skill Points Custom Skaters (AMS Only)]": "[Inf. Skill Points Custom Skaters (AMS Only)]\t\n580C0000 07650568\n580C1000 00000010\n580C1000 00000140\n300D0000 00000004\n980EC0F0\n580E1000 00000968\n780E0000 00000008\n620E0000 00000000 000003E7\n780C0000 00000060\n310D0000\n\n",
+        "[== Infinite/Max Points ==]": "[== Infinite/Max Points ==]\n00000000 00000000\n\n",
+        "[o Custom Skater #1]": "[o Custom Skater #1]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000968\n78000000 00000008\n62000000 00000000 000003E7\n\n",
+        "[o Custom Skater #2]": "[o Custom Skater #2]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 000009C8\n78000000 00000008\n62000000 00000000 000003E7\n\n",
+        "[o Custom Skater #3]": "[o Custom Skater #3]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000A28\n78000000 00000008\n62000000 00000000 000003E7\n\n",
+        "[o Custom Skater #4]": "[o Custom Skater #4]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000A88\n78000000 00000008\n62000000 00000000 000003E7\n\n",
+        "[o Tony Hawk]": "[o Tony Hawk]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000848\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Bob Burnquist]": "[o Bob Burnquist]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 000000C8\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Jamie Thomas]": "[o Jamie Thomas]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000308\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Rodney Mullen]": "[o Rodney Mullen]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000608\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Steve Caballerd]": "[o Steve Caballerd]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 000007E8\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Bucky Lasek]": "[o Bucky Lasek]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000128\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Chad Muska]": "[o Chad Muska]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000188\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Elissa Steamer]": "[o Elissa Steamer]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 000001E8\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Eric Koston]": "[o Eric Koston]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000248\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Geoff Rowley]": "[o Geoff Rowley]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 000002A8\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Kareem Campbell]": "[o Kareem Campbell]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000368\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Rune Glifberg]": "[o Rune Glifberg]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000668\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Andrew Reynolds]": "[o Andrew Reynolds]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000008\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Aori Nishimura]": "[o Aori Nishimura]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000068\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Leo Baker]": "[o Leo Baker]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 000003C8\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Leticia Bufoni]": "[o Leticia Bufoni]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000428\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Lizzie Armanto]": "[o Lizzie Armanto]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000488\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Nyjah Huston]": "[o Nyjah Huston]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 000004E8\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Riley Hawk]": "[o Riley Hawk]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000548\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Shane O'Neill]": "[o Shane O'Neill]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 00000788\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[o Tyshawn Jones]": "[o Tyshawn Jones]\n58000000 07650568\n58001000 00000010\n58001000 00000140\n58001000 000008A8\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[Credits: crazy_p, Patjenova, Spiderman]": "[Credits: crazy_p, Patjenova, Spiderman]\n00000000 00000000 00000000\n\n"
+    },
     "attribution": {
         "Tony Hawks Pro Skater 1+2 by Spider_Man and patjenova.txt": "note: Infinite Jump can be used after learning double jump\n"
+    },
+    "93A4BFB86BCA2C3D": {
+        "[o Infinite/Max Money]": "[o Infinite/Max Money]\n58000000 075FA538\n58001000 00000010\n58001000 000000A0\n78000000 00000008\n64000000 00000000 3B9AC9FF\n\n",
+        "[o Set Score to 999,999,999 (Press L3)]": "[o Set Score to 999,999,999 (Press L3)]\n80000010\n58000000 07D65820\n58001000 00000050\n58001000 000000A0\n58001000 00000C58\n78000000 00000300\n64000000 00000000 3B9AC9FF\n58000000 07D65820\n58001000 00000050\n58001000 000000A0\n58001000 00000C58\n78000000 00000350\n64000000 00000000 3B9AC9FF\n20000000\n\n",
+        "[01# Inf special meter]": "[01# Inf special meter]\n040A0000 01B1F9F4 1E204001\n\n",
+        "[02# Perfect Balance]": "[02# Perfect Balance]\n040A0000 0196E530 52800028\n\n",
+        "[03# Score Multiplier x4]": "[03# Score Multiplier x4]\n040A0000 01816974 0B08113B\n\n",
+        "[04# Money 999999]": "[04# Money 999999]\n580A0000 075FA538\n580A1000 00000010\n580A1000 000000A0\n780A0000 00000008\n640A0000 00000000 000F423F\n\n",
+        "[05# Exp 999999]": "[05# Exp 999999]\n580A0000 075FA538\n580A1000 00000010\n580A1000 000000A0\n780A0000 00000020\n640A0000 00000000 000F423F\n\n",
+        "[06# Points]": "[06# Points]\n580A0000 075FA538\n580A1000 00000010\n580A1000 00000140\n580A1000 00000968\n780A0000 00000008\n640A0000 00000000 00000064\n\n",
+        "[999 Upgrade Points Tony Hawk]": "[999 Upgrade Points Tony Hawk]\n58000000 075FA538\n58001000 00000010\n58001000 00000140\n58001000 00000848\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[999 Upgrade Points Bob Burnquist]": "[999 Upgrade Points Bob Burnquist]\n58000000 075FA538\n58001000 00000010\n58001000 00000140\n58001000 000000C8\n78000000 000008A8\n62000000 00000000 000003E7\n\n",
+        "[999 Upgrade Points Jamie Thomas]": "[999 Upgrade Points Jamie Thomas]\n58000000 075FA538\n58001000 00000010\n58001000 00000140\n58001000 00000308\n78000000 000008A8\n62000000 00000000 000003E7\n\n"
     }
 }

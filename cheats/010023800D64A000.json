@@ -1,38 +1,14 @@
 {
-    "E450A5DD753D257F": [
-        {
-            "content": "[Unlimited Health (Kris)]\n08100000 04327F10 40F86A00 00000000\n08100000 0432CF10 40F86A00 00000000\n08100000 04305E10 40F86A00 00000000\n08100000 04575E10 40F86A00 00000000\n08100000 0432AF10 40F86A00 00000000\n\n\n",
-            "title": "[Unlimited Health (Kris)]"
-        },
-        {
-            "content": "[Unlimited Health (Ralsei)]\n08100000 04327F30 40F86A00 00000000\n08100000 0432CF30 40F86A00 00000000\n08100000 04305E30 40F86A00 00000000\n08100000 04305E30 40F86A00 00000000\n08100000 04575E30 40F86A00 00000000\n08100000 0432AF30 40F86A00 00000000\n\n",
-            "title": "[Unlimited Health (Ralsei)]"
-        },
-        {
-            "content": "[Unlimited Health (Susie)]\n08100000 04327F20 40F86A00 00000000\n08100000 0432CF20 40F86A00 00000000\n08100000 04305E20 40F86A00 00000000\n08100000 04305E20 40F86A00 00000000\n08100000 04575E20 40F86A00 00000000\n08100000 0432AF20 40F86A00 00000000\n\n",
-            "title": "[Unlimited Health (Susie)]"
-        },
-        {
-            "content": "[Unlimited Money]\n08100000 AF217C90 40F86A00 00000000\n\n",
-            "title": "[Unlimited Money]"
-        },
-        {
-            "content": "[FPS Counter]\n04000000 00408550 00000002\n\n",
-            "title": "[FPS Counter]"
-        },
-        {
-            "content": "[3D Rotation/Perspective #1]\n04000000 00408560 B9600000\n04000000 00408570 3A000000\n\n",
-            "title": "[3D Rotation/Perspective #1]"
-        },
-        {
-            "content": "[3D Rotation/Perspective #2]\n04000000 00408560 3A000000\n04000000 00408570 B9000000\n\n",
-            "title": "[3D Rotation/Perspective #2]"
-        },
-        {
-            "content": "[No Rotation/Normal Perspective]\n04000000 00408560 00000000\n04000000 00408570 00000000\n",
-            "title": "[No Rotation/Normal Perspective]"
-        }
-    ],
+    "E450A5DD753D257F": {
+        "[Unlimited Health (Kris)]": "[Unlimited Health (Kris)]\n08100000 04327F10 40F86A00 00000000\n08100000 0432CF10 40F86A00 00000000\n08100000 04305E10 40F86A00 00000000\n08100000 04575E10 40F86A00 00000000\n08100000 0432AF10 40F86A00 00000000\n\n",
+        "[Unlimited Health (Ralsei)]": "[Unlimited Health (Ralsei)]\n08100000 04327F30 40F86A00 00000000\n08100000 0432CF30 40F86A00 00000000\n08100000 04305E30 40F86A00 00000000\n08100000 04305E30 40F86A00 00000000\n08100000 04575E30 40F86A00 00000000\n08100000 0432AF30 40F86A00 00000000\n\n",
+        "[Unlimited Health (Susie)]": "[Unlimited Health (Susie)]\n08100000 04327F20 40F86A00 00000000\n08100000 0432CF20 40F86A00 00000000\n08100000 04305E20 40F86A00 00000000\n08100000 04305E20 40F86A00 00000000\n08100000 04575E20 40F86A00 00000000\n08100000 0432AF20 40F86A00 00000000\n\n",
+        "[Unlimited Money]": "[Unlimited Money]\n08100000 AF217C90 40F86A00 00000000\n\n",
+        "[FPS Counter]": "[FPS Counter]\n04000000 00408550 00000002\n\n",
+        "[3D Rotation/Perspective #1]": "[3D Rotation/Perspective #1]\n04000000 00408560 B9600000\n04000000 00408570 3A000000\n\n",
+        "[3D Rotation/Perspective #2]": "[3D Rotation/Perspective #2]\n04000000 00408560 3A000000\n04000000 00408570 B9000000\n\n",
+        "[No Rotation/Normal Perspective]": "[No Rotation/Normal Perspective]\n04000000 00408560 00000000\n04000000 00408570 00000000\n\n"
+    },
     "attribution": {
         "DELTARUNE Chapter 1 by Ro_.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
     }

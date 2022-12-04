@@ -3,6 +3,9 @@
 import rarfile
 import zipfile
 import cloudscraper
+import json
+import shutil
+from pathlib import Path
 from datetime import date
 from bs4 import BeautifulSoup
 
@@ -112,14 +115,14 @@ class ArchiveWorker():
                             attribution_file.write(content)
                 else:
                     cheats = ""
-                    for cheat in value:
-                        cheats += cheat["content"]
+                    for cheat, content in value.items():
+                        cheats += content
                     if cheats:
                         with open(tid_path.joinpath(f"{key}.txt"), "w") as bid_file:
                             bid_file.write(cheats)
-        shutil.make_archive(str(titles_path.resolve()), "zip", base_dir=titles_path)
+        shutil.make_archive(str(titles_path.resolve()), "zip", root_dir=out_path, base_dir="titles")
         contents_path = titles_path.rename(titles_path.parent.joinpath("contents"))
-        shutil.make_archive(str(contents_path.resolve()), "zip", base_dir=contents_path)
+        shutil.make_archive(str(contents_path.resolve()), "zip", root_dir=out_path, base_dir="contents")
 
     def create_version_file(self, out_path):
         with open(f"{out_path}/VERSION", "w") as version_file:
@@ -133,15 +136,18 @@ if __name__ == '__main__':
     database_version = database.get_database_version()
     highfps = HighFPSCheatsInfo()
     gbatemp = GbatempCheatsInfo()
-    if gbatemp.has_new_cheats(database_version) or highfps.has_new_cheats(database_version):
+    #if gbatemp.has_new_cheats(database_version) or highfps.has_new_cheats(database_version):
+    if True:
         archive_worker = ArchiveWorker()
         for url in (highfps.get_download_url(), gbatemp.get_download_url()):
-            print(f"Download cheats from {url}")
+            print(f"Downloading cheats from {url}")
             archive_worker.download_archive(url, archive_path)
             archive_worker.extract_archive(archive_path)
+        print("Processing the cheat sheets")
         process_cheats.ProcessCheats("titles", cheats_path)
         process_cheats.ProcessCheats("NX-60FPS-RES-GFX-Cheats-main/titles", cheats_path)
 
+        print("Creating the archives")
         out_path = "out"
         archive_worker.build_archive(cheats_path, out_path)
         archive_worker.create_version_file(out_path)

@@ -1,110 +1,32 @@
 {
-    "84F3EBF079D0C34D": [
-        {
-            "content": "[Coins @TomSwitch]\n04100000 94D68268 000F4240\n\n",
-            "title": "[Coins @TomSwitch]"
-        },
-        {
-            "content": "[XP @TomSwitch]\n04100000 91EBB96C 0000F4240\n\n",
-            "title": "[XP @TomSwitch]"
-        },
-        {
-            "content": "[1) HP - reduce normally]\n040E0000 00428EDC 1E283940\n",
-            "title": "[1) HP - reduce normally]"
-        },
-        {
-            "content": "[1) HP - 1/3 reduce]\n080E0000 01F31620 35000068 39421E68\n080E0000 01F31628 1E201908 1E211000\n080E0000 01F31630 D65F03C0 1E283940\n040E0000 00428EDC 946C21D1\n",
-            "title": "[1) HP - 1/3 reduce]"
-        },
-        {
-            "content": "[1) HP - 1/10 reduce *]\n080E0000 01F31620 35000068 39421E68\n080E0000 01F31628 1E201908 1E249000\n080E0000 01F31630 D65F03C0 1E283940\n040E0000 00428EDC 946C21D1\n",
-            "title": "[1) HP - 1/10 reduce *]"
-        },
-        {
-            "content": "[1) HP - 1/30 reduce]\n080E0000 01F31620 35000068 39421E68\n080E0000 01F31628 1E201908 1E27D000\n080E0000 01F31630 D65F03C0 1E283940\n040E0000 00428EDC 946C21D1\n",
-            "title": "[1) HP - 1/30 reduce]"
-        },
-        {
-            "content": "[1) HP - not reduce]\n080E0000 01F31620 35000068 39421E68\n080E0000 01F31628 D503201F 1E2703E8\n080E0000 01F31630 D65F03C0 1E283940\n040E0000 00428EDC 946C21D1\n\n",
-            "title": "[1) HP - not reduce]"
-        },
-        {
-            "content": "[2) Coins - reduce normally *]\n040E0000 0033F1E4 94187387\n",
-            "title": "[2) Coins - reduce normally *]"
-        },
-        {
-            "content": "[2) Coins - no reduce]\n040E0000 0033F1E4 D503201F\n\n",
-            "title": "[2) Coins - no reduce]"
-        },
-        {
-            "content": "[3) Coins - increase normally]\n040E0000 00330F7C 2A0203F8\n",
-            "title": "[3) Coins - increase normally]"
-        },
-        {
-            "content": "[3) Coins - 2x increase]\n040E0000 00330F7C 0B0207F8\n",
-            "title": "[3) Coins - 2x increase]"
-        },
-        {
-            "content": "[3) Coins - 8x increase *]\n040E0000 00330F7C 0B020FF8\n",
-            "title": "[3) Coins - 8x increase *]"
-        },
-        {
-            "content": "[3) Coins - 64x increase]\n040E0000 00330F7C 0B0217F8\n\n",
-            "title": "[3) Coins - 64x increase]"
-        },
-        {
-            "content": "[4) Gems - increase normally]\n040E0000 003311C0 0B0A0108\n",
-            "title": "[4) Gems - increase normally]"
-        },
-        {
-            "content": "[4) Gems - 2x increase]\n040E0000 003311C0 0B0A0508\n",
-            "title": "[4) Gems - 2x increase]"
-        },
-        {
-            "content": "[4) Gems - 8x increase *]\n040E0000 003311C0 0B0A0D08\n",
-            "title": "[4) Gems - 8x increase *]"
-        },
-        {
-            "content": "[4) Gems - 64x increase]\n040E0000 003311C0 0B0A1508\n\n",
-            "title": "[4) Gems - 64x increase]"
-        },
-        {
-            "content": "[5) EXP - increase normally]\n040E0000 003A6944 1E212808\n",
-            "title": "[5) EXP - increase normally]"
-        },
-        {
-            "content": "[5) EXP - 3x increase]\n080E0000 01F31600 9E220108 D2800068\n080E0000 01F31608 D65F03C0 1F080028\n040E0000 003A6944 946E2B2F\n",
-            "title": "[5) EXP - 3x increase]"
-        },
-        {
-            "content": "[5) EXP - 10x increase *]\n080E0000 01F31600 9E220108 D2800148\n080E0000 01F31608 D65F03C0 1F080028\n040E0000 003A6944 946E2B2F\n",
-            "title": "[5) EXP - 10x increase *]"
-        },
-        {
-            "content": "[5) EXP - 100x increase]\n080E0000 01F31600 9E220108 D2800C88\n080E0000 01F31608 D65F03C0 1F080028\n040E0000 003A6944 946E2B2F\n",
-            "title": "[5) EXP - 100x increase]"
-        },
-        {
-            "content": "[5) EXP - 1000x increase]\n080E0000 01F31600 9E220108 D2807D08\n080E0000 01F31608 D65F03C0 1F080028\n040E0000 003A6944 946E2B2F\n\n",
-            "title": "[5) EXP - 1000x increase]"
-        },
-        {
-            "content": "[6) Boost - cost normally]\n040E0000 0043C86C 4EA01C08\n",
-            "title": "[6) Boost - cost normally]"
-        },
-        {
-            "content": "[6) Boost - 1/10 cost *]\n080E0000 01F31610 1E281808 1E249008\n040E0000 01F31618 D65F03C0\n040E0000 0043C86C 946BD369\n",
-            "title": "[6) Boost - 1/10 cost *]"
-        },
-        {
-            "content": "[6) Boost - 1/100 cost]\n080E0000 01F31610 1E281800 1E249008\n080E0000 01F31618 D65F03C0 1E281808\n040E0000 0043C86C 946BD369\n",
-            "title": "[6) Boost - 1/100 cost]"
-        },
-        {
-            "content": "[6) Boost - no cost]\n040E0000 0043C86C 1E2703E8",
-            "title": "[6) Boost - no cost]"
-        }
-    ],
+    "84F3EBF079D0C34D": {
+        "[Coins @TomSwitch]": "[Coins @TomSwitch]\n04100000 94D68268 000F4240\n\n",
+        "[XP @TomSwitch]": "[XP @TomSwitch]\n04100000 91EBB96C 0000F4240\n\n",
+        "[1) HP - reduce normally]": "[1) HP - reduce normally]\n040E0000 00428EDC 1E283940\n\n",
+        "[1) HP - 1/3 reduce]": "[1) HP - 1/3 reduce]\n080E0000 01F31620 35000068 39421E68\n080E0000 01F31628 1E201908 1E211000\n080E0000 01F31630 D65F03C0 1E283940\n040E0000 00428EDC 946C21D1\n\n",
+        "[1) HP - 1/10 reduce *]": "[1) HP - 1/10 reduce *]\n080E0000 01F31620 35000068 39421E68\n080E0000 01F31628 1E201908 1E249000\n080E0000 01F31630 D65F03C0 1E283940\n040E0000 00428EDC 946C21D1\n\n",
+        "[1) HP - 1/30 reduce]": "[1) HP - 1/30 reduce]\n080E0000 01F31620 35000068 39421E68\n080E0000 01F31628 1E201908 1E27D000\n080E0000 01F31630 D65F03C0 1E283940\n040E0000 00428EDC 946C21D1\n\n",
+        "[1) HP - not reduce]": "[1) HP - not reduce]\n080E0000 01F31620 35000068 39421E68\n080E0000 01F31628 D503201F 1E2703E8\n080E0000 01F31630 D65F03C0 1E283940\n040E0000 00428EDC 946C21D1\n\n",
+        "[2) Coins - reduce normally *]": "[2) Coins - reduce normally *]\n040E0000 0033F1E4 94187387\n\n",
+        "[2) Coins - no reduce]": "[2) Coins - no reduce]\n040E0000 0033F1E4 D503201F\n\n",
+        "[3) Coins - increase normally]": "[3) Coins - increase normally]\n040E0000 00330F7C 2A0203F8\n\n",
+        "[3) Coins - 2x increase]": "[3) Coins - 2x increase]\n040E0000 00330F7C 0B0207F8\n\n",
+        "[3) Coins - 8x increase *]": "[3) Coins - 8x increase *]\n040E0000 00330F7C 0B020FF8\n\n",
+        "[3) Coins - 64x increase]": "[3) Coins - 64x increase]\n040E0000 00330F7C 0B0217F8\n\n",
+        "[4) Gems - increase normally]": "[4) Gems - increase normally]\n040E0000 003311C0 0B0A0108\n\n",
+        "[4) Gems - 2x increase]": "[4) Gems - 2x increase]\n040E0000 003311C0 0B0A0508\n\n",
+        "[4) Gems - 8x increase *]": "[4) Gems - 8x increase *]\n040E0000 003311C0 0B0A0D08\n\n",
+        "[4) Gems - 64x increase]": "[4) Gems - 64x increase]\n040E0000 003311C0 0B0A1508\n\n",
+        "[5) EXP - increase normally]": "[5) EXP - increase normally]\n040E0000 003A6944 1E212808\n\n",
+        "[5) EXP - 3x increase]": "[5) EXP - 3x increase]\n080E0000 01F31600 9E220108 D2800068\n080E0000 01F31608 D65F03C0 1F080028\n040E0000 003A6944 946E2B2F\n\n",
+        "[5) EXP - 10x increase *]": "[5) EXP - 10x increase *]\n080E0000 01F31600 9E220108 D2800148\n080E0000 01F31608 D65F03C0 1F080028\n040E0000 003A6944 946E2B2F\n\n",
+        "[5) EXP - 100x increase]": "[5) EXP - 100x increase]\n080E0000 01F31600 9E220108 D2800C88\n080E0000 01F31608 D65F03C0 1F080028\n040E0000 003A6944 946E2B2F\n\n",
+        "[5) EXP - 1000x increase]": "[5) EXP - 1000x increase]\n080E0000 01F31600 9E220108 D2807D08\n080E0000 01F31608 D65F03C0 1F080028\n040E0000 003A6944 946E2B2F\n\n",
+        "[6) Boost - cost normally]": "[6) Boost - cost normally]\n040E0000 0043C86C 4EA01C08\n\n",
+        "[6) Boost - 1/10 cost *]": "[6) Boost - 1/10 cost *]\n080E0000 01F31610 1E281808 1E249008\n040E0000 01F31618 D65F03C0\n040E0000 0043C86C 946BD369\n\n",
+        "[6) Boost - 1/100 cost]": "[6) Boost - 1/100 cost]\n080E0000 01F31610 1E281800 1E249008\n080E0000 01F31618 D65F03C0 1E281808\n040E0000 0043C86C 946BD369\n\n",
+        "[6) Boost - no cost]": "[6) Boost - no cost]\n040E0000 0043C86C 1E2703E8\n\n"
+    },
     "attribution": {
         "Hungry Shark World by TomSwitch and Eiffel2018.txt": "Ammo 255 don't always work. The other two seems to be consistent"
     }

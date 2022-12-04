@@ -1,14 +1,8 @@
 {
-    "3865DE04C2F35FEB": [
-        {
-            "content": "[HITANYWHERE ALL ]\n04000000 000515D0 D65F03C0\n\n",
-            "title": "[HITANYWHERE ALL ]"
-        },
-        {
-            "content": "[HIT RANGE 30X]\n04000000 0004F550 1E27D003",
-            "title": "[HIT RANGE 30X]"
-        }
-    ],
+    "3865DE04C2F35FEB": {
+        "[HITANYWHERE ALL ]": "[HITANYWHERE ALL ]\n04000000 000515D0 D65F03C0\n\n",
+        "[HIT RANGE 30X]": "[HIT RANGE 30X]\n04000000 0004F550 1E27D003\n\n"
+    },
     "attribution": {
         "ONE PIECE PIRATE WARRIORS 3 Deluxe Edition ver 1.0 by xtatu.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
     }

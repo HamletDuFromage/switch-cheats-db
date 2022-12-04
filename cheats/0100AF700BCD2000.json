@@ -1,46 +1,16 @@
 {
-    "EAF9C6474584AE4A": [
-        {
-            "content": "[Money]\n580F0000 0265DD08\n580F1000 000000B8\n780F0000 00001038\n640F0000 00000000 05F5E0FF\n\n",
-            "title": "[Money]"
-        },
-        {
-            "content": "[Floppys 999]\n580F0000 0265DD08\n580F1000 000000B8\n780F0000 0000072C\n640F0000 00000000 000003E7\n\n",
-            "title": "[Floppys 999]"
-        },
-        {
-            "content": "[Direction Points 99]\n580F0000 0265DD08\n580F1000 000000B8\n780F0000 00000338\n640F0000 00000000 00000063\n\n",
-            "title": "[Direction Points 99]"
-        },
-        {
-            "content": "[Fun 999]\n580F0000 02668158\n580F1000 000001D0\n780F0000 00001610\n640F0000 00000000 000003E7\n\n",
-            "title": "[Fun 999]"
-        },
-        {
-            "content": "[Creativity 999]\n580F0000 02668158\n580F1000 000001D0\n780F0000 00001614\n640F0000 00000000 000003E7\n\n",
-            "title": "[Creativity 999]"
-        },
-        {
-            "content": "[Graphics 999]\n580F0000 02668158\n580F1000 000001D0\n780F0000 00001618\n640F0000 00000000 000003E7\n\n",
-            "title": "[Graphics 999]"
-        },
-        {
-            "content": "[Sound 999]\n580F0000 02668158\n580F1000 000001D0\n780F0000 0000161C\n640F0000 00000000 000003E7\n\n",
-            "title": "[Sound 999]"
-        },
-        {
-            "content": "[Bugs 0]\n580F0000 02668158\n580F1000 000001D0\n780F0000 00001620\n640F0000 00000000 00000000\n\n",
-            "title": "[Bugs 0]"
-        },
-        {
-            "content": "[Hype 99]\n580F0000 02668158\n580F1000 000001D0\n780F0000 00001624\n640F0000 00000000 00000063\n\n",
-            "title": "[Hype 99]"
-        },
-        {
-            "content": "[Fame 99]\n580F0000 02668158\n580F1000 000001D0\n780F0000 00001628\n640F0000 00000000 00000063",
-            "title": "[Fame 99]"
-        }
-    ],
+    "EAF9C6474584AE4A": {
+        "[Money]": "[Money]\n580F0000 0265DD08\n580F1000 000000B8\n780F0000 00001038\n640F0000 00000000 05F5E0FF\n\n",
+        "[Floppys 999]": "[Floppys 999]\n580F0000 0265DD08\n580F1000 000000B8\n780F0000 0000072C\n640F0000 00000000 000003E7\n\n",
+        "[Direction Points 99]": "[Direction Points 99]\n580F0000 0265DD08\n580F1000 000000B8\n780F0000 00000338\n640F0000 00000000 00000063\n\n",
+        "[Fun 999]": "[Fun 999]\n580F0000 02668158\n580F1000 000001D0\n780F0000 00001610\n640F0000 00000000 000003E7\n\n",
+        "[Creativity 999]": "[Creativity 999]\n580F0000 02668158\n580F1000 000001D0\n780F0000 00001614\n640F0000 00000000 000003E7\n\n",
+        "[Graphics 999]": "[Graphics 999]\n580F0000 02668158\n580F1000 000001D0\n780F0000 00001618\n640F0000 00000000 000003E7\n\n",
+        "[Sound 999]": "[Sound 999]\n580F0000 02668158\n580F1000 000001D0\n780F0000 0000161C\n640F0000 00000000 000003E7\n\n",
+        "[Bugs 0]": "[Bugs 0]\n580F0000 02668158\n580F1000 000001D0\n780F0000 00001620\n640F0000 00000000 00000000\n\n",
+        "[Hype 99]": "[Hype 99]\n580F0000 02668158\n580F1000 000001D0\n780F0000 00001624\n640F0000 00000000 00000063\n\n",
+        "[Fame 99]": "[Fame 99]\n580F0000 02668158\n580F1000 000001D0\n780F0000 00001628\n640F0000 00000000 00000063\n\n"
+    },
     "attribution": {
         "Game Dev Story ver 2.44 by jhmiller.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }

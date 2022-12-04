@@ -1,28 +1,13 @@
 {
-    "146EAADFE847C841": [
-        {
-            "content": "[Story Mode Infinite Lives]\n580f0000 01f033d8\n580f1000 00000098\n580f1000 00000010\n780f0000 00000060\n610f0000 00000000 00000009\n\n",
-            "title": "[Story Mode Infinite Lives]"
-        },
-        {
-            "content": "[Money 9999999]\n580f0000 01ffcfe8\n580f1000 000015d0\n780f0000 00000050\n640f0000 00000000 00098967f",
-            "title": "[Money 9999999]"
-        }
-    ],
-    "A0A745DA9AE25946": [
-        {
-            "content": "[01# Story Mode Infinite Lives]\n580F0000 02B6DDF0\n780F0000 00000F40\n610F0000 00000000 00000009\n\n",
-            "title": "[01# Story Mode Infinite Lives]"
-        },
-        {
-            "content": "[02# Money 9999999]\n580F0000 02B6DD78\n780F1000 00001190\n640F0000 00000000 0098967f\n\n",
-            "title": "[02# Money 9999999]"
-        },
-        {
-            "content": "[03# Invincible  Press ZR off]\n04000000 0071F33C D65F03C0\n80000200 \n04000000 0071F33C A9BB67FA\n20000000",
-            "title": "[03# Invincible  Press ZR off]"
-        }
-    ],
+    "A0A745DA9AE25946": {
+        "[01# Story Mode Infinite Lives]": "[01# Story Mode Infinite Lives]\n580F0000 02B6DDF0\n780F0000 00000F40\n610F0000 00000000 00000009\n\n",
+        "[02# Money 9999999]": "[02# Money 9999999]\n580F0000 02B6DD78\n780F1000 00001190\n640F0000 00000000 0098967f\n\n",
+        "[03# Invincible  Press ZR off]": "[03# Invincible  Press ZR off]\n04000000 0071F33C D65F03C0\n80000200 \n04000000 0071F33C A9BB67FA\n20000000\n\n"
+    },
+    "146EAADFE847C841": {
+        "[Story Mode Infinite Lives]": "[Story Mode Infinite Lives]\n580f0000 01f033d8\n580f1000 00000098\n580f1000 00000010\n780f0000 00000060\n610f0000 00000000 00000009\n\n",
+        "[Money 9999999]": "[Money 9999999]\n580f0000 01ffcfe8\n580f1000 000015d0\n780f0000 00000050\n640f0000 00000000 00098967f\n\n"
+    },
     "attribution": {
         "Super bomberman r ver2.2 by patjenova.txt": "Press zr to accept upgrades in the field"
     }

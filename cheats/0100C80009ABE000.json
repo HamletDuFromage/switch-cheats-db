@@ -1,10 +1,7 @@
 {
-    "3749BFEA64DC98DF": [
-        {
-            "content": "[Coins MAX]\n580F0000 00B95D98\n780F1000 00001BDC\n640F0000 00000000 40F869F0\n",
-            "title": "[Coins MAX]"
-        }
-    ],
+    "3749BFEA64DC98DF": {
+        "[Coins MAX]": "[Coins MAX]\n580F0000 00B95D98\n780F1000 00001BDC\n640F0000 00000000 40F869F0\n\n"
+    },
     "attribution": {
         "Jackquest the tale of sword by merlin555.txt": ""
     }

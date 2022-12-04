@@ -1,38 +1,14 @@
 {
-    "5B2E5BD36B0A27BA": [
-        {
-            "content": "[Breeze beta39 Arcade Archives RYGAR 1.0.0 TID: 0100C2D00981E000 BID: 5B2E5BD36B0A27BA]\n\n",
-            "title": "[Breeze beta39 Arcade Archives RYGAR 1.0.0 TID: 0100C2D00981E000 BID: 5B2E5BD36B0A27BA]"
-        },
-        {
-            "content": "[Inf.Credits]\n01100000 017F903A 00000063 \n\n",
-            "title": "[Inf.Credits]"
-        },
-        {
-            "content": "[Invincibility]\n01100000 017F15AA 000000C9 \n\n",
-            "title": "[Invincibility]"
-        },
-        {
-            "content": "[Rapid Fire]\n01100000 017F9038 00000000 \n\n",
-            "title": "[Rapid Fire]"
-        },
-        {
-            "content": "[Infinite Lives]\n01100000 017F90A0 00000009 \n\n",
-            "title": "[Infinite Lives]"
-        },
-        {
-            "content": "[Always Barrier All Powers PL1]\n01100000 017F90EE 0000001F \n\n",
-            "title": "[Always Barrier All Powers PL1]"
-        },
-        {
-            "content": "[Inf.Time]\n01100000 017F90AA 00000064 \n\n",
-            "title": "[Inf.Time]"
-        },
-        {
-            "content": "[Next Star always 70000pts PL1]\n01100000 017F90BC 00000007 \n\n",
-            "title": "[Next Star always 70000pts PL1]"
-        }
-    ],
+    "5B2E5BD36B0A27BA": {
+        "[Breeze beta39 Arcade Archives RYGAR 1.0.0 TID: 0100C2D00981E000 BID: 5B2E5BD36B0A27BA]": "[Breeze beta39 Arcade Archives RYGAR 1.0.0 TID: 0100C2D00981E000 BID: 5B2E5BD36B0A27BA]\n\n",
+        "[Inf.Credits]": "[Inf.Credits]\n01100000 017F903A 00000063\n\n",
+        "[Invincibility]": "[Invincibility]\n01100000 017F15AA 000000C9\n\n",
+        "[Rapid Fire]": "[Rapid Fire]\n01100000 017F9038 00000000\n\n",
+        "[Infinite Lives]": "[Infinite Lives]\n01100000 017F90A0 00000009\n\n",
+        "[Always Barrier All Powers PL1]": "[Always Barrier All Powers PL1]\n01100000 017F90EE 0000001F\n\n",
+        "[Inf.Time]": "[Inf.Time]\n01100000 017F90AA 00000064\n\n",
+        "[Next Star always 70000pts PL1]": "[Next Star always 70000pts PL1]\n01100000 017F90BC 00000007\n\n"
+    },
     "attribution": {
         "Arcade Archives RYGAR 1.0.0 by Neograzon.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code.",
         "Arcade Archives RYGAR by ZiT866.txt": "This Code Becomes Effective While The Motorcycle is Jumping."

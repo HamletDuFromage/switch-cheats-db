@@ -1,10 +1,7 @@
 {
-    "EB415B6B0545B744": [
-        {
-            "content": "[Inf Hearts]\n04000000 000EC3B8 D503201F",
-            "title": "[Inf Hearts]"
-        }
-    ],
+    "EB415B6B0545B744": {
+        "[Inf Hearts]": "[Inf Hearts]\n04000000 000EC3B8 D503201F\n\n"
+    },
     "attribution": {
         "Legend of the Skyfish v1.0.0.txt": ""
     }

@@ -1,98 +1,32 @@
 {
-    "2F3FCA7B168909B9": [
-        {
-            "content": "[Infinite SP]\n01000000 0073ecea 00000008\n\n",
-            "title": "[Infinite SP]"
-        },
-        {
-            "content": "[Infinite HP]\n540f0000 0073ed84\n540f1000 00000328\n740f0000 0000000c\n610f0000 00000000 00000010\n\n",
-            "title": "[Infinite HP]"
-        },
-        {
-            "content": "[Human Infinite Ammo]\n01000000 0073ecf3 0000000a\n04000000 0073ecf4 0105050a\n\n",
-            "title": "[Human Infinite Ammo]"
-        },
-        {
-            "content": "[Human Infinite Weapon Guard]\n04000000 0073ed7c 00000000\n\n",
-            "title": "[Human Infinite Weapon Guard]"
-        },
-        {
-            "content": "[All HP Upgrades]\n01000000 0032cfee 000000ff\n\n",
-            "title": "[All HP Upgrades]"
-        },
-        {
-            "content": "[Car All Weapons]\n01000000 0032cfeb 0000001f\n02000000 0032cfec 00001fff\n\n",
-            "title": "[Car All Weapons]"
-        },
-        {
-            "content": "[Human Have All Weapons]\n01000000 0032cfea 0000003f\n01000000 0073ecf0 00000008\n\n",
-            "title": "[Human Have All Weapons]"
-        },
-        {
-            "content": "[Have All Keys]\n01000000 0032cff0 0000001f\n\n",
-            "title": "[Have All Keys]"
-        },
-        {
-            "content": "[Have All Maps]\n02000000 0032cff1 000001ff\n\n",
-            "title": "[Have All Maps]"
-        },
-        {
-            "content": "[Unlock EXTRA]\n01000000 0032cfc1 00000001",
-            "title": "[Unlock EXTRA]"
-        }
-    ],
-    "A3BCE5521B979943": [
-        {
-            "content": "[Jason Infinite SP]\n01000000 0050e3e6 00000008\n\n",
-            "title": "[Jason Infinite SP]"
-        },
-        {
-            "content": "[Infinite HP]\n540f0000 0050e484\n540f1000 00000328\n740f0000 0000000c\n610f0000 00000000 00000010\n\n",
-            "title": "[Infinite HP]"
-        },
-        {
-            "content": "[Human Infinite Ammo]\n01000000 0050e3ef 0000000a\n04000000 0050e3f0 0105050a\n\n",
-            "title": "[Human Infinite Ammo]"
-        },
-        {
-            "content": "[Human Infinite Weapon Guard]\n04000000 0050e47c 00000000\n\n",
-            "title": "[Human Infinite Weapon Guard]"
-        },
-        {
-            "content": "[All HP Upgrades]\n01000000 003dfc3e 000000ff\n\n",
-            "title": "[All HP Upgrades]"
-        },
-        {
-            "content": "[Car All Weapons]\n01000000 003dfc3b 0000001f\n02000000 003dfc3e 00001fff\n\n",
-            "title": "[Car All Weapons]"
-        },
-        {
-            "content": "[Human Have All Weapons]\n01000000 003dfc3a 0000003f\n01000000 0050e3ec 00000008\n\n",
-            "title": "[Human Have All Weapons]"
-        },
-        {
-            "content": "[Have All Keys]\n01000000 003dfc40 0000001f\n\n",
-            "title": "[Have All Keys]"
-        },
-        {
-            "content": "[Have All Maps]\n02000000 003dfc41 000001ff\n\n",
-            "title": "[Have All Maps]"
-        },
-        {
-            "content": "[Unlock EXTRA]\n01000000 003dfc11 00000001",
-            "title": "[Unlock EXTRA]"
-        }
-    ],
-    "CB248EFC0E80B579": [
-        {
-            "content": "[Ship Energy unlimited]\n01100000 20049014 00000008\n\n",
-            "title": "[Ship Energy unlimited]"
-        },
-        {
-            "content": "[Human Energy unlimited]\n01100000 20049674 00000008\n\n",
-            "title": "[Human Energy unlimited]"
-        }
-    ],
+    "2F3FCA7B168909B9": {
+        "[Infinite SP]": "[Infinite SP]\n01000000 0073ecea 00000008\n\n",
+        "[Infinite HP]": "[Infinite HP]\n540f0000 0073ed84\n540f1000 00000328\n740f0000 0000000c\n610f0000 00000000 00000010\n\n",
+        "[Human Infinite Ammo]": "[Human Infinite Ammo]\n01000000 0073ecf3 0000000a\n04000000 0073ecf4 0105050a\n\n",
+        "[Human Infinite Weapon Guard]": "[Human Infinite Weapon Guard]\n04000000 0073ed7c 00000000\n\n",
+        "[All HP Upgrades]": "[All HP Upgrades]\n01000000 0032cfee 000000ff\n\n",
+        "[Car All Weapons]": "[Car All Weapons]\n01000000 0032cfeb 0000001f\n02000000 0032cfec 00001fff\n\n",
+        "[Human Have All Weapons]": "[Human Have All Weapons]\n01000000 0032cfea 0000003f\n01000000 0073ecf0 00000008\n\n",
+        "[Have All Keys]": "[Have All Keys]\n01000000 0032cff0 0000001f\n\n",
+        "[Have All Maps]": "[Have All Maps]\n02000000 0032cff1 000001ff\n\n",
+        "[Unlock EXTRA]": "[Unlock EXTRA]\n01000000 0032cfc1 00000001\n\n"
+    },
+    "A3BCE5521B979943": {
+        "[Jason Infinite SP]": "[Jason Infinite SP]\n01000000 0050e3e6 00000008\n\n",
+        "[Infinite HP]": "[Infinite HP]\n540f0000 0050e484\n540f1000 00000328\n740f0000 0000000c\n610f0000 00000000 00000010\n\n",
+        "[Human Infinite Ammo]": "[Human Infinite Ammo]\n01000000 0050e3ef 0000000a\n04000000 0050e3f0 0105050a\n\n",
+        "[Human Infinite Weapon Guard]": "[Human Infinite Weapon Guard]\n04000000 0050e47c 00000000\n\n",
+        "[All HP Upgrades]": "[All HP Upgrades]\n01000000 003dfc3e 000000ff\n\n",
+        "[Car All Weapons]": "[Car All Weapons]\n01000000 003dfc3b 0000001f\n02000000 003dfc3e 00001fff\n\n",
+        "[Human Have All Weapons]": "[Human Have All Weapons]\n01000000 003dfc3a 0000003f\n01000000 0050e3ec 00000008\n\n",
+        "[Have All Keys]": "[Have All Keys]\n01000000 003dfc40 0000001f\n\n",
+        "[Have All Maps]": "[Have All Maps]\n02000000 003dfc41 000001ff\n\n",
+        "[Unlock EXTRA]": "[Unlock EXTRA]\n01000000 003dfc11 00000001\n\n"
+    },
+    "CB248EFC0E80B579": {
+        "[Ship Energy unlimited]": "[Ship Energy unlimited]\n01100000 20049014 00000008\n\n",
+        "[Human Energy unlimited]": "[Human Energy unlimited]\n01100000 20049674 00000008\n\n"
+    },
     "attribution": {
         "Blaster Master Zero ver 1.5.2 by merlin555.txt": " Inf Health should be used in conjunction with Inf Armor."
     }

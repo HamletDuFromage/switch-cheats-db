@@ -1,26 +1,11 @@
 {
-    "4C32B4F0CDC19592": [
-        {
-            "content": "[Inf Lives]\n011F0000 00A2D592 0000000A\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Invincible]\n041F0000 00A2D4A8 00010000\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf Missile]\n021F0000 00A2D536 0000001D\n\n",
-            "title": "[Inf Missile]"
-        },
-        {
-            "content": "[Inf kg]\n021F0000 00A2D5A6 0000270F\n\n",
-            "title": "[Inf kg]"
-        },
-        {
-            "content": "[Quick Charge]\n021F0000 00A36E16 00000060\n",
-            "title": "[Quick Charge]"
-        }
-    ],
+    "4C32B4F0CDC19592": {
+        "[Inf Lives]": "[Inf Lives]\n011F0000 00A2D592 0000000A\n\n",
+        "[Invincible]": "[Invincible]\n041F0000 00A2D4A8 00010000\n\n",
+        "[Inf Missile]": "[Inf Missile]\n021F0000 00A2D536 0000001D\n\n",
+        "[Inf kg]": "[Inf kg]\n021F0000 00A2D5A6 0000270F\n\n",
+        "[Quick Charge]": "[Quick Charge]\n021F0000 00A36E16 00000060\n\n"
+    },
     "attribution": {
         "Arcade Archives KOUTETSU YOUSAI STRAHL ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
     }

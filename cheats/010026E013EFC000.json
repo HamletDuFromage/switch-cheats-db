@@ -1,66 +1,21 @@
 {
-    "A9AF6300AADEF1D1": [
-        {
-            "content": "[Invincible]\n040E0000 01AA9E14 1E2E1000\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[5x Enemy Killed]\n040E0000 017DDCBC 11001400\n040E0000 0199D610 11001401\n\n",
-            "title": "[5x Enemy Killed]"
-        },
-        {
-            "content": "[3x Attack Speed]\n040E0000 01B675C0 1CFFFE6C\n\n",
-            "title": "[3x Attack Speed]"
-        },
-        {
-            "content": "[3x damage]\n040E0000 01B675C4 1CFFFE48\n\n",
-            "title": "[3x damage]"
-        },
-        {
-            "content": "[3x Weapon Health]\n040E0000 01B675C8 1CFFFE29\n\n",
-            "title": "[3x Weapon Health]"
-        },
-        {
-            "content": "[3x stamina Cooldown Rate]\n040E0000 01B675CC 1CFFFE0D\n\n",
-            "title": "[3x stamina Cooldown Rate]"
-        },
-        {
-            "content": "[Remove Kick Cooldown]\n040E0000 019E39F0 1E2703E0\n040E0000 019E2F18 1E2703E0\n\n",
-            "title": "[Remove Kick Cooldown]"
-        },
-        {
-            "content": "[Unlimited Power]\n040E0000 018C7B14 52800020\n\n",
-            "title": "[Unlimited Power]"
-        },
-        {
-            "content": "[Unlimited Ammo]\n040E0000 018C7CF4 52800020\n\n",
-            "title": "[Unlimited Ammo]"
-        },
-        {
-            "content": "[Weapons Unbreakable]\n040E0000 018C7C04 52800020\n\n",
-            "title": "[Weapons Unbreakable]"
-        },
-        {
-            "content": "[Always KO Kick]\n040E0000 018C7E44 52800020\n\n",
-            "title": "[Always KO Kick]"
-        },
-        {
-            "content": "[4x Gold and Shard Obtain in Beneath]\n040E0000 01A3E430 0B130929\n040E0000 01A3E5D8 0B130929\n040E0000 01A3E960 0B130800\n\n",
-            "title": "[4x Gold and Shard Obtain in Beneath]"
-        },
-        {
-            "content": "[1/4 Gold Spending in Beneath]\n040E0000 01A40A88 4B530929\n040E0000 01A3F1C8 4B560929\n040E0000 01A3F4CC 4B530929\n040E0000 01A3F9E8 4B530929\n040E0000 01A3FE58 4B530929\n040E0000 01A402A0 4B530929\n040E0000 01A40720 4B530929\n\n",
-            "title": "[1/4 Gold Spending in Beneath]"
-        },
-        {
-            "content": "[Zero Shard Spending in Beneath]\n040E0000 01A37770 4B1F0000\n040E0000 01A37154 4B1F0001\n040E0000 01A37104 4B1F0129\n\n",
-            "title": "[Zero Shard Spending in Beneath]"
-        },
-        {
-            "content": "{Created by Eiffel2018}\n040E0000 01B6758C 40400000",
-            "title": "{Created by Eiffel2018}"
-        }
-    ],
+    "A9AF6300AADEF1D1": {
+        "[Invincible]": "[Invincible]\n040E0000 01AA9E14 1E2E1000\n\n",
+        "[5x Enemy Killed]": "[5x Enemy Killed]\n040E0000 017DDCBC 11001400\n040E0000 0199D610 11001401\n\n",
+        "[3x Attack Speed]": "[3x Attack Speed]\n040E0000 01B675C0 1CFFFE6C\n\n",
+        "[3x damage]": "[3x damage]\n040E0000 01B675C4 1CFFFE48\n\n",
+        "[3x Weapon Health]": "[3x Weapon Health]\n040E0000 01B675C8 1CFFFE29\n\n",
+        "[3x stamina Cooldown Rate]": "[3x stamina Cooldown Rate]\n040E0000 01B675CC 1CFFFE0D\n\n",
+        "[Remove Kick Cooldown]": "[Remove Kick Cooldown]\n040E0000 019E39F0 1E2703E0\n040E0000 019E2F18 1E2703E0\n\n",
+        "[Unlimited Power]": "[Unlimited Power]\n040E0000 018C7B14 52800020\n\n",
+        "[Unlimited Ammo]": "[Unlimited Ammo]\n040E0000 018C7CF4 52800020\n\n",
+        "[Weapons Unbreakable]": "[Weapons Unbreakable]\n040E0000 018C7C04 52800020\n\n",
+        "[Always KO Kick]": "[Always KO Kick]\n040E0000 018C7E44 52800020\n\n",
+        "[4x Gold and Shard Obtain in Beneath]": "[4x Gold and Shard Obtain in Beneath]\n040E0000 01A3E430 0B130929\n040E0000 01A3E5D8 0B130929\n040E0000 01A3E960 0B130800\n\n",
+        "[1/4 Gold Spending in Beneath]": "[1/4 Gold Spending in Beneath]\n040E0000 01A40A88 4B530929\n040E0000 01A3F1C8 4B560929\n040E0000 01A3F4CC 4B530929\n040E0000 01A3F9E8 4B530929\n040E0000 01A3FE58 4B530929\n040E0000 01A402A0 4B530929\n040E0000 01A40720 4B530929\n\n",
+        "[Zero Shard Spending in Beneath]": "[Zero Shard Spending in Beneath]\n040E0000 01A37770 4B1F0000\n040E0000 01A37154 4B1F0001\n040E0000 01A37104 4B1F0129\n\n",
+        "{Created by Eiffel2018}": "{Created by Eiffel2018}\n040E0000 01B6758C 40400000\n\n"
+    },
     "attribution": {
         "Paint the Town Red v1.0.2 by Eiffel2018.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
     }

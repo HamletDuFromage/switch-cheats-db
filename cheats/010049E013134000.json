@@ -1,70 +1,22 @@
 {
-    "5B6EAEADB201D745": [
-        {
-            "content": "[-1 Damage recieved]\n080E0000 021BEE00 36000054 394AA014\n080E0000 021BEE08 AA0103F4 B900183F\n080E0000 021BEE10 D503201F D65F03C0\n040E0000 01F444A8 9409EA56\n\n",
-            "title": "[-1 Damage recieved]"
-        },
-        {
-            "content": "[Attack Up 500%]\n080E0000 021BEE18 37000093 394AA013\n080E0000 021BEE20 0B130A73 B9401A93\n080E0000 021BEE28 AA0003F3 B9001A93\n080E0000 021BEE30 D503201F D65F03C0\n040E0000 01F444AC 9409EA5B\n\n",
-            "title": "[Attack Up 500%]"
-        },
-        {
-            "content": "[Angel Invincible]\n040E0000 01E1E9BC 2A1F03F4\n\n",
-            "title": "[Angel Invincible]"
-        },
-        {
-            "content": "[Angel Zero SP Expend]\n040E0000 01E1EF74 2A1F03F3\n\n",
-            "title": "[Angel Zero SP Expend]"
-        },
-        {
-            "content": "[Legendary Chronicle does not decrease]\n040E0000 01ECB9E0 2A1F03E1\n\n",
-            "title": "[Legendary Chronicle does not decrease]"
-        },
-        {
-            "content": "[No materials needed for Fort]\n040E0000 0144ACD0 52800035\n\n",
-            "title": "[No materials needed for Fort]"
-        },
-        {
-            "content": "[Reduce Cool Time for Miracle]\n080E0000 021BEE40 D503201F 52A82014\n080E0000 021BEE48 D65F03C0 B9002114\n040E0000 01EAA428 940C5286\n\n",
-            "title": "[Reduce Cool Time for Miracle]"
-        },
-        {
-            "content": "[Created by Eiffel2018]\n20000000\n\n",
-            "title": "[Created by Eiffel2018]"
-        },
-        {
-            "content": "[moom jump B pad]\n04000000 01FD8050 1E2E1008\n80000002\n04000000 01FD8050 1E2E1009\n20000000\n\n",
-            "title": "[moom jump B pad]"
-        },
-        {
-            "content": "[speed run normal]\n04000000 01F44338 1E2E1000\n\n",
-            "title": "[speed run normal]"
-        },
-        {
-            "content": "[speed run 1.25x]\n04000000 01F44338 1E2E9000\n\n",
-            "title": "[speed run 1.25x]"
-        },
-        {
-            "content": "[speed run 1.5x]\n04000000 01F44338 1E2F1000\n\n",
-            "title": "[speed run 1.5x]"
-        },
-        {
-            "content": "[speed run 1.75]\n04000000 01F44338 1E2F9000\n\n",
-            "title": "[speed run 1.75]"
-        },
-        {
-            "content": "[don't turn on hits]\n04000000 01F116F0 D65F03C0\n\n",
-            "title": "[don't turn on hits]"
-        },
-        {
-            "content": "[1p to enemies invincible on]\n04000000 01FD9EF0 D65F03C0\n\n",
-            "title": "[1p to enemies invincible on]"
-        },
-        {
-            "content": "[1p to enemies invincible off]\n04000000 01FD9EF0 D10383FF",
-            "title": "[1p to enemies invincible off]"
-        }
-    ],
+    "5B6EAEADB201D745": {
+        "[-1 Damage recieved]": "[-1 Damage recieved]\n080E0000 021BEE00 36000054 394AA014\n080E0000 021BEE08 AA0103F4 B900183F\n080E0000 021BEE10 D503201F D65F03C0\n040E0000 01F444A8 9409EA56\n\n",
+        "[Attack Up 500%]": "[Attack Up 500%]\n080E0000 021BEE18 37000093 394AA013\n080E0000 021BEE20 0B130A73 B9401A93\n080E0000 021BEE28 AA0003F3 B9001A93\n080E0000 021BEE30 D503201F D65F03C0\n040E0000 01F444AC 9409EA5B\n\n",
+        "[Angel Invincible]": "[Angel Invincible]\n040E0000 01E1E9BC 2A1F03F4\n\n",
+        "[Angel Zero SP Expend]": "[Angel Zero SP Expend]\n040E0000 01E1EF74 2A1F03F3\n\n",
+        "[Legendary Chronicle does not decrease]": "[Legendary Chronicle does not decrease]\n040E0000 01ECB9E0 2A1F03E1\n\n",
+        "[No materials needed for Fort]": "[No materials needed for Fort]\n040E0000 0144ACD0 52800035\n\n",
+        "[Reduce Cool Time for Miracle]": "[Reduce Cool Time for Miracle]\n080E0000 021BEE40 D503201F 52A82014\n080E0000 021BEE48 D65F03C0 B9002114\n040E0000 01EAA428 940C5286\n\n",
+        "[Created by Eiffel2018]": "[Created by Eiffel2018]\n20000000\n\n",
+        "[moom jump B pad]": "[moom jump B pad]\n04000000 01FD8050 1E2E1008\n80000002\n04000000 01FD8050 1E2E1009\n20000000\n\n",
+        "[speed run normal]": "[speed run normal]\n04000000 01F44338 1E2E1000\n\n",
+        "[speed run 1.25x]": "[speed run 1.25x]\n04000000 01F44338 1E2E9000\n\n",
+        "[speed run 1.5x]": "[speed run 1.5x]\n04000000 01F44338 1E2F1000\n\n",
+        "[speed run 1.75]": "[speed run 1.75]\n04000000 01F44338 1E2F9000\n\n",
+        "[don't turn on hits]": "[don't turn on hits]\n04000000 01F116F0 D65F03C0\n\n",
+        "[1p to enemies invincible on]": "[1p to enemies invincible on]\n04000000 01FD9EF0 D65F03C0\n\n",
+        "[1p to enemies invincible off]": "[1p to enemies invincible off]\n04000000 01FD9EF0 D10383FF\n\n"
+    },
     "attribution": {
         "Actreisser ver 1.0.0 by Eiffel2018 and xtatu.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"
     }

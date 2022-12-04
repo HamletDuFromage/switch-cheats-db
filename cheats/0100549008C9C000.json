@@ -1,68 +1,19 @@
 {
-    "876049D0D3D7CA4A": [
-        {
-            "content": "[Energy unlimited]\n04000000 0032D3D0 D65F03C0\n\n",
-            "title": "[Energy unlimited]"
-        },
-        {
-            "content": "[Infinite Health ON]\n04000000 00357434 BD003A60\n\n",
-            "title": "[Infinite Health ON]"
-        },
-        {
-            "content": "[Infinite Health OFF]\n04000000 00357434 BD003660\n\n",
-            "title": "[Infinite Health OFF]"
-        },
-        {
-            "content": "[Infinite Mana ON]\n04000000 002BE2C8 BD003A60\n\n",
-            "title": "[Infinite Mana ON]"
-        },
-        {
-            "content": "[Infinite Mana OFF]\n04000000 002BE2C8 BD003660\n\n",
-            "title": "[Infinite Mana OFF]"
-        },
-        {
-            "content": "[Infinite Health ON]\n04000000 003D1830 D65F03C0\n\n",
-            "title": "[Infinite Health ON]"
-        },
-        {
-            "content": "[Infinite Health OFF]\n04000000 003D1830 FC1D0FE8\n\n",
-            "title": "[Infinite Health OFF]"
-        },
-        {
-            "content": "[Infinite Mana ON]\n04000000 00254630 BD003A60\n\n",
-            "title": "[Infinite Mana ON]"
-        },
-        {
-            "content": "[Infinite Mana OFF]\n04000000 00254630 BD003660\n",
-            "title": "[Infinite Mana OFF]"
-        }
-    ],
-    "DE32B7731B63FE48": [
-        {
-            "content": "[Energy unlimited]\n580F0000 044C8350\n580F1000 000000B8\n580F1000 00000020\n780F0000 00000034\n640F0000 00000000 42C80000\n\n",
-            "title": "[Energy unlimited]"
-        },
-        {
-            "content": "[Mana unlimited]\n580F0000 044C8350\n580F1000 000000B8\n580F1000 00000028\n780F0000 00000034\n640F0000 00000000 42C80000\n\n",
-            "title": "[Mana unlimited]"
-        },
-        {
-            "content": "[Infinite Health ON]\n04000000 003D1830 D65F03C0\n\n",
-            "title": "[Infinite Health ON]"
-        },
-        {
-            "content": "[Infinite Health OFF]\n04000000 003D1830 FC1D0FE8\n\n",
-            "title": "[Infinite Health OFF]"
-        },
-        {
-            "content": "[Infinite Mana ON]\n04000000 00254630 BD003A60\n\n",
-            "title": "[Infinite Mana ON]"
-        },
-        {
-            "content": "[Infinite Mana OFF]\n04000000 00254630 BD003660\n",
-            "title": "[Infinite Mana OFF]"
-        }
-    ],
+    "876049D0D3D7CA4A": {
+        "[Energy unlimited]": "[Energy unlimited]\n04000000 0032D3D0 D65F03C0\n\n",
+        "[Infinite Health ON]": "[Infinite Health ON]\n04000000 003D1830 D65F03C0\n\n",
+        "[Infinite Health OFF]": "[Infinite Health OFF]\n04000000 003D1830 FC1D0FE8\n\n",
+        "[Infinite Mana ON]": "[Infinite Mana ON]\n04000000 00254630 BD003A60\n\n",
+        "[Infinite Mana OFF]": "[Infinite Mana OFF]\n04000000 00254630 BD003660\n\n"
+    },
+    "DE32B7731B63FE48": {
+        "[Energy unlimited]": "[Energy unlimited]\n580F0000 044C8350\n580F1000 000000B8\n580F1000 00000020\n780F0000 00000034\n640F0000 00000000 42C80000\n\n",
+        "[Mana unlimited]": "[Mana unlimited]\n580F0000 044C8350\n580F1000 000000B8\n580F1000 00000028\n780F0000 00000034\n640F0000 00000000 42C80000\n\n",
+        "[Infinite Health ON]": "[Infinite Health ON]\n04000000 003D1830 D65F03C0\n\n",
+        "[Infinite Health OFF]": "[Infinite Health OFF]\n04000000 003D1830 FC1D0FE8\n\n",
+        "[Infinite Mana ON]": "[Infinite Mana ON]\n04000000 00254630 BD003A60\n\n",
+        "[Infinite Mana OFF]": "[Infinite Mana OFF]\n04000000 00254630 BD003660\n\n"
+    },
     "attribution": {
         "Mages of Mystralia v 1.0 by merlir555 and DaBlackdeath.txt": "WARNING - Enable these when IN-GAME ONLY or will Crash the Full Game",
         "Mages of Mystralia v1.0.0 by DaBlackDeath.txt": "Turn on the cheat code after the stage starts."

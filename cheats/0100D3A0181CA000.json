@@ -1,68 +1,20 @@
 {
-    "8E5855070D8ED018": [
-        {
-            "content": "[Breeze beta41 River City Saga: Three Kingdoms 1.0.0 TID: 0100D3A0181CA000 BID: 8E5855070D8ED018]\n\n",
-            "title": "[Breeze beta41 River City Saga: Three Kingdoms 1.0.0 TID: 0100D3A0181CA000 BID: 8E5855070D8ED018]"
-        },
-        {
-            "content": "[HP Inf]\n04000000 02957F00 34000085\n04000000 02957F04 71001CBF\n04000000 02957F08 54000040\n04000000 02957F0C 4B140000\n04000000 02957F10 D65F03C0\n04000000 0198F850 943F21AC\n\n",
-            "title": "[HP Inf]"
-        },
-        {
-            "content": "[HP Inf Off]\n04000000 0198F850 4B140000\n\n",
-            "title": "[HP Inf Off]"
-        },
-        {
-            "content": "[Focus]\n04000000 01991574 2A0203E0\n\n",
-            "title": "[Focus]"
-        },
-        {
-            "content": "[Focus Off]\n04000000 01991574 0B140000\n\n",
-            "title": "[Focus Off]"
-        },
-        {
-            "content": "[Coins x4 and No Decrease]\n04000000 017A4E48 0B130901\n04000000 01C4059C 0B130901\n04000000 01C40FC0 0B000901\n04000000 02957F20 B9409A60\n04000000 02957F24 6B00029F\n04000000 02957F28 5400004D\n04000000 02957F2C B9009A74\n04000000 02957F30 D65F03C0\n04000000 01C38914 94347D83\n\n",
-            "title": "[Coins x4 and No Decrease]"
-        },
-        {
-            "content": "[Coins x4 and No Decrease Off]\n04000000 017A4E48 0B130101\n04000000 01C4059C 0B080261\n04000000 01C40FC0 0B000101\n04000000 01C38914 B9009A74\n\n",
-            "title": "[Coins x4 and No Decrease Off]"
-        },
-        {
-            "content": "[Experience x4]\n04000000 017A5AEC 0B140929\n\n",
-            "title": "[Experience x4]"
-        },
-        {
-            "content": "[Experience x4 Off]\n04000000 017A5AEC 0B140129\n\n",
-            "title": "[Experience x4 Off]"
-        },
-        {
-            "content": "[Stat Points]\n04000000 01C428FC B9408C13\n\n",
-            "title": "[Stat Points]"
-        },
-        {
-            "content": "[Stat Points Off]\n04000000 01C428FC 2A0203F3\n\n",
-            "title": "[Stat Points Off]"
-        },
-        {
-            "content": "[Reputation x4 and No Decrease]\n04000000 02957F40 7100029F\n04000000 02957F44 54000044\n04000000 02957F48 0B140929\n04000000 02957F4C D65F03C0\n04000000 017A4F3C 9446CC01\n\n",
-            "title": "[Reputation x4 and No Decrease]"
-        },
-        {
-            "content": "[Reputation x4 and No Decrease Off]\n04000000 017A4F3C 0B140129\n\n",
-            "title": "[Reputation x4 and No Decrease Off]"
-        },
-        {
-            "content": "[Tactics Gauge]\n04000000 019B7ADC 52800C81\n\n",
-            "title": "[Tactics Gauge]"
-        },
-        {
-            "content": "[Tactics Gauge Off]\n04000000 019B7ADC 0B130101\n\n",
-            "title": "[Tactics Gauge Off]"
-        },
-        {
-            "content": "[Made by: jhmiller]\n00000000 00000000 00000000\n",
-            "title": "[Made by: jhmiller]"
-        }
-    ]
+    "8E5855070D8ED018": {
+        "[Breeze beta41 River City Saga: Three Kingdoms 1.0.0 TID: 0100D3A0181CA000 BID: 8E5855070D8ED018]": "[Breeze beta41 River City Saga: Three Kingdoms 1.0.0 TID: 0100D3A0181CA000 BID: 8E5855070D8ED018]\n\n",
+        "[HP Inf]": "[HP Inf]\n04000000 02957F00 34000085\n04000000 02957F04 71001CBF\n04000000 02957F08 54000040\n04000000 02957F0C 4B140000\n04000000 02957F10 D65F03C0\n04000000 0198F850 943F21AC\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 0198F850 4B140000\n\n",
+        "[Focus]": "[Focus]\n04000000 01991574 2A0203E0\n\n",
+        "[Focus Off]": "[Focus Off]\n04000000 01991574 0B140000\n\n",
+        "[Coins x4 and No Decrease]": "[Coins x4 and No Decrease]\n04000000 017A4E48 0B130901\n04000000 01C4059C 0B130901\n04000000 01C40FC0 0B000901\n04000000 02957F20 B9409A60\n04000000 02957F24 6B00029F\n04000000 02957F28 5400004D\n04000000 02957F2C B9009A74\n04000000 02957F30 D65F03C0\n04000000 01C38914 94347D83\n\n",
+        "[Coins x4 and No Decrease Off]": "[Coins x4 and No Decrease Off]\n04000000 017A4E48 0B130101\n04000000 01C4059C 0B080261\n04000000 01C40FC0 0B000101\n04000000 01C38914 B9009A74\n\n",
+        "[Experience x4]": "[Experience x4]\n04000000 017A5AEC 0B140929\n\n",
+        "[Experience x4 Off]": "[Experience x4 Off]\n04000000 017A5AEC 0B140129\n\n",
+        "[Stat Points]": "[Stat Points]\n04000000 01C428FC B9408C13\n\n",
+        "[Stat Points Off]": "[Stat Points Off]\n04000000 01C428FC 2A0203F3\n\n",
+        "[Reputation x4 and No Decrease]": "[Reputation x4 and No Decrease]\n04000000 02957F40 7100029F\n04000000 02957F44 54000044\n04000000 02957F48 0B140929\n04000000 02957F4C D65F03C0\n04000000 017A4F3C 9446CC01\n\n",
+        "[Reputation x4 and No Decrease Off]": "[Reputation x4 and No Decrease Off]\n04000000 017A4F3C 0B140129\n\n",
+        "[Tactics Gauge]": "[Tactics Gauge]\n04000000 019B7ADC 52800C81\n\n",
+        "[Tactics Gauge Off]": "[Tactics Gauge Off]\n04000000 019B7ADC 0B130101\n\n",
+        "[Made by: jhmiller]": "[Made by: jhmiller]\n00000000 00000000 00000000\n\n"
+    }
 }

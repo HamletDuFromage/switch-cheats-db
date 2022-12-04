@@ -1,40 +1,16 @@
 {
-    "4D4FCFD3BE47484A": [
-        {
-            "content": "{Master Code}\n04000000 0031F218 000F423F\n\n",
-            "title": "{Master Code}"
-        },
-        {
-            "content": "[Rank Points Human MAX]\n04000000 0031F220 18FFFFC0\n\n",
-            "title": "[Rank Points Human MAX]"
-        },
-        {
-            "content": "[Rank Points Ghost MAX]\n04000000 0031F280 18FFFCC0\n\n",
-            "title": "[Rank Points Ghost MAX]"
-        },
-        {
-            "content": "[Infinite Lamp Usage]\n04000000 002F39A0 D65F03C0",
-            "title": "[Infinite Lamp Usage]"
-        }
-    ],
-    "710B99C18AA32240": [
-        {
-            "content": "{Master Code}\n04000000 003527CC 000F423F\n\n",
-            "title": "{Master Code}"
-        },
-        {
-            "content": "[Rank Points Human MAX]\n04000000 003527D0 18FFFFE0\n\n",
-            "title": "[Rank Points Human MAX]"
-        },
-        {
-            "content": "[Rank Points Ghost MAX]\n04000000 003527F0 18FFFEE0\n\n",
-            "title": "[Rank Points Ghost MAX]"
-        },
-        {
-            "content": "[Infinite Lamp Usage]\n04000000 003304A0 D65F03C0",
-            "title": "[Infinite Lamp Usage]"
-        }
-    ],
+    "4D4FCFD3BE47484A": {
+        "{Master Code}": "{Master Code}\n04000000 0031F218 000F423F\n\n",
+        "[Rank Points Human MAX]": "[Rank Points Human MAX]\n04000000 0031F220 18FFFFC0\n\n",
+        "[Rank Points Ghost MAX]": "[Rank Points Ghost MAX]\n04000000 0031F280 18FFFCC0\n\n",
+        "[Infinite Lamp Usage]": "[Infinite Lamp Usage]\n04000000 002F39A0 D65F03C0\n\n"
+    },
+    "710B99C18AA32240": {
+        "{Master Code}": "{Master Code}\n04000000 003527CC 000F423F\n\n",
+        "[Rank Points Human MAX]": "[Rank Points Human MAX]\n04000000 003527D0 18FFFFE0\n\n",
+        "[Rank Points Ghost MAX]": "[Rank Points Ghost MAX]\n04000000 003527F0 18FFFEE0\n\n",
+        "[Infinite Lamp Usage]": "[Infinite Lamp Usage]\n04000000 003304A0 D65F03C0\n\n"
+    },
     "attribution": {
         "OBAKEIDORO v1.0.9 and ver 1.0.10 by DaBlackDeath.txt": "[Golden Axe Full Potions]\n11050000 030fa83a 00000000\n01000000 030fa839 00000006\n20000000\n11050000 030fa83a 00000001\n01000000 030fa839 00000009\n20000000\n11050000 030fa83a 00000002\n01000000 030fa839 00000004\n20000000\n\n[Golden Axe Infinite HP]\n01000000 030fa837 00000050\n\n[Golden Axe 2 Full Potions]\n11050000 030eb162 00000001\n01000000 030eb23b 00000005\n20000000\n11050000 030eb162 00000002\n01000000 030eb23b 00000008\n20000000\n11050000 030eb162 00000003\n01000000 030eb23b 00000004\n20000000\n\n[Golden Axe 2 Infinite HP]\n01000000 030eb1f7 00000005\n\n[Golden Axe 3 Full Potions]\n01000000 030f729d 00000006\n\n[Golden Axe 3 Infinite HP]\n01000000 030f729f 00000033\n\nusa\n\n[Golden Axe Full Potions]\n11050000 030fa82a 00000000\n01000000 030fa829 00000006\n20000000\n11050000 030fa82a 00000001\n01000000 030fa829 00000009\n20000000\n11050000 030fa82a 00000002\n01000000 030fa829 00000004\n20000000\n\n[Golden Axe Infinite HP]\n01000000 030fa827 00000050\n\n[Golden Axe 2 Full Potions]\n11050000 030eb152 00000001\n01000000 030eb22b 00000005\n20000000\n11050000 030eb152 00000002\n01000000 030eb22b 00000008\n20000000\n11050000 030eb152 00000003\n01000000 030eb22b 00000004\n20000000\n\n[Golden Axe 2 Infinite HP]\n01000000 030eb1e7 00000005\n\n[Golden Axe 3 Full Potions]\n01000000 030f728d 00000006\n\n[Golden Axe 3 Infinite HP]\n01000000 030f728f 00000033\n"
     }

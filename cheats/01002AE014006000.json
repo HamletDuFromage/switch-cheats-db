@@ -1,38 +1,14 @@
 {
-    "19DA9CDFDD52EA4A": [
-        {
-            "content": "[Breeze beta19 Ashwalkers 1.0.0.6 TID: 01002AE014006000 BID: 19DA9CDFDD52EA4A]\n\n",
-            "title": "[Breeze beta19 Ashwalkers 1.0.0.6 TID: 01002AE014006000 BID: 19DA9CDFDD52EA4A]"
-        },
-        {
-            "content": "[Change inventory]\n04000000 022C4AB4 14004413 \n04000000 022D5B00 A9376BF9 \n04000000 022D5B00 A9376BF9 \n04000000 022D5B04 91004119 \n04000000 022D5B08 D000D03A \n04000000 022D5B0C F9060359 \n04000000 022D5B10 180000BA \n04000000 022D5B14 B900111A \n04000000 022D5B18 A9776BF9 \n04000000 022D5B1C B9401108 \n04000000 022D5B20 17FFBBE6 \n\n",
-            "title": "[Change inventory]"
-        },
-        {
-            "content": "[To med]\n04000000 022D5B24 00000003 \n\n",
-            "title": "[To med]"
-        },
-        {
-            "content": "[To food]\n04000000 022D5B24 00000001 \n\n",
-            "title": "[To food]"
-        },
-        {
-            "content": "[To wood]\n04000000 022D5B24 00000002 \n\n",
-            "title": "[To wood]"
-        },
-        {
-            "content": "[Change inventory off]\n04000000 022C4AB4 B9401108 \n\n",
-            "title": "[Change inventory off]"
-        },
-        {
-            "content": "[Stats fill]\n04000000 013E21E8 143BCE50 \n04000000 022D5B28 294B2668 \n04000000 022D5B2C B9005A69 \n04000000 022D5B30 294D2668 \n04000000 022D5B34 B9006A69 \n04000000 022D5B38 294FA668 \n04000000 022D5B3C B9007E69 \n04000000 022D5B40 29522668 \n04000000 022D5B44 B9009269 \n04000000 022D5B48 294B2668 \n04000000 022D5B4C 17C431A8 \n\n",
-            "title": "[Stats fill]"
-        },
-        {
-            "content": "[Stats fill off]\n04000000 013E21E8 294B2668 \n\n",
-            "title": "[Stats fill off]"
-        }
-    ],
+    "19DA9CDFDD52EA4A": {
+        "[Breeze beta19 Ashwalkers 1.0.0.6 TID: 01002AE014006000 BID: 19DA9CDFDD52EA4A]": "[Breeze beta19 Ashwalkers 1.0.0.6 TID: 01002AE014006000 BID: 19DA9CDFDD52EA4A]\n\n",
+        "[Change inventory]": "[Change inventory]\n04000000 022C4AB4 14004413 \n04000000 022D5B00 A9376BF9 \n04000000 022D5B00 A9376BF9 \n04000000 022D5B04 91004119 \n04000000 022D5B08 D000D03A \n04000000 022D5B0C F9060359 \n04000000 022D5B10 180000BA \n04000000 022D5B14 B900111A \n04000000 022D5B18 A9776BF9 \n04000000 022D5B1C B9401108 \n04000000 022D5B20 17FFBBE6\n\n",
+        "[To med]": "[To med]\n04000000 022D5B24 00000003\n\n",
+        "[To food]": "[To food]\n04000000 022D5B24 00000001\n\n",
+        "[To wood]": "[To wood]\n04000000 022D5B24 00000002\n\n",
+        "[Change inventory off]": "[Change inventory off]\n04000000 022C4AB4 B9401108\n\n",
+        "[Stats fill]": "[Stats fill]\n04000000 013E21E8 143BCE50 \n04000000 022D5B28 294B2668 \n04000000 022D5B2C B9005A69 \n04000000 022D5B30 294D2668 \n04000000 022D5B34 B9006A69 \n04000000 022D5B38 294FA668 \n04000000 022D5B3C B9007E69 \n04000000 022D5B40 29522668 \n04000000 022D5B44 B9009269 \n04000000 022D5B48 294B2668 \n04000000 022D5B4C 17C431A8\n\n",
+        "[Stats fill off]": "[Stats fill off]\n04000000 013E21E8 294B2668\n\n"
+    },
     "attribution": {
         "Ashwalkers 1.0.0.6 by Tomswitch.txt": "Super Mario Allstars\nSuper Mario 3"
     }

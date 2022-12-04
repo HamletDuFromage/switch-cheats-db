@@ -1,110 +1,31 @@
 {
-    "61975B301708E44B": [
-        {
-            "content": "[01# Inf Health]\n040A0000 018FB7A8 442F0000\n040A0000 018FB794 1C0000A8\n\n",
-            "title": "[01# Inf Health]"
-        },
-        {
-            "content": "[Inf Health (off)]\n040A0000 018FB794 BD404E68\n\n",
-            "title": "[Inf Health (off)]"
-        },
-        {
-            "content": "[02# Unlimited Crafting]\n040A0000 017D964C 52800154\n\n",
-            "title": "[02# Unlimited Crafting]"
-        },
-        {
-            "content": "[Unlimited Crafting (off)]\n040A0000 017D964C 2A0203F4\n\n",
-            "title": "[Unlimited Crafting (off)]"
-        },
-        {
-            "content": "[03# Inf Calories]\n040A0000 018FACD8 442F0000\n040A0000 018FAAE8 1C000F88\n\n",
-            "title": "[03# Inf Calories]"
-        },
-        {
-            "content": "[Inf Calories (off)]\n040A0000 018FAAE8 BD005268\n\n",
-            "title": "[Inf Calories (off)]"
-        },
-        {
-            "content": "[04# Inf Thirst]\n040A0000 018FAE9C 442F0000\n040A0000 018FAD84 1C0008C8\n\n",
-            "title": "[04# Inf Thirst]"
-        },
-        {
-            "content": "[Inf Thirst (off)]\n040A0000 018FAD84 BD005668\n\n",
-            "title": "[Inf Thirst (off)]"
-        },
-        {
-            "content": "[05# Inf Stamina]\n040A0000 018FBD34 42C80000\n040A0000 018FBBEC 1C000A48\n\n",
-            "title": "[05# Inf Stamina]"
-        },
-        {
-            "content": "[Inf Stamina (off)]\n040A0000 018FBBEC BD00A660\n\n",
-            "title": "[Inf Stamina (off)]"
-        },
-        {
-            "content": "[06# Inf Oxygen]\n040A0000 018FB544 42C80000\n040A0000 018FB098 1C002568\n\n",
-            "title": "[06# Inf Oxygen]"
-        },
-        {
-            "content": "[Inf Oxygen (off)]\n040A0000 018FB098 BD00BA60\n\n",
-            "title": "[Inf Oxygen (off)]"
-        },
-        {
-            "content": "[07# Protected from Sun]\n040A0000 01902A84 1E2703E8\n\n",
-            "title": "[07# Protected from Sun]"
-        },
-        {
-            "content": "[Protected from Sun (off)]\n040A0000 01902A84 BD404268\n\n",
-            "title": "[Protected from Sun (off)]"
-        },
-        {
-            "content": "[08# Inf Fire Fuel]\n040A0000 01B6063C 1E202900\n\n",
-            "title": "[08# Inf Fire Fuel]"
-        },
-        {
-            "content": "[Inf Fire Fuel (off)]\n040A0000 01B6063C 1E203900\n\n",
-            "title": "[Inf Fire Fuel (off)]"
-        },
-        {
-            "content": "[09# Inf Durability]\n040A0000 018574A4 1E2E1001\n\n",
-            "title": "[09# Inf Durability]"
-        },
-        {
-            "content": "[Inf Durability (off)]\n040A0000 018574A4 1E3E1001\n\n",
-            "title": "[Inf Durability (off)]"
-        },
-        {
-            "content": "[10# Inf Raft Motor Fuel]\n040A0000 0181FDF8 1E202900\n\n",
-            "title": "[10# Inf Raft Motor Fuel]"
-        },
-        {
-            "content": "[Inf Raft Motor Fuel (off)]\n040A0000 0181FDF8 1E203900\n\n",
-            "title": "[Inf Raft Motor Fuel (off)]"
-        },
-        {
-            "content": "[11# Inf Gyrocopter Fuel]\n040A0000 0184DEAC 1E202900\n\n",
-            "title": "[11# Inf Gyrocopter Fuel]"
-        },
-        {
-            "content": "[Inf Gyrocopter Fuel (off)]\n040A0000 0184DEAC 1E203900\n\n",
-            "title": "[Inf Gyrocopter Fuel (off)]"
-        },
-        {
-            "content": "[12# Quick Destroy]\n040A0000 016478E0 1E2703E0\n\n",
-            "title": "[12# Quick Destroy]"
-        },
-        {
-            "content": "[Quick Destroy (off)]\n040A0000 016478E0 1E283800\n\n",
-            "title": "[Quick Destroy (off)]"
-        },
-        {
-            "content": "[13# Quick Build]\n040A0000 016470D8 442F0000\n040A0000 016470D0 1C000040\n\n",
-            "title": "[13# Quick Build]"
-        },
-        {
-            "content": "[Quick Destroy (off)]\n040A0000 016470D0 BD406C00",
-            "title": "[Quick Destroy (off)]"
-        }
-    ],
+    "61975B301708E44B": {
+        "[01# Inf Health]": "[01# Inf Health]\n040A0000 018FB7A8 442F0000\n040A0000 018FB794 1C0000A8\n\n",
+        "[Inf Health (off)]": "[Inf Health (off)]\n040A0000 018FB794 BD404E68\n\n",
+        "[02# Unlimited Crafting]": "[02# Unlimited Crafting]\n040A0000 017D964C 52800154\n\n",
+        "[Unlimited Crafting (off)]": "[Unlimited Crafting (off)]\n040A0000 017D964C 2A0203F4\n\n",
+        "[03# Inf Calories]": "[03# Inf Calories]\n040A0000 018FACD8 442F0000\n040A0000 018FAAE8 1C000F88\n\n",
+        "[Inf Calories (off)]": "[Inf Calories (off)]\n040A0000 018FAAE8 BD005268\n\n",
+        "[04# Inf Thirst]": "[04# Inf Thirst]\n040A0000 018FAE9C 442F0000\n040A0000 018FAD84 1C0008C8\n\n",
+        "[Inf Thirst (off)]": "[Inf Thirst (off)]\n040A0000 018FAD84 BD005668\n\n",
+        "[05# Inf Stamina]": "[05# Inf Stamina]\n040A0000 018FBD34 42C80000\n040A0000 018FBBEC 1C000A48\n\n",
+        "[Inf Stamina (off)]": "[Inf Stamina (off)]\n040A0000 018FBBEC BD00A660\n\n",
+        "[06# Inf Oxygen]": "[06# Inf Oxygen]\n040A0000 018FB544 42C80000\n040A0000 018FB098 1C002568\n\n",
+        "[Inf Oxygen (off)]": "[Inf Oxygen (off)]\n040A0000 018FB098 BD00BA60\n\n",
+        "[07# Protected from Sun]": "[07# Protected from Sun]\n040A0000 01902A84 1E2703E8\n\n",
+        "[Protected from Sun (off)]": "[Protected from Sun (off)]\n040A0000 01902A84 BD404268\n\n",
+        "[08# Inf Fire Fuel]": "[08# Inf Fire Fuel]\n040A0000 01B6063C 1E202900\n\n",
+        "[Inf Fire Fuel (off)]": "[Inf Fire Fuel (off)]\n040A0000 01B6063C 1E203900\n\n",
+        "[09# Inf Durability]": "[09# Inf Durability]\n040A0000 018574A4 1E2E1001\n\n",
+        "[Inf Durability (off)]": "[Inf Durability (off)]\n040A0000 018574A4 1E3E1001\n\n",
+        "[10# Inf Raft Motor Fuel]": "[10# Inf Raft Motor Fuel]\n040A0000 0181FDF8 1E202900\n\n",
+        "[Inf Raft Motor Fuel (off)]": "[Inf Raft Motor Fuel (off)]\n040A0000 0181FDF8 1E203900\n\n",
+        "[11# Inf Gyrocopter Fuel]": "[11# Inf Gyrocopter Fuel]\n040A0000 0184DEAC 1E202900\n\n",
+        "[Inf Gyrocopter Fuel (off)]": "[Inf Gyrocopter Fuel (off)]\n040A0000 0184DEAC 1E203900\n\n",
+        "[12# Quick Destroy]": "[12# Quick Destroy]\n040A0000 016478E0 1E2703E0\n\n",
+        "[Quick Destroy (off)]": "[Quick Destroy (off)]\n040A0000 016470D0 BD406C00\n\n",
+        "[13# Quick Build]": "[13# Quick Build]\n040A0000 016470D8 442F0000\n040A0000 016470D0 1C000040\n\n"
+    },
     "attribution": {
         "Stranded Deep ver 1.0.1 by patjenova.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"
     }

@@ -1,8 +1,5 @@
 {
-    "A0BD46B324ABDB68": [
-        {
-            "content": "[99999999 Money]\n04000000 00664ce0 3B9AC9FF\n04000000 00664ce4 3B9AC9FF \n\nMade By Stoned",
-            "title": "[99999999 Money]"
-        }
-    ]
+    "A0BD46B324ABDB68": {
+        "[99999999 Money]": "[99999999 Money]\n04000000 00664ce0 3B9AC9FF\n04000000 00664ce4 3B9AC9FF \n\nMade By Stoned\n\n"
+    }
 }

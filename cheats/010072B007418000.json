@@ -1,14 +1,8 @@
 {
-    "26D8482BAD9998B2": [
-        {
-            "content": "[hitanywhere]\n04000000 00224398 D65F03C0\n04000000 002244A0 D65F03C0\n\n",
-            "title": "[hitanywhere]"
-        },
-        {
-            "content": "[1p hit kill Ypad on or Xpad on]\n04000000 00147740 F81E0FF3\n80000008\n04000000 00147740 D65F03C0\n20000000\n80000004\n04000000 00147740 D65F03C0\n20000000",
-            "title": "[1p hit kill Ypad on or Xpad on]"
-        }
-    ],
+    "26D8482BAD9998B2": {
+        "[hitanywhere]": "[hitanywhere]\n04000000 00224398 D65F03C0\n04000000 002244A0 D65F03C0\n\n",
+        "[1p hit kill Ypad on or Xpad on]": "[1p hit kill Ypad on or Xpad on]\n04000000 00147740 F81E0FF3\n80000008\n04000000 00147740 D65F03C0\n20000000\n80000004\n04000000 00147740 D65F03C0\n20000000\n\n"
+    },
     "attribution": {
         "Snack world jap GOLD ver1.6.0 by xtatu.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
     }

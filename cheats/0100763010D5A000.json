@@ -1,46 +1,16 @@
 {
-    "B1285FB749D8FA45": [
-        {
-            "content": "[Lives unlimited]\n01100000 A160003C 00000063\n\n",
-            "title": "[Lives unlimited]"
-        },
-        {
-            "content": "[no damage]\n04000000 00433104 51000114\n\n",
-            "title": "[no damage]"
-        },
-        {
-            "content": "[inf energy]\n04000000 0043A5E4 42C80000\n04000000 0043A6A8 1CFFF9E0\n\n",
-            "title": "[inf energy]"
-        },
-        {
-            "content": "[Inf Lives]\n580F0000 037E4BC8\n580F1000 000000A0\n580F1000 00000000\n780F0000 0000003C\n640F0000 00000000 00000063\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Max Missile]\n580F0000 037E4BC8\n580F1000 000000A0\n580F1000 00000000\n780F0000 00000048\n680F0000 00000003 00000004\n\n",
-            "title": "[Max Missile]"
-        },
-        {
-            "content": "[Max Missile2]\n580F0000 037E4BC8\n580F1000 000000A0\n580F1000 00000000\n780F0000 00000050\n680F0000 00000002 00000003\n\n",
-            "title": "[Max Missile2]"
-        },
-        {
-            "content": "[Inf Super]\n580F0000 037E4BC8\n580F1000 000000A0\n580F1000 00000000\n780F0000 00000058\n640F0000 00000000 42C80000\n\n",
-            "title": "[Inf Super]"
-        },
-        {
-            "content": "[Inf HP]\n580F0000 037E4C00\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000078\n780F0000 0000003C\n640F0000 00000000 00000086\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 037E4C00\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000080\n780F0000 00000098\n640F0000 00000000 41000000\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Speed Up]\n580F0000 037E4C00\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000080\n780F0000 0000003C\n680F0000 30000000 42000000\n",
-            "title": "[Speed Up]"
-        }
-    ],
+    "B1285FB749D8FA45": {
+        "[Lives unlimited]": "[Lives unlimited]\n01100000 A160003C 00000063\n\n",
+        "[no damage]": "[no damage]\n04000000 00433104 51000114\n\n",
+        "[inf energy]": "[inf energy]\n04000000 0043A5E4 42C80000\n04000000 0043A6A8 1CFFF9E0\n\n",
+        "[Inf Lives]": "[Inf Lives]\n580F0000 037E4BC8\n580F1000 000000A0\n580F1000 00000000\n780F0000 0000003C\n640F0000 00000000 00000063\n\n",
+        "[Max Missile]": "[Max Missile]\n580F0000 037E4BC8\n580F1000 000000A0\n580F1000 00000000\n780F0000 00000048\n680F0000 00000003 00000004\n\n",
+        "[Max Missile2]": "[Max Missile2]\n580F0000 037E4BC8\n580F1000 000000A0\n580F1000 00000000\n780F0000 00000050\n680F0000 00000002 00000003\n\n",
+        "[Inf Super]": "[Inf Super]\n580F0000 037E4BC8\n580F1000 000000A0\n580F1000 00000000\n780F0000 00000058\n640F0000 00000000 42C80000\n\n",
+        "[Inf HP]": "[Inf HP]\n580F0000 037E4C00\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000078\n780F0000 0000003C\n640F0000 00000000 00000086\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 037E4C00\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000080\n780F0000 00000098\n640F0000 00000000 41000000\n\n",
+        "[Speed Up]": "[Speed Up]\n580F0000 037E4C00\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000080\n780F0000 0000003C\n680F0000 30000000 42000000\n\n"
+    },
     "attribution": {
         "Rigid Force Redux ver 1.0.1 by merlin555 and DaBlackDeath and Zit.txt": "[Lives unlimited]\n01100000 A160003C 00000063\n"
     }

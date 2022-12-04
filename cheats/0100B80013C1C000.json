@@ -1,14 +1,8 @@
 {
-    "A475D0073EA170B0": [
-        {
-            "content": "[60 FPS]\n580F0000 04AC4A30\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-            "title": "[60 FPS]"
-        },
-        {
-            "content": "[Default 30 FPS]\n580F0000 04AC4A30\n780F0000 00000F14\n640F0000 00000000 00000002\n",
-            "title": "[Default 30 FPS]"
-        }
-    ],
+    "A475D0073EA170B0": {
+        "[60 FPS]": "[60 FPS]\n580F0000 04AC4A30\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 04AC4A30\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
     "attribution": {
         "Agent Intercept.txt": "v1 cheat by Hazerou\n"
     }

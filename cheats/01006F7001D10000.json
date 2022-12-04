@@ -1,258 +1,75 @@
 {
-    "107A4D01B1BF5D44": [
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 04a99988\n780F0000 000d71c4\n640F0000 00000000 3FE00000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Speed Up]\n580F0000 04a99988\n780F0000 000092d0\n640F0000 00000000 3FE00000\n\n",
-            "title": "[Speed Up]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 04a99988\n780F0000 000098A0\n640F0000 00000000 00000000",
-            "title": "[Invincible]"
-        }
-    ],
-    "7DD8AFC6A77AFBB3": [
-        {
-            "content": "[Hearts unlimited]\n02100000 9CDBF850 000000A0\n\n",
-            "title": "[Hearts unlimited]"
-        },
-        {
-            "content": "[Fire unlimited]\n02100000 9C4DE594 0000000A\n\n",
-            "title": "[Fire unlimited]"
-        },
-        {
-            "content": "[Boomerang unlimited]\n02100000 9C4DE59C 00000001\n\n",
-            "title": "[Boomerang unlimited]"
-        },
-        {
-            "content": "[Lightning unlimited]\n02100000 9C4DE5A4 00000005\n\n",
-            "title": "[Lightning unlimited]"
-        },
-        {
-            "content": "[Tornadoes unlimited]\n02100000 9C4DE5A0 00000005\n\n",
-            "title": "[Tornadoes unlimited]"
-        },
-        {
-            "content": "[Bombs unlimited]\n02100000 9C4DE5B0 00000005\n\n",
-            "title": "[Bombs unlimited]"
-        },
-        {
-            "content": "[Heart Potion unlimited]\n02100000 9C4DE7D0 00000001\n\n",
-            "title": "[Heart Potion unlimited]"
-        },
-        {
-            "content": "[Poison-Protection Potion unlimited]\n02100000 9C4DE7D4 00000005\n\n",
-            "title": "[Poison-Protection Potion unlimited]"
-        },
-        {
-            "content": "[Lions run magic unlimited]\n02100000 9C4DE5AC 00000064\n\n",
-            "title": "[Lions run magic unlimited]"
-        },
-        {
-            "content": "[Firepower unlimited]\n02100000 9C4DE5BC 00000064\n\n",
-            "title": "[Firepower unlimited]"
-        },
-        {
-            "content": "[Dragonflight unlimited]\n02100000 9CDC92EC 0000012C\n\n",
-            "title": "[Dragonflight unlimited]"
-        },
-        {
-            "content": "[5 Power Gems]\n02100000 9C4E0B68 00000005\n\n",
-            "title": "[5 Power Gems]"
-        },
-        {
-            "content": "[5 Legendary Gems]\n02100000 9C4E0DD8 00000005\n\n",
-            "title": "[5 Legendary Gems]"
-        },
-        {
-            "content": "[5 Golden Gems]\n02100000 9C4E0DE2 00000005\n\n",
-            "title": "[5 Golden Gems]"
-        },
-        {
-            "content": "[All Boots]\n02100000 9C4DE648 000000FF\n\n",
-            "title": "[All Boots]"
-        },
-        {
-            "content": "[All Weapons]\n02100000 9C4DE640 000000FF\n\n",
-            "title": "[All Weapons]"
-        },
-        {
-            "content": "[All Shields]\n02100000 9C4DE638 000000FF\n\n",
-            "title": "[All Shields]"
-        },
-        {
-            "content": "[All Armors]\n02100000 9C4DE630 000000FF\n\n",
-            "title": "[All Armors]"
-        },
-        {
-            "content": "[All Rings]\n02100000 9C4DE628 000000FF\n\n",
-            "title": "[All Rings]"
-        },
-        {
-            "content": "[All Orbs]\n02100000 9C4DE618 000000FF\n\n",
-            "title": "[All Orbs]"
-        },
-        {
-            "content": "[All Talismans]\n02100000 9C4DE678 00000001\n02100000 9C4DE680 00000001\n02100000 9C4DE688 00000001\n02100000 9C4DE690 00000001\n02100000 9C4DE698 00000001\n\n",
-            "title": "[All Talismans]"
-        },
-        {
-            "content": "[All Music Sheets]\n02100000 9C4E0BF8 0000007F\n02100000 9C4E0BD8 0000007F\n02100000 9C4E0BE8 0000007F\n02100000 9C4E0BE0 0000007F\n02100000 9C4E0BF0 0000007F\n02100000 9C4E0C00 0000007F\n02100000 9C4E0C08 0000007F\n\n",
-            "title": "[All Music Sheets]"
-        },
-        {
-            "content": "[Rainbow Drops 99]\n02100000 9C4E0B69 00010063\n\n",
-            "title": "[Rainbow Drops 99]"
-        },
-        {
-            "content": "[9999 Coins]\n02100000 9C4DE600 0000270F",
-            "title": "[9999 Coins]"
-        }
-    ],
-    "BEF7BD1A79121305": [
-        {
-            "content": "[99999 coins]\n04100000 9DF7A4B8 0001869F\n\n",
-            "title": "[99999 coins]"
-        },
-        {
-            "content": "[Have Elixir]\n01100000 9AE10688 00000001\n\n",
-            "title": "[Have Elixir]"
-        },
-        {
-            "content": "[Have Anti Affliction Potion]\n04100000 9AE1068C 00000005\n\n",
-            "title": "[Have Anti Affliction Potion]"
-        },
-        {
-            "content": "[Have All Characters]\n04100000 9DF7A4D0 0000003F\n\n",
-            "title": "[Have All Characters]"
-        },
-        {
-            "content": "[Have All Bracelets]\n04100000 9DF7A4E0 000000FF\n\n",
-            "title": "[Have All Bracelets]"
-        },
-        {
-            "content": "[Have All Armors]\n04100000 9DF7A4E8 000000FF\n\n",
-            "title": "[Have All Armors]"
-        },
-        {
-            "content": "[Have All Shields]\n04100000 9DF7A4F0 000000FF\n\n",
-            "title": "[Have All Shields]"
-        },
-        {
-            "content": "[Have All Weapons]\n04100000 9DF7A4F8 000000FF\n\n",
-            "title": "[Have All Weapons]"
-        },
-        {
-            "content": "[Have All Boots]\n04100000 9DF7A500 000000FF\n\n",
-            "title": "[Have All Boots]"
-        },
-        {
-            "content": "[Fireball 255]\n04100000 9DF7A44C 000000FF\n\n",
-            "title": "[Fireball 255]"
-        },
-        {
-            "content": "[Boomerang 255]\n04100000 9DF7A454 000000FF\n\n",
-            "title": "[Boomerang 255]"
-        },
-        {
-            "content": "[Tornado 255]\n04100000 9DF7A458 000000FF\n\n",
-            "title": "[Tornado 255]"
-        },
-        {
-            "content": "[Lightning 255]\n04100000 9DF7A45C 000000FF\n\n",
-            "title": "[Lightning 255]"
-        },
-        {
-            "content": "[Bomb 255]\n04100000 9DF7A468 000000FF\n\n",
-            "title": "[Bomb 255]"
-        },
-        {
-            "content": "[Have All Talisman]\n04100000 9DF7A530 00000001\n04100000 9DF7A538 00000001\n04100000 9DF7A540 00000001\n04100000 9DF7A548 00000001\n04100000 9DF7A550 00000001",
-            "title": "[Have All Talisman]"
-        }
-    ],
-    "EE7693162065F488": [
-        {
-            "content": "[99999 coins]\n04100000 9AE10510 0001869F\n\n",
-            "title": "[99999 coins]"
-        },
-        {
-            "content": "[Have Elixir]\n01100000 9AE106E0 00000001\n\n",
-            "title": "[Have Elixir]"
-        },
-        {
-            "content": "[Have Anti Affliction Potion]\n04100000 9AE106E4 00000005\n\n",
-            "title": "[Have Anti Affliction Potion]"
-        },
-        {
-            "content": "[Have All Characters]\n04100000 9AE10528 0000003F\n\n",
-            "title": "[Have All Characters]"
-        },
-        {
-            "content": "[Have All Bracelets]\n04100000 9AE10538 000000FF\n\n",
-            "title": "[Have All Bracelets]"
-        },
-        {
-            "content": "[Have All Armors]\n04100000 9AE10540 000000FF\n\n",
-            "title": "[Have All Armors]"
-        },
-        {
-            "content": "[Have All Shields]\n04100000 9AE10548 000000FF\n\n",
-            "title": "[Have All Shields]"
-        },
-        {
-            "content": "[Have All Weapons]\n04100000 9AE10550 000000FF\n\n",
-            "title": "[Have All Weapons]"
-        },
-        {
-            "content": "[Have All Boots]\n04100000 9DF7A500 000000FF\n\n",
-            "title": "[Have All Boots]"
-        },
-        {
-            "content": "[Fireball 255]\n04100000 9AE104A4 000000FF\n\n",
-            "title": "[Fireball 255]"
-        },
-        {
-            "content": "[Boomerang 255]\n04100000 9AE104AC 000000FF\n\n",
-            "title": "[Boomerang 255]"
-        },
-        {
-            "content": "[Tornado 255]\n04100000 9AE104B0 000000FF\n\n",
-            "title": "[Tornado 255]"
-        },
-        {
-            "content": "[Lightning 255]\n04100000 9AE104B4 000000FF\n\n",
-            "title": "[Lightning 255]"
-        },
-        {
-            "content": "[Bomb 255]\n04100000 9AE104C0 000000FF\n\n",
-            "title": "[Bomb 255]"
-        },
-        {
-            "content": "[Have All Talisman]\n04100000 9AE10588 00000001\n04100000 9AE10590 00000001\n04100000 9AE10598 00000001\n04100000 9AE105A0 00000001\n04100000 9AE105A8 00000001",
-            "title": "[Have All Talisman]"
-        }
-    ],
-    "FF7BE16D88B0C439": [
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 062b6718\n780F0000 000c5f44\n640F0000 00000000 3FE00000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Speed Up]\n580F0000 04aa8b88\n780F0000 000092d0\n640F0000 00000000 40000000\n\n",
-            "title": "[Speed Up]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 04aa8b88\n780F0000 000098A0\n640F0000 00000000 00000000\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Size Up]\n580F0000 04aa8b88\n780F0000 00008908\n680F0000 40000000 40000000",
-            "title": "[Size Up]"
-        }
-    ],
+    "7DD8AFC6A77AFBB3": {
+        "[Hearts unlimited]": "[Hearts unlimited]\n02100000 9CDBF850 000000A0\n\n",
+        "[Fire unlimited]": "[Fire unlimited]\n02100000 9C4DE594 0000000A\n\n",
+        "[Boomerang unlimited]": "[Boomerang unlimited]\n02100000 9C4DE59C 00000001\n\n",
+        "[Lightning unlimited]": "[Lightning unlimited]\n02100000 9C4DE5A4 00000005\n\n",
+        "[Tornadoes unlimited]": "[Tornadoes unlimited]\n02100000 9C4DE5A0 00000005\n\n",
+        "[Bombs unlimited]": "[Bombs unlimited]\n02100000 9C4DE5B0 00000005\n\n",
+        "[Heart Potion unlimited]": "[Heart Potion unlimited]\n02100000 9C4DE7D0 00000001\n\n",
+        "[Poison-Protection Potion unlimited]": "[Poison-Protection Potion unlimited]\n02100000 9C4DE7D4 00000005\n\n",
+        "[Lions run magic unlimited]": "[Lions run magic unlimited]\n02100000 9C4DE5AC 00000064\n\n",
+        "[Firepower unlimited]": "[Firepower unlimited]\n02100000 9C4DE5BC 00000064\n\n",
+        "[Dragonflight unlimited]": "[Dragonflight unlimited]\n02100000 9CDC92EC 0000012C\n\n",
+        "[5 Power Gems]": "[5 Power Gems]\n02100000 9C4E0B68 00000005\n\n",
+        "[5 Legendary Gems]": "[5 Legendary Gems]\n02100000 9C4E0DD8 00000005\n\n",
+        "[5 Golden Gems]": "[5 Golden Gems]\n02100000 9C4E0DE2 00000005\n\n",
+        "[All Boots]": "[All Boots]\n02100000 9C4DE648 000000FF\n\n",
+        "[All Weapons]": "[All Weapons]\n02100000 9C4DE640 000000FF\n\n",
+        "[All Shields]": "[All Shields]\n02100000 9C4DE638 000000FF\n\n",
+        "[All Armors]": "[All Armors]\n02100000 9C4DE630 000000FF\n\n",
+        "[All Rings]": "[All Rings]\n02100000 9C4DE628 000000FF\n\n",
+        "[All Orbs]": "[All Orbs]\n02100000 9C4DE618 000000FF\n\n",
+        "[All Talismans]": "[All Talismans]\n02100000 9C4DE678 00000001\n02100000 9C4DE680 00000001\n02100000 9C4DE688 00000001\n02100000 9C4DE690 00000001\n02100000 9C4DE698 00000001\n\n",
+        "[All Music Sheets]": "[All Music Sheets]\n02100000 9C4E0BF8 0000007F\n02100000 9C4E0BD8 0000007F\n02100000 9C4E0BE8 0000007F\n02100000 9C4E0BE0 0000007F\n02100000 9C4E0BF0 0000007F\n02100000 9C4E0C00 0000007F\n02100000 9C4E0C08 0000007F\n\n",
+        "[Rainbow Drops 99]": "[Rainbow Drops 99]\n02100000 9C4E0B69 00010063\n\n",
+        "[9999 Coins]": "[9999 Coins]\n02100000 9C4DE600 0000270F\n\n"
+    },
+    "FF7BE16D88B0C439": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 062b6718\n780F0000 000c5f44\n640F0000 00000000 3FE00000\n20000000\n\n",
+        "[Speed Up]": "[Speed Up]\n580F0000 04aa8b88\n780F0000 000092d0\n640F0000 00000000 40000000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 04aa8b88\n780F0000 000098A0\n640F0000 00000000 00000000\n\n",
+        "[Size Up]": "[Size Up]\n580F0000 04aa8b88\n780F0000 00008908\n680F0000 40000000 40000000\n\n"
+    },
+    "107A4D01B1BF5D44": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 04a99988\n780F0000 000d71c4\n640F0000 00000000 3FE00000\n20000000\n\n",
+        "[Speed Up]": "[Speed Up]\n580F0000 04a99988\n780F0000 000092d0\n640F0000 00000000 3FE00000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 04a99988\n780F0000 000098A0\n640F0000 00000000 00000000\n\n"
+    },
+    "EE7693162065F488": {
+        "[99999 coins]": "[99999 coins]\n04100000 9AE10510 0001869F\n\n",
+        "[Have Elixir]": "[Have Elixir]\n01100000 9AE106E0 00000001\n\n",
+        "[Have Anti Affliction Potion]": "[Have Anti Affliction Potion]\n04100000 9AE106E4 00000005\n\n",
+        "[Have All Characters]": "[Have All Characters]\n04100000 9AE10528 0000003F\n\n",
+        "[Have All Bracelets]": "[Have All Bracelets]\n04100000 9AE10538 000000FF\n\n",
+        "[Have All Armors]": "[Have All Armors]\n04100000 9AE10540 000000FF\n\n",
+        "[Have All Shields]": "[Have All Shields]\n04100000 9AE10548 000000FF\n\n",
+        "[Have All Weapons]": "[Have All Weapons]\n04100000 9AE10550 000000FF\n\n",
+        "[Have All Boots]": "[Have All Boots]\n04100000 9DF7A500 000000FF\n\n",
+        "[Fireball 255]": "[Fireball 255]\n04100000 9AE104A4 000000FF\n\n",
+        "[Boomerang 255]": "[Boomerang 255]\n04100000 9AE104AC 000000FF\n\n",
+        "[Tornado 255]": "[Tornado 255]\n04100000 9AE104B0 000000FF\n\n",
+        "[Lightning 255]": "[Lightning 255]\n04100000 9AE104B4 000000FF\n\n",
+        "[Bomb 255]": "[Bomb 255]\n04100000 9AE104C0 000000FF\n\n",
+        "[Have All Talisman]": "[Have All Talisman]\n04100000 9AE10588 00000001\n04100000 9AE10590 00000001\n04100000 9AE10598 00000001\n04100000 9AE105A0 00000001\n04100000 9AE105A8 00000001\n\n"
+    },
+    "BEF7BD1A79121305": {
+        "[99999 coins]": "[99999 coins]\n04100000 9DF7A4B8 0001869F\n\n",
+        "[Have Elixir]": "[Have Elixir]\n01100000 9AE10688 00000001\n\n",
+        "[Have Anti Affliction Potion]": "[Have Anti Affliction Potion]\n04100000 9AE1068C 00000005\n\n",
+        "[Have All Characters]": "[Have All Characters]\n04100000 9DF7A4D0 0000003F\n\n",
+        "[Have All Bracelets]": "[Have All Bracelets]\n04100000 9DF7A4E0 000000FF\n\n",
+        "[Have All Armors]": "[Have All Armors]\n04100000 9DF7A4E8 000000FF\n\n",
+        "[Have All Shields]": "[Have All Shields]\n04100000 9DF7A4F0 000000FF\n\n",
+        "[Have All Weapons]": "[Have All Weapons]\n04100000 9DF7A4F8 000000FF\n\n",
+        "[Have All Boots]": "[Have All Boots]\n04100000 9DF7A500 000000FF\n\n",
+        "[Fireball 255]": "[Fireball 255]\n04100000 9DF7A44C 000000FF\n\n",
+        "[Boomerang 255]": "[Boomerang 255]\n04100000 9DF7A454 000000FF\n\n",
+        "[Tornado 255]": "[Tornado 255]\n04100000 9DF7A458 000000FF\n\n",
+        "[Lightning 255]": "[Lightning 255]\n04100000 9DF7A45C 000000FF\n\n",
+        "[Bomb 255]": "[Bomb 255]\n04100000 9DF7A468 000000FF\n\n",
+        "[Have All Talisman]": "[Have All Talisman]\n04100000 9DF7A530 00000001\n04100000 9DF7A538 00000001\n04100000 9DF7A540 00000001\n04100000 9DF7A548 00000001\n04100000 9DF7A550 00000001\n\n"
+    },
     "attribution": {
         "Monster Boy And The Cursed Kingdom v 1.0.5 by merlin555.txt": "",
         "Monster Boy and the Cursed Kingdom v1 and v1.0.4 By ZiT866.txt": ""

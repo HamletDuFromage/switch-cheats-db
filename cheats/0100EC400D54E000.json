@@ -1,23 +1,15 @@
 {
-    "1FE34416E3F057AD": [
-        {
-            "content": "[Money]\n04000000 00FEEEF0 0098967F\n\n",
-            "title": "[Money]"
-        },
-        {
-            "content": "[HP]\n08100000 c189beb0 0001869F 0001869F\n\n",
-            "title": "[HP]"
-        },
-        {
-            "content": "[SP]\n04100000 c189bec0 270F270F\n\n",
-            "title": "[SP]"
-        },
-        {
-            "content": "[exp]\n04100000 c189beb8 3B9AC9FF",
-            "title": "[exp]"
-        }
-    ],
+    "03012E346B96E992": {
+        "[60 FPS]": "[60 FPS]\n580F0000 00E85500\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 00E85500\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
     "attribution": {
         "ArtWorldOnline.txt": "[Money]\n04000000 00FEEEF0 0098967F\n\n[HP]\n08100000 c189beb0 0001869F 0001869F\n\n[SP]\n04100000 c189bec0 270F270F\n\n[exp]\n04100000 c189beb8 3B9AC9FF"
+    },
+    "1FE34416E3F057AD": {
+        "[Money]": "[Money]\n04000000 00FEEEF0 0098967F\n\n",
+        "[HP]": "[HP]\n08100000 c189beb0 0001869F 0001869F\n\n",
+        "[SP]": "[SP]\n04100000 c189bec0 270F270F\n\n",
+        "[exp]": "[exp]\n04100000 c189beb8 3B9AC9FF\n\n"
     }
 }

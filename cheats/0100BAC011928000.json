@@ -1,71 +1,26 @@
 {
-    "06B98C7A18749045": [
-        {
-            "content": "[Default 60 FPS]\n580F0000 0400B9D8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-            "title": "[Default 60 FPS]"
-        },
-        {
-            "content": "[30 FPS]\n580F0000 0400B9D8\n780F0000 00000F14\n640F0000 00000000 00000002",
-            "title": "[30 FPS]"
-        }
-    ],
-    "3C9B3ECFAD8A9542": [
-        {
-            "content": "[01# Inf Stamina]\n04000000 00501270 D65F03C0\n",
-            "title": "[01# Inf Stamina]"
-        },
-        {
-            "content": "[Inf Stamina (off)]\n04000000 00501270 A9BE4FF4\n\n",
-            "title": "[Inf Stamina (off)]"
-        },
-        {
-            "content": "[02# Max Money]\n04000000 00502A68 18000080\n04000000 00502A78 05F5E0FF\n\n",
-            "title": "[02# Max Money]"
-        },
-        {
-            "content": "[03# inf ammo]\n04000000 00178F98 D503201F\n",
-            "title": "[03# inf ammo]"
-        },
-        {
-            "content": "[inf ammo (off)]\n04000000 00178F98 51000529\n\n",
-            "title": "[inf ammo (off)]"
-        },
-        {
-            "content": "[04# Inf Max Bullets]\n580F0000 03D3CE28\n580F1000 000000B8\n580F1000 00000090\n580F1000 00000010\n580F1000 00000010\n580F1000 00000038\n780F0000 00000014\n640F0000 00000000 000003E7\n\n",
-            "title": "[04# Inf Max Bullets]"
-        },
-        {
-            "content": "[05# No Damage]\n04000000 0017E540 D65F03C0\n",
-            "title": "[05# No Damage]"
-        },
-        {
-            "content": "[No Damage (off)]\n04000000 0017E540 D10383FF",
-            "title": "[No Damage (off)]"
-        }
-    ],
-    "47855F311DB97849": [
-        {
-            "content": "[Money 99999999]\n580F0000 03D3CE28\n580F1000 000000B8\n780F0000 00000080\n640F0000 00000000 05F5E0FF\n\n",
-            "title": "[Money 99999999]"
-        },
-        {
-            "content": "[HP 999]\n580F0000 03D3CE28\n580F1000 000000B8\n780F0000 00000020\n640F0000 00000000 000003E7\n\n",
-            "title": "[HP 999]"
-        },
-        {
-            "content": "[ST 100]\n580F0000 03D3CE28\n580F1000 000000B8\n780F0000 00000024\n640F0000 00000000 00002710\n\n",
-            "title": "[ST 100]"
-        },
-        {
-            "content": "[HUNGRY MAX]\n580F0000 03D3CE28\n580F1000 000000B8\n780F0000 0000002C\n640F0000 00000000 000249F0\n\n",
-            "title": "[HUNGRY MAX]"
-        },
-        {
-            "content": "[SLEEP MAX]\n580F0000 03D3CE28\n580F1000 000000B8\n780F0000 00000030\n640F0000 00000000 000249F0",
-            "title": "[SLEEP MAX]"
-        }
-    ],
+    "06B98C7A18749045": {
+        "[Default 60 FPS]": "[Default 60 FPS]\n580F0000 0400B9D8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 0400B9D8\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
     "attribution": {
         "Deadly Premonition 2 A Blessing In Disguise by patjenova and jun_bon_jovi.txt": "caution\ncan some problems"
+    },
+    "3C9B3ECFAD8A9542": {
+        "[01# Inf Stamina]": "[01# Inf Stamina]\n04000000 00501270 D65F03C0\n\n",
+        "[Inf Stamina (off)]": "[Inf Stamina (off)]\n04000000 00501270 A9BE4FF4\n\n",
+        "[02# Max Money]": "[02# Max Money]\n04000000 00502A68 18000080\n04000000 00502A78 05F5E0FF\n\n",
+        "[03# inf ammo]": "[03# inf ammo]\n04000000 00178F98 D503201F\n\n",
+        "[inf ammo (off)]": "[inf ammo (off)]\n04000000 00178F98 51000529\n\n",
+        "[04# Inf Max Bullets]": "[04# Inf Max Bullets]\n580F0000 03D3CE28\n580F1000 000000B8\n580F1000 00000090\n580F1000 00000010\n580F1000 00000010\n580F1000 00000038\n780F0000 00000014\n640F0000 00000000 000003E7\n\n",
+        "[05# No Damage]": "[05# No Damage]\n04000000 0017E540 D65F03C0\n\n",
+        "[No Damage (off)]": "[No Damage (off)]\n04000000 0017E540 D10383FF\n\n"
+    },
+    "47855F311DB97849": {
+        "[Money 99999999]": "[Money 99999999]\n580F0000 03D3CE28\n580F1000 000000B8\n780F0000 00000080\n640F0000 00000000 05F5E0FF\n\n",
+        "[HP 999]": "[HP 999]\n580F0000 03D3CE28\n580F1000 000000B8\n780F0000 00000020\n640F0000 00000000 000003E7\n\n",
+        "[ST 100]": "[ST 100]\n580F0000 03D3CE28\n580F1000 000000B8\n780F0000 00000024\n640F0000 00000000 00002710\n\n",
+        "[HUNGRY MAX]": "[HUNGRY MAX]\n580F0000 03D3CE28\n580F1000 000000B8\n780F0000 0000002C\n640F0000 00000000 000249F0\n\n",
+        "[SLEEP MAX]": "[SLEEP MAX]\n580F0000 03D3CE28\n580F1000 000000B8\n780F0000 00000030\n640F0000 00000000 000249F0\n\n"
     }
 }

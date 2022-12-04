@@ -1,16 +1,7 @@
 {
-    "1527E76F9F184833": [
-        {
-            "content": "[999999 points]\n040F0000 01B36A88 000F423F\n\n",
-            "title": "[999999 points]"
-        },
-        {
-            "content": "[Type-90 x99]\n040F0000 01B2C06C 00000063\n\n",
-            "title": "[Type-90 x99]"
-        },
-        {
-            "content": "[Type-Zero x99]\n040F0000 01B2C0A0 00000063",
-            "title": "[Type-Zero x99]"
-        }
-    ]
+    "1527E76F9F184833": {
+        "[999999 points]": "[999999 points]\n040F0000 01B36A88 000F423F\n\n",
+        "[Type-90 x99]": "[Type-90 x99]\n040F0000 01B2C06C 00000063\n\n",
+        "[Type-Zero x99]": "[Type-Zero x99]\n040F0000 01B2C0A0 00000063\n\n"
+    }
 }

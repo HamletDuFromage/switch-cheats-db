@@ -1,72 +1,30 @@
 {
-    "0CF694C10AF10FA8": [
-        {
-            "content": "[Inf. 99.999.999 Bucks]\n580F0000 05929668\n780F0000 000001EC\n680F0000 00000000 05F5E0FF\n\n",
-            "title": "[Inf. 99.999.999 Bucks]"
-        },
-        {
-            "content": "[Inf. 99.999.999 Gold Bucks]\n580F0000 05929668\n780F0000 000001F0\n680F0000 00000000 05F5E0FF",
-            "title": "[Inf. 99.999.999 Gold Bucks]"
-        }
-    ],
-    "689CA7B6CE68BF90": [
-        {
-            "content": "[99.999.999 Bucks]\n580F0000 0599EFF8\n780F0000 000001EC\n680F0000 00000000 05F5E0FF\n\n",
-            "title": "[99.999.999 Bucks]"
-        },
-        {
-            "content": "[99.999.99 Gold Bucks]\n580F0000 0599EFF8\n780F0000 000001F0\n680F0000 00000000 05F5E0FF\n\nFirst Activate 99.999.999 Bucks Go to Packs and go Back \n\nThan Activate 99.999.999 Gold Bucks. \n\nOtherwise you have 0 Gold Bucks",
-            "title": "[99.999.99 Gold Bucks]"
-        }
-    ],
-    "A9FB2947A86384AA": [
-        {
-            "content": "[Infnite Normal Coins]\n580F0000 059DA0F8\n780F0000 00000214\n680F0000 00000000 05F5E0FF\n\n",
-            "title": "[Infnite Normal Coins]"
-        },
-        {
-            "content": "[Infinite Gold Coins]\n580F0000 059DA0F8\n780F0000 00000218\n680F0000 00000000 05F5E0FF",
-            "title": "[Infinite Gold Coins]"
-        }
-    ],
-    "BD81FEF7E65A788B": [
-        {
-            "content": "[#01# Infnite Normal Coins]\n580F0000 05A46AF8\n780F0000 0000020C\n640F0000 00000000 0098967F\n\n",
-            "title": "[#01# Infnite Normal Coins]"
-        },
-        {
-            "content": "[#02# Infinite Gold Coins]\n580F0000 05A46AF8\n780F0000 00000210\n640F0000 00000000 0098967F\n\n",
-            "title": "[#02# Infinite Gold Coins]"
-        },
-        {
-            "content": "[#03# Player Max Level]\n580F0000 05A46AF8\n780F0000 00000208\n640F0000 00000000 0000007F",
-            "title": "[#03# Player Max Level]"
-        }
-    ],
-    "C38678C1D242D6F5": [
-        {
-            "content": "[Gold Bucks MAX]\n580F0000 05A63860\n580F1000 000000C0\n580F1000 00000008\n580F1000 00000278\n780F0000 00000218\n640F0000 00000000 0098967F\n\n",
-            "title": "[Gold Bucks MAX]"
-        },
-        {
-            "content": "[Coins MAX]\n580F0000 05A63860\n580F1000 000000C0\n580F1000 00000008\n580F1000 00000278\n780F0000 00000214\n640F0000 00000000 0098967F\n",
-            "title": "[Coins MAX]"
-        }
-    ],
-    "EBE7B75A6C67814A": [
-        {
-            "content": "[Infnite Normal Coins]\n580F0000 05A42AF8\n780F0000 0000020C\n640F0000 00000000 0098967F\n\n",
-            "title": "[Infnite Normal Coins]"
-        },
-        {
-            "content": "[Infinite Gold Coins]\n580F0000 05A42AF8\n780F0000 00000210\n640F0000 00000000 0098967F\n\n",
-            "title": "[Infinite Gold Coins]"
-        },
-        {
-            "content": "[Player Max Level 50+]\n580F0000 05A42AF8\n780F0000 00000208\n640F0000 00000000 0098967F",
-            "title": "[Player Max Level 50+]"
-        }
-    ],
+    "C38678C1D242D6F5": {
+        "[Gold Bucks MAX]": "[Gold Bucks MAX]\n580F0000 05A63860\n580F1000 000000C0\n580F1000 00000008\n580F1000 00000278\n780F0000 00000218\n640F0000 00000000 0098967F\n\n",
+        "[Coins MAX]": "[Coins MAX]\n580F0000 05A63860\n580F1000 000000C0\n580F1000 00000008\n580F1000 00000278\n780F0000 00000214\n640F0000 00000000 0098967F\n\n"
+    },
+    "BD81FEF7E65A788B": {
+        "[#01# Infnite Normal Coins]": "[#01# Infnite Normal Coins]\n580F0000 05A46AF8\n780F0000 0000020C\n640F0000 00000000 0098967F\n\n",
+        "[#02# Infinite Gold Coins]": "[#02# Infinite Gold Coins]\n580F0000 05A46AF8\n780F0000 00000210\n640F0000 00000000 0098967F\n\n",
+        "[#03# Player Max Level]": "[#03# Player Max Level]\n580F0000 05A46AF8\n780F0000 00000208\n640F0000 00000000 0000007F\n\n"
+    },
+    "0CF694C10AF10FA8": {
+        "[Inf. 99.999.999 Bucks]": "[Inf. 99.999.999 Bucks]\n580F0000 05929668\n780F0000 000001EC\n680F0000 00000000 05F5E0FF\n\n",
+        "[Inf. 99.999.999 Gold Bucks]": "[Inf. 99.999.999 Gold Bucks]\n580F0000 05929668\n780F0000 000001F0\n680F0000 00000000 05F5E0FF\n\n"
+    },
+    "A9FB2947A86384AA": {
+        "[Infnite Normal Coins]": "[Infnite Normal Coins]\n580F0000 059DA0F8\n780F0000 00000214\n680F0000 00000000 05F5E0FF\n\n",
+        "[Infinite Gold Coins]": "[Infinite Gold Coins]\n580F0000 059DA0F8\n780F0000 00000218\n680F0000 00000000 05F5E0FF\n\n"
+    },
+    "689CA7B6CE68BF90": {
+        "[99.999.999 Bucks]": "[99.999.999 Bucks]\n580F0000 0599EFF8\n780F0000 000001EC\n680F0000 00000000 05F5E0FF\n\n",
+        "[99.999.99 Gold Bucks]": "[99.999.99 Gold Bucks]\n580F0000 0599EFF8\n780F0000 000001F0\n680F0000 00000000 05F5E0FF\n\nFirst Activate 99.999.999 Bucks Go to Packs and go Back \n\nThan Activate 99.999.999 Gold Bucks. \n\nOtherwise you have 0 Gold Bucks\n\n"
+    },
+    "EBE7B75A6C67814A": {
+        "[Infnite Normal Coins]": "[Infnite Normal Coins]\n580F0000 05A42AF8\n780F0000 0000020C\n640F0000 00000000 0098967F\n\n",
+        "[Infinite Gold Coins]": "[Infinite Gold Coins]\n580F0000 05A42AF8\n780F0000 00000210\n640F0000 00000000 0098967F\n\n",
+        "[Player Max Level 50+]": "[Player Max Level 50+]\n580F0000 05A42AF8\n780F0000 00000208\n640F0000 00000000 0098967F\n\n"
+    },
     "attribution": {
         "NBA 2K Playgrounds 2 by merlin555.txt": "[From MAX-CHEATS.com by eco95 for NBA Playground 2 (v1.0.5.0)]\n\n[Infnite Normal Coins]\n580F0000 05A42AF8\n780F0000 0000020C\n640F0000 00000000 0098967F\n\n[Infinite Gold Coins]\n580F0000 05A42AF8\n780F0000 00000210\n640F0000 00000000 0098967F\n\n[Player Max Level 50+]\n580F0000 05A42AF8\n780F0000 00000208\n640F0000 00000000 0098967F"
     }

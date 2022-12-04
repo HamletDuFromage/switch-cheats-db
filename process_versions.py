@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import json
-import cbor2
 import requests
 import os
 
@@ -9,7 +8,6 @@ import os
 class ProcessVersions:
     def __init__(self, cnmts_url, titles_url):
         self.json_path = "versions.json"
-        self.cbor_path = "versions.cbor"
         self.dir_path = "versions/"
         self.changed = False
         self.versions_dict = dict()
@@ -59,8 +57,6 @@ class ProcessVersions:
     def write_master_files(self):
         with open(self.json_path, 'w') as json_file:
             json.dump(self.versions_dict, json_file, indent=4, sort_keys=True)
-        """ with open(self.cbor_path, 'wb') as cbor_file:
-            cbor2.dump(json.dumps(self.versions_dict), cbor_file) """
 
     def write_title_files(self):
         if not(os.path.exists(self.dir_path)):

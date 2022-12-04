@@ -1,10 +1,7 @@
 {
-    "233EF0208ADFEF4F": [
-        {
-            "content": "[Energy unlimited]\n580F0000 024FEE98\n780F1000 00004658\n640F0000 00000000 00000003\n",
-            "title": "[Energy unlimited]"
-        }
-    ],
+    "233EF0208ADFEF4F": {
+        "[Energy unlimited]": "[Energy unlimited]\n580F0000 024FEE98\n780F1000 00004658\n640F0000 00000000 00000003\n\n"
+    },
     "attribution": {
         "Grand Brix Shooter v1.0.1 by merlin555.txt": ""
     }

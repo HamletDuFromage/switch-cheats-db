@@ -1,18 +1,8 @@
 {
-    "6A819AD63D809D95": [
-        {
-            "content": "[*Inf Balls Activate This Both]\n04000000 00310348 00000001\n\n",
-            "title": "[*Inf Balls Activate This Both]"
-        },
-        {
-            "content": "[*Inf Balls Activate This Both]\n04000000 0031030C 00000004\n\n",
-            "title": "[*Inf Balls Activate This Both]"
-        },
-        {
-            "content": "[*Inf Balls Jericoss]\n04000000 00310348 00000001\n04000000 0031030C 00000004",
-            "title": "[*Inf Balls Jericoss]"
-        }
-    ],
+    "6A819AD63D809D95": {
+        "[*Inf Balls Activate This Both]": "[*Inf Balls Activate This Both]\n04000000 0031030C 00000004\n\n",
+        "[*Inf Balls Jericoss]": "[*Inf Balls Jericoss]\n04000000 00310348 00000001\n04000000 0031030C 00000004\n\n"
+    },
     "attribution": {
         "Tennis In The Face ver 1.0..0 by jericoss.txt": "Super Mario Allstars\nSuper Mario 3"
     }

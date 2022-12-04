@@ -1,136 +1,40 @@
 {
-    "436B1120BAEFC846": [
-        {
-            "content": "[60 FPS]\n580F0000 02744918\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-            "title": "[60 FPS]"
-        },
-        {
-            "content": "[Default 30 FPS]\n580F0000 02744918\n780F0000 00000F14\n640F0000 00000000 00000002",
-            "title": "[Default 30 FPS]"
-        }
-    ],
-    "5D769ABCAD9F2743": [
-        {
-            "content": "[02# Cheat studs x2]\n010A0000 01E91A12 00000001\n\n",
-            "title": "[02# Cheat studs x2]"
-        },
-        {
-            "content": "[Cheat studs x2 (off)]\n010A0000 01E91A12 00000000\n\n",
-            "title": "[Cheat studs x2 (off)]"
-        },
-        {
-            "content": "[03# Cheat studs x4]\n010A0000 01E91A32 00000001\n\n",
-            "title": "[03# Cheat studs x4]"
-        },
-        {
-            "content": "[Cheat studs x4 (off)]\n010A0000 01E91A32 00000000\n\n",
-            "title": "[Cheat studs x4 (off)]"
-        },
-        {
-            "content": "[04# Cheat studs x6]\n010A0000 01E91A52 00000001\n\n",
-            "title": "[04# Cheat studs x6]"
-        },
-        {
-            "content": "[Cheat studs x6 (off)]\n010A0000 01E91A52 00000000\n\n",
-            "title": "[Cheat studs x6 (off)]"
-        },
-        {
-            "content": "[05# Cheat studs x8]\n010A0000 01E91A72 00000001\n\n",
-            "title": "[05# Cheat studs x8]"
-        },
-        {
-            "content": "[Cheat studs x8 (off)]\n010A0000 01E91A72 00000000\n\n",
-            "title": "[Cheat studs x8 (off)]"
-        },
-        {
-            "content": "[06# Cheat studs x10]\n010A0000 01E91A92 00000001\n\n",
-            "title": "[06# Cheat studs x10]"
-        },
-        {
-            "content": "[Cheat studs x10 (off)]\n010A0000 01E91A92 00000000\n\n",
-            "title": "[Cheat studs x10 (off)]"
-        },
-        {
-            "content": "[07# Cheat Disguises]\n010A0000 01E91AB2 00000001\n\n",
-            "title": "[07# Cheat Disguises]"
-        },
-        {
-            "content": "[Cheat Disguises (off)]\n010A0000 01E91AB2 00000000\n\n",
-            "title": "[Cheat Disguises (off)]"
-        },
-        {
-            "content": "[08# Cheat Gold Brick Detector]\n010A0000 01E91AD2 00000001\n\n",
-            "title": "[08# Cheat Gold Brick Detector]"
-        },
-        {
-            "content": "[Cheat Gold Brick Detector (off)]\n010A0000 01E91AD2 00000000\n\n",
-            "title": "[Cheat Gold Brick Detector (off)]"
-        },
-        {
-            "content": "[09# Cheat Minikit Detector]\n010A0000 01E91AF2 00000001\n\n",
-            "title": "[09# Cheat Minikit Detector]"
-        },
-        {
-            "content": "[Cheat Minikit Detector (off)]\n010A0000 01E91AF2 00000000\n\n",
-            "title": "[Cheat Minikit Detector (off)]"
-        },
-        {
-            "content": "[10# Cheat Mini Characters]\n010A0000 01E91B12 00000001\n\n",
-            "title": "[10# Cheat Mini Characters]"
-        },
-        {
-            "content": "[Cheat Mini Characters (off)]\n010A0000 01E91B12 00000000\n\n",
-            "title": "[Cheat Mini Characters (off)]"
-        },
-        {
-            "content": "[11# Cheat Collect Ghost Studs]\n010A0000 01E91B32 00000001\n\n",
-            "title": "[11# Cheat Collect Ghost Studs]"
-        },
-        {
-            "content": "[Cheat Collect Ghost Studs (off)]\n010A0000 01E91B32 00000000\n\n",
-            "title": "[Cheat Collect Ghost Studs (off)]"
-        },
-        {
-            "content": "[12# Cheat Fast Build]\n010A0000 01E91B52 00000001\n\n",
-            "title": "[12# Cheat Fast Build]"
-        },
-        {
-            "content": "[Cheat Fast Build (off)]\n010A0000 01E91B52 00000000\n\n",
-            "title": "[Cheat Fast Build (off)]"
-        },
-        {
-            "content": "[13# Cheat Attract Studs]\n010A0000 01E91B72 00000001\n\n",
-            "title": "[13# Cheat Attract Studs]"
-        },
-        {
-            "content": "[Cheat Attract Studs (off)]\n010A0000 01E91B72 00000000\n\n",
-            "title": "[Cheat Attract Studs (off)]"
-        },
-        {
-            "content": "[14# Cheat Character Token Detector]\n010A0000 01E91B92 00000001\n\n",
-            "title": "[14# Cheat Character Token Detector]"
-        },
-        {
-            "content": "[Cheat Character Token Detector (off)]\n010A0000 01E91B92 00000000\n\n",
-            "title": "[Cheat Character Token Detector (off)]"
-        },
-        {
-            "content": "[15# Cheat Festive Hats]\n010A0000 01E91BB2 00000001\n\n",
-            "title": "[15# Cheat Festive Hats]"
-        },
-        {
-            "content": "[Cheat Festive Hats (off)]\n010A0000 01E91BB2 00000000\n\n",
-            "title": "[Cheat Festive Hats (off)]"
-        },
-        {
-            "content": "[16# Cheat Extra Hearts]\n010A0000 01E91BD2 00000001\n\n",
-            "title": "[16# Cheat Extra Hearts]"
-        },
-        {
-            "content": "[Cheat Extra Hearts(off)]\n010A0000 01E91BD2 00000000",
-            "title": "[Cheat Extra Hearts(off)]"
-        }
-    ],
+    "436B1120BAEFC846": {
+        "[60 FPS]": "[60 FPS]\n580F0000 02744918\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 02744918\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "5D769ABCAD9F2743": {
+        "[02# Cheat studs x2]": "[02# Cheat studs x2]\n010A0000 01E91A12 00000001\n\n",
+        "[Cheat studs x2 (off)]": "[Cheat studs x2 (off)]\n010A0000 01E91A12 00000000\n\n",
+        "[03# Cheat studs x4]": "[03# Cheat studs x4]\n010A0000 01E91A32 00000001\n\n",
+        "[Cheat studs x4 (off)]": "[Cheat studs x4 (off)]\n010A0000 01E91A32 00000000\n\n",
+        "[04# Cheat studs x6]": "[04# Cheat studs x6]\n010A0000 01E91A52 00000001\n\n",
+        "[Cheat studs x6 (off)]": "[Cheat studs x6 (off)]\n010A0000 01E91A52 00000000\n\n",
+        "[05# Cheat studs x8]": "[05# Cheat studs x8]\n010A0000 01E91A72 00000001\n\n",
+        "[Cheat studs x8 (off)]": "[Cheat studs x8 (off)]\n010A0000 01E91A72 00000000\n\n",
+        "[06# Cheat studs x10]": "[06# Cheat studs x10]\n010A0000 01E91A92 00000001\n\n",
+        "[Cheat studs x10 (off)]": "[Cheat studs x10 (off)]\n010A0000 01E91A92 00000000\n\n",
+        "[07# Cheat Disguises]": "[07# Cheat Disguises]\n010A0000 01E91AB2 00000001\n\n",
+        "[Cheat Disguises (off)]": "[Cheat Disguises (off)]\n010A0000 01E91AB2 00000000\n\n",
+        "[08# Cheat Gold Brick Detector]": "[08# Cheat Gold Brick Detector]\n010A0000 01E91AD2 00000001\n\n",
+        "[Cheat Gold Brick Detector (off)]": "[Cheat Gold Brick Detector (off)]\n010A0000 01E91AD2 00000000\n\n",
+        "[09# Cheat Minikit Detector]": "[09# Cheat Minikit Detector]\n010A0000 01E91AF2 00000001\n\n",
+        "[Cheat Minikit Detector (off)]": "[Cheat Minikit Detector (off)]\n010A0000 01E91AF2 00000000\n\n",
+        "[10# Cheat Mini Characters]": "[10# Cheat Mini Characters]\n010A0000 01E91B12 00000001\n\n",
+        "[Cheat Mini Characters (off)]": "[Cheat Mini Characters (off)]\n010A0000 01E91B12 00000000\n\n",
+        "[11# Cheat Collect Ghost Studs]": "[11# Cheat Collect Ghost Studs]\n010A0000 01E91B32 00000001\n\n",
+        "[Cheat Collect Ghost Studs (off)]": "[Cheat Collect Ghost Studs (off)]\n010A0000 01E91B32 00000000\n\n",
+        "[12# Cheat Fast Build]": "[12# Cheat Fast Build]\n010A0000 01E91B52 00000001\n\n",
+        "[Cheat Fast Build (off)]": "[Cheat Fast Build (off)]\n010A0000 01E91B52 00000000\n\n",
+        "[13# Cheat Attract Studs]": "[13# Cheat Attract Studs]\n010A0000 01E91B72 00000001\n\n",
+        "[Cheat Attract Studs (off)]": "[Cheat Attract Studs (off)]\n010A0000 01E91B72 00000000\n\n",
+        "[14# Cheat Character Token Detector]": "[14# Cheat Character Token Detector]\n010A0000 01E91B92 00000001\n\n",
+        "[Cheat Character Token Detector (off)]": "[Cheat Character Token Detector (off)]\n010A0000 01E91B92 00000000\n\n",
+        "[15# Cheat Festive Hats]": "[15# Cheat Festive Hats]\n010A0000 01E91BB2 00000001\n\n",
+        "[Cheat Festive Hats (off)]": "[Cheat Festive Hats (off)]\n010A0000 01E91BB2 00000000\n\n",
+        "[16# Cheat Extra Hearts]": "[16# Cheat Extra Hearts]\n010A0000 01E91BD2 00000001\n\n",
+        "[Cheat Extra Hearts(off)]": "[Cheat Extra Hearts(off)]\n010A0000 01E91BD2 00000000\n\n"
+    },
     "attribution": {
         "LEGO MARVEL Super Heroes ver 1.0.1 by Patjenova.txt": "Note: Better use NOEXES to avoid game lag"
     }

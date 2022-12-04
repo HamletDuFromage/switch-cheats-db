@@ -1,474 +1,122 @@
 {
-    "4BBB3B3455D306C6": [
-        {
-            "content": "[Clean Water 99]\n04000000 00e0f762 00000063\n\n",
-            "title": "[Clean Water 99]"
-        },
-        {
-            "content": "[Taunt 99]\n04000000 00e0f71a 00000063\n\n",
-            "title": "[Taunt 99]"
-        },
-        {
-            "content": "[Lava Cube 99]\n04000000 00e0f71e 00000063\n\n",
-            "title": "[Lava Cube 99]"
-        },
-        {
-            "content": "[Inf Mixed Oil 99]\n04000000 00e0f73e 00000063\n\n",
-            "title": "[Inf Mixed Oil 99]"
-        },
-        {
-            "content": "[Inf Bullet seed 99]\n04000000 00e0f6d2 00000063\n\n",
-            "title": "[Inf Bullet seed 99]"
-        },
-        {
-            "content": "[Inf Wind Flower 99]\n04000000 00e0f6ae 00000063\n\n",
-            "title": "[Inf Wind Flower 99]"
-        },
-        {
-            "content": "[Inf Water 99]\n04000000 00e0f6f6 00000063\n\n",
-            "title": "[Inf Water 99]"
-        },
-        {
-            "content": "[99999 Coins]\n04000000 00e142a8 0001869F\n\n",
-            "title": "[99999 Coins]"
-        },
-        {
-            "content": "[999 hp Logy]\n04000000 00e14584 000003E7\n04000000 00e1458c 000003E7\n04000000 00e1468c 000003E7\n\n",
-            "title": "[999 hp Logy]"
-        },
-        {
-            "content": "[999 MP Logy]\n04000000 00e14588 000003E7\n04000000 00e14590 000003E7\n04000000 00e14690 000003E7\n\n",
-            "title": "[999 MP Logy]"
-        },
-        {
-            "content": "[999 HP Escha]\n04000000 00e142dc 000003E7\n04000000 00e143dc 000003E7\n04000000 00e144be 000003E7\n\n",
-            "title": "[999 HP Escha]"
-        },
-        {
-            "content": "[999 MP Escha]\n04000000 00e142d8 000003E7\n04000000 00e142e0 000003E7\n04000000 00e143e0 000003E7\n\n",
-            "title": "[999 MP Escha]"
-        },
-        {
-            "content": "[999 Awin HP]\n04000000 00e14834 000003E7\n04000000 00e1483c 000003E7\n04000000 00e1493c 000003E7\n\n",
-            "title": "[999 Awin HP]"
-        },
-        {
-            "content": "[999 Awin MP]\n04000000 00e14838 000003E7\n04000000 00e14840 000003E7\n04000000 00e14940 000003E7\n\n",
-            "title": "[999 Awin MP]"
-        },
-        {
-            "content": "[Spiky Fruit 99]\n04000000 00e0f8ca 00000063\n\n",
-            "title": "[Spiky Fruit 99]"
-        },
-        {
-            "content": "[Sweet Stump 99]\n04000000 00e0fa9e 00000063\n\n",
-            "title": "[Sweet Stump 99]"
-        },
-        {
-            "content": "[Paper Scraps 99]\n04000000 00e0fb2e 00000063\n\n",
-            "title": "[Paper Scraps 99]"
-        },
-        {
-            "content": "[Beehive 99]\n04000000 00e0f7ce 00000063\n\n",
-            "title": "[Beehive 99]"
-        },
-        {
-            "content": "[Apple 99]\n04000000 00e0f9a2 00000063\n\n",
-            "title": "[Apple 99]"
-        },
-        {
-            "content": "[Beast Meat 99]\n04000000 00e0f7aa 00000063\n\n",
-            "title": "[Beast Meat 99]"
-        },
-        {
-            "content": "[Anti Bug Grass 99]\n04000000 00e0f816 00000063\n\n",
-            "title": "[Anti Bug Grass 99]"
-        },
-        {
-            "content": "[Green Soil 99]\n04000000 00e0f95a 00000063\n\n",
-            "title": "[Green Soil 99]"
-        },
-        {
-            "content": "[Dried Root 99]\n04000000 00e0f8ee 00000063\n\n",
-            "title": "[Dried Root 99]"
-        },
-        {
-            "content": "[Fairy Soul 99]\n04000000 00e0f936 00000063\n\n",
-            "title": "[Fairy Soul 99]"
-        },
-        {
-            "content": "[Scrap Metal 99]\n04000000 00e0f9ea 00000063\n\n",
-            "title": "[Scrap Metal 99]"
-        },
-        {
-            "content": "[Slag Memory 99]\n04000000 00e0fc06 00000063\n\n",
-            "title": "[Slag Memory 99]"
-        },
-        {
-            "content": "[Threia 999 HP]\n04000000 00e14ae4 000003E7\n04000000 00e14aec 000003E7\n04000000 00e14bec 000003E7\n\n",
-            "title": "[Threia 999 HP]"
-        },
-        {
-            "content": "[Spiky Bud 99]\n04000000 00e0fa56 000003E7\n\n",
-            "title": "[Spiky Bud 99]"
-        },
-        {
-            "content": "[Characoal Pieces 99]\n04000000 00e0f97e 000003E7\n\n",
-            "title": "[Characoal Pieces 99]"
-        },
-        {
-            "content": "[Dried Root 99]\n04000000 00e0f912 000003E7\n\n",
-            "title": "[Dried Root 99]"
-        },
-        {
-            "content": "[Lethe Grass 99]\n04000000 00e0fefa 000003E7\n\n",
-            "title": "[Lethe Grass 99]"
-        },
-        {
-            "content": "[Freash Meat 99]\n04000000 00e0ff8a 000003E7\n\n",
-            "title": "[Freash Meat 99]"
-        },
-        {
-            "content": "[Mantis Blade 99]\n04000000 00e0fdfe 000003E7\n\n",
-            "title": "[Mantis Blade 99]"
-        },
-        {
-            "content": "[Eiche 99]\n04000000 00e0fe22 000003E7\n\n",
-            "title": "[Eiche 99]"
-        },
-        {
-            "content": "[Antique Stone 99]\n04000000 00e0fa0e 000003E7\n\n",
-            "title": "[Antique Stone 99]"
-        },
-        {
-            "content": "[Glass Core 99]\n04000000 00e0fa32 000003E7\n\n",
-            "title": "[Glass Core 99]"
-        },
-        {
-            "content": "[Corundum Stone 99]\n04000000 00e0f786 000003E7\n\n",
-            "title": "[Corundum Stone 99]"
-        },
-        {
-            "content": "[Shining Crystal 99]\n04000000 00e0fbbe 000003E7\n\n",
-            "title": "[Shining Crystal 99]"
-        },
-        {
-            "content": "[Grain Scraps 99]\n04000000 00e0f8a6 000003E7\n\n",
-            "title": "[Grain Scraps 99]"
-        },
-        {
-            "content": "[Milch Bean 99]\n04000000 00e0fb0a 000003E7\n\n",
-            "title": "[Milch Bean 99]"
-        },
-        {
-            "content": "[Phlogiston 99]\n04000000 00e0fbe2 000003E7\n\n",
-            "title": "[Phlogiston 99]"
-        },
-        {
-            "content": "[Silver Hive 99]\n04000000 00e0f83a 000003E7\n\n",
-            "title": "[Silver Hive 99]"
-        },
-        {
-            "content": "[Darkness Shoot 99]\n04000000 00e1015e 000003E7\n\n",
-            "title": "[Darkness Shoot 99]"
-        },
-        {
-            "content": "[Aqua Light 99]\n04000000 00e0fcba 000003E7\n\n",
-            "title": "[Aqua Light 99]"
-        },
-        {
-            "content": "[Eternal Liquid 99]\n04000000 00e100ce 000003E7\n\n",
-            "title": "[Eternal Liquid 99]"
-        },
-        {
-            "content": "[Reyfer HP 999]\n04000000 00e14d94 000003E7\n04000000 00e14d9c 000003E7\n04000000 00e14e9c 000003E7\n\n",
-            "title": "[Reyfer HP 999]"
-        },
-        {
-            "content": "[Wilbell HP 999]\n04000000 00e155a4 000003E7\n04000000 00e155ac 000003E7\n04000000 00e156ac 000003E7\n\n",
-            "title": "[Wilbell HP 999]"
-        },
-        {
-            "content": "[Reyfer MP 999]\n04000000 00e14d98 000003E7\n04000000 00e14da0 000003E7\n04000000 00e14ea0 000003E7\n\n",
-            "title": "[Reyfer MP 999]"
-        },
-        {
-            "content": "[Wilbell MP 999]\n04000000 00e155a8 000003E7\n04000000 00e155b0 000003E7\n04000000 00e156b0 000003E7\n\n",
-            "title": "[Wilbell MP 999]"
-        },
-        {
-            "content": "[Threia MP 999]\n04000000 00e14ae8 000003E7\n04000000 00e14af0 000003E7\n04000000 00e14bf0 000003E7\n\n",
-            "title": "[Threia MP 999]"
-        },
-        {
-            "content": "[Wind Core MP 99]\n04000000 00e10116 00000063\n\n",
-            "title": "[Wind Core MP 99]"
-        },
-        {
-            "content": "[Water Crystal 99]\n04000000 00e101ca 00000063\n\n",
-            "title": "[Water Crystal 99]"
-        },
-        {
-            "content": "[Soul Vine 99]\n04000000 00e10086 00000063\n\n",
-            "title": "[Soul Vine 99]"
-        },
-        {
-            "content": "[Amber Soil 99]\n04000000 00e0ff1e 00000063\n\n",
-            "title": "[Amber Soil 99]"
-        },
-        {
-            "content": "[Crimson Soil 99]\n04000000 00e100aa 00000063\n\n",
-            "title": "[Crimson Soil 99]"
-        },
-        {
-            "content": "[Ultramarine Soil 99]\n04000000 00e101a6 00000063\n\n",
-            "title": "[Ultramarine Soil 99]"
-        },
-        {
-            "content": "[Pale Clay 99]\n04000000 00e102c6 00000063\n\n",
-            "title": "[Pale Clay 99]"
-        },
-        {
-            "content": "[Living Clay 99]\n04000000 00e10356 00000063\n\n",
-            "title": "[Living Clay 99]"
-        },
-        {
-            "content": "[ Purify Block 99]\n04000000 00e0ff66 00000063\n\n",
-            "title": "[ Purify Block 99]"
-        },
-        {
-            "content": "[Black Bone 99]\n04000000 00e1003e 00000063\n\n",
-            "title": "[Black Bone 99]"
-        },
-        {
-            "content": "[Melting Jewels 99]\n04000000 00e0fa7a 00000063\n\n",
-            "title": "[Melting Jewels 99]"
-        },
-        {
-            "content": "[Pendelock 99]\n04000000 00e0fd4a 00000063\n\n",
-            "title": "[Pendelock 99]"
-        },
-        {
-            "content": "[Fluorite 99]\n04000000 00e0ffd2 00000063\n\n",
-            "title": "[Fluorite 99]"
-        },
-        {
-            "content": "[ Cloud Financier 99]\n04000000 00e0fd92 00000063\n\n",
-            "title": "[ Cloud Financier 99]"
-        },
-        {
-            "content": "[Ladys Whiskers 99]\n04000000 00e100f2 00000063\n\n",
-            "title": "[Ladys Whiskers 99]"
-        },
-        {
-            "content": "[Bitter Grass 99]\n04000000 00e10182 00000063\n\n",
-            "title": "[Bitter Grass 99]"
-        },
-        {
-            "content": "[Bitter tree seed 99]\n04000000 00e0fe46 00000063\n\n",
-            "title": "[Bitter tree seed 99]"
-        },
-        {
-            "content": "[Bitter Melon 99]\n04000000 00e0feb2 00000063\n\n",
-            "title": "[Bitter Melon 99]"
-        },
-        {
-            "content": "[Sugar tree sap 99]\n04000000 00e1027e 00000063\n\n",
-            "title": "[Sugar tree sap 99]"
-        },
-        {
-            "content": "[Mutated Taun 99]\n04000000 00e0f7f2 00000063\n\n",
-            "title": "[Mutated Taun 99]"
-        },
-        {
-            "content": "[White flower 99]\n04000000 00e0fd02 00000063\n\n",
-            "title": "[White flower 99]"
-        },
-        {
-            "content": "[Earth Flower 99]\n04000000 00e0f85e 00000063\n\n",
-            "title": "[Earth Flower 99]"
-        },
-        {
-            "content": "[Slag Cable 99]\n04000000 00e0fb9a 00000063\n\n",
-            "title": "[Slag Cable 99]"
-        },
-        {
-            "content": "[Poison Apple 99]\n04000000 00e0f9c6 00000063\n\n",
-            "title": "[Poison Apple 99]"
-        },
-        {
-            "content": "[Green Apple 99]\n04000000 00e1013a 00000063\n\n",
-            "title": "[Green Apple 99]"
-        },
-        {
-            "content": "[Rough Disk 99]\n04000000 00e1037a 00000063\n\n",
-            "title": "[Rough Disk 99]"
-        },
-        {
-            "content": "[Bent Screw 99]\n04000000 00e0fe8e 00000063\n\n",
-            "title": "[Bent Screw 99]"
-        },
-        {
-            "content": "[Rusty Cog 99]\n04000000 00e10452 00000063\n\n",
-            "title": "[Rusty Cog 99]"
-        },
-        {
-            "content": "[World Stone Star 99]\n04000000 00e1040a 00000063\n\n",
-            "title": "[World Stone Star 99]"
-        },
-        {
-            "content": "[Empty Core 99]\n04000000 00e1039e 00000063\n\n",
-            "title": "[Empty Core 99]"
-        },
-        {
-            "content": "[River Wood 99]\n04000000 00e10212 00000063\n\n",
-            "title": "[River Wood 99]"
-        },
-        {
-            "content": "[Golden Yarn 99]\n04000000 00e102ea 00000063\n\n",
-            "title": "[Golden Yarn 99]"
-        },
-        {
-            "content": "[Fire Slag Stone 99]\n04000000 00e10506 00000063\n\n",
-            "title": "[Fire Slag Stone 99]"
-        },
-        {
-            "content": "[Bendy Materia 99]\n04000000 00e103c2 00000063\n\n",
-            "title": "[Bendy Materia 99]"
-        },
-        {
-            "content": "[Dried Taro Chips 99]\n04000000 00e0fd6e 00000063\n\n",
-            "title": "[Dried Taro Chips 99]"
-        },
-        {
-            "content": "[Red Devil 99]\n04000000 00e10476 00000063\n\n",
-            "title": "[Red Devil 99]"
-        },
-        {
-            "content": "[Blue Devil 99]\n04000000 00e10596 00000063\n\n",
-            "title": "[Blue Devil 99]"
-        },
-        {
-            "content": "[Blaze Ore 99]\n04000000 00e106b6 00000063\n\n",
-            "title": "[Blaze Ore 99]"
-        },
-        {
-            "content": "[Scorching Ore 99]\n04000000 00e10626 00000063\n\n",
-            "title": "[Scorching Ore 99]"
-        },
-        {
-            "content": "[Lava Stone 99]\n04000000 00e1064a 00000063\n\n",
-            "title": "[Lava Stone 99]"
-        },
-        {
-            "content": "[Ifrit Breath 99]\n04000000 00e10572 00000063\n\n",
-            "title": "[Ifrit Breath 99]"
-        },
-        {
-            "content": "[Slag Anthena 99]\n04000000 00e0fc96 00000063\n\n",
-            "title": "[Slag Anthena 99]"
-        },
-        {
-            "content": "[Slag Heart 99]\n04000000 00e1049a 00000063\n\n",
-            "title": "[Slag Heart 99]"
-        },
-        {
-            "content": "[Legged Radish 99]\n04000000 00e10746 00000063\n\n",
-            "title": "[Legged Radish 99]"
-        },
-        {
-            "content": "[Living Tail 99]\n04000000 00e106da 00000063\n\n",
-            "title": "[Living Tail 99]"
-        },
-        {
-            "content": "[Liquid Crystal 99]\n04000000 00e102a2 00000063\n\n",
-            "title": "[Liquid Crystal 99]"
-        },
-        {
-            "content": "[Water Flower 99]\n04000000 00e105ba 00000063\n\n",
-            "title": "[Water Flower 99]"
-        },
-        {
-            "content": "[Mossy Driftwood 99]\n04000000 00e10236 00000063\n\n",
-            "title": "[Mossy Driftwood 99]"
-        },
-        {
-            "content": "[Bouyant Gas 99]\n04000000 00e1066e 00000063\n\n",
-            "title": "[Bouyant Gas 99]"
-        },
-        {
-            "content": "[Bird Egg 99]\n04000000 00e0fae6 00000063\n\n",
-            "title": "[Bird Egg 99]"
-        },
-        {
-            "content": "[Mixed Oil 99]\n04000000 00e105de 00000063\n\n",
-            "title": "[Mixed Oil 99]"
-        },
-        {
-            "content": "[Salat 99]\n04000000 00e107d6 00000063\n\n",
-            "title": "[Salat 99]"
-        },
-        {
-            "content": "[Fresh Salat 99]\n04000000 00e107fa 00000063\n\n",
-            "title": "[Fresh Salat 99]"
-        },
-        {
-            "content": "[Fire Flower 99]\n04000000 00e106da 00000063\n\n",
-            "title": "[Fire Flower 99]"
-        },
-        {
-            "content": "[Dragon Bone 99]\n04000000 00e1076a 00000063\n\n",
-            "title": "[Dragon Bone 99]"
-        },
-        {
-            "content": "[Unburning Web 99]\n04000000 00e106fe 00000063\n\n",
-            "title": "[Unburning Web 99]"
-        },
-        {
-            "content": "[Trio Taun 99]\n04000000 00e108ae 00000063\n\n",
-            "title": "[Trio Taun 99]"
-        },
-        {
-            "content": "[Diamond Gemstone 99]\n04000000 00e10962 00000063\n\n",
-            "title": "[Diamond Gemstone 99]"
-        },
-        {
-            "content": "[Preserved Biscuit 99]\n04000000 00e0fac2 00000063\n\n",
-            "title": "[Preserved Biscuit 99]"
-        },
-        {
-            "content": "[Dragon Tail 99]\n04000000 00e1091a 00000063\n\n",
-            "title": "[Dragon Tail 99]"
-        },
-        {
-            "content": "[Spring Water 99]\n04000000 00e10a16 00000063\n\n",
-            "title": "[Spring Water 99]"
-        },
-        {
-            "content": "[Ice Slag Stone 99]\n04000000 00e105ba 00000063\n\n",
-            "title": "[Ice Slag Stone 99]"
-        },
-        {
-            "content": "[Fully Ripe Fruite 99]\n04000000 00e10842 00000063\n\n",
-            "title": "[Fully Ripe Fruite 99]"
-        },
-        {
-            "content": "[Epicure Nut 99]\n04000000 00e1088a 00000063\n\n",
-            "title": "[Epicure Nut 99]"
-        },
-        {
-            "content": "[Soft Fur 99]\n04000000 00e0f882 00000063\n\n",
-            "title": "[Soft Fur 99]"
-        },
-        {
-            "content": "[Gold Meat 99]\n04000000 00e10962 00000063\n\n",
-            "title": "[Gold Meat 99]"
-        },
-        {
-            "content": "[Golden Apple 99]\n04000000 00e1093e 00000063\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-            "title": "[Golden Apple 99]"
-        }
-    ],
+    "4BBB3B3455D306C6": {
+        "[Clean Water 99]": "[Clean Water 99]\n04000000 00e0f762 00000063\n\n",
+        "[Taunt 99]": "[Taunt 99]\n04000000 00e0f71a 00000063\n\n",
+        "[Lava Cube 99]": "[Lava Cube 99]\n04000000 00e0f71e 00000063\n\n",
+        "[Inf Mixed Oil 99]": "[Inf Mixed Oil 99]\n04000000 00e0f73e 00000063\n\n",
+        "[Inf Bullet seed 99]": "[Inf Bullet seed 99]\n04000000 00e0f6d2 00000063\n\n",
+        "[Inf Wind Flower 99]": "[Inf Wind Flower 99]\n04000000 00e0f6ae 00000063\n\n",
+        "[Inf Water 99]": "[Inf Water 99]\n04000000 00e0f6f6 00000063\n\n",
+        "[99999 Coins]": "[99999 Coins]\n04000000 00e142a8 0001869F\n\n",
+        "[999 hp Logy]": "[999 hp Logy]\n04000000 00e14584 000003E7\n04000000 00e1458c 000003E7\n04000000 00e1468c 000003E7\n\n",
+        "[999 MP Logy]": "[999 MP Logy]\n04000000 00e14588 000003E7\n04000000 00e14590 000003E7\n04000000 00e14690 000003E7\n\n",
+        "[999 HP Escha]": "[999 HP Escha]\n04000000 00e142dc 000003E7\n04000000 00e143dc 000003E7\n04000000 00e144be 000003E7\n\n",
+        "[999 MP Escha]": "[999 MP Escha]\n04000000 00e142d8 000003E7\n04000000 00e142e0 000003E7\n04000000 00e143e0 000003E7\n\n",
+        "[999 Awin HP]": "[999 Awin HP]\n04000000 00e14834 000003E7\n04000000 00e1483c 000003E7\n04000000 00e1493c 000003E7\n\n",
+        "[999 Awin MP]": "[999 Awin MP]\n04000000 00e14838 000003E7\n04000000 00e14840 000003E7\n04000000 00e14940 000003E7\n\n",
+        "[Spiky Fruit 99]": "[Spiky Fruit 99]\n04000000 00e0f8ca 00000063\n\n",
+        "[Sweet Stump 99]": "[Sweet Stump 99]\n04000000 00e0fa9e 00000063\n\n",
+        "[Paper Scraps 99]": "[Paper Scraps 99]\n04000000 00e0fb2e 00000063\n\n",
+        "[Beehive 99]": "[Beehive 99]\n04000000 00e0f7ce 00000063\n\n",
+        "[Apple 99]": "[Apple 99]\n04000000 00e0f9a2 00000063\n\n",
+        "[Beast Meat 99]": "[Beast Meat 99]\n04000000 00e0f7aa 00000063\n\n",
+        "[Anti Bug Grass 99]": "[Anti Bug Grass 99]\n04000000 00e0f816 00000063\n\n",
+        "[Green Soil 99]": "[Green Soil 99]\n04000000 00e0f95a 00000063\n\n",
+        "[Dried Root 99]": "[Dried Root 99]\n04000000 00e0f912 000003E7\n\n",
+        "[Fairy Soul 99]": "[Fairy Soul 99]\n04000000 00e0f936 00000063\n\n",
+        "[Scrap Metal 99]": "[Scrap Metal 99]\n04000000 00e0f9ea 00000063\n\n",
+        "[Slag Memory 99]": "[Slag Memory 99]\n04000000 00e0fc06 00000063\n\n",
+        "[Threia 999 HP]": "[Threia 999 HP]\n04000000 00e14ae4 000003E7\n04000000 00e14aec 000003E7\n04000000 00e14bec 000003E7\n\n",
+        "[Spiky Bud 99]": "[Spiky Bud 99]\n04000000 00e0fa56 000003E7\n\n",
+        "[Characoal Pieces 99]": "[Characoal Pieces 99]\n04000000 00e0f97e 000003E7\n\n",
+        "[Lethe Grass 99]": "[Lethe Grass 99]\n04000000 00e0fefa 000003E7\n\n",
+        "[Freash Meat 99]": "[Freash Meat 99]\n04000000 00e0ff8a 000003E7\n\n",
+        "[Mantis Blade 99]": "[Mantis Blade 99]\n04000000 00e0fdfe 000003E7\n\n",
+        "[Eiche 99]": "[Eiche 99]\n04000000 00e0fe22 000003E7\n\n",
+        "[Antique Stone 99]": "[Antique Stone 99]\n04000000 00e0fa0e 000003E7\n\n",
+        "[Glass Core 99]": "[Glass Core 99]\n04000000 00e0fa32 000003E7\n\n",
+        "[Corundum Stone 99]": "[Corundum Stone 99]\n04000000 00e0f786 000003E7\n\n",
+        "[Shining Crystal 99]": "[Shining Crystal 99]\n04000000 00e0fbbe 000003E7\n\n",
+        "[Grain Scraps 99]": "[Grain Scraps 99]\n04000000 00e0f8a6 000003E7\n\n",
+        "[Milch Bean 99]": "[Milch Bean 99]\n04000000 00e0fb0a 000003E7\n\n",
+        "[Phlogiston 99]": "[Phlogiston 99]\n04000000 00e0fbe2 000003E7\n\n",
+        "[Silver Hive 99]": "[Silver Hive 99]\n04000000 00e0f83a 000003E7\n\n",
+        "[Darkness Shoot 99]": "[Darkness Shoot 99]\n04000000 00e1015e 000003E7\n\n",
+        "[Aqua Light 99]": "[Aqua Light 99]\n04000000 00e0fcba 000003E7\n\n",
+        "[Eternal Liquid 99]": "[Eternal Liquid 99]\n04000000 00e100ce 000003E7\n\n",
+        "[Reyfer HP 999]": "[Reyfer HP 999]\n04000000 00e14d94 000003E7\n04000000 00e14d9c 000003E7\n04000000 00e14e9c 000003E7\n\n",
+        "[Wilbell HP 999]": "[Wilbell HP 999]\n04000000 00e155a4 000003E7\n04000000 00e155ac 000003E7\n04000000 00e156ac 000003E7\n\n",
+        "[Reyfer MP 999]": "[Reyfer MP 999]\n04000000 00e14d98 000003E7\n04000000 00e14da0 000003E7\n04000000 00e14ea0 000003E7\n\n",
+        "[Wilbell MP 999]": "[Wilbell MP 999]\n04000000 00e155a8 000003E7\n04000000 00e155b0 000003E7\n04000000 00e156b0 000003E7\n\n",
+        "[Threia MP 999]": "[Threia MP 999]\n04000000 00e14ae8 000003E7\n04000000 00e14af0 000003E7\n04000000 00e14bf0 000003E7\n\n",
+        "[Wind Core MP 99]": "[Wind Core MP 99]\n04000000 00e10116 00000063\n\n",
+        "[Water Crystal 99]": "[Water Crystal 99]\n04000000 00e101ca 00000063\n\n",
+        "[Soul Vine 99]": "[Soul Vine 99]\n04000000 00e10086 00000063\n\n",
+        "[Amber Soil 99]": "[Amber Soil 99]\n04000000 00e0ff1e 00000063\n\n",
+        "[Crimson Soil 99]": "[Crimson Soil 99]\n04000000 00e100aa 00000063\n\n",
+        "[Ultramarine Soil 99]": "[Ultramarine Soil 99]\n04000000 00e101a6 00000063\n\n",
+        "[Pale Clay 99]": "[Pale Clay 99]\n04000000 00e102c6 00000063\n\n",
+        "[Living Clay 99]": "[Living Clay 99]\n04000000 00e10356 00000063\n\n",
+        "[ Purify Block 99]": "[ Purify Block 99]\n04000000 00e0ff66 00000063\n\n",
+        "[Black Bone 99]": "[Black Bone 99]\n04000000 00e1003e 00000063\n\n",
+        "[Melting Jewels 99]": "[Melting Jewels 99]\n04000000 00e0fa7a 00000063\n\n",
+        "[Pendelock 99]": "[Pendelock 99]\n04000000 00e0fd4a 00000063\n\n",
+        "[Fluorite 99]": "[Fluorite 99]\n04000000 00e0ffd2 00000063\n\n",
+        "[ Cloud Financier 99]": "[ Cloud Financier 99]\n04000000 00e0fd92 00000063\n\n",
+        "[Ladys Whiskers 99]": "[Ladys Whiskers 99]\n04000000 00e100f2 00000063\n\n",
+        "[Bitter Grass 99]": "[Bitter Grass 99]\n04000000 00e10182 00000063\n\n",
+        "[Bitter tree seed 99]": "[Bitter tree seed 99]\n04000000 00e0fe46 00000063\n\n",
+        "[Bitter Melon 99]": "[Bitter Melon 99]\n04000000 00e0feb2 00000063\n\n",
+        "[Sugar tree sap 99]": "[Sugar tree sap 99]\n04000000 00e1027e 00000063\n\n",
+        "[Mutated Taun 99]": "[Mutated Taun 99]\n04000000 00e0f7f2 00000063\n\n",
+        "[White flower 99]": "[White flower 99]\n04000000 00e0fd02 00000063\n\n",
+        "[Earth Flower 99]": "[Earth Flower 99]\n04000000 00e0f85e 00000063\n\n",
+        "[Slag Cable 99]": "[Slag Cable 99]\n04000000 00e0fb9a 00000063\n\n",
+        "[Poison Apple 99]": "[Poison Apple 99]\n04000000 00e0f9c6 00000063\n\n",
+        "[Green Apple 99]": "[Green Apple 99]\n04000000 00e1013a 00000063\n\n",
+        "[Rough Disk 99]": "[Rough Disk 99]\n04000000 00e1037a 00000063\n\n",
+        "[Bent Screw 99]": "[Bent Screw 99]\n04000000 00e0fe8e 00000063\n\n",
+        "[Rusty Cog 99]": "[Rusty Cog 99]\n04000000 00e10452 00000063\n\n",
+        "[World Stone Star 99]": "[World Stone Star 99]\n04000000 00e1040a 00000063\n\n",
+        "[Empty Core 99]": "[Empty Core 99]\n04000000 00e1039e 00000063\n\n",
+        "[River Wood 99]": "[River Wood 99]\n04000000 00e10212 00000063\n\n",
+        "[Golden Yarn 99]": "[Golden Yarn 99]\n04000000 00e102ea 00000063\n\n",
+        "[Fire Slag Stone 99]": "[Fire Slag Stone 99]\n04000000 00e10506 00000063\n\n",
+        "[Bendy Materia 99]": "[Bendy Materia 99]\n04000000 00e103c2 00000063\n\n",
+        "[Dried Taro Chips 99]": "[Dried Taro Chips 99]\n04000000 00e0fd6e 00000063\n\n",
+        "[Red Devil 99]": "[Red Devil 99]\n04000000 00e10476 00000063\n\n",
+        "[Blue Devil 99]": "[Blue Devil 99]\n04000000 00e10596 00000063\n\n",
+        "[Blaze Ore 99]": "[Blaze Ore 99]\n04000000 00e106b6 00000063\n\n",
+        "[Scorching Ore 99]": "[Scorching Ore 99]\n04000000 00e10626 00000063\n\n",
+        "[Lava Stone 99]": "[Lava Stone 99]\n04000000 00e1064a 00000063\n\n",
+        "[Ifrit Breath 99]": "[Ifrit Breath 99]\n04000000 00e10572 00000063\n\n",
+        "[Slag Anthena 99]": "[Slag Anthena 99]\n04000000 00e0fc96 00000063\n\n",
+        "[Slag Heart 99]": "[Slag Heart 99]\n04000000 00e1049a 00000063\n\n",
+        "[Legged Radish 99]": "[Legged Radish 99]\n04000000 00e10746 00000063\n\n",
+        "[Living Tail 99]": "[Living Tail 99]\n04000000 00e106da 00000063\n\n",
+        "[Liquid Crystal 99]": "[Liquid Crystal 99]\n04000000 00e102a2 00000063\n\n",
+        "[Water Flower 99]": "[Water Flower 99]\n04000000 00e105ba 00000063\n\n",
+        "[Mossy Driftwood 99]": "[Mossy Driftwood 99]\n04000000 00e10236 00000063\n\n",
+        "[Bouyant Gas 99]": "[Bouyant Gas 99]\n04000000 00e1066e 00000063\n\n",
+        "[Bird Egg 99]": "[Bird Egg 99]\n04000000 00e0fae6 00000063\n\n",
+        "[Mixed Oil 99]": "[Mixed Oil 99]\n04000000 00e105de 00000063\n\n",
+        "[Salat 99]": "[Salat 99]\n04000000 00e107d6 00000063\n\n",
+        "[Fresh Salat 99]": "[Fresh Salat 99]\n04000000 00e107fa 00000063\n\n",
+        "[Fire Flower 99]": "[Fire Flower 99]\n04000000 00e106da 00000063\n\n",
+        "[Dragon Bone 99]": "[Dragon Bone 99]\n04000000 00e1076a 00000063\n\n",
+        "[Unburning Web 99]": "[Unburning Web 99]\n04000000 00e106fe 00000063\n\n",
+        "[Trio Taun 99]": "[Trio Taun 99]\n04000000 00e108ae 00000063\n\n",
+        "[Diamond Gemstone 99]": "[Diamond Gemstone 99]\n04000000 00e10962 00000063\n\n",
+        "[Preserved Biscuit 99]": "[Preserved Biscuit 99]\n04000000 00e0fac2 00000063\n\n",
+        "[Dragon Tail 99]": "[Dragon Tail 99]\n04000000 00e1091a 00000063\n\n",
+        "[Spring Water 99]": "[Spring Water 99]\n04000000 00e10a16 00000063\n\n",
+        "[Ice Slag Stone 99]": "[Ice Slag Stone 99]\n04000000 00e105ba 00000063\n\n",
+        "[Fully Ripe Fruite 99]": "[Fully Ripe Fruite 99]\n04000000 00e10842 00000063\n\n",
+        "[Epicure Nut 99]": "[Epicure Nut 99]\n04000000 00e1088a 00000063\n\n",
+        "[Soft Fur 99]": "[Soft Fur 99]\n04000000 00e0f882 00000063\n\n",
+        "[Gold Meat 99]": "[Gold Meat 99]\n04000000 00e10962 00000063\n\n",
+        "[Golden Apple 99]": "[Golden Apple 99]\n04000000 00e1093e 00000063\n\n"
+    },
     "attribution": {
         "Atelier Escha & Logy Alchemists of the Dusk Sky DX ver 1.0.0 by matias3ds.txt": ""
     }

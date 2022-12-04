@@ -1,10 +1,7 @@
 {
-    "D7EF1AE60AADA34A": [
-        {
-            "content": "[Stealth ZR off]\n04000000 008EFDF0 D65F03C0\n80000200\n04000000 008EFDF0 D103C3FF\n20000000",
-            "title": "[Stealth ZR off]"
-        }
-    ],
+    "D7EF1AE60AADA34A": {
+        "[Stealth ZR off]": "[Stealth ZR off]\n04000000 008EFDF0 D65F03C0\n80000200\n04000000 008EFDF0 D103C3FF\n20000000\n\n"
+    },
     "attribution": {
         "maid of sker ver 1.0.0 by Xtatu.txt": ""
     }

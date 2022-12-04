@@ -1,22 +1,10 @@
 {
-    "39FBFC95E715944A": [
-        {
-            "content": "[HP Max - Atmosphere]\n580F0000 03BEB0B8\n580F1000 000007C8\n580F1000 00000180\n580F1000 00000330\n780F0000 00000014\n989EF000\n540E1000 00000000\n780F0000 00000004\nA4EF0000\n\n",
-            "title": "[HP Max - Atmosphere]"
-        },
-        {
-            "content": "[MP Max - Atmosphere]\n580F0000 03BEB0B8\n580F1000 000007C8\n580F1000 00000180\n580F1000 00000330\n780F0000 0000003C\n989EF000\n540E1000 00000000\n780F0000 00000004\nA4EF0000\n\n",
-            "title": "[MP Max - Atmosphere]"
-        },
-        {
-            "content": "[Candy 999999 - Minus Button]\n80000800\n580F0000 03BEB0B8\n580F1000 000007C8\n580F1000 00000180\n580F1000 00000330\n780F0000 00000074\n640F0000 00000000 000F423F\n20000000\n\n",
-            "title": "[Candy 999999 - Minus Button]"
-        },
-        {
-            "content": "[Jump]\n580F0000 03BEB0B8\n580F1000 000007C8\n580F1000 00000180\n580F1000 00000330\n780F0000 0000007C\n640F0000 00000000 00000004",
-            "title": "[Jump]"
-        }
-    ],
+    "39FBFC95E715944A": {
+        "[HP Max - Atmosphere]": "[HP Max - Atmosphere]\n580F0000 03BEB0B8\n580F1000 000007C8\n580F1000 00000180\n580F1000 00000330\n780F0000 00000014\n989EF000\n540E1000 00000000\n780F0000 00000004\nA4EF0000\n\n",
+        "[MP Max - Atmosphere]": "[MP Max - Atmosphere]\n580F0000 03BEB0B8\n580F1000 000007C8\n580F1000 00000180\n580F1000 00000330\n780F0000 0000003C\n989EF000\n540E1000 00000000\n780F0000 00000004\nA4EF0000\n\n",
+        "[Candy 999999 - Minus Button]": "[Candy 999999 - Minus Button]\n80000800\n580F0000 03BEB0B8\n580F1000 000007C8\n580F1000 00000180\n580F1000 00000330\n780F0000 00000074\n640F0000 00000000 000F423F\n20000000\n\n",
+        "[Jump]": "[Jump]\n580F0000 03BEB0B8\n580F1000 000007C8\n580F1000 00000180\n580F1000 00000330\n780F0000 0000007C\n640F0000 00000000 00000004\n\n"
+    },
     "attribution": {
         "RemiLore ver  1.0.3 - v196608 by rhmiller .txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }

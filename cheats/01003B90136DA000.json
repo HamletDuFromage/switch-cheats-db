@@ -1,46 +1,16 @@
 {
-    "1F936E043FB8C349": [
-        {
-            "content": "[Current battle points L+R]\n800000C0\n580F0000 063F90C8\n580F1000 00000048\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000054\n620F0000 00000000 0000000A\n20000000\n\n",
-            "title": "[Current battle points L+R]"
-        },
-        {
-            "content": "[Max battle points ZL+R]\n80000180\n580F0000 063F90C8\n580F1000 00000048\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000058\n620F0000 00000000 0000000A\n20000000\n\n",
-            "title": "[Max battle points ZL+R]"
-        },
-        {
-            "content": "[60 FPS]\n580F0000 064E8090\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-            "title": "[60 FPS]"
-        },
-        {
-            "content": "[Default 30 FPS]\n580F0000 064E8090\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
-            "title": "[Default 30 FPS]"
-        },
-        {
-            "content": "[9999999 Money]\n580F0000 063F90D0\n580F1000 000000B8\n580F1000 00000000\n580F1000 000000A8\n780F0000 00000020\n640F0000 00000000 0098967F\n\n",
-            "title": "[9999999 Money]"
-        },
-        {
-            "content": "[Player Points At 10/10]\n580F0000 063F90C8\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000054\n680F0000 0000000A 0000000A\n\n",
-            "title": "[Player Points At 10/10]"
-        },
-        {
-            "content": "[Lock Evolutions 3 Times]\n580F0000 063F90C8\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000060\n640F0000 00000000 00000003\n\n",
-            "title": "[Lock Evolutions 3 Times]"
-        },
-        {
-            "content": "[Evolution Ready]\n580F0000 063F90C8\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000064\n640F0000 00000000 00000000\n\n",
-            "title": "[Evolution Ready]"
-        },
-        {
-            "content": "[Can Use Evolution Again At Current Turn]\n580F0000 063F90C8\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000068\n640F0000 00000000 00000001\n\n",
-            "title": "[Can Use Evolution Again At Current Turn]"
-        },
-        {
-            "content": "[Opponent Can't Place A Card]\n580F0000 063F90C8\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000028\n780F0000 00000054\n640F0000 00000000 00000000\n",
-            "title": "[Opponent Can't Place A Card]"
-        }
-    ],
+    "1F936E043FB8C349": {
+        "[Current battle points L+R]": "[Current battle points L+R]\n800000C0\n580F0000 063F90C8\n580F1000 00000048\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000054\n620F0000 00000000 0000000A\n20000000\n\n",
+        "[Max battle points ZL+R]": "[Max battle points ZL+R]\n80000180\n580F0000 063F90C8\n580F1000 00000048\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000058\n620F0000 00000000 0000000A\n20000000\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 064E8090\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 064E8090\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+        "[9999999 Money]": "[9999999 Money]\n580F0000 063F90D0\n580F1000 000000B8\n580F1000 00000000\n580F1000 000000A8\n780F0000 00000020\n640F0000 00000000 0098967F\n\n",
+        "[Player Points At 10/10]": "[Player Points At 10/10]\n580F0000 063F90C8\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000054\n680F0000 0000000A 0000000A\n\n",
+        "[Lock Evolutions 3 Times]": "[Lock Evolutions 3 Times]\n580F0000 063F90C8\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000060\n640F0000 00000000 00000003\n\n",
+        "[Evolution Ready]": "[Evolution Ready]\n580F0000 063F90C8\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000064\n640F0000 00000000 00000000\n\n",
+        "[Can Use Evolution Again At Current Turn]": "[Can Use Evolution Again At Current Turn]\n580F0000 063F90C8\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000030\n780F0000 00000068\n640F0000 00000000 00000001\n\n",
+        "[Opponent Can't Place A Card]": "[Opponent Can't Place A Card]\n580F0000 063F90C8\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000028\n780F0000 00000054\n640F0000 00000000 00000000\n\n"
+    },
     "attribution": {
         "Shadowverse Champion's Battle ver 1.3.0 by Freyjadour.txt": "#Give you 13 pearls in any Silent Realm.\nOnce the Silent Realm has started and you're able to move, activate and immediately disable the code.\nIt will give you 13 pearls, just pick 2 random pearls on the floor to correctly trigger the win and end the Silent Realm.\n\n[Inf. Deku Seeds]\n[Inf. Arrows]\n[Inf. Bombs]\n[Infinite Shield Durability]\n*[Inf Bugs / Materials] new\n*[Unlock All Bugs / Materials] new\n* Shoot arrow / seeds, or go to a new area (loading screen) for cheat to become visible."
     }

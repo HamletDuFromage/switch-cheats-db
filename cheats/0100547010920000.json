@@ -1,22 +1,10 @@
 {
-    "4F61B94412A715BA": [
-        {
-            "content": "[Inf Life]\n011F0000 018AF0B7 0000001F\n\n",
-            "title": "[Inf Life]"
-        },
-        {
-            "content": "[Inf Ammo]\n011F0000 018AF0B8 00000079\n\n",
-            "title": "[Inf Ammo]"
-        },
-        {
-            "content": "[Inf Lives]\n011F0000 018AF0BA 00000063\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Invincible]\n011F0000 018AF0D2 000000FF",
-            "title": "[Invincible]"
-        }
-    ],
+    "4F61B94412A715BA": {
+        "[Inf Life]": "[Inf Life]\n011F0000 018AF0B7 0000001F\n\n",
+        "[Inf Ammo]": "[Inf Ammo]\n011F0000 018AF0B8 00000079\n\n",
+        "[Inf Lives]": "[Inf Lives]\n011F0000 018AF0BA 00000063\n\n",
+        "[Invincible]": "[Invincible]\n011F0000 018AF0D2 000000FF\n\n"
+    },
     "attribution": {
         "Arcade Archives P.O.W. -PRISONERS OF WAR by ZIT.txt": "Activate the code on the title screen."
     }

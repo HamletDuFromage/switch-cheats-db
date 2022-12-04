@@ -1,38 +1,17 @@
 {
-    "28CB1224495DDC4E": [
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 02753548\n580F1000 00000098\n580F1000 00000018\n580F1000 000000B8\n580F1000 00000058\n780F0000 000000E8\n640F0000 00000000 41100000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Speed Up]\n580F0000 02753548\n580F1000 00000098\n580F1000 00000018\n580F1000 000000B8\n580F1000 00000058\n780F0000 0000001C\n640F0000 00000000 41500000\n\n",
-            "title": "[Speed Up]"
-        },
-        {
-            "content": "[Inf Lives]\n580F0000 02753758\n580F1000 00000098\n780F0000 00000008\n640F0000 00000000 00000006\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Max Butterfly]\n580F0000 027534B0\n580F1000 00000098\n580F1000 00000000\n580F1000 000001C0\n780F0000 0000001C\n640F0000 00000000 0000270F",
-            "title": "[Max Butterfly]"
-        }
-    ],
-    "92733FBF49AEAE41": [
-        {
-            "content": "[Inf HP]\n580F0000 02B30D80\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000030\n580F1000 00000058\n780F0000 0000003C\n680F0000 43270000 43270000\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[One Hit Kill]\n580F0000 02B30D80\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000030\n580F1000 00000058\n780F0000 00000030\n640F0000 00000000 70000000\n\n",
-            "title": "[One Hit Kill]"
-        },
-        {
-            "content": "[Inf Bomb]\n580F0000 02B30D80\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000030\n580F1000 00000060\n780F0000 000000C8\n640F0000 00000000 00000004",
-            "title": "[Inf Bomb]"
-        }
-    ],
+    "92733FBF49AEAE41": {
+        "[Inf HP]": "[Inf HP]\n580F0000 02B30D80\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000030\n580F1000 00000058\n780F0000 0000003C\n680F0000 43270000 43270000\n\n",
+        "[One Hit Kill]": "[One Hit Kill]\n580F0000 02B30D80\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000030\n580F1000 00000058\n780F0000 00000030\n640F0000 00000000 70000000\n\n",
+        "[Inf Bomb]": "[Inf Bomb]\n580F0000 02B30D80\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000030\n580F1000 00000060\n780F0000 000000C8\n640F0000 00000000 00000004\n\n"
+    },
+    "28CB1224495DDC4E": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 02753548\n580F1000 00000098\n580F1000 00000018\n580F1000 000000B8\n580F1000 00000058\n780F0000 000000E8\n640F0000 00000000 41100000\n20000000\n\n",
+        "[Speed Up]": "[Speed Up]\n580F0000 02753548\n580F1000 00000098\n580F1000 00000018\n580F1000 000000B8\n580F1000 00000058\n780F0000 0000001C\n640F0000 00000000 41500000\n\n",
+        "[Inf Lives]": "[Inf Lives]\n580F0000 02753758\n580F1000 00000098\n780F0000 00000008\n640F0000 00000000 00000006\n\n",
+        "[Max Butterfly]": "[Max Butterfly]\n580F0000 027534B0\n580F1000 00000098\n580F1000 00000000\n580F1000 000001C0\n780F0000 0000001C\n640F0000 00000000 0000270F\n\n"
+    },
     "attribution": {
-        "ALPHA 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die.",
-        "Shu ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+        "Shu ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die.",
+        "ALPHA 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
     }
 }

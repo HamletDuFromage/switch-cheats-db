@@ -1,66 +1,21 @@
 {
-    "E54049229AB01648": [
-        {
-            "content": "[Breeze beta19 G-Darius HD 1.0.0 TID: 0100BCE013042000 BID: E54049229AB01648]\n\n",
-            "title": "[Breeze beta19 G-Darius HD 1.0.0 TID: 0100BCE013042000 BID: E54049229AB01648]"
-        },
-        {
-            "content": "[1P Max Score]\n04100000 AD2271C0 3B9AC9FF \n\n",
-            "title": "[1P Max Score]"
-        },
-        {
-            "content": "[1P Inf.lives]\n01100000 AD2271C6 00000005 \n\n",
-            "title": "[1P Inf.lives]"
-        },
-        {
-            "content": "[1P Invincible]\n01100000 AD2271CA 00000006 \n\n",
-            "title": "[1P Invincible]"
-        },
-        {
-            "content": "[1P Max Wave]\n01100000 AD227701 00000006 \n\n",
-            "title": "[1P Max Wave]"
-        },
-        {
-            "content": "[1P Max Multi Bomb]\n01100000 AD227731 00000003 \n\n",
-            "title": "[1P Max Multi Bomb]"
-        },
-        {
-            "content": "[1P Max Hyper Arm]\n01100000 AD227751 00000005 \n\n",
-            "title": "[1P Max Hyper Arm]"
-        },
-        {
-            "content": "[1P Inf.Capture Ball]\n01100000 AD227753 00000006 \n\n",
-            "title": "[1P Inf.Capture Ball]"
-        },
-        {
-            "content": "[2P Max Score]\n04100000 AD2278CC 3B9AC9FF \n\n",
-            "title": "[2P Max Score]"
-        },
-        {
-            "content": "[2P Inf.Lives]\n01100000 AD2278D2 00000005 \n\n",
-            "title": "[2P Inf.Lives]"
-        },
-        {
-            "content": "[2P Invincible]\n01100000 AD2278D6 00000006 \n\n",
-            "title": "[2P Invincible]"
-        },
-        {
-            "content": "[2P Max Wave]\n01100000 AD227E0D 00000006 \n\n",
-            "title": "[2P Max Wave]"
-        },
-        {
-            "content": "[2P Max Multi Bomb]\n01100000 AD227E3D 00000003 \n\n",
-            "title": "[2P Max Multi Bomb]"
-        },
-        {
-            "content": "[2P Max Hyper Arm]\n01100000 AD227E5D 00000005 \n\n",
-            "title": "[2P Max Hyper Arm]"
-        },
-        {
-            "content": "[2P Inf.Capture Ball]\n01100000 AD227E5F 00000006 \n\n",
-            "title": "[2P Inf.Capture Ball]"
-        }
-    ],
+    "E54049229AB01648": {
+        "[Breeze beta19 G-Darius HD 1.0.0 TID: 0100BCE013042000 BID: E54049229AB01648]": "[Breeze beta19 G-Darius HD 1.0.0 TID: 0100BCE013042000 BID: E54049229AB01648]\n\n",
+        "[1P Max Score]": "[1P Max Score]\n04100000 AD2271C0 3B9AC9FF\n\n",
+        "[1P Inf.lives]": "[1P Inf.lives]\n01100000 AD2271C6 00000005\n\n",
+        "[1P Invincible]": "[1P Invincible]\n01100000 AD2271CA 00000006\n\n",
+        "[1P Max Wave]": "[1P Max Wave]\n01100000 AD227701 00000006\n\n",
+        "[1P Max Multi Bomb]": "[1P Max Multi Bomb]\n01100000 AD227731 00000003\n\n",
+        "[1P Max Hyper Arm]": "[1P Max Hyper Arm]\n01100000 AD227751 00000005\n\n",
+        "[1P Inf.Capture Ball]": "[1P Inf.Capture Ball]\n01100000 AD227753 00000006\n\n",
+        "[2P Max Score]": "[2P Max Score]\n04100000 AD2278CC 3B9AC9FF\n\n",
+        "[2P Inf.Lives]": "[2P Inf.Lives]\n01100000 AD2278D2 00000005\n\n",
+        "[2P Invincible]": "[2P Invincible]\n01100000 AD2278D6 00000006\n\n",
+        "[2P Max Wave]": "[2P Max Wave]\n01100000 AD227E0D 00000006\n\n",
+        "[2P Max Multi Bomb]": "[2P Max Multi Bomb]\n01100000 AD227E3D 00000003\n\n",
+        "[2P Max Hyper Arm]": "[2P Max Hyper Arm]\n01100000 AD227E5D 00000005\n\n",
+        "[2P Inf.Capture Ball]": "[2P Inf.Capture Ball]\n01100000 AD227E5F 00000006\n\n"
+    },
     "attribution": {
         "G-Darius HD 1.0.0 by Negrazon.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
     }

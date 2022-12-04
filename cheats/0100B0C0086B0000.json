@@ -1,44 +1,17 @@
 {
-    "047FDD0C5AF5F1C5": [
-        {
-            "content": "[Moon Jump]\n80000002\n580f0000 00D68278\n580f1000 000001C8\n780f0000 000018E4\n640f0000 00000000 42000000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Speed Up]\n580f0000 00D68278\n580f1000 000001C8\n780f0000 000005BC\n640f0000 00000000 40000000\n780f0000 00000DF4\n640f0000 00000000 40000000\n\n",
-            "title": "[Speed Up]"
-        },
-        {
-            "content": "[Size Up]\n580f0000 00D68278\n580f1000 000001C8\n780f0000 00000070\n300E0000 00000003\n640f0000 00000000 40000000\n780F0000 00000004\n310E0000\n20000000\n\n",
-            "title": "[Size Up]"
-        },
-        {
-            "content": "[Invincible]\n580f0000 00D68278\n580f1000 000001C8\n780f0000 00002E50\n640f0000 00000000 42AA0000\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Rapid Fire]\n580f0000 00D68278\n580f1000 000001C8\n780f0000 000030C0\n640f0000 00000000 00000000",
-            "title": "[Rapid Fire]"
-        }
-    ],
-    "3469A1B2E0FEA93C": [
-        {
-            "content": "[Screws 999999]\n04100000 0d52c5e8 000F423F\n\n",
-            "title": "[Screws 999999]"
-        },
-        {
-            "content": "[Have All Weapons]\n02100000 0d52c9C8 000007FF\n\n",
-            "title": "[Have All Weapons]"
-        },
-        {
-            "content": "[Infinite HP]\n580f0000 00D68278\n580f1000 000001C8\n780f0000 000018BC\n640f0000 00000000 00000038\n\n",
-            "title": "[Infinite HP]"
-        },
-        {
-            "content": "[inf shot hit]\n04000000 00205924 D65F03C0",
-            "title": "[inf shot hit]"
-        }
-    ],
+    "3469A1B2E0FEA93C": {
+        "[Screws 999999]": "[Screws 999999]\n04100000 0d52c5e8 000F423F\n\n",
+        "[Have All Weapons]": "[Have All Weapons]\n02100000 0d52c9C8 000007FF\n\n",
+        "[Infinite HP]": "[Infinite HP]\n580f0000 00D68278\n580f1000 000001C8\n780f0000 000018BC\n640f0000 00000000 00000038\n\n",
+        "[inf shot hit]": "[inf shot hit]\n04000000 00205924 D65F03C0\n\n"
+    },
+    "047FDD0C5AF5F1C5": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580f0000 00D68278\n580f1000 000001C8\n780f0000 000018E4\n640f0000 00000000 42000000\n20000000\n\n",
+        "[Speed Up]": "[Speed Up]\n580f0000 00D68278\n580f1000 000001C8\n780f0000 000005BC\n640f0000 00000000 40000000\n780f0000 00000DF4\n640f0000 00000000 40000000\n\n",
+        "[Size Up]": "[Size Up]\n580f0000 00D68278\n580f1000 000001C8\n780f0000 00000070\n300E0000 00000003\n640f0000 00000000 40000000\n780F0000 00000004\n310E0000\n20000000\n\n",
+        "[Invincible]": "[Invincible]\n580f0000 00D68278\n580f1000 000001C8\n780f0000 00002E50\n640f0000 00000000 42AA0000\n\n",
+        "[Rapid Fire]": "[Rapid Fire]\n580f0000 00D68278\n580f1000 000001C8\n780f0000 000030C0\n640f0000 00000000 00000000\n\n"
+    },
     "attribution": {
         "Mega Man 11 ver 1.0.1 by ZiT866 .txt": ""
     }

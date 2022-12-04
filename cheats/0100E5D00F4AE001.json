@@ -1,30 +1,12 @@
 {
-    "546537EDE7D31355": [
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 0EE9A148\n780F0000 000001C4\n640F0000 00000000 C0A00000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Speed Up]\n580F0000 0EE9A148\n780F0000 000001D8\n640F0000 00000000 40800000\n\n",
-            "title": "[Speed Up]"
-        },
-        {
-            "content": "[Inf HP]\n580F0000 0EE9A148\n780F0000 00000264\n640F0000 00000000 00000190\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Coin MAX]\n580F0000 0EE996F8\n780F0000 000000D4\n640F0000 00000000 000003E7\n\n",
-            "title": "[Coin MAX]"
-        },
-        {
-            "content": "[Weight MAX (Porting from patjenova)]\n580F0000 0EE996F8\n780F0000 000000D0\n640F0000 00000000 03E70000\n\n",
-            "title": "[Weight MAX (Porting from patjenova)]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 0028AAB0\n780F0000 00000020\n640F0000 00000000 000000FF",
-            "title": "[Invincible]"
-        }
-    ],
+    "546537EDE7D31355": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 0EE9A148\n780F0000 000001C4\n640F0000 00000000 C0A00000\n20000000\n\n",
+        "[Speed Up]": "[Speed Up]\n580F0000 0EE9A148\n780F0000 000001D8\n640F0000 00000000 40800000\n\n",
+        "[Inf HP]": "[Inf HP]\n580F0000 0EE9A148\n780F0000 00000264\n640F0000 00000000 00000190\n\n",
+        "[Coin MAX]": "[Coin MAX]\n580F0000 0EE996F8\n780F0000 000000D4\n640F0000 00000000 000003E7\n\n",
+        "[Weight MAX (Porting from patjenova)]": "[Weight MAX (Porting from patjenova)]\n580F0000 0EE996F8\n780F0000 000000D0\n640F0000 00000000 03E70000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 0028AAB0\n780F0000 00000020\n640F0000 00000000 000000FF\n\n"
+    },
     "attribution": {
         "La Mulana 1 and 2 Hidden Treasures Edition by Zit.txt": "Not valid for mini games"
     }

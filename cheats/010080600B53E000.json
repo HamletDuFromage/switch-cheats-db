@@ -1,14 +1,8 @@
 {
-    "F82F507FB0C82B4D": [
-        {
-            "content": "[999999 coins]\n580F0000 034D74C0\n580F1000 000000B8\n580F1000 00000008\n780F0000 0000008C\n640F0000 00000000 000F423F\n\n",
-            "title": "[999999 coins]"
-        },
-        {
-            "content": "[hearts 20]\n580F0000 034D74C0\n580F1000 000000B8\n580F1000 00000008\n780F0000 00000093\n610F0000 00000000 00000014",
-            "title": "[hearts 20]"
-        }
-    ],
+    "F82F507FB0C82B4D": {
+        "[999999 coins]": "[999999 coins]\n580F0000 034D74C0\n580F1000 000000B8\n580F1000 00000008\n780F0000 0000008C\n640F0000 00000000 000F423F\n\n",
+        "[hearts 20]": "[hearts 20]\n580F0000 034D74C0\n580F1000 000000B8\n580F1000 00000008\n780F0000 00000093\n610F0000 00000000 00000014\n\n"
+    },
     "attribution": {
         "Evil Defenders by arysmanedy64.txt": "Activate the code on the title screen."
     }

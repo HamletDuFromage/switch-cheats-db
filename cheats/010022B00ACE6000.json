@@ -1,22 +1,10 @@
 {
-    "59D3AEC4B3C1F9C6": [
-        {
-            "content": "[Inf Life]\n580F0000 03C35178\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000110\n780F0000 00000018\n640F0000 00000000 0000000A\n\n",
-            "title": "[Inf Life]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 03C35178\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000110\n780F0000 000001E0\n640F0000 00000000 00000001\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf Bomb]\n580F0000 03C35178\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000110\n780F0000 000001B4\n640F0000 00000000 0000000A\n\n",
-            "title": "[Inf Bomb]"
-        },
-        {
-            "content": "[Speed Up]\n580F0000 03C35178\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000110\n780F0000 000001A8\n640F0000 00000000 40800000",
-            "title": "[Speed Up]"
-        }
-    ],
+    "59D3AEC4B3C1F9C6": {
+        "[Inf Life]": "[Inf Life]\n580F0000 03C35178\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000110\n780F0000 00000018\n640F0000 00000000 0000000A\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 03C35178\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000110\n780F0000 000001E0\n640F0000 00000000 00000001\n\n",
+        "[Inf Bomb]": "[Inf Bomb]\n580F0000 03C35178\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000110\n780F0000 000001B4\n640F0000 00000000 0000000A\n\n",
+        "[Speed Up]": "[Speed Up]\n580F0000 03C35178\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000110\n780F0000 000001A8\n640F0000 00000000 40800000\n\n"
+    },
     "attribution": {
         "BLACK BIRD ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
     }

@@ -1,22 +1,9 @@
 {
-    "6AF6A293E37CDD4F": [
-        {
-            "content": "[Inf Lives]\n01000000 011FA0D5 00000000\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Inf Special Ammo]\n04000000 011A6FD8 D503201F\n\n",
-            "title": "[Inf Special Ammo]"
-        },
-        {
-            "content": "[Inf Lives]\n04000000 011F9F10 D65F03C0\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Max Inf Special Ammo]\n04000000 011A6FD8 D503201F\n04000000 011A6FE0 52800120",
-            "title": "[Max Inf Special Ammo]"
-        }
-    ],
+    "6AF6A293E37CDD4F": {
+        "[Inf Lives]": "[Inf Lives]\n04000000 011F9F10 D65F03C0\n\n",
+        "[Inf Special Ammo]": "[Inf Special Ammo]\n04000000 011A6FD8 D503201F\n\n",
+        "[Max Inf Special Ammo]": "[Max Inf Special Ammo]\n04000000 011A6FD8 D503201F\n04000000 011A6FE0 52800120\n\n"
+    },
     "attribution": {
         "BroForce v1.0.903 by DaBlackDeath.txt": "CC buttle and AP buttle codes will only apply during battle\nthese code are only work with atmosphere,because code include address and value check to avoid crash\nI'm not sure that the check is enough to avoid crash,so it's better to use only field cheat code."
     }

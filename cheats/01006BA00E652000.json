@@ -1,27 +1,15 @@
 {
-    "25E86D4AF2490D40": [
-        {
-            "content": "[Inf Boost]\n58000000 01CA14F8\n78001000 000025F4\n64000000 00000000 3F800000",
-            "title": "[Inf Boost]"
-        }
-    ],
-    "44A80ACE9D0681A6": [
-        {
-            "content": "[60 FPS]\n580F0000 0296F458\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-            "title": "[60 FPS]"
-        },
-        {
-            "content": "[30 FPS (Slow On Medium Quality)]\n580F0000 0296F458\n780F0000 00000F14\n640F0000 00000000 00000002",
-            "title": "[30 FPS (Slow On Medium Quality)]"
-        }
-    ],
-    "EC792EE441368F4B": [
-        {
-            "content": "[Inf Boost]\n580F0000 02958CC8\n580F1000 000000B8\n580F1000 00000010\n780F0000 000001A4\n640F0000 00000000 3F800000",
-            "title": "[Inf Boost]"
-        }
-    ],
+    "44A80ACE9D0681A6": {
+        "[60 FPS]": "[60 FPS]\n580F0000 0296F458\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Slow On Medium Quality)]": "[30 FPS (Slow On Medium Quality)]\n580F0000 0296F458\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
     "attribution": {
         "Rise - Race the Future ver1.4.0 by smoker1.txt": "Press zr to accept upgrades in the field"
+    },
+    "25E86D4AF2490D40": {
+        "[Inf Boost]": "[Inf Boost]\n58000000 01CA14F8\n78001000 000025F4\n64000000 00000000 3F800000\n\n"
+    },
+    "EC792EE441368F4B": {
+        "[Inf Boost]": "[Inf Boost]\n580F0000 02958CC8\n580F1000 000000B8\n580F1000 00000010\n780F0000 000001A4\n640F0000 00000000 3F800000\n\n"
     }
 }

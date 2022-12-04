@@ -1,40 +1,13 @@
 {
-    "6BEB59A0ABBD15AD": [
-        {
-            "content": "{Superpanda 2}\n040C0000 01D26654 BD417A68\n040C0000 01D1BB5C 51000501\n040C0000 01E69C88 B9417A68\n040C0000 01E65228 B9402668\n040C0000 01E63528 B9402268\n040C0000 01E61620 B9402268\n040C0000 01B4F698 B9402268\n040C0000 01B51188 B9402268\n040C0000 00615EF4 F9400BE8\n040C0000 0200FFC8 51000508\n\n",
-            "title": "{Superpanda 2}"
-        },
-        {
-            "content": "[Moonjump]\n80000001\n040C0000 01D26654 1E241008\n20000000\n\n",
-            "title": "[Moonjump]"
-        },
-        {
-            "content": "[Inf. Health]\n040C0000 01D1BB5C 4B1F0101\n\n",
-            "title": "[Inf. Health]"
-        },
-        {
-            "content": "[Insta Kill]\n040C0000 01E69C88 2A1F03E8\n040C0000 01E65228 2A1F03E8\n040C0000 01E63528 2A1F03E8\n040C0000 01E61620 2A1F03E8\n040C0000 01B4F698 2A1F03E8\n040C0000 01B51188 2A1F03E8\n\n",
-            "title": "[Insta Kill]"
-        },
-        {
-            "content": "[Inf. Ammo]\n58000000 0324F4C0\n58001000 00000000\n78000000 00000E14\n64000000 00000000 0000270F\n\n",
-            "title": "[Inf. Ammo]"
-        },
-        {
-            "content": "[Inf. Lives]\n58000000 0324F4C0\n58001000 00000000\n78000000 000003D4\n64000000 00000000 00000063\n\n",
-            "title": "[Inf. Lives]"
-        },
-        {
-            "content": "[Max Money]\n58000000 0324F4C0\n58001000 00000000\n78000000 000002D4\n64000000 00000000 3B9AC9FF\n\n",
-            "title": "[Max Money]"
-        },
-        {
-            "content": "[Inf. Time]\n040C0000 0200FFC8 4B1F0108\n\n",
-            "title": "[Inf. Time]"
-        },
-        {
-            "content": "[Credits: crazy_p]\n00000000 00000000 00000000",
-            "title": "[Credits: crazy_p]"
-        }
-    ]
+    "6BEB59A0ABBD15AD": {
+        "{Superpanda 2}": "{Superpanda 2}\n040C0000 01D26654 BD417A68\n040C0000 01D1BB5C 51000501\n040C0000 01E69C88 B9417A68\n040C0000 01E65228 B9402668\n040C0000 01E63528 B9402268\n040C0000 01E61620 B9402268\n040C0000 01B4F698 B9402268\n040C0000 01B51188 B9402268\n040C0000 00615EF4 F9400BE8\n040C0000 0200FFC8 51000508\n\n",
+        "[Moonjump]": "[Moonjump]\n80000001\n040C0000 01D26654 1E241008\n20000000\n\n",
+        "[Inf. Health]": "[Inf. Health]\n040C0000 01D1BB5C 4B1F0101\n\n",
+        "[Insta Kill]": "[Insta Kill]\n040C0000 01E69C88 2A1F03E8\n040C0000 01E65228 2A1F03E8\n040C0000 01E63528 2A1F03E8\n040C0000 01E61620 2A1F03E8\n040C0000 01B4F698 2A1F03E8\n040C0000 01B51188 2A1F03E8\n\n",
+        "[Inf. Ammo]": "[Inf. Ammo]\n58000000 0324F4C0\n58001000 00000000\n78000000 00000E14\n64000000 00000000 0000270F\n\n",
+        "[Inf. Lives]": "[Inf. Lives]\n58000000 0324F4C0\n58001000 00000000\n78000000 000003D4\n64000000 00000000 00000063\n\n",
+        "[Max Money]": "[Max Money]\n58000000 0324F4C0\n58001000 00000000\n78000000 000002D4\n64000000 00000000 3B9AC9FF\n\n",
+        "[Inf. Time]": "[Inf. Time]\n040C0000 0200FFC8 4B1F0108\n\n",
+        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n"
+    }
 }

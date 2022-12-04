@@ -1,14 +1,8 @@
 {
-    "A2DFD07E5EB5F743": [
-        {
-            "content": "[*Moon Jump Jericoss]\n80000002\n580F0000 02EF7C50\n580F1000 00000028\n580F1000 00000080\n780F0000 00000044\n640F0000 00000000 4138F5C0\n20000000\n\n",
-            "title": "[*Moon Jump Jericoss]"
-        },
-        {
-            "content": "[*HP 8888]\n580F0000 02DB2E10\n580F1000 000000A0\n580F1000 00000020\n780F0000 00000080\n640F0000 00000000 460AE000",
-            "title": "[*HP 8888]"
-        }
-    ],
+    "A2DFD07E5EB5F743": {
+        "[*Moon Jump Jericoss]": "[*Moon Jump Jericoss]\n80000002\n580F0000 02EF7C50\n580F1000 00000028\n580F1000 00000080\n780F0000 00000044\n640F0000 00000000 4138F5C0\n20000000\n\n",
+        "[*HP 8888]": "[*HP 8888]\n580F0000 02DB2E10\n580F1000 000000A0\n580F1000 00000020\n780F0000 00000080\n640F0000 00000000 460AE000\n\n"
+    },
     "attribution": {
         "Sundered Eldritch Edition ver 1.0.0 by jericoss.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }

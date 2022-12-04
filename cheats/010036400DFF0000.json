@@ -1,14 +1,8 @@
 {
-    "A680BCFCCDAB360D": [
-        {
-            "content": "[Energy unlimited]\n580F0000 0ACC25A8\n780F0000 000004EC\n640F0000 00000000 43160000\n\n",
-            "title": "[Energy unlimited]"
-        },
-        {
-            "content": "[Add Energy with ZR]\n80000200\n580F0000 0ACC25A8\n780F0000 000004EC\n640F0000 00000000 43160000\n",
-            "title": "[Add Energy with ZR]"
-        }
-    ],
+    "A680BCFCCDAB360D": {
+        "[Energy unlimited]": "[Energy unlimited]\n580F0000 0ACC25A8\n780F0000 000004EC\n640F0000 00000000 43160000\n\n",
+        "[Add Energy with ZR]": "[Add Energy with ZR]\n80000200\n580F0000 0ACC25A8\n780F0000 000004EC\n640F0000 00000000 43160000\n\n"
+    },
     "attribution": {
         "Unepic ver 1.0 made by merlin555.txt": ""
     }

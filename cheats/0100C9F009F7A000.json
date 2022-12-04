@@ -1,78 +1,24 @@
 {
-    "56246A89466A791B": [
-        {
-            "content": "[999999999 GP]\n580f0000 00C284D8\n780f0000 00000020\n640f0000 00000000 3B9AC9FF\n\n",
-            "title": "[999999999 GP]"
-        },
-        {
-            "content": "[Lora Team Max HP 9999]\n580f0000 00C284D8\n780f0000 00126EBE\n620f0000 00000000 0000270f\n\n",
-            "title": "[Lora Team Max HP 9999]"
-        },
-        {
-            "content": "[Lora Team Max Stats]\n580f0000 00C284D8\n780f0000 00126EC0\n680f0000 03e703e7 03e703e7\n780f0000 00000008\n620f0000 00000000 000003e7\n\n",
-            "title": "[Lora Team Max Stats]"
-        },
-        {
-            "content": "[Lora 9999999 Skill Point]\n580f0000 00C284D8\n780f0000 00126EE0 \n640f0000 00000000 0098967f\n\n",
-            "title": "[Lora 9999999 Skill Point]"
-        },
-        {
-            "content": "[Lora 9999999 WP]\n580f0000 00C284D8\n780f0000 001348F8\n640f0000 00000000 0098967f\n\n",
-            "title": "[Lora 9999999 WP]"
-        },
-        {
-            "content": "[Jin 9999999 WP]\n580f0000 00C284D8\n780f0000 00129960\n640f0000 00000000 0098967f\n\n",
-            "title": "[Jin 9999999 WP]"
-        },
-        {
-            "content": "[1st Character Infinite Battle HP]\n580f0000 00EAD6A8\n580f1000 00000050\n780f0000 00000014\n620f0000 00000000 0000xxxx\n\n",
-            "title": "[1st Character Infinite Battle HP]"
-        },
-        {
-            "content": "[2nd Character Infinite Battle HP]\n580f0000 00EAD6A8\n580f1000 000000A0\n780f0000 00000014\n620f0000 00000000 0000xxxx\n\n",
-            "title": "[2nd Character Infinite Battle HP]"
-        },
-        {
-            "content": "[3rd Character Infinite Battle HP]\n580f0000 00EAD6A8\n580f1000 000000F0\n780f0000 00000014\n620f0000 00000000 0000xxxx\n\nxxxx = set HP input Hex value must not more than your characters Max HP\nwill update cheat if TX adds function for copying value from another address",
-            "title": "[3rd Character Infinite Battle HP]"
-        }
-    ],
-    "72419A1325AE47DE": [
-        {
-            "content": "[999999999 GP]\n580f0000 01424838\n780f0000 00000020\n640f0000 00000000 3B9AC9FF\n\n",
-            "title": "[999999999 GP]"
-        },
-        {
-            "content": "[Lora Team Max HP 9999]\n580f0000 01424838\n780f0000 00126EBE\n620f0000 00000000 0000270f\n\n",
-            "title": "[Lora Team Max HP 9999]"
-        },
-        {
-            "content": "[Lora Team Max Stats]\n580f0000 01424838\n780f0000 00126EC0\n680f0000 03e703e7 03e703e7\n780f0000 00000008\n620f0000 00000000 000003e7\n\n",
-            "title": "[Lora Team Max Stats]"
-        },
-        {
-            "content": "[Lora 9999999 Skill Point]\n580f0000 01424838\n780f0000 00126EE0 \n640f0000 00000000 0098967f\n\n",
-            "title": "[Lora 9999999 Skill Point]"
-        },
-        {
-            "content": "[Lora 9999999 WP]\n580f0000 01424838\n780f0000 001348F8\n640f0000 00000000 0098967f\n\n",
-            "title": "[Lora 9999999 WP]"
-        },
-        {
-            "content": "[Jin 9999999 WP]\n580f0000 01424838\n780f0000 00129960\n640f0000 00000000 0098967f\n\n",
-            "title": "[Jin 9999999 WP]"
-        },
-        {
-            "content": "[1st Character Infinite Battle HP]\n580f0000 016a9a28\n580f1000 00000050\n780f0000 00000014\n620f0000 00000000 0000xxxx\n\n",
-            "title": "[1st Character Infinite Battle HP]"
-        },
-        {
-            "content": "[2nd Character Infinite Battle HP]\n580f0000 016a9a28\n580f1000 000000A0\n780f0000 00000014\n620f0000 00000000 0000xxxx\n\n",
-            "title": "[2nd Character Infinite Battle HP]"
-        },
-        {
-            "content": "[3rd Character Infinite Battle HP]\n580f0000 016a9a28\n580f1000 000000F0\n780f0000 00000014\n620f0000 00000000 0000xxxx\n\nxxxx = set HP input value must not more than your characters Max HP\nwill update cheat if TX adds function for copying value from another address",
-            "title": "[3rd Character Infinite Battle HP]"
-        }
-    ]
+    "56246A89466A791B": {
+        "[999999999 GP]": "[999999999 GP]\n580f0000 00C284D8\n780f0000 00000020\n640f0000 00000000 3B9AC9FF\n\n",
+        "[Lora Team Max HP 9999]": "[Lora Team Max HP 9999]\n580f0000 00C284D8\n780f0000 00126EBE\n620f0000 00000000 0000270f\n\n",
+        "[Lora Team Max Stats]": "[Lora Team Max Stats]\n580f0000 00C284D8\n780f0000 00126EC0\n680f0000 03e703e7 03e703e7\n780f0000 00000008\n620f0000 00000000 000003e7\n\n",
+        "[Lora 9999999 Skill Point]": "[Lora 9999999 Skill Point]\n580f0000 00C284D8\n780f0000 00126EE0 \n640f0000 00000000 0098967f\n\n",
+        "[Lora 9999999 WP]": "[Lora 9999999 WP]\n580f0000 00C284D8\n780f0000 001348F8\n640f0000 00000000 0098967f\n\n",
+        "[Jin 9999999 WP]": "[Jin 9999999 WP]\n580f0000 00C284D8\n780f0000 00129960\n640f0000 00000000 0098967f\n\n",
+        "[1st Character Infinite Battle HP]": "[1st Character Infinite Battle HP]\n580f0000 00EAD6A8\n580f1000 00000050\n780f0000 00000014\n620f0000 00000000 0000xxxx\n\n",
+        "[2nd Character Infinite Battle HP]": "[2nd Character Infinite Battle HP]\n580f0000 00EAD6A8\n580f1000 000000A0\n780f0000 00000014\n620f0000 00000000 0000xxxx\n\n",
+        "[3rd Character Infinite Battle HP]": "[3rd Character Infinite Battle HP]\n580f0000 00EAD6A8\n580f1000 000000F0\n780f0000 00000014\n620f0000 00000000 0000xxxx\n\nxxxx = set HP input Hex value must not more than your characters Max HP\nwill update cheat if TX adds function for copying value from another address\n\n"
+    },
+    "72419A1325AE47DE": {
+        "[999999999 GP]": "[999999999 GP]\n580f0000 01424838\n780f0000 00000020\n640f0000 00000000 3B9AC9FF\n\n",
+        "[Lora Team Max HP 9999]": "[Lora Team Max HP 9999]\n580f0000 01424838\n780f0000 00126EBE\n620f0000 00000000 0000270f\n\n",
+        "[Lora Team Max Stats]": "[Lora Team Max Stats]\n580f0000 01424838\n780f0000 00126EC0\n680f0000 03e703e7 03e703e7\n780f0000 00000008\n620f0000 00000000 000003e7\n\n",
+        "[Lora 9999999 Skill Point]": "[Lora 9999999 Skill Point]\n580f0000 01424838\n780f0000 00126EE0 \n640f0000 00000000 0098967f\n\n",
+        "[Lora 9999999 WP]": "[Lora 9999999 WP]\n580f0000 01424838\n780f0000 001348F8\n640f0000 00000000 0098967f\n\n",
+        "[Jin 9999999 WP]": "[Jin 9999999 WP]\n580f0000 01424838\n780f0000 00129960\n640f0000 00000000 0098967f\n\n",
+        "[1st Character Infinite Battle HP]": "[1st Character Infinite Battle HP]\n580f0000 016a9a28\n580f1000 00000050\n780f0000 00000014\n620f0000 00000000 0000xxxx\n\n",
+        "[2nd Character Infinite Battle HP]": "[2nd Character Infinite Battle HP]\n580f0000 016a9a28\n580f1000 000000A0\n780f0000 00000014\n620f0000 00000000 0000xxxx\n\n",
+        "[3rd Character Infinite Battle HP]": "[3rd Character Infinite Battle HP]\n580f0000 016a9a28\n580f1000 000000F0\n780f0000 00000014\n620f0000 00000000 0000xxxx\n\nxxxx = set HP input value must not more than your characters Max HP\nwill update cheat if TX adds function for copying value from another address\n\n"
+    }
 }

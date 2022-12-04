@@ -1,86 +1,16 @@
 {
-    "F3315F8027A9B24A": [
-        {
-            "content": "[01# Inf Energy]\n04000000 002CE9C0 D503201F\n\n",
-            "title": "[01# Inf Energy]"
-        },
-        {
-            "content": "[Inf Energy (off)]\n04000000 002CE9C0 1E283800\n\n",
-            "title": "[Inf Energy (off)]"
-        },
-        {
-            "content": "[02# No Damage]\n04000000 00601D90 D65F03C0\n\n",
-            "title": "[02# No Damage]"
-        },
-        {
-            "content": "[No Damage (off)]\n04000000 00601D90 A9BD57F6\n\n",
-            "title": "[No Damage (off)]"
-        },
-        {
-            "content": "[03# Inf Shadow]\n04000000 002D0698 52800048\n\n",
-            "title": "[03# Inf Shadow]"
-        },
-        {
-            "content": "[Inf Shadow (off)]\n04000000 002D0698 B9446268\n\n",
-            "title": "[Inf Shadow (off)]"
-        },
-        {
-            "content": "[04# Enemies Cant Chase]\n04000000 0068D6A0 D65F03C0\n\n",
-            "title": "[04# Enemies Cant Chase]"
-        },
-        {
-            "content": "[Enemies Cant Chase (off)]\n04000000 0068D6A0 FC1A0FEA\n\n",
-            "title": "[Enemies Cant Chase (off)]"
-        },
-        {
-            "content": "[05# Enemies Cant Chase Or Attack]\n04000000 0068E0F0 D65F03C0\n\n",
-            "title": "[05# Enemies Cant Chase Or Attack]"
-        },
-        {
-            "content": "[Enemies Cant Chase Or Attack (off)]\n04000000 0068E0F0 F81D0FF5\n\n",
-            "title": "[Enemies Cant Chase Or Attack (off)]"
-        },
-        {
-            "content": "[01# Inf Energy]\n04000000 002CE9C0 D503201F\n\n",
-            "title": "[01# Inf Energy]"
-        },
-        {
-            "content": "[Inf Energy (off)]\n04000000 002CE9C0 1E283800\n\n",
-            "title": "[Inf Energy (off)]"
-        },
-        {
-            "content": "[02# No Damage]\n04000000 00601D90 D65F03C0\n\n",
-            "title": "[02# No Damage]"
-        },
-        {
-            "content": "[No Damage (off)]\n04000000 00601D90 A9BD57F6\n\n",
-            "title": "[No Damage (off)]"
-        },
-        {
-            "content": "[03# Inf Shadow]\n04000000 002D0698 52800048\n\n",
-            "title": "[03# Inf Shadow]"
-        },
-        {
-            "content": "[Inf Shadow (off)]\n04000000 002D0698 B9446268\n\n",
-            "title": "[Inf Shadow (off)]"
-        },
-        {
-            "content": "[04# Enemies Cant Chase]\n04000000 0068D6A0 D65F03C0\n\n",
-            "title": "[04# Enemies Cant Chase]"
-        },
-        {
-            "content": "[Enemies Cant Chase (off)]\n04000000 0068D6A0 FC1A0FEA\n\n",
-            "title": "[Enemies Cant Chase (off)]"
-        },
-        {
-            "content": "[05# Enemies Cant Chase Or Attack]\n04000000 0068E0F0 D65F03C0\n\n",
-            "title": "[05# Enemies Cant Chase Or Attack]"
-        },
-        {
-            "content": "[Enemies Cant Chase Or Attack (off)]\n04000000 0068E0F0 F81D0FF5",
-            "title": "[Enemies Cant Chase Or Attack (off)]"
-        }
-    ],
+    "F3315F8027A9B24A": {
+        "[01# Inf Energy]": "[01# Inf Energy]\n04000000 002CE9C0 D503201F\n\n",
+        "[Inf Energy (off)]": "[Inf Energy (off)]\n04000000 002CE9C0 1E283800\n\n",
+        "[02# No Damage]": "[02# No Damage]\n04000000 00601D90 D65F03C0\n\n",
+        "[No Damage (off)]": "[No Damage (off)]\n04000000 00601D90 A9BD57F6\n\n",
+        "[03# Inf Shadow]": "[03# Inf Shadow]\n04000000 002D0698 52800048\n\n",
+        "[Inf Shadow (off)]": "[Inf Shadow (off)]\n04000000 002D0698 B9446268\n\n",
+        "[04# Enemies Cant Chase]": "[04# Enemies Cant Chase]\n04000000 0068D6A0 D65F03C0\n\n",
+        "[Enemies Cant Chase (off)]": "[Enemies Cant Chase (off)]\n04000000 0068D6A0 FC1A0FEA\n\n",
+        "[05# Enemies Cant Chase Or Attack]": "[05# Enemies Cant Chase Or Attack]\n04000000 0068E0F0 D65F03C0\n\n",
+        "[Enemies Cant Chase Or Attack (off)]": "[Enemies Cant Chase Or Attack (off)]\n04000000 0068E0F0 F81D0FF5\n\n"
+    },
     "attribution": {
         "Aragami shadow edtion ver 1.0.1 by Patjenova.txt": ""
     }

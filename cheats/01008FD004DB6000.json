@@ -1,38 +1,14 @@
 {
-    "06281C2C7552D226": [
-        {
-            "content": "[Moon Jump]\n80000002\n040F0000 01223408 9AAA0007\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Invincible]\n010F0000 01223458 00000010\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[P1 Infinite Lives]\n01000000 01223199 00000009\n\n",
-            "title": "[P1 Infinite Lives]"
-        },
-        {
-            "content": "[P1 Infinite Ammo]\n02000000 0122e634 0000ffff\n\n",
-            "title": "[P1 Infinite Ammo]"
-        },
-        {
-            "content": "[P1 Infinite Bombs]\n01000000 0122e631 000000ff\n\n",
-            "title": "[P1 Infinite Bombs]"
-        },
-        {
-            "content": "[P2 Infinite Lives]\n01000000 01223249 00000009\n\n",
-            "title": "[P2 Infinite Lives]"
-        },
-        {
-            "content": "[P2 Infinite Ammo]\n02000000 0122e636 0000ffff\n\n",
-            "title": "[P2 Infinite Ammo]"
-        },
-        {
-            "content": "[P2 Infinite Bombs]\n01000000 0122e632 000000ff",
-            "title": "[P2 Infinite Bombs]"
-        }
-    ],
+    "06281C2C7552D226": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n040F0000 01223408 9AAA0007\n20000000\n\n",
+        "[Invincible]": "[Invincible]\n010F0000 01223458 00000010\n\n",
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 01223199 00000009\n\n",
+        "[P1 Infinite Ammo]": "[P1 Infinite Ammo]\n02000000 0122e634 0000ffff\n\n",
+        "[P1 Infinite Bombs]": "[P1 Infinite Bombs]\n01000000 0122e631 000000ff\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 01223249 00000009\n\n",
+        "[P2 Infinite Ammo]": "[P2 Infinite Ammo]\n02000000 0122e636 0000ffff\n\n",
+        "[P2 Infinite Bombs]": "[P2 Infinite Bombs]\n01000000 0122e632 000000ff\n\n"
+    },
     "attribution": {
         "ACA NEOGEO METAL SLUG X by Zit.txt": "[Moon Jump]\n80000002\n040F0000 01223408 9AAA0007\n20000000\n\n[Invincible]\n010F0000 01223458 00000010\n\n[P1 Infinite Lives]\n01000000 01223199 00000009\n\n[P1 Infinite Ammo]\n02000000 0122e634 0000ffff\n\n[P1 Infinite Bombs]\n01000000 0122e631 000000ff\n\n[P2 Infinite Lives]\n01000000 01223249 00000009\n\n[P2 Infinite Ammo]\n02000000 0122e636 0000ffff\n\n[P2 Infinite Bombs]\n01000000 0122e632 000000ff"
     }

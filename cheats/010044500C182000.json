@@ -1,10 +1,7 @@
 {
-    "199E91FC40CB4F7D": [
-        {
-            "content": "[01# Inf Money]\n580F0000 041934D8\n580F1000 00000018\n580F1000 00002860\n580F1000 00000008\n580F1000 00000018\n580F1000 00000180\n780F0000 00000010\n640F0000 00000000 0F423F00",
-            "title": "[01# Inf Money]"
-        }
-    ],
+    "199E91FC40CB4F7D": {
+        "[01# Inf Money]": "[01# Inf Money]\n580F0000 041934D8\n580F1000 00000018\n580F1000 00002860\n580F1000 00000008\n580F1000 00000018\n580F1000 00000180\n780F0000 00000010\n640F0000 00000000 0F423F00\n\n"
+    },
     "attribution": {
         "Civilization 6 ver 1.2.2 by patjenova.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
     }

@@ -1,42 +1,15 @@
 {
-    "BBF599D8F665FF4A": [
-        {
-            "content": "[1p invicible chair club wrench]\n04000000 001F8F00 D503201F\n\n",
-            "title": "[1p invicible chair club wrench]"
-        },
-        {
-            "content": "[enemies don't attack]\n04000000 0009A5A4 D503201F\n\n",
-            "title": "[enemies don't attack]"
-        },
-        {
-            "content": "[inf reload all arms]\n04000000 009F0DA8 D65F03C0\n\n",
-            "title": "[inf reload all arms]"
-        },
-        {
-            "content": "[1p invicible enermies+stealth]\n04000000 003FF644 D65F03C0\n\n",
-            "title": "[1p invicible enermies+stealth]"
-        },
-        {
-            "content": "[1p invicible enermies+stealth off]\n04000000 003FF644 FC1E0FE8\n\n",
-            "title": "[1p invicible enermies+stealth off]"
-        },
-        {
-            "content": "[enemies no fire]\n04000000 00200B24 D65F03C0\n\n",
-            "title": "[enemies no fire]"
-        },
-        {
-            "content": "[enemies no fire off]\n04000000 00200B24 6DBC23E9\n\n",
-            "title": "[enemies no fire off]"
-        },
-        {
-            "content": "[1p to enemies invicible fire,explosion,others on]\n04000000 0177E2C0 D65F03C0\n\n",
-            "title": "[1p to enemies invicible fire,explosion,others on]"
-        },
-        {
-            "content": "[1p to enemies invicible fire,explosion,others off]\n04000000 0177E2C0 F81D0FF5",
-            "title": "[1p to enemies invicible fire,explosion,others off]"
-        }
-    ],
+    "BBF599D8F665FF4A": {
+        "[1p invicible chair club wrench]": "[1p invicible chair club wrench]\n04000000 001F8F00 D503201F\n\n",
+        "[enemies don't attack]": "[enemies don't attack]\n04000000 0009A5A4 D503201F\n\n",
+        "[inf reload all arms]": "[inf reload all arms]\n04000000 009F0DA8 D65F03C0\n\n",
+        "[1p invicible enermies+stealth]": "[1p invicible enermies+stealth]\n04000000 003FF644 D65F03C0\n\n",
+        "[1p invicible enermies+stealth off]": "[1p invicible enermies+stealth off]\n04000000 003FF644 FC1E0FE8\n\n",
+        "[enemies no fire]": "[enemies no fire]\n04000000 00200B24 D65F03C0\n\n",
+        "[enemies no fire off]": "[enemies no fire off]\n04000000 00200B24 6DBC23E9\n\n",
+        "[1p to enemies invicible fire,explosion,others on]": "[1p to enemies invicible fire,explosion,others on]\n04000000 0177E2C0 D65F03C0\n\n",
+        "[1p to enemies invicible fire,explosion,others off]": "[1p to enemies invicible fire,explosion,others off]\n04000000 0177E2C0 F81D0FF5\n\n"
+    },
     "attribution": {
         "Guns Gore and Cannoli 2 ver 1.0.4 by Xtatu.txt": ""
     }

@@ -1,14 +1,8 @@
 {
-    "B77B17D7A517384F": [
-        {
-            "content": "[60 FPS]\n580F0000 0304A080\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-            "title": "[60 FPS]"
-        },
-        {
-            "content": "[Default 30 FPS]\n580F0000 0304A080\n780F0000 00000F14\n640F0000 00000000 00000002",
-            "title": "[Default 30 FPS]"
-        }
-    ],
+    "B77B17D7A517384F": {
+        "[60 FPS]": "[60 FPS]\n580F0000 0304A080\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 0304A080\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
     "attribution": {
         "Decay of Logos.txt": "By Hazerou\n\n- This game has some bad Frame Pacing."
     }

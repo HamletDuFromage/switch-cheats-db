@@ -1,10 +1,7 @@
 {
-    "55AA8D007FAEC044": [
-        {
-            "content": "[Candles unlimited]\n04100000 00CB4E00 00000000\n",
-            "title": "[Candles unlimited]"
-        }
-    ],
+    "55AA8D007FAEC044": {
+        "[Candles unlimited]": "[Candles unlimited]\n04100000 00CB4E00 00000000\n\n"
+    },
     "attribution": {
         "Candleman ver 1.0 by merlin555.txt": ""
     }
