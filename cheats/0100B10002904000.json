@@ -20,5 +20,8 @@
             "content": "[Have All Weapon]\n300E0000 00000026\n020F0000 00568E54 000003E7\n780F0000 00000002\n310E0000\n20000000",
             "title": "[Have All Weapon]"
         }
-    ]
+    ],
+    "attribution": {
+        "Shakedown Hawaii ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
 }

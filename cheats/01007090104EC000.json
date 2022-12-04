@@ -12,5 +12,8 @@
             "content": "[focus 10 @tomvita]\n580F0000 04158B18\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000026C\n640F0000 00000000 0000000A",
             "title": "[focus 10 @tomvita]"
         }
-    ]
+    ],
+    "attribution": {
+        "John Wick Hex by @Tomvita.txt": "Ammo 255 don't always work. The other two seems to be consistent"
+    }
 }

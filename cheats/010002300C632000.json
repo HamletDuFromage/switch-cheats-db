@@ -28,5 +28,8 @@
             "content": "[Serial Fairy Code(AMS)]\n04100000 3513E564 0000003A\n400C0000 00000000 3513e56A\n400D0000 00000000 00000001\n300E0000 0000003A\nA1DC0310\n780C0000 00000024\n710D0000 00000001\n310E0000\n",
             "title": "[Serial Fairy Code(AMS)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Fairy Fencer F.txt": ""
+    }
 }

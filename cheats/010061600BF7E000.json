@@ -24,5 +24,8 @@
             "content": "[P1 Invincible]\n01000000 0127D4AA 000000F0\n01000000 0127D43D 000000FF\n01000000 0127D43E 000000FF\n01000000 0127D43F 000000FF\n01000000 0127D440 000000FF",
             "title": "[P1 Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "ACA NeoGeo Strikers 1945 Plus ver 1.0.2 by Smoker1.txt": "Pressing the A button and using the roll will release invincibility. This is a game specification.\n"
+    }
 }

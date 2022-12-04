@@ -20,5 +20,8 @@
             "content": "[9999 upgrade]\n580F0000 031C6988\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000078\n580F1000 00000020\n780F0000 00000040\n640F0000 00000000 0000270F",
             "title": "[9999 upgrade]"
         }
-    ]
+    ],
+    "attribution": {
+        "Aegis Defenders by arysmanedy64.txt": "Activate the code on the title screen."
+    }
 }

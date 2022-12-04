@@ -16,5 +16,8 @@
             "content": "[Max Power]\n010F0000 06CD92E8 00000003",
             "title": "[Max Power]"
         }
-    ]
+    ],
+    "attribution": {
+        "SENGOKU ACE EPISODE III by ZiT.txt": "Please turn on the code when you can move the character\nSwap your numbers in Health and Energy with floating point ( 461C9000 = 10020 )\n"
+    }
 }

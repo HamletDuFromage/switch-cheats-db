@@ -24,5 +24,18 @@
             "content": "[Inf Time (off)]\n040A0000 010D0704 B9021262",
             "title": "[Inf Time (off)]"
         }
-    ]
+    ],
+    "824B38A25986B2AB": [
+        {
+            "content": "[60 FPS]\n580F0000 03A374A0\n580F1000 00000018\n580F1000 00000080\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 03A374A0\n580F1000 00000018\n580F1000 00000080\n780F0000 00000F14\n640F0000 00000000 00000002\n",
+            "title": "[Default 30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Assassin\u2019s Creed 2 ver 1.2 by Patjenova.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+    }
 }

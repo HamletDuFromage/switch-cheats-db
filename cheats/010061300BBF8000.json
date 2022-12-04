@@ -4,5 +4,8 @@
             "content": "[99999 resources]\n580F0000 011EE7E8\n580F1000 00000038\n580F1000 00000000\n580F1000 00000008\n780F0000 00000020\n640F0000 00000000 497F0000",
             "title": "[99999 resources]"
         }
-    ]
+    ],
+    "attribution": {
+        "Defense Grid 2 by Arismendy64.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+    }
 }

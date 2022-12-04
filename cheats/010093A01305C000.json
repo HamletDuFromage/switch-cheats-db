@@ -118,5 +118,8 @@
             "content": "[HP Max]\n58000000 0CD79580\n58001000 00000028\n58001000 000000D0\n58001000 00000118\n78000000 00000010\n61000000 00000000 00000096",
             "title": "[HP Max]"
         }
-    ]
+    ],
+    "attribution": {
+        "MONSTER HUNTER RISE DEMO by TomSwitch and Xtatu genesic8062 Hazerou demo ver 1.2 by Xtatu.txt": "Ammo 255 don't always work. The other two seems to be consistent"
+    }
 }

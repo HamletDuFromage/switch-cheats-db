@@ -126,5 +126,8 @@
             "content": "[ACCURACY 999]\n580F0000 016F2958\n780F0000 0000B7E4\n640F0000 00000000 000003E7",
             "title": "[ACCURACY 999]"
         }
-    ]
+    ],
+    "attribution": {
+        "Ni no Kuni Wrath of the White Witch Remastered JAP 1.00 BY CCHOU.txt": "?After the 2th person, please add +08 to the following code\n580F1000 00000020"
+    }
 }

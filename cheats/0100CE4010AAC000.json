@@ -142,5 +142,8 @@
             "content": "[05# 1.5x Movement Speed - off]\n040E0000 02D51578 1E2E1000\n040E0000 02D5157C 1E2E9001\n040E0000 02D51598 1E201000\n",
             "title": "[05# 1.5x Movement Speed - off]"
         }
-    ]
+    ],
+    "attribution": {
+        "Final Fantasy Crystal Chronicles Remastered Edition v1.01 ver by wiitendo84 and matias3ds and gamerjin ver 1.0.3 by Eiffel.txt": "[Lock Upgrade Points]\n580F0000 05C4CA38\n580F1000 00000008\n580F1000 00000130\n580F1000 000001C0\n580F1000 000000D0\n780F0000 000000E8\n640F0000 00000000 00000009\n\n"
+    }
 }

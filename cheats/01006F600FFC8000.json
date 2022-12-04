@@ -1,4 +1,14 @@
 {
+    "436B1120BAEFC846": [
+        {
+            "content": "[60 FPS]\n580F0000 02744918\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 02744918\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[Default 30 FPS]"
+        }
+    ],
     "5D769ABCAD9F2743": [
         {
             "content": "[02# Cheat studs x2]\n010A0000 01E91A12 00000001\n\n",
@@ -120,5 +130,8 @@
             "content": "[Cheat Extra Hearts(off)]\n010A0000 01E91BD2 00000000",
             "title": "[Cheat Extra Hearts(off)]"
         }
-    ]
+    ],
+    "attribution": {
+        "LEGO MARVEL Super Heroes ver 1.0.1 by Patjenova.txt": "Note: Better use NOEXES to avoid game lag"
+    }
 }

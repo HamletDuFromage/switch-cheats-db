@@ -72,5 +72,8 @@
             "content": "[*Inf Money]\n580F0000 00C5D3C8\n580F1000 00000188\n580F1000 00000018\n780F0000 00000050\n640F0000 00000000 0087A238",
             "title": "[*Inf Money]"
         }
-    ]
+    ],
+    "attribution": {
+        "Books of Demons ver 1.0.0 by Jericoss.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

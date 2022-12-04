@@ -1,4 +1,24 @@
 {
+    "22FEBB6E53E35455": [
+        {
+            "content": "[60 FPS]\n580F0000 05270198\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 05270198\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[Default 30 FPS]"
+        }
+    ],
+    "724B2516EE06DB35": [
+        {
+            "content": "[60 FPS]\n580F0000 05279E98\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 05279E98\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[Default 30 FPS]"
+        }
+    ],
     "8CD5ADBF3BBF1D5D": [
         {
             "content": "[Custom Charater Maxout Attributes]\n040E0000 02E607F0 528000A0\n\n",
@@ -24,5 +44,8 @@
             "content": "[Created by Eiffel2018]\n20000000",
             "title": "[Created by Eiffel2018]"
         }
-    ]
+    ],
+    "attribution": {
+        "Disco Elysium - The Final Cut v1.0.1 (v65536) by Eiffel2018.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+    }
 }

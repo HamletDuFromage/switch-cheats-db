@@ -138,5 +138,8 @@
             "content": "[09# Inf health]\n04000000 01CAF0EC 42DC0000\n04000000 01CAEDF4 1C001769",
             "title": "[09# Inf health]"
         }
-    ]
+    ],
+    "attribution": {
+        "The Long Dark 1.0.0 by ZiT and ver 1.84.65582 by patjenova.txt": "If you want to change the status change 00000150."
+    }
 }

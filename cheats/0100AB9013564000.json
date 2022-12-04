@@ -12,5 +12,8 @@
             "content": "[*Inf Sp @made by Jericoss]\n580F0000 0229D558\n580F1000 00000B68\n780F0000 0000011C\n640F0000 00000000 43480000",
             "title": "[*Inf Sp @made by Jericoss]"
         }
-    ]
+    ],
+    "attribution": {
+        "Boss Rush Mitologhy v1.0.0 by Jericoss on gbatemp.txt": "Ammo 255 don't always work. The other two seems to be consistent"
+    }
 }

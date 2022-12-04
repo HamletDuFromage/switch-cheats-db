@@ -20,5 +20,8 @@
             "content": "[Inf. HP]\n04000000 009CD154 0000270F\n300E0000 00000045\n04000000 009C7700 0000270F\n78000000 00000154\n310E0000\n20000000",
             "title": "[Inf. HP]"
         }
-    ]
+    ],
+    "attribution": {
+        "Valkyria Chronicles ver 1.0.0 by Lionheartwolf.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

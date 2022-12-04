@@ -24,5 +24,6 @@
             "content": "[Buy something = decrease Money]\n04000000 001DE650 4B000101",
             "title": "[Buy something = decrease Money]"
         }
-    ]
+    ],
+    "attribution": {}
 }

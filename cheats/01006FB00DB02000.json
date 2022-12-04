@@ -28,5 +28,8 @@
             "content": "[Max Body Parts]\n580F0000 047B4C00\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000028\n580F1000 00000018\n580F1000 00000010\n580F1000 00000018\n780F0000 0000004C\n640F0000 00000000 0001869F",
             "title": "[Max Body Parts]"
         }
-    ]
+    ],
+    "attribution": {
+        "Yaga 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

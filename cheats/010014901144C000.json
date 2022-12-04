@@ -8,5 +8,8 @@
             "content": "[Inf Ammo]\n580F0000 04C34530\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000070\n580F1000 00000020\n580F1000 00000160\n780F0000 000000C8\n640F0000 00000000 0000000F",
             "title": "[Inf Ammo]"
         }
-    ]
+    ],
+    "attribution": {
+        "Genetic Disaster 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

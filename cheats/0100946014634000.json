@@ -32,5 +32,8 @@
             "content": "[Prevent Ingredient Consumption]\n040E0000 0199A8C8 2A0C03EA\n040E0000 0199B88C D503201F\n040E0000 0199BA70 2A0B03E8\n040E0000 0199B7B8 2A0E03ED\n040E0000 0199B724 52800020",
             "title": "[Prevent Ingredient Consumption]"
         }
-    ]
+    ],
+    "attribution": {
+        "Alchemist Adventure v1.210526 (v131072) by Eiffel.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

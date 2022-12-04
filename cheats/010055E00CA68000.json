@@ -12,5 +12,8 @@
             "content": "[call only in game never dead L on pad R pad off change player]\n80000040\n04000000 00344670 D65F03C0\n20000000\n80000080\n04000000 00344670 D10083FF\n20000000",
             "title": "[call only in game never dead L on pad R pad off change player]"
         }
-    ]
+    ],
+    "attribution": {
+        "Trine 4 The_Nightmare Prince ver 1.0.3 by xtatu.txt": ""
+    }
 }

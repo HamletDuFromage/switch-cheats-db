@@ -1,0 +1,15 @@
+{
+    "17600453F946D5B6": [
+        {
+            "content": "[Default 60 FPS]\n580F0000 00EBC558\n580F1000 000001A8\n780F0000 00000F24\n640F0000 00000000 00000001\n\n",
+            "title": "[Default 60 FPS]"
+        },
+        {
+            "content": "[30 FPS]\n580F0000 00EBC558\n580F1000 000001A8\n780F0000 00000F24\n640F0000 00000000 00000002",
+            "title": "[30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Gas Guzzlers Extreme.txt": "By Hazerou"
+    }
+}

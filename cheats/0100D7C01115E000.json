@@ -8,5 +8,8 @@
             "content": "[Movement Limit 1 (Hold Minus)]\n80000800\n580F0000 03C673F0\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000030\n640F0000 00000000 00000001\n20000000",
             "title": "[Movement Limit 1 (Hold Minus)]"
         }
-    ]
+    ],
+    "attribution": {
+        "One Girl Army  ver 1.0.0 by ZiT.txt": "\u203b Valid for DATA01 only."
+    }
 }

@@ -1,0 +1,15 @@
+{
+    "6E191829548C2A41": [
+        {
+            "content": "[60 FPS]\n580F0000 013D00B8\n780F0000 00000D14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 013D00B8\n780F0000 00000D14\n640F0000 00000000 00000002",
+            "title": "[Default 30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Cars 3 Driven to Win.txt": "By Hazerou \n\nFPS will drop straight to 30 whenever it can't handle 60 FPS even at MAX OC + Handheld Mode.\n\nhttps://www.youtube.com/watch?v=FCIOTYbtUhk"
+    }
+}

@@ -112,5 +112,8 @@
             "content": "[Max SPD (4P)]\n580F0000 022F1338\n580F1000 00000440\n580F1000 00000918\n580F1000 00000C60\n780F0000 00000026\n620F0000 00000000 000003E7",
             "title": "[Max SPD (4P)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Fernz Gate ver 1.0.0 by ZiT.txt": " Inf Health should be used in conjunction with Inf Armor."
+    }
 }

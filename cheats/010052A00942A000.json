@@ -16,5 +16,8 @@
             "content": "[Invincible]   \n580F0000 018660A8\n580F1000 00000088\n580F1000 00000078\n580F1000 000000A0\n580F1000 000000D0\n780F0000 00000264\n640F0000 00000000 00000064",
             "title": "[Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "Gekido Kintaro's Revenge ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

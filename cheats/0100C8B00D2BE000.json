@@ -12,5 +12,8 @@
             "content": "[Speed Up]\n580F0000 04AE6F90\n580F1000 00000090\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000028\n780F0000 0000022C\n640F0000 00000000 41A00000",
             "title": "[Speed Up]"
         }
-    ]
+    ],
+    "attribution": {
+        "Radical Rabbit Stew ver 1.0.0 by ZiT.txt": "\u203b Valid for DATA01 only."
+    }
 }

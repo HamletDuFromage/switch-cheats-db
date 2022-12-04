@@ -64,5 +64,8 @@
             "content": "[P3 Sanity max]\n580F0000 061C6B20 \n580F1000 00000210 \n580F1000 00000010 \n580F1000 00000068 \n780F0000 00000014 \n640F0000 00000000 41B00000\n\n\n\n",
             "title": "[P3 Sanity max]"
         }
-    ]
+    ],
+    "attribution": {
+        "Arkham Horror Mother's Embrace 1.0.0 by TomSwitch.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+    }
 }

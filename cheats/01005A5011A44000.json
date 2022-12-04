@@ -340,5 +340,8 @@
             "content": "[Unlock warpstones (off)]\n04000000 001EE9F0 2A1F03E0\n04000000 0044270C 360004A0",
             "title": "[Unlock warpstones (off)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Nexomon Extinction Ver 1.0.1 and 1.0.2 and 1.0.3 by DaBlackDeath and patjenova and TomSwitcht ver 1.0.5 by Patjenova ver 1.0.6 by patjenova.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

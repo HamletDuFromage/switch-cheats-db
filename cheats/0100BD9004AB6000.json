@@ -12,5 +12,8 @@
             "content": "[Speed Up (Hold ZR)]\n80000200\n580F0000 024B4158\n580F1000 00000098\n580F1000 00000000\n580F1000 00000020\n580F1000 00000068\n580F1000 000000B8\n780F0000 00000020\n640F0000 00000000 41500000\n20000000",
             "title": "[Speed Up (Hold ZR)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Kingdom New Lands ver 1.0.0 by ZiT.txt": "\u203b If you activate the code at the start of the game, it will freeze."
+    }
 }

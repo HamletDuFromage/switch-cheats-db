@@ -38,5 +38,8 @@
             "content": "[Inf HP (Hold Minus)]\n80000800\n580F0000 05CB3D00\n580F1000 00000000\n580F1000 000000A0\n780F0000 0000065C\n640F0000 00000000 50000000\n20000000",
             "title": "[Inf HP (Hold Minus)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Skully ver 1.0.0 by ZiT ver 1.0.1 by arismendy64.txt": "Invincible is only useful for blows."
+    }
 }

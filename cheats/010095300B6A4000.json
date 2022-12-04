@@ -8,5 +8,8 @@
             "content": "[Infinite Health]\n580F0000 02AF43B0\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n580F1000 00000020\n580F1000 00000020\n580F1000 00000080\n780F0000 00000028\n640F0000 00000000 4479C000 ",
             "title": "[Infinite Health]"
         }
-    ]
+    ],
+    "attribution": {
+        "South Park The Stick of Truth by Wiitendo84.txt": "This Code Becomes Effective While The Motorcycle is Jumping."
+    }
 }

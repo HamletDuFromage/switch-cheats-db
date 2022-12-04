@@ -12,5 +12,8 @@
             "content": "[Insta Mutation on kill  (off)]\n04000000 005744EC B941BE68\n04000000 005744F0 0B140108\n04000000 005744F4 B901BE68\n",
             "title": "[Insta Mutation on kill  (off)]"
         }
-    ]
+    ],
+    "attribution": {
+        "RAD - Update 0 (v1.0.0).txt": "\n\n    Thanks to @Falo for helping with the ARM ASM for this.\n\n    This will allow you to instantly get a mutation when you kill any monster, or do anything that gives you xp. It gets annoying after the 10th or so mutation... so turn it off then.. with the note below.\n\n    I suggest you turn this on/off in town, or when you're not fighting anything, as it rewrites a function and I am not to sure how the game/engine reacts to code being rewritten during the function."
+    }
 }

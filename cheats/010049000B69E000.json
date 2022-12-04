@@ -26,5 +26,9 @@
             "content": "[Max Gold]\n580F0000 03F01C00\n580F1000 00000010\n580F1000 000005C0\n580F1000 00000090\n580F1000 00000018\n580F1000 00000018\n780F0000 00000170\n640F0000 00000000 05F5E0FF",
             "title": "[Max Gold]"
         }
-    ]
+    ],
+    "attribution": {
+        "Black Future 88 v1.0.0 and v1.0.2 by DaBlackDeath.txt": "Turn on the cheat code after the stage starts.",
+        "Black Future 88 ver 1.0.0 by ZiT.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
+    }
 }

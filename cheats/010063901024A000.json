@@ -8,5 +8,8 @@
             "content": "[Speed Up]\n580F0000 0447CAF0\n580F1000 000000B8\n580F1000 00000030\n780F0000 00000054\n640F0000 00000000 42000000",
             "title": "[Speed Up]"
         }
-    ]
+    ],
+    "attribution": {
+        "Projection First Light 1.0.0 by ZiT.txt": "Turn on the code when you can move your character"
+    }
 }

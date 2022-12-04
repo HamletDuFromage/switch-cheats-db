@@ -16,5 +16,8 @@
             "content": "[Invincible]\n580F0000 0034D0F0\n580F1000 00000558\n580F1000 00000200\n580F1000 00000930\n780F0000 000001CC\n640F0000 00000000 50000000",
             "title": "[Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "SteamWorld Dig by ZiT.txt": "Please turn on the code when you can move the character\nSwap your numbers in Health and Energy with floating point ( 461C9000 = 10020 )\n"
+    }
 }

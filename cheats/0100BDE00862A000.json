@@ -70,5 +70,8 @@
             "content": "[#02# CPU No Super]\n040F0000 02b67f50 00000000\n040F0000 02b67f58 00000000",
             "title": "[#02# CPU No Super]"
         }
-    ]
+    ],
+    "attribution": {
+        "Mario Tennis Aces ver 3.1.0 by lionheartwolf.txt": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (V3.0.0)]\n\n[#01# Player Infinite Super]\n040F0000 02b87f50 466a6000\n040F0000 02b87f60 466a6000\n\n[#02# CPU No Super]\n040F0000 02b87f60 00000000\n040F0000 02b87f68 00000000\n\n[#03# Player never KO]\n080F0000 02b87f90 00780078 00780078\n080F0000 02b87f98 00780078 00780078\n\n[#04# CPU 1-Hit KO]\n080F0000 02b88010 00000000 00000000\n080F0000 02b88018 00000000 00000000"
+    }
 }

@@ -104,5 +104,8 @@
             "content": "[Esencia de sombra - Essence of shadow]\n04100000 A8E5D400 00000009",
             "title": "[Esencia de sombra - Essence of shadow]"
         }
-    ]
+    ],
+    "attribution": {
+        "Rack N Ruin ver 1.0.4 by jhmiller.txt": "NOTE:\nIf stats become unusable, set to lower number (tested with these a little and seemd fine. Dont exceed too hard or you might get 1 shot etc).\nStat changes will be made when you teleport in/out or level up."
+    }
 }

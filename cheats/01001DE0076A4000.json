@@ -30,5 +30,9 @@
             "content": "[Inf Bomb]\n580F0000 02B30D80\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000030\n580F1000 00000060\n780F0000 000000C8\n640F0000 00000000 00000004",
             "title": "[Inf Bomb]"
         }
-    ]
+    ],
+    "attribution": {
+        "ALPHA 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die.",
+        "Shu ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

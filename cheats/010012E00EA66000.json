@@ -8,5 +8,8 @@
             "content": "[can craft without mats - just press A]\n04000000 0025B550 52800020",
             "title": "[can craft without mats - just press A]"
         }
-    ]
+    ],
+    "attribution": {
+        "chroma squad by DaBlackDeath.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

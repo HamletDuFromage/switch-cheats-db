@@ -1,4 +1,14 @@
 {
+    "07615668130A17E6": [
+        {
+            "content": "[60 fps (default)]\n580F0000 01777CA0\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 fps (default)]"
+        },
+        {
+            "content": "[30 fps]\n580F0000 01777CA0\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[30 fps]"
+        }
+    ],
     "2AC6DB9E14898083": [
         {
             "content": "[ancient 100 percent]\n04000000 00862A78 1E2A2140\n04000000 00862B64 1E202000\n04000000 00862B48 D503201F\n\n",
@@ -420,5 +430,18 @@
             "content": "[all ingredients locked OFF]\n04000000 004E0BD0 9B280268",
             "title": "[all ingredients locked OFF]"
         }
-    ]
+    ],
+    "DC150C83FB392642": [
+        {
+            "content": "[Default 60 FPS]\n580F0000 01776CE0\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[Default 60 FPS]"
+        },
+        {
+            "content": "[30 FPS]\n580F0000 01776CE0\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Diablo III Ver2.6.9 translated by felonious.txt": "caution\ncan some problems"
+    }
 }

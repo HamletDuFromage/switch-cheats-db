@@ -20,5 +20,8 @@
             "content": "[Inf Lives]\n580F0000 02F175F8\n580F1000 000000A8\n580F1000 00000028\n580F1000 00000048\n580F1000 00000000\n580F1000 00000028\n780F0000 0000002C\n640F0000 00000000 00000063",
             "title": "[Inf Lives]"
         }
-    ]
+    ],
+    "attribution": {
+        "Hammerwatch ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
 }

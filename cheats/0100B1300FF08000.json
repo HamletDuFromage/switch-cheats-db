@@ -24,5 +24,8 @@
             "content": "[Draw Line Freely]\n040F0000 01AEB3F4 00000002",
             "title": "[Draw Line Freely]"
         }
-    ]
+    ],
+    "attribution": {
+        "THE WONDERFUL 101 REMASTERED ver 1.0.1 by Patjenova.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+    }
 }

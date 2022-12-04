@@ -32,5 +32,8 @@
             "content": "[Buy Ticket to get max Gold]\n04000000 003C8834 3B9AC9FF\n04000000 003C8250 18002F28\n\n\n",
             "title": "[Buy Ticket to get max Gold]"
         }
-    ]
+    ],
+    "attribution": {
+        "Ages of Mages ver 1.0.0 by merlin555.txt": "for v1.0.0\n\n*Info*\nOnly one player support.\nThe addresses often change back and forth, so that it makes no sense.\nWhen the energies stop working, restart the game."
+    }
 }

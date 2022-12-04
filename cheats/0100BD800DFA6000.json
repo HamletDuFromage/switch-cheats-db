@@ -24,5 +24,8 @@
             "content": "[Defense]\n580F0000 02387568\n580F1000 00000048\n580F1000 000006C8\n580F1000 00000098\n780F0000 0000003C\n640F0000 00000000 0001869F",
             "title": "[Defense]"
         }
-    ]
+    ],
+    "attribution": {
+        "GREEDROID ver 1.0.2 by misaki4545.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

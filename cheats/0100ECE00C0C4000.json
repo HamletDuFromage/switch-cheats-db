@@ -84,5 +84,8 @@
             "content": "[ink incl gold multiplier reset]\n04000000 00147258 2A0203F5\n",
             "title": "[ink incl gold multiplier reset]"
         }
-    ]
+    ],
+    "attribution": {
+        "Fury Unleashed v1.1.1 and 1.2.1 by DaBlackDeath ver 1.3.0 translated by felonious.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

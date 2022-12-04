@@ -32,5 +32,8 @@
             "content": "[Invincible]\n580F0000 02FC81B8\n580F1000 000000B8\n580F1000 00000000\n580F1000 000000C8\n580F1000 00000018\n780F0000 00000068\n640F0000 00000000 00000001",
             "title": "[Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "Reflex Unit 2 1.0.0 by ZiT and TomSwitch.txt": "The Invincible code will cause the mission to fail"
+    }
 }

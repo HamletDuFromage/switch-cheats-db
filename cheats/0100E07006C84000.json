@@ -16,5 +16,8 @@
             "content": "[Power UP]\n580F0000 01760848\n580F1000 00000098\n580F1000 00000000\n780F0000 000000F0\n640F0000 00000000 0000000A",
             "title": "[Power UP]"
         }
-    ]
+    ],
+    "attribution": {
+        "Earth Atlantis ver 1.0.0 by ZiT.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+    }
 }

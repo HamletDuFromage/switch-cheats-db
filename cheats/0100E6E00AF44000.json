@@ -8,5 +8,8 @@
             "content": "[Invincible]\n580F0000 005D4050\n580F1000 00000008\n580F1000 00000008\n580F1000 00000018\n780F0000 000000EC\n610F0000 00000000 00000000\n",
             "title": "[Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "Octogeddon ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
 }

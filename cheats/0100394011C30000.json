@@ -40,5 +40,8 @@
             "content": "[10# Max STR @Patjenova]\n580A0000 019240E0\n580A1000 00000010\n580A1000 00000010\n580A1000 00000078\n780A0000 0000086C\n640A0000 00000000 4479C000",
             "title": "[10# Max STR @Patjenova]"
         }
-    ]
+    ],
+    "attribution": {
+        "SCOTT PILGRIM VS. THE WORLD\u2122 THE GAME \u2013 COMPLETE EDITION ver 1.0.0 by Patjenova.txt": "****If you need HP/AP code for 3rd char, add 8h for 5th line"
+    }
 }

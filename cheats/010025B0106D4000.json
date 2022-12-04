@@ -16,5 +16,8 @@
             "content": "[Unlimited focus time60]\n58000000 0F1CB100\n58001000 00000028\n58001000 000000F8\n78000000 00000010\n64000000 00000000 42700000\n58000000 0F1C7B20\n58001000 00000000\n58001000 00000000\n58001000 000000F8\n78000000 00000010\n64000000 00000000 42700000",
             "title": "[Unlimited focus time60]"
         }
-    ]
+    ],
+    "attribution": {
+        "Zombie Army Trilogy ver 1.0.0 by 91wii.txt": "Not valid for mini games"
+    }
 }

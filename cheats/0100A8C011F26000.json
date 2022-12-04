@@ -8,5 +8,8 @@
             "content": "[55555 coins at the end of level]\n04000000 015AF700 529B2060",
             "title": "[55555 coins at the end of level]"
         }
-    ]
+    ],
+    "attribution": {
+        "Max & The Book of Chaos v1.0.0 by DaBlackDeath.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

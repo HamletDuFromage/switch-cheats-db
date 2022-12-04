@@ -8,5 +8,8 @@
             "content": "[Speed Up]\n580F0000 05365F68\n580F1000 000003D0\n580F1000 00000388\n780F0000 000001AC\n640F0000 00000000 40400000",
             "title": "[Speed Up]"
         }
-    ]
+    ],
+    "attribution": {
+        "Ninja Box ver 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

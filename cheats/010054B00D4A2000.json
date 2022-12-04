@@ -136,5 +136,8 @@
             "content": "[Max SPD (4P)]\n580F0000 029A03E0\n580F1000 000002F0\n580F1000 00000848\n580F1000 00000B68\n780F0000 00000026\n620F0000 00000000 000003E7\n\n",
             "title": "[Max SPD (4P)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Asdivine Dios ver 1.0.0 by ZiT.txt": " Inf Health should be used in conjunction with Inf Armor."
+    }
 }

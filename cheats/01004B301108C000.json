@@ -8,5 +8,8 @@
             "content": "[Inf MP]\n580F0000 00B2D698\n580F1000 00000058\n580F1000 00000010\n580F1000 00000450\n780F0000 00000024\n640F0000 00000000 40440000",
             "title": "[Inf MP]"
         }
-    ]
+    ],
+    "attribution": {
+        "Ghost Sweeper ver 1.0.0 by ZiT.txt": " Inf Health should be used in conjunction with Inf Armor."
+    }
 }

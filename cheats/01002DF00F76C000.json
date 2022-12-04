@@ -24,5 +24,8 @@
             "content": "[P1 HP FULL v2]\n580F0000 0653C118\n580F1000 00000010\n580F1000 000005F0\n580F1000 00000160\n780F0000 000000B4\n640F0000 00000000 03E80000",
             "title": "[P1 HP FULL v2]"
         }
-    ]
+    ],
+    "attribution": {
+        "SAMURAI SHODOWN V1.0.0 by TomSwitch.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

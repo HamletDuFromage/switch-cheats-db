@@ -4,5 +4,8 @@
             "content": "[Money 9.999.999]\n580F0000 024FC9F0\n580F1000 000000A0\n580F1000 00000138\n580F1000 000000B8\n580F1000 00000020\n780F0000 00000128\n640F0000 00000000 0098967F\n780F0000 00000004\n640F0000 00000000 01AB5110",
             "title": "[Money 9.999.999]"
         }
-    ]
+    ],
+    "attribution": {
+        "WorldNeverland Elnea Kingdom ver 1.5.5 v1245184 by jhmiller.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

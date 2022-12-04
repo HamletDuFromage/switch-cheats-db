@@ -24,5 +24,8 @@
             "content": "[06# Full Charge]\n580F0000 040E4A08\n580F1000 00000648\n580F1000 000005E8\n780F0000 000017E8\n640F0000 00000000 0000000A\n",
             "title": "[06# Full Charge]"
         }
-    ]
+    ],
+    "attribution": {
+        "Bulletstorm Duke ver 1.14.0 by patjenova.txt": "Pressing the A button and using the roll will release invincibility. This is a game specification.\n"
+    }
 }

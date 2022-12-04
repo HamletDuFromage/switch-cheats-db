@@ -1,4 +1,138 @@
 {
+    "09F4184ABFB6F667": [
+        {
+            "content": "[Default Handheld/Docked RRS 100% (720p/1080p)]\n580F0000 05B86FD8\n780F0000 00000064\n680F0000 42C80000 42C80000\n580F0000 05B86FF0\n780F0000 00000064\n680F0000 42C80000 42C80000\n580F0000 05329970\n780F0000 00000064\n680F0000 42C80000 42C80000\n\n[Docked RRS 66.66% (720p)\n580F0000 05B86FD8\n780F0000 00000064\n680F0000 42855555 42855555\n580F0000 05B86FF0\n780F0000 00000064\n680F0000 42855555 42855555\n580F0000 05329970\n780F0000 00000064\n680F0000 42855555 42855555\n\n",
+            "title": "[Default Handheld/Docked RRS 100% (720p/1080p)]"
+        },
+        {
+            "content": "[MSAA OFF]\n580F0000 05329A60\n780F0000 00000064\n680F0000 00000001 00000001\n\n",
+            "title": "[MSAA OFF]"
+        },
+        {
+            "content": "[MSAA 2x]\n580F0000 05329A60\n780F0000 00000064\n680F0000 00000002 00000002\n\n",
+            "title": "[MSAA 2x]"
+        },
+        {
+            "content": "[Default MSAA 4x]\n580F0000 05329A60\n780F0000 00000064\n680F0000 00000004 00000004\n\n",
+            "title": "[Default MSAA 4x]"
+        },
+        {
+            "content": "[MSAA 8x]\n580F0000 05329A60\n780F0000 00000064\n680F0000 00000008 00000008\n\n",
+            "title": "[MSAA 8x]"
+        },
+        {
+            "content": "[AA OFF]\n580F0000 053298E0\n780F0000 00000064\n680F0000 00000000 00000000\n\n",
+            "title": "[AA OFF]"
+        },
+        {
+            "content": "[AA Very Low (Faster FXAA)]\n580F0000 053298E0\n780F0000 00000064\n680F0000 00000001 00000001\n\n",
+            "title": "[AA Very Low (Faster FXAA)]"
+        },
+        {
+            "content": "[Default AA Low (FXAA)]\n580F0000 053298E0\n780F0000 00000064\n680F0000 00000002 00000002\n\n",
+            "title": "[Default AA Low (FXAA)]"
+        },
+        {
+            "content": "[AA Medium (Faster TAA)]\n580F0000 053298E0\n780F0000 00000064\n680F0000 00000003 00000003\n\n",
+            "title": "[AA Medium (Faster TAA)]"
+        },
+        {
+            "content": "[AA High (Default TAA)]\n580F0000 053298E0\n780F0000 00000064\n680F0000 00000004 00000004\n\n",
+            "title": "[AA High (Default TAA)]"
+        },
+        {
+            "content": "[AA Very High]\n580F0000 053298E0\n780F0000 00000064\n680F0000 00000005 00000005\n\n",
+            "title": "[AA Very High]"
+        },
+        {
+            "content": "[AA Max]\n580F0000 053298E0\n780F0000 00000064\n680F0000 00000006 00000006\n\n",
+            "title": "[AA Max]"
+        },
+        {
+            "content": "[Shadow OFF]\n580F0000 053298B0\n780F0000 00000064\n680F0000 00000000 00000000\n\n",
+            "title": "[Shadow OFF]"
+        },
+        {
+            "content": "[Shadow Low (Unfiltered)]\n580F0000 053298B0\n780F0000 00000064\n680F0000 00000001 00000001\n\n",
+            "title": "[Shadow Low (Unfiltered)]"
+        },
+        {
+            "content": "[Shadow Low]\n580F0000 053298B0\n780F0000 00000064\n680F0000 00000002 00000002\n\n",
+            "title": "[Shadow Low]"
+        },
+        {
+            "content": "[Default Shadow Medium]\n580F0000 053298B0\n780F0000 00000064\n680F0000 00000003 00000003\n\n",
+            "title": "[Default Shadow Medium]"
+        },
+        {
+            "content": "[Shadow High]\n580F0000 053298B0\n780F0000 00000064\n680F0000 00000004 00000004\n\n",
+            "title": "[Shadow High]"
+        },
+        {
+            "content": "[Shadow Max]\n580F0000 053298B0\n780F0000 00000064\n680F0000 00000005 00000005\n\n",
+            "title": "[Shadow Max]"
+        },
+        {
+            "content": "[SSA0 OFF]\n580F0000 05329880\n780F0000 00000064\n680F0000 00000000 00000000\n\n",
+            "title": "[SSA0 OFF]"
+        },
+        {
+            "content": "[SSA0 x1]\n580F0000 05329880\n780F0000 00000064\n680F0000 3F800000 3F800000\n\n",
+            "title": "[SSA0 x1]"
+        },
+        {
+            "content": "[Default SSA0 x1.5]\n580F0000 05329880\n780F0000 00000064\n680F0000 3FC00000 3FC00000\n\n",
+            "title": "[Default SSA0 x1.5]"
+        },
+        {
+            "content": "[SSA0 x2]\n580F0000 05329880\n780F0000 00000064\n680F0000 40000000 40000000\n\n",
+            "title": "[SSA0 x2]"
+        },
+        {
+            "content": "[Bloom OFF]\n580F0000 05329850\n780F0000 00000064\n680F0000 00000000 00000000\n\n",
+            "title": "[Bloom OFF]"
+        },
+        {
+            "content": "[Bloom Very Low]\n580F0000 05329850\n780F0000 00000064\n680F0000 00000001 00000001\n\n",
+            "title": "[Bloom Very Low]"
+        },
+        {
+            "content": "[Bloom Low]\n580F0000 05329850\n780F0000 00000064\n680F0000 00000002 00000002\n\n",
+            "title": "[Bloom Low]"
+        },
+        {
+            "content": "[Bloom Medium]\n580F0000 05329850\n780F0000 00000064\n680F0000 00000003 00000003\n\n",
+            "title": "[Bloom Medium]"
+        },
+        {
+            "content": "[Default Bloom High]\n580F0000 05329850\n780F0000 00000064\n680F0000 00000004 00000004\n\n",
+            "title": "[Default Bloom High]"
+        },
+        {
+            "content": "[Bloom Very High]\n580F0000 05329850\n780F0000 00000064\n680F0000 00000005 00000005\n\n",
+            "title": "[Bloom Very High]"
+        },
+        {
+            "content": "[Default Motion Blur OFF]\n580F0000 053298C8\n780F0000 00000064\n680F0000 00000000 00000000\n\n",
+            "title": "[Default Motion Blur OFF]"
+        },
+        {
+            "content": "[Motion Blur ON]\n580F0000 053298C8\n780F0000 00000064\n680F0000 00000004 00000004\n\n",
+            "title": "[Motion Blur ON]"
+        },
+        {
+            "content": "[MAX GFX QUALITY]\n580F0000 05329A60\n780F0000 00000064\n680F0000 00000008 00000008\n580F0000 053298E0\n780F0000 00000064\n680F0000 00000006 00000006\n580F0000 053298B0\n780F0000 00000064\n680F0000 00000005 00000005\n580F0000 05329880\n780F0000 00000064\n680F0000 40000000 40000000\n580F0000 05329850\n780F0000 00000064\n680F0000 00000005 00000005\n\n",
+            "title": "[MAX GFX QUALITY]"
+        },
+        {
+            "content": "[MIN GFX QUALITY]\n580F0000 05329A60\n780F0000 00000064\n680F0000 00000001 00000001\n580F0000 053298E0\n780F0000 00000064\n680F0000 00000000 00000000\n580F0000 053298B0\n780F0000 00000064\n680F0000 00000000 00000000\n580F0000 05329880\n780F0000 00000064\n680F0000 00000000 00000000\n580F0000 05329850\n780F0000 00000064\n680F0000 00000000 00000000\n\n",
+            "title": "[MIN GFX QUALITY]"
+        },
+        {
+            "content": "[DEFAULT GFX QUALITY]\n580F0000 05329A60\n780F0000 00000064\n680F0000 00000004 00000004\n580F0000 053298E0\n780F0000 00000064\n680F0000 00000002 00000002\n580F0000 053298B0\n780F0000 00000064\n680F0000 00000003 00000003\n580F0000 05329880\n780F0000 00000064\n680F0000 3FC00000 3FC00000\n580F0000 05329850\n780F0000 00000064\n680F0000 00000004 00000004",
+            "title": "[DEFAULT GFX QUALITY]"
+        }
+    ],
     "70DF9FBFF6E78F49": [
         {
             "content": "{Mastercode}\n04000000 00256AB8 1A88B2C8\n04000000 00256B0C 1A8AB12A\n04000000 0015CC70 B94DE008\n04000000 000D2E38 B9404C00\n04000000 000D9478 B9405677\n04000000 0016E960 B943A808\n04000000 0011E10C 78E86A68\n04000000 0010EFBC B940126A\n04000000 004E1D24 11000529\n04000000 004A389C B940428A\n\n",
@@ -332,5 +466,8 @@
             "content": "[Get EXP Lv Max]\n04000000 00456CCC 52800C8A",
             "title": "[Get EXP Lv Max]"
         }
-    ]
+    ],
+    "attribution": {
+        "Dragon Ball Fighterz ver 1.19 and 1.25 by Patjenova and 1.20 by arismendy64.txt": ""
+    }
 }

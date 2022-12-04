@@ -25,6 +25,60 @@
             "title": "[Moonjump Jericoss V2]"
         }
     ],
+    "556435902552EE29": [
+        {
+            "content": "[60 FPS]\n580F0000 02513CE0\n780F0000 00000054\n640F0000 00000000 42700000\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[30 FPS]\n580F0000 02513CE0\n780F0000 00000054\n640F0000 00000000 41F00000\n\n",
+            "title": "[30 FPS]"
+        },
+        {
+            "content": "[Game Speed Toggle (L + LEFT/RIGHT/UP)]\n80002040\n580F0000 02513CE0\n780F0000 00000050\n640F0000 00000000 42700000\n20000000\n80004040\n580F0000 02513CE0\n780F0000 00000050\n640F0000 00000000 42F00000\n20000000\n80001040\n580F0000 02513CE0\n780F0000 00000050\n640F0000 00000000 42B40000\n20000000\n\n",
+            "title": "[Game Speed Toggle (L + LEFT/RIGHT/UP)]"
+        },
+        {
+            "content": "[(Hold L3) Game Speed x2]\n580F0000 02513CE0\n780F0000 00000050\n640F0000 00000000 42700000\n20000000\n80000010\n580F0000 02513CE0\n780F0000 00000050\n640F0000 00000000 42F00000\n20000000",
+            "title": "[(Hold L3) Game Speed x2]"
+        }
+    ],
+    "7940105201B13184": [
+        {
+            "content": "[60 FPS]\n580F0000 0251E1E0\n780F0000 00000054\n640F0000 00000000 42700000\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[30 FPS]\n580F0000 0251E1E0\n780F0000 00000054\n640F0000 00000000 41F00000\n\n",
+            "title": "[30 FPS]"
+        },
+        {
+            "content": "[Game Speed Toggle (L + LEFT/RIGHT/UP)]\n80002040\n580F0000 0251E1E0\n780F0000 00000050\n640F0000 00000000 42700000\n20000000\n80004040\n580F0000 0251E1E0\n780F0000 00000050\n640F0000 00000000 42F00000\n20000000\n80001040\n580F0000 0251E1E0\n780F0000 00000050\n640F0000 00000000 42B40000\n20000000\n\n",
+            "title": "[Game Speed Toggle (L + LEFT/RIGHT/UP)]"
+        },
+        {
+            "content": "[(Hold L3) Game Speed x2]\n580F0000 0251E1E0\n780F0000 00000050\n640F0000 00000000 42700000\n20000000\n80000010\n580F0000 0251E1E0\n780F0000 00000050\n640F0000 00000000 42F00000\n20000000",
+            "title": "[(Hold L3) Game Speed x2]"
+        }
+    ],
+    "9E55490635FD56AF": [
+        {
+            "content": "[60 FPS]\n580F0000 02513CE0\n780F0000 00000054\n640F0000 00000000 42700000\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[30 FPS]\n580F0000 02513CE0\n780F0000 00000054\n640F0000 00000000 41F00000\n\n",
+            "title": "[30 FPS]"
+        },
+        {
+            "content": "[Game Speed Toggle (L + LEFT/RIGHT/UP)]\n80002040\n580F0000 02513CE0\n780F0000 00000050\n640F0000 00000000 42700000\n20000000\n80004040\n580F0000 02513CE0\n780F0000 00000050\n640F0000 00000000 42F00000\n20000000\n80001040\n580F0000 02513CE0\n780F0000 00000050\n640F0000 00000000 42B40000\n20000000\n\n",
+            "title": "[Game Speed Toggle (L + LEFT/RIGHT/UP)]"
+        },
+        {
+            "content": "[(Hold L3) Game Speed x2]\n580F0000 02513CE0\n780F0000 00000050\n640F0000 00000000 42700000\n20000000\n80000010\n580F0000 02513CE0\n780F0000 00000050\n640F0000 00000000 42F00000\n20000000",
+            "title": "[(Hold L3) Game Speed x2]"
+        }
+    ],
     "BCD9FDDEBA070270": [
         {
             "content": "[Inf. HP P1]\n021C0000 4050AFEC 0000270F\n\n",
@@ -69,6 +123,42 @@
         {
             "content": "[Iron sword 2000 attack of all kind 2000 protect 100% critical]\n580F0000 0240F230\n580F1000 00000500\n580F1000 000000D8\n580F1000 00000000\n780F0000 00000010\n680F1000 07D007D0 07D007D0\n680F1000 07D007D0 006407D0",
             "title": "[Iron sword 2000 attack of all kind 2000 protect 100% critical]"
+        }
+    ],
+    "E0CCC6BB309EBB8D": [
+        {
+            "content": "[60 FPS]\n580F0000 0251F1E0\n780F0000 00000054\n640F0000 00000000 42700000\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[30 FPS]\n580F0000 0251F1E0\n780F0000 00000054\n640F0000 00000000 41F00000\n\n",
+            "title": "[30 FPS]"
+        },
+        {
+            "content": "[Game Speed Toggle (L + LEFT/RIGHT/UP)]\n80002040\n580F0000 0251F1E0\n780F0000 00000050\n640F0000 00000000 42700000\n20000000\n80004040\n580F0000 0251F1E0\n780F0000 00000050\n640F0000 00000000 42F00000\n20000000\n80001040\n580F0000 0251F1E0\n780F0000 00000050\n640F0000 00000000 42B40000\n20000000\n\n",
+            "title": "[Game Speed Toggle (L + LEFT/RIGHT/UP)]"
+        },
+        {
+            "content": "[(Hold L3) Game Speed x2]\n580F0000 0251F1E0\n780F0000 00000050\n640F0000 00000000 42700000\n20000000\n80000010\n580F0000 0251F1E0\n780F0000 00000050\n640F0000 00000000 42F00000\n20000000",
+            "title": "[(Hold L3) Game Speed x2]"
+        }
+    ],
+    "E4BE86E6B192931E": [
+        {
+            "content": "[60 FPS]\n580F0000 0251E1E0\n780F0000 00000054\n640F0000 00000000 42700000\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[30 FPS]\n580F0000 0251E1E0\n780F0000 00000054\n640F0000 00000000 41F00000\n\n",
+            "title": "[30 FPS]"
+        },
+        {
+            "content": "[Game Speed Toggle (L + LEFT/RIGHT/UP)]\n80002040\n580F0000 0251E1E0\n780F0000 00000050\n640F0000 00000000 42700000\n20000000\n80004040\n580F0000 0251E1E0\n780F0000 00000050\n640F0000 00000000 42F00000\n20000000\n80001040\n580F0000 0251E1E0\n780F0000 00000050\n640F0000 00000000 42B40000\n20000000\n\n",
+            "title": "[Game Speed Toggle (L + LEFT/RIGHT/UP)]"
+        },
+        {
+            "content": "[(Hold L3) Game Speed x2]\n580F0000 0251E1E0\n780F0000 00000050\n640F0000 00000000 42700000\n20000000\n80000010\n580F0000 0251E1E0\n780F0000 00000050\n640F0000 00000000 42F00000\n20000000",
+            "title": "[(Hold L3) Game Speed x2]"
         }
     ],
     "EE762E3C16403A53": [
@@ -364,5 +454,9 @@
             "content": "[2nd P.P.B. +Kinship Gauge]\n580F0000 023FAEE0\n780F0000 0050CF6C\n610F0000 00\n",
             "title": "[2nd P.P.B. +Kinship Gauge]"
         }
-    ]
+    ],
+    "attribution": {
+        "Monster Hunter Stories 2 Wings of Ruin ver 1.0.1 by jericoss and crazy_p ver 1.0.3 by crazy_p.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",
+        "Monster Hunter Stories 2 Wings of Ruin ver 1.0.1 by jericoss ver 1.2.0 by xtatu and HAZEROU.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

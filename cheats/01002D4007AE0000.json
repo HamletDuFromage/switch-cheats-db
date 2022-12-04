@@ -40,5 +40,8 @@
             "content": "[mm10 inf hp]\n01000000 0567E358 0000001c",
             "title": "[mm10 inf hp]"
         }
-    ]
+    ],
+    "attribution": {
+        "Mega Man Legacy Collection by arismendy64.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

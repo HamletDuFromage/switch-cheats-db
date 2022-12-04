@@ -8,5 +8,8 @@
             "content": "[Inf Ammo / No Reload]\n04000000 00322800 52800C80",
             "title": "[Inf Ammo / No Reload]"
         }
-    ]
+    ],
+    "attribution": {
+        "Heaven Dust v1.0 by DaBlackDeath.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
+    }
 }

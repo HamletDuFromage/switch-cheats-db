@@ -8,5 +8,8 @@
             "content": "[Inf. Skill Points]\n58000000 04284D68\n58001000 000000A0\n58001000 00000000\n78000000 00000018\n64000000 00000000 000003E7",
             "title": "[Inf. Skill Points]"
         }
-    ]
+    ],
+    "attribution": {
+        "Cooking Simulator ver 1.0.0 by Lionheartwolf.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

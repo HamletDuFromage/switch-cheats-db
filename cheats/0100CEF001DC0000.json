@@ -38,5 +38,8 @@
             "content": "[hitanywhere]\n580F0000 0126DE68\n780F0000 000B7DA4\n640F0000 00000000 013e6002",
             "title": "[hitanywhere]"
         }
-    ]
+    ],
+    "attribution": {
+        "by optantic for ACA NEOGEO WAKU WAKU 7 1.0.2 and xtatu.txt": "[From MAX-CHEATS.com by optantic for ACA NEOGEO WAKU WAKU 7 1.0.2]\n\n[P1 Infinite HP]\n02000000 0125d6da 0000FFE4\n\n[P1 Infinite Super]\n01000000 0125d6e8 00000003\n\n[P2 NO HP]\n02000000 0125d81a 00000000\n\n[P2 NO Super]\n01000000 0125d828 00000000\n\n[hitanywhere]\n580F0000 0126DE68\n780F0000 000B7DA4\n640F0000 00000000 013e6002"
+    }
 }

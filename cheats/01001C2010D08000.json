@@ -16,5 +16,8 @@
             "content": "[Invincible]\n580F0000 00542280\n780F0000 00000000\n640F0000 00000000 00000030",
             "title": "[Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "They Bleed Pixels ver 1.0.0 by ZiT.txt": "\u203b If you activate the code at the start of the game, it will freeze."
+    }
 }

@@ -8,5 +8,8 @@
             "content": "[*888 Hits]\n580F0000 0333C898\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000020\n580F1000 00000028\n780F0000 00000018\n640F0000 00000000 00000378",
             "title": "[*888 Hits]"
         }
-    ]
+    ],
+    "attribution": {
+        "Rival Megagun ver 1.0.0 by jericoss.txt": "NOTE:\nIf stats become unusable, set to lower number (tested with these a little and seemd fine. Dont exceed too hard or you might get 1 shot etc).\nStat changes will be made when you teleport in/out or level up."
+    }
 }

@@ -8,5 +8,8 @@
             "content": "[Max Heart]\n580F0000 01AE4970\n580F1000 00000058\n580F1000 00000010\n580F1000 00001B50\n780F0000 00000034",
             "title": "[Max Heart]"
         }
-    ]
+    ],
+    "attribution": {
+        "Spinch 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

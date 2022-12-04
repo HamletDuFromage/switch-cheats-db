@@ -20,5 +20,8 @@
             "content": "[Speed Up]\n580F0000 05A13418\n580F1000 00000018\n580F1000 00000008\n580F1000 00000000\n580F1000 00000040\n580F1000 000001E8\n580F1000 00000170\n580F1000 00000028\n780F0000 00000008\n640F0000 00000000 40800000",
             "title": "[Speed Up]"
         }
-    ]
+    ],
+    "attribution": {
+        "Assassins creed black flag ver 1.0 by patjenova and ZiT866.txt": "By changing 40800000, you can change to your preferred speed."
+    }
 }

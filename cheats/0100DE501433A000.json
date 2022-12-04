@@ -26,5 +26,9 @@
             "content": "[Next Spawn XL (Press Y)]\n80000008\n580E0000 07667220\n580E1000 00000000\n580E1000 00000020\n580E1000 000002D0\n780E0000 00000680\n640E0000 00000000 00000001\n20000000",
             "title": "[Next Spawn XL (Press Y)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Tetris\u00ac Effect, Connected (US) v1.0.0 and 1.0.1 by Eiffel2018.txt": "Note: Better use NOEXES to avoid game lag",
+        "Tetris\u00ac Effect, Connected (US) v1.0.0 by Eiffel2018.txt": "Note: Better use NOEXES to avoid game lag"
+    }
 }

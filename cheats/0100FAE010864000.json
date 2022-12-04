@@ -32,5 +32,8 @@
             "content": "[Max MATK]\n580F0000 030A3418\n580F1000 000000B8\n780F0000 00000040\n640F0000 00000000 461C3C00",
             "title": "[Max MATK]"
         }
-    ]
+    ],
+    "attribution": {
+        "Minoria 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

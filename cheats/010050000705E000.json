@@ -136,5 +136,8 @@
             "content": "[Walk Through Wall (OFF:R3+LEFT Button ON:R3+RIGHT Button)]\n80001020\n04000000 008467A8 1E2C1002\n20000000\n80004020\n04000000 008467A8 1E27F002\n20000000",
             "title": "[Walk Through Wall (OFF:R3+LEFT Button ON:R3+RIGHT Button)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Dragon Quest Builders 2 Ver. 1.7.1a Jap by R1N08GAM1.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
+    }
 }

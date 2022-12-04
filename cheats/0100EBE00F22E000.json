@@ -1,0 +1,15 @@
+{
+    "5096FEAE6650CA36": [
+        {
+            "content": "[Default 60 FPS]\n540F0000 2A7E4040\n780F0000 000007BC\n640F0000 00000000 00000001\n\n",
+            "title": "[Default 60 FPS]"
+        },
+        {
+            "content": "[30 FPS]\n540F0000 2A7E4040\n780F0000 000007BC\n640F0000 00000000 00000002",
+            "title": "[30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Deadly Premonition Origins.txt": "By Hazerou"
+    }
+}

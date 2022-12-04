@@ -69,6 +69,16 @@
             "title": "[Moon Jump]"
         }
     ],
+    "737E56D43D2C0B38": [
+        {
+            "content": "[60 FPS]\n04000000 01D15228 0000003C\n04000000 01D1522C 00000001\n04000000 01D28CB8 42700000\n04000000 02A88DC0 00000000\n08000000 00005078 D503201F D503201F\n04000000 00005090 52800021\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[30 FPS]\n04000000 01D15228 0000001E\n04000000 01D1522C 00000002\n04000000 01D28CB8 41F00000\n04000000 02A88DC0 00000001\n08000000 00005078 540000E0 6B15001F\n04000000 00005090 2A1503E1",
+            "title": "[30 FPS]"
+        }
+    ],
     "740094A857A59066": [
         {
             "content": "[Moon Jump]\n80000002\n580F0000 02A79AB0\n580F1000 000EFF68\n580F1000 00000190\n780F0000 00003D6C\n640F0000 00000000 41A33334\n20000000\n\n",
@@ -94,5 +104,8 @@
             "content": "[Enemy Freeze(OFF: +button&LEFT ON: +button&RIGHT)]\n80001400\n04000000 0014AE60 1E2E100A\n20000000\n80004400\n04000000 0014AE60 1E27D00C\n20000000",
             "title": "[Enemy Freeze(OFF: +button&LEFT ON: +button&RIGHT)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Persona 5 Scramble The Phantom Strikers ver 1.0.0 by xtatu and Strange Thief B.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
+    }
 }

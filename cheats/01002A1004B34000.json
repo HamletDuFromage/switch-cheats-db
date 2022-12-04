@@ -12,5 +12,8 @@
             "content": "[1st item x 20]\n58000000 01B1CE00\n58001000 00000098",
             "title": "[1st item x 20]"
         }
-    ]
+    ],
+    "attribution": {
+        "Romancing saga 2 (Japanese Version) ver 1.0.0 by cchou.txt": "[Inf Coins 99999 @Matias3ds]\n04000000 01a77670 0001869F\n\n[Inf Skill Tree @Matias3ds]\n04000000 019c46d8 0001869F\n\n[Inf Gems @Matias3ds]\n04000000 01a71d3c 0001869F"
+    }
 }

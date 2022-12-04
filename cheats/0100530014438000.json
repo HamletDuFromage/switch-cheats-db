@@ -1,0 +1,15 @@
+{
+    "B1AFBB02475AD7E3": [
+        {
+            "content": "[60FPS Cap in Battles (Requires Overclock)]\n08100000 1B033F24 00000000 00000001\n\n",
+            "title": "[60FPS Cap in Battles (Requires Overclock)]"
+        },
+        {
+            "content": "[30FPS Cap in Battles]\n08100000 1B033F24 00000000 00000002",
+            "title": "[30FPS Cap in Battles]"
+        }
+    ],
+    "attribution": {
+        "Mary Skelter Finale.txt": "By KingKrouch Gbatemp"
+    }
+}

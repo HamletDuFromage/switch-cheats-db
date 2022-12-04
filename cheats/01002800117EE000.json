@@ -16,5 +16,8 @@
             "content": "[Invincible]\n580F0000 02F306A8\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000058\n780F0000 00000158\n640F0000 00000000 00010100",
             "title": "[Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "Mystery Mine ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
 }

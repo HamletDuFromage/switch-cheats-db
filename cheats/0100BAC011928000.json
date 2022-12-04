@@ -1,4 +1,14 @@
 {
+    "06B98C7A18749045": [
+        {
+            "content": "[Default 60 FPS]\n580F0000 0400B9D8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[Default 60 FPS]"
+        },
+        {
+            "content": "[30 FPS]\n580F0000 0400B9D8\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[30 FPS]"
+        }
+    ],
     "3C9B3ECFAD8A9542": [
         {
             "content": "[01# Inf Stamina]\n04000000 00501270 D65F03C0\n",
@@ -54,5 +64,8 @@
             "content": "[SLEEP MAX]\n580F0000 03D3CE28\n580F1000 000000B8\n780F0000 00000030\n640F0000 00000000 000249F0",
             "title": "[SLEEP MAX]"
         }
-    ]
+    ],
+    "attribution": {
+        "Deadly Premonition 2 A Blessing In Disguise by patjenova and jun_bon_jovi.txt": "caution\ncan some problems"
+    }
 }

@@ -28,5 +28,8 @@
             "content": "[Max SPD]\n580F0000 035BECC0\n580F1000 00000360\n580F1000 00000A78\n580F1000 00000B28\n780F0000 00000020\n680F0000 03E703E7 03E703E7",
             "title": "[Max SPD]"
         }
-    ]
+    ],
+    "attribution": {
+        "Asdivine Kamura ver 1.0.0 by ZiT.txt": " Inf Health should be used in conjunction with Inf Armor."
+    }
 }

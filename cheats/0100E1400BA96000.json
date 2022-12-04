@@ -1,0 +1,15 @@
+{
+    "A4CC4C44C07AEC14": [
+        {
+            "content": "[60 FPS]\n580F0000 01F2FFC0\n580F1000 000007D0\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[30 FPS]\n580F0000 01F2FFC0\n580F1000 000007D0\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Darksiders Warmastered Edition.txt": "By Hazerou\n\nYou can use 60 FPS Cheat on High Quality Mode(30 FPS)."
+    }
+}

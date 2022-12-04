@@ -212,5 +212,8 @@
             "content": "[Speed Up (Push ZR & ZL)]\n80000300\n04100000 02A16118 00000000\n20000000",
             "title": "[Speed Up (Push ZR & ZL)]"
         }
-    ]
+    ],
+    "attribution": {
+        "DRAGON QUEST III by zit.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
+    }
 }

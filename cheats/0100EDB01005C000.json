@@ -8,5 +8,8 @@
             "content": "[Invincible]\n580F0000 02701128\n580F1000 000000B8\n580F1000 00000018\n580F1000 00000020\n580F1000 00000058\n780F0000 00000018\n640F0000 00000000 00000001\n",
             "title": "[Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "Galaxy Warfighter by ZiT.txt": "Please turn on the code when you can move the character\nSwap your numbers in Health and Energy with floating point ( 461C9000 = 10020 )\n"
+    }
 }

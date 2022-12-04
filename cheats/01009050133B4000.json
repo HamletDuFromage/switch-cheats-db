@@ -8,5 +8,8 @@
             "content": "[combo]\n580F0000 040F6DC0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000060\n780F0000 00000014\n640F0000 00000000 000003E8",
             "title": "[combo]"
         }
-    ]
+    ],
+    "attribution": {
+        "Shing! ver 1.0 by TomSwitch.txt": "Ammo 255 don't always work. The other two seems to be consistent"
+    }
 }

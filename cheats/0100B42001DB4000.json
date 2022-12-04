@@ -58,5 +58,8 @@
             "content": "[hitanywhere]\n04000000 00009A3B04 10A66002",
             "title": "[hitanywhere]"
         }
-    ]
+    ],
+    "attribution": {
+        "ACA NeoGeo KOF98 ver 1.02 by Smoker1.txt": "[From MAX-CHEATS.com by optantic for ACA NEOGEO KOF 98 1.0.1]\n\n[P1 Infinite HP]\n01000000 01240158 00000067\n\n[P1 Infinite Super]\n01000000 01240202 00000006\n\n[P2 NO HP]\n01000000 01240358 00000000\n\n[P2 NO Super]\n01000000 01240402 00000000"
+    }
 }

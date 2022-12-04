@@ -12,5 +12,8 @@
             "content": "[Restore Everything]\n040E0000 01403B94 4B0002E8\n040E0000 01403B58 54000F2A\n040E0000 0150E204 0B160336\n040E0000 0150E880 B940B2B6\n040E0000 0150E584 13017ED6\n040E0000 0150DE90 11006508\n040E0000 0150DF10 11006508\n040E0000 0150DF90 11006508\n040E0000 0150E010 11006508\n040E0000 0150E090 11006508\n040E0000 0150E110 11006508\n040E0000 0150DB24 13017ED6\n040E0000 01322908 2A000FF3",
             "title": "[Restore Everything]"
         }
-    ]
+    ],
+    "attribution": {
+        "Shieldwall Chronicles, Swords of the North  ver 1.0.0 by Eiffel.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

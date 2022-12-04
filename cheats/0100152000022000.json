@@ -132,5 +132,8 @@
             "content": "[Speed Up Acceleration (original by @xtatu)]\n040E0000 0017FD18 EEB22A04\n\n",
             "title": "[Speed Up Acceleration (original by @xtatu)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Mario Kart 8 Deluxe 1.7.1 by Xtatu speed mod.txt": "VMOV.F32 S4, #3.0 EEB02A08 3x\nVMOV.F32 S4, #30.0 EEB32A0E 30x"
+    }
 }

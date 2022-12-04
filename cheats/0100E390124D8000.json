@@ -64,5 +64,8 @@
             "content": "[All Sacramentals]\n580E0000 00E60128\n780E0000 0016185C\n300F0000 0000000A\n620E1000 00000000 00000001\n310F0000\n",
             "title": "[All Sacramentals]"
         }
-    ]
+    ],
+    "attribution": {
+        "Ys IX, Monstrum Nox v1.0.2 by Eiffel.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

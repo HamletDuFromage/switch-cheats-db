@@ -40,5 +40,8 @@
             "content": "[Money MAX]\n580F0000 043E8C60\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000028\n780F0000 00000018\n640F0000 00000000 0001869F\n",
             "title": "[Money MAX]"
         }
-    ]
+    ],
+    "attribution": {
+        "Cobra Kai The Karate Kid Saga Continues ver 1.0.0 by ZiT and merlin555 ver 1.0.1 by merlin555.txt": "\u203b Quick Charge will not allow the game to progress if it is enabled outside of combat."
+    }
 }

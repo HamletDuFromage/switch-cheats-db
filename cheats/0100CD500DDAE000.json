@@ -24,5 +24,8 @@
             "content": "[Max Status]\n580F0000 0021A700\n780F0000 00000150\n680F0000 007F7F7F 1C7F7F00",
             "title": "[Max Status]"
         }
-    ]
+    ],
+    "attribution": {
+        "The Bards Tale ARPG Remastered And Resnarkled ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

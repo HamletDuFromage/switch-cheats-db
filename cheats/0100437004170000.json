@@ -46,5 +46,8 @@
             "content": "[Hearts MAX with minus]\n80000800\n580F0000 01772AA0\n580F1000 00000050\n580F1000 00000018\n580F1000 00000000\n580F1000 00000010\n780F0000 00000088\n640F0000 00000000 4B189680\n",
             "title": "[Hearts MAX with minus]"
         }
-    ]
+    ],
+    "attribution": {
+        "Portal Knights 1.5.3 and 1.7.2 by merlin555.txt": "Hearts MAX are not infinite.\nWorks only with a new charackter !!\nPress the Minus button several times until the maximum heart is reached.\nEach character and weapon has a different number of MAX hearts.\n7 to 20 hearts are possible from beginning.\nThen press \"X\" and forgive the points in Endurance until you have 20 hearts."
+    }
 }

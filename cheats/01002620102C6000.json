@@ -34,5 +34,8 @@
             "content": "[07# Max Drill Fuel]\n580F0000 02A473A0\n580F1000 00000010\n580F1000 00000068\n780F0000 00000080\n640F0000 00000000 0000012C",
             "title": "[07# Max Drill Fuel]"
         }
-    ]
+    ],
+    "attribution": {
+        "BioShock 2 Remastered ver 1.0.0 by xtatu 1.0.2 by Patjenova.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+    }
 }

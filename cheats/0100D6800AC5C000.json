@@ -8,5 +8,8 @@
             "content": "[hunter]\n580F0000 010F6768\n580F1000 00000038\n580F1000 00000080\n780F0000 0000F2D8\n640F0000 00000000 00060000",
             "title": "[hunter]"
         }
-    ]
+    ],
+    "attribution": {
+        "s a thunder force lV by Arismendy64.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

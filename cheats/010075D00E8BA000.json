@@ -49,6 +49,16 @@
             "title": "[Medikits]"
         }
     ],
+    "3F21B36EE62DDEBD": [
+        {
+            "content": "[30 fps (default)]\n581F0000 011FDB80\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+            "title": "[30 fps (default)]"
+        },
+        {
+            "content": "[60 fps]\n581F0000 011FDB80\n780F0000 00000F14\n640F0000 00000000 00000001\n",
+            "title": "[60 fps]"
+        }
+    ],
     "EBE18862AE4ECA75": [
         {
             "content": "[Inf Ammo]\n04070000 0188CA20 528009A8\n04070000 0188CA24 B9012808\n04070000 0188CA28 D65F03C0\n04070000 0188CA2C 97001519\n04070000 00E7C254 942841F3 \n\n",
@@ -86,5 +96,9 @@
             "content": "[Change 2 More Use Item Max]\n04070000 0188CA40 52800C89\n04070000 0188CA44 B9001009\n04070000 0188CA48 D65F03C0\n04070000 00E9F4CC 9427B55D \n\n",
             "title": "[Change 2 More Use Item Max]"
         }
-    ]
+    ],
+    "attribution": {
+        "Alien Isolation by Retroboy and Nikolay Tenyuk.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n",
+        "Alien Isolation by Retroboy and patjenova.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n"
+    }
 }

@@ -8,5 +8,8 @@
             "content": "[Speed Up]\n580F0000 02886FB8\n580F1000 000000B8\n580F1000 00000000\n580F1000 000000E8\n780F0000 000000E8\n680F0000 41800000 41000000",
             "title": "[Speed Up]"
         }
-    ]
+    ],
+    "attribution": {
+        "Horace ver 1.0.0 by ZiT.txt": "\u203b If you activate the code at the start of the game, it will freeze."
+    }
 }

@@ -1,4 +1,14 @@
 {
+    "A252FBF87059FD4E": [
+        {
+            "content": "[30 fps]\n580F0000 060D1A58\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+            "title": "[30 fps]"
+        },
+        {
+            "content": "[60 fps (default)]\n580F0000 060D1A58\n780F0000 00000F14\n640F0000 00000000 00000001",
+            "title": "[60 fps (default)]"
+        }
+    ],
     "E6A93D88F05CA346": [
         {
             "content": "[Energy unlimited]\n580F0000 04E69EE0\n780F0000 00003560\n640F0000 00000000 42DC0000\n\n",
@@ -82,5 +92,8 @@
             "content": "[100x Damage]\n580f0000 059D9038\n580f1000 000000B8\n580f1000 00000000\n580f1000 00000020\n580F1000 00000050\n780F0000 000001B8\n640F0000 00000000 42C80000\n780F0000 00000070\n640F0000 00000000 4479C000",
             "title": "[100x Damage]"
         }
-    ]
+    ],
+    "attribution": {
+        "Risk of Rain 2 V1.0.0 made by merlin555 and ZiT ver 1.0.7 by Eiffel2018.txt": "Use the venom version"
+    }
 }

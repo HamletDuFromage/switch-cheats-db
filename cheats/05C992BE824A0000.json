@@ -62,5 +62,9 @@
             "content": "[Boss Time 99]\n021F0000 021A0558 00004949",
             "title": "[Boss Time 99]"
         }
-    ]
+    ],
+    "attribution": {
+        "pNES Meikyuu Kumikyoku ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows.",
+        "pNES Wagyan Land ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
 }

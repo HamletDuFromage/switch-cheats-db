@@ -24,5 +24,8 @@
             "content": "[SWORD grade 99 \u6267\u884c\u8005NO.X ]\n08100000 77E11170 4058C000 00000000",
             "title": "[SWORD grade 99 \u6267\u884c\u8005NO.X ]"
         }
-    ]
+    ],
+    "attribution": {
+        "the swords of ditto ver 1.0.0 by arismendy64.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+    }
 }

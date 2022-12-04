@@ -1,0 +1,21 @@
+{
+    "37172DCF86A20C17": [
+        {
+            "content": "[60 FPS]\n580F0000 041566F8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 041566F8\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[Default 30 FPS]"
+        }
+    ],
+    "7587506B733AAD48": [
+        {
+            "content": "[30 FPS lock]\n580F0000 040E1DF0 \n780F0000 00005B44 \n640F0000 00000000 00000002\n",
+            "title": "[30 FPS lock]"
+        }
+    ],
+    "attribution": {
+        "Dying Light Platinum Edition.txt": "By ArcharGelod and Hazerou"
+    }
+}

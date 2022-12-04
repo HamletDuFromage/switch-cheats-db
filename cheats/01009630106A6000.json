@@ -12,5 +12,8 @@
             "content": "[Invincible]\n580F0000 00C55778\n580F1000 000001B0\n580F1000 00000108\n580F1000 00000010\n580F1000 00000058\n580F1000 00000010\n580F1000 00000340\n780F0000 00000004\n640F0000 00000000 50000000",
             "title": "[Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "Gun Crazy ver 1.0.0 by Smoker1 and Zit.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

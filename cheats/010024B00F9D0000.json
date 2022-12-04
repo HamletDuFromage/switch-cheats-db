@@ -20,5 +20,8 @@
             "content": "[Inf Mana]\n580F0000 040789D8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000090\n780F0000 000005D4\n640F0000 00000000 0000270F",
             "title": "[Inf Mana]"
         }
-    ]
+    ],
+    "attribution": {
+        "Terraria by ZiT.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
+    }
 }

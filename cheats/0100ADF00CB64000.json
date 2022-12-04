@@ -16,5 +16,8 @@
             "content": "[Invincible]\n580F0000 01D3CA68\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000020\n780F0000 00000068\n640F0000 00000000 0000005A",
             "title": "[Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "Snow Battle Princess Sayuki ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

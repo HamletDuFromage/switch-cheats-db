@@ -74,5 +74,8 @@
             "content": "[No Reload]\n580F0000 01238558\n780F0000 00000080\n610F0000 00000000 00000000\n580F0000 01238558\n780F1000 00000180\n610F0000 00000000 00000000\n580F0000 01238558\n780F1000 00000100\n610F0000 00000000 00000000\n580F0000 01238558\n780F1000 00000080\n610F0000 00000000 00000000",
             "title": "[No Reload]"
         }
-    ]
+    ],
+    "attribution": {
+        "Ion Fury Version 1.04 and 1.0.6 and 1.0.7 by Smoker1.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

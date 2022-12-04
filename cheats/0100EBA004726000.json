@@ -74,5 +74,8 @@
             "content": "[Inf HP]\n580F0000 036054C8\n580F1000 00000980\n580F1000 00000028\n580F1000 00000058\n780F0000 00000298\n640F0000 00000000 00000004",
             "title": "[Inf HP]"
         }
-    ]
+    ],
+    "attribution": {
+        "Huntdown ver 1.0 by patjenova and arismendy64 and ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

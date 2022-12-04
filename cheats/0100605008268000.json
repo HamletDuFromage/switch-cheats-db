@@ -86,5 +86,8 @@
             "content": "[Inf Attribute Points]\n580F0000 026FE258\n580F1000 000000F0\n580F1000 00000000\n580F1000 00000028\n580F1000 00000000\n780F0000 00000524\n640F0000 00000000 000003E7",
             "title": "[Inf Attribute Points]"
         }
-    ]
+    ],
+    "attribution": {
+        "Titan Quest by ZiT.txt": "Please turn on the code when you can move the character\nSwap your numbers in Health and Energy with floating point ( 461C9000 = 10020 )\n"
+    }
 }

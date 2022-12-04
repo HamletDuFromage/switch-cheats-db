@@ -8,5 +8,8 @@
             "content": "[LStick - enemy drop 50 gems]\n04000000 00661404 B940C800\n80000010\n04000000 00661404 52800640\n20000000\n",
             "title": "[LStick - enemy drop 50 gems]"
         }
-    ]
+    ],
+    "attribution": {
+        "PixelJunk Monsters 2 for v1.0.4 Made by DaBlackDeath.txt": "WARNING - Enable these when IN-GAME ONLY or will Crash the Full Game"
+    }
 }

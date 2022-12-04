@@ -20,5 +20,8 @@
             "content": "[AP2nd]\n580F0000 02A8B2A0\n580F1000 000000B8\n580F1000 00000080\n580F1000 00000040\n580F1000 00000028\n9890F000\n54001000 00000034\nA40F0200 00000030",
             "title": "[AP2nd]"
         }
-    ]
+    ],
+    "attribution": {
+        "The Alliance Alive HD Remaster ver 1.0.2 by Takumi4685.txt": "****If you need HP/AP code for 3rd char, add 8h for 5th line"
+    }
 }

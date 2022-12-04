@@ -28,5 +28,8 @@
             "content": "[free shopping]\n04000000 013BB024 52800000",
             "title": "[free shopping]"
         }
-    ]
+    ],
+    "attribution": {
+        "Darkwood ver 1.0.4 by DaBkackDeath.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

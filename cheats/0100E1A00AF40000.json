@@ -104,5 +104,8 @@
             "content": "[6) Boost - no cost]\n040E0000 0043C86C 1E2703E8",
             "title": "[6) Boost - no cost]"
         }
-    ]
+    ],
+    "attribution": {
+        "Hungry Shark World by TomSwitch and Eiffel2018.txt": "Ammo 255 don't always work. The other two seems to be consistent"
+    }
 }

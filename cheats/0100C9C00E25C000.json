@@ -34,5 +34,9 @@
             "content": "[p3 stroke 11]\n580A0000 008915C8\n580A1000 00000020\n580A1000 0000A7C8\n780A0000 000002E4\n610A0000 00000000 0000000B",
             "title": "[p3 stroke 11]"
         }
-    ]
+    ],
+    "attribution": {
+        "Mario Golf Super Rush by Tomswitch amd jericoss.txt": "note: Infinite Jump can be used after learning double jump\n",
+        "Mario Golf Super Rush ver 1.0.1 by patjenova.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"
+    }
 }

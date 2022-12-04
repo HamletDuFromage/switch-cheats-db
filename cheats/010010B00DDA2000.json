@@ -14,5 +14,8 @@
             "content": "[Upgrade Points]\n580F0000 05A63F78\n580F1000 00000008\n580F1000 00000008\n580F1000 00000440\n780F0000 000000B8\n640F0000 00000000 0000000F\n\n",
             "title": "[Upgrade Points]"
         }
-    ]
+    ],
+    "attribution": {
+        "Raji An Ancient Epic by Eiffel2018 and ver 1.0.2 by jhmiller.txt": "[Lock Upgrade Points]\n580F0000 05C4CA38\n580F1000 00000008\n580F1000 00000130\n580F1000 000001C0\n580F1000 000000D0\n780F0000 000000E8\n640F0000 00000000 00000009\n\n"
+    }
 }

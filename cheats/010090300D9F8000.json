@@ -24,5 +24,8 @@
             "content": "[Time Stop]\n580F0000 018BF570\n580F1000 00000268\n780F0000 000002B4\n640F0000 00000000 0000753C",
             "title": "[Time Stop]"
         }
-    ]
+    ],
+    "attribution": {
+        "Demon Crystal 2 Nizer by ZiT.txt": "Please turn on the code when you can move the character\nSwap your numbers in Health and Energy with floating point ( 461C9000 = 10020 )\n"
+    }
 }

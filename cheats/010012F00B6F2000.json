@@ -40,5 +40,8 @@
             "content": "[2 Walk Through Walls (Hold ZL)]\n580F0000 00552BB8\n580F1000 00000020\n580F1000 00000008\n580F1000 00000008\n580F1000 00000150\n780F0000 000000F0\n640F0000 00000000 41800000\n80000100\n640F0000 00000000 31800000\n20000000",
             "title": "[2 Walk Through Walls (Hold ZL)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Yomawari The Long Night Collection ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
 }

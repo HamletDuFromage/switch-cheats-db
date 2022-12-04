@@ -24,5 +24,8 @@
             "content": "[Kill (Hold ZL & ZR)]\n80000300\n580F0000 0089D000\n580F1000 00001A80\n580F1000 000021E0\n580F1000 00001238\n780F0000 00005650\n640F0000 00000000 00000000\n20000000",
             "title": "[Kill (Hold ZL & ZR)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Sushi Striker The Way of Sushido 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

@@ -108,5 +108,8 @@
             "content": "[P2 Reset 9 Lives (RS Right)]\n580D0000 024D1458\n580D1000 000000B8\n580D1000 00000010\n945DD100 00400000\nC045D400 00400000\n400C0000 00000000 00000388\n640C01B0 00000008 00000009\n20000000\n\n",
             "title": "[P2 Reset 9 Lives (RS Right)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Battle Axe by rheir.txt": ""
+    }
 }

@@ -22,5 +22,8 @@
             "content": "[03# Invincible  Press ZR off]\n04000000 0071F33C D65F03C0\n80000200 \n04000000 0071F33C A9BB67FA\n20000000",
             "title": "[03# Invincible  Press ZR off]"
         }
-    ]
+    ],
+    "attribution": {
+        "Super bomberman r ver2.2 by patjenova.txt": "Press zr to accept upgrades in the field"
+    }
 }

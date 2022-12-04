@@ -100,5 +100,8 @@
             "content": "[Max SPD (4P)]\n580F0000 037D97F0\n580F1000 000003D0\n580F1000 00000960\n580F1000 00000CC8\n780F0000 00000026\n620F0000 00000000 000003E7",
             "title": "[Max SPD (4P)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Seek Hearts ver 1.0.0 by ZiT.txt": " Inf Health should be used in conjunction with Inf Armor."
+    }
 }

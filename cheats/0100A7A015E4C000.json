@@ -40,5 +40,8 @@
             "content": "[16x Skill EXP]\n010E0000 004779E1 00000011\n020E0000 004779E9 00000111\n\n",
             "title": "[16x Skill EXP]"
         }
-    ]
+    ],
+    "attribution": {
+        "Spoiler Touhou Genso Wanderer -Lotus Labyrinth R- v1.0.0 by Eiffel2018.txt": "Note: Better use NOEXES to avoid game lag"
+    }
 }

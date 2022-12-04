@@ -38,5 +38,8 @@
             "content": "[Invincible]\n010F0000 01239D80 00000010",
             "title": "[Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "ACA NEOGEO METAL SLUG 3 by Zit.txt": "[Moon Jump]\n80000002\n040F0000 01239D30 9AAA0007\n20000000\n\n[Invincible]\n010F0000 01239D80 00000010"
+    }
 }

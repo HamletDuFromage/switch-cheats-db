@@ -28,5 +28,8 @@
             "content": "[Stage Clear (Hold ZL)]\n80000100\n580F0000 01913980\n580F1000 000000A0\n580F1000 00000048\n780F0000 00000118\n680F0000 00000001 00000001\n20000000",
             "title": "[Stage Clear (Hold ZL)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Demon Crystal by ZiT.txt": "Please turn on the code when you can move the character\nSwap your numbers in Health and Energy with floating point ( 461C9000 = 10020 )\n"
+    }
 }

@@ -8,5 +8,8 @@
             "content": "[inf bombs (opg)]\n580F0000 02423800\n580F1000 00000078\n580F1000 00000458\n780F0000 0000005C\n610F0000 00000000 00000003",
             "title": "[inf bombs (opg)]"
         }
-    ]
+    ],
+    "attribution": {
+        "crisis wing ver 1.0.1 arismendy64.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"
+    }
 }

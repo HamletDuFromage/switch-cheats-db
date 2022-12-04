@@ -8,5 +8,8 @@
             "content": "[Time Stop]\n580F0000 0023F2B8\n780F0000 00000000\n640F0000 00000000 00000000",
             "title": "[Time Stop]"
         }
-    ]
+    ],
+    "attribution": {
+        "Spellspire ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

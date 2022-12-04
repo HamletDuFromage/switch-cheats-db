@@ -52,5 +52,8 @@
             "content": "[Max ATK4]\n580F0000 00AF5230\n580F1000 00000038\n580F1000 00000078\n580F1000 00000038\n780F0000 00000280\n640F0000 00000000 0000270F ",
             "title": "[Max ATK4]"
         }
-    ]
+    ],
+    "attribution": {
+        "Quest of Dungeons 1.0.2 by arismendy64.txt": "caution\ncan some problems"
+    }
 }

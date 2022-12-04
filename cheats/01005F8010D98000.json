@@ -20,5 +20,8 @@
             "content": "[*Inf Magic 3]\n580F0000 00553990\n580F1000 000004A0\n580F1000 00000038\n580F1000 00000318\n580F1000 00000058\n580F1000 00000000\n780F0000 00000084\n640F0000 00000000 40180000",
             "title": "[*Inf Magic 3]"
         }
-    ]
+    ],
+    "attribution": {
+        "Knightin + ver 1.0.0 by jericoss.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

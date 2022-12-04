@@ -32,5 +32,8 @@
             "content": "[Inf Laser]\n580F0000 02E74BA8\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000168\n580F1000 00000390\n780F0000 00000084\n640F0000 00000000 0000009F",
             "title": "[Inf Laser]"
         }
-    ]
+    ],
+    "attribution": {
+        "The Bug Butcher by zit.txt": "Not valid for mini games"
+    }
 }

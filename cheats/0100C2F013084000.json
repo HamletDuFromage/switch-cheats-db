@@ -4,5 +4,8 @@
             "content": "[Lives Unlimited @merlin555]\n580F0000 03EE3498\n580F1000 00000068\n580F1000 00000180\n780F0000 000000B4\n640F0000 00000000 0006C81F\n",
             "title": "[Lives Unlimited @merlin555]"
         }
-    ]
+    ],
+    "attribution": {
+        "Descenders ver 1.0.1 by merlin555.txt": "for v1.0.1\n\n*Info*\nCode only works after a loss of life.\nIf the code is activated during loading, you get a fake value.\nValue freezes at 2.\n\nTo the side Tinfoil and CheatSlips !\nSpreading codes outside of GBAtemp is prohibited!"
+    }
 }

@@ -28,5 +28,8 @@
             "content": "[o Normal Run]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000220\n580F1000 00003570\n780F0000 00000018\n640F0000 00000000 42C80000",
             "title": "[o Normal Run]"
         }
-    ]
+    ],
+    "attribution": {
+        "The Persistence by Spider-man.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

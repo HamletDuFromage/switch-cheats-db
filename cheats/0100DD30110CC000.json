@@ -16,5 +16,8 @@
             "content": "[Heart Full @TomSwitch]\n580F0000 058F4FD8\n580F1000 000000B8\n580F1000 00000028\n580F1000 00000018\n780F0000 0000001C\n640F0000 00000000 40E00000\n",
             "title": "[Heart Full @TomSwitch]"
         }
-    ]
+    ],
+    "attribution": {
+        "Exit the Gungeon by TomSwitch.txt": "Ammo 255 don't always work. The other two seems to be consistent"
+    }
 }

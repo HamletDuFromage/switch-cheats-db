@@ -28,5 +28,8 @@
             "content": "[hit kill 1p & enemy off]\n04000000 00375A10 1E2E1000\n",
             "title": "[hit kill 1p & enemy off]"
         }
-    ]
+    ],
+    "attribution": {
+        "trine 2 v1.0.1 by xtatu.txt": "stone and box attack sends it away"
+    }
 }

@@ -16,5 +16,8 @@
             "content": "[Inf HP]\n580F0000 09AFFB50\n780F0000 0000003C\n680F0000 000000A0 000000A0",
             "title": "[Inf HP]"
         }
-    ]
+    ],
+    "attribution": {
+        "Owlboy 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

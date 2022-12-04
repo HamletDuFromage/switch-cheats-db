@@ -16,5 +16,8 @@
             "content": "[Speed Up]\n580F0000 02263DB0\n580F1000 00000000\n580F1000 00000000\n580F1000 00000000\n780F0000 00000108\n640F0000 00000000 40400000",
             "title": "[Speed Up]"
         }
-    ]
+    ],
+    "attribution": {
+        "Mechstermination Force ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

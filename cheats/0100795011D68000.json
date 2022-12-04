@@ -12,5 +12,8 @@
             "content": "[Ammunition Reloads unlimited]\n580F0000 014BFDB8\n580F1000 00000028\n580F1000 00000068\n780F0000 00000004\n640F0000 00000000 408F3800\n",
             "title": "[Ammunition Reloads unlimited]"
         }
-    ]
+    ],
+    "attribution": {
+        "Space Robinson ver  v1.0.31 by merlin555.txt": "*Info*\nBefore the code works for Purple Crystals, one must be collected."
+    }
 }

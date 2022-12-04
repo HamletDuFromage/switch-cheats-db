@@ -24,5 +24,8 @@
             "content": "[*Inf Range Weapons Jericoss]\n580F0000 06FDB298\n580F1000 00000000\n580F1000 00000020\n580F1000 000002B0\n580F1000 000000B0\n780F0000 000000F8\n610F0000 00000000 00000008",
             "title": "[*Inf Range Weapons Jericoss]"
         }
-    ]
+    ],
+    "attribution": {
+        "Samurai Jack Battle Through Time ver 1.0.3 by xtatu and 91wii and jericoss translated by felonious.txt": "[Add Stamp Cards with minus]\n80000800\n04100000 6DD40796 008B0000\n"
+    }
 }

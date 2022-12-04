@@ -8,5 +8,8 @@
             "content": "[*Inf Hp 888 ZL]\n80000100\n580F0000 04868910\n580F1000 00000000\n580F1000 00000000\n580F1000 00000018\n780F0000 00000738\n640F0000 00000000 00000378\n20000000",
             "title": "[*Inf Hp 888 ZL]"
         }
-    ]
+    ],
+    "attribution": {
+        "Wartorn Dreams V1.0.0 by jericoss.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

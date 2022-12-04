@@ -8,5 +8,8 @@
             "content": "[Select Unit/Building to recover Health (off)]\n04000000 0043F834 B9400108\n04000000 0043F838 7100051F\n04000000 0043F83C 54FFFF4B\n",
             "title": "[Select Unit/Building to recover Health (off)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Wargroove Update 7 (v1.3.0).txt": ""
+    }
 }

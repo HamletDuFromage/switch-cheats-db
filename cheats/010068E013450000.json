@@ -12,5 +12,8 @@
             "content": "[*P1 8888 Mp]\n580F0000 03260160\n580F1000 000000B8\n580F1000 00000000\n580F1000 000000B0\n580F1000 00000018\n780F0000 0000003C\n640F0000 00000000 000022B8",
             "title": "[*P1 8888 Mp]"
         }
-    ]
+    ],
+    "attribution": {
+        "Blacksmith of the Sand Kingdom by Jericoss.txt": "****If you need HP/AP code for 3rd char, add 8h for 5th line"
+    }
 }

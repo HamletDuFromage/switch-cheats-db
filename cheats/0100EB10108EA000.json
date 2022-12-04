@@ -54,5 +54,9 @@
             "content": "[cobra-inf sh]\n580F0000 052ACF78\n580F1000 00000150\n580F1000 00000680\n780F0000 00000110\n640F0000 00000000 4479C000",
             "title": "[cobra-inf sh]"
         }
-    ]
+    ],
+    "attribution": {
+        "G.I. Joe Operation Blackout ver 1.0.2 by arismendy64 and ver 1.0.0 by jericoss.txt": "",
+        "G.I. Joe Operation Blackout ver 1.0.2 by arismendy64.txt": ""
+    }
 }

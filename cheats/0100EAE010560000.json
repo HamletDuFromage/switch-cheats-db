@@ -243,6 +243,16 @@
             "title": "[Away Keeper's Spirit Gage 0]"
         }
     ],
+    "B803D79D4397A09F": [
+        {
+            "content": "[60 FPS]\n580F0000 01CD0800\n580F1000 000026B8\n580F1000 000000D8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 01CD0800\n580F1000 000026B8\n580F1000 000000D8\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[Default 30 FPS]"
+        }
+    ],
     "F693613CD5A6B53E": [
         {
             "content": "[Max PP]\n040F0000 015ACA44 05F18433\n041F0000 78CC1384 05F18433\n\n",
@@ -252,5 +262,9 @@
             "content": "[SKILL POINT]\n040F0000 014F653C 00006000\n\n                                                                                           ",
             "title": "[SKILL POINT]"
         }
-    ]
+    ],
+    "attribution": {
+        "Captain Tsubasa Rise of New Champions USA ver 1.0.0 by ZiT and ver 1.0.1 by chilikicks.txt": "If you want to change the status change 00000150.",
+        "Captain Tsubasa ver 1.0.2 by narumeddy.txt": "Normal difficulty save slot one."
+    }
 }

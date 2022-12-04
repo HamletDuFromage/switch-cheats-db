@@ -40,5 +40,8 @@
             "content": "[1 HP (P4)]\n580F0000 008A3350\n580F1000 00000308\n580F1000 000001D8\n580F1000 00000078\n580F1000 00018278\n780F0000 00000000\n640F0000 00000000 0000000A\n780F0000 00000008\n640F0000 00000000 0000000A",
             "title": "[1 HP (P4)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Kirby Fighters\u2122 2 1.0.0 by ZiT and Lionheartwolf.txt": "If you want to change the status change 00000150."
+    }
 }

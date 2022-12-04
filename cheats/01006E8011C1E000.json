@@ -24,5 +24,8 @@
             "content": "[Inf Ammo]\n580F0000 024FBCD0\n580F1000 00000380\n580F1000 00000080\n580F1000 000001F0\n580F1000 00000290\n580F1000 00000178\n780F0000 00000084\n640F0000 00000000 00000000",
             "title": "[Inf Ammo]"
         }
-    ]
+    ],
+    "attribution": {
+        "Ailment 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

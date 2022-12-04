@@ -8,5 +8,8 @@
             "content": "[Achievement rate]\n040F0000 00BFE170 000F0000",
             "title": "[Achievement rate]"
         }
-    ]
+    ],
+    "attribution": {
+        "Hatsune Miku Project DIVA Mega Mix ver 1.0.0 zit.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+    }
 }

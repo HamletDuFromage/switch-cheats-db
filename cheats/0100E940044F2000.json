@@ -18,5 +18,9 @@
             "content": "[Hearts MAX]\n580F0000 0215A218\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000238\n610F0000 00000000 0000000A\n",
             "title": "[Hearts MAX]"
         }
-    ]
+    ],
+    "attribution": {
+        "Neversong ver 1.0.0 by ZiT and ver 2.0 by merlin555.txt": "\u203b Valid for DATA01 only.",
+        "Neversong ver 1.0.0 by ZiT.txt": "\u203b Valid for DATA01 only."
+    }
 }

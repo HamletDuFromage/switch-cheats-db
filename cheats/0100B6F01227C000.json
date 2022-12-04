@@ -12,5 +12,8 @@
             "content": "[Inf SP]\n580F0000 03532E00\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n580F1000 00000038\n780F0000 00000058\n640F0000 00000000 00000000",
             "title": "[Inf SP]"
         }
-    ]
+    ],
+    "attribution": {
+        "Glitch's Trip 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

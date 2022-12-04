@@ -28,5 +28,8 @@
             "content": "[Have Flying Jump]\n80000002\n580F0000 015A2690\n580F1000 000000B0\n780F0000 00000288\n640F0000 00000000 40500000\n20000000",
             "title": "[Have Flying Jump]"
         }
-    ]
+    ],
+    "attribution": {
+        "No More Heroes 2 Desperate Struggle ver 1.0.0 by ZiT.txt": "\u203b Quick Charge will not allow the game to progress if it is enabled outside of combat."
+    }
 }

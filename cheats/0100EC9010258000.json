@@ -110,5 +110,8 @@
             "content": "[hitanywhere]\n04000000 0072C790 D65F03C0",
             "title": "[hitanywhere]"
         }
-    ]
+    ],
+    "attribution": {
+        "Streets of Rage 4 ver 1.0.3 vy arismendy64 and 1.0.1 by ZiT ver 1.0.2 by arismendy64 .txt": "Update: Added a \"Kill Cheat\" so you can complete stages as a boss character. Make sure Inf. HP is disabled first! Warning! Finishing a stage as a boss will corrupt your leaderboards\n\nSimple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
+    }
 }

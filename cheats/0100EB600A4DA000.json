@@ -62,5 +62,8 @@
             "content": "[Moon Jump]\n80000002\n580F0000 03CFBDB8\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000051C\n640F0000 00000000 418A9000\n20000000",
             "title": "[Moon Jump]"
         }
-    ]
+    ],
+    "attribution": {
+        "A Robot Named Fight VER1.1.2.15 by ZiT866 and VER1.6.0.32 by arisemndy64.txt": ""
+    }
 }

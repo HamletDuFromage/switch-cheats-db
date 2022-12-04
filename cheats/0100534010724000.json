@@ -16,5 +16,8 @@
             "content": "[Inf Missile]\n58000000 03E271C8\n58001000 000000A0\n58001000 00000010\n58001000 00000020\n58001000 00000050\n58001000 00000108\n78000000 00000070\n64000000 00000000 00000010",
             "title": "[Inf Missile]"
         }
-    ]
+    ],
+    "attribution": {
+        "GALAK-Z The Void by ZiT.txt": "Not valid for mini games"
+    }
 }

@@ -1,0 +1,15 @@
+{
+    "4F49BD851B16182C": [
+        {
+            "content": "[60 FPS]\n580F0000 018FB700\n580F1000 00000078\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 018FB700\n580F1000 00000078\n780F0000 00000F14\n640F0000 00000000 00000002\n",
+            "title": "[Default 30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Atelier Sophie 2 The Alchemist Of The Mysterious Dream.txt": "v1.01 by Hazerou\n"
+    }
+}

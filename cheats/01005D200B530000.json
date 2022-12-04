@@ -56,5 +56,8 @@
             "content": "[Invincible]\n010F0000 01EE0865 000000FF",
             "title": "[Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "Capcom Beat Em Up Bundle ver 1.0.0 by Zit.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

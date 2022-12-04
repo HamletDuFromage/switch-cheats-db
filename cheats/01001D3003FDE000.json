@@ -36,5 +36,8 @@
             "content": "[2P Inf HP]\n580F0000 0A84F0F8\n580F1000 00000150\n580F1000 00000018\n580F1000 000004B8\n780F0000 000001D8\n680F0000 461C3C00 461C3C00",
             "title": "[2P Inf HP]"
         }
-    ]
+    ],
+    "attribution": {
+        "Indivisible ver 1.0.0 by Lionheartwolf.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

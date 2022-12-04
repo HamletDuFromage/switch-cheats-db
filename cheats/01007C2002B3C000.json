@@ -12,5 +12,8 @@
             "content": "[Inf Ammo]\n580F0000 01B2BD18\n580F1000 00000098\n580F1000 00000018\n780F0000 000000AC\n680F0000 00000014 00000014",
             "title": "[Inf Ammo]"
         }
-    ]
+    ],
+    "attribution": {
+        "GoNNER ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

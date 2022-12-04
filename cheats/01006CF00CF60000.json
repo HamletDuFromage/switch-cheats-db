@@ -24,5 +24,8 @@
             "content": "[06# P2 instant dead (press R stick)]\n80800000\n580F0000 0243AFD8\n580F1000 00000098\n580F1000 00000008\n780F0000 00000038\n640F0000 00000000 00000000\n580F0000 0243AFD8\n580F1000 00000098\n580F1000 00000010\n580F1000 00000000\n780F0000 00000038\n640F0000 00000000 00000000\n580F0000 0243AFD8\n580F1000 00000090\n780F0000 00000038\n640F0000 00000000 00000000\n20000000",
             "title": "[06# P2 instant dead (press R stick)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Naruto Shipp\u016bden Ultimate Ninja Storm 4 road To boruto Ver 1.2.0 by arismendy64.txt": "caution\ncan some problems"
+    }
 }

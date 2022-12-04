@@ -76,5 +76,8 @@
             "content": "[06# Mana x256]\n040A0000 00B69250 8B0823E8\n040A0000 00B69254 8B0923E9\n040A0000 00B69258 A91723E9\n040A0000 00B6925C D65F03C0\n040A0000 0045F0E8 941C285A",
             "title": "[06# Mana x256]"
         }
-    ]
+    ],
+    "attribution": {
+        "Disgaea 6 Defiance of Destiny ver 1.0.2 by brinthomas80 and patjenova.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

@@ -60,5 +60,10 @@
             "content": "[Gold MAX]\n580F0000 01FAA238\n580F1000 000000A0\n580F1000 00000018\n580F1000 00000050\n780F0000 00000048\n620F0000 00000000 0000270F\n",
             "title": "[Gold MAX]"
         }
-    ]
+    ],
+    "attribution": {
+        "Phoenotopia  Awakening ver 1.0.0 by ZiT and ver 1.0.7 by merlin555 - copia.txt": "Invincible is only useful for blows.",
+        "Phoenotopia  Awakening ver 1.0.0 by ZiT and ver 1.0.7 by merlin555.txt": "Invincible is only useful for blows.",
+        "Phoenotopia  Awakening ver 1.3.3 by jhmiller.txt": "Invincible is only useful for blows."
+    }
 }

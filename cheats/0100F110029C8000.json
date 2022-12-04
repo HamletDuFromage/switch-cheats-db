@@ -20,5 +20,8 @@
             "content": "[03# inf energy]\n580F0000 0300F5F8\n580F1000 00000098\n580F1000 00000010\n580F1000 00000020\n580F1000 00000198\n780F0000 0000004C\n640F0000 00000000 40C00000",
             "title": "[03# inf energy]"
         }
-    ]
+    ],
+    "attribution": {
+        "Yooka laylee 1.1.0 by patjenova.txt": ""
+    }
 }

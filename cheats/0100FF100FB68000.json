@@ -16,5 +16,8 @@
             "content": "[Inf HP]\n580F0000 00615428\n780F0000 00000048\n640F0000 00000000 0000000A",
             "title": "[Inf HP]"
         }
-    ]
+    ],
+    "attribution": {
+        "Finding Teddy 2  Definitive Edition by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

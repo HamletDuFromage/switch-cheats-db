@@ -24,5 +24,8 @@
             "content": "[Max Gold]\n580F0000 029640B8\n580F1000 000000B8\n580F1000 00000050\n580F1000 00000028\n580F1000 00000050\n780F0000 00000090\n640F0000 00000000 000F423F",
             "title": "[Max Gold]"
         }
-    ]
+    ],
+    "attribution": {
+        "Valentina 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

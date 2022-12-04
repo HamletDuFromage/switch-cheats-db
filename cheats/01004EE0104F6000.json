@@ -32,5 +32,8 @@
             "content": "[04# Inf Hold on Rocks]\n580F0000 0464F250\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000080\n580F1000 00000078\n780F0000 000000DC\n640F0000 00000000 42C80000",
             "title": "[04# Inf Hold on Rocks]"
         }
-    ]
+    ],
+    "attribution": {
+        "Shinsekai Into the Depths ver 1.0.0 by patjenova.txt": "Not valid for mini games"
+    }
 }

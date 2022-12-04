@@ -12,5 +12,8 @@
             "content": "[Inf HP]\n580F0000 004048D8\n780F0000 00000034\n640F0000 00000000 44898000",
             "title": "[Inf HP]"
         }
-    ]
+    ],
+    "attribution": {
+        "Oddworld Munchs Oddysee ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

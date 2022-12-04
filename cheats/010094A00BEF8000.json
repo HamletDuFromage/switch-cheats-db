@@ -12,5 +12,8 @@
             "content": "[Speed Up]\n580F0000 029749D0\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000018\n780F0000 0000006C\n640F0000 00000000 42000000",
             "title": "[Speed Up]"
         }
-    ]
+    ],
+    "attribution": {
+        "Battle Princess Madelyn by ZIT.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
+    }
 }

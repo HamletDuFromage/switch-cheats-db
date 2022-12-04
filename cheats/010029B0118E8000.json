@@ -64,5 +64,18 @@
             "content": "[Can Select any Cars//Can Select any Cars]\n04070000 007F3F00 52800200\n04070000 007F3F04 B9004D00\n04070000 007F3F08 320003E0\n04070000 007F3F0C 17E970AB\n04070000 002501B4 14168F53",
             "title": "[Can Select any Cars//Can Select any Cars]"
         }
-    ]
+    ],
+    "799D1061182C1302": [
+        {
+            "content": "[60 FPS offline switcher - exefs req]\n580F0000 0195CDF0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS offline switcher - exefs req]"
+        },
+        {
+            "content": "[30 FPS online switcher]\n580F0000 0195CDF0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[30 FPS online switcher]"
+        }
+    ],
+    "attribution": {
+        "need for speed hot pursuit remastered 1.0.0 by arismendy64 and patjenova.txt": ""
+    }
 }

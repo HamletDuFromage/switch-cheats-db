@@ -8,5 +8,8 @@
             "content": "[Inf Stamina]\n580F0000 01D4A190\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000018\n580F1000 00000018\n780F0000 0000002C\n640F0000 00000000 000001FA",
             "title": "[Inf Stamina]"
         }
-    ]
+    ],
+    "attribution": {
+        "The Coma Recut ver 1.0.0 by ZiT.txt": "[The code is only valid in combat.]"
+    }
 }

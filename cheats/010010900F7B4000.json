@@ -20,5 +20,9 @@
             "content": "[Inf Skill]\n580F0000 039953A0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000028\n780F0000 00000020\n640F0000 00000000 00000063\n",
             "title": "[Inf Skill]"
         }
-    ]
+    ],
+    "attribution": {
+        "Bubble Bobble 4 Friends ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows.",
+        "Bubble Bobble Friends v1.00 by merlin555.txt": "*Info*\nWhen you go back to the main menu and play again,\nthe code is no longer work.\nAnd The same applies to a new world.\n\nRestart the game !"
+    }
 }

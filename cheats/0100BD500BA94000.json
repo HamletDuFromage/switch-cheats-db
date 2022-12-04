@@ -16,5 +16,8 @@
             "content": "[Mysterious Amulet : explore around it for other key items for 1st character]\n540F0000 00435FE4\n540F1000 0000002C\n780F0000 00000254\n640F0000 00000000 00000001",
             "title": "[Mysterious Amulet : explore around it for other key items for 1st character]"
         }
-    ]
+    ],
+    "attribution": {
+        "Sphinx and the Cursed Mummy by TomSwitch.txt": "Ammo 255 don't always work. The other two seems to be consistent"
+    }
 }

@@ -24,5 +24,8 @@
             "content": "[Inf Weapon]\n580F0000 0169F578\n580F1000 00000098\n580F1000 00000040\n780F0000 00000080\n680F0000 000003E7 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n",
             "title": "[Inf Weapon]"
         }
-    ]
+    ],
+    "attribution": {
+        "ONE MORE DUNGEON ver 1.0.0 by ZiT.txt": ""
+    }
 }

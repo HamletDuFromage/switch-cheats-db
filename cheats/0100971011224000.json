@@ -16,5 +16,8 @@
             "content": "[Engine Cannot Break]\n58000000 0335CAC8\n58001000 00000190\n58001000 00000028\n58001000 00000020\n78000000 00000150\n64000000 00000000 00000000\n78000000 00000008\n64000000 00000000 00000000",
             "title": "[Engine Cannot Break]"
         }
-    ]
+    ],
+    "attribution": {
+        "Concept Destruction ver 1.0.0 bi Lionheartwolf.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+    }
 }

@@ -1,0 +1,303 @@
+{
+    "2FD5846E250C61CE": [
+        {
+            "content": "[60 FPS]\n580F0000 06FD3010\n580F1000 00000018\n580F1000 00000078\n780F0000 00000F14\n640F0000 00000000 00000001\n580F0000 077C79B0\n780F0000 00000044\n680F0000 42700000 42700000\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 06FD3010\n580F1000 00000018\n580F1000 00000078\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+            "title": "[Default 30 FPS]"
+        },
+        {
+            "content": "[Handheld RRS 80% (480p)]\n580F0000 0779A0B0\n780F0000 00000044\n680F0000 42A00000 42A00000\n580F0000 0779A0C8\n780F0000 00000044\n680F0000 42A00000 42A00000\n580F0000 06FCDF68\n780F0000 00000044\n680F0000 42A00000 42A00000\n\n",
+            "title": "[Handheld RRS 80% (480p)]"
+        },
+        {
+            "content": "[Handheld RRS 90% (540p)]\n580F0000 0779A0B0\n780F0000 00000044\n680F0000 42B40000 42B40000\n580F0000 0779A0C8\n780F0000 00000044\n680F0000 42B40000 42B40000\n580F0000 06FCDF68\n780F0000 00000044\n680F0000 42B40000 42B40000\n\n",
+            "title": "[Handheld RRS 90% (540p)]"
+        },
+        {
+            "content": "[Default Handheld RRS 100% (600p)]\n580F0000 0779A0B0\n780F0000 00000044\n680F0000 42C80000 42C80000\n580F0000 0779A0C8\n780F0000 00000044\n680F0000 42C80000 42C80000\n580F0000 06FCDF68\n780F0000 00000044\n680F0000 42C80000 42C80000\n\n",
+            "title": "[Default Handheld RRS 100% (600p)]"
+        },
+        {
+            "content": "[Handheld RRS 120% (720p)]\n580F0000 0779A0B0\n780F0000 00000044\n680F0000 42F00000 42F00000\n580F0000 0779A0C8\n780F0000 00000044\n680F0000 42F00000 42F00000\n580F0000 06FCDF68\n780F0000 00000044\n680F0000 42F00000 42F00000\n\n",
+            "title": "[Handheld RRS 120% (720p)]"
+        },
+        {
+            "content": "[Docked RRS 80% (720p)]\n580F0000 0779A0B0\n780F0000 00000044\n680F0000 42A00000 42A00000\n580F0000 0779A0C8\n780F0000 00000044\n680F0000 42A00000 42A00000\n580F0000 06FCDF68\n780F0000 00000044\n680F0000 42A00000 42A00000\n\n",
+            "title": "[Docked RRS 80% (720p)]"
+        },
+        {
+            "content": "[Docked RRS 90% (810p)]\n580F0000 0779A0B0\n780F0000 00000044\n680F0000 42B40000 42B40000\n580F0000 0779A0C8\n780F0000 00000044\n680F0000 42B40000 42B40000\n580F0000 06FCDF68\n780F0000 00000044\n680F0000 42B40000 42B40000\n\n",
+            "title": "[Docked RRS 90% (810p)]"
+        },
+        {
+            "content": "[Default Docked RRS 100% (900p)]\n580F0000 0779A0B0\n780F0000 00000044\n680F0000 42C80000 42C80000\n580F0000 0779A0C8\n780F0000 00000044\n680F0000 42C80000 42C80000\n580F0000 06FCDF68\n780F0000 00000044\n680F0000 42C80000 42C80000\n\n",
+            "title": "[Default Docked RRS 100% (900p)]"
+        },
+        {
+            "content": "[Docked RRS 120% (1080p)]\n580F0000 0779A0B0\n780F0000 00000044\n680F0000 42F00000 42F00000\n580F0000 0779A0C8\n780F0000 00000044\n680F0000 42F00000 42F00000\n580F0000 06FCDF68\n780F0000 00000044\n680F0000 42F00000 42F00000\n\n",
+            "title": "[Docked RRS 120% (1080p)]"
+        },
+        {
+            "content": "[Default Motion Blur OFF]\n580F0000 06FCDEC0\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+            "title": "[Default Motion Blur OFF]"
+        },
+        {
+            "content": "[Motion Blur ON]\n580F0000 06FCDEC0\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
+            "title": "[Motion Blur ON]"
+        },
+        {
+            "content": "[Default Film Grain OFF]\n580F0000 06FCE328\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+            "title": "[Default Film Grain OFF]"
+        },
+        {
+            "content": "[Film Grain ON]\n580F0000 06FCE328\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+            "title": "[Film Grain ON]"
+        },
+        {
+            "content": "[Default CHROM AB OFF]\n580F0000 06FCDE60\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+            "title": "[Default CHROM AB OFF]"
+        },
+        {
+            "content": "[CHROM AB ON]\n580F0000 06FCDE60\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+            "title": "[CHROM AB ON]"
+        },
+        {
+            "content": "[Default Lens Flare OFF]\n580F0000 0771C370\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+            "title": "[Default Lens Flare OFF]"
+        },
+        {
+            "content": "[Lens Flare ON]\n580F0000 0771C370\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+            "title": "[Lens Flare ON]"
+        },
+        {
+            "content": "[Sky Lighting Quality OFF]\n580F0000 06FCE538\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+            "title": "[Sky Lighting Quality OFF]"
+        },
+        {
+            "content": "[Default Sky Lighting Quality ON]\n580F0000 06FCE538\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+            "title": "[Default Sky Lighting Quality ON]"
+        },
+        {
+            "content": "[Default Adaptive Exposure OFF]\n580F0000 06FCE2E0\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+            "title": "[Default Adaptive Exposure OFF]"
+        },
+        {
+            "content": "[Adaptive Exposure Low]\n580F0000 06FCE2E0\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+            "title": "[Adaptive Exposure Low]"
+        },
+        {
+            "content": "[Adaptive Exposure Normal]\n580F0000 06FCE2E0\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+            "title": "[Adaptive Exposure Normal]"
+        },
+        {
+            "content": "[Adaptive Exposure High]\n580F0000 06FCE2E0\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
+            "title": "[Adaptive Exposure High]"
+        },
+        {
+            "content": "[View Distance Scale x0.5]\n580F0000 06FCE208\n780F0000 00000044\n680F0000 3F000000 3F000000\n\n",
+            "title": "[View Distance Scale x0.5]"
+        },
+        {
+            "content": "[Default View Distance Scale x0.8]\n580F0000 06FCE208\n780F0000 00000044\n680F0000 3F4CCCCD 3F4CCCCD\n\n",
+            "title": "[Default View Distance Scale x0.8]"
+        },
+        {
+            "content": "[View Distance Scale x1]\n580F0000 06FCE208\n780F0000 00000044\n680F0000 3F800000 3F800000\n\n",
+            "title": "[View Distance Scale x1]"
+        },
+        {
+            "content": "[View Distance Scale x1.5]\n580F0000 06FCE208\n780F0000 00000044\n680F0000 3FC00000 3FC00000\n\n",
+            "title": "[View Distance Scale x1.5]"
+        },
+        {
+            "content": "[View Distance Scale x2]\n580F0000 06FCE208\n780F0000 00000044\n680F0000 40000000 40000000\n\n",
+            "title": "[View Distance Scale x2]"
+        },
+        {
+            "content": "[Default DOF OFF]\n580F0000 06FCDF50\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+            "title": "[Default DOF OFF]"
+        },
+        {
+            "content": "[DOF low]\n580F0000 06FCDF50\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+            "title": "[DOF low]"
+        },
+        {
+            "content": "[DOF High]\n580F0000 06FCDF50\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+            "title": "[DOF High]"
+        },
+        {
+            "content": "[DOF Very High]\n580F0000 06FCDF50\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
+            "title": "[DOF Very High]"
+        },
+        {
+            "content": "[DOF Extreme]\n580F0000 06FCDF50\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
+            "title": "[DOF Extreme]"
+        },
+        {
+            "content": "[Anisotropic Filtering x1]\n580F0000 06FCE130\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+            "title": "[Anisotropic Filtering x1]"
+        },
+        {
+            "content": "[Default Anisotropic Filtering x2]\n580F0000 06FCE130\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+            "title": "[Default Anisotropic Filtering x2]"
+        },
+        {
+            "content": "[Anisotropic Filtering x4]\n580F0000 06FCE130\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
+            "title": "[Anisotropic Filtering x4]"
+        },
+        {
+            "content": "[Anisotropic Filtering x8]\n580F0000 06FCE130\n780F0000 00000044\n680F0000 00000008 00000008\n\n",
+            "title": "[Anisotropic Filtering x8]"
+        },
+        {
+            "content": "[Anisotropic Filtering x16]\n580F0000 06FCE130\n780F0000 00000044\n680F0000 00000010 00000010\n\n",
+            "title": "[Anisotropic Filtering x16]"
+        },
+        {
+            "content": "[MSAA OFF]\n580F0000 06FCE058\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+            "title": "[MSAA OFF]"
+        },
+        {
+            "content": "[MSAA 2x]\n580F0000 06FCE058\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+            "title": "[MSAA 2x]"
+        },
+        {
+            "content": "[Default MSAA 4x]\n580F0000 06FCE058\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
+            "title": "[Default MSAA 4x]"
+        },
+        {
+            "content": "[MSAA 8x]\n580F0000 06FCE058\n780F0000 00000044\n680F0000 00000008 00000008\n\n",
+            "title": "[MSAA 8x]"
+        },
+        {
+            "content": "[Default AA OFF]\n580F0000 06FCDED8\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+            "title": "[Default AA OFF]"
+        },
+        {
+            "content": "[AA Very Low (Faster FXAA)]\n580F0000 06FCDED8\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+            "title": "[AA Very Low (Faster FXAA)]"
+        },
+        {
+            "content": "[AA Low (FXAA)]\n580F0000 06FCDED8\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+            "title": "[AA Low (FXAA)]"
+        },
+        {
+            "content": "[AA Medium (Faster TAA)]\n580F0000 06FCDED8\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
+            "title": "[AA Medium (Faster TAA)]"
+        },
+        {
+            "content": "[AA High (Default TAA)]\n580F0000 06FCDED8\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
+            "title": "[AA High (Default TAA)]"
+        },
+        {
+            "content": "[AA Very High]\n580F0000 06FCDED8\n780F0000 00000044\n680F0000 00000005 00000005\n\n",
+            "title": "[AA Very High]"
+        },
+        {
+            "content": "[AA Max]\n580F0000 06FCDED8\n780F0000 00000044\n680F0000 00000006 00000006\n\n",
+            "title": "[AA Max]"
+        },
+        {
+            "content": "[Shadow OFF]\n580F0000 06FCDEA8\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+            "title": "[Shadow OFF]"
+        },
+        {
+            "content": "[Shadow Low (Unfiltered)]\n580F0000 06FCDEA8\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+            "title": "[Shadow Low (Unfiltered)]"
+        },
+        {
+            "content": "[Shadow Low]\n580F0000 06FCDEA8\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+            "title": "[Shadow Low]"
+        },
+        {
+            "content": "[Default Shadow Medium]\n580F0000 06FCDEA8\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
+            "title": "[Default Shadow Medium]"
+        },
+        {
+            "content": "[Shadow High]\n580F0000 06FCDEA8\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
+            "title": "[Shadow High]"
+        },
+        {
+            "content": "[Shadow Max]\n580F0000 06FCDEA8\n780F0000 00000044\n680F0000 00000005 00000005\n\n",
+            "title": "[Shadow Max]"
+        },
+        {
+            "content": "[Default Shadow Distance x0.6]\n580F0000 06FCE2F8\n780F0000 00000044\n680F0000 3F19999A 3F19999A\n\n",
+            "title": "[Default Shadow Distance x0.6]"
+        },
+        {
+            "content": "[Shadow Distance x1]\n580F0000 06FCE2F8\n780F0000 00000044\n680F0000 3F800000 3F800000\n\n",
+            "title": "[Shadow Distance x1]"
+        },
+        {
+            "content": "[Shadow Distance x1.5]\n580F0000 06FCE2F8\n780F0000 00000044\n680F0000 3FC00000 3FC00000\n\n",
+            "title": "[Shadow Distance x1.5]"
+        },
+        {
+            "content": "[Shadow Distance x2]\n580F0000 06FCE2F8\n780F0000 00000044\n680F0000 40000000 40000000\n\n",
+            "title": "[Shadow Distance x2]"
+        },
+        {
+            "content": "[SSA0 OFF]\n580F0000 06FCDE78\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+            "title": "[SSA0 OFF]"
+        },
+        {
+            "content": "[Default SSA0 x0.5]\n580F0000 06FCDE78\n780F0000 00000044\n680F0000 3F000000 3F000000\n\n",
+            "title": "[Default SSA0 x0.5]"
+        },
+        {
+            "content": "[SSA0 x1]\n580F0000 06FCDE78\n780F0000 00000044\n680F0000 3F800000 3F800000\n\n",
+            "title": "[SSA0 x1]"
+        },
+        {
+            "content": "[SSA0 x1.5]\n580F0000 06FCDE78\n780F0000 00000044\n680F0000 3FC00000 3FC00000\n\n",
+            "title": "[SSA0 x1.5]"
+        },
+        {
+            "content": "[SSA0 x2]\n580F0000 06FCDE78\n780F0000 00000044\n680F0000 40000000 40000000\n\n",
+            "title": "[SSA0 x2]"
+        },
+        {
+            "content": "[Bloom OFF]\n580F0000 06FCDE48\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+            "title": "[Bloom OFF]"
+        },
+        {
+            "content": "[Bloom Very Low]\n580F0000 06FCDE48\n780F0000 00000044\n680F0000 00000001 00000001\n\n",
+            "title": "[Bloom Very Low]"
+        },
+        {
+            "content": "[Default Bloom Low]\n580F0000 06FCDE48\n780F0000 00000044\n680F0000 00000002 00000002\n\n",
+            "title": "[Default Bloom Low]"
+        },
+        {
+            "content": "[Bloom Medium]\n580F0000 06FCDE48\n780F0000 00000044\n680F0000 00000003 00000003\n\n",
+            "title": "[Bloom Medium]"
+        },
+        {
+            "content": "[Bloom High]\n580F0000 06FCDE48\n780F0000 00000044\n680F0000 00000004 00000004\n\n",
+            "title": "[Bloom High]"
+        },
+        {
+            "content": "[Bloom Very High]\n580F0000 06FCDE48\n780F0000 00000044\n680F0000 00000005 00000005\n\n",
+            "title": "[Bloom Very High]"
+        },
+        {
+            "content": "[MAX GFX QUALITY]\n580F0000 06FCE2E0\n780F0000 00000044\n680F0000 00000003 00000003\n580F0000 06FCE208\n780F0000 00000044\n680F0000 40000000 40000000\n580F0000 06FCDF50\n780F0000 00000044\n680F0000 00000004 00000004\n580F0000 06FCE130\n780F0000 00000044\n680F0000 00000010 00000010\n580F0000 06FCE058\n780F0000 00000044\n680F0000 00000008 00000008\n580F0000 06FCDED8\n780F0000 00000044\n680F0000 00000006 00000006\n580F0000 06FCDEA8\n780F0000 00000044\n680F0000 00000005 00000005\n580F0000 06FCE2F8\n780F0000 00000044\n680F0000 40000000 40000000\n580F0000 06FCDE78\n780F0000 00000044\n680F0000 40000000 40000000\n580F0000 06FCDE48\n780F0000 00000044\n680F0000 00000005 00000005\n\n",
+            "title": "[MAX GFX QUALITY]"
+        },
+        {
+            "content": "[MIN GFX QUALITY]\n580F0000 06FCE2E0\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06FCE208\n780F0000 00000044\n680F0000 3F000000 3F000000\n580F0000 06FCDF50\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06FCE130\n780F0000 00000044\n680F0000 00000001 00000001\n580F0000 06FCE058\n780F0000 00000044\n680F0000 00000001 00000001\n580F0000 06FCDED8\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06FCDEA8\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06FCE2F8\n780F0000 00000044\n680F0000 3F4CCCCD 3F4CCCCD\n580F0000 06FCDE78\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06FCDE48\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
+            "title": "[MIN GFX QUALITY]"
+        },
+        {
+            "content": "[DEFAULT GFX QUALITY]\n580F0000 06FCE2E0\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06FCE208\n780F0000 00000044\n680F0000 3F4CCCCD 3F4CCCCD\n580F0000 06FCDF50\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06FCE130\n780F0000 00000044\n680F0000 00000002 00000002\n580F0000 06FCE058\n780F0000 00000044\n680F0000 00000004 00000004\n580F0000 06FCDED8\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 06FCDEA8\n780F0000 00000044\n680F0000 00000003 00000003\n580F0000 06FCE2F8\n780F0000 00000044\n680F0000 3F19999A 3F19999A\n580F0000 06FCDE78\n780F0000 00000044\n680F0000 3F000000 3F000000\n580F0000 06FCDE48\n780F0000 00000044\n680F0000 00000002 00000002",
+            "title": "[DEFAULT GFX QUALITY]"
+        }
+    ],
+    "attribution": {
+        "Dusk Diver 2 \u5d11\u5d19\u9748\u52d5.txt": "Included in the text file;\n[RRS]\n[Motion Blur]\n[Film Grain]\n[CHROM AB]\n[Lens Flare]\n[Sky Lighting Quality]\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n[MIN/MAX/Default GFX Quality]\n\nNote;\n\nThe [GFX Quality] Are For;\n\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n\n=====\n\n[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.\nPlease use;\nHandheld RRS for Handheld Mode.\nDocked RRS for Docked Mode.\n\nSome GFX Codes has no Function/Effect to the Game.\nBy @Hazerou"
+    }
+}

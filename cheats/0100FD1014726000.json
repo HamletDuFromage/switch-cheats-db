@@ -106,5 +106,9 @@
             "content": "[High Charisma]\n04000000 003E4700 000000C8\n\n\n",
             "title": "[High Charisma]"
         }
-    ]
+    ],
+    "attribution": {
+        "Baldurs Gate Drak Alliance ver 1.0.0 by Matias3ds ver 1.0.1 by ChristianFLrenss Xtatu and Matias3ds.txt": "NOTE:\nIf stats become unusable, set to lower number (tested with these a little and seemd fine. Dont exceed too hard or you might get 1 shot etc).\nStat changes will be made when you teleport in/out or level up.",
+        "Baldurs Gate Drak Alliance ver 1.0.0 by Matias3ds ver 1.0.1 by Xtatu and Matias3ds.txt": ""
+    }
 }

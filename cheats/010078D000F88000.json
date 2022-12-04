@@ -573,6 +573,20 @@
             "title": "[Attribute Points MAX]"
         }
     ],
+    "B7D0269DEAFF0BAD": [
+        {
+            "content": "[60 FPS]\n14060000 022DB140 00000000\n04000000 022DBBE0 3C888889\n580F0000 02918028\n580F1000 0000A720\n580F1000 00000030\n780F0000 00000F14\n640F0000 00000000 00000001\n580F0000 049ABD78\n780F0000 00000698\n640F0000 00000000 3C888889\n780F0000 0000000C\n640F0000 00000000 3C888889\n780F0000 0000000C\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000001\n20000000\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[30 FPS]\n14060000 022DB140 00000000\n04000000 022DBBE0 3C888889\n580F0000 02918028\n580F1000 0000A720\n580F1000 00000030\n780F0000 00000F14\n640F0000 00000000 00000002\n580F0000 049ABD78\n780F0000 00000698\n640F0000 00000000 3D088889\n780F0000 0000000C\n640F0000 00000000 3D088889\n780F0000 0000000C\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000002\n20000000\n\n",
+            "title": "[30 FPS]"
+        },
+        {
+            "content": "[FPS Toggle]\n80004020\n14060000 022DB140 00000000\n04000000 022DBBE0 3C888889\n580F0000 02918028\n580F1000 0000A720\n580F1000 00000030\n780F0000 00000F14\n640F0000 00000000 00000001\n580F0000 049ABD78\n780F0000 00000698\n640F0000 00000000 3C888889\n780F0000 0000000C\n640F0000 00000000 3C888889\n780F0000 0000000C\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000001\n20000000\n20000000\n80001020\n14060000 022DB140 00000000\n04000000 022DBBE0 3C888889\n580F0000 02918028\n580F1000 0000A720\n580F1000 00000030\n780F0000 00000F14\n640F0000 00000000 00000002\n580F0000 049ABD78\n780F0000 00000698\n640F0000 00000000 3D088889\n780F0000 0000000C\n640F0000 00000000 3D088889\n780F0000 0000000C\n610F0000 00000000 00000001\n780F0000 00000004\n610F0000 00000000 00000002\n20000000\n20000000",
+            "title": "[FPS Toggle]"
+        }
+    ],
     "F89026442C938F06": [
         {
             "content": "[01# Inf Ki]\n580F0000 0208CA80\n580F1000 00000020\n580F1000 00000090\n780F0000 00000104\n640F0000 00000000 4E6E6B28\n",
@@ -800,5 +814,10 @@
             "content": "[Attribute Points MAX]\n041F0000 54A2E95C 0000270F\n",
             "title": "[Attribute Points MAX]"
         }
-    ]
+    ],
+    "attribution": {
+        "Dragon Ball Xenoverse 2 Version 1.14.01 by Patjenova.txt": "Do not activate bojack if you did not do his first mission or your game will crash.\nSearch online for the clothes id. I don't have them. I only did 3 of my test outfits to check it out.",
+        "Dragon Ball Xenoverse 2 for ver 1.16.1 by Patjenova v1.13.01.txt": "-INFO-\n\nFor the values to stick you need to do the following:\n\n    Start the game.\n    Enable the cheats on the main menu.\n    Select your save.\n    Once you've loaded into Conton City wait for it to finish save upon loading (look for the saving symbol on the bottom right, it will happen as soon as the screen stops being white).\n    Press the home button (you can go disable the cheats now if you want) and quit the game by pressing X on the closed game (if exit to the main menu or do anything that will save your game after it initially loads Conton City and saves then it will overwrite with your values before you entered the cheats).\n    Load into the game again normally and your cheats should have taken affect on your save.\n\nThanks to fadx",
+        "Dragon Ball Xenoverse 2 v1.13  v1.15 by merlin555.txt": ""
+    }
 }

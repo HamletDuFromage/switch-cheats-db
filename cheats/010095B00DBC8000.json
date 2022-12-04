@@ -24,5 +24,8 @@
             "content": "[Inf Ammo]\n300E0000 00000007\n010F0000 0023EBEC 10101010\n780F0000 00000001\n310E0000\n20000000",
             "title": "[Inf Ammo]"
         }
-    ]
+    ],
+    "attribution": {
+        "Venture Kid ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

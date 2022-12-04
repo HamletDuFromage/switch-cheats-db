@@ -100,5 +100,8 @@
             "content": "[09# Freeze Battle Timer]\n580F0000 03D7E378\n580F1000 000000B8\n580F1000 000002C0\n580F1000 000000B0\n780F0000 00000078\n640F0000 00000000 00000063",
             "title": "[09# Freeze Battle Timer]"
         }
-    ]
+    ],
+    "attribution": {
+        "Naruto Shippuden Ultimate Ninja Storm Trilogy ver 1.0.0 by patjenova.txt": "*Info*\nP1 = the first player left\nP2 = the next player\nUse the code only at the beginning.\nIn the beginning it is decided who is Player 1, who wins.\nUsually.\nIt can also change.\nThe code remains in the game in memory,\neven if the code is turned off."
+    }
 }

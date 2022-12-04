@@ -16,5 +16,8 @@
             "content": "[HP and SP fill]\n04000000 01C10124 D503201F\n\n\n\n\n",
             "title": "[HP and SP fill]"
         }
-    ]
+    ],
+    "attribution": {
+        "The Alliance Alive HD Remastered by TomSwitch.txt": "Ammo 255 don't always work. The other two seems to be consistent"
+    }
 }

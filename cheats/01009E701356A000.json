@@ -52,5 +52,8 @@
             "content": "[Infinite fuel]\n040E0000 008261F8 D503201F",
             "title": "[Infinite fuel]"
         }
-    ]
+    ],
+    "attribution": {
+        "Destroy All Humans! ver 1.0.0 by patjenova and Eiffel.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

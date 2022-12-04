@@ -48,5 +48,8 @@
             "content": "[1p invicible off ]\n04000000 00028890 72001C1F",
             "title": "[1p invicible off ]"
         }
-    ]
+    ],
+    "attribution": {
+        "NINJA GAIDEN 3 ver 1.0.1 by Patjenova and xtatu Hazerou and Jericoss.txt": "NOTE:\nIf stats become unusable, set to lower number (tested with these a little and seemd fine. Dont exceed too hard or you might get 1 shot etc).\nStat changes will be made when you teleport in/out or level up."
+    }
 }

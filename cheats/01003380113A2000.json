@@ -16,5 +16,8 @@
             "content": "[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005",
             "title": "[Sub Weapon]"
         }
-    ]
+    ],
+    "attribution": {
+        "Wolflame ver 1.0.0 by ZiT.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+    }
 }

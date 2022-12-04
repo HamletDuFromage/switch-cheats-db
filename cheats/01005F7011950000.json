@@ -72,5 +72,8 @@
             "content": "[Walk Through Walls (Hold ZL)]\n580F0000 02A0DE70\n580F1000 00000038\n780F0000 00000038\n640F0000 00000000 41200000\n80000100\n640F0000 00000000 C1200000\n20000000",
             "title": "[Walk Through Walls (Hold ZL)]"
         }
-    ]
+    ],
+    "attribution": {
+        "ScourgeBringer ver 1.0.0 by ZiT and ver 1.0.1 by arismendy64 and updated by TomSwitch.txt": "\u203b If you activate the code at the start of the game, it will freeze."
+    }
 }

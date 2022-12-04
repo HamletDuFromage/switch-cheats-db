@@ -86,5 +86,9 @@
             "content": "[Money 99,999]\n580F0000 04eae7B8\n780F0000 00000048\n680F0000 00000000 0001869F\n580F0000 04eae7B8\n780F0000 0000004C\n680F0000 00000000 0001869F",
             "title": "[Money 99,999]"
         }
-    ]
+    ],
+    "attribution": {
+        "slay the spire ver 2.0.3 lionheartwolf and ver 2.2.1 by jhmiller.txt": "",
+        "slay the spire version 1.0.3 by patjenova.txt": ""
+    }
 }

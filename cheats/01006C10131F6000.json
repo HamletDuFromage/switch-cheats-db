@@ -26,5 +26,8 @@
             "content": "[Speed Up]\n580F0000 060E70D0\n580F1000 00000000\n580F1000 00000020\n780F0000 00000098\n640F0000 00000000 40000000",
             "title": "[Speed Up]"
         }
-    ]
+    ],
+    "attribution": {
+        "Pumpkin Jack ver 1.0.0 by ZiT and ber 1.2.8 by arismendy64.txt": "\u203b If you activate the code at the start of the game, it will freeze."
+    }
 }

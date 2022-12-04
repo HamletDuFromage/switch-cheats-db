@@ -20,5 +20,8 @@
             "content": "[05# Max life]\n580F0000 02E1F408\n580F1000 00000078\n780F0000 00000174\n640F0000 00000000 00000003",
             "title": "[05# Max life]"
         }
-    ]
+    ],
+    "attribution": {
+        "Splatoon 2 ver 5.2.2 by patjenova.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

@@ -28,5 +28,8 @@
             "content": "[inf. Skill Points]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 00000238\n610E0000 00000000 00000063",
             "title": "[inf. Skill Points]"
         }
-    ]
+    ],
+    "attribution": {
+        "Inexistence, Rebirth v1.0.0 by Eiffel.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

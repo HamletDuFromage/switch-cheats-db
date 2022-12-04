@@ -16,5 +16,8 @@
             "content": "[9999 coins]\n580F0000 00AFC880\n580F1000 00000090\n580F1000 00000000\n580F1000 00000090\n580F1000 00000010\n780F0000 000000D8\n640F0000 00000000 0000270F",
             "title": "[9999 coins]"
         }
-    ]
+    ],
+    "attribution": {
+        "Bloons TD 5 bu arismendy64.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

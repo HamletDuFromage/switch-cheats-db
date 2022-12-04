@@ -24,5 +24,8 @@
             "content": "[Inf Shield]\n580F0000 033A4BB8\n580F1000 00000010\n580F1000 00000008\n580F1000 00000078\n580F1000 00000000\n580F1000 000000C8\n780F0000 000004E4\n640F0000 00000000 00000FFF",
             "title": "[Inf Shield]"
         }
-    ]
+    ],
+    "attribution": {
+        "Valfaris & Slain Double Pack ( Valfaris ) by ZiT.txt": "Please turn on the code when you can move the character\nSwap your numbers in Health and Energy with floating point ( 461C9000 = 10020 )\n"
+    }
 }

@@ -36,5 +36,8 @@
             "content": "[P3 MP]\n580F0000 004678D8\n580F1000 00000010\n580F1000 00000028\n580F1000 000004D8\n580F1000 00000238\n780F0000 0000001A\n620F0000 00000000 00000384\n",
             "title": "[P3 MP]"
         }
-    ]
+    ],
+    "attribution": {
+        "Breeze beta12 Saviors of Sapphire Wings & Stranger of Sword City Revisited 1.0.2.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

@@ -42,5 +42,8 @@
             "content": "[health meter(needs readjusting)]\n580F0000 005B3A20\n780F0000 00000520\n640F0000 00000000 438C0000",
             "title": "[health meter(needs readjusting)]"
         }
-    ]
+    ],
+    "attribution": {
+        "STAR WARS The Force Unleashed 1.0.1 by gamerjin.txt": "Super Mario Allstars\nSuper Mario 3"
+    }
 }

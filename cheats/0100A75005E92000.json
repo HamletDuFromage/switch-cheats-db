@@ -1,4 +1,34 @@
 {
+    "1A0EAEC3AE90B018": [
+        {
+            "content": "[60 FPS]\n580F0000 03D376C8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 03D376C8\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[Default 30 FPS]"
+        }
+    ],
+    "20A081AF923C764C": [
+        {
+            "content": "[60 FPS]\n580F0000 03D37708\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 03D37708\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[Default 30 FPS]"
+        }
+    ],
+    "48B35FB0D4E3FC40": [
+        {
+            "content": "[60 FPS]\n580F0000 03D80608\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 03D80608\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[Default 30 FPS]"
+        }
+    ],
     "985E17C3D9255F4D": [
         {
             "content": "[NORMAL RUN SPEED]\n04000000 01385CA8 1E2E1000\n\n",
@@ -126,5 +156,18 @@
             "content": "[Inf Dungeonkeys (off)]\n040A0000 013E2E58 51000529",
             "title": "[Inf Dungeonkeys (off)]"
         }
-    ]
+    ],
+    "C39C99E807D11843": [
+        {
+            "content": "[60 FPS]\n580F0000 03D53088\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 03D53088\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[Default 30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Baldo The Guardian Owls v1.1.0 by Patjenova ver 1.0.4 by xtatu.txt": "SWITCH OFF TO ENTER DOORS AND STAIRS"
+    }
 }

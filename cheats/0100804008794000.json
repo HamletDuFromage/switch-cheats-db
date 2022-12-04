@@ -24,5 +24,8 @@
             "content": "[Player Full POW Bar]\n11050000 0125095a 00000010\n14060000 012500a4 00000000\n520f0000 01250958\n740f0000 0124FFC8\n010F0000 00000000 000000ff\n740f0000 00000039\n010f0000 00000000 00000020\n20000000\n",
             "title": "[Player Full POW Bar]"
         }
-    ]
+    ],
+    "attribution": {
+        "ACA NEOGEO SAMURAI SHODOWN II ver 1.0.0 by xtatu and dsrules.txt": "Super Mario Allstars\nSuper Mario 3"
+    }
 }

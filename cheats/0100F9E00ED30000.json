@@ -28,5 +28,8 @@
             "content": "[Inf POWER]\n580F0000 009ABE90\n780F0000 00000B80\n640F0000 00000000 42C80000",
             "title": "[Inf POWER]"
         }
-    ]
+    ],
+    "attribution": {
+        "Battle of Elemental BURST ver 1.0.0 by ZiT.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
+    }
 }

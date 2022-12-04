@@ -16,5 +16,8 @@
             "content": "[Rapid Fire (Hold ZR)]\n80000200\n580F0000 060558D8\n580F1000 00000068\n580F1000 000000F8\n580F1000 00000010\n780F0000 000003B0\n640F0000 00000000 00000003\n20000000",
             "title": "[Rapid Fire (Hold ZR)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Super Daryl Deluxe ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
 }

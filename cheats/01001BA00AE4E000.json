@@ -12,5 +12,8 @@
             "content": "[Inf HP]\n580F0000 01B8EF98\n580F1000 000000A0\n780F0000 0000000C\n640F0000 00000000 42C80000",
             "title": "[Inf HP]"
         }
-    ]
+    ],
+    "attribution": {
+        "Final Light, The Prison ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
 }

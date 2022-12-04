@@ -20,5 +20,8 @@
             "content": "[Walking Speed Up after Rolling]\n010E0000 0166BE5E 00000021\n010E0000 0166BFB2 00000020\n\n",
             "title": "[Walking Speed Up after Rolling]"
         }
-    ]
+    ],
+    "attribution": {
+        "Space Revenge v1.0.0 by Eiffel2018.txt": "Note: Better use NOEXES to avoid game lag"
+    }
 }

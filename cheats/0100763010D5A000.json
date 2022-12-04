@@ -40,5 +40,8 @@
             "content": "[Speed Up]\n580F0000 037E4C00\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000080\n780F0000 0000003C\n680F0000 30000000 42000000\n",
             "title": "[Speed Up]"
         }
-    ]
+    ],
+    "attribution": {
+        "Rigid Force Redux ver 1.0.1 by merlin555 and DaBlackDeath and Zit.txt": "[Lives unlimited]\n01100000 A160003C 00000063\n"
+    }
 }

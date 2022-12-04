@@ -258,5 +258,9 @@
             "content": "[9.999.999 Sp]\n580F0000 0649E6D8\n780F1000 00131934\n680F0000 00000000 0098967F",
             "title": "[9.999.999 Sp]"
         }
-    ]
+    ],
+    "attribution": {
+        "Super Smash Bros Ultimate Ver 8.0.0 by Patjenova ver 10.1.0 by xtatu.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)",
+        "Super smash bross by stoned ver 12.0.0 by xtatu 11.0.1 and 11.0.0 and 8.1.0 by xtatu ver 9.0 by xtatu.txt": "[From MAX-CHEATS.com by Stoned for Super Smash Bros Ultimate v1.0]\n\n[9.999.999 Gold]\n580F0000 0649E6D8\n780F1000 0006443C\n640F0000 00000000 0098967F\n\n[9.999.999 Sp]\n580F0000 0649E6D8\n780F1000 00131934\n680F0000 00000000 0098967F"
+    }
 }

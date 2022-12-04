@@ -34,5 +34,8 @@
             "content": "[Max Skill Point]\n580F0000 04EA18C0\n580F1000 00000008\n580F1000 000002B0\n780F0000 000000E0\n640F0000 00000000 00000063",
             "title": "[Max Skill Point]"
         }
-    ]
+    ],
+    "attribution": {
+        "9 Monkeys of Shaolin ver 1.0.0 by ZiT ver 1.0.1 by arismendy64 and 91wii.txt": "\u203b If you activate the code at the start of the game, it will freeze."
+    }
 }

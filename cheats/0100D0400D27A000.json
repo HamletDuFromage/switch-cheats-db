@@ -96,5 +96,8 @@
             "content": "[Walk through Walls (OFF:hold ZR)]\n580F0000 032aedf8\n580F1000 000000a0\n580F1000 00000008\n580F1000 00000010\n780F0000 0000009C\n640F0000 00000000 00000001\n80000200\n640F0000 00000000 00000000\n20000000",
             "title": "[Walk through Walls (OFF:hold ZR)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Romancing SaGa 3 by ZiT866.txt": "After the 8th person, please add +08 to the following code\n580F1000 00000058\n\n?Be sure to get a backup of the save data.\n?Enter each ID in 000000xx with reference to the SFC code.\n?For the second and subsequent item, add +04 to the following code.\n 780F0000 00000020"
+    }
 }

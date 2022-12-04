@@ -8,5 +8,8 @@
             "content": "[Inf Health]\n580F0000 01E6ECC8\n580F1000 000002E0\n580F1000 000000A0\n580F1000 00000000\n780F0000 00000054\n640F0000 00000000 4479C000\n780F0000 0000000C\n640F0000 00000000 4479C000",
             "title": "[Inf Health]"
         }
-    ]
+    ],
+    "attribution": {
+        "Rift Keeper by ZiT866.txt": "Pressing the A button and using the roll will release invincibility. This is a game specification.\n"
+    }
 }

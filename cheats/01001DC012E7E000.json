@@ -72,5 +72,9 @@
             "content": "[skill point (pointer version, it looks static, pointer version as a backup)]\n580F0000 05B52A60\n580F1000 000003F0\n580F1000 00000070\n780F0000 0000012B\n640F0000 00000000 00000008",
             "title": "[skill point (pointer version, it looks static, pointer version as a backup)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Strange Brigade ver 1.0.1 by Patjenova and TomSwitch.txt": "",
+        "Strange Brigade ver 1.0.1 by Patjenova.txt": ""
+    }
 }

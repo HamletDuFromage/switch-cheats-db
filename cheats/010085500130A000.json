@@ -16,5 +16,8 @@
             "content": "[04# Inf Hearts]\n580F0000 02591790\n580F1000 00000080\n580F1000 00000490\n780F0000 000000F0\n640F0000 00000000 06060000",
             "title": "[04# Inf Hearts]"
         }
-    ]
+    ],
+    "attribution": {
+        "Lego city ver 1.0.2 by patjenova.txt": "Pressing the A button and using the roll will release invincibility. This is a game specification.\n"
+    }
 }

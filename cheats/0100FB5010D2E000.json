@@ -46,5 +46,8 @@
             "content": "[Inf Stamina]\n580F0000 03A6EA38\n580F1000 000000B8\n580F1000 000001D0\n580F1000 000001D8\n780F0000 0000008C\n640F0000 00000000 461C3C00\n",
             "title": "[Inf Stamina]"
         }
-    ]
+    ],
+    "attribution": {
+        "3000th Duel by zit ver 1.0.3 by arismendy64.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
+    }
 }

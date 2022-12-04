@@ -20,5 +20,8 @@
             "content": "[Invincible]\n580F0000 018F1710\n580F1000 00000058\n580F1000 00000010\n580F1000 000005D0\n780F0000 00000034\n640F0000 00000000 00000000",
             "title": "[Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "Shalnor Legends Sacred Lands ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
 }

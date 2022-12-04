@@ -362,5 +362,8 @@
             "content": "[Max Stats Cid]\n08100000 77157A9A 0000FFFF FFFFFFFF\n04100000 77157AB0 FFFFFFFF\n04100000 77157AB4 FFFFFFFF",
             "title": "[Max Stats Cid]"
         }
-    ]
+    ],
+    "attribution": {
+        "Final Fantasy VII ver. 1.0.1 by lionheartwolf 1.2.0 by Patjenova.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

@@ -60,5 +60,8 @@
             "content": "[Max SPD (3P)]\n580F0000 0217A0F0\n580F1000 00000820\n580F1000 00000940\n580F1000 00000C40\n780F0000 00000024\n620F0000 00000000 000003E7",
             "title": "[Max SPD (3P)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Alvastia Chronicles ver 1.0.0 by ZiT.txt": " Inf Health should be used in conjunction with Inf Armor."
+    }
 }

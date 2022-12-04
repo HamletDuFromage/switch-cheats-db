@@ -16,5 +16,8 @@
             "content": "[inf mp]\n580F0000 05369E90\n580F1000 00000000\n580F1000 00000020\n580F1000 00000310\n580F1000 00000068\n780F0000 00000148\n640F0000 00000000 44160000",
             "title": "[inf mp]"
         }
-    ]
+    ],
+    "attribution": {
+        "Dusk Diver ver 1.0.5 by arismendy64 .txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

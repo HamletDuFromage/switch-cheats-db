@@ -8,5 +8,8 @@
             "content": "[Inf Power]\n580F0000 01BFA3F0\n580F1000 00000030\n580F1000 000000A0\n780F0000 0000093C\n640F0000 00000000 000000FF",
             "title": "[Inf Power]"
         }
-    ]
+    ],
+    "attribution": {
+        "Ice Cream Surfer ver 1.0.0 by ZiT.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
+    }
 }

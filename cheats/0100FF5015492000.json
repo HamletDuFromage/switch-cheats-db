@@ -1,0 +1,15 @@
+{
+    "9D3270945708DE4A": [
+        {
+            "content": "[60 FPS]\n580F0000 05D9DA08\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 05D9DA08\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[Default 30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Demon Turf.txt": "By Hazerou"
+    }
+}

@@ -20,5 +20,8 @@
             "content": "[Inf Dynamite]\n580F0000 02182988\n580F1000 000001D0\n780F0000 00000034\n640F0000 00000000 000003E7",
             "title": "[Inf Dynamite]"
         }
-    ]
+    ],
+    "attribution": {
+        "Meganoid 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

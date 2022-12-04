@@ -32,5 +32,18 @@
             "content": "[Instant Progress]\n04000000 00336870 1C121820",
             "title": "[Instant Progress]"
         }
-    ]
+    ],
+    "35577FD32A942E48": [
+        {
+            "content": "[60 FPS]\n580F0000 04B33FC0\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 04B33FC0\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[Default 30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Graveyard Keeper by DaBlackDeath.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
+    }
 }

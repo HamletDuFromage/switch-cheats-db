@@ -32,5 +32,8 @@
             "content": "[run speed mod 2x]\n04000000 00CFDDEC 1E201005",
             "title": "[run speed mod 2x]"
         }
-    ]
+    ],
+    "attribution": {
+        "BioShock Remastered ver 1.0.2 by xtatu and Patjenova.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+    }
 }

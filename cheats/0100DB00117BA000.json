@@ -164,5 +164,8 @@
             "content": "[Skill Exp Multiplier x100]\n580F0000 02DC49E8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000020\n580F1000 000000B8\n780F0000 0000009C\n640F0000 00000000 42C80000",
             "title": "[Skill Exp Multiplier x100]"
         }
-    ]
+    ],
+    "attribution": {
+        "9th Dawn III ver 1.0.0 by ZiT and ver 1.1.14 by TomSwitch and CJB.txt": ""
+    }
 }

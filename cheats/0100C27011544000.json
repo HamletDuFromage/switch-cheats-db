@@ -34,5 +34,8 @@
             "content": "[Infinite Health P1]\n580F0000 040296A8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000078\n780F0000 000000D8\n640F0000 00000000 43FA0000",
             "title": "[Infinite Health P1]"
         }
-    ]
+    ],
+    "attribution": {
+        "The last Kids on Earth and the staff of doom by wiitwndo84 ver 1.0.1 by patjenova.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

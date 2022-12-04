@@ -64,5 +64,8 @@
             "content": "[1p to enemies invincible off]\n04000000 01FD9EF0 D10383FF",
             "title": "[1p to enemies invincible off]"
         }
-    ]
+    ],
+    "attribution": {
+        "Actreisser ver 1.0.0 by Eiffel2018 and xtatu.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"
+    }
 }

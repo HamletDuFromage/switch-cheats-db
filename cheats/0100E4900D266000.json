@@ -32,5 +32,8 @@
             "content": "[Inf Stone]\n580F0000 03B50A70\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000068\n780F0000 00000054\n640F0000 00000000 0000000B",
             "title": "[Inf Stone]"
         }
-    ]
+    ],
+    "attribution": {
+        "Jet Kave Adventure ver 1.0.0 by ZiT.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+    }
 }

@@ -88,5 +88,8 @@
             "content": "[Cycle Item - Bag Slot 1 (R+Up/Down)]\n14150000 2dda39ac 00000005\n04100000 2dda39ac 00000000\n541F0000 2dda399c\n740F0000 00000001\nA4F00410 2dda399c\n20000000\n80002080\n14130000 2dda399c 00000C53\n541F0000 2dda39ac\n740F0000 00000001\nA4F00410 2dda39ac\n20000000\n14150000 2dda39ac FFFFFFFB\n04100000 2dda39ac 00000000\n541F0000 2dda399c\n740F0000 FFFFFFFF\nA4F00410 2dda399c\n20000000\n80008080\n14110000 2dda399c 00000801\n541F0000 2dda39ac\n740F0000 FFFFFFFF\nA4F00410 2dda39ac\n20000000",
             "title": "[Cycle Item - Bag Slot 1 (R+Up/Down)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Rune Factory 4 Special ver 1.0.1 by silien3.txt": "Before going to a Mach disable codes. And you must be first at the beginning. \n\n(NOTE: Ensure there is a SINGLE item, not a stack of items, in the first slot of your bag in order to use this code)"
+    }
 }

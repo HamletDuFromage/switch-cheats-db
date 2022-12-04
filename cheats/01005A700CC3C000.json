@@ -20,5 +20,8 @@
             "content": "[Soul 10000 must get one to take effect]\n580F0000 04025198\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000020\n780F0000 000004AC\n640F0000 00000000 00002710\n\n",
             "title": "[Soul 10000 must get one to take effect]"
         }
-    ]
+    ],
+    "attribution": {
+        "MANA SPARK by arismendy64 and TomSwitch.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

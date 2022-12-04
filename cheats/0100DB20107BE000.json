@@ -12,5 +12,8 @@
             "content": "[999 Item / Gold / Chest at Use / Buy]\n04000000 001F0668 52807CE2",
             "title": "[999 Item / Gold / Chest at Use / Buy]"
         }
-    ]
+    ],
+    "attribution": {
+        "Boulder Dash 30th Anniversary v1.0 by DaBlackDeath.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

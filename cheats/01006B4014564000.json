@@ -1,0 +1,15 @@
+{
+    "EE5B01D270102C92": [
+        {
+            "content": "[60 FPS]\n580F0000 051EDFF0\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 051EDFF0\n780F0000 00000F14\n640F0000 00000000 00000002\n",
+            "title": "[Default 30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Aztech Forgotten Gods.txt": "v1.0.8 by Hazerou\n"
+    }
+}

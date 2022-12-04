@@ -1,4 +1,14 @@
 {
+    "8F75C9F4201839A9": [
+        {
+            "content": "[NSO N64 - 30 fps]\n08100000 78891F24 00000000 00000002\n\n",
+            "title": "[NSO N64 - 30 fps]"
+        },
+        {
+            "content": "[NSO N64 - 60 fps (default)]\n08100000 78891F24 00000000 00000001",
+            "title": "[NSO N64 - 60 fps (default)]"
+        }
+    ],
     "EB79EF243458597C": [
         {
             "content": "[Tunic Black Mod]\n580F0000 005D20C0\n780F0000 0011ADF0\n620F0000 00000000 00000014\n\n",
@@ -212,5 +222,8 @@
             "content": "{Credit to Arismendy64/Gamerjin/SkyQueen/Rheir}\n20000000",
             "title": "{Credit to Arismendy64/Gamerjin/SkyQueen/Rheir}"
         }
-    ]
+    ],
+    "attribution": {
+        "Nintendo64 nso Zelda by Arismendy64.txt": "Note: Better use NOEXES to avoid game lag"
+    }
 }

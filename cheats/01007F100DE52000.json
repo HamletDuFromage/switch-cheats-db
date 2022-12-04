@@ -12,5 +12,8 @@
             "content": "[Special Move Meter]\n80000001\n580F0000 03CAB7F0\n580F1000 000000B8\n580F1000 00000018\n580F1000 00000018\n780F0000 00000118\n640F0000 00000000 40400000\n20000000\n\n\n\n",
             "title": "[Special Move Meter]"
         }
-    ]
+    ],
+    "attribution": {
+        "Akane by TomSwitch.txt": ""
+    }
 }

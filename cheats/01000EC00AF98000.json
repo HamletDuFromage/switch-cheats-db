@@ -8,5 +8,8 @@
             "content": "[Speed Up]\n580F0000 02F28188\n580F1000 00000098\n580F1000 00000008\n580F1000 00000028\n780F0000 000000C8\n640F0000 00000000 42000000\n780F0000 00000128\n640F0000 00000000 42000000",
             "title": "[Speed Up]"
         }
-    ]
+    ],
+    "attribution": {
+        "Furi ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

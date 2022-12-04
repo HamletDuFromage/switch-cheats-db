@@ -4,5 +4,8 @@
             "content": "[*Inf Hp Jericoss]\n580F0000 04FF0940\n580F1000 00000098\n580F1000 00000010\n580F1000 000100E8\n780F0000 00000004\n640F0000 00000000 404E0000",
             "title": "[*Inf Hp Jericoss]"
         }
-    ]
+    ],
+    "attribution": {
+        "Feral Fury V1.0.0 by jericoss.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

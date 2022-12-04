@@ -12,5 +12,8 @@
             "content": "[ap 999999]\n580F0000 0419DE40\n580F1000 00000088\n580F1000 00000060\n580F1000 00000020\n580F1000 00000068\n780F0000 00000018\n640F0000 00000000 000F423F",
             "title": "[ap 999999]"
         }
-    ]
+    ],
+    "attribution": {
+        "Beast Quest by arismanedy.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
+    }
 }

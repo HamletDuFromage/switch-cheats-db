@@ -68,5 +68,9 @@
             "content": "[1p speed 5x]\n04000000 007B0DB8 1E229000",
             "title": "[1p speed 5x]"
         }
-    ]
+    ],
+    "attribution": {
+        "Windbound ver 1.0.0 by ZiT and DablackDeath.txt": "Invincible is only useful for blows.",
+        "Windbound ver 1.0.3 by xtatu ver 1.04 by arismendy64.txt": "Invincible is only useful for blows."
+    }
 }

@@ -34,5 +34,9 @@
             "content": "[granades]\n580F0000 03ADE238\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000040\n640F0000 00000000 00000002\n",
             "title": "[granades]"
         }
-    ]
+    ],
+    "attribution": {
+        "Outpost Delta ver 1.0.0 by ZiT.txt": "\u203b If you activate the code at the start of the game, it will freeze.",
+        "Outpost Delta ver 1.0.2 by arismendy64.txt": "\u203b If you activate the code at the start of the game, it will freeze."
+    }
 }

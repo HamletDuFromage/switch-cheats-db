@@ -56,5 +56,8 @@
             "content": "[P1 Have Special]\n580F0000 02E48FF0\n780F0000 00000208\n610F0000 00000000 00000001\n",
             "title": "[P1 Have Special]"
         }
-    ]
+    ],
+    "attribution": {
+        "Dungeonoid by TomSwitch.txt": "****If you need HP/AP code for 3rd char, add 8h for 5th line"
+    }
 }

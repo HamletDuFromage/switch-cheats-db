@@ -32,5 +32,8 @@
             "content": "[30x Damage (Not recommended)]\n080E0000 035B9E80 12002EB5 B94002D5\n080E0000 035B9E88 540000A1 710702BF\n080E0000 035B9E90 BD400300 1E27D001\n080E0000 035B9E98 BD000300 1E210800\n080E0000 035B9EA0 D65F03C0 AA0003F5\n040E0000 004B25A8 94C41E36\n\n",
             "title": "[30x Damage (Not recommended)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Darksiders III v1.0.1 (v65536) by Eiffel2018.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"
+    }
 }

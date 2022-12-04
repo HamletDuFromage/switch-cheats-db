@@ -12,5 +12,8 @@
             "content": "[Dpad > money]\n80004000\n580F0000 00B19FF8\n580F1000 00000A20\n580F1000 00000030\n580F1000 00001370\n780F0000 00000004\n640F0000 00000000 42000000\n20000000\n",
             "title": "[Dpad > money]"
         }
-    ]
+    ],
+    "attribution": {
+        "Habroxia ver 1.0.1 by merlin555 and Arismendy64.txt": "Please turn on the code when you can move the character\nSwap your numbers in Health and Energy with floating point ( 461C9000 = 10020 )\n"
+    }
 }

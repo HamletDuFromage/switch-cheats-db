@@ -32,5 +32,8 @@
             "content": "[Change Weapon and Ammo to 99 R+Rstick]\n80200080\n400C0000 00000000 00000158\n610C01F0 00000000 00000001\n400C0000 00000000 00000160\n640C01F0 00000000 00000063\n20000000\n80800080\n400C0000 00000000 00000158\n610C01F0 00000000 00000002\n400C0000 00000000 00000160\n640C01F0 00000000 00000063\n20000000\n80100080\n400C0000 00000000 00000158\n610C01F0 00000000 00000003\n400C0000 00000000 00000160\n640C01F0 00000000 00000063\n20000000\n80400080\n400C0000 00000000 00000158\n610C01F0 00000000 00000004\n400C0000 00000000 00000160\n640C01F0 00000000 00000063\n20000000\n80000020\n400C0000 00000000 00000158\n610C01F0 00000000 00000005\n400C0000 00000000 00000160\n640C01F0 00000000 00000063\n20000000",
             "title": "[Change Weapon and Ammo to 99 R+Rstick]"
         }
-    ]
+    ],
+    "attribution": {
+        "SturmFront \u2013 The Mutant War \u00dcbel Edition rheir.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

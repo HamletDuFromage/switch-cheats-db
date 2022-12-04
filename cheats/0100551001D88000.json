@@ -16,5 +16,8 @@
             "content": "[Inf Hp All ]\n580F0000 03234D30\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000030\n580F1000 00000018\n780F0000 00000048\n640F0000 00000000 461C3C00\n",
             "title": "[Inf Hp All ]"
         }
-    ]
+    ],
+    "attribution": {
+        "Battle Chasers - Nightwar ver 1.0.2 by merlin555 and arismendy64.txt": " Inf Health should be used in conjunction with Inf Armor."
+    }
 }

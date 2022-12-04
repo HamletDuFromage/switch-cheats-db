@@ -44,5 +44,8 @@
             "content": "[Faster Washtime (off)]\n04000000 00C01060 320003E0\n",
             "title": "[Faster Washtime (off)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Overcooked 2 ver 1.0.15 by patjenova.txt": "\u203b If you activate the code at the start of the game, it will freeze."
+    }
 }

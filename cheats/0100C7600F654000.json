@@ -98,5 +98,10 @@
             "content": "[No Reload *wip*]\n04000000 0152E30C 1E2703E1\n04000000 0019A384 1E2703E1\n04000000 001FE05C 1E2703E1",
             "title": "[No Reload *wip*]"
         }
-    ]
+    ],
+    "attribution": {
+        "Juicy Realm by jericoss ver 2.4.0 transalted by felonious.txt": "",
+        "Juicy Realm v2.3.0 and v12.31 by DaBlackDeath.txt": "Turn on the cheat code after the stage starts.",
+        "Juicy Realm ver 2.3.3 by DaBlackDeath.txt": "CC buttle and AP buttle codes will only apply during battle\nthese code are only work with atmosphere,because code include address and value check to avoid crash\nI'm not sure that the check is enough to avoid crash,so it's better to use only field cheat code."
+    }
 }

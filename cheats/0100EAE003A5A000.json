@@ -42,5 +42,8 @@
             "content": "[1P SPEED ATTACK 5X]\n04000000 0004D514 1E229001 ",
             "title": "[1P SPEED ATTACK 5X]"
         }
-    ]
+    ],
+    "attribution": {
+        "Fire Emblem Musou  ver 1.0 by xtatu and ver 1.5.0 by kota7892.txt": "Pressing the A button and using the roll will release invincibility. This is a game specification.\n"
+    }
 }

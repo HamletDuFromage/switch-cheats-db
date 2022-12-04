@@ -24,5 +24,8 @@
             "content": "[Inf Jump]\n580F0000 02B370F0\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000108\n780F0000 00000068\n640F0000 00000000 454CCCCD",
             "title": "[Inf Jump]"
         }
-    ]
+    ],
+    "attribution": {
+        "Towertale by zit.txt": "Not valid for mini games"
+    }
 }

@@ -12,5 +12,8 @@
             "content": "[Moon Jump]\n80000001\n580F0000 02E8B210\n580F1000 00000080\n580F1000 00000020\n580F1000 00000060\n780F0000 00000044\n640F0000 00000000 40100000\n20000000\n",
             "title": "[Moon Jump]"
         }
-    ]
+    ],
+    "attribution": {
+        "Pixel Devil and the Broken Cartridge ver 1.0.0 by ZiT.txt": "\u203b Valid for DATA01 only."
+    }
 }

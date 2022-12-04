@@ -8,5 +8,8 @@
             "content": "[Inf Health]\n580F0000 00E1D740\n580F1000 00000000\n580F1000 00000068\n580F1000 00000010\n580F1000 00000058\n580F1000 00000010\n580F1000 000011F0\n780F0000 00000004\n640F0000 00000000 40180000",
             "title": "[Inf Health]"
         }
-    ]
+    ],
+    "attribution": {
+        "Firework 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

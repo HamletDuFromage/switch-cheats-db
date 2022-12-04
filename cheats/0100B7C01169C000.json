@@ -12,5 +12,8 @@
             "content": "[Max Money]\n580F0000 03C3AE50\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000030\n780F0000 00000014\n640F0000 00000000 05F5E0FF\n",
             "title": "[Max Money]"
         }
-    ]
+    ],
+    "attribution": {
+        "The Coma 2 Vicious Sisters ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

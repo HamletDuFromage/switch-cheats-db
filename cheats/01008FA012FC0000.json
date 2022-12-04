@@ -8,5 +8,8 @@
             "content": "[P2 HP & SP @TomSwitch]\n580F0000 0312DBD8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000060\n580F1000 00000110\n580F1000 00000028\n780F0000 00000124\n640F0000 00000000 000003EB\n780F0000 00000010\n640F0000 00000000 000003EB",
             "title": "[P2 HP & SP @TomSwitch]"
         }
-    ]
+    ],
+    "attribution": {
+        "Crystal Ortha by TomSwitch.txt": "Ammo 255 don't always work. The other two seems to be consistent"
+    }
 }

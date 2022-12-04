@@ -132,5 +132,8 @@
             "content": "[P1 Only (Hold +)]\n80000400\n04100000 03EAC76C 00000001\n20000000",
             "title": "[P1 Only (Hold +)]"
         }
-    ]
+    ],
+    "attribution": {
+        "DRAGON QUEST II by zit.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
+    }
 }

@@ -16,5 +16,8 @@
             "content": "[One Hit Kill (Hold Minus)]\n80000800\n580F0000 02346C58\n580F1000 00000188\n580F1000 000001B8\n580F1000 00000028\n780F0000 00000020\n640F0000 00000000 00000000\n20000000",
             "title": "[One Hit Kill (Hold Minus)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Archlion Saga ver 1.0.0 by ZiT.txt": " Inf Health should be used in conjunction with Inf Armor."
+    }
 }

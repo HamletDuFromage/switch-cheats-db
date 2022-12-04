@@ -50,5 +50,8 @@
             "content": "[invincible after take dmg ZR OFF]\n80000200\n040B0000 0061EF90 BD4AC2C1\n20000000\n",
             "title": "[invincible after take dmg ZR OFF]"
         }
-    ]
+    ],
+    "attribution": {
+        "Bloodstained Curse of the Moon 2 ver 1.0.0 by ZiT ver 1.1.0 translated by felonious.txt": "\u203b Valid for DATA01 only."
+    }
 }

@@ -48,5 +48,8 @@
             "content": "[Max Status (4P)]\n80000800\n580F0000 028419E0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000040\n580F1000 00000020\n580F1000 000000A0\n580F1000 00000038\n780F0000 00000140\n300E0000 00000009\n640F0000 00000000 0000270F\n780F0000 00000004\n310E0000\n20000000",
             "title": "[Max Status (4P)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Legend of the Tetrarchs ver 1.0.0 by ZiT.txt": " Inf Health should be used in conjunction with Inf Armor."
+    }
 }

@@ -20,5 +20,8 @@
             "content": "[Invincible]\n580F0000 01D2E548\n580F1000 00000058\n580F1000 00000018\n580F1000 00000068\n580F1000 000000A8\n780F0000 000000D0\n640F0000 00000000 00000100",
             "title": "[Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "Valfaris & Slain Double Pack ( Slain ) by ZiT.txt": "Please turn on the code when you can move the character\nSwap your numbers in Health and Energy with floating point ( 461C9000 = 10020 )\n"
+    }
 }

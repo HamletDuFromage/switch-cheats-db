@@ -12,5 +12,8 @@
             "content": "[Inf Life & Invincible]\n580F0000 02D789E8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000028\n780F0000 00000018\n640F0000 00000000 00000007",
             "title": "[Inf Life & Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "Super Phantom Cat Remake 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

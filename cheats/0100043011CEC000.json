@@ -8,5 +8,8 @@
             "content": "[Enemy Annihilation (Hold X)]\n011F0000 018AF2AB 00000000\n80000004\n011F0000 018AF2AB 000000FF\n20000000\n",
             "title": "[Enemy Annihilation (Hold X)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Arcade Archives LIGHTNING FIGHTERS 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

@@ -112,5 +112,8 @@
             "content": "[Max SPD (4P)]\n580F0000 022C7190\n580F1000 000008C8\n580F1000 00000C28\n780F0000 00000026\n620F0000 00000000 000003E7",
             "title": "[Max SPD (4P)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Asdivine Hearts II ver 1.0.0 by ZiT.txt": " Inf Health should be used in conjunction with Inf Armor."
+    }
 }

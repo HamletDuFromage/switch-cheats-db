@@ -116,5 +116,10 @@
             "content": "[invicible all Y pad off ]\n04000000 0015DE7C D503201F\n80000008\n04000000 0015DE7C 36000060\n20000000\n",
             "title": "[invicible all Y pad off ]"
         }
-    ]
+    ],
+    "attribution": {
+        "Crash Bandicoot 4 Its About Time ver 1.1 by Jericoss and TomSwitch and Spiderman.txt": "",
+        "Crash Bandicoot 4 Its About Time ver 1.1 by Jericoss and TomSwitch.txt": "[Inf Coins 99999 @Matias3ds]\n04000000 01a77670 0001869F\n\n[Inf Skill Tree @Matias3ds]\n04000000 019c46d8 0001869F\n\n[Inf Gems @Matias3ds]\n04000000 01a71d3c 0001869F",
+        "Crash Bandicoot 4 Its About Time ver 1.2 by Patjenova and xtatu.txt": "[Inf Coins 99999 @Matias3ds]\n04000000 01a77670 0001869F\n\n[Inf Skill Tree @Matias3ds]\n04000000 019c46d8 0001869F\n\n[Inf Gems @Matias3ds]\n04000000 01a71d3c 0001869F"
+    }
 }

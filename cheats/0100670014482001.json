@@ -1,0 +1,15 @@
+{
+    "2B59D6C677258A2A": [
+        {
+            "content": "[60 FPS]\n580F0000 03C8F7F8\n580F1000 00000A40\n580F1000 00000080\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n580F0000 03C8F7F8\n580F1000 00000A40\n580F1000 00000080\n780F0000 00000F14\n640F0000 00000000 00000002\n",
+            "title": "[Default 30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Assassin's Creed Brotherhood.txt": "By Hazerou v1.3\n"
+    }
+}

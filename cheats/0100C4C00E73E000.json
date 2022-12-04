@@ -8,5 +8,8 @@
             "content": "[Freeze Timer 00:00]\n58000000 03F6F628\n58001000 000000B8\n58001000 00000010\n58001000 000000A0\n58001000 00000090\n78000000 00000020\n64000000 00000000 00000000",
             "title": "[Freeze Timer 00:00]"
         }
-    ]
+    ],
+    "attribution": {
+        "Moving Out ver 1.0.2 by Lionheartwolf.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

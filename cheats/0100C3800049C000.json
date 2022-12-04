@@ -1,0 +1,15 @@
+{
+    "9D4C86E6EF74504A": [
+        {
+            "content": "[60 FPS]\n58000000 0214B898\n78000000 0000484C\n64000000 00000000 42700000\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[30 FPS]\n58000000 0214B898\n78000000 0000484C\n64000000 00000000 41F00000",
+            "title": "[30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Monster Hunter XX Nintendo Switch Ver.txt": "By Masagrator\nhandheld_charging_cpu=1224\nhandheld_charging_gpu=768\nhandheld_charging_mem=1600"
+    }
+}

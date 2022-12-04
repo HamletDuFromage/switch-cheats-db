@@ -212,5 +212,9 @@
             "content": "[06# Max Stats]\n580F0000 02349150\n780F0000 00000140\n300E0000 00000004\n680F0000 FFFFFFFF FFFFFFFF\n780F0000 00000D10\n310E0000 20000000\n580F0000 02349150\n780F0000 00000148\n300E0000 00000004\n680F0000 FFFFFFFF FFFFFFFF\n780F0000 00000D10\n310E0000 20000000",
             "title": "[06# Max Stats]"
         }
-    ]
+    ],
+    "attribution": {
+        "Marvel Ultimate Alliance 3  v1.0.0.txt": "",
+        "Marvel Ultimate Alliance 4.0 and 4.0.1 by patjenova and NbAlIvEr100 .txt": ""
+    }
 }

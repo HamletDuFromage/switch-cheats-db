@@ -52,5 +52,18 @@
             "content": "[MAX Item (ZR)]\n04000000 0307580C A902AD0A\n80000200\n04000000 0307580C 940BA9CA\n20000000",
             "title": "[MAX Item (ZR)]"
         }
-    ]
+    ],
+    "AFC57887C8397A84": [
+        {
+            "content": "[30 fps]\n580F0000 052AFF30\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+            "title": "[30 fps]"
+        },
+        {
+            "content": "[60 fps (default)]\n580F0000 052AFF30\n780F0000 00000F14\n640F0000 00000000 00000001\n",
+            "title": "[60 fps (default)]"
+        }
+    ],
+    "attribution": {
+        "Astria Ascending 1.0.132 by Gamerjin.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+    }
 }

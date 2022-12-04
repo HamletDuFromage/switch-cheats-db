@@ -12,5 +12,8 @@
             "content": "[Inf Fugl]\n580F0000 0299E5B8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000090\n780F0000 0000009C\n640F0000 00000000 447A0000",
             "title": "[Inf Fugl]"
         }
-    ]
+    ],
+    "attribution": {
+        "Polandball Can Into Space ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

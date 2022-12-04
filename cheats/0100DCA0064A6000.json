@@ -228,5 +228,8 @@
             "content": "[Heart x99]\n02100000 1975f538 00000063\n02100000 1975f61c 00000063\n02100000 1975f620 00000063\n02100000 22f7d8a0 00000063",
             "title": "[Heart x99]"
         }
-    ]
+    ],
+    "attribution": {
+        "Luigi's Mansion 3 ver 1.0 made by merlin555 and Zit866 ver 1.2.1 by RyuSeisuke1992 ver1.3.1 patjenova ver 1.4.0 by Patjenova.txt": "If the pointer does not work, try the following parts\nCode:\n\n580F0000 0191e530\n580F1000 000006b0\n580F1000 00000cb8\n580F1000 00000010\n\n580F0000 0191e530\n580F1000 00000930\n580F1000 000008b8\n580F1000 00000010\n\n"
+    }
 }

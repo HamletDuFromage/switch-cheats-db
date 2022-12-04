@@ -34,5 +34,9 @@
             "content": "[happy]\n580F0000 03BBD5B0\n580F1000 000000B8\n580F1000 00000070\n580F1000 00000018\n580F1000 00000010\n580F1000 000001D0\n780F0000 00000020\n620F0000 00000000 000001FA",
             "title": "[happy]"
         }
-    ]
+    ],
+    "attribution": {
+        "Yes, Your Grace ver 1.0.0 by jericoss ver 1.0.2 by Tomswitch.txt": "[Add Stamp Cards with minus]\n80000800\n04100000 6DD40796 008B0000\n",
+        "Yes, Your Grace ver 1.0.0 by jericoss.txt": "[Add Stamp Cards with minus]\n80000800\n04100000 6DD40796 008B0000\n"
+    }
 }

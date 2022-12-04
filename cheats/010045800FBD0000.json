@@ -26,5 +26,9 @@
             "content": "[bomb]\n540F0000 0033D8D0\n540F1000 000000A0\n780F0000 0000000C\n640F0000 00000000 00000006\n",
             "title": "[bomb]"
         }
-    ]
+    ],
+    "attribution": {
+        "MushihimeSama 1.0.0 and 1.0.1 by TomSwitch.txt": "note: Infinite Jump can be used after learning double jump\n",
+        "MushihimeSama 1.0.0 by TomSwitch.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

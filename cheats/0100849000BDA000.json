@@ -40,5 +40,8 @@
             "content": "[08# Inf Items]\n04000000 00287998 D503201F",
             "title": "[08# Inf Items]"
         }
-    ]
+    ],
+    "attribution": {
+        "I am Setsuna ver 1.1.0 by Patjenova.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

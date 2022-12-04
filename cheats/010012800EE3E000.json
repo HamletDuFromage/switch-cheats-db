@@ -20,5 +20,8 @@
             "content": "[Bomb 3 Explosion (Hold Right)]\n80004000\n580F0000 00B1C000\n580F1000 00000058\n580F1000 00000010\n580F1000 000005F0\n780F0000 00000014\n640F0000 00000000 00000000\n20000000",
             "title": "[Bomb 3 Explosion (Hold Right)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Tamashii by ZiT866.txt": "Pressing the A button and using the roll will release invincibility. This is a game specification.\n"
+    }
 }

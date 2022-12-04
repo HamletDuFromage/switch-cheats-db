@@ -82,5 +82,8 @@
             "content": "[Fighters Note (Title)]\n02000000 00c9d1da 0000fff0\n04000000 00c9d1dc ffffffff\n02000000 00c9d1e0 000001ff",
             "title": "[Fighters Note (Title)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Cardfight Vanguard EX [JP][v1.0.2] by Momotaro.txt": "WARNING - Enable these when IN-GAME ONLY or will Crash the Full Game"
+    }
 }

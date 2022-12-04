@@ -24,5 +24,8 @@
             "content": "[Infinite Ammo @Spiderman]\n580F0000 03B95B48\n580F1000 00000200\n580F1000 00000018\n580F1000 00000058\n580F1000 00000018\n580F1000 00000020\n780F0000 00000038\n640F0000 00000000 000003E7",
             "title": "[Infinite Ammo @Spiderman]"
         }
-    ]
+    ],
+    "attribution": {
+        "The TakeOver by xtatu and spiderman.txt": "caution\ncan some problems"
+    }
 }

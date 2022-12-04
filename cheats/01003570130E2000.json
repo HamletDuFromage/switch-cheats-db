@@ -16,5 +16,8 @@
             "content": "[Fill memory from first to last with 1..99 1..99 1..18 with this code you can research the memory location for items, this code only works on atmosphere]\n400F0000 00000000 01CB6000\n400A0000 00000000 00000001\n30000000 00000063\nA1AF1300\n780A0000 00000001\n31000000\n400A0000 00000000 00000001\n30000000 00000063\nA1AF1300\n780A0000 00000001\n31000000\n400A0000 00000000 00000001\n30000000 00000012\nA1AF1300\n780A0000 00000001\n31000000",
             "title": "[Fill memory from first to last with 1..99 1..99 1..18 with this code you can research the memory location for items, this code only works on atmosphere]"
         }
-    ]
+    ],
+    "attribution": {
+        "LEGEND OF MANA VER. 1.0.0 by Tomswitch.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

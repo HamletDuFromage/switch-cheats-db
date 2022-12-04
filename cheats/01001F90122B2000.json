@@ -16,5 +16,8 @@
             "content": "[Time 99]\n580F0000 002B0BA0\n580F1000 00000060\n580F1000 00000068\n780F0000 0000020C\n640F0000 00000000 42C80000",
             "title": "[Time 99]"
         }
-    ]
+    ],
+    "attribution": {
+        "Super Punch Patrol 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

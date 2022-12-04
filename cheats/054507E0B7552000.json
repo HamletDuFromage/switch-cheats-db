@@ -422,5 +422,8 @@
             "content": "[12# Disable Race Timer]\n01000000 0188DEA2 0000003F\n",
             "title": "[12# Disable Race Timer]"
         }
-    ]
+    ],
+    "attribution": {
+        "super mario 64 port ver 1.0 by Smoker1 and dsrules .txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
+    }
 }

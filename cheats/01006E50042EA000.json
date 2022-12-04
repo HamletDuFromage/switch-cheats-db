@@ -80,5 +80,8 @@
             "content": "[no one can die - press ZL to kill monster with empty bar]\n04000000 013ED660 52800020\n80000100\n04000000 013ED660 97DB6916\n20000000\n",
             "title": "[no one can die - press ZL to kill monster with empty bar]"
         }
-    ]
+    ],
+    "attribution": {
+        "Earthlock by Patjenova and DablackDeath.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

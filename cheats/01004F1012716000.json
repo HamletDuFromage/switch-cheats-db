@@ -16,5 +16,8 @@
             "content": "[Inf Ammo]\n580F0000 03BDA1D8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000130\n780F0000 0000002C\n640F0000 00000000 00000000",
             "title": "[Inf Ammo]"
         }
-    ]
+    ],
+    "attribution": {
+        "Collapsed ver 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

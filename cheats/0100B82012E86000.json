@@ -1,0 +1,15 @@
+{
+    "F1A8055CBD4AAEDE": [
+        {
+            "content": "[Default 60 FPS]\n580F0000 050A5910\n580F1000 000000B0\n580F1000 00000028\n780F0000 00000F24\n640F0000 00000000 00000001\n\n",
+            "title": "[Default 60 FPS]"
+        },
+        {
+            "content": "[30 FPS]\n580F0000 050A5910\n580F1000 000000B0\n580F1000 00000028\n780F0000 00000F24\n640F0000 00000000 00000002",
+            "title": "[30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Fisti-Fluffs.txt": "By Hazerou"
+    }
+}

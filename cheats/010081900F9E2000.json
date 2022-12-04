@@ -84,5 +84,8 @@
             "content": "[Max SPD (5-6P)]\n580F0000 02DE9110\n580F1000 00000510\n580F1000 000008D8\n580F1000 00000BE0\n780F0000 00000028\n640F0000 00000000 03E703E7",
             "title": "[Max SPD (5-6P)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Wizards of Brandel ver 1.0.0 by ZiT.txt": " Inf Health should be used in conjunction with Inf Armor."
+    }
 }

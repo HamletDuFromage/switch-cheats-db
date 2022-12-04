@@ -24,5 +24,8 @@
             "content": "[Time Stop]\n580F0000 00665418\n580F1000 000001B0\n580F1000 00000198\n580F1000 00000008\n580F1000 00000198\n580F1000 00000070\n780F0000 0000033C\n610F0000 00000000 00000000",
             "title": "[Time Stop]"
         }
-    ]
+    ],
+    "attribution": {
+        "Raging Justice by ZiT.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
+    }
 }

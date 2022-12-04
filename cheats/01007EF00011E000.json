@@ -658,5 +658,8 @@
             "content": "[\u5f53\u524d\u6b66\u5668\u53d8\u6210 \u96f7\u7535\u738b\u51a0]\n580f0000 02ca6d48\n580f1000 000447d8\n780f0000 00000020\n640f0000 00000000 000003e7\n780f0000 0000001C\n640f0000 00000000 6f6d7241\n780f0000 00000004\n640f0000 00000000 31315f72\n780f0000 00000004\n640f0000 00000000 65485f35\n780f0000 00000004\n640f0000 00000000 00006461\n\n\n\n\n\n\n\n\n",
             "title": "[\u5f53\u524d\u6b66\u5668\u53d8\u6210 \u96f7\u7535\u738b\u51a0]"
         }
-    ]
+    ],
+    "attribution": {
+        "Zelda Breath Of The Wild ver 1.6 by Patjenova and Satelman.txt": "Search address 64 unsigned value .\n\n447A000042C80000\n\nThen enter on the only available Address\nMove down 1 line and starting from the left you will see 00 00 80 3f\n\nChange the value to ..................................   00 00 80 bf\n\nTo return to the ground after moonjumping change the address back to 3f"
+    }
 }

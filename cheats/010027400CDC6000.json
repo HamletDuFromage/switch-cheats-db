@@ -73,6 +73,16 @@
             "title": "[Treasure Level = 50]"
         }
     ],
+    "4979B200D53BB282": [
+        {
+            "content": "[60 FPS]\n04000000 04539D24 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n04000000 04539D24 00000002",
+            "title": "[Default 30 FPS]"
+        }
+    ],
     "7D3432C23010C1BD": [
         {
             "content": "[Unlimited Items (on)]\n04000000 0173DD20 2A1F03F4\n",
@@ -270,5 +280,8 @@
             "content": "[Treasure Level = 50]\n04000000 00FCE494 52800658",
             "title": "[Treasure Level = 50]"
         }
-    ]
+    ],
+    "attribution": {
+        "Divinity Original Sin 2 - Update 0 (v1.0.0) By Falo Divinity 2 (1.0.4) and 1.0.8 by c00r3.txt": ""
+    }
 }

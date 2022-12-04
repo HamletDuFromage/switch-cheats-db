@@ -156,5 +156,10 @@
             "content": "[#9 Normal Mode (press Down + double X)]\n80008000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800096\n20000000",
             "title": "[#9 Normal Mode (press Down + double X)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Super Mario 3D All-Star ber 1.1.0 sunshine by patjenova and ver 1.0.0 by Eiffel2018.txt": "Super Mario Allstars\nSuper Mario 3",
+        "Super Mario 3D All-Star ver 1.0.0 and 1.0.1 by Eiffel2018 and korados.txt": "Super Mario Allstars\nSuper Mario 3",
+        "Super Mario 3D All-Star ver 1.0.0 and 1.0.1 by Eiffel2018.txt": "Super Mario Allstars\nSuper Mario 3"
+    }
 }

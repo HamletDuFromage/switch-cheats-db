@@ -20,5 +20,8 @@
             "content": "[Scroll Speed Up (Hold ZR or ZL)]\n580F0000 02564AD0\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000160\n640F0000 00000000 40400000\n80000200\n640F0000 00000000 42000000\n20000000\n80000100\n640F0000 00000000 C2000000\n20000000",
             "title": "[Scroll Speed Up (Hold ZR or ZL)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Akuarium ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

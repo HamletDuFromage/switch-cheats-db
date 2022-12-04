@@ -172,5 +172,8 @@
             "content": "[invincible all player]\n04000000 00763C2C E320F000\n80001000\n04000000 00763C2C DA000002\n20000000\n80002000\n04000000 00763C2C DA000002\n20000000\n80004000\n04000000 00763C2C DA000002\n20000000\n80008000\n04000000 00763C2C DA000002\n20000000\n",
             "title": "[invincible all player]"
         }
-    ]
+    ],
+    "attribution": {
+        "NEWSUPERMARIOBROSU.txt": ""
+    }
 }

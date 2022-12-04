@@ -24,5 +24,8 @@
             "content": "[R set XP to 200]\n80000080\n580F0000 07385F98\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000108\n640F0000 00000000 000000C8\n20000000",
             "title": "[R set XP to 200]"
         }
-    ]
+    ],
+    "attribution": {
+        "Monster Harvest 1.02 by Tomswitch.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"
+    }
 }

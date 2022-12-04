@@ -8,5 +8,8 @@
             "content": "[9 lives]\n580F0000 000E9150\n580F1000 000005F0\n580F1000 00000090\n780F0000 000005A8\n640F0000 00000000 00000009",
             "title": "[9 lives]"
         }
-    ]
+    ],
+    "attribution": {
+        "m.a.c.e tower defence by Arismendy64.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+    }
 }

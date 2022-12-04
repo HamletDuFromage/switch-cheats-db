@@ -12,5 +12,8 @@
             "content": "[Inf Mana]\n580F0000 04A202D0\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000290\n580F1000 00000028\n780F0000 0000003C\n640F0000 00000000 41000000\n780F0000 00000104\n640F0000 00000000 41000000\n",
             "title": "[Inf Mana]"
         }
-    ]
+    ],
+    "attribution": {
+        "Towaga Among Shadows ver 1.0.0 by merlin555 and Zit.txt": " Inf Health should be used in conjunction with Inf Armor."
+    }
 }

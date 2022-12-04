@@ -14,5 +14,8 @@
             "content": "[Inf Money]\n580F0000 001E9A90\n580F1000 00000070\n580F1000 000002E0\n580F1000 00000008\n580F1000 00000000\n580F1000 00000000\n780F0000 000000FC\n640F0000 00000000 000003E7",
             "title": "[Inf Money]"
         }
-    ]
+    ],
+    "attribution": {
+        "The Touryst ver 1.0.0 by ZiT866 ver 1.1 by merlin.txt": "Pressing the A button and using the roll will release invincibility. This is a game specification.\n"
+    }
 }

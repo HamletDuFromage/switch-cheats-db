@@ -12,5 +12,8 @@
             "content": "[2P Walk Through Walls (Hold ZR)]\n80000200\n580F0000 035BCE80\n580F1000 00000090\n580F1000 00000010\n580F1000 00000078\n580F1000 00000068\n780F0000 00000094\n640F0000 00000000 00000000\n20000000",
             "title": "[2P Walk Through Walls (Hold ZR)]"
         }
-    ]
+    ],
+    "attribution": {
+        "REZ PLZ ver 1.0.0 by ZiT and ver 2.0 by merlin555.txt": "\u203b Valid for DATA01 only."
+    }
 }

@@ -40,5 +40,8 @@
             "content": "[Infinite Ammo Reserve]\n58000000 01AFA710\n58001000 00000010\n58001000 00000020\n58001000 00000590\n58001000 00000048\n78000000 0000003C\n64000000 00000000 000003E7\n78000000 00000008\n64000000 00000000 0000003C\n\n ",
             "title": "[Infinite Ammo Reserve]"
         }
-    ]
+    ],
+    "attribution": {
+        "Call of Juarez Gunslinger ver 1.0 by patjenova.txt": "This Code Becomes Effective While The Motorcycle is Jumping."
+    }
 }

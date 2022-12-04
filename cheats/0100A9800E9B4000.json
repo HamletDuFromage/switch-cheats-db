@@ -162,5 +162,8 @@
             "content": "[1 char slot exp]\n40000000 00000000 00000000\n04000000 010EEB40 FFFFFFFF",
             "title": "[1 char slot exp]"
         }
-    ]
+    ],
+    "attribution": {
+        "Disgaea 4 complete ver 1.0.1 by jericos and 1.1.0 by uzimakiuchiha.txt": "CC buttle and AP buttle codes will only apply during battle\nthese code are only work with atmosphere,because code include address and value check to avoid crash\nI'm not sure that the check is enough to avoid crash,so it's better to use only field cheat code."
+    }
 }

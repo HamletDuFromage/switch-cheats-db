@@ -16,5 +16,9 @@
             "content": "[Play as Goldfire Bumblebee]\n580F0000 053EFA48\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000018\n580F1000 000000F8\n580F1000 00000360\n580F1000 00000060\n780F0000 00000108\n640F0000 00000000 00000005",
             "title": "[Play as Goldfire Bumblebee]"
         }
-    ]
+    ],
+    "attribution": {
+        "TRANSFORMERS BATTLEGROUNDS [v65536] by Eiffel2018 and lionheartwolf.txt": "\u203b If you activate the code at the start of the game, it will freeze.",
+        "TRANSFORMERS BATTLEGROUNDS [v65536] by Eiffel2018.txt": "\u203b If you activate the code at the start of the game, it will freeze."
+    }
 }

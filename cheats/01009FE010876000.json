@@ -1,0 +1,15 @@
+{
+    "407978D722447B25": [
+        {
+            "content": "[60 FPS]\n04000000 01D07538 0000003C\n04000000 01D0753C 00000001\n04000000 01D1AFC8 42700000\n04000000 02A7A8D0 00000000\n08000000 00005078 D503201F D503201F\n04000000 00005090 52800021\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[30 FPS]\n04000000 01D07538 0000001E\n04000000 01D0753C 00000002\n04000000 01D1AFC8 41F00000\n04000000 02A7A8D0 00000001\n08000000 00005078 540000E0 6B15001F\n04000000 00005090 2A1503E1",
+            "title": "[30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Persona 5 Scramble the Phantom Strikers (KR).txt": "By masagrator\n\nhttps://gbatemp.net/threads/persona-5-scramble-strikers-60-fps-hack.560111/"
+    }
+}

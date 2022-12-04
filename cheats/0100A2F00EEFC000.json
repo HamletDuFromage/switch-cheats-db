@@ -20,5 +20,8 @@
             "content": "[Aladdin Special Cut]\n58000000 0050D718\n58001000 00000170\n58001000 00001758\n58001000 000000A0\n58001000 000000E8\n78000000 0000F514\n64000000 00000000 00000008 ",
             "title": "[Aladdin Special Cut]"
         }
-    ]
+    ],
+    "attribution": {
+        "Lion King and Aladdin by Wiitendo84.txt": "CC buttle and AP buttle codes will only apply during battle\nthese code are only work with atmosphere,because code include address and value check to avoid crash\nI'm not sure that the check is enough to avoid crash,so it's better to use only field cheat code."
+    }
 }

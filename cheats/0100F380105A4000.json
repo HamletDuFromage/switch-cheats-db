@@ -16,5 +16,8 @@
             "content": "[Select Laser]\n011F0000 79E4A518 00000004\n",
             "title": "[Select Laser]"
         }
-    ]
+    ],
+    "attribution": {
+        "Arcade Archives LIFE FORCE 1.0.0 by ZiT.txt": "Turn on the code when you can move your character"
+    }
 }

@@ -20,5 +20,8 @@
             "content": "[05# 999999 Shillings]\n580F0000 071B58C8\n580F1000 00000030\n580F1000 000000A0\n580F1000 00000078\n780F0000 0000044C\n640F0000 00000000 000F423F",
             "title": "[05# 999999 Shillings]"
         }
-    ]
+    ],
+    "attribution": {
+        "Vampyr ver 1.0.4 by Patjenova.txt": "CC buttle and AP buttle codes will only apply during battle\nthese code are only work with atmosphere,because code include address and value check to avoid crash\nI'm not sure that the check is enough to avoid crash,so it's better to use only field cheat code."
+    }
 }

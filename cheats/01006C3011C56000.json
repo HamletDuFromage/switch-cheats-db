@@ -22,5 +22,9 @@
             "content": "[Inf CHARGE (Hold ZL)]\n80000100\n040F0000 01BF0ED8 0000044C\n040F0000 01BF0EE0 000000FF\n20000000",
             "title": "[Inf CHARGE (Hold ZL)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Armed 7 DX ver 1.0.0 by ZiT.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n",
+        "Feathery Ears ver 1.0.0 by ZiT.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
+    }
 }

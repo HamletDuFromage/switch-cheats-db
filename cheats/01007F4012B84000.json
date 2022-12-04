@@ -12,5 +12,8 @@
             "content": "[Moon Jump]\n80000001\n011F0000 0190A210 000000FC\n20000000\n",
             "title": "[Moon Jump]"
         }
-    ]
+    ],
+    "attribution": {
+        "Arcade Archives CONTRA 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

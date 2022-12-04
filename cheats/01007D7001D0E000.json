@@ -40,5 +40,8 @@
             "content": "[Bombs]\n580F0000 0c5ab918\n580F1000 00000120\n780F0000 00000BB8\n640F0000 00000000 00000063",
             "title": "[Bombs]"
         }
-    ]
+    ],
+    "attribution": {
+        "Oceanhorn ZiT866.txt": ""
+    }
 }

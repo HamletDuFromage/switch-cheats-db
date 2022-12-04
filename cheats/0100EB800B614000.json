@@ -12,5 +12,8 @@
             "content": "[*Inf Hp 4 Dragon]\n580F0000 0340BFF0\n580F1000 00000028\n580F1000 00000020\n780F0000 000000A4\n640F0000 00000000 402C0000",
             "title": "[*Inf Hp 4 Dragon]"
         }
-    ]
+    ],
+    "attribution": {
+        "Freedom Planet ver 1.0.0.txt": "caution\ncan some problems"
+    }
 }

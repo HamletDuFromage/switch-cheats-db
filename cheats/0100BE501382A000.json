@@ -12,5 +12,8 @@
             "content": "[mine]\n04000000 003FDD64 00000064",
             "title": "[mine]"
         }
-    ]
+    ],
+    "attribution": {
+        "Shadow Gangs matias3ds.txt": "Ammo 255 don't always work. The other two seems to be consistent"
+    }
 }

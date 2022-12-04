@@ -16,5 +16,8 @@
             "content": "[base hp some areas?]\n580F0000 019DEFA8\n580F1000 00000058\n580F1000 00000180\n580F1000 00000060\n580F1000 00000000\n580F1000 00000000\n780F0000 000000D8\n640F0000 00000000 45BB8000",
             "title": "[base hp some areas?]"
         }
-    ]
+    ],
+    "attribution": {
+        "x-morph defense by arismendy64.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
+    }
 }

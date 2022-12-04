@@ -8,5 +8,8 @@
             "content": "[Invincible]\n580F0000 05272F78\n580F1000 00000010\n580F1000 00000008\n580F1000 000000D0\n780F0000 00000938\n610F0000 00000000 00000001",
             "title": "[Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "Rhythm of the Gods 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

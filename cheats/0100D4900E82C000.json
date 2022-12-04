@@ -24,5 +24,8 @@
             "content": "[06# Max Bullets (ZL+Down)]\n80008100\n58040000 016F0E80\n58041000 00000010\n58041000 00000278\n78040000 00000478\n64040000 00000000 0000270F\n20000000",
             "title": "[06# Max Bullets (ZL+Down)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Metro 2033 Redux Metro Last Light redux ver 1.0 by patjenova.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
+    }
 }

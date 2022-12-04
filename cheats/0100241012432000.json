@@ -16,5 +16,8 @@
             "content": "[Moon Jump]\n80000002\n580F0000 02EA75C0\n580F1000 000000B8\n580F1000 00000080\n580F1000 000000C8\n780F0000 000000A4\n640F0000 00000000 40F30000\n20000000",
             "title": "[Moon Jump]"
         }
-    ]
+    ],
+    "attribution": {
+        "Sword and Sandals Spartacus ver 1.0.0 by ZiT.txt": "[The code is only valid in combat.]"
+    }
 }

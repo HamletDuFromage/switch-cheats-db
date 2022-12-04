@@ -30,5 +30,8 @@
             "content": "[inf hp]\n580E0000 02E008E8\n580E1000 000000B8\n780E0000 00000004\n610E0000 00000000 00000006",
             "title": "[inf hp]"
         }
-    ]
+    ],
+    "attribution": {
+        "Angry Video Game Nerd 1 by arismendy64 and gamerjin.txt": "the fourth line in the item is this:\n01 - the rubber \"things?\"\n02 - Destruction Powerup (default if you use it as is...)\n03 - WTF?! Powerup\n04 - beer keg\n05 - F bombs(edited)"
+    }
 }

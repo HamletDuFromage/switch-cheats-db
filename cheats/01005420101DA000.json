@@ -60,5 +60,8 @@
             "content": "[auto-detect(AMS)]\n58050000 00B99AB0\n58051000 000004D8\n58051000 000002B8\n58051000 000002F8\n78050000 000003B1\n989C5000\n510C1000 00000000\nC015C400 00000008\n78050000 00000003\n989C5000\n580C1000 00000004\nA4C50000\n78050000 00000008\n989C5000\n580C1000 00000002\nA2C50000\n78050000 00000004\n62050000 00000000 000000C8\n20000000",
             "title": "[auto-detect(AMS)]"
         }
-    ]
+    ],
+    "attribution": {
+        "The Legend oF Heroes Trials of cold Steel 3 VER 1.0.1 by IMnoob.txt": "caution\ncan some problems"
+    }
 }

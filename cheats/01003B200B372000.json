@@ -16,5 +16,8 @@
             "content": "[R pad refill gun ammo]\n80004000\n580F0000 01F615F0\n580F1000 000001C0\n580F1000 00000180\n580F1000 00000058\n580F1000 00000010\n580F1000 00001ED0\n780F0000 00000004\n640F0000 00000000 40590000\n20000000",
             "title": "[R pad refill gun ammo]"
         }
-    ]
+    ],
+    "attribution": {
+        "Hyper Ligth Drifter Special Edition ver 1.0.0 by arismendy64.txt": "Not valid for mini games"
+    }
 }

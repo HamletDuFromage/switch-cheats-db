@@ -780,5 +780,8 @@
             "content": "[TOUMA RESISTANCE]\n041B0000 794A36F4 00070007\n041B0000 794A36F8 00070007\n041B0000 794A36FC 00070007\n041B0000 794A3700 00070007\n041B0000 794A3704 00070007\n\nso, credit to dsrules for the original location\n0007 = null\n0008 = repel",
             "title": "[TOUMA RESISTANCE]"
         }
-    ]
+    ],
+    "attribution": {
+        "Tokyo Mirage Sessions #FE Encore (Asia) 91wii shrede by skettle.txt": "Items 20X deactivate after episode 5 starts and activate Items 0x to avoid crashing story mode ."
+    }
 }

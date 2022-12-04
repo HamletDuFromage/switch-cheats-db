@@ -8,5 +8,8 @@
             "content": "[Invincible (Hold B)]\n80000002\n011F0000 BF6B2767 000000FF\n20000000\n\n",
             "title": "[Invincible (Hold B)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Arcade Archives EARTH DEFENSE FORCE 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

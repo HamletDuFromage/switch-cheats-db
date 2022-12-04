@@ -20,5 +20,8 @@
             "content": "[Inf P]   \n580F0000 01158E28\n780F0000 00000122\n640F0000 00000000 0000FFFF",
             "title": "[Inf P]"
         }
-    ]
+    ],
+    "attribution": {
+        "Fushigi no Gensokyo Lotus Labyrinth by ZiT.txt": "Please turn on the code when you can move the character\nSwap your numbers in Health and Energy with floating point ( 461C9000 = 10020 )\n"
+    }
 }

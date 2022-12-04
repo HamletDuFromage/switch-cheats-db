@@ -24,5 +24,8 @@
             "content": "[06# P2 instant dead (press R stick)]\n80800000\n580F0000 02438FB8\n580F1000 00000098\n580F1000 00000008\n780F0000 00000038\n640F0000 00000000 00000000\n580F0000 02438FB8\n580F1000 00000098\n580F1000 00000010\n580F1000 00000000\n780F0000 00000038\n640F0000 00000000 00000000\n580F0000 02438FB8\n580F1000 00000090\n780F0000 00000038\n640F0000 00000000 00000000\n20000000\n",
             "title": "[06# P2 instant dead (press R stick)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Naruto Shippuden Ultimate Ninja Storm 4 Road To Boruto ver 1.1 by Patjenova.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

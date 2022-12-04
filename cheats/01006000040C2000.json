@@ -26,5 +26,8 @@
             "content": "[Invincible Off]\n040F0000 004F4574 D10203FF",
             "title": "[Invincible Off]"
         }
-    ]
+    ],
+    "attribution": {
+        "Yoshi's Crafted World V 1.0.1 by Artyriaboy.txt": "[From MAX-CHEATS.com by BlackDeath for Yoshis Crafted World]\n\n[finish Level with 999 coins - on]\n04000000 001DF980 52807CE8\n\n[finish Level with 999 coins - off]\n04000000 001DF980 B9443C08\n\n[Invincible On]\n040F0000 004F4574 D65F03C0\n\n[Invincible Off]\n040F0000 004F4574 D10203FF"
+    }
 }

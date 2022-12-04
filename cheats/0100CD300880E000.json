@@ -76,5 +76,8 @@
             "content": "[Ball 1 8BallDel BALLY]\n01000000 155CD3DB 00000000",
             "title": "[Ball 1 8BallDel BALLY]"
         }
-    ]
+    ],
+    "attribution": {
+        "The Pinball Arcade ver 1.0.3 by Smoker1.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
+    }
 }

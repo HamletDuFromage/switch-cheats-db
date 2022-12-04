@@ -20,5 +20,8 @@
             "content": "[Inf Spark]\n580F0000 00558788\n580F1000 00000130\n580F1000 000004D0\n580F1000 00000278\n780F0000 0000000C\n640F0000 00000000 405E0000",
             "title": "[Inf Spark]"
         }
-    ]
+    ],
+    "attribution": {
+        "Slayin 2 ver 1.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

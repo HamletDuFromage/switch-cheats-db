@@ -68,5 +68,8 @@
             "content": "[No Level Restriction OFF]\n040A0000 016EB998 6B13029F\n",
             "title": "[No Level Restriction OFF]"
         }
-    ]
+    ],
+    "attribution": {
+        "Shin Megami Tensei III Nocturne HD Remaster ver 1.01 by Jericoss and patjenova.txt": "NOTE:\nIf stats become unusable, set to lower number (tested with these a little and seemd fine. Dont exceed too hard or you might get 1 shot etc).\nStat changes will be made when you teleport in/out or level up."
+    }
 }

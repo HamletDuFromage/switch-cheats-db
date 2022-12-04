@@ -16,5 +16,8 @@
             "content": "[Speed Up]\n580F0000 02D64648\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000048\n580F1000 00000020\n580F1000 00000388\n580F1000 00000028\n780F0000 00000018\n640F0000 00000000 44800000\n780F0000 00000008\n640F0000 00000000 43C80000",
             "title": "[Speed Up]"
         }
-    ]
+    ],
+    "attribution": {
+        "Dex ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
 }

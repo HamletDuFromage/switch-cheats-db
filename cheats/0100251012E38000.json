@@ -4,5 +4,8 @@
             "content": "[Moon Jump]\n80000001\n580F0000 043DA070\n580F1000 00000010\n580F1000 000000E0\n580F1000 000000F8\n580F1000 00000020\n580F1000 00000010\n580F1000 00000078\n780F0000 00000044\n640F0000 00000000 41A80000\n20000000\n",
             "title": "[Moon Jump]"
         }
-    ]
+    ],
+    "attribution": {
+        "Journey of the Broken Circle 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

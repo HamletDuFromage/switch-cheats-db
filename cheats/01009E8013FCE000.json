@@ -12,5 +12,8 @@
             "content": "[*Exp 88888]\n580F0000 03EA8B10\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000040\n780F0000 0000004C\n640F0000 00000000 00015B38",
             "title": "[*Exp 88888]"
         }
-    ]
+    ],
+    "attribution": {
+        "Dwarf Journey ver 1.11 by jericoss.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

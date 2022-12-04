@@ -20,5 +20,8 @@
             "content": "[Max Money]\n580F0000 00BDEFD0\n780F0000 000000C8\n640F0000 00000000 000F423F",
             "title": "[Max Money]"
         }
-    ]
+    ],
+    "attribution": {
+        "Fushigi no Gensoukyou TOD -RELOADED- by ZiT.txt": "Please turn on the code when you can move the character\nSwap your numbers in Health and Energy with floating point ( 461C9000 = 10020 )\n"
+    }
 }

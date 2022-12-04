@@ -20,5 +20,8 @@
             "content": "[*Inf Weapon 2]\n580F0000 01DDB5F8\n580F1000 00000098\n580F1000 00000008\n580F1000 00000040\n580F1000 00000360\n580F1000 00000040\n780F0000 00000028\n640F0000 00000000 FFFFFFFF",
             "title": "[*Inf Weapon 2]"
         }
-    ]
+    ],
+    "attribution": {
+        "The Mummy Demastered ver 1.0.2 by Jericoos.txt": "After the 8th person, please add +08 to the following code\n580F1000 00000058"
+    }
 }

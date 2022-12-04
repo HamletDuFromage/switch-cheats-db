@@ -130,5 +130,8 @@
             "content": "[Drink SPD]\n580F0000 00EEFC20\n580F1000 00000008\n780F0000 000021E8\n680F0000 0DE0B6B3A763FFFF",
             "title": "[Drink SPD]"
         }
-    ]
+    ],
+    "attribution": {
+        "Disgaea6 1.05(JPN) by Takumi4685.txt": "[Inf Coins 99999 @Matias3ds]\n04000000 01a77670 0001869F\n\n[Inf Skill Tree @Matias3ds]\n04000000 019c46d8 0001869F\n\n[Inf Gems @Matias3ds]\n04000000 01a71d3c 0001869F"
+    }
 }

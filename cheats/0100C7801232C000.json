@@ -96,5 +96,8 @@
             "content": "[Max SPD (4P)]\n580F0000 02355370\n580F1000 000000B8\n580F1000 00000078\n580F1000 00000608\n580F1000 00000DF0\n780F0000 00000026\n620F0000 00000000 000003E7",
             "title": "[Max SPD (4P)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Alphadia Genesis ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
 }

@@ -28,5 +28,8 @@
             "content": "[Invincible]\n580F0000 02d01758\n780F0000 00005354\n640F0000 00000000 42C80000",
             "title": "[Invincible]"
         }
-    ]
+    ],
+    "attribution": {
+        "Croc's World 3 by ZiT866.txt": "CC buttle and AP buttle codes will only apply during battle\nthese code are only work with atmosphere,because code include address and value check to avoid crash\nI'm not sure that the check is enough to avoid crash,so it's better to use only field cheat code."
+    }
 }

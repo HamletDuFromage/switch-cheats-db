@@ -24,5 +24,8 @@
             "content": "[Inf Power]\n580F0000 02718380\n580F1000 000000A0\n580F1000 00000040\n580F1000 00000048\n580F1000 000000C0\n780F0000 00000108\n640F0000 00000000 42C80000\n780F0000 00000008\n640F0000 00000000 42CC0000\n\n",
             "title": "[Inf Power]"
         }
-    ]
+    ],
+    "attribution": {
+        "Dandara ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

@@ -56,5 +56,8 @@
             "content": "[sfiii3 CPU alwys Stun]\n580f0000 0066c420\n580f1000 00024208\n580f1000 00000050\n580f1000 00013df0\n580f1000 00000c00\n780f0000 00069611\n610f0000 00000000 00000060\n\n",
             "title": "[sfiii3 CPU alwys Stun]"
         }
-    ]
+    ],
+    "attribution": {
+        "Street Fighter 30th Anniversary Collection ver 1.0.3 by Smoker1.txt": "WARNING - Enable these when IN-GAME ONLY or will Crash the Full Game"
+    }
 }

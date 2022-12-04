@@ -36,5 +36,8 @@
             "content": "[Speed Up]\n580F0000 009850D0\n580F1000 00000050\n580F1000 00000200\n780F0000 0000007C\n640F0000 00000000 41900000",
             "title": "[Speed Up]"
         }
-    ]
+    ],
+    "attribution": {
+        "Shantae and the Seven Sirens 1.0.0 by ZiT.txt": "The order of the codes should be the same as above.\nOtherwise, the code won't work on SXOS."
+    }
 }

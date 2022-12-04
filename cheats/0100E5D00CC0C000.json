@@ -8,5 +8,8 @@
             "content": "[*Moon Jum 2 Both\\Red]\n80000002\n580F0000 00DB5070\n580F1000 00000000\n580F1000 00000030\n580F1000 00000020\n580F1000 00000510\n780F0000 00000074\n640F0000 00000000 40400000\n20000000",
             "title": "[*Moon Jum 2 Both\\Red]"
         }
-    ]
+    ],
+    "attribution": {
+        "Unravel Two by jericoos.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

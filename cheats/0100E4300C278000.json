@@ -16,5 +16,8 @@
             "content": "[Max Money]\n580F0000 0303FBB0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000078\n780F0000 00000198\n640F0000 00000000 000F4240",
             "title": "[Max Money]"
         }
-    ]
+    ],
+    "attribution": {
+        "Hell is Other Demons ver 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

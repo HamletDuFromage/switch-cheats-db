@@ -1,0 +1,15 @@
+{
+    "C08E8542DE755D42": [
+        {
+            "content": "[60 FPS]\n580F0000 0473A9A0\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[30 FPS]\n580F0000 0473A9A0\n780F0000 00000F14\n640F0000 00000000 00000002",
+            "title": "[30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Dawn of the Monsters.txt": "By Hazerou"
+    }
+}

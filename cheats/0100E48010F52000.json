@@ -36,5 +36,8 @@
             "content": "[ROUND 1 (Hold -)]\n80000800\n580F0000 00D10040\n780F0000 0000002A\n610F0000 00000000 00000000\n20000000",
             "title": "[ROUND 1 (Hold -)]"
         }
-    ]
+    ],
+    "attribution": {
+        "Gnosia ver 1.0.0 by ZiT.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
+    }
 }

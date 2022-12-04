@@ -12,5 +12,8 @@
             "content": "[Save Anywhere]\n580F0000 01050A88\n780F0000 00000014\n640F0000 00000000 00000001",
             "title": "[Save Anywhere]"
         }
-    ]
+    ],
+    "attribution": {
+        "Tales of Vesperia Definitive Edition ver 1.02 Kai Thief B and Zit .txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

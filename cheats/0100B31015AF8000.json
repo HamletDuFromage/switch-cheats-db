@@ -12,5 +12,8 @@
             "content": "[999999 upgrade points]\n580F0000 03FF86A0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n580F1000 00000120\n780F0000 00000024\n640F0000 00000000 000F423F",
             "title": "[999999 upgrade points]"
         }
-    ]
+    ],
+    "attribution": {
+        "Death\u2019s Door ver 1.1.5b by Arismendy64.txt": "Note: Better use NOEXES to avoid game lag"
+    }
 }

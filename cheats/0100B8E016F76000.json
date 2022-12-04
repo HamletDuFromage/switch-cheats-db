@@ -76,5 +76,6 @@
             "content": "[#17. (Spare) Player HP does not decrease]\n580F0000 0139C2E5\n510F1000 00000000\n916FF100 00000080\nA1F00400 0139C2E5\n\n",
             "title": "[#17. (Spare) Player HP does not decrease]"
         }
-    ]
+    ],
+    "attribution": {}
 }

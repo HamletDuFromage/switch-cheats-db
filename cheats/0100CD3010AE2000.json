@@ -1,0 +1,19 @@
+{
+    "9E1A51ECC69BB047": [
+        {
+            "content": "[60 FPS]\n04000000 03431058 0000003C\n\n",
+            "title": "[60 FPS]"
+        },
+        {
+            "content": "[45 FPS]\n04000000 03431058 0000002D\n\n",
+            "title": "[45 FPS]"
+        },
+        {
+            "content": "[Default 30 FPS]\n04000000 03431058 0000001E",
+            "title": "[Default 30 FPS]"
+        }
+    ],
+    "attribution": {
+        "Crysis 3 Remastered.txt": "By Hazerou\n\nFPS Cap is limited to 45."
+    }
+}

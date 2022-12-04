@@ -24,5 +24,8 @@
             "content": "[06# CPU No Plusultra]\n80000100\n580F0000 06AA3F60\n580F1000 00000DE8\n580F1000 00000020\n580F1000 00000C10\n580F1000 00000100\n780F0000 00000324\n640F0000 00000000 00000000\n20000000",
             "title": "[06# CPU No Plusultra]"
         }
-    ]
+    ],
+    "attribution": {
+        "MY HERO ONE'S JUSTICE 2 ver 1.0.1 by patjenova.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
+    }
 }

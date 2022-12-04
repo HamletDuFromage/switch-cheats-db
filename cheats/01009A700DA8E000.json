@@ -12,5 +12,8 @@
             "content": "[Inf Items]\n580F0000 024A1B38\n580F1000 000000B8\n580F1000 00000598\n580F1000 00000200\n780F0000 00000550\n300E0000 00000029\n640F0000 00000000 00000063\n780F0000 00000004\n310E0000\n20000000",
             "title": "[Inf Items]"
         }
-    ]
+    ],
+    "attribution": {
+        "Oh!Edo Towns ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

@@ -92,5 +92,8 @@
             "content": "[P2 Full Special Bar]\n02000000 000cf3c2 00007FFF",
             "title": "[P2 Full Special Bar]"
         }
-    ]
+    ],
+    "attribution": {
+        "Strikers 1945 II ver 1.0.3 by smoker 1.txt": "[From MAX-CHEATS.com by optantic for STRIKERS1945II for Nintendo Switch 1.0.1]\n\n[P1 Infinite Lives]\n01000000 000cf2d0 00000009\n\n[P1 Infinite Bombs]\n01000000 000cf242 00000009\n\n[P1 Max Power]\n02000000 000cf2f5 00000404\n\n[P1 Full Special Bar]\n02000000 000cf326 00007FFF\n\n[P2 Infinite Lives]\n01000000 000cf36c 00000009\n\n[P2 Infinite Bombs]\n01000000 000cf36e 00000009\n\n[P2 Max Power]\n02000000 000cf391 00000404\n\n[P2 Full Special Bar]\n02000000 000cf3c2 00007FFF"
+    }
 }

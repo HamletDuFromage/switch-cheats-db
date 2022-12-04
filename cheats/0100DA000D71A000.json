@@ -12,5 +12,8 @@
             "content": "[Quick Ninja Power]\n580F0000 00B1BFF8\n580F1000 00000058\n580F1000 00000010\n580F1000 000006A0\n780F0000 00000014\n640F0000 00000000 00000000",
             "title": "[Quick Ninja Power]"
         }
-    ]
+    ],
+    "attribution": {
+        "Straimium Immortaly by ZiT866.txt": "Pressing the A button and using the roll will release invincibility. This is a game specification.\n"
+    }
 }

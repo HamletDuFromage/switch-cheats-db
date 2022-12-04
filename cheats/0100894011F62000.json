@@ -8,5 +8,8 @@
             "content": "[Inf SP]\n580F0000 035FF0A8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000218\n580F1000 00000010\n780F0000 00000024\n640F0000 00000000 00000064\n580F0000 035FAF18\n580F1000 00000098\n580F1000 000001E8\n580F1000 00000018\n780F0000 000001A0\n640F0000 00000000 3F800000",
             "title": "[Inf SP]"
         }
-    ]
+    ],
+    "attribution": {
+        "Kwaidan Azuma manor story ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
 }
