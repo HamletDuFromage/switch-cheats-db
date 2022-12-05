@@ -1,13 +1,13 @@
 {
-    "B51ED813DDD61748": {
-        "[Inf Ammo]": "[Inf Ammo]\n04000000 0036F9E8 4B1F02A1\n\n",
-        "[Inf Health]": "[Inf Health]\n04000000 0036B740 BD42CC00\n\n"
-    },
     "7DCD7A8BB4D3DE46": {
         "[Inf Ammo]": "[Inf Ammo]\n04000000 020CABB0 4B1F02C1\n\n",
         "[Inf Health]": "[Inf Health]\n04000000 020C6750 BD42FC00\n\n",
         "[all Wiki Items Unlocked]": "[all Wiki Items Unlocked]\n04000000 00087760 52800020\n\n",
         "[Upgrade Points x99]": "[Upgrade Points x99]\n04000000 020C6E90 52800C60\n\n"
+    },
+    "B51ED813DDD61748": {
+        "[Inf Ammo]": "[Inf Ammo]\n04000000 0036F9E8 4B1F02A1\n\n",
+        "[Inf Health]": "[Inf Health]\n04000000 0036B740 BD42CC00\n\n"
     },
     "attribution": {
         "BDSM Big Drunk Satanic Massacre v1.0 by DaBlackDeath.txt": "",

@@ -1,8 +1,4 @@
 {
-    "22FEBB6E53E35455": {
-        "[60 FPS]": "[60 FPS]\n580F0000 05270198\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 05270198\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
-    },
     "8CD5ADBF3BBF1D5D": {
         "[Custom Charater Maxout Attributes]": "[Custom Charater Maxout Attributes]\n040E0000 02E607F0 528000A0\n\n",
         "[100% Success in Chance Dialog]": "[100% Success in Chance Dialog]\n080E0000 01771070 D65F03C0 52800020\n080E0000 01A99110 D65F03C0 52800020\n\n",
@@ -10,6 +6,10 @@
         "[No Damage to Volition (Morale)]": "[No Damage to Volition (Morale)]\n040E0000 019D7950 D65F03C0\n\n",
         "[Pass all White Check]": "[Pass all White Check]\n040E0000 0170E59C 52800020\n\n",
         "[Created by Eiffel2018]": "[Created by Eiffel2018]\n20000000\n\n"
+    },
+    "22FEBB6E53E35455": {
+        "[60 FPS]": "[60 FPS]\n580F0000 05270198\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 05270198\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "724B2516EE06DB35": {
         "[60 FPS]": "[60 FPS]\n580F0000 05279E98\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",

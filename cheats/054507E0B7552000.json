@@ -1,39 +1,27 @@
 {
-    "5C0CBFEFDA841930": {
-        "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 01501C2C 42800000\n20000000\n\n",
-        "[Inf Health]": "[Inf Health]\n04000000 01501CC8 08800400\n\n",
-        "[100 Lives]": "[100 Lives]\n04000000 01501CC6 6300005A\n\n",
-        "[Inf Hat Time]": "[Inf Hat Time]\n02000000 01501CD2 00007000\n\n",
-        "[Hat Fly-Inv-Met]": "[Hat Fly-Inv-Met]\n02000000 01501BE4 0000011E\n\n",
-        "[Hat Fly-Inv]": "[Hat Fly-Inv]\n02000000 01501BE4 0000011A\n\n",
-        "[Hat Normal]": "[Hat Normal]\n02000000 01501BE4 00000111\n\n"
+    "D326058041B7F4DC": {
+        "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 014B8C7C 42800000\n20000000\n\n",
+        "[Inf Health]": "[Inf Health]\n01000000 014B8D1B 00000008\n\n",
+        "[Inf Lives]": "[Inf Lives]\n01000000 014B8D19 00000064\n\n",
+        "[99 Coins]": "[99 Coins]\n01000000 014B8D14 00000063\n\n",
+        "[Inf Hat Time]": "[Inf Hat Time]\n02000000 014B8D22 00007000\n\n",
+        "[No Fall Damage]": "[No Fall Damage]\n02000000 014B8D2A 0000FFFF\n\n",
+        "[No Hits]": "[No Hits]\n02000000 014B8C56 0000FFFF\n\n",
+        "[Hat Fly-Inv-Met]": "[Hat Fly-Inv-Met]\n02000000 014B8C34 0000011E\n\n",
+        "[Hat Fly-Inv]": "[Hat Fly-Inv]\n02000000 014B8C34 0000011A\n\n",
+        "[Normal Hat]": "[Normal Hat]\n02000000 014B8C34 00000111\n\n"
     },
-    "4A7114C9560237CB": {
-        "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 0182AC94 42800000\n20000000\n\n",
-        "[02# Hold A Speed x2]": "[02# Hold A Speed x2]\n80000001\n04000000 0182AC9C 44000000\n20000000\n\n",
-        "[03# Max health]": "[03# Max health]\n01000000 0182AD33 00000008\n\n",
-        "[04# Max Lifes]": "[04# Max Lifes]\n01000000 0182AD31 00000064\n\n",
-        "[05# 99 Coins]": "[05# 99 Coins]\n01000000 0182AD2C 00000063\n\n",
-        "[Infinite Hat Usage]": "[Infinite Hat Usage]\n02000000 0182AD3A 00000700\n\n",
-        "[Inv-Met-Fly Mario]": "[Inv-Met-Fly Mario]\n02000000 0182AC4C 0000011E\n\n",
-        "[Inv-Fly Mario]": "[Inv-Fly Mario]\n02000000 0182AC4C 0000011A\n\n",
-        "[Normal Mario]": "[Normal Mario]\n02000000 0182AC4C 00000111\n\n",
-        "[Normal Mario (Press UP)]": "[Normal Mario (Press UP)]\n80002000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000111\n20000000\n\n",
-        "[Wing Cap (Press Left)]": "[Wing Cap (Press Left)]\n80001000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000119\n20000000\n\n",
-        "[Metal Cap (Press Down)]": "[Metal Cap (Press Down)]\n80008000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000115\n20000000\n\n",
-        "[Invisible Cap (Press Right)]": "[Invisible Cap (Press Right)]\n80004000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000113\n20000000\n\n",
-        "[Inv-Fly-Metal Cap (Press R-Stick)]": "[Inv-Fly-Metal Cap (Press R-Stick)]\n80000020\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 0000011E\n20000000\n\n",
-        "[B Moonjump V3 dsrules]": "[B Moonjump V3 dsrules]\n80000002\n581f0000 081ca500\n780f0000 00066444\n640f0000 00000000 42800000\n20000000\n\n",
-        "[Hold A Speed x2 V3]": "[Hold A Speed x2 V3]\n581f0000 081ca500\n780f0000 0006644C\n640f0000 00000000 44000000\n\n",
-        "[Infinite HP V3 dsrules]": "[Infinite HP V3 dsrules]\n581f0000 081ca500\n780f0000 000664e3\n610f0000 00000000 00000008\n\n",
-        "[Infinite Lives V3 dsrules]": "[Infinite Lives V3 dsrules]\n581f0000 081ca500\n780f0000 000664e1\n610f0000 00000000 00000009\n\n",
-        "[No Fall Damage V3]": "[No Fall Damage V3]\n581f0000 081ca500\n780f0000 000664F2\n620f0000 00000000 0000FFFF\n\n",
-        "[No Hit Damage V3]": "[No Hit Damage V3]\n581f0000 081ca500\n780f0000 0006641E\n620f0000 00000000 0000FFFF\n\n",
-        "[Inf Hat Time V3]": "[Inf Hat Time V3]\n581f0000 081ca500\n780f0000 000664EA\n620f0000 00000000 00007000\n\n",
-        "[Inv-Met-Fly Hat V3]": "[Inv-Met-Fly Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 0000011E\n\n",
-        "[Inv-Fly Hat V3]": "[Inv-Fly Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 0000011A\n\n",
-        "[Normal Hat V3]": "[Normal Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 00000111\n\n",
-        "[Disable Race Time V3]": "[Disable Race Time V3]\n581f0000 081ca500\n780f0000 00066532\n620f0000 00000000 0000003F\n\n"
+    "B5E8BF1FE6465E7E": {
+        "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 0110A90C 42200000\n20000000\n\n",
+        "[Inf Health]": "[Inf Health]\n01000000 0110A9AB 00000008\n\n",
+        "[Inf Lives]": "[Inf Lives]\n01000000 0110A9A9 00000064\n\n",
+        "[No Hits]": "[No Hits]\n02000000 0110A8E6 0000FFFF\n\n",
+        "[No Fall Damage]": "[No Fall Damage]\n02000000 0110A9BB 0000FFFF\n\n",
+        "[Inf Hat Time]": "[Inf Hat Time]\n02000000 0110A9B4 00007000\n\n",
+        "[FlyInvMet Hat]": "[FlyInvMet Hat]\n02000000 0110A8C4 0000011E\n\n",
+        "[FlyInv Hat]": "[FlyInv Hat]\n02000000 0110A8C4 0000011A\n\n",
+        "[Normal Hat]": "[Normal Hat]\n02000000 0110A8C4 00000111\n\n",
+        "[99 Coins]": "[99 Coins]\n01000000 0110A9A4 00000063\n\n"
     },
     "0000000000000000": {
         "[B Moonjump]": "[B Moonjump]\n80000002\n581f0000 00019f00\n780f0000 0000806c\n640f0000 00000000 42800000\n20000000\n\n",
@@ -76,17 +64,41 @@
         "[Hat Fly-Inv v6]": "[Hat Fly-Inv v6]\n581f0000 0005d9a8\n780f0000 00009dc4\n620f0000 00000000 0000011A\n\n",
         "[Normal Hat v6]": "[Normal Hat v6]\n581f0000 0005d9a8\n780f0000 00009dc4\n620f0000 00000000 00000111\n\n"
     },
-    "D326058041B7F4DC": {
-        "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 014B8C7C 42800000\n20000000\n\n",
-        "[Inf Health]": "[Inf Health]\n01000000 014B8D1B 00000008\n\n",
-        "[Inf Lives]": "[Inf Lives]\n01000000 014B8D19 00000064\n\n",
-        "[99 Coins]": "[99 Coins]\n01000000 014B8D14 00000063\n\n",
-        "[Inf Hat Time]": "[Inf Hat Time]\n02000000 014B8D22 00007000\n\n",
-        "[No Fall Damage]": "[No Fall Damage]\n02000000 014B8D2A 0000FFFF\n\n",
-        "[No Hits]": "[No Hits]\n02000000 014B8C56 0000FFFF\n\n",
-        "[Hat Fly-Inv-Met]": "[Hat Fly-Inv-Met]\n02000000 014B8C34 0000011E\n\n",
-        "[Hat Fly-Inv]": "[Hat Fly-Inv]\n02000000 014B8C34 0000011A\n\n",
-        "[Normal Hat]": "[Normal Hat]\n02000000 014B8C34 00000111\n\n"
+    "5C0CBFEFDA841930": {
+        "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 01501C2C 42800000\n20000000\n\n",
+        "[Inf Health]": "[Inf Health]\n04000000 01501CC8 08800400\n\n",
+        "[100 Lives]": "[100 Lives]\n04000000 01501CC6 6300005A\n\n",
+        "[Inf Hat Time]": "[Inf Hat Time]\n02000000 01501CD2 00007000\n\n",
+        "[Hat Fly-Inv-Met]": "[Hat Fly-Inv-Met]\n02000000 01501BE4 0000011E\n\n",
+        "[Hat Fly-Inv]": "[Hat Fly-Inv]\n02000000 01501BE4 0000011A\n\n",
+        "[Hat Normal]": "[Hat Normal]\n02000000 01501BE4 00000111\n\n"
+    },
+    "4A7114C9560237CB": {
+        "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 0182AC94 42800000\n20000000\n\n",
+        "[02# Hold A Speed x2]": "[02# Hold A Speed x2]\n80000001\n04000000 0182AC9C 44000000\n20000000\n\n",
+        "[03# Max health]": "[03# Max health]\n01000000 0182AD33 00000008\n\n",
+        "[04# Max Lifes]": "[04# Max Lifes]\n01000000 0182AD31 00000064\n\n",
+        "[05# 99 Coins]": "[05# 99 Coins]\n01000000 0182AD2C 00000063\n\n",
+        "[Infinite Hat Usage]": "[Infinite Hat Usage]\n02000000 0182AD3A 00000700\n\n",
+        "[Inv-Met-Fly Mario]": "[Inv-Met-Fly Mario]\n02000000 0182AC4C 0000011E\n\n",
+        "[Inv-Fly Mario]": "[Inv-Fly Mario]\n02000000 0182AC4C 0000011A\n\n",
+        "[Normal Mario]": "[Normal Mario]\n02000000 0182AC4C 00000111\n\n",
+        "[Normal Mario (Press UP)]": "[Normal Mario (Press UP)]\n80002000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000111\n20000000\n\n",
+        "[Wing Cap (Press Left)]": "[Wing Cap (Press Left)]\n80001000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000119\n20000000\n\n",
+        "[Metal Cap (Press Down)]": "[Metal Cap (Press Down)]\n80008000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000115\n20000000\n\n",
+        "[Invisible Cap (Press Right)]": "[Invisible Cap (Press Right)]\n80004000\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 00000113\n20000000\n\n",
+        "[Inv-Fly-Metal Cap (Press R-Stick)]": "[Inv-Fly-Metal Cap (Press R-Stick)]\n80000020\n581F0000 00019F00\n780F0000 00008024\n620F0000 00000000 0000011E\n20000000\n\n",
+        "[B Moonjump V3 dsrules]": "[B Moonjump V3 dsrules]\n80000002\n581f0000 081ca500\n780f0000 00066444\n640f0000 00000000 42800000\n20000000\n\n",
+        "[Hold A Speed x2 V3]": "[Hold A Speed x2 V3]\n581f0000 081ca500\n780f0000 0006644C\n640f0000 00000000 44000000\n\n",
+        "[Infinite HP V3 dsrules]": "[Infinite HP V3 dsrules]\n581f0000 081ca500\n780f0000 000664e3\n610f0000 00000000 00000008\n\n",
+        "[Infinite Lives V3 dsrules]": "[Infinite Lives V3 dsrules]\n581f0000 081ca500\n780f0000 000664e1\n610f0000 00000000 00000009\n\n",
+        "[No Fall Damage V3]": "[No Fall Damage V3]\n581f0000 081ca500\n780f0000 000664F2\n620f0000 00000000 0000FFFF\n\n",
+        "[No Hit Damage V3]": "[No Hit Damage V3]\n581f0000 081ca500\n780f0000 0006641E\n620f0000 00000000 0000FFFF\n\n",
+        "[Inf Hat Time V3]": "[Inf Hat Time V3]\n581f0000 081ca500\n780f0000 000664EA\n620f0000 00000000 00007000\n\n",
+        "[Inv-Met-Fly Hat V3]": "[Inv-Met-Fly Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 0000011E\n\n",
+        "[Inv-Fly Hat V3]": "[Inv-Fly Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 0000011A\n\n",
+        "[Normal Hat V3]": "[Normal Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 00000111\n\n",
+        "[Disable Race Time V3]": "[Disable Race Time V3]\n581f0000 081ca500\n780f0000 00066532\n620f0000 00000000 0000003F\n\n"
     },
     "DEF702CDAC4994EF": {
         "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 0188DDB4 42800000\n20000000\n\n",
@@ -101,18 +113,6 @@
         "[10# No Hits]": "[10# No Hits]\n02000000 0188DD8E 0000FFFF\n\n",
         "[11# No Fall Damage]": "[11# No Fall Damage]\n02000000 0188DE62 0000FFFF\n\n",
         "[12# Disable Race Timer]": "[12# Disable Race Timer]\n01000000 0188DEA2 0000003F\n\n"
-    },
-    "B5E8BF1FE6465E7E": {
-        "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 0110A90C 42200000\n20000000\n\n",
-        "[Inf Health]": "[Inf Health]\n01000000 0110A9AB 00000008\n\n",
-        "[Inf Lives]": "[Inf Lives]\n01000000 0110A9A9 00000064\n\n",
-        "[No Hits]": "[No Hits]\n02000000 0110A8E6 0000FFFF\n\n",
-        "[No Fall Damage]": "[No Fall Damage]\n02000000 0110A9BB 0000FFFF\n\n",
-        "[Inf Hat Time]": "[Inf Hat Time]\n02000000 0110A9B4 00007000\n\n",
-        "[FlyInvMet Hat]": "[FlyInvMet Hat]\n02000000 0110A8C4 0000011E\n\n",
-        "[FlyInv Hat]": "[FlyInv Hat]\n02000000 0110A8C4 0000011A\n\n",
-        "[Normal Hat]": "[Normal Hat]\n02000000 0110A8C4 00000111\n\n",
-        "[99 Coins]": "[99 Coins]\n01000000 0110A9A4 00000063\n\n"
     },
     "attribution": {
         "super mario 64 port ver 1.0 by Smoker1 and dsrules .txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"

@@ -31,10 +31,22 @@
         "[Invincible]": "[Invincible]\n580F0000 04aa8b88\n780F0000 000098A0\n640F0000 00000000 00000000\n\n",
         "[Size Up]": "[Size Up]\n580F0000 04aa8b88\n780F0000 00008908\n680F0000 40000000 40000000\n\n"
     },
-    "107A4D01B1BF5D44": {
-        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 04a99988\n780F0000 000d71c4\n640F0000 00000000 3FE00000\n20000000\n\n",
-        "[Speed Up]": "[Speed Up]\n580F0000 04a99988\n780F0000 000092d0\n640F0000 00000000 3FE00000\n\n",
-        "[Invincible]": "[Invincible]\n580F0000 04a99988\n780F0000 000098A0\n640F0000 00000000 00000000\n\n"
+    "BEF7BD1A79121305": {
+        "[99999 coins]": "[99999 coins]\n04100000 9DF7A4B8 0001869F\n\n",
+        "[Have Elixir]": "[Have Elixir]\n01100000 9AE10688 00000001\n\n",
+        "[Have Anti Affliction Potion]": "[Have Anti Affliction Potion]\n04100000 9AE1068C 00000005\n\n",
+        "[Have All Characters]": "[Have All Characters]\n04100000 9DF7A4D0 0000003F\n\n",
+        "[Have All Bracelets]": "[Have All Bracelets]\n04100000 9DF7A4E0 000000FF\n\n",
+        "[Have All Armors]": "[Have All Armors]\n04100000 9DF7A4E8 000000FF\n\n",
+        "[Have All Shields]": "[Have All Shields]\n04100000 9DF7A4F0 000000FF\n\n",
+        "[Have All Weapons]": "[Have All Weapons]\n04100000 9DF7A4F8 000000FF\n\n",
+        "[Have All Boots]": "[Have All Boots]\n04100000 9DF7A500 000000FF\n\n",
+        "[Fireball 255]": "[Fireball 255]\n04100000 9DF7A44C 000000FF\n\n",
+        "[Boomerang 255]": "[Boomerang 255]\n04100000 9DF7A454 000000FF\n\n",
+        "[Tornado 255]": "[Tornado 255]\n04100000 9DF7A458 000000FF\n\n",
+        "[Lightning 255]": "[Lightning 255]\n04100000 9DF7A45C 000000FF\n\n",
+        "[Bomb 255]": "[Bomb 255]\n04100000 9DF7A468 000000FF\n\n",
+        "[Have All Talisman]": "[Have All Talisman]\n04100000 9DF7A530 00000001\n04100000 9DF7A538 00000001\n04100000 9DF7A540 00000001\n04100000 9DF7A548 00000001\n04100000 9DF7A550 00000001\n\n"
     },
     "EE7693162065F488": {
         "[99999 coins]": "[99999 coins]\n04100000 9AE10510 0001869F\n\n",
@@ -53,22 +65,10 @@
         "[Bomb 255]": "[Bomb 255]\n04100000 9AE104C0 000000FF\n\n",
         "[Have All Talisman]": "[Have All Talisman]\n04100000 9AE10588 00000001\n04100000 9AE10590 00000001\n04100000 9AE10598 00000001\n04100000 9AE105A0 00000001\n04100000 9AE105A8 00000001\n\n"
     },
-    "BEF7BD1A79121305": {
-        "[99999 coins]": "[99999 coins]\n04100000 9DF7A4B8 0001869F\n\n",
-        "[Have Elixir]": "[Have Elixir]\n01100000 9AE10688 00000001\n\n",
-        "[Have Anti Affliction Potion]": "[Have Anti Affliction Potion]\n04100000 9AE1068C 00000005\n\n",
-        "[Have All Characters]": "[Have All Characters]\n04100000 9DF7A4D0 0000003F\n\n",
-        "[Have All Bracelets]": "[Have All Bracelets]\n04100000 9DF7A4E0 000000FF\n\n",
-        "[Have All Armors]": "[Have All Armors]\n04100000 9DF7A4E8 000000FF\n\n",
-        "[Have All Shields]": "[Have All Shields]\n04100000 9DF7A4F0 000000FF\n\n",
-        "[Have All Weapons]": "[Have All Weapons]\n04100000 9DF7A4F8 000000FF\n\n",
-        "[Have All Boots]": "[Have All Boots]\n04100000 9DF7A500 000000FF\n\n",
-        "[Fireball 255]": "[Fireball 255]\n04100000 9DF7A44C 000000FF\n\n",
-        "[Boomerang 255]": "[Boomerang 255]\n04100000 9DF7A454 000000FF\n\n",
-        "[Tornado 255]": "[Tornado 255]\n04100000 9DF7A458 000000FF\n\n",
-        "[Lightning 255]": "[Lightning 255]\n04100000 9DF7A45C 000000FF\n\n",
-        "[Bomb 255]": "[Bomb 255]\n04100000 9DF7A468 000000FF\n\n",
-        "[Have All Talisman]": "[Have All Talisman]\n04100000 9DF7A530 00000001\n04100000 9DF7A538 00000001\n04100000 9DF7A540 00000001\n04100000 9DF7A548 00000001\n04100000 9DF7A550 00000001\n\n"
+    "107A4D01B1BF5D44": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 04a99988\n780F0000 000d71c4\n640F0000 00000000 3FE00000\n20000000\n\n",
+        "[Speed Up]": "[Speed Up]\n580F0000 04a99988\n780F0000 000092d0\n640F0000 00000000 3FE00000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 04a99988\n780F0000 000098A0\n640F0000 00000000 00000000\n\n"
     },
     "attribution": {
         "Monster Boy And The Cursed Kingdom v 1.0.5 by merlin555.txt": "",

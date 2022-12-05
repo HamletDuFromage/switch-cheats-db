@@ -1,11 +1,4 @@
 {
-    "82BCE946568DD041": {
-        "[Lives unlimited]": "[Lives unlimited]\n04000000 003DCE60 52800C60\n\n",
-        "[Time Freeze ON]": "[Time Freeze ON]\n04000000 003DCCB0 1C000040\n04000000 003DCCB8 42700000\n04000000 0025EB20 D65F03C0\n\n",
-        "[Time Freeze OFF]": "[Time Freeze OFF]\n04000000 003DCCB0 BD401800\n\n",
-        "[Sonic Enable]": "[Sonic Enable]\n04000000 00774C40 52800020\n04000000 00774C44 D65F03C0\n\n",
-        "[Baby Robo Enable]": "[Baby Robo Enable]\n04000000 00774CF0 52800020\n04000000 00774CF4 D65F03C0\n\n"
-    },
     "5814A3099A30B54A": {
         "[Lives unlimited]": "[Lives unlimited]\n04000000 003DCE60 52800C60\n\n",
         "[Time Freeze ON]": "[Time Freeze ON]\n04000000 003DCCB0 1C000040\n04000000 003DCCB8 42700000\n04000000 0025EB20 D65F03C0\n\n",
@@ -19,6 +12,13 @@
         "[Time Freeze OFF]": "[Time Freeze OFF]\n04000000 003DCBF0 BD401800\n\n",
         "[Sonic Enable]": "[Sonic Enable]\n04000000 00774B80 52800020\n04000000 00774B84 D65F03C0\n\n",
         "[Baby Robo Enable]": "[Baby Robo Enable]\n04000000 00774C30 52800020\n04000000 00774C34 D65F03C0\n\n"
+    },
+    "82BCE946568DD041": {
+        "[Lives unlimited]": "[Lives unlimited]\n04000000 003DCE60 52800C60\n\n",
+        "[Time Freeze ON]": "[Time Freeze ON]\n04000000 003DCCB0 1C000040\n04000000 003DCCB8 42700000\n04000000 0025EB20 D65F03C0\n\n",
+        "[Time Freeze OFF]": "[Time Freeze OFF]\n04000000 003DCCB0 BD401800\n\n",
+        "[Sonic Enable]": "[Sonic Enable]\n04000000 00774C40 52800020\n04000000 00774C44 D65F03C0\n\n",
+        "[Baby Robo Enable]": "[Baby Robo Enable]\n04000000 00774CF0 52800020\n04000000 00774CF4 D65F03C0\n\n"
     },
     "attribution": {
         "Super Monkey Ball Banana Blitz HD ver1.0 by merlin555.txt": "",

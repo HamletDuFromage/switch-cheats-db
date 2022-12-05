@@ -1,27 +1,22 @@
 {
-    "42F093AFB5ED34E2": {
-        "[Unlock Collection + Shao Kahn + Frost (On)]": "[Unlock Collection + Shao Kahn + Frost (On)]\n08000000 01CD0840 D65F03C0 320003E0\n\n",
-        "[Unlock Collection + Shao Kahn + Frost (Off)]": "[Unlock Collection + Shao Kahn + Frost (Off)]\n08000000 01CD0840 F9001BFB D10243FF\n\n",
-        "[Player1 Infinite Health]": "[Player1 Infinite Health]\n580f0000 09b7ffc0\n580f1000 00000000\n780f0000 00000B8C\n640f0000 00000000 3F800000\n\n",
-        "[Player1 Infinite Super]": "[Player1 Infinite Super]\n580F0000 09B7FCD0\n780F0000 00000184\n640F0000 00000000 42c80000\n780F0000 00000010\n640F0000 00000000 42c80000\n\n",
-        "[Infinite Fatality Time]": "[Infinite Fatality Time]\n580f0000 09B7F5C0\n580f1000 00000030\n580f1000 00000040\n580f1000 00001260\n780f0000 0000016a\n610f0000 00000000 000000FF\n\n",
-        "[Player1 Anytime and Infinite Fatal Blow]": "[Player1 Anytime and Infinite Fatal Blow]\n580f0000 09B7FCD0\n780f0000 000003cc\n640f0000 00000000 fefffffe\n\n"
+    "B87694BCC4E7C77E": {
+        "[HIT RANGE 30X]": "[HIT RANGE 30X]\n04000000 01A9C564 1E27D000\n\n"
     },
-    "4F7AB1A3EEFC7EB2": {
-        "[Unlock Collection Chars Stages ON]": "[Unlock Collection Chars Stages ON]\n04000000 025A614C 52800020\n\n",
-        "[Easy Fatalities ON]": "[Easy Fatalities ON]\n04000000 024A3754 52800020\n04000000 024A3794 52800020\n\n",
-        "[Easy Fatalities OFF]": "[Easy Fatalities OFF]\n04000000 024A3754 2A1F03E0\n04000000 024A3794 B9447660\n\n",
-        "[Unlock Collection + Chars + Stages (Off)]": "[Unlock Collection + Chars + Stages (Off)]\n04000000 025A614C 2A1303E0\n\n",
-        "[Inf Round Time]": "[Inf Round Time]\n020F0000 0BF822D0 000000F0\n\n",
-        "[Inf Round Time Pointer]": "[Inf Round Time Pointer]\n580F0000 0ABB9840\n780F1000 000005D0\n620F0000 00000000 000000F0\n\n",
-        "[1P Inf Enhanced]": "[1P Inf Enhanced]\n580F0000 0B7576C8\n580F1000 00000158\n780F0000 00000184\n640F0000 00000000 44FA0000\n580F0000 0B7576C8\n580F1000 00000158\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
-        "[1P Inf Fatal Blows]": "[1P Inf Fatal Blows]\n580F0000 0bf822e8\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
-        "[CPU No Enhanced or Interact]": "[CPU No Enhanced or Interact]\n580F0000 0B7549B0\n580F1000 00000158\n780F0000 00000184\n640F0000 00000000 00000000\n580F0000 0B7549B0\n580F1000 00000158\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
-        "[CPU 1 Hit Death Press R3]": "[CPU 1 Hit Death Press R3]\n80000020\n580F0000 0BE4CFE8\n580F1000 00000018\n780F0000 00000C20\n640F0000 00000000 00000000\n20000000\n\n",
-        "[CPU 1Hit Death]": "[CPU 1Hit Death]\n580F0000 0BE4CFE8\n580F1000 00000018\n780F0000 00000C20\n640F0000 00000000 3A000000\n\n",
-        "[1P Inf Health Alt]": "[1P Inf Health Alt]\n580F0000 0BE4CFE8\n580F1000 00000000\n780F0000 00000C20\n640F0000 00000000 3F800000\n\n",
-        "{Unlock Collection Chars Stages ON}": "{Unlock Collection Chars Stages ON}\n04000000 025A614C 52800020\n\n",
-        "[Easy Fatalities ON DaBlackDeath]": "[Easy Fatalities ON DaBlackDeath]\n04000000 024A3754 52800020\n04000000 024A3794 52800020\n\n"
+    "DBF3CF1A67412D92": {
+        "[02# P1 Inf health]": "[02# P1 Inf health]\n580F0000 0B713C78\n580F1000 00000000\n780F0000 00000C18\n640F0000 00000000 3F800000\n\n",
+        "[03# Inf Interactions]": "[03# Inf Interactions]\n580F0000 0B01B990\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
+        "[04# Inf Enhanced Moves]": "[04# Inf Enhanced Moves]\n580F0000 0B01B990\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
+        "[05# Inf Fatal Blows]": "[05# Inf Fatal Blows]\n580F0000 0B01B990\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
+        "[06# CPU NO Interactions]": "[06# CPU NO Interactions]\n580F0000 0B01B990\n580F1000 00000158\n780F0000 00000184\n640F0000 00000000 00000000\n\n",
+        "[07# CPU NO Enhanced Moves]": "[07# CPU NO Enhanced Moves]\n580F0000 0B01B990\n580F1000 00000158\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
+        "[08# CPU 1 Hit Death Press R3]": "[08# CPU 1 Hit Death Press R3]\n80000020\n580F0000 0B713C78\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000\n\n",
+        "[09# CPU NO Fatal Blows]": "[09# CPU NO Fatal Blows]\n580F0000 0B01B990\n580F1000 00000158\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
+        "[Unlock Collection + Chars + Stages (On)]": "[Unlock Collection + Chars + Stages (On)]\n08000000 01E3BA10 D65F03C0 320003E0\n\n",
+        "[Unlock Collection + Chars + Stages (Off)]": "[Unlock Collection + Chars + Stages (Off)]\n08000000 01E3BA10 A9036FFC D10243FF\n\n",
+        "[01# Inf Time]": "[01# Inf Time]\n580F0000 0A487EE8\n780F1000 000005B0\n610F0000 00000000 000000F0\n\n",
+        "[06# CPU NO Interactions Alt]": "[06# CPU NO Interactions Alt]\n580F0000 0B01B990\n580F1000 00000158\n780F0000 00000184\n640F0000 00000000 00000000\n\n",
+        "[07# CPU NO Enhanced Moves Alt]": "[07# CPU NO Enhanced Moves Alt]\n580F0000 0B01B990\n580F1000 00000158\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
+        "[10# Unlock Collection Chars Stages ON]": "[10# Unlock Collection Chars Stages ON]\n08000000 02CEF840 D65F03C0 320003E0\n\n"
     },
     "253CE7FF39EA6DD8": {
         "[Inf Round Time]": "[Inf Round Time]\n580F0000 0A0F6028\n780F1000 000005B0\n610F0000 00000000 000000F0\n\n",
@@ -33,27 +28,29 @@
         "[CPU NO Enhanced Moves]": "[CPU NO Enhanced Moves]\n580F0000 0AC88990\n580F1000 00000158\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
         "[CPU 1Hit Death Press R3]": "[CPU 1Hit Death Press R3]\n80000020\n580F0000 0B380BE0\n580F1000 00000018\n780F0000 00000C10\n640F0000 00000000 00000000\n20000000\n\n"
     },
-    "618A891E4A49D835": {
-        "[Inf Round Time]": "[Inf Round Time]\n58000000 0A0EAA38\n78001000 000005B0\n61000000 00000000 000000F0\n\n",
-        "[Inf Enhanced Moves]": "[Inf Enhanced Moves]\n580F0000 0AC7C990\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
-        "[Inf Interactions]": "[Inf Interactions]\n580F0000 0AC7C990\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
-        "[Inf Fatal Blows]": "[Inf Fatal Blows]\n580F0000 0AC7C990\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
-        "[Unlock Collection + Chars + Stages (On)]": "[Unlock Collection + Chars + Stages (On)]\n08000000 02CC8970 D65F03C0 320003E0\n\n",
-        "[Unlock Collection + Chars + Stages (Off)]": "[Unlock Collection + Chars + Stages (Off)]\n08000000 02CC8970 A9016FFC D101C3FF\n\n",
-        "[01# P1 Inf health]": "[01# P1 Inf health]\n580F0000 0B374BE0\n580F1000 00000000\n780F0000 00000C10\n640F0000 00000000 3F800000\n\n",
-        "[02# P1 Inf. Super Special Moves]": "[02# P1 Inf. Super Special Moves]\n580F0000 0AC7C990\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
-        "[03# P1 Inf. Stage Interact Super]": "[03# P1 Inf. Stage Interact Super]\n580F0000 0AC7C990\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
-        "[04# P1 Inf Fatal Blows]": "[04# P1 Inf Fatal Blows]\n580F0000 0AC7C990\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
-        "[05# CPU 1-hit Kill Press R]": "[05# CPU 1-hit Kill Press R]\n80000020\n580F0000 0B374BE0\n580F1000 00000018\n780F0000 00000C10\n640F0000 00000000 00000000\n20000000\n\n",
-        "[06# CPU NO Super Special Moves]": "[06# CPU NO Super Special Moves]\n580F0000 0AC7C990\n580F1000 00000158\n780F0000 00000184\n640F0000 00000000 00000000\n\n",
-        "[07# CPU NO Stage Interact Super]": "[07# CPU NO Stage Interact Super]\n580F0000 0AC7C990\n580F1000 00000158\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
-        "[08# Inf Time]": "[08# Inf Time]\n580F0000 0A0EAA38\n780F1000 000005B0\n640F0000 00000000 000000F0\n\n"
+    "122E262DA74E5148": {
+        "[Inf Round Time]": "[Inf Round Time]\n580F0000 085E3050\n780F1000 000005C8\n610F0000 00000000 000000F0\n\n",
+        "[1P Inf Health]": "[1P Inf Health]\n580F0000 09873D20\n580F1000 00000000\n780F0000 00000C18\n640F0000 00000000 3F800000\n\n",
+        "[1P Inf Interact]": "[1P Inf Interact]\n580F0000 0917B9B0\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
+        "[1P InfEnhanced Moves]": "[1P InfEnhanced Moves]\n580F0000 0917B9B0\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
+        "[Inf 1P Fatal Blows]": "[Inf 1P Fatal Blows]\n580F0000 0917B9B0\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
+        "[CPU No Interactions]": "[CPU No Interactions]\n580F0000 0987EED0\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
+        "[CPU No Enhanced Moves]": "[CPU No Enhanced Moves]\n580F0000 0987EED0\n780F0000 00000184\n640F0000 00000000 00000000\n\n",
+        "[CPU 1Hit Death]": "[CPU 1Hit Death]\n580F0000 09873D20\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 3A000000\n\n",
+        "[CPU 1 Hit Death Press R3]": "[CPU 1 Hit Death Press R3]\n80000020\n580F0000 09873D20\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000\n\n",
+        "[Unlock Collection + Chars + Stages (On)]": "[Unlock Collection + Chars + Stages (On)]\n04000000 025CF1EC 52800020\n\n",
+        "[Unlock Collection + Chars + Stages (Off)]": "[Unlock Collection + Chars + Stages (Off)]\n04000000 025CF1EC 2A1303E0\n\n",
+        "[Easy Fatalities ON]": "[Easy Fatalities ON]\n04000000 024C2400 52800020\n04000000 024C2440 52800020\n\n",
+        "[Easy Fatalities OFF]": "[Easy Fatalities OFF]\n04000000 024C2400 2A1F03E0\n04000000 024C2440 B9447660\n\n"
     },
-    "E5EFEF0CABB585CC": {
-        "[Unlock Collection + Chars + Stages (On) - @BlackDeath]": "[Unlock Collection + Chars + Stages (On) - @BlackDeath]\n04000000 02590A58 52800020\n\n",
-        "[Unlock Collection + Chars + Stages (Off) - @BlackDeath]": "[Unlock Collection + Chars + Stages (Off) - @BlackDeath]\n04000000 02590A58 2A1303E0\n\n",
-        "[Easy Fatalities ON - @BlackDeath]": "[Easy Fatalities ON - @BlackDeath]\n04000000 0248E060 52800020\n04000000 0248E0A0 52800020\n\n",
-        "[Easy Fatalities OFF - @BlackDeath]": "[Easy Fatalities OFF - @BlackDeath]\n04000000 0248E060 2A1F03E0\n04000000 0248E0A0 B9447660\n\n"
+    "DFE3C7C2880CE91D": {
+        "[#00 Inf Round Time]": "[#00 Inf Round Time]\n58000000 09D64A48\n78001000 000005B0\n61000000 00000000 000000F0\n\n",
+        "[#01 P1 In. HP]": "[#01 P1 In. HP]\n580F0000 0AFEDB58\n580F1000 00000000\n780F0000 00000BC0\n640F0000 00000000 3F800000\n\n",
+        "[#02 Inf Enhanced Moves]": "[#02 Inf Enhanced Moves]\n580F0000 0A8F5990\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
+        "[#03 Inf Interactions]": "[#03 Inf Interactions]\n580F0000 0A8F5990\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
+        "[#04 Inf Fatal Blows]": "[#04 Inf Fatal Blows]\n580F0000 0A8F5990\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
+        "[#05 CPU 1-hit Kill Press R3]": "[#05 CPU 1-hit Kill Press R3]\n80000020\n580f0000 0AFEDB58\n580f1000 00000018\n780f0000 00000Bc0\n640f0000 00000000 3A000000\n20000000\n\n",
+        "[HIT RANGE 30X]": "[HIT RANGE 30X]\n04000000 02ABF994 1E27D000\n\n"
     },
     "4DB479BDEC804FCA": {
         "[Inf Round Time]": "[Inf Round Time]\n580F0000 07470630\n780F1000 000005D0\n620F0000 00000000 000000F0\n\n",
@@ -79,34 +76,25 @@
         "[CPU 1 Hit Death Press R3 @Smoker1]": "[CPU 1 Hit Death Press R3 @Smoker1]\n80000020\n580F0000 08701FE8\n580F1000 00000018\n780F0000 00000C20\n640F0000 00000000 00000000\n20000000\n\n",
         "[Unlock Collection Chars Stages OFF DaBlackDeath]": "[Unlock Collection Chars Stages OFF DaBlackDeath]\n04000000 02562D60 2A1303E0\n\n"
     },
-    "A18F8879B9A93F3B": {
-        "[Unlock Collection + Chars + Stages (On)]": "[Unlock Collection + Chars + Stages (On)]\n04000000 0249F804 52800020\n\n",
-        "[Unlock Collection + Chars + Stages (Off)]": "[Unlock Collection + Chars + Stages (Off)]\n04000000 0249F804 2A1303E0\n\n",
-        "[Inf Time 1]": "[Inf Time 1]\n580F0000 08035D80\n780F1000 000005B0\n610F0000 00000000 000000F0\n\n",
-        "[P1 Inf Health]": "[P1 Inf Health]\n580F0000 092C1CD8\n580F1000 00000000\n780F0000 00000C18\n640F0000 00000000 3F800000\n\n",
-        "[1P Inf Interactions 1]": "[1P Inf Interactions 1]\n580F0000 08BC9990\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
-        "[1P Inf Enhanced Moves 1]": "[1P Inf Enhanced Moves 1]\n580F0000 08BC9990\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
-        "[Inf 1P Fatal Blows]": "[Inf 1P Fatal Blows]\n580F0000 08BC9990\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
-        "[CPU No Interactions 1]": "[CPU No Interactions 1]\n580F0000 08BCC6A8\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
-        "[CPU No Enhanced Moves 1]": "[CPU No Enhanced Moves 1]\n580F0000 08BCC6A8\n780F0000 00000184\n640F0000 00000000 00000000\n\n",
-        "[CPU 1Hit Death]": "[CPU 1Hit Death]\n580F0000 092C1CD8\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 3A000000\n\n",
-        "[CPU 1 Hit Death Press R3]": "[CPU 1 Hit Death Press R3]\n80000020\n580F0000 092C1CD8\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000\n\n",
-        "[Easy Fatality (ON)]": "[Easy Fatality (ON)]\n04000000 02392C68 52800020\n\n",
-        "[Easy Fatality (OFF)]": "[Easy Fatality (OFF)]\n04000000 02392C68 2A1F03E0\n\n"
+    "71F12F744212CBE8": {
+        "[Inf Round Time]": "[Inf Round Time]\n020F0000 0BF812D0 000000F0\n\n",
+        "[Inf Round Time SX Pointer]": "[Inf Round Time SX Pointer]\n580F0000 0ABB8810\n780F1000 000005D0\n620F0000 00000000 000000F0\n\n",
+        "[1P Inf Health]": "[1P Inf Health]\n580F0000 0BE4BFE8\n580F1000 00000000\n780F0000 00000C20\n640F0000 00000000 3F800000\n\n",
+        "[1P Inf Enhanced Moves Interactions]": "[1P Inf Enhanced Moves Interactions]\n580F0000 0B7539B0\n780F0000 00000184\n640F0000 00000000 44FA0000\n580F0000 0B7539B0\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
+        "[1P Inf Fatal Blows]": "[1P Inf Fatal Blows]\n580F0000 0B7539B0\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
+        "[CPU No Enhanced Moves Interactions]": "[CPU No Enhanced Moves Interactions]\n580F0000 0B7566C8\n780F0000 00000184\n640F0000 00000000 00000000\n580F0000 0B7566C8\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
+        "[CPU 1 Hit Death Press R3]": "[CPU 1 Hit Death Press R3]\n80000020\n580F0000 0BE4BFE8\n580F1000 00000018\n780F0000 00000C20\n640F0000 00000000 00000000\n20000000\n\n",
+        "[CPU 1Hit Death]": "[CPU 1Hit Death]\n580F0000 0BE4BFE8\n580F1000 00000018\n780F0000 00000C20\n640F0000 00000000 3A000000\n\n",
+        "{Unlock Collection Chars Stages ON BlackDeath}": "{Unlock Collection Chars Stages ON BlackDeath}\n04000000 025A6060 52800020\n\n",
+        "[Easy Fatalities ON - BlackDeath]": "[Easy Fatalities ON - BlackDeath]\n04000000 024A3668 52800020\n04000000 024A36A8 52800020\n\n",
+        "[Easy Fatalities OFF - BlackDeath]": "[Easy Fatalities OFF - BlackDeath]\n04000000 024A3668 2A1F03E0\n04000000 024A36A8 B9447660\n\n",
+        "[Unlock Collection + Chars + Stages (Off) - BlackDeath]": "[Unlock Collection + Chars + Stages (Off) - BlackDeath]\n04000000 025A6060 2A1303E0\n\n"
     },
-    "C8C44BCA0E8FA163": {
-        "[01# Inf Time]": "[01# Inf Time]\n04000000 097F3EA0 000000FF\n\n",
-        "[02# P1 Inf health]": "[02# P1 Inf health]\n580F0000 097E8D00\n580F1000 00000000\n780F0000 00000C18\n640F0000 00000000 3F800000\n\n",
-        "[03# Inf Interactions]": "[03# Inf Interactions]\n580F0000 090F09B0\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
-        "[04# Inf Enhanced Moves]": "[04# Inf Enhanced Moves]\n580F0000 090F09B0\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
-        "[05# Inf Fatal Blows]": "[05# Inf Fatal Blows]\n580F0000 090F09B0\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
-        "[06# CPU NO Interaction]": "[06# CPU NO Interaction]\n580F0000 090F09B0\n580F1000 00000158\n780F0000 00000184\n640F0000 00000000 00000000\n\n",
-        "[07# CPU NO Enhanced Moves]": "[07# CPU NO Enhanced Moves]\n580F0000 090F09B0\n580F1000 00000158\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
-        "[08# CPU 1 Hit Death Press R3]": "[08# CPU 1 Hit Death Press R3]\n80000020\n580F0000 097E8D00\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000\n\n",
-        "[09# Unlock Collection + Chars + Stages (On)]": "[09# Unlock Collection + Chars + Stages (On)]\n04000000 025B5048 52800020\n\n",
-        "[Unlock Collection + Chars + Stages (Off)]": "[Unlock Collection + Chars + Stages (Off)]\n04000000 025B5048 2A1303E0\n\n",
-        "[10# Easy Fatalities ON]": "[10# Easy Fatalities ON]\n04000000 024A8308 52800020\n04000000 024A8348 52800020\n\n",
-        "[Easy Fatalities OFF]": "[Easy Fatalities OFF]\n04000000 024A8308 2A1F03E0\n04000000 024A8348 B9447660\n\n"
+    "452A442F3D18086D": {
+        "[Player1 Infinite Health]": "[Player1 Infinite Health]\n580f0000 09b7ffc0\n580f1000 00000000\n780f0000 00000B8C\n640f0000 00000000 3F800000\n\n",
+        "[Player1 Infinite Special Bars]": "[Player1 Infinite Special Bars]\n580F0000 09B7FCD0\n780F0000 00000184\n640F0000 00000000 42c80000\n780F0000 00000010\n640F0000 00000000 42c80000\n\n",
+        "[Player1 Anytime and Infinite Fatal Blow]": "[Player1 Anytime and Infinite Fatal Blow]\n580f0000 09B7FCD0\n780f0000 000003cc\n640f0000 00000000 fefffffe\n\n",
+        "[Infinite Fatality Time]": "[Infinite Fatality Time]\n580f0000 09B7F5C0\n580f1000 00000030\n580f1000 00000040\n580f1000 00001260\n780f0000 0000016a\n610f0000 00000000 000000FF\n\n"
     },
     "69CFB1478185A732": {
         "[Unlock Collection + Chars + Stages (On)]": "[Unlock Collection + Chars + Stages (On)]\n04000000 025CF1EC 52800020\n\n",
@@ -123,77 +111,19 @@
         "[CPU 1Hit Death]": "[CPU 1Hit Death]\n580F0000 09873D20\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 3A000000\n\n",
         "[CPU 1 Hit Death Press R3]": "[CPU 1 Hit Death Press R3]\n80000020\n580F0000 09873D20\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000\n\n"
     },
-    "71F12F744212CBE8": {
-        "[Inf Round Time]": "[Inf Round Time]\n020F0000 0BF812D0 000000F0\n\n",
-        "[Inf Round Time SX Pointer]": "[Inf Round Time SX Pointer]\n580F0000 0ABB8810\n780F1000 000005D0\n620F0000 00000000 000000F0\n\n",
-        "[1P Inf Health]": "[1P Inf Health]\n580F0000 0BE4BFE8\n580F1000 00000000\n780F0000 00000C20\n640F0000 00000000 3F800000\n\n",
-        "[1P Inf Enhanced Moves Interactions]": "[1P Inf Enhanced Moves Interactions]\n580F0000 0B7539B0\n780F0000 00000184\n640F0000 00000000 44FA0000\n580F0000 0B7539B0\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
-        "[1P Inf Fatal Blows]": "[1P Inf Fatal Blows]\n580F0000 0B7539B0\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
-        "[CPU No Enhanced Moves Interactions]": "[CPU No Enhanced Moves Interactions]\n580F0000 0B7566C8\n780F0000 00000184\n640F0000 00000000 00000000\n580F0000 0B7566C8\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
-        "[CPU 1 Hit Death Press R3]": "[CPU 1 Hit Death Press R3]\n80000020\n580F0000 0BE4BFE8\n580F1000 00000018\n780F0000 00000C20\n640F0000 00000000 00000000\n20000000\n\n",
-        "[CPU 1Hit Death]": "[CPU 1Hit Death]\n580F0000 0BE4BFE8\n580F1000 00000018\n780F0000 00000C20\n640F0000 00000000 3A000000\n\n",
-        "{Unlock Collection Chars Stages ON BlackDeath}": "{Unlock Collection Chars Stages ON BlackDeath}\n04000000 025A6060 52800020\n\n",
-        "[Easy Fatalities ON - BlackDeath]": "[Easy Fatalities ON - BlackDeath]\n04000000 024A3668 52800020\n04000000 024A36A8 52800020\n\n",
-        "[Easy Fatalities OFF - BlackDeath]": "[Easy Fatalities OFF - BlackDeath]\n04000000 024A3668 2A1F03E0\n04000000 024A36A8 B9447660\n\n",
-        "[Unlock Collection + Chars + Stages (Off) - BlackDeath]": "[Unlock Collection + Chars + Stages (Off) - BlackDeath]\n04000000 025A6060 2A1303E0\n\n"
-    },
-    "6EE15D1E9BC5CE90": {
-        "[P1 Inf HP]": "[P1 Inf HP]\n580F0000 0A02AA20\n580F1000 00000000\n780F0000 00000B94\n640F0000 00000000 3F800000\n\n",
-        "[P1 Inf Super Special Moves]": "[P1 Inf Super Special Moves]\n580F0000 09F55970\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
-        "[P1 Inf Stage Interact Super]": "[P1 Inf Stage Interact Super]\n580F0000 09F55970\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
-        "[P1 Inf Fatal Blow]": "[P1 Inf Fatal Blow]\n580F0000 09F55970\n780F0000 000003CC\n640F0000 00000000 00000001\n\n",
-        "[CPU 1-hit Kill]": "[CPU 1-hit Kill]\n580F0000 0A02AA20\n580F1000 00000018\n780F0000 00000B94\n640F0000 00000000 3A000000\n\n",
-        "[CPU instant Kill]": "[CPU instant Kill]\n580F0000 0A02AA20\n580F1000 00000018\n780F0000 00000B94\n640F0000 00000000 00000000\n\n",
-        "[CPU No Fatal Blow]": "[CPU No Fatal Blow]\n580F0000 09F55970\n780F0000 000009A4\n640F0000 00000000 00000001\n\n",
-        "[CPU NO Super Special Moves v1i05]": "[CPU NO Super Special Moves v1i05]\n580F0000 09F55970\n780F0000 00000754\n640F0000 00000000 00000000\n\n",
-        "[CPU NO Stage Interact Super v1i05]": "[CPU NO Stage Interact Super v1i05]\n580F0000 09F55970\n780F0000 00000764\n640F0000 00000000 00000000\n\n"
-    },
-    "DFE3C7C2880CE91D": {
-        "[#00 Inf Round Time]": "[#00 Inf Round Time]\n58000000 09D64A48\n78001000 000005B0\n61000000 00000000 000000F0\n\n",
-        "[#01 P1 In. HP]": "[#01 P1 In. HP]\n580F0000 0AFEDB58\n580F1000 00000000\n780F0000 00000BC0\n640F0000 00000000 3F800000\n\n",
-        "[#02 Inf Enhanced Moves]": "[#02 Inf Enhanced Moves]\n580F0000 0A8F5990\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
-        "[#03 Inf Interactions]": "[#03 Inf Interactions]\n580F0000 0A8F5990\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
-        "[#04 Inf Fatal Blows]": "[#04 Inf Fatal Blows]\n580F0000 0A8F5990\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
-        "[#05 CPU 1-hit Kill Press R3]": "[#05 CPU 1-hit Kill Press R3]\n80000020\n580f0000 0AFEDB58\n580f1000 00000018\n780f0000 00000Bc0\n640f0000 00000000 3A000000\n20000000\n\n",
-        "[HIT RANGE 30X]": "[HIT RANGE 30X]\n04000000 02ABF994 1E27D000\n\n"
-    },
-    "452A442F3D18086D": {
-        "[Player1 Infinite Health]": "[Player1 Infinite Health]\n580f0000 09b7ffc0\n580f1000 00000000\n780f0000 00000B8C\n640f0000 00000000 3F800000\n\n",
-        "[Player1 Infinite Special Bars]": "[Player1 Infinite Special Bars]\n580F0000 09B7FCD0\n780F0000 00000184\n640F0000 00000000 42c80000\n780F0000 00000010\n640F0000 00000000 42c80000\n\n",
-        "[Player1 Anytime and Infinite Fatal Blow]": "[Player1 Anytime and Infinite Fatal Blow]\n580f0000 09B7FCD0\n780f0000 000003cc\n640f0000 00000000 fefffffe\n\n",
-        "[Infinite Fatality Time]": "[Infinite Fatality Time]\n580f0000 09B7F5C0\n580f1000 00000030\n580f1000 00000040\n580f1000 00001260\n780f0000 0000016a\n610f0000 00000000 000000FF\n\n"
-    },
-    "122E262DA74E5148": {
-        "[Inf Round Time]": "[Inf Round Time]\n580F0000 085E3050\n780F1000 000005C8\n610F0000 00000000 000000F0\n\n",
-        "[1P Inf Health]": "[1P Inf Health]\n580F0000 09873D20\n580F1000 00000000\n780F0000 00000C18\n640F0000 00000000 3F800000\n\n",
-        "[1P Inf Interact]": "[1P Inf Interact]\n580F0000 0917B9B0\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
-        "[1P InfEnhanced Moves]": "[1P InfEnhanced Moves]\n580F0000 0917B9B0\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
-        "[Inf 1P Fatal Blows]": "[Inf 1P Fatal Blows]\n580F0000 0917B9B0\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
-        "[CPU No Interactions]": "[CPU No Interactions]\n580F0000 0987EED0\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
-        "[CPU No Enhanced Moves]": "[CPU No Enhanced Moves]\n580F0000 0987EED0\n780F0000 00000184\n640F0000 00000000 00000000\n\n",
-        "[CPU 1Hit Death]": "[CPU 1Hit Death]\n580F0000 09873D20\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 3A000000\n\n",
-        "[CPU 1 Hit Death Press R3]": "[CPU 1 Hit Death Press R3]\n80000020\n580F0000 09873D20\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000\n\n",
-        "[Unlock Collection + Chars + Stages (On)]": "[Unlock Collection + Chars + Stages (On)]\n04000000 025CF1EC 52800020\n\n",
-        "[Unlock Collection + Chars + Stages (Off)]": "[Unlock Collection + Chars + Stages (Off)]\n04000000 025CF1EC 2A1303E0\n\n",
-        "[Easy Fatalities ON]": "[Easy Fatalities ON]\n04000000 024C2400 52800020\n04000000 024C2440 52800020\n\n",
-        "[Easy Fatalities OFF]": "[Easy Fatalities OFF]\n04000000 024C2400 2A1F03E0\n04000000 024C2440 B9447660\n\n"
-    },
-    "2102A7476C861BE3": {
-        "[Unlock Collection + Chars + Stages (On)]": "[Unlock Collection + Chars + Stages (On)]\n04000000 0249EE38 52800020\n\n",
-        "[Unlock Collection + Chars + Stages (Off)]": "[Unlock Collection + Chars + Stages (Off)]\n04000000 0249EE38 2A1303E0\n\n",
-        "[Inf Round Time 1]": "[Inf Round Time 1]\n580F0000 08015140\n780F1000 000005C0\n620F0000 00000000 000000F0\n\n",
-        "[P1 Inf Health]": "[P1 Inf Health]\n580F0000 092B7CD8\n580F1000 00000000\n780F0000 00000C18\n640F0000 00000000 3F800000\n\n",
-        "[Inf 1P Interactions 1]": "[Inf 1P Interactions 1]\n580F0000 08BBF990\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
-        "[Inf 1P Enhanced Moves 1]": "[Inf 1P Enhanced Moves 1]\n580F0000 08BBF990\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
-        "[Inf 1P Fatal Blows]": "[Inf 1P Fatal Blows]\n580F0000 08BBF990\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
-        "[No CPU Interactions]": "[No CPU Interactions]\n580F0000 08BC26A8\n780F0000 00000184\n640F0000 00000000 00000000\n\n",
-        "[No CPU Enhanced Moves ]": "[No CPU Enhanced Moves ]\n580F0000 08BC26A8\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
-        "[No CPU Fatal Blows Might not Work]": "[No CPU Fatal Blows Might not Work]\n580F0000 08BC26A8\n580F0000 00000158\n780F0000 000003E4\n640F0000 00000000 00000001\n\n",
-        "[CPU 1Hit Death]": "[CPU 1Hit Death]\n580F0000 092B7CD8\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 3A000000\n\n",
-        "[CPU 1 Hit Death Press R3]": "[CPU 1 Hit Death Press R3]\n80000020\n580F0000 092B7CD8\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000\n\n"
-    },
-    "B87694BCC4E7C77E": {
-        "[HIT RANGE 30X]": "[HIT RANGE 30X]\n04000000 01A9C564 1E27D000\n\n"
+    "C8C44BCA0E8FA163": {
+        "[01# Inf Time]": "[01# Inf Time]\n04000000 097F3EA0 000000FF\n\n",
+        "[02# P1 Inf health]": "[02# P1 Inf health]\n580F0000 097E8D00\n580F1000 00000000\n780F0000 00000C18\n640F0000 00000000 3F800000\n\n",
+        "[03# Inf Interactions]": "[03# Inf Interactions]\n580F0000 090F09B0\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
+        "[04# Inf Enhanced Moves]": "[04# Inf Enhanced Moves]\n580F0000 090F09B0\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
+        "[05# Inf Fatal Blows]": "[05# Inf Fatal Blows]\n580F0000 090F09B0\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
+        "[06# CPU NO Interaction]": "[06# CPU NO Interaction]\n580F0000 090F09B0\n580F1000 00000158\n780F0000 00000184\n640F0000 00000000 00000000\n\n",
+        "[07# CPU NO Enhanced Moves]": "[07# CPU NO Enhanced Moves]\n580F0000 090F09B0\n580F1000 00000158\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
+        "[08# CPU 1 Hit Death Press R3]": "[08# CPU 1 Hit Death Press R3]\n80000020\n580F0000 097E8D00\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000\n\n",
+        "[09# Unlock Collection + Chars + Stages (On)]": "[09# Unlock Collection + Chars + Stages (On)]\n04000000 025B5048 52800020\n\n",
+        "[Unlock Collection + Chars + Stages (Off)]": "[Unlock Collection + Chars + Stages (Off)]\n04000000 025B5048 2A1303E0\n\n",
+        "[10# Easy Fatalities ON]": "[10# Easy Fatalities ON]\n04000000 024A8308 52800020\n04000000 024A8348 52800020\n\n",
+        "[Easy Fatalities OFF]": "[Easy Fatalities OFF]\n04000000 024A8308 2A1F03E0\n04000000 024A8348 B9447660\n\n"
     },
     "053C0DEF634D577B": {
         "[Inf Round Time]": "[Inf Round Time]\n580F0000 09C9E1D0\n780F1000 000005D0\n610F0000 00000000 000000F0\n\n",
@@ -211,21 +141,27 @@
         "[Hit Range x30]": "[Hit Range x30]\n04000000 023AE1D0 1E27D000\n\n",
         "[Hit Range normal]": "[Hit Range normal]\n04000000 023AE1D0 1E2E1000\n\n"
     },
-    "DBF3CF1A67412D92": {
-        "[02# P1 Inf health]": "[02# P1 Inf health]\n580F0000 0B713C78\n580F1000 00000000\n780F0000 00000C18\n640F0000 00000000 3F800000\n\n",
-        "[03# Inf Interactions]": "[03# Inf Interactions]\n580F0000 0B01B990\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
-        "[04# Inf Enhanced Moves]": "[04# Inf Enhanced Moves]\n580F0000 0B01B990\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
-        "[05# Inf Fatal Blows]": "[05# Inf Fatal Blows]\n580F0000 0B01B990\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
-        "[06# CPU NO Interactions]": "[06# CPU NO Interactions]\n580F0000 0B01B990\n580F1000 00000158\n780F0000 00000184\n640F0000 00000000 00000000\n\n",
-        "[07# CPU NO Enhanced Moves]": "[07# CPU NO Enhanced Moves]\n580F0000 0B01B990\n580F1000 00000158\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
-        "[08# CPU 1 Hit Death Press R3]": "[08# CPU 1 Hit Death Press R3]\n80000020\n580F0000 0B713C78\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000\n\n",
-        "[09# CPU NO Fatal Blows]": "[09# CPU NO Fatal Blows]\n580F0000 0B01B990\n580F1000 00000158\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
-        "[Unlock Collection + Chars + Stages (On)]": "[Unlock Collection + Chars + Stages (On)]\n08000000 01E3BA10 D65F03C0 320003E0\n\n",
-        "[Unlock Collection + Chars + Stages (Off)]": "[Unlock Collection + Chars + Stages (Off)]\n08000000 01E3BA10 A9036FFC D10243FF\n\n",
-        "[01# Inf Time]": "[01# Inf Time]\n580F0000 0A487EE8\n780F1000 000005B0\n610F0000 00000000 000000F0\n\n",
-        "[06# CPU NO Interactions Alt]": "[06# CPU NO Interactions Alt]\n580F0000 0B01B990\n580F1000 00000158\n780F0000 00000184\n640F0000 00000000 00000000\n\n",
-        "[07# CPU NO Enhanced Moves Alt]": "[07# CPU NO Enhanced Moves Alt]\n580F0000 0B01B990\n580F1000 00000158\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
-        "[10# Unlock Collection Chars Stages ON]": "[10# Unlock Collection Chars Stages ON]\n08000000 02CEF840 D65F03C0 320003E0\n\n"
+    "618A891E4A49D835": {
+        "[Inf Round Time]": "[Inf Round Time]\n58000000 0A0EAA38\n78001000 000005B0\n61000000 00000000 000000F0\n\n",
+        "[Inf Enhanced Moves]": "[Inf Enhanced Moves]\n580F0000 0AC7C990\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
+        "[Inf Interactions]": "[Inf Interactions]\n580F0000 0AC7C990\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
+        "[Inf Fatal Blows]": "[Inf Fatal Blows]\n580F0000 0AC7C990\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
+        "[Unlock Collection + Chars + Stages (On)]": "[Unlock Collection + Chars + Stages (On)]\n08000000 02CC8970 D65F03C0 320003E0\n\n",
+        "[Unlock Collection + Chars + Stages (Off)]": "[Unlock Collection + Chars + Stages (Off)]\n08000000 02CC8970 A9016FFC D101C3FF\n\n",
+        "[01# P1 Inf health]": "[01# P1 Inf health]\n580F0000 0B374BE0\n580F1000 00000000\n780F0000 00000C10\n640F0000 00000000 3F800000\n\n",
+        "[02# P1 Inf. Super Special Moves]": "[02# P1 Inf. Super Special Moves]\n580F0000 0AC7C990\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
+        "[03# P1 Inf. Stage Interact Super]": "[03# P1 Inf. Stage Interact Super]\n580F0000 0AC7C990\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
+        "[04# P1 Inf Fatal Blows]": "[04# P1 Inf Fatal Blows]\n580F0000 0AC7C990\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
+        "[05# CPU 1-hit Kill Press R]": "[05# CPU 1-hit Kill Press R]\n80000020\n580F0000 0B374BE0\n580F1000 00000018\n780F0000 00000C10\n640F0000 00000000 00000000\n20000000\n\n",
+        "[06# CPU NO Super Special Moves]": "[06# CPU NO Super Special Moves]\n580F0000 0AC7C990\n580F1000 00000158\n780F0000 00000184\n640F0000 00000000 00000000\n\n",
+        "[07# CPU NO Stage Interact Super]": "[07# CPU NO Stage Interact Super]\n580F0000 0AC7C990\n580F1000 00000158\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
+        "[08# Inf Time]": "[08# Inf Time]\n580F0000 0A0EAA38\n780F1000 000005B0\n640F0000 00000000 000000F0\n\n"
+    },
+    "E5EFEF0CABB585CC": {
+        "[Unlock Collection + Chars + Stages (On) - @BlackDeath]": "[Unlock Collection + Chars + Stages (On) - @BlackDeath]\n04000000 02590A58 52800020\n\n",
+        "[Unlock Collection + Chars + Stages (Off) - @BlackDeath]": "[Unlock Collection + Chars + Stages (Off) - @BlackDeath]\n04000000 02590A58 2A1303E0\n\n",
+        "[Easy Fatalities ON - @BlackDeath]": "[Easy Fatalities ON - @BlackDeath]\n04000000 0248E060 52800020\n04000000 0248E0A0 52800020\n\n",
+        "[Easy Fatalities OFF - @BlackDeath]": "[Easy Fatalities OFF - @BlackDeath]\n04000000 0248E060 2A1F03E0\n04000000 0248E0A0 B9447660\n\n"
     },
     "DB4DA7BF6AF18D4A": {
         "[Inf Round Time]": "[Inf Round Time]\n580F0000 08035D80\n780F1000 000005B0\n610F0000 00000000 000000F0\n\n",
@@ -241,6 +177,70 @@
         "[Easy Fatality (ON)]": "[Easy Fatality (ON)]\n04000000 02392C68 52800020\n\n",
         "[Unlock Collection + Chars + Stages (Off)]": "[Unlock Collection + Chars + Stages (Off)]\n04000000 0249F804 2A1303E0\n\n",
         "[Easy Fatality (OFF)]": "[Easy Fatality (OFF)]\n04000000 02392C68 2A1F03E0\n\n"
+    },
+    "4F7AB1A3EEFC7EB2": {
+        "[Unlock Collection Chars Stages ON]": "[Unlock Collection Chars Stages ON]\n04000000 025A614C 52800020\n\n",
+        "[Easy Fatalities ON]": "[Easy Fatalities ON]\n04000000 024A3754 52800020\n04000000 024A3794 52800020\n\n",
+        "[Easy Fatalities OFF]": "[Easy Fatalities OFF]\n04000000 024A3754 2A1F03E0\n04000000 024A3794 B9447660\n\n",
+        "[Unlock Collection + Chars + Stages (Off)]": "[Unlock Collection + Chars + Stages (Off)]\n04000000 025A614C 2A1303E0\n\n",
+        "[Inf Round Time]": "[Inf Round Time]\n020F0000 0BF822D0 000000F0\n\n",
+        "[Inf Round Time Pointer]": "[Inf Round Time Pointer]\n580F0000 0ABB9840\n780F1000 000005D0\n620F0000 00000000 000000F0\n\n",
+        "[1P Inf Enhanced]": "[1P Inf Enhanced]\n580F0000 0B7576C8\n580F1000 00000158\n780F0000 00000184\n640F0000 00000000 44FA0000\n580F0000 0B7576C8\n580F1000 00000158\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
+        "[1P Inf Fatal Blows]": "[1P Inf Fatal Blows]\n580F0000 0bf822e8\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
+        "[CPU No Enhanced or Interact]": "[CPU No Enhanced or Interact]\n580F0000 0B7549B0\n580F1000 00000158\n780F0000 00000184\n640F0000 00000000 00000000\n580F0000 0B7549B0\n580F1000 00000158\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
+        "[CPU 1 Hit Death Press R3]": "[CPU 1 Hit Death Press R3]\n80000020\n580F0000 0BE4CFE8\n580F1000 00000018\n780F0000 00000C20\n640F0000 00000000 00000000\n20000000\n\n",
+        "[CPU 1Hit Death]": "[CPU 1Hit Death]\n580F0000 0BE4CFE8\n580F1000 00000018\n780F0000 00000C20\n640F0000 00000000 3A000000\n\n",
+        "[1P Inf Health Alt]": "[1P Inf Health Alt]\n580F0000 0BE4CFE8\n580F1000 00000000\n780F0000 00000C20\n640F0000 00000000 3F800000\n\n",
+        "{Unlock Collection Chars Stages ON}": "{Unlock Collection Chars Stages ON}\n04000000 025A614C 52800020\n\n",
+        "[Easy Fatalities ON DaBlackDeath]": "[Easy Fatalities ON DaBlackDeath]\n04000000 024A3754 52800020\n04000000 024A3794 52800020\n\n"
+    },
+    "A18F8879B9A93F3B": {
+        "[Unlock Collection + Chars + Stages (On)]": "[Unlock Collection + Chars + Stages (On)]\n04000000 0249F804 52800020\n\n",
+        "[Unlock Collection + Chars + Stages (Off)]": "[Unlock Collection + Chars + Stages (Off)]\n04000000 0249F804 2A1303E0\n\n",
+        "[Inf Time 1]": "[Inf Time 1]\n580F0000 08035D80\n780F1000 000005B0\n610F0000 00000000 000000F0\n\n",
+        "[P1 Inf Health]": "[P1 Inf Health]\n580F0000 092C1CD8\n580F1000 00000000\n780F0000 00000C18\n640F0000 00000000 3F800000\n\n",
+        "[1P Inf Interactions 1]": "[1P Inf Interactions 1]\n580F0000 08BC9990\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
+        "[1P Inf Enhanced Moves 1]": "[1P Inf Enhanced Moves 1]\n580F0000 08BC9990\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
+        "[Inf 1P Fatal Blows]": "[Inf 1P Fatal Blows]\n580F0000 08BC9990\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
+        "[CPU No Interactions 1]": "[CPU No Interactions 1]\n580F0000 08BCC6A8\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
+        "[CPU No Enhanced Moves 1]": "[CPU No Enhanced Moves 1]\n580F0000 08BCC6A8\n780F0000 00000184\n640F0000 00000000 00000000\n\n",
+        "[CPU 1Hit Death]": "[CPU 1Hit Death]\n580F0000 092C1CD8\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 3A000000\n\n",
+        "[CPU 1 Hit Death Press R3]": "[CPU 1 Hit Death Press R3]\n80000020\n580F0000 092C1CD8\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000\n\n",
+        "[Easy Fatality (ON)]": "[Easy Fatality (ON)]\n04000000 02392C68 52800020\n\n",
+        "[Easy Fatality (OFF)]": "[Easy Fatality (OFF)]\n04000000 02392C68 2A1F03E0\n\n"
+    },
+    "2102A7476C861BE3": {
+        "[Unlock Collection + Chars + Stages (On)]": "[Unlock Collection + Chars + Stages (On)]\n04000000 0249EE38 52800020\n\n",
+        "[Unlock Collection + Chars + Stages (Off)]": "[Unlock Collection + Chars + Stages (Off)]\n04000000 0249EE38 2A1303E0\n\n",
+        "[Inf Round Time 1]": "[Inf Round Time 1]\n580F0000 08015140\n780F1000 000005C0\n620F0000 00000000 000000F0\n\n",
+        "[P1 Inf Health]": "[P1 Inf Health]\n580F0000 092B7CD8\n580F1000 00000000\n780F0000 00000C18\n640F0000 00000000 3F800000\n\n",
+        "[Inf 1P Interactions 1]": "[Inf 1P Interactions 1]\n580F0000 08BBF990\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
+        "[Inf 1P Enhanced Moves 1]": "[Inf 1P Enhanced Moves 1]\n580F0000 08BBF990\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
+        "[Inf 1P Fatal Blows]": "[Inf 1P Fatal Blows]\n580F0000 08BBF990\n780F0000 000003DC\n640F0000 00000000 00000001\n\n",
+        "[No CPU Interactions]": "[No CPU Interactions]\n580F0000 08BC26A8\n780F0000 00000184\n640F0000 00000000 00000000\n\n",
+        "[No CPU Enhanced Moves ]": "[No CPU Enhanced Moves ]\n580F0000 08BC26A8\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
+        "[No CPU Fatal Blows Might not Work]": "[No CPU Fatal Blows Might not Work]\n580F0000 08BC26A8\n580F0000 00000158\n780F0000 000003E4\n640F0000 00000000 00000001\n\n",
+        "[CPU 1Hit Death]": "[CPU 1Hit Death]\n580F0000 092B7CD8\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 3A000000\n\n",
+        "[CPU 1 Hit Death Press R3]": "[CPU 1 Hit Death Press R3]\n80000020\n580F0000 092B7CD8\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000\n\n"
+    },
+    "42F093AFB5ED34E2": {
+        "[Unlock Collection + Shao Kahn + Frost (On)]": "[Unlock Collection + Shao Kahn + Frost (On)]\n08000000 01CD0840 D65F03C0 320003E0\n\n",
+        "[Unlock Collection + Shao Kahn + Frost (Off)]": "[Unlock Collection + Shao Kahn + Frost (Off)]\n08000000 01CD0840 F9001BFB D10243FF\n\n",
+        "[Player1 Infinite Health]": "[Player1 Infinite Health]\n580f0000 09b7ffc0\n580f1000 00000000\n780f0000 00000B8C\n640f0000 00000000 3F800000\n\n",
+        "[Player1 Infinite Super]": "[Player1 Infinite Super]\n580F0000 09B7FCD0\n780F0000 00000184\n640F0000 00000000 42c80000\n780F0000 00000010\n640F0000 00000000 42c80000\n\n",
+        "[Infinite Fatality Time]": "[Infinite Fatality Time]\n580f0000 09B7F5C0\n580f1000 00000030\n580f1000 00000040\n580f1000 00001260\n780f0000 0000016a\n610f0000 00000000 000000FF\n\n",
+        "[Player1 Anytime and Infinite Fatal Blow]": "[Player1 Anytime and Infinite Fatal Blow]\n580f0000 09B7FCD0\n780f0000 000003cc\n640f0000 00000000 fefffffe\n\n"
+    },
+    "6EE15D1E9BC5CE90": {
+        "[P1 Inf HP]": "[P1 Inf HP]\n580F0000 0A02AA20\n580F1000 00000000\n780F0000 00000B94\n640F0000 00000000 3F800000\n\n",
+        "[P1 Inf Super Special Moves]": "[P1 Inf Super Special Moves]\n580F0000 09F55970\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
+        "[P1 Inf Stage Interact Super]": "[P1 Inf Stage Interact Super]\n580F0000 09F55970\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
+        "[P1 Inf Fatal Blow]": "[P1 Inf Fatal Blow]\n580F0000 09F55970\n780F0000 000003CC\n640F0000 00000000 00000001\n\n",
+        "[CPU 1-hit Kill]": "[CPU 1-hit Kill]\n580F0000 0A02AA20\n580F1000 00000018\n780F0000 00000B94\n640F0000 00000000 3A000000\n\n",
+        "[CPU instant Kill]": "[CPU instant Kill]\n580F0000 0A02AA20\n580F1000 00000018\n780F0000 00000B94\n640F0000 00000000 00000000\n\n",
+        "[CPU No Fatal Blow]": "[CPU No Fatal Blow]\n580F0000 09F55970\n780F0000 000009A4\n640F0000 00000000 00000001\n\n",
+        "[CPU NO Super Special Moves v1i05]": "[CPU NO Super Special Moves v1i05]\n580F0000 09F55970\n780F0000 00000754\n640F0000 00000000 00000000\n\n",
+        "[CPU NO Stage Interact Super v1i05]": "[CPU NO Stage Interact Super v1i05]\n580F0000 09F55970\n780F0000 00000764\n640F0000 00000000 00000000\n\n"
     },
     "attribution": {
         "Mortal Kombat 11 Mortal Kombat 11 ver v1.0.26 by patjenova ver v1.0.21 and 1.0.22 1.0.17 and 1.0.24 and 1.0.26 and  by DaBlackDeath Smoker1 by eco95 ver 1.10.15A by patjenova ver 1.0.10 by Smoker1.txt": ""

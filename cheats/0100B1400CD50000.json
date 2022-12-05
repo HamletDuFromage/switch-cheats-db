@@ -1,4 +1,7 @@
 {
+    "789E7B6351D8C862": {
+        "[999999 Inf Money]": "[999999 Inf Money]\n04000000 0170a188 000F423F\n\n"
+    },
     "CA7FACAEC708311C": {
         "[Lulua max exp]": "[Lulua max exp]\n040F0000 0176C308 497423f0\n\n",
         "[Eva Max Exp]": "[Eva Max Exp]\n040F0000 0176C568 497423f0\n\n",
@@ -7,9 +10,6 @@
         "[Aurel Max exp]": "[Aurel Max exp]\n040F0000 0176CA28 497423f0\n\n",
         "[Ficus ma exp]": "[Ficus ma exp]\n040F0000 0176C7C8 497423f0\n\n",
         "[max money]": "[max money]\n040F0000 0176C2F8 4b18967f\n\n"
-    },
-    "789E7B6351D8C862": {
-        "[999999 Inf Money]": "[999999 Inf Money]\n04000000 0170a188 000F423F\n\n"
     },
     "attribution": {
         "AtelierLulua1.0.3 by rekuyey2.txt": ""

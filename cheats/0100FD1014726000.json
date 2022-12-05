@@ -1,7 +1,4 @@
 {
-    "CC01700D7BC40CC9": {
-        "[Inf Gold 99999]": "[Inf Gold 99999]\n04000000 003e4754 0001869F\n\n"
-    },
     "D0B3501DC634C120": {
         "[1p inf health]": "[1p inf health]\n04000000 000C06F0 D65F03C0\n\n",
         "[1p stealth]": "[1p stealth]\n04000000 000A4EF0 1E283000\n\n",
@@ -28,6 +25,9 @@
         "[High Dexterity]": "[High Dexterity]\n04000000 003E46F8 000000C8\n\n",
         "[High Constitution]": "[High Constitution]\n04000000 003E46FC 000000C8\n\n",
         "[High Charisma]": "[High Charisma]\n04000000 003E4700 000000C8\n\n"
+    },
+    "CC01700D7BC40CC9": {
+        "[Inf Gold 99999]": "[Inf Gold 99999]\n04000000 003e4754 0001869F\n\n"
     },
     "attribution": {
         "Baldurs Gate Drak Alliance ver 1.0.0 by Matias3ds ver 1.0.1 by Xtatu and Matias3ds.txt": "",

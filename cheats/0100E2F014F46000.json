@@ -1,8 +1,4 @@
 {
-    "7AEABB797C931714": {
-        "[hitanywhere all weapon on]": "[hitanywhere all weapon on]\n04000000 00569630 D503201F\n\n",
-        "[hitanywhere all weapon off]": "[hitanywhere all weapon off]\n04000000 00569630 72001C1F\n\n"
-    },
     "73C01D12EC628195": {
         "[Character HP]": "[Character HP]\n02000000 00D24B94 00001027\n04000000 00D24BC4 10271027\n\n",
         "[Crazy jump (ZL+B)]": "[Crazy jump (ZL+B)]\n80000102\n04000000 00C48BF4 00000000\n20000000\n\n",
@@ -15,6 +11,10 @@
         "[Hero Mode No Expiration]": "[Hero Mode No Expiration]\n11050000 02D15E70 00000002\n02000000 00D249F4 00000DDD\n20000000\n\n",
         "[*Crazy Speed Jericoss]": "[*Crazy Speed Jericoss]\n80000002\n04000000 00C48BF8 00000000\n20000000\n\n",
         "[hitanywhere all weapon]": "[hitanywhere all weapon]\n04000000 00569630 D503201F\n\n"
+    },
+    "7AEABB797C931714": {
+        "[hitanywhere all weapon on]": "[hitanywhere all weapon on]\n04000000 00569630 D503201F\n\n",
+        "[hitanywhere all weapon off]": "[hitanywhere all weapon off]\n04000000 00569630 72001C1F\n\n"
     },
     "attribution": {
         "NINJA GAIDEN \u03a3 ver 1.0.1 by DaBlachDeath and Patjenova Matias3ds xtatu gamerjin Hazerou.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",

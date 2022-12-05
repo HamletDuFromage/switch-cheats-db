@@ -1,13 +1,4 @@
 {
-    "2277B2804ED2C1C6": {
-        "[Breeze beta19 SUPER ROBOT WARS 30 1.2.3 TID: 010022201229A000 BID: 2277B2804ED2C1C6]": "[Breeze beta19 SUPER ROBOT WARS 30 1.2.3 TID: 010022201229A000 BID: 2277B2804ED2C1C6]\n\n",
-        "[Stage Moves 0]": "[Stage Moves 0]\n02000000 01DB6B24 00000000\n\n",
-        "[Inf.Money]": "[Inf.Money]\n04000000 01DB6B00 05F5E0FF\n\n",
-        "[Inf.PP]": "[Inf.PP]\n04000000 01DB6B18 0098967F\n04000000 01DB6B20 0098967F\n\n",
-        "[Inf.MxP]": "[Inf.MxP]\n04000000 01DB6B0C 05F5E0FF\n\n",
-        "[Max Strength]": "[Max Strength]\n04000000 01DB6D0C 05F5E0FF\n\n",
-        "[Inf.Skill]": "[Inf.Skill]\n30000000 00000026\n04010000 01DB8B74 00000063\n78010000 00000018\n31000000\n\n"
-    },
     "E1A7BAF96C0B02F6": {
         "[Breeze beta19 SUPER ROBOT WARS 30 1.2.2 TID: 010022201229A000 BID: E1A7BAF96C0B02F6]": "[Breeze beta19 SUPER ROBOT WARS 30 1.2.2 TID: 010022201229A000 BID: E1A7BAF96C0B02F6]\n\n",
         "[Stage Moves 0]": "[Stage Moves 0]\n02000000 01DB4B24 00000000\n\n",
@@ -16,6 +7,15 @@
         "[Inf.MxP]": "[Inf.MxP]\n04000000 01DB4B0C 05F5E0FF\n\n",
         "[Max Strength]": "[Max Strength]\n04000000 01DB4D0C 05F5E0FF\n\n",
         "[Inf.All Skill]": "[Inf.All Skill]\n30000000 00000026 \n04010000 01DB6B74 00000063 \n78010000 00000018 \n31000000\n\n"
+    },
+    "2277B2804ED2C1C6": {
+        "[Breeze beta19 SUPER ROBOT WARS 30 1.2.3 TID: 010022201229A000 BID: 2277B2804ED2C1C6]": "[Breeze beta19 SUPER ROBOT WARS 30 1.2.3 TID: 010022201229A000 BID: 2277B2804ED2C1C6]\n\n",
+        "[Stage Moves 0]": "[Stage Moves 0]\n02000000 01DB6B24 00000000\n\n",
+        "[Inf.Money]": "[Inf.Money]\n04000000 01DB6B00 05F5E0FF\n\n",
+        "[Inf.PP]": "[Inf.PP]\n04000000 01DB6B18 0098967F\n04000000 01DB6B20 0098967F\n\n",
+        "[Inf.MxP]": "[Inf.MxP]\n04000000 01DB6B0C 05F5E0FF\n\n",
+        "[Max Strength]": "[Max Strength]\n04000000 01DB6D0C 05F5E0FF\n\n",
+        "[Inf.Skill]": "[Inf.Skill]\n30000000 00000026\n04010000 01DB8B74 00000063\n78010000 00000018\n31000000\n\n"
     },
     "attribution": {
         "Super Robot Wars 30 by Neograzon.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."

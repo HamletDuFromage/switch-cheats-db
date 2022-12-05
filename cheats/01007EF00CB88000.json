@@ -1,4 +1,10 @@
 {
+    "49A4A5CFF8450314": {
+        "[Inf Health]": "[Inf Health]\n020F0000 0070A556 000003E7\n\n",
+        "[Inf Ammo]": "[Inf Ammo]\n040F0000 0070A558 03E703E7\n040F0000 0070A55C 03E703E7\n040F0000 0070A560 03E703E7\n040F0000 0070A564 03E703E7\n040F0000 0070A568 03E703E7\n040F0000 0070A56C 03E703E7\n040F0000 0070A570 03E703E7\n020F0000 0070A576 000003E7\n\n",
+        "[Inf Armor]": "[Inf Armor]\n040F0000 0070A600 03E703E7\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n020F0000 0070A58C 000000B5\n20000000\n\n"
+    },
     "68EA5BFA8DAA9371": {
         "[HP x999]": "[HP x999]\n02000000 0119F90E 000003E7\n02000000 0070b556 000003E7\n\n",
         "[ARMOR x999]": "[ARMOR x999]\n02000000 0070B602 000003E7\n\n",
@@ -12,12 +18,6 @@
         "[Night Vision Goggles x100]": "[Night Vision Goggles x100]\n02000000 0070B5BC 000004B0\n\n",
         "[AMMO x99]": "[AMMO x99]\n300E0000 00000009\n02000000 0070B55C 00000063\n78000000 00000002\n310E0000\n\n",
         "[Moon Jump @made by spiderman for gbatemp]": "[Moon Jump @made by spiderman for gbatemp]\n80000002\n020F0000 0070b58C 000000B5\n20000000\n\n"
-    },
-    "49A4A5CFF8450314": {
-        "[Inf Health]": "[Inf Health]\n020F0000 0070A556 000003E7\n\n",
-        "[Inf Ammo]": "[Inf Ammo]\n040F0000 0070A558 03E703E7\n040F0000 0070A55C 03E703E7\n040F0000 0070A560 03E703E7\n040F0000 0070A564 03E703E7\n040F0000 0070A568 03E703E7\n040F0000 0070A56C 03E703E7\n040F0000 0070A570 03E703E7\n020F0000 0070A576 000003E7\n\n",
-        "[Inf Armor]": "[Inf Armor]\n040F0000 0070A600 03E703E7\n\n",
-        "[Moon Jump]": "[Moon Jump]\n80000002\n020F0000 0070A58C 000000B5\n20000000\n\n"
     },
     "attribution": {
         "Duke Nukem 3D 20th Anniversary World Tour ver 1.0.0 by ZiT and ver 1.2.0 by DaBlackDeath.txt": " Inf Health should be used in conjunction with Inf Armor."

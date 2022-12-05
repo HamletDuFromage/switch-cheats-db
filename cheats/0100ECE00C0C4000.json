@@ -1,4 +1,13 @@
 {
+    "265D097CCE8D8A49": {
+        "[Invulnerable]": "[Invulnerable]\n04000000 00167BC0 D503201F\n\n",
+        "[Free Upgrades]": "[Free Upgrades]\n04000000 00201FF4 52800000\n\n",
+        "[Remove Upgrade Level Restriction]": "[Remove Upgrade Level Restriction]\n04000000 0046B3AC 52800001\n\n",
+        "[No Reload]": "[No Reload]\n04000000 001DAE7C D503201F\n04000000 00395374 D503201F\n\n",
+        "[Inf Superpower]": "[Inf Superpower]\n04000000 002F073C D503201F\n\n",
+        "[9999x Ink Black]": "[9999x Ink Black]\n04000000 001EC458 5284E1F3\n\n",
+        "[9999x Ink Gold by collect]": "[9999x Ink Gold by collect]\n04000000 0017A08C 5284E1E8\n\n"
+    },
     "069084599B9FE640": {
         "[Invulnerable]": "[Invulnerable]\n04000000 00165814 D503201F\n\n",
         "[Free Upgrades]": "[Free Upgrades]\n04000000 001FD1D4 52800000\n\n",
@@ -15,15 +24,6 @@
         "[ink incl gold x8]": "[ink incl gold x8]\n04000000 02A80710 52800103\n04000000 02A80714 1B037C21\n04000000 02A80718 2A0203F5\n04000000 02A8071C D65F03C0\n04000000 00147258 94A4E52E\n\n",
         "[ink incl gold x16]": "[ink incl gold x16]\n04000000 02A80710 52800203\n04000000 02A80714 1B037C21\n04000000 02A80718 2A0203F5\n04000000 02A8071C D65F03C0\n04000000 00147258 94A4E52E\n\n",
         "[ink incl gold multiplier reset]": "[ink incl gold multiplier reset]\n04000000 00147258 2A0203F5\n\n"
-    },
-    "265D097CCE8D8A49": {
-        "[Invulnerable]": "[Invulnerable]\n04000000 00167BC0 D503201F\n\n",
-        "[Free Upgrades]": "[Free Upgrades]\n04000000 00201FF4 52800000\n\n",
-        "[Remove Upgrade Level Restriction]": "[Remove Upgrade Level Restriction]\n04000000 0046B3AC 52800001\n\n",
-        "[No Reload]": "[No Reload]\n04000000 001DAE7C D503201F\n04000000 00395374 D503201F\n\n",
-        "[Inf Superpower]": "[Inf Superpower]\n04000000 002F073C D503201F\n\n",
-        "[9999x Ink Black]": "[9999x Ink Black]\n04000000 001EC458 5284E1F3\n\n",
-        "[9999x Ink Gold by collect]": "[9999x Ink Gold by collect]\n04000000 0017A08C 5284E1E8\n\n"
     },
     "attribution": {
         "Fury Unleashed v1.1.1 and 1.2.1 by DaBlackDeath ver 1.3.0 translated by felonious.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."

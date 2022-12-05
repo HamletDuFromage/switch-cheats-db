@@ -1,5 +1,5 @@
 {
-    "9B4979A234077441": {
+    "AC7114153A1DA944": {
         "[01# Carry Capacity 1000]": "[01# Carry Capacity 1000]\n04000000 01E769CC 447A0000\n04000000 01E769B4 1C0000C0\n\n",
         "[Carry Capacity 1000 (off)]": "[Carry Capacity 1000 (off)]\n04000000 01E769CC D503201F\n04000000 01E769B4 1E202900\n\n",
         "[02# Inf Campfire fuel]": "[02# Inf Campfire fuel]\n04000000 01C79AA8 D503201F\n\n",
@@ -18,7 +18,7 @@
         "[Max Calories (off)]": "[Max Calories (off)]\n04000000 020119CC D503201F\n04000000 02011D30 BD001A69\n\n",
         "[09# Inf health]": "[09# Inf health]\n04000000 01CAF0EC 42DC0000\n04000000 01CAEDF4 1C001769\n\n"
     },
-    "AC7114153A1DA944": {
+    "9B4979A234077441": {
         "[01# Carry Capacity 1000]": "[01# Carry Capacity 1000]\n04000000 01E769CC 447A0000\n04000000 01E769B4 1C0000C0\n\n",
         "[Carry Capacity 1000 (off)]": "[Carry Capacity 1000 (off)]\n04000000 01E769CC D503201F\n04000000 01E769B4 1E202900\n\n",
         "[02# Inf Campfire fuel]": "[02# Inf Campfire fuel]\n04000000 01C79AA8 D503201F\n\n",

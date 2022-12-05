@@ -1,15 +1,4 @@
 {
-    "B7FF059E225348DF": {
-        "[empty potty]": "[empty potty]\n04000000 09E8198C 0000000A\n\n",
-        "[first aid kit]": "[first aid kit]\n04000000 09E81808 0000000A\n\n",
-        "[coin]": "[coin]\n04000000 09E818A4 0000000A\n\n",
-        "[handkerchief]": "[handkerchief]\n04000000 09E81884 0000000A\n\n",
-        "[ring]": "[ring]\n04000000 09E8186C 0000000A\n\n",
-        "[depleted u ball]": "[depleted u ball]\n04000000 09E818DC 0000000A\n\n",
-        "[XP = 10]": "[XP = 10]\n04000000 09E81380 0000000A\n\n",
-        "[ammo on hand]": "[ammo on hand]\n04000000 09E818A0 00000063\n\n",
-        "[ammo in gun]": "[ammo in gun]\n04000000 09E817E8 00000063\n\n"
-    },
     "BA30581E9C9E6C3B": {
         "[Inf. Health (On)]": "[Inf. Health (On)]\n040C0000 0002FBB8 D503201F\n\n",
         "[Inf. Health (Off)]": "[Inf. Health (Off)]\n040C0000 0002FBB8 B9054268\n\n",
@@ -63,6 +52,17 @@
         "[Water]": "[Water]\n040C0000 09E834C0 00000001\n040C0000 09E838E8 0000000A\n\n",
         "[Wrist Watch]": "[Wrist Watch]\n040C0000 09E83468 00000001\n040C0000 09E83890 0000000A\n\n",
         "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n"
+    },
+    "B7FF059E225348DF": {
+        "[empty potty]": "[empty potty]\n04000000 09E8198C 0000000A\n\n",
+        "[first aid kit]": "[first aid kit]\n04000000 09E81808 0000000A\n\n",
+        "[coin]": "[coin]\n04000000 09E818A4 0000000A\n\n",
+        "[handkerchief]": "[handkerchief]\n04000000 09E81884 0000000A\n\n",
+        "[ring]": "[ring]\n04000000 09E8186C 0000000A\n\n",
+        "[depleted u ball]": "[depleted u ball]\n04000000 09E818DC 0000000A\n\n",
+        "[XP = 10]": "[XP = 10]\n04000000 09E81380 0000000A\n\n",
+        "[ammo on hand]": "[ammo on hand]\n04000000 09E818A0 00000063\n\n",
+        "[ammo in gun]": "[ammo in gun]\n04000000 09E817E8 00000063\n\n"
     },
     "attribution": {
         "UnMetal ver 1.1.0 by tomswitch.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"

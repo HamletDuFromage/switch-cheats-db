@@ -1,17 +1,17 @@
 {
-    "88C0CD2F98B39F8B": {
-        "[Master Code]": "[Master Code]\n04000000 00F61778 38686800\n04000000 014FF9E0 F81E0FF3\n04000000 019199A0 A9BD57F6\n04000000 01919AB4 97FFADD3\n\n",
-        "[Trial to Full]": "[Trial to Full]\n04000000 00F61778 52800000\n\n",
-        "[No Damage]": "[No Damage]\n04000000 014FF9E0 D65F03C0\n\n",
-        "[Inf Ammo]": "[Inf Ammo]\n04000000 019199A0 D65F03C0\n\n",
-        "[clip]": "[clip]\n04000000 01919AB4 D503201F\n\n"
-    },
     "21A35D07D6E6C2F0": {
         "[Trial to Full]": "[Trial to Full]\n04000000 00F56FF8 52800000\n\n",
         "[Inf Ammo]": "[Inf Ammo]\n04000000 08A17D60 00000001\n\n",
         "[Inf Health Player - not sister]": "[Inf Health Player - not sister]\n04000000 014EF0D8 1E2703E2\n\n",
         "[No Damage - both players]": "[No Damage - both players]\n04000000 014EEFA0 D65F03C0\n\n",
         "[Coins 9999999]": "[Coins 9999999]\n040F0000 072739b0 0098967F\n\n"
+    },
+    "88C0CD2F98B39F8B": {
+        "[Master Code]": "[Master Code]\n04000000 00F61778 38686800\n04000000 014FF9E0 F81E0FF3\n04000000 019199A0 A9BD57F6\n04000000 01919AB4 97FFADD3\n\n",
+        "[Trial to Full]": "[Trial to Full]\n04000000 00F61778 52800000\n\n",
+        "[No Damage]": "[No Damage]\n04000000 014FF9E0 D65F03C0\n\n",
+        "[Inf Ammo]": "[Inf Ammo]\n04000000 019199A0 D65F03C0\n\n",
+        "[clip]": "[clip]\n04000000 01919AB4 D503201F\n\n"
     },
     "attribution": {
         "Wolfenstein Youngblood v1.1.txt": ""

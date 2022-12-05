@@ -1,11 +1,4 @@
 {
-    "B8030081E944E100": {
-        "[Player Infinite HP]": "[Player Infinite HP]\n08000000 0927187c 00002af8 00002af8\n\n",
-        "[Player Infinite Magic Gauge]": "[Player Infinite Magic Gauge]\n04000000 09271890 00009c40\n\n",
-        "[Player Infinite Moon Gauge]": "[Player Infinite Moon Gauge]\n04000000 092721ec 00002710\n\n",
-        "[CPU No Magic Circuit Gauge]": "[CPU No Magic Circuit Gauge]\n04000000 092725b8 00000000\n\n",
-        "[CPU No Moon Gauge]": "[CPU No Moon Gauge]\n04000000 09272f14 00000000\n\n"
-    },
     "46FFD77D1647F1AE": {
         "[Invincible by Eiffel2018]": "[Invincible by Eiffel2018]\n080E0000 004F7E00 6B1F013F 39402269\n080E0000 004F7E08 4B1A0108 1A9A03FA\n080E0000 004F7E10 D65F03C0 B900D7FA\n040E0000 000E4080 94104F60\n\n",
         "[Player Infinite HP]": "[Player Infinite HP]\n08000000 0925a9e4 00002af8 00002af8\n\n",
@@ -13,6 +6,13 @@
         "[PLayer Infinite Moon Gauge]": "[PLayer Infinite Moon Gauge]\n04000000 0925b344 00002710\n\n",
         "[CPU Infinite Magic Circuit Gague]": "[CPU Infinite Magic Circuit Gague]\n04000000 0925b708 00000000\n\n",
         "[CPU No Moon Gauge]": "[CPU No Moon Gauge]\n04000000 0925c054 00000000\n\n"
+    },
+    "B8030081E944E100": {
+        "[Player Infinite HP]": "[Player Infinite HP]\n08000000 0927187c 00002af8 00002af8\n\n",
+        "[Player Infinite Magic Gauge]": "[Player Infinite Magic Gauge]\n04000000 09271890 00009c40\n\n",
+        "[Player Infinite Moon Gauge]": "[Player Infinite Moon Gauge]\n04000000 092721ec 00002710\n\n",
+        "[CPU No Magic Circuit Gauge]": "[CPU No Magic Circuit Gauge]\n04000000 092725b8 00000000\n\n",
+        "[CPU No Moon Gauge]": "[CPU No Moon Gauge]\n04000000 09272f14 00000000\n\n"
     },
     "030E8ED4B6ECD104": {
         "[Player Infinite HP v104]": "[Player Infinite HP v104]\n08000000 092619e4 00002af8 00002af8\n\n",

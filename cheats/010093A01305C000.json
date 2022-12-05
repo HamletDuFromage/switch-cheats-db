@@ -1,9 +1,4 @@
 {
-    "2D10BE721F63E813": {
-        "[1p hit kill]": "[1p hit kill]\n04000000 033D17EC 1E27F000\n\n",
-        "[1p inf health]": "[1p inf health]\n04000000 033D1AEC 1E3E1000\n\n",
-        "[1p hit rangue 31x]": "[1p hit rangue 31x]\n04000000 027F86C4 1E27F000\n\n"
-    },
     "D95BAAADDE3908EF": {
         "[slot1 99 items]": "[slot1 99 items]\n580F0000 0CD7A060\n580F1000 00000068\n580F1000 00000018\n580F1000 00000020\n580F1000 00000020\n780F0000 00000014\n640F0000 00000000 00000063\n\n",
         "[slot1 is max potion]": "[slot1 is max potion]\n580F0000 0CD7A060\n580F1000 00000068\n580F1000 00000018\n580F1000 00000020\n580F1000 00000020\n780F0000 00000010\n640F0000 00000000 04100005\n\n",
@@ -31,6 +26,11 @@
         "[HP Cap Max 1/2]": "[HP Cap Max 1/2]\n58000000 0CD79580\n58001000 00000028\n58001000 000000D0\n58001000 00000118\n78000000 00000014\n61000000 00000000 00000096\n\n",
         "[HP Cap Max 2/2]": "[HP Cap Max 2/2]\n58000000 0CD79580\n58001000 00000028\n58001000 000000D0\n58001000 00000118\n78000000 00000018\n61000000 00000000 00000096\n\n",
         "[HP Max]": "[HP Max]\n58000000 0CD79580\n58001000 00000028\n58001000 000000D0\n58001000 00000118\n78000000 00000010\n61000000 00000000 00000096\n\n"
+    },
+    "2D10BE721F63E813": {
+        "[1p hit kill]": "[1p hit kill]\n04000000 033D17EC 1E27F000\n\n",
+        "[1p inf health]": "[1p inf health]\n04000000 033D1AEC 1E3E1000\n\n",
+        "[1p hit rangue 31x]": "[1p hit rangue 31x]\n04000000 027F86C4 1E27F000\n\n"
     },
     "attribution": {
         "MONSTER HUNTER RISE DEMO by TomSwitch and Xtatu genesic8062 Hazerou demo ver 1.2 by Xtatu.txt": "Ammo 255 don't always work. The other two seems to be consistent"

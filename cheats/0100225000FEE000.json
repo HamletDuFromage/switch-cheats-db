@@ -1,4 +1,8 @@
 {
+    "CB248EFC0E80B579": {
+        "[Ship Energy unlimited]": "[Ship Energy unlimited]\n01100000 20049014 00000008\n\n",
+        "[Human Energy unlimited]": "[Human Energy unlimited]\n01100000 20049674 00000008\n\n"
+    },
     "2F3FCA7B168909B9": {
         "[Infinite SP]": "[Infinite SP]\n01000000 0073ecea 00000008\n\n",
         "[Infinite HP]": "[Infinite HP]\n540f0000 0073ed84\n540f1000 00000328\n740f0000 0000000c\n610f0000 00000000 00000010\n\n",
@@ -22,10 +26,6 @@
         "[Have All Keys]": "[Have All Keys]\n01000000 003dfc40 0000001f\n\n",
         "[Have All Maps]": "[Have All Maps]\n02000000 003dfc41 000001ff\n\n",
         "[Unlock EXTRA]": "[Unlock EXTRA]\n01000000 003dfc11 00000001\n\n"
-    },
-    "CB248EFC0E80B579": {
-        "[Ship Energy unlimited]": "[Ship Energy unlimited]\n01100000 20049014 00000008\n\n",
-        "[Human Energy unlimited]": "[Human Energy unlimited]\n01100000 20049674 00000008\n\n"
     },
     "attribution": {
         "Blaster Master Zero ver 1.5.2 by merlin555.txt": " Inf Health should be used in conjunction with Inf Armor."

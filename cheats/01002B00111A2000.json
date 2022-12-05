@@ -17,6 +17,9 @@
         "Hyrule Warriors Age of Calamity ver 1.2.1 by xtatu 1.2.0 by ThetwilightZone1.1.0 by xtatu by CJB on gbatemp.txt": "",
         "Hyrule Warriors Age of Calamity ver 1.0.0 by CJB and arismendy64 on gbatemp.txt": "My cheats only works on the most latest version v1.01\nItems will unlock, if you don't have.\n100LV will be appeared when a battle is finished. (i.e. the moment of LV up)\nFor the Max HP cheat, it will always appear on the first character, if you change the actor by pressing UP, all other character and emery will have a HP of 45/45 Heart. (Max 140 actors) I recommend you use this cheat together with #3 & #4.\n\nDue to the limitation of SXOS and the codes are too long,\nif you face the cheat doesn't work, you may press - to disable all the cheats and enable them one by one."
     },
+    "3A2D1227979971E5": {
+        "[1p inf heath]": "[1p inf heath]\n04000000 00010658 1E3E1009\n\n"
+    },
     "5A982FA25220E4DF": {
         "[inf hp link @made by arismendy64 on gbatemp]": "[inf hp link @made by arismendy64 on gbatemp]\n580F0000 02515630\n780F0000 001744B4\n640F0000 00000000 46D48000\n\n",
         "[Rupees x9999999 @made by CJB]": "[Rupees x9999999 @made by CJB]\n04100000 487E73A4 0098967F\n\n",
@@ -178,6 +181,34 @@
         "[Zelda: Costume 3 @CJB]": "[Zelda: Costume 3 @CJB]\n01100000 487E5E76 00000036\n\n",
         "[Zelda: Costume Default @CJB]": "[Zelda: Costume Default @CJB]\n01100000 487E5E76 00000033\n\n"
     },
+    "0496D4B4C6AE1CF4": {
+        "[hit anywhere on]": "[hit anywhere on]\n04000000 00092584 D503201F\n\n",
+        "[hit anywhere off ZR]": "[hit anywhere off ZR]\n80000200\n04000000 00092584 1e222860\n20000000\n\n",
+        "[1p inf heath]": "[1p inf heath]\n04000000 000105B0 1E37F009\n\n",
+        "[1p atack modific damager 31x]": "[1p atack modific damager 31x]\n04000000 000109F8 1E27F009\n\n",
+        "[1p speed normal attack]": "[1p speed normal attack]\n04000000 000AAD60 1E2E1000\n\n",
+        "[1p 2x speed attack]": "[1p 2x speed attack]\n04000000 000AAD60 1E201000\n\n",
+        "[1p 3x speed attack]": "[1p 3x speed attack]\n04000000 000AAD60 1E211000\n\n",
+        "[1p 10x speed attack]": "[1p 10x speed attack]\n04000000 000AAD60 1E249000\n\n",
+        "[Infinite Rupees (sets to 99,999)]": "[Infinite Rupees (sets to 99,999)]\n041F0000 48954D64 0001869F\n\n"
+    },
+    "908CD685037018E9": {
+        "[Max Rupees @TheTwilightZone]": "[Max Rupees @TheTwilightZone]\n58000000 026558B8\n58001000 000001C8\n58001000 00000008\n58001000 00000008\n58001000 00000000\n78000000 00000064\n64000000 00000000 0098967F\n\n",
+        "[Store Stocks x100 @TheTwilightZone]": "[Store Stocks x100 @TheTwilightZone]\n580F0000 02655910\n580F1000 00000048\n580F1000 00000100\n580F1000 00000060\n580F1000 000000B0\n580F1000 00000050\n780F0000 00000024\n30010000 00000007\n640F0000 00000000 00000064\n780F0000 00000008\n31010000 20000000\n\n",
+        "[Infinite Flame Rod @TheTwilightZone]": "[Infinite Flame Rod @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 000003C8\n780F0000 00000900\n640F0000 00000000 00000005\n\n",
+        "[Infinite Blizzard Rod @TheTwilightZone]": "[Infinite Blizzard Rod @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 000003C8\n780F0000 00000904\n640F0000 00000000 00000005\n\n",
+        "[Infinite Thunder Rod @TheTwilightZone]": "[Infinite Thunder Rod @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 000003C8\n780F0000 00000908\n640F0000 00000000 00000005\n\n",
+        "[Infinite Apples @TheTwilightZone]": "[Infinite Apples @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 000003C8\n780F0000 0000091C\n640F0000 00000000 00000007\n\n",
+        "[Instant Rune Charge @TheTwilightZone]": "[Instant Rune Charge @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n780F0000 00000064\n640F0000 00000000 00000000\n\n",
+        "[Impa 7 Shadows @TheTwilightZone]": "[Impa 7 Shadows @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 00000008\n780F0000 000000C0\n640F1000 00000000 00000007\n\n",
+        "[Special Power Maximum @TheTwilightZone]": "[Special Power Maximum @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 00000008\n780F0000 00000044\n640F0000 00000000 00010303\n\n",
+        "[1p normal speed]": "[1p normal speed]\n04000000 000BAA60 1E2E1000\n\n",
+        "[1p 2x speed]": "[1p 2x speed]\n04000000 000BAA60 1E201000\n\n",
+        "[1p 3x speed]": "[1p 3x speed]\n04000000 000BAA60 1E211000\n\n",
+        "[1p inf heath]": "[1p inf heath]\n04000000 000102B0 1E37F009\n\n",
+        "[1p attack up 31x]": "[1p attack up 31x]\n04000000 00010AA0 1E27F009\n\n",
+        "[1p hit range 31x]": "[1p hit range 31x]\n04000000 0009E9C4 1E27F009\n\n"
+    },
     "935EBE83C4A06583": {
         "[inf hp link @made by arismendy64 on gbatemp]": "[inf hp link @made by arismendy64 on gbatemp]\n580F0000 02515630\n780F0000 001744B4\n640F0000 00000000 46D48000\n\n",
         "[Rupees x9999999 @made by CJB]": "[Rupees x9999999 @made by CJB]\n04100000 487E73A4 0098967F\n\n",
@@ -258,36 +289,5 @@
         "[#3 Max all Charaters' ATK and DEF @Eiffel2018]": "[#3 Max all Charaters' ATK and DEF @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E4E\n300E0000 00000012\n640F0000 00000000 270F270F\n780F0000 00000020\n310E0000\n\n",
         "[#4 Max all Charaters Hearts @Eiffel2018]": "[#4 Max all Charaters Hearts @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E4C\n300E0000 00000012\n610F0000 00000000 0000002D\n780F0000 00000020\n310E0000\n\n",
         "[#5 Max HP @Eiffel2018]": "[#5 Max HP @Eiffel2018]\n580F0000 025170D8\n780F0000 4A46F554\n680F1000 468CA000 468CA000\n640F1000 00000000 468CA000\n80002000\n300E0000 0000008B\n780F0000 00000050\n680F1000 468CA000 468CA000\n640F1000 00000000 468CA000\n310E0000\n20000000\n\n"
-    },
-    "908CD685037018E9": {
-        "[Max Rupees @TheTwilightZone]": "[Max Rupees @TheTwilightZone]\n58000000 026558B8\n58001000 000001C8\n58001000 00000008\n58001000 00000008\n58001000 00000000\n78000000 00000064\n64000000 00000000 0098967F\n\n",
-        "[Store Stocks x100 @TheTwilightZone]": "[Store Stocks x100 @TheTwilightZone]\n580F0000 02655910\n580F1000 00000048\n580F1000 00000100\n580F1000 00000060\n580F1000 000000B0\n580F1000 00000050\n780F0000 00000024\n30010000 00000007\n640F0000 00000000 00000064\n780F0000 00000008\n31010000 20000000\n\n",
-        "[Infinite Flame Rod @TheTwilightZone]": "[Infinite Flame Rod @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 000003C8\n780F0000 00000900\n640F0000 00000000 00000005\n\n",
-        "[Infinite Blizzard Rod @TheTwilightZone]": "[Infinite Blizzard Rod @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 000003C8\n780F0000 00000904\n640F0000 00000000 00000005\n\n",
-        "[Infinite Thunder Rod @TheTwilightZone]": "[Infinite Thunder Rod @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 000003C8\n780F0000 00000908\n640F0000 00000000 00000005\n\n",
-        "[Infinite Apples @TheTwilightZone]": "[Infinite Apples @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 000003C8\n780F0000 0000091C\n640F0000 00000000 00000007\n\n",
-        "[Instant Rune Charge @TheTwilightZone]": "[Instant Rune Charge @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n780F0000 00000064\n640F0000 00000000 00000000\n\n",
-        "[Impa 7 Shadows @TheTwilightZone]": "[Impa 7 Shadows @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 00000008\n780F0000 000000C0\n640F1000 00000000 00000007\n\n",
-        "[Special Power Maximum @TheTwilightZone]": "[Special Power Maximum @TheTwilightZone]\n580F0000 02A37808\n580F1000 00000030\n580F1000 00000008\n780F0000 00000044\n640F0000 00000000 00010303\n\n",
-        "[1p normal speed]": "[1p normal speed]\n04000000 000BAA60 1E2E1000\n\n",
-        "[1p 2x speed]": "[1p 2x speed]\n04000000 000BAA60 1E201000\n\n",
-        "[1p 3x speed]": "[1p 3x speed]\n04000000 000BAA60 1E211000\n\n",
-        "[1p inf heath]": "[1p inf heath]\n04000000 000102B0 1E37F009\n\n",
-        "[1p attack up 31x]": "[1p attack up 31x]\n04000000 00010AA0 1E27F009\n\n",
-        "[1p hit range 31x]": "[1p hit range 31x]\n04000000 0009E9C4 1E27F009\n\n"
-    },
-    "3A2D1227979971E5": {
-        "[1p inf heath]": "[1p inf heath]\n04000000 00010658 1E3E1009\n\n"
-    },
-    "0496D4B4C6AE1CF4": {
-        "[hit anywhere on]": "[hit anywhere on]\n04000000 00092584 D503201F\n\n",
-        "[hit anywhere off ZR]": "[hit anywhere off ZR]\n80000200\n04000000 00092584 1e222860\n20000000\n\n",
-        "[1p inf heath]": "[1p inf heath]\n04000000 000105B0 1E37F009\n\n",
-        "[1p atack modific damager 31x]": "[1p atack modific damager 31x]\n04000000 000109F8 1E27F009\n\n",
-        "[1p speed normal attack]": "[1p speed normal attack]\n04000000 000AAD60 1E2E1000\n\n",
-        "[1p 2x speed attack]": "[1p 2x speed attack]\n04000000 000AAD60 1E201000\n\n",
-        "[1p 3x speed attack]": "[1p 3x speed attack]\n04000000 000AAD60 1E211000\n\n",
-        "[1p 10x speed attack]": "[1p 10x speed attack]\n04000000 000AAD60 1E249000\n\n",
-        "[Infinite Rupees (sets to 99,999)]": "[Infinite Rupees (sets to 99,999)]\n041F0000 48954D64 0001869F\n\n"
     }
 }

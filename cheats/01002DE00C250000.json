@@ -12,16 +12,6 @@
     "attribution": {
         "Children of Morta v1.0.0 by DaBlackDeath and ZiT ver 1.0.9 by patjenova 1.0.7 and 1.0.8 Patjenova.txt": ""
     },
-    "657485006BD26747": {
-        "[01# Inf Health]": "[01# Inf Health]\n040A0000 000F1160 BD406C00\n\n",
-        "[02# Always have Evade]": "[02# Always have Evade]\n040A0000 005C704C 1E2E1000\n\n",
-        "[03# Inf Stamina]": "[03# Inf Stamina]\n040A0000 00164FA0 D65F03C0\n\n",
-        "[04# No Skill Cooldown]": "[04# No Skill Cooldown]\n040A0000 0004AAC4 52800020\n\n",
-        "[05# get merv x9999999 on collect]": "[05# get merv x9999999 on collect]\n040A0000 002E1BA8 5292CFE9\n040A0000 002E1BAC 72A01309\n\n",
-        "[06# Gemstone x9999 on collect]": "[06# Gemstone x9999 on collect]\n040A0000 01B4DE6C 5284E1F5\n\n",
-        "[07# ignore skill points]": "[07# ignore skill points]\n040A0000 01B2549C 6B00001F\n\n",
-        "[08# Ignore gemstone]": "[08# Ignore gemstone]\n040A0000 003EF45C 6B09013F\n\n"
-    },
     "D76CDB57CA4E8A4C": {
         "[01# Always have Evade]": "[01# Always have Evade]\n04000000 00392E5C 1E2E1000\n\n",
         "[Always have Evade (off)]": "[Always have Evade (off)]\n04000000 00392E5C BD401800\n\n",
@@ -49,5 +39,15 @@
         "[Inf Stamina]": "[Inf Stamina]\n580F0000 043B8230\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n580F1000 00000138\n780F0000 00000028\n640F0000 00000000 4479C000\n\n",
         "[Inf Evade]": "[Inf Evade]\n580F0000 043B8230\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n580F1000 00000160\n780F0000 00000020\n640F0000 00000000 50000000\n\n",
         "[Speed Up]": "[Speed Up]\n580F0000 043B8230\n580F1000 000000A0\n580F1000 00000020\n580F1000 00000020\n580F1000 000000D0\n780F0000 00000028\n640F0000 00000000 40400000\n\n"
+    },
+    "657485006BD26747": {
+        "[01# Inf Health]": "[01# Inf Health]\n040A0000 000F1160 BD406C00\n\n",
+        "[02# Always have Evade]": "[02# Always have Evade]\n040A0000 005C704C 1E2E1000\n\n",
+        "[03# Inf Stamina]": "[03# Inf Stamina]\n040A0000 00164FA0 D65F03C0\n\n",
+        "[04# No Skill Cooldown]": "[04# No Skill Cooldown]\n040A0000 0004AAC4 52800020\n\n",
+        "[05# get merv x9999999 on collect]": "[05# get merv x9999999 on collect]\n040A0000 002E1BA8 5292CFE9\n040A0000 002E1BAC 72A01309\n\n",
+        "[06# Gemstone x9999 on collect]": "[06# Gemstone x9999 on collect]\n040A0000 01B4DE6C 5284E1F5\n\n",
+        "[07# ignore skill points]": "[07# ignore skill points]\n040A0000 01B2549C 6B00001F\n\n",
+        "[08# Ignore gemstone]": "[08# Ignore gemstone]\n040A0000 003EF45C 6B09013F\n\n"
     }
 }

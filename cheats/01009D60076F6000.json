@@ -1,15 +1,4 @@
 {
-    "41353EF03C96CF44": {
-        "[HP Max]": "[HP Max]\n04000000 0153ACF4 BD406C00\n04000000 0153ACF8 BD007000\n\n",
-        "[No Reload]": "[No Reload]\n04000000 00DD9F74 52800008\n04000000 00DDB87C 52800014\n04000000 00DDC5A8 1E2703E1\n\n",
-        "[Inf Blank]": "[Inf Blank]\n04000000 01119D24 528000A1\n04000000 01119D28 B9021001\n\n",
-        "[Change Key 99]": "[Change Key 99]\n04000000 00DEB410 52800C61\n\n",
-        "[Mouse Stage Inf HP]": "[Mouse Stage Inf HP]\n04000000 011D6540 1E2703E8\n\n",
-        "[Mouse Stage Inf Time]": "[Mouse Stage Inf Time]\n04000000 011CD6B0 1E2703E8\n\n",
-        "[Rainbow Box]": "[Rainbow Box]\n04000000 010D9C98 D503201F\n\n",
-        "[Rainbow Box Disable]": "[Rainbow Box Disable]\n04000000 010D9C98 54000081\n\n",
-        "[Enter Secret Stage no need Keys]": "[Enter Secret Stage no need Keys]\n04000000 024C0B0C 10003482\n04000000 024C0B00 52800028\n04000000 024C0B04 3901A008\n04000000 024C0B08 D65F03C0\n04000000 012314E4 944A3D87\n\n"
-    },
     "0988BA5931F79147": {
         "[Invulnerable]": "[Invulnerable]\n580F0000 03E11418\n580F1000 000000A0\n580F1000 00000050\n580F1000 000000E8\n580F1000 00000018\n580F1000 00000050\n780F0000 00000170\n610F0000 00000000 00000000\n\n",
         "[inf Money]": "[inf Money]\n04000000 005FFD24 5284E1F4\n\n",
@@ -55,6 +44,17 @@
         "[no reload by SveinParty]": "[no reload by SveinParty]\n04000000 005EEA4C D503201F\n\n",
         "[disable always Spawn Chests]": "[disable always Spawn Chests]\n04000000 00CDD214 1E2D2100\n\n",
         "[disable all chests are Rainbow]": "[disable all chests are Rainbow]\n04000000 008EE4FC 54000081\n\n"
+    },
+    "41353EF03C96CF44": {
+        "[HP Max]": "[HP Max]\n04000000 0153ACF4 BD406C00\n04000000 0153ACF8 BD007000\n\n",
+        "[No Reload]": "[No Reload]\n04000000 00DD9F74 52800008\n04000000 00DDB87C 52800014\n04000000 00DDC5A8 1E2703E1\n\n",
+        "[Inf Blank]": "[Inf Blank]\n04000000 01119D24 528000A1\n04000000 01119D28 B9021001\n\n",
+        "[Change Key 99]": "[Change Key 99]\n04000000 00DEB410 52800C61\n\n",
+        "[Mouse Stage Inf HP]": "[Mouse Stage Inf HP]\n04000000 011D6540 1E2703E8\n\n",
+        "[Mouse Stage Inf Time]": "[Mouse Stage Inf Time]\n04000000 011CD6B0 1E2703E8\n\n",
+        "[Rainbow Box]": "[Rainbow Box]\n04000000 010D9C98 D503201F\n\n",
+        "[Rainbow Box Disable]": "[Rainbow Box Disable]\n04000000 010D9C98 54000081\n\n",
+        "[Enter Secret Stage no need Keys]": "[Enter Secret Stage no need Keys]\n04000000 024C0B0C 10003482\n04000000 024C0B00 52800028\n04000000 024C0B04 3901A008\n04000000 024C0B08 D65F03C0\n04000000 012314E4 944A3D87\n\n"
     },
     "attribution": {
         "ENTER THE GUNGEON by patjenova found on 91wii and TomSwitch and Sveinparty.txt": ""

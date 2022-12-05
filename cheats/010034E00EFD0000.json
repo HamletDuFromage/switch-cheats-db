@@ -1,11 +1,11 @@
 {
-    "72353029E0DD9843": {
-        "[Inf Food]": "[Inf Food]\n04000000 002F4594 4B1F0108\n\n",
-        "[Inf Sight Range]": "[Inf Sight Range]\n04000000 002F4DF0 4B1F0108\n\n"
-    },
     "A845C02558E6E447": {
         "[Inf HP 999 Expedition]": "[Inf HP 999 Expedition]\n580F0000 053E3078\n580F1000 00000130\n780F0000 00000038\n640F0000 00000000 000003E7\n\n",
         "[Inf luminosity 999 Expedition]": "[Inf luminosity 999 Expedition]\n580F0000 053E3078\n580F1000 00000130\n780F0000 0000003C\n640F0000 00000000 000003E7\n\n"
+    },
+    "72353029E0DD9843": {
+        "[Inf Food]": "[Inf Food]\n04000000 002F4594 4B1F0108\n\n",
+        "[Inf Sight Range]": "[Inf Sight Range]\n04000000 002F4DF0 4B1F0108\n\n"
     },
     "9B3B5F6D3D95AE4C": {
         "[99 mil Gold]": "[99 mil Gold]\n041F0013 903a3e90 4cbebc20\n\n",
