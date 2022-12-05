@@ -80,10 +80,10 @@ jobs:
             gh release create $version -F changelog.md
             gh release upload $version ./gbatemp/contents.zip --clobber
             gh release upload $version ./gbatemp/titles.zip --clobber
-            gh release upload $version ./NX-60FPS-RES-GFX-Cheats-main/contents.zip#content(60fps-res-gfx).zip --clobber
-            gh release upload $version ./NX-60FPS-RES-GFX-Cheats-main/titles.zip#titles(60fps-res-gfx).zip --clobber
-            gh release upload $version ./complete/contents.zip#content(complete).zip --clobber
-            gh release upload $version ./complete/titles.zip#content(complete).zip --clobber
+            gh release upload $version ./NX-60FPS-RES-GFX-Cheats-main/contents.zip#contents_60fps-res-gfx --clobber
+            gh release upload $version ./NX-60FPS-RES-GFX-Cheats-main/titles.zip#titles_60fps-res-gfx --clobber
+            gh release upload $version ./complete/contents.zip#content_complete.zip --clobber
+            gh release upload $version ./complete/titles.zip#content_complete.zip --clobber
             gh release upload $version .VERSION --clobber
           else
             echo "Nothing to commit!"
