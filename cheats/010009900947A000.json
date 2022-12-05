@@ -1,14 +1,11 @@
 {
-    "4D266D1AD3E90E74": [
-        {
-            "content": "[Unlimited Money 1.0.4 version]\n04000000 01402980 0098967F",
-            "title": "[Unlimited Money 1.0.4 version]"
-        }
-    ],
-    "BDDCDA1760494F35": [
-        {
-            "content": "[Infinite Money]\n04000000 013b29a0 0098967F",
-            "title": "[Infinite Money]"
-        }
-    ]
+    "BDDCDA1760494F35": {
+        "[Infinite Money]": "[Infinite Money]\n04000000 013b29a0 0098967F\n\n"
+    },
+    "4D266D1AD3E90E74": {
+        "[Unlimited Money 1.0.4 version]": "[Unlimited Money 1.0.4 version]\n04000000 01402980 0098967F\n\n"
+    },
+    "attribution": {
+        "AtelierLydieSuelle.txt": ""
+    }
 }

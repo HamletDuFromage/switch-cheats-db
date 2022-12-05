@@ -1,28 +1,13 @@
 {
-    "768520E5EB082918": [
-        {
-            "content": "[Speed UP]\n580F0000 0246CC80\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000018\n640F0000 00000000 41500000\n\n",
-            "title": "[Speed UP]"
-        },
-        {
-            "content": "[Max Regeneration]\n580F0000 0246CC80\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000001C\n640F0000 00000000 42C7FAE1\n\n",
-            "title": "[Max Regeneration]"
-        },
-        {
-            "content": "[Max Shield Recharge]\n580F0000 0246CC80\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000020\n640F0000 00000000 4247C000\n\n",
-            "title": "[Max Shield Recharge]"
-        },
-        {
-            "content": "[Inf Health]\n580F0000 0246CC80\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000024\n640F0000 00000000 0000270F\n780F0000 00000008\n640F0000 00000000 0000270F\n\n",
-            "title": "[Inf Health]"
-        },
-        {
-            "content": "[Max Trap Detection]\n580F0000 0246CC80\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000028\n640F0000 00000000 0000270F\n\n",
-            "title": "[Max Trap Detection]"
-        },
-        {
-            "content": "[Max CR]\n580F0000 0246CC80\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000030\n640F0000 00000000 0000270F",
-            "title": "[Max CR]"
-        }
-    ]
+    "768520E5EB082918": {
+        "[Speed UP]": "[Speed UP]\n580F0000 0246CC80\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000018\n640F0000 00000000 41500000\n\n",
+        "[Max Regeneration]": "[Max Regeneration]\n580F0000 0246CC80\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000001C\n640F0000 00000000 42C7FAE1\n\n",
+        "[Max Shield Recharge]": "[Max Shield Recharge]\n580F0000 0246CC80\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000020\n640F0000 00000000 4247C000\n\n",
+        "[Inf Health]": "[Inf Health]\n580F0000 0246CC80\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000024\n640F0000 00000000 0000270F\n780F0000 00000008\n640F0000 00000000 0000270F\n\n",
+        "[Max Trap Detection]": "[Max Trap Detection]\n580F0000 0246CC80\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000028\n640F0000 00000000 0000270F\n\n",
+        "[Max CR]": "[Max CR]\n580F0000 0246CC80\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000030\n640F0000 00000000 0000270F\n\n"
+    },
+    "attribution": {
+        "Endurance - space action 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

@@ -1,160 +1,51 @@
 {
-    "64000C752A890EFB": [
-        {
-            "content": "{Mario Sunshine by Eiffel}\n580E0000 036FDD98\n580E1000 000002B8\n580E1000 00000038\n580E1000 00000030\n580E1000 00000008\n\n",
-            "title": "{Mario Sunshine by Eiffel}"
-        },
-        {
-            "content": "[#1 99 Coins]\n400F0000 00000000 0056DF60\n640E01F0 00000000 63000000\n\n",
-            "title": "[#1 99 Coins]"
-        },
-        {
-            "content": "[#2 99 Lifes]\n400F0000 00000000 0056DF04\n640E01F0 00000000 63000000\n\n",
-            "title": "[#2 99 Lifes]"
-        },
-        {
-            "content": "[#3 Inf. water tank]\n80000200\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0D4640\n780F0000 00000A78\n640F0000 00000000 D503201F\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0D32F0\n780F0000 00001054\n640F0000 00000000 D503201F\n20000000\n\n",
-            "title": "[#3 Inf. water tank]"
-        },
-        {
-            "content": "[#4 Inf. Energy]\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C083840\n780F0000 00000178\n640F0000 00000000 5280010E\n\n",
-            "title": "[#4 Inf. Energy]"
-        },
-        {
-            "content": "[#5 Inf. breathing under Water]\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C09A7B8\n780F0000 00003B3C\n640F0000 00000000 D503201F\n\n",
-            "title": "[#5 Inf. breathing under Water]"
-        },
-        {
-            "content": "[#6 Jetpack Mode (press Left + double X)]\n80001000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800056\n20000000\n",
-            "title": "[#6 Jetpack Mode (press Left + double X)]"
-        },
-        {
-            "content": "[#7 High Jump Mode (press Up + double X)]\n80002000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800036\n20000000\n",
-            "title": "[#7 High Jump Mode (press Up + double X)]"
-        },
-        {
-            "content": "[#8 Speed Up Mode (press Right + double X)]\n80004000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 528000B6\n20000000\n\n",
-            "title": "[#8 Speed Up Mode (press Right + double X)]"
-        },
-        {
-            "content": "[#9 Normal Mode (press Down + double X)]\n80008000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800096\n20000000\n\n",
-            "title": "[#9 Normal Mode (press Down + double X)]"
-        },
-        {
-            "content": "[8 Red Coins]\n400F0000 00000000 0056DF7F\n640E01F0 00000000 00000008",
-            "title": "[8 Red Coins]"
-        }
-    ],
-    "B21E3733E11D6FCF": [
-        {
-            "content": "{Mario Sunshine @made by Eiffel}\n580E0000 03704D98\n580E1000 000002B8\n580E1000 00000038\n580E1000 00000030\n580E1000 00000008\n580D0000 036E69B8\n580D1000 00000000\n580D1000 00000020\n\n",
-            "title": "{Mario Sunshine @made by Eiffel}"
-        },
-        {
-            "content": "[#1 99 Lifes @made by Eiffel]\n400F0000 00000000 0056E2A4\n640E01F0 00000000 63000000\n\n",
-            "title": "[#1 99 Lifes @made by Eiffel]"
-        },
-        {
-            "content": "[#2 99 Coins @made by Eiffel]\n400F0000 00000000 0056E300\n640E01F0 00000000 63000000\n\n",
-            "title": "[#2 99 Coins @made by Eiffel]"
-        },
-        {
-            "content": "[#3 Inf. Health @made by Eiffel]\n400F0000 00000000 002593E8\n640D01F0 00000000 5280010E\n\n",
-            "title": "[#3 Inf. Health @made by Eiffel]"
-        },
-        {
-            "content": "[#4 Inf. breathing under Water @made by Eiffel]\n400F0000 00000000 002A7BFC\n640D01F0 00000000 D503201F\n\n",
-            "title": "[#4 Inf. breathing under Water @made by Eiffel]"
-        },
-        {
-            "content": "[#5 Inf. water tank @made by Eiffel]\n400F0000 00000000 0051BDE8\n640D01F0 00000000 D503201F\n400F0000 00000000 008085F4\n640D01F0 00000000 D503201F\n400F0000 00000000 0111632C\n640D01F0 00000000 D503201F\n\n",
-            "title": "[#5 Inf. water tank @made by Eiffel]"
-        },
-        {
-            "content": "[#6 Jetpack Mode (press Left + double X) @made by Eiffel]\n80001000\n400F0000 00000000 00AA69F4\n640D01F0 00000000 52800056\n20000000\n\n",
-            "title": "[#6 Jetpack Mode (press Left + double X) @made by Eiffel]"
-        },
-        {
-            "content": "[#7 High Jump Mode (press Up + double X) @made by Eiffel]\n80002000\n400F0000 00000000 00AA69F4\n640D01F0 00000000 52800036\n20000000\n\n",
-            "title": "[#7 High Jump Mode (press Up + double X) @made by Eiffel]"
-        },
-        {
-            "content": "[#8 Speed Up Mode (press Right + double X) @made by Eiffel]\n80004000\n400F0000 00000000 00AA69F4\n640D01F0 00000000 528000B6\n20000000\n\n",
-            "title": "[#8 Speed Up Mode (press Right + double X) @made by Eiffel]"
-        },
-        {
-            "content": "[#9 Normal Mode (press Down + double X) @made by Eiffel]\n80008000\n400F0000 00000000 00AA69F4\n640D01F0 00000000 52800096\n20000000\n\n",
-            "title": "[#9 Normal Mode (press Down + double X) @made by Eiffel]"
-        },
-        {
-            "content": "[01# Inf Health]\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 002593E8\n640A0000 00000000 5280010E\n\n",
-            "title": "[01# Inf Health]"
-        },
-        {
-            "content": "[02# Invulnerable]\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 010E8CA0\n640A0000 00000000 D65F03C0\n\n",
-            "title": "[02# Invulnerable]"
-        },
-        {
-            "content": "[03# Inf Air]\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 002A7BFC\n640A0000 00000000 D503201F\n\n",
-            "title": "[03# Inf Air]"
-        },
-        {
-            "content": "[04# Inf water tank]\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 0051BDE8\n640A0000 00000000 D503201F\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 008085F4\n640A0000 00000000 D503201F\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 0111632C\n640A0000 00000000 D503201F\n\n",
-            "title": "[04# Inf water tank]"
-        },
-        {
-            "content": "[05# Inf hover time]\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 014ECA70\n640A0000 00000000 D503201F\n\n",
-            "title": "[05# Inf hover time]"
-        },
-        {
-            "content": "[06# Inf Water Nozzle]\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 00D37EA4\n640A0000 00000000 D503201F\n\n",
-            "title": "[06# Inf Water Nozzle]"
-        },
-        {
-            "content": "[07# Change Nozzle (use D-Pad)]\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 00AA69F4\n640A0000 00000000 386B6916\n80001000\n640A0000 00000000 52800056\n20000000\n80002000\n640A0000 00000000 52800036\n20000000\n80004000\n640A0000 00000000 528000B6\n20000000\n80008000\n640A0000 00000000 52800096\n20000000",
-            "title": "[07# Change Nozzle (use D-Pad)]"
-        }
-    ],
-    "ED0D7ACE84EEC780": [
-        {
-            "content": "{Mario Sunshine by Eiffel}\n580E0000 036FDD98\n580E1000 000002B8\n580E1000 00000038\n580E1000 00000030\n580E1000 00000008\n\n",
-            "title": "{Mario Sunshine by Eiffel}"
-        },
-        {
-            "content": "[#1 99 Coins]\n400F0000 00000000 0056DF60\n640E01F0 00000000 63000000\n\n",
-            "title": "[#1 99 Coins]"
-        },
-        {
-            "content": "[#2 99 Lifes]\n400F0000 00000000 0056DF04\n640E01F0 00000000 63000000\n\n",
-            "title": "[#2 99 Lifes]"
-        },
-        {
-            "content": "[#3 Inf. water tank]\n80000200\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0D4640\n780F0000 00000A78\n640F0000 00000000 D503201F\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0D32F0\n780F0000 00001054\n640F0000 00000000 D503201F\n20000000\n\n",
-            "title": "[#3 Inf. water tank]"
-        },
-        {
-            "content": "[#4 Inf. Energy]\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C083840\n780F0000 00000178\n640F0000 00000000 5280010E\n\n",
-            "title": "[#4 Inf. Energy]"
-        },
-        {
-            "content": "[#5 Inf. breathing under Water]\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C09A7B8\n780F0000 00003B3C\n640F0000 00000000 D503201F\n\n",
-            "title": "[#5 Inf. breathing under Water]"
-        },
-        {
-            "content": "[#6 Jetpack Mode (press Left + double X)]\n80001000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800056\n20000000\n",
-            "title": "[#6 Jetpack Mode (press Left + double X)]"
-        },
-        {
-            "content": "[#7 High Jump Mode (press Up + double X)]\n80002000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800036\n20000000\n",
-            "title": "[#7 High Jump Mode (press Up + double X)]"
-        },
-        {
-            "content": "[#8 Speed Up Mode (press Right + double X)]\n80004000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 528000B6\n20000000\n\n",
-            "title": "[#8 Speed Up Mode (press Right + double X)]"
-        },
-        {
-            "content": "[#9 Normal Mode (press Down + double X)]\n80008000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800096\n20000000",
-            "title": "[#9 Normal Mode (press Down + double X)]"
-        }
-    ]
+    "64000C752A890EFB": {
+        "{Mario Sunshine by Eiffel}": "{Mario Sunshine by Eiffel}\n580E0000 036FDD98\n580E1000 000002B8\n580E1000 00000038\n580E1000 00000030\n580E1000 00000008\n\n",
+        "[#1 99 Coins]": "[#1 99 Coins]\n400F0000 00000000 0056DF60\n640E01F0 00000000 63000000\n\n",
+        "[#2 99 Lifes]": "[#2 99 Lifes]\n400F0000 00000000 0056DF04\n640E01F0 00000000 63000000\n\n",
+        "[#3 Inf. water tank]": "[#3 Inf. water tank]\n80000200\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0D4640\n780F0000 00000A78\n640F0000 00000000 D503201F\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0D32F0\n780F0000 00001054\n640F0000 00000000 D503201F\n20000000\n\n",
+        "[#4 Inf. Energy]": "[#4 Inf. Energy]\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C083840\n780F0000 00000178\n640F0000 00000000 5280010E\n\n",
+        "[#5 Inf. breathing under Water]": "[#5 Inf. breathing under Water]\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C09A7B8\n780F0000 00003B3C\n640F0000 00000000 D503201F\n\n",
+        "[#6 Jetpack Mode (press Left + double X)]": "[#6 Jetpack Mode (press Left + double X)]\n80001000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800056\n20000000\n\n",
+        "[#7 High Jump Mode (press Up + double X)]": "[#7 High Jump Mode (press Up + double X)]\n80002000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800036\n20000000\n\n",
+        "[#8 Speed Up Mode (press Right + double X)]": "[#8 Speed Up Mode (press Right + double X)]\n80004000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 528000B6\n20000000\n\n",
+        "[#9 Normal Mode (press Down + double X)]": "[#9 Normal Mode (press Down + double X)]\n80008000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800096\n20000000\n\n",
+        "[8 Red Coins]": "[8 Red Coins]\n400F0000 00000000 0056DF7F\n640E01F0 00000000 00000008\n\n"
+    },
+    "B21E3733E11D6FCF": {
+        "{Mario Sunshine @made by Eiffel}": "{Mario Sunshine @made by Eiffel}\n580E0000 03704D98\n580E1000 000002B8\n580E1000 00000038\n580E1000 00000030\n580E1000 00000008\n580D0000 036E69B8\n580D1000 00000000\n580D1000 00000020\n\n",
+        "[#1 99 Lifes @made by Eiffel]": "[#1 99 Lifes @made by Eiffel]\n400F0000 00000000 0056E2A4\n640E01F0 00000000 63000000\n\n",
+        "[#2 99 Coins @made by Eiffel]": "[#2 99 Coins @made by Eiffel]\n400F0000 00000000 0056E300\n640E01F0 00000000 63000000\n\n",
+        "[#3 Inf. Health @made by Eiffel]": "[#3 Inf. Health @made by Eiffel]\n400F0000 00000000 002593E8\n640D01F0 00000000 5280010E\n\n",
+        "[#4 Inf. breathing under Water @made by Eiffel]": "[#4 Inf. breathing under Water @made by Eiffel]\n400F0000 00000000 002A7BFC\n640D01F0 00000000 D503201F\n\n",
+        "[#5 Inf. water tank @made by Eiffel]": "[#5 Inf. water tank @made by Eiffel]\n400F0000 00000000 0051BDE8\n640D01F0 00000000 D503201F\n400F0000 00000000 008085F4\n640D01F0 00000000 D503201F\n400F0000 00000000 0111632C\n640D01F0 00000000 D503201F\n\n",
+        "[#6 Jetpack Mode (press Left + double X) @made by Eiffel]": "[#6 Jetpack Mode (press Left + double X) @made by Eiffel]\n80001000\n400F0000 00000000 00AA69F4\n640D01F0 00000000 52800056\n20000000\n\n",
+        "[#7 High Jump Mode (press Up + double X) @made by Eiffel]": "[#7 High Jump Mode (press Up + double X) @made by Eiffel]\n80002000\n400F0000 00000000 00AA69F4\n640D01F0 00000000 52800036\n20000000\n\n",
+        "[#8 Speed Up Mode (press Right + double X) @made by Eiffel]": "[#8 Speed Up Mode (press Right + double X) @made by Eiffel]\n80004000\n400F0000 00000000 00AA69F4\n640D01F0 00000000 528000B6\n20000000\n\n",
+        "[#9 Normal Mode (press Down + double X) @made by Eiffel]": "[#9 Normal Mode (press Down + double X) @made by Eiffel]\n80008000\n400F0000 00000000 00AA69F4\n640D01F0 00000000 52800096\n20000000\n\n",
+        "[01# Inf Health]": "[01# Inf Health]\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 002593E8\n640A0000 00000000 5280010E\n\n",
+        "[02# Invulnerable]": "[02# Invulnerable]\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 010E8CA0\n640A0000 00000000 D65F03C0\n\n",
+        "[03# Inf Air]": "[03# Inf Air]\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 002A7BFC\n640A0000 00000000 D503201F\n\n",
+        "[04# Inf water tank]": "[04# Inf water tank]\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 0051BDE8\n640A0000 00000000 D503201F\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 008085F4\n640A0000 00000000 D503201F\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 0111632C\n640A0000 00000000 D503201F\n\n",
+        "[05# Inf hover time]": "[05# Inf hover time]\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 014ECA70\n640A0000 00000000 D503201F\n\n",
+        "[06# Inf Water Nozzle]": "[06# Inf Water Nozzle]\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 00D37EA4\n640A0000 00000000 D503201F\n\n",
+        "[07# Change Nozzle (use D-Pad)]": "[07# Change Nozzle (use D-Pad)]\n580A0000 036E69B8\n580A1000 00000000\n580A1000 00000020\n780A0000 00AA69F4\n640A0000 00000000 386B6916\n80001000\n640A0000 00000000 52800056\n20000000\n80002000\n640A0000 00000000 52800036\n20000000\n80004000\n640A0000 00000000 528000B6\n20000000\n80008000\n640A0000 00000000 52800096\n20000000\n\n"
+    },
+    "ED0D7ACE84EEC780": {
+        "{Mario Sunshine by Eiffel}": "{Mario Sunshine by Eiffel}\n580E0000 036FDD98\n580E1000 000002B8\n580E1000 00000038\n580E1000 00000030\n580E1000 00000008\n\n",
+        "[#1 99 Coins]": "[#1 99 Coins]\n400F0000 00000000 0056DF60\n640E01F0 00000000 63000000\n\n",
+        "[#2 99 Lifes]": "[#2 99 Lifes]\n400F0000 00000000 0056DF04\n640E01F0 00000000 63000000\n\n",
+        "[#3 Inf. water tank]": "[#3 Inf. water tank]\n80000200\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0D4640\n780F0000 00000A78\n640F0000 00000000 D503201F\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0D32F0\n780F0000 00001054\n640F0000 00000000 D503201F\n20000000\n\n",
+        "[#4 Inf. Energy]": "[#4 Inf. Energy]\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C083840\n780F0000 00000178\n640F0000 00000000 5280010E\n\n",
+        "[#5 Inf. breathing under Water]": "[#5 Inf. breathing under Water]\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C09A7B8\n780F0000 00003B3C\n640F0000 00000000 D503201F\n\n",
+        "[#6 Jetpack Mode (press Left + double X)]": "[#6 Jetpack Mode (press Left + double X)]\n80001000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800056\n20000000\n\n",
+        "[#7 High Jump Mode (press Up + double X)]": "[#7 High Jump Mode (press Up + double X)]\n80002000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800036\n20000000\n\n",
+        "[#8 Speed Up Mode (press Right + double X)]": "[#8 Speed Up Mode (press Right + double X)]\n80004000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 528000B6\n20000000\n\n",
+        "[#9 Normal Mode (press Down + double X)]": "[#9 Normal Mode (press Down + double X)]\n80008000\n580F0000 001FA428\n580F1000 00000018\n580F1000 0C0CFFB0\n780F0000 00000B04\n640F0000 00000000 52800096\n20000000\n\n"
+    },
+    "attribution": {
+        "Super Mario 3D All-Star ver 1.0.0 and 1.0.1 by Eiffel2018 and korados.txt": "Super Mario Allstars\nSuper Mario 3",
+        "Super Mario 3D All-Star ber 1.1.0 sunshine by patjenova and ver 1.0.0 by Eiffel2018.txt": "Super Mario Allstars\nSuper Mario 3",
+        "Super Mario 3D All-Star ver 1.0.0 and 1.0.1 by Eiffel2018.txt": "Super Mario Allstars\nSuper Mario 3"
+    }
 }

@@ -1,36 +1,19 @@
 {
-    "10BE30FEAD5AD443": [
-        {
-            "content": "{MasterCode}\n04000000 0035AB74 42C7CCCD\n04000000 00324EE8 4B18967F\n04000000 00336830 BD402800\n04000000 0035AA1C 1E283920\n04000000 003563B4 1E200920\n04000000 00306488 1E200900\n04000000 003DD4D0 4B140108\n04000000 003DD488 4B180348\n04000000 0035650C 1E293800\n04000000 00336870 BD402400\n\n",
-            "title": "{MasterCode}"
-        },
-        {
-            "content": "[Inf Money]\n04000000 00336830 1CF735C0\n\n",
-            "title": "[Inf Money]"
-        },
-        {
-            "content": "[Inf Energy]\n04000000 0035AA1C 1C000AC0\n\n",
-            "title": "[Inf Energy]"
-        },
-        {
-            "content": "[Inf Items]\n04000000 003DD4D0 11000108\n04000000 003DD488 11000348\n\n",
-            "title": "[Inf Items]"
-        },
-        {
-            "content": "[Tool do not brake]\n04000000 0035650C 1CE74EE0\n\n",
-            "title": "[Tool do not brake]"
-        },
-        {
-            "content": "[Instant Working]\n04000000 003563B4 1C023E00\n\n",
-            "title": "[Instant Working]"
-        },
-        {
-            "content": "[Instant Crafting]\n04000000 00306488 1C2A3760\n\n",
-            "title": "[Instant Crafting]"
-        },
-        {
-            "content": "[Instant Progress]\n04000000 00336870 1C121820",
-            "title": "[Instant Progress]"
-        }
-    ]
+    "35577FD32A942E48": {
+        "[60 FPS]": "[60 FPS]\n580F0000 04B33FC0\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 04B33FC0\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Graveyard Keeper by DaBlackDeath.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
+    },
+    "10BE30FEAD5AD443": {
+        "{MasterCode}": "{MasterCode}\n04000000 0035AB74 42C7CCCD\n04000000 00324EE8 4B18967F\n04000000 00336830 BD402800\n04000000 0035AA1C 1E283920\n04000000 003563B4 1E200920\n04000000 00306488 1E200900\n04000000 003DD4D0 4B140108\n04000000 003DD488 4B180348\n04000000 0035650C 1E293800\n04000000 00336870 BD402400\n\n",
+        "[Inf Money]": "[Inf Money]\n04000000 00336830 1CF735C0\n\n",
+        "[Inf Energy]": "[Inf Energy]\n04000000 0035AA1C 1C000AC0\n\n",
+        "[Inf Items]": "[Inf Items]\n04000000 003DD4D0 11000108\n04000000 003DD488 11000348\n\n",
+        "[Tool do not brake]": "[Tool do not brake]\n04000000 0035650C 1CE74EE0\n\n",
+        "[Instant Working]": "[Instant Working]\n04000000 003563B4 1C023E00\n\n",
+        "[Instant Crafting]": "[Instant Crafting]\n04000000 00306488 1C2A3760\n\n",
+        "[Instant Progress]": "[Instant Progress]\n04000000 00336870 1C121820\n\n"
+    }
 }

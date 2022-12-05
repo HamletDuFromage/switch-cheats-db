@@ -1,8 +1,8 @@
 {
-    "51661056E0E8B01C": [
-        {
-            "content": "[Credits unlimited]\n580F0000 03D36A80\n780F1000 0000015C\n610F0000 00000000 00000009\n",
-            "title": "[Credits unlimited]"
-        }
-    ]
+    "51661056E0E8B01C": {
+        "[Credits unlimited]": "[Credits unlimited]\n580F0000 03D36A80\n780F1000 0000015C\n610F0000 00000000 00000009\n\n"
+    },
+    "attribution": {
+        "Vortex Attack EX  v1.0.0 by merlin555.txt": ""
+    }
 }

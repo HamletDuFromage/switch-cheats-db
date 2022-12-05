@@ -1,16 +1,10 @@
 {
-    "48E19A79BD94264C": [
-        {
-            "content": "[Health by jhmiller]\n580F0000 01709178\n580F1000 00000098\n780F0000 00000024\n640F0000 00000000 00000003\n\n",
-            "title": "[Health by jhmiller]"
-        },
-        {
-            "content": "[0 Missed by jhmiller]\n580F0000 01709178\n580F1000 00000098\n780F0000 00000020\n640F0000 00000000 00000000\n\n",
-            "title": "[0 Missed by jhmiller]"
-        },
-        {
-            "content": "[Score 999999 by jhmiller]\n580F0000 01709178\n580F1000 00000098\n780F0000 00000030\n640F0000 00000000 000F423F",
-            "title": "[Score 999999 by jhmiller]"
-        }
-    ]
+    "48E19A79BD94264C": {
+        "[Health by jhmiller]": "[Health by jhmiller]\n580F0000 01709178\n580F1000 00000098\n780F0000 00000024\n640F0000 00000000 00000003\n\n",
+        "[0 Missed by jhmiller]": "[0 Missed by jhmiller]\n580F0000 01709178\n580F1000 00000098\n780F0000 00000020\n640F0000 00000000 00000000\n\n",
+        "[Score 999999 by jhmiller]": "[Score 999999 by jhmiller]\n580F0000 01709178\n580F1000 00000098\n780F0000 00000030\n640F0000 00000000 000F423F\n\n"
+    },
+    "attribution": {
+        "Knight Terrors ver by jhmiller.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

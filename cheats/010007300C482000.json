@@ -1,34 +1,17 @@
 {
-    "1D9B0B8D64487D43": [
-        {
-            "content": "[Invulnerable On]\n04000000 000A7C10 D65F03C0\n\n",
-            "title": "[Invulnerable On]"
-        },
-        {
-            "content": "[Invulnerable Off]\n04000000 000A7C10 D10243FF\n\n",
-            "title": "[Invulnerable Off]"
-        },
-        {
-            "content": "[Gems 999999]\n580F0000 01EE4AE0\n580F1000 000000A0\n780F0000 000002C0\n640F0000 00000000 000F423F\n\n",
-            "title": "[Gems 999999]"
-        },
-        {
-            "content": "[5 keys of each]\n580F0000 01EE4AE0\n580F1000 000000A0\n780F0000 000000D4\n640F0000 00000000 00000005\n780F0000 00000004\n640F0000 00000000 00000005\n780F0000 00000004\n640F0000 00000000 00000005\n780F0000 00000004\n640F0000 00000000 00000005\n\n",
-            "title": "[5 keys of each]"
-        },
-        {
-            "content": "[MoonJump]\n80000002\n580F0000 01F09F48\n580F1000 00000390\n580F1000 000006C0\n580F1000 00000758\n580F1000 00000028\n780F0000 00000038\n640F0000 00000000 41700000\n20000000",
-            "title": "[MoonJump]"
-        }
-    ],
-    "70852B805BBF7B4A": [
-        {
-            "content": "[Invulnerable]\n04000000 001376A0 D65F03C0\n\n",
-            "title": "[Invulnerable]"
-        },
-        {
-            "content": "[Gems MAX]\n580F0000 01EF6138\n780F0000 0000F680\n640F0000 00000000 000F423F",
-            "title": "[Gems MAX]"
-        }
-    ]
+    "1D9B0B8D64487D43": {
+        "[Invulnerable On]": "[Invulnerable On]\n04000000 000A7C10 D65F03C0\n\n",
+        "[Invulnerable Off]": "[Invulnerable Off]\n04000000 000A7C10 D10243FF\n\n",
+        "[Gems 999999]": "[Gems 999999]\n580F0000 01EE4AE0\n580F1000 000000A0\n780F0000 000002C0\n640F0000 00000000 000F423F\n\n",
+        "[5 keys of each]": "[5 keys of each]\n580F0000 01EE4AE0\n580F1000 000000A0\n780F0000 000000D4\n640F0000 00000000 00000005\n780F0000 00000004\n640F0000 00000000 00000005\n780F0000 00000004\n640F0000 00000000 00000005\n780F0000 00000004\n640F0000 00000000 00000005\n\n",
+        "[MoonJump]": "[MoonJump]\n80000002\n580F0000 01F09F48\n580F1000 00000390\n580F1000 000006C0\n580F1000 00000758\n580F1000 00000028\n780F0000 00000038\n640F0000 00000000 41700000\n20000000\n\n"
+    },
+    "70852B805BBF7B4A": {
+        "[Invulnerable]": "[Invulnerable]\n04000000 001376A0 D65F03C0\n\n",
+        "[Gems MAX]": "[Gems MAX]\n580F0000 01EF6138\n780F0000 0000F680\n640F0000 00000000 000F423F\n\n"
+    },
+    "attribution": {
+        "Sydney Hunter and the Curse of the Mayan v1.0.48 BY dAbLACKdEATH ver 1.2.3 by jhmiller.txt": "",
+        "Sydney Hunter and the Curse of the Mayan v1.0.48 BY dAbLACKdEATH and merlin555.txt": ""
+    }
 }

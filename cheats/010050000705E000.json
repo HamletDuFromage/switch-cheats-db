@@ -1,140 +1,41 @@
 {
-    "4E1A22C61868D4C0": [
-        {
-            "content": "[inf. HP]\n04100000 41084D54 03E703E7\n\n",
-            "title": "[inf. HP]"
-        },
-        {
-            "content": "[Invincible]\n04100000 4034D68C 40000000\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Invinceble off]\n04100000 4034D68C 00000000\n\n",
-            "title": "[Invinceble off]"
-        },
-        {
-            "content": "[Inf. Full Stomach]\n04100000 41084D5C 00042707\n\n",
-            "title": "[Inf. Full Stomach]"
-        },
-        {
-            "content": "[Inf. Stamina]\n04100000 41084D64 432F0000\n\n",
-            "title": "[Inf. Stamina]"
-        },
-        {
-            "content": "[Inf. Item]\n300E0000 0000000F\n021F0000 41B779B2 000000FF\n780F0000 00000004\n310E0000\n20000000\n\n",
-            "title": "[Inf. Item]"
-        },
-        {
-            "content": "[Speed Up(Push ZL:OFF L+R:v1 L+ZL:v2)]\n80000100\n04100000 44526860 3f800000\n20000000\n800000C0\n04100000 44526860 40000000\n20000000\n80000140\n04100000 44526860 4f800000\n20000000\n\n",
-            "title": "[Speed Up(Push ZL:OFF L+R:v1 L+ZL:v2)]"
-        },
-        {
-            "content": "[Moon Jump(R+B)]\n80000082\n580D0000 013560D8\n580D1000 00000058\n580D1000 00000198\n780D0000 0000000C\n640D0000 00000000 3E800000\n20000000\n\n",
-            "title": "[Moon Jump(R+B)]"
-        },
-        {
-            "content": "[Inf. Bag Item 401]\n04100000 41B7D914 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 401]"
-        },
-        {
-            "content": "[Inf. Bag Item 402]\n04100000 41B7D918 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 402]"
-        },
-        {
-            "content": "[Inf. Bag Item 403]\n04100000 41B7D91C 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 403]"
-        },
-        {
-            "content": "[Inf. Bag Item 404]\n04100000 41B7D920 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 404]"
-        },
-        {
-            "content": "[Inf. Bag Item 405]\n04100000 41B7D924 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 405]"
-        },
-        {
-            "content": "[Inf. Bag Item 406]\n04100000 41B7D928 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 406]"
-        },
-        {
-            "content": "[Inf. Bag Item 407]\n04100000 41B7D92C 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 407]"
-        },
-        {
-            "content": "[Inf. Bag Item 408]\n04100000 41B7D930 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 408]"
-        },
-        {
-            "content": "[Inf. Bag Item 409]\n04100000 41B7D934 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 409]"
-        },
-        {
-            "content": "[Inf. Bag Item 410]\n04100000 41B7D938 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 410]"
-        },
-        {
-            "content": "[Inf. Bag Item 411]\n04100000 41B7D93C 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 411]"
-        },
-        {
-            "content": "[Inf. Bag Item 412]\n04100000 41B7D940 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 412]"
-        },
-        {
-            "content": "[Inf. Bag Item 413]\n04100000 41B7D944 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 413]"
-        },
-        {
-            "content": "[Inf. Bag Item 414]\n04100000 41B7D948 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 414]"
-        },
-        {
-            "content": "[Inf. Bag Item 415]\n04100000 41B7D94C 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 415]"
-        },
-        {
-            "content": "[Inf. Bag Item 416]\n04100000 41B7D950 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 416]"
-        },
-        {
-            "content": "[Inf. Bag Item 417]\n04100000 41B7D954 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 417]"
-        },
-        {
-            "content": "[Inf. Bag Item 418]\n04100000 41B7D958 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 418]"
-        },
-        {
-            "content": "[Inf. Bag Item 419]\n04100000 41B7D95C 00FFxxxx\n\n",
-            "title": "[Inf. Bag Item 419]"
-        },
-        {
-            "content": "[Inf. Bag Item 420]\n04100000 41B7D960 00FFxxxx\nxxxx = Item List\nEXAMPLE\nLiquid Metal Shield = 081A\nLiquid Metal Armour = 0815\nFalcon Blade = 080A\nBuggy Car = 0554\n\n\n",
-            "title": "[Inf. Bag Item 420]"
-        },
-        {
-            "content": "[Ranaruuta Morning(+button + LEFT)]\n80001400\n04100000 417D5058 40000000\n20000000\n\n",
-            "title": "[Ranaruuta Morning(+button + LEFT)]"
-        },
-        {
-            "content": "[Ranaruuta Night(+button + RIGHT)]\n80004400\n04100000 417D5058 44500000\n20000000\n\n",
-            "title": "[Ranaruuta Night(+button + RIGHT)]"
-        },
-        {
-            "content": "[Heart 99,999]\n04100000 417D4FD4 0001869F\n\n",
-            "title": "[Heart 99,999]"
-        },
-        {
-            "content": "[Medal 99,999]\n04100000 412D6930 0001869F\n\n",
-            "title": "[Medal 99,999]"
-        },
-        {
-            "content": "[hit range 30x]\n04000000 004C3CB8 1E27D002 \n\n",
-            "title": "[hit range 30x]"
-        },
-        {
-            "content": "[Walk Through Wall (OFF:R3+LEFT Button ON:R3+RIGHT Button)]\n80001020\n04000000 008467A8 1E2C1002\n20000000\n80004020\n04000000 008467A8 1E27F002\n20000000",
-            "title": "[Walk Through Wall (OFF:R3+LEFT Button ON:R3+RIGHT Button)]"
-        }
-    ]
+    "4E1A22C61868D4C0": {
+        "[inf. HP]": "[inf. HP]\n04100000 41084D54 03E703E7\n\n",
+        "[Invincible]": "[Invincible]\n04100000 4034D68C 40000000\n\n",
+        "[Invinceble off]": "[Invinceble off]\n04100000 4034D68C 00000000\n\n",
+        "[Inf. Full Stomach]": "[Inf. Full Stomach]\n04100000 41084D5C 00042707\n\n",
+        "[Inf. Stamina]": "[Inf. Stamina]\n04100000 41084D64 432F0000\n\n",
+        "[Inf. Item]": "[Inf. Item]\n300E0000 0000000F\n021F0000 41B779B2 000000FF\n780F0000 00000004\n310E0000\n20000000\n\n",
+        "[Speed Up(Push ZL:OFF L+R:v1 L+ZL:v2)]": "[Speed Up(Push ZL:OFF L+R:v1 L+ZL:v2)]\n80000100\n04100000 44526860 3f800000\n20000000\n800000C0\n04100000 44526860 40000000\n20000000\n80000140\n04100000 44526860 4f800000\n20000000\n\n",
+        "[Moon Jump(R+B)]": "[Moon Jump(R+B)]\n80000082\n580D0000 013560D8\n580D1000 00000058\n580D1000 00000198\n780D0000 0000000C\n640D0000 00000000 3E800000\n20000000\n\n",
+        "[Inf. Bag Item 401]": "[Inf. Bag Item 401]\n04100000 41B7D914 00FFxxxx\n\n",
+        "[Inf. Bag Item 402]": "[Inf. Bag Item 402]\n04100000 41B7D918 00FFxxxx\n\n",
+        "[Inf. Bag Item 403]": "[Inf. Bag Item 403]\n04100000 41B7D91C 00FFxxxx\n\n",
+        "[Inf. Bag Item 404]": "[Inf. Bag Item 404]\n04100000 41B7D920 00FFxxxx\n\n",
+        "[Inf. Bag Item 405]": "[Inf. Bag Item 405]\n04100000 41B7D924 00FFxxxx\n\n",
+        "[Inf. Bag Item 406]": "[Inf. Bag Item 406]\n04100000 41B7D928 00FFxxxx\n\n",
+        "[Inf. Bag Item 407]": "[Inf. Bag Item 407]\n04100000 41B7D92C 00FFxxxx\n\n",
+        "[Inf. Bag Item 408]": "[Inf. Bag Item 408]\n04100000 41B7D930 00FFxxxx\n\n",
+        "[Inf. Bag Item 409]": "[Inf. Bag Item 409]\n04100000 41B7D934 00FFxxxx\n\n",
+        "[Inf. Bag Item 410]": "[Inf. Bag Item 410]\n04100000 41B7D938 00FFxxxx\n\n",
+        "[Inf. Bag Item 411]": "[Inf. Bag Item 411]\n04100000 41B7D93C 00FFxxxx\n\n",
+        "[Inf. Bag Item 412]": "[Inf. Bag Item 412]\n04100000 41B7D940 00FFxxxx\n\n",
+        "[Inf. Bag Item 413]": "[Inf. Bag Item 413]\n04100000 41B7D944 00FFxxxx\n\n",
+        "[Inf. Bag Item 414]": "[Inf. Bag Item 414]\n04100000 41B7D948 00FFxxxx\n\n",
+        "[Inf. Bag Item 415]": "[Inf. Bag Item 415]\n04100000 41B7D94C 00FFxxxx\n\n",
+        "[Inf. Bag Item 416]": "[Inf. Bag Item 416]\n04100000 41B7D950 00FFxxxx\n\n",
+        "[Inf. Bag Item 417]": "[Inf. Bag Item 417]\n04100000 41B7D954 00FFxxxx\n\n",
+        "[Inf. Bag Item 418]": "[Inf. Bag Item 418]\n04100000 41B7D958 00FFxxxx\n\n",
+        "[Inf. Bag Item 419]": "[Inf. Bag Item 419]\n04100000 41B7D95C 00FFxxxx\n\n",
+        "[Inf. Bag Item 420]": "[Inf. Bag Item 420]\n04100000 41B7D960 00FFxxxx\nxxxx = Item List\nEXAMPLE\nLiquid Metal Shield = 081A\nLiquid Metal Armour = 0815\nFalcon Blade = 080A\nBuggy Car = 0554\n\n",
+        "[Ranaruuta Morning(+button + LEFT)]": "[Ranaruuta Morning(+button + LEFT)]\n80001400\n04100000 417D5058 40000000\n20000000\n\n",
+        "[Ranaruuta Night(+button + RIGHT)]": "[Ranaruuta Night(+button + RIGHT)]\n80004400\n04100000 417D5058 44500000\n20000000\n\n",
+        "[Heart 99,999]": "[Heart 99,999]\n04100000 417D4FD4 0001869F\n\n",
+        "[Medal 99,999]": "[Medal 99,999]\n04100000 412D6930 0001869F\n\n",
+        "[hit range 30x]": "[hit range 30x]\n04000000 004C3CB8 1E27D002\n\n",
+        "[Walk Through Wall (OFF:R3+LEFT Button ON:R3+RIGHT Button)]": "[Walk Through Wall (OFF:R3+LEFT Button ON:R3+RIGHT Button)]\n80001020\n04000000 008467A8 1E2C1002\n20000000\n80004020\n04000000 008467A8 1E27F002\n20000000\n\n"
+    },
+    "attribution": {
+        "Dragon Quest Builders 2 Ver. 1.7.1a Jap by R1N08GAM1.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
+    }
 }

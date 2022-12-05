@@ -1,16 +1,10 @@
 {
-    "B662A47BDEA4DC4C": [
-        {
-            "content": "[Inf HP]\n580F0000 02DC2628\n580F1000 000000B8\n580F1000 00000008\n780F0000 00000018\n640F0000 00000000 461C3C00\n780F0000 00000018\n640F0000 00000000 461C3C00\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Clear Blood]\n580F0000 02DC2628\n580F1000 000000B8\n580F1000 00000008\n780F0000 00000108\n680F0000 50000000 50000000\n\n",
-            "title": "[Clear Blood]"
-        },
-        {
-            "content": "[Inf Ammo]\n580F0000 02DC2628\n580F1000 000000B8\n580F1000 00000008\n580F1000 000000C0\n580F1000 00000088\n780F0000 00000028\n680F0000 000003E7 000003E7",
-            "title": "[Inf Ammo]"
-        }
-    ]
+    "B662A47BDEA4DC4C": {
+        "[Inf HP]": "[Inf HP]\n580F0000 02DC2628\n580F1000 000000B8\n580F1000 00000008\n780F0000 00000018\n640F0000 00000000 461C3C00\n780F0000 00000018\n640F0000 00000000 461C3C00\n\n",
+        "[Clear Blood]": "[Clear Blood]\n580F0000 02DC2628\n580F1000 000000B8\n580F1000 00000008\n780F0000 00000108\n680F0000 50000000 50000000\n\n",
+        "[Inf Ammo]": "[Inf Ammo]\n580F0000 02DC2628\n580F1000 000000B8\n580F1000 00000008\n580F1000 000000C0\n580F1000 00000088\n780F0000 00000028\n680F0000 000003E7 000003E7\n\n"
+    },
+    "attribution": {
+        "Gates of Hell ver 1.0.0 by Zit.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

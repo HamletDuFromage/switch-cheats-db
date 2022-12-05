@@ -1,184 +1,56 @@
 {
-    "A60E8CA86C6FD704": [
-        {
-            "content": "[Inf Health]\n58010000 06744F38\n78010000 000004CC\n64010000 00000000 42C80000\n\n",
-            "title": "[Inf Health]"
-        },
-        {
-            "content": "[Inf Armor]\n58010000 06744F38\n78010000 000004D0\n64010000 00000000 42C80000\n\n",
-            "title": "[Inf Armor]"
-        },
-        {
-            "content": "[Inf Vehicle Health]\n80000200\n58010000 06744F38\n58111000 00000538\n78010000 00000318\n64010000 00000000 447A0000\n20000000\n\n",
-            "title": "[Inf Vehicle Health]"
-        },
-        {
-            "content": "[No Wanted Level]\n58010000 06744F38\n58111000 00000880\n78010000 00000020\n610100F0 00000000 00000000\n\n",
-            "title": "[No Wanted Level]"
-        },
-        {
-            "content": "[Max Wanted Level]\n58010000 06744F38\n58111000 00000880\n78010000 00000020\n610100F0 00000000 00000006\n\n",
-            "title": "[Max Wanted Level]"
-        },
-        {
-            "content": "[Inf Throwable Ammo]\n58010000 06744F38\n78010000 00000618\n68010000 0000270F 00000001\n\n",
-            "title": "[Inf Throwable Ammo]"
-        },
-        {
-            "content": "[Inf Pistol Ammo]\n58010000 06744F38\n78010000 00000638\n68010000 0000270F 00000011\n\n",
-            "title": "[Inf Pistol Ammo]"
-        },
-        {
-            "content": "[Inf Shotgun Ammo]\n58010000 06744F38\n78010000 00000658\n68010000 0000270F 00000001\n\n",
-            "title": "[Inf Shotgun Ammo]"
-        },
-        {
-            "content": "[Inf Submachine Gun Ammo]\n58010000 06744F38\n78010000 00000678\n68010000 0000270F 0000001E\n\n",
-            "title": "[Inf Submachine Gun Ammo]"
-        },
-        {
-            "content": "[Inf Rifle Ammo]\n58010000 06744F38\n78010000 00000698\n68010000 0000270F 0000001E\n\n",
-            "title": "[Inf Rifle Ammo]"
-        },
-        {
-            "content": "[Inf Heavy Weapon Ammo]\n58010000 06744F38\n78010000 000006B8\n64010000 0000270F 00000020\n\n",
-            "title": "[Inf Heavy Weapon Ammo]"
-        },
-        {
-            "content": "[Inf Sniper Ammo]\n58010000 06744F38\n78010000 000006D8\n68010000 0000270F 00000001\n\n",
-            "title": "[Inf Sniper Ammo]"
-        },
-        {
-            "content": "[Have Melee - Brass Knuckles]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000001\n\n",
-            "title": "[Have Melee - Brass Knuckles]"
-        },
-        {
-            "content": "[Have Melee - Screw Driver]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000002\n\n",
-            "title": "[Have Melee - Screw Driver]"
-        },
-        {
-            "content": "[Have Melee - Golf Clup]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000003\n\n",
-            "title": "[Have Melee - Golf Clup]"
-        },
-        {
-            "content": "[Have Melee - Police Baton]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000004\n\n",
-            "title": "[Have Melee - Police Baton]"
-        },
-        {
-            "content": "[Have Melee - Knife]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000005\n\n",
-            "title": "[Have Melee - Knife]"
-        },
-        {
-            "content": "[Have Melee - Baseball Bat]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000006\n\n",
-            "title": "[Have Melee - Baseball Bat]"
-        },
-        {
-            "content": "[Have Melee - Hammer]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000007\n\n",
-            "title": "[Have Melee - Hammer]"
-        },
-        {
-            "content": "[Have Melee - Meat Cleaver]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000008\n\n",
-            "title": "[Have Melee - Meat Cleaver]"
-        },
-        {
-            "content": "[Have Melee - Machete]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000009\n\n",
-            "title": "[Have Melee - Machete]"
-        },
-        {
-            "content": "[Have Melee - Katana]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 0000000A\n\n",
-            "title": "[Have Melee - Katana]"
-        },
-        {
-            "content": "[Have Melee - Chainsaw]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 0000000B\n\n",
-            "title": "[Have Melee - Chainsaw]"
-        },
-        {
-            "content": "[Have Throwable - Grenade]\n58010000 06744F38\n78010000 00000610\n64010000 00000000 0000000C\n\n",
-            "title": "[Have Throwable - Grenade]"
-        },
-        {
-            "content": "[Have Throwable - Remote Grenade]\n58010000 06744F38\n78010000 00000610\n64010000 00000000 0000000D\n\n",
-            "title": "[Have Throwable - Remote Grenade]"
-        },
-        {
-            "content": "[Have Throwable - Tear Gas]\n58010000 06744F38\n78010000 00000610\n64010000 00000000 0000000E\n\n",
-            "title": "[Have Throwable - Tear Gas]"
-        },
-        {
-            "content": "[Have Throwable - Molotov Cocktail]\n58010000 06744F38\n78010000 00000610\n64010000 00000000 0000000F\n\n",
-            "title": "[Have Throwable - Molotov Cocktail]"
-        },
-        {
-            "content": "[Have Throwable - Rocket]\n58010000 06744F38\n78010000 00000610\n64010000 00000000 00000010\n\n",
-            "title": "[Have Throwable - Rocket]"
-        },
-        {
-            "content": "[Have Pistol - Colt 45]\n58010000 06744F38\n78010000 00000630\n64010000 00000000 00000011\n\n",
-            "title": "[Have Pistol - Colt 45]"
-        },
-        {
-            "content": "[Have Pistol - Python]\n58010000 06744F38\n78010000 00000630\n64010000 00000000 00000012\n\n",
-            "title": "[Have Pistol - Python]"
-        },
-        {
-            "content": "[Have Shotgun - Shotgun]\n58010000 06744F38\n78010000 00000650\n64010000 00000000 00000013\n\n",
-            "title": "[Have Shotgun - Shotgun]"
-        },
-        {
-            "content": "[Have Shotgun - Spaz 12]\n58010000 06744F38\n78010000 00000650\n64010000 00000000 00000014\n\n",
-            "title": "[Have Shotgun - Spaz 12]"
-        },
-        {
-            "content": "[Have Shotgun - Stubby Shotgun]\n58010000 06744F38\n78010000 00000650\n64010000 00000000 00000015\n\n",
-            "title": "[Have Shotgun - Stubby Shotgun]"
-        },
-        {
-            "content": "[Have SG - Tec]\n58010000 06744F38\n78010000 00000670\n64010000 00000000 00000016\n\n",
-            "title": "[Have SG - Tec]"
-        },
-        {
-            "content": "[Have SG - Uz-1]\n58010000 06744F38\n78010000 00000670\n64010000 00000000 00000017\n\n",
-            "title": "[Have SG - Uz-1]"
-        },
-        {
-            "content": "[Have SG - Mac]\n58010000 06744F38\n78010000 00000670\n64010000 00000000 00000018\n\n",
-            "title": "[Have SG - Mac]"
-        },
-        {
-            "content": "[Have SG - MP5]\n58010000 06744F38\n78010000 00000670\n64010000 00000000 00000019\n\n",
-            "title": "[Have SG - MP5]"
-        },
-        {
-            "content": "[Have Rifle - M4]\n58010000 06744F38\n78010000 00000690\n64010000 00000000 0000001A\n\n",
-            "title": "[Have Rifle - M4]"
-        },
-        {
-            "content": "[Have Rifle - Ruger]\n58010000 06744F38\n78010000 00000690\n64010000 00000000 0000001B\n\n",
-            "title": "[Have Rifle - Ruger]"
-        },
-        {
-            "content": "[Have Sniper - Sniper Rifle]\n58010000 06744F38\n78010000 000006D0\n64010000 00000000 0000001C\n\n",
-            "title": "[Have Sniper - Sniper Rifle]"
-        },
-        {
-            "content": "[Have Sniper - .308 Sniper]\n58010000 06744F38\n78010000 000006D0\n64010000 00000000 0000001D\n\n",
-            "title": "[Have Sniper - .308 Sniper]"
-        },
-        {
-            "content": "[Have Heavy Weapon - Rocket Launcher]\n58010000 06744F38\n78010000 000006B0\n64010000 00000000 0000001E\n\n",
-            "title": "[Have Heavy Weapon - Rocket Launcher]"
-        },
-        {
-            "content": "[Have Heavy Weapon - Flame Thrower]\n58010000 06744F38\n78010000 000006B0\n64010000 00000000 0000001F\n\n",
-            "title": "[Have Heavy Weapon - Flame Thrower]"
-        },
-        {
-            "content": "[Have Heavy Weapon - M60]\n58010000 06744F38\n78010000 000006B0\n64010000 00000000 00000020\n\n",
-            "title": "[Have Heavy Weapon - M60]"
-        },
-        {
-            "content": "[Have Heavy Weapon - Minigun]\n58010000 06744F38\n78010000 000006B0\n64010000 00000000 00000021",
-            "title": "[Have Heavy Weapon - Minigun]"
-        }
-    ]
+    "B8445417486F1D89": {
+        "[60 FPS]": "[60 FPS]\n580F0000 06DA9920\n580F1000 00000018\n580F1000 000000A0\n780F0000 00000F14\n640F0000 00000000 00000001\n580F0000 0755CA30\n780F0000 00000044\n680F0000 42700000 42700000\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 06DA9920\n580F1000 00000018\n580F1000 000000A0\n780F0000 00000F14\n640F0000 00000000 00000002\n580F0000 0755CA30\n780F0000 00000044\n680F0000 41F00000 41F00000\n\n"
+    },
+    "attribution": {
+        "GTA Vice City.txt": "By Hazerou"
+    },
+    "A60E8CA86C6FD704": {
+        "[Inf Health]": "[Inf Health]\n58010000 06744F38\n78010000 000004CC\n64010000 00000000 42C80000\n\n",
+        "[Inf Armor]": "[Inf Armor]\n58010000 06744F38\n78010000 000004D0\n64010000 00000000 42C80000\n\n",
+        "[Inf Vehicle Health]": "[Inf Vehicle Health]\n80000200\n58010000 06744F38\n58111000 00000538\n78010000 00000318\n64010000 00000000 447A0000\n20000000\n\n",
+        "[No Wanted Level]": "[No Wanted Level]\n58010000 06744F38\n58111000 00000880\n78010000 00000020\n610100F0 00000000 00000000\n\n",
+        "[Max Wanted Level]": "[Max Wanted Level]\n58010000 06744F38\n58111000 00000880\n78010000 00000020\n610100F0 00000000 00000006\n\n",
+        "[Inf Throwable Ammo]": "[Inf Throwable Ammo]\n58010000 06744F38\n78010000 00000618\n68010000 0000270F 00000001\n\n",
+        "[Inf Pistol Ammo]": "[Inf Pistol Ammo]\n58010000 06744F38\n78010000 00000638\n68010000 0000270F 00000011\n\n",
+        "[Inf Shotgun Ammo]": "[Inf Shotgun Ammo]\n58010000 06744F38\n78010000 00000658\n68010000 0000270F 00000001\n\n",
+        "[Inf Submachine Gun Ammo]": "[Inf Submachine Gun Ammo]\n58010000 06744F38\n78010000 00000678\n68010000 0000270F 0000001E\n\n",
+        "[Inf Rifle Ammo]": "[Inf Rifle Ammo]\n58010000 06744F38\n78010000 00000698\n68010000 0000270F 0000001E\n\n",
+        "[Inf Heavy Weapon Ammo]": "[Inf Heavy Weapon Ammo]\n58010000 06744F38\n78010000 000006B8\n64010000 0000270F 00000020\n\n",
+        "[Inf Sniper Ammo]": "[Inf Sniper Ammo]\n58010000 06744F38\n78010000 000006D8\n68010000 0000270F 00000001\n\n",
+        "[Have Melee - Brass Knuckles]": "[Have Melee - Brass Knuckles]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000001\n\n",
+        "[Have Melee - Screw Driver]": "[Have Melee - Screw Driver]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000002\n\n",
+        "[Have Melee - Golf Clup]": "[Have Melee - Golf Clup]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000003\n\n",
+        "[Have Melee - Police Baton]": "[Have Melee - Police Baton]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000004\n\n",
+        "[Have Melee - Knife]": "[Have Melee - Knife]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000005\n\n",
+        "[Have Melee - Baseball Bat]": "[Have Melee - Baseball Bat]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000006\n\n",
+        "[Have Melee - Hammer]": "[Have Melee - Hammer]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000007\n\n",
+        "[Have Melee - Meat Cleaver]": "[Have Melee - Meat Cleaver]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000008\n\n",
+        "[Have Melee - Machete]": "[Have Melee - Machete]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 00000009\n\n",
+        "[Have Melee - Katana]": "[Have Melee - Katana]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 0000000A\n\n",
+        "[Have Melee - Chainsaw]": "[Have Melee - Chainsaw]\n58010000 06744F38\n78010000 000005F0\n64010000 00000000 0000000B\n\n",
+        "[Have Throwable - Grenade]": "[Have Throwable - Grenade]\n58010000 06744F38\n78010000 00000610\n64010000 00000000 0000000C\n\n",
+        "[Have Throwable - Remote Grenade]": "[Have Throwable - Remote Grenade]\n58010000 06744F38\n78010000 00000610\n64010000 00000000 0000000D\n\n",
+        "[Have Throwable - Tear Gas]": "[Have Throwable - Tear Gas]\n58010000 06744F38\n78010000 00000610\n64010000 00000000 0000000E\n\n",
+        "[Have Throwable - Molotov Cocktail]": "[Have Throwable - Molotov Cocktail]\n58010000 06744F38\n78010000 00000610\n64010000 00000000 0000000F\n\n",
+        "[Have Throwable - Rocket]": "[Have Throwable - Rocket]\n58010000 06744F38\n78010000 00000610\n64010000 00000000 00000010\n\n",
+        "[Have Pistol - Colt 45]": "[Have Pistol - Colt 45]\n58010000 06744F38\n78010000 00000630\n64010000 00000000 00000011\n\n",
+        "[Have Pistol - Python]": "[Have Pistol - Python]\n58010000 06744F38\n78010000 00000630\n64010000 00000000 00000012\n\n",
+        "[Have Shotgun - Shotgun]": "[Have Shotgun - Shotgun]\n58010000 06744F38\n78010000 00000650\n64010000 00000000 00000013\n\n",
+        "[Have Shotgun - Spaz 12]": "[Have Shotgun - Spaz 12]\n58010000 06744F38\n78010000 00000650\n64010000 00000000 00000014\n\n",
+        "[Have Shotgun - Stubby Shotgun]": "[Have Shotgun - Stubby Shotgun]\n58010000 06744F38\n78010000 00000650\n64010000 00000000 00000015\n\n",
+        "[Have SG - Tec]": "[Have SG - Tec]\n58010000 06744F38\n78010000 00000670\n64010000 00000000 00000016\n\n",
+        "[Have SG - Uz-1]": "[Have SG - Uz-1]\n58010000 06744F38\n78010000 00000670\n64010000 00000000 00000017\n\n",
+        "[Have SG - Mac]": "[Have SG - Mac]\n58010000 06744F38\n78010000 00000670\n64010000 00000000 00000018\n\n",
+        "[Have SG - MP5]": "[Have SG - MP5]\n58010000 06744F38\n78010000 00000670\n64010000 00000000 00000019\n\n",
+        "[Have Rifle - M4]": "[Have Rifle - M4]\n58010000 06744F38\n78010000 00000690\n64010000 00000000 0000001A\n\n",
+        "[Have Rifle - Ruger]": "[Have Rifle - Ruger]\n58010000 06744F38\n78010000 00000690\n64010000 00000000 0000001B\n\n",
+        "[Have Sniper - Sniper Rifle]": "[Have Sniper - Sniper Rifle]\n58010000 06744F38\n78010000 000006D0\n64010000 00000000 0000001C\n\n",
+        "[Have Sniper - .308 Sniper]": "[Have Sniper - .308 Sniper]\n58010000 06744F38\n78010000 000006D0\n64010000 00000000 0000001D\n\n",
+        "[Have Heavy Weapon - Rocket Launcher]": "[Have Heavy Weapon - Rocket Launcher]\n58010000 06744F38\n78010000 000006B0\n64010000 00000000 0000001E\n\n",
+        "[Have Heavy Weapon - Flame Thrower]": "[Have Heavy Weapon - Flame Thrower]\n58010000 06744F38\n78010000 000006B0\n64010000 00000000 0000001F\n\n",
+        "[Have Heavy Weapon - M60]": "[Have Heavy Weapon - M60]\n58010000 06744F38\n78010000 000006B0\n64010000 00000000 00000020\n\n",
+        "[Have Heavy Weapon - Minigun]": "[Have Heavy Weapon - Minigun]\n58010000 06744F38\n78010000 000006B0\n64010000 00000000 00000021\n\n"
+    }
 }

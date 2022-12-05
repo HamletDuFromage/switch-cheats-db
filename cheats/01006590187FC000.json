@@ -1,20 +1,11 @@
 {
-    "A869308E69CF3308": [
-        {
-            "content": "[Breeze beta40 DARK MINUTE: Kira's Adventure 1.0 TID: 01006590187FC000 BID: A869308E69CF3308]\n\n",
-            "title": "[Breeze beta40 DARK MINUTE: Kira's Adventure 1.0 TID: 01006590187FC000 BID: A869308E69CF3308]"
-        },
-        {
-            "content": "[Freeze Time]\n04000000 016B0A74 1E204100 \n\n",
-            "title": "[Freeze Time]"
-        },
-        {
-            "content": "[\ue0a4 Hover]\n80000040 \n580F0000 026B64A0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 00000070 \n580F1000 00000010 \n580F1000 00000078 \n780F0000 00000044 \n640F0000 00000000 3F000000 \n20000000 \n\n",
-            "title": "[\ue0a4 Hover]"
-        },
-        {
-            "content": "[\ue0a5 Up]\n80000080 \n580F0000 026B64A0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 00000070 \n580F1000 00000010 \n580F1000 00000078 \n780F0000 00000044 \n640F0000 00000000 40742C3E \n20000000\n\n\n",
-            "title": "[\ue0a5 Up]"
-        }
-    ]
+    "A869308E69CF3308": {
+        "[Breeze beta40 DARK MINUTE: Kira's Adventure 1.0 TID: 01006590187FC000 BID: A869308E69CF3308]": "[Breeze beta40 DARK MINUTE: Kira's Adventure 1.0 TID: 01006590187FC000 BID: A869308E69CF3308]\n\n",
+        "[Freeze Time]": "[Freeze Time]\n04000000 016B0A74 1E204100\n\n",
+        "[\ue0a4 Hover]": "[\ue0a4 Hover]\n80000040 \n580F0000 026B64A0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 00000070 \n580F1000 00000010 \n580F1000 00000078 \n780F0000 00000044 \n640F0000 00000000 3F000000 \n20000000\n\n",
+        "[\ue0a5 Up]": "[\ue0a5 Up]\n80000080 \n580F0000 026B64A0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 00000070 \n580F1000 00000010 \n580F1000 00000078 \n780F0000 00000044 \n640F0000 00000000 40742C3E \n20000000\n\n"
+    },
+    "attribution": {
+        "DARK MINUTE Kira's Adventure 1.0 1.0.0 by Tomswitch.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+    }
 }

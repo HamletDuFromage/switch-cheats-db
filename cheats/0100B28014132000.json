@@ -1,102 +1,33 @@
 {
-    "810CBA3D7DB83EC0": [
-        {
-            "content": "[1p invincible]\n04000000 00CCCD20 D503201F\n\n",
-            "title": "[1p invincible]"
-        },
-        {
-            "content": "[1p auto block weapon]\n04000000 00CCD694 D503201F\n\n",
-            "title": "[1p auto block weapon]"
-        },
-        {
-            "content": "[speed attack]\n04000000 00D1B9CC 1E2E1000\n\n",
-            "title": "[speed attack]"
-        },
-        {
-            "content": "[inf user ultimate skill]\n04000000 00EE6DBC 1E27F00C\n\n",
-            "title": "[inf user ultimate skill]"
-        },
-        {
-            "content": "[inf user musou]\n04000000 00D68C90 D65F03C0\n\n",
-            "title": "[inf user musou]"
-        },
-        {
-            "content": "[inf user rage]\n04000000 00D69390 D65F03C0\n\n",
-            "title": "[inf user rage]"
-        },
-        {
-            "content": "[1p hit killl]\n04000000 00E56590 D65F03C0\n\n",
-            "title": "[1p hit killl]"
-        },
-        {
-            "content": "[hitanywhere]\n04000000 00D03860 D65F03C0\n\n",
-            "title": "[hitanywhere]"
-        },
-        {
-            "content": "[hit always ice wind lightning on]\n04000000 00CC6B00 D65F03C0\n\n",
-            "title": "[hit always ice wind lightning on]"
-        },
-        {
-            "content": "[hit always ice wind lightning off]\n04000000 00CC6B00 F81C0FF7\n",
-            "title": "[hit always ice wind lightning off]"
-        }
-    ],
-    "AEA6B2652EA9E34B": [
-        {
-            "content": "[inf use ultimate skill]\n04000000 00EE5F70 1E27F00C\n\n",
-            "title": "[inf use ultimate skill]"
-        },
-        {
-            "content": "[inf user rage]\n04000000 00D691E0 D65F03C0\n\n",
-            "title": "[inf user rage]"
-        },
-        {
-            "content": "[inf use musou]\n04000000 00D68AE0 D65F03C0\n\n",
-            "title": "[inf use musou]"
-        },
-        {
-            "content": "[speed run normal]\n04000000 00D3D630 1E2E1008\n\n",
-            "title": "[speed run normal]"
-        },
-        {
-            "content": "[speed run 1.25x]\n04000000 00D3D630 1E2E9008\n\n",
-            "title": "[speed run 1.25x]"
-        },
-        {
-            "content": "[speed run 1.5x]\n04000000 00D3D630 1E2F1008\n\n",
-            "title": "[speed run 1.5x]"
-        },
-        {
-            "content": "[speed run 1.75x]\n04000000 00D3D630 1E2F9008\n\n",
-            "title": "[speed run 1.75x]"
-        },
-        {
-            "content": "[speed run 2x]\n04000000 00D3D630 1E201008\n\n",
-            "title": "[speed run 2x]"
-        },
-        {
-            "content": "[hitanywhere on]\n04000000 00D074D0 D65F03C0\n\n",
-            "title": "[hitanywhere on]"
-        },
-        {
-            "content": "[hitanywhere off]\n04000000 00D074D0 A9BF7BFD\n\n",
-            "title": "[hitanywhere off]"
-        },
-        {
-            "content": "[L pad Invicible both]\n04000000 00D07470 A9BF7BFD\n80000040\n04000000 00D07470 D65F03C0\n20000000\n\n",
-            "title": "[L pad Invicible both]"
-        },
-        {
-            "content": "[always ice wind lightning hit on]\n04000000 00CC6C60 D65F03C0\n\n",
-            "title": "[always ice wind lightning hit on]"
-        },
-        {
-            "content": "[always ice wind lightning hit off]\n04000000 00CC6C60 F81C0FF7\n\n",
-            "title": "[always ice wind lightning hit off]"
-        },
-        {
-            "content": "[1p hit kill]\n04000000 00E55B10 D65F03C0\n",
-            "title": "[1p hit kill]"
-        }
-    ]
+    "810CBA3D7DB83EC0": {
+        "[1p invincible]": "[1p invincible]\n04000000 00CCCD20 D503201F\n\n",
+        "[1p auto block weapon]": "[1p auto block weapon]\n04000000 00CCD694 D503201F\n\n",
+        "[speed attack]": "[speed attack]\n04000000 00D1B9CC 1E2E1000\n\n",
+        "[inf user ultimate skill]": "[inf user ultimate skill]\n04000000 00EE6DBC 1E27F00C\n\n",
+        "[inf user musou]": "[inf user musou]\n04000000 00D68C90 D65F03C0\n\n",
+        "[inf user rage]": "[inf user rage]\n04000000 00D69390 D65F03C0\n\n",
+        "[1p hit killl]": "[1p hit killl]\n04000000 00E56590 D65F03C0\n\n",
+        "[hitanywhere]": "[hitanywhere]\n04000000 00D03860 D65F03C0\n\n",
+        "[hit always ice wind lightning on]": "[hit always ice wind lightning on]\n04000000 00CC6B00 D65F03C0\n\n",
+        "[hit always ice wind lightning off]": "[hit always ice wind lightning off]\n04000000 00CC6B00 F81C0FF7\n\n"
+    },
+    "AEA6B2652EA9E34B": {
+        "[inf use ultimate skill]": "[inf use ultimate skill]\n04000000 00EE5F70 1E27F00C\n\n",
+        "[inf user rage]": "[inf user rage]\n04000000 00D691E0 D65F03C0\n\n",
+        "[inf use musou]": "[inf use musou]\n04000000 00D68AE0 D65F03C0\n\n",
+        "[speed run normal]": "[speed run normal]\n04000000 00D3D630 1E2E1008\n\n",
+        "[speed run 1.25x]": "[speed run 1.25x]\n04000000 00D3D630 1E2E9008\n\n",
+        "[speed run 1.5x]": "[speed run 1.5x]\n04000000 00D3D630 1E2F1008\n\n",
+        "[speed run 1.75x]": "[speed run 1.75x]\n04000000 00D3D630 1E2F9008\n\n",
+        "[speed run 2x]": "[speed run 2x]\n04000000 00D3D630 1E201008\n\n",
+        "[hitanywhere on]": "[hitanywhere on]\n04000000 00D074D0 D65F03C0\n\n",
+        "[hitanywhere off]": "[hitanywhere off]\n04000000 00D074D0 A9BF7BFD\n\n",
+        "[L pad Invicible both]": "[L pad Invicible both]\n04000000 00D07470 A9BF7BFD\n80000040\n04000000 00D07470 D65F03C0\n20000000\n\n",
+        "[always ice wind lightning hit on]": "[always ice wind lightning hit on]\n04000000 00CC6C60 D65F03C0\n\n",
+        "[always ice wind lightning hit off]": "[always ice wind lightning hit off]\n04000000 00CC6C60 F81C0FF7\n\n",
+        "[1p hit kill]": "[1p hit kill]\n04000000 00E55B10 D65F03C0\n\n"
+    },
+    "attribution": {
+        "SAMURAI WARRIORS 5 ver 1.0.1 and 1.0.3 by xtatu.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

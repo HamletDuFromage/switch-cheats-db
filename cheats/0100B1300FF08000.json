@@ -1,28 +1,13 @@
 {
-    "6F043B70DE8F5893": [
-        {
-            "content": "[01# Max Health]\n08000000 01AF072C 45FA0000 45FA0000\n\n",
-            "title": "[01# Max Health]"
-        },
-        {
-            "content": "[02# Inf Money]\n580F0000 01AE8258\n580F1000 00000008\n780F0000 000014A8\n640F0000 00000000 3B9AC9FF\n\n",
-            "title": "[02# Inf Money]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 01AF07C8\n580F1000 00000070\n580F1000 00000460\n780F0000 00000370\n640F0000 00000000 50000000\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 01AF07C8\n580F1000 00000070\n580F1000 00000460\n780F0000 000003B4\n640F0000 00000000 41900000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Inf Battery]\n080F0000 01AEC480 459C4000 459C4000\n\n",
-            "title": "[Inf Battery]"
-        },
-        {
-            "content": "[Draw Line Freely]\n040F0000 01AEB3F4 00000002",
-            "title": "[Draw Line Freely]"
-        }
-    ]
+    "6F043B70DE8F5893": {
+        "[01# Max Health]": "[01# Max Health]\n08000000 01AF072C 45FA0000 45FA0000\n\n",
+        "[02# Inf Money]": "[02# Inf Money]\n580F0000 01AE8258\n580F1000 00000008\n780F0000 000014A8\n640F0000 00000000 3B9AC9FF\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 01AF07C8\n580F1000 00000070\n580F1000 00000460\n780F0000 00000370\n640F0000 00000000 50000000\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 01AF07C8\n580F1000 00000070\n580F1000 00000460\n780F0000 000003B4\n640F0000 00000000 41900000\n20000000\n\n",
+        "[Inf Battery]": "[Inf Battery]\n080F0000 01AEC480 459C4000 459C4000\n\n",
+        "[Draw Line Freely]": "[Draw Line Freely]\n040F0000 01AEB3F4 00000002\n\n"
+    },
+    "attribution": {
+        "THE WONDERFUL 101 REMASTERED ver 1.0.1 by Patjenova.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+    }
 }

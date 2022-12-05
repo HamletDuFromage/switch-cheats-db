@@ -1,16 +1,10 @@
 {
-    "4FCDB74DFD8BA740": [
-        {
-            "content": "[Inf Time]\n580F0000 033526F0\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000001C\n640F0000 00000000 00000063\n\n",
-            "title": "[Inf Time]"
-        },
-        {
-            "content": "[Inf Health]\n580F0000 03352378\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000020\n640F0000 00000000 00000064\n\n",
-            "title": "[Inf Health]"
-        },
-        {
-            "content": "[One Hit Kill (Hold ZR and ZL)]\n80000300\n580F0000 03352378\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000024\n640F0000 00000000 00000000\n20000000",
-            "title": "[One Hit Kill (Hold ZR and ZL)]"
-        }
-    ]
+    "4FCDB74DFD8BA740": {
+        "[Inf Time]": "[Inf Time]\n580F0000 033526F0\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000001C\n640F0000 00000000 00000063\n\n",
+        "[Inf Health]": "[Inf Health]\n580F0000 03352378\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000020\n640F0000 00000000 00000064\n\n",
+        "[One Hit Kill (Hold ZR and ZL)]": "[One Hit Kill (Hold ZR and ZL)]\n80000300\n580F0000 03352378\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000024\n640F0000 00000000 00000000\n20000000\n\n"
+    },
+    "attribution": {
+        "Fight ver 1.0.0 by ZiT.txt": "\u203b If you activate the code at the start of the game, it will freeze."
+    }
 }

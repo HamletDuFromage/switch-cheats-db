@@ -1,32 +1,14 @@
 {
-    "630DC5DE0776E6E8": [
-        {
-            "content": "[01# Inf Health]\n580F0000 0FA26F80\n580F1000 00000200\n580F1000 00001258\n580F1000 00000008\n780F0000 00000004\n640F0000 00000000 4650C000\n\n",
-            "title": "[01# Inf Health]"
-        },
-        {
-            "content": "[02# Inf Energy]\n580F0000 0FA27940\n780F0000 00000FE0\n640F0000 00000000 44EB5000\n\n",
-            "title": "[02# Inf Energy]"
-        },
-        {
-            "content": "[03# Left Gun No Cooldown]\n580F0000 0FA27AF0\n580F1000 00000008\n780F0000 00000000\n640F0000 00000000 47000000\n780F0000 00000004\n640F0000 00000000 47000000\n\n",
-            "title": "[03# Left Gun No Cooldown]"
-        },
-        {
-            "content": "[04# Right Gun No Cooldown]\n580F0000 0FA27AF0\n580F1000 00000018\n780F0000 00000000\n640F0000 00000000 47000000\n780F0000 00000004\n640F0000 00000000 47000000\n\n",
-            "title": "[04# Right Gun No Cooldown]"
-        },
-        {
-            "content": "[05# Inf Money]\n580F0000 0F5FEC08\n580F1000 00000148\n580F1000 000000B8\n780F0000 0000000C\n640F0000 00000000 0098967F\n\n",
-            "title": "[05# Inf Money]"
-        },
-        {
-            "content": "[06# Inf Nova]\n580F0000 0F5FEC08\n580F1000 00000148\n580F1000 000000B8\n780F0000 00000014\n640F0000 00000000 0098967F\n\n",
-            "title": "[06# Inf Nova]"
-        },
-        {
-            "content": "[07# Inf Crimson]\n580F0000 0F5FEC08\n580F1000 00000148\n580F1000 000000B8\n780F0000 0000001C\n640F0000 00000000 0098967F",
-            "title": "[07# Inf Crimson]"
-        }
-    ]
+    "630DC5DE0776E6E8": {
+        "[01# Inf Health]": "[01# Inf Health]\n580F0000 0FA26F80\n580F1000 00000200\n580F1000 00001258\n580F1000 00000008\n780F0000 00000004\n640F0000 00000000 4650C000\n\n",
+        "[02# Inf Energy]": "[02# Inf Energy]\n580F0000 0FA27940\n780F0000 00000FE0\n640F0000 00000000 44EB5000\n\n",
+        "[03# Left Gun No Cooldown]": "[03# Left Gun No Cooldown]\n580F0000 0FA27AF0\n580F1000 00000008\n780F0000 00000000\n640F0000 00000000 47000000\n780F0000 00000004\n640F0000 00000000 47000000\n\n",
+        "[04# Right Gun No Cooldown]": "[04# Right Gun No Cooldown]\n580F0000 0FA27AF0\n580F1000 00000018\n780F0000 00000000\n640F0000 00000000 47000000\n780F0000 00000004\n640F0000 00000000 47000000\n\n",
+        "[05# Inf Money]": "[05# Inf Money]\n580F0000 0F5FEC08\n580F1000 00000148\n580F1000 000000B8\n780F0000 0000000C\n640F0000 00000000 0098967F\n\n",
+        "[06# Inf Nova]": "[06# Inf Nova]\n580F0000 0F5FEC08\n580F1000 00000148\n580F1000 000000B8\n780F0000 00000014\n640F0000 00000000 0098967F\n\n",
+        "[07# Inf Crimson]": "[07# Inf Crimson]\n580F0000 0F5FEC08\n580F1000 00000148\n580F1000 000000B8\n780F0000 0000001C\n640F0000 00000000 0098967F\n\n"
+    },
+    "attribution": {
+        "Starlink Battle for Atlas ver 1.0.5 by Patjenova.txt": "caution\ncan some problems"
+    }
 }

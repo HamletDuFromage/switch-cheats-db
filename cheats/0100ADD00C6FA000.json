@@ -1,32 +1,14 @@
 {
-    "E76C3624D3AE3DCE": [
-        {
-            "content": "[Meruru HP 999]\n04000000 0117ba50 000003E7\n04000000 0117ba84 000003E7\n04000000 0117ba44 000003E7\n\n",
-            "title": "[Meruru HP 999]"
-        },
-        {
-            "content": "[Keina HP 999 ]\n04000000 0117bc00 000003E7\n04000000 0117bc08 000003E7\n04000000 0117bc34 000003E7\n04000000 0117bc3c 000003E7\n04000000 0117bbf4 000003E7\n\n",
-            "title": "[Keina HP 999 ]"
-        },
-        {
-            "content": "[Meruru MP 999]\n04000000 0117ba54 000003E7\n04000000 0117ba88 000003E7\n\n",
-            "title": "[Meruru MP 999]"
-        },
-        {
-            "content": "[Keina MP 999 ]\n04000000 0117bc04 000003E7\n04000000 0117bc38 000003E7\n04000000 0117bbf8 000003E7\n\n",
-            "title": "[Keina MP 999 ]"
-        },
-        {
-            "content": "[Lias HP 999 ]\n04000000 0117bdb0 000003E7\n04000000 0117bde4 000003E7\n04000000 0117bda4 000003E7\n\n",
-            "title": "[Lias HP 999 ]"
-        },
-        {
-            "content": "[Lias MP 999]\n04000000 0117bdb4 000003E7\n04000000 0117bde8 000003E7\n04000000 0117bda8 000003E7\n\n",
-            "title": "[Lias MP 999]"
-        },
-        {
-            "content": "[Coins 999999]\n04000000 0117ba20 000F423F\n\n\n\n\n\n\n\n",
-            "title": "[Coins 999999]"
-        }
-    ]
+    "E76C3624D3AE3DCE": {
+        "[Meruru HP 999]": "[Meruru HP 999]\n04000000 0117ba50 000003E7\n04000000 0117ba84 000003E7\n04000000 0117ba44 000003E7\n\n",
+        "[Keina HP 999 ]": "[Keina HP 999 ]\n04000000 0117bc00 000003E7\n04000000 0117bc08 000003E7\n04000000 0117bc34 000003E7\n04000000 0117bc3c 000003E7\n04000000 0117bbf4 000003E7\n\n",
+        "[Meruru MP 999]": "[Meruru MP 999]\n04000000 0117ba54 000003E7\n04000000 0117ba88 000003E7\n\n",
+        "[Keina MP 999 ]": "[Keina MP 999 ]\n04000000 0117bc04 000003E7\n04000000 0117bc38 000003E7\n04000000 0117bbf8 000003E7\n\n",
+        "[Lias HP 999 ]": "[Lias HP 999 ]\n04000000 0117bdb0 000003E7\n04000000 0117bde4 000003E7\n04000000 0117bda4 000003E7\n\n",
+        "[Lias MP 999]": "[Lias MP 999]\n04000000 0117bdb4 000003E7\n04000000 0117bde8 000003E7\n04000000 0117bda8 000003E7\n\n",
+        "[Coins 999999]": "[Coins 999999]\n04000000 0117ba20 000F423F\n\n"
+    },
+    "attribution": {
+        "Atelier Meruru The Apprentice of Arland DX ver 1.0.2 by matias3ds for gbatemp.txt": ""
+    }
 }

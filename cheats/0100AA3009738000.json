@@ -1,20 +1,11 @@
 {
-    "C317CAF34F49A74B": [
-        {
-            "content": "[Moon Jump (Hold L+B)]\n80000042\n580F0000 02D870C0\n580F1000 000000A0\n580F1000 00000008\n780F0000 0000006C\n640F0000 00000000 41600000\n20000000\n\n",
-            "title": "[Moon Jump (Hold L+B)]"
-        },
-        {
-            "content": "[No Overheat]\n580F0000 02B59020\n580F1000 000000A0\n580F1000 00000000\n780F0000 000001E8\n640F0000 00000000 00000000\n\n",
-            "title": "[No Overheat]"
-        },
-        {
-            "content": "[Inf OIL]\n580F0000 02B59020\n580F1000 000000A0\n580F1000 00000000\n780F0000 000001E0\n680F0000 42C80000 42C80000\n\n",
-            "title": "[Inf OIL]"
-        },
-        {
-            "content": "[Coin]\n580F0000 02B59020\n580F1000 000000A0\n580F1000 00000000\n780F0000 00000204\n640F0000 00000000 0001869F",
-            "title": "[Coin]"
-        }
-    ]
+    "C317CAF34F49A74B": {
+        "[Moon Jump (Hold L+B)]": "[Moon Jump (Hold L+B)]\n80000042\n580F0000 02D870C0\n580F1000 000000A0\n580F1000 00000008\n780F0000 0000006C\n640F0000 00000000 41600000\n20000000\n\n",
+        "[No Overheat]": "[No Overheat]\n580F0000 02B59020\n580F1000 000000A0\n580F1000 00000000\n780F0000 000001E8\n640F0000 00000000 00000000\n\n",
+        "[Inf OIL]": "[Inf OIL]\n580F0000 02B59020\n580F1000 000000A0\n580F1000 00000000\n780F0000 000001E0\n680F0000 42C80000 42C80000\n\n",
+        "[Coin]": "[Coin]\n580F0000 02B59020\n580F1000 000000A0\n580F1000 00000000\n780F0000 00000204\n640F0000 00000000 0001869F\n\n"
+    },
+    "attribution": {
+        "Feudal Alloy by ZiT866.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
+    }
 }

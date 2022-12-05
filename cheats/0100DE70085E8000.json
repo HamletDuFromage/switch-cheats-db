@@ -1,0 +1,9 @@
+{
+    "F18ACDA7A11CB287": {
+        "[60 FPS]": "[60 FPS]\n580F0000 03637458\n580F1000 00001798\n580F1000 000000E8\n780F0000 00000F24\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 03637458\n580F1000 00001798\n580F1000 000000E8\n780F0000 00000F24\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Outlast 2.txt": "By Hazerou\n\n- On NSwitch Max OC using 60 FPS, The FPS will drop straight to 30 if it can't handle 60 FPS."
+    }
+}

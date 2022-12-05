@@ -1,12 +1,9 @@
 {
-    "188CF8540B981749": [
-        {
-            "content": "[99 Token on change]\n04000000 0021A348 52800C74\n\n",
-            "title": "[99 Token on change]"
-        },
-        {
-            "content": "[Inf Ammo / No Reload]\n04000000 00322800 52800C80",
-            "title": "[Inf Ammo / No Reload]"
-        }
-    ]
+    "188CF8540B981749": {
+        "[99 Token on change]": "[99 Token on change]\n04000000 0021A348 52800C74\n\n",
+        "[Inf Ammo / No Reload]": "[Inf Ammo / No Reload]\n04000000 00322800 52800C80\n\n"
+    },
+    "attribution": {
+        "Heaven Dust v1.0 by DaBlackDeath.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
+    }
 }

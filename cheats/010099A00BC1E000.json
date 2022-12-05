@@ -1,30 +1,15 @@
 {
-    "82C2A04A21D3E0B8": [
-        {
-            "content": "[inf reload ammo]\n04000000 00299E40 D65F03C0",
-            "title": "[inf reload ammo]"
-        }
-    ],
-    "8CEAF0D2AE48A935": [
-        {
-            "content": "[Size Up (Hold R)]\n580F0000 0113b398\n780F0000 000000c0\n300E0000 00000003\n640F0000 00000000 3F800000\n780F0000 00000004\n80000080\n640F0000 00000000 3FB00000\n780F0000 00000004\n310E0000\n20000000\n\n",
-            "title": "[Size Up (Hold R)]"
-        },
-        {
-            "content": "[Speed Up (Hold B)]\n580F0000 0113b398\n780F0000 00000304\n640F0000 00000000 3f800000\n80000002\n640F0000 00000000 40200000\n20000000\n\n",
-            "title": "[Speed Up (Hold B)]"
-        },
-        {
-            "content": "[Walk Through Walls (ZR and Y, ZR and B)]\n580F0000 0113b398\n780F0000 00000350\n80000208\n640F0000 00000000 00000000\n20000000\n80000202\n640F0000 00000000 01000000\n20000000\n\n",
-            "title": "[Walk Through Walls (ZR and Y, ZR and B)]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 0113b398\n780F0000 000003CC\n640F0000 00000000 0000009E\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[HITANYWHERE+GHOST MODE]\n04000000 00282724 D503201F",
-            "title": "[HITANYWHERE+GHOST MODE]"
-        }
-    ]
+    "8CEAF0D2AE48A935": {
+        "[Size Up (Hold R)]": "[Size Up (Hold R)]\n580F0000 0113b398\n780F0000 000000c0\n300E0000 00000003\n640F0000 00000000 3F800000\n780F0000 00000004\n80000080\n640F0000 00000000 3FB00000\n780F0000 00000004\n310E0000\n20000000\n\n",
+        "[Speed Up (Hold B)]": "[Speed Up (Hold B)]\n580F0000 0113b398\n780F0000 00000304\n640F0000 00000000 3f800000\n80000002\n640F0000 00000000 40200000\n20000000\n\n",
+        "[Walk Through Walls (ZR and Y, ZR and B)]": "[Walk Through Walls (ZR and Y, ZR and B)]\n580F0000 0113b398\n780F0000 00000350\n80000208\n640F0000 00000000 00000000\n20000000\n80000202\n640F0000 00000000 01000000\n20000000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 0113b398\n780F0000 000003CC\n640F0000 00000000 0000009E\n\n",
+        "[HITANYWHERE+GHOST MODE]": "[HITANYWHERE+GHOST MODE]\n04000000 00282724 D503201F\n\n"
+    },
+    "82C2A04A21D3E0B8": {
+        "[inf reload ammo]": "[inf reload ammo]\n04000000 00299E40 D65F03C0\n\n"
+    },
+    "attribution": {
+        "Resident Evil 4 ver 1.01 by xtatu.txt": ""
+    }
 }

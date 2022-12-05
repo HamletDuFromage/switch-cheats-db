@@ -1,52 +1,16 @@
 {
-    "437D1636AA93D390": [
-        {
-            "content": "[Breeze beta46 In Sound Mind 1.0.2 TID: 01006DF014682000 BID: 437D1636AA93D390]\n\n",
-            "title": "[Breeze beta46 In Sound Mind 1.0.2 TID: 01006DF014682000 BID: 437D1636AA93D390]"
-        },
-        {
-            "content": "[HP Inf]\n04000000 031CEF10 BD401E80\n04000000 031CEF14 52800C80\n04000000 031CEF18 1E220009\n04000000 031CEF1C 1E292000\n04000000 031CEF20 54000060\n04000000 031CEF24 BD401A89\n04000000 031CEF28 1E283920\n04000000 031CEF2C D65F03C0\n04000000 01C714A4 9455769B\n\n",
-            "title": "[HP Inf]"
-        },
-        {
-            "content": "[HP Inf Off]\n04000000 01C714A4 1E283920\n\n",
-            "title": "[HP Inf Off]"
-        },
-        {
-            "content": "[Flashlight Inf]\n04000000 031CEF00 7100201F\n04000000 031CEF04 4B150001\n04000000 031CEF08 1A81A001\n04000000 031CEF0C D65F03C0\n04000000 0203FBB8 94463CD2\n\n",
-            "title": "[Flashlight Inf]"
-        },
-        {
-            "content": "[Flashlight Inf Off]\n04000000 0203FBB8 4B150001\n\n",
-            "title": "[Flashlight Inf Off]"
-        },
-        {
-            "content": "[Ammo Inf]\n04000000 0203FB70 51000001\n\n",
-            "title": "[Ammo Inf]"
-        },
-        {
-            "content": "[Ammo Inf Off]\n04000000 0203FB70 4B150001\n\n",
-            "title": "[Ammo Inf Off]"
-        },
-        {
-            "content": "[Stamina Inf]\n04000000 01CB3BC8 1E204120\n\n",
-            "title": "[Stamina Inf]"
-        },
-        {
-            "content": "[Stamina Inf Off]\n04000000 01CB3BC8 1E283920\n\n",
-            "title": "[Stamina Inf Off]"
-        },
-        {
-            "content": "[Oxygen Inf]\n04000000 01E629B0 1E204101\n\n",
-            "title": "[Oxygen Inf]"
-        },
-        {
-            "content": "[Oxygen Inf Off]\n04000000 01E629B0 1E203901\n\n",
-            "title": "[Oxygen Inf Off]"
-        },
-        {
-            "content": "[Made by jhmiller]\n00000000 00000000 00000000",
-            "title": "[Made by jhmiller]"
-        }
-    ]
+    "437D1636AA93D390": {
+        "[Breeze beta46 In Sound Mind 1.0.2 TID: 01006DF014682000 BID: 437D1636AA93D390]": "[Breeze beta46 In Sound Mind 1.0.2 TID: 01006DF014682000 BID: 437D1636AA93D390]\n\n",
+        "[HP Inf]": "[HP Inf]\n04000000 031CEF10 BD401E80\n04000000 031CEF14 52800C80\n04000000 031CEF18 1E220009\n04000000 031CEF1C 1E292000\n04000000 031CEF20 54000060\n04000000 031CEF24 BD401A89\n04000000 031CEF28 1E283920\n04000000 031CEF2C D65F03C0\n04000000 01C714A4 9455769B\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 01C714A4 1E283920\n\n",
+        "[Flashlight Inf]": "[Flashlight Inf]\n04000000 031CEF00 7100201F\n04000000 031CEF04 4B150001\n04000000 031CEF08 1A81A001\n04000000 031CEF0C D65F03C0\n04000000 0203FBB8 94463CD2\n\n",
+        "[Flashlight Inf Off]": "[Flashlight Inf Off]\n04000000 0203FBB8 4B150001\n\n",
+        "[Ammo Inf]": "[Ammo Inf]\n04000000 0203FB70 51000001\n\n",
+        "[Ammo Inf Off]": "[Ammo Inf Off]\n04000000 0203FB70 4B150001\n\n",
+        "[Stamina Inf]": "[Stamina Inf]\n04000000 01CB3BC8 1E204120\n\n",
+        "[Stamina Inf Off]": "[Stamina Inf Off]\n04000000 01CB3BC8 1E283920\n\n",
+        "[Oxygen Inf]": "[Oxygen Inf]\n04000000 01E629B0 1E204101\n\n",
+        "[Oxygen Inf Off]": "[Oxygen Inf Off]\n04000000 01E629B0 1E203901\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
 }

@@ -1,96 +1,30 @@
 {
-    "EB33B25F08668B19": [
-        {
-            "content": "[Unlimited Action Points (Hold ZL)]\n04000000 005FFBC0 B94C7408\n04000000 005FFBC4 B9000048\n04000000 005FFBC8 D65F03C0\n04000000 005FFBCC 00000000\n80000100\n04000000 005FFBC0 52800048\n04000000 005FFBC4 B90C7408\n04000000 005FFBC8 B9000048\n04000000 005FFBCC D65F03C0\n20000000\n",
-            "title": "[Unlimited Action Points (Hold ZL)]"
-        },
-        {
-            "content": "[Unlimited Action Points (on)]\n04000000 005FFBC0 52800048\n04000000 005FFBC4 B90C7408\n04000000 005FFBC8 B9000048\n04000000 005FFBCC D65F03C0\n",
-            "title": "[Unlimited Action Points (on)]"
-        },
-        {
-            "content": "[Unlimited Action Points (off)]\n04000000 005FFBC0 B94C7408\n04000000 005FFBC4 B9000048\n04000000 005FFBC8 D65F03C0\n04000000 005FFBCC 00000000\n\n",
-            "title": "[Unlimited Action Points (off)]"
-        },
-        {
-            "content": "[Unlimited Ammo (on)]\n04000000 0036A8D0 D503201F\n04000000 0036A8E8 D503201F\n04000000 0036A934 D503201F\n",
-            "title": "[Unlimited Ammo (on)]"
-        },
-        {
-            "content": "[Unlimited Ammo (off)]\n04000000 0036A8D0 7100054A\n04000000 0036A8E8 7100054A\n04000000 0036A934 7100054A\n\n",
-            "title": "[Unlimited Ammo (off)]"
-        },
-        {
-            "content": "[Medpack never decreases (on)]\n04000000 004DF12C 2A1503EA\n",
-            "title": "[Medpack never decreases (on)]"
-        },
-        {
-            "content": "[Medpack never decreases (off)]\n04000000 004DF12C 4B1402AA\n\n",
-            "title": "[Medpack never decreases (off)]"
-        },
-        {
-            "content": "[Scrap never decreases (on)]\n04000000 004DEF10 2A1503EA\n",
-            "title": "[Scrap never decreases (on)]"
-        },
-        {
-            "content": "[Scrap never decreases (off)]\n04000000 004DEF10 4B1302AA\n\n",
-            "title": "[Scrap never decreases (off)]"
-        },
-        {
-            "content": "[WeaponParts never decreases (on)]\n04000000 004DF8A4 D503201F\n",
-            "title": "[WeaponParts never decreases (on)]"
-        },
-        {
-            "content": "[WeaponParts never decreases (off)]\n04000000 004DF8A4 4B010129\n\n",
-            "title": "[WeaponParts never decreases (off)]"
-        },
-        {
-            "content": "[Gain 1x WeaponParts]\n04000000 004DF874 0B010129\n",
-            "title": "[Gain 1x WeaponParts]"
-        },
-        {
-            "content": "[Gain 2x WeaponParts]\n04000000 004DF874 0B010529\n",
-            "title": "[Gain 2x WeaponParts]"
-        },
-        {
-            "content": "[Gain 4x WeaponParts]\n04000000 004DF874 0B010929\n",
-            "title": "[Gain 4x WeaponParts]"
-        },
-        {
-            "content": "[Gain 8x WeaponParts]\n04000000 004DF874 0B010D29\n",
-            "title": "[Gain 8x WeaponParts]"
-        },
-        {
-            "content": "[Gain 16x WeaponParts]\n04000000 004DF874 0B011129\n",
-            "title": "[Gain 16x WeaponParts]"
-        },
-        {
-            "content": "[Gain 32x WeaponParts]\n04000000 004DF874 0B011529\n\n",
-            "title": "[Gain 32x WeaponParts]"
-        },
-        {
-            "content": "[Award 1x Exp]\n04000000 0036EE14 0B150108\n04000000 0036F5F0 0B080128\n04000000 0036FAF4 0B080128\n04000000 0036FAF8 0B160108\n",
-            "title": "[Award 1x Exp]"
-        },
-        {
-            "content": "[Award 2x Exp]\n04000000 0036EE14 0B150508\n04000000 0036F5F0 0B080528\n04000000 0036FAF4 0B080528\n04000000 0036FAF8 0B160508\n",
-            "title": "[Award 2x Exp]"
-        },
-        {
-            "content": "[Award 4x Exp]\n04000000 0036EE14 0B150908\n04000000 0036F5F0 0B080928\n04000000 0036FAF4 0B080928\n04000000 0036FAF8 0B160908\n",
-            "title": "[Award 4x Exp]"
-        },
-        {
-            "content": "[Award 8x Exp]\n04000000 0036EE14 0B150D08\n04000000 0036F5F0 0B080D28\n04000000 0036FAF4 0B080D28\n04000000 0036FAF8 0B160D08\n",
-            "title": "[Award 8x Exp]"
-        },
-        {
-            "content": "[Award 16x Exp]\n04000000 0036EE14 0B151108\n04000000 0036F5F0 0B081128\n04000000 0036FAF4 0B081128\n04000000 0036FAF8 0B161108\n",
-            "title": "[Award 16x Exp]"
-        },
-        {
-            "content": "[Award 32x Exp]\n04000000 0036EE14 0B151508\n04000000 0036F5F0 0B081528\n04000000 0036FAF4 0B081528\n04000000 0036FAF8 0B161508",
-            "title": "[Award 32x Exp]"
-        }
-    ]
+    "EB33B25F08668B19": {
+        "[Unlimited Action Points (Hold ZL)]": "[Unlimited Action Points (Hold ZL)]\n04000000 005FFBC0 B94C7408\n04000000 005FFBC4 B9000048\n04000000 005FFBC8 D65F03C0\n04000000 005FFBCC 00000000\n80000100\n04000000 005FFBC0 52800048\n04000000 005FFBC4 B90C7408\n04000000 005FFBC8 B9000048\n04000000 005FFBCC D65F03C0\n20000000\n\n",
+        "[Unlimited Action Points (on)]": "[Unlimited Action Points (on)]\n04000000 005FFBC0 52800048\n04000000 005FFBC4 B90C7408\n04000000 005FFBC8 B9000048\n04000000 005FFBCC D65F03C0\n\n",
+        "[Unlimited Action Points (off)]": "[Unlimited Action Points (off)]\n04000000 005FFBC0 B94C7408\n04000000 005FFBC4 B9000048\n04000000 005FFBC8 D65F03C0\n04000000 005FFBCC 00000000\n\n",
+        "[Unlimited Ammo (on)]": "[Unlimited Ammo (on)]\n04000000 0036A8D0 D503201F\n04000000 0036A8E8 D503201F\n04000000 0036A934 D503201F\n\n",
+        "[Unlimited Ammo (off)]": "[Unlimited Ammo (off)]\n04000000 0036A8D0 7100054A\n04000000 0036A8E8 7100054A\n04000000 0036A934 7100054A\n\n",
+        "[Medpack never decreases (on)]": "[Medpack never decreases (on)]\n04000000 004DF12C 2A1503EA\n\n",
+        "[Medpack never decreases (off)]": "[Medpack never decreases (off)]\n04000000 004DF12C 4B1402AA\n\n",
+        "[Scrap never decreases (on)]": "[Scrap never decreases (on)]\n04000000 004DEF10 2A1503EA\n\n",
+        "[Scrap never decreases (off)]": "[Scrap never decreases (off)]\n04000000 004DEF10 4B1302AA\n\n",
+        "[WeaponParts never decreases (on)]": "[WeaponParts never decreases (on)]\n04000000 004DF8A4 D503201F\n\n",
+        "[WeaponParts never decreases (off)]": "[WeaponParts never decreases (off)]\n04000000 004DF8A4 4B010129\n\n",
+        "[Gain 1x WeaponParts]": "[Gain 1x WeaponParts]\n04000000 004DF874 0B010129\n\n",
+        "[Gain 2x WeaponParts]": "[Gain 2x WeaponParts]\n04000000 004DF874 0B010529\n\n",
+        "[Gain 4x WeaponParts]": "[Gain 4x WeaponParts]\n04000000 004DF874 0B010929\n\n",
+        "[Gain 8x WeaponParts]": "[Gain 8x WeaponParts]\n04000000 004DF874 0B010D29\n\n",
+        "[Gain 16x WeaponParts]": "[Gain 16x WeaponParts]\n04000000 004DF874 0B011129\n\n",
+        "[Gain 32x WeaponParts]": "[Gain 32x WeaponParts]\n04000000 004DF874 0B011529\n\n",
+        "[Award 1x Exp]": "[Award 1x Exp]\n04000000 0036EE14 0B150108\n04000000 0036F5F0 0B080128\n04000000 0036FAF4 0B080128\n04000000 0036FAF8 0B160108\n\n",
+        "[Award 2x Exp]": "[Award 2x Exp]\n04000000 0036EE14 0B150508\n04000000 0036F5F0 0B080528\n04000000 0036FAF4 0B080528\n04000000 0036FAF8 0B160508\n\n",
+        "[Award 4x Exp]": "[Award 4x Exp]\n04000000 0036EE14 0B150908\n04000000 0036F5F0 0B080928\n04000000 0036FAF4 0B080928\n04000000 0036FAF8 0B160908\n\n",
+        "[Award 8x Exp]": "[Award 8x Exp]\n04000000 0036EE14 0B150D08\n04000000 0036F5F0 0B080D28\n04000000 0036FAF4 0B080D28\n04000000 0036FAF8 0B160D08\n\n",
+        "[Award 16x Exp]": "[Award 16x Exp]\n04000000 0036EE14 0B151108\n04000000 0036F5F0 0B081128\n04000000 0036FAF4 0B081128\n04000000 0036FAF8 0B161108\n\n",
+        "[Award 32x Exp]": "[Award 32x Exp]\n04000000 0036EE14 0B151508\n04000000 0036F5F0 0B081528\n04000000 0036FAF4 0B081528\n04000000 0036FAF8 0B161508\n\n"
+    },
+    "attribution": {
+        "Mutant Year Zero - Road to Eden - Update 2 (v2.0.22675) by Falo.txt": ""
+    }
 }

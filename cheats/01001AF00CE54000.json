@@ -1,150 +1,44 @@
 {
-    "C8F7A25E31377144": [
-        {
-            "content": "[Max Exp On Kill]\n04000000 003FD3E8 52993FE9\n04000000 003FD3EC 72A77309\n\n",
-            "title": "[Max Exp On Kill]"
-        },
-        {
-            "content": "[Invulnerable]\n04000000 00202340 D65F03C0\n\n",
-            "title": "[Invulnerable]"
-        },
-        {
-            "content": "[1.5 times speed]\n58010000 04601100\n58011000 000000B8\n58011000 00000000\n58011000 000000F8\n78010000 000001C4\n68010000 41600000 41180000\n\n",
-            "title": "[1.5 times speed]"
-        },
-        {
-            "content": "[2 times speed]\n58010000 04601100\n58011000 000000B8\n58011000 00000000\n58011000 000000F8\n78010000 000001C4\n68010000 41600000 41600000\n\n",
-            "title": "[2 times speed]"
-        },
-        {
-            "content": "[Max Exp On Kill]\n04000000 003FD3E8 52993FE9\n04000000 003FD3EC 72A77309\n\n",
-            "title": "[Max Exp On Kill]"
-        },
-        {
-            "content": "[Invulnerable]\n04000000 00202340 D65F03C0\n\n",
-            "title": "[Invulnerable]"
-        },
-        {
-            "content": "[No Skill Cool Down]\n04000000 001B66E0 1E2703E0\n\n",
-            "title": "[No Skill Cool Down]"
-        },
-        {
-            "content": "[Inf Weapon Stones]\n04000000 003207D0 52807CE0\n\n",
-            "title": "[Inf Weapon Stones]"
-        },
-        {
-            "content": "[Get Preorder Bonus Weapon DLC]\n04000000 002BF0F0 52800020\n\n",
-            "title": "[Get Preorder Bonus Weapon DLC]"
-        },
-        {
-            "content": "[Unlimited HP]\n04000000 00202340 D65F03C0\n\n",
-            "title": "[Unlimited HP]"
-        },
-        {
-            "content": "[Exp Gain x4]\n04000000 003FD3EC 0B010929\n\n",
-            "title": "[Exp Gain x4]"
-        },
-        {
-            "content": "[Exp Gain x8]\n04000000 003FD3EC 0B010D29\n\n",
-            "title": "[Exp Gain x8]"
-        },
-        {
-            "content": "[Exp Gain x16]\n04000000 003FD3EC 0B011129\n\n",
-            "title": "[Exp Gain x16]"
-        },
-        {
-            "content": "[No Skill Cooldown]\n04000000 0020065C 1E2703E0\n04000000 002008DC 1E2703E0\n\n",
-            "title": "[No Skill Cooldown]"
-        },
-        {
-            "content": "[Soulstones Drop Rate x4]\n04000000 003506DC 11001001\n\n",
-            "title": "[Soulstones Drop Rate x4]"
-        },
-        {
-            "content": "[Soulstones Drop Rate x5]\n04000000 003506DC 11001401\n\n",
-            "title": "[Soulstones Drop Rate x5]"
-        },
-        {
-            "content": "[Soulstones Drop Rate x6]\n04000000 003506DC 11001801\n\n",
-            "title": "[Soulstones Drop Rate x6]"
-        },
-        {
-            "content": "[Soulstones Always Drop (after 1 normal drop)]\n04000000 00350728 D503201F\n\n",
-            "title": "[Soulstones Always Drop (after 1 normal drop)]"
-        },
-        {
-            "content": "[Soulstones Drop Rate back to normal]\n04000000 003506DC 11000401\n04000000 00350728 1E213800\n\n",
-            "title": "[Soulstones Drop Rate back to normal]"
-        },
-        {
-            "content": "[Press L to Max Affinity]\n80000040\n58010000 04601100\n58011000 000000B8\n58011000 00000000\n58011000 000000F8\n58011000 00000110\n78010000 00000030\n64010000 00000000 43960000\n20000000\n\n",
-            "title": "[Press L to Max Affinity]"
-        },
-        {
-            "content": "[MoveSpeed x1.5]\n58010000 04601100\n58011000 000000B8\n58011000 00000000\n58011000 000000F8\n78010000 000001C4\n68010000 41600000 41180000\n\n",
-            "title": "[MoveSpeed x1.5]"
-        },
-        {
-            "content": "[MoveSpeed x2]\n58010000 04601100\n58011000 000000B8\n58011000 00000000\n58011000 000000F8\n78010000 000001C4\n68010000 41600000 41600000\n\n",
-            "title": "[MoveSpeed x2]"
-        },
-        {
-            "content": "[Healing Incense Max]\n58010000 04601100\n58011000 000000B8\n58011000 00000000\n58011000 000000F8\n58011000 00000118\n78010000 00000010\n68010000 00000063 00000063\n\n",
-            "title": "[Healing Incense Max]"
-        },
-        {
-            "content": "[Get Pre-Order Weapons]\n04000000 002BF0F0 52800020",
-            "title": "[Get Pre-Order Weapons]"
-        }
-    ],
-    "C949E2576F532C43": [
-        {
-            "content": "[Max Exp On Kill]\n04000000 003FD6C8 52993FE9\n04000000 003FD6CC 72A77309\n\n",
-            "title": "[Max Exp On Kill]"
-        },
-        {
-            "content": "[EXP x2]\n04000000 003FD6CC 0B010529\n\n",
-            "title": "[EXP x2]"
-        },
-        {
-            "content": "[EXP x4]\n04000000 003FD6CC 0B010929\n\n",
-            "title": "[EXP x4]"
-        },
-        {
-            "content": "[EXP x8]\n04000000 003FD6CC 0B010D29\n\n",
-            "title": "[EXP x8]"
-        },
-        {
-            "content": "[EXP x16]\n04000000 003FD6CC 0B011129\n\n",
-            "title": "[EXP x16]"
-        },
-        {
-            "content": "[EXP x32]\n04000000 003FD6CC 0B011529\n\n",
-            "title": "[EXP x32]"
-        },
-        {
-            "content": "[Invulnerable]\n04000000 00202620 D65F03C0\n\n",
-            "title": "[Invulnerable]"
-        },
-        {
-            "content": "[Get Preorder Bonus Weapon DLC]\n04000000 002BF3D0 52800020\n\n",
-            "title": "[Get Preorder Bonus Weapon DLC]"
-        },
-        {
-            "content": "[No Skill Cool Down]\n04000000 001B69A0 1E2703E0\n\n",
-            "title": "[No Skill Cool Down]"
-        },
-        {
-            "content": "[Inf Weapon Stones]\n04000000 00320AB0 52807CE0\n\n",
-            "title": "[Inf Weapon Stones]"
-        },
-        {
-            "content": "[Shadestones x99]\n04000000 00320F80 52800C60\n\n",
-            "title": "[Shadestones x99]"
-        },
-        {
-            "content": "[Inf Healing Incense]\n01000000 00320961 00000014",
-            "title": "[Inf Healing Incense]"
-        }
-    ]
+    "C949E2576F532C43": {
+        "[Max Exp On Kill]": "[Max Exp On Kill]\n04000000 003FD6C8 52993FE9\n04000000 003FD6CC 72A77309\n\n",
+        "[EXP x2]": "[EXP x2]\n04000000 003FD6CC 0B010529\n\n",
+        "[EXP x4]": "[EXP x4]\n04000000 003FD6CC 0B010929\n\n",
+        "[EXP x8]": "[EXP x8]\n04000000 003FD6CC 0B010D29\n\n",
+        "[EXP x16]": "[EXP x16]\n04000000 003FD6CC 0B011129\n\n",
+        "[EXP x32]": "[EXP x32]\n04000000 003FD6CC 0B011529\n\n",
+        "[Invulnerable]": "[Invulnerable]\n04000000 00202620 D65F03C0\n\n",
+        "[Get Preorder Bonus Weapon DLC]": "[Get Preorder Bonus Weapon DLC]\n04000000 002BF3D0 52800020\n\n",
+        "[No Skill Cool Down]": "[No Skill Cool Down]\n04000000 001B69A0 1E2703E0\n\n",
+        "[Inf Weapon Stones]": "[Inf Weapon Stones]\n04000000 00320AB0 52807CE0\n\n",
+        "[Shadestones x99]": "[Shadestones x99]\n04000000 00320F80 52800C60\n\n",
+        "[Inf Healing Incense]": "[Inf Healing Incense]\n01000000 00320961 00000014\n\n"
+    },
+    "C8F7A25E31377144": {
+        "[Max Exp On Kill]": "[Max Exp On Kill]\n04000000 003FD3E8 52993FE9\n04000000 003FD3EC 72A77309\n\n",
+        "[Invulnerable]": "[Invulnerable]\n04000000 00202340 D65F03C0\n\n",
+        "[1.5 times speed]": "[1.5 times speed]\n58010000 04601100\n58011000 000000B8\n58011000 00000000\n58011000 000000F8\n78010000 000001C4\n68010000 41600000 41180000\n\n",
+        "[2 times speed]": "[2 times speed]\n58010000 04601100\n58011000 000000B8\n58011000 00000000\n58011000 000000F8\n78010000 000001C4\n68010000 41600000 41600000\n\n",
+        "[No Skill Cool Down]": "[No Skill Cool Down]\n04000000 001B66E0 1E2703E0\n\n",
+        "[Inf Weapon Stones]": "[Inf Weapon Stones]\n04000000 003207D0 52807CE0\n\n",
+        "[Get Preorder Bonus Weapon DLC]": "[Get Preorder Bonus Weapon DLC]\n04000000 002BF0F0 52800020\n\n",
+        "[Unlimited HP]": "[Unlimited HP]\n04000000 00202340 D65F03C0\n\n",
+        "[Exp Gain x4]": "[Exp Gain x4]\n04000000 003FD3EC 0B010929\n\n",
+        "[Exp Gain x8]": "[Exp Gain x8]\n04000000 003FD3EC 0B010D29\n\n",
+        "[Exp Gain x16]": "[Exp Gain x16]\n04000000 003FD3EC 0B011129\n\n",
+        "[No Skill Cooldown]": "[No Skill Cooldown]\n04000000 0020065C 1E2703E0\n04000000 002008DC 1E2703E0\n\n",
+        "[Soulstones Drop Rate x4]": "[Soulstones Drop Rate x4]\n04000000 003506DC 11001001\n\n",
+        "[Soulstones Drop Rate x5]": "[Soulstones Drop Rate x5]\n04000000 003506DC 11001401\n\n",
+        "[Soulstones Drop Rate x6]": "[Soulstones Drop Rate x6]\n04000000 003506DC 11001801\n\n",
+        "[Soulstones Always Drop (after 1 normal drop)]": "[Soulstones Always Drop (after 1 normal drop)]\n04000000 00350728 D503201F\n\n",
+        "[Soulstones Drop Rate back to normal]": "[Soulstones Drop Rate back to normal]\n04000000 003506DC 11000401\n04000000 00350728 1E213800\n\n",
+        "[Press L to Max Affinity]": "[Press L to Max Affinity]\n80000040\n58010000 04601100\n58011000 000000B8\n58011000 00000000\n58011000 000000F8\n58011000 00000110\n78010000 00000030\n64010000 00000000 43960000\n20000000\n\n",
+        "[MoveSpeed x1.5]": "[MoveSpeed x1.5]\n58010000 04601100\n58011000 000000B8\n58011000 00000000\n58011000 000000F8\n78010000 000001C4\n68010000 41600000 41180000\n\n",
+        "[MoveSpeed x2]": "[MoveSpeed x2]\n58010000 04601100\n58011000 000000B8\n58011000 00000000\n58011000 000000F8\n78010000 000001C4\n68010000 41600000 41600000\n\n",
+        "[Healing Incense Max]": "[Healing Incense Max]\n58010000 04601100\n58011000 000000B8\n58011000 00000000\n58011000 000000F8\n58011000 00000118\n78010000 00000010\n68010000 00000063 00000063\n\n",
+        "[Get Pre-Order Weapons]": "[Get Pre-Order Weapons]\n04000000 002BF0F0 52800020\n\n"
+    },
+    "attribution": {
+        "Oninaki v1.0.1 By DaBlackDeath.txt": "",
+        "Oninaki v1.0.1 and v1.0.2 By DaBlackDeath.txt": ""
+    }
 }

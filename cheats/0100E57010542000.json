@@ -1,100 +1,31 @@
 {
-    "3FB33205C25D3436": [
-        {
-            "content": "[MAX Shell]\n040F0000 00EF7D2C 05F5E0FF\n\n",
-            "title": "[MAX Shell]"
-        },
-        {
-            "content": "[NAX MIRA]\n040F0000 00EF7D70 05F5E0FF\n\n",
-            "title": "[NAX MIRA]"
-        },
-        {
-            "content": "[Battle 1P HP]\n580F0000 00B7FED8\n580F1000 00000050\n580F1000 000002B8\n580F1000 000002F8\n580F1000 00000000\n580F1000 000002D0\n780F0000 000003B4\n680F0000 0000270F 0000270F\n\n",
-            "title": "[Battle 1P HP]"
-        },
-        {
-            "content": "[Battle 1P MP + CP]\n580F0000 00B7FED8\n580F1000 00000050\n580F1000 000002B8\n580F1000 000002F8\n580F1000 00000000\n580F1000 000002D0\n780F0000 000003BC\n680F0000 03E703E7 270F270F\n\n",
-            "title": "[Battle 1P MP + CP]"
-        },
-        {
-            "content": "[Battle 1P Status]\n580F0000 00B7FED8\n580F1000 00000050\n580F1000 000002B8\n580F1000 000002F8\n580F1000 00000000\n580F1000 000002D0\n780F0000 000003C4\n300E0000 00000005\n640F0000 00000000 270F270F\n780F0000 00000004\n310E0000\n20000000\n\n",
-            "title": "[Battle 1P Status]"
-        },
-        {
-            "content": "[Battle 1P Status2]\n580F0000 00B7FED8\n580F1000 00000050\n580F1000 000002B8\n580F1000 000002F8\n580F1000 00000000\n580F1000 000002D0\n780F0000 000003E0\n640F0000 00000000 00640064\n780F0000 00000006\n620F0000 00000000 00000064\n\n",
-            "title": "[Battle 1P Status2]"
-        },
-        {
-            "content": "[Battle Cancel 1P (Hold ZR)]\n80000200\n580F0000 00B7FED8\n580F1000 00000050\n580F1000 000002B8\n580F1000 000002F8\n580F1000 00000000\n580F1000 000002D0\n780F0000 000003D0\n640F0000 00000000 270F0000\n20000000\n\nNext Character\uff1a580F1000 00000000  580F1000 00000008 ( +08 )\n\n",
-            "title": "[Battle Cancel 1P (Hold ZR)]"
-        },
-        {
-            "content": "[1P HP]\n080F0000 00EF7D80 0000270F 0000270F\n\n",
-            "title": "[1P HP]"
-        },
-        {
-            "content": "[1P EP]\n040F0000 00EF7D88 270F270F\n\n",
-            "title": "[1P EP]"
-        },
-        {
-            "content": "[1P CP]\n040F0000 00EF7D8C 03E703E7\n\n",
-            "title": "[1P CP]"
-        },
-        {
-            "content": "[1P STR + DEF]\n040F0000 00EF7D90 270F270F\n\n",
-            "title": "[1P STR + DEF]"
-        },
-        {
-            "content": "[1P ATS + ADF]\n040F0000 00EF7D94 270F270F\n\n",
-            "title": "[1P ATS + ADF]"
-        },
-        {
-            "content": "[1P DEX + AGL]\n040F0000 00EF7D98 270F270F\n\n",
-            "title": "[1P DEX + AGL]"
-        },
-        {
-            "content": "[1P SPD + MOV]\n040F0000 00EF7D9C 270F270F\n\n",
-            "title": "[1P SPD + MOV]"
-        },
-        {
-            "content": "[1P RNG]\n040F0000 00EF7DA0 0000270F\n\n",
-            "title": "[1P RNG]"
-        },
-        {
-            "content": "[1P HIT + AVO]\n040F0000 00EF7DB0 00640064\n\n",
-            "title": "[1P HIT + AVO]"
-        },
-        {
-            "content": "[1P Deadly]\n020F0000 00EF7DBA 00000064\n\n",
-            "title": "[1P Deadly]"
-        },
-        {
-            "content": "[CP is not reduced]\n04000000 000C81BC 79476102\n04000000 000C81C0 7100045F\n04000000 000C81C4 54000040\n04000000 000C81C8 2A0A03E9\n\n",
-            "title": "[CP is not reduced]"
-        },
-        {
-            "content": "[EP is not reduced]\n04000000 000CCE98 1A8AB149\n\n",
-            "title": "[EP is not reduced]"
-        },
-        {
-            "content": "[Mira is not reduced]\n04000000 004501C8 1E2703E3\n\n",
-            "title": "[Mira is not reduced]"
-        },
-        {
-            "content": "[Max Brave Points]\n580F0000 00B73710\n780F0000 0037E510\n300E0000 00000008\n640F0000 00000000 0001869F\n780F0000 00000004\n310E0000\n\n",
-            "title": "[Max Brave Points]"
-        },
-        {
-            "content": "[98 items after sale]\n04000000 004533E8 52800C2A\n\n",
-            "title": "[98 items after sale]"
-        },
-        {
-            "content": "[Existing items to 90]\n04000000 00964D00 52800B43\n04000000 00964D04 79000523\n04000000 00964D08 79400523\n04000000 00964D0C D65F03C0\n04000000 00490B2C 94135075\n\n",
-            "title": "[Existing items to 90]"
-        },
-        {
-            "content": "[Max Level after viewing main menu]\n04000000 00964D10 528000E8\n04000000 00964D14 39000268\n04000000 00964D18 39400268\n04000000 00964D1C D65F03C0\n04000000 004AF830 9412D538",
-            "title": "[Max Level after viewing main menu]"
-        }
-    ]
+    "3FB33205C25D3436": {
+        "[MAX Shell]": "[MAX Shell]\n040F0000 00EF7D2C 05F5E0FF\n\n",
+        "[NAX MIRA]": "[NAX MIRA]\n040F0000 00EF7D70 05F5E0FF\n\n",
+        "[Battle 1P HP]": "[Battle 1P HP]\n580F0000 00B7FED8\n580F1000 00000050\n580F1000 000002B8\n580F1000 000002F8\n580F1000 00000000\n580F1000 000002D0\n780F0000 000003B4\n680F0000 0000270F 0000270F\n\n",
+        "[Battle 1P MP + CP]": "[Battle 1P MP + CP]\n580F0000 00B7FED8\n580F1000 00000050\n580F1000 000002B8\n580F1000 000002F8\n580F1000 00000000\n580F1000 000002D0\n780F0000 000003BC\n680F0000 03E703E7 270F270F\n\n",
+        "[Battle 1P Status]": "[Battle 1P Status]\n580F0000 00B7FED8\n580F1000 00000050\n580F1000 000002B8\n580F1000 000002F8\n580F1000 00000000\n580F1000 000002D0\n780F0000 000003C4\n300E0000 00000005\n640F0000 00000000 270F270F\n780F0000 00000004\n310E0000\n20000000\n\n",
+        "[Battle 1P Status2]": "[Battle 1P Status2]\n580F0000 00B7FED8\n580F1000 00000050\n580F1000 000002B8\n580F1000 000002F8\n580F1000 00000000\n580F1000 000002D0\n780F0000 000003E0\n640F0000 00000000 00640064\n780F0000 00000006\n620F0000 00000000 00000064\n\n",
+        "[Battle Cancel 1P (Hold ZR)]": "[Battle Cancel 1P (Hold ZR)]\n80000200\n580F0000 00B7FED8\n580F1000 00000050\n580F1000 000002B8\n580F1000 000002F8\n580F1000 00000000\n580F1000 000002D0\n780F0000 000003D0\n640F0000 00000000 270F0000\n20000000\n\nNext Character\uff1a580F1000 00000000  580F1000 00000008 ( +08 )\n\n",
+        "[1P HP]": "[1P HP]\n080F0000 00EF7D80 0000270F 0000270F\n\n",
+        "[1P EP]": "[1P EP]\n040F0000 00EF7D88 270F270F\n\n",
+        "[1P CP]": "[1P CP]\n040F0000 00EF7D8C 03E703E7\n\n",
+        "[1P STR + DEF]": "[1P STR + DEF]\n040F0000 00EF7D90 270F270F\n\n",
+        "[1P ATS + ADF]": "[1P ATS + ADF]\n040F0000 00EF7D94 270F270F\n\n",
+        "[1P DEX + AGL]": "[1P DEX + AGL]\n040F0000 00EF7D98 270F270F\n\n",
+        "[1P SPD + MOV]": "[1P SPD + MOV]\n040F0000 00EF7D9C 270F270F\n\n",
+        "[1P RNG]": "[1P RNG]\n040F0000 00EF7DA0 0000270F\n\n",
+        "[1P HIT + AVO]": "[1P HIT + AVO]\n040F0000 00EF7DB0 00640064\n\n",
+        "[1P Deadly]": "[1P Deadly]\n020F0000 00EF7DBA 00000064\n\n",
+        "[CP is not reduced]": "[CP is not reduced]\n04000000 000C81BC 79476102\n04000000 000C81C0 7100045F\n04000000 000C81C4 54000040\n04000000 000C81C8 2A0A03E9\n\n",
+        "[EP is not reduced]": "[EP is not reduced]\n04000000 000CCE98 1A8AB149\n\n",
+        "[Mira is not reduced]": "[Mira is not reduced]\n04000000 004501C8 1E2703E3\n\n",
+        "[Max Brave Points]": "[Max Brave Points]\n580F0000 00B73710\n780F0000 0037E510\n300E0000 00000008\n640F0000 00000000 0001869F\n780F0000 00000004\n310E0000\n\n",
+        "[98 items after sale]": "[98 items after sale]\n04000000 004533E8 52800C2A\n\n",
+        "[Existing items to 90]": "[Existing items to 90]\n04000000 00964D00 52800B43\n04000000 00964D04 79000523\n04000000 00964D08 79400523\n04000000 00964D0C D65F03C0\n04000000 00490B2C 94135075\n\n",
+        "[Max Level after viewing main menu]": "[Max Level after viewing main menu]\n04000000 00964D10 528000E8\n04000000 00964D14 39000268\n04000000 00964D18 39400268\n04000000 00964D1C D65F03C0\n04000000 004AF830 9412D538\n\n"
+    },
+    "attribution": {
+        "Eiyuu Densetsu Sen no Kiseki \u2162.txt": "Not valid for mini games"
+    }
 }

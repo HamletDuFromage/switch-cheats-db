@@ -1,56 +1,20 @@
 {
-    "7A4BD7BD8C9388FA": [
-        {
-            "content": "[01# Inf Power]\n040A0000 0089DBC0 1E202820\n\n",
-            "title": "[01# Inf Power]"
-        },
-        {
-            "content": "[02# Inf Jetpack Power]\n040A0000 008261F4 D503201F\n\n",
-            "title": "[02# Inf Jetpack Power]"
-        },
-        {
-            "content": "[03# DNA 999999]\n040A0000 00953358 000F423F\n040A0000 0093FC30 1809B940\n\n",
-            "title": "[03# DNA 999999]"
-        },
-        {
-            "content": "[04# Inf Health]\n040A0000 03673D40 3940A260\n040A0000 03673D44 7100041F\n040A0000 03673D48 54000041\n040A0000 03673D4C 1E27D000\n040A0000 03673D50 BD009A60\n040A0000 03673D54 1747E700\n040A0000 0086D950 14B818FC\n\n",
-            "title": "[04# Inf Health]"
-        },
-        {
-            "content": "[05# Instant kill]\n040A0000 03673D60 3940A009\n040A0000 03673D64 7100053F\n040A0000 03673D68 54000040\n040A0000 03673D6C 1E37D000\n040A0000 03673D70 BD409809\n040A0000 03673D74 1747E6E8\n040A0000 0086D910 14B81914\n\n",
-            "title": "[05# Instant kill]"
-        },
-        {
-            "content": "[INF DNA on change/buy]\n04000000 0091FB74 529B2061\n04000000 0091FB78 B945A815\n04000000 0091FB7C D65F03C0\n04000000 0093F5D8 97FF8167\n\n",
-            "title": "[INF DNA on change/buy]"
-        },
-        {
-            "content": "[4x DNA gain]\n080E0000 0093FC48 0B010901 531E7433\n\n",
-            "title": "[4x DNA gain]"
-        },
-        {
-            "content": "[No reduction for DNA]\n040E0000 0094456C 4B1F0141\n\n",
-            "title": "[No reduction for DNA]"
-        },
-        {
-            "content": "[Immortal]\n080E0000 03673D30 3900A660 3940A260\n080E0000 03673D38 1747E47C AA1303E0\n040E0000 0086D924 94B81903\n\n",
-            "title": "[Immortal]"
-        },
-        {
-            "content": "[Invisible (on)]\n040E0000 05E4F5D0 00000001\n\n",
-            "title": "[Invisible (on)]"
-        },
-        {
-            "content": "[Invisible (off)]\n040E0000 05E4F5D0 00000000\n\n",
-            "title": "[Invisible (off)]"
-        },
-        {
-            "content": "[Infinite Charge & Ammo]\n040E0000 00893D98 52800020\n\n",
-            "title": "[Infinite Charge & Ammo]"
-        },
-        {
-            "content": "[Infinite fuel]\n040E0000 008261F8 D503201F",
-            "title": "[Infinite fuel]"
-        }
-    ]
+    "7A4BD7BD8C9388FA": {
+        "[01# Inf Power]": "[01# Inf Power]\n040A0000 0089DBC0 1E202820\n\n",
+        "[02# Inf Jetpack Power]": "[02# Inf Jetpack Power]\n040A0000 008261F4 D503201F\n\n",
+        "[03# DNA 999999]": "[03# DNA 999999]\n040A0000 00953358 000F423F\n040A0000 0093FC30 1809B940\n\n",
+        "[04# Inf Health]": "[04# Inf Health]\n040A0000 03673D40 3940A260\n040A0000 03673D44 7100041F\n040A0000 03673D48 54000041\n040A0000 03673D4C 1E27D000\n040A0000 03673D50 BD009A60\n040A0000 03673D54 1747E700\n040A0000 0086D950 14B818FC\n\n",
+        "[05# Instant kill]": "[05# Instant kill]\n040A0000 03673D60 3940A009\n040A0000 03673D64 7100053F\n040A0000 03673D68 54000040\n040A0000 03673D6C 1E37D000\n040A0000 03673D70 BD409809\n040A0000 03673D74 1747E6E8\n040A0000 0086D910 14B81914\n\n",
+        "[INF DNA on change/buy]": "[INF DNA on change/buy]\n04000000 0091FB74 529B2061\n04000000 0091FB78 B945A815\n04000000 0091FB7C D65F03C0\n04000000 0093F5D8 97FF8167\n\n",
+        "[4x DNA gain]": "[4x DNA gain]\n080E0000 0093FC48 0B010901 531E7433\n\n",
+        "[No reduction for DNA]": "[No reduction for DNA]\n040E0000 0094456C 4B1F0141\n\n",
+        "[Immortal]": "[Immortal]\n080E0000 03673D30 3900A660 3940A260\n080E0000 03673D38 1747E47C AA1303E0\n040E0000 0086D924 94B81903\n\n",
+        "[Invisible (on)]": "[Invisible (on)]\n040E0000 05E4F5D0 00000001\n\n",
+        "[Invisible (off)]": "[Invisible (off)]\n040E0000 05E4F5D0 00000000\n\n",
+        "[Infinite Charge & Ammo]": "[Infinite Charge & Ammo]\n040E0000 00893D98 52800020\n\n",
+        "[Infinite fuel]": "[Infinite fuel]\n040E0000 008261F8 D503201F\n\n"
+    },
+    "attribution": {
+        "Destroy All Humans! ver 1.0.0 by patjenova and Eiffel.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

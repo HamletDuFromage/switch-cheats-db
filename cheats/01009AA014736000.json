@@ -1,16 +1,10 @@
 {
-    "9DFCEF719FC2C633": [
-        {
-            "content": "[Lives 4]\n580F0000 028EC988\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000058\n780F0000 00000010\n610F0000 00000000 00000004\n\n",
-            "title": "[Lives 4]"
-        },
-        {
-            "content": "[Hearts 3]\n580F0000 028EC988\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000058\n780F0000 00000014\n640F0000 00000000 00000004\n\n",
-            "title": "[Hearts 3]"
-        },
-        {
-            "content": "[Points 9999]\n580F0000 028EC988\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000058\n780F0000 00000018\n640F0000 00000000 0000270F",
-            "title": "[Points 9999]"
-        }
-    ]
+    "9DFCEF719FC2C633": {
+        "[Lives 4]": "[Lives 4]\n580F0000 028EC988\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000058\n780F0000 00000010\n610F0000 00000000 00000004\n\n",
+        "[Hearts 3]": "[Hearts 3]\n580F0000 028EC988\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000058\n780F0000 00000014\n640F0000 00000000 00000004\n\n",
+        "[Points 9999]": "[Points 9999]\n580F0000 028EC988\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000058\n780F0000 00000018\n640F0000 00000000 0000270F\n\n"
+    },
+    "attribution": {
+        "Return of the Heir by jhmiler.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

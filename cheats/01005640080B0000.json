@@ -1,16 +1,10 @@
 {
-    "89A17F4A3A24595F": [
-        {
-            "content": "[Inf Ammo]\n04000000 003421D4 42C80000\n\n",
-            "title": "[Inf Ammo]"
-        },
-        {
-            "content": "[Inf Life]\n04000000 00341E7C 42C80000\n\n",
-            "title": "[Inf Life]"
-        },
-        {
-            "content": "[Speed Up]\n04000000 00341ECC 41800000",
-            "title": "[Speed Up]"
-        }
-    ]
+    "89A17F4A3A24595F": {
+        "[Inf Ammo]": "[Inf Ammo]\n04000000 003421D4 42C80000\n\n",
+        "[Inf Life]": "[Inf Life]\n04000000 00341E7C 42C80000\n\n",
+        "[Speed Up]": "[Speed Up]\n04000000 00341ECC 41800000\n\n"
+    },
+    "attribution": {
+        "Crimsonland by zit.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
+    }
 }

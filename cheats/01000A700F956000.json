@@ -1,16 +1,10 @@
 {
-    "3C1FB5BC36EB1F66": [
-        {
-            "content": "[Energy unlimited]\n04100000 0160633C 40100000\n\n",
-            "title": "[Energy unlimited]"
-        },
-        {
-            "content": "[Money MAX]\n04100000 01606C2C 408F3800\n\n",
-            "title": "[Money MAX]"
-        },
-        {
-            "content": "[Ammo MAX]\n04100000 01606B7C 40080000\n",
-            "title": "[Ammo MAX]"
-        }
-    ]
+    "3C1FB5BC36EB1F66": {
+        "[Energy unlimited]": "[Energy unlimited]\n04100000 0160633C 40100000\n\n",
+        "[Money MAX]": "[Money MAX]\n04100000 01606C2C 408F3800\n\n",
+        "[Ammo MAX]": "[Ammo MAX]\n04100000 01606B7C 40080000\n\n"
+    },
+    "attribution": {
+        "Deep Space Rush  ver 1.0.0 made by merlin555.txt": ""
+    }
 }

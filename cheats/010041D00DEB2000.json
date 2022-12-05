@@ -1,8 +1,8 @@
 {
-    "FAC657E2A78DA428": [
-        {
-            "content": "[Energy 200]\n580F0000 016719F8\n580F1000 00000480\n580F1000 00000018\n580F1000 000001A0\n580F1000 00000060\n580F1000 00000038\n580F1000 00000020\n580F1000 00000010\n580F1000 00000020\n780F0000 000000E4\n640F0000 00000000 000000C8",
-            "title": "[Energy 200]"
-        }
-    ]
+    "FAC657E2A78DA428": {
+        "[Energy 200]": "[Energy 200]\n580F0000 016719F8\n580F1000 00000480\n580F1000 00000018\n580F1000 000001A0\n580F1000 00000060\n580F1000 00000038\n580F1000 00000020\n580F1000 00000010\n580F1000 00000020\n780F0000 000000E4\n640F0000 00000000 000000C8\n\n"
+    },
+    "attribution": {
+        "Amoeba Battle - Microscopic RTS Action ver 1.0.2 by jhmiller.txt": "NOTE:\nIf stats become unusable, set to lower number (tested with these a little and seemd fine. Dont exceed too hard or you might get 1 shot etc).\nStat changes will be made when you teleport in/out or level up."
+    }
 }

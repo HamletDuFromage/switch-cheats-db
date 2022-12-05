@@ -1,12 +1,9 @@
 {
-    "D724828447669524": [
-        {
-            "content": "[*Inf Hp L stick press]\n80000010\n580F0000 00612530\n580F1000 00000008\n580F1000 000003B0\n780F0000 000000AC\n640F0000 00000000 40800000\n20000000\n\n",
-            "title": "[*Inf Hp L stick press]"
-        },
-        {
-            "content": "[*Inf Hp disable when you fall into a hole]\n580F0000 00612530\n580F1000 00000008\n580F1000 000003B0\n780F0000 000000AC\n640F0000 00000000 40800000",
-            "title": "[*Inf Hp disable when you fall into a hole]"
-        }
-    ]
+    "D724828447669524": {
+        "[*Inf Hp L stick press]": "[*Inf Hp L stick press]\n80000010\n580F0000 00612530\n580F1000 00000008\n580F1000 000003B0\n780F0000 000000AC\n640F0000 00000000 40800000\n20000000\n\n",
+        "[*Inf Hp disable when you fall into a hole]": "[*Inf Hp disable when you fall into a hole]\n580F0000 00612530\n580F1000 00000008\n580F1000 000003B0\n780F0000 000000AC\n640F0000 00000000 40800000\n\n"
+    },
+    "attribution": {
+        "Thunder Paw ver 1.0.0 by Jericoss.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+    }
 }

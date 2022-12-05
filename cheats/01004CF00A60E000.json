@@ -1,28 +1,10 @@
 {
-    "6C8970071EF11148": [
-        {
-            "content": "[HP by jhmiller]\n04100000 00A3DF30 00000005 \n04100000 00A3DF40 00000005 \n\n",
-            "title": "[HP by jhmiller]"
-        },
-        {
-            "content": "[Special by jhmiller]\n04100000 00A3DF34 0000000F \n04100000 00A3DF44 0000000F \n\n",
-            "title": "[Special by jhmiller]"
-        },
-        {
-            "content": "[Coins 99 by jhmiller]\n04100000 00A3DF0C 00000063 \n\n",
-            "title": "[Coins 99 by jhmiller]"
-        },
-        {
-            "content": "[Lives 9 by jhmiller]\n04100000 00A3DF24 00000009 \n\n",
-            "title": "[Lives 9 by jhmiller]"
-        },
-        {
-            "content": "[B Moonjump by jhmiller]\n80000002 \n580F0000 01C90FA8 \n580F1000 000000A0 \n580F1000 00000010 \n580F1000 00000078 \n780F0000 00000044 \n640F0000 00000000 40C00000 \n20000000 \n\n",
-            "title": "[B Moonjump by jhmiller]"
-        },
-        {
-            "content": "[L Fly by jhmiller]\n80000040 \n580F0000 01C90FA8 \n580F1000 000000A0 \n580F1000 00000010 \n580F1000 00000078 \n780F0000 00000044 \n640F0000 00000000 3FC47AE1 \n80080000 \n640F0000 00000000 C0A00000 \n21000000 \n80020000 \n640F0000 00000000 40C00000 \n20000000 \n20000000 \n20000000 \n",
-            "title": "[L Fly by jhmiller]"
-        }
-    ]
+    "6C8970071EF11148": {
+        "[HP by jhmiller]": "[HP by jhmiller]\n04100000 00A3DF30 00000005 \n04100000 00A3DF40 00000005\n\n",
+        "[Special by jhmiller]": "[Special by jhmiller]\n04100000 00A3DF34 0000000F \n04100000 00A3DF44 0000000F\n\n",
+        "[Coins 99 by jhmiller]": "[Coins 99 by jhmiller]\n04100000 00A3DF0C 00000063\n\n",
+        "[Lives 9 by jhmiller]": "[Lives 9 by jhmiller]\n04100000 00A3DF24 00000009\n\n",
+        "[B Moonjump by jhmiller]": "[B Moonjump by jhmiller]\n80000002 \n580F0000 01C90FA8 \n580F1000 000000A0 \n580F1000 00000010 \n580F1000 00000078 \n780F0000 00000044 \n640F0000 00000000 40C00000 \n20000000\n\n",
+        "[L Fly by jhmiller]": "[L Fly by jhmiller]\n80000040 \n580F0000 01C90FA8 \n580F1000 000000A0 \n580F1000 00000010 \n580F1000 00000078 \n780F0000 00000044 \n640F0000 00000000 3FC47AE1 \n80080000 \n640F0000 00000000 C0A00000 \n21000000 \n80020000 \n640F0000 00000000 40C00000 \n20000000 \n20000000 \n20000000\n\n"
+    }
 }

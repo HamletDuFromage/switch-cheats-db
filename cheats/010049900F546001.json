@@ -1,192 +1,55 @@
 {
-    "9D00360EA7CEAC4E": [
-        {
-            "content": "[01# Moonjump (press B)]\n80000002\n04100000 38742A2C 00000042\n20000000\n\n",
-            "title": "[01# Moonjump (press B)]"
-        },
-        {
-            "content": "[02# Infinite Lives]\n01100000 38742a8d 00000063\n\n",
-            "title": "[02# Infinite Lives]"
-        },
-        {
-            "content": "[03# Infinite Health]\n02100000 38742a8e 00000008\n\n",
-            "title": "[03# Infinite Health]"
-        },
-        {
-            "content": "[04# Infinite Coins]\n02100000 38742a89 00000064\n02100000 38742aab 00000064\n\n",
-            "title": "[04# Infinite Coins]"
-        },
-        {
-            "content": "[05# Run faster (press Up D-pad)]\n80002000\n04100000 38742A34 00000046\n20000000\n\n",
-            "title": "[05# Run faster (press Up D-pad)]"
-        },
-        {
-            "content": "[Flashing Invincible]\n02100000 38742A06 00000070\n\n",
-            "title": "[Flashing Invincible]"
-        },
-        {
-            "content": "[Crazy Super Mega Jump]\n02100000 38742A2D 0000FFFF\n\n",
-            "title": "[Crazy Super Mega Jump]"
-        },
-        {
-            "content": "[No cap Mario]\n01100000 387429E7 00000000\n\n",
-            "title": "[No cap Mario]"
-        },
-        {
-            "content": "[Mario with cap in hand]\n01100000 387429E7 00000020\n\n",
-            "title": "[Mario with cap in hand]"
-        },
-        {
-            "content": "[Mario with cap and cap in hand]\n01100000 387429E7 00000030\n\n",
-            "title": "[Mario with cap and cap in hand]"
-        },
-        {
-            "content": "[Totally invisible Metal and Wings]\n02100000 387429E6 0000FFFF\n\n",
-            "title": "[Totally invisible Metal and Wings]"
-        },
-        {
-            "content": "[All 175 Stars - Not shown until getting a star]\n02100000 38628F2C 0000FFFF\n02100000 38628F2E 0000FFFF\n02100000 38628F30 0000FFFF\n02100000 38628F32 0000FFFF\n02100000 38628F34 0000FFFF\n02100000 38628F36 0000FFFF\n02100000 38628F38 0000FFFF\n02100000 38628F3A 0000FFFF\n02100000 38628F3C 0000FFFF\n02100000 38628F3E 0000FFFF\n02100000 38628F40 0000FFFF\n02100000 38628F42 0000FFFF\n02100000 38628F44 0000FFFF\n\n",
-            "title": "[All 175 Stars - Not shown until getting a star]"
-        },
-        {
-            "content": "[o Normal Mario]\n01100000 387429E7 00000011\n\n",
-            "title": "[o Normal Mario]"
-        },
-        {
-            "content": "[o Normal Mario - With Cap in Hand]\n02100000 387429E6 00003000\n\n",
-            "title": "[o Normal Mario - With Cap in Hand]"
-        },
-        {
-            "content": "[o Normal Mario - With Cap in Hand (Invincible)]\n02100000 387429E6 00003200\n\n",
-            "title": "[o Normal Mario - With Cap in Hand (Invincible)]"
-        },
-        {
-            "content": "[o Invincible Mario - With No Cap]\n02100000 387429E6 00000200\n\n",
-            "title": "[o Invincible Mario - With No Cap]"
-        },
-        {
-            "content": "[o Invincible Mario - With Cap]\n02100000 387429E6 00001200\n\n",
-            "title": "[o Invincible Mario - With Cap]"
-        },
-        {
-            "content": "[o Invincible Mario - With Cap In Hand]\n02100000 387429E6 00002200\n\n",
-            "title": "[o Invincible Mario - With Cap In Hand]"
-        },
-        {
-            "content": "[o No Cap Mario - With Cap In Hand]\n01100000 387429E7 00000020\n\n",
-            "title": "[o No Cap Mario - With Cap In Hand]"
-        },
-        {
-            "content": "[o No Cap Mario - With Cap in Hand (Invincible)]\n02100000 387429E6 00006200\n\n",
-            "title": "[o No Cap Mario - With Cap in Hand (Invincible)]"
-        },
-        {
-            "content": "[o No Cap Mario - With Wing Cap in Hand]\n02100000 387429E6 00002800\n\n",
-            "title": "[o No Cap Mario - With Wing Cap in Hand]"
-        },
-        {
-            "content": "[o No Cap Mario - With Wing Cap in Hand (Invincible)]\n02100000 387429E6 00002A00\n\n",
-            "title": "[o No Cap Mario - With Wing Cap in Hand (Invincible)]"
-        },
-        {
-            "content": "[o Wing Cap Mario]\n02100000 387429E6 00005800\n\n",
-            "title": "[o Wing Cap Mario]"
-        },
-        {
-            "content": "[o Wing Cap Mario - (Invincible)]\n02100000 387429E6 00005a00\n\n",
-            "title": "[o Wing Cap Mario - (Invincible)]"
-        },
-        {
-            "content": "[o Wing Cap Mario - With Wing Cap in Hand]\n02100000 387429E6 00003800\n\n",
-            "title": "[o Wing Cap Mario - With Wing Cap in Hand]"
-        },
-        {
-            "content": "[o Wing Cap Mario - With Wing Cap in Hand (Invincible)]\n02100000 387429E6 00003a00\n\n",
-            "title": "[o Wing Cap Mario - With Wing Cap in Hand (Invincible)]"
-        },
-        {
-            "content": "[o Metal Mario]\n02100000 387429E6 00000400\n\n",
-            "title": "[o Metal Mario]"
-        },
-        {
-            "content": "[o Metal Mario - (Invincible)]\n02100000 387429E6 00000400\n\n",
-            "title": "[o Metal Mario - (Invincible)]"
-        },
-        {
-            "content": "[o Metal Mario - With Cap in Hand]\n02100000 387429E6 00002400\n\n",
-            "title": "[o Metal Mario - With Cap in Hand]"
-        },
-        {
-            "content": "[o Metal Mario - With Cap in Hand (Invincible)]\n02100000 387429E6 00002600\n\n",
-            "title": "[o Metal Mario - With Cap in Hand (Invincible)]"
-        },
-        {
-            "content": "[o Metal Mario - With Wing Cap in Hand]\n02100000 387429E6 00002c00\n\n",
-            "title": "[o Metal Mario - With Wing Cap in Hand]"
-        },
-        {
-            "content": "[o Metal Mario - With Wing Cap in Hand (Invincible)]\n02100000 387429E6 00002e00\n\n",
-            "title": "[o Metal Mario - With Wing Cap in Hand (Invincible)]"
-        },
-        {
-            "content": "[o Wing Cap Metal Mario - With Wing Cap in Hand]\n02100000 387429E6 00003c00\n\n",
-            "title": "[o Wing Cap Metal Mario - With Wing Cap in Hand]"
-        },
-        {
-            "content": "[o Wing Cap Metal Mario - With Wing Cap in Hand (Invincible)]\n02100000 387429E6 00003e00\n\n",
-            "title": "[o Wing Cap Metal Mario - With Wing Cap in Hand (Invincible)]"
-        },
-        {
-            "content": "[o No Cap Metal Mario]\n02100000 387429E6 00004c00\n\n",
-            "title": "[o No Cap Metal Mario]"
-        },
-        {
-            "content": "[o No Cap Metal Mario - (Invincible)]\n02100000 387429E6 00004e00\n\n",
-            "title": "[o No Cap Metal Mario - (Invincible)]"
-        },
-        {
-            "content": "[o No Cap Metal Mario - With Cap in Hand]\n02100000 387429E6 00006400\n\n",
-            "title": "[o No Cap Metal Mario - With Cap in Hand]"
-        },
-        {
-            "content": "[o No Cap Metal Mario - With Cap in Hand (Invincible)]\n02100000 387429E6 00006600\n\n",
-            "title": "[o No Cap Metal Mario - With Cap in Hand (Invincible)]"
-        },
-        {
-            "content": "[o No Cap Metal Mario - With Wing Cap in Hand]\n02100000 387429E6 00006c00\n\n",
-            "title": "[o No Cap Metal Mario - With Wing Cap in Hand]"
-        },
-        {
-            "content": "[o No Cap Metal Mario - With Wing Cap in Hand (Invincible)]\n02100000 387429E6 00006e00\n\n",
-            "title": "[o No Cap Metal Mario - With Wing Cap in Hand (Invincible)]"
-        },
-        {
-            "content": "[o Invisible Mario]\n02100000 387429E6 00008000\n\n",
-            "title": "[o Invisible Mario]"
-        },
-        {
-            "content": "[o Invisible Mario - (Invincible)]\n02100000 387429E6 00008200\n\n",
-            "title": "[o Invisible Mario - (Invincible)]"
-        },
-        {
-            "content": "[o Invisible Metal Mario]\n02100000 387429E6 00008400\n\n",
-            "title": "[o Invisible Metal Mario]"
-        },
-        {
-            "content": "[o Invisible Wing Cap Mario]\n02100000 387429E6 00008800\n\n",
-            "title": "[o Invisible Wing Cap Mario]"
-        },
-        {
-            "content": "[o Invisible Wing Cap Mario - (Invincible)]\n02100000 387429E6 00008a00\n\n",
-            "title": "[o Invisible Wing Cap Mario - (Invincible)]"
-        },
-        {
-            "content": "[o Invisible Wing Cap Metal Mario]\n02100000 387429E6 00008c00\n\n",
-            "title": "[o Invisible Wing Cap Metal Mario]"
-        },
-        {
-            "content": "[o Invisible Wing Cap Metal Mario - (Invincible)]\n02100000 387429E6 00008e00",
-            "title": "[o Invisible Wing Cap Metal Mario - (Invincible)]"
-        }
-    ]
+    "9D00360EA7CEAC4E": {
+        "[01# Moonjump (press B)]": "[01# Moonjump (press B)]\n80000002\n04100000 38742A2C 00000042\n20000000\n\n",
+        "[02# Infinite Lives]": "[02# Infinite Lives]\n01100000 38742a8d 00000063\n\n",
+        "[03# Infinite Health]": "[03# Infinite Health]\n02100000 38742a8e 00000008\n\n",
+        "[04# Infinite Coins]": "[04# Infinite Coins]\n02100000 38742a89 00000064\n02100000 38742aab 00000064\n\n",
+        "[05# Run faster (press Up D-pad)]": "[05# Run faster (press Up D-pad)]\n80002000\n04100000 38742A34 00000046\n20000000\n\n",
+        "[Flashing Invincible]": "[Flashing Invincible]\n02100000 38742A06 00000070\n\n",
+        "[Crazy Super Mega Jump]": "[Crazy Super Mega Jump]\n02100000 38742A2D 0000FFFF\n\n",
+        "[No cap Mario]": "[No cap Mario]\n01100000 387429E7 00000000\n\n",
+        "[Mario with cap in hand]": "[Mario with cap in hand]\n01100000 387429E7 00000020\n\n",
+        "[Mario with cap and cap in hand]": "[Mario with cap and cap in hand]\n01100000 387429E7 00000030\n\n",
+        "[Totally invisible Metal and Wings]": "[Totally invisible Metal and Wings]\n02100000 387429E6 0000FFFF\n\n",
+        "[All 175 Stars - Not shown until getting a star]": "[All 175 Stars - Not shown until getting a star]\n02100000 38628F2C 0000FFFF\n02100000 38628F2E 0000FFFF\n02100000 38628F30 0000FFFF\n02100000 38628F32 0000FFFF\n02100000 38628F34 0000FFFF\n02100000 38628F36 0000FFFF\n02100000 38628F38 0000FFFF\n02100000 38628F3A 0000FFFF\n02100000 38628F3C 0000FFFF\n02100000 38628F3E 0000FFFF\n02100000 38628F40 0000FFFF\n02100000 38628F42 0000FFFF\n02100000 38628F44 0000FFFF\n\n",
+        "[o Normal Mario]": "[o Normal Mario]\n01100000 387429E7 00000011\n\n",
+        "[o Normal Mario - With Cap in Hand]": "[o Normal Mario - With Cap in Hand]\n02100000 387429E6 00003000\n\n",
+        "[o Normal Mario - With Cap in Hand (Invincible)]": "[o Normal Mario - With Cap in Hand (Invincible)]\n02100000 387429E6 00003200\n\n",
+        "[o Invincible Mario - With No Cap]": "[o Invincible Mario - With No Cap]\n02100000 387429E6 00000200\n\n",
+        "[o Invincible Mario - With Cap]": "[o Invincible Mario - With Cap]\n02100000 387429E6 00001200\n\n",
+        "[o Invincible Mario - With Cap In Hand]": "[o Invincible Mario - With Cap In Hand]\n02100000 387429E6 00002200\n\n",
+        "[o No Cap Mario - With Cap In Hand]": "[o No Cap Mario - With Cap In Hand]\n01100000 387429E7 00000020\n\n",
+        "[o No Cap Mario - With Cap in Hand (Invincible)]": "[o No Cap Mario - With Cap in Hand (Invincible)]\n02100000 387429E6 00006200\n\n",
+        "[o No Cap Mario - With Wing Cap in Hand]": "[o No Cap Mario - With Wing Cap in Hand]\n02100000 387429E6 00002800\n\n",
+        "[o No Cap Mario - With Wing Cap in Hand (Invincible)]": "[o No Cap Mario - With Wing Cap in Hand (Invincible)]\n02100000 387429E6 00002A00\n\n",
+        "[o Wing Cap Mario]": "[o Wing Cap Mario]\n02100000 387429E6 00005800\n\n",
+        "[o Wing Cap Mario - (Invincible)]": "[o Wing Cap Mario - (Invincible)]\n02100000 387429E6 00005a00\n\n",
+        "[o Wing Cap Mario - With Wing Cap in Hand]": "[o Wing Cap Mario - With Wing Cap in Hand]\n02100000 387429E6 00003800\n\n",
+        "[o Wing Cap Mario - With Wing Cap in Hand (Invincible)]": "[o Wing Cap Mario - With Wing Cap in Hand (Invincible)]\n02100000 387429E6 00003a00\n\n",
+        "[o Metal Mario]": "[o Metal Mario]\n02100000 387429E6 00000400\n\n",
+        "[o Metal Mario - (Invincible)]": "[o Metal Mario - (Invincible)]\n02100000 387429E6 00000400\n\n",
+        "[o Metal Mario - With Cap in Hand]": "[o Metal Mario - With Cap in Hand]\n02100000 387429E6 00002400\n\n",
+        "[o Metal Mario - With Cap in Hand (Invincible)]": "[o Metal Mario - With Cap in Hand (Invincible)]\n02100000 387429E6 00002600\n\n",
+        "[o Metal Mario - With Wing Cap in Hand]": "[o Metal Mario - With Wing Cap in Hand]\n02100000 387429E6 00002c00\n\n",
+        "[o Metal Mario - With Wing Cap in Hand (Invincible)]": "[o Metal Mario - With Wing Cap in Hand (Invincible)]\n02100000 387429E6 00002e00\n\n",
+        "[o Wing Cap Metal Mario - With Wing Cap in Hand]": "[o Wing Cap Metal Mario - With Wing Cap in Hand]\n02100000 387429E6 00003c00\n\n",
+        "[o Wing Cap Metal Mario - With Wing Cap in Hand (Invincible)]": "[o Wing Cap Metal Mario - With Wing Cap in Hand (Invincible)]\n02100000 387429E6 00003e00\n\n",
+        "[o No Cap Metal Mario]": "[o No Cap Metal Mario]\n02100000 387429E6 00004c00\n\n",
+        "[o No Cap Metal Mario - (Invincible)]": "[o No Cap Metal Mario - (Invincible)]\n02100000 387429E6 00004e00\n\n",
+        "[o No Cap Metal Mario - With Cap in Hand]": "[o No Cap Metal Mario - With Cap in Hand]\n02100000 387429E6 00006400\n\n",
+        "[o No Cap Metal Mario - With Cap in Hand (Invincible)]": "[o No Cap Metal Mario - With Cap in Hand (Invincible)]\n02100000 387429E6 00006600\n\n",
+        "[o No Cap Metal Mario - With Wing Cap in Hand]": "[o No Cap Metal Mario - With Wing Cap in Hand]\n02100000 387429E6 00006c00\n\n",
+        "[o No Cap Metal Mario - With Wing Cap in Hand (Invincible)]": "[o No Cap Metal Mario - With Wing Cap in Hand (Invincible)]\n02100000 387429E6 00006e00\n\n",
+        "[o Invisible Mario]": "[o Invisible Mario]\n02100000 387429E6 00008000\n\n",
+        "[o Invisible Mario - (Invincible)]": "[o Invisible Mario - (Invincible)]\n02100000 387429E6 00008200\n\n",
+        "[o Invisible Metal Mario]": "[o Invisible Metal Mario]\n02100000 387429E6 00008400\n\n",
+        "[o Invisible Wing Cap Mario]": "[o Invisible Wing Cap Mario]\n02100000 387429E6 00008800\n\n",
+        "[o Invisible Wing Cap Mario - (Invincible)]": "[o Invisible Wing Cap Mario - (Invincible)]\n02100000 387429E6 00008a00\n\n",
+        "[o Invisible Wing Cap Metal Mario]": "[o Invisible Wing Cap Metal Mario]\n02100000 387429E6 00008c00\n\n",
+        "[o Invisible Wing Cap Metal Mario - (Invincible)]": "[o Invisible Wing Cap Metal Mario - (Invincible)]\n02100000 387429E6 00008e00\n\n"
+    },
+    "attribution": {
+        "Super Mario 3D All-Star ver 1.0.0 by Patjenova and satelman.txt": "Super Mario Allstars\nSuper Mario 3",
+        "Super Mario 3D All-Star ver 1.0.0 by Patjenova and xtatu and spider-man.txt": "Super Mario Allstars\nSuper Mario 3"
+    }
 }

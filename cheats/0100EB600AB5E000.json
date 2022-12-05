@@ -1,8 +1,8 @@
 {
-    "42407EC9B931E646": [
-        {
-            "content": "[999999 coins]\n580F0000 01D98FF0\n580F1000 00000470\n580F1000 000001F0\n580F1000 00000028\n580F1000 00000098\n780F0000 0000009C\n640F0000 00000000 000F423F",
-            "title": "[999999 coins]"
-        }
-    ]
+    "42407EC9B931E646": {
+        "[999999 coins]": "[999999 coins]\n580F0000 01D98FF0\n580F1000 00000470\n580F1000 000001F0\n580F1000 00000028\n580F1000 00000098\n780F0000 0000009C\n640F0000 00000000 000F423F\n\n"
+    },
+    "attribution": {
+        "The card by arismendy64.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

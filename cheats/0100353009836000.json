@@ -1,12 +1,9 @@
 {
-    "2BDB81F455CDD65F": [
-        {
-            "content": "[P1 Lives unlimited]\n01100000 019C8225 00000009\n\n",
-            "title": "[P1 Lives unlimited]"
-        },
-        {
-            "content": "[P2 Lives unlimited]\n01100000 019C822C 00000009\n",
-            "title": "[P2 Lives unlimited]"
-        }
-    ]
+    "2BDB81F455CDD65F": {
+        "[P1 Lives unlimited]": "[P1 Lives unlimited]\n01100000 019C8225 00000009\n\n",
+        "[P2 Lives unlimited]": "[P2 Lives unlimited]\n01100000 019C822C 00000009\n\n"
+    },
+    "attribution": {
+        "THE LEGEND OF KAGE by merlin555.txt": ""
+    }
 }

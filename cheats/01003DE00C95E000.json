@@ -1,12 +1,9 @@
 {
-    "1CAA05A4630E7769": [
-        {
-            "content": "[9999999 GOLD]\n04000000 01069238 0098967f\n\n",
-            "title": "[9999999 GOLD]"
-        },
-        {
-            "content": "[99 CP]\n04000000 0106c8fc 00000063",
-            "title": "[99 CP]"
-        }
-    ]
+    "1CAA05A4630E7769": {
+        "[9999999 GOLD]": "[9999999 GOLD]\n04000000 01069238 0098967f\n\n",
+        "[99 CP]": "[99 CP]\n04000000 0106c8fc 00000063\n\n"
+    },
+    "attribution": {
+        "MARY SKELTER 2 ver 1.0.4 cyiuspi.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
+    }
 }

@@ -1,12 +1,9 @@
 {
-    "D613DC6C33CCAA41": [
-        {
-            "content": "[Reset Timer 00:00 (Press L Stick)]\n80000010\n58000000 03F6F628\n58001000 000000B8\n58001000 00000010\n58001000 000000A0\n58001000 00000090\n78000000 00000020\n64000000 00000000 00000000\n20000000\n\n",
-            "title": "[Reset Timer 00:00 (Press L Stick)]"
-        },
-        {
-            "content": "[Freeze Timer 00:00]\n58000000 03F6F628\n58001000 000000B8\n58001000 00000010\n58001000 000000A0\n58001000 00000090\n78000000 00000020\n64000000 00000000 00000000",
-            "title": "[Freeze Timer 00:00]"
-        }
-    ]
+    "D613DC6C33CCAA41": {
+        "[Reset Timer 00:00 (Press L Stick)]": "[Reset Timer 00:00 (Press L Stick)]\n80000010\n58000000 03F6F628\n58001000 000000B8\n58001000 00000010\n58001000 000000A0\n58001000 00000090\n78000000 00000020\n64000000 00000000 00000000\n20000000\n\n",
+        "[Freeze Timer 00:00]": "[Freeze Timer 00:00]\n58000000 03F6F628\n58001000 000000B8\n58001000 00000010\n58001000 000000A0\n58001000 00000090\n78000000 00000020\n64000000 00000000 00000000\n\n"
+    },
+    "attribution": {
+        "Moving Out ver 1.0.2 by Lionheartwolf.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

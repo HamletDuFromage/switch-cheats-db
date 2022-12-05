@@ -1,8 +1,8 @@
 {
-    "C9FE7052AA82234C": [
-        {
-            "content": "[Money MAX]\n580F0000 024DAF40\n580F1000 00000A50\n780F0000 00000024\n640F0000 00000000 000F423F",
-            "title": "[Money MAX]"
-        }
-    ]
+    "C9FE7052AA82234C": {
+        "[Money MAX]": "[Money MAX]\n580F0000 024DAF40\n580F1000 00000A50\n780F0000 00000024\n640F0000 00000000 000F423F\n\n"
+    },
+    "attribution": {
+        "Roulette at Aces Casino toro00.txt": "caution\ncan some problems"
+    }
 }

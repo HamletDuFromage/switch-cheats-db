@@ -1,24 +1,9 @@
 {
-    "35C56D941EB3D44A": [
-        {
-            "content": "[1 Player Mode - Lives by jhmiller]\n580F0000 01DCC2D8 \n580F1000 00000280 \n580F1000 00000DD0 \n780F0000 00000014 \n640F0000 00000000 00000003\n\n",
-            "title": "[1 Player Mode - Lives by jhmiller]"
-        },
-        {
-            "content": "[1 Player Mode - HP by jhmiller]\n580F0000 01DCC2D8 \n580F1000 00000280 \n580F1000 00000DD0 \n780F0000 00000018 \n640F0000 00000000 40800000\n\n",
-            "title": "[1 Player Mode - HP by jhmiller]"
-        },
-        {
-            "content": "[1 Player Mode - Money by jhmiller]\n580F0000 01DCC2D8 \n580F1000 00000280 \n580F1000 00000DD0 \n780F0000 00000020 \n640F0000 00000000 000003E7\n\n",
-            "title": "[1 Player Mode - Money by jhmiller]"
-        },
-        {
-            "content": "[1 Player Mode - Armor by jhmiller]\n580F0000 01DCC2D8 \n580F1000 00000280 \n580F1000 00000DD0 \n780F0000 00000024\n640F0000 00000000 42C80000 \n\n",
-            "title": "[1 Player Mode - Armor by jhmiller]"
-        },
-        {
-            "content": "[1 Player Mode - Whiskey by jhmiller]\n580F0000 01DCC2D8 \n580F1000 00000280 \n580F1000 00000DD0 \n780F0000 00000028 \n640F0000 00000000 00000009\n",
-            "title": "[1 Player Mode - Whiskey by jhmiller]"
-        }
-    ]
+    "35C56D941EB3D44A": {
+        "[1 Player Mode - Lives by jhmiller]": "[1 Player Mode - Lives by jhmiller]\n580F0000 01DCC2D8 \n580F1000 00000280 \n580F1000 00000DD0 \n780F0000 00000014 \n640F0000 00000000 00000003\n\n",
+        "[1 Player Mode - HP by jhmiller]": "[1 Player Mode - HP by jhmiller]\n580F0000 01DCC2D8 \n580F1000 00000280 \n580F1000 00000DD0 \n780F0000 00000018 \n640F0000 00000000 40800000\n\n",
+        "[1 Player Mode - Money by jhmiller]": "[1 Player Mode - Money by jhmiller]\n580F0000 01DCC2D8 \n580F1000 00000280 \n580F1000 00000DD0 \n780F0000 00000020 \n640F0000 00000000 000003E7\n\n",
+        "[1 Player Mode - Armor by jhmiller]": "[1 Player Mode - Armor by jhmiller]\n580F0000 01DCC2D8 \n580F1000 00000280 \n580F1000 00000DD0 \n780F0000 00000024\n640F0000 00000000 42C80000\n\n",
+        "[1 Player Mode - Whiskey by jhmiller]": "[1 Player Mode - Whiskey by jhmiller]\n580F0000 01DCC2D8 \n580F1000 00000280 \n580F1000 00000DD0 \n780F0000 00000028 \n640F0000 00000000 00000009\n\n"
+    }
 }

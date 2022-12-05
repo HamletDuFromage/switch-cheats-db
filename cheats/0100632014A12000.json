@@ -1,8 +1,8 @@
 {
-    "32EDE94479396CE1": [
-        {
-            "content": "[Pink Potion]\n580F0000 034F1108\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000018\n640F0000 00000000 000001F4",
-            "title": "[Pink Potion]"
-        }
-    ]
+    "32EDE94479396CE1": {
+        "[Pink Potion]": "[Pink Potion]\n580F0000 034F1108\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000018\n640F0000 00000000 000001F4\n\n"
+    },
+    "attribution": {
+        "Castle Heroes ver 1.0.0 by jhmiller.txt": ""
+    }
 }

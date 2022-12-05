@@ -1,16 +1,10 @@
 {
-    "AC3B5F9D54899EC6": [
-        {
-            "content": "[1P Inf Health]\n580F0000 00BDC340\n580F1000 000002B8\n580F1000 000002B8\n580F1000 000002C0\n780F0000 000000F8\n680F0000 47E19600 47E19600\n\n",
-            "title": "[1P Inf Health]"
-        },
-        {
-            "content": "[1P Skill Max]\n580F0000 00BDC340\n580F1000 000002B8\n580F1000 000002B8\n580F1000 000002C0\n780F0000 00000100\n640F0000 00000000 43FA0000\n\n",
-            "title": "[1P Skill Max]"
-        },
-        {
-            "content": "[Moon Jump (Hold Up)]\n80002000\n580F0000 00BDC340\n580F1000 000002B8\n580F1000 000002B8\n580F1000 000002C0\n780F0000 00000260\n640F0000 00000000 42000000\n20000000",
-            "title": "[Moon Jump (Hold Up)]"
-        }
-    ]
+    "AC3B5F9D54899EC6": {
+        "[1P Inf Health]": "[1P Inf Health]\n580F0000 00BDC340\n580F1000 000002B8\n580F1000 000002B8\n580F1000 000002C0\n780F0000 000000F8\n680F0000 47E19600 47E19600\n\n",
+        "[1P Skill Max]": "[1P Skill Max]\n580F0000 00BDC340\n580F1000 000002B8\n580F1000 000002B8\n580F1000 000002C0\n780F0000 00000100\n640F0000 00000000 43FA0000\n\n",
+        "[Moon Jump (Hold Up)]": "[Moon Jump (Hold Up)]\n80002000\n580F0000 00BDC340\n580F1000 000002B8\n580F1000 000002B8\n580F1000 000002C0\n780F0000 00000260\n640F0000 00000000 42000000\n20000000\n\n"
+    },
+    "attribution": {
+        "Skullgirls 2nd Encore by Zit866.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n"
+    }
 }

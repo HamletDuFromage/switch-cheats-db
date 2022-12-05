@@ -1,34 +1,16 @@
 {
-    "062E5AB0B5BDA14F": [
-        {
-            "content": "[Infinite Shields]\n580f0000 03bba3f8\n580f1000 000000b8\n580f1000 00000000\n780f0000 0000001c\n640f0000 00000000 42c80000\n\n",
-            "title": "[Infinite Shields]"
-        },
-        {
-            "content": "[Walk Speed 1.5x]\n580f0000 03bba440\n580f1000 000000b8\n580f1000 00000000\n780f0000 00000030\n640f0000 00000000 40f00000\n\n",
-            "title": "[Walk Speed 1.5x]"
-        },
-        {
-            "content": "[L+B Moonjump]\n80000042\n580f0000 03e21b88\n580f1000 000000a0\n580f1000 00000120\n780f0000 00000044\n640f0000 00000000 41800000\n20000000",
-            "title": "[L+B Moonjump]"
-        }
-    ],
-    "B667F988DAB60947": [
-        {
-            "content": "{Disable Anti Cheat Message}\n04000000 02749FD0 D65F03C0\n\n",
-            "title": "{Disable Anti Cheat Message}"
-        },
-        {
-            "content": "[01# Invulnerable]\n04000000 01708C10 D65F03C0\n\n",
-            "title": "[01# Invulnerable]"
-        },
-        {
-            "content": "[02# Inf Ammo]\n04000000 02100BCC 51000108\n\n",
-            "title": "[02# Inf Ammo]"
-        },
-        {
-            "content": "[1p invicible]\n04000000 017090F8 1E283000",
-            "title": "[1p invicible]"
-        }
-    ]
+    "062E5AB0B5BDA14F": {
+        "[Infinite Shields]": "[Infinite Shields]\n580f0000 03bba3f8\n580f1000 000000b8\n580f1000 00000000\n780f0000 0000001c\n640f0000 00000000 42c80000\n\n",
+        "[Walk Speed 1.5x]": "[Walk Speed 1.5x]\n580f0000 03bba440\n580f1000 000000b8\n580f1000 00000000\n780f0000 00000030\n640f0000 00000000 40f00000\n\n",
+        "[L+B Moonjump]": "[L+B Moonjump]\n80000042\n580f0000 03e21b88\n580f1000 000000a0\n580f1000 00000120\n780f0000 00000044\n640f0000 00000000 41800000\n20000000\n\n"
+    },
+    "B667F988DAB60947": {
+        "{Disable Anti Cheat Message}": "{Disable Anti Cheat Message}\n04000000 02749FD0 D65F03C0\n\n",
+        "[01# Invulnerable]": "[01# Invulnerable]\n04000000 01708C10 D65F03C0\n\n",
+        "[02# Inf Ammo]": "[02# Inf Ammo]\n04000000 02100BCC 51000108\n\n",
+        "[1p invicible]": "[1p invicible]\n04000000 017090F8 1E283000\n\n"
+    },
+    "attribution": {
+        "Rising Hell v1.01 by DablackDeath and xtatu ver 1.0.0 by Dsrules.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

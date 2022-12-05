@@ -1,16 +1,10 @@
 {
-    "2AA90ECC2A24DA46": [
-        {
-            "content": "[01# Inf Hearts]\n580F0000 044D3EF0\n580F1000 00000248\n580F1000 00000008\n580F1000 00000120\n580F1000 00000008\n780F0000 000000DC\n640F0000 00000000 00000008\n\n",
-            "title": "[01# Inf Hearts]"
-        },
-        {
-            "content": "[02# Max Combo fight]\n580F0000 044D3EF0\n580F1000 00000030\n580F1000 000001C0\n580F1000 000001B0\n780F0000 000000B8\n640F0000 00000000 000003E7\n\n",
-            "title": "[02# Max Combo fight]"
-        },
-        {
-            "content": "[03# Moonjump]\n80000002\n580F0000 044BD918\n580F1000 000000F0\n580F1000 00000050\n780F0000 0000011C\n640F0000 00000000 40000000\n20000000",
-            "title": "[03# Moonjump]"
-        }
-    ]
+    "2AA90ECC2A24DA46": {
+        "[01# Inf Hearts]": "[01# Inf Hearts]\n580F0000 044D3EF0\n580F1000 00000248\n580F1000 00000008\n580F1000 00000120\n580F1000 00000008\n780F0000 000000DC\n640F0000 00000000 00000008\n\n",
+        "[02# Max Combo fight]": "[02# Max Combo fight]\n580F0000 044D3EF0\n580F1000 00000030\n580F1000 000001C0\n580F1000 000001B0\n780F0000 000000B8\n640F0000 00000000 000003E7\n\n",
+        "[03# Moonjump]": "[03# Moonjump]\n80000002\n580F0000 044BD918\n580F1000 000000F0\n580F1000 00000050\n780F0000 0000011C\n640F0000 00000000 40000000\n20000000\n\n"
+    },
+    "attribution": {
+        "Lego ninjago movie video game ver 1.0.2 by patjenova.txt": "Pressing the A button and using the roll will release invincibility. This is a game specification.\n"
+    }
 }

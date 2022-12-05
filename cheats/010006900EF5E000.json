@@ -1,8 +1,8 @@
 {
-    "2A74DEB620163DBC": [
-        {
-            "content": "[Lives unlimited]\n01100000 008C3D30 00000009\n",
-            "title": "[Lives unlimited]"
-        }
-    ]
+    "2A74DEB620163DBC": {
+        "[Lives unlimited]": "[Lives unlimited]\n01100000 008C3D30 00000009\n\n"
+    },
+    "attribution": {
+        "Pacific Wings v 1.0.0 by merlin555.txt": ""
+    }
 }

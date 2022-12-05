@@ -1,8 +1,8 @@
 {
-    "7725C643B39658F4": [
-        {
-            "content": "[HP]\n580F0000 007182E8\n580F1000 00000068\n780F0000 00000030\n640F0000 00000000 40000000",
-            "title": "[HP]"
-        }
-    ]
+    "7725C643B39658F4": {
+        "[HP]": "[HP]\n580F0000 007182E8\n580F1000 00000068\n780F0000 00000030\n640F0000 00000000 40000000\n\n"
+    },
+    "attribution": {
+        "Escape from Chernobyl ver 1.0.2 by jhmiller.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

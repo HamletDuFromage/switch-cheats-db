@@ -1,28 +1,17 @@
 {
-    "4C9D2B6D782B5B05": [
-        {
-            "content": "[01# Inf Health]\n040A0000 014CC1B4 B940AA68\n\n",
-            "title": "[01# Inf Health]"
-        },
-        {
-            "content": "[Inf Health (off)]\n040A0000 014CC1B4 0AA87D08\n\n",
-            "title": "[Inf Health (off)]"
-        },
-        {
-            "content": "[02# Max Money]\n040A0000 014A7C1C 2A0803E8\n\n",
-            "title": "[02# Max Money]"
-        },
-        {
-            "content": "[Max Money (off)]\n040A0000 014A7C1C 1A898108\n\n",
-            "title": "[Max Money (off)]"
-        },
-        {
-            "content": "[03# Inf Time]\n040A0000 010D0704 52801682\n\n",
-            "title": "[03# Inf Time]"
-        },
-        {
-            "content": "[Inf Time (off)]\n040A0000 010D0704 B9021262",
-            "title": "[Inf Time (off)]"
-        }
-    ]
+    "824B38A25986B2AB": {
+        "[60 FPS]": "[60 FPS]\n580F0000 03A374A0\n580F1000 00000018\n580F1000 00000080\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 03A374A0\n580F1000 00000018\n580F1000 00000080\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Assassin\u2019s Creed 2 ver 1.2 by Patjenova.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+    },
+    "4C9D2B6D782B5B05": {
+        "[01# Inf Health]": "[01# Inf Health]\n040A0000 014CC1B4 B940AA68\n\n",
+        "[Inf Health (off)]": "[Inf Health (off)]\n040A0000 014CC1B4 0AA87D08\n\n",
+        "[02# Max Money]": "[02# Max Money]\n040A0000 014A7C1C 2A0803E8\n\n",
+        "[Max Money (off)]": "[Max Money (off)]\n040A0000 014A7C1C 1A898108\n\n",
+        "[03# Inf Time]": "[03# Inf Time]\n040A0000 010D0704 52801682\n\n",
+        "[Inf Time (off)]": "[Inf Time (off)]\n040A0000 010D0704 B9021262\n\n"
+    }
 }

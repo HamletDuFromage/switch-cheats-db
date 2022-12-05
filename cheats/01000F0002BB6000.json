@@ -1,12 +1,9 @@
 {
-    "64771F8D1E0D6AC4": [
-        {
-            "content": "[Select Unit/Building to recover Health (on)]\n04000000 0043F834 52800C89\n04000000 0043F838 B9000109\n04000000 0043F83C D503201F\n",
-            "title": "[Select Unit/Building to recover Health (on)]"
-        },
-        {
-            "content": "[Select Unit/Building to recover Health (off)]\n04000000 0043F834 B9400108\n04000000 0043F838 7100051F\n04000000 0043F83C 54FFFF4B\n",
-            "title": "[Select Unit/Building to recover Health (off)]"
-        }
-    ]
+    "64771F8D1E0D6AC4": {
+        "[Select Unit/Building to recover Health (on)]": "[Select Unit/Building to recover Health (on)]\n04000000 0043F834 52800C89\n04000000 0043F838 B9000109\n04000000 0043F83C D503201F\n\n",
+        "[Select Unit/Building to recover Health (off)]": "[Select Unit/Building to recover Health (off)]\n04000000 0043F834 B9400108\n04000000 0043F838 7100051F\n04000000 0043F83C 54FFFF4B\n\n"
+    },
+    "attribution": {
+        "Wargroove Update 7 (v1.3.0).txt": ""
+    }
 }

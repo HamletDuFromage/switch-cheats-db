@@ -1,12 +1,9 @@
 {
-    "6EC1A152AD773A4B": [
-        {
-            "content": "[patience GUAGE INF]\n04000000 0246EA20 D65F03C0\n\n",
-            "title": "[patience GUAGE INF]"
-        },
-        {
-            "content": "[press - to earn at least 100K coins in a cooking session]\n80000800\n580F0000 04821C60\n580F1000 000000B8\n580F1000 00000000\n580F1000 000000D8\n580F1000 00000010\n580F1000 00000010\n780F0000 00000010\n640F0000 00000000 000186A0\n580F0000 04821C60\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000070\n640F0000 \n\n",
-            "title": "[press - to earn at least 100K coins in a cooking session]"
-        }
-    ]
+    "6EC1A152AD773A4B": {
+        "[patience GUAGE INF]": "[patience GUAGE INF]\n04000000 0246EA20 D65F03C0\n\n",
+        "[press - to earn at least 100K coins in a cooking session]": "[press - to earn at least 100K coins in a cooking session]\n80000800\n580F0000 04821C60\n580F1000 000000B8\n580F1000 00000000\n580F1000 000000D8\n580F1000 00000010\n580F1000 00000010\n780F0000 00000010\n640F0000 00000000 000186A0\n580F0000 04821C60\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000070\n640F0000\n\n"
+    },
+    "attribution": {
+        "SPONGEBOB KRUSTY COOK-OFF ver 1.0.0 by xtatu and TomSwitch.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

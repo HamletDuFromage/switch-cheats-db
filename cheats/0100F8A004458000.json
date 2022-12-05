@@ -1,20 +1,11 @@
 {
-    "D6E5754880AF8BE3": [
-        {
-            "content": "[HP]\n580F0000 00597FC0\n580F1000 00000800\n580F1000 00001BA0\n780F0000 00000B18\n640F0000 00000000 00000006\n\n",
-            "title": "[HP]"
-        },
-        {
-            "content": "[Bombs]\n580F0000 00597FC0\n580F1000 00000800\n580F1000 00001BA0\n780F0000 00000B38\n640F0000 00000000 00000003\n\n",
-            "title": "[Bombs]"
-        },
-        {
-            "content": "[Coins]\n580F0000 00597FC0\n580F1000 00000800\n580F1000 00001BA0\n780F0000 00000B3C\n640F0000 00000000 00000063\n\n",
-            "title": "[Coins]"
-        },
-        {
-            "content": "[Keys]\n580F0000 00597FC0\n580F1000 00000800\n580F1000 00001BA0\n780F0000 00000B30\n640F0000 00000000 00000001",
-            "title": "[Keys]"
-        }
-    ]
+    "D6E5754880AF8BE3": {
+        "[HP]": "[HP]\n580F0000 00597FC0\n580F1000 00000800\n580F1000 00001BA0\n780F0000 00000B18\n640F0000 00000000 00000006\n\n",
+        "[Bombs]": "[Bombs]\n580F0000 00597FC0\n580F1000 00000800\n580F1000 00001BA0\n780F0000 00000B38\n640F0000 00000000 00000003\n\n",
+        "[Coins]": "[Coins]\n580F0000 00597FC0\n580F1000 00000800\n580F1000 00001BA0\n780F0000 00000B3C\n640F0000 00000000 00000063\n\n",
+        "[Keys]": "[Keys]\n580F0000 00597FC0\n580F1000 00000800\n580F1000 00001BA0\n780F0000 00000B30\n640F0000 00000000 00000001\n\n"
+    },
+    "attribution": {
+        "The Binding of Isaac Afterbirth+ by jhmiller.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

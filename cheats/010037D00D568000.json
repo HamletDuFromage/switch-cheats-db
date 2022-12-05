@@ -1,28 +1,13 @@
 {
-    "FCB264311604CA8B": [
-        {
-            "content": "[inf hp]\n580F0000 039EA5C8\n580F1000 000002B0\n580F1000 00000000\n580F1000 00000038\n580F1000 00000068\n580F1000 00000010\n580F1000 00000058\n580F1000 00000010\n580F1000 00003110\n780F0000 00000004\n640F0000 00000000 40A3EC00\n\n",
-            "title": "[inf hp]"
-        },
-        {
-            "content": "[Money \u6267\u884c\u8005NO.X ]\n08100000 77E0EF70 412E847E 00000000\n",
-            "title": "[Money \u6267\u884c\u8005NO.X ]"
-        },
-        {
-            "content": "[Divine Coin \u6267\u884c\u8005NO.X ]\n08100000 77E0EF80 412E847E 00000000\n",
-            "title": "[Divine Coin \u6267\u884c\u8005NO.X ]"
-        },
-        {
-            "content": "[Time stop \u6267\u884c\u8005NO.X]\n08100000 77E10120 00000000 00000000\n",
-            "title": "[Time stop \u6267\u884c\u8005NO.X]"
-        },
-        {
-            "content": "[Reset days \u6267\u884c\u8005NO.X ]\n08100000 77E10130 3FF00000 00000000\n",
-            "title": "[Reset days \u6267\u884c\u8005NO.X ]"
-        },
-        {
-            "content": "[SWORD grade 99 \u6267\u884c\u8005NO.X ]\n08100000 77E11170 4058C000 00000000",
-            "title": "[SWORD grade 99 \u6267\u884c\u8005NO.X ]"
-        }
-    ]
+    "FCB264311604CA8B": {
+        "[inf hp]": "[inf hp]\n580F0000 039EA5C8\n580F1000 000002B0\n580F1000 00000000\n580F1000 00000038\n580F1000 00000068\n580F1000 00000010\n580F1000 00000058\n580F1000 00000010\n580F1000 00003110\n780F0000 00000004\n640F0000 00000000 40A3EC00\n\n",
+        "[Money \u6267\u884c\u8005NO.X ]": "[Money \u6267\u884c\u8005NO.X ]\n08100000 77E0EF70 412E847E 00000000\n\n",
+        "[Divine Coin \u6267\u884c\u8005NO.X ]": "[Divine Coin \u6267\u884c\u8005NO.X ]\n08100000 77E0EF80 412E847E 00000000\n\n",
+        "[Time stop \u6267\u884c\u8005NO.X]": "[Time stop \u6267\u884c\u8005NO.X]\n08100000 77E10120 00000000 00000000\n\n",
+        "[Reset days \u6267\u884c\u8005NO.X ]": "[Reset days \u6267\u884c\u8005NO.X ]\n08100000 77E10130 3FF00000 00000000\n\n",
+        "[SWORD grade 99 \u6267\u884c\u8005NO.X ]": "[SWORD grade 99 \u6267\u884c\u8005NO.X ]\n08100000 77E11170 4058C000 00000000\n\n"
+    },
+    "attribution": {
+        "the swords of ditto ver 1.0.0 by arismendy64.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+    }
 }

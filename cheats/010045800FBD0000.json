@@ -1,30 +1,16 @@
 {
-    "87D5D35AF6571D94": [
-        {
-            "content": "[life]\n540F0000 2EF5F38C\n540F1000 00000008\n780F0000 00000460\n640F0000 00000000 00000009\n\n",
-            "title": "[life]"
-        },
-        {
-            "content": "[bomb]\n540F0000 2EF5F38C\n540F1000 00000008\n780F0000 00000464\n640F0000 00000000 00000009\n\n",
-            "title": "[bomb]"
-        },
-        {
-            "content": "[score]\n540F0000 2EF5F38C\n540F1000 00000008\n780F0000 00000480\n640F0000 00000000 002DC6BF\n",
-            "title": "[score]"
-        }
-    ],
-    "BBA1D0305B1083EB": [
-        {
-            "content": "[score]\n540F0000 0033D8D0\n540F1000 000000A0\n780F0000 00000028\n640F0000 00000000 002DC6BF\n\n",
-            "title": "[score]"
-        },
-        {
-            "content": "[lives]\n540F0000 0033D8D0\n540F1000 000000A0\n780F0000 00000008\n640F0000 00000000 00000007\n\n",
-            "title": "[lives]"
-        },
-        {
-            "content": "[bomb]\n540F0000 0033D8D0\n540F1000 000000A0\n780F0000 0000000C\n640F0000 00000000 00000006\n",
-            "title": "[bomb]"
-        }
-    ]
+    "87D5D35AF6571D94": {
+        "[life]": "[life]\n540F0000 2EF5F38C\n540F1000 00000008\n780F0000 00000460\n640F0000 00000000 00000009\n\n",
+        "[bomb]": "[bomb]\n540F0000 2EF5F38C\n540F1000 00000008\n780F0000 00000464\n640F0000 00000000 00000009\n\n",
+        "[score]": "[score]\n540F0000 2EF5F38C\n540F1000 00000008\n780F0000 00000480\n640F0000 00000000 002DC6BF\n\n"
+    },
+    "BBA1D0305B1083EB": {
+        "[score]": "[score]\n540F0000 0033D8D0\n540F1000 000000A0\n780F0000 00000028\n640F0000 00000000 002DC6BF\n\n",
+        "[lives]": "[lives]\n540F0000 0033D8D0\n540F1000 000000A0\n780F0000 00000008\n640F0000 00000000 00000007\n\n",
+        "[bomb]": "[bomb]\n540F0000 0033D8D0\n540F1000 000000A0\n780F0000 0000000C\n640F0000 00000000 00000006\n\n"
+    },
+    "attribution": {
+        "MushihimeSama 1.0.0 and 1.0.1 by TomSwitch.txt": "note: Infinite Jump can be used after learning double jump\n",
+        "MushihimeSama 1.0.0 by TomSwitch.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

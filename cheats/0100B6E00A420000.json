@@ -1,40 +1,16 @@
 {
-    "D273F6D43B6F1AF6": [
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 03734560\n580F1000 00000070\n780F0000 00000104\n640F0000 00000000 C4C00000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 03734560\n580F1000 00000070\n780F0000 0000015C\n640F0000 00000000 41000000\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf HP]\n580F0000 03734560\n580F1000 00000070\n780F0000 00000170\n680F0000 0000270F 0000270F\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Inf EN]\n580F0000 03734618\n780F0000 00000088\n640F0000 00000000 42C80000\n\n",
-            "title": "[Inf EN]"
-        },
-        {
-            "content": "[ATK MAX]\n580F0000 03734618\n780F0000 000000B4\n640F0000 00000000 0000270F\n\n",
-            "title": "[ATK MAX]"
-        },
-        {
-            "content": "[DEF MAX]\n580F0000 03734618\n780F0000 000000BC\n640F0000 00000000 0000270F\n\n",
-            "title": "[DEF MAX]"
-        },
-        {
-            "content": "[Fisit MAX]\n580F0000 03734618\n780F0000 000000C4\n640F0000 00000000 0000270F\n\n",
-            "title": "[Fisit MAX]"
-        },
-        {
-            "content": "[Luck MAX]\n580F0000 03734618\n780F0000 000000CC\n640F0000 00000000 00000064\n\n",
-            "title": "[Luck MAX]"
-        },
-        {
-            "content": "[Gold MAX]\n580F0000 03734618\n780F0000 00000170\n640F0000 00000000 0000270F",
-            "title": "[Gold MAX]"
-        }
-    ]
+    "D273F6D43B6F1AF6": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 03734560\n580F1000 00000070\n780F0000 00000104\n640F0000 00000000 C4C00000\n20000000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 03734560\n580F1000 00000070\n780F0000 0000015C\n640F0000 00000000 41000000\n\n",
+        "[Inf HP]": "[Inf HP]\n580F0000 03734560\n580F1000 00000070\n780F0000 00000170\n680F0000 0000270F 0000270F\n\n",
+        "[Inf EN]": "[Inf EN]\n580F0000 03734618\n780F0000 00000088\n640F0000 00000000 42C80000\n\n",
+        "[ATK MAX]": "[ATK MAX]\n580F0000 03734618\n780F0000 000000B4\n640F0000 00000000 0000270F\n\n",
+        "[DEF MAX]": "[DEF MAX]\n580F0000 03734618\n780F0000 000000BC\n640F0000 00000000 0000270F\n\n",
+        "[Fisit MAX]": "[Fisit MAX]\n580F0000 03734618\n780F0000 000000C4\n640F0000 00000000 0000270F\n\n",
+        "[Luck MAX]": "[Luck MAX]\n580F0000 03734618\n780F0000 000000CC\n640F0000 00000000 00000064\n\n",
+        "[Gold MAX]": "[Gold MAX]\n580F0000 03734618\n780F0000 00000170\n640F0000 00000000 0000270F\n\n"
+    },
+    "attribution": {
+        "Dust An Elysian Tail by ZIT866.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
+    }
 }

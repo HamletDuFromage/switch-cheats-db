@@ -1,66 +1,24 @@
 {
-    "0000000000000000": [
-        {
-            "content": "[Inf Life]\n011F0000 021A0492 00000080\n\n",
-            "title": "[Inf Life]"
-        },
-        {
-            "content": "[Invincible]\n011F0000 021A041C 00000010\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Moon Jump]\n80000002\n011F0000 021A0429 00000001\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Inf Barrier]\n011F0000 021A047C 00000002\n\n",
-            "title": "[Inf Barrier]"
-        },
-        {
-            "content": "[Rapid Fire]\n011F0000 021A047B 00000012\n011F0000 021A0497 000000FF\n\n",
-            "title": "[Rapid Fire]"
-        },
-        {
-            "content": "[Speed Up (Hold ZR)]\n80000200\n011F0000 021A0427 00000001\n20000000\n\n",
-            "title": "[Speed Up (Hold ZR)]"
-        },
-        {
-            "content": "[Size (Hold ZL)]\n011F0000 021A0432 00000001\n80000100\n011F0000 021A0432 00000000\n20000000\n\n",
-            "title": "[Size (Hold ZL)]"
-        },
-        {
-            "content": "[Inf Lives]\n011F0000 021A08C4 00000009\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Invincible]\n011F0000 021A06EB 00000098\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Speed Up]\n011F0000 021A041D 00000005",
-            "title": "[Speed Up]"
-        }
-    ],
-    "0000000000000001": [
-        {
-            "content": "[Max Pow]\n011F0000 021A0489 00000003\n\n",
-            "title": "[Max Pow]"
-        },
-        {
-            "content": "[Invincible]\n011F0000 021A0485 00000002\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Moon Jump]\n80000002\n021F0000 021A0481 00001B01\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Speed Up]\n011F0000 021A046D 00000068\n\n",
-            "title": "[Speed Up]"
-        },
-        {
-            "content": "[Boss Time 99]\n021F0000 021A0558 00004949",
-            "title": "[Boss Time 99]"
-        }
-    ]
+    "0000000000000001": {
+        "[Max Pow]": "[Max Pow]\n011F0000 021A0489 00000003\n\n",
+        "[Invincible]": "[Invincible]\n011F0000 021A0485 00000002\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n021F0000 021A0481 00001B01\n20000000\n\n",
+        "[Speed Up]": "[Speed Up]\n011F0000 021A046D 00000068\n\n",
+        "[Boss Time 99]": "[Boss Time 99]\n021F0000 021A0558 00004949\n\n"
+    },
+    "0000000000000000": {
+        "[Inf Life]": "[Inf Life]\n011F0000 021A0492 00000080\n\n",
+        "[Invincible]": "[Invincible]\n011F0000 021A06EB 00000098\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n011F0000 021A0429 00000001\n20000000\n\n",
+        "[Inf Barrier]": "[Inf Barrier]\n011F0000 021A047C 00000002\n\n",
+        "[Rapid Fire]": "[Rapid Fire]\n011F0000 021A047B 00000012\n011F0000 021A0497 000000FF\n\n",
+        "[Speed Up (Hold ZR)]": "[Speed Up (Hold ZR)]\n80000200\n011F0000 021A0427 00000001\n20000000\n\n",
+        "[Size (Hold ZL)]": "[Size (Hold ZL)]\n011F0000 021A0432 00000001\n80000100\n011F0000 021A0432 00000000\n20000000\n\n",
+        "[Inf Lives]": "[Inf Lives]\n011F0000 021A08C4 00000009\n\n",
+        "[Speed Up]": "[Speed Up]\n011F0000 021A041D 00000005\n\n"
+    },
+    "attribution": {
+        "pNES Wagyan Land ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows.",
+        "pNES Meikyuu Kumikyoku ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
 }

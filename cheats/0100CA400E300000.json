@@ -1,66 +1,24 @@
 {
-    "736EB95ACA241014": [
-        {
-            "content": "[max money after change]\n04070000 00536BE0 2A0003E0\n04070000 00536C1C 2A0003E0\n04070000 00536C58 2A0003E0\n04070000 00536D00 2A0003E0\n04070000 00536D14 52A77348\n04070000 00536D18 72993FE8\n\n",
-            "title": "[max money after change]"
-        },
-        {
-            "content": "[max TAC after change]\n04070000 00536E48 2A0003E0\n04070000 00536E84 2A0003E0\n04070000 00536EC0 2A0003E0\n04070000 00536F30 2A0003E0\n04070000 00536F44 52A0BEA8\n04070000 00536F48 729C1FE8",
-            "title": "[max TAC after change]"
-        }
-    ],
-    "BE5FAEAF26B2BD48": [
-        {
-            "content": "[Maximum After Money Changes]\n04000000 0053E9A0 2A0003E0\n04000000 0053E9DC 2A0003E0\n04000000 0053EA18 2A0003E0\n04000000 0053EA50 2A0003E0\n04000000 0053EAC0 2A0003E0\n04000000 0053EAD4 52993FE8\n04000000 0053EAD8 72A77348\n\n",
-            "title": "[Maximum After Money Changes]"
-        },
-        {
-            "content": "[Maximum After TAC Changes]\n04000000 0050B7EC 2A0003E0\n04000000 0053EC08 2A0003E0\n04000000 0053EC44 2A0003E0\n04000000 0053ECF0 2A0003E0\n04000000 0053ED04 529C1FE8\n04000000 0053ED08 72A0BEA8\n\n",
-            "title": "[Maximum After TAC Changes]"
-        },
-        {
-            "content": "[Maximum After EN Use]\n04000000 00506010 79409801\n04000000 00506028 79409928\n\n",
-            "title": "[Maximum After EN Use]"
-        },
-        {
-            "content": "[The Number of Bullets is not reduced]\n04000000 00506214 5280000A\n04000000 00506228 52800008\n\n",
-            "title": "[The Number of Bullets is not reduced]"
-        },
-        {
-            "content": "[Maximum After SP Change]\n04000000 004FE7C0 2A0003E0\n\n",
-            "title": "[Maximum After SP Change]"
-        },
-        {
-            "content": "[Press ZL button to hit the largest]\n04000000 004FFF28 79408048\n80000100\n04000000 004FFF28 528E0008\n20000000\n\n",
-            "title": "[Press ZL button to hit the largest]"
-        },
-        {
-            "content": "[EXCEL does not decrease after use]\n04000000 004DF140 6B1F0128\n\n",
-            "title": "[EXCEL does not decrease after use]"
-        },
-        {
-            "content": "[Maximum after EXC increase]\n04000000 004DF088 52800148\n\n",
-            "title": "[Maximum after EXC increase]"
-        },
-        {
-            "content": "[Unlimited movement]\n580F0000 017023C8\n780F0000 00000090\n610F0000 00000000 0000008C\n\n",
-            "title": "[Unlimited movement]"
-        },
-        {
-            "content": "[Main Driving Force Max]\n580F0000 017023C8\n580F1000 00000010\n580F1000 00000000\n580F1000 00000010\n580F1000 00000008\n780F0000 0000005A\n620F0000 00000000 0000012C\n\n",
-            "title": "[Main Driving Force Max]"
-        },
-        {
-            "content": "[Body Movement]\n580F0000 017023C8\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000008\n780F0000 00000025\n610F0000 00000000 00000010\n\n",
-            "title": "[Body Movement]"
-        },
-        {
-            "content": "[Body Adaptability full S]\n580F0000 017023C8\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000008\n780F0000 00000020\n640F0000 00000000 00000000\n\n",
-            "title": "[Body Adaptability full S]"
-        },
-        {
-            "content": "[The Body HP is the Largest]\n580F0000 017023C8\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000008\n780F0000 00000044\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n ",
-            "title": "[The Body HP is the Largest]"
-        }
-    ]
+    "BE5FAEAF26B2BD48": {
+        "[Maximum After Money Changes]": "[Maximum After Money Changes]\n04000000 0053E9A0 2A0003E0\n04000000 0053E9DC 2A0003E0\n04000000 0053EA18 2A0003E0\n04000000 0053EA50 2A0003E0\n04000000 0053EAC0 2A0003E0\n04000000 0053EAD4 52993FE8\n04000000 0053EAD8 72A77348\n\n",
+        "[Maximum After TAC Changes]": "[Maximum After TAC Changes]\n04000000 0050B7EC 2A0003E0\n04000000 0053EC08 2A0003E0\n04000000 0053EC44 2A0003E0\n04000000 0053ECF0 2A0003E0\n04000000 0053ED04 529C1FE8\n04000000 0053ED08 72A0BEA8\n\n",
+        "[Maximum After EN Use]": "[Maximum After EN Use]\n04000000 00506010 79409801\n04000000 00506028 79409928\n\n",
+        "[The Number of Bullets is not reduced]": "[The Number of Bullets is not reduced]\n04000000 00506214 5280000A\n04000000 00506228 52800008\n\n",
+        "[Maximum After SP Change]": "[Maximum After SP Change]\n04000000 004FE7C0 2A0003E0\n\n",
+        "[Press ZL button to hit the largest]": "[Press ZL button to hit the largest]\n04000000 004FFF28 79408048\n80000100\n04000000 004FFF28 528E0008\n20000000\n\n",
+        "[EXCEL does not decrease after use]": "[EXCEL does not decrease after use]\n04000000 004DF140 6B1F0128\n\n",
+        "[Maximum after EXC increase]": "[Maximum after EXC increase]\n04000000 004DF088 52800148\n\n",
+        "[Unlimited movement]": "[Unlimited movement]\n580F0000 017023C8\n780F0000 00000090\n610F0000 00000000 0000008C\n\n",
+        "[Main Driving Force Max]": "[Main Driving Force Max]\n580F0000 017023C8\n580F1000 00000010\n580F1000 00000000\n580F1000 00000010\n580F1000 00000008\n780F0000 0000005A\n620F0000 00000000 0000012C\n\n",
+        "[Body Movement]": "[Body Movement]\n580F0000 017023C8\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000008\n780F0000 00000025\n610F0000 00000000 00000010\n\n",
+        "[Body Adaptability full S]": "[Body Adaptability full S]\n580F0000 017023C8\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000008\n780F0000 00000020\n640F0000 00000000 00000000\n\n",
+        "[The Body HP is the Largest]": "[The Body HP is the Largest]\n580F0000 017023C8\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000008\n780F0000 00000044\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n\n"
+    },
+    "736EB95ACA241014": {
+        "[max money after change]": "[max money after change]\n04070000 00536BE0 2A0003E0\n04070000 00536C1C 2A0003E0\n04070000 00536C58 2A0003E0\n04070000 00536D00 2A0003E0\n04070000 00536D14 52A77348\n04070000 00536D18 72993FE8\n\n",
+        "[max TAC after change]": "[max TAC after change]\n04070000 00536E48 2A0003E0\n04070000 00536E84 2A0003E0\n04070000 00536EC0 2A0003E0\n04070000 00536F30 2A0003E0\n04070000 00536F44 52A0BEA8\n04070000 00536F48 729C1FE8\n\n"
+    },
+    "attribution": {
+        "Super Robot Wars V by Teddynter ver 1.0.2 translated by felonious.txt": ""
+    }
 }

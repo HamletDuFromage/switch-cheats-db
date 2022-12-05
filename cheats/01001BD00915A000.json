@@ -1,24 +1,12 @@
 {
-    "9A1266CA1BFC5C7B": [
-        {
-            "content": "[Inf Time]\n01000000 0125AEB8 0000009A\n\n",
-            "title": "[Inf Time]"
-        },
-        {
-            "content": "[P1 Infinite HP eco95]\n04000000 01254DBC 00007676\n\n",
-            "title": "[P1 Infinite HP eco95]"
-        },
-        {
-            "content": "[1P is Dio]\n01000000 01254DB5 0000000F\n\n",
-            "title": "[1P is Dio]"
-        },
-        {
-            "content": "[1P is Neo Geegus BUGGY]\n01000000 01254DB5 00000010\n\n",
-            "title": "[1P is Neo Geegus BUGGY]"
-        },
-        {
-            "content": "[P2 NO HP eco95]\n04000000 01254EBC 00000000",
-            "title": "[P2 NO HP eco95]"
-        }
-    ]
+    "9A1266CA1BFC5C7B": {
+        "[Inf Time]": "[Inf Time]\n01000000 0125AEB8 0000009A\n\n",
+        "[P1 Infinite HP eco95]": "[P1 Infinite HP eco95]\n04000000 01254DBC 00007676\n\n",
+        "[1P is Dio]": "[1P is Dio]\n01000000 01254DB5 0000000F\n\n",
+        "[1P is Neo Geegus BUGGY]": "[1P is Neo Geegus BUGGY]\n01000000 01254DB5 00000010\n\n",
+        "[P2 NO HP eco95]": "[P2 NO HP eco95]\n04000000 01254EBC 00000000\n\n"
+    },
+    "attribution": {
+        "ACA NeoGeo World Heroes 2 Base ver by eco95.txt": ""
+    }
 }

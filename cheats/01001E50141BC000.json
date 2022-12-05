@@ -1,64 +1,22 @@
 {
-    "1776649361747405": [
-        {
-            "content": "[inf_speed]\n02100000 A82342F0 000003E7\n\n",
-            "title": "[inf_speed]"
-        },
-        {
-            "content": "[inf_cpu]\n02100000 A82342FC 000003E7\n\n",
-            "title": "[inf_cpu]"
-        },
-        {
-            "content": "[inf_treasure]\n02100000 A82342F4 000003E7\n\n",
-            "title": "[inf_treasure]"
-        },
-        {
-            "content": "[power_max]\n02100000 A82342F8 000003E7\n\n",
-            "title": "[power_max]"
-        },
-        {
-            "content": "[x1.5_exp]\n02100000 A8234300 000003E7\n\n",
-            "title": "[x1.5_exp]"
-        },
-        {
-            "content": "[inf_sniper]\n02100000 A8234304 000003E7\n\n",
-            "title": "[inf_sniper]"
-        },
-        {
-            "content": "[base_life_v2]\n04100000 A824C8E8 000AEA60\n\n",
-            "title": "[base_life_v2]"
-        },
-        {
-            "content": "[inf_energy_v2]\n02100000 A8230E40 0000021C\n\n",
-            "title": "[inf_energy_v2]"
-        },
-        {
-            "content": "[inf_Cat Food(press R)]\n80000080\n580F0000 036AC848\n780F0000 0000ADC8\n680F0000 10000000 100BDE31\n\n",
-            "title": "[inf_Cat Food(press R)]"
-        },
-        {
-            "content": "[red_catfruit]\n02100000 A83D03B8 00000014\n\n",
-            "title": "[red_catfruit]"
-        },
-        {
-            "content": "[yellow_catfruit]\n02100000 A83D03D0 00000014\n\n",
-            "title": "[yellow_catfruit]"
-        },
-        {
-            "content": "[green_catfruit]\n02100000 A83D03C8 00000014\n\n",
-            "title": "[green_catfruit]"
-        },
-        {
-            "content": "[purple_catfruit]\n02100000 A83D03B0 00000014\n\n",
-            "title": "[purple_catfruit]"
-        },
-        {
-            "content": "[blue_catfruit]\n02100000 A83D03C0 0000000A\n\n",
-            "title": "[blue_catfruit]"
-        },
-        {
-            "content": "[epic_catfruit]\n02100000 A83D03D8 0000000A",
-            "title": "[epic_catfruit]"
-        }
-    ]
+    "1776649361747405": {
+        "[inf_speed]": "[inf_speed]\n02100000 A82342F0 000003E7\n\n",
+        "[inf_cpu]": "[inf_cpu]\n02100000 A82342FC 000003E7\n\n",
+        "[inf_treasure]": "[inf_treasure]\n02100000 A82342F4 000003E7\n\n",
+        "[power_max]": "[power_max]\n02100000 A82342F8 000003E7\n\n",
+        "[x1.5_exp]": "[x1.5_exp]\n02100000 A8234300 000003E7\n\n",
+        "[inf_sniper]": "[inf_sniper]\n02100000 A8234304 000003E7\n\n",
+        "[base_life_v2]": "[base_life_v2]\n04100000 A824C8E8 000AEA60\n\n",
+        "[inf_energy_v2]": "[inf_energy_v2]\n02100000 A8230E40 0000021C\n\n",
+        "[inf_Cat Food(press R)]": "[inf_Cat Food(press R)]\n80000080\n580F0000 036AC848\n780F0000 0000ADC8\n680F0000 10000000 100BDE31\n\n",
+        "[red_catfruit]": "[red_catfruit]\n02100000 A83D03B8 00000014\n\n",
+        "[yellow_catfruit]": "[yellow_catfruit]\n02100000 A83D03D0 00000014\n\n",
+        "[green_catfruit]": "[green_catfruit]\n02100000 A83D03C8 00000014\n\n",
+        "[purple_catfruit]": "[purple_catfruit]\n02100000 A83D03B0 00000014\n\n",
+        "[blue_catfruit]": "[blue_catfruit]\n02100000 A83D03C0 0000000A\n\n",
+        "[epic_catfruit]": "[epic_catfruit]\n02100000 A83D03D8 0000000A\n\n"
+    },
+    "attribution": {
+        "The Battle Cats Unite by Dreem.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+    }
 }

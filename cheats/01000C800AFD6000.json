@@ -1,28 +1,10 @@
 {
-    "27A3DDAA287C00B4": [
-        {
-            "content": "[P1 Infinite HP]\n01000000 012869ac 0000007D\n\n",
-            "title": "[P1 Infinite HP]"
-        },
-        {
-            "content": "[P1 Maximum Power]\n02000000 012869b6 00004000\n\n",
-            "title": "[P1 Maximum Power]"
-        },
-        {
-            "content": "[P1 Always Maximum Sword Power]\n02000000 01286b60 00006800\n\n",
-            "title": "[P1 Always Maximum Sword Power]"
-        },
-        {
-            "content": "[P2 NO HP]\n01000000 01286bbc 00000001\n\n",
-            "title": "[P2 NO HP]"
-        },
-        {
-            "content": "[P2 NO Power]\n02000000 01286BC6 00000000\n\n",
-            "title": "[P2 NO Power]"
-        },
-        {
-            "content": "[P2 NO Maximum Sword Power]\n02000000 01286D70 00000000",
-            "title": "[P2 NO Maximum Sword Power]"
-        }
-    ]
+    "27A3DDAA287C00B4": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 012869ac 0000007D\n\n",
+        "[P1 Maximum Power]": "[P1 Maximum Power]\n02000000 012869b6 00004000\n\n",
+        "[P1 Always Maximum Sword Power]": "[P1 Always Maximum Sword Power]\n02000000 01286b60 00006800\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n01000000 01286bbc 00000001\n\n",
+        "[P2 NO Power]": "[P2 NO Power]\n02000000 01286BC6 00000000\n\n",
+        "[P2 NO Maximum Sword Power]": "[P2 NO Maximum Sword Power]\n02000000 01286D70 00000000\n\n"
+    }
 }

@@ -1,28 +1,10 @@
 {
-    "3F6CA7B86B217FA0": [
-        {
-            "content": "[P1 Infinite Lives]\n01000000 0125b1ce 00000009\n\n",
-            "title": "[P1 Infinite Lives]"
-        },
-        {
-            "content": "[P1 Infinite HP]\n01000000 0125dd12 00000006\n\n",
-            "title": "[P1 Infinite HP]"
-        },
-        {
-            "content": "[P1 Invincible]\n01000000 0125dd3c 000000ff\n\n",
-            "title": "[P1 Invincible]"
-        },
-        {
-            "content": "[P2 Infinite Lives]\n01000000 0125b1d0 00000009\n\n",
-            "title": "[P2 Infinite Lives]"
-        },
-        {
-            "content": "[P2 Infinite HP]\n01000000 0125de12 00000006\n\n",
-            "title": "[P2 Infinite HP]"
-        },
-        {
-            "content": "[P2 Invincible]\n01000000 0125de3c 000000ff",
-            "title": "[P2 Invincible]"
-        }
-    ]
+    "3F6CA7B86B217FA0": {
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 0125b1ce 00000009\n\n",
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 0125dd12 00000006\n\n",
+        "[P1 Invincible]": "[P1 Invincible]\n01000000 0125dd3c 000000ff\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 0125b1d0 00000009\n\n",
+        "[P2 Infinite HP]": "[P2 Infinite HP]\n01000000 0125de12 00000006\n\n",
+        "[P2 Invincible]": "[P2 Invincible]\n01000000 0125de3c 000000ff\n\n"
+    }
 }

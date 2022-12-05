@@ -1,16 +1,10 @@
 {
-    "2D05E2FC4BED8CF5": [
-        {
-            "content": "[Mask Shard of Chaos 999]\n041F005E 05889E08 00000999\n",
-            "title": "[Mask Shard of Chaos 999]"
-        },
-        {
-            "content": "[Max Money]\n041F005E A5B42B18 99999999\n",
-            "title": "[Max Money]"
-        },
-        {
-            "content": "[Skill Points 99k]\n041F005E A5B42B20 00099999\n",
-            "title": "[Skill Points 99k]"
-        }
-    ]
+    "2D05E2FC4BED8CF5": {
+        "[Mask Shard of Chaos 999]": "[Mask Shard of Chaos 999]\n041F005E 05889E08 00000999\n\n",
+        "[Max Money]": "[Max Money]\n041F005E A5B42B18 99999999\n\n",
+        "[Skill Points 99k]": "[Skill Points 99k]\n041F005E A5B42B20 00099999\n\n"
+    },
+    "attribution": {
+        "Dusk Diver by jericoss.txt": "[Mask Shard of Chaos 999]\n041F005E 05889E08 00000999\n[Max Money]\n041F005E A5B42B18 99999999\n[Skill Points 99k]\n041F005E A5B42B20 00099999\n"
+    }
 }

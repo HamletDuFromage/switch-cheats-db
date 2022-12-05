@@ -1,18 +1,12 @@
 {
-    "AB09E78CDFEC6E08": [
-        {
-            "content": "[Lock Upgrade Points]\n580F0000 05C4CA38\n580F1000 00000008\n580F1000 00000130\n580F1000 000001C0\n580F1000 000000D0\n780F0000 000000E8\n640F0000 00000000 00000009\n\n",
-            "title": "[Lock Upgrade Points]"
-        }
-    ],
-    "FF114A09D935BE7A": [
-        {
-            "content": "[HP - Thanks to Gamerjin for the pointer]\n58000000 04EA9628\n58001000 00000000\n58001000 00000128\n58001000 000002E8\n78000000 00000AE4\n64000000 00000000 00000012\n\n",
-            "title": "[HP - Thanks to Gamerjin for the pointer]"
-        },
-        {
-            "content": "[Upgrade Points]\n580F0000 05A63F78\n580F1000 00000008\n580F1000 00000008\n580F1000 00000440\n780F0000 000000B8\n640F0000 00000000 0000000F\n\n",
-            "title": "[Upgrade Points]"
-        }
-    ]
+    "FF114A09D935BE7A": {
+        "[HP - Thanks to Gamerjin for the pointer]": "[HP - Thanks to Gamerjin for the pointer]\n58000000 04EA9628\n58001000 00000000\n58001000 00000128\n58001000 000002E8\n78000000 00000AE4\n64000000 00000000 00000012\n\n",
+        "[Upgrade Points]": "[Upgrade Points]\n580F0000 05A63F78\n580F1000 00000008\n580F1000 00000008\n580F1000 00000440\n780F0000 000000B8\n640F0000 00000000 0000000F\n\n"
+    },
+    "AB09E78CDFEC6E08": {
+        "[Lock Upgrade Points]": "[Lock Upgrade Points]\n580F0000 05C4CA38\n580F1000 00000008\n580F1000 00000130\n580F1000 000001C0\n580F1000 000000D0\n780F0000 000000E8\n640F0000 00000000 00000009\n\n"
+    },
+    "attribution": {
+        "Raji An Ancient Epic by Eiffel2018 and ver 1.0.2 by jhmiller.txt": "[Lock Upgrade Points]\n580F0000 05C4CA38\n580F1000 00000008\n580F1000 00000130\n580F1000 000001C0\n580F1000 000000D0\n780F0000 000000E8\n640F0000 00000000 00000009\n\n"
+    }
 }

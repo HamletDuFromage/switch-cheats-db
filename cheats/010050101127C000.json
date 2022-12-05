@@ -1,32 +1,14 @@
 {
-    "4D1C7699D3FE0E32": [
-        {
-            "content": "[o Infinite Health]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000220\n580F1000 00003570\n780F0000 00000004\n640F0000 00000000 42C80000\n\n",
-            "title": "[o Infinite Health]"
-        },
-        {
-            "content": "[o Infinite Dark Matter]\n580F0000 05030A18\n580F1000 00000110\n580F1000 00000248\n580F1000 00003570\n780F0000 0000000C\n640F0000 00000000 42C80000\n\n",
-            "title": "[o Infinite Dark Matter]"
-        },
-        {
-            "content": "[o Infinite/Max Fab Chips]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000120\n580F1000 00000000\n780F0000 000022B0\n640F0000 00000000 3B9AC9FF\n\n",
-            "title": "[o Infinite/Max Fab Chips]"
-        },
-        {
-            "content": "[o Infinite/Max Stem Cells]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000120\n580F1000 00000000\n780F0000 000022B4\n640F0000 00000000 3B9AC9FF\n\n",
-            "title": "[o Infinite/Max Stem Cells]"
-        },
-        {
-            "content": "[o Infinite/Max Erubus Tokens]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000120\n580F1000 00000000\n780F0000 000022B8\n640F0000 00000000 3B9AC9FF\n\n",
-            "title": "[o Infinite/Max Erubus Tokens]"
-        },
-        {
-            "content": "[o Super Fast Run]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000220\n580F1000 00003570\n780F0000 00000018\n640F0000 00000000 44440000\n\n",
-            "title": "[o Super Fast Run]"
-        },
-        {
-            "content": "[o Normal Run]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000220\n580F1000 00003570\n780F0000 00000018\n640F0000 00000000 42C80000",
-            "title": "[o Normal Run]"
-        }
-    ]
+    "4D1C7699D3FE0E32": {
+        "[o Infinite Health]": "[o Infinite Health]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000220\n580F1000 00003570\n780F0000 00000004\n640F0000 00000000 42C80000\n\n",
+        "[o Infinite Dark Matter]": "[o Infinite Dark Matter]\n580F0000 05030A18\n580F1000 00000110\n580F1000 00000248\n580F1000 00003570\n780F0000 0000000C\n640F0000 00000000 42C80000\n\n",
+        "[o Infinite/Max Fab Chips]": "[o Infinite/Max Fab Chips]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000120\n580F1000 00000000\n780F0000 000022B0\n640F0000 00000000 3B9AC9FF\n\n",
+        "[o Infinite/Max Stem Cells]": "[o Infinite/Max Stem Cells]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000120\n580F1000 00000000\n780F0000 000022B4\n640F0000 00000000 3B9AC9FF\n\n",
+        "[o Infinite/Max Erubus Tokens]": "[o Infinite/Max Erubus Tokens]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000120\n580F1000 00000000\n780F0000 000022B8\n640F0000 00000000 3B9AC9FF\n\n",
+        "[o Super Fast Run]": "[o Super Fast Run]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000220\n580F1000 00003570\n780F0000 00000018\n640F0000 00000000 44440000\n\n",
+        "[o Normal Run]": "[o Normal Run]\n580F0000 05030A18\n580F1000 000000D0\n580F1000 00000220\n580F1000 00003570\n780F0000 00000018\n640F0000 00000000 42C80000\n\n"
+    },
+    "attribution": {
+        "The Persistence by Spider-man.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

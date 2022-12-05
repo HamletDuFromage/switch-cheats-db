@@ -1,28 +1,13 @@
 {
-    "AF7CF48B21607841": [
-        {
-            "content": "[20210812 Yu-Gi-Oh! SEVENS Rush Duel v1.0.1 (v65536) by Eiffel]\n\n",
-            "title": "[20210812 Yu-Gi-Oh! SEVENS Rush Duel v1.0.1 (v65536) by Eiffel]"
-        },
-        {
-            "content": "[Money no decrease]\n010E0000 01FD2B8E 0000001F\n\n",
-            "title": "[Money no decrease]"
-        },
-        {
-            "content": "[Card Ticket no decrease]\n010E0000 02013D0A 0000001F\n\n",
-            "title": "[Card Ticket no decrease]"
-        },
-        {
-            "content": "[Normal damage]\n040E0000 01627318 2A0803E9\n",
-            "title": "[Normal damage]"
-        },
-        {
-            "content": "[No damage (Right-Stick press in)]\n80000020\n040E0000 01627318 2A1F03E9\n20000000\n",
-            "title": "[No damage (Right-Stick press in)]"
-        },
-        {
-            "content": "[99999 damage (Left-Stick press in)]\n80000010\n040E0000 01627318 D503201F\n20000000",
-            "title": "[99999 damage (Left-Stick press in)]"
-        }
-    ]
+    "AF7CF48B21607841": {
+        "[20210812 Yu-Gi-Oh! SEVENS Rush Duel v1.0.1 (v65536) by Eiffel]": "[20210812 Yu-Gi-Oh! SEVENS Rush Duel v1.0.1 (v65536) by Eiffel]\n\n",
+        "[Money no decrease]": "[Money no decrease]\n010E0000 01FD2B8E 0000001F\n\n",
+        "[Card Ticket no decrease]": "[Card Ticket no decrease]\n010E0000 02013D0A 0000001F\n\n",
+        "[Normal damage]": "[Normal damage]\n040E0000 01627318 2A0803E9\n\n",
+        "[No damage (Right-Stick press in)]": "[No damage (Right-Stick press in)]\n80000020\n040E0000 01627318 2A1F03E9\n20000000\n\n",
+        "[99999 damage (Left-Stick press in)]": "[99999 damage (Left-Stick press in)]\n80000010\n040E0000 01627318 D503201F\n20000000\n\n"
+    },
+    "attribution": {
+        "Yu-Gi-Oh! SEVENS Rush Duel v1.0.1 (v65536) by Eiffel.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

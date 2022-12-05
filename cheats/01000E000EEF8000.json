@@ -1,24 +1,12 @@
 {
-    "6626E13268010C47": [
-        {
-            "content": "[Get Hit To Be Invulnerable]\n04000000 001A8004 D503201F\n\n",
-            "title": "[Get Hit To Be Invulnerable]"
-        },
-        {
-            "content": "[Infinite Mana]\n04000000 001A8298 4B1F0101\n\n",
-            "title": "[Infinite Mana]"
-        },
-        {
-            "content": "[Inf HP]\n580F0000 0249E838\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n780F0000 00000024\n640F0000 00000000 40800000\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Speed Up]\n580F0000 0249E838\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n780F0000 00000028\n640F0000 00000000 00000020\n\n",
-            "title": "[Speed Up]"
-        },
-        {
-            "content": "[Inf Jump]\n580F0000 0249E838\n580F1000 000000B8",
-            "title": "[Inf Jump]"
-        }
-    ]
+    "6626E13268010C47": {
+        "[Get Hit To Be Invulnerable]": "[Get Hit To Be Invulnerable]\n04000000 001A8004 D503201F\n\n",
+        "[Infinite Mana]": "[Infinite Mana]\n04000000 001A8298 4B1F0101\n\n",
+        "[Inf HP]": "[Inf HP]\n580F0000 0249E838\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n780F0000 00000024\n640F0000 00000000 40800000\n\n",
+        "[Speed Up]": "[Speed Up]\n580F0000 0249E838\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n780F0000 00000028\n640F0000 00000000 00000020\n\n",
+        "[Inf Jump]": "[Inf Jump]\n580F0000 0249E838\n580F1000 000000B8\n\n"
+    },
+    "attribution": {
+        "Aldred knight of Honor v1.0.1 by Dablackdeath.txt": ""
+    }
 }

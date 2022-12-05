@@ -1,28 +1,13 @@
 {
-    "85C362CC9790F0ED": [
-        {
-            "content": "[01# Inf Health]\n58010000 01734550\n78010000 00000330\n64010000 00000000 3F800000\n\n",
-            "title": "[01# Inf Health]"
-        },
-        {
-            "content": "[02# Max Money]\n580E0000 016F0E80\n580E1000 00000010\n580E1000 000000A8\n780E0000 00000520\n640E0000 00000000 000F423F\n\n",
-            "title": "[02# Max Money]"
-        },
-        {
-            "content": "[03# Max Gasmask (ZL+Left)]\n80001100\n580F0000 016F0E80\n580F1000 00000010\n580F1000 00000118\n780F0000 000006B4\n640F0000 00000000 43960000\n20000000\n\n",
-            "title": "[03# Max Gasmask (ZL+Left)]"
-        },
-        {
-            "content": "[04# Max Bullets (ZL+Up)]\n80002100\n58020000 016F0E80\n58021000 00000010\n58021000 000001D8\n78020000 00000478\n62020000 00000000 0000270F\n20000000\n\n",
-            "title": "[04# Max Bullets (ZL+Up)]"
-        },
-        {
-            "content": "[05# Max Bullets (ZL+Right)]\n80004100\n58030000 016F0E80\n58031000 00000010\n58031000 00005BD8\n78030000 00000478\n64030000 00000000 0000270F\n20000000\n\n",
-            "title": "[05# Max Bullets (ZL+Right)]"
-        },
-        {
-            "content": "[06# Max Bullets (ZL+Down)]\n80008100\n58040000 016F0E80\n58041000 00000010\n58041000 00000278\n78040000 00000478\n64040000 00000000 0000270F\n20000000",
-            "title": "[06# Max Bullets (ZL+Down)]"
-        }
-    ]
+    "85C362CC9790F0ED": {
+        "[01# Inf Health]": "[01# Inf Health]\n58010000 01734550\n78010000 00000330\n64010000 00000000 3F800000\n\n",
+        "[02# Max Money]": "[02# Max Money]\n580E0000 016F0E80\n580E1000 00000010\n580E1000 000000A8\n780E0000 00000520\n640E0000 00000000 000F423F\n\n",
+        "[03# Max Gasmask (ZL+Left)]": "[03# Max Gasmask (ZL+Left)]\n80001100\n580F0000 016F0E80\n580F1000 00000010\n580F1000 00000118\n780F0000 000006B4\n640F0000 00000000 43960000\n20000000\n\n",
+        "[04# Max Bullets (ZL+Up)]": "[04# Max Bullets (ZL+Up)]\n80002100\n58020000 016F0E80\n58021000 00000010\n58021000 000001D8\n78020000 00000478\n62020000 00000000 0000270F\n20000000\n\n",
+        "[05# Max Bullets (ZL+Right)]": "[05# Max Bullets (ZL+Right)]\n80004100\n58030000 016F0E80\n58031000 00000010\n58031000 00005BD8\n78030000 00000478\n64030000 00000000 0000270F\n20000000\n\n",
+        "[06# Max Bullets (ZL+Down)]": "[06# Max Bullets (ZL+Down)]\n80008100\n58040000 016F0E80\n58041000 00000010\n58041000 00000278\n78040000 00000478\n64040000 00000000 0000270F\n20000000\n\n"
+    },
+    "attribution": {
+        "Metro 2033 Redux Metro Last Light redux ver 1.0 by patjenova.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
+    }
 }

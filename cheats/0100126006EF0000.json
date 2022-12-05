@@ -1,20 +1,8 @@
 {
-    "CF79603EFD9E774D": [
-        {
-            "content": "[Max gold on]\n04000000 002704C0 17F63ED9\n04000000 00000024 5292CFE0\n04000000 00000028 72A01300\n04000000 0000002C D65F03C0\n\n",
-            "title": "[Max gold on]"
-        },
-        {
-            "content": "[Max gold off]\n04000000 002704C0 B9403400\n\n",
-            "title": "[Max gold off]"
-        },
-        {
-            "content": "[Max EXP after Battle on]\n04000000 00270460 B9002800\n\n",
-            "title": "[Max EXP after Battle on]"
-        },
-        {
-            "content": "[Max EXP after Battle off]\n04000000 00270460 B9402800",
-            "title": "[Max EXP after Battle off]"
-        }
-    ]
+    "CF79603EFD9E774D": {
+        "[Max gold on]": "[Max gold on]\n04000000 002704C0 17F63ED9\n04000000 00000024 5292CFE0\n04000000 00000028 72A01300\n04000000 0000002C D65F03C0\n\n",
+        "[Max gold off]": "[Max gold off]\n04000000 002704C0 B9403400\n\n",
+        "[Max EXP after Battle on]": "[Max EXP after Battle on]\n04000000 00270460 B9002800\n\n",
+        "[Max EXP after Battle off]": "[Max EXP after Battle off]\n04000000 00270460 B9402800\n\n"
+    }
 }

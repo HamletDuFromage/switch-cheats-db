@@ -1,12 +1,9 @@
 {
-    "0D63B368B4161CAC": [
-        {
-            "content": "[inf hp]\n580F0000 00E2B390\n780F0000 000A5964\n640F0000 00000000 43CF0000\n\n",
-            "title": "[inf hp]"
-        },
-        {
-            "content": "[inf special]\n580F0000 00E2B760\n780F1000 00000040\n640F0000 00000000 000186A0\n",
-            "title": "[inf special]"
-        }
-    ]
+    "0D63B368B4161CAC": {
+        "[inf hp]": "[inf hp]\n580F0000 00E2B390\n780F0000 000A5964\n640F0000 00000000 43CF0000\n\n",
+        "[inf special]": "[inf special]\n580F0000 00E2B760\n780F1000 00000040\n640F0000 00000000 000186A0\n\n"
+    },
+    "attribution": {
+        "dynasty warriors 8 xtreme legends definitive edition ver 1.0.0.txt": "caution\ncan some problems"
+    }
 }

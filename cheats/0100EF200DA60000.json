@@ -1,44 +1,17 @@
 {
-    "9237D917928AEB4A": [
-        {
-            "content": "[01# Remove Item Durability]\n04000000 008AB780 D65F03C0\n\n",
-            "title": "[01# Remove Item Durability]"
-        },
-        {
-            "content": "[Remove Item Durability (off)]\n04000000 008AB780 D105C3FF\n\n",
-            "title": "[Remove Item Durability (off)]"
-        },
-        {
-            "content": "[02# Can Craft]\n04000000 005F0770 52800020\n04000000 005F0774 D65F03C0\n\n",
-            "title": "[02# Can Craft]"
-        },
-        {
-            "content": "[Can Craft (off)]\n04000000 005F0770 F81C0FF7\n04000000 005F0774 A90157F6\n\n",
-            "title": "[Can Craft (off)]"
-        },
-        {
-            "content": "[03# inf Energy]\n04000000 005BFB10 D65F03C0\n\n",
-            "title": "[03# inf Energy]"
-        },
-        {
-            "content": "[inf Energy (off)]\n04000000 005BFB10 FC1D0FE8\n\n",
-            "title": "[inf Energy (off)]"
-        },
-        {
-            "content": "[04# Add 99 items (Press L)]\n04000000 00410D10 0B000108\n80000040\n04000000 00410D10 52800C68\n20000000\n\n",
-            "title": "[04# Add 99 items (Press L)]"
-        },
-        {
-            "content": "[05# Inf Health (for everything so look out)]\n04000000 008A072C 5284E214\n\n",
-            "title": "[05# Inf Health (for everything so look out)]"
-        },
-        {
-            "content": "[Inf Health (off)]\n04000000 008A072C 2A0103F4\n\n",
-            "title": "[Inf Health (off)]"
-        },
-        {
-            "content": "[06# Inf Hunger]\n580F0000 062388F0\n580F1000 000000B8\n580F1000 00000030\n580F1000 00000078\n580F1000 00000018\n580F1000 000002F8\n580F1000 00000050\n780F0000 00000014\n640F0000 00000000 00000064",
-            "title": "[06# Inf Hunger]"
-        }
-    ]
+    "9237D917928AEB4A": {
+        "[01# Remove Item Durability]": "[01# Remove Item Durability]\n04000000 008AB780 D65F03C0\n\n",
+        "[Remove Item Durability (off)]": "[Remove Item Durability (off)]\n04000000 008AB780 D105C3FF\n\n",
+        "[02# Can Craft]": "[02# Can Craft]\n04000000 005F0770 52800020\n04000000 005F0774 D65F03C0\n\n",
+        "[Can Craft (off)]": "[Can Craft (off)]\n04000000 005F0770 F81C0FF7\n04000000 005F0774 A90157F6\n\n",
+        "[03# inf Energy]": "[03# inf Energy]\n04000000 005BFB10 D65F03C0\n\n",
+        "[inf Energy (off)]": "[inf Energy (off)]\n04000000 005BFB10 FC1D0FE8\n\n",
+        "[04# Add 99 items (Press L)]": "[04# Add 99 items (Press L)]\n04000000 00410D10 0B000108\n80000040\n04000000 00410D10 52800C68\n20000000\n\n",
+        "[05# Inf Health (for everything so look out)]": "[05# Inf Health (for everything so look out)]\n04000000 008A072C 5284E214\n\n",
+        "[Inf Health (off)]": "[Inf Health (off)]\n04000000 008A072C 2A0103F4\n\n",
+        "[06# Inf Hunger]": "[06# Inf Hunger]\n580F0000 062388F0\n580F1000 000000B8\n580F1000 00000030\n580F1000 00000078\n580F1000 00000018\n580F1000 000002F8\n580F1000 00000050\n780F0000 00000014\n640F0000 00000000 00000064\n\n"
+    },
+    "attribution": {
+        "The Survivalists ver 1.0.3 by patjenova.txt": ""
+    }
 }

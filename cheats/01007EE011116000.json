@@ -1,20 +1,11 @@
 {
-    "3E4F4D748B244C82": [
-        {
-            "content": "[Infinite HP]\n580f0000 00111900\n580f1000 00000040\n780f0000 0000f9dc\n620f0000 00000000 00004000\n\n",
-            "title": "[Infinite HP]"
-        },
-        {
-            "content": "[Infinite Super]\n580f0000 00111900\n580f1000 00000040\n780f0000 0000f9e2\n610f0000 00000000 00000003\n\n",
-            "title": "[Infinite Super]"
-        },
-        {
-            "content": "[CPU No Super]\n580f0000 00111900\n580f1000 00000040\n780f0000 0000fb14\n640f0000 00000000 00000000\n\n",
-            "title": "[CPU No Super]"
-        },
-        {
-            "content": "[Infinite Time]\n580f0000 00111900\n580f1000 00000040\n780f0000 00010326\n620f0000 00000000 00000909",
-            "title": "[Infinite Time]"
-        }
-    ]
+    "3E4F4D748B244C82": {
+        "[Infinite HP]": "[Infinite HP]\n580f0000 00111900\n580f1000 00000040\n780f0000 0000f9dc\n620f0000 00000000 00004000\n\n",
+        "[Infinite Super]": "[Infinite Super]\n580f0000 00111900\n580f1000 00000040\n780f0000 0000f9e2\n610f0000 00000000 00000003\n\n",
+        "[CPU No Super]": "[CPU No Super]\n580f0000 00111900\n580f1000 00000040\n780f0000 0000fb14\n640f0000 00000000 00000000\n\n",
+        "[Infinite Time]": "[Infinite Time]\n580f0000 00111900\n580f1000 00000040\n780f0000 00010326\n620f0000 00000000 00000909\n\n"
+    },
+    "attribution": {
+        "SNK GALS FIGHTERS by Dsrules.txt": ""
+    }
 }

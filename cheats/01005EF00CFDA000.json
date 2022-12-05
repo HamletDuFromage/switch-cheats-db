@@ -1,36 +1,16 @@
 {
-    "0DF02AB1AA74AD0A": [
-        {
-            "content": "[Energy unlimited]\n580F0000 0530C980\n780F0000 00000590\n640F0000 00000000 43960000\n\n",
-            "title": "[Energy unlimited]"
-        },
-        {
-            "content": "[Add Energy with UP]\n80002000\n580F0000 0530C980\n780F0000 00000590\n640F0000 00000000 43960000\n\n",
-            "title": "[Add Energy with UP]"
-        },
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 05BA3F50\n580F1000 00000058\n780F0000 00000378\n640F0000 00000000 44200000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Speed Up (Hold ZL)]\n80000100\n580F0000 05BA3F50\n580F1000 00000058\n780F0000 000003F8\n640F0000 00000000 40800000\n20000000\n\n",
-            "title": "[Speed Up (Hold ZL)]"
-        },
-        {
-            "content": "[Inf HP]\n580F0000 05BA3F50\n580F1000 00000038\n780F0000 00000568\n640F0000 00000000 461C4000\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Max HP]\n580F0000 05BA3F50\n580F1000 00000038\n780F0000 000003F0\n640F0000 00000000 461C4000\n\n",
-            "title": "[Max HP]"
-        },
-        {
-            "content": "[Max MP]\n580F0000 05BA3F50\n580F1000 00000038\n780F0000 000003F8\n640F0000 00000000 000000FF\n\n",
-            "title": "[Max MP]"
-        },
-        {
-            "content": "[Inf MP]\n580F0000 05BA3F50\n580F1000 00000038\n780F0000 0000055C\n640F0000 00000000 000000FF\n",
-            "title": "[Inf MP]"
-        }
-    ]
+    "0DF02AB1AA74AD0A": {
+        "[Energy unlimited]": "[Energy unlimited]\n580F0000 0530C980\n780F0000 00000590\n640F0000 00000000 43960000\n\n",
+        "[Add Energy with UP]": "[Add Energy with UP]\n80002000\n580F0000 0530C980\n780F0000 00000590\n640F0000 00000000 43960000\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 05BA3F50\n580F1000 00000058\n780F0000 00000378\n640F0000 00000000 44200000\n20000000\n\n",
+        "[Speed Up (Hold ZL)]": "[Speed Up (Hold ZL)]\n80000100\n580F0000 05BA3F50\n580F1000 00000058\n780F0000 000003F8\n640F0000 00000000 40800000\n20000000\n\n",
+        "[Inf HP]": "[Inf HP]\n580F0000 05BA3F50\n580F1000 00000038\n780F0000 00000568\n640F0000 00000000 461C4000\n\n",
+        "[Max HP]": "[Max HP]\n580F0000 05BA3F50\n580F1000 00000038\n780F0000 000003F0\n640F0000 00000000 461C4000\n\n",
+        "[Max MP]": "[Max MP]\n580F0000 05BA3F50\n580F1000 00000038\n780F0000 000003F8\n640F0000 00000000 000000FF\n\n",
+        "[Inf MP]": "[Inf MP]\n580F0000 05BA3F50\n580F1000 00000038\n780F0000 0000055C\n640F0000 00000000 000000FF\n\n"
+    },
+    "attribution": {
+        "A Knight's Quest ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows.",
+        "A Knight's Quest v1.0 by merlin555.txt": ""
+    }
 }

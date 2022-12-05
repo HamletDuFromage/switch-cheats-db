@@ -1,60 +1,21 @@
 {
-    "F780A21406F4AA4E": [
-        {
-            "content": "[P1 no fall]\n04000000 0058F450 D65F03C0\n\n",
-            "title": "[P1 no fall]"
-        },
-        {
-            "content": "[P2 no fall]\n04000000 0058F5A0 D65F03C0\n\n",
-            "title": "[P2 no fall]"
-        },
-        {
-            "content": "{Reach bottom of screen to activate, codes below needs this}\n04000000 0058F3CC B00145D5\n04000000 0058F3D0 F907FAA0\n\n",
-            "title": "{Reach bottom of screen to activate, codes below needs this}"
-        },
-        {
-            "content": "[P1 score 1M]\n580F0000 02E48FF0\n780F0000 00000018\n640F0000 00000000 000F4240\n\n",
-            "title": "[P1 score 1M]"
-        },
-        {
-            "content": "[P2 score 1M]\n580F0000 02E48FF0\n780F0000 00000028\n640F0000 00000000 000F4240\n\n",
-            "title": "[P2 score 1M]"
-        },
-        {
-            "content": "[P1 Level 99]\n580F0000 02E48FF0\n780F0000 00000048\n640F0000 00000000 00000063\n\n",
-            "title": "[P1 Level 99]"
-        },
-        {
-            "content": "[P1 inf Lives]\n580F0000 02E48FF0\n780F0000 00000074\n640F0000 00000000 00000005\n780F0000 00000004\n640F0000 00000000 00000005\n\n",
-            "title": "[P1 inf Lives]"
-        },
-        {
-            "content": "[P2 inf Lives]\n580F0000 02E48FF0\n780F0000 0000007C\n640F0000 00000000 00000005\n780F0000 00000004\n640F0000 00000000 00000005\n\n",
-            "title": "[P2 inf Lives]"
-        },
-        {
-            "content": "[Have Key]\n580F0000 02E48FF0\n780F0000 00000198\n610F0000 00000000 00000001\n\n",
-            "title": "[Have Key]"
-        },
-        {
-            "content": "[Level Up P1]\n580F0000 02E48FF0\n780F0000 00000068\n610F0000 00000000 00000001\n\n",
-            "title": "[Level Up P1]"
-        },
-        {
-            "content": "[Level Up P2]\n580F0000 02E48FF0\n780F0000 00000069\n610F0000 00000000 00000001\n\n",
-            "title": "[Level Up P2]"
-        },
-        {
-            "content": "[P1 Power Stones 99]\n580F0000 02E48FF0\n780F0000 000001C0\n610F0000 00000000 00000063\n\n",
-            "title": "[P1 Power Stones 99]"
-        },
-        {
-            "content": "[P1 Power points 99]\n580F0000 02E48FF0\n780F0000 000001F0\n610F0000 00000000 00000063\n\n",
-            "title": "[P1 Power points 99]"
-        },
-        {
-            "content": "[P1 Have Special]\n580F0000 02E48FF0\n780F0000 00000208\n610F0000 00000000 00000001\n",
-            "title": "[P1 Have Special]"
-        }
-    ]
+    "F780A21406F4AA4E": {
+        "[P1 no fall]": "[P1 no fall]\n04000000 0058F450 D65F03C0\n\n",
+        "[P2 no fall]": "[P2 no fall]\n04000000 0058F5A0 D65F03C0\n\n",
+        "{Reach bottom of screen to activate, codes below needs this}": "{Reach bottom of screen to activate, codes below needs this}\n04000000 0058F3CC B00145D5\n04000000 0058F3D0 F907FAA0\n\n",
+        "[P1 score 1M]": "[P1 score 1M]\n580F0000 02E48FF0\n780F0000 00000018\n640F0000 00000000 000F4240\n\n",
+        "[P2 score 1M]": "[P2 score 1M]\n580F0000 02E48FF0\n780F0000 00000028\n640F0000 00000000 000F4240\n\n",
+        "[P1 Level 99]": "[P1 Level 99]\n580F0000 02E48FF0\n780F0000 00000048\n640F0000 00000000 00000063\n\n",
+        "[P1 inf Lives]": "[P1 inf Lives]\n580F0000 02E48FF0\n780F0000 00000074\n640F0000 00000000 00000005\n780F0000 00000004\n640F0000 00000000 00000005\n\n",
+        "[P2 inf Lives]": "[P2 inf Lives]\n580F0000 02E48FF0\n780F0000 0000007C\n640F0000 00000000 00000005\n780F0000 00000004\n640F0000 00000000 00000005\n\n",
+        "[Have Key]": "[Have Key]\n580F0000 02E48FF0\n780F0000 00000198\n610F0000 00000000 00000001\n\n",
+        "[Level Up P1]": "[Level Up P1]\n580F0000 02E48FF0\n780F0000 00000068\n610F0000 00000000 00000001\n\n",
+        "[Level Up P2]": "[Level Up P2]\n580F0000 02E48FF0\n780F0000 00000069\n610F0000 00000000 00000001\n\n",
+        "[P1 Power Stones 99]": "[P1 Power Stones 99]\n580F0000 02E48FF0\n780F0000 000001C0\n610F0000 00000000 00000063\n\n",
+        "[P1 Power points 99]": "[P1 Power points 99]\n580F0000 02E48FF0\n780F0000 000001F0\n610F0000 00000000 00000063\n\n",
+        "[P1 Have Special]": "[P1 Have Special]\n580F0000 02E48FF0\n780F0000 00000208\n610F0000 00000000 00000001\n\n"
+    },
+    "attribution": {
+        "Dungeonoid by TomSwitch.txt": "****If you need HP/AP code for 3rd char, add 8h for 5th line"
+    }
 }

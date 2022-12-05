@@ -1,12 +1,9 @@
 {
-    "47834DD89CC22747": [
-        {
-            "content": "[INF HP]\n04000000 001C7D28 D503201F\n\n",
-            "title": "[INF HP]"
-        },
-        {
-            "content": "[Always Can Shoot FireBall]\n04000000 001C06A0 1E204001",
-            "title": "[Always Can Shoot FireBall]"
-        }
-    ]
+    "47834DD89CC22747": {
+        "[INF HP]": "[INF HP]\n04000000 001C7D28 D503201F\n\n",
+        "[Always Can Shoot FireBall]": "[Always Can Shoot FireBall]\n04000000 001C06A0 1E204001\n\n"
+    },
+    "attribution": {
+        "The Forbidden Arts v1.0.1 made by DaBlackDeath.txt": ""
+    }
 }

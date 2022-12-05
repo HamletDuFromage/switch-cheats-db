@@ -1,0 +1,11 @@
+{
+    "1B80403BE8882745": {
+        "[60 FPS]": "[60 FPS]\n580F0000 03ABFC48 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 03ABFC48 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[60 FPS (Alternative)]": "[60 FPS (Alternative)]\n580F0000 03ABFC88 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default, Alternative)]": "[30 FPS (Default, Alternative)]\n580F0000 03ABFC88 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "LEGO Jurassic World.txt": "by retole\nNeed a little OC: GPU 460+; CPU 1224+"
+    }
+}

@@ -1,48 +1,18 @@
 {
-    "36D4DFB5DA75B787": [
-        {
-            "content": "[Coins will not be reduced]\n080E0000 01F893C8 1A9FA033 7100003F\n040E0000 01F893D0 0B130108\n\n",
-            "title": "[Coins will not be reduced]"
-        },
-        {
-            "content": "[Mana will not be reduced]\n080E0000 01F8EFA8 1A9FA033 7100003F\n040E0000 01F8EFB0 0B130108\n\n",
-            "title": "[Mana will not be reduced]"
-        },
-        {
-            "content": "[Mana will not be reduced during battle]\n010E0000 01DD16F6 0000001F\n010E0000 01DD3ED6 0000001F\n010E0000 01DD475A 0000001F\n010E0000 01DDA2EA 0000001F\n010E0000 01DDA83E 0000001F\n010E0000 01DEBCB6 0000001F\n010E0000 01DECEF6 0000001F\n\n",
-            "title": "[Mana will not be reduced during battle]"
-        },
-        {
-            "content": "[Unlimited use of Magic during battle]\n010E0000 01DD1712 0000001F\n010E0000 01DD405A 0000001F\n010E0000 01DD477E 0000001F\n010E0000 01DDA306 0000001F\n010E0000 01DDA85A 0000001F\n010E0000 01DEBCD2 0000001F\n010E0000 01DECCBA 0000001F\n\n",
-            "title": "[Unlimited use of Magic during battle]"
-        },
-        {
-            "content": "[Unlimited use of Scroll during battle]\n010E0000 01CFDB5E 0000001F\n\n",
-            "title": "[Unlimited use of Scroll during battle]"
-        },
-        {
-            "content": "[Talent Points will not be reduced]\n010E0000 02160436 0000001F\n\n",
-            "title": "[Talent Points will not be reduced]"
-        },
-        {
-            "content": "[Hero's EXP increasing rate (16x default)]\n010E0000 01F967A5 00000012\n\n",
-            "title": "[Hero's EXP increasing rate (16x default)]"
-        },
-        {
-            "content": "[Squads' EXP increasing rate (4x default)]\n010E0000 01DBA06D 00000009\n\n",
-            "title": "[Squads' EXP increasing rate (4x default)]"
-        },
-        {
-            "content": "[Reserve Army is kept 999]\n040E0000 01F92D64 52807CE9\n040E0000 01F938E8 52807CE8\n\n",
-            "title": "[Reserve Army is kept 999]"
-        },
-        {
-            "content": "[Double running speed (ZR+ZL)]\n80000200\n580E0000 092FB0B0\n580E1000 00000000\n580E1000 00000110\n580E1000 00000288\n780E0000 0000018C\n640E0000 00000000 44960000\n20000000\n\n",
-            "title": "[Double running speed (ZR+ZL)]"
-        },
-        {
-            "content": "[Created by Eiffel2018, enjoy!]\n20000000",
-            "title": "[Created by Eiffel2018, enjoy!]"
-        }
-    ]
+    "36D4DFB5DA75B787": {
+        "[Coins will not be reduced]": "[Coins will not be reduced]\n080E0000 01F893C8 1A9FA033 7100003F\n040E0000 01F893D0 0B130108\n\n",
+        "[Mana will not be reduced]": "[Mana will not be reduced]\n080E0000 01F8EFA8 1A9FA033 7100003F\n040E0000 01F8EFB0 0B130108\n\n",
+        "[Mana will not be reduced during battle]": "[Mana will not be reduced during battle]\n010E0000 01DD16F6 0000001F\n010E0000 01DD3ED6 0000001F\n010E0000 01DD475A 0000001F\n010E0000 01DDA2EA 0000001F\n010E0000 01DDA83E 0000001F\n010E0000 01DEBCB6 0000001F\n010E0000 01DECEF6 0000001F\n\n",
+        "[Unlimited use of Magic during battle]": "[Unlimited use of Magic during battle]\n010E0000 01DD1712 0000001F\n010E0000 01DD405A 0000001F\n010E0000 01DD477E 0000001F\n010E0000 01DDA306 0000001F\n010E0000 01DDA85A 0000001F\n010E0000 01DEBCD2 0000001F\n010E0000 01DECCBA 0000001F\n\n",
+        "[Unlimited use of Scroll during battle]": "[Unlimited use of Scroll during battle]\n010E0000 01CFDB5E 0000001F\n\n",
+        "[Talent Points will not be reduced]": "[Talent Points will not be reduced]\n010E0000 02160436 0000001F\n\n",
+        "[Hero's EXP increasing rate (16x default)]": "[Hero's EXP increasing rate (16x default)]\n010E0000 01F967A5 00000012\n\n",
+        "[Squads' EXP increasing rate (4x default)]": "[Squads' EXP increasing rate (4x default)]\n010E0000 01DBA06D 00000009\n\n",
+        "[Reserve Army is kept 999]": "[Reserve Army is kept 999]\n040E0000 01F92D64 52807CE9\n040E0000 01F938E8 52807CE8\n\n",
+        "[Double running speed (ZR+ZL)]": "[Double running speed (ZR+ZL)]\n80000200\n580E0000 092FB0B0\n580E1000 00000000\n580E1000 00000110\n580E1000 00000288\n780E0000 0000018C\n640E0000 00000000 44960000\n20000000\n\n",
+        "[Created by Eiffel2018, enjoy!]": "[Created by Eiffel2018, enjoy!]\n20000000\n\n"
+    },
+    "attribution": {
+        "King's Bounty II ver 1.0.4 by Eiffel2018.txt": ""
+    }
 }

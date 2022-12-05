@@ -1,344 +1,98 @@
 {
-    "1718CB7C2F015246": [
-        {
-            "content": "[01# get coins to have max]\n04000000 00555D84 3B9AC9FF\n04000000 00555EB0 18FFF6A0\n\n",
-            "title": "[01# get coins to have max]"
-        },
-        {
-            "content": "[02# get token to have max]\n04000000 00555D84 3B9AC9FF\n04000000 00555FB8 18FFEE60\n\n",
-            "title": "[02# get token to have max]"
-        },
-        {
-            "content": "[03# get diamonds to have max]\n04000000 00555D84 3B9AC9FF\n04000000 00555DEC 18FFFCC0\n\n",
-            "title": "[03# get diamonds to have max]"
-        },
-        {
-            "content": "[04# inf item usage]\n04000000 0018C22C 510002E0\n\n",
-            "title": "[04# inf item usage]"
-        },
-        {
-            "content": "[inf item usage (OFF)]\n04000000 0018C22C 4B0002E0\n\n",
-            "title": "[inf item usage (OFF)]"
-        },
-        {
-            "content": "[05# Level up after fight]\n04000000 00550DCC 5284E1F8\n\n",
-            "title": "[05# Level up after fight]"
-        },
-        {
-            "content": "[Level up after fight (Off)]\n04000000 00550DCC 2A0003F8\n\n",
-            "title": "[Level up after fight (Off)]"
-        },
-        {
-            "content": "[06# Max Stamina]\n04000000 00550480 5284E1F5\n\n",
-            "title": "[06# Max Stamina]"
-        },
-        {
-            "content": "[Max Stamina (Off)]\n04000000 00550480 2A0003F5\n\n",
-            "title": "[Max Stamina (Off)]"
-        },
-        {
-            "content": "[07# Always Cosmic]\n04000000 0022F004 52800020\n04000000 0022F008 D503201F\n\n",
-            "title": "[07# Always Cosmic]"
-        },
-        {
-            "content": "[Always Cosmic off]\n04000000 0022F004 7100041F\n04000000 0022F008 1A9F17E0\n\n",
-            "title": "[Always Cosmic off]"
-        },
-        {
-            "content": "[zoom 1 45]\n80000040\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3EE66666\n20000000\n\n",
-            "title": "[zoom 1 45]"
-        },
-        {
-            "content": "[zoom 1 70]\n80000100\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3F333333\n20000000\n\n",
-            "title": "[zoom 1 70]"
-        },
-        {
-            "content": "[zoom 1 100]\n80000080\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3F800000\n20000000\n\n",
-            "title": "[zoom 1 100]"
-        },
-        {
-            "content": "[zoom 2 45]\n80000040\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3EE66666\n20000000\n\n",
-            "title": "[zoom 2 45]"
-        },
-        {
-            "content": "[zoom 2 70]\n80000100\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3F333333\n20000000\n\n",
-            "title": "[zoom 2 70]"
-        },
-        {
-            "content": "[zoom 2 100]\n80000080\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3F800000\n20000000\n\n",
-            "title": "[zoom 2 100]"
-        },
-        {
-            "content": "[08# Walk through Walls (Hold L)]\n04000000 003BFB60 D101C3FF\n04000000 003BFB64 F90013F9\n80000040\n04000000 003BFB60 52800020\n04000000 003BFB64 D65F03C0\n\n",
-            "title": "[08# Walk through Walls (Hold L)]"
-        },
-        {
-            "content": "[09# Can Craft]\n04000000 0033E8A0 52800020\n\n",
-            "title": "[09# Can Craft]"
-        },
-        {
-            "content": "[Can Craft (Off)]\n04000000 0033E8A0 2A1F03E0\n\n",
-            "title": "[Can Craft (Off)]"
-        },
-        {
-            "content": "[10# Unlock warpstones]\n04000000 001EB730 320003E0\n04000000 00496B4C D503201F\n\n",
-            "title": "[10# Unlock warpstones]"
-        },
-        {
-            "content": "[Unlock warpstones (off)]\n04000000 001EB730 2A1F03E0\n04000000 00496B4C 360004A0",
-            "title": "[Unlock warpstones (off)]"
-        }
-    ],
-    "30BB08C96945AF42": [
-        {
-            "content": "[get coins to have max]\n04000000 005BD884 3B9AC9FF\n04000000 005BD9AC 18FFF6C0\n\n",
-            "title": "[get coins to have max]"
-        },
-        {
-            "content": "[get token to have max]\n04000000 005BD884 3B9AC9FF\n04000000 005BDAB8 18FFEE60\n\n",
-            "title": "[get token to have max]"
-        },
-        {
-            "content": "[get diamonds to have max]\n04000000 005BD884 3B9AC9FF\n04000000 005BD8EC 18FFFCC0\n\n",
-            "title": "[get diamonds to have max]"
-        },
-        {
-            "content": "[inf item usage ON]\n04000000 0018B99C 510002E0\n\n",
-            "title": "[inf item usage ON]"
-        },
-        {
-            "content": "[inf item usage OFF]\n04000000 0018B99C 4B0002E0\n\n",
-            "title": "[inf item usage OFF]"
-        },
-        {
-            "content": "[05# Level up after fight]\n04000000 004A02B0 5284E1F7\n\n",
-            "title": "[05# Level up after fight]"
-        },
-        {
-            "content": "[Level up after fight (Off)]\n04000000 004A02B0 2A0003F7\n\n",
-            "title": "[Level up after fight (Off)]"
-        },
-        {
-            "content": "[06# Max Stamina]\n04000000 0049FB30 5284E1F5\n\n",
-            "title": "[06# Max Stamina]"
-        },
-        {
-            "content": "[Max Stamina (Off)]\n04000000 0049FB30 2A0003F5\n\n",
-            "title": "[Max Stamina (Off)]"
-        },
-        {
-            "content": "[07# Always Cosmic]\n04000000 00222358 52800020\n04000000 0022235C 7100041F\n04000000 00222360 1A9F17E0\n04000000 00222364 AA1F03E1\n04000000 00222368 942D82AE\n04000000 0022236C 92407C21\n04000000 00222370 A8C17BFD\n04000000 00222374 D65F03C0\n\n",
-            "title": "[07# Always Cosmic]"
-        },
-        {
-            "content": "[zoom 1 45]\n80000040\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3EE66666\n20000000\n\n",
-            "title": "[zoom 1 45]"
-        },
-        {
-            "content": "[zoom 1 70]\n80000100\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3F333333\n20000000\n\n",
-            "title": "[zoom 1 70]"
-        },
-        {
-            "content": "[zoom 1 100]\n80000080\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3F800000\n20000000\n\n",
-            "title": "[zoom 1 100]"
-        },
-        {
-            "content": "[zoom 2 45]\n80000040\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3EE66666\n20000000\n\n",
-            "title": "[zoom 2 45]"
-        },
-        {
-            "content": "[zoom 2 70]\n80000100\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3F333333\n20000000\n\n",
-            "title": "[zoom 2 70]"
-        },
-        {
-            "content": "[zoom 2 100]\n80000080\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3F800000\n20000000",
-            "title": "[zoom 2 100]"
-        }
-    ],
-    "681DFB4B169E3548": [
-        {
-            "content": "[Invulnerable ON]\n04000000 005306F0 52800000\n\n",
-            "title": "[Invulnerable ON]"
-        },
-        {
-            "content": "[Invulnerable OFF]\n04000000 005306F0 320003E0\n\n",
-            "title": "[Invulnerable OFF]"
-        },
-        {
-            "content": "[get coins to have max]\n04000000 0041B704 3B9AC9FF\n04000000 0041B82C 18FFF6C0\n\n",
-            "title": "[get coins to have max]"
-        },
-        {
-            "content": "[get token to have max]\n04000000 0041B704 3B9AC9FF\n04000000 0041B918 18FFEF60\n\n",
-            "title": "[get token to have max]"
-        },
-        {
-            "content": "[get diamonds to have max]\n04000000 0041B704 3B9AC9FF\n04000000 0041B76C 18FFFCC0\n\n",
-            "title": "[get diamonds to have max]"
-        },
-        {
-            "content": "[inf item usage ON]\n04000000 018663FC 510002E0\n\n",
-            "title": "[inf item usage ON]"
-        },
-        {
-            "content": "[inf item usage OFF]\n04000000 018663FC 4B0002E0\n\n",
-            "title": "[inf item usage OFF]"
-        },
-        {
-            "content": "[zoom 1 45]\n80000040\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3EE66666\n20000000\n\n",
-            "title": "[zoom 1 45]"
-        },
-        {
-            "content": "[zoom 1 70]\n80000100\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3F333333\n20000000\n\n",
-            "title": "[zoom 1 70]"
-        },
-        {
-            "content": "[zoom 1 100]\n80000080\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3F800000\n20000000\n\n",
-            "title": "[zoom 1 100]"
-        },
-        {
-            "content": "[zoom 2 45]\n80000040\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3EE66666\n20000000\n\n",
-            "title": "[zoom 2 45]"
-        },
-        {
-            "content": "[zoom 2 70]\n80000100\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3F333333\n20000000\n\n",
-            "title": "[zoom 2 70]"
-        },
-        {
-            "content": "[zoom 2 100]\n80000080\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3F800000\n20000000",
-            "title": "[zoom 2 100]"
-        }
-    ],
-    "96D466AB34670744": [
-        {
-            "content": "[01# get coins to have max]\n04000000 00291414 3B9AC9FF\n04000000 00291540 18FFF6A0\n\n",
-            "title": "[01# get coins to have max]"
-        },
-        {
-            "content": "[02# get token to have max]\n04000000 00291414 3B9AC9FF\n04000000 00291648 18FFEE60\n\n",
-            "title": "[02# get token to have max]"
-        },
-        {
-            "content": "[03# get diamonds to have max]\n04000000 00291414 3B9AC9FF\n04000000 0029147C 18FFFCC0\n\n",
-            "title": "[03# get diamonds to have max]"
-        },
-        {
-            "content": "[04# inf item usage]\n04000000 018A91EC 110006E0\n\n",
-            "title": "[04# inf item usage]"
-        },
-        {
-            "content": "[inf item usage (OFF)]\n04000000 018A91EC 4B0002E0\n\n",
-            "title": "[inf item usage (OFF)]"
-        },
-        {
-            "content": "[05# Level up after fight]\n04000000 0028C5D0 5284E1F7\n\n",
-            "title": "[05# Level up after fight]"
-        },
-        {
-            "content": "[Level up after fight (Off)]\n04000000 0028C5D0 2A0003F7\n\n",
-            "title": "[Level up after fight (Off)]"
-        },
-        {
-            "content": "[06# Max Stamina]\n04000000 0028BE00 5284E1F5\n\n",
-            "title": "[06# Max Stamina]"
-        },
-        {
-            "content": "[Max Stamina (Off)]\n04000000 0028BE00 2A0003F5\n\n",
-            "title": "[Max Stamina (Off)]"
-        },
-        {
-            "content": "[07# Always Cosmic]\n04000000 000DD3AC 528000A0\n04000000 000DD3B0 D503201F\n\n",
-            "title": "[07# Always Cosmic]"
-        },
-        {
-            "content": "[Always Cosmic off]\n04000000 000DD3AC 7100141F\n04000000 000DD3B0 1A9F17E0\n\n",
-            "title": "[Always Cosmic off]"
-        },
-        {
-            "content": "[08# Walk through Walls (Hold L)]\n04000000 001BE090 D101C3FF\n04000000 001BE094 F90013F9\n80000040\n04000000 001BE090 52800020\n04000000 001BE094 D65F03C0\n\n",
-            "title": "[08# Walk through Walls (Hold L)]"
-        },
-        {
-            "content": "[09# Can Craft]\n04000000 01954250 52800020\n\n",
-            "title": "[09# Can Craft]"
-        },
-        {
-            "content": "[Can Craft (Off)]\n04000000 01954250 2A1F03E0\n\n",
-            "title": "[Can Craft (Off)]"
-        },
-        {
-            "content": "[10# Unlock warpstones]\n04000000 00279400 320003E0\n04000000 0028870C D503201F\n\n",
-            "title": "[10# Unlock warpstones]"
-        },
-        {
-            "content": "[Unlock warpstones (off)]\n04000000 00279400 2A1F03E0\n04000000 0028870C 360004A0",
-            "title": "[Unlock warpstones (off)]"
-        }
-    ],
-    "EDA96E07F0B5074A": [
-        {
-            "content": "[01# get coins to have max]\n04000000 0044B324 3B9AC9FF\n04000000 0044B450 18FFF6A0\n\n",
-            "title": "[01# get coins to have max]"
-        },
-        {
-            "content": "[02# get token to have max]\n04000000 0044B324 3B9AC9FF\n04000000 0044B558 18FFEE60\n\n",
-            "title": "[02# get token to have max]"
-        },
-        {
-            "content": "[03# get diamonds to have max]\n04000000 0044B324 3B9AC9FF\n04000000 0044B38C 18FFFCC0\n\n",
-            "title": "[03# get diamonds to have max]"
-        },
-        {
-            "content": "[04# inf item usage]\n04000000 0018DADC 110006E0\n\n",
-            "title": "[04# inf item usage]"
-        },
-        {
-            "content": "[inf item usage (OFF)]\n04000000 0018DADC 4B0002E0\n\n",
-            "title": "[inf item usage (OFF)]"
-        },
-        {
-            "content": "[05# Level up after fight]\n04000000 004464E0 5284E1F7\n\n",
-            "title": "[05# Level up after fight]"
-        },
-        {
-            "content": "[Level up after fight (Off)]\n04000000 004464E0 2A0003F7\n\n",
-            "title": "[Level up after fight (Off)]"
-        },
-        {
-            "content": "[06# Max Stamina]\n04000000 00445D10 5284E1F5\n\n",
-            "title": "[06# Max Stamina]"
-        },
-        {
-            "content": "[Max Stamina (Off)]\n04000000 00445D10 2A0003F5\n\n",
-            "title": "[Max Stamina (Off)]"
-        },
-        {
-            "content": "[07# Always Cosmic]\n04000000 0024F07C 528000A0\n04000000 0024F080 D503201F\n\n",
-            "title": "[07# Always Cosmic]"
-        },
-        {
-            "content": "[Always Cosmic off]\n04000000 0024F07C 7100141F\n04000000 0024F080 1A9F17E0\n\n",
-            "title": "[Always Cosmic off]"
-        },
-        {
-            "content": "[08# Walk through Walls (Hold L)]\n04000000 003A4840 D101C3FF\n04000000 003A4844 F90013F9\n80000040\n04000000 003A4840 52800020\n04000000 003A4844 D65F03C0\n\n",
-            "title": "[08# Walk through Walls (Hold L)]"
-        },
-        {
-            "content": "[09# Can Craft]\n04000000 003E16C0 52800020\n\n",
-            "title": "[09# Can Craft]"
-        },
-        {
-            "content": "[Can Craft (Off)]\n04000000 003E16C0 2A1F03E0\n\n",
-            "title": "[Can Craft (Off)]"
-        },
-        {
-            "content": "[10# Unlock warpstones]\n04000000 001EE9F0 320003E0\n04000000 0044270C D503201F\n\n",
-            "title": "[10# Unlock warpstones]"
-        },
-        {
-            "content": "[Unlock warpstones (off)]\n04000000 001EE9F0 2A1F03E0\n04000000 0044270C 360004A0",
-            "title": "[Unlock warpstones (off)]"
-        }
-    ]
+    "1718CB7C2F015246": {
+        "[01# get coins to have max]": "[01# get coins to have max]\n04000000 00555D84 3B9AC9FF\n04000000 00555EB0 18FFF6A0\n\n",
+        "[02# get token to have max]": "[02# get token to have max]\n04000000 00555D84 3B9AC9FF\n04000000 00555FB8 18FFEE60\n\n",
+        "[03# get diamonds to have max]": "[03# get diamonds to have max]\n04000000 00555D84 3B9AC9FF\n04000000 00555DEC 18FFFCC0\n\n",
+        "[04# inf item usage]": "[04# inf item usage]\n04000000 0018C22C 510002E0\n\n",
+        "[inf item usage (OFF)]": "[inf item usage (OFF)]\n04000000 0018C22C 4B0002E0\n\n",
+        "[05# Level up after fight]": "[05# Level up after fight]\n04000000 00550DCC 5284E1F8\n\n",
+        "[Level up after fight (Off)]": "[Level up after fight (Off)]\n04000000 00550DCC 2A0003F8\n\n",
+        "[06# Max Stamina]": "[06# Max Stamina]\n04000000 00550480 5284E1F5\n\n",
+        "[Max Stamina (Off)]": "[Max Stamina (Off)]\n04000000 00550480 2A0003F5\n\n",
+        "[07# Always Cosmic]": "[07# Always Cosmic]\n04000000 0022F004 52800020\n04000000 0022F008 D503201F\n\n",
+        "[Always Cosmic off]": "[Always Cosmic off]\n04000000 0022F004 7100041F\n04000000 0022F008 1A9F17E0\n\n",
+        "[zoom 1 45]": "[zoom 1 45]\n80000040\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3EE66666\n20000000\n\n",
+        "[zoom 1 70]": "[zoom 1 70]\n80000100\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3F333333\n20000000\n\n",
+        "[zoom 1 100]": "[zoom 1 100]\n80000080\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3F800000\n20000000\n\n",
+        "[zoom 2 45]": "[zoom 2 45]\n80000040\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3EE66666\n20000000\n\n",
+        "[zoom 2 70]": "[zoom 2 70]\n80000100\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3F333333\n20000000\n\n",
+        "[zoom 2 100]": "[zoom 2 100]\n80000080\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3F800000\n20000000\n\n",
+        "[08# Walk through Walls (Hold L)]": "[08# Walk through Walls (Hold L)]\n04000000 003BFB60 D101C3FF\n04000000 003BFB64 F90013F9\n80000040\n04000000 003BFB60 52800020\n04000000 003BFB64 D65F03C0\n\n",
+        "[09# Can Craft]": "[09# Can Craft]\n04000000 0033E8A0 52800020\n\n",
+        "[Can Craft (Off)]": "[Can Craft (Off)]\n04000000 0033E8A0 2A1F03E0\n\n",
+        "[10# Unlock warpstones]": "[10# Unlock warpstones]\n04000000 001EB730 320003E0\n04000000 00496B4C D503201F\n\n",
+        "[Unlock warpstones (off)]": "[Unlock warpstones (off)]\n04000000 001EB730 2A1F03E0\n04000000 00496B4C 360004A0\n\n"
+    },
+    "30BB08C96945AF42": {
+        "[get coins to have max]": "[get coins to have max]\n04000000 005BD884 3B9AC9FF\n04000000 005BD9AC 18FFF6C0\n\n",
+        "[get token to have max]": "[get token to have max]\n04000000 005BD884 3B9AC9FF\n04000000 005BDAB8 18FFEE60\n\n",
+        "[get diamonds to have max]": "[get diamonds to have max]\n04000000 005BD884 3B9AC9FF\n04000000 005BD8EC 18FFFCC0\n\n",
+        "[inf item usage ON]": "[inf item usage ON]\n04000000 0018B99C 510002E0\n\n",
+        "[inf item usage OFF]": "[inf item usage OFF]\n04000000 0018B99C 4B0002E0\n\n",
+        "[05# Level up after fight]": "[05# Level up after fight]\n04000000 004A02B0 5284E1F7\n\n",
+        "[Level up after fight (Off)]": "[Level up after fight (Off)]\n04000000 004A02B0 2A0003F7\n\n",
+        "[06# Max Stamina]": "[06# Max Stamina]\n04000000 0049FB30 5284E1F5\n\n",
+        "[Max Stamina (Off)]": "[Max Stamina (Off)]\n04000000 0049FB30 2A0003F5\n\n",
+        "[07# Always Cosmic]": "[07# Always Cosmic]\n04000000 00222358 52800020\n04000000 0022235C 7100041F\n04000000 00222360 1A9F17E0\n04000000 00222364 AA1F03E1\n04000000 00222368 942D82AE\n04000000 0022236C 92407C21\n04000000 00222370 A8C17BFD\n04000000 00222374 D65F03C0\n\n",
+        "[zoom 1 45]": "[zoom 1 45]\n80000040\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3EE66666\n20000000\n\n",
+        "[zoom 1 70]": "[zoom 1 70]\n80000100\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3F333333\n20000000\n\n",
+        "[zoom 1 100]": "[zoom 1 100]\n80000080\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3F800000\n20000000\n\n",
+        "[zoom 2 45]": "[zoom 2 45]\n80000040\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3EE66666\n20000000\n\n",
+        "[zoom 2 70]": "[zoom 2 70]\n80000100\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3F333333\n20000000\n\n",
+        "[zoom 2 100]": "[zoom 2 100]\n80000080\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3F800000\n20000000\n\n"
+    },
+    "681DFB4B169E3548": {
+        "[Invulnerable ON]": "[Invulnerable ON]\n04000000 005306F0 52800000\n\n",
+        "[Invulnerable OFF]": "[Invulnerable OFF]\n04000000 005306F0 320003E0\n\n",
+        "[get coins to have max]": "[get coins to have max]\n04000000 0041B704 3B9AC9FF\n04000000 0041B82C 18FFF6C0\n\n",
+        "[get token to have max]": "[get token to have max]\n04000000 0041B704 3B9AC9FF\n04000000 0041B918 18FFEF60\n\n",
+        "[get diamonds to have max]": "[get diamonds to have max]\n04000000 0041B704 3B9AC9FF\n04000000 0041B76C 18FFFCC0\n\n",
+        "[inf item usage ON]": "[inf item usage ON]\n04000000 018663FC 510002E0\n\n",
+        "[inf item usage OFF]": "[inf item usage OFF]\n04000000 018663FC 4B0002E0\n\n",
+        "[zoom 1 45]": "[zoom 1 45]\n80000040\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3EE66666\n20000000\n\n",
+        "[zoom 1 70]": "[zoom 1 70]\n80000100\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3F333333\n20000000\n\n",
+        "[zoom 1 100]": "[zoom 1 100]\n80000080\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 00003260\n640F0000 00000000 3F800000\n20000000\n\n",
+        "[zoom 2 45]": "[zoom 2 45]\n80000040\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3EE66666\n20000000\n\n",
+        "[zoom 2 70]": "[zoom 2 70]\n80000100\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3F333333\n20000000\n\n",
+        "[zoom 2 100]": "[zoom 2 100]\n80000080\n580F0000 049D3938\n580F1000 00000008\n580F1000 00000028\n780F0000 000018E0\n640F0000 00000000 3F800000\n20000000\n\n"
+    },
+    "96D466AB34670744": {
+        "[01# get coins to have max]": "[01# get coins to have max]\n04000000 00291414 3B9AC9FF\n04000000 00291540 18FFF6A0\n\n",
+        "[02# get token to have max]": "[02# get token to have max]\n04000000 00291414 3B9AC9FF\n04000000 00291648 18FFEE60\n\n",
+        "[03# get diamonds to have max]": "[03# get diamonds to have max]\n04000000 00291414 3B9AC9FF\n04000000 0029147C 18FFFCC0\n\n",
+        "[04# inf item usage]": "[04# inf item usage]\n04000000 018A91EC 110006E0\n\n",
+        "[inf item usage (OFF)]": "[inf item usage (OFF)]\n04000000 018A91EC 4B0002E0\n\n",
+        "[05# Level up after fight]": "[05# Level up after fight]\n04000000 0028C5D0 5284E1F7\n\n",
+        "[Level up after fight (Off)]": "[Level up after fight (Off)]\n04000000 0028C5D0 2A0003F7\n\n",
+        "[06# Max Stamina]": "[06# Max Stamina]\n04000000 0028BE00 5284E1F5\n\n",
+        "[Max Stamina (Off)]": "[Max Stamina (Off)]\n04000000 0028BE00 2A0003F5\n\n",
+        "[07# Always Cosmic]": "[07# Always Cosmic]\n04000000 000DD3AC 528000A0\n04000000 000DD3B0 D503201F\n\n",
+        "[Always Cosmic off]": "[Always Cosmic off]\n04000000 000DD3AC 7100141F\n04000000 000DD3B0 1A9F17E0\n\n",
+        "[08# Walk through Walls (Hold L)]": "[08# Walk through Walls (Hold L)]\n04000000 001BE090 D101C3FF\n04000000 001BE094 F90013F9\n80000040\n04000000 001BE090 52800020\n04000000 001BE094 D65F03C0\n\n",
+        "[09# Can Craft]": "[09# Can Craft]\n04000000 01954250 52800020\n\n",
+        "[Can Craft (Off)]": "[Can Craft (Off)]\n04000000 01954250 2A1F03E0\n\n",
+        "[10# Unlock warpstones]": "[10# Unlock warpstones]\n04000000 00279400 320003E0\n04000000 0028870C D503201F\n\n",
+        "[Unlock warpstones (off)]": "[Unlock warpstones (off)]\n04000000 00279400 2A1F03E0\n04000000 0028870C 360004A0\n\n"
+    },
+    "EDA96E07F0B5074A": {
+        "[01# get coins to have max]": "[01# get coins to have max]\n04000000 0044B324 3B9AC9FF\n04000000 0044B450 18FFF6A0\n\n",
+        "[02# get token to have max]": "[02# get token to have max]\n04000000 0044B324 3B9AC9FF\n04000000 0044B558 18FFEE60\n\n",
+        "[03# get diamonds to have max]": "[03# get diamonds to have max]\n04000000 0044B324 3B9AC9FF\n04000000 0044B38C 18FFFCC0\n\n",
+        "[04# inf item usage]": "[04# inf item usage]\n04000000 0018DADC 110006E0\n\n",
+        "[inf item usage (OFF)]": "[inf item usage (OFF)]\n04000000 0018DADC 4B0002E0\n\n",
+        "[05# Level up after fight]": "[05# Level up after fight]\n04000000 004464E0 5284E1F7\n\n",
+        "[Level up after fight (Off)]": "[Level up after fight (Off)]\n04000000 004464E0 2A0003F7\n\n",
+        "[06# Max Stamina]": "[06# Max Stamina]\n04000000 00445D10 5284E1F5\n\n",
+        "[Max Stamina (Off)]": "[Max Stamina (Off)]\n04000000 00445D10 2A0003F5\n\n",
+        "[07# Always Cosmic]": "[07# Always Cosmic]\n04000000 0024F07C 528000A0\n04000000 0024F080 D503201F\n\n",
+        "[Always Cosmic off]": "[Always Cosmic off]\n04000000 0024F07C 7100141F\n04000000 0024F080 1A9F17E0\n\n",
+        "[08# Walk through Walls (Hold L)]": "[08# Walk through Walls (Hold L)]\n04000000 003A4840 D101C3FF\n04000000 003A4844 F90013F9\n80000040\n04000000 003A4840 52800020\n04000000 003A4844 D65F03C0\n\n",
+        "[09# Can Craft]": "[09# Can Craft]\n04000000 003E16C0 52800020\n\n",
+        "[Can Craft (Off)]": "[Can Craft (Off)]\n04000000 003E16C0 2A1F03E0\n\n",
+        "[10# Unlock warpstones]": "[10# Unlock warpstones]\n04000000 001EE9F0 320003E0\n04000000 0044270C D503201F\n\n",
+        "[Unlock warpstones (off)]": "[Unlock warpstones (off)]\n04000000 001EE9F0 2A1F03E0\n04000000 0044270C 360004A0\n\n"
+    },
+    "attribution": {
+        "Nexomon Extinction Ver 1.0.1 and 1.0.2 and 1.0.3 by DaBlackDeath and patjenova and TomSwitcht ver 1.0.5 by Patjenova ver 1.0.6 by patjenova.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

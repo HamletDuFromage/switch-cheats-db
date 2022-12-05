@@ -1,26 +1,15 @@
 {
-    "1C7C2B75926D0947": [
-        {
-            "content": "[Moon Jump]\n80000001\n580F0000 02749250\n580F1000 000000B8\n580F1000 00000000\n580F1000 000001F8\n780F0000 00000098\n640F0000 00000000 3E800000\n20000000",
-            "title": "[Moon Jump]"
-        }
-    ],
-    "3EE273CEB6829739": [
-        {
-            "content": "[Invincible]\n040F0000 01BF0B10 00000087\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf SHIELD]\n040F0000 01BF0B08 00000003\n\n",
-            "title": "[Inf SHIELD]"
-        },
-        {
-            "content": "[Inf Life]\n040F0000 01BF0EA4 00000008\n\n",
-            "title": "[Inf Life]"
-        },
-        {
-            "content": "[Inf CHARGE (Hold ZL)]\n80000100\n040F0000 01BF0ED8 0000044C\n040F0000 01BF0EE0 000000FF\n20000000",
-            "title": "[Inf CHARGE (Hold ZL)]"
-        }
-    ]
+    "1C7C2B75926D0947": {
+        "[Moon Jump]": "[Moon Jump]\n80000001\n580F0000 02749250\n580F1000 000000B8\n580F1000 00000000\n580F1000 000001F8\n780F0000 00000098\n640F0000 00000000 3E800000\n20000000\n\n"
+    },
+    "3EE273CEB6829739": {
+        "[Invincible]": "[Invincible]\n040F0000 01BF0B10 00000087\n\n",
+        "[Inf SHIELD]": "[Inf SHIELD]\n040F0000 01BF0B08 00000003\n\n",
+        "[Inf Life]": "[Inf Life]\n040F0000 01BF0EA4 00000008\n\n",
+        "[Inf CHARGE (Hold ZL)]": "[Inf CHARGE (Hold ZL)]\n80000100\n040F0000 01BF0ED8 0000044C\n040F0000 01BF0EE0 000000FF\n20000000\n\n"
+    },
+    "attribution": {
+        "Armed 7 DX ver 1.0.0 by ZiT.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n",
+        "Feathery Ears ver 1.0.0 by ZiT.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
+    }
 }

@@ -1,8 +1,8 @@
 {
-    "4427C1B4902C4449": [
-        {
-            "content": "[shield]\n580F0000 0302F940\n580F1000 00000778\n780F0000 00000008\n640F0000 00000000 00000064",
-            "title": "[shield]"
-        }
-    ]
+    "4427C1B4902C4449": {
+        "[shield]": "[shield]\n580F0000 0302F940\n580F1000 00000778\n780F0000 00000008\n640F0000 00000000 00000064\n\n"
+    },
+    "attribution": {
+        "Flashback by TomSwitch.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

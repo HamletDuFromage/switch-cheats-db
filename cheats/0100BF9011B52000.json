@@ -1,8 +1,8 @@
 {
-    "7B64DBA6FFF3B5DD": [
-        {
-            "content": "[99999 Inf Mojo @made by Matias3ds for gbatemp]\n580F0000 012F8338\n580F1000 00001088\n580F1000 00001A18\n580F1000 00000008\n780F0000 00000010\n640F0000 00000000 0001869F\n\n",
-            "title": "[99999 Inf Mojo @made by Matias3ds for gbatemp]"
-        }
-    ]
+    "7B64DBA6FFF3B5DD": {
+        "[99999 Inf Mojo @made by Matias3ds for gbatemp]": "[99999 Inf Mojo @made by Matias3ds for gbatemp]\n580F0000 012F8338\n580F1000 00001088\n580F1000 00001A18\n580F1000 00000008\n780F0000 00000010\n640F0000 00000000 0001869F\n\n"
+    },
+    "attribution": {
+        "Just Dance 2021 ver 322043.561500  by Matias3ds for gbatemp.txt": "HEAP+01E7DA74\n\nHEAP+0X01E7D474 ' HEAP+0X030009000\n\nHEAP+0X020516F4\n\nHEAP+0X020516F4/ HEAP+0X03009000\n\nHEAP+0X02050834\n\nHEAP+0X02050834 / 0X030090000\n\n\nHEAP+01E7DA74\n\nHEAP+020516F4\n\nHEAP+02050834\n\nSegunda parte\n\nHEAP+0X01DF64B4\n\nHEAP+01DF64B4\n\n\n\nHEAP+01D52824\nHEAP+021B310C\n\nJUST DANCE2021\n\nHEAP+890F5A80\n\n\n\n\n\\"
+    }
 }

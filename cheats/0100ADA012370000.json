@@ -1,20 +1,11 @@
 {
-    "F139EC48132E8B34": [
-        {
-            "content": "[Inf Life]\n580F0000 005F0760\n580F1000 00000010\n780F0000 000001DA\n610F0000 00000000 00000028\n\n",
-            "title": "[Inf Life]"
-        },
-        {
-            "content": "[Inf MP]\n580F0000 005F0760\n780F0000 00000054\n620F0000 00000000 00000064\n\n",
-            "title": "[Inf MP]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 005F0760\n580F1000 00000010\n780F0000 000001DF\n610F0000 00000000 000000FF\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 005F0760\n580F1000 00000010\n780F0000 0000004C\n640F0000 00000000 FFFFC200\n20000000",
-            "title": "[Moon Jump]"
-        }
-    ]
+    "F139EC48132E8B34": {
+        "[Inf Life]": "[Inf Life]\n580F0000 005F0760\n580F1000 00000010\n780F0000 000001DA\n610F0000 00000000 00000028\n\n",
+        "[Inf MP]": "[Inf MP]\n580F0000 005F0760\n780F0000 00000054\n620F0000 00000000 00000064\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 005F0760\n580F1000 00000010\n780F0000 000001DF\n610F0000 00000000 000000FF\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 005F0760\n580F1000 00000010\n780F0000 0000004C\n640F0000 00000000 FFFFC200\n20000000\n\n"
+    },
+    "attribution": {
+        "Shantae Risky's Revenge - Director's Cutver 1.0.0 by ZiT.txt": ""
+    }
 }

@@ -1,294 +1,72 @@
 {
-    "CD23D5CFB75D7E94": [
-        {
-            "content": "[EN# 9999 Red pikmin in onion]\n041F0000 341DC00C 0000270F\n041F0000 341DC008 00000000\n041F0000 341DC004 00000000\n\n",
-            "title": "[EN# 9999 Red pikmin in onion]"
-        },
-        {
-            "content": "[EN# 9999 Rock pikmin in onion]\n041F0000 341DC03C 0000270F\n041F0000 341DC038 00000000\n041F0000 341DC034 00000000\n\n",
-            "title": "[EN# 9999 Rock pikmin in onion]"
-        },
-        {
-            "content": "[EN# 9999 Yellow pikmin in onion]\n041F0000 341DC01C 0000270F\n041F0000 341DC018 00000000\n041F0000 341DC014 00000000\n\n",
-            "title": "[EN# 9999 Yellow pikmin in onion]"
-        },
-        {
-            "content": "[EN# 9999 Blue pikmin in onion]\n041F0000 341DC000 0000270F\n041F0000 341DBFFC 00000000\n041F0000 341DBFF8 00000000\n\n",
-            "title": "[EN# 9999 Blue pikmin in onion]"
-        },
-        {
-            "content": "[EN# 9999 Pink pikmin in onion]\n041F0000 341DC02C 0000270F\n041F0000 341DC028 00000000\n041F0000 341DC024 00000000\n\n",
-            "title": "[EN# 9999 Pink pikmin in onion]"
-        },
-        {
-            "content": "[EN# Reset Timer (L stick in)]\n80000010\n041F0000 3460A948 00000000\n20000000\n\n",
-            "title": "[EN# Reset Timer (L stick in)]"
-        },
-        {
-            "content": "[EN# Instant End Day (R Stick in)]\n80000020\n041F0000 3460A948 3F666666\n20000000\n\n",
-            "title": "[EN# Instant End Day (R Stick in)]"
-        },
-        {
-            "content": "[EN# Ultra-Spicy Spray]\n041F0000 341DC4B0 00000063\n\n",
-            "title": "[EN# Ultra-Spicy Spray]"
-        },
-        {
-            "content": "[DE# 9999 Red pikmin in onion]\n041F0000 340E400C 0000270F\n041F0000 340E4008 00000000\n041F0000 340E4004 00000000\n\n",
-            "title": "[DE# 9999 Red pikmin in onion]"
-        },
-        {
-            "content": "[DE# 9999 Rock pikmin in onion]\n041F0000 340E403C 0000270F\n041F0000 340E4038 00000000\n041F0000 340E4034 00000000\n\n",
-            "title": "[DE# 9999 Rock pikmin in onion]"
-        },
-        {
-            "content": "[DE# 9999 Yellow pikmin in onion]\n041F0000 340E401C 0000270F\n041F0000 340E4018 00000000\n041F0000 340E4014 00000000\n\n",
-            "title": "[DE# 9999 Yellow pikmin in onion]"
-        },
-        {
-            "content": "[DE# 9999 Blue pikmin in onion]\n041F0000 340E4000 0000270F\n041F0000 340E3FFC 00000000\n041F0000 340E3FF8 00000000\n\n",
-            "title": "[DE# 9999 Blue pikmin in onion]"
-        },
-        {
-            "content": "[DE# 9999 Pink pikmin in onion]\n041F0000 340E402C 0000270F\n041F0000 340E4028 00000000\n041F0000 340E4024 00000000\n\n",
-            "title": "[DE# 9999 Pink pikmin in onion]"
-        },
-        {
-            "content": "[DE# Reset Timer (L stick in)]\n80000010\n041F0000 34512948 00000000\n20000000\n\n",
-            "title": "[DE# Reset Timer (L stick in)]"
-        },
-        {
-            "content": "[DE# Instant End Day (R Stick in)]\n80000020\n041F0000 34512948 3F666666\n20000000\n\n",
-            "title": "[DE# Instant End Day (R Stick in)]"
-        },
-        {
-            "content": "[DE# Ultra-Spicy Spray]\n041F0000 340E44B0 00000063\n\n",
-            "title": "[DE# Ultra-Spicy Spray]"
-        },
-        {
-            "content": "[FR# 9999 Red pikmin in onion]\n041F0000 341EE00C 0000270F\n041F0000 341EE008 00000000\n041F0000 341EE004 00000000\n\n",
-            "title": "[FR# 9999 Red pikmin in onion]"
-        },
-        {
-            "content": "[FR# 9999 Rock pikmin in onion]\n041F0000 341EE03C 0000270F\n041F0000 341EE038 00000000\n041F0000 341EE034 00000000\n\n",
-            "title": "[FR# 9999 Rock pikmin in onion]"
-        },
-        {
-            "content": "[FR# 9999 Yellow pikmin in onion]\n041F0000 341EE01C 0000270F\n041F0000 341EE018 00000000\n041F0000 341EE014 00000000\n\n",
-            "title": "[FR# 9999 Yellow pikmin in onion]"
-        },
-        {
-            "content": "[FR# 9999 Blue pikmin in onion]\n041F0000 341EE000 0000270F\n041F0000 341EDFFC 00000000\n041F0000 341EDFF8 00000000\n\n",
-            "title": "[FR# 9999 Blue pikmin in onion]"
-        },
-        {
-            "content": "[FR# 9999 Pink pikmin in onion]\n041F0000 341EE02C 0000270F\n041F0000 341EE028 00000000\n041F0000 341EE024 00000000\n\n",
-            "title": "[FR# 9999 Pink pikmin in onion]"
-        },
-        {
-            "content": "[FR# Reset Timer (L stick in)]\n80000010\n041F0000 3461C948 00000000\n20000000\n\n",
-            "title": "[FR# Reset Timer (L stick in)]"
-        },
-        {
-            "content": "[FR# Instant End Day (R Stick in)]\n80000020\n041F0000 3461C948 3F666666\n20000000\n\n",
-            "title": "[FR# Instant End Day (R Stick in)]"
-        },
-        {
-            "content": "[FR# Ultra-Spicy Spray]\n041F0000 341EE4B0 00000063\n\n",
-            "title": "[FR# Ultra-Spicy Spray]"
-        },
-        {
-            "content": "[IT+ES# 9999 Red pikmin in onion]\n041F0000 341DE00C 0000270F\n041F0000 341DE008 00000000\n041F0000 341DE004 00000000\n\n",
-            "title": "[IT+ES# 9999 Red pikmin in onion]"
-        },
-        {
-            "content": "[IT+ES# 9999 Rock pikmin in onion]\n041F0000 341DE03C 0000270F\n041F0000 341DE038 00000000\n041F0000 341DE034 00000000\n\n",
-            "title": "[IT+ES# 9999 Rock pikmin in onion]"
-        },
-        {
-            "content": "[IT+ES# 9999 Yellow pikmin in onion]\n041F0000 341DE01C 0000270F\n041F0000 341DE018 00000000\n041F0000 341DE014 00000000\n\n",
-            "title": "[IT+ES# 9999 Yellow pikmin in onion]"
-        },
-        {
-            "content": "[IT+ES# 9999 Blue pikmin in onion]\n041F0000 341DE000 0000270F\n041F0000 341DDFFC 00000000\n041F0000 341DDFF8 00000000\n\n",
-            "title": "[IT+ES# 9999 Blue pikmin in onion]"
-        },
-        {
-            "content": "[IT+ES# 9999 Pink pikmin in onion]\n041F0000 341DE02C 0000270F\n041F0000 341DE028 00000000\n041F0000 341DE024 00000000\n\n",
-            "title": "[IT+ES# 9999 Pink pikmin in onion]"
-        },
-        {
-            "content": "[IT+ES# Reset Timer (L stick in)]\n80000010\n041F0000 3460C948 00000000\n20000000\n\n",
-            "title": "[IT+ES# Reset Timer (L stick in)]"
-        },
-        {
-            "content": "[IT+ES# Instant End Day (R Stick in)]\n80000020\n041F0000 3460C948 3F666666\n20000000\n\n",
-            "title": "[IT+ES# Instant End Day (R Stick in)]"
-        },
-        {
-            "content": "[IT+ES# Ultra-Spicy Spray]\n041F0000 341DE4B0 00000063\n\n",
-            "title": "[IT+ES# Ultra-Spicy Spray]"
-        },
-        {
-            "content": "[JP# 9999 pikmin in onion]\n041F0000 3494400C 0000270F\n041F0000 34944008 00000000\n041F0000 34944004 00000000\n041F0000 3494403C 0000270F\n041F0000 34944038 00000000\n041F0000 34944034 00000000\n041F0000 34944024 0000270F\n041F0000 34944020 00000000\n041F0000 3494401C 00000000\n041F0000 34944000 0000270F\n041F0000 34943FFC 00000000\n041F0000 34943FF8 00000000\n041F0000 34944030 0000270F\n041F0000 34944028 00000000\n041F0000 3494402C 00000000\n\n",
-            "title": "[JP# 9999 pikmin in onion]"
-        },
-        {
-            "content": "[JP# Reset Timer (L stick in)]\n80000010\n041F0000 34D72948 00000000\n20000000\n\n",
-            "title": "[JP# Reset Timer (L stick in)]"
-        },
-        {
-            "content": "[JP# Instant End Day (R Stick in)]\n80000020\n041F0000 34D72948 3F666666\n20000000\n\n",
-            "title": "[JP# Instant End Day (R Stick in)]"
-        },
-        {
-            "content": "[JP# Ultra-Spicy Spray]\n041F0000 349444B0 00000063\n\n",
-            "title": "[JP# Ultra-Spicy Spray]"
-        },
-        {
-            "content": "[EN+LAT# 9999 pikmin in onion]\n041F0000 341DC00C 0000270F\n041F0000 341DC008 00000000\n041F0000 341DC004 00000000\n041F0000 341DC03C 0000270F\n041F0000 341DC038 00000000\n041F0000 341DC034 00000000\n041F0000 341DC024 0000270F\n041F0000 341DC020 00000000\n041F0000 341DC01C 00000000\n041F0000 341DC000 0000270F\n041F0000 341DBFFC 00000000\n041F0000 341DBFF8 00000000\n041F0000 341DC030 0000270F\n041F0000 341DC02C 00000000\n041F0000 341DC028 00000000\n\n",
-            "title": "[EN+LAT# 9999 pikmin in onion]"
-        },
-        {
-            "content": "[EN+LAT# Reset Timer (L stick in)]\n80000010\n041F0000 3460A948 00000000\n20000000\n\n",
-            "title": "[EN+LAT# Reset Timer (L stick in)]"
-        },
-        {
-            "content": "[EN+LAT# Instant End Day (R Stick in)]\n80000020\n041F0000 3460A948 3F666666\n20000000\n\n",
-            "title": "[EN+LAT# Instant End Day (R Stick in)]"
-        },
-        {
-            "content": "[EN+LAT# Ultra-Spicy Spray]\n041F0000 341DC4B0 00000063\n\n",
-            "title": "[EN+LAT# Ultra-Spicy Spray]"
-        },
-        {
-            "content": "[DE# 9999 pikmin in onion]\n041F0000 340E400C 0000270F\n041F0000 340E4008 00000000\n041F0000 340E4004 00000000\n041F0000 340E403C 0000270F\n041F0000 340E4038 00000000\n041F0000 340E4034 00000000\n041F0000 340E4024 0000270F\n041F0000 340E4020 00000000\n041F0000 340E401C 00000000\n041F0000 340E4000 0000270F\n041F0000 340E3FFC 00000000\n041F0000 340E3FF8 00000000\n041F0000 340E4030 0000270F\n041F0000 340E402C 00000000\n041F0000 340E4028 00000000\n\n",
-            "title": "[DE# 9999 pikmin in onion]"
-        },
-        {
-            "content": "[DE# Reset Timer (L stick in)]\n80000010\n041F0000 34512948 00000000\n20000000\n\n",
-            "title": "[DE# Reset Timer (L stick in)]"
-        },
-        {
-            "content": "[DE# Instant End Day (R Stick in)]\n80000020\n041F0000 34512948 3F666666\n20000000\n\n",
-            "title": "[DE# Instant End Day (R Stick in)]"
-        },
-        {
-            "content": "[DE# Ultra-Spicy Spray]\n041F0000 340E44B0 00000063\n\n",
-            "title": "[DE# Ultra-Spicy Spray]"
-        },
-        {
-            "content": "[FR# 9999 pikmin in onion]\n041F0000 341EE00C 0000270F\n041F0000 341EE008 00000000\n041F0000 341EE004 00000000\n041F0000 341EE03C 0000270F\n041F0000 341EE038 00000000\n041F0000 341EE034 00000000\n041F0000 341EE024 0000270F\n041F0000 341EE020 00000000\n041F0000 341EE01C 00000000\n041F0000 341EE000 0000270F\n041F0000 341EDFFC 00000000\n041F0000 341EDFF8 00000000\n041F0000 341EE030 0000270F\n041F0000 341EE02C 00000000\n041F0000 341EE028 00000000\n\n",
-            "title": "[FR# 9999 pikmin in onion]"
-        },
-        {
-            "content": "[FR# Reset Timer (L stick in)]\n80000010\n041F0000 3461C948 00000000\n20000000\n\n",
-            "title": "[FR# Reset Timer (L stick in)]"
-        },
-        {
-            "content": "[FR# Instant End Day (R Stick in)]\n80000020\n041F0000 3461C948 3F666666\n20000000\n\n",
-            "title": "[FR# Instant End Day (R Stick in)]"
-        },
-        {
-            "content": "[FR# Ultra-Spicy Spray]\n041F0000 341EE4B0 00000063\n\n",
-            "title": "[FR# Ultra-Spicy Spray]"
-        },
-        {
-            "content": "[IT+ES# 9999 pikmin in onion]\n041F0000 341DE00C 0000270F\n041F0000 341DE008 00000000\n041F0000 341DE004 00000000\n041F0000 341DE03C 0000270F\n041F0000 341DE038 00000000\n041F0000 341DE034 00000000\n041F0000 341DE024 0000270F\n041F0000 341DE020 00000000\n041F0000 341DE01C 00000000\n041F0000 341DE000 0000270F\n041F0000 341DDFFC 00000000\n041F0000 341DDFF8 00000000\n041F0000 341DE030 0000270F\n041F0000 341DE028 00000000\n041F0000 341DE02C 00000000\n\n",
-            "title": "[IT+ES# 9999 pikmin in onion]"
-        },
-        {
-            "content": "[IT+ES# Reset Timer (L stick in)]\n80000010\n041F0000 3460C948 00000000\n20000000\n\n",
-            "title": "[IT+ES# Reset Timer (L stick in)]"
-        },
-        {
-            "content": "[IT+ES# Instant End Day (R Stick in)]\n80000020\n041F0000 3460C948 3F666666\n20000000\n\n",
-            "title": "[IT+ES# Instant End Day (R Stick in)]"
-        },
-        {
-            "content": "[IT+ES# Ultra-Spicy Spray]\n041F0000 341DE4B0 00000063",
-            "title": "[IT+ES# Ultra-Spicy Spray]"
-        }
-    ],
-    "D467F5AD367BBEE8": [
-        {
-            "content": "[JP# 9999 pikmin in onion]\n041F0000 3494400C 0000270F\n041F0000 34944008 00000000\n041F0000 34944004 00000000\n041F0000 3494403C 0000270F\n041F0000 34944038 00000000\n041F0000 34944034 00000000\n041F0000 34944024 0000270F\n041F0000 34944020 00000000\n041F0000 3494401C 00000000\n041F0000 34944000 0000270F\n041F0000 34943FFC 00000000\n041F0000 34943FF8 00000000\n041F0000 34944030 0000270F\n041F0000 34944028 00000000\n041F0000 3494402C 00000000\n\n",
-            "title": "[JP# 9999 pikmin in onion]"
-        },
-        {
-            "content": "[JP# Reset Timer (L stick in)]\n80000010\n041F0000 34D72958 00000000\n20000000\n\n",
-            "title": "[JP# Reset Timer (L stick in)]"
-        },
-        {
-            "content": "[JP# Instant End Day (R Stick in)]\n80000020\n041F0000 34D72958 3F666666\n20000000\n\n",
-            "title": "[JP# Instant End Day (R Stick in)]"
-        },
-        {
-            "content": "[JP# Ultra-Spicy Spray]\n041F0000 349444B0 00000063\n\n",
-            "title": "[JP# Ultra-Spicy Spray]"
-        },
-        {
-            "content": "[EN+LAT# 9999 pikmin in onion]\n041F0000 341DC00C 0000270F\n041F0000 341DC008 00000000\n041F0000 341DC004 00000000\n041F0000 341DC03C 0000270F\n041F0000 341DC038 00000000\n041F0000 341DC034 00000000\n041F0000 341DC024 0000270F\n041F0000 341DC020 00000000\n041F0000 341DC01C 00000000\n041F0000 341DC000 0000270F\n041F0000 341DBFFC 00000000\n041F0000 341DBFF8 00000000\n041F0000 341DC030 0000270F\n041F0000 341DC02C 00000000\n041F0000 341DC028 00000000\n\n",
-            "title": "[EN+LAT# 9999 pikmin in onion]"
-        },
-        {
-            "content": "[EN+LAT# Reset Timer (L stick in)]\n80000010\n041F0000 3460A958 00000000\n20000000\n\n",
-            "title": "[EN+LAT# Reset Timer (L stick in)]"
-        },
-        {
-            "content": "[EN+LAT# Instant End Day (R Stick in)]\n80000020\n041F0000 3460A958 3F666666\n20000000\n\n",
-            "title": "[EN+LAT# Instant End Day (R Stick in)]"
-        },
-        {
-            "content": "[EN+LAT# Ultra-Spicy Spray]\n041F0000 341DC4B0 00000063\n\n",
-            "title": "[EN+LAT# Ultra-Spicy Spray]"
-        },
-        {
-            "content": "[DE# 9999 pikmin in onion]\n041F0000 340E400C 0000270F\n041F0000 340E4008 00000000\n041F0000 340E4004 00000000\n041F0000 340E403C 0000270F\n041F0000 340E4038 00000000\n041F0000 340E4034 00000000\n041F0000 340E4024 0000270F\n041F0000 340E4020 00000000\n041F0000 340E401C 00000000\n041F0000 340E4000 0000270F\n041F0000 340E3FFC 00000000\n041F0000 340E3FF8 00000000\n041F0000 340E4030 0000270F\n041F0000 340E402C 00000000\n041F0000 340E4028 00000000\n\n",
-            "title": "[DE# 9999 pikmin in onion]"
-        },
-        {
-            "content": "[DE# Reset Timer (L stick in)]\n80000010\n041F0000 34512958 00000000\n20000000\n\n",
-            "title": "[DE# Reset Timer (L stick in)]"
-        },
-        {
-            "content": "[DE# Instant End Day (R Stick in)]\n80000020\n041F0000 34512958 3F666666\n20000000\n\n",
-            "title": "[DE# Instant End Day (R Stick in)]"
-        },
-        {
-            "content": "[DE# Ultra-Spicy Spray]\n041F0000 340E44B0 00000063\n\n",
-            "title": "[DE# Ultra-Spicy Spray]"
-        },
-        {
-            "content": "[FR# 9999 pikmin in onion]\n041F0000 341EE00C 0000270F\n041F0000 341EE008 00000000\n041F0000 341EE004 00000000\n041F0000 341EE03C 0000270F\n041F0000 341EE038 00000000\n041F0000 341EE034 00000000\n041F0000 341EE024 0000270F\n041F0000 341EE020 00000000\n041F0000 341EE01C 00000000\n041F0000 341EE000 0000270F\n041F0000 341EDFFC 00000000\n041F0000 341EDFF8 00000000\n041F0000 341EE030 0000270F\n041F0000 341EE02C 00000000\n041F0000 341EE028 00000000\n\n",
-            "title": "[FR# 9999 pikmin in onion]"
-        },
-        {
-            "content": "[FR# Reset Timer (L stick in)]\n80000010\n041F0000 3461C958 00000000\n20000000\n\n",
-            "title": "[FR# Reset Timer (L stick in)]"
-        },
-        {
-            "content": "[FR# Instant End Day (R Stick in)]\n80000020\n041F0000 3461C958 3F666666\n20000000\n\n",
-            "title": "[FR# Instant End Day (R Stick in)]"
-        },
-        {
-            "content": "[FR# Ultra-Spicy Spray]\n041F0000 341EE4B0 00000063\n\n",
-            "title": "[FR# Ultra-Spicy Spray]"
-        },
-        {
-            "content": "[IT+ES# 9999 pikmin in onion]\n041F0000 341DE00C 0000270F\n041F0000 341DE008 00000000\n041F0000 341DE004 00000000\n041F0000 341DE03C 0000270F\n041F0000 341DE038 00000000\n041F0000 341DE034 00000000\n041F0000 341DE024 0000270F\n041F0000 341DE020 00000000\n041F0000 341DE01C 00000000\n041F0000 341DE000 0000270F\n041F0000 341DDFFC 00000000\n041F0000 341DDFF8 00000000\n041F0000 341DE030 0000270F\n041F0000 341DE028 00000000\n041F0000 341DE02C 00000000\n\n",
-            "title": "[IT+ES# 9999 pikmin in onion]"
-        },
-        {
-            "content": "[IT+ES# Reset Timer (L stick in)]\n80000010\n041F0000 3460C958 00000000\n20000000\n\n",
-            "title": "[IT+ES# Reset Timer (L stick in)]"
-        },
-        {
-            "content": "[IT+ES# Instant End Day (R Stick in)]\n80000020\n041F0000 3460C958 3F666666\n20000000\n\n",
-            "title": "[IT+ES# Instant End Day (R Stick in)]"
-        },
-        {
-            "content": "[IT+ES# Ultra-Spicy Spray]\n041F0000 341DE4B0 00000063",
-            "title": "[IT+ES# Ultra-Spicy Spray]"
-        }
-    ]
+    "CD23D5CFB75D7E94": {
+        "[EN# 9999 Red pikmin in onion]": "[EN# 9999 Red pikmin in onion]\n041F0000 341DC00C 0000270F\n041F0000 341DC008 00000000\n041F0000 341DC004 00000000\n\n",
+        "[EN# 9999 Rock pikmin in onion]": "[EN# 9999 Rock pikmin in onion]\n041F0000 341DC03C 0000270F\n041F0000 341DC038 00000000\n041F0000 341DC034 00000000\n\n",
+        "[EN# 9999 Yellow pikmin in onion]": "[EN# 9999 Yellow pikmin in onion]\n041F0000 341DC01C 0000270F\n041F0000 341DC018 00000000\n041F0000 341DC014 00000000\n\n",
+        "[EN# 9999 Blue pikmin in onion]": "[EN# 9999 Blue pikmin in onion]\n041F0000 341DC000 0000270F\n041F0000 341DBFFC 00000000\n041F0000 341DBFF8 00000000\n\n",
+        "[EN# 9999 Pink pikmin in onion]": "[EN# 9999 Pink pikmin in onion]\n041F0000 341DC02C 0000270F\n041F0000 341DC028 00000000\n041F0000 341DC024 00000000\n\n",
+        "[EN# Reset Timer (L stick in)]": "[EN# Reset Timer (L stick in)]\n80000010\n041F0000 3460A948 00000000\n20000000\n\n",
+        "[EN# Instant End Day (R Stick in)]": "[EN# Instant End Day (R Stick in)]\n80000020\n041F0000 3460A948 3F666666\n20000000\n\n",
+        "[EN# Ultra-Spicy Spray]": "[EN# Ultra-Spicy Spray]\n041F0000 341DC4B0 00000063\n\n",
+        "[DE# 9999 Red pikmin in onion]": "[DE# 9999 Red pikmin in onion]\n041F0000 340E400C 0000270F\n041F0000 340E4008 00000000\n041F0000 340E4004 00000000\n\n",
+        "[DE# 9999 Rock pikmin in onion]": "[DE# 9999 Rock pikmin in onion]\n041F0000 340E403C 0000270F\n041F0000 340E4038 00000000\n041F0000 340E4034 00000000\n\n",
+        "[DE# 9999 Yellow pikmin in onion]": "[DE# 9999 Yellow pikmin in onion]\n041F0000 340E401C 0000270F\n041F0000 340E4018 00000000\n041F0000 340E4014 00000000\n\n",
+        "[DE# 9999 Blue pikmin in onion]": "[DE# 9999 Blue pikmin in onion]\n041F0000 340E4000 0000270F\n041F0000 340E3FFC 00000000\n041F0000 340E3FF8 00000000\n\n",
+        "[DE# 9999 Pink pikmin in onion]": "[DE# 9999 Pink pikmin in onion]\n041F0000 340E402C 0000270F\n041F0000 340E4028 00000000\n041F0000 340E4024 00000000\n\n",
+        "[DE# Reset Timer (L stick in)]": "[DE# Reset Timer (L stick in)]\n80000010\n041F0000 34512948 00000000\n20000000\n\n",
+        "[DE# Instant End Day (R Stick in)]": "[DE# Instant End Day (R Stick in)]\n80000020\n041F0000 34512948 3F666666\n20000000\n\n",
+        "[DE# Ultra-Spicy Spray]": "[DE# Ultra-Spicy Spray]\n041F0000 340E44B0 00000063\n\n",
+        "[FR# 9999 Red pikmin in onion]": "[FR# 9999 Red pikmin in onion]\n041F0000 341EE00C 0000270F\n041F0000 341EE008 00000000\n041F0000 341EE004 00000000\n\n",
+        "[FR# 9999 Rock pikmin in onion]": "[FR# 9999 Rock pikmin in onion]\n041F0000 341EE03C 0000270F\n041F0000 341EE038 00000000\n041F0000 341EE034 00000000\n\n",
+        "[FR# 9999 Yellow pikmin in onion]": "[FR# 9999 Yellow pikmin in onion]\n041F0000 341EE01C 0000270F\n041F0000 341EE018 00000000\n041F0000 341EE014 00000000\n\n",
+        "[FR# 9999 Blue pikmin in onion]": "[FR# 9999 Blue pikmin in onion]\n041F0000 341EE000 0000270F\n041F0000 341EDFFC 00000000\n041F0000 341EDFF8 00000000\n\n",
+        "[FR# 9999 Pink pikmin in onion]": "[FR# 9999 Pink pikmin in onion]\n041F0000 341EE02C 0000270F\n041F0000 341EE028 00000000\n041F0000 341EE024 00000000\n\n",
+        "[FR# Reset Timer (L stick in)]": "[FR# Reset Timer (L stick in)]\n80000010\n041F0000 3461C948 00000000\n20000000\n\n",
+        "[FR# Instant End Day (R Stick in)]": "[FR# Instant End Day (R Stick in)]\n80000020\n041F0000 3461C948 3F666666\n20000000\n\n",
+        "[FR# Ultra-Spicy Spray]": "[FR# Ultra-Spicy Spray]\n041F0000 341EE4B0 00000063\n\n",
+        "[IT+ES# 9999 Red pikmin in onion]": "[IT+ES# 9999 Red pikmin in onion]\n041F0000 341DE00C 0000270F\n041F0000 341DE008 00000000\n041F0000 341DE004 00000000\n\n",
+        "[IT+ES# 9999 Rock pikmin in onion]": "[IT+ES# 9999 Rock pikmin in onion]\n041F0000 341DE03C 0000270F\n041F0000 341DE038 00000000\n041F0000 341DE034 00000000\n\n",
+        "[IT+ES# 9999 Yellow pikmin in onion]": "[IT+ES# 9999 Yellow pikmin in onion]\n041F0000 341DE01C 0000270F\n041F0000 341DE018 00000000\n041F0000 341DE014 00000000\n\n",
+        "[IT+ES# 9999 Blue pikmin in onion]": "[IT+ES# 9999 Blue pikmin in onion]\n041F0000 341DE000 0000270F\n041F0000 341DDFFC 00000000\n041F0000 341DDFF8 00000000\n\n",
+        "[IT+ES# 9999 Pink pikmin in onion]": "[IT+ES# 9999 Pink pikmin in onion]\n041F0000 341DE02C 0000270F\n041F0000 341DE028 00000000\n041F0000 341DE024 00000000\n\n",
+        "[IT+ES# Reset Timer (L stick in)]": "[IT+ES# Reset Timer (L stick in)]\n80000010\n041F0000 3460C948 00000000\n20000000\n\n",
+        "[IT+ES# Instant End Day (R Stick in)]": "[IT+ES# Instant End Day (R Stick in)]\n80000020\n041F0000 3460C948 3F666666\n20000000\n\n",
+        "[IT+ES# Ultra-Spicy Spray]": "[IT+ES# Ultra-Spicy Spray]\n041F0000 341DE4B0 00000063\n\n",
+        "[JP# 9999 pikmin in onion]": "[JP# 9999 pikmin in onion]\n041F0000 3494400C 0000270F\n041F0000 34944008 00000000\n041F0000 34944004 00000000\n041F0000 3494403C 0000270F\n041F0000 34944038 00000000\n041F0000 34944034 00000000\n041F0000 34944024 0000270F\n041F0000 34944020 00000000\n041F0000 3494401C 00000000\n041F0000 34944000 0000270F\n041F0000 34943FFC 00000000\n041F0000 34943FF8 00000000\n041F0000 34944030 0000270F\n041F0000 34944028 00000000\n041F0000 3494402C 00000000\n\n",
+        "[JP# Reset Timer (L stick in)]": "[JP# Reset Timer (L stick in)]\n80000010\n041F0000 34D72948 00000000\n20000000\n\n",
+        "[JP# Instant End Day (R Stick in)]": "[JP# Instant End Day (R Stick in)]\n80000020\n041F0000 34D72948 3F666666\n20000000\n\n",
+        "[JP# Ultra-Spicy Spray]": "[JP# Ultra-Spicy Spray]\n041F0000 349444B0 00000063\n\n",
+        "[EN+LAT# 9999 pikmin in onion]": "[EN+LAT# 9999 pikmin in onion]\n041F0000 341DC00C 0000270F\n041F0000 341DC008 00000000\n041F0000 341DC004 00000000\n041F0000 341DC03C 0000270F\n041F0000 341DC038 00000000\n041F0000 341DC034 00000000\n041F0000 341DC024 0000270F\n041F0000 341DC020 00000000\n041F0000 341DC01C 00000000\n041F0000 341DC000 0000270F\n041F0000 341DBFFC 00000000\n041F0000 341DBFF8 00000000\n041F0000 341DC030 0000270F\n041F0000 341DC02C 00000000\n041F0000 341DC028 00000000\n\n",
+        "[EN+LAT# Reset Timer (L stick in)]": "[EN+LAT# Reset Timer (L stick in)]\n80000010\n041F0000 3460A948 00000000\n20000000\n\n",
+        "[EN+LAT# Instant End Day (R Stick in)]": "[EN+LAT# Instant End Day (R Stick in)]\n80000020\n041F0000 3460A948 3F666666\n20000000\n\n",
+        "[EN+LAT# Ultra-Spicy Spray]": "[EN+LAT# Ultra-Spicy Spray]\n041F0000 341DC4B0 00000063\n\n",
+        "[DE# 9999 pikmin in onion]": "[DE# 9999 pikmin in onion]\n041F0000 340E400C 0000270F\n041F0000 340E4008 00000000\n041F0000 340E4004 00000000\n041F0000 340E403C 0000270F\n041F0000 340E4038 00000000\n041F0000 340E4034 00000000\n041F0000 340E4024 0000270F\n041F0000 340E4020 00000000\n041F0000 340E401C 00000000\n041F0000 340E4000 0000270F\n041F0000 340E3FFC 00000000\n041F0000 340E3FF8 00000000\n041F0000 340E4030 0000270F\n041F0000 340E402C 00000000\n041F0000 340E4028 00000000\n\n",
+        "[FR# 9999 pikmin in onion]": "[FR# 9999 pikmin in onion]\n041F0000 341EE00C 0000270F\n041F0000 341EE008 00000000\n041F0000 341EE004 00000000\n041F0000 341EE03C 0000270F\n041F0000 341EE038 00000000\n041F0000 341EE034 00000000\n041F0000 341EE024 0000270F\n041F0000 341EE020 00000000\n041F0000 341EE01C 00000000\n041F0000 341EE000 0000270F\n041F0000 341EDFFC 00000000\n041F0000 341EDFF8 00000000\n041F0000 341EE030 0000270F\n041F0000 341EE02C 00000000\n041F0000 341EE028 00000000\n\n",
+        "[IT+ES# 9999 pikmin in onion]": "[IT+ES# 9999 pikmin in onion]\n041F0000 341DE00C 0000270F\n041F0000 341DE008 00000000\n041F0000 341DE004 00000000\n041F0000 341DE03C 0000270F\n041F0000 341DE038 00000000\n041F0000 341DE034 00000000\n041F0000 341DE024 0000270F\n041F0000 341DE020 00000000\n041F0000 341DE01C 00000000\n041F0000 341DE000 0000270F\n041F0000 341DDFFC 00000000\n041F0000 341DDFF8 00000000\n041F0000 341DE030 0000270F\n041F0000 341DE028 00000000\n041F0000 341DE02C 00000000\n\n"
+    },
+    "D467F5AD367BBEE8": {
+        "[JP# 9999 pikmin in onion]": "[JP# 9999 pikmin in onion]\n041F0000 3494400C 0000270F\n041F0000 34944008 00000000\n041F0000 34944004 00000000\n041F0000 3494403C 0000270F\n041F0000 34944038 00000000\n041F0000 34944034 00000000\n041F0000 34944024 0000270F\n041F0000 34944020 00000000\n041F0000 3494401C 00000000\n041F0000 34944000 0000270F\n041F0000 34943FFC 00000000\n041F0000 34943FF8 00000000\n041F0000 34944030 0000270F\n041F0000 34944028 00000000\n041F0000 3494402C 00000000\n\n",
+        "[JP# Reset Timer (L stick in)]": "[JP# Reset Timer (L stick in)]\n80000010\n041F0000 34D72958 00000000\n20000000\n\n",
+        "[JP# Instant End Day (R Stick in)]": "[JP# Instant End Day (R Stick in)]\n80000020\n041F0000 34D72958 3F666666\n20000000\n\n",
+        "[JP# Ultra-Spicy Spray]": "[JP# Ultra-Spicy Spray]\n041F0000 349444B0 00000063\n\n",
+        "[EN+LAT# 9999 pikmin in onion]": "[EN+LAT# 9999 pikmin in onion]\n041F0000 341DC00C 0000270F\n041F0000 341DC008 00000000\n041F0000 341DC004 00000000\n041F0000 341DC03C 0000270F\n041F0000 341DC038 00000000\n041F0000 341DC034 00000000\n041F0000 341DC024 0000270F\n041F0000 341DC020 00000000\n041F0000 341DC01C 00000000\n041F0000 341DC000 0000270F\n041F0000 341DBFFC 00000000\n041F0000 341DBFF8 00000000\n041F0000 341DC030 0000270F\n041F0000 341DC02C 00000000\n041F0000 341DC028 00000000\n\n",
+        "[EN+LAT# Reset Timer (L stick in)]": "[EN+LAT# Reset Timer (L stick in)]\n80000010\n041F0000 3460A958 00000000\n20000000\n\n",
+        "[EN+LAT# Instant End Day (R Stick in)]": "[EN+LAT# Instant End Day (R Stick in)]\n80000020\n041F0000 3460A958 3F666666\n20000000\n\n",
+        "[EN+LAT# Ultra-Spicy Spray]": "[EN+LAT# Ultra-Spicy Spray]\n041F0000 341DC4B0 00000063\n\n",
+        "[DE# 9999 pikmin in onion]": "[DE# 9999 pikmin in onion]\n041F0000 340E400C 0000270F\n041F0000 340E4008 00000000\n041F0000 340E4004 00000000\n041F0000 340E403C 0000270F\n041F0000 340E4038 00000000\n041F0000 340E4034 00000000\n041F0000 340E4024 0000270F\n041F0000 340E4020 00000000\n041F0000 340E401C 00000000\n041F0000 340E4000 0000270F\n041F0000 340E3FFC 00000000\n041F0000 340E3FF8 00000000\n041F0000 340E4030 0000270F\n041F0000 340E402C 00000000\n041F0000 340E4028 00000000\n\n",
+        "[DE# Reset Timer (L stick in)]": "[DE# Reset Timer (L stick in)]\n80000010\n041F0000 34512958 00000000\n20000000\n\n",
+        "[DE# Instant End Day (R Stick in)]": "[DE# Instant End Day (R Stick in)]\n80000020\n041F0000 34512958 3F666666\n20000000\n\n",
+        "[DE# Ultra-Spicy Spray]": "[DE# Ultra-Spicy Spray]\n041F0000 340E44B0 00000063\n\n",
+        "[FR# 9999 pikmin in onion]": "[FR# 9999 pikmin in onion]\n041F0000 341EE00C 0000270F\n041F0000 341EE008 00000000\n041F0000 341EE004 00000000\n041F0000 341EE03C 0000270F\n041F0000 341EE038 00000000\n041F0000 341EE034 00000000\n041F0000 341EE024 0000270F\n041F0000 341EE020 00000000\n041F0000 341EE01C 00000000\n041F0000 341EE000 0000270F\n041F0000 341EDFFC 00000000\n041F0000 341EDFF8 00000000\n041F0000 341EE030 0000270F\n041F0000 341EE02C 00000000\n041F0000 341EE028 00000000\n\n",
+        "[FR# Reset Timer (L stick in)]": "[FR# Reset Timer (L stick in)]\n80000010\n041F0000 3461C958 00000000\n20000000\n\n",
+        "[FR# Instant End Day (R Stick in)]": "[FR# Instant End Day (R Stick in)]\n80000020\n041F0000 3461C958 3F666666\n20000000\n\n",
+        "[FR# Ultra-Spicy Spray]": "[FR# Ultra-Spicy Spray]\n041F0000 341EE4B0 00000063\n\n",
+        "[IT+ES# 9999 pikmin in onion]": "[IT+ES# 9999 pikmin in onion]\n041F0000 341DE00C 0000270F\n041F0000 341DE008 00000000\n041F0000 341DE004 00000000\n041F0000 341DE03C 0000270F\n041F0000 341DE038 00000000\n041F0000 341DE034 00000000\n041F0000 341DE024 0000270F\n041F0000 341DE020 00000000\n041F0000 341DE01C 00000000\n041F0000 341DE000 0000270F\n041F0000 341DDFFC 00000000\n041F0000 341DDFF8 00000000\n041F0000 341DE030 0000270F\n041F0000 341DE028 00000000\n041F0000 341DE02C 00000000\n\n",
+        "[IT+ES# Reset Timer (L stick in)]": "[IT+ES# Reset Timer (L stick in)]\n80000010\n041F0000 3460C958 00000000\n20000000\n\n",
+        "[IT+ES# Instant End Day (R Stick in)]": "[IT+ES# Instant End Day (R Stick in)]\n80000020\n041F0000 3460C958 3F666666\n20000000\n\n",
+        "[IT+ES# Ultra-Spicy Spray]": "[IT+ES# Ultra-Spicy Spray]\n041F0000 341DE4B0 00000063\n\n"
+    },
+    "attribution": {
+        "Pikmin 3 ver 1.0.0 by Patjenova and Crypt51 ver 1.1.0 by Sandu.txt": ""
+    }
 }

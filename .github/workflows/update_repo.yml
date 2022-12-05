@@ -62,7 +62,7 @@ jobs:
 
       - name: run python script
         run: |
-          python3 upload_cheats.py -o $(curl -s -L https://github.com/HamletDuFromage/switch-cheats-db/releases/latest/download/VERSION)
+          python3 database_builder.py
 
       - name: push changes
         env:
@@ -76,11 +76,21 @@ jobs:
             git commit -m "automatic: updated cheat files"
             git push
             version=$(cat VERSION)
-            echo -e "Last updated: **$(cat DATE)**\n\nCheats updated:↷\n\`\`\`\n$(echo $stat | xargs python3 build_changelog.py)\n\`\`\`" > changelog.md
+            echo -e "Last updated: **$version**\n\nCheats updated:↷\n\`\`\`\n$(echo $stat | xargs python3 build_changelog.py)\n\`\`\`" > changelog.md
             gh release create $version -F changelog.md
-            gh release upload $version ./contents.zip --clobber
-            gh release upload $version ./titles.zip --clobber
-            gh release upload $version ./VERSION --clobber
+            gh release upload $version ./gbatemp/contents.zip --clobber
+            gh release upload $version ./gbatemp/titles.zip --clobber
+
+            mv ./NX-60FPS-RES-GFX-Cheats-main/contents.zip ./NX-60FPS-RES-GFX-Cheats-main/contents_60fps-res-gfx.zip
+            mv ./NX-60FPS-RES-GFX-Cheats-main/titles.zip ./NX-60FPS-RES-GFX-Cheats-main/titles_60fps-res-gfx.zip
+            gh release upload $version ./NX-60FPS-RES-GFX-Cheats-main/contents_60fps-res-gfx.zip --clobber
+            gh release upload $version ./NX-60FPS-RES-GFX-Cheats-main/titles_60fps-res-gfx.zip --clobber
+
+            mv ./complete/contents.zip ./complete/contents_complete.zip
+            mv ./complete/titles.zip ./complete/titles_complete.zip
+            gh release upload $version ./complete/contents_complete.zip --clobber
+            gh release upload $version ./complete/titles_complete.zip --clobber
+            gh release upload $version VERSION --clobber
           else
             echo "Nothing to commit!"
           fi

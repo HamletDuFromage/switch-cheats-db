@@ -1,130 +1,55 @@
 {
-    "985E17C3D9255F4D": [
-        {
-            "content": "[NORMAL RUN SPEED]\n04000000 01385CA8 1E2E1000\n\n",
-            "title": "[NORMAL RUN SPEED]"
-        },
-        {
-            "content": "[1.25X RUN SPEED]\n04000000 01385CA8 1E2E9000\n\n",
-            "title": "[1.25X RUN SPEED]"
-        },
-        {
-            "content": "[1.5X RUN SPEED]\n04000000 01385CA8 1E2F1000\n\n",
-            "title": "[1.5X RUN SPEED]"
-        },
-        {
-            "content": "[1.75X RUN SPEED]\n04000000 01385CA8 1E2F9000\n\n",
-            "title": "[1.75X RUN SPEED]"
-        },
-        {
-            "content": "[2X RUN SPEED]\n04000000 01385CA8 1E201000\n\n",
-            "title": "[2X RUN SPEED]"
-        },
-        {
-            "content": "[NORMAL SPEED GAME]\n04000000 013E11B0 1E2E1001\n\n",
-            "title": "[NORMAL SPEED GAME]"
-        },
-        {
-            "content": "[1.25X SPEED GAME]\n04000000 013E11B0 1E2E9001\n\n",
-            "title": "[1.25X SPEED GAME]"
-        },
-        {
-            "content": "[1.5X SPEED GAME]\n04000000 013E11B0 1E2F1001\n\n",
-            "title": "[1.5X SPEED GAME]"
-        },
-        {
-            "content": "[1.75X SPEED GAME]\n04000000 013E11B0 1E2F9001\n\n",
-            "title": "[1.75X SPEED GAME]"
-        },
-        {
-            "content": "[2X SPEED GAME]\n04000000 013E11B0 1E201001\n\n",
-            "title": "[2X SPEED GAME]"
-        },
-        {
-            "content": "[5X SPEED GAME]\n04000000 013E11B0 1E229001\n\n",
-            "title": "[5X SPEED GAME]"
-        },
-        {
-            "content": "[10X SPEED GAME]\n04000000 013E11B0 1E249001\n\n",
-            "title": "[10X SPEED GAME]"
-        },
-        {
-            "content": "[1P INVINCIBLE L PAD ON R PAD OFF]\n80000040\n04000000 010BF5B0 D65F03C0\n20000000\n80000080\n04000000 010BF5B0 D101C3FF\n20000000",
-            "title": "[1P INVINCIBLE L PAD ON R PAD OFF]"
-        }
-    ],
-    "A2EB89C60B10B04A": [
-        {
-            "content": "[01# Inf life]\n040A0000 013E28E0 D503201F\n040A0000 013E2944 D503201F\n\n",
-            "title": "[01# Inf life]"
-        },
-        {
-            "content": "[Inf life (off)]\n040A0000 013E28E0 4B140129\n040A0000 013E2944 4B010129\n\n",
-            "title": "[Inf life (off)]"
-        },
-        {
-            "content": "[02# Coin Multiplier x4]\n040A0000 013E250C 0B012129\n\n",
-            "title": "[02# Coin Multiplier x4]"
-        },
-        {
-            "content": "[Coin Multiplier (off)]\n040A0000 013E2A04 0B010129\n\n",
-            "title": "[Coin Multiplier (off)]"
-        },
-        {
-            "content": "[03# Coins Don't Decrease]\n040A0000 013E2A04 D503201F\n\n",
-            "title": "[03# Coins Don't Decrease]"
-        },
-        {
-            "content": "[Coins Don't Decrease (off)]\n040A0000 013E250C 4B010129\n\n",
-            "title": "[Coins Don't Decrease (off)]"
-        },
-        {
-            "content": "[04# Orb Multiplier x4]\n040A0000 013E261C 0B012129\n\n",
-            "title": "[04# Orb Multiplier x4]"
-        },
-        {
-            "content": "[Orb Multiplier(off)]\n040A0000 013E261C 0B010129\n\n",
-            "title": "[Orb Multiplier(off)]"
-        },
-        {
-            "content": "[05# Orb Don't Decrease]\n040A0000 013E29A4 D503201F\n\n",
-            "title": "[05# Orb Don't Decrease]"
-        },
-        {
-            "content": "[Orb Don't Decrease (off)]\n040A0000 013E29A4 4B010129\n\n",
-            "title": "[Orb Don't Decrease (off)]"
-        },
-        {
-            "content": "[06# Inf Items]\n040A0000 013E29A4 D503201F\n\n",
-            "title": "[06# Inf Items]"
-        },
-        {
-            "content": "[Inf Items (off)]\n040A0000 013E29A4 4B140129\n\n",
-            "title": "[Inf Items (off)]"
-        },
-        {
-            "content": "[07# Inf Stamina]\n040A0000 013860B8 D503201F\n\n",
-            "title": "[07# Inf Stamina]"
-        },
-        {
-            "content": "[Inf Items (off)]\n040A0000 013860B8 1E213800\n\n",
-            "title": "[Inf Items (off)]"
-        },
-        {
-            "content": "[08# Runspeed x 2]\n040A0000 01385D50 1E255009\n\n",
-            "title": "[08# Runspeed x 2]"
-        },
-        {
-            "content": "[Runspeed x 2 (off)]\n040A0000 01385D50 1E213800\n\n",
-            "title": "[Runspeed x 2 (off)]"
-        },
-        {
-            "content": "[09# Inf Dungeonkeys]\n040A0000 013E2E58 D503201F\n\n",
-            "title": "[09# Inf Dungeonkeys]"
-        },
-        {
-            "content": "[Inf Dungeonkeys (off)]\n040A0000 013E2E58 51000529",
-            "title": "[Inf Dungeonkeys (off)]"
-        }
-    ]
+    "985E17C3D9255F4D": {
+        "[NORMAL RUN SPEED]": "[NORMAL RUN SPEED]\n04000000 01385CA8 1E2E1000\n\n",
+        "[1.25X RUN SPEED]": "[1.25X RUN SPEED]\n04000000 01385CA8 1E2E9000\n\n",
+        "[1.5X RUN SPEED]": "[1.5X RUN SPEED]\n04000000 01385CA8 1E2F1000\n\n",
+        "[1.75X RUN SPEED]": "[1.75X RUN SPEED]\n04000000 01385CA8 1E2F9000\n\n",
+        "[2X RUN SPEED]": "[2X RUN SPEED]\n04000000 01385CA8 1E201000\n\n",
+        "[NORMAL SPEED GAME]": "[NORMAL SPEED GAME]\n04000000 013E11B0 1E2E1001\n\n",
+        "[1.25X SPEED GAME]": "[1.25X SPEED GAME]\n04000000 013E11B0 1E2E9001\n\n",
+        "[1.5X SPEED GAME]": "[1.5X SPEED GAME]\n04000000 013E11B0 1E2F1001\n\n",
+        "[1.75X SPEED GAME]": "[1.75X SPEED GAME]\n04000000 013E11B0 1E2F9001\n\n",
+        "[2X SPEED GAME]": "[2X SPEED GAME]\n04000000 013E11B0 1E201001\n\n",
+        "[5X SPEED GAME]": "[5X SPEED GAME]\n04000000 013E11B0 1E229001\n\n",
+        "[10X SPEED GAME]": "[10X SPEED GAME]\n04000000 013E11B0 1E249001\n\n",
+        "[1P INVINCIBLE L PAD ON R PAD OFF]": "[1P INVINCIBLE L PAD ON R PAD OFF]\n80000040\n04000000 010BF5B0 D65F03C0\n20000000\n80000080\n04000000 010BF5B0 D101C3FF\n20000000\n\n"
+    },
+    "1A0EAEC3AE90B018": {
+        "[60 FPS]": "[60 FPS]\n580F0000 03D376C8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 03D376C8\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "C39C99E807D11843": {
+        "[60 FPS]": "[60 FPS]\n580F0000 03D53088\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 03D53088\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "20A081AF923C764C": {
+        "[60 FPS]": "[60 FPS]\n580F0000 03D37708\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 03D37708\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "48B35FB0D4E3FC40": {
+        "[60 FPS]": "[60 FPS]\n580F0000 03D80608\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 03D80608\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Baldo The Guardian Owls v1.1.0 by Patjenova ver 1.0.4 by xtatu.txt": "SWITCH OFF TO ENTER DOORS AND STAIRS"
+    },
+    "A2EB89C60B10B04A": {
+        "[01# Inf life]": "[01# Inf life]\n040A0000 013E28E0 D503201F\n040A0000 013E2944 D503201F\n\n",
+        "[Inf life (off)]": "[Inf life (off)]\n040A0000 013E28E0 4B140129\n040A0000 013E2944 4B010129\n\n",
+        "[02# Coin Multiplier x4]": "[02# Coin Multiplier x4]\n040A0000 013E250C 0B012129\n\n",
+        "[Coin Multiplier (off)]": "[Coin Multiplier (off)]\n040A0000 013E2A04 0B010129\n\n",
+        "[03# Coins Don't Decrease]": "[03# Coins Don't Decrease]\n040A0000 013E2A04 D503201F\n\n",
+        "[Coins Don't Decrease (off)]": "[Coins Don't Decrease (off)]\n040A0000 013E250C 4B010129\n\n",
+        "[04# Orb Multiplier x4]": "[04# Orb Multiplier x4]\n040A0000 013E261C 0B012129\n\n",
+        "[Orb Multiplier(off)]": "[Orb Multiplier(off)]\n040A0000 013E261C 0B010129\n\n",
+        "[05# Orb Don't Decrease]": "[05# Orb Don't Decrease]\n040A0000 013E29A4 D503201F\n\n",
+        "[Orb Don't Decrease (off)]": "[Orb Don't Decrease (off)]\n040A0000 013E29A4 4B010129\n\n",
+        "[06# Inf Items]": "[06# Inf Items]\n040A0000 013E29A4 D503201F\n\n",
+        "[Inf Items (off)]": "[Inf Items (off)]\n040A0000 013860B8 1E213800\n\n",
+        "[07# Inf Stamina]": "[07# Inf Stamina]\n040A0000 013860B8 D503201F\n\n",
+        "[08# Runspeed x 2]": "[08# Runspeed x 2]\n040A0000 01385D50 1E255009\n\n",
+        "[Runspeed x 2 (off)]": "[Runspeed x 2 (off)]\n040A0000 01385D50 1E213800\n\n",
+        "[09# Inf Dungeonkeys]": "[09# Inf Dungeonkeys]\n040A0000 013E2E58 D503201F\n\n",
+        "[Inf Dungeonkeys (off)]": "[Inf Dungeonkeys (off)]\n040A0000 013E2E58 51000529\n\n"
+    }
 }

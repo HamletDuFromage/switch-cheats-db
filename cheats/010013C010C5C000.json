@@ -1,8 +1,8 @@
 {
-    "1D054498CF18F143": [
-        {
-            "content": "[money]\n580F0000 030EECB0\n580F1000 000000B8\n780F0000 00000048\n640F0000 00000000000F4240",
-            "title": "[money]"
-        }
-    ]
+    "1D054498CF18F143": {
+        "[money]": "[money]\n580F0000 030EECB0\n580F1000 000000B8\n780F0000 00000048\n640F0000 00000000000F4240\n\n"
+    },
+    "attribution": {
+        "Banner of The Maid V1.0.0 by TomSwitch.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

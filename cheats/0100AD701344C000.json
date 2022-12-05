@@ -1,20 +1,11 @@
 {
-    "230115D50145B816": [
-        {
-            "content": "[HP]\n08000000 05E0F1C0 40100000 00000000\n\n",
-            "title": "[HP]"
-        },
-        {
-            "content": "[Ammo]\n08000000 05E0F2E0 40220000 00000000\n\n",
-            "title": "[Ammo]"
-        },
-        {
-            "content": "[Money]\n08000000 05E0F2F0 40C38780 00000000\n\n",
-            "title": "[Money]"
-        },
-        {
-            "content": "[Secondary weapon]\n580F0000 05B47DD0\n580F1000 00000038\n780F0000 000000C0\n680F0000 40080000 00000000",
-            "title": "[Secondary weapon]"
-        }
-    ]
+    "230115D50145B816": {
+        "[HP]": "[HP]\n08000000 05E0F1C0 40100000 00000000\n\n",
+        "[Ammo]": "[Ammo]\n08000000 05E0F2E0 40220000 00000000\n\n",
+        "[Money]": "[Money]\n08000000 05E0F2F0 40C38780 00000000\n\n",
+        "[Secondary weapon]": "[Secondary weapon]\n580F0000 05B47DD0\n580F1000 00000038\n780F0000 000000C0\n680F0000 40080000 00000000\n\n"
+    },
+    "attribution": {
+        "Mighty Goose ver 1.0.1 bt jhmiller.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

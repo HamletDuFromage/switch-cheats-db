@@ -1,32 +1,14 @@
 {
-    "010049500F996000": [
-        {
-            "content": "[*Inf Hp world map]\n580F0000 010291C8\n780F0000 00000C80\n620F0000 00000000 00000378\n\n",
-            "title": "[*Inf Hp world map]"
-        },
-        {
-            "content": "[*Inf Mp world map]\n580F0000 010291C8\n780F0000 00000C88\n620F0000 00000000 00000378\n\n",
-            "title": "[*Inf Mp world map]"
-        },
-        {
-            "content": "[*Inf Money 8888888 ]\n580F0000 01027100\n780F0000 000031EC\n640F0000 00000000 0087A238\n\n",
-            "title": "[*Inf Money 8888888 ]"
-        },
-        {
-            "content": "[*Inf Hp P1 Battle]\n580F0000 01028258\n580F1000 00000120\n580F1000 00000510\n580F1000 00000008\n780F0000 0000004A\n620F0000 00000000 00000378\n\n",
-            "title": "[*Inf Hp P1 Battle]"
-        },
-        {
-            "content": "[*Inf Mp P1 Battle]\n580F0000 01027AB8\n580F1000 000000A0\n580F1000 00000010\n580F1000 00000008\n780F0000 0000004E\n620F0000 00000000 00000378\n\n",
-            "title": "[*Inf Mp P1 Battle]"
-        },
-        {
-            "content": "[*Inf Mp P1/P2 Battle]\n580F0000 01027AB8\n580F1000 000000A0\n580F1000 00000070\n780F0000 0000004E\n620F0000 00000000 00000378\n\n",
-            "title": "[*Inf Mp P1/P2 Battle]"
-        },
-        {
-            "content": "[*P1 Power Battle 999]\n580F0000 01027AB8\n580F1000 000000A0\n580F1000 00000070\n780F0000 00000064\n620F0000 00000000 000003E7",
-            "title": "[*P1 Power Battle 999]"
-        }
-    ]
+    "010049500F996000": {
+        "[*Inf Hp world map]": "[*Inf Hp world map]\n580F0000 010291C8\n780F0000 00000C80\n620F0000 00000000 00000378\n\n",
+        "[*Inf Mp world map]": "[*Inf Mp world map]\n580F0000 010291C8\n780F0000 00000C88\n620F0000 00000000 00000378\n\n",
+        "[*Inf Money 8888888 ]": "[*Inf Money 8888888 ]\n580F0000 01027100\n780F0000 000031EC\n640F0000 00000000 0087A238\n\n",
+        "[*Inf Hp P1 Battle]": "[*Inf Hp P1 Battle]\n580F0000 01028258\n580F1000 00000120\n580F1000 00000510\n580F1000 00000008\n780F0000 0000004A\n620F0000 00000000 00000378\n\n",
+        "[*Inf Mp P1 Battle]": "[*Inf Mp P1 Battle]\n580F0000 01027AB8\n580F1000 000000A0\n580F1000 00000010\n580F1000 00000008\n780F0000 0000004E\n620F0000 00000000 00000378\n\n",
+        "[*Inf Mp P1/P2 Battle]": "[*Inf Mp P1/P2 Battle]\n580F0000 01027AB8\n580F1000 000000A0\n580F1000 00000070\n780F0000 0000004E\n620F0000 00000000 00000378\n\n",
+        "[*P1 Power Battle 999]": "[*P1 Power Battle 999]\n580F0000 01027AB8\n580F1000 000000A0\n580F1000 00000070\n780F0000 00000064\n620F0000 00000000 000003E7\n\n"
+    },
+    "attribution": {
+        "Hero Must Die Again ver 1.0.0 by jericoos.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
+    }
 }

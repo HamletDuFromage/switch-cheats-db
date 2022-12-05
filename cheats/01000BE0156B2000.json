@@ -1,40 +1,16 @@
 {
-    "5AFEF0A8BCB47841": [
-        {
-            "content": "[Nexotraps x999]\n580F0000 0447C078\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n580F1000 000001C8\n580F1000 00000018\n580F1000 00000010\n580F1000 00000118\n780F0000 00000014\n680F0000 0035006B 0054004F\n\n",
-            "title": "[Nexotraps x999]"
-        },
-        {
-            "content": "[Golden Traps x999]\n580F0000 0447D060\n580F1000 00000228\n580F1000 00000008\n780F0000 00000140\n640F0000 00000000 0006CBFB\n\n",
-            "title": "[Golden Traps x999]"
-        },
-        {
-            "content": "[Coins x999999]\n580F0000 0447D060\n580F1000 00000228\n580F1000 00000008\n780F0000 000000C8\n640F0000 00000000 00098A23\n\n",
-            "title": "[Coins x999999]"
-        },
-        {
-            "content": "[01# Inf Golden Traps]\n040A0000 014B0640 52800C60\n040A0000 014B0644 D65F03C0\n\n",
-            "title": "[01# Inf Golden Traps]"
-        },
-        {
-            "content": "[03# Inf Stamina]\n040A0000 0212F38C D503201F\n\n",
-            "title": "[03# Inf Stamina]"
-        },
-        {
-            "content": "[04# Inf Money]\n040A0000 014B059C 000F423F\n040A0000 014B05BC 18FFFF14\n\n",
-            "title": "[04# Inf Money]"
-        },
-        {
-            "content": "[05# Walk Through Walls]\n040A0000 021450A0 52800C60\n040A0000 021450A4 D65F03C0\n\n",
-            "title": "[05# Walk Through Walls]"
-        },
-        {
-            "content": "[06# Items X50]\n040A0000 021572A4 52800641\n\n",
-            "title": "[06# Items X50]"
-        },
-        {
-            "content": "[07# Exp Multiplier x4]\n040A0000 02137E60 0B171000\n040A0000 02137EDC 0B081008",
-            "title": "[07# Exp Multiplier x4]"
-        }
-    ]
+    "5AFEF0A8BCB47841": {
+        "[Nexotraps x999]": "[Nexotraps x999]\n580F0000 0447C078\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n580F1000 000001C8\n580F1000 00000018\n580F1000 00000010\n580F1000 00000118\n780F0000 00000014\n680F0000 0035006B 0054004F\n\n",
+        "[Golden Traps x999]": "[Golden Traps x999]\n580F0000 0447D060\n580F1000 00000228\n580F1000 00000008\n780F0000 00000140\n640F0000 00000000 0006CBFB\n\n",
+        "[Coins x999999]": "[Coins x999999]\n580F0000 0447D060\n580F1000 00000228\n580F1000 00000008\n780F0000 000000C8\n640F0000 00000000 00098A23\n\n",
+        "[01# Inf Golden Traps]": "[01# Inf Golden Traps]\n040A0000 014B0640 52800C60\n040A0000 014B0644 D65F03C0\n\n",
+        "[03# Inf Stamina]": "[03# Inf Stamina]\n040A0000 0212F38C D503201F\n\n",
+        "[04# Inf Money]": "[04# Inf Money]\n040A0000 014B059C 000F423F\n040A0000 014B05BC 18FFFF14\n\n",
+        "[05# Walk Through Walls]": "[05# Walk Through Walls]\n040A0000 021450A0 52800C60\n040A0000 021450A4 D65F03C0\n\n",
+        "[06# Items X50]": "[06# Items X50]\n040A0000 021572A4 52800641\n\n",
+        "[07# Exp Multiplier x4]": "[07# Exp Multiplier x4]\n040A0000 02137E60 0B171000\n040A0000 02137EDC 0B081008\n\n"
+    },
+    "attribution": {
+        "Nexomon ver 1.0.0 by CJB and Patjenova.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

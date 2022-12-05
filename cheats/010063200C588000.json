@@ -1,24 +1,12 @@
 {
-    "76584D2EAA42C27F": [
-        {
-            "content": "[P1 Lives unlimited]\n580F0000 017A0A20\n780F1000 00000008\n620F0000 00000000 000003E7\n\n",
-            "title": "[P1 Lives unlimited]"
-        },
-        {
-            "content": "[P2 Lives unlimited]\n580F0000 001C3718\n780F1000 00000004\n620F0000 00000000 000003E7\n\n",
-            "title": "[P2 Lives unlimited]"
-        },
-        {
-            "content": "[P1 Bombs unlimited]\n580F0000 001C32D0\n780F1000 00000008\n620F0000 00000000 000003E7\n\n",
-            "title": "[P1 Bombs unlimited]"
-        },
-        {
-            "content": "[P2 Bombs unlimited]\n580F0000 001C3268\n780F0000 0000000C\n620F0000 00000000 000003E7\n\n",
-            "title": "[P2 Bombs unlimited]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 001C3718\n780F0000 00000003\n610F0000 00000000 000000FF\n",
-            "title": "[Invincible]"
-        }
-    ]
+    "76584D2EAA42C27F": {
+        "[P1 Lives unlimited]": "[P1 Lives unlimited]\n580F0000 017A0A20\n780F1000 00000008\n620F0000 00000000 000003E7\n\n",
+        "[P2 Lives unlimited]": "[P2 Lives unlimited]\n580F0000 001C3718\n780F1000 00000004\n620F0000 00000000 000003E7\n\n",
+        "[P1 Bombs unlimited]": "[P1 Bombs unlimited]\n580F0000 001C32D0\n780F1000 00000008\n620F0000 00000000 000003E7\n\n",
+        "[P2 Bombs unlimited]": "[P2 Bombs unlimited]\n580F0000 001C3268\n780F0000 0000000C\n620F0000 00000000 000003E7\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 001C3718\n780F0000 00000003\n610F0000 00000000 000000FF\n\n"
+    },
+    "attribution": {
+        "Ghost Blade v1.0.0 by merlin555.txt": ""
+    }
 }

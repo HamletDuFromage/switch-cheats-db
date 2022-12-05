@@ -1,24 +1,12 @@
 {
-    "34441E3E5ED09859": [
-        {
-            "content": "[HP]\n580F0000 023EA370\n580F1000 00000098\n580F1000 00000200\n580F1000 00000010\n580F1000 00000020\n780F0000 0000009C\n640F0000 00000000 42C80000\n\n",
-            "title": "[HP]"
-        },
-        {
-            "content": "[Time 30]\n580F0000 023EA3A0\n580F1000 00000098\n580F1000 00000000\n580F1000 00000010\n580F1000 00000070\n580F1000 00000010\n580F1000 00000020\n780F0000 000001B0\n640F0000 00000000 44E10000\n\n",
-            "title": "[Time 30]"
-        },
-        {
-            "content": "[Shotgun Bullets]\n580F0000 023FC278\n580F1000 000006B0\n580F1000 00000068\n580F1000 00000050\n580F1000 00000020\n780F0000 0000003C\n640F0000 00000000 00000006\n\n",
-            "title": "[Shotgun Bullets]"
-        },
-        {
-            "content": "[Customized Pistol Bullets]\n580F0000 023F8A80\n580F1000 000002F0\n580F1000 00000020\n780F1000 00000064\n640F0000 00000000 0000000F\n\n",
-            "title": "[Customized Pistol Bullets]"
-        },
-        {
-            "content": "[Pistol 9mm Bullets]\n580F0000 023EA370\n580F1000 00000098\n580F1000 00000120\n580F1000 000000A0\n580F1000 00000140\n780F0000 0000003C\n640F0000 00000000 0000000F",
-            "title": "[Pistol 9mm Bullets]"
-        }
-    ]
+    "34441E3E5ED09859": {
+        "[HP]": "[HP]\n580F0000 023EA370\n580F1000 00000098\n580F1000 00000200\n580F1000 00000010\n580F1000 00000020\n780F0000 0000009C\n640F0000 00000000 42C80000\n\n",
+        "[Time 30]": "[Time 30]\n580F0000 023EA3A0\n580F1000 00000098\n580F1000 00000000\n580F1000 00000010\n580F1000 00000070\n580F1000 00000010\n580F1000 00000020\n780F0000 000001B0\n640F0000 00000000 44E10000\n\n",
+        "[Shotgun Bullets]": "[Shotgun Bullets]\n580F0000 023FC278\n580F1000 000006B0\n580F1000 00000068\n580F1000 00000050\n580F1000 00000020\n780F0000 0000003C\n640F0000 00000000 00000006\n\n",
+        "[Customized Pistol Bullets]": "[Customized Pistol Bullets]\n580F0000 023F8A80\n580F1000 000002F0\n580F1000 00000020\n780F1000 00000064\n640F0000 00000000 0000000F\n\n",
+        "[Pistol 9mm Bullets]": "[Pistol 9mm Bullets]\n580F0000 023EA370\n580F1000 00000098\n580F1000 00000120\n580F1000 000000A0\n580F1000 00000140\n780F0000 0000003C\n640F0000 00000000 0000000F\n\n"
+    },
+    "attribution": {
+        "Vaccine ver 1.0.0 by jhmiller.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

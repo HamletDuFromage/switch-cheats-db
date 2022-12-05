@@ -1,12 +1,9 @@
 {
-    "8E500D494507154C": [
-        {
-            "content": "[Inf HP]\n04000000 0038F774 BD404A60\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Stealth always low]\n04000000 0063879C D503201F",
-            "title": "[Stealth always low]"
-        }
-    ]
+    "8E500D494507154C": {
+        "[Inf HP]": "[Inf HP]\n04000000 0038F774 BD404A60\n\n",
+        "[Stealth always low]": "[Stealth always low]\n04000000 0063879C D503201F\n\n"
+    },
+    "attribution": {
+        "Freedom Finger v1.0.0.txt": ""
+    }
 }

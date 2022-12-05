@@ -1,120 +1,35 @@
 {
-    "2769E70ED09EA790": [
-        {
-            "content": "[Breeze beta41 Arcade Archives ATHENA 1.0.0 TID: 0100BEC00C7A2000 BID: 2769E70ED09EA790]\n\n",
-            "title": "[Breeze beta41 Arcade Archives ATHENA 1.0.0 TID: 0100BEC00C7A2000 BID: 2769E70ED09EA790]"
-        },
-        {
-            "content": "[Inf.Credits]\n01100000 01E8B5F5 00000099 \n\n",
-            "title": "[Inf.Credits]"
-        },
-        {
-            "content": "[Inf.Time]\n01100000 01E8E420 00000059 \n\n",
-            "title": "[Inf.Time]"
-        },
-        {
-            "content": "[P1 Inf.Lives]\n01100000 01E8E333 0000009A \n\n",
-            "title": "[P1 Inf.Lives]"
-        },
-        {
-            "content": "[P1 Inf.Energy]\n01100000 01E8E31B 000000A8 \n01100000 01E8E33B 0000007E \n\n",
-            "title": "[P1 Inf.Energy]"
-        },
-        {
-            "content": "[P1 Inf.Stregth]\n01100000 01E8E31C 000000E0 \n\n",
-            "title": "[P1 Inf.Stregth]"
-        },
-        {
-            "content": "[P1 Inf.POW]\n01100000 01E8E31D 0000008F \n\n",
-            "title": "[P1 Inf.POW]"
-        },
-        {
-            "content": "[P2 Inf.Lives]\n01100000 01E8E397 0000009A \n\n",
-            "title": "[P2 Inf.Lives]"
-        },
-        {
-            "content": "[P2 Inf.Energy]\n01100000 01E8E37F 000000A8 \n01100000 01E8E39F 0000007E \n\n",
-            "title": "[P2 Inf.Energy]"
-        },
-        {
-            "content": "[P2 Inf.Stregth]\n01100000 01E8E380 0000000C \n\n",
-            "title": "[P2 Inf.Stregth]"
-        },
-        {
-            "content": "[P2 Inf.Stregth]\n01100000 01E8E381 0000008F \n\n",
-            "title": "[P2 Inf.Stregth]"
-        },
-        {
-            "content": "[Always have Blue Ring]\n01100000 01E8E342 00000087 \n\n",
-            "title": "[Always have Blue Ring]"
-        },
-        {
-            "content": "[Always have Red Ring]\n01100000 01E8E342 0000008B \n\n",
-            "title": "[Always have Red Ring]"
-        },
-        {
-            "content": "[Always have Green Necklace]\n01100000 01E8E343 00000087 \n\n",
-            "title": "[Always have Green Necklace]"
-        },
-        {
-            "content": "[Always have Gold Necklace]\n01100000 01E8E343 0000008B \n\n",
-            "title": "[Always have Gold Necklace]"
-        },
-        {
-            "content": "[Always have Blue Crystall Ball]\n01100000 01E8E344 00000087 \n\n",
-            "title": "[Always have Blue Crystall Ball]"
-        },
-        {
-            "content": "[Always have Red Crystall Ball]\n01100000 01E8E344 0000008B \n\n",
-            "title": "[Always have Red Crystall Ball]"
-        },
-        {
-            "content": "[Always have Treasure Box]\n01100000 01E8E344 0000008F \n\n",
-            "title": "[Always have Treasure Box]"
-        },
-        {
-            "content": "[Always have Ikarus's Boots]\n01100000 01E8E345 00000087 \n\n",
-            "title": "[Always have Ikarus's Boots]"
-        },
-        {
-            "content": "[Always have Pot of a Life]\n01100000 01E8E346 00000087 \n\n",
-            "title": "[Always have Pot of a Life]"
-        },
-        {
-            "content": "[Always have Lamp of Guidance]\n01100000 01E8E346 0000008B \n\n",
-            "title": "[Always have Lamp of Guidance]"
-        },
-        {
-            "content": "[Always have Siva's Mirror]\n01100000 01E8E347 00000087 \n\n",
-            "title": "[Always have Siva's Mirror]"
-        },
-        {
-            "content": "[Always have Leda's Mirror]\n01100000 01E8E347 0000008B \n\n",
-            "title": "[Always have Leda's Mirror]"
-        },
-        {
-            "content": "[Always have Ide's Mirror]\n01100000 01E8E347 0000008F \n\n",
-            "title": "[Always have Ide's Mirror]"
-        },
-        {
-            "content": "[Always have Messiah's Key]\n01100000 01E8E348 00000087 \n\n",
-            "title": "[Always have Messiah's Key]"
-        },
-        {
-            "content": "[Always have Harp of Protection]\n01100000 01E8E348 0000008B \n\n",
-            "title": "[Always have Harp of Protection]"
-        },
-        {
-            "content": "[Always have Necklace of Shell]\n01100000 01E8E349 00000087 \n\n",
-            "title": "[Always have Necklace of Shell]"
-        },
-        {
-            "content": "[Always have Wing of Pegasus ]\n01100000 01E8E349 0000008B \n\n",
-            "title": "[Always have Wing of Pegasus ]"
-        },
-        {
-            "content": "[Always have K ]\n01100000 01E8E34A 00000087 \n\n",
-            "title": "[Always have K ]"
-        }
-    ]
+    "2769E70ED09EA790": {
+        "[Breeze beta41 Arcade Archives ATHENA 1.0.0 TID: 0100BEC00C7A2000 BID: 2769E70ED09EA790]": "[Breeze beta41 Arcade Archives ATHENA 1.0.0 TID: 0100BEC00C7A2000 BID: 2769E70ED09EA790]\n\n",
+        "[Inf.Credits]": "[Inf.Credits]\n01100000 01E8B5F5 00000099\n\n",
+        "[Inf.Time]": "[Inf.Time]\n01100000 01E8E420 00000059\n\n",
+        "[P1 Inf.Lives]": "[P1 Inf.Lives]\n01100000 01E8E333 0000009A\n\n",
+        "[P1 Inf.Energy]": "[P1 Inf.Energy]\n01100000 01E8E31B 000000A8 \n01100000 01E8E33B 0000007E\n\n",
+        "[P1 Inf.Stregth]": "[P1 Inf.Stregth]\n01100000 01E8E31C 000000E0\n\n",
+        "[P1 Inf.POW]": "[P1 Inf.POW]\n01100000 01E8E31D 0000008F\n\n",
+        "[P2 Inf.Lives]": "[P2 Inf.Lives]\n01100000 01E8E397 0000009A\n\n",
+        "[P2 Inf.Energy]": "[P2 Inf.Energy]\n01100000 01E8E37F 000000A8 \n01100000 01E8E39F 0000007E\n\n",
+        "[P2 Inf.Stregth]": "[P2 Inf.Stregth]\n01100000 01E8E381 0000008F\n\n",
+        "[Always have Blue Ring]": "[Always have Blue Ring]\n01100000 01E8E342 00000087\n\n",
+        "[Always have Red Ring]": "[Always have Red Ring]\n01100000 01E8E342 0000008B\n\n",
+        "[Always have Green Necklace]": "[Always have Green Necklace]\n01100000 01E8E343 00000087\n\n",
+        "[Always have Gold Necklace]": "[Always have Gold Necklace]\n01100000 01E8E343 0000008B\n\n",
+        "[Always have Blue Crystall Ball]": "[Always have Blue Crystall Ball]\n01100000 01E8E344 00000087\n\n",
+        "[Always have Red Crystall Ball]": "[Always have Red Crystall Ball]\n01100000 01E8E344 0000008B\n\n",
+        "[Always have Treasure Box]": "[Always have Treasure Box]\n01100000 01E8E344 0000008F\n\n",
+        "[Always have Ikarus's Boots]": "[Always have Ikarus's Boots]\n01100000 01E8E345 00000087\n\n",
+        "[Always have Pot of a Life]": "[Always have Pot of a Life]\n01100000 01E8E346 00000087\n\n",
+        "[Always have Lamp of Guidance]": "[Always have Lamp of Guidance]\n01100000 01E8E346 0000008B\n\n",
+        "[Always have Siva's Mirror]": "[Always have Siva's Mirror]\n01100000 01E8E347 00000087\n\n",
+        "[Always have Leda's Mirror]": "[Always have Leda's Mirror]\n01100000 01E8E347 0000008B\n\n",
+        "[Always have Ide's Mirror]": "[Always have Ide's Mirror]\n01100000 01E8E347 0000008F\n\n",
+        "[Always have Messiah's Key]": "[Always have Messiah's Key]\n01100000 01E8E348 00000087\n\n",
+        "[Always have Harp of Protection]": "[Always have Harp of Protection]\n01100000 01E8E348 0000008B\n\n",
+        "[Always have Necklace of Shell]": "[Always have Necklace of Shell]\n01100000 01E8E349 00000087\n\n",
+        "[Always have Wing of Pegasus ]": "[Always have Wing of Pegasus ]\n01100000 01E8E349 0000008B\n\n",
+        "[Always have K ]": "[Always have K ]\n01100000 01E8E34A 00000087\n\n"
+    },
+    "attribution": {
+        "Arcade Archives ATHENA 1.0.0 by Neogranzon.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+    }
 }

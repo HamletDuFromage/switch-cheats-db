@@ -1,106 +1,34 @@
 {
-    "45F10C499223A9E4": [
-        {
-            "content": "[Money]\n581F0000 6E1387D0\n780F0000 00000890\n640F0000 00000000 03F940AA\n\n",
-            "title": "[Money]"
-        },
-        {
-            "content": "[99999999 Gold]\n04100000 6E13EF30 05F5E0FF\n\n",
-            "title": "[99999999 Gold]"
-        },
-        {
-            "content": "[Inf HP (God Mode)]\n02100000 6E2C9C90 0000270F\n\n",
-            "title": "[Inf HP (God Mode)]"
-        },
-        {
-            "content": "[Lvl Up After Battle]\n580F0000 0173DB58\n780F0000 00000024\n640F0000 00000000 3B9AC9FF\n\n",
-            "title": "[Lvl Up After Battle]"
-        },
-        {
-            "content": "[Max HP]\n580F0000 0173DB58\n780F0000 00000028\n640F0000 00000000 0000270F\n780F0000 00000008\n640F0000 00000000 0000270F\n\n",
-            "title": "[Max HP]"
-        },
-        {
-            "content": "[Max MP]\n580F0000 0173DB58\n780F0000 0000002C\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n\n",
-            "title": "[Max MP]"
-        },
-        {
-            "content": "[Max Phy Atk]\n580F0000 0173DB58\n780F0000 00000050\n640F0000 00000000 000003E7\n\n",
-            "title": "[Max Phy Atk]"
-        },
-        {
-            "content": "[Max Phy Def]\n580F0000 0173DB58\n780F0000 00000054\n640F0000 00000000 000003E7\n\n",
-            "title": "[Max Phy Def]"
-        },
-        {
-            "content": "[Max Mag Atk]\n580F0000 0173DB58\n780F0000 00000058\n640F0000 00000000 000003E7\n\n",
-            "title": "[Max Mag Atk]"
-        },
-        {
-            "content": "[Max Mag Def]\n580F0000 0173DB58\n780F0000 0000005C\n640F0000 00000000 000003E7\n\n",
-            "title": "[Max Mag Def]"
-        },
-        {
-            "content": "[Max Evade]\n580F0000 0173DB58\n780F0000 00000060\n640F0000 00000000 000003E7\n\n",
-            "title": "[Max Evade]"
-        },
-        {
-            "content": "[Max Hit Rate]\n580F0000 0173DB58\n780F0000 00000064\n640F0000 00000000 000003E7",
-            "title": "[Max Hit Rate]"
-        }
-    ],
-    "C32B29CB5FBA96D9": [
-        {
-            "content": "[01# inf Money]\n041F0000 6DD39080 000F423F\n\n",
-            "title": "[01# inf Money]"
-        },
-        {
-            "content": "[02# inf Casino coins]\n041F0000 6DD39084 0000270F\n\n",
-            "title": "[02# inf Casino coins]"
-        },
-        {
-            "content": "[03# inf HP]\n580F0000 01728B28\n780F0000 00000028\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n\n",
-            "title": "[03# inf HP]"
-        },
-        {
-            "content": "[04# inf MP]\n580F0000 01728B28\n780F0000 0000002C\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n\n",
-            "title": "[04# inf MP]"
-        },
-        {
-            "content": "[05# Max Xp]\n580F0000 01728B28\n780F0000 00000024\n640F0000 00000000 3B9AC9FF\n\n",
-            "title": "[05# Max Xp]"
-        },
-        {
-            "content": "[06# Max Attributes]\n300E0000 00000019\n01000000 12345678 00000063\n78000000 00000010\n310E0000\n20000000\n\n",
-            "title": "[06# Max Attributes]"
-        },
-        {
-            "content": "[Ultrawidescreen 21:9]\n041F0000 6E103688 401851EC\n041F0000 6E1037D8 401851EC\n041F0000 6E103928 401851EC\n041F0000 6E103C08 401851EC\n041F0000 6E103DD8 401851EC\n041F0000 6E103FB8 401851EC\n041F0000 6E1043E8 401851EC\n041F0000 6E104698 401851EC\n\n",
-            "title": "[Ultrawidescreen 21:9]"
-        },
-        {
-            "content": "[Add Stamp Cards with minus]\n80000800\n04100000 6DD40796 008B0000\n\n",
-            "title": "[Add Stamp Cards with minus]"
-        },
-        {
-            "content": "[Max Money 99 999 999]\n041F0000 6DD3C210 05F5E0FF\n\n",
-            "title": "[Max Money 99 999 999]"
-        },
-        {
-            "content": "[Max Casino coins 999 999]\n041F0000 6DD3C214 000F423F\n\n",
-            "title": "[Max Casino coins 999 999]"
-        },
-        {
-            "content": "[oliver inf HP]\n580F0000 01728B28\n780F0000 00000028\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n\n",
-            "title": "[oliver inf HP]"
-        },
-        {
-            "content": "[oliver inf MP]\n580F0000 01728B28\n780F0000 0000002C\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n\n",
-            "title": "[oliver inf MP]"
-        },
-        {
-            "content": "[Max Xp oliver add level 1 for battle]\n580F0000 01728B28\n780F0000 00000024\n640F0000 00000000 3B9AC9FF\n",
-            "title": "[Max Xp oliver add level 1 for battle]"
-        }
-    ]
+    "C32B29CB5FBA96D9": {
+        "[01# inf Money]": "[01# inf Money]\n041F0000 6DD39080 000F423F\n\n",
+        "[02# inf Casino coins]": "[02# inf Casino coins]\n041F0000 6DD39084 0000270F\n\n",
+        "[03# inf HP]": "[03# inf HP]\n580F0000 01728B28\n780F0000 00000028\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n\n",
+        "[04# inf MP]": "[04# inf MP]\n580F0000 01728B28\n780F0000 0000002C\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n\n",
+        "[05# Max Xp]": "[05# Max Xp]\n580F0000 01728B28\n780F0000 00000024\n640F0000 00000000 3B9AC9FF\n\n",
+        "[06# Max Attributes]": "[06# Max Attributes]\n300E0000 00000019\n01000000 12345678 00000063\n78000000 00000010\n310E0000\n20000000\n\n",
+        "[Ultrawidescreen 21:9]": "[Ultrawidescreen 21:9]\n041F0000 6E103688 401851EC\n041F0000 6E1037D8 401851EC\n041F0000 6E103928 401851EC\n041F0000 6E103C08 401851EC\n041F0000 6E103DD8 401851EC\n041F0000 6E103FB8 401851EC\n041F0000 6E1043E8 401851EC\n041F0000 6E104698 401851EC\n\n",
+        "[Add Stamp Cards with minus]": "[Add Stamp Cards with minus]\n80000800\n04100000 6DD40796 008B0000\n\n",
+        "[Max Money 99 999 999]": "[Max Money 99 999 999]\n041F0000 6DD3C210 05F5E0FF\n\n",
+        "[Max Casino coins 999 999]": "[Max Casino coins 999 999]\n041F0000 6DD3C214 000F423F\n\n",
+        "[oliver inf HP]": "[oliver inf HP]\n580F0000 01728B28\n780F0000 00000028\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n\n",
+        "[oliver inf MP]": "[oliver inf MP]\n580F0000 01728B28\n780F0000 0000002C\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n\n",
+        "[Max Xp oliver add level 1 for battle]": "[Max Xp oliver add level 1 for battle]\n580F0000 01728B28\n780F0000 00000024\n640F0000 00000000 3B9AC9FF\n\n"
+    },
+    "attribution": {
+        "Ni No Kuni ver 1.0,2 by patjenova and merlin555.txt": ""
+    },
+    "45F10C499223A9E4": {
+        "[Money]": "[Money]\n581F0000 6E1387D0\n780F0000 00000890\n640F0000 00000000 03F940AA\n\n",
+        "[99999999 Gold]": "[99999999 Gold]\n04100000 6E13EF30 05F5E0FF\n\n",
+        "[Inf HP (God Mode)]": "[Inf HP (God Mode)]\n02100000 6E2C9C90 0000270F\n\n",
+        "[Lvl Up After Battle]": "[Lvl Up After Battle]\n580F0000 0173DB58\n780F0000 00000024\n640F0000 00000000 3B9AC9FF\n\n",
+        "[Max HP]": "[Max HP]\n580F0000 0173DB58\n780F0000 00000028\n640F0000 00000000 0000270F\n780F0000 00000008\n640F0000 00000000 0000270F\n\n",
+        "[Max MP]": "[Max MP]\n580F0000 0173DB58\n780F0000 0000002C\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n\n",
+        "[Max Phy Atk]": "[Max Phy Atk]\n580F0000 0173DB58\n780F0000 00000050\n640F0000 00000000 000003E7\n\n",
+        "[Max Phy Def]": "[Max Phy Def]\n580F0000 0173DB58\n780F0000 00000054\n640F0000 00000000 000003E7\n\n",
+        "[Max Mag Atk]": "[Max Mag Atk]\n580F0000 0173DB58\n780F0000 00000058\n640F0000 00000000 000003E7\n\n",
+        "[Max Mag Def]": "[Max Mag Def]\n580F0000 0173DB58\n780F0000 0000005C\n640F0000 00000000 000003E7\n\n",
+        "[Max Evade]": "[Max Evade]\n580F0000 0173DB58\n780F0000 00000060\n640F0000 00000000 000003E7\n\n",
+        "[Max Hit Rate]": "[Max Hit Rate]\n580F0000 0173DB58\n780F0000 00000064\n640F0000 00000000 000003E7\n\n"
+    }
 }

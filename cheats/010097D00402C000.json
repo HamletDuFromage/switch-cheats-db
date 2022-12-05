@@ -1,24 +1,12 @@
 {
-    "3663A5C4E19B5840": [
-        {
-            "content": "[#01# Inf. HP]\n580f0000 02591940\n580f1000 000024B8\n780f0000 00000020\n640f0000 00000000 43960000\n\n",
-            "title": "[#01# Inf. HP]"
-        },
-        {
-            "content": "[#02# Inf. Blue Meter]\n580f0000 02591940\n580f1000 000024B8\n780f0000 000002F8\n640f0000 00000000 40000000\n\n",
-            "title": "[#02# Inf. Blue Meter]"
-        },
-        {
-            "content": "[#03# Inf. Green Power]\n580f0000 02591940\n580f1000 000024B8\n780f0000 000002F4\n640f0000 00000000 44444444\n\n",
-            "title": "[#03# Inf. Green Power]"
-        },
-        {
-            "content": "[#04# Inf. upgrade points]\n580f0000 02591940\n580f1000 000024B8\n580f1000 000003f0\n780f0000 00000018\n640f0000 00000000 0098967f\n\n",
-            "title": "[#04# Inf. upgrade points]"
-        },
-        {
-            "content": "[Energy unlimited]\n04000000 00130350 D503201F",
-            "title": "[Energy unlimited]"
-        }
-    ]
+    "3663A5C4E19B5840": {
+        "[#01# Inf. HP]": "[#01# Inf. HP]\n580f0000 02591940\n580f1000 000024B8\n780f0000 00000020\n640f0000 00000000 43960000\n\n",
+        "[#02# Inf. Blue Meter]": "[#02# Inf. Blue Meter]\n580f0000 02591940\n580f1000 000024B8\n780f0000 000002F8\n640f0000 00000000 40000000\n\n",
+        "[#03# Inf. Green Power]": "[#03# Inf. Green Power]\n580f0000 02591940\n580f1000 000024B8\n780f0000 000002F4\n640f0000 00000000 44444444\n\n",
+        "[#04# Inf. upgrade points]": "[#04# Inf. upgrade points]\n580f0000 02591940\n580f1000 000024B8\n580f1000 000003f0\n780f0000 00000018\n640f0000 00000000 0098967f\n\n",
+        "[Energy unlimited]": "[Energy unlimited]\n04000000 00130350 D503201F\n\n"
+    },
+    "attribution": {
+        "Dusty Raging Fist v1.0.0 by DaBlackDeath.txt": ""
+    }
 }

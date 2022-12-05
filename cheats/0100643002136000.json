@@ -1,40 +1,16 @@
 {
-    "7B0E2611E8C9CAE5": [
-        {
-            "content": "[Invincible]\n04000000 001D5EDC 52800001\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Infinite Health]\n04000000 00302AF0 D503201F\n\n",
-            "title": "[Infinite Health]"
-        },
-        {
-            "content": "[Infinite Oxygen]\n04000000 002EC064 D503201F\n\n",
-            "title": "[Infinite Oxygen]"
-        },
-        {
-            "content": "[1 Hit Kill]\n04000000 0031B2CC 1E213820\n\n",
-            "title": "[1 Hit Kill]"
-        },
-        {
-            "content": "[Infinite Ammo]\n04000000 001E73A8 D503201F\n04000000 001E2394 D503201F\n\n\n",
-            "title": "[Infinite Ammo]"
-        },
-        {
-            "content": "[Have All/Infinite Grenades]\n04000000 001DDFD0 52800120\n\n",
-            "title": "[Have All/Infinite Grenades]"
-        },
-        {
-            "content": "[Infinite Herbs]\n04000000 001E73C4 52800C68\n\n\n",
-            "title": "[Infinite Herbs]"
-        },
-        {
-            "content": "[100% Genesys]\n04000000 00573DC0 2A0903E8\n\n\n",
-            "title": "[100% Genesys]"
-        },
-        {
-            "content": "[100% Accuracy]\n04000000 00214918 5284E1E9\n04000000 0021491C B906DD09\n04000000 002C3A30 5284E1E9\n04000000 002C3A34 B906DD09\n04000000 003739EC 5284E1E9\n04000000 003739F0 B906DD09\n",
-            "title": "[100% Accuracy]"
-        }
-    ]
+    "7B0E2611E8C9CAE5": {
+        "[Invincible]": "[Invincible]\n04000000 001D5EDC 52800001\n\n",
+        "[Infinite Health]": "[Infinite Health]\n04000000 00302AF0 D503201F\n\n",
+        "[Infinite Oxygen]": "[Infinite Oxygen]\n04000000 002EC064 D503201F\n\n",
+        "[1 Hit Kill]": "[1 Hit Kill]\n04000000 0031B2CC 1E213820\n\n",
+        "[Infinite Ammo]": "[Infinite Ammo]\n04000000 001E73A8 D503201F\n04000000 001E2394 D503201F\n\n",
+        "[Have All/Infinite Grenades]": "[Have All/Infinite Grenades]\n04000000 001DDFD0 52800120\n\n",
+        "[Infinite Herbs]": "[Infinite Herbs]\n04000000 001E73C4 52800C68\n\n",
+        "[100% Genesys]": "[100% Genesys]\n04000000 00573DC0 2A0903E8\n\n",
+        "[100% Accuracy]": "[100% Accuracy]\n04000000 00214918 5284E1E9\n04000000 0021491C B906DD09\n04000000 002C3A30 5284E1E9\n04000000 002C3A34 B906DD09\n04000000 003739EC 5284E1E9\n04000000 003739F0 B906DD09\n\n"
+    },
+    "attribution": {
+        "Resident Evil - Revelations.txt": ""
+    }
 }

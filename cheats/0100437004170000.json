@@ -1,50 +1,20 @@
 {
-    "4F3D7062D176246D": [
-        {
-            "content": "[Unlimited Items (On)]\n04000000 003E7400 D503201F\n\n",
-            "title": "[Unlimited Items (On)]"
-        },
-        {
-            "content": "[Unlimited Items (Off)]\n04000000 003E7400 4B0C014A\n\n",
-            "title": "[Unlimited Items (Off)]"
-        },
-        {
-            "content": "[Toggle Unlimited Items (Press Minus)(AMS only)]\n80000800\n540F0000 003E7400\nC045F400 4B0C014A\n04000000 003E7400 D503201F\n20000000\nC045F400 D503201F\n04000000 003E7400 4B0C014A\n20000000\n20000000\n\n",
-            "title": "[Toggle Unlimited Items (Press Minus)(AMS only)]"
-        },
-        {
-            "content": "[Don't fall Down (Hold ZL)]\n04000000 003BC6E0 BD000662\n80000100\n04000000 003BC6E0 D503201F\n20000000\n\n",
-            "title": "[Don't fall Down (Hold ZL)]"
-        },
-        {
-            "content": "[No Fall Damage (On)]\n04000000 003BD480 D503201F\n\n",
-            "title": "[No Fall Damage (On)]"
-        },
-        {
-            "content": "[No Fall Damage (Off)]\n04000000 003BD480 1E283800\n\n",
-            "title": "[No Fall Damage (Off)]"
-        },
-        {
-            "content": "[Always Revive with 100% HP/Mana/Oxy (On)]\n04000000 00BA3CC8 3F800000\n\n",
-            "title": "[Always Revive with 100% HP/Mana/Oxy (On)]"
-        },
-        {
-            "content": "[Always Revive with 100% HP/Mana/Oxy (Off)]\n04000000 00BA3CC8 3EE147AE\n\n",
-            "title": "[Always Revive with 100% HP/Mana/Oxy (Off)]"
-        },
-        {
-            "content": "[Unlimited Range in Build Mode (On)]\n04000000 00BA3E3C 461C3C00\n04000000 00BA3E40 461C3C00\n04000000 00BA3E44 461C3C00\n\n",
-            "title": "[Unlimited Range in Build Mode (On)]"
-        },
-        {
-            "content": "[Unlimited Range in Build Mode (Off)]\n04000000 00BA3E3C 41700000\n04000000 00BA3E40 41A00000\n04000000 00BA3E44 41700000",
-            "title": "[Unlimited Range in Build Mode (Off)]"
-        }
-    ],
-    "D59D81C06F923846": [
-        {
-            "content": "[Hearts MAX with minus]\n80000800\n580F0000 01772AA0\n580F1000 00000050\n580F1000 00000018\n580F1000 00000000\n580F1000 00000010\n780F0000 00000088\n640F0000 00000000 4B189680\n",
-            "title": "[Hearts MAX with minus]"
-        }
-    ]
+    "D59D81C06F923846": {
+        "[Hearts MAX with minus]": "[Hearts MAX with minus]\n80000800\n580F0000 01772AA0\n580F1000 00000050\n580F1000 00000018\n580F1000 00000000\n580F1000 00000010\n780F0000 00000088\n640F0000 00000000 4B189680\n\n"
+    },
+    "4F3D7062D176246D": {
+        "[Unlimited Items (On)]": "[Unlimited Items (On)]\n04000000 003E7400 D503201F\n\n",
+        "[Unlimited Items (Off)]": "[Unlimited Items (Off)]\n04000000 003E7400 4B0C014A\n\n",
+        "[Toggle Unlimited Items (Press Minus)(AMS only)]": "[Toggle Unlimited Items (Press Minus)(AMS only)]\n80000800\n540F0000 003E7400\nC045F400 4B0C014A\n04000000 003E7400 D503201F\n20000000\nC045F400 D503201F\n04000000 003E7400 4B0C014A\n20000000\n20000000\n\n",
+        "[Don't fall Down (Hold ZL)]": "[Don't fall Down (Hold ZL)]\n04000000 003BC6E0 BD000662\n80000100\n04000000 003BC6E0 D503201F\n20000000\n\n",
+        "[No Fall Damage (On)]": "[No Fall Damage (On)]\n04000000 003BD480 D503201F\n\n",
+        "[No Fall Damage (Off)]": "[No Fall Damage (Off)]\n04000000 003BD480 1E283800\n\n",
+        "[Always Revive with 100% HP/Mana/Oxy (On)]": "[Always Revive with 100% HP/Mana/Oxy (On)]\n04000000 00BA3CC8 3F800000\n\n",
+        "[Always Revive with 100% HP/Mana/Oxy (Off)]": "[Always Revive with 100% HP/Mana/Oxy (Off)]\n04000000 00BA3CC8 3EE147AE\n\n",
+        "[Unlimited Range in Build Mode (On)]": "[Unlimited Range in Build Mode (On)]\n04000000 00BA3E3C 461C3C00\n04000000 00BA3E40 461C3C00\n04000000 00BA3E44 461C3C00\n\n",
+        "[Unlimited Range in Build Mode (Off)]": "[Unlimited Range in Build Mode (Off)]\n04000000 00BA3E3C 41700000\n04000000 00BA3E40 41A00000\n04000000 00BA3E44 41700000\n\n"
+    },
+    "attribution": {
+        "Portal Knights 1.5.3 and 1.7.2 by merlin555.txt": "Hearts MAX are not infinite.\nWorks only with a new charackter !!\nPress the Minus button several times until the maximum heart is reached.\nEach character and weapon has a different number of MAX hearts.\n7 to 20 hearts are possible from beginning.\nThen press \"X\" and forgive the points in Endurance until you have 20 hearts."
+    }
 }

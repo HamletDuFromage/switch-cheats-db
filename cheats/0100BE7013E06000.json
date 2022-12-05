@@ -1,58 +1,22 @@
 {
-    "14C7986BEB94A1A1": [
-        {
-            "content": "[hit range normal]\n04000000 00619760 1E2E1013\n\n",
-            "title": "[hit range normal]"
-        },
-        {
-            "content": "[hit range 5x]\n04000000 00619760 1E229013\n\n",
-            "title": "[hit range 5x]"
-        },
-        {
-            "content": "[hit range 10x]\n04000000 00619760 1E249013\n\n",
-            "title": "[hit range 10x]"
-        },
-        {
-            "content": "[hit range 31x]\n04000000 00619760 1E27F013\n\n",
-            "title": "[hit range 31x]"
-        },
-        {
-            "content": "[Default 60 FPS]\n580F0000 02A21C00\n580F1000 00002040\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-            "title": "[Default 60 FPS]"
-        },
-        {
-            "content": "[30 FPS]\n580F0000 02A21C00\n580F1000 00002040\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
-            "title": "[30 FPS]"
-        },
-        {
-            "content": "[Invincible]\n080E0000 01162800 B947C128 B943F92A\n080E0000 01162808 1A881168 7100011F\n080E0000 01162810 D65F03C0 D503201F\n040E0000 00235A00 943CB380\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Damage 5x]\n080E0000 01162830 B947C109 D503201F\n080E0000 01162838 528000A9 7100013F\n080E0000 01162840 1A8912B5 1B157D29\n080E0000 01162848 D65F03C0 B943F908\n040E0000 002359B8 943CB39E\n\n",
-            "title": "[Damage 5x]"
-        },
-        {
-            "content": "[EXP 5x]\n040E0000 00382734 0B020856\n\n",
-            "title": "[EXP 5x]"
-        },
-        {
-            "content": "[Inf. MP]\n040E0000 0023F228 2A1F03E9\n\n",
-            "title": "[Inf. MP]"
-        },
-        {
-            "content": "[Running Speed 2.5X]\n040E0000 0030152C 1E209001\n040E0000 00300FA8 1E209000\n\n",
-            "title": "[Running Speed 2.5X]"
-        }
-    ],
-    "2C931E8A8748ECCF": [
-        {
-            "content": "[ hitanywhere]\n04000000 0061E688 D65F03C0\n\n",
-            "title": "[ hitanywhere]"
-        },
-        {
-            "content": "[hitanywhere off]\n04000000 0061E688 D10743FF",
-            "title": "[hitanywhere off]"
-        }
-    ]
+    "14C7986BEB94A1A1": {
+        "[hit range normal]": "[hit range normal]\n04000000 00619760 1E2E1013\n\n",
+        "[hit range 5x]": "[hit range 5x]\n04000000 00619760 1E229013\n\n",
+        "[hit range 10x]": "[hit range 10x]\n04000000 00619760 1E249013\n\n",
+        "[hit range 31x]": "[hit range 31x]\n04000000 00619760 1E27F013\n\n",
+        "[Default 60 FPS]": "[Default 60 FPS]\n580F0000 02A21C00\n580F1000 00002040\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 02A21C00\n580F1000 00002040\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+        "[Invincible]": "[Invincible]\n080E0000 01162800 B947C128 B943F92A\n080E0000 01162808 1A881168 7100011F\n080E0000 01162810 D65F03C0 D503201F\n040E0000 00235A00 943CB380\n\n",
+        "[Damage 5x]": "[Damage 5x]\n080E0000 01162830 B947C109 D503201F\n080E0000 01162838 528000A9 7100013F\n080E0000 01162840 1A8912B5 1B157D29\n080E0000 01162848 D65F03C0 B943F908\n040E0000 002359B8 943CB39E\n\n",
+        "[EXP 5x]": "[EXP 5x]\n040E0000 00382734 0B020856\n\n",
+        "[Inf. MP]": "[Inf. MP]\n040E0000 0023F228 2A1F03E9\n\n",
+        "[Running Speed 2.5X]": "[Running Speed 2.5X]\n040E0000 0030152C 1E209001\n040E0000 00300FA8 1E209000\n\n"
+    },
+    "attribution": {
+        "Ni no Kuni II Revenant Kingdom PRINCES EDITION ver 1.0.0 and 1.0.1 by Eiffel2018 and xtatu and HAZEROU.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    },
+    "2C931E8A8748ECCF": {
+        "[ hitanywhere]": "[ hitanywhere]\n04000000 0061E688 D65F03C0\n\n",
+        "[hitanywhere off]": "[hitanywhere off]\n04000000 0061E688 D10743FF\n\n"
+    }
 }

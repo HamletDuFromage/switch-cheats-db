@@ -1,40 +1,13 @@
 {
-    "A7643F3B7D8EE906": [
-        {
-            "content": "[Shin Megami Tensei V (HK) v1.0.1(v65536)  TID=010038D0133C2000  BID=A7643F3B7D8EE906 ]\n\n",
-            "title": "[Shin Megami Tensei V (HK) v1.0.1(v65536)  TID=010038D0133C2000  BID=A7643F3B7D8EE906 ]"
-        },
-        {
-            "content": "{Created by Eiffel2018, enjoy!}\n080E0000 03E0AEE0 0B000800 7100001F\n080E0000 03E0AEE8 D65F03C0 1A80D3F3\n080E0000 03E0AEF0 7100015F 2942ABE8\n080E0000 03E0AEF8 D65F03C0 1A8AD3EA\n080E0000 03E0AF00 B9403D0A 9B085F08\n080E0000 03E0AF08 36F80053 3500006A\n080E0000 03E0AF10 D65F03C0 2A1F03F3\n080E0000 03E0AF18 7100011F B9400FE8\n080E0000 03E0AF20 D65F03C0 1A88B3E8\n\n",
-            "title": "{Created by Eiffel2018, enjoy!}"
-        },
-        {
-            "content": "[Godmode (HP & MP not decrease)]\n040E0000 01189A78 94B20522 \n040E0000 01500FC8 94A427CA\n",
-            "title": "[Godmode (HP & MP not decrease)]"
-        },
-        {
-            "content": "[Godmode off]\n040E0000 01189A78 9B085F08\n040E0000 01500FC8 2942ABE8\n\n",
-            "title": "[Godmode off]"
-        },
-        {
-            "content": "[Makka(Money) hack (5x gain, no decrease)]\n040E0000 01237DB4 94AF4C4B\n040E0000 01581C2C 94A224BB\n\n",
-            "title": "[Makka(Money) hack (5x gain, no decrease)]"
-        },
-        {
-            "content": "[Glory hack (5x gain, no decrease)]\n040E0000 012689F4 94AE893B\n\n",
-            "title": "[Glory hack (5x gain, no decrease)]"
-        },
-        {
-            "content": "[Consumables not decrease]\n040E0000 0126ABEC 2A1F03F3\n\n",
-            "title": "[Consumables not decrease]"
-        },
-        {
-            "content": "[5x Exp]\n040E0000 012362D4 0B010833\n040E0000 0124953C 0B010833\n\n",
-            "title": "[5x Exp]"
-        },
-        {
-            "content": "[65x Exp]\n040E0000 012362D4 0B011833\n040E0000 0124953C 0B011833\n\n",
-            "title": "[65x Exp]"
-        }
-    ]
+    "A7643F3B7D8EE906": {
+        "[Shin Megami Tensei V (HK) v1.0.1(v65536)  TID=010038D0133C2000  BID=A7643F3B7D8EE906 ]": "[Shin Megami Tensei V (HK) v1.0.1(v65536)  TID=010038D0133C2000  BID=A7643F3B7D8EE906 ]\n\n",
+        "{Created by Eiffel2018, enjoy!}": "{Created by Eiffel2018, enjoy!}\n080E0000 03E0AEE0 0B000800 7100001F\n080E0000 03E0AEE8 D65F03C0 1A80D3F3\n080E0000 03E0AEF0 7100015F 2942ABE8\n080E0000 03E0AEF8 D65F03C0 1A8AD3EA\n080E0000 03E0AF00 B9403D0A 9B085F08\n080E0000 03E0AF08 36F80053 3500006A\n080E0000 03E0AF10 D65F03C0 2A1F03F3\n080E0000 03E0AF18 7100011F B9400FE8\n080E0000 03E0AF20 D65F03C0 1A88B3E8\n\n",
+        "[Godmode (HP & MP not decrease)]": "[Godmode (HP & MP not decrease)]\n040E0000 01189A78 94B20522 \n040E0000 01500FC8 94A427CA\n\n",
+        "[Godmode off]": "[Godmode off]\n040E0000 01189A78 9B085F08\n040E0000 01500FC8 2942ABE8\n\n",
+        "[Makka(Money) hack (5x gain, no decrease)]": "[Makka(Money) hack (5x gain, no decrease)]\n040E0000 01237DB4 94AF4C4B\n040E0000 01581C2C 94A224BB\n\n",
+        "[Glory hack (5x gain, no decrease)]": "[Glory hack (5x gain, no decrease)]\n040E0000 012689F4 94AE893B\n\n",
+        "[Consumables not decrease]": "[Consumables not decrease]\n040E0000 0126ABEC 2A1F03F3\n\n",
+        "[5x Exp]": "[5x Exp]\n040E0000 012362D4 0B010833\n040E0000 0124953C 0B010833\n\n",
+        "[65x Exp]": "[65x Exp]\n040E0000 012362D4 0B011833\n040E0000 0124953C 0B011833\n\n"
+    }
 }

@@ -1,76 +1,28 @@
 {
-    "5A5E278A9102D445": [
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 02B998F8\n580F1000 00000030\n780F0000 000000B4\n640F0000 00000000 C3800000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Walk Through Walls (Hold ZL)]\n580F0000 02B998F8\n580F1000 00000030\n780F0000 00000038\n640F0000 00000000 41200000\n80000100\n640F0000 00000000 C1200000\n20000000\n\n",
-            "title": "[Walk Through Walls (Hold ZL)]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 02B998F8\n580F1000 00000030\n780F0000 000002E0\n640F0000 00000000 50000000\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf HP]\n580F0000 02B99638\n780F0000 00000018\n680F0000 00000063 00000063\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Inf Shield]\n580F0000 02B99638\n780F0000 00000020\n680F0000 00000005 00000005\n\n",
-            "title": "[Inf Shield]"
-        },
-        {
-            "content": "[Inf Ammo]\n580F0000 02B99638\n780F0000 0000004C\n640F0000 00000000 00000007",
-            "title": "[Inf Ammo]"
-        }
-    ],
-    "BF34BBC69AB7C936": [
-        {
-            "content": "[Inf HP]\n580F0000 02A0CB70\n780F0000 00000018\n680F0000 00000063 00000063\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Inf Shield]\n580F0000 02A0CB70\n780F0000 00000020\n680F0000 00000005 00000005\n\n",
-            "title": "[Inf Shield]"
-        },
-        {
-            "content": "[Inf Ammo]\n580F0000 02A0CB70\n780F0000 0000004C\n640F0000 00000000 00000007\n\n",
-            "title": "[Inf Ammo]"
-        },
-        {
-            "content": "[Moon Jump ZiT]\n80000002\n580F0000 02A0CE30\n580F1000 00000030\n780F0000 000000B4\n640F0000 00000000 C3800000\n20000000\n\n",
-            "title": "[Moon Jump ZiT]"
-        },
-        {
-            "content": "[Walk Through Walls (Hold ZL)]\n580F0000 02A0CE30\n580F1000 00000030\n780F0000 00000038\n640F0000 00000000 41200000\n80000100\n640F0000 00000000 C1200000\n20000000\n\n",
-            "title": "[Walk Through Walls (Hold ZL)]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 02A0CE30\n580F1000 00000030\n780F0000 000002E0\n640F0000 00000000 50000000",
-            "title": "[Invincible]"
-        }
-    ],
-    "EDEF023BA60C527F": [
-        {
-            "content": "[Inf HP]\n580F0000 02A0DBB0\n780F0000 00000018\n680F0000 00000063 00000063\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Inf Shield]\n580F0000 02A0DBB0\n780F0000 00000020\n680F0000 00000005 00000005\n\n",
-            "title": "[Inf Shield]"
-        },
-        {
-            "content": "[Inf Ammo]\n580F0000 02A0DBB0\n780F0000 0000004C\n640F0000 00000000 00000007\n\n",
-            "title": "[Inf Ammo]"
-        },
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 02A0DE70\n580F1000 00000038\n780F0000 000000C0\n640F0000 00000000 C3800000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Walk Through Walls (Hold ZL)]\n580F0000 02A0DE70\n580F1000 00000038\n780F0000 00000038\n640F0000 00000000 41200000\n80000100\n640F0000 00000000 C1200000\n20000000",
-            "title": "[Walk Through Walls (Hold ZL)]"
-        }
-    ]
+    "EDEF023BA60C527F": {
+        "[Inf HP]": "[Inf HP]\n580F0000 02A0DBB0\n780F0000 00000018\n680F0000 00000063 00000063\n\n",
+        "[Inf Shield]": "[Inf Shield]\n580F0000 02A0DBB0\n780F0000 00000020\n680F0000 00000005 00000005\n\n",
+        "[Inf Ammo]": "[Inf Ammo]\n580F0000 02A0DBB0\n780F0000 0000004C\n640F0000 00000000 00000007\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 02A0DE70\n580F1000 00000038\n780F0000 000000C0\n640F0000 00000000 C3800000\n20000000\n\n",
+        "[Walk Through Walls (Hold ZL)]": "[Walk Through Walls (Hold ZL)]\n580F0000 02A0DE70\n580F1000 00000038\n780F0000 00000038\n640F0000 00000000 41200000\n80000100\n640F0000 00000000 C1200000\n20000000\n\n"
+    },
+    "5A5E278A9102D445": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 02B998F8\n580F1000 00000030\n780F0000 000000B4\n640F0000 00000000 C3800000\n20000000\n\n",
+        "[Walk Through Walls (Hold ZL)]": "[Walk Through Walls (Hold ZL)]\n580F0000 02B998F8\n580F1000 00000030\n780F0000 00000038\n640F0000 00000000 41200000\n80000100\n640F0000 00000000 C1200000\n20000000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 02B998F8\n580F1000 00000030\n780F0000 000002E0\n640F0000 00000000 50000000\n\n",
+        "[Inf HP]": "[Inf HP]\n580F0000 02B99638\n780F0000 00000018\n680F0000 00000063 00000063\n\n",
+        "[Inf Shield]": "[Inf Shield]\n580F0000 02B99638\n780F0000 00000020\n680F0000 00000005 00000005\n\n",
+        "[Inf Ammo]": "[Inf Ammo]\n580F0000 02B99638\n780F0000 0000004C\n640F0000 00000000 00000007\n\n"
+    },
+    "BF34BBC69AB7C936": {
+        "[Inf HP]": "[Inf HP]\n580F0000 02A0CB70\n780F0000 00000018\n680F0000 00000063 00000063\n\n",
+        "[Inf Shield]": "[Inf Shield]\n580F0000 02A0CB70\n780F0000 00000020\n680F0000 00000005 00000005\n\n",
+        "[Inf Ammo]": "[Inf Ammo]\n580F0000 02A0CB70\n780F0000 0000004C\n640F0000 00000000 00000007\n\n",
+        "[Moon Jump ZiT]": "[Moon Jump ZiT]\n80000002\n580F0000 02A0CE30\n580F1000 00000030\n780F0000 000000B4\n640F0000 00000000 C3800000\n20000000\n\n",
+        "[Walk Through Walls (Hold ZL)]": "[Walk Through Walls (Hold ZL)]\n580F0000 02A0CE30\n580F1000 00000030\n780F0000 00000038\n640F0000 00000000 41200000\n80000100\n640F0000 00000000 C1200000\n20000000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 02A0CE30\n580F1000 00000030\n780F0000 000002E0\n640F0000 00000000 50000000\n\n"
+    },
+    "attribution": {
+        "ScourgeBringer ver 1.0.0 by ZiT and ver 1.0.1 by arismendy64 and updated by TomSwitch.txt": "\u203b If you activate the code at the start of the game, it will freeze."
+    }
 }

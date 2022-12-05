@@ -1,24 +1,12 @@
 {
-    "F0AFC43D4E9E6540": [
-        {
-            "content": "[Infinite Tower HP]\n040E0000 017A0BB8 17FFFFF2\n\n",
-            "title": "[Infinite Tower HP]"
-        },
-        {
-            "content": "[Infinite Energy]\n040E0000 017A0A88 2A1F03F4\n\n",
-            "title": "[Infinite Energy]"
-        },
-        {
-            "content": "[16x Gold Award]\n040E0000 0140A7BC 531C6D00\n\n",
-            "title": "[16x Gold Award]"
-        },
-        {
-            "content": "[5x Clan XP]\n080E0000 0151E084 1E280800 1E229008\n040E0000 0151E08C D65F03C0\n\n",
-            "title": "[5x Clan XP]"
-        },
-        {
-            "content": "[Created by Eiffel2018, enjoy!]\n20000000",
-            "title": "[Created by Eiffel2018, enjoy!]"
-        }
-    ]
+    "F0AFC43D4E9E6540": {
+        "[Infinite Tower HP]": "[Infinite Tower HP]\n040E0000 017A0BB8 17FFFFF2\n\n",
+        "[Infinite Energy]": "[Infinite Energy]\n040E0000 017A0A88 2A1F03F4\n\n",
+        "[16x Gold Award]": "[16x Gold Award]\n040E0000 0140A7BC 531C6D00\n\n",
+        "[5x Clan XP]": "[5x Clan XP]\n080E0000 0151E084 1E280800 1E229008\n040E0000 0151E08C D65F03C0\n\n",
+        "[Created by Eiffel2018, enjoy!]": "[Created by Eiffel2018, enjoy!]\n20000000\n\n"
+    },
+    "attribution": {
+        "Monster Train (US) v2.0.0(v0) by Eiffel2018.txt": ""
+    }
 }

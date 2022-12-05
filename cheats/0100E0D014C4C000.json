@@ -1,24 +1,12 @@
 {
-    "4033E17AA065677A": [
-        {
-            "content": "[Invincible]\n040E0000 014EB3F4 D503201F\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf Ammo / Bomb]\n040E0000 016181F8 B9402E68\n\n",
-            "title": "[Inf Ammo / Bomb]"
-        },
-        {
-            "content": "[Inf Stamina]\n040E0000 0174A720 D65F03C0\n\n",
-            "title": "[Inf Stamina]"
-        },
-        {
-            "content": "[Inf Money]\n010E0000 015E53BA 0000001F\n\n",
-            "title": "[Inf Money]"
-        },
-        {
-            "content": "[Walking Speed Up after Rolling]\n010E0000 0166BE5E 00000021\n010E0000 0166BFB2 00000020\n\n",
-            "title": "[Walking Speed Up after Rolling]"
-        }
-    ]
+    "4033E17AA065677A": {
+        "[Invincible]": "[Invincible]\n040E0000 014EB3F4 D503201F\n\n",
+        "[Inf Ammo / Bomb]": "[Inf Ammo / Bomb]\n040E0000 016181F8 B9402E68\n\n",
+        "[Inf Stamina]": "[Inf Stamina]\n040E0000 0174A720 D65F03C0\n\n",
+        "[Inf Money]": "[Inf Money]\n010E0000 015E53BA 0000001F\n\n",
+        "[Walking Speed Up after Rolling]": "[Walking Speed Up after Rolling]\n010E0000 0166BE5E 00000021\n010E0000 0166BFB2 00000020\n\n"
+    },
+    "attribution": {
+        "Space Revenge v1.0.0 by Eiffel2018.txt": "Note: Better use NOEXES to avoid game lag"
+    }
 }

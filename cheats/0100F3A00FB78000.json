@@ -1,28 +1,13 @@
 {
-    "6911A0B8B685E532": [
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 0491E230\n580F1000 00000690\n580F1000 000001D8\n580F1000 000006E0\n780F0000 00000110\n640F0000 00000000 00000050\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Speed Up]\n580F0000 0491E230\n580F1000 00000690\n580F1000 000001D8\n580F1000 000006E0\n780F0000 00000114\n640F0000 00000000 00000300\n\n",
-            "title": "[Speed Up]"
-        },
-        {
-            "content": "[Inf Health]\n580F0000 0491E230\n580F1000 00000690\n580F1000 000001D8\n580F1000 000006E0\n780F0000 000001D8\n640F0000 00000000 00000074\n\n",
-            "title": "[Inf Health]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 0491E230\n580F1000 00000690\n580F1000 000001D8\n580F1000 000006E0\n780F0000 00000214\n640F0000 00000000 00000100\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf Kunai]\n580F0000 0491E230\n580F1000 00000690\n580F1000 000001D8\n580F1000 000006E0\n780F0000 00000300\n640F0000 00000000 000003E8\n\n",
-            "title": "[Inf Kunai]"
-        },
-        {
-            "content": "[Inf Ninjutsu]\n580F0000 0491E230\n580F1000 00000690\n580F1000 000001D8\n580F1000 000006E0\n780F0000 0000030C\n640F0000 00000000 0000012C",
-            "title": "[Inf Ninjutsu]"
-        }
-    ]
+    "6911A0B8B685E532": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 0491E230\n580F1000 00000690\n580F1000 000001D8\n580F1000 000006E0\n780F0000 00000110\n640F0000 00000000 00000050\n20000000\n\n",
+        "[Speed Up]": "[Speed Up]\n580F0000 0491E230\n580F1000 00000690\n580F1000 000001D8\n580F1000 000006E0\n780F0000 00000114\n640F0000 00000000 00000300\n\n",
+        "[Inf Health]": "[Inf Health]\n580F0000 0491E230\n580F1000 00000690\n580F1000 000001D8\n580F1000 000006E0\n780F0000 000001D8\n640F0000 00000000 00000074\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 0491E230\n580F1000 00000690\n580F1000 000001D8\n580F1000 000006E0\n780F0000 00000214\n640F0000 00000000 00000100\n\n",
+        "[Inf Kunai]": "[Inf Kunai]\n580F0000 0491E230\n580F1000 00000690\n580F1000 000001D8\n580F1000 000006E0\n780F0000 00000300\n640F0000 00000000 000003E8\n\n",
+        "[Inf Ninjutsu]": "[Inf Ninjutsu]\n580F0000 0491E230\n580F1000 00000690\n580F1000 000001D8\n580F1000 000006E0\n780F0000 0000030C\n640F0000 00000000 0000012C\n\n"
+    },
+    "attribution": {
+        "Mononoke SlashDown by ZiT866.txt": "CC buttle and AP buttle codes will only apply during battle\nthese code are only work with atmosphere,because code include address and value check to avoid crash\nI'm not sure that the check is enough to avoid crash,so it's better to use only field cheat code."
+    }
 }

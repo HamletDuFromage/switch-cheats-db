@@ -1,24 +1,12 @@
 {
-    "20C625AC27190391": [
-        {
-            "content": "[Invulnerable On]\n04000000 00013F84 D65F03C0\n\n",
-            "title": "[Invulnerable On]"
-        },
-        {
-            "content": "[Invulnerable Off]\n04000000 00013F84 6DBC23E9\n\n",
-            "title": "[Invulnerable Off]"
-        },
-        {
-            "content": "[Inf HP]\n580F0000 01924698\n580F1000 00000098\n580F1000 00000008\n580F1000 00000010\n780F0000 00000018\n680F0000 0000000C 0000000D\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Inf SP]\n580F0000 01924698\n580F1000 00000098\n580F1000 00000008\n580F1000 00000010\n780F0000 00000030\n680F0000 00000190 00000190\n\n",
-            "title": "[Inf SP]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 01924B28\n580F1000 00000098\n580F1000 00000010\n580F1000 00000020\n780F0000 00000050\n640F0000 00000000 50000000\n",
-            "title": "[Invincible]"
-        }
-    ]
+    "20C625AC27190391": {
+        "[Invulnerable On]": "[Invulnerable On]\n04000000 00013F84 D65F03C0\n\n",
+        "[Invulnerable Off]": "[Invulnerable Off]\n04000000 00013F84 6DBC23E9\n\n",
+        "[Inf HP]": "[Inf HP]\n580F0000 01924698\n580F1000 00000098\n580F1000 00000008\n580F1000 00000010\n780F0000 00000018\n680F0000 0000000C 0000000D\n\n",
+        "[Inf SP]": "[Inf SP]\n580F0000 01924698\n580F1000 00000098\n580F1000 00000008\n580F1000 00000010\n780F0000 00000030\n680F0000 00000190 00000190\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 01924B28\n580F1000 00000098\n580F1000 00000010\n580F1000 00000020\n780F0000 00000050\n640F0000 00000000 50000000\n\n"
+    },
+    "attribution": {
+        "KAMIKO 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

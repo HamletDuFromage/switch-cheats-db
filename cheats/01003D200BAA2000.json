@@ -1,262 +1,73 @@
 {
-    "3AB632DEE82D5944": [
-        {
-            "content": "[HP is not reduced]\n04000000 02949F00 B9403682\n04000000 02949F04 51001842\n04000000 02949F08 7100005F\n04000000 02949F0C 5400004A\n04000000 02949F10 2A0003E8\n04000000 02949F14 B9000A88\n04000000 02949F18 D65F03C0\n04000000 026CC394 9409F6DB\n\n",
-            "title": "[HP is not reduced]"
-        },
-        {
-            "content": "[HP is not reduced Close]\n04000000 026CC394 B9000A88\n\n",
-            "title": "[HP is not reduced Close]"
-        },
-        {
-            "content": "[PP is not reduced]\n04000000 0262D394 1A80C008\n04000000 0262D428 1A80C008\n\n",
-            "title": "[PP is not reduced]"
-        },
-        {
-            "content": "[Will not be hungry]\n04000000 026CC750 1A80B008\n04000000 026CC7A8 1A80B008\n\n",
-            "title": "[Will not be hungry]"
-        },
-        {
-            "content": "[Money is not reduced]\n04000000 02949F20 7100027F\n04000000 02949F24 5400004A\n04000000 02949F28 52800013\n04000000 02949F2C 0B130001\n04000000 02949F30 D65F03C0\n04000000 0261ADFC 940CBC49\n\n",
-            "title": "[Money is not reduced]"
-        },
-        {
-            "content": "[Warehouse items are not reduced]\n04000000 0281D65C 6B1F02E1\n\n",
-            "title": "[Warehouse items are not reduced]"
-        },
-        {
-            "content": "[PM Experience Max On]\n04000000 026CC990 12BFE000\n\n",
-            "title": "[PM Experience Max On]"
-        },
-        {
-            "content": "[PM Experience Max Close]\n04000000 026CC990 B9401C00\n\n",
-            "title": "[PM Experience Max Close]"
-        },
-        {
-            "content": "[Rescue team experience 4x]\n04000000 02949F40 52800091\n04000000 02949F44 1B117C21\n04000000 02949F48 2A0103F4\n04000000 02949F4C D65F03C0\n04000000 0281A804 9404BDCF\n\n",
-            "title": "[Rescue team experience 4x]"
-        },
-        {
-            "content": "[Rescue Team Experience 8x]\n04000000 02949F40 52800111\n04000000 02949F44 1B117C21\n04000000 02949F48 2A0103F4\n04000000 02949F4C D65F03C0\n04000000 0281A804 9404BDCF\n\n",
-            "title": "[Rescue Team Experience 8x]"
-        },
-        {
-            "content": "[Rescue Team Experience 16x]\n04000000 02949F40 52800211\n04000000 02949F44 1B117C21\n04000000 02949F48 2A0103F4\n04000000 02949F4C D65F03C0\n04000000 0281A804 9404BDCF\n\n",
-            "title": "[Rescue Team Experience 16x]"
-        },
-        {
-            "content": "[Pocket Bank Money Max]\n04000000 0281D3BC 1A88B108\n\n",
-            "title": "[Pocket Bank Money Max]"
-        },
-        {
-            "content": "[2x HP growth rate (when upgrading)]\n04000000 026CC568 0B1406A8\n\n",
-            "title": "[2x HP growth rate (when upgrading)]"
-        },
-        {
-            "content": "[4x HP growth rate (when upgrading)]\n04000000 026CC568 0B140AA8\n\n",
-            "title": "[4x HP growth rate (when upgrading)]"
-        },
-        {
-            "content": "[HP growth rate 8 times (when upgrading)\uff09]\n04000000 026CC568 0B140EA8",
-            "title": "[HP growth rate 8 times (when upgrading)\uff09]"
-        }
-    ],
-    "9DDA1EFEEF70DE46": [
-        {
-            "content": "[01# Max health Player]\n08000000 05562290 000001F4 000001F4\n\n",
-            "title": "[01# Max health Player]"
-        },
-        {
-            "content": "[02# Max health Partner]\n08000000 055623E0 000001F4 000001F4\n\n",
-            "title": "[02# Max health Partner]"
-        },
-        {
-            "content": "[03# Max health 3rd Partner]\n04000000 05562680 000001F4 000001F4\n\n",
-            "title": "[03# Max health 3rd Partner]"
-        },
-        {
-            "content": "[04# Max health 4th Partner]\n08000000 055627D0 000001F4 000001F4\n\n",
-            "title": "[04# Max health 4th Partner]"
-        },
-        {
-            "content": "[05# Max health 5th Partner]\n08000000 05562920 000001F4 000001F4\n\n",
-            "title": "[05# Max health 5th Partner]"
-        },
-        {
-            "content": "[06# 999 Xp Player]\n04000000 055622A4 000003E7\n\n",
-            "title": "[06# 999 Xp Player]"
-        },
-        {
-            "content": "[07# 999 Xp Partner]\n04000000 055623F4 000003E7\n\n",
-            "title": "[07# 999 Xp Partner]"
-        },
-        {
-            "content": "[05# inf belly player]\n04000000 05562298 00004E20\n\n",
-            "title": "[05# inf belly player]"
-        },
-        {
-            "content": "[08# inf belly Partner]\n04000000 055623E8 00004E20\n\n",
-            "title": "[08# inf belly Partner]"
-        },
-        {
-            "content": "[09# inf money]\n04000000 05566B24 0000270F\n\n",
-            "title": "[09# inf money]"
-        },
-        {
-            "content": "[10# Deposit/Withdraw in Bank to get max Money]\n04000000 0261A604 0098967F\n04000000 0261A5EC 180000C1\n\n",
-            "title": "[10# Deposit/Withdraw in Bank to get max Money]"
-        },
-        {
-            "content": "[11# PP is not reduced]\n04000000 0262D294 1A80C008\n04000000 0262D328 1A80C008\n\n",
-            "title": "[11# PP is not reduced]"
-        },
-        {
-            "content": "[12# money 16x]\n04000000 027A2D54 0B0012E1\n\n",
-            "title": "[12# money 16x]"
-        },
-        {
-            "content": "[13# Inf Bell]\n04000000 026CC540 1A80B008\n04000000 026CC598 1A80B008\n\n",
-            "title": "[13# Inf Bell]"
-        },
-        {
-            "content": "[14# Level up 2x]\n04000000 02768634 0B160414\n\n",
-            "title": "[14# Level up 2x]"
-        },
-        {
-            "content": "[15# Level up 4x]\n04000000 02768634 0B160814\n\n",
-            "title": "[15# Level up 4x]"
-        },
-        {
-            "content": "[16# Level up 8x]\n04000000 02768634 0B160C14\n\n",
-            "title": "[16# Level up 8x]"
-        },
-        {
-            "content": "[17# Max Level up]\n04000000 02768654 1A88B108\n\n",
-            "title": "[17# Max Level up]"
-        },
-        {
-            "content": "[06# 9999999 Xp Player]\n04000000 055622A4 0098967F\n\n",
-            "title": "[06# 9999999 Xp Player]"
-        },
-        {
-            "content": "[07# 9999999 Xp Partner]\n04000000 055623F4 0098967F\n\n",
-            "title": "[07# 9999999 Xp Partner]"
-        },
-        {
-            "content": "[9999999 Xp Player]\n04000000 055622A4 0098967F\n\n",
-            "title": "[9999999 Xp Player]"
-        },
-        {
-            "content": "[9999999 Xp 1st Partner]\n04000000 055623F4 0098967F\n\n",
-            "title": "[9999999 Xp 1st Partner]"
-        },
-        {
-            "content": "[9999999 Xp 2nd Partner]\n04000000 05562544 0098967F\n\n",
-            "title": "[9999999 Xp 2nd Partner]"
-        },
-        {
-            "content": "[9999999 Xp 3rd Partner]\n04000000 05562694 0098967F\n\n",
-            "title": "[9999999 Xp 3rd Partner]"
-        },
-        {
-            "content": "[9999999 Xp 4th Partner]\n04000000 055627E4 0098967F\n\n",
-            "title": "[9999999 Xp 4th Partner]"
-        },
-        {
-            "content": "[9999999 Xp 5th Partner]\n04000000 05562934 0098967F\n\n",
-            "title": "[9999999 Xp 5th Partner]"
-        },
-        {
-            "content": "[Rescue Points x00000]\n04000000 055670C4 00000000\n\n",
-            "title": "[Rescue Points x00000]"
-        },
-        {
-            "content": "[Rescue Points x00399]\n04000000 055670C4 0000018F\n\n",
-            "title": "[Rescue Points x00399]"
-        },
-        {
-            "content": "[Rescue Points x01099]\n04000000 055670C4 0000044B\n\n",
-            "title": "[Rescue Points x01099]"
-        },
-        {
-            "content": "[Rescue Points x02199]\n04000000 055670C4 00000897\n\n",
-            "title": "[Rescue Points x02199]"
-        },
-        {
-            "content": "[Rescue Points x05199]\n04000000 055670C4 0000144F\n\n",
-            "title": "[Rescue Points x05199]"
-        },
-        {
-            "content": "[Rescue Points x11199]\n04000000 055670C4 00002BBF\n\n",
-            "title": "[Rescue Points x11199]"
-        },
-        {
-            "content": "[Rescue Points x19199]\n04000000 055670C4 00004AFF\n\n",
-            "title": "[Rescue Points x19199]"
-        },
-        {
-            "content": "[Rescue Points x27799]\n04000000 055670C4 00006C97\n\n",
-            "title": "[Rescue Points x27799]"
-        },
-        {
-            "content": "[Rescue Points x37799]\n04000000 055670C4 000093A7\n\n",
-            "title": "[Rescue Points x37799]"
-        },
-        {
-            "content": "[Rescue Points x49799]\n04000000 055670C4 0000C287\n\n",
-            "title": "[Rescue Points x49799]"
-        },
-        {
-            "content": "[Rescue Points x59799]\n04000000 055670C4 0000E997\n\n",
-            "title": "[Rescue Points x59799]"
-        },
-        {
-            "content": "[Rescue Points x99799]\n04000000 055670C4 000185D7\n\n",
-            "title": "[Rescue Points x99799]"
-        },
-        {
-            "content": "[01# Refill Health (Y+Up]\n04000000 026CC180 1A88B008\n80002008\n04000000 026CC180 1A80B008\n20000000\n\n",
-            "title": "[01# Refill Health (Y+Up]"
-        },
-        {
-            "content": "[02# PP is not reduced]\n04000000 0262D294 1A80C008\n04000000 0262D328 1A80C008\n\n",
-            "title": "[02# PP is not reduced]"
-        },
-        {
-            "content": "[03# Inf Belley]\n04000000 026CC540 1A80B008\n04000000 026CC598 1A80B008\n\n",
-            "title": "[03# Inf Belley]"
-        },
-        {
-            "content": "[04# Rescue team experience 4x]\n04000000 02949900 52800091\n04000000 02949904 1B117C21\n04000000 02949908 2A0103F4\n04000000 0294990C D65F03C0\n04000000 0281A254 9404BDAB\n\n",
-            "title": "[04# Rescue team experience 4x]"
-        },
-        {
-            "content": "[05# Rescue Team Experience 8x]\n04000000 02949900 52800111\n04000000 02949904 1B117C21\n04000000 02949908 2A0103F4\n04000000 0294990C D65F03C0\n04000000 0281A254 9404BDAB\n\n",
-            "title": "[05# Rescue Team Experience 8x]"
-        },
-        {
-            "content": "[06# rescue team experience 16x]\n04000000 02949900 52800211\n04000000 02949904 1B117C21\n04000000 02949908 2A0103F4\n04000000 0294990C D65F03C0\n04000000 0281A254 9404BDAB\n\n",
-            "title": "[06# rescue team experience 16x]"
-        },
-        {
-            "content": "[07# inf money]\n04000000 05566B24 0000270F\n\n",
-            "title": "[07# inf money]"
-        },
-        {
-            "content": "[08# Deposit/Withdraw in Bank to get max Money]\n04000000 0261A604 0098967F\n04000000 0261A5EC 180000C1\n\n",
-            "title": "[08# Deposit/Withdraw in Bank to get max Money]"
-        },
-        {
-            "content": "[09# Inf Warehouse items]\n04000000 0281D0AC 6B1F02E1\n\n",
-            "title": "[09# Inf Warehouse items]"
-        },
-        {
-            "content": "[10# Inf Money]\n04000000 02949930 7100027F\n04000000 02949934 5400004A\n04000000 02949938 52800013\n04000000 0294993C 0B130001\n04000000 02949940 D65F03C0\n04000000 0261ACFC 940CBB0D\n\n",
-            "title": "[10# Inf Money]"
-        },
-        {
-            "content": "[Rescue team experience 2 times]\n04000000 02949900 52800051\n04000000 02949904 1B117C21\n04000000 02949908 2A0103F4\n04000000 0294990C D65F03C0\n04000000 0281A254 9404BDAB",
-            "title": "[Rescue team experience 2 times]"
-        }
-    ]
+    "9DDA1EFEEF70DE46": {
+        "[01# Max health Player]": "[01# Max health Player]\n08000000 05562290 000001F4 000001F4\n\n",
+        "[02# Max health Partner]": "[02# Max health Partner]\n08000000 055623E0 000001F4 000001F4\n\n",
+        "[03# Max health 3rd Partner]": "[03# Max health 3rd Partner]\n04000000 05562680 000001F4 000001F4\n\n",
+        "[04# Max health 4th Partner]": "[04# Max health 4th Partner]\n08000000 055627D0 000001F4 000001F4\n\n",
+        "[05# Max health 5th Partner]": "[05# Max health 5th Partner]\n08000000 05562920 000001F4 000001F4\n\n",
+        "[06# 999 Xp Player]": "[06# 999 Xp Player]\n04000000 055622A4 000003E7\n\n",
+        "[07# 999 Xp Partner]": "[07# 999 Xp Partner]\n04000000 055623F4 000003E7\n\n",
+        "[05# inf belly player]": "[05# inf belly player]\n04000000 05562298 00004E20\n\n",
+        "[08# inf belly Partner]": "[08# inf belly Partner]\n04000000 055623E8 00004E20\n\n",
+        "[09# inf money]": "[09# inf money]\n04000000 05566B24 0000270F\n\n",
+        "[10# Deposit/Withdraw in Bank to get max Money]": "[10# Deposit/Withdraw in Bank to get max Money]\n04000000 0261A604 0098967F\n04000000 0261A5EC 180000C1\n\n",
+        "[11# PP is not reduced]": "[11# PP is not reduced]\n04000000 0262D294 1A80C008\n04000000 0262D328 1A80C008\n\n",
+        "[12# money 16x]": "[12# money 16x]\n04000000 027A2D54 0B0012E1\n\n",
+        "[13# Inf Bell]": "[13# Inf Bell]\n04000000 026CC540 1A80B008\n04000000 026CC598 1A80B008\n\n",
+        "[14# Level up 2x]": "[14# Level up 2x]\n04000000 02768634 0B160414\n\n",
+        "[15# Level up 4x]": "[15# Level up 4x]\n04000000 02768634 0B160814\n\n",
+        "[16# Level up 8x]": "[16# Level up 8x]\n04000000 02768634 0B160C14\n\n",
+        "[17# Max Level up]": "[17# Max Level up]\n04000000 02768654 1A88B108\n\n",
+        "[06# 9999999 Xp Player]": "[06# 9999999 Xp Player]\n04000000 055622A4 0098967F\n\n",
+        "[07# 9999999 Xp Partner]": "[07# 9999999 Xp Partner]\n04000000 055623F4 0098967F\n\n",
+        "[9999999 Xp Player]": "[9999999 Xp Player]\n04000000 055622A4 0098967F\n\n",
+        "[9999999 Xp 1st Partner]": "[9999999 Xp 1st Partner]\n04000000 055623F4 0098967F\n\n",
+        "[9999999 Xp 2nd Partner]": "[9999999 Xp 2nd Partner]\n04000000 05562544 0098967F\n\n",
+        "[9999999 Xp 3rd Partner]": "[9999999 Xp 3rd Partner]\n04000000 05562694 0098967F\n\n",
+        "[9999999 Xp 4th Partner]": "[9999999 Xp 4th Partner]\n04000000 055627E4 0098967F\n\n",
+        "[9999999 Xp 5th Partner]": "[9999999 Xp 5th Partner]\n04000000 05562934 0098967F\n\n",
+        "[Rescue Points x00000]": "[Rescue Points x00000]\n04000000 055670C4 00000000\n\n",
+        "[Rescue Points x00399]": "[Rescue Points x00399]\n04000000 055670C4 0000018F\n\n",
+        "[Rescue Points x01099]": "[Rescue Points x01099]\n04000000 055670C4 0000044B\n\n",
+        "[Rescue Points x02199]": "[Rescue Points x02199]\n04000000 055670C4 00000897\n\n",
+        "[Rescue Points x05199]": "[Rescue Points x05199]\n04000000 055670C4 0000144F\n\n",
+        "[Rescue Points x11199]": "[Rescue Points x11199]\n04000000 055670C4 00002BBF\n\n",
+        "[Rescue Points x19199]": "[Rescue Points x19199]\n04000000 055670C4 00004AFF\n\n",
+        "[Rescue Points x27799]": "[Rescue Points x27799]\n04000000 055670C4 00006C97\n\n",
+        "[Rescue Points x37799]": "[Rescue Points x37799]\n04000000 055670C4 000093A7\n\n",
+        "[Rescue Points x49799]": "[Rescue Points x49799]\n04000000 055670C4 0000C287\n\n",
+        "[Rescue Points x59799]": "[Rescue Points x59799]\n04000000 055670C4 0000E997\n\n",
+        "[Rescue Points x99799]": "[Rescue Points x99799]\n04000000 055670C4 000185D7\n\n",
+        "[01# Refill Health (Y+Up]": "[01# Refill Health (Y+Up]\n04000000 026CC180 1A88B008\n80002008\n04000000 026CC180 1A80B008\n20000000\n\n",
+        "[02# PP is not reduced]": "[02# PP is not reduced]\n04000000 0262D294 1A80C008\n04000000 0262D328 1A80C008\n\n",
+        "[03# Inf Belley]": "[03# Inf Belley]\n04000000 026CC540 1A80B008\n04000000 026CC598 1A80B008\n\n",
+        "[04# Rescue team experience 4x]": "[04# Rescue team experience 4x]\n04000000 02949900 52800091\n04000000 02949904 1B117C21\n04000000 02949908 2A0103F4\n04000000 0294990C D65F03C0\n04000000 0281A254 9404BDAB\n\n",
+        "[05# Rescue Team Experience 8x]": "[05# Rescue Team Experience 8x]\n04000000 02949900 52800111\n04000000 02949904 1B117C21\n04000000 02949908 2A0103F4\n04000000 0294990C D65F03C0\n04000000 0281A254 9404BDAB\n\n",
+        "[06# rescue team experience 16x]": "[06# rescue team experience 16x]\n04000000 02949900 52800211\n04000000 02949904 1B117C21\n04000000 02949908 2A0103F4\n04000000 0294990C D65F03C0\n04000000 0281A254 9404BDAB\n\n",
+        "[07# inf money]": "[07# inf money]\n04000000 05566B24 0000270F\n\n",
+        "[08# Deposit/Withdraw in Bank to get max Money]": "[08# Deposit/Withdraw in Bank to get max Money]\n04000000 0261A604 0098967F\n04000000 0261A5EC 180000C1\n\n",
+        "[09# Inf Warehouse items]": "[09# Inf Warehouse items]\n04000000 0281D0AC 6B1F02E1\n\n",
+        "[10# Inf Money]": "[10# Inf Money]\n04000000 02949930 7100027F\n04000000 02949934 5400004A\n04000000 02949938 52800013\n04000000 0294993C 0B130001\n04000000 02949940 D65F03C0\n04000000 0261ACFC 940CBB0D\n\n",
+        "[Rescue team experience 2 times]": "[Rescue team experience 2 times]\n04000000 02949900 52800051\n04000000 02949904 1B117C21\n04000000 02949908 2A0103F4\n04000000 0294990C D65F03C0\n04000000 0281A254 9404BDAB\n\n"
+    },
+    "3AB632DEE82D5944": {
+        "[HP is not reduced]": "[HP is not reduced]\n04000000 02949F00 B9403682\n04000000 02949F04 51001842\n04000000 02949F08 7100005F\n04000000 02949F0C 5400004A\n04000000 02949F10 2A0003E8\n04000000 02949F14 B9000A88\n04000000 02949F18 D65F03C0\n04000000 026CC394 9409F6DB\n\n",
+        "[HP is not reduced Close]": "[HP is not reduced Close]\n04000000 026CC394 B9000A88\n\n",
+        "[PP is not reduced]": "[PP is not reduced]\n04000000 0262D394 1A80C008\n04000000 0262D428 1A80C008\n\n",
+        "[Will not be hungry]": "[Will not be hungry]\n04000000 026CC750 1A80B008\n04000000 026CC7A8 1A80B008\n\n",
+        "[Money is not reduced]": "[Money is not reduced]\n04000000 02949F20 7100027F\n04000000 02949F24 5400004A\n04000000 02949F28 52800013\n04000000 02949F2C 0B130001\n04000000 02949F30 D65F03C0\n04000000 0261ADFC 940CBC49\n\n",
+        "[Warehouse items are not reduced]": "[Warehouse items are not reduced]\n04000000 0281D65C 6B1F02E1\n\n",
+        "[PM Experience Max On]": "[PM Experience Max On]\n04000000 026CC990 12BFE000\n\n",
+        "[PM Experience Max Close]": "[PM Experience Max Close]\n04000000 026CC990 B9401C00\n\n",
+        "[Rescue team experience 4x]": "[Rescue team experience 4x]\n04000000 02949F40 52800091\n04000000 02949F44 1B117C21\n04000000 02949F48 2A0103F4\n04000000 02949F4C D65F03C0\n04000000 0281A804 9404BDCF\n\n",
+        "[Rescue Team Experience 8x]": "[Rescue Team Experience 8x]\n04000000 02949F40 52800111\n04000000 02949F44 1B117C21\n04000000 02949F48 2A0103F4\n04000000 02949F4C D65F03C0\n04000000 0281A804 9404BDCF\n\n",
+        "[Rescue Team Experience 16x]": "[Rescue Team Experience 16x]\n04000000 02949F40 52800211\n04000000 02949F44 1B117C21\n04000000 02949F48 2A0103F4\n04000000 02949F4C D65F03C0\n04000000 0281A804 9404BDCF\n\n",
+        "[Pocket Bank Money Max]": "[Pocket Bank Money Max]\n04000000 0281D3BC 1A88B108\n\n",
+        "[2x HP growth rate (when upgrading)]": "[2x HP growth rate (when upgrading)]\n04000000 026CC568 0B1406A8\n\n",
+        "[4x HP growth rate (when upgrading)]": "[4x HP growth rate (when upgrading)]\n04000000 026CC568 0B140AA8\n\n",
+        "[HP growth rate 8 times (when upgrading)\uff09]": "[HP growth rate 8 times (when upgrading)\uff09]\n04000000 026CC568 0B140EA8\n\n"
+    },
+    "attribution": {
+        "Pokemon Mystery Dungeon Rescue Team DX v1.0.1 by patjenova dablackdeath ver 1.0.2 shared by tarophus.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
+    }
 }

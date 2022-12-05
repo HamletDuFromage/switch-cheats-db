@@ -1,12 +1,9 @@
 {
-    "2D502DEF7E95E447": [
-        {
-            "content": "[buy something in SHOP to have max money]\n04000000 001A8318 3B9AC9FF\n04000000 001A86E4 18FFE1A1\n\n",
-            "title": "[buy something in SHOP to have max money]"
-        },
-        {
-            "content": "[can craft without mats - just press A]\n04000000 0025B550 52800020",
-            "title": "[can craft without mats - just press A]"
-        }
-    ]
+    "2D502DEF7E95E447": {
+        "[buy something in SHOP to have max money]": "[buy something in SHOP to have max money]\n04000000 001A8318 3B9AC9FF\n04000000 001A86E4 18FFE1A1\n\n",
+        "[can craft without mats - just press A]": "[can craft without mats - just press A]\n04000000 0025B550 52800020\n\n"
+    },
+    "attribution": {
+        "chroma squad by DaBlackDeath.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

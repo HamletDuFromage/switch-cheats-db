@@ -1,32 +1,14 @@
 {
-    "DCAD50AEF4E03C48": [
-        {
-            "content": "[10,000,000 Gold]\n041F0000 83f80a58 00989680\n041F0000 96215288 00989680\n041F0000 96216288 00989680\n\n",
-            "title": "[10,000,000 Gold]"
-        },
-        {
-            "content": "[1,000,000 LCP - L'Phalcia Points]\n041F0000 961d8570 000f4240\n041F0000 961fbf80 000f4240\n\n",
-            "title": "[1,000,000 LCP - L'Phalcia Points]"
-        },
-        {
-            "content": "[Ryser 1 XP to next level]\n041F0000 83f80dc4 00000001\n041F0000 962155f4 00000001\n041F0000 962165f4 00000001\n\n",
-            "title": "[Ryser 1 XP to next level]"
-        },
-        {
-            "content": "[Cougar 1 XP to next level]\n041F0000 83f80dc8 00000001\n041F0000 962155f8 00000001\n041F0000 962165f8 00000001\n\n",
-            "title": "[Cougar 1 XP to next level]"
-        },
-        {
-            "content": "[Caldina 1 XP to next level]\n041F0000 83f80dd4 00000001\n041F0000 96215604 00000001\n041F0000 96216604 00000001\n\n",
-            "title": "[Caldina 1 XP to next level]"
-        },
-        {
-            "content": "[Ferio 1 XP to next level]\n041F0000 83f80dd0 00000001\n041F0000 96215600 00000001\n041F0000 96216600 00000001\n\n",
-            "title": "[Ferio 1 XP to next level]"
-        },
-        {
-            "content": "[Tiana 1 XP to next level]\n041F0000 83f80dcc 00000001\n041F0000 962155fc 00000001\n041F0000 962166fc 00000001",
-            "title": "[Tiana 1 XP to next level]"
-        }
-    ]
+    "DCAD50AEF4E03C48": {
+        "[10,000,000 Gold]": "[10,000,000 Gold]\n041F0000 83f80a58 00989680\n041F0000 96215288 00989680\n041F0000 96216288 00989680\n\n",
+        "[1,000,000 LCP - L'Phalcia Points]": "[1,000,000 LCP - L'Phalcia Points]\n041F0000 961d8570 000f4240\n041F0000 961fbf80 000f4240\n\n",
+        "[Ryser 1 XP to next level]": "[Ryser 1 XP to next level]\n041F0000 83f80dc4 00000001\n041F0000 962155f4 00000001\n041F0000 962165f4 00000001\n\n",
+        "[Cougar 1 XP to next level]": "[Cougar 1 XP to next level]\n041F0000 83f80dc8 00000001\n041F0000 962155f8 00000001\n041F0000 962165f8 00000001\n\n",
+        "[Caldina 1 XP to next level]": "[Caldina 1 XP to next level]\n041F0000 83f80dd4 00000001\n041F0000 96215604 00000001\n041F0000 96216604 00000001\n\n",
+        "[Ferio 1 XP to next level]": "[Ferio 1 XP to next level]\n041F0000 83f80dd0 00000001\n041F0000 96215600 00000001\n041F0000 96216600 00000001\n\n",
+        "[Tiana 1 XP to next level]": "[Tiana 1 XP to next level]\n041F0000 83f80dcc 00000001\n041F0000 962155fc 00000001\n041F0000 962166fc 00000001\n\n"
+    },
+    "attribution": {
+        "Illusion of L'Phalcia made by just Dave.txt": ""
+    }
 }

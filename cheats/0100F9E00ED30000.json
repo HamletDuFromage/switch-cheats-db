@@ -1,32 +1,14 @@
 {
-    "C5C3A5DF6275B3CD": [
-        {
-            "content": "[Moon Jump]\n80000004\n580F0000 009ABE90\n780F0000 00000A9C\n640F0000 00000000 3F800000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 009ABE90\n780F0000 00000B04\n640F0000 00000000 000000FF\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf HP]\n580F0000 009ABE90\n780F0000 00000B50\n640F0000 00000000 42C80000\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Inf SHIELD]\n580F0000 009ABE90\n780F0000 00000B58\n640F0000 00000000 42C80000\n\n",
-            "title": "[Inf SHIELD]"
-        },
-        {
-            "content": "[Inf WIDE]\n580F0000 009ABE90\n780F0000 00000B78\n640F0000 00000000 42C80000\n\n",
-            "title": "[Inf WIDE]"
-        },
-        {
-            "content": "[Inf NORMAL]\n580F0000 009ABE90\n780F0000 00000B7C\n640F0000 00000000 42C80000\n\n",
-            "title": "[Inf NORMAL]"
-        },
-        {
-            "content": "[Inf POWER]\n580F0000 009ABE90\n780F0000 00000B80\n640F0000 00000000 42C80000",
-            "title": "[Inf POWER]"
-        }
-    ]
+    "C5C3A5DF6275B3CD": {
+        "[Moon Jump]": "[Moon Jump]\n80000004\n580F0000 009ABE90\n780F0000 00000A9C\n640F0000 00000000 3F800000\n20000000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 009ABE90\n780F0000 00000B04\n640F0000 00000000 000000FF\n\n",
+        "[Inf HP]": "[Inf HP]\n580F0000 009ABE90\n780F0000 00000B50\n640F0000 00000000 42C80000\n\n",
+        "[Inf SHIELD]": "[Inf SHIELD]\n580F0000 009ABE90\n780F0000 00000B58\n640F0000 00000000 42C80000\n\n",
+        "[Inf WIDE]": "[Inf WIDE]\n580F0000 009ABE90\n780F0000 00000B78\n640F0000 00000000 42C80000\n\n",
+        "[Inf NORMAL]": "[Inf NORMAL]\n580F0000 009ABE90\n780F0000 00000B7C\n640F0000 00000000 42C80000\n\n",
+        "[Inf POWER]": "[Inf POWER]\n580F0000 009ABE90\n780F0000 00000B80\n640F0000 00000000 42C80000\n\n"
+    },
+    "attribution": {
+        "Battle of Elemental BURST ver 1.0.0 by ZiT.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
+    }
 }

@@ -1,12 +1,9 @@
 {
-    "5A9DC352AAF1F548": [
-        {
-            "content": "[*Inf HP P1 Jericoss]\n580F0000 02DF69A8\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000018\n580F1000 00000028\n780F0000 0000003C\n640F0000 00000000 42C80000\n\n",
-            "title": "[*Inf HP P1 Jericoss]"
-        },
-        {
-            "content": "[*Inf MP P1]\n580F0000 02DF69A8\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000018\n580F1000 00000028\n780F0000 00000058\n640F0000 00000000 42C8000",
-            "title": "[*Inf MP P1]"
-        }
-    ]
+    "5A9DC352AAF1F548": {
+        "[*Inf HP P1 Jericoss]": "[*Inf HP P1 Jericoss]\n580F0000 02DF69A8\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000018\n580F1000 00000028\n780F0000 0000003C\n640F0000 00000000 42C80000\n\n",
+        "[*Inf MP P1]": "[*Inf MP P1]\n580F0000 02DF69A8\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000018\n580F1000 00000028\n780F0000 00000058\n640F0000 00000000 42C8000\n\n"
+    },
+    "attribution": {
+        "Bud Spencer & Terence Hill - Slaps And Beans ver 1.0.0.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
 }

@@ -1,160 +1,46 @@
 {
-    "AAB0450A965202EC": [
-        {
-            "content": "[99999 Inf Coins]\n04000000 00edcb68 0001869F\n\n",
-            "title": "[99999 Inf Coins]"
-        },
-        {
-            "content": "[Shallistera 999 Inf HP]\n04000000 00edcb9c 000003E7\n04000000 00edccd4 000003E7\n\n",
-            "title": "[Shallistera 999 Inf HP]"
-        },
-        {
-            "content": "[Kortes 999 Inf hp Character ]\n04000000 00edd0c4 000003E7\n04000000 00edd0bc 000003E7\n04000000 00edd1f4 000003E7\n\n",
-            "title": "[Kortes 999 Inf hp Character ]"
-        },
-        {
-            "content": "[999 Inf hp Jurie Crotzea]\n04000000 00edd5dc 000003E7\n04000000 00edd714 000003E7\n\n",
-            "title": "[999 Inf hp Jurie Crotzea]"
-        },
-        {
-            "content": "[999 Inf MP Kortes ]\n04000000 00edd1f8 000003E7\n04000000 00edd0c0 000003E7\n\n",
-            "title": "[999 Inf MP Kortes ]"
-        },
-        {
-            "content": "[999 Inf MP Jurie Crotzea ]\n04000000 00edd718 000003E7\n04000000 00edd5e0 000003E7\n\n",
-            "title": "[999 Inf MP Jurie Crotzea ]"
-        },
-        {
-            "content": "[Anti-Bug Grass 99]\n04000000 00ed7faa 00000063\n\n",
-            "title": "[Anti-Bug Grass 99]"
-        },
-        {
-            "content": "[Magic Herb 99]\n04000000 00ed805e 00000063\n\n",
-            "title": "[Magic Herb 99]"
-        },
-        {
-            "content": "[Star Fruit 99]\n04000000 00ed82c2 00000063\n\n",
-            "title": "[Star Fruit 99]"
-        },
-        {
-            "content": "[Water 99]\n04000000 00ed8352 00000063\n\n",
-            "title": "[Water 99]"
-        },
-        {
-            "content": "[Bad Water 99]\n04000000 00ed7f62 00000063\n\n",
-            "title": "[Bad Water 99]"
-        },
-        {
-            "content": "[Contaminated Water 99]\n04000000 00ed84de 00000063\n\n",
-            "title": "[Contaminated Water 99]"
-        },
-        {
-            "content": "[Phloginston 99]\n04000000 00ed7fce 00000063\n\n",
-            "title": "[Phloginston 99]"
-        },
-        {
-            "content": "[Mixed Oil 99]\n04000000 00ed815a 00000063\n\n",
-            "title": "[Mixed Oil 99]"
-        },
-        {
-            "content": "[Unknown Egg 99]\n04000000 00ed7f1a 00000063\n\n",
-            "title": "[Unknown Egg 99]"
-        },
-        {
-            "content": "[Rich Milk 99]\n04000000 00ed80ca 00000063\n\n",
-            "title": "[Rich Milk 99]"
-        },
-        {
-            "content": "[White Crest Fish 99]\n04000000 00ed8502 00000063\n\n",
-            "title": "[White Crest Fish 99]"
-        },
-        {
-            "content": "[Marine Clay 99]\n04000000 00ed820e 00000063\n\n",
-            "title": "[Marine Clay 99]"
-        },
-        {
-            "content": "[Shelbany Wheat 99]\n04000000 00ed7f3e 00000063\n\n",
-            "title": "[Shelbany Wheat 99]"
-        },
-        {
-            "content": "[Lentil 99]\n04000000 00ed80ee 00000063\n\n",
-            "title": "[Lentil 99]"
-        },
-        {
-            "content": "[Stink Bean 99]\n04000000 00ed8256 00000063\n\n",
-            "title": "[Stink Bean 99]"
-        },
-        {
-            "content": "[Palma 99]\n04000000 00ed827a 00000063\n\n",
-            "title": "[Palma 99]"
-        },
-        {
-            "content": "[Sand Pumpkin 99]\n04000000 00ed829e 00000063\n\n",
-            "title": "[Sand Pumpkin 99]"
-        },
-        {
-            "content": "[Umbrella Tree Strawberry 99]\n04000000 00ed8376 00000063\n\n",
-            "title": "[Umbrella Tree Strawberry 99]"
-        },
-        {
-            "content": "[Angel Hair 99]\n04000000 00ed8406 00000063\n\n",
-            "title": "[Angel Hair 99]"
-        },
-        {
-            "content": "[Tsuchishinobi 99]\n04000000 00ed839a 00000063\n\n",
-            "title": "[Tsuchishinobi 99]"
-        },
-        {
-            "content": "[Dusk Sandi 99]\n04000000 00ed803a 00000063\n\n",
-            "title": "[Dusk Sandi 99]"
-        },
-        {
-            "content": "[Aqua Lighti 99]\n04000000 00ed84ba 00000063\n\n",
-            "title": "[Aqua Lighti 99]"
-        },
-        {
-            "content": "[Red Clay 99]\n04000000 00ed7ff2 00000063\n\n",
-            "title": "[Red Clay 99]"
-        },
-        {
-            "content": "[Blue Clay 99]\n04000000 00ed83e2 00000063\n\n",
-            "title": "[Blue Clay 99]"
-        },
-        {
-            "content": "[Beehive 99]\n04000000 00ed8082 00000063\n\n",
-            "title": "[Beehive 99]"
-        },
-        {
-            "content": "[Ancient Map 99]\n04000000 00ed8526 00000063\n\n",
-            "title": "[Ancient Map 99]"
-        },
-        {
-            "content": "[Paper Scrap 99]\n04000000 00ed817e 00000063\n\n",
-            "title": "[Paper Scrap 99]"
-        },
-        {
-            "content": "[Wild Pelt 99]\n04000000 00ed81ea 00000063\n\n",
-            "title": "[Wild Pelt 99]"
-        },
-        {
-            "content": "[Rabit Fur 99]\n04000000 00ed7f86 00000063\n\n",
-            "title": "[Rabit Fur 99]"
-        },
-        {
-            "content": "[Cloth Scrap 99]\n04000000 00ed81a2 00000063\n\n",
-            "title": "[Cloth Scrap 99]"
-        },
-        {
-            "content": "[Junk 99]\n04000000 00ed8136 00000063\n\n",
-            "title": "[Junk 99]"
-        },
-        {
-            "content": "[Bent Screw 99]\n04000000 00ed8232 00000063\n\n",
-            "title": "[Bent Screw 99]"
-        },
-        {
-            "content": "[Dry Wood 99]\n04000000 00ed7ef6 00000063\n\n\n\n\n\n\n\n\n",
-            "title": "[Dry Wood 99]"
-        }
-    ]
+    "AAB0450A965202EC": {
+        "[99999 Inf Coins]": "[99999 Inf Coins]\n04000000 00edcb68 0001869F\n\n",
+        "[Shallistera 999 Inf HP]": "[Shallistera 999 Inf HP]\n04000000 00edcb9c 000003E7\n04000000 00edccd4 000003E7\n\n",
+        "[Kortes 999 Inf hp Character ]": "[Kortes 999 Inf hp Character ]\n04000000 00edd0c4 000003E7\n04000000 00edd0bc 000003E7\n04000000 00edd1f4 000003E7\n\n",
+        "[999 Inf hp Jurie Crotzea]": "[999 Inf hp Jurie Crotzea]\n04000000 00edd5dc 000003E7\n04000000 00edd714 000003E7\n\n",
+        "[999 Inf MP Kortes ]": "[999 Inf MP Kortes ]\n04000000 00edd1f8 000003E7\n04000000 00edd0c0 000003E7\n\n",
+        "[999 Inf MP Jurie Crotzea ]": "[999 Inf MP Jurie Crotzea ]\n04000000 00edd718 000003E7\n04000000 00edd5e0 000003E7\n\n",
+        "[Anti-Bug Grass 99]": "[Anti-Bug Grass 99]\n04000000 00ed7faa 00000063\n\n",
+        "[Magic Herb 99]": "[Magic Herb 99]\n04000000 00ed805e 00000063\n\n",
+        "[Star Fruit 99]": "[Star Fruit 99]\n04000000 00ed82c2 00000063\n\n",
+        "[Water 99]": "[Water 99]\n04000000 00ed8352 00000063\n\n",
+        "[Bad Water 99]": "[Bad Water 99]\n04000000 00ed7f62 00000063\n\n",
+        "[Contaminated Water 99]": "[Contaminated Water 99]\n04000000 00ed84de 00000063\n\n",
+        "[Phloginston 99]": "[Phloginston 99]\n04000000 00ed7fce 00000063\n\n",
+        "[Mixed Oil 99]": "[Mixed Oil 99]\n04000000 00ed815a 00000063\n\n",
+        "[Unknown Egg 99]": "[Unknown Egg 99]\n04000000 00ed7f1a 00000063\n\n",
+        "[Rich Milk 99]": "[Rich Milk 99]\n04000000 00ed80ca 00000063\n\n",
+        "[White Crest Fish 99]": "[White Crest Fish 99]\n04000000 00ed8502 00000063\n\n",
+        "[Marine Clay 99]": "[Marine Clay 99]\n04000000 00ed820e 00000063\n\n",
+        "[Shelbany Wheat 99]": "[Shelbany Wheat 99]\n04000000 00ed7f3e 00000063\n\n",
+        "[Lentil 99]": "[Lentil 99]\n04000000 00ed80ee 00000063\n\n",
+        "[Stink Bean 99]": "[Stink Bean 99]\n04000000 00ed8256 00000063\n\n",
+        "[Palma 99]": "[Palma 99]\n04000000 00ed827a 00000063\n\n",
+        "[Sand Pumpkin 99]": "[Sand Pumpkin 99]\n04000000 00ed829e 00000063\n\n",
+        "[Umbrella Tree Strawberry 99]": "[Umbrella Tree Strawberry 99]\n04000000 00ed8376 00000063\n\n",
+        "[Angel Hair 99]": "[Angel Hair 99]\n04000000 00ed8406 00000063\n\n",
+        "[Tsuchishinobi 99]": "[Tsuchishinobi 99]\n04000000 00ed839a 00000063\n\n",
+        "[Dusk Sandi 99]": "[Dusk Sandi 99]\n04000000 00ed803a 00000063\n\n",
+        "[Aqua Lighti 99]": "[Aqua Lighti 99]\n04000000 00ed84ba 00000063\n\n",
+        "[Red Clay 99]": "[Red Clay 99]\n04000000 00ed7ff2 00000063\n\n",
+        "[Blue Clay 99]": "[Blue Clay 99]\n04000000 00ed83e2 00000063\n\n",
+        "[Beehive 99]": "[Beehive 99]\n04000000 00ed8082 00000063\n\n",
+        "[Ancient Map 99]": "[Ancient Map 99]\n04000000 00ed8526 00000063\n\n",
+        "[Paper Scrap 99]": "[Paper Scrap 99]\n04000000 00ed817e 00000063\n\n",
+        "[Wild Pelt 99]": "[Wild Pelt 99]\n04000000 00ed81ea 00000063\n\n",
+        "[Rabit Fur 99]": "[Rabit Fur 99]\n04000000 00ed7f86 00000063\n\n",
+        "[Cloth Scrap 99]": "[Cloth Scrap 99]\n04000000 00ed81a2 00000063\n\n",
+        "[Junk 99]": "[Junk 99]\n04000000 00ed8136 00000063\n\n",
+        "[Bent Screw 99]": "[Bent Screw 99]\n04000000 00ed8232 00000063\n\n",
+        "[Dry Wood 99]": "[Dry Wood 99]\n04000000 00ed7ef6 00000063\n\n"
+    },
+    "attribution": {
+        "Atelier Shallie Alchemists of the Dusk Sea DX ver 1.0.0 by matias3ds.txt": ""
+    }
 }

@@ -1,16 +1,10 @@
 {
-    "64B19FA91081374F": [
-        {
-            "content": "[AUTO CUISIDES ENEMIES]\n04100000 00905EAF8C E320F000\n\n",
-            "title": "[AUTO CUISIDES ENEMIES]"
-        },
-        {
-            "content": "[SPEED MODE PRESS PAD]\n04100000 00905C6990 E320F000\n\n",
-            "title": "[SPEED MODE PRESS PAD]"
-        },
-        {
-            "content": "[1p invincible]\n04100000 00905E6DA4 E320F000\n04100000 00905CFA4C E320F000",
-            "title": "[1p invincible]"
-        }
-    ]
+    "64B19FA91081374F": {
+        "[AUTO CUISIDES ENEMIES]": "[AUTO CUISIDES ENEMIES]\n04100000 00905EAF8C E320F000\n\n",
+        "[SPEED MODE PRESS PAD]": "[SPEED MODE PRESS PAD]\n04100000 00905C6990 E320F000\n\n",
+        "[1p invincible]": "[1p invincible]\n04100000 00905E6DA4 E320F000\n04100000 00905CFA4C E320F000\n\n"
+    },
+    "attribution": {
+        "Johnny Turbos Arcade Night Slashers ver 1.0.0 by xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

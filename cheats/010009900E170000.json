@@ -1,32 +1,14 @@
 {
-    "4A40B29138017EE8": [
-        {
-            "content": "[Inf HP]\n580F0000 004D93F8\n780F0000 00000030\n680F0000 0000270F 0000270F\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Inf EN]\n580F0000 004D93F8\n780F0000 00000038\n680F0000 0000270F 0000270F\n\n",
-            "title": "[Inf EN]"
-        },
-        {
-            "content": "[ATK Max]\n580F0000 004D93F8\n780F0000 00000040\n640F0000 00000000 0000270F\n\n",
-            "title": "[ATK Max]"
-        },
-        {
-            "content": "[DEF Max]\n580F0000 004D93F8\n780F0000 00000044\n640F0000 00000000 0000270F\n\n",
-            "title": "[DEF Max]"
-        },
-        {
-            "content": "[ETC Max]\n580F0000 004D93F8\n780F0000 00000048\n680F0000 0000270F 0000270F\n\n",
-            "title": "[ETC Max]"
-        },
-        {
-            "content": "[Toriko Satiety]\n580F0000 00500080\n780F0000 00006AB0\n640F0000 00000000 00000AAA\n\n",
-            "title": "[Toriko Satiety]"
-        },
-        {
-            "content": "[Toriko Pollution 0%]\n580F0000 00500080\n780F0000 00006AD4\n640F0000 00000000 00000000",
-            "title": "[Toriko Pollution 0%]"
-        }
-    ]
+    "4A40B29138017EE8": {
+        "[Inf HP]": "[Inf HP]\n580F0000 004D93F8\n780F0000 00000030\n680F0000 0000270F 0000270F\n\n",
+        "[Inf EN]": "[Inf EN]\n580F0000 004D93F8\n780F0000 00000038\n680F0000 0000270F 0000270F\n\n",
+        "[ATK Max]": "[ATK Max]\n580F0000 004D93F8\n780F0000 00000040\n640F0000 00000000 0000270F\n\n",
+        "[DEF Max]": "[DEF Max]\n580F0000 004D93F8\n780F0000 00000044\n640F0000 00000000 0000270F\n\n",
+        "[ETC Max]": "[ETC Max]\n580F0000 004D93F8\n780F0000 00000048\n680F0000 0000270F 0000270F\n\n",
+        "[Toriko Satiety]": "[Toriko Satiety]\n580F0000 00500080\n780F0000 00006AB0\n640F0000 00000000 00000AAA\n\n",
+        "[Toriko Pollution 0%]": "[Toriko Pollution 0%]\n580F0000 00500080\n780F0000 00006AD4\n640F0000 00000000 00000000\n\n"
+    },
+    "attribution": {
+        "void tRrLM by ZiT866.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
+    }
 }

@@ -1,20 +1,11 @@
 {
-    "0A90F4970ABF3EDE": [
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 00687338\n580F1000 00000210\n580F1000 00000028\n580F1000 00000208\n780F0000 00000020\n640F0000 00000000 40400000\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Speed Up]\n580F0000 00687338\n580F1000 00000210\n580F1000 00000028\n580F1000 00000208\n780F0000 00000024\n640F0000 00000000 40400000\n\n",
-            "title": "[Speed Up]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 00687338\n580F1000 00000210\n580F1000 00000028\n580F1000 00000240\n780F0000 00000430\n640F0000 00000000 FFFFFFFF\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Inf HP]\n580F0000 00615428\n780F0000 00000048\n640F0000 00000000 0000000A",
-            "title": "[Inf HP]"
-        }
-    ]
+    "0A90F4970ABF3EDE": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 00687338\n580F1000 00000210\n580F1000 00000028\n580F1000 00000208\n780F0000 00000020\n640F0000 00000000 40400000\n20000000\n\n",
+        "[Speed Up]": "[Speed Up]\n580F0000 00687338\n580F1000 00000210\n580F1000 00000028\n580F1000 00000208\n780F0000 00000024\n640F0000 00000000 40400000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 00687338\n580F1000 00000210\n580F1000 00000028\n580F1000 00000240\n780F0000 00000430\n640F0000 00000000 FFFFFFFF\n\n",
+        "[Inf HP]": "[Inf HP]\n580F0000 00615428\n780F0000 00000048\n640F0000 00000000 0000000A\n\n"
+    },
+    "attribution": {
+        "Finding Teddy 2  Definitive Edition by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

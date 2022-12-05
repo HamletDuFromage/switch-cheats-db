@@ -1,118 +1,37 @@
 {
-    "DC27156B7AB58D31": [
-        {
-            "content": "[Crazy jump (ZL+B)]\n80000102\n04000000 018C37D4 00000000\n20000000\n\n",
-            "title": "[Crazy jump (ZL+B)]"
-        },
-        {
-            "content": "[01# Inf Life]\n04000000 008F22F0 D65F03C0\n\n",
-            "title": "[01# Inf Life]"
-        },
-        {
-            "content": "[Inf Life (off)]\n04000000 008F22F0 D10383FF\n\n",
-            "title": "[Inf Life (off)]"
-        },
-        {
-            "content": "[02# Quick Accumulation]\n04000000 00060DA8 0B000508\n04000000 00800BF0 52800020\n\n",
-            "title": "[02# Quick Accumulation]"
-        },
-        {
-            "content": "[Quick Accumulation (off)]\n04000000 00060DA8 0B000108\n04000000 00800BF0 38696900\n\n",
-            "title": "[Quick Accumulation (off)]"
-        },
-        {
-            "content": "[03# Yellow Soul 16 times]\n04000000 00C35FE0 1E210800\n04000000 00C35FE4 1E261001\n04000000 00C35FE8 1E210800\n04000000 00C35FEC D65F03C0\n04000000 007FEAE8 9410DD3E\n\n",
-            "title": "[03# Yellow Soul 16 times]"
-        },
-        {
-            "content": "[Yellow Soul 16 times (off)]\n04000000 007FEAE8 1E210800\n\n",
-            "title": "[Yellow Soul 16 times (off)]"
-        },
-        {
-            "content": "[04# Combo x15]\n04000000 00048368 11003D08\n\n",
-            "title": "[04# Combo x15]"
-        },
-        {
-            "content": "[Combo x15 (off)]\n04000000 00048368 11000508\n\n",
-            "title": "[Combo x15 (off)]"
-        },
-        {
-            "content": "[05# Inf Combo]\n04000000 00048348 D503201F\n\n",
-            "title": "[05# Inf Combo]"
-        },
-        {
-            "content": "[Inf Combo (off)]\n04000000 00048348 340000A8\n\n",
-            "title": "[Inf Combo (off)]"
-        },
-        {
-            "content": "[06# Scrolls can be used without ninjutsu]\n04000000 006FB998 52800000\n04000000 006FB9B8 52800000\n\n",
-            "title": "[06# Scrolls can be used without ninjutsu]"
-        },
-        {
-            "content": "[Scrolls can be used without ninjutsu (off)]\n04000000 006FB998 79400D20\n04000000 006FB9B8 79400D00\n\n",
-            "title": "[Scrolls can be used without ninjutsu (off)]"
-        },
-        {
-            "content": "[hit range normal]\n04000000 00A18FA4 1E2E1001\n\n",
-            "title": "[hit range normal]"
-        },
-        {
-            "content": "[hit range x61]\n04000000 00A18FA4 1E2E1002\n\n",
-            "title": "[hit range x61]"
-        },
-        {
-            "content": "[(PRESS L STICK) Enter Hero Mode]\n80000010\n02000000 018C46C6 00000100\n02000000 018C46D8 00000100\n02000000 018C4716 00000100\n04000000 018C4718 01000100\n02000000 018C471C 00000100\n01000000 01EA3D50 00000001\n02000000 01EA3D50 00000E10\n20000000\n\n",
-            "title": "[(PRESS L STICK) Enter Hero Mode]"
-        },
-        {
-            "content": "[Enter Hero Mode Always]\n02000000 018C46C6 0000000A\n02000000 018C46D8 0000000A\n02000000 018C4716 0000000A\n04000000 018C4718 000A000A\n02000000 018C471C 0000000A\n01000000 01EA3D50 00000001\n02000000 01EA3D50 00000E10\n\n",
-            "title": "[Enter Hero Mode Always]"
-        },
-        {
-            "content": "[Hero Mode No Expiration]\n14060000 01EA3D50 00000000\n02000000 01EA3D50 00000E10\n20000000\n\n",
-            "title": "[Hero Mode No Expiration]"
-        },
-        {
-            "content": "[Maintain FPS Limit to 60]\n580F0000 01EEBCF0\n580F1000 000003D0\n580F1000 00000030\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-            "title": "[Maintain FPS Limit to 60]"
-        },
-        {
-            "content": "[*Crazy Speed Jericoss]\n80000002\n04000000 018C37D8 00000000\n20000000\n\n",
-            "title": "[*Crazy Speed Jericoss]"
-        },
-        {
-            "content": "[hitanywhere all weapon on]\n04000000 006E50C0 D65F03C0\n\n",
-            "title": "[hitanywhere all weapon on]"
-        },
-        {
-            "content": "[hitanywhere all weapon off]\n04000000 006E50C0 FC170FEC\n\n",
-            "title": "[hitanywhere all weapon off]"
-        },
-        {
-            "content": "[rachel hitanywhere Inferno Hammer on]\n04000000 006EB6D0 D65F03C0\n\n",
-            "title": "[rachel hitanywhere Inferno Hammer on]"
-        },
-        {
-            "content": "[rachel hitanywhere Inferno Hammer off]\n04000000 006EB6D0 D10483FF",
-            "title": "[rachel hitanywhere Inferno Hammer off]"
-        }
-    ],
-    "EB526F5A41621D69": [
-        {
-            "content": "[hitanywhere all weapon on]\n04000000 006E3C40 D65F03C0\n\n",
-            "title": "[hitanywhere all weapon on]"
-        },
-        {
-            "content": "[hitanywhere all weapon off]\n04000000 006E3C40 FC170FEC\n\n",
-            "title": "[hitanywhere all weapon off]"
-        },
-        {
-            "content": "[hitanywhere rachel arms on]\n04000000 006E9BE0 D65F03C0\n\n",
-            "title": "[hitanywhere rachel arms on]"
-        },
-        {
-            "content": "[hitanywhere rachel arms off]\n04000000 006E9BE0 D10483FF",
-            "title": "[hitanywhere rachel arms off]"
-        }
-    ]
+    "EB526F5A41621D69": {
+        "[hitanywhere all weapon on]": "[hitanywhere all weapon on]\n04000000 006E3C40 D65F03C0\n\n",
+        "[hitanywhere all weapon off]": "[hitanywhere all weapon off]\n04000000 006E3C40 FC170FEC\n\n",
+        "[hitanywhere rachel arms on]": "[hitanywhere rachel arms on]\n04000000 006E9BE0 D65F03C0\n\n",
+        "[hitanywhere rachel arms off]": "[hitanywhere rachel arms off]\n04000000 006E9BE0 D10483FF\n\n"
+    },
+    "DC27156B7AB58D31": {
+        "[Crazy jump (ZL+B)]": "[Crazy jump (ZL+B)]\n80000102\n04000000 018C37D4 00000000\n20000000\n\n",
+        "[01# Inf Life]": "[01# Inf Life]\n04000000 008F22F0 D65F03C0\n\n",
+        "[Inf Life (off)]": "[Inf Life (off)]\n04000000 008F22F0 D10383FF\n\n",
+        "[02# Quick Accumulation]": "[02# Quick Accumulation]\n04000000 00060DA8 0B000508\n04000000 00800BF0 52800020\n\n",
+        "[Quick Accumulation (off)]": "[Quick Accumulation (off)]\n04000000 00060DA8 0B000108\n04000000 00800BF0 38696900\n\n",
+        "[03# Yellow Soul 16 times]": "[03# Yellow Soul 16 times]\n04000000 00C35FE0 1E210800\n04000000 00C35FE4 1E261001\n04000000 00C35FE8 1E210800\n04000000 00C35FEC D65F03C0\n04000000 007FEAE8 9410DD3E\n\n",
+        "[Yellow Soul 16 times (off)]": "[Yellow Soul 16 times (off)]\n04000000 007FEAE8 1E210800\n\n",
+        "[04# Combo x15]": "[04# Combo x15]\n04000000 00048368 11003D08\n\n",
+        "[Combo x15 (off)]": "[Combo x15 (off)]\n04000000 00048368 11000508\n\n",
+        "[05# Inf Combo]": "[05# Inf Combo]\n04000000 00048348 D503201F\n\n",
+        "[Inf Combo (off)]": "[Inf Combo (off)]\n04000000 00048348 340000A8\n\n",
+        "[06# Scrolls can be used without ninjutsu]": "[06# Scrolls can be used without ninjutsu]\n04000000 006FB998 52800000\n04000000 006FB9B8 52800000\n\n",
+        "[Scrolls can be used without ninjutsu (off)]": "[Scrolls can be used without ninjutsu (off)]\n04000000 006FB998 79400D20\n04000000 006FB9B8 79400D00\n\n",
+        "[hit range normal]": "[hit range normal]\n04000000 00A18FA4 1E2E1001\n\n",
+        "[hit range x61]": "[hit range x61]\n04000000 00A18FA4 1E2E1002\n\n",
+        "[(PRESS L STICK) Enter Hero Mode]": "[(PRESS L STICK) Enter Hero Mode]\n80000010\n02000000 018C46C6 00000100\n02000000 018C46D8 00000100\n02000000 018C4716 00000100\n04000000 018C4718 01000100\n02000000 018C471C 00000100\n01000000 01EA3D50 00000001\n02000000 01EA3D50 00000E10\n20000000\n\n",
+        "[Enter Hero Mode Always]": "[Enter Hero Mode Always]\n02000000 018C46C6 0000000A\n02000000 018C46D8 0000000A\n02000000 018C4716 0000000A\n04000000 018C4718 000A000A\n02000000 018C471C 0000000A\n01000000 01EA3D50 00000001\n02000000 01EA3D50 00000E10\n\n",
+        "[Hero Mode No Expiration]": "[Hero Mode No Expiration]\n14060000 01EA3D50 00000000\n02000000 01EA3D50 00000E10\n20000000\n\n",
+        "[Maintain FPS Limit to 60]": "[Maintain FPS Limit to 60]\n580F0000 01EEBCF0\n580F1000 000003D0\n580F1000 00000030\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[*Crazy Speed Jericoss]": "[*Crazy Speed Jericoss]\n80000002\n04000000 018C37D8 00000000\n20000000\n\n",
+        "[hitanywhere all weapon on]": "[hitanywhere all weapon on]\n04000000 006E50C0 D65F03C0\n\n",
+        "[hitanywhere all weapon off]": "[hitanywhere all weapon off]\n04000000 006E50C0 FC170FEC\n\n",
+        "[rachel hitanywhere Inferno Hammer on]": "[rachel hitanywhere Inferno Hammer on]\n04000000 006EB6D0 D65F03C0\n\n",
+        "[rachel hitanywhere Inferno Hammer off]": "[rachel hitanywhere Inferno Hammer off]\n04000000 006EB6D0 D10483FF\n\n"
+    },
+    "attribution": {
+        "NINJA GAIDEN \u03a3 2 ver 1.0.1 by Patjenova and xtatu and Hazerou amd Jericoss ver 1.0.2 by xtatu.txt": ""
+    }
 }

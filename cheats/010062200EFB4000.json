@@ -1,156 +1,34 @@
 {
-    "10423BBC86D3BFDE": [
-        {
-            "content": "[Gold]\n04100000 03EAE7F0 000F423F\n\n",
-            "title": "[Gold]"
-        },
-        {
-            "content": "[Hero HP]\n04100000 03EAE6F4 000003E7\n\n",
-            "title": "[Hero HP]"
-        },
-        {
-            "content": "[Erik HP]\n04100000 03EAE6F8 000003E7\n\n",
-            "title": "[Erik HP]"
-        },
-        {
-            "content": "[Erik MP]\n04100000 03EAE704 000003E7\n\n",
-            "title": "[Erik MP]"
-        },
-        {
-            "content": "[Gwen HP]\n04100000 03EAE6FC 000003E7\n\n",
-            "title": "[Gwen HP]"
-        },
-        {
-            "content": "[Gwen MP]\n04100000 03EAE708 000003E7\n\n",
-            "title": "[Gwen MP]"
-        },
-        {
-            "content": "[Gain 1k Exp]\n02100000 9582E884 000003E8\n\n",
-            "title": "[Gain 1k Exp]"
-        },
-        {
-            "content": "[Gain 5k Gold]\n02100000 9582E880 00001388\n\n",
-            "title": "[Gain 5k Gold]"
-        },
-        {
-            "content": "[Gold]\n04100000 03EAE7F0 000F423F\n",
-            "title": "[Gold]"
-        },
-        {
-            "content": "[Hero HP]\n04100000 03EAE6F4 000003E7\n",
-            "title": "[Hero HP]"
-        },
-        {
-            "content": "[Hero MP]\n04100000 03EAE700 000003E7\n",
-            "title": "[Hero MP]"
-        },
-        {
-            "content": "[Hero Strength MAX]\n04100000 03EAE718 000003E7\n",
-            "title": "[Hero Strength MAX]"
-        },
-        {
-            "content": "[Hero Agility MAX]\n04100000 03EAE724 000003E7\n",
-            "title": "[Hero Agility MAX]"
-        },
-        {
-            "content": "[Hero Protection MAX]\n04100000 03EAE730 000003E7\n",
-            "title": "[Hero Protection MAX]"
-        },
-        {
-            "content": "[Hero Max. HP]\n04100000 03EAE73C 000003E7\n",
-            "title": "[Hero Max. HP]"
-        },
-        {
-            "content": "[Hero Max. MP]\n04100000 03EAE748 000003E7\n",
-            "title": "[Hero Max. MP]"
-        },
-        {
-            "content": "[Hero Attack MAX]\n04100000 03EAE754 000003E7\n",
-            "title": "[Hero Attack MAX]"
-        },
-        {
-            "content": "[Hero Defence MAX]\n04100000 03EAE760 000003E7\n",
-            "title": "[Hero Defence MAX]"
-        },
-        {
-            "content": "[Erik HP]\n04100000 03EAE6F8 000003E7\n",
-            "title": "[Erik HP]"
-        },
-        {
-            "content": "[Erik MP]\n04100000 03EAE704 000003E7\n",
-            "title": "[Erik MP]"
-        },
-        {
-            "content": "[Erik Strength MAX]\n04100000 03EAE71C 000003E7\n",
-            "title": "[Erik Strength MAX]"
-        },
-        {
-            "content": "[Erik Agility MAX]\n04100000 03EAE728 000003E7\n",
-            "title": "[Erik Agility MAX]"
-        },
-        {
-            "content": "[Erik Protection MAX]\n04100000 03EAE734 000003E7\n",
-            "title": "[Erik Protection MAX]"
-        },
-        {
-            "content": "[Erik Max. HP]\n04100000 03EAE740 000003E7\n",
-            "title": "[Erik Max. HP]"
-        },
-        {
-            "content": "[Erik Max. MP]\n04100000 03EAE74C 000003E7\n",
-            "title": "[Erik Max. MP]"
-        },
-        {
-            "content": "[Erik Attack MAX]\n04100000 03EAE758 000003E7\n",
-            "title": "[Erik Attack MAX]"
-        },
-        {
-            "content": "[Erik Defence MAX]\n04100000 03EAE764 000003E7\n",
-            "title": "[Erik Defence MAX]"
-        },
-        {
-            "content": "[Gwen HP]\n04100000 03EAE6FC 000003E7\n",
-            "title": "[Gwen HP]"
-        },
-        {
-            "content": "[Gwen MP]\n04100000 03EAE708 000003E7\n",
-            "title": "[Gwen MP]"
-        },
-        {
-            "content": "[Gwen Strength MAX]\n04100000 03EAE720 000003E7\n",
-            "title": "[Gwen Strength MAX]"
-        },
-        {
-            "content": "[Gwen Agility MAX]\n04100000 03EAE72C 000003E7\n",
-            "title": "[Gwen Agility MAX]"
-        },
-        {
-            "content": "[Gwen Protection MAX]\n04100000 03EAE738 000003E7\n",
-            "title": "[Gwen Protection MAX]"
-        },
-        {
-            "content": "[Gwen Max. HP]\n04100000 03EAE744 000003E7\n",
-            "title": "[Gwen Max. HP]"
-        },
-        {
-            "content": "[Gwen Max. MP]\n04100000 03EAE750 000003E7\n",
-            "title": "[Gwen Max. MP]"
-        },
-        {
-            "content": "[Gwen Attack MAX]\n04100000 03EAE75C 000003E7\n",
-            "title": "[Gwen Attack MAX]"
-        },
-        {
-            "content": "[Gwen Defence MAX]\n04100000 03EAE768 000003E7\n",
-            "title": "[Gwen Defence MAX]"
-        },
-        {
-            "content": "[Gain 1k Exp]\n02100000 9582E884 000003E8\n",
-            "title": "[Gain 1k Exp]"
-        },
-        {
-            "content": "[Gain 5k Gold]\n02100000 9582E880 00001388\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-            "title": "[Gain 5k Gold]"
-        }
-    ]
+    "10423BBC86D3BFDE": {
+        "[Gold]": "[Gold]\n04100000 03EAE7F0 000F423F\n\n",
+        "[Hero HP]": "[Hero HP]\n04100000 03EAE6F4 000003E7\n\n",
+        "[Erik HP]": "[Erik HP]\n04100000 03EAE6F8 000003E7\n\n",
+        "[Erik MP]": "[Erik MP]\n04100000 03EAE704 000003E7\n\n",
+        "[Gwen HP]": "[Gwen HP]\n04100000 03EAE6FC 000003E7\n\n",
+        "[Gwen MP]": "[Gwen MP]\n04100000 03EAE708 000003E7\n\n",
+        "[Gain 1k Exp]": "[Gain 1k Exp]\n02100000 9582E884 000003E8\n\n",
+        "[Gain 5k Gold]": "[Gain 5k Gold]\n02100000 9582E880 00001388\n\n",
+        "[Hero MP]": "[Hero MP]\n04100000 03EAE700 000003E7\n\n",
+        "[Hero Strength MAX]": "[Hero Strength MAX]\n04100000 03EAE718 000003E7\n\n",
+        "[Hero Agility MAX]": "[Hero Agility MAX]\n04100000 03EAE724 000003E7\n\n",
+        "[Hero Protection MAX]": "[Hero Protection MAX]\n04100000 03EAE730 000003E7\n\n",
+        "[Hero Max. HP]": "[Hero Max. HP]\n04100000 03EAE73C 000003E7\n\n",
+        "[Hero Max. MP]": "[Hero Max. MP]\n04100000 03EAE748 000003E7\n\n",
+        "[Hero Attack MAX]": "[Hero Attack MAX]\n04100000 03EAE754 000003E7\n\n",
+        "[Hero Defence MAX]": "[Hero Defence MAX]\n04100000 03EAE760 000003E7\n\n",
+        "[Erik Strength MAX]": "[Erik Strength MAX]\n04100000 03EAE71C 000003E7\n\n",
+        "[Erik Agility MAX]": "[Erik Agility MAX]\n04100000 03EAE728 000003E7\n\n",
+        "[Erik Protection MAX]": "[Erik Protection MAX]\n04100000 03EAE734 000003E7\n\n",
+        "[Erik Max. HP]": "[Erik Max. HP]\n04100000 03EAE740 000003E7\n\n",
+        "[Erik Max. MP]": "[Erik Max. MP]\n04100000 03EAE74C 000003E7\n\n",
+        "[Erik Attack MAX]": "[Erik Attack MAX]\n04100000 03EAE758 000003E7\n\n",
+        "[Erik Defence MAX]": "[Erik Defence MAX]\n04100000 03EAE764 000003E7\n\n",
+        "[Gwen Strength MAX]": "[Gwen Strength MAX]\n04100000 03EAE720 000003E7\n\n",
+        "[Gwen Agility MAX]": "[Gwen Agility MAX]\n04100000 03EAE72C 000003E7\n\n",
+        "[Gwen Protection MAX]": "[Gwen Protection MAX]\n04100000 03EAE738 000003E7\n\n",
+        "[Gwen Max. HP]": "[Gwen Max. HP]\n04100000 03EAE744 000003E7\n\n",
+        "[Gwen Max. MP]": "[Gwen Max. MP]\n04100000 03EAE750 000003E7\n\n",
+        "[Gwen Attack MAX]": "[Gwen Attack MAX]\n04100000 03EAE75C 000003E7\n\n",
+        "[Gwen Defence MAX]": "[Gwen Defence MAX]\n04100000 03EAE768 000003E7\n\n"
+    }
 }

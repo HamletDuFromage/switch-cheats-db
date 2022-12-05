@@ -1,16 +1,7 @@
 {
-    "2A5408063198B646": [
-        {
-            "content": "[100 Percent Sync]\n02100000 a626ad80 000003e8\n\n",
-            "title": "[100 Percent Sync]"
-        },
-        {
-            "content": "[50 Base PP]\n01100000 a626adac 00000032\n\n",
-            "title": "[50 Base PP]"
-        },
-        {
-            "content": "[500 Hits]\n02100000 a626adb8 000001f4",
-            "title": "[500 Hits]"
-        }
-    ]
+    "2A5408063198B646": {
+        "[100 Percent Sync]": "[100 Percent Sync]\n02100000 a626ad80 000003e8\n\n",
+        "[50 Base PP]": "[50 Base PP]\n01100000 a626adac 00000032\n\n",
+        "[500 Hits]": "[500 Hits]\n02100000 a626adb8 000001f4\n\n"
+    }
 }

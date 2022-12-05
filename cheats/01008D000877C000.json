@@ -1,36 +1,12 @@
 {
-    "3561311D56FBDFB0": [
-        {
-            "content": "[P1 Infinite Lives]\n01000000 01263250 00000009\n\n",
-            "title": "[P1 Infinite Lives]"
-        },
-        {
-            "content": "[P1 Infinite HP]\n01000000 0125da88 00000060\n\n",
-            "title": "[P1 Infinite HP]"
-        },
-        {
-            "content": "[P1 Infinite Shurikens]\n01000000 0126325a 00000003\n\n",
-            "title": "[P1 Infinite Shurikens]"
-        },
-        {
-            "content": "[P1 Invincible]\n01000000 0125dacc 000000ff\n\n",
-            "title": "[P1 Invincible]"
-        },
-        {
-            "content": "[P2 Infinite Lives]\n01000000 0126326e 00000009\n\n",
-            "title": "[P2 Infinite Lives]"
-        },
-        {
-            "content": "[P2 Infinite HP]\n01000000 0125db82 00000060\n\n",
-            "title": "[P2 Infinite HP]"
-        },
-        {
-            "content": "[P2 Infinite Shurikens]\n01000000 01263278 00000003\n\n",
-            "title": "[P2 Infinite Shurikens]"
-        },
-        {
-            "content": "[P2 Invincible]\n01000000 0125dbc6 000000ff",
-            "title": "[P2 Invincible]"
-        }
-    ]
+    "3561311D56FBDFB0": {
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 01263250 00000009\n\n",
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 0125da88 00000060\n\n",
+        "[P1 Infinite Shurikens]": "[P1 Infinite Shurikens]\n01000000 0126325a 00000003\n\n",
+        "[P1 Invincible]": "[P1 Invincible]\n01000000 0125dacc 000000ff\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 0126326e 00000009\n\n",
+        "[P2 Infinite HP]": "[P2 Infinite HP]\n01000000 0125db82 00000060\n\n",
+        "[P2 Infinite Shurikens]": "[P2 Infinite Shurikens]\n01000000 01263278 00000003\n\n",
+        "[P2 Invincible]": "[P2 Invincible]\n01000000 0125dbc6 000000ff\n\n"
+    }
 }

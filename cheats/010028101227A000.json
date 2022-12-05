@@ -1,24 +1,12 @@
 {
-    "10318952DAD3D9E1": [
-        {
-            "content": "[Max HP]\n580F0000 02182988\n780F0000 0000014C\n640F0000 00000000 000003E7\n\n",
-            "title": "[Max HP]"
-        },
-        {
-            "content": "[Inf HP]\n580F0000 02182988\n780F0000 00000150\n640F0000 00000000 000003E7\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 02182988\n780F0000 00000158\n640F0000 00000000 000000FF\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[Moon Jump]\n80000004\n580F0000 02182988\n780F0000 0000007C\n640F0000 00000000 FFFFFFC0\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Inf Dynamite]\n580F0000 02182988\n580F1000 000001D0\n780F0000 00000034\n640F0000 00000000 000003E7",
-            "title": "[Inf Dynamite]"
-        }
-    ]
+    "10318952DAD3D9E1": {
+        "[Max HP]": "[Max HP]\n580F0000 02182988\n780F0000 0000014C\n640F0000 00000000 000003E7\n\n",
+        "[Inf HP]": "[Inf HP]\n580F0000 02182988\n780F0000 00000150\n640F0000 00000000 000003E7\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 02182988\n780F0000 00000158\n640F0000 00000000 000000FF\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000004\n580F0000 02182988\n780F0000 0000007C\n640F0000 00000000 FFFFFFC0\n20000000\n\n",
+        "[Inf Dynamite]": "[Inf Dynamite]\n580F0000 02182988\n580F1000 000001D0\n780F0000 00000034\n640F0000 00000000 000003E7\n\n"
+    },
+    "attribution": {
+        "Meganoid 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
 }

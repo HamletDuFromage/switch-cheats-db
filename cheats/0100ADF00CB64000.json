@@ -1,20 +1,11 @@
 {
-    "24620F1B3F64D649": [
-        {
-            "content": "[Inf Lives]\n580F0000 01D3CA60\n580F1000 000000B8\n580F1000 00000048\n780F0000 00000020\n640F0000 00000000 0000000A\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Inf Special]\n580F0000 01D3CA60\n580F1000 000000B8\n580F1000 00000098\n780F0000 00000020\n640F0000 00000000 000003EC\n\n",
-            "title": "[Inf Special]"
-        },
-        {
-            "content": "[Inf Life]\n580F0000 01D3CA60\n580F1000 000000B8\n580F1000 00000110\n580F1000 00000040\n780F0000 00000020\n640F0000 00000000 000000B4\n\n",
-            "title": "[Inf Life]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 01D3CA68\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000020\n780F0000 00000068\n640F0000 00000000 0000005A",
-            "title": "[Invincible]"
-        }
-    ]
+    "24620F1B3F64D649": {
+        "[Inf Lives]": "[Inf Lives]\n580F0000 01D3CA60\n580F1000 000000B8\n580F1000 00000048\n780F0000 00000020\n640F0000 00000000 0000000A\n\n",
+        "[Inf Special]": "[Inf Special]\n580F0000 01D3CA60\n580F1000 000000B8\n580F1000 00000098\n780F0000 00000020\n640F0000 00000000 000003EC\n\n",
+        "[Inf Life]": "[Inf Life]\n580F0000 01D3CA60\n580F1000 000000B8\n580F1000 00000110\n580F1000 00000040\n780F0000 00000020\n640F0000 00000000 000000B4\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 01D3CA68\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000020\n780F0000 00000068\n640F0000 00000000 0000005A\n\n"
+    },
+    "attribution": {
+        "Snow Battle Princess Sayuki ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

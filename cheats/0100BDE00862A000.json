@@ -1,74 +1,32 @@
 {
-    "32487E7E3D94954E": [
-        {
-            "content": "[Inf. Super]\n04000000 02BBAF50 466A6000\n04000000 02BBAF58 466A6000\n\n",
-            "title": "[Inf. Super]"
-        },
-        {
-            "content": "[No Super CPU]\n04000000 02BBAF60 00000000\n04000000 02BBAF68 00000000\n\n",
-            "title": "[No Super CPU]"
-        },
-        {
-            "content": "[Racket Never Breaks]\n08000000 02BBAF90 00780078 00780078\n08000000 02BBAF98 00780078 00780078\n\n",
-            "title": "[Racket Never Breaks]"
-        },
-        {
-            "content": "[CPU 1-Hit KO (Press Up)]\n80002000\n08000000 02BBB010 00000000 00000000\n08000000 02BBB018 00000000 00000000\n20000000\n\n",
-            "title": "[CPU 1-Hit KO (Press Up)]"
-        },
-        {
-            "content": "[Big Tennis Ball]\n01000000 02BBB587 0000003E",
-            "title": "[Big Tennis Ball]"
-        }
-    ],
-    "4B9A64DED26C6E46": [
-        {
-            "content": "[#01# Player Infinite Super]\n040F0000 02a0cf00 466a6000\n040F0000 02a0cf08 466a6000",
-            "title": "[#01# Player Infinite Super]"
-        }
-    ],
-    "88EF9ECB522D12DB": [
-        {
-            "content": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (For v2.1.0)]\n\n01 Player Infinite Super\n040F0000 02aecf40 466a6000\n040F0000 02aecf48 466a6000\n\n02 CPU No Super\n040F0000 02aecf50 00000000\n040F0000 02aecf58 00000000",
-            "title": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (For v2.1.0)]"
-        }
-    ],
-    "9FDA2C32E8DE3EBF": [
-        {
-            "content": "[#01# Player Infinite Super]\n040F0000 02b70f50 466a6000\n040F0000 02b70f58 466a6000\n\n",
-            "title": "[#01# Player Infinite Super]"
-        },
-        {
-            "content": "[#02# CPU No Super]\n040F0000 02b70f60 00000000\n040F0000 02b70f68 00000000",
-            "title": "[#02# CPU No Super]"
-        }
-    ],
-    "A85C59AEDF83E5C9": [
-        {
-            "content": "[#01# Player Infinite Super]\n040F0000 02b87f50 466a6000\n040F0000 02b87f60 466a6000\n\n",
-            "title": "[#01# Player Infinite Super]"
-        },
-        {
-            "content": "[#02# CPU No Super]\n040F0000 02b87f60 00000000\n040F0000 02b87f68 00000000\n\n",
-            "title": "[#02# CPU No Super]"
-        },
-        {
-            "content": "[#03# Player never KO]\n080F0000 02b87f90 00780078 00780078\n080F0000 02b87f98 00780078 00780078\n\n",
-            "title": "[#03# Player never KO]"
-        },
-        {
-            "content": "[#04# CPU 1-Hit KO]\n080F0000 02b88010 00000000 00000000\n080F0000 02b88018 00000000 00000000",
-            "title": "[#04# CPU 1-Hit KO]"
-        }
-    ],
-    "A9B238505A969318": [
-        {
-            "content": "[#01# Player Infinite Super]\n040F0000 02b67f40 466a6000\n040F0000 02b67f48 466a6000\n\n",
-            "title": "[#01# Player Infinite Super]"
-        },
-        {
-            "content": "[#02# CPU No Super]\n040F0000 02b67f50 00000000\n040F0000 02b67f58 00000000",
-            "title": "[#02# CPU No Super]"
-        }
-    ]
+    "32487E7E3D94954E": {
+        "[Inf. Super]": "[Inf. Super]\n04000000 02BBAF50 466A6000\n04000000 02BBAF58 466A6000\n\n",
+        "[No Super CPU]": "[No Super CPU]\n04000000 02BBAF60 00000000\n04000000 02BBAF68 00000000\n\n",
+        "[Racket Never Breaks]": "[Racket Never Breaks]\n08000000 02BBAF90 00780078 00780078\n08000000 02BBAF98 00780078 00780078\n\n",
+        "[CPU 1-Hit KO (Press Up)]": "[CPU 1-Hit KO (Press Up)]\n80002000\n08000000 02BBB010 00000000 00000000\n08000000 02BBB018 00000000 00000000\n20000000\n\n",
+        "[Big Tennis Ball]": "[Big Tennis Ball]\n01000000 02BBB587 0000003E\n\n"
+    },
+    "88EF9ECB522D12DB": {
+        "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (For v2.1.0)]": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (For v2.1.0)]\n\n01 Player Infinite Super\n040F0000 02aecf40 466a6000\n040F0000 02aecf48 466a6000\n\n02 CPU No Super\n040F0000 02aecf50 00000000\n040F0000 02aecf58 00000000\n\n"
+    },
+    "4B9A64DED26C6E46": {
+        "[#01# Player Infinite Super]": "[#01# Player Infinite Super]\n040F0000 02a0cf00 466a6000\n040F0000 02a0cf08 466a6000\n\n"
+    },
+    "9FDA2C32E8DE3EBF": {
+        "[#01# Player Infinite Super]": "[#01# Player Infinite Super]\n040F0000 02b70f50 466a6000\n040F0000 02b70f58 466a6000\n\n",
+        "[#02# CPU No Super]": "[#02# CPU No Super]\n040F0000 02b70f60 00000000\n040F0000 02b70f68 00000000\n\n"
+    },
+    "A85C59AEDF83E5C9": {
+        "[#01# Player Infinite Super]": "[#01# Player Infinite Super]\n040F0000 02b87f50 466a6000\n040F0000 02b87f60 466a6000\n\n",
+        "[#02# CPU No Super]": "[#02# CPU No Super]\n040F0000 02b87f60 00000000\n040F0000 02b87f68 00000000\n\n",
+        "[#03# Player never KO]": "[#03# Player never KO]\n080F0000 02b87f90 00780078 00780078\n080F0000 02b87f98 00780078 00780078\n\n",
+        "[#04# CPU 1-Hit KO]": "[#04# CPU 1-Hit KO]\n080F0000 02b88010 00000000 00000000\n080F0000 02b88018 00000000 00000000\n\n"
+    },
+    "A9B238505A969318": {
+        "[#01# Player Infinite Super]": "[#01# Player Infinite Super]\n040F0000 02b67f40 466a6000\n040F0000 02b67f48 466a6000\n\n",
+        "[#02# CPU No Super]": "[#02# CPU No Super]\n040F0000 02b67f50 00000000\n040F0000 02b67f58 00000000\n\n"
+    },
+    "attribution": {
+        "Mario Tennis Aces ver 3.1.0 by lionheartwolf.txt": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (V3.0.0)]\n\n[#01# Player Infinite Super]\n040F0000 02b87f50 466a6000\n040F0000 02b87f60 466a6000\n\n[#02# CPU No Super]\n040F0000 02b87f60 00000000\n040F0000 02b87f68 00000000\n\n[#03# Player never KO]\n080F0000 02b87f90 00780078 00780078\n080F0000 02b87f98 00780078 00780078\n\n[#04# CPU 1-Hit KO]\n080F0000 02b88010 00000000 00000000\n080F0000 02b88018 00000000 00000000"
+    }
 }

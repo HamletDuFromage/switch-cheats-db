@@ -1,76 +1,25 @@
 {
-    "B5EA86B6AEFEEB73": [
-        {
-            "content": "[01# Inf Ammo All Guns]\n04000000 016E7488 52933320\n\n",
-            "title": "[01# Inf Ammo All Guns]"
-        },
-        {
-            "content": "[Inf Ammo Test(off)]\n04000000 016E7488 1E380000\n\n",
-            "title": "[Inf Ammo Test(off)]"
-        },
-        {
-            "content": "[02# Max Health]\n580F0000 040AEA30\n580F1000 00000048\n580F1000 00000590\n780F0000 000000A0\n640F0000 00000000 4B18967F\n\n",
-            "title": "[02# Max Health]"
-        },
-        {
-            "content": "[03# God Mode]\n580F0000 040AEA30\n580F1000 00000048\n580F1000 00000590\n780F0000 00000154\n640F0000 00000000 00000006\n\n",
-            "title": "[03# God Mode]"
-        },
-        {
-            "content": "[04# No reload]\n580F0000 040AEA30\n580F1000 00000068\n580F1000 00000610\n780F0000 00000EFC\n640F0000 00000000 000003E7\n\n",
-            "title": "[04# No reload]"
-        },
-        {
-            "content": "[05# Moonjump]\n80000002\n580F0000 040AEA30\n580F1000 00000068\n580F1000 000002D8\n780F0000 00000170\n640F0000 00000000 44000000\n20000000\n\n",
-            "title": "[05# Moonjump]"
-        },
-        {
-            "content": "[06# Running x2 (left) x1 (right)]\n80001000\n580F0000 040AEA30\n580F1000 00000068\n580F1000 000002D8\n780F0000 00000408\n640F0000 00000000 40400000\n20000000\n80004000\n580F0000 040AEA30\n580F1000 00000068\n580F1000 000002D8\n780F0000 00000408\n640F0000 00000000 3f800000\n20000000\n\n",
-            "title": "[06# Running x2 (left) x1 (right)]"
-        },
-        {
-            "content": "[07# Damage Multiplier x2000]\n580F0000 040AEA30\n580F1000 00000058\n580F1000 000000E0\n780F0000 00000708\n640F0000 00000000 44FA0000\n\n",
-            "title": "[07# Damage Multiplier x2000]"
-        },
-        {
-            "content": "[08# XP Multiplier x2000]\n580F0000 040AEA30\n580F1000 00000058\n580F1000 00000248\n780F0000 00000174\n640F0000 00000000 44FA0000\n\n",
-            "title": "[08# XP Multiplier x2000]"
-        },
-        {
-            "content": "[08# Instant level up (press R stick)]\n80000020\n580F0000 040AEA30\n580F1000 00000048\n780F0000 0000042C\n640F0000 00000000 00000001\n20000000\n\n",
-            "title": "[08# Instant level up (press R stick)]"
-        },
-        {
-            "content": "[09# Max Money]\n580F0000 040AEA30\n580F1000 00000048\n780F0000 00000478\n640F0000 00000000 0001869F\n\n",
-            "title": "[09# Max Money]"
-        },
-        {
-            "content": "[10# Max Eridium]\n580F0000 040AEA30\n580F1000 00000048\n780F0000 0000048C\n640F0000 00000000 000001F4\n\n",
-            "title": "[10# Max Eridium]"
-        },
-        {
-            "content": "[11# Max Seraph Crystals]\n580F0000 040AEA30\n580F1000 00000048\n780F0000 000004A0\n640F0000 00000000 000001F4\n\n",
-            "title": "[11# Max Seraph Crystals]"
-        },
-        {
-            "content": "[12# Max Skill Points]\n580F0000 040AEA30\n580F1000 00000048\n780F0000 0000044C\n640F0000 00000000 00000063\n\n",
-            "title": "[12# Max Skill Points]"
-        },
-        {
-            "content": "[13# Max Badass Tokens]\n580F0000 040AEA30\n580F1000 00000058\n580F1000 000000E0\n780F0000 00001D74\n640F0000 00000000 00000063\n\n",
-            "title": "[13# Max Badass Tokens]"
-        },
-        {
-            "content": "[14# Torgue Tokens]\n580F0000 040AEA30\n580F1000 00000048\n780F0000 000004C8\n640F0000 00000000 000003E7\n\n",
-            "title": "[14# Torgue Tokens]"
-        },
-        {
-            "content": "[15# Max Shield]\n580F0000 040AEA30\n580F1000 00000048\n580F1000 000005A8\n780F0000 000000A0\n640F0000 00000000 460CA000\n\n",
-            "title": "[15# Max Shield]"
-        },
-        {
-            "content": "[16# Shield God Mode]\n580F0000 040AEA30\n580F1000 00000048\n580F1000 000005A8\n780F0000 00000154\n640F0000 00000000 00000006",
-            "title": "[16# Shield God Mode]"
-        }
-    ]
+    "B5EA86B6AEFEEB73": {
+        "[01# Inf Ammo All Guns]": "[01# Inf Ammo All Guns]\n04000000 016E7488 52933320\n\n",
+        "[Inf Ammo Test(off)]": "[Inf Ammo Test(off)]\n04000000 016E7488 1E380000\n\n",
+        "[02# Max Health]": "[02# Max Health]\n580F0000 040AEA30\n580F1000 00000048\n580F1000 00000590\n780F0000 000000A0\n640F0000 00000000 4B18967F\n\n",
+        "[03# God Mode]": "[03# God Mode]\n580F0000 040AEA30\n580F1000 00000048\n580F1000 00000590\n780F0000 00000154\n640F0000 00000000 00000006\n\n",
+        "[04# No reload]": "[04# No reload]\n580F0000 040AEA30\n580F1000 00000068\n580F1000 00000610\n780F0000 00000EFC\n640F0000 00000000 000003E7\n\n",
+        "[05# Moonjump]": "[05# Moonjump]\n80000002\n580F0000 040AEA30\n580F1000 00000068\n580F1000 000002D8\n780F0000 00000170\n640F0000 00000000 44000000\n20000000\n\n",
+        "[06# Running x2 (left) x1 (right)]": "[06# Running x2 (left) x1 (right)]\n80001000\n580F0000 040AEA30\n580F1000 00000068\n580F1000 000002D8\n780F0000 00000408\n640F0000 00000000 40400000\n20000000\n80004000\n580F0000 040AEA30\n580F1000 00000068\n580F1000 000002D8\n780F0000 00000408\n640F0000 00000000 3f800000\n20000000\n\n",
+        "[07# Damage Multiplier x2000]": "[07# Damage Multiplier x2000]\n580F0000 040AEA30\n580F1000 00000058\n580F1000 000000E0\n780F0000 00000708\n640F0000 00000000 44FA0000\n\n",
+        "[08# XP Multiplier x2000]": "[08# XP Multiplier x2000]\n580F0000 040AEA30\n580F1000 00000058\n580F1000 00000248\n780F0000 00000174\n640F0000 00000000 44FA0000\n\n",
+        "[08# Instant level up (press R stick)]": "[08# Instant level up (press R stick)]\n80000020\n580F0000 040AEA30\n580F1000 00000048\n780F0000 0000042C\n640F0000 00000000 00000001\n20000000\n\n",
+        "[09# Max Money]": "[09# Max Money]\n580F0000 040AEA30\n580F1000 00000048\n780F0000 00000478\n640F0000 00000000 0001869F\n\n",
+        "[10# Max Eridium]": "[10# Max Eridium]\n580F0000 040AEA30\n580F1000 00000048\n780F0000 0000048C\n640F0000 00000000 000001F4\n\n",
+        "[11# Max Seraph Crystals]": "[11# Max Seraph Crystals]\n580F0000 040AEA30\n580F1000 00000048\n780F0000 000004A0\n640F0000 00000000 000001F4\n\n",
+        "[12# Max Skill Points]": "[12# Max Skill Points]\n580F0000 040AEA30\n580F1000 00000048\n780F0000 0000044C\n640F0000 00000000 00000063\n\n",
+        "[13# Max Badass Tokens]": "[13# Max Badass Tokens]\n580F0000 040AEA30\n580F1000 00000058\n580F1000 000000E0\n780F0000 00001D74\n640F0000 00000000 00000063\n\n",
+        "[14# Torgue Tokens]": "[14# Torgue Tokens]\n580F0000 040AEA30\n580F1000 00000048\n780F0000 000004C8\n640F0000 00000000 000003E7\n\n",
+        "[15# Max Shield]": "[15# Max Shield]\n580F0000 040AEA30\n580F1000 00000048\n580F1000 000005A8\n780F0000 000000A0\n640F0000 00000000 460CA000\n\n",
+        "[16# Shield God Mode]": "[16# Shield God Mode]\n580F0000 040AEA30\n580F1000 00000048\n580F1000 000005A8\n780F0000 00000154\n640F0000 00000000 00000006\n\n"
+    },
+    "attribution": {
+        "Borderlands 2 ver 1.0.0 by wiitendo and Patjenova.txt": "Sxos or Edison activate cheat\nAfter selecting the game."
+    }
 }

@@ -1,8 +1,8 @@
 {
-    "B99305304DF99C41": [
-        {
-            "content": "[Invulnerable in beat em up section]\n580F0000 03F39B60\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000068\n580F1000 000000A0\n580F1000 00000050\n580F1000 00000038\n780F0000 00000070\n640F0000 00000000 00000001",
-            "title": "[Invulnerable in beat em up section]"
-        }
-    ]
+    "B99305304DF99C41": {
+        "[Invulnerable in beat em up section]": "[Invulnerable in beat em up section]\n580F0000 03F39B60\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000068\n580F1000 000000A0\n580F1000 00000050\n580F1000 00000038\n780F0000 00000070\n640F0000 00000000 00000001\n\n"
+    },
+    "attribution": {
+        "Doug Hates His Job by TomSwitch.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

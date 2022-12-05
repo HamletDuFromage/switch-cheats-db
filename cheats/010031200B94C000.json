@@ -1,8 +1,8 @@
 {
-    "11428E3E3BEC214E": [
-        {
-            "content": "[No Damage]\n04000000 0017143C 1E202920",
-            "title": "[No Damage]"
-        }
-    ]
+    "11428E3E3BEC214E": {
+        "[No Damage]": "[No Damage]\n04000000 0017143C 1E202920\n\n"
+    },
+    "attribution": {
+        "myFriendpedro1v01.txt": ""
+    }
 }

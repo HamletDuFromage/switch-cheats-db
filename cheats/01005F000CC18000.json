@@ -1,16 +1,10 @@
 {
-    "528F3262A75E4EA8": [
-        {
-            "content": "[MoonJump by jhmiller]\n80000040\n580F0000 019AC650\n580F1000 00000058\n580F1000 00000018\n580F1000 00000000\n780F0000 00000184\n640F0000 00000000 BFF13333\n20000000\n\n",
-            "title": "[MoonJump by jhmiller]"
-        },
-        {
-            "content": "[Ammo by jhmiller]\n580F0000 019AC650\n580F1000 00000058\n580F1000 00000018\n580F1000 00000000\n780F0000 00000120\n640F0000 00000000 00000063\n\n",
-            "title": "[Ammo by jhmiller]"
-        },
-        {
-            "content": "[Air by jhmiller]\n580F0000 019AC650\n580F1000 00000058\n580F1000 00000018\n580F1000 00000000\n780F0000 000000EC\n640F0000 00000000 000003FC",
-            "title": "[Air by jhmiller]"
-        }
-    ]
+    "528F3262A75E4EA8": {
+        "[MoonJump by jhmiller]": "[MoonJump by jhmiller]\n80000040\n580F0000 019AC650\n580F1000 00000058\n580F1000 00000018\n580F1000 00000000\n780F0000 00000184\n640F0000 00000000 BFF13333\n20000000\n\n",
+        "[Ammo by jhmiller]": "[Ammo by jhmiller]\n580F0000 019AC650\n580F1000 00000058\n580F1000 00000018\n580F1000 00000000\n780F0000 00000120\n640F0000 00000000 00000063\n\n",
+        "[Air by jhmiller]": "[Air by jhmiller]\n580F0000 019AC650\n580F1000 00000058\n580F1000 00000018\n580F1000 00000000\n780F0000 000000EC\n640F0000 00000000 000003FC\n\n"
+    },
+    "attribution": {
+        "Overwhelm ver 1.0.3 by jhmiller.txt": "#Give you 13 pearls in any Silent Realm.\nOnce the Silent Realm has started and you're able to move, activate and immediately disable the code.\nIt will give you 13 pearls, just pick 2 random pearls on the floor to correctly trigger the win and end the Silent Realm.\n\n[Inf. Deku Seeds]\n[Inf. Arrows]\n[Inf. Bombs]\n[Infinite Shield Durability]\n*[Inf Bugs / Materials] new\n*[Unlock All Bugs / Materials] new\n* Shoot arrow / seeds, or go to a new area (loading screen) for cheat to become visible."
+    }
 }

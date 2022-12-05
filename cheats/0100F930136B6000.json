@@ -1,136 +1,48 @@
 {
-    "225EA8C428EF4C9D": [
-        {
-            "content": "[1p invicible no get tens on]\n04000000 02E97360 D65F03C0\n\n",
-            "title": "[1p invicible no get tens on]"
-        },
-        {
-            "content": "[1p invicible no get tens off]\n04000000 02E97360 F81D0FF5",
-            "title": "[1p invicible no get tens off]"
-        }
-    ],
-    "41B6418E96424D37": [
-        {
-            "content": "[1) Infinite Lives - ON]\n040E0000 00D1A1B8 52800128\n",
-            "title": "[1) Infinite Lives - ON]"
-        },
-        {
-            "content": "[1) Infinite Lives - OFF]\n040E0000 00D1A1B8 51000408\n\n",
-            "title": "[1) Infinite Lives - OFF]"
-        },
-        {
-            "content": "[2) Instant Beam Charge - ON]\n010E0000 00D21004 00000060\n",
-            "title": "[2) Instant Beam Charge - ON]"
-        },
-        {
-            "content": "[2) Instant Beam Charge - OFF]\n010E0000 00D21004 00000063\n\n",
-            "title": "[2) Instant Beam Charge - OFF]"
-        },
-        {
-            "content": "[3) Infinite DOSE - ON]\n040E0000 00AF8774 BD475800\n040E0000 00AF98B8 BD475668\n",
-            "title": "[3) Infinite DOSE - ON]"
-        },
-        {
-            "content": "[3) Infinite DOSE - OFF]\n040E0000 00AF8774 1E2703E0\n040E0000 00AF98B8 1E2703E8\n\n",
-            "title": "[3) Infinite DOSE - OFF]"
-        },
-        {
-            "content": "[4) R-coins:999999 (Left Stick Pressed)]\n80000010\n580E0000 0743DBE0\n580E1000 000AA798\n780E0000 00000034\n640E1000 00000000 000F423F\n20000000\n\n",
-            "title": "[4) R-coins:999999 (Left Stick Pressed)]"
-        },
-        {
-            "content": "[5) S:999999 E:999999 B:999999]\n80000010\n580E0000 0743DBE0\n580E1000 000AA7C8\n580E1000 00000030\n640E1000 00000000 000F423F\n640E1000 00000000 000F423F\n640E1000 00000000 000F423F\n20000000\n\n",
-            "title": "[5) S:999999 E:999999 B:999999]"
-        },
-        {
-            "content": "[6) Invincible (ZR Pressed)]\n040E0000 02EF83C8 D63F0100\n80000200\n040E0000 02EF83C8 D503201F\n20000000\n",
-            "title": "[6) Invincible (ZR Pressed)]"
-        }
-    ],
-    "489DCE236CC2CA95": [
-        {
-            "content": "[1p invicible]\n04000000 02E05130 D65F03C0\n\n",
-            "title": "[1p invicible]"
-        },
-        {
-            "content": "[Ships]\n80000008\n580F0000 07972910\n580F1000 00000008\n780F0000 0000011C\n640F0000 00000000 00000009\n20000000\n\n",
-            "title": "[Ships]"
-        },
-        {
-            "content": "[Score 10M]\n80000008\n580F0000 07972910\n580F1000 00000008\n780F0000 00000124\n640F0000 00000000 00989680\n20000000\n\n",
-            "title": "[Score 10M]"
-        },
-        {
-            "content": "[Wave Cannon Ready]\n80000008\n580F0000 0793DE20\n580F1000 00000000\n580F1000 00000020\n780F0000 0000043C\n640F0000 00000000 42C80000\n20000000",
-            "title": "[Wave Cannon Ready]"
-        }
-    ],
-    "5D3EEE4C03B390A7": [
-        {
-            "content": "[1p invincible on]\n04000000 02F385B0 D65F03C0\n\n",
-            "title": "[1p invincible on]"
-        },
-        {
-            "content": "[1p invincible off get items]\n04000000 02F385B0 F81D0FF5\n\n",
-            "title": "[1p invincible off get items]"
-        },
-        {
-            "content": "[1) Infinite Lives - ON]\n040E0000 00D41A38 52800128\n",
-            "title": "[1) Infinite Lives - ON]"
-        },
-        {
-            "content": "[1) Infinite Lives - OFF]\n040E0000 00D41A38 51000408\n\n",
-            "title": "[1) Infinite Lives - OFF]"
-        },
-        {
-            "content": "[2) Instant Beam Charge - ON]\n040E0000 00D48884 BD043E60\n",
-            "title": "[2) Instant Beam Charge - ON]"
-        },
-        {
-            "content": "[2) Instant Beam Charge - OFF]\n040E0000 00D48884 BD043E63\n\n",
-            "title": "[2) Instant Beam Charge - OFF]"
-        },
-        {
-            "content": "[3) Infinite DOSE - ON]\n040E0000 00B1F8DC D503201F\n040E0000 00B20A34 D503201F\n",
-            "title": "[3) Infinite DOSE - ON]"
-        },
-        {
-            "content": "[3) Infinite DOSE - OFF]\n040E0000 00B1F8DC 94DC4ACD\n040E0000 00B20A34 94DC467B\n\n",
-            "title": "[3) Infinite DOSE - OFF]"
-        },
-        {
-            "content": "[4) Max R-coins (set at stage end)]\n040E0000 00B3CD70 1A88B10A\n040E0000 00B3CD78 1A88B108\n\n",
-            "title": "[4) Max R-coins (set at stage end)]"
-        },
-        {
-            "content": "[5) Max Resources (set at stage end)]\n040E0000 00B481DC 1A89B12B\n040E0000 00B481F8 1A89B129\n\n",
-            "title": "[5) Max Resources (set at stage end)]"
-        },
-        {
-            "content": "[6) Invincible (ZR Pressed)]\n040E0000 02F38608 D63F0100\n80000200\n040E0000 02F38608 D503201F\n20000000",
-            "title": "[6) Invincible (ZR Pressed)]"
-        }
-    ],
-    "5EEFE50943FC63F3": [
-        {
-            "content": "[Press Y for Beam]\n80000008\n580F0000 07A0CE20\n580F1000 00000000\n580F1000 00000020\n780F0000 0000043C\n640F0000 00000000 42C80000\n20000000\n\n",
-            "title": "[Press Y for Beam]"
-        },
-        {
-            "content": "[Infinite Lives v100]\n580f0000 06E17A00\n580f1000 00000020\n780f0000 000001FC\n640f0000 00000000 00000009\n\n",
-            "title": "[Infinite Lives v100]"
-        },
-        {
-            "content": "[Y Charged Attack]\n80000008\n580F0000 07A0CE20\n580F1000 00000000\n580F1000 00000020\n780F0000 0000043C\n640f0000 00000000 42c80000\n20000000\n\n",
-            "title": "[Y Charged Attack]"
-        },
-        {
-            "content": "[Infinite Full Dose after gain]\n04000000 00AC6D48 d503201f\n04000000 00AC87F8 bd070661\n\n",
-            "title": "[Infinite Full Dose after gain]"
-        },
-        {
-            "content": "[100000 S E B Points]\n580f0000 06E17A00\n580f1000 00000028\n580f1000 00000010\n580f1000 000000C8\n580f1000 000000D0\n780f0000 00000000\n680f0000 000186a0 000186a0\n780f0000 00000008\n640f0000 00000000 000186a0\n",
-            "title": "[100000 S E B Points]"
-        }
-    ]
+    "5EEFE50943FC63F3": {
+        "[Press Y for Beam]": "[Press Y for Beam]\n80000008\n580F0000 07A0CE20\n580F1000 00000000\n580F1000 00000020\n780F0000 0000043C\n640F0000 00000000 42C80000\n20000000\n\n",
+        "[Infinite Lives v100]": "[Infinite Lives v100]\n580f0000 06E17A00\n580f1000 00000020\n780f0000 000001FC\n640f0000 00000000 00000009\n\n",
+        "[Y Charged Attack]": "[Y Charged Attack]\n80000008\n580F0000 07A0CE20\n580F1000 00000000\n580F1000 00000020\n780F0000 0000043C\n640f0000 00000000 42c80000\n20000000\n\n",
+        "[Infinite Full Dose after gain]": "[Infinite Full Dose after gain]\n04000000 00AC6D48 d503201f\n04000000 00AC87F8 bd070661\n\n",
+        "[100000 S E B Points]": "[100000 S E B Points]\n580f0000 06E17A00\n580f1000 00000028\n580f1000 00000010\n580f1000 000000C8\n580f1000 000000D0\n780f0000 00000000\n680f0000 000186a0 000186a0\n780f0000 00000008\n640f0000 00000000 000186a0\n\n"
+    },
+    "5D3EEE4C03B390A7": {
+        "[1p invincible on]": "[1p invincible on]\n04000000 02F385B0 D65F03C0\n\n",
+        "[1p invincible off get items]": "[1p invincible off get items]\n04000000 02F385B0 F81D0FF5\n\n",
+        "[1) Infinite Lives - ON]": "[1) Infinite Lives - ON]\n040E0000 00D41A38 52800128\n\n",
+        "[1) Infinite Lives - OFF]": "[1) Infinite Lives - OFF]\n040E0000 00D41A38 51000408\n\n",
+        "[2) Instant Beam Charge - ON]": "[2) Instant Beam Charge - ON]\n040E0000 00D48884 BD043E60\n\n",
+        "[2) Instant Beam Charge - OFF]": "[2) Instant Beam Charge - OFF]\n040E0000 00D48884 BD043E63\n\n",
+        "[3) Infinite DOSE - ON]": "[3) Infinite DOSE - ON]\n040E0000 00B1F8DC D503201F\n040E0000 00B20A34 D503201F\n\n",
+        "[3) Infinite DOSE - OFF]": "[3) Infinite DOSE - OFF]\n040E0000 00B1F8DC 94DC4ACD\n040E0000 00B20A34 94DC467B\n\n",
+        "[4) Max R-coins (set at stage end)]": "[4) Max R-coins (set at stage end)]\n040E0000 00B3CD70 1A88B10A\n040E0000 00B3CD78 1A88B108\n\n",
+        "[5) Max Resources (set at stage end)]": "[5) Max Resources (set at stage end)]\n040E0000 00B481DC 1A89B12B\n040E0000 00B481F8 1A89B129\n\n",
+        "[6) Invincible (ZR Pressed)]": "[6) Invincible (ZR Pressed)]\n040E0000 02F38608 D63F0100\n80000200\n040E0000 02F38608 D503201F\n20000000\n\n"
+    },
+    "41B6418E96424D37": {
+        "[1) Infinite Lives - ON]": "[1) Infinite Lives - ON]\n040E0000 00D1A1B8 52800128\n\n",
+        "[1) Infinite Lives - OFF]": "[1) Infinite Lives - OFF]\n040E0000 00D1A1B8 51000408\n\n",
+        "[2) Instant Beam Charge - ON]": "[2) Instant Beam Charge - ON]\n010E0000 00D21004 00000060\n\n",
+        "[2) Instant Beam Charge - OFF]": "[2) Instant Beam Charge - OFF]\n010E0000 00D21004 00000063\n\n",
+        "[3) Infinite DOSE - ON]": "[3) Infinite DOSE - ON]\n040E0000 00AF8774 BD475800\n040E0000 00AF98B8 BD475668\n\n",
+        "[3) Infinite DOSE - OFF]": "[3) Infinite DOSE - OFF]\n040E0000 00AF8774 1E2703E0\n040E0000 00AF98B8 1E2703E8\n\n",
+        "[4) R-coins:999999 (Left Stick Pressed)]": "[4) R-coins:999999 (Left Stick Pressed)]\n80000010\n580E0000 0743DBE0\n580E1000 000AA798\n780E0000 00000034\n640E1000 00000000 000F423F\n20000000\n\n",
+        "[5) S:999999 E:999999 B:999999]": "[5) S:999999 E:999999 B:999999]\n80000010\n580E0000 0743DBE0\n580E1000 000AA7C8\n580E1000 00000030\n640E1000 00000000 000F423F\n640E1000 00000000 000F423F\n640E1000 00000000 000F423F\n20000000\n\n",
+        "[6) Invincible (ZR Pressed)]": "[6) Invincible (ZR Pressed)]\n040E0000 02EF83C8 D63F0100\n80000200\n040E0000 02EF83C8 D503201F\n20000000\n\n"
+    },
+    "489DCE236CC2CA95": {
+        "[1p invicible]": "[1p invicible]\n04000000 02E05130 D65F03C0\n\n",
+        "[Ships]": "[Ships]\n80000008\n580F0000 07972910\n580F1000 00000008\n780F0000 0000011C\n640F0000 00000000 00000009\n20000000\n\n",
+        "[Score 10M]": "[Score 10M]\n80000008\n580F0000 07972910\n580F1000 00000008\n780F0000 00000124\n640F0000 00000000 00989680\n20000000\n\n",
+        "[Wave Cannon Ready]": "[Wave Cannon Ready]\n80000008\n580F0000 0793DE20\n580F1000 00000000\n580F1000 00000020\n780F0000 0000043C\n640F0000 00000000 42C80000\n20000000\n\n"
+    },
+    "225EA8C428EF4C9D": {
+        "[1p invicible no get tens on]": "[1p invicible no get tens on]\n04000000 02E97360 D65F03C0\n\n",
+        "[1p invicible no get tens off]": "[1p invicible no get tens off]\n04000000 02E97360 F81D0FF5\n\n"
+    },
+    "attribution": {
+        "R Type 2 ver 1.0.3 by wiitendo84 and Tomswitch.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",
+        "R-Type Final 2 v1.0.5 (v327680) by Eiffel ver 1.0.4 and 1.0.2 and 1.0.6 by xtatu and Tomswitch and Eiffel.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",
+        "R Type 2 ver 1.0.3 by Patjenova and wiitendo84 and Tomswitch.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

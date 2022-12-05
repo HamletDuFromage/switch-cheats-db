@@ -1,24 +1,9 @@
 {
-    "21610CABD4340C7F": [
-        {
-            "content": "[P1 Infinite HP]\n01000000 01242E3A 000000FC\n\n",
-            "title": "[P1 Infinite HP]"
-        },
-        {
-            "content": "[P1 Maximum Power]\n01000000 01242E45 00000040\n\n",
-            "title": "[P1 Maximum Power]"
-        },
-        {
-            "content": "[P1 Always Have Power Gauge]\n01000000 01242F51 00000000\n\n",
-            "title": "[P1 Always Have Power Gauge]"
-        },
-        {
-            "content": "[P2 NO HP]\n01000000 0124303A 00000000\n\n",
-            "title": "[P2 NO HP]"
-        },
-        {
-            "content": "[P2 NO Power]\n01000000 01243045 00000000",
-            "title": "[P2 NO Power]"
-        }
-    ]
+    "21610CABD4340C7F": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 01242E3A 000000FC\n\n",
+        "[P1 Maximum Power]": "[P1 Maximum Power]\n01000000 01242E45 00000040\n\n",
+        "[P1 Always Have Power Gauge]": "[P1 Always Have Power Gauge]\n01000000 01242F51 00000000\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n01000000 0124303A 00000000\n\n",
+        "[P2 NO Power]": "[P2 NO Power]\n01000000 01243045 00000000\n\n"
+    }
 }

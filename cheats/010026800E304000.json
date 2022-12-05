@@ -1,68 +1,23 @@
 {
-    "CEFBF4F864B51F37": [
-        {
-            "content": "[Inf Funds Thief B v 1.0]\n04000000 00613B58 6B1F0148\n\n",
-            "title": "[Inf Funds Thief B v 1.0]"
-        },
-        {
-            "content": "[InF TacP]\n04000000 00613D88 6B1F0148\n\n",
-            "title": "[InF TacP]"
-        },
-        {
-            "content": "[Crashes x2]\n04000000 005C82FC 0B090569\n\n",
-            "title": "[Crashes x2]"
-        },
-        {
-            "content": "[Crashes x4]\n04000000 005C82FC 0B090969\n\n",
-            "title": "[Crashes x4]"
-        },
-        {
-            "content": "[Crashes x8]\n04000000 005C82FC 0B090D69\n\n",
-            "title": "[Crashes x8]"
-        },
-        {
-            "content": "[Reduction of the number of crashes]\n04000000 005C82FC 0B090169\n\n",
-            "title": "[Reduction of the number of crashes]"
-        },
-        {
-            "content": "[Inf movement]\n580F0000 017CB2B0\n780F0000 00000090\n610F0000 00000000 0000008C\n\n",
-            "title": "[Inf movement]"
-        },
-        {
-            "content": "[EXC Max]\n04000000 005A45FC 52800148\n04070000 005A4604 3901B008\n04070000 005A4608 381FC3A8\n\n",
-            "title": "[EXC Max]"
-        },
-        {
-            "content": "[Inf SP]\n04000000 005C8660 6B1F0108\n\n",
-            "title": "[Inf SP]"
-        },
-        {
-            "content": "[Inf EN]\n04000000 005D1120 6B1F0021\n04000000 005D1138 6B1F0148\n04000000 005D1164 6B1F0149\n\n",
-            "title": "[Inf EN]"
-        },
-        {
-            "content": "[Inf Bombs]\n04000000 005D1328 6B1F0129\n04000000 005D1344 6B1F0148\n\n",
-            "title": "[Inf Bombs]"
-        },
-        {
-            "content": "[Game Week Modification]\n04000000 00445588 52800C60\n\n",
-            "title": "[Game Week Modification]"
-        },
-        {
-            "content": "[Maximum after SR points increase]\n04000000 006131D4 52800689\n\n",
-            "title": "[Maximum after SR points increase]"
-        },
-        {
-            "content": "[Start 15 sections of transformation]\n04000000 005CE950 52800029\n\n",
-            "title": "[Start 15 sections of transformation]"
-        },
-        {
-            "content": "[Fully enhanced chip]\n04000000 00577A74 5280078A\n04000000 00577A78 3908010A\n\n",
-            "title": "[Fully enhanced chip]"
-        },
-        {
-            "content": "[Inf skills]\n04000000 0052CE74 6B1F0181",
-            "title": "[Inf skills]"
-        }
-    ]
+    "CEFBF4F864B51F37": {
+        "[Inf Funds Thief B v 1.0]": "[Inf Funds Thief B v 1.0]\n04000000 00613B58 6B1F0148\n\n",
+        "[InF TacP]": "[InF TacP]\n04000000 00613D88 6B1F0148\n\n",
+        "[Crashes x2]": "[Crashes x2]\n04000000 005C82FC 0B090569\n\n",
+        "[Crashes x4]": "[Crashes x4]\n04000000 005C82FC 0B090969\n\n",
+        "[Crashes x8]": "[Crashes x8]\n04000000 005C82FC 0B090D69\n\n",
+        "[Reduction of the number of crashes]": "[Reduction of the number of crashes]\n04000000 005C82FC 0B090169\n\n",
+        "[Inf movement]": "[Inf movement]\n580F0000 017CB2B0\n780F0000 00000090\n610F0000 00000000 0000008C\n\n",
+        "[EXC Max]": "[EXC Max]\n04000000 005A45FC 52800148\n04070000 005A4604 3901B008\n04070000 005A4608 381FC3A8\n\n",
+        "[Inf SP]": "[Inf SP]\n04000000 005C8660 6B1F0108\n\n",
+        "[Inf EN]": "[Inf EN]\n04000000 005D1120 6B1F0021\n04000000 005D1138 6B1F0148\n04000000 005D1164 6B1F0149\n\n",
+        "[Inf Bombs]": "[Inf Bombs]\n04000000 005D1328 6B1F0129\n04000000 005D1344 6B1F0148\n\n",
+        "[Game Week Modification]": "[Game Week Modification]\n04000000 00445588 52800C60\n\n",
+        "[Maximum after SR points increase]": "[Maximum after SR points increase]\n04000000 006131D4 52800689\n\n",
+        "[Start 15 sections of transformation]": "[Start 15 sections of transformation]\n04000000 005CE950 52800029\n\n",
+        "[Fully enhanced chip]": "[Fully enhanced chip]\n04000000 00577A74 5280078A\n04000000 00577A78 3908010A\n\n",
+        "[Inf skills]": "[Inf skills]\n04000000 0052CE74 6B1F0181\n\n"
+    },
+    "attribution": {
+        "Super Robot Wars X ver 1.0.0 by 91wii trasnlated by jericoss.txt": "[Inf Funds Thief B v 1.0]\n04000000 00613B58 6B1F0148\n\n[InF TacP]\n04000000 00613D88 6B1F0148\n\n[Crashes x2]\n04000000 005C82FC 0B090569\n\n[Crashes x4]\n04000000 005C82FC 0B090969\n\n[Crashes x8]\n04000000 005C82FC 0B090D69\n\n[Reduction of the number of crashes]\n04000000 005C82FC 0B090169\n\n[Inf movement]\n580F0000 017CB2B0\n780F0000 00000090\n610F0000 00000000 0000008C\n\n[EXC Max]\n04000000 005A45FC 52800148\n04070000 005A4604 3901B008\n04070000 005A4608 381FC3A8\n\n[Inf SP]\n04000000 005C8660 6B1F0108\n\n[Inf EN]\n04000000 005D1120 6B1F0021\n04000000 005D1138 6B1F0148\n04000000 005D1164 6B1F0149\n\n[Inf Bombs]\n04000000 005D1328 6B1F0129\n04000000 005D1344 6B1F0148\n\n[Game Week Modification]\n04000000 00445588 52800C60\n\n[Maximum after SR points increase]\n04000000 006131D4 52800689\n\n[Start 15 sections of transformation]\n04000000 005CE950 52800029\n\n[Fully enhanced chip]\n04000000 00577A74 5280078A\n04000000 00577A78 3908010A\n\n[Inf skills]\n04000000 0052CE74 6B1F0181"
+    }
 }

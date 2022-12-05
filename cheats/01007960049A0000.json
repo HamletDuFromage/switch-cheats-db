@@ -1,88 +1,25 @@
 {
-    "40EA84ADF0A7BC26": [
-        {
-            "content": "[Inf. Health]\n580F0000 018E3070\n780F0000 0000CEDC\n680F0000 00000000 0000FFFF\n\n",
-            "title": "[Inf. Health]"
-        },
-        {
-            "content": "[Inf. 99999999 Halos]\n580F0000 0186FA28\n780F1000 0001A910\n680F0000 00000000 3B9AC9FF\n\n",
-            "title": "[Inf. 99999999 Halos]"
-        },
-        {
-            "content": "[Inf. Magic]\n02000000 034e48de 00004844\n\n",
-            "title": "[Inf. Magic]"
-        },
-        {
-            "content": "[All Items x99]\n01000000 034e4954 00000063\n01000000 034e495c 00000063\n01000000 034e4964 00000063\n01000000 034e496c 00000063\n01000000 034e4974 00000063\n01000000 034e497c 00000063\n01000000 034e4984 00000063\n01000000 034e498c 00000063\n01000000 034e4994 00000063\n01000000 034e499c 00000063\n01000000 034e49a4 00000063\n01000000 034e49ac 00000063\n01000000 034e49b4 00000063\n01000000 034e49bc 00000063\n01000000 034e49c4 00000063\n01000000 034e49cc 00000063\n01000000 034e49d4 00000063\n01000000 034e49dc 00000063\n01000000 034e49e4 00000063\n01000000 034e49ec 00000063\n\n",
-            "title": "[All Items x99]"
-        },
-        {
-            "content": "[Mega Yellow Moon Lollipop x99]\n01000000 034e49a4 00000063\n\n",
-            "title": "[Mega Yellow Moon Lollipop x99]"
-        },
-        {
-            "content": "[Mandragora Root x99]\n01000000 034e4964 00000063\n\n",
-            "title": "[Mandragora Root x99]"
-        },
-        {
-            "content": "[Baked Gecko x99]\n01000000 034e495c 00000063\n\n",
-            "title": "[Baked Gecko x99]"
-        },
-        {
-            "content": "[Unicorn Horn x99]\n01000000 034e4954 00000063\n\n",
-            "title": "[Unicorn Horn x99]"
-        },
-        {
-            "content": "[Yellow Moon Lollipop x99]\n01000000 034e496c 00000063\n\n",
-            "title": "[Yellow Moon Lollipop x99]"
-        },
-        {
-            "content": "[Mega Bloody Rose Lollipop x99]\n01000000 034e4974 00000063\n\n",
-            "title": "[Mega Bloody Rose Lollipop x99]"
-        },
-        {
-            "content": "[Bloody Rose Lollipop x99]\n01000000 034e497c 00000063\n\n",
-            "title": "[Bloody Rose Lollipop x99]"
-        },
-        {
-            "content": "[Mega Purple Magic Lollipop x99]\n01000000 034e4984 00000063\n\n",
-            "title": "[Mega Purple Magic Lollipop x99]"
-        },
-        {
-            "content": "[Purple Magic Lollipop x99]\n01000000 034e498c 00000063\n\n",
-            "title": "[Purple Magic Lollipop x99]"
-        },
-        {
-            "content": "[Mega Green Herb Lollipop x99]\n01000000 034e4994 00000063\n\n",
-            "title": "[Mega Green Herb Lollipop x99]"
-        },
-        {
-            "content": "[Green Herb Lollipop x99]\n01000000 034e499c 00000063\n\n",
-            "title": "[Green Herb Lollipop x99]"
-        },
-        {
-            "content": "[Witchs Recipes x99]\n01000000 034e49b4 00000063\n\nMade by Stoned and RyuSeisuke1992 updated by gamerjin\n\n",
-            "title": "[Witchs Recipes x99]"
-        },
-        {
-            "content": "[invincible/time control(stop) v4]\n08000000 0120DF00 35000075 180001F5 \n08000000 0120DF08 17B83A9B B9400108 \n08000000 0120DF10 54FFFFCB 71000ABF \n08000000 0120DF18 B9000115 52800035 \n08000000 0120DF20 B9001D15 52A85E15 \n08000000 0120DF28 F9000915 58000075 \n08000000 0120DF30 38D1B717 17FFFFF7 \n04000000 0120DF38 40000000 \n04000000 0001C974 1447C563 \n\n",
-            "title": "[invincible/time control(stop) v4]"
-        },
-        {
-            "content": "[enable option 1 (invincible)]\n14060000 0120DF3C 00000002 \n04000000 0120DF3C 00000001 \n20000000 \n\n",
-            "title": "[enable option 1 (invincible)]"
-        },
-        {
-            "content": "[enable option 2 (time control)]\n80000010 \n04000000 0120DF3C 00000002 \n20000000 \n\n",
-            "title": "[enable option 2 (time control)]"
-        },
-        {
-            "content": "[disable option 2(time control)]\n80000020 \n04000000 0120DF3C 00000000 \n20000000 \n\n",
-            "title": "[disable option 2(time control)]"
-        },
-        {
-            "content": "[time control mod stop to slow]\n04000000 0120DF34 3DCCCCCD\n\n",
-            "title": "[time control mod stop to slow]"
-        }
-    ]
+    "40EA84ADF0A7BC26": {
+        "[Inf. Health]": "[Inf. Health]\n580F0000 018E3070\n780F0000 0000CEDC\n680F0000 00000000 0000FFFF\n\n",
+        "[Inf. 99999999 Halos]": "[Inf. 99999999 Halos]\n580F0000 0186FA28\n780F1000 0001A910\n680F0000 00000000 3B9AC9FF\n\n",
+        "[Inf. Magic]": "[Inf. Magic]\n02000000 034e48de 00004844\n\n",
+        "[All Items x99]": "[All Items x99]\n01000000 034e4954 00000063\n01000000 034e495c 00000063\n01000000 034e4964 00000063\n01000000 034e496c 00000063\n01000000 034e4974 00000063\n01000000 034e497c 00000063\n01000000 034e4984 00000063\n01000000 034e498c 00000063\n01000000 034e4994 00000063\n01000000 034e499c 00000063\n01000000 034e49a4 00000063\n01000000 034e49ac 00000063\n01000000 034e49b4 00000063\n01000000 034e49bc 00000063\n01000000 034e49c4 00000063\n01000000 034e49cc 00000063\n01000000 034e49d4 00000063\n01000000 034e49dc 00000063\n01000000 034e49e4 00000063\n01000000 034e49ec 00000063\n\n",
+        "[Mega Yellow Moon Lollipop x99]": "[Mega Yellow Moon Lollipop x99]\n01000000 034e49a4 00000063\n\n",
+        "[Mandragora Root x99]": "[Mandragora Root x99]\n01000000 034e4964 00000063\n\n",
+        "[Baked Gecko x99]": "[Baked Gecko x99]\n01000000 034e495c 00000063\n\n",
+        "[Unicorn Horn x99]": "[Unicorn Horn x99]\n01000000 034e4954 00000063\n\n",
+        "[Yellow Moon Lollipop x99]": "[Yellow Moon Lollipop x99]\n01000000 034e496c 00000063\n\n",
+        "[Mega Bloody Rose Lollipop x99]": "[Mega Bloody Rose Lollipop x99]\n01000000 034e4974 00000063\n\n",
+        "[Bloody Rose Lollipop x99]": "[Bloody Rose Lollipop x99]\n01000000 034e497c 00000063\n\n",
+        "[Mega Purple Magic Lollipop x99]": "[Mega Purple Magic Lollipop x99]\n01000000 034e4984 00000063\n\n",
+        "[Purple Magic Lollipop x99]": "[Purple Magic Lollipop x99]\n01000000 034e498c 00000063\n\n",
+        "[Mega Green Herb Lollipop x99]": "[Mega Green Herb Lollipop x99]\n01000000 034e4994 00000063\n\n",
+        "[Green Herb Lollipop x99]": "[Green Herb Lollipop x99]\n01000000 034e499c 00000063\n\n",
+        "[Witchs Recipes x99]": "[Witchs Recipes x99]\n01000000 034e49b4 00000063\n\nMade by Stoned and RyuSeisuke1992 updated by gamerjin\n\n",
+        "[invincible/time control(stop) v4]": "[invincible/time control(stop) v4]\n08000000 0120DF00 35000075 180001F5 \n08000000 0120DF08 17B83A9B B9400108 \n08000000 0120DF10 54FFFFCB 71000ABF \n08000000 0120DF18 B9000115 52800035 \n08000000 0120DF20 B9001D15 52A85E15 \n08000000 0120DF28 F9000915 58000075 \n08000000 0120DF30 38D1B717 17FFFFF7 \n04000000 0120DF38 40000000 \n04000000 0001C974 1447C563\n\n",
+        "[enable option 1 (invincible)]": "[enable option 1 (invincible)]\n14060000 0120DF3C 00000002 \n04000000 0120DF3C 00000001 \n20000000\n\n",
+        "[enable option 2 (time control)]": "[enable option 2 (time control)]\n80000010 \n04000000 0120DF3C 00000002 \n20000000\n\n",
+        "[disable option 2(time control)]": "[disable option 2(time control)]\n80000020 \n04000000 0120DF3C 00000000 \n20000000\n\n",
+        "[time control mod stop to slow]": "[time control mod stop to slow]\n04000000 0120DF34 3DCCCCCD\n\n"
+    }
 }

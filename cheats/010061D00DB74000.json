@@ -1,44 +1,17 @@
 {
-    "9C4F2A47916B6A54": [
-        {
-            "content": "[No Damage]\n04000000 0023534C 1E20400A\n",
-            "title": "[No Damage]"
-        },
-        {
-            "content": "[No Damage Off]\n04000000 0023534C 1E29380A\n\n",
-            "title": "[No Damage Off]"
-        },
-        {
-            "content": "[Invulnerable]\n04000000 00234BD0 D65F03C0\n",
-            "title": "[Invulnerable]"
-        },
-        {
-            "content": "[Invulnerable Off]\n04000000 00234BD0 D10283FF\n\n",
-            "title": "[Invulnerable Off]"
-        },
-        {
-            "content": "[Free Skill Unlocking]\n04000000 001F7D38 52800000\n",
-            "title": "[Free Skill Unlocking]"
-        },
-        {
-            "content": "[Free Skill Unlocking Off]\n04000000 001F7D38 B8686A60\n\n",
-            "title": "[Free Skill Unlocking Off]"
-        },
-        {
-            "content": "[Inf Single Jump]\n04000000 00232B8C 52800020\n",
-            "title": "[Inf Single Jump]"
-        },
-        {
-            "content": "[Inf Single Jump Off]\n04000000 00232B8C 97FCF575\n\n",
-            "title": "[Inf Single Jump Off]"
-        },
-        {
-            "content": "[Inf Double Jump]\n04000000 00232BF8 52800020\n",
-            "title": "[Inf Double Jump]"
-        },
-        {
-            "content": "[Inf Double Jump Off]\n04000000 00232BF8 9400001E",
-            "title": "[Inf Double Jump Off]"
-        }
-    ]
+    "9C4F2A47916B6A54": {
+        "[No Damage]": "[No Damage]\n04000000 0023534C 1E20400A\n\n",
+        "[No Damage Off]": "[No Damage Off]\n04000000 0023534C 1E29380A\n\n",
+        "[Invulnerable]": "[Invulnerable]\n04000000 00234BD0 D65F03C0\n\n",
+        "[Invulnerable Off]": "[Invulnerable Off]\n04000000 00234BD0 D10283FF\n\n",
+        "[Free Skill Unlocking]": "[Free Skill Unlocking]\n04000000 001F7D38 52800000\n\n",
+        "[Free Skill Unlocking Off]": "[Free Skill Unlocking Off]\n04000000 001F7D38 B8686A60\n\n",
+        "[Inf Single Jump]": "[Inf Single Jump]\n04000000 00232B8C 52800020\n\n",
+        "[Inf Single Jump Off]": "[Inf Single Jump Off]\n04000000 00232B8C 97FCF575\n\n",
+        "[Inf Double Jump]": "[Inf Double Jump]\n04000000 00232BF8 52800020\n\n",
+        "[Inf Double Jump Off]": "[Inf Double Jump Off]\n04000000 00232BF8 9400001E\n\n"
+    },
+    "attribution": {
+        "Ori and the Blind Forest v1.0.1 by DaBlackdeath.txt": ""
+    }
 }

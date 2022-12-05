@@ -1,20 +1,11 @@
 {
-    "120F62BB506D4E36": [
-        {
-            "content": "[life]\n04000000 1EDFDE94 0000283C\n\n",
-            "title": "[life]"
-        },
-        {
-            "content": "[Inf HP]\n040F0000 1EDFDE94 00003000\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Inf EXS]\n040F0000 1EDFDEB4 00004E20\n\n",
-            "title": "[Inf EXS]"
-        },
-        {
-            "content": "[Inf GRD]\n040F0000 1EA7F5AC 0000000C",
-            "title": "[Inf GRD]"
-        }
-    ]
+    "120F62BB506D4E36": {
+        "[life]": "[life]\n04000000 1EDFDE94 0000283C\n\n",
+        "[Inf HP]": "[Inf HP]\n040F0000 1EDFDE94 00003000\n\n",
+        "[Inf EXS]": "[Inf EXS]\n040F0000 1EDFDEB4 00004E20\n\n",
+        "[Inf GRD]": "[Inf GRD]\n040F0000 1EA7F5AC 0000000C\n\n"
+    },
+    "attribution": {
+        "UNDER NIGHT IN-BIRTH Exe Late[cl-r] by TomSwitch.txt": ""
+    }
 }

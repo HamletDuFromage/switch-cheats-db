@@ -1,48 +1,15 @@
 {
-    "4D42A2CA8232E8EB": [
-        {
-            "content": "[HP Inf]\n04000000 00761768 1E204020\n\n",
-            "title": "[HP Inf]"
-        },
-        {
-            "content": "[HP Inf Off]\n04000000 00761768 1E203820\n\n",
-            "title": "[HP Inf Off]"
-        },
-        {
-            "content": "[Stamina Inf]\n04000000 007554BC 1E204020\n\n",
-            "title": "[Stamina Inf]"
-        },
-        {
-            "content": "[Stamina Inf Off]\n04000000 007554BC 1E203820\n\n",
-            "title": "[Stamina Inf Off]"
-        },
-        {
-            "content": "[Eter Inf]\n04000000 007619FC 1E204020\n\n",
-            "title": "[Eter Inf]"
-        },
-        {
-            "content": "[Eter Inf Off]\n04000000 007619FC 1E203820\n\n",
-            "title": "[Eter Inf Off]"
-        },
-        {
-            "content": "[Coins 999999 (2 Jumps)]\n580F0000 06B0DCD0 \n580F1000 000000D0 \n780F0000 00000960 \n640F0000 00000000 000F423F\n\n",
-            "title": "[Coins 999999 (2 Jumps)]"
-        },
-        {
-            "content": "[Moonjump (2)]\n80000001 \n580F0000 06B0DCD0 \n580F1000 000000D8 \n780F0000 0000009C \n640F0000 00000000 442F0000 \n20000000 \n\n",
-            "title": "[Moonjump (2)]"
-        },
-        {
-            "content": "[Coins 999999 (4 Jumps)]\n580F0000 06B0DCA0 \n580F1000 00000008 \n580F1000 00000008 \n580F1000 000001B0 \n780F0000 00000960 \n640F0000 00000000 000F423F \n\n",
-            "title": "[Coins 999999 (4 Jumps)]"
-        },
-        {
-            "content": "[Moonjump (4)]\n80000001 \n580F0000 06B0DCD0 \n580F1000 000000E0 \n580F1000 00000010 \n580F1000 00000008 \n780F0000 0000009C \n640F0000 00000000 442F0000 \n20000000 \n\n",
-            "title": "[Moonjump (4)]"
-        },
-        {
-            "content": "[Made by jhmiller]\n00000000 00000000 00000000\n",
-            "title": "[Made by jhmiller]"
-        }
-    ]
+    "4D42A2CA8232E8EB": {
+        "[HP Inf]": "[HP Inf]\n04000000 00761768 1E204020\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 00761768 1E203820\n\n",
+        "[Stamina Inf]": "[Stamina Inf]\n04000000 007554BC 1E204020\n\n",
+        "[Stamina Inf Off]": "[Stamina Inf Off]\n04000000 007554BC 1E203820\n\n",
+        "[Eter Inf]": "[Eter Inf]\n04000000 007619FC 1E204020\n\n",
+        "[Eter Inf Off]": "[Eter Inf Off]\n04000000 007619FC 1E203820\n\n",
+        "[Coins 999999 (2 Jumps)]": "[Coins 999999 (2 Jumps)]\n580F0000 06B0DCD0 \n580F1000 000000D0 \n780F0000 00000960 \n640F0000 00000000 000F423F\n\n",
+        "[Moonjump (2)]": "[Moonjump (2)]\n80000001 \n580F0000 06B0DCD0 \n580F1000 000000D8 \n780F0000 0000009C \n640F0000 00000000 442F0000 \n20000000\n\n",
+        "[Coins 999999 (4 Jumps)]": "[Coins 999999 (4 Jumps)]\n580F0000 06B0DCA0 \n580F1000 00000008 \n580F1000 00000008 \n580F1000 000001B0 \n780F0000 00000960 \n640F0000 00000000 000F423F\n\n",
+        "[Moonjump (4)]": "[Moonjump (4)]\n80000001 \n580F0000 06B0DCD0 \n580F1000 000000E0 \n580F1000 00000010 \n580F1000 00000008 \n780F0000 0000009C \n640F0000 00000000 442F0000 \n20000000\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
 }

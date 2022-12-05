@@ -1,0 +1,9 @@
+{
+    "76EC789B99A25BA5": {
+        "[60 FPS]": "[60 FPS]\n580F0000 01969110\n580F1000 00000078\n780F0000 00000D14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 01969110\n580F1000 00000078\n780F0000 00000D14\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "FateEXTELLA The Umbral Star.txt": "By Hazerou\n\n- There are still Framedrops using 60 FPS at Max Overclocks 1785/921/1600.\n\nhttps://www.youtube.com/watch?v=eo7RQYsWVG0"
+    }
+}

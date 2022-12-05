@@ -1,32 +1,11 @@
 {
-    "80FB5C02F0E4292A": [
-        {
-            "content": "[P1 Infinite Lives]\n01000000 012697B2 00000005\n\n",
-            "title": "[P1 Infinite Lives]"
-        },
-        {
-            "content": "[P1 Infinite Bomb]\n02000000 012697D2 00000505\n\n",
-            "title": "[P1 Infinite Bomb]"
-        },
-        {
-            "content": "[P1 Invincible]\n01000000 012697D6 00000001\n\n",
-            "title": "[P1 Invincible]"
-        },
-        {
-            "content": "[P2 Infinite Lives]\n01000000 01269808 00000005\n\n",
-            "title": "[P2 Infinite Lives]"
-        },
-        {
-            "content": "[P2 Infinite Bomb]\n02000000 01269828 00000505\n\n",
-            "title": "[P2 Infinite Bomb]"
-        },
-        {
-            "content": "[P2 Invincible]\n01000000 0126982C 00000001\n\n",
-            "title": "[P2 Invincible]"
-        },
-        {
-            "content": "[hitanywhere]\n580F0000 0126B7F8\n780F0000 00006268\n640F0000 00000000 6a0a6014\n580F0000 0126B7F8\n780F0000 00006290\n640F0000 00000000 604c6002\n580F0000 0126B7F8\n780F0000 00006298\n640F0000 00000000 60446002\n580F0000 0126B7F8\n780F0000 000062D0\n640F0000 00000000 00036004\n",
-            "title": "[hitanywhere]"
-        }
-    ]
+    "80FB5C02F0E4292A": {
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 012697B2 00000005\n\n",
+        "[P1 Infinite Bomb]": "[P1 Infinite Bomb]\n02000000 012697D2 00000505\n\n",
+        "[P1 Invincible]": "[P1 Invincible]\n01000000 012697D6 00000001\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 01269808 00000005\n\n",
+        "[P2 Infinite Bomb]": "[P2 Infinite Bomb]\n02000000 01269828 00000505\n\n",
+        "[P2 Invincible]": "[P2 Invincible]\n01000000 0126982C 00000001\n\n",
+        "[hitanywhere]": "[hitanywhere]\n580F0000 0126B7F8\n780F0000 00006268\n640F0000 00000000 6a0a6014\n580F0000 0126B7F8\n780F0000 00006290\n640F0000 00000000 604c6002\n580F0000 0126B7F8\n780F0000 00006298\n640F0000 00000000 60446002\n580F0000 0126B7F8\n780F0000 000062D0\n640F0000 00000000 00036004\n\n"
+    }
 }

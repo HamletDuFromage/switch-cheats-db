@@ -1,24 +1,9 @@
 {
-    "4B7C5DE5DE1B9F5B": [
-        {
-            "content": "[HP by jhmiller]\n580F0000 034516D0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 000002B0 \n780F0000 00000018\n640F0000 00000000 41A00000 \n\n",
-            "title": "[HP by jhmiller]"
-        },
-        {
-            "content": "[Hungry by jhmiller]\n580F0000 034516D0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 000002B0 \n780F0000 0000001C \n640F0000 00000000 42C80000 \n\n",
-            "title": "[Hungry by jhmiller]"
-        },
-        {
-            "content": "[Awake by jhmiller]\n580F0000 034516D0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 000002B0 \n780F0000 00000020 \n640F0000 00000000 41A00000 \n\n",
-            "title": "[Awake by jhmiller]"
-        },
-        {
-            "content": "[Stamina by jhmiller]\n580F0000 034516D0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 000002B0 \n780F0000 00000024 \n640F0000 00000000 42C80000 \n\n",
-            "title": "[Stamina by jhmiller]"
-        },
-        {
-            "content": "[Money by jhmiller]\n580F0000 034516D0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 000002B0 \n780F0000 00000048 \n640F0000 00000000 05F5E09C \n",
-            "title": "[Money by jhmiller]"
-        }
-    ]
+    "4B7C5DE5DE1B9F5B": {
+        "[HP by jhmiller]": "[HP by jhmiller]\n580F0000 034516D0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 000002B0 \n780F0000 00000018\n640F0000 00000000 41A00000\n\n",
+        "[Hungry by jhmiller]": "[Hungry by jhmiller]\n580F0000 034516D0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 000002B0 \n780F0000 0000001C \n640F0000 00000000 42C80000\n\n",
+        "[Awake by jhmiller]": "[Awake by jhmiller]\n580F0000 034516D0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 000002B0 \n780F0000 00000020 \n640F0000 00000000 41A00000\n\n",
+        "[Stamina by jhmiller]": "[Stamina by jhmiller]\n580F0000 034516D0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 000002B0 \n780F0000 00000024 \n640F0000 00000000 42C80000\n\n",
+        "[Money by jhmiller]": "[Money by jhmiller]\n580F0000 034516D0 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 000002B0 \n780F0000 00000048 \n640F0000 00000000 05F5E09C\n\n"
+    }
 }

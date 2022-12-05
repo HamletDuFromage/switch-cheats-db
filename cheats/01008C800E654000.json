@@ -1,76 +1,28 @@
 {
-    "9E70F504EFE74A5B": [
-        {
-            "content": "[Moon Jump]\n80000002\n580F0000 00554178\n780F0000 00000144\n640F0000 00000000 FFFFF280\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 00554178\n780F0000 000001A8\n640F0000 00000000 00002000",
-            "title": "[Invincible]"
-        }
-    ],
-    "9E885A66C9CA0DE1": [
-        {
-            "content": "[Money x4]\n04000000 000294CC 0B000929\n\n",
-            "title": "[Money x4]"
-        },
-        {
-            "content": "[Money x8]\n04000000 000294CC 0B000D29\n\n",
-            "title": "[Money x8]"
-        },
-        {
-            "content": "[Inf Money]\n04000000 001C2658 6B1F0128\n\n",
-            "title": "[Inf Money]"
-        },
-        {
-            "content": "[Exp x4]\n04000000 0007E744 0B010908\n\n",
-            "title": "[Exp x4]"
-        },
-        {
-            "content": "[Exp x8]\n04000000 0007E744 0B010D08\n\n",
-            "title": "[Exp x8]"
-        },
-        {
-            "content": "[Exp x16]\n04000000 0007E744 0B011108\n\n",
-            "title": "[Exp x16]"
-        },
-        {
-            "content": "[Inf Life]\n580F0000 00555178\n780F0000 00000008\n680F0000 00003E70 00003E70\n\n",
-            "title": "[Inf Life]"
-        },
-        {
-            "content": "[Inf SP]\n580F0000 006A5C58\n780F0000 00000000\n640F0000 00000000 000B4000\n\n",
-            "title": "[Inf SP]"
-        },
-        {
-            "content": "[Inf Energy]\n580F0000 006A5C58\n780F0000 00000008\n30010000 00000008\n640F0000 00000000 000C8000\n780F0000 00000010\n31010000 20000000\n\n",
-            "title": "[Inf Energy]"
-        },
-        {
-            "content": "[Inf Battery]\n580F0000 006A5C58\n780F0000 00000078\n640F0000 00000000 00060000",
-            "title": "[Inf Battery]"
-        }
-    ],
-    "E90D985D706DF59F": [
-        {
-            "content": "[bullits]\n58000000 0068EEA8\n78000000 00000078\n64000000 00000000 00060000\n\n",
-            "title": "[bullits]"
-        },
-        {
-            "content": "[Sp]\n58000000 0068EEA8\n78000000 00000000\n64000000 00000000 000B4000\n\n",
-            "title": "[Sp]"
-        },
-        {
-            "content": "[Energy]\n58000000 0068EEA8\n78000000 00000008\n30010000 00000008\n64000000 00000000 000C8000\n78000000 00000010\n31010000 20000000\n\n",
-            "title": "[Energy]"
-        },
-        {
-            "content": "[Beats Hit - RSC set to 1000.0]\n80000020\n58000000 0068EEA0\n78000000 00013184\n64000000 00000000 00027100\n20000000\n\n",
-            "title": "[Beats Hit - RSC set to 1000.0]"
-        },
-        {
-            "content": "[Inf Life]\n580F0000 0053e170\n780F0000 00000008\n680F0000 00003E70 00003E70",
-            "title": "[Inf Life]"
-        }
-    ]
+    "E90D985D706DF59F": {
+        "[bullits]": "[bullits]\n58000000 0068EEA8\n78000000 00000078\n64000000 00000000 00060000\n\n",
+        "[Sp]": "[Sp]\n58000000 0068EEA8\n78000000 00000000\n64000000 00000000 000B4000\n\n",
+        "[Energy]": "[Energy]\n58000000 0068EEA8\n78000000 00000008\n30010000 00000008\n64000000 00000000 000C8000\n78000000 00000010\n31010000 20000000\n\n",
+        "[Beats Hit - RSC set to 1000.0]": "[Beats Hit - RSC set to 1000.0]\n80000020\n58000000 0068EEA0\n78000000 00013184\n64000000 00000000 00027100\n20000000\n\n",
+        "[Inf Life]": "[Inf Life]\n580F0000 0053e170\n780F0000 00000008\n680F0000 00003E70 00003E70\n\n"
+    },
+    "9E70F504EFE74A5B": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 00554178\n780F0000 00000144\n640F0000 00000000 FFFFF280\n20000000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 00554178\n780F0000 000001A8\n640F0000 00000000 00002000\n\n"
+    },
+    "9E885A66C9CA0DE1": {
+        "[Money x4]": "[Money x4]\n04000000 000294CC 0B000929\n\n",
+        "[Money x8]": "[Money x8]\n04000000 000294CC 0B000D29\n\n",
+        "[Inf Money]": "[Inf Money]\n04000000 001C2658 6B1F0128\n\n",
+        "[Exp x4]": "[Exp x4]\n04000000 0007E744 0B010908\n\n",
+        "[Exp x8]": "[Exp x8]\n04000000 0007E744 0B010D08\n\n",
+        "[Exp x16]": "[Exp x16]\n04000000 0007E744 0B011108\n\n",
+        "[Inf Life]": "[Inf Life]\n580F0000 00555178\n780F0000 00000008\n680F0000 00003E70 00003E70\n\n",
+        "[Inf SP]": "[Inf SP]\n580F0000 006A5C58\n780F0000 00000000\n640F0000 00000000 000B4000\n\n",
+        "[Inf Energy]": "[Inf Energy]\n580F0000 006A5C58\n780F0000 00000008\n30010000 00000008\n640F0000 00000000 000C8000\n780F0000 00000010\n31010000 20000000\n\n",
+        "[Inf Battery]": "[Inf Battery]\n580F0000 006A5C58\n780F0000 00000078\n640F0000 00000000 00060000\n\n"
+    },
+    "attribution": {
+        "Gunvolt Chronicles Luminous Avenger IX by wii91 translated hirohakishu.txt": ""
+    }
 }

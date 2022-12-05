@@ -1,12 +1,9 @@
 {
-    "B3EFC64152BE0D27": [
-        {
-            "content": "[P1 Money MAX]\n580F0000 0248ECA0\n580F1000 00000018\n580F1000 00000040\n580F1000 00000008\n580F1000 00000020\n580F1000 00001B98\n580F1000 000000C0\n780F0000 00000180\n640F0000 00000000 000F423F\n\n",
-            "title": "[P1 Money MAX]"
-        },
-        {
-            "content": "[P2 Money MAX]\n580F0000 0248ECA0\n580F1000 00000018\n580F1000 00001B98\n580F1000 000000C0\n780F0000 00000180\n640F0000 00000000 000F423F\n",
-            "title": "[P2 Money MAX]"
-        }
-    ]
+    "B3EFC64152BE0D27": {
+        "[P1 Money MAX]": "[P1 Money MAX]\n580F0000 0248ECA0\n580F1000 00000018\n580F1000 00000040\n580F1000 00000008\n580F1000 00000020\n580F1000 00001B98\n580F1000 000000C0\n780F0000 00000180\n640F0000 00000000 000F423F\n\n",
+        "[P2 Money MAX]": "[P2 Money MAX]\n580F0000 0248ECA0\n580F1000 00000018\n580F1000 00001B98\n580F1000 000000C0\n780F0000 00000180\n640F0000 00000000 000F423F\n\n"
+    },
+    "attribution": {
+        "Monopoly ver 1.0.0.txt": "*Info*\nP1 = the first player left\nP2 = the next player\nUse the code only at the beginning.\nIn the beginning it is decided who is Player 1, who wins.\nUsually.\nIt can also change.\nThe code remains in the game in memory,\neven if the code is turned off."
+    }
 }

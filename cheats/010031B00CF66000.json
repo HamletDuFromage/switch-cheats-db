@@ -1,20 +1,11 @@
 {
-    "BB1817C904CD13FE": [
-        {
-            "content": "[Credits unlimited]\n04100000 AB2091D4 4058C000\n\n",
-            "title": "[Credits unlimited]"
-        },
-        {
-            "content": "[Lives unlimited]\n01000000 0289C480 00000063\n\n",
-            "title": "[Lives unlimited]"
-        },
-        {
-            "content": "[Bombs unlimited]\n04100000 AB209224 4058C000\n\n",
-            "title": "[Bombs unlimited]"
-        },
-        {
-            "content": "[1p invicible]\n04000000 01837780 D65F03C0\n",
-            "title": "[1p invicible]"
-        }
-    ]
+    "BB1817C904CD13FE": {
+        "[Credits unlimited]": "[Credits unlimited]\n04100000 AB2091D4 4058C000\n\n",
+        "[Lives unlimited]": "[Lives unlimited]\n01000000 0289C480 00000063\n\n",
+        "[Bombs unlimited]": "[Bombs unlimited]\n04100000 AB209224 4058C000\n\n",
+        "[1p invicible]": "[1p invicible]\n04000000 01837780 D65F03C0\n\n"
+    },
+    "attribution": {
+        "Devil Engine for v1.0.2C Made by merlin555 and xtatu.txt": ""
+    }
 }

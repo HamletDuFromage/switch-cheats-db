@@ -1,16 +1,10 @@
 {
-    "C2D7A3622913C742": [
-        {
-            "content": "[Inf Lives]\n580F0000 02AB9990\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000018\n780F0000 00000070\n640F0000 00000000 000003E8\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Inf Boms]\n580F0000 02AB9990\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000018\n780F0000 00000074\n640F0000 00000000 000003E8\n\n",
-            "title": "[Inf Boms]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 02AB9990\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000018\n780F0000 000000EC\n640F0000 00000000 00000001",
-            "title": "[Invincible]"
-        }
-    ]
+    "C2D7A3622913C742": {
+        "[Inf Lives]": "[Inf Lives]\n580F0000 02AB9990\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000018\n780F0000 00000070\n640F0000 00000000 000003E8\n\n",
+        "[Inf Boms]": "[Inf Boms]\n580F0000 02AB9990\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000018\n780F0000 00000074\n640F0000 00000000 000003E8\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 02AB9990\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000018\n780F0000 000000EC\n640F0000 00000000 00000001\n\n"
+    },
+    "attribution": {
+        "FullBlast ver 1.0.0 by ZiT.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
+    }
 }

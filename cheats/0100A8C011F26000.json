@@ -1,12 +1,9 @@
 {
-    "7A0D43680365424E": [
-        {
-            "content": "[inf Life]\n04000000 001E486C 510002F4\n04000000 015B8894 71000114\n\n",
-            "title": "[inf Life]"
-        },
-        {
-            "content": "[55555 coins at the end of level]\n04000000 015AF700 529B2060",
-            "title": "[55555 coins at the end of level]"
-        }
-    ]
+    "7A0D43680365424E": {
+        "[inf Life]": "[inf Life]\n04000000 001E486C 510002F4\n04000000 015B8894 71000114\n\n",
+        "[55555 coins at the end of level]": "[55555 coins at the end of level]\n04000000 015AF700 529B2060\n\n"
+    },
+    "attribution": {
+        "Max & The Book of Chaos v1.0.0 by DaBlackDeath.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
 }

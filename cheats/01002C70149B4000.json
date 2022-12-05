@@ -1,26 +1,14 @@
 {
-    "833B93270803234E": [
-        {
-            "content": "[*HP Jericoss ]\n580F0000 02E30EE0\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000010\n580F1000 00000020\n780F0000 000001B8\n640F0000 00000000 50000000\n\n",
-            "title": "[*HP Jericoss ]"
-        },
-        {
-            "content": "[*Special ]\n580F0000 02E30EE0\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000010\n580F1000 00000020\n780F0000 000002B8\n640F0000 00000000 50000000",
-            "title": "[*Special ]"
-        }
-    ],
-    "9F158D0CDD74440B": [
-        {
-            "content": "[*HP Jericoss ]\n580F0000 02E29480\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000010\n580F1000 00000020\n780F0000 000001B8\n640F0000 00000000 50000000\n\n",
-            "title": "[*HP Jericoss ]"
-        },
-        {
-            "content": "[*Special ]\n580F0000 02E29480\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000010\n580F1000 00000020\n780F0000 000002B8\n640F0000 00000000 50000000\n\n",
-            "title": "[*Special ]"
-        },
-        {
-            "content": "[*Enemies No Attack]\n580F0000 02E29480\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000010\n580F1000 00000020\n780F0000 000002c4\n640F0000 00000000 00000001",
-            "title": "[*Enemies No Attack]"
-        }
-    ]
+    "833B93270803234E": {
+        "[*HP Jericoss ]": "[*HP Jericoss ]\n580F0000 02E30EE0\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000010\n580F1000 00000020\n780F0000 000001B8\n640F0000 00000000 50000000\n\n",
+        "[*Special ]": "[*Special ]\n580F0000 02E30EE0\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000010\n580F1000 00000020\n780F0000 000002B8\n640F0000 00000000 50000000\n\n"
+    },
+    "9F158D0CDD74440B": {
+        "[*HP Jericoss ]": "[*HP Jericoss ]\n580F0000 02E29480\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000010\n580F1000 00000020\n780F0000 000001B8\n640F0000 00000000 50000000\n\n",
+        "[*Special ]": "[*Special ]\n580F0000 02E29480\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000010\n580F1000 00000020\n780F0000 000002B8\n640F0000 00000000 50000000\n\n",
+        "[*Enemies No Attack]": "[*Enemies No Attack]\n580F0000 02E29480\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000010\n580F1000 00000020\n780F0000 000002c4\n640F0000 00000000 00000001\n\n"
+    },
+    "attribution": {
+        "Mayhem Brawler ver 1.0.6 by jericoss ver 1.10 rebase by Tomswitch.txt": "#Give you 13 pearls in any Silent Realm.\nOnce the Silent Realm has started and you're able to move, activate and immediately disable the code.\nIt will give you 13 pearls, just pick 2 random pearls on the floor to correctly trigger the win and end the Silent Realm.\n\n[Inf. Deku Seeds]\n[Inf. Arrows]\n[Inf. Bombs]\n[Infinite Shield Durability]\n*[Inf Bugs / Materials] new\n*[Unlock All Bugs / Materials] new\n* Shoot arrow / seeds, or go to a new area (loading screen) for cheat to become visible."
+    }
 }

@@ -1,12 +1,9 @@
 {
-    "48C172D0E2F4BE42": [
-        {
-            "content": "[*Inf HP Jericoss v 0.1]\n580F0000 03F3F678\n580F1000 00000588\n580F1000 00000A68\n580F1000 000000D8\n780F0000 000001BC\n640F0000 00000000 41000000\n\n",
-            "title": "[*Inf HP Jericoss v 0.1]"
-        },
-        {
-            "content": "[1p invicible]\n04000000 01FC2650 D503201F",
-            "title": "[1p invicible]"
-        }
-    ]
+    "48C172D0E2F4BE42": {
+        "[*Inf HP Jericoss v 0.1]": "[*Inf HP Jericoss v 0.1]\n580F0000 03F3F678\n580F1000 00000588\n580F1000 00000A68\n580F1000 000000D8\n780F0000 000001BC\n640F0000 00000000 41000000\n\n",
+        "[1p invicible]": "[1p invicible]\n04000000 01FC2650 D503201F\n\n"
+    },
+    "attribution": {
+        "Explosionade DX ver 0.1 by Jericoss and xtatu.txt": ""
+    }
 }

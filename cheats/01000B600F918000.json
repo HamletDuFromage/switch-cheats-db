@@ -1,8 +1,8 @@
 {
-    "10AC397225817D31": [
-        {
-            "content": "[Invincible (Keep temperture stable)]\n040E0000 00401F8C 1E2703E8",
-            "title": "[Invincible (Keep temperture stable)]"
-        }
-    ]
+    "10AC397225817D31": {
+        "[Invincible (Keep temperture stable)]": "[Invincible (Keep temperture stable)]\n040E0000 00401F8C 1E2703E8\n\n"
+    },
+    "attribution": {
+        "Aeon Must Die! v1.0.2(v131072) by Eiffel2018.txt": ""
+    }
 }

@@ -1,56 +1,17 @@
 {
-    "2C27F0527A890A4A": [
-        {
-            "content": "[HP No Decrease]\n04000000 02E24F10 B945B265\n04000000 02E24F14 35000045\n04000000 02E24F18 BD05B268\n04000000 02E24F1C 52800005\n04000000 02E24F20 D65F03C0\n04000000 0165C140 945F2374\n\n",
-            "title": "[HP No Decrease]"
-        },
-        {
-            "content": "[HP No Decrease Off]\n04000000 0165C140 BD05B268\n\n",
-            "title": "[HP No Decrease Off]"
-        },
-        {
-            "content": "[Fuel No Decrease]\n04000000 016588E8 1E204100\n\n",
-            "title": "[Fuel No Decrease]"
-        },
-        {
-            "content": "[Fuel No Decrease Off]\n04000000 016588E8 1E203900\n\n",
-            "title": "[Fuel No Decrease Off]"
-        },
-        {
-            "content": "[Not Overheat]\n04000000 01652EE8 1E204100\n\n",
-            "title": "[Not Overheat]"
-        },
-        {
-            "content": "[Not Overheat Off]\n04000000 01652EE8 1E202900\n\n",
-            "title": "[Not Overheat Off]"
-        },
-        {
-            "content": "[Skill Points Spend 1 to get 99]\n04000000 02E24F00 52800C73\n04000000 02E24F04 B9000113\n04000000 02E24F08 D65F03C0\n04000000 01678778 945EB1E2\n\n",
-            "title": "[Skill Points Spend 1 to get 99]"
-        },
-        {
-            "content": "[Skill Points Spend 1 to get 99 Off]\n04000000 0017CF60 B9000113\n\n",
-            "title": "[Skill Points Spend 1 to get 99 Off]"
-        },
-        {
-            "content": "[Timer 0]\n04000000 017196C8 1E2703E0\n\n",
-            "title": "[Timer 0]"
-        },
-        {
-            "content": "[Timer 0 Off]\n04000000 017196C8 1E202900\n\n",
-            "title": "[Timer 0 Off]"
-        },
-        {
-            "content": "[Specials Inf]\n04000000 017CD028 D503201F\n\n",
-            "title": "[Specials Inf]"
-        },
-        {
-            "content": "[Specials Inf Off]\n04000000 017CD028 B900211F\n\n",
-            "title": "[Specials Inf Off]"
-        },
-        {
-            "content": "[Made by jhmiller]\n00000000 00000000 00000000\n",
-            "title": "[Made by jhmiller]"
-        }
-    ]
+    "2C27F0527A890A4A": {
+        "[HP No Decrease]": "[HP No Decrease]\n04000000 02E24F10 B945B265\n04000000 02E24F14 35000045\n04000000 02E24F18 BD05B268\n04000000 02E24F1C 52800005\n04000000 02E24F20 D65F03C0\n04000000 0165C140 945F2374\n\n",
+        "[HP No Decrease Off]": "[HP No Decrease Off]\n04000000 0165C140 BD05B268\n\n",
+        "[Fuel No Decrease]": "[Fuel No Decrease]\n04000000 016588E8 1E204100\n\n",
+        "[Fuel No Decrease Off]": "[Fuel No Decrease Off]\n04000000 016588E8 1E203900\n\n",
+        "[Not Overheat]": "[Not Overheat]\n04000000 01652EE8 1E204100\n\n",
+        "[Not Overheat Off]": "[Not Overheat Off]\n04000000 01652EE8 1E202900\n\n",
+        "[Skill Points Spend 1 to get 99]": "[Skill Points Spend 1 to get 99]\n04000000 02E24F00 52800C73\n04000000 02E24F04 B9000113\n04000000 02E24F08 D65F03C0\n04000000 01678778 945EB1E2\n\n",
+        "[Skill Points Spend 1 to get 99 Off]": "[Skill Points Spend 1 to get 99 Off]\n04000000 0017CF60 B9000113\n\n",
+        "[Timer 0]": "[Timer 0]\n04000000 017196C8 1E2703E0\n\n",
+        "[Timer 0 Off]": "[Timer 0 Off]\n04000000 017196C8 1E202900\n\n",
+        "[Specials Inf]": "[Specials Inf]\n04000000 017CD028 D503201F\n\n",
+        "[Specials Inf Off]": "[Specials Inf Off]\n04000000 017CD028 B900211F\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
 }

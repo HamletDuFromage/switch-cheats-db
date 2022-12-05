@@ -1,12 +1,9 @@
 {
-    "7A4C24DD63B1D96F": [
-        {
-            "content": "[HITANYWHERE]\n04000000 031AFB00 D65F03C0\n\n",
-            "title": "[HITANYWHERE]"
-        },
-        {
-            "content": "[DISABLE BLOCKING]\n04000000 0318C490 D65F03C0",
-            "title": "[DISABLE BLOCKING]"
-        }
-    ]
+    "7A4C24DD63B1D96F": {
+        "[HITANYWHERE]": "[HITANYWHERE]\n04000000 031AFB00 D65F03C0\n\n",
+        "[DISABLE BLOCKING]": "[DISABLE BLOCKING]\n04000000 0318C490 D65F03C0\n\n"
+    },
+    "attribution": {
+        "FIGHTING EX LAYER ANOTHER DASH ver 2.0.0 by xtatu.txt": ""
+    }
 }

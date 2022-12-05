@@ -1,88 +1,31 @@
 {
-    "31196C8F3970CD2A": [
-        {
-            "content": "[P1 Infinite Lives]\n01000000 0125017e 00000009\n\n",
-            "title": "[P1 Infinite Lives]"
-        },
-        {
-            "content": "[P1 Infinite Ammo]\n02000000 012502ca 0000ffff\n\n",
-            "title": "[P1 Infinite Ammo]"
-        },
-        {
-            "content": "[P1 Infinite Bombs]\n01000000 012502c9 000000ff\n\n",
-            "title": "[P1 Infinite Bombs]"
-        },
-        {
-            "content": "[P2 Infinite Lives]\n01000000 0125021e 00000009\n\n",
-            "title": "[P2 Infinite Lives]"
-        },
-        {
-            "content": "[P2 Infinite Ammo]\n02000000 0125036a 0000ffff\n\n",
-            "title": "[P2 Infinite Ammo]"
-        },
-        {
-            "content": "[P2 Infinite Bombs]\n01000000 01250369 000000ff",
-            "title": "[P2 Infinite Bombs]"
-        }
-    ],
-    "79161808C248FCE6": [
-        {
-            "content": "[Moon Jump]\n80000002\n020F0000 0123725A 0000078A\n20000000\n\n",
-            "title": "[Moon Jump]"
-        },
-        {
-            "content": "[Invincible]\n010F0000 01237274 000000FF",
-            "title": "[Invincible]"
-        }
-    ],
-    "859B8A3313FB2057": [
-        {
-            "content": "[Infinite Time 60Seconds]\n01000000 012A05BA 0000003C\n\n",
-            "title": "[Infinite Time 60Seconds]"
-        },
-        {
-            "content": "[Inf Lives]\n01000000 01299A9E 00000003\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Inf Bombs]\n01000000 01299BE9 000000FF\n\n",
-            "title": "[Inf Bombs]"
-        },
-        {
-            "content": "[No Bomb Throw Wait]\n04000000 01299BE6 FF0000FF\n\n",
-            "title": "[No Bomb Throw Wait]"
-        },
-        {
-            "content": "[Inf Ammo]\n02000000 01299BEA 0000FFFF\n\n",
-            "title": "[Inf Ammo]"
-        },
-        {
-            "content": "[Select Weapon 00to04]\n01000000 01299BD8 00000004\n\n",
-            "title": "[Select Weapon 00to04]"
-        },
-        {
-            "content": "[Rapid Fire]\n01000000 012A05DB 00000000\n\n",
-            "title": "[Rapid Fire]"
-        },
-        {
-            "content": "[P1 Invincible]\n01000000 01299BAC 00000040\n\n",
-            "title": "[P1 Invincible]"
-        },
-        {
-            "content": "[Inf Tank Gas]\n01000000 01299D0E 00000030\n\n",
-            "title": "[Inf Tank Gas]"
-        },
-        {
-            "content": "[Inf Tank Ammo]\n01000000 01299D39 00000009\n\n",
-            "title": "[Inf Tank Ammo]"
-        },
-        {
-            "content": "[Tank is Invincible]\n01000000 01299CEC 000000FF\n\n",
-            "title": "[Tank is Invincible]"
-        },
-        {
-            "content": "[hitanywhere - pad on]\n80000800\n021f0000 0166c5fc 00004ef9\n021f0000 0166c5fe 00000000\n021f0000 0166c600 00000200\n021f0000 01644200 0000B3FC\n021f0000 01644202 00000010\n021f0000 01644204 00000440\n021f0000 01644206 0000670C\n021f0000 01644208 0000D1FC\n021f0000 0164420A 00000000\n021f0000 0164420C 0000000A\n021f0000 0164420E 00004EF9\n021f0000 01644210 00000002\n021f0000 01644212 00008618\n021f0000 01644214 0000D1FC\n021f0000 01644216 00000000\n021f0000 01644218 0000000A\n021f0000 0164421A 00004EF9\n021f0000 0164421C 00000002\n021f0000 0164421E 00008602\n20000000",
-            "title": "[hitanywhere - pad on]"
-        }
-    ]
+    "859B8A3313FB2057": {
+        "[Infinite Time 60Seconds]": "[Infinite Time 60Seconds]\n01000000 012A05BA 0000003C\n\n",
+        "[Inf Lives]": "[Inf Lives]\n01000000 01299A9E 00000003\n\n",
+        "[Inf Bombs]": "[Inf Bombs]\n01000000 01299BE9 000000FF\n\n",
+        "[No Bomb Throw Wait]": "[No Bomb Throw Wait]\n04000000 01299BE6 FF0000FF\n\n",
+        "[Inf Ammo]": "[Inf Ammo]\n02000000 01299BEA 0000FFFF\n\n",
+        "[Select Weapon 00to04]": "[Select Weapon 00to04]\n01000000 01299BD8 00000004\n\n",
+        "[Rapid Fire]": "[Rapid Fire]\n01000000 012A05DB 00000000\n\n",
+        "[P1 Invincible]": "[P1 Invincible]\n01000000 01299BAC 00000040\n\n",
+        "[Inf Tank Gas]": "[Inf Tank Gas]\n01000000 01299D0E 00000030\n\n",
+        "[Inf Tank Ammo]": "[Inf Tank Ammo]\n01000000 01299D39 00000009\n\n",
+        "[Tank is Invincible]": "[Tank is Invincible]\n01000000 01299CEC 000000FF\n\n",
+        "[hitanywhere - pad on]": "[hitanywhere - pad on]\n80000800\n021f0000 0166c5fc 00004ef9\n021f0000 0166c5fe 00000000\n021f0000 0166c600 00000200\n021f0000 01644200 0000B3FC\n021f0000 01644202 00000010\n021f0000 01644204 00000440\n021f0000 01644206 0000670C\n021f0000 01644208 0000D1FC\n021f0000 0164420A 00000000\n021f0000 0164420C 0000000A\n021f0000 0164420E 00004EF9\n021f0000 01644210 00000002\n021f0000 01644212 00008618\n021f0000 01644214 0000D1FC\n021f0000 01644216 00000000\n021f0000 01644218 0000000A\n021f0000 0164421A 00004EF9\n021f0000 0164421C 00000002\n021f0000 0164421E 00008602\n20000000\n\n"
+    },
+    "31196C8F3970CD2A": {
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 0125017e 00000009\n\n",
+        "[P1 Infinite Ammo]": "[P1 Infinite Ammo]\n02000000 012502ca 0000ffff\n\n",
+        "[P1 Infinite Bombs]": "[P1 Infinite Bombs]\n01000000 012502c9 000000ff\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 0125021e 00000009\n\n",
+        "[P2 Infinite Ammo]": "[P2 Infinite Ammo]\n02000000 0125036a 0000ffff\n\n",
+        "[P2 Infinite Bombs]": "[P2 Infinite Bombs]\n01000000 01250369 000000ff\n\n"
+    },
+    "79161808C248FCE6": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n020F0000 0123725A 0000078A\n20000000\n\n",
+        "[Invincible]": "[Invincible]\n010F0000 01237274 000000FF\n\n"
+    },
+    "attribution": {
+        "ACA NEOGEO METAL SLUG by Zit.txt": "[Moon Jump]\n80000002\n020F0000 0123725A 0000078A\n20000000\n\n[Invincible]\n010F0000 01237274 000000FF"
+    }
 }

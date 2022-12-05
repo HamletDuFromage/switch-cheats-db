@@ -1,28 +1,13 @@
 {
-    "CDD1C03D9879B8C4": [
-        {
-            "content": "[P1 Ships unlimited]\n04000000 09FECC34 00000009\n\n",
-            "title": "[P1 Ships unlimited]"
-        },
-        {
-            "content": "[P1 Bombs unlimited]\n04000000 09FECD18 00000009\n\n",
-            "title": "[P1 Bombs unlimited]"
-        },
-        {
-            "content": "[P1 Ether Chip unlimited]\n04000000 09FECD0C 00000009\n\n",
-            "title": "[P1 Ether Chip unlimited]"
-        },
-        {
-            "content": "[P2 Ships unlimited]\n04000000 09FECDE4 00000009\n\n",
-            "title": "[P2 Ships unlimited]"
-        },
-        {
-            "content": "[P2 Bombs unlimited]\n04000000 09FECEC8 00000009\n\n",
-            "title": "[P2 Bombs unlimited]"
-        },
-        {
-            "content": "[P2 Ether Chip unlimited]\n04000000 09FECEBC 00000009\n",
-            "title": "[P2 Ether Chip unlimited]"
-        }
-    ]
+    "CDD1C03D9879B8C4": {
+        "[P1 Ships unlimited]": "[P1 Ships unlimited]\n04000000 09FECC34 00000009\n\n",
+        "[P1 Bombs unlimited]": "[P1 Bombs unlimited]\n04000000 09FECD18 00000009\n\n",
+        "[P1 Ether Chip unlimited]": "[P1 Ether Chip unlimited]\n04000000 09FECD0C 00000009\n\n",
+        "[P2 Ships unlimited]": "[P2 Ships unlimited]\n04000000 09FECDE4 00000009\n\n",
+        "[P2 Bombs unlimited]": "[P2 Bombs unlimited]\n04000000 09FECEC8 00000009\n\n",
+        "[P2 Ether Chip unlimited]": "[P2 Ether Chip unlimited]\n04000000 09FECEBC 00000009\n\n"
+    },
+    "attribution": {
+        "Caladrius Blaze v1.0.0 by merlin555.txt": ""
+    }
 }

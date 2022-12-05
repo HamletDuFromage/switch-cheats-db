@@ -1,28 +1,13 @@
 {
-    "B6560D22AABE3EC4": [
-        {
-            "content": "[hitanywhere]\n580F0000 0126CE38\n780F0000 00037374\n640F0000 00000000 00726000\n\n",
-            "title": "[hitanywhere]"
-        },
-        {
-            "content": "[ZR Player Recover Full Health]\n80000200\n520f0000 0126a89e\n740f0000 0125c6d6\n020F0000 00000000 00000100\n20000000\n\n",
-            "title": "[ZR Player Recover Full Health]"
-        },
-        {
-            "content": "[ZR Player Max Power Bar]\n80000200\n520f0000 0126a89e\n740f0000 0125c6d4\n010F0000 00000000 00000040\n20000000\n\n",
-            "title": "[ZR Player Max Power Bar]"
-        },
-        {
-            "content": "[Right Stick CPU 0 Health]\n80000020\n520f0000 0126a8a2\n740f0000 0125c6d6\n020F0000 00000000 00000000\n20000000\n\n",
-            "title": "[Right Stick CPU 0 Health]"
-        },
-        {
-            "content": "[Player Infinite Health]\n11050000 0126a8a0 00000010\n14050000 0126aabc 02000000\n520f0000 0126a89e\n740f0000 0125c6d6\n020F0000 00000000 00000040\n20000000\n\n",
-            "title": "[Player Infinite Health]"
-        },
-        {
-            "content": "[Player Max Power Bar]\n11050000 0126a8a0 00000010\n14050000 0126aabc 02000000\n520f0000 0126a89e\n740f0000 0125c6d4\n010F0000 00000000 00000040\n20000000\n\n",
-            "title": "[Player Max Power Bar]"
-        }
-    ]
+    "B6560D22AABE3EC4": {
+        "[hitanywhere]": "[hitanywhere]\n580F0000 0126CE38\n780F0000 00037374\n640F0000 00000000 00726000\n\n",
+        "[ZR Player Recover Full Health]": "[ZR Player Recover Full Health]\n80000200\n520f0000 0126a89e\n740f0000 0125c6d6\n020F0000 00000000 00000100\n20000000\n\n",
+        "[ZR Player Max Power Bar]": "[ZR Player Max Power Bar]\n80000200\n520f0000 0126a89e\n740f0000 0125c6d4\n010F0000 00000000 00000040\n20000000\n\n",
+        "[Right Stick CPU 0 Health]": "[Right Stick CPU 0 Health]\n80000020\n520f0000 0126a8a2\n740f0000 0125c6d6\n020F0000 00000000 00000000\n20000000\n\n",
+        "[Player Infinite Health]": "[Player Infinite Health]\n11050000 0126a8a0 00000010\n14050000 0126aabc 02000000\n520f0000 0126a89e\n740f0000 0125c6d6\n020F0000 00000000 00000040\n20000000\n\n",
+        "[Player Max Power Bar]": "[Player Max Power Bar]\n11050000 0126a8a0 00000010\n14050000 0126aabc 02000000\n520f0000 0126a89e\n740f0000 0125c6d4\n010F0000 00000000 00000040\n20000000\n\n"
+    },
+    "attribution": {
+        "ACA NEOGEO THE LAST BLADE 2 ver 1.0.0 by xtau.txt": " Inf Health should be used in conjunction with Inf Armor."
+    }
 }

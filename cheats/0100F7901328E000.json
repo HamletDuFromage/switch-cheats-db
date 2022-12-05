@@ -1,62 +1,20 @@
 {
-    "5684331512E5C6EF": [
-        {
-            "content": "[BLUE REFLECTION TIE (JP) v1.0.2(v131072)  TID=0100F7901328E000  BID=5684331512E5C6EF ]\n\n",
-            "title": "[BLUE REFLECTION TIE (JP) v1.0.2(v131072)  TID=0100F7901328E000  BID=5684331512E5C6EF ]"
-        },
-        {
-            "content": "{Created by Eiffel2018, enjoy!}\n080E0000 00AB6FB0 B4000054 F9406814\n080E0000 00AB6FB8 AA0103F4 B900003F\n080E0000 00AB6FC0 D503201F D65F03C0\n080E0000 00AB6FC8 B40000A0 F9406A60\n080E0000 00AB6FD0 B9082260 3200C3E0\n080E0000 00AB6FD8 1E220000 52807D00\n080E0000 00AB6FE0 D65F03C0 BD07FE60\n080E0000 00AB6FE8 7100007F 0B030873\n080E0000 00AB6FF0 D65F03C0 1A9F5273\n\n",
-            "title": "{Created by Eiffel2018, enjoy!}"
-        },
-        {
-            "content": "[Invincible]\n040E0000 00507F50 9416BC18\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[16x Exp]\n010E0000 00474481 00000011\n\n",
-            "title": "[16x Exp]"
-        },
-        {
-            "content": "[1000 EP Speed]\n040E0000 00504708 9416CA30\n\n",
-            "title": "[1000 EP Speed]"
-        },
-        {
-            "content": "[Infinite TP]\n010E0000 001C92D6 0000003F\n\n",
-            "title": "[Infinite TP]"
-        },
-        {
-            "content": "[Resource hack (5x obtain, no reduce)]\n040E0000 005AF708 94141E38\n040E0000 005AD4AC 0B020855\n040E0000 005AD610 528000A8\n",
-            "title": "[Resource hack (5x obtain, no reduce)]"
-        }
-    ],
-    "B66099E2EFD1AD06": [
-        {
-            "content": "[BLUE REFLECTION TIE (JP) 1.0.1(v65536)  TID=0100F7901328E000  BID=B66099E2EFD1AD06 ]\n\n",
-            "title": "[BLUE REFLECTION TIE (JP) 1.0.1(v65536)  TID=0100F7901328E000  BID=B66099E2EFD1AD06 ]"
-        },
-        {
-            "content": "{Created by Eiffel2018, enjoy!}\n080E0000 00AABE00 B4000054 F9406814\n080E0000 00AABE08 AA0103F4 B900003F\n080E0000 00AABE10 D503201F D65F03C0\n080E0000 00AABE18 B40000A0 F9406A60\n080E0000 00AABE20 B9082260 3200C3E0\n080E0000 00AABE28 1E220000 52807D00\n080E0000 00AABE30 D65F03C0 BD07FE60\n080E0000 00AABE38 7100007F 0B030873\n080E0000 00AABE40 D65F03C0 1A9F5273\n\n",
-            "title": "{Created by Eiffel2018, enjoy!}"
-        },
-        {
-            "content": "[Invincible]\n040E0000 004FD170 9416BB24\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[16x Exp]\n010E0000 00469801 00000011\n\n",
-            "title": "[16x Exp]"
-        },
-        {
-            "content": "[1000 EP Speed]\n040E0000 004F9958 9416C930\n\n",
-            "title": "[1000 EP Speed]"
-        },
-        {
-            "content": "[Infinite TP]\n010E0000 001C2076 0000003F\n\n",
-            "title": "[Infinite TP]"
-        },
-        {
-            "content": "[Resource hack (5x obtain, no reduce)]\n040E0000 005A46A8 94141DE4\n040E0000 005A244C 0B020855\n040E0000 005A25B0 528000A8\n",
-            "title": "[Resource hack (5x obtain, no reduce)]"
-        }
-    ]
+    "5684331512E5C6EF": {
+        "[BLUE REFLECTION TIE (JP) v1.0.2(v131072)  TID=0100F7901328E000  BID=5684331512E5C6EF ]": "[BLUE REFLECTION TIE (JP) v1.0.2(v131072)  TID=0100F7901328E000  BID=5684331512E5C6EF ]\n\n",
+        "{Created by Eiffel2018, enjoy!}": "{Created by Eiffel2018, enjoy!}\n080E0000 00AB6FB0 B4000054 F9406814\n080E0000 00AB6FB8 AA0103F4 B900003F\n080E0000 00AB6FC0 D503201F D65F03C0\n080E0000 00AB6FC8 B40000A0 F9406A60\n080E0000 00AB6FD0 B9082260 3200C3E0\n080E0000 00AB6FD8 1E220000 52807D00\n080E0000 00AB6FE0 D65F03C0 BD07FE60\n080E0000 00AB6FE8 7100007F 0B030873\n080E0000 00AB6FF0 D65F03C0 1A9F5273\n\n",
+        "[Invincible]": "[Invincible]\n040E0000 00507F50 9416BC18\n\n",
+        "[16x Exp]": "[16x Exp]\n010E0000 00474481 00000011\n\n",
+        "[1000 EP Speed]": "[1000 EP Speed]\n040E0000 00504708 9416CA30\n\n",
+        "[Infinite TP]": "[Infinite TP]\n010E0000 001C92D6 0000003F\n\n",
+        "[Resource hack (5x obtain, no reduce)]": "[Resource hack (5x obtain, no reduce)]\n040E0000 005AF708 94141E38\n040E0000 005AD4AC 0B020855\n040E0000 005AD610 528000A8\n\n"
+    },
+    "B66099E2EFD1AD06": {
+        "[BLUE REFLECTION TIE (JP) 1.0.1(v65536)  TID=0100F7901328E000  BID=B66099E2EFD1AD06 ]": "[BLUE REFLECTION TIE (JP) 1.0.1(v65536)  TID=0100F7901328E000  BID=B66099E2EFD1AD06 ]\n\n",
+        "{Created by Eiffel2018, enjoy!}": "{Created by Eiffel2018, enjoy!}\n080E0000 00AABE00 B4000054 F9406814\n080E0000 00AABE08 AA0103F4 B900003F\n080E0000 00AABE10 D503201F D65F03C0\n080E0000 00AABE18 B40000A0 F9406A60\n080E0000 00AABE20 B9082260 3200C3E0\n080E0000 00AABE28 1E220000 52807D00\n080E0000 00AABE30 D65F03C0 BD07FE60\n080E0000 00AABE38 7100007F 0B030873\n080E0000 00AABE40 D65F03C0 1A9F5273\n\n",
+        "[Invincible]": "[Invincible]\n040E0000 004FD170 9416BB24\n\n",
+        "[16x Exp]": "[16x Exp]\n010E0000 00469801 00000011\n\n",
+        "[1000 EP Speed]": "[1000 EP Speed]\n040E0000 004F9958 9416C930\n\n",
+        "[Infinite TP]": "[Infinite TP]\n010E0000 001C2076 0000003F\n\n",
+        "[Resource hack (5x obtain, no reduce)]": "[Resource hack (5x obtain, no reduce)]\n040E0000 005A46A8 94141DE4\n040E0000 005A244C 0B020855\n040E0000 005A25B0 528000A8\n\n"
+    }
 }

@@ -1,12 +1,9 @@
 {
-    "CADFCD07E6596093": [
-        {
-            "content": "[Inf Life]\n040F0000 00BFE16C 00000101\n\n",
-            "title": "[Inf Life]"
-        },
-        {
-            "content": "[Achievement rate]\n040F0000 00BFE170 000F0000",
-            "title": "[Achievement rate]"
-        }
-    ]
+    "CADFCD07E6596093": {
+        "[Inf Life]": "[Inf Life]\n040F0000 00BFE16C 00000101\n\n",
+        "[Achievement rate]": "[Achievement rate]\n040F0000 00BFE170 000F0000\n\n"
+    },
+    "attribution": {
+        "Hatsune Miku Project DIVA Mega Mix ver 1.0.0 zit.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+    }
 }

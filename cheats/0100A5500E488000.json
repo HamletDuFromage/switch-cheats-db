@@ -1,48 +1,18 @@
 {
-    "F3845D78427CB893": [
-        {
-            "content": "[Inf HP]\n04100000 A0C270A0 000003E7\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Inf MP]\n04100000 A0C270A4 000003E7\n\n",
-            "title": "[Inf MP]"
-        },
-        {
-            "content": "[Strength MAX]\n04100000 A0C270AC 000003E7\n\n",
-            "title": "[Strength MAX]"
-        },
-        {
-            "content": "[Agility MAX]\n04100000 A0C270B0 000003E7\n\n",
-            "title": "[Agility MAX]"
-        },
-        {
-            "content": "[Protection MAX]\n04100000 A0C270B4 000003E7\n\n",
-            "title": "[Protection MAX]"
-        },
-        {
-            "content": "[Max. HP]\n04100000 A0C270B8 000003E7\n\n",
-            "title": "[Max. HP]"
-        },
-        {
-            "content": "[Max. MP]\n04100000 A0C270BC 000003E7\n\n",
-            "title": "[Max. MP]"
-        },
-        {
-            "content": "[Attack MAX]\n04100000 A0C270C0 000003E7\n\n",
-            "title": "[Attack MAX]"
-        },
-        {
-            "content": "[Defence MAX]\n04100000 A0C270C4 000003E7\n\n",
-            "title": "[Defence MAX]"
-        },
-        {
-            "content": "[Keys]\n01100000 A0C270F8 00000006\n\n",
-            "title": "[Keys]"
-        },
-        {
-            "content": "[Gold]\n04100000 A0C27114 0001869F",
-            "title": "[Gold]"
-        }
-    ]
+    "F3845D78427CB893": {
+        "[Inf HP]": "[Inf HP]\n04100000 A0C270A0 000003E7\n\n",
+        "[Inf MP]": "[Inf MP]\n04100000 A0C270A4 000003E7\n\n",
+        "[Strength MAX]": "[Strength MAX]\n04100000 A0C270AC 000003E7\n\n",
+        "[Agility MAX]": "[Agility MAX]\n04100000 A0C270B0 000003E7\n\n",
+        "[Protection MAX]": "[Protection MAX]\n04100000 A0C270B4 000003E7\n\n",
+        "[Max. HP]": "[Max. HP]\n04100000 A0C270B8 000003E7\n\n",
+        "[Max. MP]": "[Max. MP]\n04100000 A0C270BC 000003E7\n\n",
+        "[Attack MAX]": "[Attack MAX]\n04100000 A0C270C0 000003E7\n\n",
+        "[Defence MAX]": "[Defence MAX]\n04100000 A0C270C4 000003E7\n\n",
+        "[Keys]": "[Keys]\n01100000 A0C270F8 00000006\n\n",
+        "[Gold]": "[Gold]\n04100000 A0C27114 0001869F\n\n"
+    },
+    "attribution": {
+        "DRAGON QUEST by zit.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
+    }
 }

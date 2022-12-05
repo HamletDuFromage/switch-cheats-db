@@ -1,20 +1,11 @@
 {
-    "7B021C62485D604C": [
-        {
-            "content": "[01# moonjump (Press B)]\n80000002\n580F0000 025B83B8\n780F0000 000000F4\n640F0000 00000000 40000000\n20000000\n\n",
-            "title": "[01# moonjump (Press B)]"
-        },
-        {
-            "content": "[02# Inf Studs]\n580F0000 025A9E10\n780F0000 00000080\n640F0000 00000000 0098967F\n\n",
-            "title": "[02# Inf Studs]"
-        },
-        {
-            "content": "[03# Inf Building Blocks]\n580F0000 025BCB60\n780F0000 00000044\n640F0000 00000000 0098967F\n\n",
-            "title": "[03# Inf Building Blocks]"
-        },
-        {
-            "content": "[04# Inf Hearts]\n580F0000 02591790\n580F1000 00000080\n580F1000 00000490\n780F0000 000000F0\n640F0000 00000000 06060000",
-            "title": "[04# Inf Hearts]"
-        }
-    ]
+    "7B021C62485D604C": {
+        "[01# moonjump (Press B)]": "[01# moonjump (Press B)]\n80000002\n580F0000 025B83B8\n780F0000 000000F4\n640F0000 00000000 40000000\n20000000\n\n",
+        "[02# Inf Studs]": "[02# Inf Studs]\n580F0000 025A9E10\n780F0000 00000080\n640F0000 00000000 0098967F\n\n",
+        "[03# Inf Building Blocks]": "[03# Inf Building Blocks]\n580F0000 025BCB60\n780F0000 00000044\n640F0000 00000000 0098967F\n\n",
+        "[04# Inf Hearts]": "[04# Inf Hearts]\n580F0000 02591790\n580F1000 00000080\n580F1000 00000490\n780F0000 000000F0\n640F0000 00000000 06060000\n\n"
+    },
+    "attribution": {
+        "Lego city ver 1.0.2 by patjenova.txt": "Pressing the A button and using the roll will release invincibility. This is a game specification.\n"
+    }
 }

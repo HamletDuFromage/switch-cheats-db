@@ -1,28 +1,10 @@
 {
-    "630AB427CB952E4D": [
-        {
-            "content": "[HP Max (Atmosphere Only) by jhmiller]\n580D0000 034CF570 \n580D1000 000000B8 \n580D1000 00000000 \n580D1000 000000C0 \n780D0000 00000030 \n989AD000\n540A1000 00000000 \n780D1000 00000010 \nA4AD0000 \n\n",
-            "title": "[HP Max (Atmosphere Only) by jhmiller]"
-        },
-        {
-            "content": "[HP by jhmiller]\n580F0000 034CF570 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 000000C0 \n780F0000 00000020 \n640F0000 00000000 43806483 \n\n",
-            "title": "[HP by jhmiller]"
-        },
-        {
-            "content": "[Ammo by jhmiller]\n580F0000 03830768 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 00000090 \n580F1000 000000E0 \n780F0000 000000F0 \n640F0000 00000000 0000000A \n\n",
-            "title": "[Ammo by jhmiller]"
-        },
-        {
-            "content": "[Unlock Points by jhmiller]\n580F0000 038798A0 \n580F1000 00000210 \n580F1000 000003F0 \n580F1000 00000048 \n580F1000 00000030 \n780F0000 00000020 \n640F0000 00000000 00000003 \n\n",
-            "title": "[Unlock Points by jhmiller]"
-        },
-        {
-            "content": "[Upgrade Points by jhmiller]\n580F0000 038798A0 \n580F1000 00000210 \n580F1000 000003F0 \n580F1000 00000048 \n580F1000 00000030 \n780F0000 00000024 \n640F0000 00000000 00000003 \n\n",
-            "title": "[Upgrade Points by jhmiller]"
-        },
-        {
-            "content": "[Money by jhmiller]\n580F0000 034EE630 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 00000058 \n580F1000 00000010 \n780F0000 00000020 \n640F0000 00000000 000F423F \n",
-            "title": "[Money by jhmiller]"
-        }
-    ]
+    "630AB427CB952E4D": {
+        "[HP Max (Atmosphere Only) by jhmiller]": "[HP Max (Atmosphere Only) by jhmiller]\n580D0000 034CF570 \n580D1000 000000B8 \n580D1000 00000000 \n580D1000 000000C0 \n780D0000 00000030 \n989AD000\n540A1000 00000000 \n780D1000 00000010 \nA4AD0000\n\n",
+        "[HP by jhmiller]": "[HP by jhmiller]\n580F0000 034CF570 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 000000C0 \n780F0000 00000020 \n640F0000 00000000 43806483\n\n",
+        "[Ammo by jhmiller]": "[Ammo by jhmiller]\n580F0000 03830768 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 00000090 \n580F1000 000000E0 \n780F0000 000000F0 \n640F0000 00000000 0000000A\n\n",
+        "[Unlock Points by jhmiller]": "[Unlock Points by jhmiller]\n580F0000 038798A0 \n580F1000 00000210 \n580F1000 000003F0 \n580F1000 00000048 \n580F1000 00000030 \n780F0000 00000020 \n640F0000 00000000 00000003\n\n",
+        "[Upgrade Points by jhmiller]": "[Upgrade Points by jhmiller]\n580F0000 038798A0 \n580F1000 00000210 \n580F1000 000003F0 \n580F1000 00000048 \n580F1000 00000030 \n780F0000 00000024 \n640F0000 00000000 00000003\n\n",
+        "[Money by jhmiller]": "[Money by jhmiller]\n580F0000 034EE630 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 00000058 \n580F1000 00000010 \n780F0000 00000020 \n640F0000 00000000 000F423F\n\n"
+    }
 }

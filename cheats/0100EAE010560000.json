@@ -1,256 +1,49 @@
 {
-    "48F1CB706C222889": [
-        {
-            "content": "[Max PP]\n040F0000 0150D434 05F5E0FF\n\n",
-            "title": "[Max PP]"
-        },
-        {
-            "content": "[Home Score 99]\n14050000 01538810 00000000\n040F0000 0153881C 00000063\n20000000\n14050000 01538980 00000000\n040F0000 0153898C 00000063\n20000000\n\n",
-            "title": "[Home Score 99]"
-        },
-        {
-            "content": "[Away Score 0]\n14050000 01538810 00000001\n040F0000 0153881C 00000000\n20000000\n14050000 01538980 00000001\n040F0000 0153898C 00000000\n20000000\n\n",
-            "title": "[Away Score 0]"
-        },
-        {
-            "content": "[Home Inf V Zone Gage]\n14050000 01538810 00000000\n040F0000 015388FC 42C80000\n20000000\n14050000 01538980 00000000\n040F0000 01538A6C 42C80000\n20000000\n\n",
-            "title": "[Home Inf V Zone Gage]"
-        },
-        {
-            "content": "[Away V Zone Gage 0]\n14050000 01538810 00000001\n040F0000 015388FC 00000000\n20000000\n14050000 01538980 00000001\n040F0000 01538A6C 00000000\n20000000\n\n",
-            "title": "[Away V Zone Gage 0]"
-        },
-        {
-            "content": "[Home Inf Spirit Gage]\n14050000 01538810 00000000\n580F0000 01538828\n780F0000 00000A24\n300E0000 0000000B\n640F0000 00000000 00002710\n780F0000 00004920\n310E0000\n20000000\n14050000 01538810 00000001\n580F0000 01538828\n780F0000 00000A24\n300E0000 0000000B\n640F0000 00000000 FFFFFFFF\n780F0000 00004920\n310E0000\n20000000\n\n",
-            "title": "[Home Inf Spirit Gage]"
-        },
-        {
-            "content": "[Away Spirit Gage 0]\n14050000 01538980 00000001\n580F0000 01538998\n780F0000 00000A24\n300E0000 0000000B\n640F0000 00000000 FFFFFFFF\n780F0000 00004920\n310E0000\n20000000\n14050000 01538980 00000000\n580F0000 01538998\n780F0000 00000A24\n300E0000 0000000B\n640F0000 00000000 00002710\n780F0000 00004920\n310E0000\n20000000\n\n",
-            "title": "[Away Spirit Gage 0]"
-        },
-        {
-            "content": "[Home All Character Max OFE]\n14050000 01538810 00000000\n580F0000 01538828\n780F0000 00000A28\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n14050000 01538980 00000000\n580F0000 01538998\n780F0000 00000A28\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n\n",
-            "title": "[Home All Character Max OFE]"
-        },
-        {
-            "content": "[Home All Character Max DFE]\n14050000 01538810 00000000\n580F0000 01538828\n780F0000 00000A2C\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n14050000 01538980 00000000\n580F0000 01538998\n780F0000 00000A2C\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n\n",
-            "title": "[Home All Character Max DFE]"
-        },
-        {
-            "content": "[Home All Character Max TEC]\n14050000 01538810 00000000\n580F0000 01538828\n780F0000 00000A30\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n14050000 01538980 00000000\n580F0000 01538998\n780F0000 00000A30\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n\n",
-            "title": "[Home All Character Max TEC]"
-        },
-        {
-            "content": "[Home All Character Max POW]\n14050000 01538810 00000000\n580F0000 01538828\n780F0000 00000A34\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n14050000 01538980 00000000\n580F0000 01538998\n780F0000 00000A34\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n\n",
-            "title": "[Home All Character Max POW]"
-        },
-        {
-            "content": "[Home All Character Max SPD]\n14050000 01538810 00000000\n580F0000 01538828\n780F0000 00000A38\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n14050000 01538980 00000000\n580F0000 01538998\n780F0000 00000A38\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n\n",
-            "title": "[Home All Character Max SPD]"
-        },
-        {
-            "content": "[Big Head Mode]\n580F0000 01538828\n780F0000 0000153C\n300E0000 0000000B\n640F0000 00000000 40800000\n780F0000 00004920\n310E0000\n20000000\n580F0000 01538998\n780F0000 0000153C\n300E0000 0000000B\n640F0000 00000000 40800000\n780F0000 00004920\n310E0000\n20000000",
-            "title": "[Big Head Mode]"
-        }
-    ],
-    "8230BEC0C144303E": [
-        {
-            "content": "[Mon joueur - Technique 99]\n010F0000 0148aaac 00000063\n\n",
-            "title": "[Mon joueur - Technique 99]"
-        },
-        {
-            "content": "[Mon joueur - Technique 99]\n010F0000 01cb1000 00000063\n\n",
-            "title": "[Mon joueur - Technique 99]"
-        },
-        {
-            "content": "[Mon joueur - Technique 99]\n011F0000 8b71d0a8 00000063\n\n",
-            "title": "[Mon joueur - Technique 99]"
-        },
-        {
-            "content": "[Mon joueur - Technique 99]\n011F0000 8b80d000 00000063\n\n",
-            "title": "[Mon joueur - Technique 99]"
-        },
-        {
-            "content": "[Mon joueur - Attaque 150]\n020F0000 0148aa6c 00000096\n\n",
-            "title": "[Mon joueur - Attaque 150]"
-        },
-        {
-            "content": "[Mon joueur - Attaque 150]\n010F0000 01cb1000 00000096\n\n",
-            "title": "[Mon joueur - Attaque 150]"
-        },
-        {
-            "content": "[Mon joueur - Technique 150]\n010F0000 0148aaac 00000096\n\n",
-            "title": "[Mon joueur - Technique 150]"
-        },
-        {
-            "content": "[Mon joueur - Technique 150]\n010F0000 01cb1000 00000096\n\n",
-            "title": "[Mon joueur - Technique 150]"
-        },
-        {
-            "content": "[Mon joueur - Technique 150]\n011F0000 8b71d0a8 00000096\n\n",
-            "title": "[Mon joueur - Technique 150]"
-        },
-        {
-            "content": "[Mon joueur - Technique 150]\n011F0000 8b80d000 00000096\n\n",
-            "title": "[Mon joueur - Technique 150]"
-        },
-        {
-            "content": "[Mon joueur - Puissance 150]\n010F0000 0148aacc 00000096\n\n",
-            "title": "[Mon joueur - Puissance 150]"
-        },
-        {
-            "content": "[Mon joueur - Puissance 150]\n010F0000 01cb1000 00000096\n\n",
-            "title": "[Mon joueur - Puissance 150]"
-        },
-        {
-            "content": "[Mon joueur - Puissance 150]\n011F0000 911a10c0 00000096\n\n",
-            "title": "[Mon joueur - Puissance 150]"
-        },
-        {
-            "content": "[Mon joueur - Puissance 150]\n011F0000 911f5000 00000096\n\n",
-            "title": "[Mon joueur - Puissance 150]"
-        },
-        {
-            "content": "[Mon joueur - Vitesse 150]\n010F0000 0148aaec 00000096\n\n",
-            "title": "[Mon joueur - Vitesse 150]"
-        },
-        {
-            "content": "[Mon joueur - Vitesse 150]\n010F0000 01cb1000 00000096\n\n",
-            "title": "[Mon joueur - Vitesse 150]"
-        },
-        {
-            "content": "[Mon joueur - Vitesse 150]\n011F0000 911a10cc 00000096\n\n",
-            "title": "[Mon joueur - Vitesse 150]"
-        },
-        {
-            "content": "[Mon joueur - Vitesse 150]\n011F0000 911f5000 00000096\n\n",
-            "title": "[Mon joueur - Vitesse 150]"
-        },
-        {
-            "content": "[Mon joueur - Defense 150]\n010F0000 0148aa8c 00000096\n\n",
-            "title": "[Mon joueur - Defense 150]"
-        },
-        {
-            "content": "[Mon joueur - Defense 150]\n010F0000 01cb1000 00000096\n\n",
-            "title": "[Mon joueur - Defense 150]"
-        },
-        {
-            "content": "[Mon joueur - Defense 150]\n011F0000 911a10d8 00000096\n\n",
-            "title": "[Mon joueur - Defense 150]"
-        },
-        {
-            "content": "[Mon joueur - Defense 150]\n011F0000 911f5000 00000096\n\n",
-            "title": "[Mon joueur - Defense 150]"
-        },
-        {
-            "content": "[Mon joueur - Attaque 999]\n020F0000 0148aa6c 000003e7\n\n",
-            "title": "[Mon joueur - Attaque 999]"
-        },
-        {
-            "content": "[Mon joueur - Attaque 999]\n010F0000 01cb1000 000003e7\n\n",
-            "title": "[Mon joueur - Attaque 999]"
-        },
-        {
-            "content": "[Mon joueur - Technique 999]\n010F0000 0148aaac 000003e7\n\n",
-            "title": "[Mon joueur - Technique 999]"
-        },
-        {
-            "content": "[Mon joueur - Technique 999]\n010F0000 01cb1000 000003e7\n\n",
-            "title": "[Mon joueur - Technique 999]"
-        },
-        {
-            "content": "[Mon joueur - Technique 999]\n011F0000 8b71d0a8 000003e7\n\n",
-            "title": "[Mon joueur - Technique 999]"
-        },
-        {
-            "content": "[Mon joueur - Technique 999]\n011F0000 8b80d000 000003e7\n\n",
-            "title": "[Mon joueur - Technique 999]"
-        },
-        {
-            "content": "[Mon joueur - Puissance 999]\n010F0000 0148aacc 000003e7\n\n",
-            "title": "[Mon joueur - Puissance 999]"
-        },
-        {
-            "content": "[Mon joueur - Puissance 999]\n010F0000 01cb1000 000003e7\n\n",
-            "title": "[Mon joueur - Puissance 999]"
-        },
-        {
-            "content": "[Mon joueur - Puissance 999]\n011F0000 911a10c0 000003e7\n\n",
-            "title": "[Mon joueur - Puissance 999]"
-        },
-        {
-            "content": "[Mon joueur - Puissance 999]\n011F0000 911f5000 000003e7\n\n",
-            "title": "[Mon joueur - Puissance 999]"
-        },
-        {
-            "content": "[Mon joueur - Vitesse 999]\n010F0000 0148aaec 000003e7\n\n",
-            "title": "[Mon joueur - Vitesse 999]"
-        },
-        {
-            "content": "[Mon joueur - Vitesse 999]\n010F0000 01cb1000 000003e7\n\n",
-            "title": "[Mon joueur - Vitesse 999]"
-        },
-        {
-            "content": "[Mon joueur - Vitesse 999]\n011F0000 911a10cc 000003e7\n\n",
-            "title": "[Mon joueur - Vitesse 999]"
-        },
-        {
-            "content": "[Mon joueur - Vitesse 999]\n011F0000 911f5000 000003e7\n\n",
-            "title": "[Mon joueur - Vitesse 999]"
-        },
-        {
-            "content": "[Mon joueur - Defense 999]\n010F0000 0148aa8c 000003e7\n\n",
-            "title": "[Mon joueur - Defense 999]"
-        },
-        {
-            "content": "[Mon joueur - Defense 999]\n010F0000 01cb1000 000003e7\n\n",
-            "title": "[Mon joueur - Defense 999]"
-        },
-        {
-            "content": "[Mon joueur - Defense 999]\n011F0000 911a10d8 000003e7\n\n",
-            "title": "[Mon joueur - Defense 999]"
-        },
-        {
-            "content": "[Mon joueur - Defense 999]\n011F0000 911f5000 000003e7\n\n",
-            "title": "[Mon joueur - Defense 999]"
-        },
-        {
-            "content": "[999 999 999 PP]\n040F0000 0155b97c 3b9ac9ff\n\n",
-            "title": "[999 999 999 PP]"
-        },
-        {
-            "content": "[99 999 999 PP]\n040F0000 0155b97c 05f5e0ff\n\n",
-            "title": "[99 999 999 PP]"
-        },
-        {
-            "content": "[9 999 999 PP]\n040F0000 0155b97c 0098967f\n\n",
-            "title": "[9 999 999 PP]"
-        },
-        {
-            "content": "[Home Inf Spirit Gage]\n14050000 01586D70 00000000\n580F0000 01586D88\n780F0000 000029A4\n300E0000 0000000B\n640F0000 00000000 00002710\n780F0000 000068F0\n310E0000\n20000000\n14050000 01586D70 00000001\n580F0000 01586EF8\n780F0000 000029A4\n300E0000 0000000B\n640F0000 00000000 00002710\n780F0000 000068F0\n310E0000\n20000000\n\n",
-            "title": "[Home Inf Spirit Gage]"
-        },
-        {
-            "content": "[Away Spirit Gage 0]\n14050000 01586EE0 00000000\n580F0000 01586D88\n780F0000 000029A4\n300E0000 0000000B\n640F0000 00000000 00000000\n780F0000 000068F0\n310E0000\n20000000\n14050000 01586EE0 00000001\n580F0000 01586EF8\n780F0000 000029A4\n300E0000 0000000B\n640F0000 00000000 00000000\n780F0000 000068F0\n310E0000\n20000000\n\n",
-            "title": "[Away Spirit Gage 0]"
-        },
-        {
-            "content": "[Away Keeper&Defender Spirit Gage 0]\n14050000 01586EE0 00000000\n580F0000 01586D88\n780F0000 000029A4\n300E0000 00000005\n640F0000 00000000 00000000\n780F0000 000068F0\n310E0000\n20000000\n14050000 01586EE0 00000001\n580F0000 01586EF8\n780F0000 000029A4\n300E0000 00000005\n640F0000 00000000 00000000\n780F0000 000068F0\n310E0000\n20000000\n\n",
-            "title": "[Away Keeper&Defender Spirit Gage 0]"
-        },
-        {
-            "content": "[Away Keeper's Spirit Gage 0]\n14050000 01586EE0 00000000\n580F0000 01586D88\n780F0000 000029A4\n640F0000 00000000 00000000\n780F0000 000068F0\n20000000\n14050000 01586EE0 00000001\n580F0000 01586EF8\n780F0000 000029A4\n640F0000 00000000 00000000\n780F0000 000068F0\n20000000",
-            "title": "[Away Keeper's Spirit Gage 0]"
-        }
-    ],
-    "F693613CD5A6B53E": [
-        {
-            "content": "[Max PP]\n040F0000 015ACA44 05F18433\n041F0000 78CC1384 05F18433\n\n",
-            "title": "[Max PP]"
-        },
-        {
-            "content": "[SKILL POINT]\n040F0000 014F653C 00006000\n\n                                                                                           ",
-            "title": "[SKILL POINT]"
-        }
-    ]
+    "B803D79D4397A09F": {
+        "[60 FPS]": "[60 FPS]\n580F0000 01CD0800\n580F1000 000026B8\n580F1000 000000D8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 01CD0800\n580F1000 000026B8\n580F1000 000000D8\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Captain Tsubasa Rise of New Champions USA ver 1.0.0 by ZiT and ver 1.0.1 by chilikicks.txt": "If you want to change the status change 00000150.",
+        "Captain Tsubasa ver 1.0.2 by narumeddy.txt": "Normal difficulty save slot one."
+    },
+    "F693613CD5A6B53E": {
+        "[Max PP]": "[Max PP]\n040F0000 015ACA44 05F18433\n041F0000 78CC1384 05F18433\n\n",
+        "[SKILL POINT]": "[SKILL POINT]\n040F0000 014F653C 00006000\n\n"
+    },
+    "48F1CB706C222889": {
+        "[Max PP]": "[Max PP]\n040F0000 0150D434 05F5E0FF\n\n",
+        "[Home Score 99]": "[Home Score 99]\n14050000 01538810 00000000\n040F0000 0153881C 00000063\n20000000\n14050000 01538980 00000000\n040F0000 0153898C 00000063\n20000000\n\n",
+        "[Away Score 0]": "[Away Score 0]\n14050000 01538810 00000001\n040F0000 0153881C 00000000\n20000000\n14050000 01538980 00000001\n040F0000 0153898C 00000000\n20000000\n\n",
+        "[Home Inf V Zone Gage]": "[Home Inf V Zone Gage]\n14050000 01538810 00000000\n040F0000 015388FC 42C80000\n20000000\n14050000 01538980 00000000\n040F0000 01538A6C 42C80000\n20000000\n\n",
+        "[Away V Zone Gage 0]": "[Away V Zone Gage 0]\n14050000 01538810 00000001\n040F0000 015388FC 00000000\n20000000\n14050000 01538980 00000001\n040F0000 01538A6C 00000000\n20000000\n\n",
+        "[Home Inf Spirit Gage]": "[Home Inf Spirit Gage]\n14050000 01538810 00000000\n580F0000 01538828\n780F0000 00000A24\n300E0000 0000000B\n640F0000 00000000 00002710\n780F0000 00004920\n310E0000\n20000000\n14050000 01538810 00000001\n580F0000 01538828\n780F0000 00000A24\n300E0000 0000000B\n640F0000 00000000 FFFFFFFF\n780F0000 00004920\n310E0000\n20000000\n\n",
+        "[Away Spirit Gage 0]": "[Away Spirit Gage 0]\n14050000 01538980 00000001\n580F0000 01538998\n780F0000 00000A24\n300E0000 0000000B\n640F0000 00000000 FFFFFFFF\n780F0000 00004920\n310E0000\n20000000\n14050000 01538980 00000000\n580F0000 01538998\n780F0000 00000A24\n300E0000 0000000B\n640F0000 00000000 00002710\n780F0000 00004920\n310E0000\n20000000\n\n",
+        "[Home All Character Max OFE]": "[Home All Character Max OFE]\n14050000 01538810 00000000\n580F0000 01538828\n780F0000 00000A28\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n14050000 01538980 00000000\n580F0000 01538998\n780F0000 00000A28\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n\n",
+        "[Home All Character Max DFE]": "[Home All Character Max DFE]\n14050000 01538810 00000000\n580F0000 01538828\n780F0000 00000A2C\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n14050000 01538980 00000000\n580F0000 01538998\n780F0000 00000A2C\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n\n",
+        "[Home All Character Max TEC]": "[Home All Character Max TEC]\n14050000 01538810 00000000\n580F0000 01538828\n780F0000 00000A30\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n14050000 01538980 00000000\n580F0000 01538998\n780F0000 00000A30\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n\n",
+        "[Home All Character Max POW]": "[Home All Character Max POW]\n14050000 01538810 00000000\n580F0000 01538828\n780F0000 00000A34\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n14050000 01538980 00000000\n580F0000 01538998\n780F0000 00000A34\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n\n",
+        "[Home All Character Max SPD]": "[Home All Character Max SPD]\n14050000 01538810 00000000\n580F0000 01538828\n780F0000 00000A38\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n14050000 01538980 00000000\n580F0000 01538998\n780F0000 00000A38\n300E0000 0000000B\n640F0000 00000000 00000150\n780F0000 00004920\n310E0000\n20000000\n\n",
+        "[Big Head Mode]": "[Big Head Mode]\n580F0000 01538828\n780F0000 0000153C\n300E0000 0000000B\n640F0000 00000000 40800000\n780F0000 00004920\n310E0000\n20000000\n580F0000 01538998\n780F0000 0000153C\n300E0000 0000000B\n640F0000 00000000 40800000\n780F0000 00004920\n310E0000\n20000000\n\n"
+    },
+    "8230BEC0C144303E": {
+        "[Mon joueur - Technique 99]": "[Mon joueur - Technique 99]\n011F0000 8b80d000 00000063\n\n",
+        "[Mon joueur - Attaque 150]": "[Mon joueur - Attaque 150]\n010F0000 01cb1000 00000096\n\n",
+        "[Mon joueur - Technique 150]": "[Mon joueur - Technique 150]\n011F0000 8b80d000 00000096\n\n",
+        "[Mon joueur - Puissance 150]": "[Mon joueur - Puissance 150]\n011F0000 911f5000 00000096\n\n",
+        "[Mon joueur - Vitesse 150]": "[Mon joueur - Vitesse 150]\n011F0000 911f5000 00000096\n\n",
+        "[Mon joueur - Defense 150]": "[Mon joueur - Defense 150]\n011F0000 911f5000 00000096\n\n",
+        "[Mon joueur - Attaque 999]": "[Mon joueur - Attaque 999]\n010F0000 01cb1000 000003e7\n\n",
+        "[Mon joueur - Technique 999]": "[Mon joueur - Technique 999]\n011F0000 8b80d000 000003e7\n\n",
+        "[Mon joueur - Puissance 999]": "[Mon joueur - Puissance 999]\n011F0000 911f5000 000003e7\n\n",
+        "[Mon joueur - Vitesse 999]": "[Mon joueur - Vitesse 999]\n011F0000 911f5000 000003e7\n\n",
+        "[Mon joueur - Defense 999]": "[Mon joueur - Defense 999]\n011F0000 911f5000 000003e7\n\n",
+        "[999 999 999 PP]": "[999 999 999 PP]\n040F0000 0155b97c 3b9ac9ff\n\n",
+        "[99 999 999 PP]": "[99 999 999 PP]\n040F0000 0155b97c 05f5e0ff\n\n",
+        "[9 999 999 PP]": "[9 999 999 PP]\n040F0000 0155b97c 0098967f\n\n",
+        "[Home Inf Spirit Gage]": "[Home Inf Spirit Gage]\n14050000 01586D70 00000000\n580F0000 01586D88\n780F0000 000029A4\n300E0000 0000000B\n640F0000 00000000 00002710\n780F0000 000068F0\n310E0000\n20000000\n14050000 01586D70 00000001\n580F0000 01586EF8\n780F0000 000029A4\n300E0000 0000000B\n640F0000 00000000 00002710\n780F0000 000068F0\n310E0000\n20000000\n\n",
+        "[Away Spirit Gage 0]": "[Away Spirit Gage 0]\n14050000 01586EE0 00000000\n580F0000 01586D88\n780F0000 000029A4\n300E0000 0000000B\n640F0000 00000000 00000000\n780F0000 000068F0\n310E0000\n20000000\n14050000 01586EE0 00000001\n580F0000 01586EF8\n780F0000 000029A4\n300E0000 0000000B\n640F0000 00000000 00000000\n780F0000 000068F0\n310E0000\n20000000\n\n",
+        "[Away Keeper&Defender Spirit Gage 0]": "[Away Keeper&Defender Spirit Gage 0]\n14050000 01586EE0 00000000\n580F0000 01586D88\n780F0000 000029A4\n300E0000 00000005\n640F0000 00000000 00000000\n780F0000 000068F0\n310E0000\n20000000\n14050000 01586EE0 00000001\n580F0000 01586EF8\n780F0000 000029A4\n300E0000 00000005\n640F0000 00000000 00000000\n780F0000 000068F0\n310E0000\n20000000\n\n",
+        "[Away Keeper's Spirit Gage 0]": "[Away Keeper's Spirit Gage 0]\n14050000 01586EE0 00000000\n580F0000 01586D88\n780F0000 000029A4\n640F0000 00000000 00000000\n780F0000 000068F0\n20000000\n14050000 01586EE0 00000001\n580F0000 01586EF8\n780F0000 000029A4\n640F0000 00000000 00000000\n780F0000 000068F0\n20000000\n\n"
+    }
 }

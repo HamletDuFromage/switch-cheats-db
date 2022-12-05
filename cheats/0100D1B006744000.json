@@ -1,44 +1,14 @@
 {
-    "29E1A37D84227147": [
-        {
-            "content": "[Unlimited Lives]\n01100000 905722cc 00000063\n\n",
-            "title": "[Unlimited Lives]"
-        },
-        {
-            "content": "[99 Apples]\n01100000 94233140 00000063\n\n",
-            "title": "[99 Apples]"
-        },
-        {
-            "content": "[Always Have Aku Aku Mask]\n01100000 9422f980 00000003\n\n",
-            "title": "[Always Have Aku Aku Mask]"
-        },
-        {
-            "content": "[999 boxes]\n01100000 942314c0 000003e7\n\n",
-            "title": "[999 boxes]"
-        },
-        {
-            "content": "[3-3 Tawna Tokens]\n01100000 9422fe00 00000003\n\n",
-            "title": "[3-3 Tawna Tokens]"
-        },
-        {
-            "content": "[Have all Silver Crystals]\n01100000 905722d4 0000001a\n\n",
-            "title": "[Have all Silver Crystals]"
-        },
-        {
-            "content": "[Have 2-2 Gold Keys]\n01100000 905722d0 00000002\n\n",
-            "title": "[Have 2-2 Gold Keys]"
-        },
-        {
-            "content": "[Have all Sapphire Relics N Sanity Island]\n01100000 905722d8 00000008\n\n",
-            "title": "[Have all Sapphire Relics N Sanity Island]"
-        },
-        {
-            "content": "[Have all Gold Relics N Sanity Island]\n01100000 905722dc 00000009\n\n",
-            "title": "[Have all Gold Relics N Sanity Island]"
-        },
-        {
-            "content": "[Have all Platinum Relics N Sanity Island]\n01100000 905722e0 00000009",
-            "title": "[Have all Platinum Relics N Sanity Island]"
-        }
-    ]
+    "29E1A37D84227147": {
+        "[Unlimited Lives]": "[Unlimited Lives]\n01100000 905722cc 00000063\n\n",
+        "[99 Apples]": "[99 Apples]\n01100000 94233140 00000063\n\n",
+        "[Always Have Aku Aku Mask]": "[Always Have Aku Aku Mask]\n01100000 9422f980 00000003\n\n",
+        "[999 boxes]": "[999 boxes]\n01100000 942314c0 000003e7\n\n",
+        "[3-3 Tawna Tokens]": "[3-3 Tawna Tokens]\n01100000 9422fe00 00000003\n\n",
+        "[Have all Silver Crystals]": "[Have all Silver Crystals]\n01100000 905722d4 0000001a\n\n",
+        "[Have 2-2 Gold Keys]": "[Have 2-2 Gold Keys]\n01100000 905722d0 00000002\n\n",
+        "[Have all Sapphire Relics N Sanity Island]": "[Have all Sapphire Relics N Sanity Island]\n01100000 905722d8 00000008\n\n",
+        "[Have all Gold Relics N Sanity Island]": "[Have all Gold Relics N Sanity Island]\n01100000 905722dc 00000009\n\n",
+        "[Have all Platinum Relics N Sanity Island]": "[Have all Platinum Relics N Sanity Island]\n01100000 905722e0 00000009\n\n"
+    }
 }

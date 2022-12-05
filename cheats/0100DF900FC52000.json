@@ -1,16 +1,10 @@
 {
-    "90EBCB0FD4322E45": [
-        {
-            "content": "[Inf HP]\n580F0000 0259F6A0\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000068\n780F0000 000000DC\n640F0000 00000000 0001869F\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Speed Up]\n580F0000 0259F6A0\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000068\n780F0000 000000C8\n640F0000 00000000 40800000\n\n",
-            "title": "[Speed Up]"
-        },
-        {
-            "content": "[One Hit Kill]\n580F0000 0259F6A0\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000080\n780F0000 000000DC\n640F0000 00000000 00000000",
-            "title": "[One Hit Kill]"
-        }
-    ]
+    "90EBCB0FD4322E45": {
+        "[Inf HP]": "[Inf HP]\n580F0000 0259F6A0\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000068\n780F0000 000000DC\n640F0000 00000000 0001869F\n\n",
+        "[Speed Up]": "[Speed Up]\n580F0000 0259F6A0\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000068\n780F0000 000000C8\n640F0000 00000000 40800000\n\n",
+        "[One Hit Kill]": "[One Hit Kill]\n580F0000 0259F6A0\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000080\n780F0000 000000DC\n640F0000 00000000 00000000\n\n"
+    },
+    "attribution": {
+        "Tiny Gladiators ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

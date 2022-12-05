@@ -1,12 +1,9 @@
 {
-    "72971EF198D7792B": [
-        {
-            "content": "[9999999 money]\n580F0000 06B723D8\n780F0000 00000650\n640F0000 00000000 0098967F\n\n",
-            "title": "[9999999 money]"
-        },
-        {
-            "content": "[9999999 xp]\n580F0000 06B723D8\n780F0000 00000654\n640F0000 00000000 0098967F",
-            "title": "[9999999 xp]"
-        }
-    ]
+    "72971EF198D7792B": {
+        "[9999999 money]": "[9999999 money]\n580F0000 06B723D8\n780F0000 00000650\n640F0000 00000000 0098967F\n\n",
+        "[9999999 xp]": "[9999999 xp]\n580F0000 06B723D8\n780F0000 00000654\n640F0000 00000000 0098967F\n\n"
+    },
+    "attribution": {
+        "Super Street Racer Version 1.0.0 by smoker1.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
+    }
 }

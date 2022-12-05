@@ -1,54 +1,21 @@
 {
-    "08171DEA7E990225": [
-        {
-            "content": "[Inf Lives]\n580F0000 00B41B58\n580F1000 00000228\n780F0000 00000090\n640F0000 00000000 0000270F\n\n",
-            "title": "[Inf Lives]"
-        },
-        {
-            "content": "[Inf HP]\n580F0000 00B41B58\n580F1000 00000228\n780F0000 0000009C\n300E0000 00000019\n640F0000 00000000 44000000\n780F0000 00000004\n310E0000\n20000000\n\n",
-            "title": "[Inf HP]"
-        },
-        {
-            "content": "[Max SP (OFF -)]\n580F0000 00B41B58\n580F1000 00000228\n780F0000 0000011C\n680F0000 0000270F 0000270F\n80000800\n680F0000 00000000 00000000\n20000000\n\n",
-            "title": "[Max SP (OFF -)]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 00B42708\n580F1000 00000000\n580F1000 000000A8\n780F0000 00000024\n640F0000 00000000 50000000\n\n",
-            "title": "[Invincible]"
-        },
-        {
-            "content": "[UP (Hold ZL)]\n580F0000 00B42708\n580F1000 00000038\n580F1000 00000108\n780F0000 000000F4\n640F0000 00000000 3F800000\n80000100\n640F0000 00000000 40400000\n20000000",
-            "title": "[UP (Hold ZL)]"
-        }
-    ],
-    "D6E8F00F5475ED38": [
-        {
-            "content": "[hp inf ON]\n040B0000 005EC0E8 BD430D00\n\n",
-            "title": "[hp inf ON]"
-        },
-        {
-            "content": "[hp inf OFF]\n040B0000 005EC0E8 BD42CD00\n\n",
-            "title": "[hp inf OFF]"
-        },
-        {
-            "content": "[mp inf ON]\n040B0000 0061DA10 4B1F0293\n040B0000 0061DB34 4B1F0293\n\n",
-            "title": "[mp inf ON]"
-        },
-        {
-            "content": "[mp inf OFF]\n040B0000 0061DA10 4B130293\n040B0000 0061DB34 4B130293\n\n",
-            "title": "[mp inf OFF]"
-        },
-        {
-            "content": "[hp max]\n040B0000 005EC044 52800C80\n\n",
-            "title": "[hp max]"
-        },
-        {
-            "content": "[invincible after take dmg ZL ON]\n80000100\n040B0000 0061EF90 1E261001\n20000000\n\n",
-            "title": "[invincible after take dmg ZL ON]"
-        },
-        {
-            "content": "[invincible after take dmg ZR OFF]\n80000200\n040B0000 0061EF90 BD4AC2C1\n20000000\n",
-            "title": "[invincible after take dmg ZR OFF]"
-        }
-    ]
+    "08171DEA7E990225": {
+        "[Inf Lives]": "[Inf Lives]\n580F0000 00B41B58\n580F1000 00000228\n780F0000 00000090\n640F0000 00000000 0000270F\n\n",
+        "[Inf HP]": "[Inf HP]\n580F0000 00B41B58\n580F1000 00000228\n780F0000 0000009C\n300E0000 00000019\n640F0000 00000000 44000000\n780F0000 00000004\n310E0000\n20000000\n\n",
+        "[Max SP (OFF -)]": "[Max SP (OFF -)]\n580F0000 00B41B58\n580F1000 00000228\n780F0000 0000011C\n680F0000 0000270F 0000270F\n80000800\n680F0000 00000000 00000000\n20000000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 00B42708\n580F1000 00000000\n580F1000 000000A8\n780F0000 00000024\n640F0000 00000000 50000000\n\n",
+        "[UP (Hold ZL)]": "[UP (Hold ZL)]\n580F0000 00B42708\n580F1000 00000038\n580F1000 00000108\n780F0000 000000F4\n640F0000 00000000 3F800000\n80000100\n640F0000 00000000 40400000\n20000000\n\n"
+    },
+    "D6E8F00F5475ED38": {
+        "[hp inf ON]": "[hp inf ON]\n040B0000 005EC0E8 BD430D00\n\n",
+        "[hp inf OFF]": "[hp inf OFF]\n040B0000 005EC0E8 BD42CD00\n\n",
+        "[mp inf ON]": "[mp inf ON]\n040B0000 0061DA10 4B1F0293\n040B0000 0061DB34 4B1F0293\n\n",
+        "[mp inf OFF]": "[mp inf OFF]\n040B0000 0061DA10 4B130293\n040B0000 0061DB34 4B130293\n\n",
+        "[hp max]": "[hp max]\n040B0000 005EC044 52800C80\n\n",
+        "[invincible after take dmg ZL ON]": "[invincible after take dmg ZL ON]\n80000100\n040B0000 0061EF90 1E261001\n20000000\n\n",
+        "[invincible after take dmg ZR OFF]": "[invincible after take dmg ZR OFF]\n80000200\n040B0000 0061EF90 BD4AC2C1\n20000000\n\n"
+    },
+    "attribution": {
+        "Bloodstained Curse of the Moon 2 ver 1.0.0 by ZiT ver 1.1.0 translated by felonious.txt": "\u203b Valid for DATA01 only."
+    }
 }

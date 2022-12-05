@@ -1,12 +1,9 @@
 {
-    "3040B326C1E01843": [
-        {
-            "content": "[Inf Heart]\n580F0000 0207F9D0\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000158\n780F0000 00000070\n640F0000 00000000 00000010\n\n",
-            "title": "[Inf Heart]"
-        },
-        {
-            "content": "[Invincible]\n580F0000 0207F9D0\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000158\n780F0000 00000030\n640F0000 00000000 40000000",
-            "title": "[Invincible]"
-        }
-    ]
+    "3040B326C1E01843": {
+        "[Inf Heart]": "[Inf Heart]\n580F0000 0207F9D0\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000158\n780F0000 00000070\n640F0000 00000000 00000010\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 0207F9D0\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000158\n780F0000 00000030\n640F0000 00000000 40000000\n\n"
+    },
+    "attribution": {
+        "Ittle Dew by ZiT866.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
+    }
 }

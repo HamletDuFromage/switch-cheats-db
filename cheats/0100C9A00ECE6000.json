@@ -1,216 +1,64 @@
 {
-    "EB79EF243458597C": [
-        {
-            "content": "[Tunic Black Mod]\n580F0000 005D20C0\n780F0000 0011ADF0\n620F0000 00000000 00000014\n\n",
-            "title": "[Tunic Black Mod]"
-        },
-        {
-            "content": "[Tunic White+Hover Mod]\n580F0000 005D20C0\n780F0000 0011ADF0\n620F0000 00000000 00000035\n\n",
-            "title": "[Tunic White+Hover Mod]"
-        },
-        {
-            "content": "[Spawn Dark Link in ToT]\n580F0000 005D20C0\n780F0000 0023EFBF\n610F0000 00000000 00000020\n780F0000 00000006\n610F0000 00000000 00000033\n\n",
-            "title": "[Spawn Dark Link in ToT]"
-        },
-        {
-            "content": "[Purple Swipe]\n580F0000 005D20C0\n780F0000 0011647C\n610F0000 00000000 00000000\n\n",
-            "title": "[Purple Swipe]"
-        },
-        {
-            "content": "[Blue Swipe]\n580F0000 005D20C0\n780F0000 0011647D\n610F0000 00000000 00000000\n\n",
-            "title": "[Blue Swipe]"
-        },
-        {
-            "content": "[White/Purple Swipe]\n580F0000 005D20C0\n780F0000 00116480\n610F0000 00000000 00000000\n\n",
-            "title": "[White/Purple Swipe]"
-        },
-        {
-            "content": "[White/Blue Swipe]\n580F0000 005D20C0\n780F0000 00116481\n610F0000 00000000 00000000\n\n",
-            "title": "[White/Blue Swipe]"
-        },
-        {
-            "content": "[Transparent Swipe]\n580F0000 005D20C0\n780F0000 00116482\n610F0000 00000000 00000000\n\n",
-            "title": "[Transparent Swipe]"
-        },
-        {
-            "content": "[White/Yellow Swipe]\n580F0000 005D20C0\n780F0000 00116483\n610F0000 00000000 00000000\n\n",
-            "title": "[White/Yellow Swipe]"
-        },
-        {
-            "content": "[Light Purple Swipe]\n580F0000 005D20C0\n780F0000 00116484\n610F0000 00000000 00000000\n\n",
-            "title": "[Light Purple Swipe]"
-        },
-        {
-            "content": "[Blue Green Swipe]\n580F0000 005D20C0\n780F0000 00116485\n610F0000 00000000 00000000\n\n",
-            "title": "[Blue Green Swipe]"
-        },
-        {
-            "content": "[White/Green Swipe]\n580F0000 005D20C0\n780F0000 00116489\n610F0000 00000000 00000000\n\n",
-            "title": "[White/Green Swipe]"
-        },
-        {
-            "content": "[Swipes Stay Longer]\n580F0000 005D20C0\n780F0000 0011648C\n610F0000 00000000 0000001F\n\n",
-            "title": "[Swipes Stay Longer]"
-        },
-        {
-            "content": "[Shadow Red Swipes Perm]\n580F0000 005D20C0\n780F0000 0011648C\n640F0000 00000000 000100FF\n\n",
-            "title": "[Shadow Red Swipes Perm]"
-        },
-        {
-            "content": "[Shadow Purple Swipes Perm]\n580F0000 005D20C0\n780F0000 0011648C\n640F0000 00000000 00010000\n\n",
-            "title": "[Shadow Purple Swipes Perm]"
-        },
-        {
-            "content": "[levitate hold L]\n80000040\n580F0000 005D20C0\n780F0000 001DB350\n610F0000 00000000 0000C040\n20000000\n\n",
-            "title": "[levitate hold L]"
-        },
-        {
-            "content": "[All Quest/Status Items]\n580F0000 005D20C0\n780F0000 0011AD24\n640F0000 00000000 FFFFFF00\n\n",
-            "title": "[All Quest/Status Items]"
-        },
-        {
-            "content": "[Have All Equipment]\n580F0000 005D20C0\n780F0000 0011AD1C\n620F0000 00000000 00007777\n\n",
-            "title": "[Have All Equipment]"
-        },
-        {
-            "content": "[20 Hearts + Double Defense]\n580F0000 005D20C0 \n780F0000 0011ACAE \n620F0000 00000000 00004001\n780F0000 00000002\n620F0000 00000000 00004001\n780F0000 0000009F\n610F0000 00000000 00000014\n\n",
-            "title": "[20 Hearts + Double Defense]"
-        },
-        {
-            "content": "[Have Gold Gauntlet+3rdBB+3rdQuiv+Golden scale/Adult Wallet]\n580F0000 005D20C0\n780F0000 0011AD20\n640F0000 00000000 DBE42600\n\n",
-            "title": "[Have Gold Gauntlet+3rdBB+3rdQuiv+Golden scale/Adult Wallet]"
-        },
-        {
-            "content": "[Time of Day Modifier]\n80001000\n580F0000 005D20C0\n780F0000 0011AC8C\n620F0000 00000000 00000040\n20000000\n80002000\n580F0000 005D20C0\n780F0000 0011AC8C\n620F0000 00000000 00000058\n20000000\n80004000\n580F0000 005D20C0\n780F0000 0011AC8C\n620F0000 00000000 00000070\n20000000\n80008000\n580F0000 005D20C0\n780F0000 0011AC8C\n620F0000 00000000 000000C0\n20000000\n80000010\n580F0000 005D20C0\n780F0000 0011AC8C\n620F0000 00000000 000000D0\n20000000\n\n",
-            "title": "[Time of Day Modifier]"
-        },
-        {
-            "content": "[All Items No upgrades]\n580F0000 005D20C0\n780F0000 0011ACF4\n680F0000 07060504 03020100\n780F0000 00000008\n680F0000 11100F0E 0D0C0A09\n780F0000 00000008\n680F0000 28221414 14141312\n\n",
-            "title": "[All Items No upgrades]"
-        },
-        {
-            "content": "[All Items With upgrades]\n580F0000 005D20C0\n780F0000 0011ACF4\n680F0000 08060504 03020100\n780F0000 00000008\n680F0000 11100F0E 0D0C0B09\n780F0000 00000008\n680F0000 28221414 14141312\n\n",
-            "title": "[All Items With upgrades]"
-        },
-        {
-            "content": "[All Items With upgrades + Special Bows]\n580F0000 005D20C0\n780F0000 0011ACF4\n680F0000 08060538 03020100\n780F0000 00000008\n680F0000 11100F0E 0D390B09\n780F0000 00000008\n680F0000 28221414 1414133A\n\n",
-            "title": "[All Items With upgrades + Special Bows]"
-        },
-        {
-            "content": "[500 rupee zelda]\n580F0000 005D20C0 \n780F0000 0011ACB5 \n620F0000 00000000 0000F401 \n\n",
-            "title": "[500 rupee zelda]"
-        },
-        {
-            "content": "[Ocarina Sound Mod Harp]\n580F0000 005D20C0\n780F0000 0010284C\n610F0000 00000000 00000004\n\n",
-            "title": "[Ocarina Sound Mod Harp]"
-        },
-        {
-            "content": "[Press ZR run very fast]\n80000200\n580F0000 005D20C0\n780F0000 001DBB18\n620F0000 00000000 0000C041\n20000000\n\n",
-            "title": "[Press ZR run very fast]"
-        },
-        {
-            "content": "[Bolero of Fire Warp to Inside Ganon Castle]\n580F0000 005D20C0\n780F0000 0011C015\n610F0000 00000000 00000068\n\n",
-            "title": "[Bolero of Fire Warp to Inside Ganon Castle]"
-        },
-        {
-            "content": "[Minuet of Forest & Serenade of Water Warp to Jabu]\n580F0000 005D20C0\n780F0000 0011C015\n610F0000 00000000 00000015\n\n",
-            "title": "[Minuet of Forest & Serenade of Water Warp to Jabu]"
-        },
-        {
-            "content": "[Prelude of Light & Nocturne of Shadow Warp ST Boss]\n580F0000 005D20C0\n780F0000 0011C015\n610F0000 00000000 000000EB\n\n",
-            "title": "[Prelude of Light & Nocturne of Shadow Warp ST Boss]"
-        },
-        {
-            "content": "[Requiem of Spirit Warp to Child Market]\n580F0000 005D20C0\n780F0000 0011C015\n610F0000 00000000 000000CD\n\n",
-            "title": "[Requiem of Spirit Warp to Child Market]"
-        },
-        {
-            "content": "[Rainbow Tunic]\n58080000 005D20C0 \n78080000 001DB42C \n300E0000 0000003B \n30AA0000 00007200 \n31AA0000 \nA1E80000 \n310E0000 \n\n",
-            "title": "[Rainbow Tunic]"
-        },
-        {
-            "content": "[widescreen hack]\n580F0000 005D20C0 \n400C0000 00000000 00025188 \n620C01F0 00000000 00000224 \n400C0000 00000000 00092718 \n640C01F0 00000000 E33F073C \n\n",
-            "title": "[widescreen hack]"
-        },
-        {
-            "content": "[Enable widescreen before game launching]\n20000000\n\n",
-            "title": "[Enable widescreen before game launching]"
-        },
-        {
-            "content": "[age child ZR+A]\n80000201 \n580F0000 005D20C0 \n780F0000 0011AC87 \n610F0000 00000000 00000001 \n\n",
-            "title": "[age child ZR+A]"
-        },
-        {
-            "content": "[age adult ZR+A]\n80000201 \n580F0000 005D20C0 \n780F0000 0011AC87 \n610F0000 00000000 00000000 \n\n",
-            "title": "[age adult ZR+A]"
-        },
-        {
-            "content": "[Max Heart Containers]\n580F0000 005D20C0\n780F0000 0011ACAE\n620F0000 00000000 00004001\n\n",
-            "title": "[Max Heart Containers]"
-        },
-        {
-            "content": "[Max Hearts]\n580F0000 005D20C0\n780F0000 0011ACB0\n620F0000 00000000 00004001\n\n",
-            "title": "[Max Hearts]"
-        },
-        {
-            "content": "[inf magic (nu)]\n580F0000 005D20C0\n400C0000 00000000 0011ACBA\n610C01F0 00000000 00000001\n400C0000 00000000 0011ACB3\n610C01F0 00000000 00000030\n\n",
-            "title": "[inf magic (nu)]"
-        },
-        {
-            "content": "[Nuts]\n580F0000 005D20C0\n780F0000 0011AD0C\n610F0000 00000000 00000063\n\n",
-            "title": "[Nuts]"
-        },
-        {
-            "content": "[Sticks]\n580F0000 005D20C0\n780F0000 0011AD0D\n610F0000 00000000 00000063\n\n",
-            "title": "[Sticks]"
-        },
-        {
-            "content": "[Bombs]\n580F0000 005D20C0\n780F0000 0011AD0E\n610F0000 00000000 00000063\n\n",
-            "title": "[Bombs]"
-        },
-        {
-            "content": "[Arrows]\n580F0000 005D20C0\n780F0000 0011AD0F\n610F0000 00000000 00000063\n\n",
-            "title": "[Arrows]"
-        },
-        {
-            "content": "[Seeds]\n580F0000 005D20C0\n780F0000 0011AD12\n610F0000 00000000 00000063\n\n",
-            "title": "[Seeds]"
-        },
-        {
-            "content": "[Bombachus]\n580F0000 005D20C0\n780F0000 0011AD14\n610F0000 00000000 00000063\n\n",
-            "title": "[Bombachus]"
-        },
-        {
-            "content": "[Magic Beans]\n580F0000 005D20C0\n780F0000 0011AD19\n610F0000 00000000 00000063\n\n",
-            "title": "[Magic Beans]"
-        },
-        {
-            "content": "[inf hover boots]\n580F0000 005D20C0\n780F0000 001DBB73\n610F0000 00000000 0000000D\n\n",
-            "title": "[inf hover boots]"
-        },
-        {
-            "content": "[low gravity ]\n580F0000 005D20C0\n780F0000 001DB35C\n640F0000 00000000 CDCCCC3D\n\n",
-            "title": "[low gravity ]"
-        },
-        {
-            "content": "[All Equipment is equip-able ZR+A]\n80000201\n580F0000 005D20C0\n400C0000 00000000 0011ACBE\n610C01F0 00000000 00000001\n400C0000 00000000 0011AD1C\n620C01F0 00000000 00007777\n400C0000 00000000 0039F8DD\n610C01F0 00000000 00000009\n400C0000 00000000 0039F8DE\n620C01F0 00000000 00000909\n400C0000 00000000 0039F8E1\n610C01F0 00000000 00000009\n400C0000 00000000 0039F8E2\n620C01F0 00000000 00000909\n400C0000 00000000 0039F8E6\n620C01F0 00000000 00000909\n400C0000 00000000 0039F8EA\n620C01F0 00000000 00000909\n20000000\n\n",
-            "title": "[All Equipment is equip-able ZR+A]"
-        },
-        {
-            "content": "[Sage Mode(always sees truth)]\n580F0000 005D20C0\n780F0000 001CA987\n80000020\n610F0000 00000000 00000001\n20000000\n80000010\n610F0000 00000000 00000000\n20000000\n\n",
-            "title": "[Sage Mode(always sees truth)]"
-        },
-        {
-            "content": "[Disable timers]\n580F0000 005D20C0\n400C0000 00000000 0011C053\n620C01F0 00000000 00000000\n400C0000 00000000 0011C04F\n620C01F0 00000000 00000000\n\n",
-            "title": "[Disable timers]"
-        },
-        {
-            "content": "[Hookshot Anywhere]\n580F0000 005D20C0\n780F0000 00034CEC\n680F0000 01000024 00240200\n\n",
-            "title": "[Hookshot Anywhere]"
-        },
-        {
-            "content": "{Credit to Arismendy64/Gamerjin/SkyQueen/Rheir}\n20000000",
-            "title": "{Credit to Arismendy64/Gamerjin/SkyQueen/Rheir}"
-        }
-    ]
+    "8F75C9F4201839A9": {
+        "[NSO N64 - 30 fps]": "[NSO N64 - 30 fps]\n08100000 78891F24 00000000 00000002\n\n",
+        "[NSO N64 - 60 fps (default)]": "[NSO N64 - 60 fps (default)]\n08100000 78891F24 00000000 00000001\n\n"
+    },
+    "attribution": {
+        "Nintendo64 nso Zelda by Arismendy64.txt": "Note: Better use NOEXES to avoid game lag"
+    },
+    "EB79EF243458597C": {
+        "[Tunic Black Mod]": "[Tunic Black Mod]\n580F0000 005D20C0\n780F0000 0011ADF0\n620F0000 00000000 00000014\n\n",
+        "[Tunic White+Hover Mod]": "[Tunic White+Hover Mod]\n580F0000 005D20C0\n780F0000 0011ADF0\n620F0000 00000000 00000035\n\n",
+        "[Spawn Dark Link in ToT]": "[Spawn Dark Link in ToT]\n580F0000 005D20C0\n780F0000 0023EFBF\n610F0000 00000000 00000020\n780F0000 00000006\n610F0000 00000000 00000033\n\n",
+        "[Purple Swipe]": "[Purple Swipe]\n580F0000 005D20C0\n780F0000 0011647C\n610F0000 00000000 00000000\n\n",
+        "[Blue Swipe]": "[Blue Swipe]\n580F0000 005D20C0\n780F0000 0011647D\n610F0000 00000000 00000000\n\n",
+        "[White/Purple Swipe]": "[White/Purple Swipe]\n580F0000 005D20C0\n780F0000 00116480\n610F0000 00000000 00000000\n\n",
+        "[White/Blue Swipe]": "[White/Blue Swipe]\n580F0000 005D20C0\n780F0000 00116481\n610F0000 00000000 00000000\n\n",
+        "[Transparent Swipe]": "[Transparent Swipe]\n580F0000 005D20C0\n780F0000 00116482\n610F0000 00000000 00000000\n\n",
+        "[White/Yellow Swipe]": "[White/Yellow Swipe]\n580F0000 005D20C0\n780F0000 00116483\n610F0000 00000000 00000000\n\n",
+        "[Light Purple Swipe]": "[Light Purple Swipe]\n580F0000 005D20C0\n780F0000 00116484\n610F0000 00000000 00000000\n\n",
+        "[Blue Green Swipe]": "[Blue Green Swipe]\n580F0000 005D20C0\n780F0000 00116485\n610F0000 00000000 00000000\n\n",
+        "[White/Green Swipe]": "[White/Green Swipe]\n580F0000 005D20C0\n780F0000 00116489\n610F0000 00000000 00000000\n\n",
+        "[Swipes Stay Longer]": "[Swipes Stay Longer]\n580F0000 005D20C0\n780F0000 0011648C\n610F0000 00000000 0000001F\n\n",
+        "[Shadow Red Swipes Perm]": "[Shadow Red Swipes Perm]\n580F0000 005D20C0\n780F0000 0011648C\n640F0000 00000000 000100FF\n\n",
+        "[Shadow Purple Swipes Perm]": "[Shadow Purple Swipes Perm]\n580F0000 005D20C0\n780F0000 0011648C\n640F0000 00000000 00010000\n\n",
+        "[levitate hold L]": "[levitate hold L]\n80000040\n580F0000 005D20C0\n780F0000 001DB350\n610F0000 00000000 0000C040\n20000000\n\n",
+        "[All Quest/Status Items]": "[All Quest/Status Items]\n580F0000 005D20C0\n780F0000 0011AD24\n640F0000 00000000 FFFFFF00\n\n",
+        "[Have All Equipment]": "[Have All Equipment]\n580F0000 005D20C0\n780F0000 0011AD1C\n620F0000 00000000 00007777\n\n",
+        "[20 Hearts + Double Defense]": "[20 Hearts + Double Defense]\n580F0000 005D20C0 \n780F0000 0011ACAE \n620F0000 00000000 00004001\n780F0000 00000002\n620F0000 00000000 00004001\n780F0000 0000009F\n610F0000 00000000 00000014\n\n",
+        "[Have Gold Gauntlet+3rdBB+3rdQuiv+Golden scale/Adult Wallet]": "[Have Gold Gauntlet+3rdBB+3rdQuiv+Golden scale/Adult Wallet]\n580F0000 005D20C0\n780F0000 0011AD20\n640F0000 00000000 DBE42600\n\n",
+        "[Time of Day Modifier]": "[Time of Day Modifier]\n80001000\n580F0000 005D20C0\n780F0000 0011AC8C\n620F0000 00000000 00000040\n20000000\n80002000\n580F0000 005D20C0\n780F0000 0011AC8C\n620F0000 00000000 00000058\n20000000\n80004000\n580F0000 005D20C0\n780F0000 0011AC8C\n620F0000 00000000 00000070\n20000000\n80008000\n580F0000 005D20C0\n780F0000 0011AC8C\n620F0000 00000000 000000C0\n20000000\n80000010\n580F0000 005D20C0\n780F0000 0011AC8C\n620F0000 00000000 000000D0\n20000000\n\n",
+        "[All Items No upgrades]": "[All Items No upgrades]\n580F0000 005D20C0\n780F0000 0011ACF4\n680F0000 07060504 03020100\n780F0000 00000008\n680F0000 11100F0E 0D0C0A09\n780F0000 00000008\n680F0000 28221414 14141312\n\n",
+        "[All Items With upgrades]": "[All Items With upgrades]\n580F0000 005D20C0\n780F0000 0011ACF4\n680F0000 08060504 03020100\n780F0000 00000008\n680F0000 11100F0E 0D0C0B09\n780F0000 00000008\n680F0000 28221414 14141312\n\n",
+        "[All Items With upgrades + Special Bows]": "[All Items With upgrades + Special Bows]\n580F0000 005D20C0\n780F0000 0011ACF4\n680F0000 08060538 03020100\n780F0000 00000008\n680F0000 11100F0E 0D390B09\n780F0000 00000008\n680F0000 28221414 1414133A\n\n",
+        "[500 rupee zelda]": "[500 rupee zelda]\n580F0000 005D20C0 \n780F0000 0011ACB5 \n620F0000 00000000 0000F401\n\n",
+        "[Ocarina Sound Mod Harp]": "[Ocarina Sound Mod Harp]\n580F0000 005D20C0\n780F0000 0010284C\n610F0000 00000000 00000004\n\n",
+        "[Press ZR run very fast]": "[Press ZR run very fast]\n80000200\n580F0000 005D20C0\n780F0000 001DBB18\n620F0000 00000000 0000C041\n20000000\n\n",
+        "[Bolero of Fire Warp to Inside Ganon Castle]": "[Bolero of Fire Warp to Inside Ganon Castle]\n580F0000 005D20C0\n780F0000 0011C015\n610F0000 00000000 00000068\n\n",
+        "[Minuet of Forest & Serenade of Water Warp to Jabu]": "[Minuet of Forest & Serenade of Water Warp to Jabu]\n580F0000 005D20C0\n780F0000 0011C015\n610F0000 00000000 00000015\n\n",
+        "[Prelude of Light & Nocturne of Shadow Warp ST Boss]": "[Prelude of Light & Nocturne of Shadow Warp ST Boss]\n580F0000 005D20C0\n780F0000 0011C015\n610F0000 00000000 000000EB\n\n",
+        "[Requiem of Spirit Warp to Child Market]": "[Requiem of Spirit Warp to Child Market]\n580F0000 005D20C0\n780F0000 0011C015\n610F0000 00000000 000000CD\n\n",
+        "[Rainbow Tunic]": "[Rainbow Tunic]\n58080000 005D20C0 \n78080000 001DB42C \n300E0000 0000003B \n30AA0000 00007200 \n31AA0000 \nA1E80000 \n310E0000\n\n",
+        "[widescreen hack]": "[widescreen hack]\n580F0000 005D20C0 \n400C0000 00000000 00025188 \n620C01F0 00000000 00000224 \n400C0000 00000000 00092718 \n640C01F0 00000000 E33F073C\n\n",
+        "[Enable widescreen before game launching]": "[Enable widescreen before game launching]\n20000000\n\n",
+        "[age child ZR+A]": "[age child ZR+A]\n80000201 \n580F0000 005D20C0 \n780F0000 0011AC87 \n610F0000 00000000 00000001\n\n",
+        "[age adult ZR+A]": "[age adult ZR+A]\n80000201 \n580F0000 005D20C0 \n780F0000 0011AC87 \n610F0000 00000000 00000000\n\n",
+        "[Max Heart Containers]": "[Max Heart Containers]\n580F0000 005D20C0\n780F0000 0011ACAE\n620F0000 00000000 00004001\n\n",
+        "[Max Hearts]": "[Max Hearts]\n580F0000 005D20C0\n780F0000 0011ACB0\n620F0000 00000000 00004001\n\n",
+        "[inf magic (nu)]": "[inf magic (nu)]\n580F0000 005D20C0\n400C0000 00000000 0011ACBA\n610C01F0 00000000 00000001\n400C0000 00000000 0011ACB3\n610C01F0 00000000 00000030\n\n",
+        "[Nuts]": "[Nuts]\n580F0000 005D20C0\n780F0000 0011AD0C\n610F0000 00000000 00000063\n\n",
+        "[Sticks]": "[Sticks]\n580F0000 005D20C0\n780F0000 0011AD0D\n610F0000 00000000 00000063\n\n",
+        "[Bombs]": "[Bombs]\n580F0000 005D20C0\n780F0000 0011AD0E\n610F0000 00000000 00000063\n\n",
+        "[Arrows]": "[Arrows]\n580F0000 005D20C0\n780F0000 0011AD0F\n610F0000 00000000 00000063\n\n",
+        "[Seeds]": "[Seeds]\n580F0000 005D20C0\n780F0000 0011AD12\n610F0000 00000000 00000063\n\n",
+        "[Bombachus]": "[Bombachus]\n580F0000 005D20C0\n780F0000 0011AD14\n610F0000 00000000 00000063\n\n",
+        "[Magic Beans]": "[Magic Beans]\n580F0000 005D20C0\n780F0000 0011AD19\n610F0000 00000000 00000063\n\n",
+        "[inf hover boots]": "[inf hover boots]\n580F0000 005D20C0\n780F0000 001DBB73\n610F0000 00000000 0000000D\n\n",
+        "[low gravity ]": "[low gravity ]\n580F0000 005D20C0\n780F0000 001DB35C\n640F0000 00000000 CDCCCC3D\n\n",
+        "[All Equipment is equip-able ZR+A]": "[All Equipment is equip-able ZR+A]\n80000201\n580F0000 005D20C0\n400C0000 00000000 0011ACBE\n610C01F0 00000000 00000001\n400C0000 00000000 0011AD1C\n620C01F0 00000000 00007777\n400C0000 00000000 0039F8DD\n610C01F0 00000000 00000009\n400C0000 00000000 0039F8DE\n620C01F0 00000000 00000909\n400C0000 00000000 0039F8E1\n610C01F0 00000000 00000009\n400C0000 00000000 0039F8E2\n620C01F0 00000000 00000909\n400C0000 00000000 0039F8E6\n620C01F0 00000000 00000909\n400C0000 00000000 0039F8EA\n620C01F0 00000000 00000909\n20000000\n\n",
+        "[Sage Mode(always sees truth)]": "[Sage Mode(always sees truth)]\n580F0000 005D20C0\n780F0000 001CA987\n80000020\n610F0000 00000000 00000001\n20000000\n80000010\n610F0000 00000000 00000000\n20000000\n\n",
+        "[Disable timers]": "[Disable timers]\n580F0000 005D20C0\n400C0000 00000000 0011C053\n620C01F0 00000000 00000000\n400C0000 00000000 0011C04F\n620C01F0 00000000 00000000\n\n",
+        "[Hookshot Anywhere]": "[Hookshot Anywhere]\n580F0000 005D20C0\n780F0000 00034CEC\n680F0000 01000024 00240200\n\n",
+        "{Credit to Arismendy64/Gamerjin/SkyQueen/Rheir}": "{Credit to Arismendy64/Gamerjin/SkyQueen/Rheir}\n20000000\n\n"
+    }
 }

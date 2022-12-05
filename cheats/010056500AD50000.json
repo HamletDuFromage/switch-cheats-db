@@ -1,16 +1,10 @@
 {
-    "C4B40301FB00E359": [
-        {
-            "content": "[Moon Jump (Hold ZR)]\n80000200\n58000000 02DA8B18\n58001000 00000550\n78000000 0000018C\n64000000 00000000 C4800000\n20000000\n\n",
-            "title": "[Moon Jump (Hold ZR)]"
-        },
-        {
-            "content": "[Speed Up]\n58000000 02DA8B18\n58001000 00000550\n78000000 000000B4\n64000000 00000000 44600000\n\n",
-            "title": "[Speed Up]"
-        },
-        {
-            "content": "[Invincible]\n58000000 02DA8B18\n58001000 00000550\n78000000 00000300\n64000000 00000000 40000000",
-            "title": "[Invincible]"
-        }
-    ]
+    "C4B40301FB00E359": {
+        "[Moon Jump (Hold ZR)]": "[Moon Jump (Hold ZR)]\n80000200\n58000000 02DA8B18\n58001000 00000550\n78000000 0000018C\n64000000 00000000 C4800000\n20000000\n\n",
+        "[Speed Up]": "[Speed Up]\n58000000 02DA8B18\n58001000 00000550\n78000000 000000B4\n64000000 00000000 44600000\n\n",
+        "[Invincible]": "[Invincible]\n58000000 02DA8B18\n58001000 00000550\n78000000 00000300\n64000000 00000000 40000000\n\n"
+    },
+    "attribution": {
+        "Rogue Legacy by ZiT866.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
+    }
 }

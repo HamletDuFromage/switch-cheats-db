@@ -1,24 +1,12 @@
 {
-    "FE77FFB8CBFB3A5C": [
-        {
-            "content": "[Inf. CP]\n02000000 009C76BC 00000014\n\n",
-            "title": "[Inf. CP]"
-        },
-        {
-            "content": "[Inf. Money]\n04000000 009F1FA4 05F5E0FF\n\n",
-            "title": "[Inf. Money]"
-        },
-        {
-            "content": "[Max Exp]\n04000000 009BAFC0 05F5E0FF\n\n",
-            "title": "[Max Exp]"
-        },
-        {
-            "content": "[Inf. Ammo]\n80000008\n04000000 009CD230 FFFFFFFF\n300E0000 00000045\n08000000 009C77F0 FFFFFFFF FFFFFFFF\n78000000 00000154\n310E0000\n20000000\n20000000\n\n",
-            "title": "[Inf. Ammo]"
-        },
-        {
-            "content": "[Inf. HP]\n04000000 009CD154 0000270F\n300E0000 00000045\n04000000 009C7700 0000270F\n78000000 00000154\n310E0000\n20000000",
-            "title": "[Inf. HP]"
-        }
-    ]
+    "FE77FFB8CBFB3A5C": {
+        "[Inf. CP]": "[Inf. CP]\n02000000 009C76BC 00000014\n\n",
+        "[Inf. Money]": "[Inf. Money]\n04000000 009F1FA4 05F5E0FF\n\n",
+        "[Max Exp]": "[Max Exp]\n04000000 009BAFC0 05F5E0FF\n\n",
+        "[Inf. Ammo]": "[Inf. Ammo]\n80000008\n04000000 009CD230 FFFFFFFF\n300E0000 00000045\n08000000 009C77F0 FFFFFFFF FFFFFFFF\n78000000 00000154\n310E0000\n20000000\n20000000\n\n",
+        "[Inf. HP]": "[Inf. HP]\n04000000 009CD154 0000270F\n300E0000 00000045\n04000000 009C7700 0000270F\n78000000 00000154\n310E0000\n20000000\n\n"
+    },
+    "attribution": {
+        "Valkyria Chronicles ver 1.0.0 by Lionheartwolf.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

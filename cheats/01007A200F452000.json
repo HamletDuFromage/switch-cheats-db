@@ -1,76 +1,25 @@
 {
-    "97364795CC407A15": [
-        {
-            "content": "{Book Of Demon v1.0.0}\n580F0000 00C524B8\n580F1000 000001B8\n780F0000 00000200\n\n",
-            "title": "{Book Of Demon v1.0.0}"
-        },
-        {
-            "content": "[Max Gold]\n640F0000 00000000 0098967F\n\n",
-            "title": "[Max Gold]"
-        },
-        {
-            "content": "[Inf Health]\n400E0000 00000000 00000052\n640E01F0 00000000 03E703E7\n\n",
-            "title": "[Inf Health]"
-        },
-        {
-            "content": "[Inf Mana]\n400E0000 00000000 00000056\n640E01F0 00000000 03E703E7\n\n",
-            "title": "[Inf Mana]"
-        },
-        {
-            "content": "[No 1st spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000B0\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
-            "title": "[No 1st spot cooldown]"
-        },
-        {
-            "content": "[No 2nd spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000B8\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
-            "title": "[No 2nd spot cooldown]"
-        },
-        {
-            "content": "[No 3rd spell cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000C0\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
-            "title": "[No 3rd spell cooldown]"
-        },
-        {
-            "content": "[No 4th spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000C8\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
-            "title": "[No 4th spot cooldown]"
-        },
-        {
-            "content": "[No 5th spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000D0\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
-            "title": "[No 5th spot cooldown]"
-        },
-        {
-            "content": "[No 6th spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000D8\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
-            "title": "[No 6th spot cooldown]"
-        },
-        {
-            "content": "[No 7th spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000E0\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
-            "title": "[No 7th spot cooldown]"
-        },
-        {
-            "content": "[No 8th spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000E8\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
-            "title": "[No 8th spot cooldown]"
-        },
-        {
-            "content": "[No 9th spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000F0\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
-            "title": "[No 9th spot cooldown]"
-        },
-        {
-            "content": "[No 10th spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000F8\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
-            "title": "[No 10th spot cooldown]"
-        },
-        {
-            "content": "[*Inf Hp ]\n580F0000 00C5D3C8\n580F1000 00000188\n580F1000 00000018\n780F0000 000000A4\n640F0000 00000000 03780378\n\n",
-            "title": "[*Inf Hp ]"
-        },
-        {
-            "content": "[*Inf Mp ]\n580F0000 00C5D3C8\n580F1000 00000188\n580F1000 00000018\n780F0000 000000A0\n640F0000 00000000 03780378\n\n",
-            "title": "[*Inf Mp ]"
-        },
-        {
-            "content": "[*Exp 88888]\n580F0000 00C5D3C8\n580F1000 00000188\n580F1000 00000018\n780F0000 000000AC\n640F0000 00000000 00015B38\n\n",
-            "title": "[*Exp 88888]"
-        },
-        {
-            "content": "[*Inf Money]\n580F0000 00C5D3C8\n580F1000 00000188\n580F1000 00000018\n780F0000 00000050\n640F0000 00000000 0087A238",
-            "title": "[*Inf Money]"
-        }
-    ]
+    "97364795CC407A15": {
+        "{Book Of Demon v1.0.0}": "{Book Of Demon v1.0.0}\n580F0000 00C524B8\n580F1000 000001B8\n780F0000 00000200\n\n",
+        "[Max Gold]": "[Max Gold]\n640F0000 00000000 0098967F\n\n",
+        "[Inf Health]": "[Inf Health]\n400E0000 00000000 00000052\n640E01F0 00000000 03E703E7\n\n",
+        "[Inf Mana]": "[Inf Mana]\n400E0000 00000000 00000056\n640E01F0 00000000 03E703E7\n\n",
+        "[No 1st spot cooldown]": "[No 1st spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000B0\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
+        "[No 2nd spot cooldown]": "[No 2nd spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000B8\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
+        "[No 3rd spell cooldown]": "[No 3rd spell cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000C0\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
+        "[No 4th spot cooldown]": "[No 4th spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000C8\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
+        "[No 5th spot cooldown]": "[No 5th spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000D0\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
+        "[No 6th spot cooldown]": "[No 6th spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000D8\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
+        "[No 7th spot cooldown]": "[No 7th spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000E0\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
+        "[No 8th spot cooldown]": "[No 8th spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000E8\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
+        "[No 9th spot cooldown]": "[No 9th spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000F0\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
+        "[No 10th spot cooldown]": "[No 10th spot cooldown]\n580A0000 00C524B8\n580A1000 000001B8\n580A1000 000000F8\n780A0000 000000A0\n640A0000 00000000 00000000\n\n",
+        "[*Inf Hp ]": "[*Inf Hp ]\n580F0000 00C5D3C8\n580F1000 00000188\n580F1000 00000018\n780F0000 000000A4\n640F0000 00000000 03780378\n\n",
+        "[*Inf Mp ]": "[*Inf Mp ]\n580F0000 00C5D3C8\n580F1000 00000188\n580F1000 00000018\n780F0000 000000A0\n640F0000 00000000 03780378\n\n",
+        "[*Exp 88888]": "[*Exp 88888]\n580F0000 00C5D3C8\n580F1000 00000188\n580F1000 00000018\n780F0000 000000AC\n640F0000 00000000 00015B38\n\n",
+        "[*Inf Money]": "[*Inf Money]\n580F0000 00C5D3C8\n580F1000 00000188\n580F1000 00000018\n780F0000 00000050\n640F0000 00000000 0087A238\n\n"
+    },
+    "attribution": {
+        "Books of Demons ver 1.0.0 by Jericoss.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
 }

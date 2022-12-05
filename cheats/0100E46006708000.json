@@ -1,220 +1,64 @@
 {
-    "0A22A4322335834D": [
-        {
-            "content": "{Mastercode}\n04000000 003F3CE8 14000045\n04000000 003D6EB0 F81D0FF5\n04000000 003D6EB4 A9014FF4\n04000000 003F6A14 71000508\n04000000 003A28A0 D10483FF\n04000000 003B360C 51000D16\n04000000 003B3610 11000908\n04000000 003B361C 1100112A\n04000000 003B3620 51001129\n04000000 0040B530 A9BD57F6\n04000000 0040B534 A9014FF4\n04000000 00758BD0 4B140108\n04000000 003E1850 D10783FF\n04000000 00394A10 6DB733ED\n04000000 000BC85C 2A0103F9\n\n",
-            "title": "{Mastercode}"
-        },
-        {
-            "content": "[01# Infinite Mana]\n04000000 003F3CE8 14000045\n04000000 003D6EB0 320003E0\n04000000 003D6EB4 D65F03C0\n\n",
-            "title": "[01# Infinite Mana]"
-        },
-        {
-            "content": "[02# Infinite Ammo]\n04000000 003F6A14 31000508\n\n",
-            "title": "[02# Infinite Ammo]"
-        },
-        {
-            "content": "[03# Infinite Oxygen]\n04000000 003A28A0 D65F03C0\n\n",
-            "title": "[03# Infinite Oxygen]"
-        },
-        {
-            "content": "[04# Max Crafting Range 30 tiles]\n04000000 003B360C 51007916\n04000000 003B3610 11007508\n04000000 003B361C 1100792A\n04000000 003B3620 51007929\n\n",
-            "title": "[04# Max Crafting Range 30 tiles]"
-        },
-        {
-            "content": "[04# Max Crafting Range 60 tiles]\n04000000 003B360C 5100F116\n04000000 003B3610 1100ED08\n04000000 003B361C 1100F12A\n04000000 003B3620 5100F129\n\n",
-            "title": "[04# Max Crafting Range 60 tiles]"
-        },
-        {
-            "content": "[05# High Build Range]\n04000000 0040B530 52800280\n04000000 0040B534 D65F03C0\n\n",
-            "title": "[05# High Build Range]"
-        },
-        {
-            "content": "[06# Add item with ZL]\n04000000 00758BD0 0B1402C8\n\n",
-            "title": "[06# Add item with ZL]"
-        },
-        {
-            "content": "[07# No contact]\n04000000 003E1850 D65F03C0\n\n",
-            "title": "[07# No contact]"
-        },
-        {
-            "content": "[08# debuff immunity]\n04000000 00394A10 D65F03C0\n\n",
-            "title": "[08# debuff immunity]"
-        },
-        {
-            "content": "[09# One Hit Kill]\n04000000 000BC85C 5284E1F9\n\n",
-            "title": "[09# One Hit Kill]"
-        },
-        {
-            "content": "[10# Inf Jump]\n80000100\n580F0000 04143D18\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000090\n780F0000 0000002C\n640F0000 00000000 C0A00000\n20000000\n\n",
-            "title": "[10# Inf Jump]"
-        },
-        {
-            "content": "[11# Invincible]\n580F0000 04143D18\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000090\n780F0000 00000300\n640F0000 00000000 00000020\n\n",
-            "title": "[11# Invincible]"
-        },
-        {
-            "content": "[10# tile Instant break]\n04000000 007CDB70 D65F03C0",
-            "title": "[10# tile Instant break]"
-        }
-    ],
-    "877A4236C64B0E4E": [
-        {
-            "content": "[01# Infinite Mana]\n04000000 003EFCA8 14000045\n04000000 003D2E70 320003E0\n04000000 003D2E74 D65F03C0\n\n",
-            "title": "[01# Infinite Mana]"
-        },
-        {
-            "content": "[02# Infinite Ammo]\n04000000 003F29D4 31000508\n\n",
-            "title": "[02# Infinite Ammo]"
-        },
-        {
-            "content": "[03# Infinite Oxygen]\n04000000 0039E880 D65F03C0\n\n",
-            "title": "[03# Infinite Oxygen]"
-        },
-        {
-            "content": "[04# Max Crafting Range 30 tiles]\n04000000 003B360C 51007916\n04000000 003AF610 11007508\n04000000 003AF61C 1100792A\n04000000 003AF620 51007929\n\n",
-            "title": "[04# Max Crafting Range 30 tiles]"
-        },
-        {
-            "content": "[05# High Build Range]\n04000000 00407510 52800280\n04000000 00407514 D65F03C0\n\n",
-            "title": "[05# High Build Range]"
-        },
-        {
-            "content": "[06# Add item with ZL]\n04000000 0073D640 0B1402C8\n\n",
-            "title": "[06# Add item with ZL]"
-        },
-        {
-            "content": "[07# No contact]\n04000000 003E1850 D65F03C0\n\n",
-            "title": "[07# No contact]"
-        },
-        {
-            "content": "[08# debuff immunity]\n04000000 003DD810 D65F03C0\n\n",
-            "title": "[08# debuff immunity]"
-        },
-        {
-            "content": "[09# One Hit Kill]\n04000000 000B86FC 5284E1F9\n\n",
-            "title": "[09# One Hit Kill]"
-        },
-        {
-            "content": "[10# tile Instant break]\n04000000 007CDD30 D65F03C0\n\n",
-            "title": "[10# tile Instant break]"
-        },
-        {
-            "content": "[10# Inf Jump]\n80000100\n580F0000 0414BD00\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000090\n780F0000 0000002C\n640F0000 00000000 C0A00000\n20000000\n\n",
-            "title": "[10# Inf Jump]"
-        },
-        {
-            "content": "[11# Invincible]\n580F0000 0414BD00\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000090\n780F0000 00000300\n640F0000 00000000 00000020",
-            "title": "[11# Invincible]"
-        }
-    ],
-    "A85426058506934F": [
-        {
-            "content": "[HP]\n58000000 056F7BE8\n58001000 000000B0\n58001000 00000068\n78000000 000005CC\n64000000 00000000 000001F4\n\n",
-            "title": "[HP]"
-        },
-        {
-            "content": "[Mana]\n58000000 056F7BE8\n58001000 000000B0\n58001000 00000068\n78000000 000005D0\n64000000 00000000 000000C8\n\n",
-            "title": "[Mana]"
-        },
-        {
-            "content": "[01# Infinite Mana (On)]\n04000000 004C75F4 14000047\n04000000 004E2120 320003E0\n04000000 004E2124 D65F03C0\n\n",
-            "title": "[01# Infinite Mana (On)]"
-        },
-        {
-            "content": "[Infinite Mana (Off)]\n04000000 004C75F4 54000061\n04000000 004E2120 F81D0FF5\n04000000 004E2124 A9014FF4\n\n",
-            "title": "[Infinite Mana (Off)]"
-        },
-        {
-            "content": "[02# Infinite Ammo (On)]\n04000000 004CAE90 31000508\n\n",
-            "title": "[02# Infinite Ammo (On)]"
-        },
-        {
-            "content": "[Infinite Ammo (Off)]\n04000000 004CAE90 71000508\n\n",
-            "title": "[Infinite Ammo (Off)]"
-        },
-        {
-            "content": "[03# Infinite Oxygen (On)]\n04000000 00454DE0 D65F03C0\n\n",
-            "title": "[03# Infinite Oxygen (On)]"
-        },
-        {
-            "content": "[Infinite Oxygen (Off)]\n04000000 00454DE0 D10603FF\n\n",
-            "title": "[Infinite Oxygen (Off)]"
-        },
-        {
-            "content": "[04# No Damage (On)]\n04000000 004ACD80 D503201F\n\n",
-            "title": "[04# No Damage (On)]"
-        },
-        {
-            "content": "[No Damage (Off)]\n04000000 004ACD80 4B090108\n\n",
-            "title": "[No Damage (Off)]"
-        },
-        {
-            "content": "[05# Max Crafting Range (On)]\n04000000 00471050 51007917\n04000000 00471054 11007508\n04000000 00471068 51007929\n04000000 00471064 1100792A\n\n",
-            "title": "[05# Max Crafting Range (On)]"
-        },
-        {
-            "content": "[Max Crafting Range (Off)]\n04000000 00471050 51000D17\n04000000 00471054 11000908\n04000000 00471068 51001129\n04000000 00471064 1100112A\n\n",
-            "title": "[Max Crafting Range (Off)]"
-        },
-        {
-            "content": "[06# High Build Range (On)]\n04000000 004E6340 528003C0\n04000000 004E6344 D65F03C0\n\n",
-            "title": "[06# High Build Range (On)]"
-        },
-        {
-            "content": "[High Build Range (Off)]\n04000000 004E6340 A9BC5FF8\n04000000 004E6344 A90157F6\n\n",
-            "title": "[High Build Range (Off)]"
-        },
-        {
-            "content": "[07# Add item with ZL (on)]\n04000000 007AFD24 0B1402C8\n04000000 007B0158 0B1402C8\n\n",
-            "title": "[07# Add item with ZL (on)]"
-        },
-        {
-            "content": "[Add item with ZL (off)]\n04000000 007AFD24 4B1402C8\n04000000 007B0158 4B1402C8\n\n",
-            "title": "[Add item with ZL (off)]"
-        },
-        {
-            "content": "[08# No contact(On)]\n04000000 00416890 D65F03C0\n\n",
-            "title": "[08# No contact(On)]"
-        },
-        {
-            "content": "[No contact(Off)]\n04000000 00416890 D103C3FF\n\n",
-            "title": "[No contact(Off)]"
-        },
-        {
-            "content": "[09# debuff immunity (On)]\n04000000 00441FE0 D65F03C0\n\n",
-            "title": "[09# debuff immunity (On)]"
-        },
-        {
-            "content": "[debuff immunity (Off)]\n04000000 00441FE0 6DB733ED\n\n",
-            "title": "[debuff immunity (Off)]"
-        },
-        {
-            "content": "[10# One Hit Kill (On)]\n04000000 0012160C 5284E1F9\n\n",
-            "title": "[10# One Hit Kill (On)]"
-        },
-        {
-            "content": "[One Hit Kill (Off)]\n04000000 0012160C 2A0103F9\n\n",
-            "title": "[One Hit Kill (Off)]"
-        },
-        {
-            "content": "[11# Inf Jump]\n580F0000 040729D8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000090\n780F0000 0000002C\n640F0000 00000000 C0A00000\n\n",
-            "title": "[11# Inf Jump]"
-        },
-        {
-            "content": "[12# Invincible]\n580F0000 040729D8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000090\n780F0000 00000300\n640F0000 00000000 00000020\n\n",
-            "title": "[12# Invincible]"
-        },
-        {
-            "content": "[13# Inf Oxygen]\n580F0000 040729D8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000090\n780F0000 000003F8\n640F0000 00000000 000000C8\n\n",
-            "title": "[13# Inf Oxygen]"
-        },
-        {
-            "content": "[14# Inf Heart]\n580F0000 040729D8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000090\n780F0000 000005C0\n640F0000 00000000 0000270F\n780F0000 0000000C\n640F0000 00000000 0000270F\n\n",
-            "title": "[14# Inf Heart]"
-        },
-        {
-            "content": "[15# Inf Mana]\n580F0000 040729D8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000090\n780F0000 000005D0\n640F0000 00000000 0000270F\n",
-            "title": "[15# Inf Mana]"
-        }
-    ]
+    "877A4236C64B0E4E": {
+        "[01# Infinite Mana]": "[01# Infinite Mana]\n04000000 003EFCA8 14000045\n04000000 003D2E70 320003E0\n04000000 003D2E74 D65F03C0\n\n",
+        "[02# Infinite Ammo]": "[02# Infinite Ammo]\n04000000 003F29D4 31000508\n\n",
+        "[03# Infinite Oxygen]": "[03# Infinite Oxygen]\n04000000 0039E880 D65F03C0\n\n",
+        "[04# Max Crafting Range 30 tiles]": "[04# Max Crafting Range 30 tiles]\n04000000 003B360C 51007916\n04000000 003AF610 11007508\n04000000 003AF61C 1100792A\n04000000 003AF620 51007929\n\n",
+        "[05# High Build Range]": "[05# High Build Range]\n04000000 00407510 52800280\n04000000 00407514 D65F03C0\n\n",
+        "[06# Add item with ZL]": "[06# Add item with ZL]\n04000000 0073D640 0B1402C8\n\n",
+        "[07# No contact]": "[07# No contact]\n04000000 003E1850 D65F03C0\n\n",
+        "[08# debuff immunity]": "[08# debuff immunity]\n04000000 003DD810 D65F03C0\n\n",
+        "[09# One Hit Kill]": "[09# One Hit Kill]\n04000000 000B86FC 5284E1F9\n\n",
+        "[10# tile Instant break]": "[10# tile Instant break]\n04000000 007CDD30 D65F03C0\n\n",
+        "[10# Inf Jump]": "[10# Inf Jump]\n80000100\n580F0000 0414BD00\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000090\n780F0000 0000002C\n640F0000 00000000 C0A00000\n20000000\n\n",
+        "[11# Invincible]": "[11# Invincible]\n580F0000 0414BD00\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000090\n780F0000 00000300\n640F0000 00000000 00000020\n\n"
+    },
+    "A85426058506934F": {
+        "[HP]": "[HP]\n58000000 056F7BE8\n58001000 000000B0\n58001000 00000068\n78000000 000005CC\n64000000 00000000 000001F4\n\n",
+        "[Mana]": "[Mana]\n58000000 056F7BE8\n58001000 000000B0\n58001000 00000068\n78000000 000005D0\n64000000 00000000 000000C8\n\n",
+        "[01# Infinite Mana (On)]": "[01# Infinite Mana (On)]\n04000000 004C75F4 14000047\n04000000 004E2120 320003E0\n04000000 004E2124 D65F03C0\n\n",
+        "[Infinite Mana (Off)]": "[Infinite Mana (Off)]\n04000000 004C75F4 54000061\n04000000 004E2120 F81D0FF5\n04000000 004E2124 A9014FF4\n\n",
+        "[02# Infinite Ammo (On)]": "[02# Infinite Ammo (On)]\n04000000 004CAE90 31000508\n\n",
+        "[Infinite Ammo (Off)]": "[Infinite Ammo (Off)]\n04000000 004CAE90 71000508\n\n",
+        "[03# Infinite Oxygen (On)]": "[03# Infinite Oxygen (On)]\n04000000 00454DE0 D65F03C0\n\n",
+        "[Infinite Oxygen (Off)]": "[Infinite Oxygen (Off)]\n04000000 00454DE0 D10603FF\n\n",
+        "[04# No Damage (On)]": "[04# No Damage (On)]\n04000000 004ACD80 D503201F\n\n",
+        "[No Damage (Off)]": "[No Damage (Off)]\n04000000 004ACD80 4B090108\n\n",
+        "[05# Max Crafting Range (On)]": "[05# Max Crafting Range (On)]\n04000000 00471050 51007917\n04000000 00471054 11007508\n04000000 00471068 51007929\n04000000 00471064 1100792A\n\n",
+        "[Max Crafting Range (Off)]": "[Max Crafting Range (Off)]\n04000000 00471050 51000D17\n04000000 00471054 11000908\n04000000 00471068 51001129\n04000000 00471064 1100112A\n\n",
+        "[06# High Build Range (On)]": "[06# High Build Range (On)]\n04000000 004E6340 528003C0\n04000000 004E6344 D65F03C0\n\n",
+        "[High Build Range (Off)]": "[High Build Range (Off)]\n04000000 004E6340 A9BC5FF8\n04000000 004E6344 A90157F6\n\n",
+        "[07# Add item with ZL (on)]": "[07# Add item with ZL (on)]\n04000000 007AFD24 0B1402C8\n04000000 007B0158 0B1402C8\n\n",
+        "[Add item with ZL (off)]": "[Add item with ZL (off)]\n04000000 007AFD24 4B1402C8\n04000000 007B0158 4B1402C8\n\n",
+        "[08# No contact(On)]": "[08# No contact(On)]\n04000000 00416890 D65F03C0\n\n",
+        "[No contact(Off)]": "[No contact(Off)]\n04000000 00416890 D103C3FF\n\n",
+        "[09# debuff immunity (On)]": "[09# debuff immunity (On)]\n04000000 00441FE0 D65F03C0\n\n",
+        "[debuff immunity (Off)]": "[debuff immunity (Off)]\n04000000 00441FE0 6DB733ED\n\n",
+        "[10# One Hit Kill (On)]": "[10# One Hit Kill (On)]\n04000000 0012160C 5284E1F9\n\n",
+        "[One Hit Kill (Off)]": "[One Hit Kill (Off)]\n04000000 0012160C 2A0103F9\n\n",
+        "[11# Inf Jump]": "[11# Inf Jump]\n580F0000 040729D8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000090\n780F0000 0000002C\n640F0000 00000000 C0A00000\n\n",
+        "[12# Invincible]": "[12# Invincible]\n580F0000 040729D8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000090\n780F0000 00000300\n640F0000 00000000 00000020\n\n",
+        "[13# Inf Oxygen]": "[13# Inf Oxygen]\n580F0000 040729D8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000090\n780F0000 000003F8\n640F0000 00000000 000000C8\n\n",
+        "[14# Inf Heart]": "[14# Inf Heart]\n580F0000 040729D8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000090\n780F0000 000005C0\n640F0000 00000000 0000270F\n780F0000 0000000C\n640F0000 00000000 0000270F\n\n",
+        "[15# Inf Mana]": "[15# Inf Mana]\n580F0000 040729D8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000090\n780F0000 000005D0\n640F0000 00000000 0000270F\n\n"
+    },
+    "0A22A4322335834D": {
+        "{Mastercode}": "{Mastercode}\n04000000 003F3CE8 14000045\n04000000 003D6EB0 F81D0FF5\n04000000 003D6EB4 A9014FF4\n04000000 003F6A14 71000508\n04000000 003A28A0 D10483FF\n04000000 003B360C 51000D16\n04000000 003B3610 11000908\n04000000 003B361C 1100112A\n04000000 003B3620 51001129\n04000000 0040B530 A9BD57F6\n04000000 0040B534 A9014FF4\n04000000 00758BD0 4B140108\n04000000 003E1850 D10783FF\n04000000 00394A10 6DB733ED\n04000000 000BC85C 2A0103F9\n\n",
+        "[01# Infinite Mana]": "[01# Infinite Mana]\n04000000 003F3CE8 14000045\n04000000 003D6EB0 320003E0\n04000000 003D6EB4 D65F03C0\n\n",
+        "[02# Infinite Ammo]": "[02# Infinite Ammo]\n04000000 003F6A14 31000508\n\n",
+        "[03# Infinite Oxygen]": "[03# Infinite Oxygen]\n04000000 003A28A0 D65F03C0\n\n",
+        "[04# Max Crafting Range 30 tiles]": "[04# Max Crafting Range 30 tiles]\n04000000 003B360C 51007916\n04000000 003B3610 11007508\n04000000 003B361C 1100792A\n04000000 003B3620 51007929\n\n",
+        "[04# Max Crafting Range 60 tiles]": "[04# Max Crafting Range 60 tiles]\n04000000 003B360C 5100F116\n04000000 003B3610 1100ED08\n04000000 003B361C 1100F12A\n04000000 003B3620 5100F129\n\n",
+        "[05# High Build Range]": "[05# High Build Range]\n04000000 0040B530 52800280\n04000000 0040B534 D65F03C0\n\n",
+        "[06# Add item with ZL]": "[06# Add item with ZL]\n04000000 00758BD0 0B1402C8\n\n",
+        "[07# No contact]": "[07# No contact]\n04000000 003E1850 D65F03C0\n\n",
+        "[08# debuff immunity]": "[08# debuff immunity]\n04000000 00394A10 D65F03C0\n\n",
+        "[09# One Hit Kill]": "[09# One Hit Kill]\n04000000 000BC85C 5284E1F9\n\n",
+        "[10# Inf Jump]": "[10# Inf Jump]\n80000100\n580F0000 04143D18\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000090\n780F0000 0000002C\n640F0000 00000000 C0A00000\n20000000\n\n",
+        "[11# Invincible]": "[11# Invincible]\n580F0000 04143D18\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000090\n780F0000 00000300\n640F0000 00000000 00000020\n\n",
+        "[10# tile Instant break]": "[10# tile Instant break]\n04000000 007CDB70 D65F03C0\n\n"
+    },
+    "attribution": {
+        "Terraria v1.0.895.9 by VIDNES and ver 1.0.6 and 1.0.7 by Patjenova.txt": "Not valid for mini games"
+    }
 }

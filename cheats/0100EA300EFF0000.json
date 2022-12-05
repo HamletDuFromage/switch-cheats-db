@@ -1,12 +1,9 @@
 {
-    "8ABD1E656B931A9F": [
-        {
-            "content": "[P1 Lives unlimited]\n01100000 019DF0DB 00000004\n\n",
-            "title": "[P1 Lives unlimited]"
-        },
-        {
-            "content": "[Always has Nunchuck]\n01100000 019df0dd 00000001 ",
-            "title": "[Always has Nunchuck]"
-        }
-    ]
+    "8ABD1E656B931A9F": {
+        "[P1 Lives unlimited]": "[P1 Lives unlimited]\n01100000 019DF0DB 00000004\n\n",
+        "[Always has Nunchuck]": "[Always has Nunchuck]\n01100000 019df0dd 00000001\n\n"
+    },
+    "attribution": {
+        "Arcade Archives Vigilante by merlin v1.0.0.txt": ""
+    }
 }

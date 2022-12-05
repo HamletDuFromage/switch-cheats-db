@@ -1,8 +1,8 @@
 {
-    "6D59180E4C70F068": [
-        {
-            "content": "[*Lives 8 Jericoss]\n01000000 00AE0BE0 00000008",
-            "title": "[*Lives 8 Jericoss]"
-        }
-    ]
+    "6D59180E4C70F068": {
+        "[*Lives 8 Jericoss]": "[*Lives 8 Jericoss]\n01000000 00AE0BE0 00000008\n\n"
+    },
+    "attribution": {
+        "Void Source ver 1.0.0 by Jericoss.txt": "****If you need HP/AP code for 3rd char, add 8h for 5th line"
+    }
 }

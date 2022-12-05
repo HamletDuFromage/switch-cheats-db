@@ -1,16 +1,10 @@
 {
-    "6BC96AB409D90D32": [
-        {
-            "content": "[Energy unlimited]\n580F0000 00B1A018\n580F1000 00000108\n580F1000 00000058\n580F1000 00000010\n580F1000 000008A0\n780F0000 00000004\n640F0000 00000000 40240000\n\n",
-            "title": "[Energy unlimited]"
-        },
-        {
-            "content": "[Dpad < refill hp]\n80001000\n580F0000 00B13830\n580F1000 000001D8\n580F1000 00000030\n580F1000 00000038\n580F1000 00000058\n580F1000 00000010\n580F1000 000008A0\n780F0000 00000004\n640F0000 00000000 40240000\n20000000\n\n",
-            "title": "[Dpad < refill hp]"
-        },
-        {
-            "content": "[Dpad > money]\n80004000\n580F0000 00B19FF8\n580F1000 00000A20\n580F1000 00000030\n580F1000 00001370\n780F0000 00000004\n640F0000 00000000 42000000\n20000000\n",
-            "title": "[Dpad > money]"
-        }
-    ]
+    "6BC96AB409D90D32": {
+        "[Energy unlimited]": "[Energy unlimited]\n580F0000 00B1A018\n580F1000 00000108\n580F1000 00000058\n580F1000 00000010\n580F1000 000008A0\n780F0000 00000004\n640F0000 00000000 40240000\n\n",
+        "[Dpad < refill hp]": "[Dpad < refill hp]\n80001000\n580F0000 00B13830\n580F1000 000001D8\n580F1000 00000030\n580F1000 00000038\n580F1000 00000058\n580F1000 00000010\n580F1000 000008A0\n780F0000 00000004\n640F0000 00000000 40240000\n20000000\n\n",
+        "[Dpad > money]": "[Dpad > money]\n80004000\n580F0000 00B19FF8\n580F1000 00000A20\n580F1000 00000030\n580F1000 00001370\n780F0000 00000004\n640F0000 00000000 42000000\n20000000\n\n"
+    },
+    "attribution": {
+        "Habroxia ver 1.0.1 by merlin555 and Arismendy64.txt": "Please turn on the code when you can move the character\nSwap your numbers in Health and Energy with floating point ( 461C9000 = 10020 )\n"
+    }
 }

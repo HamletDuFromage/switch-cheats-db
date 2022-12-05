@@ -1,20 +1,11 @@
 {
-    "013DC955B6C145CD": [
-        {
-            "content": "[Infinite Money]\n580E0000 03F275D0\n580E1000 000000B8\n580E1000 00000010\n580E1000 00000110\n780E0000 00000020\n640E0000 00000000 4B18967F\n\n",
-            "title": "[Infinite Money]"
-        },
-        {
-            "content": "[Infinite Energy]\n580E0000 03F275D0\n580E1000 000000B8\n580E1000 00000010\n580E1000 000001A8\n580E1000 00000070\n780E0000 00000018\n640E0000 00000000 42C80000\n\n",
-            "title": "[Infinite Energy]"
-        },
-        {
-            "content": "[99 Video Rendering Points (R)]\n80000080\n580E0000 03F275D0\n580E1000 000000B8\n580E1000 00000000\n580E1000 00000068\n580E1000 00000050\n780E0000 00000020\n680E0000 00000063 00000063\n20000000\n\n",
-            "title": "[99 Video Rendering Points (R)]"
-        },
-        {
-            "content": "[Created by Eiffel2018, enjoy!]\n20000000",
-            "title": "[Created by Eiffel2018, enjoy!]"
-        }
-    ]
+    "013DC955B6C145CD": {
+        "[Infinite Money]": "[Infinite Money]\n580E0000 03F275D0\n580E1000 000000B8\n580E1000 00000010\n580E1000 00000110\n780E0000 00000020\n640E0000 00000000 4B18967F\n\n",
+        "[Infinite Energy]": "[Infinite Energy]\n580E0000 03F275D0\n580E1000 000000B8\n580E1000 00000010\n580E1000 000001A8\n580E1000 00000070\n780E0000 00000018\n640E0000 00000000 42C80000\n\n",
+        "[99 Video Rendering Points (R)]": "[99 Video Rendering Points (R)]\n80000080\n580E0000 03F275D0\n580E1000 000000B8\n580E1000 00000000\n580E1000 00000068\n580E1000 00000050\n780E0000 00000020\n680E0000 00000063 00000063\n20000000\n\n",
+        "[Created by Eiffel2018, enjoy!]": "[Created by Eiffel2018, enjoy!]\n20000000\n\n"
+    },
+    "attribution": {
+        "Youtubers Life 2 (US) v1.2.0.1(v131072) by Eiffel2018.txt": ""
+    }
 }

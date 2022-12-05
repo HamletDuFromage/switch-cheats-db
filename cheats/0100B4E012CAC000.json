@@ -1,16 +1,10 @@
 {
-    "BEBDF967DAEEFC6A": [
-        {
-            "content": "[*Inf HP Jericoss]\n580F0000 00C622F8\n580F1000 000003B0\n780F0000 00000368\n680F0000 40080000 00000000\n\n",
-            "title": "[*Inf HP Jericoss]"
-        },
-        {
-            "content": "[*knifes]\n580F0000 00C6BF70\n580F1000 000002D0\n780F0000 000000E8\n680F0000 40140000 00000000\n\n",
-            "title": "[*knifes]"
-        },
-        {
-            "content": "[*Money]\n580F0000 00C622F8\n580F1000 000003B0\n780F0000 000000E8\n680F0000 412B2070 00000000",
-            "title": "[*Money]"
-        }
-    ]
+    "BEBDF967DAEEFC6A": {
+        "[*Inf HP Jericoss]": "[*Inf HP Jericoss]\n580F0000 00C622F8\n580F1000 000003B0\n780F0000 00000368\n680F0000 40080000 00000000\n\n",
+        "[*knifes]": "[*knifes]\n580F0000 00C6BF70\n580F1000 000002D0\n780F0000 000000E8\n680F0000 40140000 00000000\n\n",
+        "[*Money]": "[*Money]\n580F0000 00C622F8\n580F1000 000003B0\n780F0000 000000E8\n680F0000 412B2070 00000000\n\n"
+    },
+    "attribution": {
+        "Kingdom Of Arcadia ver 1.0.0.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
 }

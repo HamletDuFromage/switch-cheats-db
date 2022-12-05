@@ -1,20 +1,11 @@
 {
-    "511C939D3EA8A74A": [
-        {
-            "content": "[01# Inf Jump]\n040A0000 01400394 52800008\n\n",
-            "title": "[01# Inf Jump]"
-        },
-        {
-            "content": "[02# Inf Lives]\n040A0000 01477544 D503201F\n\n",
-            "title": "[02# Inf Lives]"
-        },
-        {
-            "content": "[03# Every corn is a life]\n040A0000 01477424 71000508\n\n",
-            "title": "[03# Every corn is a life]"
-        },
-        {
-            "content": "[04# Inf Hearts]\n040A0000 014774E0 52800074",
-            "title": "[04# Inf Hearts]"
-        }
-    ]
+    "511C939D3EA8A74A": {
+        "[01# Inf Jump]": "[01# Inf Jump]\n040A0000 01400394 52800008\n\n",
+        "[02# Inf Lives]": "[02# Inf Lives]\n040A0000 01477544 D503201F\n\n",
+        "[03# Every corn is a life]": "[03# Every corn is a life]\n040A0000 01477424 71000508\n\n",
+        "[04# Inf Hearts]": "[04# Inf Hearts]\n040A0000 014774E0 52800074\n\n"
+    },
+    "attribution": {
+        "Stitchy in Tooki Trouble ver 1.0.0 by Patjenova.txt": ""
+    }
 }

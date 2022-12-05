@@ -1,36 +1,15 @@
 {
-    "01ACE43E724259C3": [
-        {
-            "content": "[GodMode]\n04000000 0739B9D8 00000001\n\n",
-            "title": "[GodMode]"
-        },
-        {
-            "content": "[infiniteAmmo]\n04000000 073BB310 00000001\n\n",
-            "title": "[infiniteAmmo]"
-        },
-        {
-            "content": "[infiniteClips]\n04000000 073BB398 00000001\n\n",
-            "title": "[infiniteClips]"
-        },
-        {
-            "content": "[infiniteThrowItems]\n04000000 073BB420 00000001\n\n",
-            "title": "[infiniteThrowItems]"
-        },
-        {
-            "content": "[noFiringSpread]\n04000000 073BB4A8 00000001\n\n",
-            "title": "[noFiringSpread]"
-        },
-        {
-            "content": "[noWeaponDrift]\n04000000 073BB530 00000001\n\n",
-            "title": "[noWeaponDrift]"
-        },
-        {
-            "content": "[alwaysAllowDoubleJump]\n04000000 073A8558 00000001\n\n",
-            "title": "[alwaysAllowDoubleJump]"
-        },
-        {
-            "content": "[pallowInfiniteDoubleJumps]\n04000000 072A2428 00000001",
-            "title": "[pallowInfiniteDoubleJumps]"
-        }
-    ]
+    "01ACE43E724259C3": {
+        "[GodMode]": "[GodMode]\n04000000 0739B9D8 00000001\n\n",
+        "[infiniteAmmo]": "[infiniteAmmo]\n04000000 073BB310 00000001\n\n",
+        "[infiniteClips]": "[infiniteClips]\n04000000 073BB398 00000001\n\n",
+        "[infiniteThrowItems]": "[infiniteThrowItems]\n04000000 073BB420 00000001\n\n",
+        "[noFiringSpread]": "[noFiringSpread]\n04000000 073BB4A8 00000001\n\n",
+        "[noWeaponDrift]": "[noWeaponDrift]\n04000000 073BB530 00000001\n\n",
+        "[alwaysAllowDoubleJump]": "[alwaysAllowDoubleJump]\n04000000 073A8558 00000001\n\n",
+        "[pallowInfiniteDoubleJumps]": "[pallowInfiniteDoubleJumps]\n04000000 072A2428 00000001\n\n"
+    },
+    "attribution": {
+        "Doom 2016 by smoker1.txt": "caution\ncan some problems"
+    }
 }

@@ -1,12 +1,6 @@
 {
-    "6A68DC16168178FE": [
-        {
-            "content": "[P1 Infinite HP]\n02000000 01260F24 00007676\n\n",
-            "title": "[P1 Infinite HP]"
-        },
-        {
-            "content": "[P2 NO HP]\n02000000 01261024 00000000",
-            "title": "[P2 NO HP]"
-        }
-    ]
+    "6A68DC16168178FE": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n02000000 01260F24 00007676\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n02000000 01261024 00000000\n\n"
+    }
 }

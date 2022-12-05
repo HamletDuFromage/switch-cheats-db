@@ -1,12 +1,9 @@
 {
-    "AF127F2A7813C637": [
-        {
-            "content": "[Inf Health]\n580F0000 00B1A018\n580F1000 00000138\n580F1000 00000058\n580F1000 00000010\n580F1000 000003C0\n780F0000 00000004\n640F0000 00000000 402C0000\n\n",
-            "title": "[Inf Health]"
-        },
-        {
-            "content": "[Inf Dexterlty]\n580F0000 00B1A018\n580F1000 00000138\n580F1000 00000058\n580F1000 00000010\n580F1000 000001E0\n780F0000 00000004\n640F0000 00000000 402C0000",
-            "title": "[Inf Dexterlty]"
-        }
-    ]
+    "AF127F2A7813C637": {
+        "[Inf Health]": "[Inf Health]\n580F0000 00B1A018\n580F1000 00000138\n580F1000 00000058\n580F1000 00000010\n580F1000 000003C0\n780F0000 00000004\n640F0000 00000000 402C0000\n\n",
+        "[Inf Dexterlty]": "[Inf Dexterlty]\n580F0000 00B1A018\n580F1000 00000138\n580F1000 00000058\n580F1000 00000010\n580F1000 000001E0\n780F0000 00000004\n640F0000 00000000 402C0000\n\n"
+    },
+    "attribution": {
+        "Castle of no Escape 2 ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
 }

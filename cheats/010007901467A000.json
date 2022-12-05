@@ -1,28 +1,13 @@
 {
-    "9F15FCD4717ADA85": [
-        {
-            "content": "[\uff08\u0e07\u30c4\uff09\u0e27 Restore Code (For Nintendo Switch) ]\n040F0000 01D7165C F9401268\n040F0000 01C96E68 BD409A60\n040F0000 016A1458 BD406E68\n\n",
-            "title": "[\uff08\u0e07\u30c4\uff09\u0e27 Restore Code (For Nintendo Switch) ]"
-        },
-        {
-            "content": "{Required Codes}\n080F0000 026B6B98 90009CF4 F9401268\n080F0000 026B6BA0 D65F03C0 F900D688\n080F0000 026B6BA8 F900D813 90009CE0\n080F0000 026B6BB0 D65F03C0 BD409A60\n080F0000 026B6BB8 F900DC13 90009CE0\n080F0000 026B6BC0 D65F03C0 BD406E68\n\n",
-            "title": "{Required Codes}"
-        },
-        {
-            "content": "[Player is Invincible]\n040F0000 01D7165C 9425154F\n580F0000 03A521A8\n780F0000 0000007A\n610F0000 00000000 00000001\n780F0000 00000002\n610F0000 00000000 00000001\n\n",
-            "title": "[Player is Invincible]"
-        },
-        {
-            "content": "[Van is Invincible]\n040F0000 01C96E68 94287F50\n580F0000 03A521B0\n780F0000 0000007A\n610F0000 00000000 00000001\n780F0000 00000002\n610F0000 00000000 00000001\n\n",
-            "title": "[Van is Invincible]"
-        },
-        {
-            "content": "[999999 Scrap]\n040F0000 016A1458 944055D8\n580F0000 03A521B8\n780F0000 00000050\n640F0000 00000000 000F423F\n\n",
-            "title": "[999999 Scrap]"
-        },
-        {
-            "content": "[- khuong \u30c4 -]\n20000000",
-            "title": "[- khuong \u30c4 -]"
-        }
-    ]
+    "9F15FCD4717ADA85": {
+        "[\uff08\u0e07\u30c4\uff09\u0e27 Restore Code (For Nintendo Switch) ]": "[\uff08\u0e07\u30c4\uff09\u0e27 Restore Code (For Nintendo Switch) ]\n040F0000 01D7165C F9401268\n040F0000 01C96E68 BD409A60\n040F0000 016A1458 BD406E68\n\n",
+        "{Required Codes}": "{Required Codes}\n080F0000 026B6B98 90009CF4 F9401268\n080F0000 026B6BA0 D65F03C0 F900D688\n080F0000 026B6BA8 F900D813 90009CE0\n080F0000 026B6BB0 D65F03C0 BD409A60\n080F0000 026B6BB8 F900DC13 90009CE0\n080F0000 026B6BC0 D65F03C0 BD406E68\n\n",
+        "[Player is Invincible]": "[Player is Invincible]\n040F0000 01D7165C 9425154F\n580F0000 03A521A8\n780F0000 0000007A\n610F0000 00000000 00000001\n780F0000 00000002\n610F0000 00000000 00000001\n\n",
+        "[Van is Invincible]": "[Van is Invincible]\n040F0000 01C96E68 94287F50\n580F0000 03A521B0\n780F0000 0000007A\n610F0000 00000000 00000001\n780F0000 00000002\n610F0000 00000000 00000001\n\n",
+        "[999999 Scrap]": "[999999 Scrap]\n040F0000 016A1458 944055D8\n580F0000 03A521B8\n780F0000 00000050\n640F0000 00000000 000F423F\n\n",
+        "[- khuong \u30c4 -]": "[- khuong \u30c4 -]\n20000000\n\n"
+    },
+    "attribution": {
+        "The Last Friend ver 1.0.1 by abadidea.txt": ""
+    }
 }

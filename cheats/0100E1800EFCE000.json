@@ -1,16 +1,10 @@
 {
-    "089898E9F7812443": [
-        {
-            "content": "[Love level]\n010F0000 03AA308C 0000001E\n\n",
-            "title": "[Love level]"
-        },
-        {
-            "content": "[Action limit]\n020F0000 03AA3092 000027EF\n\n",
-            "title": "[Action limit]"
-        },
-        {
-            "content": "[Max Money]\n020F0000 03AA30A4 00002710",
-            "title": "[Max Money]"
-        }
-    ]
+    "089898E9F7812443": {
+        "[Love level]": "[Love level]\n010F0000 03AA308C 0000001E\n\n",
+        "[Action limit]": "[Action limit]\n020F0000 03AA3092 000027EF\n\n",
+        "[Max Money]": "[Max Money]\n020F0000 03AA30A4 00002710\n\n"
+    },
+    "attribution": {
+        "moon ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
 }
