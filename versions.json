@@ -6525,8 +6525,9 @@
     },
     "010018100CD46000": {
         "131072": "C517ECBB79DE9733",
+        "196608": "4E46401BF2FE53A4",
         "65536": "C517ECBB79DE9733",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Resident Evil 5"
     },
     "010018100F688000": {
@@ -10912,6 +10913,15 @@
         "458752": "5D8BEE71D762724A",
         "65536": "6BA4FDF8006A1D4C",
         "latest": 458752
+    },
+    "010026301785A000": {
+        "0": "18DF02039A67F50E",
+        "196608": "A8BB189B975D211B",
+        "latest": 196608,
+        "title": "Goonya Monster"
+    },
+    "010026301785B000": {
+        "latest": 0
     },
     "010026301815A000": {
         "0": "1BF928EB68C21F7B",
@@ -42822,7 +42832,8 @@
     },
     "01008F9019362000": {
         "0": "6B3C14159D5856BB",
-        "latest": 0
+        "latest": 0,
+        "title": "Supreme Car Race on Highway Simulator - Ultimate Driving Games Poly Experience"
     },
     "01008FA00ACEC000": {
         "0": "A5AF55F260EF514C",
@@ -62904,7 +62915,8 @@
     },
     "0100D32012E1A000": {
         "0": "7E88B3B74E755E4B",
-        "latest": 0
+        "65536": "5E86E03A52FE8841",
+        "latest": 65536
     },
     "0100D3300F110000": {
         "0": "4C215419C1634E4D",
@@ -70217,8 +70229,9 @@
         "title": "Puzzletronics: Digital Infinite"
     },
     "0100EAF00D408000": {
+        "131072": "1894DD1EF5430C91",
         "65536": "EB4890418C804527",
-        "latest": 65536
+        "latest": 131072
     },
     "0100EAF00E32E000": {
         "0": "3FF8FE0CCFB2348B",
@@ -73065,7 +73078,8 @@
     },
     "0100F3B0182B2000": {
         "0": "D1B3E37455C1DB34",
-        "latest": 0
+        "latest": 0,
+        "title": "Street Drag Racing Car Driving Simulator 2022 Games"
     },
     "0100F3C00C400000": {
         "0": "5461337D520F0545",
