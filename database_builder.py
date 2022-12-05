@@ -131,7 +131,7 @@ class ArchiveWorker():
         contents_path = titles_path.rename(titles_path.parent.joinpath("contents"))
         shutil.make_archive(str(contents_path.resolve()), "zip", root_dir=out_path, base_dir="contents")
 
-    def create_version_file(self, out_path = "."):
+    def create_version_file(self, out_path="."):
         with open(f"{out_path}/VERSION", "w") as version_file:
             version_file.write(str(date.today()))
 
@@ -151,7 +151,6 @@ if __name__ == '__main__':
         archive_worker.extract_archive(archive_path, "gbatemp")
         archive_worker.download_archive(highfps.get_download_url(), archive_path)
         archive_worker.extract_archive(archive_path)
-    
 
         print("Processing the cheat sheets")
         process_cheats.ProcessCheats("gbatemp/titles", cheats_path)
@@ -168,8 +167,6 @@ if __name__ == '__main__':
         archive_worker.create_archives("gbatemp")
 
         archive_worker.create_version_file()
-
-
 
     else:
         print("Everything is already up to date!")

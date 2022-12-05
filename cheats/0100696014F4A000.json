@@ -1,10 +1,4 @@
 {
-    "EB526F5A41621D69": {
-        "[hitanywhere all weapon on]": "[hitanywhere all weapon on]\n04000000 006E3C40 D65F03C0\n\n",
-        "[hitanywhere all weapon off]": "[hitanywhere all weapon off]\n04000000 006E3C40 FC170FEC\n\n",
-        "[hitanywhere rachel arms on]": "[hitanywhere rachel arms on]\n04000000 006E9BE0 D65F03C0\n\n",
-        "[hitanywhere rachel arms off]": "[hitanywhere rachel arms off]\n04000000 006E9BE0 D10483FF\n\n"
-    },
     "DC27156B7AB58D31": {
         "[Crazy jump (ZL+B)]": "[Crazy jump (ZL+B)]\n80000102\n04000000 018C37D4 00000000\n20000000\n\n",
         "[01# Inf Life]": "[01# Inf Life]\n04000000 008F22F0 D65F03C0\n\n",
@@ -30,6 +24,12 @@
         "[hitanywhere all weapon off]": "[hitanywhere all weapon off]\n04000000 006E50C0 FC170FEC\n\n",
         "[rachel hitanywhere Inferno Hammer on]": "[rachel hitanywhere Inferno Hammer on]\n04000000 006EB6D0 D65F03C0\n\n",
         "[rachel hitanywhere Inferno Hammer off]": "[rachel hitanywhere Inferno Hammer off]\n04000000 006EB6D0 D10483FF\n\n"
+    },
+    "EB526F5A41621D69": {
+        "[hitanywhere all weapon on]": "[hitanywhere all weapon on]\n04000000 006E3C40 D65F03C0\n\n",
+        "[hitanywhere all weapon off]": "[hitanywhere all weapon off]\n04000000 006E3C40 FC170FEC\n\n",
+        "[hitanywhere rachel arms on]": "[hitanywhere rachel arms on]\n04000000 006E9BE0 D65F03C0\n\n",
+        "[hitanywhere rachel arms off]": "[hitanywhere rachel arms off]\n04000000 006E9BE0 D10483FF\n\n"
     },
     "attribution": {
         "NINJA GAIDEN \u03a3 2 ver 1.0.1 by Patjenova and xtatu and Hazerou amd Jericoss ver 1.0.2 by xtatu.txt": ""

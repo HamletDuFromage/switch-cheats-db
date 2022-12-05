@@ -33,9 +33,12 @@
         "[15# Cheat Festive Hats]": "[15# Cheat Festive Hats]\n010A0000 01E91BB2 00000001\n\n",
         "[Cheat Festive Hats (off)]": "[Cheat Festive Hats (off)]\n010A0000 01E91BB2 00000000\n\n",
         "[16# Cheat Extra Hearts]": "[16# Cheat Extra Hearts]\n010A0000 01E91BD2 00000001\n\n",
-        "[Cheat Extra Hearts(off)]": "[Cheat Extra Hearts(off)]\n010A0000 01E91BD2 00000000\n\n"
+        "[Cheat Extra Hearts(off)]": "[Cheat Extra Hearts(off)]\n010A0000 01E91BD2 00000000\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 02745918\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 02745918\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "LEGO MARVEL Super Heroes ver 1.0.1 by Patjenova.txt": "Note: Better use NOEXES to avoid game lag"
+        "LEGO MARVEL Super Heroes ver 1.0.1 by Patjenova.txt": "Note: Better use NOEXES to avoid game lag",
+        "LEGO MARVEL Super Heroes.txt": "by hazerou"
     }
 }

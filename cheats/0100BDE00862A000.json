@@ -6,11 +6,11 @@
         "[CPU 1-Hit KO (Press Up)]": "[CPU 1-Hit KO (Press Up)]\n80002000\n08000000 02BBB010 00000000 00000000\n08000000 02BBB018 00000000 00000000\n20000000\n\n",
         "[Big Tennis Ball]": "[Big Tennis Ball]\n01000000 02BBB587 0000003E\n\n"
     },
-    "88EF9ECB522D12DB": {
-        "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (For v2.1.0)]": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (For v2.1.0)]\n\n01 Player Infinite Super\n040F0000 02aecf40 466a6000\n040F0000 02aecf48 466a6000\n\n02 CPU No Super\n040F0000 02aecf50 00000000\n040F0000 02aecf58 00000000\n\n"
-    },
     "4B9A64DED26C6E46": {
         "[#01# Player Infinite Super]": "[#01# Player Infinite Super]\n040F0000 02a0cf00 466a6000\n040F0000 02a0cf08 466a6000\n\n"
+    },
+    "88EF9ECB522D12DB": {
+        "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (For v2.1.0)]": "[From MAX-CHEATS.com by eco95 for Mario Tennis ACE (For v2.1.0)]\n\n01 Player Infinite Super\n040F0000 02aecf40 466a6000\n040F0000 02aecf48 466a6000\n\n02 CPU No Super\n040F0000 02aecf50 00000000\n040F0000 02aecf58 00000000\n\n"
     },
     "9FDA2C32E8DE3EBF": {
         "[#01# Player Infinite Super]": "[#01# Player Infinite Super]\n040F0000 02b70f50 466a6000\n040F0000 02b70f58 466a6000\n\n",

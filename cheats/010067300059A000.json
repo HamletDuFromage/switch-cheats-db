@@ -16,9 +16,12 @@
         "[14# RABBID YOSHI Max Attack]": "[14# RABBID YOSHI Max Attack]\n580F0000 03225BE0\n580F1000 00000228\n580F1000 00000458\n580F1000 00000118\n780F0000 00000020\n640F0000 00000000 000003E7\n\n",
         "[15# YOSHI Inf Health]": "[15# YOSHI Inf Health]\n580F0000 03225BE0\n580F1000 00000278\n580F1000 000007D0\n580F1000 00000058\n780F0000 00000020\n640F0000 00000000 000003E7\n\n",
         "[16# YOSHI Max Attack]": "[16# YOSHI Max Attack]\n580F0000 03225BE0\n580F1000 00000278\n580F1000 00000458\n580F1000 00000118\n780F0000 00000020\n640F0000 00000000 000003E7\n\n",
-        "[17# 99999 Coins and bananas]": "[17# 99999 Coins and bananas]\n580F0000 0330B038\n580F1000 00000068\n580F1000 00000050\n580F1000 00000198\n580F1000 00000348\n780F0000 00000010\n640F0000 00000000 0001869F\n\n"
+        "[17# 99999 Coins and bananas]": "[17# 99999 Coins and bananas]\n580F0000 0330B038\n580F1000 00000068\n580F1000 00000050\n580F1000 00000198\n580F1000 00000348\n780F0000 00000010\n640F0000 00000000 0001869F\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 03400F30\n580F1000 00000118\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 03400F30\n580F1000 00000118\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "Mario + Rabbids Kingdom Battle ver 1.9.589692 with dlc included by patjenova.txt": "\u203b Activate the code when the game is loaded and the character is ready to move.\n\u203b Invincible, take the damage once and press the button when it stops blinking."
+        "Mario + Rabbids Kingdom Battle ver 1.9.589692 with dlc included by patjenova.txt": "\u203b Activate the code when the game is loaded and the character is ready to move.\n\u203b Invincible, take the damage once and press the button when it stops blinking.",
+        "Mario + Rabbids Kingdom Battle.txt": "By Hazerou"
     }
 }

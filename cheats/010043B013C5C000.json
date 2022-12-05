@@ -1,23 +1,4 @@
 {
-    "F48FBF0922D5424A": {
-        "[Drop Rate 100%]": "[Drop Rate 100%]\n580F0000 0451A8C8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n580F1000 000000B0\n780F0000 00000018\n640F0000 00000000 42C80000\n\n",
-        "[Max Money]": "[Max Money]\n580F0000 051A0740\n580F1000 000000B8\n580F1000 00000148\n580F1000 000001E0\n780F0000 00000024\n640F0000 00000000 0098967F\n\n",
-        "[01# Inf HP]": "[01# Inf HP]\n040A0000 01673B68 5284E1F6\n\n",
-        "[02# No CD Psychics]": "[02# No CD Psychics]\n040A0000 0173BB28 D503201F\n\n",
-        "[03# Instant kill]": "[03# Instant kill]\n040A0000 017078B4 5284E1F4\n\n",
-        "[04# Exp x8]": "[04# Exp x8]\n040A0000 01EE39D8 0B151115\n\n",
-        "[05# Droprate 300%]": "[05# Droprate 300%]\n040A0000 01EE2D74 43960000\n040A0000 01EE2CE4 1C000488\n\n",
-        "[06# Money x8]": "[06# Money x8]\n040A0000 01EE3C48 0B142108\n\n",
-        "[speed game normal X pad menu come back later enter]": "[speed game normal X pad menu come back later enter]\n04000000 0195F5F8 1E2E1000\n\n",
-        "[speed game 1.25x ]": "[speed game 1.25x ]\n04000000 0195F5F8 1E2E9000\n\n",
-        "[speed game 1.5x ]": "[speed game 1.5x ]\n04000000 0195F5F8 1E2F1000\n\n",
-        "[speed game 1.75x ]": "[speed game 1.75x ]\n04000000 0195F5F8 1E2F9000\n\n",
-        "[speed game 2x ]": "[speed game 2x ]\n04000000 0195F5F8 1E201000\n\n",
-        "[speed game 2.25x ]": "[speed game 2.25x ]\n04000000 0195F5F8 1E205000\n\n",
-        "[speed game 2.5x ]": "[speed game 2.5x ]\n04000000 0195F5F8 1E209000\n\n",
-        "[speed game 2.75x ]": "[speed game 2.75x ]\n04000000 0195F5F8 1E20D000\n\n",
-        "[speed game 5x ]": "[speed game 5x ]\n04000000 0195F5F8 1E229000\n\n"
-    },
     "6A3E02D91948EC42": {
         "[PP 99999 by jhmiller]": "[PP 99999 by jhmiller]\n580F0000 043FE0D0\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000028\n640F0000 00000000 0001869F\n\n",
         "[Money 9999999 by jhmiller]": "[Money 9999999 by jhmiller]\n580F0000 04501F50\n580F1000 000004F8\n580F1000 00000190\n780F0000 00000024\n640F0000 00000000 0098967F\n\n",
@@ -43,6 +24,25 @@
         "[16x Skill Points up]": "[16x Skill Points up]\n010E0000 2B010108 00000011\n\n",
         "[32x Skill Points up]": "[32x Skill Points up]\n010E0000 2B010108 00000015\n\n",
         "[Normal Skill Points up]": "[Normal Skill Points up]\n010E0000 2B010108 00000001\n\n"
+    },
+    "F48FBF0922D5424A": {
+        "[Drop Rate 100%]": "[Drop Rate 100%]\n580F0000 0451A8C8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n580F1000 000000B0\n780F0000 00000018\n640F0000 00000000 42C80000\n\n",
+        "[Max Money]": "[Max Money]\n580F0000 051A0740\n580F1000 000000B8\n580F1000 00000148\n580F1000 000001E0\n780F0000 00000024\n640F0000 00000000 0098967F\n\n",
+        "[01# Inf HP]": "[01# Inf HP]\n040A0000 01673B68 5284E1F6\n\n",
+        "[02# No CD Psychics]": "[02# No CD Psychics]\n040A0000 0173BB28 D503201F\n\n",
+        "[03# Instant kill]": "[03# Instant kill]\n040A0000 017078B4 5284E1F4\n\n",
+        "[04# Exp x8]": "[04# Exp x8]\n040A0000 01EE39D8 0B151115\n\n",
+        "[05# Droprate 300%]": "[05# Droprate 300%]\n040A0000 01EE2D74 43960000\n040A0000 01EE2CE4 1C000488\n\n",
+        "[06# Money x8]": "[06# Money x8]\n040A0000 01EE3C48 0B142108\n\n",
+        "[speed game normal X pad menu come back later enter]": "[speed game normal X pad menu come back later enter]\n04000000 0195F5F8 1E2E1000\n\n",
+        "[speed game 1.25x ]": "[speed game 1.25x ]\n04000000 0195F5F8 1E2E9000\n\n",
+        "[speed game 1.5x ]": "[speed game 1.5x ]\n04000000 0195F5F8 1E2F1000\n\n",
+        "[speed game 1.75x ]": "[speed game 1.75x ]\n04000000 0195F5F8 1E2F9000\n\n",
+        "[speed game 2x ]": "[speed game 2x ]\n04000000 0195F5F8 1E201000\n\n",
+        "[speed game 2.25x ]": "[speed game 2.25x ]\n04000000 0195F5F8 1E205000\n\n",
+        "[speed game 2.5x ]": "[speed game 2.5x ]\n04000000 0195F5F8 1E209000\n\n",
+        "[speed game 2.75x ]": "[speed game 2.75x ]\n04000000 0195F5F8 1E20D000\n\n",
+        "[speed game 5x ]": "[speed game 5x ]\n04000000 0195F5F8 1E229000\n\n"
     },
     "attribution": {
         "NEO TWEWY by KitsuKaito and jhmiller ver 1.0.1 by jhmiller and Eiffel2018.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",

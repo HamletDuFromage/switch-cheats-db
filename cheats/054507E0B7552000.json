@@ -1,28 +1,4 @@
 {
-    "D326058041B7F4DC": {
-        "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 014B8C7C 42800000\n20000000\n\n",
-        "[Inf Health]": "[Inf Health]\n01000000 014B8D1B 00000008\n\n",
-        "[Inf Lives]": "[Inf Lives]\n01000000 014B8D19 00000064\n\n",
-        "[99 Coins]": "[99 Coins]\n01000000 014B8D14 00000063\n\n",
-        "[Inf Hat Time]": "[Inf Hat Time]\n02000000 014B8D22 00007000\n\n",
-        "[No Fall Damage]": "[No Fall Damage]\n02000000 014B8D2A 0000FFFF\n\n",
-        "[No Hits]": "[No Hits]\n02000000 014B8C56 0000FFFF\n\n",
-        "[Hat Fly-Inv-Met]": "[Hat Fly-Inv-Met]\n02000000 014B8C34 0000011E\n\n",
-        "[Hat Fly-Inv]": "[Hat Fly-Inv]\n02000000 014B8C34 0000011A\n\n",
-        "[Normal Hat]": "[Normal Hat]\n02000000 014B8C34 00000111\n\n"
-    },
-    "B5E8BF1FE6465E7E": {
-        "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 0110A90C 42200000\n20000000\n\n",
-        "[Inf Health]": "[Inf Health]\n01000000 0110A9AB 00000008\n\n",
-        "[Inf Lives]": "[Inf Lives]\n01000000 0110A9A9 00000064\n\n",
-        "[No Hits]": "[No Hits]\n02000000 0110A8E6 0000FFFF\n\n",
-        "[No Fall Damage]": "[No Fall Damage]\n02000000 0110A9BB 0000FFFF\n\n",
-        "[Inf Hat Time]": "[Inf Hat Time]\n02000000 0110A9B4 00007000\n\n",
-        "[FlyInvMet Hat]": "[FlyInvMet Hat]\n02000000 0110A8C4 0000011E\n\n",
-        "[FlyInv Hat]": "[FlyInv Hat]\n02000000 0110A8C4 0000011A\n\n",
-        "[Normal Hat]": "[Normal Hat]\n02000000 0110A8C4 00000111\n\n",
-        "[99 Coins]": "[99 Coins]\n01000000 0110A9A4 00000063\n\n"
-    },
     "0000000000000000": {
         "[B Moonjump]": "[B Moonjump]\n80000002\n581f0000 00019f00\n780f0000 0000806c\n640f0000 00000000 42800000\n20000000\n\n",
         "[Inf. Hearts]": "[Inf. Hearts]\n581F0000 00019F00\n780F0000 0000810B\n610F0000 00000000 00000008\n\n",
@@ -64,15 +40,6 @@
         "[Hat Fly-Inv v6]": "[Hat Fly-Inv v6]\n581f0000 0005d9a8\n780f0000 00009dc4\n620f0000 00000000 0000011A\n\n",
         "[Normal Hat v6]": "[Normal Hat v6]\n581f0000 0005d9a8\n780f0000 00009dc4\n620f0000 00000000 00000111\n\n"
     },
-    "5C0CBFEFDA841930": {
-        "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 01501C2C 42800000\n20000000\n\n",
-        "[Inf Health]": "[Inf Health]\n04000000 01501CC8 08800400\n\n",
-        "[100 Lives]": "[100 Lives]\n04000000 01501CC6 6300005A\n\n",
-        "[Inf Hat Time]": "[Inf Hat Time]\n02000000 01501CD2 00007000\n\n",
-        "[Hat Fly-Inv-Met]": "[Hat Fly-Inv-Met]\n02000000 01501BE4 0000011E\n\n",
-        "[Hat Fly-Inv]": "[Hat Fly-Inv]\n02000000 01501BE4 0000011A\n\n",
-        "[Hat Normal]": "[Hat Normal]\n02000000 01501BE4 00000111\n\n"
-    },
     "4A7114C9560237CB": {
         "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 0182AC94 42800000\n20000000\n\n",
         "[02# Hold A Speed x2]": "[02# Hold A Speed x2]\n80000001\n04000000 0182AC9C 44000000\n20000000\n\n",
@@ -99,6 +66,39 @@
         "[Inv-Fly Hat V3]": "[Inv-Fly Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 0000011A\n\n",
         "[Normal Hat V3]": "[Normal Hat V3]\n581f0000 081ca500\n780f0000 000663FC\n620f0000 00000000 00000111\n\n",
         "[Disable Race Time V3]": "[Disable Race Time V3]\n581f0000 081ca500\n780f0000 00066532\n620f0000 00000000 0000003F\n\n"
+    },
+    "5C0CBFEFDA841930": {
+        "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 01501C2C 42800000\n20000000\n\n",
+        "[Inf Health]": "[Inf Health]\n04000000 01501CC8 08800400\n\n",
+        "[100 Lives]": "[100 Lives]\n04000000 01501CC6 6300005A\n\n",
+        "[Inf Hat Time]": "[Inf Hat Time]\n02000000 01501CD2 00007000\n\n",
+        "[Hat Fly-Inv-Met]": "[Hat Fly-Inv-Met]\n02000000 01501BE4 0000011E\n\n",
+        "[Hat Fly-Inv]": "[Hat Fly-Inv]\n02000000 01501BE4 0000011A\n\n",
+        "[Hat Normal]": "[Hat Normal]\n02000000 01501BE4 00000111\n\n"
+    },
+    "B5E8BF1FE6465E7E": {
+        "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 0110A90C 42200000\n20000000\n\n",
+        "[Inf Health]": "[Inf Health]\n01000000 0110A9AB 00000008\n\n",
+        "[Inf Lives]": "[Inf Lives]\n01000000 0110A9A9 00000064\n\n",
+        "[No Hits]": "[No Hits]\n02000000 0110A8E6 0000FFFF\n\n",
+        "[No Fall Damage]": "[No Fall Damage]\n02000000 0110A9BB 0000FFFF\n\n",
+        "[Inf Hat Time]": "[Inf Hat Time]\n02000000 0110A9B4 00007000\n\n",
+        "[FlyInvMet Hat]": "[FlyInvMet Hat]\n02000000 0110A8C4 0000011E\n\n",
+        "[FlyInv Hat]": "[FlyInv Hat]\n02000000 0110A8C4 0000011A\n\n",
+        "[Normal Hat]": "[Normal Hat]\n02000000 0110A8C4 00000111\n\n",
+        "[99 Coins]": "[99 Coins]\n01000000 0110A9A4 00000063\n\n"
+    },
+    "D326058041B7F4DC": {
+        "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 014B8C7C 42800000\n20000000\n\n",
+        "[Inf Health]": "[Inf Health]\n01000000 014B8D1B 00000008\n\n",
+        "[Inf Lives]": "[Inf Lives]\n01000000 014B8D19 00000064\n\n",
+        "[99 Coins]": "[99 Coins]\n01000000 014B8D14 00000063\n\n",
+        "[Inf Hat Time]": "[Inf Hat Time]\n02000000 014B8D22 00007000\n\n",
+        "[No Fall Damage]": "[No Fall Damage]\n02000000 014B8D2A 0000FFFF\n\n",
+        "[No Hits]": "[No Hits]\n02000000 014B8C56 0000FFFF\n\n",
+        "[Hat Fly-Inv-Met]": "[Hat Fly-Inv-Met]\n02000000 014B8C34 0000011E\n\n",
+        "[Hat Fly-Inv]": "[Hat Fly-Inv]\n02000000 014B8C34 0000011A\n\n",
+        "[Normal Hat]": "[Normal Hat]\n02000000 014B8C34 00000111\n\n"
     },
     "DEF702CDAC4994EF": {
         "[01# Moonjump]": "[01# Moonjump]\n80000002\n04000000 0188DDB4 42800000\n20000000\n\n",

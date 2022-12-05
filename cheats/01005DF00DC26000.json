@@ -1,4 +1,11 @@
 {
+    "0BC8E0955E19E9ED": {
+        "[Max after money changes]": "[Max after money changes]\n04000000 00A838EC 1A89B129\n04000000 00A83B8C 1A8AB14A\n\n",
+        "[skills/props proficiency 4 times]": "[skills/props proficiency 4 times]\n04000000 00A8333C 0B15094A\n\n",
+        "[skills/props proficiency 8 times]": "[skills/props proficiency 8 times]\n04000000 00A8333C 0B150D4A\n\n",
+        "[Skills/props proficiency 16 times]": "[Skills/props proficiency 16 times]\n04000000 00A8333C 0B15114A\n\n",
+        "[Maximum sensitivity increased Max]": "[Maximum sensitivity increased Max]\n04000000 00FB9BB8 D503201F\n04000000 010E63B4 D503201F\n\n"
+    },
     "7D388942A921E50A": {
         "[Unlimited Items and Ammo (on)]": "[Unlimited Items and Ammo (on)]\n04000000 00B4FD00 D503201F\n\n",
         "[Unlimited Items and Ammo (off)]": "[Unlimited Items and Ammo (off)]\n04000000 00B4FD00 4B140108\n\n",
@@ -24,13 +31,6 @@
         "[Medal acquisition 16 times]": "[Medal acquisition 16 times]\n04000000 00A876AC 0B14114B\n04000000 00A8FEDC 0B091189\n\n",
         "[Medal modification effect is turned off]": "[Medal modification effect is turned off]\n04000000 00A876AC 0B14014B\n04000000 00A8FEDC 0B090189\n\n",
         "[Increased goodness after Max]": "[Increased goodness after Max]\n04000000 00FBE978 D503201F\n04000000 010EB924 D503201F\n\n"
-    },
-    "0BC8E0955E19E9ED": {
-        "[Max after money changes]": "[Max after money changes]\n04000000 00A838EC 1A89B129\n04000000 00A83B8C 1A8AB14A\n\n",
-        "[skills/props proficiency 4 times]": "[skills/props proficiency 4 times]\n04000000 00A8333C 0B15094A\n\n",
-        "[skills/props proficiency 8 times]": "[skills/props proficiency 8 times]\n04000000 00A8333C 0B150D4A\n\n",
-        "[Skills/props proficiency 16 times]": "[Skills/props proficiency 16 times]\n04000000 00A8333C 0B15114A\n\n",
-        "[Maximum sensitivity increased Max]": "[Maximum sensitivity increased Max]\n04000000 00FB9BB8 D503201F\n04000000 010E63B4 D503201F\n\n"
     },
     "attribution": {
         "SWORD ART ONLINE FATAL BULLET COMPLETE EDITION v1.0.0 EUR made by DaBlackDeath and 1.80 by falo.txt": "",

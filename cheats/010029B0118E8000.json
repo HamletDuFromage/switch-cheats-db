@@ -1,11 +1,4 @@
 {
-    "799D1061182C1302": {
-        "[60 FPS offline switcher - exefs req]": "[60 FPS offline switcher - exefs req]\n580F0000 0195CDF0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-        "[30 FPS online switcher]": "[30 FPS online switcher]\n580F0000 0195CDF0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
-    },
-    "attribution": {
-        "need for speed hot pursuit remastered 1.0.0 by arismendy64 and patjenova.txt": ""
-    },
     "3515E683E1D5E5A1": {
         "[inf nitro]": "[inf nitro]\n80000001\n580F0000 00E31830\n580F1000 00000090\n580F1000 00000120\n580F1000 00000548\n780F0000 0000011C\n640F0000 00000000 42C80000\n20000000\n\n",
         "[999999 bounty]": "[999999 bounty]\n580F0000 00E35F80\n580F1000 00000010\n580F1000 00000190\n580F1000 000002FC\n780F0000 000001CC\n640F0000 00000000 0098967F\n\n",
@@ -23,5 +16,13 @@
         "[Score and EXP Rate//Score and EXP Rate]": "[Score and EXP Rate//Score and EXP Rate]\n04070000 007F3EB4 000001F4\n04070000 007F3EB8 B9007C7B\n04070000 007F3EA0 1B157D35\n04070000 007F3EA4 10000000\n04070000 007F3EA8 B9401000\n04070000 007F3EAC 1B007EB5\n04070000 007F3EB0 D65F03C0\n04070000 002293BC 94172AB9\n\n",
         "[Item Quick CD //Item Quick CD]": "[Item Quick CD //Item Quick CD]\n04070000 007F3E80 8B334908\n04070000 007F3E84 1E2E1000\n04070000 007F3E88 35000054\n04070000 007F3E8C BD03D900\n04070000 007F3E90 D65F03C0\n04070000 001B99CC 9418E92D\n\n",
         "[Can Select any Cars//Can Select any Cars]": "[Can Select any Cars//Can Select any Cars]\n04070000 007F3F00 52800200\n04070000 007F3F04 B9004D00\n04070000 007F3F08 320003E0\n04070000 007F3F0C 17E970AB\n04070000 002501B4 14168F53\n\n"
+    },
+    "799D1061182C1302": {
+        "[60 FPS offline switcher - exefs req]": "[60 FPS offline switcher - exefs req]\n580F0000 0195CDF0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS online switcher]": "[30 FPS online switcher]\n580F0000 0195CDF0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "need for speed hot pursuit remastered 1.0.0 by arismendy64 and patjenova.txt": "",
+        "Need for Speed Hot Pursuit Remastered.txt": "For use with 60 FPS Patch by @masagrator here;\nhttps://gbatemp.net/threads/need-for-speed-hot-pursuit-remastered-60-fps-mod.583815/\n\nCodes by @Hazerou\n\n- Goal of this Codes is to fix the Online Multiplayer Mode Issue.\n\nIf you want to play Offline : Activate the 60 FPS Cheat.\n\nIf you want to play Online : Activate the 30 FPS Cheat."
     }
 }

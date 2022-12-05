@@ -1,11 +1,4 @@
 {
-    "E50048278D47174F": {
-        "{OmegaLabyrinth Life 1.0.4}": "{OmegaLabyrinth Life 1.0.4}\n58000000 02C7F500\n58001000 000000B8\n58001000 00000000\n58001000 00000028\n58001000 00000080\n78000000 00000010\n\n",
-        "[Inf Cur/Max]": "[Inf Cur/Max]\n400C0000 00000000 00000004\n64000000 00000000 000003E7\n640001C0 00000000 000003E7\n\n",
-        "[Inf Belly]": "[Inf Belly]\n400C0000 00000000 00000008\n640001C0 00000000 00002710\n\n",
-        "[Max Stats(warning-OP)]": "[Max Stats(warning-OP)]\n400C0000 00000000 00000010\n680001C0 0000270F 0000270F\n400C0000 00000000 0000001C\n680001C0 0000270F 0000270F\n\n",
-        "[Max Lvl after one kill]": "[Max Lvl after one kill]\n400C0000 00000000 00000044\n680001C0 0000270F 00800000\n\n"
-    },
     "4CD08D3EDAEF044C": {
         "[Default (50%) Item Sell Price]": "[Default (50%) Item Sell Price]\n04000000 00AE3940 1E2C1001\n04000000 00AE389C 1E2C1001\n\n",
         "[100% Item Sell Price]": "[100% Item Sell Price]\n04000000 00AE3940 1E2E1001\n04000000 00AE389C 1E2E1001\n\n",
@@ -14,6 +7,13 @@
         "[800% Item Sell Price]": "[800% Item Sell Price]\n04000000 00AE3940 1E241001\n04000000 00AE389C 1E241001\n\n",
         "[Enemy 1 HP (on)]": "[Enemy 1 HP (on)]\n04000000 00AE2388 52800022\n\n",
         "[Enemy 1 HP (off)]": "[Enemy 1 HP (off)]\n04000000 00AE2388 2A1303E2\n\n"
+    },
+    "E50048278D47174F": {
+        "{OmegaLabyrinth Life 1.0.4}": "{OmegaLabyrinth Life 1.0.4}\n58000000 02C7F500\n58001000 000000B8\n58001000 00000000\n58001000 00000028\n58001000 00000080\n78000000 00000010\n\n",
+        "[Inf Cur/Max]": "[Inf Cur/Max]\n400C0000 00000000 00000004\n64000000 00000000 000003E7\n640001C0 00000000 000003E7\n\n",
+        "[Inf Belly]": "[Inf Belly]\n400C0000 00000000 00000008\n640001C0 00000000 00002710\n\n",
+        "[Max Stats(warning-OP)]": "[Max Stats(warning-OP)]\n400C0000 00000000 00000010\n680001C0 0000270F 0000270F\n400C0000 00000000 0000001C\n680001C0 0000270F 0000270F\n\n",
+        "[Max Lvl after one kill]": "[Max Lvl after one kill]\n400C0000 00000000 00000044\n680001C0 0000270F 00800000\n\n"
     },
     "attribution": {
         "OmegaLabyrinth Life - Update 1 (v1.0.1) by falo ver 1.0.4 by Gamerjin.txt": ""

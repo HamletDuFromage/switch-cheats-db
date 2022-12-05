@@ -1,12 +1,12 @@
 {
-    "C08EC938F6AEAA3D": {
-        "[hitanywhere]": "[hitanywhere]\n580F0000 01298FF8\n780F0000 000F6BA4\n640F0000 00000000 60120078\n\n"
-    },
     "921CA58103B00781": {
         "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 012581ac 00000060\n\n",
         "[P1 Infinite Power]": "[P1 Infinite Power]\n01000000 01258365 00000060\n\n",
         "[P2 NO HP]": "[P2 NO HP]\n01000000 012582ac 00000001\n\n",
         "[P2 NO Power]": "[P2 NO Power]\n01000000 01258465 00000000\n\n"
+    },
+    "C08EC938F6AEAA3D": {
+        "[hitanywhere]": "[hitanywhere]\n580F0000 01298FF8\n780F0000 000F6BA4\n640F0000 00000000 60120078\n\n"
     },
     "attribution": {
         "ACA NEOGEO ART OF FIGHTING 2 ver 1.0.2 by xtatu.txt": "[From MAX-CHEATS.com by eco95 for ACA NEOGEO Art of Fighting 2 (V1.0.1)]\n\n\n[P1 Infinite HP]\n01000000 012581ac 00000060\n\n[P1 Infinite Power]\n01000000 01258365 00000060\n\n[P2 NO HP]\n01000000 012582ac 00000001\n\n[P2 NO Power]\n01000000 01258465 00000000"

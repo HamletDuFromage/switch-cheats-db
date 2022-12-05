@@ -1,4 +1,11 @@
 {
+    "1CC0F472AAA0CB44": {
+        "[Inf Health ON]": "[Inf Health ON]\n04000000 001C3D64 1406F2BF\n\n",
+        "[Inf Health OFF]": "[Inf Health OFF]\n04000000 001C3D64 1406F287\n\n",
+        "[Instant Item CoolDown]": "[Instant Item CoolDown]\n04000000 001C3F18 461C3C00\n04000000 001C3F10 1C000040\n\n",
+        "[Money x55555 on update]": "[Money x55555 on update]\n04000000 001C3F30 529B2060\n\n",
+        "[No Reload *wip*]": "[No Reload *wip*]\n04000000 001D118C 1E2703E1\n04000000 00199EE4 1E2703E1\n04000000 0022506C 1E2703E1\n\n"
+    },
     "5EB90226E5A2AA45": {
         "[Inf Health ON]": "[Inf Health ON]\n04000000 001F9EB4 1406A95F\n\n",
         "[Inf Health OFF]": "[Inf Health OFF]\n04000000 001F9EB4 1406A927\n\n",
@@ -15,13 +22,6 @@
         "[mp inf]": "[mp inf]\n04000000 00359094 1E204100\n04000000 0036ECF4 1E204100\n\n",
         "[cooldown fast]": "[cooldown fast]\n04000000 00367F60 1E27F000\n\n",
         "[ammo inf]": "[ammo inf]\n04000000 0015448C 1E2703E1\n04000000 001CAFB4 1E2703E1\n04000000 001CB964 1E2703E1\n04000000 0022110C 1E2703E1\n04000000 002224BC 1E2703E1\n04000000 00280C08 1E2703E1\n04000000 002B5A98 1E2703E1\n04000000 002F0328 1E2703E1\n04000000 0037620C 1E2703E1\n04000000 00378E44 1E204020\n\n"
-    },
-    "1CC0F472AAA0CB44": {
-        "[Inf Health ON]": "[Inf Health ON]\n04000000 001C3D64 1406F2BF\n\n",
-        "[Inf Health OFF]": "[Inf Health OFF]\n04000000 001C3D64 1406F287\n\n",
-        "[Instant Item CoolDown]": "[Instant Item CoolDown]\n04000000 001C3F18 461C3C00\n04000000 001C3F10 1C000040\n\n",
-        "[Money x55555 on update]": "[Money x55555 on update]\n04000000 001C3F30 529B2060\n\n",
-        "[No Reload *wip*]": "[No Reload *wip*]\n04000000 001D118C 1E2703E1\n04000000 00199EE4 1E2703E1\n04000000 0022506C 1E2703E1\n\n"
     },
     "CD13D3722E4EA24A": {
         "[Inf Health ON]": "[Inf Health ON]\n04000000 01521024 17B83523\n\n",

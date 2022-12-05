@@ -1,4 +1,13 @@
 {
+    "688F083106E7467D": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n04000000 687D3608 C0BCCCCC\n20000000\n\n",
+        "[Speed MAX]": "[Speed MAX]\n04000000 6874E394 0000000F\n\n",
+        "[Wing MAX]": "[Wing MAX]\n04000000 6874E3A0 0000000F\n\n",
+        "[Line MAX]": "[Line MAX]\n04000000 6874E3AC 00000064\n\n",
+        "[Power MAX]": "[Power MAX]\n04000000 6874E3C0 00000064\n04000000 6874E3C4 00000004\n\n",
+        "[Inf Capacity] Code by ??B": "[Inf Capacity] Code by ??B\n04000000 004E2834 000003E8\n\n",
+        "[Invincible] Code by ??B": "[Invincible] Code by ??B\n04000000 687D35A0 000001F4\n\n"
+    },
     "D469AA790876B5F6": {
         "[Lives unlimited]": "[Lives unlimited]\n01000000 6874A728 00000063\n\n",
         "[Energy unlimited]": "[Energy unlimited]\n01000000 687D0618 00000007\n\n",
@@ -46,15 +55,6 @@
         "[99999 Tres]": "[99999 Tres]\n04000000 68751150 0001869f\n\n",
         "[All Weapons Unlocked]": "[All Weapons Unlocked]\n01000000 687511d0 00000001\n01000000 687511d4 00000001\n01000000 687511d8 00000001\n01000000 687511dc 00000001\n01000000 687511e0 00000001\n01000000 687511e4 00000001\n\n",
         "[Have All Crystals]": "[Have All Crystals]\n01000000 687515d0 00000001\n01000000 687515d4 00000001\n01000000 687515d8 00000001\n01000000 687515dc 00000001\n01000000 687515e0 00000001\n01000000 687515e4 00000001\n01000000 687515e8 00000001\n01000000 687515ec 00000001\n01000000 687515f0 00000001\n01000000 687515f4 00000001\n01000000 687515f8 00000001\n01000000 687515fc 00000001\n\n"
-    },
-    "688F083106E7467D": {
-        "[Moon Jump]": "[Moon Jump]\n80000002\n04000000 687D3608 C0BCCCCC\n20000000\n\n",
-        "[Speed MAX]": "[Speed MAX]\n04000000 6874E394 0000000F\n\n",
-        "[Wing MAX]": "[Wing MAX]\n04000000 6874E3A0 0000000F\n\n",
-        "[Line MAX]": "[Line MAX]\n04000000 6874E3AC 00000064\n\n",
-        "[Power MAX]": "[Power MAX]\n04000000 6874E3C0 00000064\n04000000 6874E3C4 00000004\n\n",
-        "[Inf Capacity] Code by ??B": "[Inf Capacity] Code by ??B\n04000000 004E2834 000003E8\n\n",
-        "[Invincible] Code by ??B": "[Invincible] Code by ??B\n04000000 687D35A0 000001F4\n\n"
     },
     "attribution": {
         "The Legend of Dark Witch by ZiT866.txt": "",

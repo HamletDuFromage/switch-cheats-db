@@ -14,10 +14,13 @@
         "[money]": "[money] \n04100000 53F2C8EC 00001388\n\n",
         "[pp]": "[pp] \n04100000 53F2C8F0 0001A217\n\n",
         "[bond]": "[bond] \n04100000 53F2C740 0000005A\n\n",
-        "[moon jump]": "[moon jump]\n80000002\n580F0000 02217320\n580F1000 000005D0\n580F1000 00000018\n780F0000 0000000C\n640F0000 00000000 41333334\n20000000\n\n"
+        "[moon jump]": "[moon jump]\n80000002\n580F0000 02217320\n580F1000 000005D0\n580F1000 00000018\n780F0000 0000000C\n640F0000 00000000 41333334\n20000000\n\n",
+        "[60 FPS]": "[60 FPS]\n04000000 01D584F8 0000003C\n04000000 01D584FC 00000001\n04000000 01D6BFA0 42700000\n04000000 02AEFB30 00000000\n08000000 00005078 D503201F D503201F\n04000000 00005090 52800021\n\n",
+        "[30 FPS]": "[30 FPS]\n04000000 01D584F8 0000001E\n04000000 01D584FC 00000002\n04000000 01D6BFA0 41F00000\n04000000 02AEFB30 00000001\n08000000 00005078 540000E0 6B15001F\n04000000 00005090 2A1503E1\n\n"
     },
     "attribution": {
         "Persona 5 by Patjenova and xtatu.txt": "",
-        "Persona 5 by Patjenova.txt": ""
+        "Persona 5 by Patjenova.txt": "",
+        "Persona 5 Strikers.txt": "By masagrator\n\nhttps://gbatemp.net/threads/persona-5-scramble-strikers-60-fps-hack.560111/"
     }
 }

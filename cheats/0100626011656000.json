@@ -1,17 +1,4 @@
 {
-    "4A64EDCB99DE833C": {
-        "[99 ammo]": "[99 ammo]\n580F0000 07897800\n580F1000 00000000\n580F1000 00000210\n580F1000 000002D0\n580F1000 00000210\n780F0000 00000098\n640F0000 00000000 00000063\n\n"
-    },
-    "7D68E9E4670405A4": {
-        "[1p enermy inf health]": "[1p enermy inf health]\n04000000 01AFEB00 D65F03C0\n\n",
-        "[1p enermy inf health disable ]": "[1p enermy inf health disable ]\n04000000 01AFEB00 D102C3FF\n\n",
-        "[1p hitkill ]": "[1p hitkill ]\n04000000 0157A35C D503201F\nthey are not all enemies\n\n",
-        "[R power user recover hp+TTD+speed move disable]": "[R power user recover hp+TTD+speed move disable]\n04000000 014E3D70 1E2E1008\n\n",
-        "[R power user recover hp+TTD+speed move 31x]": "[R power user recover hp+TTD+speed move 31x]\n04000000 014E3D70 1E27F008\n\n",
-        "[R power user recover hp+TTD+speed move 10x]": "[R power user recover hp+TTD+speed move 10x]\n04000000 014E3D70 1E249008\n\n",
-        "[R power user recover hp+TTD+speed move 5x]": "[R power user recover hp+TTD+speed move 5x]\n04000000 014E3D70 1E229008\n\n",
-        "[R power user recover hp+TTD+speed move 3x]": "[R power user recover hp+TTD+speed move 3x]\n04000000 014E3D70 1E211008\n\n"
-    },
     "4382212487D292D0": {
         "[01# Inf Health]": "[01# Inf Health]\n580F0000 06FF1A30\n580F1000 00000370\n580F1000 00000000\n780F0000 000001C8\n640F0000 00000000 45A41000\n\n",
         "[02# Inf Ammo]": "[02# Inf Ammo]\n580F0000 06FF1A30\n580F1000 00000370\n580F1000 00000048\n580F1000 000002D0\n580F1000 00000210\n780F0000 00000098\n640F0000 00000000 00000063\n\n",
@@ -25,6 +12,9 @@
         "[09# Inf TTD]": "[09# Inf TTD]\n580F0000 06FF1A30\n580F1000 00000310\n580F1000 00000070\n580F1000 00000158\n780F0000 00000180\n640F0000 00000000 3FA00000\n780F0000 00000004\n640F0000 00000000 3FA00000\n\n",
         "[08# Speed x 2 (hold L )]": "[08# Speed x 2 (hold L )]\n580F0000 06FF1A30\n580F1000 00000060\n580F1000 00000018\n780F0000 000001D4\n640F0000 00000000 43C80000\n80000040\n\n580F0000 06FF1A30\n580F1000 00000060\n580F1000 00000018\n780F0000 000001D4\n640F0000 00000000 44960000\n20000000\n\n"
     },
+    "4A64EDCB99DE833C": {
+        "[99 ammo]": "[99 ammo]\n580F0000 07897800\n580F1000 00000000\n580F1000 00000210\n580F1000 000002D0\n580F1000 00000210\n780F0000 00000098\n640F0000 00000000 00000063\n\n"
+    },
     "761CD556AB357C87": {
         "[01# Inf Health]": "[01# Inf Health]\n580A0000 071BE400\n580A1000 00000370\n580A1000 00000000\n780A0000 000001C8\n640A0000 00000000 45A41000\n\n",
         "[02# Inf Ammo]": "[02# Inf Ammo]\n580A0000 071BE400\n580A1000 00000370\n580A1000 00000048\n580A1000 000002F0\n580A1000 00000218\n780A0000 000000A8\n640A0000 00000000 00000063\n\n",
@@ -36,6 +26,16 @@
         "[07# Moonjump]": "[07# Moonjump]\n80000001\n580A0000 071BE400\n580A1000 00000060\n580A1000 00000018\n780A0000 000000FC\n640A0000 00000000 44000000\n20000000\n\n",
         "[08# Speed x 2 (hold L)]": "[08# Speed x 2 (hold L)]\n580A0000 071BE400\n580A1000 00000060\n580A1000 00000018\n780A0000 000001D4\n640A0000 00000000 43C80000\n80000040\n580A0000 071BE400\n580A1000 00000060\n580A1000 00000018\n780A0000 000001D4\n640A0000 00000000 44960000\n20000000\n\n",
         "[09# Inf TTD]": "[09# Inf TTD]\n580A0000 071BE400\n580A1000 00000310\n580A1000 00000070\n580A1000 00000158\n780A0000 00000180\n640A0000 00000000 3FA00000\n780A0000 00000004\n640A0000 00000000 3FA00000\n\n"
+    },
+    "7D68E9E4670405A4": {
+        "[1p enermy inf health]": "[1p enermy inf health]\n04000000 01AFEB00 D65F03C0\n\n",
+        "[1p enermy inf health disable ]": "[1p enermy inf health disable ]\n04000000 01AFEB00 D102C3FF\n\n",
+        "[1p hitkill ]": "[1p hitkill ]\n04000000 0157A35C D503201F\nthey are not all enemies\n\n",
+        "[R power user recover hp+TTD+speed move disable]": "[R power user recover hp+TTD+speed move disable]\n04000000 014E3D70 1E2E1008\n\n",
+        "[R power user recover hp+TTD+speed move 31x]": "[R power user recover hp+TTD+speed move 31x]\n04000000 014E3D70 1E27F008\n\n",
+        "[R power user recover hp+TTD+speed move 10x]": "[R power user recover hp+TTD+speed move 10x]\n04000000 014E3D70 1E249008\n\n",
+        "[R power user recover hp+TTD+speed move 5x]": "[R power user recover hp+TTD+speed move 5x]\n04000000 014E3D70 1E229008\n\n",
+        "[R power user recover hp+TTD+speed move 3x]": "[R power user recover hp+TTD+speed move 3x]\n04000000 014E3D70 1E211008\n\n"
     },
     "9F310253603704D9": {
         "[01# Inf Health]": "[01# Inf Health]\n580A0000 0714D478\n580A1000 00000370\n580A1000 00000000\n780A0000 000001C8\n640A0000 00000000 45A41000\n\n",

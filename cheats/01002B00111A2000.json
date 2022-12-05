@@ -1,21 +1,14 @@
 {
-    "C3CF52BF2B05D731": {
-        "[sp]": "[sp]\n580F0000 02B5F708\n580F1000 00000030\n580F1000 00000008\n780F0000 00000054\n640F0000 00000000 00010303\n\n",
-        "[Impa 7 powered-up specials]": "[Impa 7 powered-up specials]\n580A0000 02B5F708\n580A1000 00000030\n580A1000 00000008\n780A0000 000000D0\n640A0000 00000000 00000007\n\n",
-        "[Infinite Rods/Apples]": "[Infinite Rods/Apples]\n580A0000 02B5F708\n580A1000 00000030\n580A1000 000003C8\n400C0000 00000000 00000910\n680C11A0 00000005 00000005\n640C01A0 00000000 00000005\n400C0000 00000000 0000092C\n640C01A0 00000000 00000007\n\n",
-        "[Instant Rune Charge]": "[Instant Rune Charge]\n580A0000 02B5F708\n580A1000 00000030\n780A0000 00000064\n640A0000 00000000 00000000\n\n",
-        "[hold ZL 0 inf red beam special/Thunder gauge]": "[hold ZL 0 inf red beam special/Thunder gauge]\n58020000 02B5F708\n58021000 00000030\n58021000 00000008\n78020000 000000D4\n64020000 00000000 446D8000\n80000100\n64020000 00000000 00000000\n20000000\n\n",
-        "[Active character pointer]": "[Active character pointer]\n58010000 02B5F708\n58011000 00000030\n58011000 00000008\n54011000 00000018\n94511100 0000FFFF\n72012000 00000008\n580F0000 0277CA68\n980F10F0\n580F1000 00000138\n\n",
-        "[Ghost Mode off]": "[Ghost Mode off]\n80000110\n400C0000 00000000 00000028\n640C01F0 00000000 11800009\n20000000\n\n",
-        "[Ghost Mode on]": "[Ghost Mode on]\n80000220\n400C0000 00000000 00000028\n640F01C0 00000000 11801009\n20000000\n\n",
-        "[mj]": "[mj]\n80000012\n989DF000\n580D1000 00000158\n780D0000 0000000C\n640D0000 00000000 42000000\n20000000\n\n",
-        "[Start dashing much faster]": "[Start dashing much faster]\n400C0000 00000000 00000128\n640C01F0 00000000 464E4000\n\n",
-        "[size up(1.5)]": "[size up(1.5)]\n989DF000\n580D1000 00000150\n780D0000 000001E0\n640D0000 00000000 00960096\n\n",
-        "[size normal(1.0)]": "[size normal(1.0)]\n989DF000\n580D1000 00000150\n780D0000 000001E0\n640D0000 00000000 00640064\n\n"
-    },
-    "attribution": {
-        "Hyrule Warriors Age of Calamity ver 1.2.1 by xtatu 1.2.0 by ThetwilightZone1.1.0 by xtatu by CJB on gbatemp.txt": "",
-        "Hyrule Warriors Age of Calamity ver 1.0.0 by CJB and arismendy64 on gbatemp.txt": "My cheats only works on the most latest version v1.01\nItems will unlock, if you don't have.\n100LV will be appeared when a battle is finished. (i.e. the moment of LV up)\nFor the Max HP cheat, it will always appear on the first character, if you change the actor by pressing UP, all other character and emery will have a HP of 45/45 Heart. (Max 140 actors) I recommend you use this cheat together with #3 & #4.\n\nDue to the limitation of SXOS and the codes are too long,\nif you face the cheat doesn't work, you may press - to disable all the cheats and enable them one by one."
+    "0496D4B4C6AE1CF4": {
+        "[hit anywhere on]": "[hit anywhere on]\n04000000 00092584 D503201F\n\n",
+        "[hit anywhere off ZR]": "[hit anywhere off ZR]\n80000200\n04000000 00092584 1e222860\n20000000\n\n",
+        "[1p inf heath]": "[1p inf heath]\n04000000 000105B0 1E37F009\n\n",
+        "[1p atack modific damager 31x]": "[1p atack modific damager 31x]\n04000000 000109F8 1E27F009\n\n",
+        "[1p speed normal attack]": "[1p speed normal attack]\n04000000 000AAD60 1E2E1000\n\n",
+        "[1p 2x speed attack]": "[1p 2x speed attack]\n04000000 000AAD60 1E201000\n\n",
+        "[1p 3x speed attack]": "[1p 3x speed attack]\n04000000 000AAD60 1E211000\n\n",
+        "[1p 10x speed attack]": "[1p 10x speed attack]\n04000000 000AAD60 1E249000\n\n",
+        "[Infinite Rupees (sets to 99,999)]": "[Infinite Rupees (sets to 99,999)]\n041F0000 48954D64 0001869F\n\n"
     },
     "3A2D1227979971E5": {
         "[1p inf heath]": "[1p inf heath]\n04000000 00010658 1E3E1009\n\n"
@@ -181,17 +174,6 @@
         "[Zelda: Costume 3 @CJB]": "[Zelda: Costume 3 @CJB]\n01100000 487E5E76 00000036\n\n",
         "[Zelda: Costume Default @CJB]": "[Zelda: Costume Default @CJB]\n01100000 487E5E76 00000033\n\n"
     },
-    "0496D4B4C6AE1CF4": {
-        "[hit anywhere on]": "[hit anywhere on]\n04000000 00092584 D503201F\n\n",
-        "[hit anywhere off ZR]": "[hit anywhere off ZR]\n80000200\n04000000 00092584 1e222860\n20000000\n\n",
-        "[1p inf heath]": "[1p inf heath]\n04000000 000105B0 1E37F009\n\n",
-        "[1p atack modific damager 31x]": "[1p atack modific damager 31x]\n04000000 000109F8 1E27F009\n\n",
-        "[1p speed normal attack]": "[1p speed normal attack]\n04000000 000AAD60 1E2E1000\n\n",
-        "[1p 2x speed attack]": "[1p 2x speed attack]\n04000000 000AAD60 1E201000\n\n",
-        "[1p 3x speed attack]": "[1p 3x speed attack]\n04000000 000AAD60 1E211000\n\n",
-        "[1p 10x speed attack]": "[1p 10x speed attack]\n04000000 000AAD60 1E249000\n\n",
-        "[Infinite Rupees (sets to 99,999)]": "[Infinite Rupees (sets to 99,999)]\n041F0000 48954D64 0001869F\n\n"
-    },
     "908CD685037018E9": {
         "[Max Rupees @TheTwilightZone]": "[Max Rupees @TheTwilightZone]\n58000000 026558B8\n58001000 000001C8\n58001000 00000008\n58001000 00000008\n58001000 00000000\n78000000 00000064\n64000000 00000000 0098967F\n\n",
         "[Store Stocks x100 @TheTwilightZone]": "[Store Stocks x100 @TheTwilightZone]\n580F0000 02655910\n580F1000 00000048\n580F1000 00000100\n580F1000 00000060\n580F1000 000000B0\n580F1000 00000050\n780F0000 00000024\n30010000 00000007\n640F0000 00000000 00000064\n780F0000 00000008\n31010000 20000000\n\n",
@@ -289,5 +271,36 @@
         "[#3 Max all Charaters' ATK and DEF @Eiffel2018]": "[#3 Max all Charaters' ATK and DEF @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E4E\n300E0000 00000012\n640F0000 00000000 270F270F\n780F0000 00000020\n310E0000\n\n",
         "[#4 Max all Charaters Hearts @Eiffel2018]": "[#4 Max all Charaters Hearts @Eiffel2018]\n580F0000 025170D8\n780F0000 487E5E4C\n300E0000 00000012\n610F0000 00000000 0000002D\n780F0000 00000020\n310E0000\n\n",
         "[#5 Max HP @Eiffel2018]": "[#5 Max HP @Eiffel2018]\n580F0000 025170D8\n780F0000 4A46F554\n680F1000 468CA000 468CA000\n640F1000 00000000 468CA000\n80002000\n300E0000 0000008B\n780F0000 00000050\n680F1000 468CA000 468CA000\n640F1000 00000000 468CA000\n310E0000\n20000000\n\n"
+    },
+    "C3CF52BF2B05D731": {
+        "[sp]": "[sp]\n580F0000 02B5F708\n580F1000 00000030\n580F1000 00000008\n780F0000 00000054\n640F0000 00000000 00010303\n\n",
+        "[Impa 7 powered-up specials]": "[Impa 7 powered-up specials]\n580A0000 02B5F708\n580A1000 00000030\n580A1000 00000008\n780A0000 000000D0\n640A0000 00000000 00000007\n\n",
+        "[Infinite Rods/Apples]": "[Infinite Rods/Apples]\n580A0000 02B5F708\n580A1000 00000030\n580A1000 000003C8\n400C0000 00000000 00000910\n680C11A0 00000005 00000005\n640C01A0 00000000 00000005\n400C0000 00000000 0000092C\n640C01A0 00000000 00000007\n\n",
+        "[Instant Rune Charge]": "[Instant Rune Charge]\n580A0000 02B5F708\n580A1000 00000030\n780A0000 00000064\n640A0000 00000000 00000000\n\n",
+        "[hold ZL 0 inf red beam special/Thunder gauge]": "[hold ZL 0 inf red beam special/Thunder gauge]\n58020000 02B5F708\n58021000 00000030\n58021000 00000008\n78020000 000000D4\n64020000 00000000 446D8000\n80000100\n64020000 00000000 00000000\n20000000\n\n",
+        "[Active character pointer]": "[Active character pointer]\n58010000 02B5F708\n58011000 00000030\n58011000 00000008\n54011000 00000018\n94511100 0000FFFF\n72012000 00000008\n580F0000 0277CA68\n980F10F0\n580F1000 00000138\n\n",
+        "[Ghost Mode off]": "[Ghost Mode off]\n80000110\n400C0000 00000000 00000028\n640C01F0 00000000 11800009\n20000000\n\n",
+        "[Ghost Mode on]": "[Ghost Mode on]\n80000220\n400C0000 00000000 00000028\n640F01C0 00000000 11801009\n20000000\n\n",
+        "[mj]": "[mj]\n80000012\n989DF000\n580D1000 00000158\n780D0000 0000000C\n640D0000 00000000 42000000\n20000000\n\n",
+        "[Start dashing much faster]": "[Start dashing much faster]\n400C0000 00000000 00000128\n640C01F0 00000000 464E4000\n\n",
+        "[size up(1.5)]": "[size up(1.5)]\n989DF000\n580D1000 00000150\n780D0000 000001E0\n640D0000 00000000 00960096\n\n",
+        "[size normal(1.0)]": "[size normal(1.0)]\n989DF000\n580D1000 00000150\n780D0000 000001E0\n640D0000 00000000 00640064\n\n",
+        "[60 FPS]": "[60 FPS]\n581F0000 4BD26408\n780F0000 00000F14\n640F0000 00000000 00000001\n04000000 0269E150 0000003C\n04000000 0269E154 00000001\n04000000 0269E158 0000003C\n04000000 0269E15C 42700000\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n581F0000 4BD26408\n780F0000 00000F14\n640F0000 00000000 00000002\n04000000 0269E150 0000001E\n04000000 0269E154 00000002\n04000000 0269E158 0000001E\n04000000 0269E15C 41F00000\n\n",
+        "[378p Locked (Handheld Lowest)]": "[378p Locked (Handheld Lowest)]\n04000000 0277CB78 0000017A\n04000000 0277CB8C 00000000\n\n",
+        "[480p Locked]": "[480p Locked]\n04000000 0277CB78 000001E0\n04000000 0277CB8C 00000000\n\n",
+        "[504p Locked]": "[504p Locked]\n04000000 0277CB78 000001F8\n04000000 0277CB8C 00000000\n\n",
+        "[Default 540p Locked (Handheld Max)]": "[Default 540p Locked (Handheld Max)]\n04000000 0277CB78 000001E0\n04000000 0277CB8C 00000000\n\n",
+        "[567p Locked (Docked Lowest)]": "[567p Locked (Docked Lowest)]\n04000000 0277CB78 00000237\n04000000 0277CB8C 00000000\n\n",
+        "[648p Locked]": "[648p Locked]\n04000000 0277CB78 00000288\n04000000 0277CB8C 00000000\n\n",
+        "[720p Locked]": "[720p Locked]\n04000000 0277CB78 000002D0\n04000000 0277CB8C 00000000\n\n",
+        "[756p Locked]": "[756p Locked]\n04000000 0277CB78 000002F4\n04000000 0277CB8C 00000000\n\n",
+        "[Default 810p Locked (Docked Max)]": "[Default 810p Locked (Docked Max)]\n04000000 0277CB78 000001E0\n04000000 0277CB8C 00000000\n\n",
+        "[Re-Enable Dynamic Resolution]": "[Re-Enable Dynamic Resolution]\n04000000 0277CB8C 01010101\n\n"
+    },
+    "attribution": {
+        "Hyrule Warriors Age of Calamity ver 1.2.1 by xtatu 1.2.0 by ThetwilightZone1.1.0 by xtatu by CJB on gbatemp.txt": "",
+        "Hyrule Warriors Age of Calamity ver 1.0.0 by CJB and arismendy64 on gbatemp.txt": "My cheats only works on the most latest version v1.01\nItems will unlock, if you don't have.\n100LV will be appeared when a battle is finished. (i.e. the moment of LV up)\nFor the Max HP cheat, it will always appear on the first character, if you change the actor by pressing UP, all other character and emery will have a HP of 45/45 Heart. (Max 140 actors) I recommend you use this cheat together with #3 & #4.\n\nDue to the limitation of SXOS and the codes are too long,\nif you face the cheat doesn't work, you may press - to disable all the cheats and enable them one by one.",
+        "Hyrule Warriors Age of Calamity.txt": "FPS Codes By iCris4\nResolution Hacks by Hazerou\n\nNotes;\n- When using 60 FPS, Game Speed will Slow Down as FPS Drops, Also some Cutscenes Runs Faster.\n\nFurther upscaling the Resolution above 810p will only cause a Graphical Glitch."
     }
 }

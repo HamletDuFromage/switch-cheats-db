@@ -21,12 +21,8 @@
         "[Salvage Items Tab 5th Slot 999]": "[Salvage Items Tab 5th Slot 999]\n04000000 0a2fbac0 000003E7\n\n",
         "[Salvage Items Tab 6th Slot 999]": "[Salvage Items Tab 6th Slot 999]\n04000000 0a2fbad0 000003E7\n\n",
         "[Salvage Items Tab 8th Slot 999]": "[Salvage Items Tab 8th Slot 999]\n04000000 0a2fbae0 000003E7\n\n",
-        "[attack super-lifting]": "[attack super-lifting]\n580F0000 00DB9540\n780F1000 000A8C78\n640F0000 00000000 00009999\n580F0000 00DB9540\n780F1000 000A8C7C\n640F0000 00000000 00000000\n580F0000 00DB9540\n780F1000 000A8C74\n680F0000 000003E7 000003E7\n\n"
-    },
-    "attribution": {
-        "Astral chain 1.0 by Optanic.txt": "",
-        "Astral Chain v1.0.1.txt": "",
-        "Astral Chain v1.0.1 By the black death.txt": ""
+        "[attack super-lifting]": "[attack super-lifting]\n580F0000 00DB9540\n780F1000 000A8C78\n640F0000 00000000 00009999\n580F0000 00DB9540\n780F1000 000A8C7C\n640F0000 00000000 00000000\n580F0000 00DB9540\n780F1000 000A8C74\n680F0000 000003E7 000003E7\n\n",
+        "[Cutscenes Speed Fix For 60 FPS Patch]": "[Cutscenes Speed Fix For 60 FPS Patch]\n14050000 0CCA6764 3D088889\n580F0000 0CCB7B08\n580F1000 00000070\n780F0000 00000F14\n640F0000 00000000 00000002\n20000000\n14030000 0CCA6764 3D088889\n580F0000 0CCB7B08\n580F1000 00000070\n780F0000 00000F14\n640F0000 00000000 00000001\n20000000\n\n"
     },
     "ED2026B20685971F": {
         "[ZR+UP Baton Atk 999]": "[ZR+UP Baton Atk 999] \n80002200\n04000000 08e887ec 000003e7\n08000000 08e887f0 000003e7 000003e7\n08000000 08e887f8 000003e7 000003e7\n08000000 08e88800 000003e7 000003e7\n08000000 08e88808 000003e7 000003e7 \n20000000\n\n",
@@ -34,5 +30,11 @@
         "[ZR+UP Blaster Atk 999]": "[ZR+UP Blaster Atk 999] \n80002200\n04000000 08e8883c 000003e7 08000000\n08e88840 000003e7 000003e7 08000000\n08e88848 000003e7 000003e7 08000000\n08e88850 000003e7 000003e7 08000000\n08e88858 000003e7 000003e7 \n20000000\n\n",
         "[ZR+DOWN Blaster Atk 99999]": "[ZR+DOWN Blaster Atk 99999] \n80008200\n04000000 08e8883c 0001869f 08000000\n08e88840 0001869f 0001869f 08000000\n08e88848 0001869f 0001869f 08000000\n08e88850 0001869f 0001869f 08000000\n08e88858 0001869f 0001869f\n20000000\n\n",
         "[Legatus Limiter 99999]": "[Legatus Limiter 99999] \n04000000 08e889a4 0001869f\n08000000 08e889a8 0001869f 0001869f \n08000000 08e889b0 0001869f 0001869f\n08000000 08e889b8 0001869f 0001869f\n08000000 08e889c0 0001869f 0001869f\n\n"
+    },
+    "attribution": {
+        "Astral chain 1.0 by Optanic.txt": "",
+        "Astral Chain v1.0.1.txt": "",
+        "Astral Chain v1.0.1 By the black death.txt": "",
+        "ASTRAL CHAIN.txt": "60 FPS Patch is needed. You can get it here; by MrComputerRevo\nhttps://gbatemp.net/threads/astral-chain-rom-hacking-bible.547050/post-8777070\n\nCheat code forces The Cutscenes' FPS to 30. It's the only way that I can think of to fix the Cutscenes from Speeding up.\nBy Hazerou v1.01"
     }
 }

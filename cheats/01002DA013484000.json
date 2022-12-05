@@ -44,13 +44,10 @@
         "[*Speed R ]": "[*Speed R ]\n80000080\n04000000 06244B68 42880000\n20000000\n\n",
         "[get 9999 ruby+ get itens max on]": "[get 9999 ruby+ get itens max on]\n04000000 00B808A8 D65F03C0\n\n",
         "[get 9999 ruby+ get itens max off]": "[get 9999 ruby+ get itens max off]\n04000000 00B808A8 A9BE4FF4\n\n",
-        "[Moonjump L+A]": "[Moonjump L+A]\n80000041\n04000000 0623E86C 42E00000\n20000000\n\n"
-    },
-    "attribution": {
-        "Legend Of Zelda Skyward Sword HD ver 1.0.0 by Asia81.txt": "",
-        "Legend Of Zelda Skyward Sword HD ver 1.0.0 by Asia81 and xtatu.txt": "",
-        "Legend Of Zelda Skyward Sword HD ver 1.0.0 by Asia81 and xtatu and Eiffel and Spider_man.txt": "",
-        "Legend Of Zelda Skyward Sword HD ver 1.0.0 by Asia81 and xtatu and Eiffel and Spider_man and jericoss and skyqueen.txt": ""
+        "[Moonjump L+A]": "[Moonjump L+A]\n80000041\n04000000 0623E86C 42E00000\n20000000\n\n",
+        "[120(?) FPS For Emulator]": "[120(?) FPS For Emulator]\n04000000 0104A4E8 1E2A1000\n580F0000 02C8F4C8\n780F0000 00000F14\n640F0000 00000000 00000000\n\n",
+        "[Default 60 FPS]": "[Default 60 FPS]\n04000000 0104A4E8 1E2C1000\n580F0000 02C8F4C8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[OG 30 FPS]": "[OG 30 FPS]\n04000000 0104A4E8 1E2E1000\n580F0000 02C8F4C8\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "D824D4B1BBD45D03": {
         "[Infinite Stamina]": "[Infinite Stamina]\n04000000 06244B58 000F4240\n\n",
@@ -100,5 +97,12 @@
         "[get 9999 ruby+ get itens max on]": "[get 9999 ruby+ get itens max on]\n04000000 00B808A8 D65F03C0\n\n",
         "[get 9999 ruby+ get itens max off]": "[get 9999 ruby+ get itens max off]\n04000000 00B808A8 A9BE4FF4\n\n",
         "[Moonjump L+A]": "[Moonjump L+A]\n80000041\n04000000 0623E86C 42E00000\n20000000\n\n"
+    },
+    "attribution": {
+        "Legend Of Zelda Skyward Sword HD ver 1.0.0 by Asia81.txt": "",
+        "Legend Of Zelda Skyward Sword HD ver 1.0.0 by Asia81 and xtatu.txt": "",
+        "Legend Of Zelda Skyward Sword HD ver 1.0.0 by Asia81 and xtatu and Eiffel and Spider_man.txt": "",
+        "Legend Of Zelda Skyward Sword HD ver 1.0.0 by Asia81 and xtatu and Eiffel and Spider_man and jericoss and skyqueen.txt": "",
+        "The Legend of Zelda Skyward Sword HD.txt": "By Hazerou\n\nAble to balance the speed thanks to @xtatu Game Speed Code which can be found here: https://gbatemp.net/threads/cheat-codes-ams-and-sx-os-add-and-request.520293/page-2093#post-9554040"
     }
 }

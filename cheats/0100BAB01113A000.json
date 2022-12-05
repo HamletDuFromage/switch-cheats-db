@@ -1,12 +1,4 @@
 {
-    "A78D968009A9374C": {
-        "[Invulnerable ON]": "[Invulnerable ON]\n04000000 00550E20 D65F03C0\n\n",
-        "[Invulnerable OFF]": "[Invulnerable OFF]\n04000000 00550E20 D10283FF\n\n",
-        "[No need for keys]": "[No need for keys]\n04000000 00279D8C 52800020\n\n",
-        "[Boss gives 999 Unlock Gems]": "[Boss gives 999 Unlock Gems]\n04000000 00365E28 52807CE9\n\n",
-        "[Crystals/Mana dont decrease]": "[Crystals/Mana dont decrease]\n04000000 0027AEF8 51000001\n\n",
-        "[spend coins to have max]": "[spend coins to have max]\n04000000 0027A65C 52807CE1\n\n"
-    },
     "48FEAF16AFB29340": {
         "[Crystals/Mana Don't reduce]": "[Crystals/Mana Don't reduce]\n04000000 0157F970 D65F03C0\n\n",
         "[Boss battle gives 999 Gems]": "[Boss battle gives 999 Gems]\n04000000 01536328 52807CF4\n\n",
@@ -24,6 +16,14 @@
         "[Unlimited use of Bombs]": "[Unlimited use of Bombs]\n040E0000 017A3084 D503201F\n040E0000 017A31D8 D503201F\n\n",
         "[Unlimited use of Boss Coins]": "[Unlimited use of Boss Coins]\n010E0000 015349DA 0000001F\n\n",
         "[Unlimited use of Final Coin]": "[Unlimited use of Final Coin]\n010E0000 01534B3A 0000001F\n\n"
+    },
+    "A78D968009A9374C": {
+        "[Invulnerable ON]": "[Invulnerable ON]\n04000000 00550E20 D65F03C0\n\n",
+        "[Invulnerable OFF]": "[Invulnerable OFF]\n04000000 00550E20 D10283FF\n\n",
+        "[No need for keys]": "[No need for keys]\n04000000 00279D8C 52800020\n\n",
+        "[Boss gives 999 Unlock Gems]": "[Boss gives 999 Unlock Gems]\n04000000 00365E28 52807CE9\n\n",
+        "[Crystals/Mana dont decrease]": "[Crystals/Mana dont decrease]\n04000000 0027AEF8 51000001\n\n",
+        "[spend coins to have max]": "[spend coins to have max]\n04000000 0027A65C 52807CE1\n\n"
     },
     "attribution": {
         "Neon Abyss v1.0.2 by BlackDeath ver 1.0.6 by Eiffel.txt": "caution\ncan some problems"

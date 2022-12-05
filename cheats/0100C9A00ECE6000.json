@@ -3,9 +3,6 @@
         "[NSO N64 - 30 fps]": "[NSO N64 - 30 fps]\n08100000 78891F24 00000000 00000002\n\n",
         "[NSO N64 - 60 fps (default)]": "[NSO N64 - 60 fps (default)]\n08100000 78891F24 00000000 00000001\n\n"
     },
-    "attribution": {
-        "Nintendo64 nso Zelda by Arismendy64.txt": "Note: Better use NOEXES to avoid game lag"
-    },
     "EB79EF243458597C": {
         "[Tunic Black Mod]": "[Tunic Black Mod]\n580F0000 005D20C0\n780F0000 0011ADF0\n620F0000 00000000 00000014\n\n",
         "[Tunic White+Hover Mod]": "[Tunic White+Hover Mod]\n580F0000 005D20C0\n780F0000 0011ADF0\n620F0000 00000000 00000035\n\n",
@@ -60,5 +57,9 @@
         "[Disable timers]": "[Disable timers]\n580F0000 005D20C0\n400C0000 00000000 0011C053\n620C01F0 00000000 00000000\n400C0000 00000000 0011C04F\n620C01F0 00000000 00000000\n\n",
         "[Hookshot Anywhere]": "[Hookshot Anywhere]\n580F0000 005D20C0\n780F0000 00034CEC\n680F0000 01000024 00240200\n\n",
         "{Credit to Arismendy64/Gamerjin/SkyQueen/Rheir}": "{Credit to Arismendy64/Gamerjin/SkyQueen/Rheir}\n20000000\n\n"
+    },
+    "attribution": {
+        "Nintendo64 nso Zelda by Arismendy64.txt": "Note: Better use NOEXES to avoid game lag",
+        "Nintendo 64 - Nintendo Switch Online.txt": "By cucholix \n\nImportant: must be enabled via EdiZon overlay during gameplay, the cheat doesn't auto-apply."
     }
 }

@@ -8,9 +8,12 @@
         "[Speed 1.5x]": "[Speed 1.5x]\n04000000 0030DD98 1E2F1000\n04000000 0030D758 1E2F1000\n04000000 0030D768 1E2F1000\n\n",
         "[Weight 1]": "[Weight 1]\n04000000 0024F7CC 1E2E1008\n04000000 0024F688 1E2E1008\n\n",
         "[Weapon Durable]": "[Weapon Durable]\n04000000 00254D40 7100014D\n\n",
-        "[Drop Rate 100]": "[Drop Rate 100]\n04000000 005F420C 52800020\n\n"
+        "[Drop Rate 100]": "[Drop Rate 100]\n04000000 005F420C 52800020\n\n",
+        "[60 FPS]": "[60 FPS]\n04000000 00706FA4 321E0FE1\n04000000 00667904 BD483508\n\n",
+        "[30 FPS]": "[30 FPS]\n04000000 00706FA4 321F0FE1\n04000000 00667904 BD46ED08\n\n"
     },
     "attribution": {
-        "Dark Souls Remastered 1.0.3.txt": ""
+        "Dark Souls Remastered 1.0.3.txt": "",
+        "DARK SOULS REMASTERED.txt": "By masagrator\n\nhttps://gbatemp.net/threads/dark-souls-60-fps-mod.557760/"
     }
 }

@@ -1,20 +1,15 @@
 {
-    "981A2D07E0947446": {
-        "[Max Inf Money on]": "[Max Inf Money on]\n04000000 01C02000 1790397D\n04000000 000105F4 5292CFE0\n04000000 000105F8 72A01300\n04000000 000105FC D65F03C0\n\n",
-        "[Max Inf Money off]": "[Max Inf Money off]\n04000000 01C02000 B9402800\n\n[]\n\n",
-        "[Hold ZL when split Items to get 999]": "[Hold ZL when split Items to get 999]\n04000000 01C0B910 B9402668\n80000100\n04000000 01C0B910 B9402268\n20000000\n\n[]\n\n",
-        "[Freeze SkillPoints on]": "[Freeze SkillPoints on]\n04000000 01BB5920 51000108\n\n",
-        "[Freeze SkillPoints off]": "[Freeze SkillPoints off]\n04000000 01BB5920 51000508\n\n[]\n\n",
-        "[Inf Endurance On]": "[Inf Endurance On]\n04000000 01857CE0 D65F03C0\n04000000 0185CAA0 D65F03C0\n\n",
-        "[Inf Endurance Off]": "[Inf Endurance Off]\n04000000 01857CE0 6DBB23E9\n04000000 0185CAA0 D10143FF\n\n[]\n\n",
-        "[Inf Stamina On]": "[Inf Stamina On]\n04000000 0186B280 D65F03C0\n\n",
-        "[Inf Stamina Off]": "[Inf Stamina Off]\n04000000 0186B280 FC1D0FE8\n\n[]\n\n",
-        "[Mission Reward EXP Booster on]": "[Mission Reward EXP Booster on]\n04000000 02022780 177FB79D\n04000000 000105F4 5292CFE0\n04000000 000105F8 72A01300\n04000000 000105FC D65F03C0\n\n",
-        "[Mission Reward EXP Booster off]": "[Mission Reward EXP Booster off]\n04000000 02022780 B9403400\n\n[]\n\n",
-        "[Farm Upgrade cost gold only on]": "[Farm Upgrade cost gold only on]\n04000000 01DF7180 D65F03C0\n\n",
-        "[Farm Upgrade cost gold only off]": "[Farm Upgrade cost gold only off]\n04000000 01DF7180 D101C3FF\n\n[]\n\n",
-        "[Unlock Inv.Slot for free on]": "[Unlock Inv.Slot for free on]\n04000000 01C02BF0 D65F03C0\n04000000 01C02AD0 D65F03C0\n\n",
-        "[Unlock Inv.Slot for free off]": "[Unlock Inv.Slot for free off]\n04000000 01C02BF0 B0010BE8\n04000000 01C02AD0 A9BD57F6\n\n"
+    "0F91DA8517FF2C47": {
+        "[ZL Have all Items you need]": "[ZL Have all Items you need]\n04000000 00AA5554 2A1F03F6\n04000000 00AA5558 0B1502C0\n80000100\n04000000 00AA5554 52800596\n04000000 00AA5558 52800F60\n20000000\n\n",
+        "[Max Inf Money on]": "[Max Inf Money on]\n04000000 00AA0B80 5292CFE0\n04000000 00AA0B84 72A01300\n04000000 00AA0B88 D65F03C0\n\n",
+        "[Hold ZL when split Items to get 999]": "[Hold ZL when split Items to get 999]\n04000000 00A9D6BC B9402668\n80000100\n04000000 00A9D6BC B9402268\n20000000\n\n",
+        "[Freeze SkillPoints on]": "[Freeze SkillPoints on]\n04000000 0092CB48 51000108\n\n",
+        "[Inf Endurance On - hold RS to remove circle]": "[Inf Endurance On - hold RS to remove circle]\n04000000 0032F8E0 D65F03C0\n04000000 003347D0 D65F03C0\n04000000 0030E840 D65F03C0\n04000000 0030E980 D65F03C0\n80000020\n04000000 0032F8E0 6DBB23E9\n04000000 003347D0 D10143FF\n04000000 0030E840 FC1D0FE8\n04000000 0030E980 320003E8\n20000000\n\n",
+        "[Inf Stamina On]": "[Inf Stamina On]\n04000000 003438A0 D65F03C0\n\n",
+        "[Mission Reward EXP Booster on]": "[Mission Reward EXP Booster on]\n04000000 00F3E2B0 5292CFE0\n04000000 00F3E2B4 72A01300\n04000000 00F3E2B8 D65F03C0\n\n",
+        "[Farm Upgrade cost gold only on]": "[Farm Upgrade cost gold only on]\n04000000 00CD0FE0 D65F03C0\n\n",
+        "[Unlock Inv.Slot for free on]": "[Unlock Inv.Slot for free on]\n04000000 00AA1740 D65F03C0\n04000000 00AA1650 D65F03C0\n\n[]\n\n",
+        "[All Cheats off]": "[All Cheats off]\n04000000 0092CB48 51000508\n04000000 00F3E2B0 B9403400\n04000000 00F3E2B4 D65F03C0\n04000000 00CD0FE0 D101C3FF\n04000000 00AA0B80 B9402800\n04000000 00AA0B84 D65F03C0\n04000000 0032F8E0 6DBB23E9\n04000000 003347D0 D10143FF\n04000000 0030E840 FC1D0FE8\n04000000 0030E980 320003E8\n04000000 003438A0 FC1D0FE8\n04000000 00AA1740 B001A5E8\n04000000 00AA1650 A9BD57F6\n\n"
     },
     "7A11FEE67D77DF44": {
         "[Max Inf Money on]": "[Max Inf Money on]\n04000000 00A68310 5292CFE0\n04000000 00A68314 72A01300\n04000000 00A68318 D65F03C0\n\n",
@@ -33,17 +28,22 @@
         "[Unlock Inv.Slot for free on]": "[Unlock Inv.Slot for free on]\n04000000 00A68ED0 D65F03C0\n04000000 00A68DE0 D65F03C0\n\n",
         "[Unlock Inv.Slot for free off]": "[Unlock Inv.Slot for free off]\n04000000 00A68ED0 B001A5E8\n04000000 00A68DE0 A9BD57F6\n\n"
     },
-    "0F91DA8517FF2C47": {
-        "[ZL Have all Items you need]": "[ZL Have all Items you need]\n04000000 00AA5554 2A1F03F6\n04000000 00AA5558 0B1502C0\n80000100\n04000000 00AA5554 52800596\n04000000 00AA5558 52800F60\n20000000\n\n",
-        "[Max Inf Money on]": "[Max Inf Money on]\n04000000 00AA0B80 5292CFE0\n04000000 00AA0B84 72A01300\n04000000 00AA0B88 D65F03C0\n\n",
-        "[Hold ZL when split Items to get 999]": "[Hold ZL when split Items to get 999]\n04000000 00A9D6BC B9402668\n80000100\n04000000 00A9D6BC B9402268\n20000000\n\n",
-        "[Freeze SkillPoints on]": "[Freeze SkillPoints on]\n04000000 0092CB48 51000108\n\n",
-        "[Inf Endurance On - hold RS to remove circle]": "[Inf Endurance On - hold RS to remove circle]\n04000000 0032F8E0 D65F03C0\n04000000 003347D0 D65F03C0\n04000000 0030E840 D65F03C0\n04000000 0030E980 D65F03C0\n80000020\n04000000 0032F8E0 6DBB23E9\n04000000 003347D0 D10143FF\n04000000 0030E840 FC1D0FE8\n04000000 0030E980 320003E8\n20000000\n\n",
-        "[Inf Stamina On]": "[Inf Stamina On]\n04000000 003438A0 D65F03C0\n\n",
-        "[Mission Reward EXP Booster on]": "[Mission Reward EXP Booster on]\n04000000 00F3E2B0 5292CFE0\n04000000 00F3E2B4 72A01300\n04000000 00F3E2B8 D65F03C0\n\n",
-        "[Farm Upgrade cost gold only on]": "[Farm Upgrade cost gold only on]\n04000000 00CD0FE0 D65F03C0\n\n",
-        "[Unlock Inv.Slot for free on]": "[Unlock Inv.Slot for free on]\n04000000 00AA1740 D65F03C0\n04000000 00AA1650 D65F03C0\n\n[]\n\n",
-        "[All Cheats off]": "[All Cheats off]\n04000000 0092CB48 51000508\n04000000 00F3E2B0 B9403400\n04000000 00F3E2B4 D65F03C0\n04000000 00CD0FE0 D101C3FF\n04000000 00AA0B80 B9402800\n04000000 00AA0B84 D65F03C0\n04000000 0032F8E0 6DBB23E9\n04000000 003347D0 D10143FF\n04000000 0030E840 FC1D0FE8\n04000000 0030E980 320003E8\n04000000 003438A0 FC1D0FE8\n04000000 00AA1740 B001A5E8\n04000000 00AA1650 A9BD57F6\n\n"
+    "981A2D07E0947446": {
+        "[Max Inf Money on]": "[Max Inf Money on]\n04000000 01C02000 1790397D\n04000000 000105F4 5292CFE0\n04000000 000105F8 72A01300\n04000000 000105FC D65F03C0\n\n",
+        "[Max Inf Money off]": "[Max Inf Money off]\n04000000 01C02000 B9402800\n\n[]\n\n",
+        "[Hold ZL when split Items to get 999]": "[Hold ZL when split Items to get 999]\n04000000 01C0B910 B9402668\n80000100\n04000000 01C0B910 B9402268\n20000000\n\n[]\n\n",
+        "[Freeze SkillPoints on]": "[Freeze SkillPoints on]\n04000000 01BB5920 51000108\n\n",
+        "[Freeze SkillPoints off]": "[Freeze SkillPoints off]\n04000000 01BB5920 51000508\n\n[]\n\n",
+        "[Inf Endurance On]": "[Inf Endurance On]\n04000000 01857CE0 D65F03C0\n04000000 0185CAA0 D65F03C0\n\n",
+        "[Inf Endurance Off]": "[Inf Endurance Off]\n04000000 01857CE0 6DBB23E9\n04000000 0185CAA0 D10143FF\n\n[]\n\n",
+        "[Inf Stamina On]": "[Inf Stamina On]\n04000000 0186B280 D65F03C0\n\n",
+        "[Inf Stamina Off]": "[Inf Stamina Off]\n04000000 0186B280 FC1D0FE8\n\n[]\n\n",
+        "[Mission Reward EXP Booster on]": "[Mission Reward EXP Booster on]\n04000000 02022780 177FB79D\n04000000 000105F4 5292CFE0\n04000000 000105F8 72A01300\n04000000 000105FC D65F03C0\n\n",
+        "[Mission Reward EXP Booster off]": "[Mission Reward EXP Booster off]\n04000000 02022780 B9403400\n\n[]\n\n",
+        "[Farm Upgrade cost gold only on]": "[Farm Upgrade cost gold only on]\n04000000 01DF7180 D65F03C0\n\n",
+        "[Farm Upgrade cost gold only off]": "[Farm Upgrade cost gold only off]\n04000000 01DF7180 D101C3FF\n\n[]\n\n",
+        "[Unlock Inv.Slot for free on]": "[Unlock Inv.Slot for free on]\n04000000 01C02BF0 D65F03C0\n04000000 01C02AD0 D65F03C0\n\n",
+        "[Unlock Inv.Slot for free off]": "[Unlock Inv.Slot for free off]\n04000000 01C02BF0 B0010BE8\n04000000 01C02AD0 A9BD57F6\n\n"
     },
     "attribution": {
         "My Time At Portia v1.0.7 by Dablackdeath.txt": "",

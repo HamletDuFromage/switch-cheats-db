@@ -15,9 +15,12 @@
         "[Shoot again]": "[Shoot again]\n300C0000 00000068\n010B0000 00fe0089 00000000\n700B0000 00000180\n310C0000\n\n",
         "[Inf HP]": "[Inf HP]\n300C0000 00000068\n040A0000 00fdff7c 0000270F\n700A0000 00000180\n310C0000\n\n",
         "[Inf ammo]": "[Inf ammo]\n300C0000 00000067\n04090000 00fe0030 00000008\n04090000 00fe0034 00000008\n04090000 00fe0038 00000008\n04090000 00fe003C 00000008\n70090000 00000180\n310C0000\n\n",
-        "[Pointer Unit Ap - R(stop)]": "[Pointer Unit Ap - R(stop)]\n580E0000 010750F8\n780E0000 000004B4\n640E0000 00000000 00000000\n80000080\n640E0000 00000000 447A0000\n20000000\n\n"
+        "[Pointer Unit Ap - R(stop)]": "[Pointer Unit Ap - R(stop)]\n580E0000 010750F8\n780E0000 000004B4\n640E0000 00000000 00000000\n80000080\n640E0000 00000000 447A0000\n20000000\n\n",
+        "[60 FPS]": "[60 FPS]\n04000000 01072764 3F800000\n580F0000 01079700\n580F1000 0000FFF8\n780F0000 00005E34\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n04000000 01072764 40000000\n580F0000 01079700\n580F1000 0000FFF8\n780F0000 00005E34\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "Valkyria Chronicles 4 by Mugenjikuu.txt": ""
+        "Valkyria Chronicles 4 by Mugenjikuu.txt": "",
+        "Valkyria Chronicles 4.txt": "by Hazerou\nFPS will drop to 30 and Game Speed will slow down when Switch can't handle 60 FPS. OC GPU if Possible.\n\nCouldn't find the Resolution Code. All I found is the viewport and it doesn't even affect improved the performance."
     }
 }

@@ -1,11 +1,4 @@
 {
-    "35577FD32A942E48": {
-        "[60 FPS]": "[60 FPS]\n580F0000 04B33FC0\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 04B33FC0\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
-    },
-    "attribution": {
-        "Graveyard Keeper by DaBlackDeath.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
-    },
     "10BE30FEAD5AD443": {
         "{MasterCode}": "{MasterCode}\n04000000 0035AB74 42C7CCCD\n04000000 00324EE8 4B18967F\n04000000 00336830 BD402800\n04000000 0035AA1C 1E283920\n04000000 003563B4 1E200920\n04000000 00306488 1E200900\n04000000 003DD4D0 4B140108\n04000000 003DD488 4B180348\n04000000 0035650C 1E293800\n04000000 00336870 BD402400\n\n",
         "[Inf Money]": "[Inf Money]\n04000000 00336830 1CF735C0\n\n",
@@ -15,5 +8,13 @@
         "[Instant Working]": "[Instant Working]\n04000000 003563B4 1C023E00\n\n",
         "[Instant Crafting]": "[Instant Crafting]\n04000000 00306488 1C2A3760\n\n",
         "[Instant Progress]": "[Instant Progress]\n04000000 00336870 1C121820\n\n"
+    },
+    "35577FD32A942E48": {
+        "[60 FPS]": "[60 FPS]\n580F0000 04B33FC0\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 04B33FC0\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Graveyard Keeper by DaBlackDeath.txt": "Before going to a Mach disable codes. And you must be first at the beginning. ",
+        "Graveyard Keeper.txt": "By Hazerou"
     }
 }

@@ -1,4 +1,12 @@
 {
+    "44B325524B98375B": {
+        "[P1 Inf Lives]": "[P1 Inf Lives]\n01000000 000C92AC 00000009\n\n",
+        "[P1 Inf Bombs]": "[P1 Inf Bombs]\n01000000 000C92AE 00000009\n\n",
+        "[P1 Max Fire Power]": "[P1 Max Fire Power]\n02000000 000C92D1 00000404\n\n",
+        "[P1 Full Special Bar]": "[P1 Full Special Bar]\n02000000 000C9302 00007FFF\n\n",
+        "[P1 Invincible ON]": "[P1 Invincible ON]\n01000000 000C92E5 00000001\n01000000 000C92E6 000000FF\n\n",
+        "[P1 Invincible OFF]": "[P1 Invincible OFF]\n01000000 000C92E5 00000000\n01000000 000C92E6 00000001\n\n"
+    },
     "6CD0059343D5C11A": {
         "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 000cf2d0 00000009\n\n",
         "[P1 Infinite Bombs]": "[P1 Infinite Bombs]\n01000000 000cf242 00000009\n\n",
@@ -8,14 +16,6 @@
         "[P2 Infinite Bombs]": "[P2 Infinite Bombs]\n01000000 000cf36e 00000009\n\n",
         "[P2 Max Power]": "[P2 Max Power]\n02000000 000cf391 00000404\n\n",
         "[P2 Full Special Bar]": "[P2 Full Special Bar]\n02000000 000cf3c2 00007FFF\n\n"
-    },
-    "44B325524B98375B": {
-        "[P1 Inf Lives]": "[P1 Inf Lives]\n01000000 000C92AC 00000009\n\n",
-        "[P1 Inf Bombs]": "[P1 Inf Bombs]\n01000000 000C92AE 00000009\n\n",
-        "[P1 Max Fire Power]": "[P1 Max Fire Power]\n02000000 000C92D1 00000404\n\n",
-        "[P1 Full Special Bar]": "[P1 Full Special Bar]\n02000000 000C9302 00007FFF\n\n",
-        "[P1 Invincible ON]": "[P1 Invincible ON]\n01000000 000C92E5 00000001\n01000000 000C92E6 000000FF\n\n",
-        "[P1 Invincible OFF]": "[P1 Invincible OFF]\n01000000 000C92E5 00000000\n01000000 000C92E6 00000001\n\n"
     },
     "C1FCD151248425E7": {
         "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 000cf2d0 00000009\n\n",

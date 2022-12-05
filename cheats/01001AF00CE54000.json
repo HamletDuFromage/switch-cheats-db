@@ -1,18 +1,4 @@
 {
-    "C949E2576F532C43": {
-        "[Max Exp On Kill]": "[Max Exp On Kill]\n04000000 003FD6C8 52993FE9\n04000000 003FD6CC 72A77309\n\n",
-        "[EXP x2]": "[EXP x2]\n04000000 003FD6CC 0B010529\n\n",
-        "[EXP x4]": "[EXP x4]\n04000000 003FD6CC 0B010929\n\n",
-        "[EXP x8]": "[EXP x8]\n04000000 003FD6CC 0B010D29\n\n",
-        "[EXP x16]": "[EXP x16]\n04000000 003FD6CC 0B011129\n\n",
-        "[EXP x32]": "[EXP x32]\n04000000 003FD6CC 0B011529\n\n",
-        "[Invulnerable]": "[Invulnerable]\n04000000 00202620 D65F03C0\n\n",
-        "[Get Preorder Bonus Weapon DLC]": "[Get Preorder Bonus Weapon DLC]\n04000000 002BF3D0 52800020\n\n",
-        "[No Skill Cool Down]": "[No Skill Cool Down]\n04000000 001B69A0 1E2703E0\n\n",
-        "[Inf Weapon Stones]": "[Inf Weapon Stones]\n04000000 00320AB0 52807CE0\n\n",
-        "[Shadestones x99]": "[Shadestones x99]\n04000000 00320F80 52800C60\n\n",
-        "[Inf Healing Incense]": "[Inf Healing Incense]\n01000000 00320961 00000014\n\n"
-    },
     "C8F7A25E31377144": {
         "[Max Exp On Kill]": "[Max Exp On Kill]\n04000000 003FD3E8 52993FE9\n04000000 003FD3EC 72A77309\n\n",
         "[Invulnerable]": "[Invulnerable]\n04000000 00202340 D65F03C0\n\n",
@@ -36,6 +22,20 @@
         "[MoveSpeed x2]": "[MoveSpeed x2]\n58010000 04601100\n58011000 000000B8\n58011000 00000000\n58011000 000000F8\n78010000 000001C4\n68010000 41600000 41600000\n\n",
         "[Healing Incense Max]": "[Healing Incense Max]\n58010000 04601100\n58011000 000000B8\n58011000 00000000\n58011000 000000F8\n58011000 00000118\n78010000 00000010\n68010000 00000063 00000063\n\n",
         "[Get Pre-Order Weapons]": "[Get Pre-Order Weapons]\n04000000 002BF0F0 52800020\n\n"
+    },
+    "C949E2576F532C43": {
+        "[Max Exp On Kill]": "[Max Exp On Kill]\n04000000 003FD6C8 52993FE9\n04000000 003FD6CC 72A77309\n\n",
+        "[EXP x2]": "[EXP x2]\n04000000 003FD6CC 0B010529\n\n",
+        "[EXP x4]": "[EXP x4]\n04000000 003FD6CC 0B010929\n\n",
+        "[EXP x8]": "[EXP x8]\n04000000 003FD6CC 0B010D29\n\n",
+        "[EXP x16]": "[EXP x16]\n04000000 003FD6CC 0B011129\n\n",
+        "[EXP x32]": "[EXP x32]\n04000000 003FD6CC 0B011529\n\n",
+        "[Invulnerable]": "[Invulnerable]\n04000000 00202620 D65F03C0\n\n",
+        "[Get Preorder Bonus Weapon DLC]": "[Get Preorder Bonus Weapon DLC]\n04000000 002BF3D0 52800020\n\n",
+        "[No Skill Cool Down]": "[No Skill Cool Down]\n04000000 001B69A0 1E2703E0\n\n",
+        "[Inf Weapon Stones]": "[Inf Weapon Stones]\n04000000 00320AB0 52807CE0\n\n",
+        "[Shadestones x99]": "[Shadestones x99]\n04000000 00320F80 52800C60\n\n",
+        "[Inf Healing Incense]": "[Inf Healing Incense]\n01000000 00320961 00000014\n\n"
     },
     "attribution": {
         "Oninaki v1.0.1 By DaBlackDeath.txt": "",

@@ -12,10 +12,13 @@
         "[05# Inf 12-gauge ammo]": "[05# Inf 12-gauge ammo]\n580F0000 0F1CC100\n580F1000 00000028\n580F1000 000000E0\n580F1000 00000030\n580F1000 00000008\n580F1000 000000C0\n580F1000 00000010\n580F1000 00000008\n780F0000 000001BC\n640F0000 00000000 00000063\n\n",
         "[o Infinite Health]": "[o Infinite Health]\n58000000 00D6E460\n58001000 00000200\n58001000 00000000\n58001000 000000D0\n78000000 000005AC\n64000000 00000000 43480000\n\n",
         "[o Infinite Stielhandgranate]": "[o Infinite Stielhandgranate]\n58000000 00D6C5B8\n58001000 00000058\n58001000 00000038\n58001000 00000008\n78000000 00000044\n64000000 00000000 000003E7\n\n",
-        "[o Infinite Land Mine]": "[o Infinite Land Mine]\n58000000 0F1CC100\n58001000 00000028\n58001000 000000C8\n58001000 00000018\n78000000 000000F4\n64000000 00000000 000003E7\n\n"
+        "[o Infinite Land Mine]": "[o Infinite Land Mine]\n58000000 0F1CC100\n58001000 00000028\n58001000 000000C8\n58001000 00000018\n78000000 000000F4\n64000000 00000000 000003E7\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 00DF6720\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 00DF6720\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
         "Zombie Army Trilogy ver 1.0.0 by 91wii Adjusted by patjenova and Smoker1.txt": "Not valid for mini games",
-        "Zombie Army Trilogy ver 1.0.0 by 91wii Adjusted by patjenova and Spider-man.txt": "Not valid for mini games"
+        "Zombie Army Trilogy ver 1.0.0 by 91wii Adjusted by patjenova and Spider-man.txt": "Not valid for mini games",
+        "Zombie Army Trilogy.txt": "by hazerou"
     }
 }

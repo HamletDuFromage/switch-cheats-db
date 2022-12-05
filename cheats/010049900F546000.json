@@ -1,15 +1,4 @@
 {
-    "FF44F58218C6A6B2": {
-        "[99 1-up]": "[99 1-up]\n02000000 0222C0E0 00000063\n\n",
-        "[6 Life]": "[6 Life]\n580E0000 0224F518 \n580E1000 00000494\n580E1000 00000E24\n780E0000 00000380\n640E0000 00000000 00000006\n\n",
-        "[Star]": "[Star]\n02000000 01BBFEC0 000003E7\n\n",
-        "[o Super Mario 64 Infinite Lives]": "[o Super Mario 64 Infinite Lives]\n01100000 38742a8d 00000063\n\n",
-        "[o Super Mario 64 Infinite Health]": "[o Super Mario 64 Infinite Health]\n02100000 38742a8e 00000008\n\n",
-        "[o Super Mario 64 Infinite Coins]": "[o Super Mario 64 Infinite Coins]\n02100000 38742a89 00000064\n02100000 38742aab 00000064\n\n",
-        "[Super Mario Galaxy Infinite Star Bits]": "[Super Mario Galaxy Infinite Star Bits]\n020f0000 01bbfec0 000003e7\n\n",
-        "[Super Mario Galaxy Infinite Star Bits (Observatory Grounds)]": "[Super Mario Galaxy Infinite Star Bits (Observatory Grounds)]\n040f0000 0222c0e4 0000270F\n040f0000 023430c4 0000270F\n\n",
-        "[Galaxy Infinite Lives]": "[Galaxy Infinite Lives]\n020f0000 0222c0e0 00000063\n\n"
-    },
     "A638857E6DF584FF": {
         "[o Super Mario 64 Infinite Lives]": "[o Super Mario 64 Infinite Lives]\n01100000 38742a8d 00000063\n\n",
         "[o Super Mario 64 Infinite Health]": "[o Super Mario 64 Infinite Health]\n02100000 38742a8e 00000008\n\n",
@@ -23,6 +12,17 @@
         "[Unlimited Diving Air]": "[Unlimited Diving Air]\n04000000 00210EA4 E1A00000\n\n",
         "[Unlimited Bee Flight]": "[Unlimited Bee Flight]\n04000000 001EF430 E1A00000\n\n",
         "[No Health Damage]": "[No Health Damage]\n04000000 001C2AAC E1A00000\n\n"
+    },
+    "FF44F58218C6A6B2": {
+        "[99 1-up]": "[99 1-up]\n02000000 0222C0E0 00000063\n\n",
+        "[6 Life]": "[6 Life]\n580E0000 0224F518 \n580E1000 00000494\n580E1000 00000E24\n780E0000 00000380\n640E0000 00000000 00000006\n\n",
+        "[Star]": "[Star]\n02000000 01BBFEC0 000003E7\n\n",
+        "[o Super Mario 64 Infinite Lives]": "[o Super Mario 64 Infinite Lives]\n01100000 38742a8d 00000063\n\n",
+        "[o Super Mario 64 Infinite Health]": "[o Super Mario 64 Infinite Health]\n02100000 38742a8e 00000008\n\n",
+        "[o Super Mario 64 Infinite Coins]": "[o Super Mario 64 Infinite Coins]\n02100000 38742a89 00000064\n02100000 38742aab 00000064\n\n",
+        "[Super Mario Galaxy Infinite Star Bits]": "[Super Mario Galaxy Infinite Star Bits]\n020f0000 01bbfec0 000003e7\n\n",
+        "[Super Mario Galaxy Infinite Star Bits (Observatory Grounds)]": "[Super Mario Galaxy Infinite Star Bits (Observatory Grounds)]\n040f0000 0222c0e4 0000270F\n040f0000 023430c4 0000270F\n\n",
+        "[Galaxy Infinite Lives]": "[Galaxy Infinite Lives]\n020f0000 0222c0e0 00000063\n\n"
     },
     "attribution": {
         "Super Mario 3D All-Star ver 1.0.0 by Spider-Man.txt": "Super Mario Allstars\nSuper Mario 3"

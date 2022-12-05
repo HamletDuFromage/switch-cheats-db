@@ -47,9 +47,12 @@
         "[unlimited 40th item]": "[unlimited 40th item]\n580F0000 078AEFF8 \n580F1000 00000180 \n580F1000 00000240 \n580F1000 00000040 \n580F1000 00000188 \n780F0000 00000890 \n640F0000 00000000 000003E7\n\n",
         "[unlimited 41st item]": "[unlimited 41st item]\n580F0000 078AEFF8 \n580F1000 00000180 \n580F1000 00000240 \n580F1000 00000040 \n580F1000 00000188 \n780F0000 000008C8 \n640F0000 00000000 000003E7\n\n",
         "[unlimited 42nd item]": "[unlimited 42nd item]\n580F0000 078AEFF8 \n580F1000 00000180 \n580F1000 00000240 \n580F1000 00000040 \n580F1000 00000188 \n780F0000 00000900 \n640F0000 00000000 000003E7\n\n",
-        "[unlimited 43rd item]": "[unlimited 43rd item]\n580F0000 078AEFF8 \n580F1000 00000180 \n580F1000 00000240 \n580F1000 00000040 \n580F1000 00000188 \n780F0000 00000938 \n640F0000 00000000 000003E7\n\n"
+        "[unlimited 43rd item]": "[unlimited 43rd item]\n580F0000 078AEFF8 \n580F1000 00000180 \n580F1000 00000240 \n580F1000 00000040 \n580F1000 00000188 \n780F0000 00000938 \n640F0000 00000000 000003E7\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 0782FD60\n580F1000 00000080\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS default]": "[30 FPS default]\n580F0000 0782FD60\n580F1000 00000080\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "GetsuFumaDen undying moon v1.0.0(v0) by Jasonclarke1986.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+        "GetsuFumaDen undying moon v1.0.0(v0) by Jasonclarke1986.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code.",
+        "GetsuFumaDen Undying Moon.txt": "By cucholix \n\nNeeds CPU OC for stable 60fps"
     }
 }

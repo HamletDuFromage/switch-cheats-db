@@ -13,11 +13,9 @@
         "[Speed normal]": "[Speed normal]\n04000000 00E1CD78 1E2E100A\n\n",
         "[Speed 1.25x]": "[Speed 1.25x]\n04000000 00E1CD78 1E2E900A\n\n",
         "[Speed 1.5x]": "[Speed 1.5x]\n04000000 00E1CD78 1E2F100A\n\n",
-        "[Speed 1.75x]": "[Speed 1.75x]\n04000000 00E1CD78 1E2F900A\n\n"
-    },
-    "attribution": {
-        "Dragon's Dogma Dark Arisen ver 1.0.0 ver 1.0.1 by xtatu and Demon_Alex.txt": "Before going to a Mach disable codes. And you must be first at the beginning. ",
-        "Hero Must Die Again ver 1.0.0 by jericoos.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
+        "[Speed 1.75x]": "[Speed 1.75x]\n04000000 00E1CD78 1E2F900A\n\n",
+        "[60 FPS]": "[60 FPS]\n58000000 024924D8\n78000000 0000504C\n64000000 00000000 42700000\n\n",
+        "[30 FPS]": "[30 FPS]\n58000000 024924D8\n78000000 0000504C\n64000000 00000000 41F00000\n\n"
     },
     "DEB6B520BB1E0352": {
         "[1p invicible]": "[1p invicible]\n04000000 00E16DA0 D65F03C0\n\n",
@@ -32,5 +30,10 @@
         "[*Inf Mp P1 Battle]": "[*Inf Mp P1 Battle]\n580F0000 01027AB8\n580F1000 000000A0\n580F1000 00000010\n580F1000 00000008\n780F0000 0000004E\n620F0000 00000000 00000378\n\n",
         "[*Inf Mp P1/P2 Battle]": "[*Inf Mp P1/P2 Battle]\n580F0000 01027AB8\n580F1000 000000A0\n580F1000 00000070\n780F0000 0000004E\n620F0000 00000000 00000378\n\n",
         "[*P1 Power Battle 999]": "[*P1 Power Battle 999]\n580F0000 01027AB8\n580F1000 000000A0\n580F1000 00000070\n780F0000 00000064\n620F0000 00000000 000003E7\n\n"
+    },
+    "attribution": {
+        "Dragon's Dogma Dark Arisen ver 1.0.0 ver 1.0.1 by xtatu and Demon_Alex.txt": "Before going to a Mach disable codes. And you must be first at the beginning. ",
+        "Hero Must Die Again ver 1.0.0 by jericoos.txt": "Before going to a Mach disable codes. And you must be first at the beginning. ",
+        "Dragon's Dogma Dark Arisen.txt": "By masagrator\n\nhttps://gbatemp.net/threads/dragons-dogma-dark-arisen-60-fps-hack.553129/"
     }
 }

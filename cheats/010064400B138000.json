@@ -1,8 +1,11 @@
 {
     "EB8A679B5DDD0060": {
-        "[Money MAX]": "[Money MAX]\n580F0000 020459E0\n780F0000 00000098\n640F0000 00000000 3B9AC9FF\n\n"
+        "[Money MAX]": "[Money MAX]\n580F0000 020459E0\n780F0000 00000098\n640F0000 00000000 3B9AC9FF\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 020869B0\n580F1000 00000070\n580F1000 00000028\n780F0000 00000F24\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 020869B0\n580F1000 00000070\n580F1000 00000028\n780F0000 00000F24\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "v-rally 4 by merlin555 uploaded by toro00.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+        "v-rally 4 by merlin555 uploaded by toro00.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die.",
+        "V-Rally 4.txt": "by hazerou"
     }
 }

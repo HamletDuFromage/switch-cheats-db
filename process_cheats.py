@@ -25,7 +25,7 @@ class ProcessCheats:
         return None
 
     def getAttribution(self, tid):
-        attribution = {}
+        attribution = OrderedDict()
         for f in tid.iterdir():
             if f.suffix.lower() == ".txt":
                 with open(f, "r") as attribution_file:
@@ -54,6 +54,14 @@ class ProcessCheats:
                     out[lines[pos[i]].strip()] = code.strip("\n ") + "\n\n"
         return out
 
+    def update_dict(self, new, old):
+        for key, value in new.items():
+            if key in old:
+                old[key] |= value
+            else:
+                old[key] = value
+        return old
+
     def createJson(self, tid):
         out = OrderedDict()
         cheats_dir = self.getCheatsPath(tid)
@@ -65,14 +73,16 @@ class ProcessCheats:
             print(f"error: FileNotFoundError {folder_path}")
         attribution = self.getAttribution(tid)
         if attribution:
-            out["attribution"] = self.getAttribution(tid)
+            out = self.update_dict(out, {"attribution": attribution})
 
         cheats_file = self.out_path.joinpath(f"{tid.name.upper()}.json")
         try:
             with open(cheats_file, 'r') as json_file:
-                out |= json.load(json_file)
+                out = self.update_dict(out, json.load(json_file))
         except FileNotFoundError:
             pass
+
+        out = OrderedDict(sorted(out.items()))
 
         with open(cheats_file, 'w') as json_file:
             json.dump(out, json_file, indent=4)

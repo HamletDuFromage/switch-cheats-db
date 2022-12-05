@@ -1,15 +1,4 @@
 {
-    "FABE51450032974D": {
-        "[hit range]": "[hit range]\n04000000 02A85574 1E27D006\n\n",
-        "[hit range off]": "[hit range off]\n04000000 02A85574 1E2E1005\n\n",
-        "[1p speed off]": "[1p speed off]\n04000000 007B0DB8 1E2E1000\n\n",
-        "[1p speed 2x]": "[1p speed 2x]\n04000000 007B0DB8 1E201000\n\n",
-        "[1p speed 5x]": "[1p speed 5x]\n04000000 007B0DB8 1E229000\n\n"
-    },
-    "C66DF87114D6A44B": {
-        "[stamina @arismnedy64]": "[stamina @arismnedy64]\n580F0000 057D2418\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000038\n580F1000 00000018\n580F1000 00000048\n780F0000 00000010\n680F0000 42C80000 42C80000\n\n",
-        "[inf hp @arismnedy64]": "[inf hp @arismnedy64]\n580F0000 05748E28\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000088\n580F1000 00000098\n780F0000 00000028\n640F0000 00000000 42C80000\n\n"
-    },
     "195D347B5FC2FD40": {
         "[Moon Jump]": "[Moon Jump]\n80000001\n580F0000 055530D0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000080\n580F1000 00000118\n780F0000 000001D0\n640F0000 00000000 41000000\n20000000\n\n",
         "[Inf Health]": "[Inf Health]\n580F0000 055530D0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000080\n580F1000 00000098\n780F0000 00000028\n640F0000 00000000 42C80000\n\n",
@@ -20,6 +9,17 @@
         "[Swimming Speed Up]": "[Swimming Speed Up]\n580F0000 055530D0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000080\n580F1000 00000118\n580F1000 00000020\n780F0000 000000A4\n640F0000 00000000 41700000\n\n",
         "[inf item usage on]": "[inf item usage on]\n04000000 008A1280 D65F03C0\n\n",
         "[inf item usage off]": "[inf item usage off]\n04000000 008A1280 A9BD57F6\n\n"
+    },
+    "C66DF87114D6A44B": {
+        "[stamina @arismnedy64]": "[stamina @arismnedy64]\n580F0000 057D2418\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000038\n580F1000 00000018\n580F1000 00000048\n780F0000 00000010\n680F0000 42C80000 42C80000\n\n",
+        "[inf hp @arismnedy64]": "[inf hp @arismnedy64]\n580F0000 05748E28\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000088\n580F1000 00000098\n780F0000 00000028\n640F0000 00000000 42C80000\n\n"
+    },
+    "FABE51450032974D": {
+        "[hit range]": "[hit range]\n04000000 02A85574 1E27D006\n\n",
+        "[hit range off]": "[hit range off]\n04000000 02A85574 1E2E1005\n\n",
+        "[1p speed off]": "[1p speed off]\n04000000 007B0DB8 1E2E1000\n\n",
+        "[1p speed 2x]": "[1p speed 2x]\n04000000 007B0DB8 1E201000\n\n",
+        "[1p speed 5x]": "[1p speed 5x]\n04000000 007B0DB8 1E229000\n\n"
     },
     "attribution": {
         "Windbound ver 1.0.0 by ZiT and DablackDeath.txt": "Invincible is only useful for blows.",

@@ -1,9 +1,4 @@
 {
-    "5831EC64D6B696FD": {
-        "[All Pok\u00e9mon Shiny (Hold B) (Handheld Only)]": "[All Pok\u00e9mon Shiny (Hold B) (Handheld Only)]\n04000000 007398C4 540002e0\n80000002\n04000000 007398C4 14000027\n20000000\n\n",
-        "[All Pok\u00e9mon Shiny Always]": "[All Pok\u00e9mon Shiny Always]\n04000000 007398C4 14000027\n\n",
-        "[Normal Pok\u00e9mon Shiny Odds]": "[Normal Pok\u00e9mon Shiny Odds]\n04000000 007398C4 540002e0\n\n"
-    },
     "0A3F0D21E67DAD80": {
         "[Max Money]": "[Max Money]\n580F0000 016174F8\n780F1000 0061ACC0\n640F0000 00000000 0098967F\n\n",
         "[All Medicine x999]": "[All Medicine x999]\n04100000 53324ab4 41f38011\n04100000 53324ab8 41f38012\n04100000 53324abc 41f38013\n04100000 53324ac0 41f38014\n04100000 53324ac4 41f38015\n04100000 53324ac8 41f38016\n04100000 53324acc 41f38017\n04100000 53324ad0 41f38018\n04100000 53324ad4 41f38019\n04100000 53324ad8 41f3801a\n04100000 53324adc 41f3801b\n04100000 53324ae0 41f3801c\n04100000 53324ae4 41f3801d\n04100000 53324ae8 41f3801e\n04100000 53324aec 41f3801f\n04100000 53324af0 41f38020\n04100000 53324af4 41f38026\n04100000 53324af8 41f38027\n04100000 53324afc 41f38028\n04100000 53324b00 41f38029\n04100000 53324b04 41f382c5\n04100000 53324b08 41f38387\n\n",
@@ -17,6 +12,11 @@
         "[999 Catch Combo]": "[999 Catch Combo]\n04100000 5e1cf500 000003e7\n\n",
         "[All Pokmon Shiny (Enable)]": "[All Pokmon Shiny (Enable)]\n04000000 007399f4 14000027\n\n",
         "[All Pokmon Shiny (Disable)]": "[All Pokmon Shiny (Disable)]\n04000000 007399f4 540002e0\n\n"
+    },
+    "5831EC64D6B696FD": {
+        "[All Pok\u00e9mon Shiny (Hold B) (Handheld Only)]": "[All Pok\u00e9mon Shiny (Hold B) (Handheld Only)]\n04000000 007398C4 540002e0\n80000002\n04000000 007398C4 14000027\n20000000\n\n",
+        "[All Pok\u00e9mon Shiny Always]": "[All Pok\u00e9mon Shiny Always]\n04000000 007398C4 14000027\n\n",
+        "[Normal Pok\u00e9mon Shiny Odds]": "[Normal Pok\u00e9mon Shiny Odds]\n04000000 007398C4 540002e0\n\n"
     },
     "attribution": {
         "Pokemon lets go Eevee v 1.00 by AnalogManStoned.txt": "",

@@ -1,12 +1,4 @@
 {
-    "AA9F5136791936A7": {
-        "[HP 999]": "[HP 999]\n04000000 014C5360 52807CE0\n\n",
-        "[HP Off]": "[HP Off]\n04000000 014C5360 2A0103E0\n\n",
-        "[Coins x4]": "[Coins x4]\n04000000 015872E0 8B336908\n\n",
-        "[Coins x4 Off]": "[Coins x4 Off]\n04000000 015872E0 8B334108\n\n",
-        "[Coins No decrease]": "[Coins No decrease]\n04000000 01585AA4 51000100\n\n",
-        "[Coins No decrease Off]": "[Coins No decrease Off]\n04000000 01585AA4 4B010100\n\n"
-    },
     "5D37985FFD683D9A": {
         "[HP 999 by jhmiller]": "[HP 999 by jhmiller]\n04000000 0262A280 52807CE0\n\n",
         "[HP 999 Off by jhmiller]": "[HP 999 Off by jhmiller]\n04000000 0262A280 2A0103E0\n\n",
@@ -20,6 +12,14 @@
         "[Magic Ingredients No Decrease Off by jhmiller]": "[Magic Ingredients No Decrease Off by jhmiller]\n04000000 0274DADC B9001408\n\n",
         "[Special Inf by jhmiller]": "[Special Inf by jhmiller]\n04000000 0263A6C4 D503201F\n\n",
         "[Special Inf Off by jhmiller]": "[Special Inf Off by jhmiller]\n04000000 0263A6C4 BD02AA60\n\n"
+    },
+    "AA9F5136791936A7": {
+        "[HP 999]": "[HP 999]\n04000000 014C5360 52807CE0\n\n",
+        "[HP Off]": "[HP Off]\n04000000 014C5360 2A0103E0\n\n",
+        "[Coins x4]": "[Coins x4]\n04000000 015872E0 8B336908\n\n",
+        "[Coins x4 Off]": "[Coins x4 Off]\n04000000 015872E0 8B334108\n\n",
+        "[Coins No decrease]": "[Coins No decrease]\n04000000 01585AA4 51000100\n\n",
+        "[Coins No decrease Off]": "[Coins No decrease Off]\n04000000 01585AA4 4B010100\n\n"
     },
     "attribution": {
         "Labyrinth Legend ver 1.0.0 by jhmiller.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"

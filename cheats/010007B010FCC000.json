@@ -3,15 +3,16 @@
         "[60 FPS]": "[60 FPS]\n580F0000 06430FE8\n580F1000 000002B0\n580F1000 00000028\n780F0000 00000F24\n640F0000 00000000 00000001\n\n",
         "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 06430FE8\n580F1000 000002B0\n580F1000 00000028\n780F0000 00000F24\n640F0000 00000000 00000002\n\n"
     },
-    "attribution": {
-        "Sniper Elite 4 by Jialeyne19 on gbatemp.txt": "Ammo 255 don't always work. The other two seems to be consistent",
-        "Sniper Elite 4 ver 1.0.0 by Tomswitch on gbatemp.txt": "Ammo 255 don't always work. The other two seems to be consistent"
-    },
     "BBFD41DF5BA37D79": {
         "[ammo 255 @tomvita]": "[ammo 255 @tomvita]\n80000200\n580F0000 0641F230\n580F1000 00000008\n580F1000 00000148\n780F0000 00000020\n640F0000 00000000 000000FF\n20000000\n\n",
         "[bpm60 @tomvita]": "[bpm60 @tomvita]\n80000100\n580F0000 063FF5C8\n580F1000 00000450\n580F1000 00000120\n780F0000 00000010\n640F0000 00000000 42700000\n20000000\n\n",
         "[XP 1000000 @tomvita]": "[XP 1000000 @tomvita]\n580F0000 05B2C5D8\n580F1000 000000C0\n580F1000 00000000\n580F1000 00000000\n780F0000 00000138\n640F0000 00000000 000F4240\n\n",
         "[Invincible @Eiffel2018]": "[Invincible @Eiffel2018]\n080E0000 00DB0020 B4000048 F9400668\n080E0000 00DB0028 D65F03C0 1E293800\n040E0000 003D3804 94277207\n\n",
         "[Invincible - Restore @Eiffel2018]": "[Invincible - Restore @Eiffel2018]\n040E0000 003D3804 1E293800\n\n"
+    },
+    "attribution": {
+        "Sniper Elite 4 by Jialeyne19 on gbatemp.txt": "Ammo 255 don't always work. The other two seems to be consistent",
+        "Sniper Elite 4 ver 1.0.0 by Tomswitch on gbatemp.txt": "Ammo 255 don't always work. The other two seems to be consistent",
+        "Sniper Elite 4.txt": "By Hazerou"
     }
 }

@@ -89,9 +89,6 @@
         "[MIN GFX QUALITY]": "[MIN GFX QUALITY]\n580F0000 07F5F058\n780F0000 00000034\n680F0000 00000001 00000001\n580F0000 07F5EEF0\n780F0000 00000034\n680F0000 00000000 00000000\n580F0000 07F5EEC0\n780F0000 00000034\n680F0000 00000000 00000000\n580F0000 07F5EE90\n780F0000 00000034\n680F0000 00000000 00000000\n580F0000 07F5EE60\n780F0000 00000034\n680F0000 00000000 00000000\n\n",
         "[DEFAULT GFX QUALITY]": "[DEFAULT GFX QUALITY]\n580F0000 07F5F058\n780F0000 00000034\n680F0000 00000004 00000004\n580F0000 07F5EEF0\n780F0000 00000034\n680F0000 00000002 00000002\n580F0000 07F5EEC0\n780F0000 00000034\n680F0000 00000003 00000003\n580F0000 07F5EE90\n780F0000 00000034\n680F0000 3F000000 3F000000\n580F0000 07F5EE60\n780F0000 00000034\n680F0000 00000003 00000003\n\n"
     },
-    "attribution": {
-        "DRAGON BALL Z KAKAROT by Eiffel2018.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
-    },
     "FBE93AAAA4C11567": {
         "[Invincible]": "[Invincible]\n080E0000 007CAFEC 18FFFFE9 3B9AC9FF\n\n",
         "[Inf SP]": "[Inf SP]\n580E0000 07E7F7F8\n580E1000 000002D8\n580E1000 00000100\n780E0000 000002A4\n300F0000 00000013\n640E0000 00000000 000000C8\n780E0000 00000260\n310F0000\n\n",
@@ -105,5 +102,9 @@
         "[3x Damage]": "[3x Damage]\n080E0000 047DAE00 BD432401 2DBE0BE1\n080E0000 047DAE08 1E212000 1E211002\n080E0000 047DAE10 1E203820 540000EA\n080E0000 047DAE18 1E203820 1E220800\n080E0000 047DAE20 1E222000 1E2703E2\n080E0000 047DAE28 BD032400 1E22AC00\n080E0000 047DAE30 D65F03C0 2CC20BE1\n080E0000 047DAE38 D503201F D503201F\n040E0000 007E6910 14FFD13C\n\n",
         "[10x Damage]": "[10x Damage]\n080E0000 047DAE00 BD432401 2DBE0BE1\n080E0000 047DAE08 1E212000 1E249002\n080E0000 047DAE10 1E203820 540000EA\n080E0000 047DAE18 1E203820 1E220800\n080E0000 047DAE20 1E222000 1E2703E2\n080E0000 047DAE28 BD032400 1E22AC00\n080E0000 047DAE30 D65F03C0 2CC20BE1\n080E0000 047DAE38 D503201F D503201F\n040E0000 007E6910 14FFD13C\n\n",
         "[30x Damage]": "[30x Damage]\n080E0000 047DAE00 BD432401 2DBE0BE1\n080E0000 047DAE08 1E212000 1E27D002\n080E0000 047DAE10 1E203820 540000EA\n080E0000 047DAE18 1E203820 1E220800\n080E0000 047DAE20 1E222000 1E2703E2\n080E0000 047DAE28 BD032400 1E22AC00\n080E0000 047DAE30 D65F03C0 2CC20BE1\n080E0000 047DAE38 D503201F D503201F\n040E0000 007E6910 14FFD13C\n\n"
+    },
+    "attribution": {
+        "DRAGON BALL Z KAKAROT by Eiffel2018.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",
+        "DRAGON BALL Z KAKAROT + A NEW POWER AWAKENS SET.txt": "By Hazerou\n\n- Cutscenes are locked at 30 FPS.\n\nI haven't tested it in other Region of the game but maybe it will work. Just make sure it's the same v1.11\n\nIncluded in the text file;\n\n[Enable / Disable Dynamic Resolution]\n[RRS]\n[Sky Lighting Quality]\n[MSAA]\n[AA]\n[Shadow]\n[SSAO]\n[Bloom]\n[MIN/MAX/Default GFX Quality]\n\nNote;\n\nThe [GFX Quality] Are For;\n\n[MSAA]\n[AA]\n[Shadow]\n[SSAO]\n[Bloom]\n\n=====\n\n[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.\nPlease use;\nHandheld RRS for Handheld Mode.\nDocked RRS for Docked Mode.\n\nSome GFX Codes has no Function/Effect to the Game.\n\nCrash may occur if you mess around too much with the GFX Codes. Just activate the ones you like then get playing.\n\nUpdate#1;\n\nAdded [RRS] also with 540p Downscaling for more stable 60 FPS."
     }
 }

@@ -1,16 +1,4 @@
 {
-    "E1D8B399B787AE41": {
-        "[01# MAX HP - on]": "[01# MAX HP - on]\n080E0000 03084F10 79003401 D2800201\n080E0000 03084F18 D65F03C0 AA0103E0\n040E0000 01AE7234 94567737\n040E0000 01AE71F4 94567747\n\n",
-        "[01# MAX HP - off]": "[01# MAX HP - off]\n040E0000 01AE7234 79403400\n040E0000 01AE71F4 79403400\n\n",
-        "[02# INF HP - on]": "[02# INF HP - on]\n080E0000 03084F00 79003801 D2800201\n080E0000 03084F08 D65F03C0 AA0103E0\n040E0000 01AE7194 9456775B\n040E0000 01AE7104 9456777F\n\n",
-        "[02# INF HP - off]": "[02# INF HP - off]\n040E0000 01AE7194 79403800\n040E0000 01AE7104 79403800\n\n",
-        "[03# MAX items after received - on]": "[03# MAX items after received - on]\n040E0000 02D3476C 2A0A03E9\n\n",
-        "[03# MAX items after received - off]": "[03# MAX items after received - off]\n040E0000 02D3476C 1A8AB129\n\n",
-        "[04# MAX Money after received or shopping - on]": "[04# MAX Money after received or shopping - on]\n040E0000 02D33B84 2A0903EA\n\n",
-        "[04# MAX Money after received or shopping - off]": "[04# MAX Money after received or shopping - off]\n040E0000 02D33B84 0B13010A\n\n",
-        "[05# 1.5x Movement Speed - on]": "[05# 1.5x Movement Speed - on]\n040E0000 02D51578 1E2F1000\n040E0000 02D5157C 1E2F9001\n040E0000 02D51598 1E211000\n\n",
-        "[05# 1.5x Movement Speed - off]": "[05# 1.5x Movement Speed - off]\n040E0000 02D51578 1E2E1000\n040E0000 02D5157C 1E2E9001\n040E0000 02D51598 1E201000\n\n"
-    },
     "687AB956C7A3914B": {
         "[Inf Coins 99999 matias3ds]": "[Inf Coins 99999 matias3ds]\n04000000 055c44c8 0001869F\n\n",
         "[Infinite Health]": "[Infinite Health]\n010F0000 055CF694 0000000E\n\n",
@@ -33,6 +21,18 @@
         "[Unlock all Hearts(artifacts)]": "[Unlock all Hearts(artifacts)]\n400C0000 00000000 00000954\n680C01F0 01B101B0 01AF01AE\n\n",
         "[Unlock all INT(artifacts)] ---\"Magic\" for my version": "[Unlock all INT(artifacts)] ---\"Magic\" for my version\n400C0000 00000000 000008DC\n680C11F0 01750174 01730172\n680C11F0 01790178 01770176\n680C11F0 017D017C 017B017A\n680C11F0 01810180 017F017E\n680C11F0 01850184 01830182\n640C11F0 00000000 01870186\n620C01F0 00000000 00000188\n\n",
         "[Unlock all VIT(artifacts)]---\"Defense\"": "[Unlock all VIT(artifacts)]---\"Defense\"\n400C0000 00000000 00000918\n680C11F0 01930192 01910190\n680C11F0 01970196 01950194\n680C11F0 019B019A 01990198\n680C01F0 019F019E 019D019C\n\n"
+    },
+    "E1D8B399B787AE41": {
+        "[01# MAX HP - on]": "[01# MAX HP - on]\n080E0000 03084F10 79003401 D2800201\n080E0000 03084F18 D65F03C0 AA0103E0\n040E0000 01AE7234 94567737\n040E0000 01AE71F4 94567747\n\n",
+        "[01# MAX HP - off]": "[01# MAX HP - off]\n040E0000 01AE7234 79403400\n040E0000 01AE71F4 79403400\n\n",
+        "[02# INF HP - on]": "[02# INF HP - on]\n080E0000 03084F00 79003801 D2800201\n080E0000 03084F08 D65F03C0 AA0103E0\n040E0000 01AE7194 9456775B\n040E0000 01AE7104 9456777F\n\n",
+        "[02# INF HP - off]": "[02# INF HP - off]\n040E0000 01AE7194 79403800\n040E0000 01AE7104 79403800\n\n",
+        "[03# MAX items after received - on]": "[03# MAX items after received - on]\n040E0000 02D3476C 2A0A03E9\n\n",
+        "[03# MAX items after received - off]": "[03# MAX items after received - off]\n040E0000 02D3476C 1A8AB129\n\n",
+        "[04# MAX Money after received or shopping - on]": "[04# MAX Money after received or shopping - on]\n040E0000 02D33B84 2A0903EA\n\n",
+        "[04# MAX Money after received or shopping - off]": "[04# MAX Money after received or shopping - off]\n040E0000 02D33B84 0B13010A\n\n",
+        "[05# 1.5x Movement Speed - on]": "[05# 1.5x Movement Speed - on]\n040E0000 02D51578 1E2F1000\n040E0000 02D5157C 1E2F9001\n040E0000 02D51598 1E211000\n\n",
+        "[05# 1.5x Movement Speed - off]": "[05# 1.5x Movement Speed - off]\n040E0000 02D51578 1E2E1000\n040E0000 02D5157C 1E2E9001\n040E0000 02D51598 1E201000\n\n"
     },
     "attribution": {
         "Final Fantasy Crystal Chronicles Remastered Edition v1.01 ver by wiitendo84 and matias3ds and gamerjin ver 1.0.3 by Eiffel.txt": "[Lock Upgrade Points]\n580F0000 05C4CA38\n580F1000 00000008\n580F1000 00000130\n580F1000 000001C0\n580F1000 000000D0\n780F0000 000000E8\n640F0000 00000000 00000009\n\n"

@@ -18,9 +18,12 @@
         "[LUST STATUE 999]": "[LUST STATUE 999]\n04000000 00B871D0 000003E7\n\n",
         "[ NOZOMI HP ]": "[ NOZOMI HP ]\n04000000 00B8A1AC 00001AF4\n04000000 00B8A1B0 00001AF4\n\n",
         "[ RYOTARO HP ]": "[ RYOTARO HP ]\n04000000 00B901AC 00001AF4\n04000000 00B901B0 00001AF4\n\n",
-        "[ KOKORO HP ]": "[ KOKORO HP ]\n04000000 00B931AC 00001AF4\n04000000 00B931B0 00001AF4\n\n"
+        "[ KOKORO HP ]": "[ KOKORO HP ]\n04000000 00B931AC 00001AF4\n04000000 00B931B0 00001AF4\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 0121F810\n580F1000 00000510\n580F1000 00000048\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 0121F810\n580F1000 00000510\n580F1000 00000048\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "MONARK 1.0.1 US by blackangelous972.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+        "MONARK 1.0.1 US by blackangelous972.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code.",
+        "Monark.txt": "By Hazerou"
     }
 }

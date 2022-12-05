@@ -1,12 +1,4 @@
 {
-    "3F21B36EE62DDEBD": {
-        "[30 fps (default)]": "[30 fps (default)]\n581F0000 011FDB80\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
-        "[60 fps]": "[60 fps]\n581F0000 011FDB80\n780F0000 00000F14\n640F0000 00000000 00000001\n\n"
-    },
-    "attribution": {
-        "Alien Isolation by Retroboy and patjenova.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n",
-        "Alien Isolation by Retroboy and Nikolay Tenyuk.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n"
-    },
     "32620C385527E689": {
         "[Max Scrap]": "[Max Scrap]\n041f0000 9f049cd0 05F5E0FF\n\n",
         "[Max Sensor]": "[Max Sensor]\n041f0000 9f049cb0 05f5e0ff\n\n",
@@ -21,6 +13,10 @@
         "[compound b]": "[compound b]\n04100000 9F049df0 00000006\n\n",
         "[Medikits]": "[Medikits]\n04100000 9F049E10 00000006\n\n"
     },
+    "3F21B36EE62DDEBD": {
+        "[30 fps (default)]": "[30 fps (default)]\n581F0000 011FDB80\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+        "[60 fps]": "[60 fps]\n581F0000 011FDB80\n780F0000 00000F14\n640F0000 00000000 00000001\n\n"
+    },
     "EBE18862AE4ECA75": {
         "[Inf Ammo]": "[Inf Ammo]\n04070000 0188CA20 528009A8\n04070000 0188CA24 B9012808\n04070000 0188CA28 D65F03C0\n04070000 0188CA2C 97001519\n04070000 00E7C254 942841F3\n\n",
         "[Inf HP]": "[Inf HP]\n04070000 0188CA00 5283CC28\n04070000 0188CA04 79068C08\n04070000 0188CA08 79068808\n04070000 0188CA0C 7D468800\n04070000 0188CA10 D65F03C0\n04070000 010D3198 941EE61A\n\n",
@@ -31,5 +27,10 @@
         "[Battery 5 Max]": "[Battery 5 Max]\n04070000 00E9494C 528000C9\n\n",
         "[Get Material Max]": "[Get Material Max]\n04070000 0188CA30 52807CE8\n04070000 0188CA34 B9000308\n04070000 0188CA38 D65F03C0\n04070000 00E9DB38 9427BBBE\n\n",
         "[Change 2 More Use Item Max]": "[Change 2 More Use Item Max]\n04070000 0188CA40 52800C89\n04070000 0188CA44 B9001009\n04070000 0188CA48 D65F03C0\n04070000 00E9F4CC 9427B55D\n\n"
+    },
+    "attribution": {
+        "Alien Isolation by Retroboy and patjenova.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n",
+        "Alien Isolation by Retroboy and Nikolay Tenyuk.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n",
+        "Alien Isolation.txt": "v1.1.3_48479 By DJ KoHb on Gbatemp\n"
     }
 }
