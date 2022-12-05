@@ -75,7 +75,7 @@ jobs:
           if [ ! -z "$stat" ]; then
             git commit -m "automatic: updated cheat files"
             git push
-            version=$(cat ./out/VERSION)
+            version=$(cat VERSION)
             echo -e "Last updated: **$version**\n\nCheats updated:↷\n\`\`\`\n$(echo $stat | xargs python3 build_changelog.py)\n\`\`\`" > changelog.md
             gh release create $version -F changelog.md
             gh release upload $version ./gbatemp/contents.zip --clobber
@@ -84,7 +84,7 @@ jobs:
             gh release upload $version ./NX-60FPS-RES-GFX-Cheats-main/titles.zip#titles_60fps-res-gfx --clobber
             gh release upload $version ./complete/contents.zip#content_complete.zip --clobber
             gh release upload $version ./complete/titles.zip#content_complete.zip --clobber
-            gh release upload $version .VERSION --clobber
+            gh release upload $version VERSION --clobber
           else
             echo "Nothing to commit!"
           fi
