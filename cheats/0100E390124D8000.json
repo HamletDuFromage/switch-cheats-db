@@ -15,9 +15,16 @@
         "[All Accessories]": "[All Accessories]\n580E0000 00E60128\n780E0000 00161410\n300F0000 00000061\n620E1000 00000000 00000001\n310F0000\n\n",
         "[All Costumes / Attachments]": "[All Costumes / Attachments]\n580E0000 00E60128\n780E0000 00161606\n300F0000 00000010\n620E1000 00000000 00000001\n310F0000\n\n",
         "[All Books]": "[All Books]\n580E0000 00E60128\n780E0000 00161772\n300F0000 00000011\n620E1000 00000000 00000001\n310F0000\n\n",
-        "[All Sacramentals]": "[All Sacramentals]\n580E0000 00E60128\n780E0000 0016185C\n300F0000 0000000A\n620E1000 00000000 00000001\n310F0000\n\n"
+        "[All Sacramentals]": "[All Sacramentals]\n580E0000 00E60128\n780E0000 0016185C\n300F0000 0000000A\n620E1000 00000000 00000001\n310F0000\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 01F81638\n580F1000 00000040\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 01F81638\n580F1000 00000040\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "4D33981B6DB6125A": {
+        "[60 FPS]": "[60 FPS]\n580F0000 07783168\n580F1000 00000040\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 07783168\n580F1000 00000040\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "Ys IX, Monstrum Nox v1.0.2 by Eiffel.txt": "note: Infinite Jump can be used after learning double jump\n"
+        "Ys IX, Monstrum Nox v1.0.2 by Eiffel.txt": "note: Infinite Jump can be used after learning double jump\n",
+        "Ys IX Monstrum Nox.txt": "by hazerou"
     }
 }

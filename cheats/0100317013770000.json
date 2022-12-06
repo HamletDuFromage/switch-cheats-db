@@ -9,9 +9,12 @@
         "[Breeze beta54 Mario + Rabbids\u00ae Sparks of Hope 1.1.2028814 TID: 0100317013770000 BID: 29C71F06D781EFF1]": "[Breeze beta54 Mario + Rabbids\u00ae Sparks of Hope 1.1.2028814 TID: 0100317013770000 BID: 29C71F06D781EFF1]\n\n",
         "[off]": "[off]\n04000000 0296EA2C 1A8AC128 \n04000000 0150E744 B9408F6A\n\n",
         "[999999 coins min]": "[999999 coins min] \n04000000 0296EA2C 1A8AB128\n\n",
-        "[Hero HP reload]": "[Hero HP reload]\n04000000 0150E744 14923663 \n04000000 0399C0D0 B9408B6A \n04000000 0399C0D4 B9008F6A \n04000000 0399C0D8 176DC99C\n\n"
+        "[Hero HP reload]": "[Hero HP reload]\n04000000 0150E744 14923663 \n04000000 0399C0D0 B9408B6A \n04000000 0399C0D4 B9008F6A \n04000000 0399C0D8 176DC99C\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 07EA6DA0 \n580F1000 000000F0 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 07EA6DA0 \n580F1000 000000F0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "Mario + Rabbids Sparks of Hope by Tomswitch.txt": "111022\n\n\n\n\n\n\n\n\n"
+        "Mario + Rabbids Sparks of Hope by Tomswitch.txt": "111022\n\n\n\n\n\n\n\n\n",
+        "Mario + Rabbids Sparks of Hope.txt": "By desconection\n\nhttps://youtube.com/user/TheDesconection"
     }
 }

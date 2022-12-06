@@ -14,9 +14,12 @@
         "[11# Max Level 7 (R+D-pad Left)]": "[11# Max Level 7 (R+D-pad Left)]\n80001080\n580F0000 0481ACB8\n580F1000 000000F0\n580F1000 00000048\n580F1000 00000A70\n780F0000 00000728\n640F0000 00000000 00000B7C\n20000000\n\n",
         "[12# Max Level 8 (R+D-pad Up)]": "[12# Max Level 8 (R+D-pad Up)]\n80002080\n580F0000 0481ACB8\n580F1000 000000F0\n580F1000 00000048\n580F1000 00000A70\n780F0000 00000728\n640F0000 00000000 00000F00\n20000000\n\n",
         "[13# Max Level 9 (R+D-pad Right)]": "[13# Max Level 9 (R+D-pad Right)]\n80004080\n580F0000 0481ACB8\n580F1000 000000F0\n580F1000 00000048\n580F1000 00000A70\n780F0000 00000728\n640F0000 00000000 000012E8\n20000000\n\n",
-        "[14# Max Level 14 (R+D-pad Down)]": "[14# Max Level 14 (R+D-pad Down)]\n80008080\n580F0000 0481ACB8\n580F1000 000000F0\n580F1000 00000048\n580F1000 00000A70\n780F0000 00000728\n640F0000 00000000 00004420\n20000000\n\n"
+        "[14# Max Level 14 (R+D-pad Down)]": "[14# Max Level 14 (R+D-pad Down)]\n80008080\n580F0000 0481ACB8\n580F1000 000000F0\n580F1000 00000048\n580F1000 00000A70\n780F0000 00000728\n640F0000 00000000 00004420\n20000000\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 04968940\n580F1000 00000098\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 04968940\n580F1000 00000098\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "South Park Fractured But Whole by wiitendo84.txt": "Keep in mind that you need to level up to unlock the slots.\nAlso don't use the other player codes if you are alone in your team. otherwise your attacker get's 999 health "
+        "South Park Fractured But Whole by wiitendo84.txt": "Keep in mind that you need to level up to unlock the slots.\nAlso don't use the other player codes if you are alone in your team. otherwise your attacker get's 999 health ",
+        "South Park The Fractured but Whole.txt": "By Hazerou"
     }
 }

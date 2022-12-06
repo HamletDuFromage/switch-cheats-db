@@ -42,6 +42,10 @@
         "[Tao AP 999]": "[Tao AP 999]\n020F0000 018B28B0 000003E7\n020F0000 018B28B8 000003E7\n\n",
         "[Tao All Stats 1000]": "[Tao All Stats 1000]\n020F0000 018B28BC 000003E7\n020F0000 018B28C0 000003E7\n020F0000 018B28C4 000003E7\n020F0000 018B28C8 000003E7\n\n"
     },
+    "6BAE122EA063FFEB": {
+        "[60 FPS]": "[60 FPS]\n580F0000 018BF6D0 \n580F1000 00000008 \n580F1000 00003CC8 \n580F1000 00000018 \n780F0000 00000F24 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 018BF6D0 \n580F1000 00000008 \n580F1000 00003CC8 \n580F1000 00000018 \n780F0000 00000F24 \n640F0000 00000000 00000002\n\n"
+    },
     "78A0EDFBD60C976E": {
         "[Max Alchemy LVL]": "[Max Alchemy LVL]\n040F0000 01860648 00000063\n\n",
         "[Max Gem]": "[Max Gem]\n040F0000 0185cc1c 3B9AC9FF\n\n",
@@ -77,6 +81,7 @@
         "[Inf AP]": "[Inf AP]\n040F0000 805DB5D0 42480000\n040F0000 80660BBC 42480000\n040F0000 80660BB8 42480000\n\n"
     },
     "attribution": {
-        "Atelier Ryza Ever Darkness and the secret Hideout ver 1.0 and 1.0.1 and 1.0.7 by matias3ds gbatemp 91wii Tamtam ver 1.0.6 by bScrew.txt": ""
+        "Atelier Ryza Ever Darkness and the secret Hideout ver 1.0 and 1.0.1 and 1.0.7 by matias3ds gbatemp 91wii Tamtam ver 1.0.6 by bScrew.txt": "",
+        "Atelier Ryza Ever Darkness & the Secret Hideout.txt": "By retole\n\nNeeds MAX OC"
     }
 }

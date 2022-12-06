@@ -13,6 +13,10 @@
         "[compound b]": "[compound b]\n04100000 9F049df0 00000006\n\n",
         "[Medikits]": "[Medikits]\n04100000 9F049E10 00000006\n\n"
     },
+    "397C054A3D25D488": {
+        "[60 FPS]": "[60 FPS]\n580F0000 03CDC420\n780F0000 000028C4\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 03CDC420\n780F0000 000028C4\n640F0000 00000000 00000002\n\n"
+    },
     "3F21B36EE62DDEBD": {
         "[30 fps (default)]": "[30 fps (default)]\n581F0000 011FDB80\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
         "[60 fps]": "[60 fps]\n581F0000 011FDB80\n780F0000 00000F14\n640F0000 00000000 00000001\n\n"
@@ -31,6 +35,6 @@
     "attribution": {
         "Alien Isolation by Retroboy and patjenova.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n",
         "Alien Isolation by Retroboy and Nikolay Tenyuk.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n",
-        "Alien Isolation.txt": "v1.1.3_48479 By DJ KoHb on Gbatemp\n"
+        "Alien Isolation.txt": "By DJ KoHb, Hazerou\n"
     }
 }

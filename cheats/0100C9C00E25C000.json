@@ -11,8 +11,13 @@
         "[05# p2 stroke 11]": "[05# p2 stroke 11]\n580A0000 008915C8\n580A1000 00000020\n580A1000 0000A7C8\n780A0000 000001F0\n610A0000 00000000 0000000B\n\n",
         "[p3 stroke 11]": "[p3 stroke 11]\n580A0000 008915C8\n580A1000 00000020\n580A1000 0000A7C8\n780A0000 000002E4\n610A0000 00000000 0000000B\n\n"
     },
+    "C83882F4352BC4D9": {
+        "[60 FPS (Default)]": "[60 FPS (Default)]\n580F0000 00917148 \n580F1000 000067B8 \n580F1000 00000030 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Slow Game Speed)]": "[30 FPS (Slow Game Speed)]\n580F0000 00917148 \n580F1000 000067B8 \n580F1000 00000030 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
     "attribution": {
         "Mario Golf Super Rush ver 1.0.1 by patjenova.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]",
-        "Mario Golf Super Rush by Tomswitch amd jericoss.txt": "note: Infinite Jump can be used after learning double jump\n"
+        "Mario Golf Super Rush by Tomswitch amd jericoss.txt": "note: Infinite Jump can be used after learning double jump\n",
+        "Mario Golf Super Rush.txt": "By retole\n\nNote: Cheat must be turned on cheat AFTER first video intro!"
     }
 }

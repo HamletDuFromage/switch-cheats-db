@@ -134,9 +134,11 @@
         "[60 FPS]": "[60 FPS]\n580F0000 0786CAE0 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
         "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 0786CAE0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
         "[60 FPS (Alt)]": "[60 FPS (Alt)]\n580F0000 0786CB30 \n580F1000 00000008 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
-        "[30 FPS (Alt, Default)]": "[30 FPS (Alt, Default)]\n580F0000 0786CB30 \n580F1000 00000008 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+        "[30 FPS (Alt, Default)]": "[30 FPS (Alt, Default)]\n580F0000 0786CB30 \n580F1000 00000008 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[60 FPS alternative]": "[60 FPS alternative]\n580F0000 0786CB30 \n580F1000 00000008 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS alternative (Default)]": "[30 FPS alternative (Default)]\n580F0000 0786CB30 \n580F1000 00000008 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "Cult of the Lamb.txt": "by Hazerou, retole\nIncluded in the text file;\n\nOverall Resolution Cheats from [360p] up to [1080p].\n\nNote for Emulator Users requesting;\n\nWe can't go even higher like 2K or 4K because the View port is still messed up even if we set Fullscreen=True."
+        "Cult of the Lamb.txt": "By retole, Hazerou\n\nIncluded in the text file;\n\nOverall Resolution Cheats from [360p] up to [1080p]."
     }
 }

@@ -3,9 +3,14 @@
         "[Hold L & A for 550 million studs]": "[Hold L & A for 550 million studs]\n\n80000041\n580F0000 03B6AA10\n780F0000 00024240\n640F0000 00000000 20C85580\n20000000\n\n",
         "[Infinite health]": "[Infinite health]\n580F0000 03B57DD0\n780F0000 00000838\n640F0000 00000000 00000404\n\n",
         "[02# Moonjump]": "[02# Moonjump]\n80000002\n580F0000 03B83918\n780F0000 00000104\n640F0000 00000000 40200000\n20000000\n\n",
-        "[01# Infinite health]": "[01# Infinite health]\n580F0000 03B57DD0\n780F0000 00000838\n640F0000 00000000 00000404\n\n"
+        "[01# Infinite health]": "[01# Infinite health]\n580F0000 03B57DD0\n780F0000 00000838\n640F0000 00000000 00000404\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 03ABFC48 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 03ABFC48 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[60 FPS (Alternative)]": "[60 FPS (Alternative)]\n580F0000 03ABFC88 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default, Alternative)]": "[30 FPS (Default, Alternative)]\n580F0000 03ABFC88 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "Lego Jurassic World By wiitendo84.txt": ""
+        "Lego Jurassic World By wiitendo84.txt": "",
+        "LEGO Jurassic World.txt": "by retole\nNeed a little OC: GPU 460+; CPU 1224+"
     }
 }

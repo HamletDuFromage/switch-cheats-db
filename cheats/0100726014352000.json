@@ -1,4 +1,16 @@
 {
+    "14C096242459ECF1": {
+        "[60 FPS]": "[60 FPS]\n04000000 04397204 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n04000000 04397204 00000002\n\n"
+    },
+    "19BBCCD03723F93C": {
+        "[60 FPS]": "[60 FPS]\n04000000 043D8204 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n04000000 043D8204 00000002\n\n"
+    },
+    "1B4F2DE3E624C15C": {
+        "[60 FPS]": "[60 FPS]\n04000000 043D5204 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n04000000 043D5204 00000002\n\n"
+    },
     "32153D9896AE0C7C": {
         "[60 FPS]": "[60 FPS]\n04000000 04129204 00000001\n\n",
         "[Default 30 FPS]": "[Default 30 FPS]\n04000000 04129204 00000002\n\n"
@@ -22,9 +34,25 @@
         "[60 FPS]": "[60 FPS]\n04000000 0412A204 00000001\n\n",
         "[Default 30 FPS]": "[Default 30 FPS]\n04000000 0412A204 00000002\n\n"
     },
+    "83AE35985950C7C4": {
+        "[60 FPS]": "[60 FPS]\n04000000 043DA204 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n04000000 043DA204 00000002\n\n"
+    },
     "99DC340F6CF6BAEF": {
         "[60 FPS]": "[60 FPS]\n04000000 04392204 00000001\n\n",
         "[Default 30 FPS]": "[Default 30 FPS]\n04000000 04392204 00000002\n\n"
+    },
+    "A3F2A6862284B55F": {
+        "[60 FPS]": "[60 FPS]\n04000000 043BD204 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n04000000 043BD204 00000002\n\n"
+    },
+    "AF7BBAAA271CFCC5": {
+        "[60 FPS]": "[60 FPS]\n04000000 043C5204 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n04000000 043C5204 00000002\n\n"
+    },
+    "B1BB171A0E041703": {
+        "[60 FPS]": "[60 FPS]\n04000000 043BD204 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n04000000 043BD204 00000002\n\n"
     },
     "DCEDBABB85CB4237": {
         "[60 FPS]": "[60 FPS]\n04000000 042FD204 00000001\n\n",
@@ -32,6 +60,6 @@
     },
     "attribution": {
         "Diablo II Resurrected ver 1.0.0.0 by Eiffel2018.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",
-        "Diablo II Resurrected.txt": "By Hazerou"
+        "Diablo II Resurrected.txt": "By Hazerou, retole, desconection"
     }
 }

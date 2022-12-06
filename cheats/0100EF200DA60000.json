@@ -1,4 +1,8 @@
 {
+    "69A45110D07F0442": {
+        "[60 FPS]": "[60 FPS]\n580F0000 06F33148 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 06F33148 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
     "9237D917928AEB4A": {
         "[01# Remove Item Durability]": "[01# Remove Item Durability]\n04000000 008AB780 D65F03C0\n\n",
         "[Remove Item Durability (off)]": "[Remove Item Durability (off)]\n04000000 008AB780 D105C3FF\n\n",
@@ -12,6 +16,7 @@
         "[06# Inf Hunger]": "[06# Inf Hunger]\n580F0000 062388F0\n580F1000 000000B8\n580F1000 00000030\n580F1000 00000078\n580F1000 00000018\n580F1000 000002F8\n580F1000 00000050\n780F0000 00000014\n640F0000 00000000 00000064\n\n"
     },
     "attribution": {
-        "The Survivalists ver 1.0.3 by patjenova.txt": ""
+        "The Survivalists ver 1.0.3 by patjenova.txt": "",
+        "The Survivalists.txt": "By ChanseyIsTheBest"
     }
 }

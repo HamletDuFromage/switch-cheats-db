@@ -21,5 +21,12 @@
         "[enable option 2 (time control)]": "[enable option 2 (time control)]\n80000010 \n04000000 0120DF3C 00000002 \n20000000\n\n",
         "[disable option 2(time control)]": "[disable option 2(time control)]\n80000020 \n04000000 0120DF3C 00000000 \n20000000\n\n",
         "[time control mod stop to slow]": "[time control mod stop to slow]\n04000000 0120DF34 3DCCCCCD\n\n"
+    },
+    "F19B2E01E1794F93": {
+        "[60 FPS (Default)]": "[60 FPS (Default)]\n580F0000 035039E0 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 035039E0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Bayonetta 2.txt": "By retole\n\nIn Bayonetta 2 30 FPS code does not slow game speed"
     }
 }

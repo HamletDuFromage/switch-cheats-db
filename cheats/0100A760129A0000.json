@@ -1,9 +1,11 @@
 {
     "AB4C861FD0C87F47": {
         "[30 FPS]": "[30 FPS]\n580F0000 0202A230\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
-        "[Unlocked FPS (30~45) default]": "[Unlocked FPS (30~45) default]\n580F0000 0202A230\n780F0000 00000F14\n640F0000 00000000 00000001\n\n"
+        "[Unlocked FPS (30~45) default]": "[Unlocked FPS (30~45) default]\n580F0000 0202A230\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 0202A230\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 0202A230\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "In rays of the Light.txt": "By cucholix"
+        "In rays of the Light.txt": "By cucholix\n"
     }
 }

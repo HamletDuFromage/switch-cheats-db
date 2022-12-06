@@ -1,0 +1,9 @@
+{
+    "5315392024384345": {
+        "[Default 60 FPS]": "[Default 60 FPS]\n580F0000 03A217B8\n580F1000 000001B8\n780F0000 00000F24\n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 03A217B8\n580F1000 000001B8\n780F0000 00000F24\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "AI THE SOMNIUM FILES.txt": "By Hazerou\n\nI couldn't find the Resolution Codes. The Game has no Dynamic Resolution mostly the reason why.\nAnd seems like this Game is CPU Heavy too so I don't think decreasing the Resolution will help much to achieve stable 60 FPS."
+    }
+}

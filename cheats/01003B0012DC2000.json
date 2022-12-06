@@ -18,12 +18,20 @@
         "[06# No Level Restriction]": "[06# No Level Restriction]\n040A0000 016EB998 D503201F\n\n",
         "[No Level Restriction OFF]": "[No Level Restriction OFF]\n040A0000 016EB998 6B13029F\n\n"
     },
+    "23E022774F2E5A41": {
+        "[60 FPS]": "[60 FPS]\n580F0000 03FEAA58\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 03FEAA58\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "EBD3EFB2950F5140": {
+        "[60 FPS]": "[60 FPS]\n580F0000 03C37348\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 03C37348\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
     "F8098979DBC7F34E": {
         "[60 FPS]": "[60 FPS]\n580F0000 03C5B188\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
         "[30 FPS default]": "[30 FPS default]\n580F0000 03C5B188\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
         "Shin Megami Tensei III Nocturne HD Remaster ver 1.01 by Jericoss and patjenova.txt": "NOTE:\nIf stats become unusable, set to lower number (tested with these a little and seemd fine. Dont exceed too hard or you might get 1 shot etc).\nStat changes will be made when you teleport in/out or level up.",
-        "Shin Megami Tensei III Nocturne HD Remaster.txt": "By cucholix"
+        "Shin Megami Tensei III Nocturne HD Remaster.txt": "hazerou, cucholix\n"
     }
 }

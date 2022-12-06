@@ -1,4 +1,8 @@
 {
+    "C2979457A5785216": {
+        "[60 FPS]": "[60 FPS]\n580F0000 01B03ED8 \n580F1000 00000998 \n580F1000 00000018 \n580F1000 000000D8 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 01B03ED8 \n580F1000 00000998 \n580F1000 00000018 \n580F1000 000000D8 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
     "D539FA1D45BE2D76": {
         "[Inf Coins 99999 @Matias3ds]": "[Inf Coins 99999 @Matias3ds]\n04000000 01a77670 0001869F\n\n",
         "[Inf Skill Tree @Matias3ds]": "[Inf Skill Tree @Matias3ds]\n04000000 019c46d8 0001869F\n\n",
@@ -23,6 +27,7 @@
         "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 019DFF28\n580F1000 000000B8\n580F1000 00000000\n580F1000 000000C0\n580F1000 00000010\n580F1000 00000028\n580F1000 00000010\n580F1000 00000018\n780F0000 000000C0\n640F0000 00000000 45000000\n780F0000 00000030\n640F0000 00000000 00000000\n20000000\n\n"
     },
     "attribution": {
-        "Atelier Ryza 2  Los Legnds and the Secret Fairy Ver 1.0.1 By TomSwitch Matias3ds and Roguefan99 ver 1.0.2 by bScrub.txt": "[Inf Coins 99999 @Matias3ds]\n04000000 01a77670 0001869F\n\n[Inf Skill Tree @Matias3ds]\n04000000 019c46d8 0001869F\n\n[Inf Gems @Matias3ds]\n04000000 01a71d3c 0001869F"
+        "Atelier Ryza 2  Los Legnds and the Secret Fairy Ver 1.0.1 By TomSwitch Matias3ds and Roguefan99 ver 1.0.2 by bScrub.txt": "[Inf Coins 99999 @Matias3ds]\n04000000 01a77670 0001869F\n\n[Inf Skill Tree @Matias3ds]\n04000000 019c46d8 0001869F\n\n[Inf Gems @Matias3ds]\n04000000 01a71d3c 0001869F",
+        "Atelier Ryza 2 Lost Legends & the Secret Fairy.txt": "By retole\n\nNeeds MAX OC"
     }
 }

@@ -7,9 +7,12 @@
         "[SP 999]": "[SP 999]\n40010000 00000000\n00000C4C 40020000\n00000000 00000D38\n40030000 00000000\n00000E24 30000000\n00000096 620F0110\n00000000 000003E7\n620F0120 00000000\n000003E7 620F0130\n00000000 000003E7\n78010000 00000480\n78020000 00000480\n78030000 00000480\n31000000\n\n",
         "[Battle Item x98]": "[Battle Item x98]\n40010000 00000000\n00038D1C 30000000\n00000032 610F0110\n00000000 00000062\n78010000 00000008\n31000000\n\n",
         "[Save Anytime]": "[Save Anytime]\n400E0000 00000000\n000424B5 610F01E0\n00000000 00000010\n\n",
-        "[Summon meter Max]": "[Summon meter Max]\n400E0000 00000000\n0003B524 640F01E0\n00000000 0000012C\n\n"
+        "[Summon meter Max]": "[Summon meter Max]\n400E0000 00000000\n0003B524 640F01E0\n00000000 0000012C\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 022D7F40\n580F1000 000000E0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 022D7F40\n580F1000 000000E0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "World of Final Fantasy by jericoss.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
+        "World of Final Fantasy by jericoss.txt": "Before going to a Mach disable codes. And you must be first at the beginning. ",
+        "WORLD OF FINAL FANTASY MAXIMA.txt": "By @Hazerou\n- When Using 60 FPS, Some Animations in a Cutscene looks like they are running at 30 FPS."
     }
 }

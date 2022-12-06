@@ -11,7 +11,9 @@
         "[9999 Confluence Affix]": "[9999 Confluence Affix]\n041F0000 221D9C60 0000270F\n\n",
         "[9999 Brawn Affix]": "[9999 Brawn Affix]\n041F0000 221D9C2C 0000270F\n\n",
         "[9999 Agility Affix]": "[9999 Agility Affix]\n041F0000 221D9C24 0000270F\n\n",
-        "[9999 Reach Affix]": "[9999 Reach Affix]\n041F0000 221D9C28 0000270F\n\n"
+        "[9999 Reach Affix]": "[9999 Reach Affix]\n041F0000 221D9C28 0000270F\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 00039010\n580F1000 0000A348\n780F0000 00000F24\n640F0000 00000000 00000001\n580F0000 0003AF80\n780F1000 00093200\n680F1000 0000003C 00000001\n680F1000 00000001 42700000\n680F0000 42700000 0000003C\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 00039010\n580F1000 0000A348\n780F0000 00000F24\n640F0000 00000000 00000002\n580F0000 0003AF80\n780F1000 00093200\n680F1000 0000001E 00000002\n680F1000 00000002 41F00000\n680F0000 41F00000 0000001E\n\n"
     },
     "C99DA50E73027754": {
         "[999 Courage Affix]": "[999 Courage Affix]\n041F0000 119fc83e 000003E7\n\n",
@@ -25,6 +27,7 @@
         "[9999 Def]": "[9999 Def]\n041F0000 11a8eb62 0000270F\n\nMade by Stoned\n\n"
     },
     "attribution": {
-        "Warriors Orochi 4 USA version ver 1.0.5 and 1.0.13 by Stoned.txt": "[From MAX-CHEATS.com by matias3ds for Warriors Orochi 4 V 1.0.6]\n\n\n[999 Courage Affix]\n041F0000 119fc83e 000003E7\n\n[999 Flame Affix]\n041F0000 119fc832 000003E7\n\n[999 Diligence Affix]\n041F0000 119fc840 000003E7\n\n[999 Harmony Affix]\n041F0000 119fc842 000003E7\n\n[77215 Hits]\n040F0000 01336554 00012D9F\n\n[77215 Ko]\n040F0000 0133644c 00012D9F\n\n[Naotora li Codes]\n\n[6000 Hp]\n041F0000 11a949de 00001770\n\n[6000 Atk]\n041F0000 11a949e0 00001770\n\n[9999 Def]\n041F0000 11a949e2 0000270F\n\n[Tadakatsu Honda Codes]\n\n[6000 Hp]\n041F0000 11a8eb5e 00001770\n\n[6000 Atk]\n041F0000 11a8eb60 00001770\n\n[9999 Def]\n041F0000 11a8eb62 0000270F\n\nMade by Stoned"
+        "Warriors Orochi 4 USA version ver 1.0.5 and 1.0.13 by Stoned.txt": "[From MAX-CHEATS.com by matias3ds for Warriors Orochi 4 V 1.0.6]\n\n\n[999 Courage Affix]\n041F0000 119fc83e 000003E7\n\n[999 Flame Affix]\n041F0000 119fc832 000003E7\n\n[999 Diligence Affix]\n041F0000 119fc840 000003E7\n\n[999 Harmony Affix]\n041F0000 119fc842 000003E7\n\n[77215 Hits]\n040F0000 01336554 00012D9F\n\n[77215 Ko]\n040F0000 0133644c 00012D9F\n\n[Naotora li Codes]\n\n[6000 Hp]\n041F0000 11a949de 00001770\n\n[6000 Atk]\n041F0000 11a949e0 00001770\n\n[9999 Def]\n041F0000 11a949e2 0000270F\n\n[Tadakatsu Honda Codes]\n\n[6000 Hp]\n041F0000 11a8eb5e 00001770\n\n[6000 Atk]\n041F0000 11a8eb60 00001770\n\n[9999 Def]\n041F0000 11a8eb62 0000270F\n\nMade by Stoned",
+        "WARRIORS OROCHI 4.txt": "By Hazerou"
     }
 }

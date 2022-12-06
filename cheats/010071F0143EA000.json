@@ -42,7 +42,9 @@
         "[#30. Freeze Side Quest Timer \u652f\u7dda\u4efb\u52d9\u6642\u9593\u975c\u6b62]": "[#30. Freeze Side Quest Timer \u652f\u7dda\u4efb\u52d9\u6642\u9593\u975c\u6b62]\n040E0000 00A16D24 D503201F\n\n",
         "[#31. Inf. Extra Quest Rounds \u984d\u5916\u4efb\u52d9\u5269\u9918\u56de\u5408\u4e0d\u6e1b]": "[#31. Inf. Extra Quest Rounds \u984d\u5916\u4efb\u52d9\u5269\u9918\u56de\u5408\u4e0d\u6e1b]\n040E0000 010A41FC D503201F\n\n",
         "[#32. LV limited 255 \u7b49\u7d1a\u4e0a\u9650]": "[#32. LV limited 255 \u7b49\u7d1a\u4e0a\u9650]\n040E0000 0190FF80 437F0000\n040E0000 0190FF7C D65F03C0\n040E0000 0190FF78 BD000160\n040E0000 0190FF74 1C000060\n040E0000 00D8998C 942E197A\n\n",
-        "[#33. Can Hire all Battalions \u53ef\u50f1\u7528\u6240\u6709\u9a0e\u58eb\u5718]": "[#33. Can Hire all Battalions \u53ef\u50f1\u7528\u6240\u6709\u9a0e\u58eb\u5718]\n040E0000 002E8398 14000027\n\n"
+        "[#33. Can Hire all Battalions \u53ef\u50f1\u7528\u6240\u6709\u9a0e\u58eb\u5718]": "[#33. Can Hire all Battalions \u53ef\u50f1\u7528\u6240\u6709\u9a0e\u58eb\u5718]\n040E0000 002E8398 14000027\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 0251CAC0\n580F1000 00000518\n780F0000 00003A64\n640F0000 00000000 00000002\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 0251CAC0\n580F1000 00000518\n780F0000 00003A64\n640F0000 00000000 00000001\n\n"
     },
     "8A25CB320BEDF519": {
         "[Fire Emblem Warriors, Three Hopes (US) v1.0.0(v0)  TID=010071F0143EA000  BID=8A25CB320BEDF519]": "[Fire Emblem Warriors, Three Hopes (US) v1.0.0(v0)  TID=010071F0143EA000  BID=8A25CB320BEDF519]\n\n",
@@ -88,5 +90,8 @@
         "[#31. Inf. Extra Quest Rounds \u984d\u5916\u4efb\u52d9\u5269\u9918\u56de\u5408\u4e0d\u6e1b]": "[#31. Inf. Extra Quest Rounds \u984d\u5916\u4efb\u52d9\u5269\u9918\u56de\u5408\u4e0d\u6e1b]\n040E0000 010A23CC D503201F\n\n",
         "[#32. LV limited 255 \u7b49\u7d1a\u4e0a\u9650]": "[#32. LV limited 255 \u7b49\u7d1a\u4e0a\u9650]\n040E0000 0190DF80 437F0000\n040E0000 0190DF7C D65F03C0\n040E0000 0190DF78 BD000160\n040E0000 0190DF74 1C000060\n040E0000 00D87FA0 942E17F5\n\n",
         "[#33. Can Hire all Battalions \u53ef\u50f1\u7528\u6240\u6709\u9a0e\u58eb\u5718]": "[#33. Can Hire all Battalions \u53ef\u50f1\u7528\u6240\u6709\u9a0e\u58eb\u5718]\n040E0000 002E6C38 14000027\n\n"
+    },
+    "attribution": {
+        "Fire Emblem Warriors Three Hopes.txt": "By JotaGBA"
     }
 }

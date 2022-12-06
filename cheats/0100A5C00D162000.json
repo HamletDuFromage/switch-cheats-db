@@ -8,7 +8,9 @@
         "[Inf. EX]": "[Inf. EX]\n04000000 0116B17C 1E27D000\n\n",
         "[Inf. Special]": "[Inf. Special]\n04000000 0116AFF0 BD409400\n\n",
         "[Inf. Coins]": "[Inf. Coins]\n04000000 011532E0 52800795\n04000000 01153274 52800795\n\n",
-        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n"
+        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n",
+        "[Default 60 FPS]": "[Default 60 FPS]\n580F0000 03AABA28\n780F0000 00005F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 03AABA28\n780F0000 00005F14\n640F0000 00000000 00000002\n\n"
     },
     "80537FB47433794B": {
         "[P1 Infinite HP]": "[P1 Infinite HP]\n580f0000 0338f848\n580f1000 00000010\n580f1000 00000030\n580f1000 00000028\n580f1000 00000020\n580f1000 00000060\n780f0000 00000068\n610f0000 00000000 00000003\n780f0000 00000004\n610f0000 00000000 00000003\n\n",
@@ -60,6 +62,7 @@
         "[P2 30 Coins Save1]": "[P2 30 Coins Save1]\n580f0000 0346E890\n580f1000 000000a0\n580f1000 00000020\n580f1000 00000020\n580f1000 00000030\n580f1000 00000020\n780f0000 00000010\n610f0000 00000000 0000001e\n\n"
     },
     "attribution": {
-        "cuphead ver 1.2.5 by xtatu.txt": ""
+        "cuphead ver 1.2.5 by xtatu.txt": "",
+        "Cuphead.txt": "By Hazerou"
     }
 }

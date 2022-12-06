@@ -37,6 +37,11 @@
         "[Money gain fron Selling x32]": "[Money gain fron Selling x32]\n040C0000 01734680 0B131529\n\n",
         "[Inf. Money]": "[Inf. Money]\n040C0000 017477D0 4B1F0129\n\n",
         "[Max Money after Purchase]": "[Max Money after Purchase]\n040C0000 017477CC 144F16A0\n\n",
-        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n"
+        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 04436E30 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 04436E30 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Potion Permit.txt": "By ChanseyIsTheBest"
     }
 }

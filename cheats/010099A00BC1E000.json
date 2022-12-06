@@ -1,6 +1,8 @@
 {
     "82C2A04A21D3E0B8": {
-        "[inf reload ammo]": "[inf reload ammo]\n04000000 00299E40 D65F03C0\n\n"
+        "[inf reload ammo]": "[inf reload ammo]\n04000000 00299E40 D65F03C0\n\n",
+        "[Default 60 FPS]": "[Default 60 FPS]\n580F0000 011F9098\n580F1000 00000050\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[OG 30 FPS]": "[OG 30 FPS]\n580F0000 011F9098\n580F1000 00000050\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "8CEAF0D2AE48A935": {
         "[Size Up (Hold R)]": "[Size Up (Hold R)]\n580F0000 0113b398\n780F0000 000000c0\n300E0000 00000003\n640F0000 00000000 3F800000\n780F0000 00000004\n80000080\n640F0000 00000000 3FB00000\n780F0000 00000004\n310E0000\n20000000\n\n",
@@ -10,6 +12,7 @@
         "[HITANYWHERE+GHOST MODE]": "[HITANYWHERE+GHOST MODE]\n04000000 00282724 D503201F\n\n"
     },
     "attribution": {
-        "Resident Evil 4 ver 1.01 by xtatu.txt": ""
+        "Resident Evil 4 ver 1.01 by xtatu.txt": "",
+        "Resident Evil 4.txt": "by hazerou"
     }
 }

@@ -11,6 +11,11 @@
         "[Stamina Inf Off]": "[Stamina Inf Off]\n04000000 01CB3BC8 1E283920\n\n",
         "[Oxygen Inf]": "[Oxygen Inf]\n04000000 01E629B0 1E204101\n\n",
         "[Oxygen Inf Off]": "[Oxygen Inf Off]\n04000000 01E629B0 1E203901\n\n",
-        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 05024FB0 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 05024FB0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "In Sound Mind.txt": "By retole\n\nOC \u2014 CPU 1581+ GPU 768+"
     }
 }

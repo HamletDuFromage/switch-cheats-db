@@ -17,5 +17,12 @@
         "[#12. \u7121\u9650\u8df3\u8e8d]": "[#12. \u7121\u9650\u8df3\u8e8d]\n040E0000 00463FFC 2A1F03E9\n\n",
         "[#13a \u9023\u64caCombo 5x]": "[#13a \u9023\u64caCombo 5x]\n080E0000 0133CFD8 D65F03C0 0B000800\n040E0000 007B542C 142E1EEB\n\n",
         "[#13b \u9023\u64caCombo 0]": "[#13b \u9023\u64caCombo 0]\n040E0000 007B5428 2A1F03E0\n\n"
+    },
+    "F1FF2D71EBD91A09": {
+        "[30 fps]": "[30 fps]\n580F0000 04F14950 \n580F1000 0000BF70 \n580F1000 000000D8 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[60 fps (default)]": "[60 fps (default)]\n580F0000 04F14950 \n580F1000 0000BF70 \n580F1000 000000D8 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n"
+    },
+    "attribution": {
+        "Bayonetta 3.txt": "By cucholix"
     }
 }

@@ -1,4 +1,8 @@
 {
+    "1F4A4708615F76F7": {
+        "[60 FPS  (Default)]": "[60 FPS  (Default)]\n580F0000 03264CD0 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Game Speed Slow)]": "[30 FPS (Game Speed Slow)]\n580F0000 03264CD0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
     "7AE22DDABCE854F5": {
         "[ 1p invelcible mode]": "[ 1p invelcible mode]\n04000000 005D8430 D65F03C0\n\n",
         "[1p speed 2x]": "[1p speed 2x]\n04000000 005DA4E8 320203E9\n\n",
@@ -16,6 +20,7 @@
         "[unlimited Combo]": "[unlimited Combo]\n04000000 00062194 52A01309\n04000000 00062198 7292CFE9\n\n"
     },
     "attribution": {
-        "Bayonetta BY XTATU.txt": "?After the 2th person, please add +08 to the following code\n580F1000 00000020"
+        "Bayonetta BY XTATU.txt": "?After the 2th person, please add +08 to the following code\n580F1000 00000020",
+        "Bayonetta.txt": "By retole\n\nIn Bayonetta 30 FPS code also slow game speed"
     }
 }

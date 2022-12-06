@@ -1,0 +1,13 @@
+{
+    "33354B91FEB5E676": {
+        "[60 FPS]": "[60 FPS]\n580F0000 04D02F70 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 04D02F70 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
+    "903E2A4A54072264": {
+        "[60 FPS]": "[60 FPS]\n580F0000 04CFDF70 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 04CFDF70 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "South of the Circle.txt": "By retole\n\nNeed a little GPU OC (573MHz)"
+    }
+}

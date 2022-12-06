@@ -7,6 +7,10 @@
         "[HP/RP Max]": "[HP/RP Max]\n580F0000 05EB8E88\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000050\n580F1000 000000F0\n780F0000 00000018\n640F0000 00000000 0000270F\n780F0000 00000004\n640F0000 00000000 0000270F\n780F0000 00000004\n640F0000 00000000 0000270F\n780F0000 00000004\n640F0000 00000000 0000270F\n\n",
         "[Status Max]": "[Status Max]\n580F0000 05EB8E88\n580F1000 000000B8\n580F1000 00000008\n580F1000 00000050\n580F1000 000000F0\n780F0000 00000038\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 000F423F\n\n"
     },
+    "59A22A45330F6242": {
+        "[60 FPS]": "[60 FPS]\n580F0000 05FEE3C8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 05FEE3C8\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
     "6E7572174EDA854B": {
         "[1.Item]": "[1.Item]\n20000000\n\n",
         "[ 1.1.Item in hand modifier]": "[ 1.1.Item in hand modifier]\n20000000\n\n",
@@ -98,8 +102,17 @@
         "[\u80a5\u6599/Fertilizer]": "[\u80a5\u6599/Fertilizer]\n580F0000 05ED7218\n580F1000 000000B8\n580F1000 00000008\n780F0000 000000C0\n620F0000 00000000 0000C350\n\n",
         "[\u7267\u8349/Fodder]": "[\u7267\u8349/Fodder]\n580F0000 05ED7218\n580F1000 000000B8\n580F1000 00000008\n780F0000 000000C4\n620F0000 00000000 0000C350\n\n"
     },
+    "C7D0F1FA0481664B": {
+        "[60 FPS]": "[60 FPS]\n580F0000 05FF4548\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 05FF4548\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "FABEA3570955694A": {
+        "[60 FPS]": "[60 FPS]\n580F0000 05FE70C8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 05FE70C8\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
     "attribution": {
         "RuneFactory 5 ver 104 by Takumi4685 1.0.1.1 by misaki4545.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",
-        "RuneFactory 5 \u30eb\u30fc\u30f3\u30d5\u30a1\u30af\u30c8\u30ea\u30fc5 ver 1.0.2 by misaki4545 and takumi4685.txt": "Do NOT use this code to food, fish and equip,\nonly use to stackable material item\n\nDupe code added:\nhow to\nPrepare item stack that have more than 2 items\nSeparate stack by selecting twice\nHand original stack\nPush Left Stick,then original stack size will recovery to step 1"
+        "RuneFactory 5 \u30eb\u30fc\u30f3\u30d5\u30a1\u30af\u30c8\u30ea\u30fc5 ver 1.0.2 by misaki4545 and takumi4685.txt": "Do NOT use this code to food, fish and equip,\nonly use to stackable material item\n\nDupe code added:\nhow to\nPrepare item stack that have more than 2 items\nSeparate stack by selecting twice\nHand original stack\nPush Left Stick,then original stack size will recovery to step 1",
+        "Rune Factory 5.txt": "1.0.0 - 1.0.1\n  8BitWonder\n Other cheats by Hazerou "
     }
 }

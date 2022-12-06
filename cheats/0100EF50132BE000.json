@@ -1,4 +1,8 @@
 {
+    "5B3112FD2C83E1AC": {
+        "[60 FPS]": "[60 FPS]\n580F0000 016B12F8\n580F1000 000007D0\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 016B12F8\n580F1000 000007D0\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
     "816BFB8A2F5B5916": {
         "[Hp]": "[Hp]\n580F0000 016B78C0\n580F1000 00000010\n580F1000 00000008\n580F1000 00000008\n780F0000 0000005C\n640F0000 00000000 000003E7\n\n",
         "[Max/Cur mana]": "[Max/Cur mana]\n580F0000 016B78C0 \n580F1000 00000098 \n580F1000 00000008 \n580F1000 00000008 \n40010000 00000000 000000B0 \n40020000 00000000 000000D0 \n640F0110 00000000 000003E7 \n640F0120 00000000 000003E7\n\n",
@@ -18,6 +22,7 @@
         "[1P SPEED 2X]": "[1P SPEED 2X]\n04000000 0077EA78 1E201000\n\n"
     },
     "attribution": {
-        "Kingdoms of Amalur Re Reckoning ver 1.02 by gamerjin and Xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}"
+        "Kingdoms of Amalur Re Reckoning ver 1.02 by gamerjin and Xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}",
+        "Kingdoms of Amalur Re-Reckoning.txt": "by hazerou"
     }
 }

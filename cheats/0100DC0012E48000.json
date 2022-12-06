@@ -1,0 +1,13 @@
+{
+    "7BCD694B69C98104": {
+        "[60 FPS]": "[60 FPS]\n04000000 0DA965C4 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n04000000 0DA965C4 00000002\n\n"
+    },
+    "9926F51221C28212": {
+        "[60 FPS]": "[60 FPS]\n04000000 0DA965C4 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n04000000 0DA965C4 00000002\n\n"
+    },
+    "attribution": {
+        "Wreckfest.txt": "By retole\n\nNeed OC. Time to time its drop to 40-50 in the same places. I noticed that if there is a sign in the frame, then the fps will drop. If you don't look at it, then everything is ok. And still 30 FPS in some menu."
+    }
+}

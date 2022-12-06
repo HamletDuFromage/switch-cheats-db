@@ -12,9 +12,12 @@
         "[Unlimited Range in Build Mode (Off)]": "[Unlimited Range in Build Mode (Off)]\n04000000 00BA3E3C 41700000\n04000000 00BA3E40 41A00000\n04000000 00BA3E44 41700000\n\n"
     },
     "D59D81C06F923846": {
-        "[Hearts MAX with minus]": "[Hearts MAX with minus]\n80000800\n580F0000 01772AA0\n580F1000 00000050\n580F1000 00000018\n580F1000 00000000\n580F1000 00000010\n780F0000 00000088\n640F0000 00000000 4B189680\n\n"
+        "[Hearts MAX with minus]": "[Hearts MAX with minus]\n80000800\n580F0000 01772AA0\n580F1000 00000050\n580F1000 00000018\n580F1000 00000000\n580F1000 00000010\n780F0000 00000088\n640F0000 00000000 4B189680\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 00F68CC0\n580F1000 000001D0\n580F1000 000000E8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 00F68CC0\n580F1000 000001D0\n580F1000 000000E8\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "Portal Knights 1.5.3 and 1.7.2 by merlin555.txt": "Hearts MAX are not infinite.\nWorks only with a new charackter !!\nPress the Minus button several times until the maximum heart is reached.\nEach character and weapon has a different number of MAX hearts.\n7 to 20 hearts are possible from beginning.\nThen press \"X\" and forgive the points in Endurance until you have 20 hearts."
+        "Portal Knights 1.5.3 and 1.7.2 by merlin555.txt": "Hearts MAX are not infinite.\nWorks only with a new charackter !!\nPress the Minus button several times until the maximum heart is reached.\nEach character and weapon has a different number of MAX hearts.\n7 to 20 hearts are possible from beginning.\nThen press \"X\" and forgive the points in Endurance until you have 20 hearts.",
+        "Portal Knights.txt": "by hazerou"
     }
 }

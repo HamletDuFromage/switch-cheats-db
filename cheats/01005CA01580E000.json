@@ -21,6 +21,11 @@
         "[#17. Mementos Flowers do not decrease]": "[#17. Mementos Flowers do not decrease]\n040E0000 009A40A8 D503201F\n040E0000 009A44D4 D503201F\n040E0000 009DDD78 D503201F\n\n",
         "[#18. Max Mementos Stamps - Exp Up (200%)]": "[#18. Max Mementos Stamps - Exp Up (200%)]\n020E0000 02286B28 0000000A\n\n",
         "[#19. Max Mementos Stamps - Money Rewards Up (200%)]": "[#19. Max Mementos Stamps - Money Rewards Up (200%)]\n020E0000 02286B2A 0000000A\n\n",
-        "[#20. Max Mementos Stamps - Item Rewards Up (200%)]": "[#20. Max Mementos Stamps - Item Rewards Up (200%)]\n020E0000 02286B2C 0000000A\n\n"
+        "[#20. Max Mementos Stamps - Item Rewards Up (200%)]": "[#20. Max Mementos Stamps - Item Rewards Up (200%)]\n020E0000 02286B2C 0000000A\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 02327B60 \n580F1000 00000010 \n580F1000 00000060 \n580F1000 00000008 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 02327B60 \n580F1000 00000010 \n580F1000 00000060 \n580F1000 00000008 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Persona 5 Royal.txt": "By desconection\n\nhttps://youtube.com/user/TheDesconection"
     }
 }
