@@ -36,6 +36,12 @@
         "[60 FPS]": "[60 FPS]\n580F0000 03CFFE28 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
         "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 03CFFE28 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
     },
+    "DB1F84E09190DA58": {
+        "[60 FPS]": "[60 FPS]\n580F0000 03D27300 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 03D27300 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[60 FPS (Alternative)]": "[60 FPS (Alternative)]\n580F0000 046B0150 \n780F0000 00004924 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Alternative, Default)]": "[30 FPS (Alternative, Default)]\n580F0000 046B0150 \n780F0000 00004924 \n640F0000 00000000 00000002\n\n"
+    },
     "attribution": {
         "No Man's Sky.txt": "by ChanseyIsTheBest#5642, desconection#0943, retole\nNeed OC GPU 768+ CPU 1581+"
     }
