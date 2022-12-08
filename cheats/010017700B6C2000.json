@@ -18,7 +18,12 @@
         "[nfinte Lives]": "[nfinte Lives]\n04000000 002ED6F0 52800000\n\n",
         "[Infinite Hearts]": "[Infinite Hearts]\n04000000 002C0894 1A95B15A\n\n"
     },
+    "9BA7F3602D21694F": {
+        "[60FPS]": "[60FPS]\n580F0000 03A73870 \n780F0000 00005F14 \n640F0000 00000000 00000001\n\n",
+        "[30FPS]": "[30FPS]\n580F0000 03A73870 \n780F0000 00005F14 \n640F0000 00000000 00000002\n\n"
+    },
     "attribution": {
-        "New Super Lucky's Tale v1.3.6 by DaBlackDeath.txt": "WARNING - Enable these when IN-GAME ONLY or will Crash the Full Game"
+        "New Super Lucky's Tale v1.3.6 by DaBlackDeath.txt": "WARNING - Enable these when IN-GAME ONLY or will Crash the Full Game",
+        "New Super Lucky's Tale.txt": "By ChanseyIsTheBest"
     }
 }

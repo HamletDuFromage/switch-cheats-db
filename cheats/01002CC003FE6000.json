@@ -1,4 +1,8 @@
 {
+    "13C816F2A273653C": {
+        "[60 FPS]": "[60 FPS]\n580F0000 0EE405D0 \n580F1000 00000118 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 0EE405D0 \n580F1000 00000118 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
     "630DC5DE0776E6E8": {
         "[01# Inf Health]": "[01# Inf Health]\n580F0000 0FA26F80\n580F1000 00000200\n580F1000 00001258\n580F1000 00000008\n780F0000 00000004\n640F0000 00000000 4650C000\n\n",
         "[02# Inf Energy]": "[02# Inf Energy]\n580F0000 0FA27940\n780F0000 00000FE0\n640F0000 00000000 44EB5000\n\n",
@@ -9,6 +13,7 @@
         "[07# Inf Crimson]": "[07# Inf Crimson]\n580F0000 0F5FEC08\n580F1000 00000148\n580F1000 000000B8\n780F0000 0000001C\n640F0000 00000000 0098967F\n\n"
     },
     "attribution": {
-        "Starlink Battle for Atlas ver 1.0.5 by Patjenova.txt": "caution\ncan some problems"
+        "Starlink Battle for Atlas ver 1.0.5 by Patjenova.txt": "caution\ncan some problems",
+        "Starlink Battle for Atlas.txt": "Need MAX OC"
     }
 }

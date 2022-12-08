@@ -2,9 +2,12 @@
     "D55608916FA56C18": {
         "[Infinite Health Kirby]": "[Infinite Health Kirby]\n58000000 005400A8\n58001000 00000358\n58001000 00000030\n58001000 000001A0\n78000000 00000050\n64000000 00000000 000003E7\n\n",
         "[Infinite Lives]": "[Infinite Lives]\n58000000 005400E8\n58001000 000000A8\n58001000 00000290\n58001000 000000C0\n78000000 00000068\n64000000 00000000 00000063\n\n",
-        "[Kirby Ultimate Infinite Health]": "[Kirby Ultimate Infinite Health]\n58000000 005400A8\n58001000 00000078\n58001000 000002C8\n58001000 00000030\n58001000 000001A0\n78000000 00000050\n64000000 00000000 000003E7\n\n"
+        "[Kirby Ultimate Infinite Health]": "[Kirby Ultimate Infinite Health]\n58000000 005400A8\n58001000 00000078\n58001000 000002C8\n58001000 00000030\n58001000 000001A0\n78000000 00000050\n64000000 00000000 000003E7\n\n",
+        "[60 FPS]": "[60 FPS]\n58000000 0054C5B0\n64000000 00000000 00000000\n\n",
+        "[30 FPS Default]": "[30 FPS Default]\n58000000 0054C5B0\n64000000 00000000 00000001\n\n"
     },
     "attribution": {
-        "Kirby Star Allies by wiitendo84.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n"
+        "Kirby Star Allies by wiitendo84.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n",
+        "Kirby Star Allies.txt": "By Kirby564fan\nhttps://gbatemp.net/threads/kirby-star-allies-60fps-hack.551834/\n"
     }
 }
