@@ -719,6 +719,11 @@
         "0": "04AF50FB39655E4B",
         "latest": 0
     },
+    "0100026016320000": {
+        "65536": "84D0B541B520ED47",
+        "latest": 65536,
+        "title": "River City Girls 2"
+    },
     "010002700C34C000": {
         "0": "F06EF28B57E59349",
         "latest": 0,
@@ -7931,7 +7936,7 @@
         "393216": "A3C4D18F93EAE87F",
         "524288": "67D66CC74FCB817D",
         "latest": 524288,
-        "title": "Wunderling"
+        "title": "Wunderling DX"
     },
     "01001C40079BC000": {
         "0": "AD559F7B06883F4C",
@@ -9498,6 +9503,13 @@
         "latest": 65536,
         "title": "Yellow Fins"
     },
+    "0100217014266000": {
+        "0": "6464CF665ABC9842",
+        "latest": 0
+    },
+    "0100217014267000": {
+        "latest": 0
+    },
     "0100217014ABA000": {
         "0": "D4BFA1EB5080DB46",
         "latest": 0,
@@ -10147,7 +10159,7 @@
         "524288": "07346143ACDCDF70",
         "589824": "41ECA764C50D97F8",
         "latest": 589824,
-        "title": "DELTARUNE Chapter 1"
+        "title": "DELTARUNE Chapter 1&2"
     },
     "010023800E8EA000": {
         "65536": "9C09BBE9216CCC4E",
@@ -10575,7 +10587,7 @@
         "131072": "52799D7B5CDD1B44",
         "65536": "8BA07CC8FD540244",
         "latest": 131072,
-        "title": "Cover Fire: Offline Shooter"
+        "title": "Cover Fire"
     },
     "01002530181E8000": {
         "0": "6E70CE8AB727027B",
@@ -15017,7 +15029,8 @@
         "458752": "DF6543B370693D7D",
         "524288": "DEB0E3335177940C",
         "65536": "533E8BDF4F98FB15",
-        "latest": 524288
+        "655360": "33D0E7AE5E2D1070",
+        "latest": 655360
     },
     "01003310159F9000": {
         "latest": 0
@@ -15812,7 +15825,7 @@
         "196608": "1F445B207A627044",
         "65536": "7CBE0EC75EA21140",
         "latest": 196608,
-        "title": "Warparty"
+        "title": "War Party"
     },
     "010035A00DF62000": {
         "0": "D0BE93D85D02C64E",
@@ -18747,7 +18760,8 @@
     "01003FB017936000": {
         "0": "0E31C7624B027528",
         "65536": "FDDBF3647116DA3E",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Path of Ra"
     },
     "01003FB017D80000": {
         "0": "DB246011310FF23E",
@@ -20671,7 +20685,8 @@
     },
     "0100454016E2E000": {
         "0": "85A8B43B904D19E4",
-        "latest": 0,
+        "65536": "BE675BCA5E8454EE",
+        "latest": 65536,
         "title": "Super Cyborg"
     },
     "010045500B212000": {
@@ -20699,7 +20714,7 @@
         "327680": "D504D11CC1B7724E",
         "393216": "CDA0BC7EA7CA3C47",
         "latest": 393216,
-        "title": "Space Crew"
+        "title": "Space Crew: Legendary Edition"
     },
     "01004560063CA000": {
         "0": "DCD630AB7E43C94E",
@@ -23566,7 +23581,7 @@
         "196608": "72FB237A2A54CF4C",
         "65536": "385AC8C9A8C08849",
         "latest": 196608,
-        "title": "Later Daters"
+        "title": "Later Daters Part One"
     },
     "01004EB00DACF000": {
         "latest": 65536
@@ -25948,7 +25963,7 @@
         "131072": "BF0076E849B5BB4B",
         "65536": "BF0076E849B5BB4B",
         "latest": 131072,
-        "title": "Escape First 3"
+        "title": "Escape First Supernatural"
     },
     "01005790110F0000": {
         "0": "B686E3C2AC685A41",
@@ -30114,7 +30129,7 @@
         "131072": "0CF7AC7D213FBCAB",
         "65536": "0CF7AC7D213FBCAB",
         "latest": 131072,
-        "title": "Cop Car Police Simulator Chase"
+        "title": "Cop Car Police Simulator Chase - Car games simulator & driving"
     },
     "010064C0131EC000": {
         "65536": "2EC3D8B529C7D64D",
@@ -32925,9 +32940,13 @@
         "latest": 0
     },
     "01006E6018570000": {
+        "0": "562DFD946A3E4B2F",
         "65536": "BABAC4334C4AEC5D",
         "latest": 65536,
         "title": "Adventure Academia: The Fractured Continent"
+    },
+    "01006E6018571000": {
+        "latest": 0
     },
     "01006E700B702000": {
         "0": "3907188ACDC28A3A",
@@ -34150,7 +34169,7 @@
         "917504": "46C20CEAF3C35E50",
         "983040": "D17C46696338F4CD",
         "latest": 1835008,
-        "title": "Pok\u00e9mon Caf\u00e9 Mix"
+        "title": "Pok\u00e9mon Caf\u00e9 ReMix"
     },
     "010072401447A000": {
         "0": "6900F98171043348",
@@ -37588,7 +37607,8 @@
     },
     "01007DC018B6C000": {
         "0": "76E4FAB5BF66466D",
-        "latest": 0
+        "latest": 0,
+        "title": "Arcade Archives PAC-MANIA"
     },
     "01007DD00ABB4000": {
         "0": "D15039761A07755D",
@@ -38222,7 +38242,7 @@
         "0": "719D531692CDC6FF",
         "65536": "CF49C65DD4EAA680",
         "latest": 65536,
-        "title": "Save Farty"
+        "title": "Save Farty \u2013 the Trivia Game"
     },
     "010080000D8CA000": {
         "0": "A491681A9CD9044E",
@@ -40738,8 +40758,9 @@
     "010088B0155E2000": {
         "0": "C2AE521FCDD1F212",
         "131072": "9D086143D9456375",
+        "196608": "C9300E99B4975DCF",
         "65536": "A27E18072EC0CFB9",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Warhammer 40,000: Shootas, Blood & Teef"
     },
     "010088B01572E000": {
@@ -41821,7 +41842,7 @@
         "327680": "8C93B930348C9787",
         "65536": "7587506B733AAD48",
         "latest": 327680,
-        "title": "Dying Light: Platinum Edition"
+        "title": "Dying Light: Definitive Edition"
     },
     "01008C8012921000": {
         "latest": 0
@@ -42165,6 +42186,11 @@
         "65536": "ABEF1190EE96605C",
         "latest": 65536,
         "title": "Ampersat"
+    },
+    "01008D5017548000": {
+        "65536": "2092C09026FB0CB8",
+        "latest": 65536,
+        "title": "Cassiodora"
     },
     "01008D6018A4C000": {
         "0": "66F4D9E57DA6E841",
@@ -42998,7 +43024,8 @@
         "327680": "9E6EA6A4783D3680",
         "393216": "8A282AC1BA7CF5E1",
         "458752": "A1DBABC0030C53D4",
-        "latest": 458752
+        "524288": "236A8088E57B3588",
+        "latest": 524288
     },
     "01008FA012477000": {
         "latest": 0
@@ -43084,7 +43111,8 @@
     },
     "01008FE00E98E000": {
         "0": "EC2235B38579B643",
-        "latest": 0
+        "latest": 0,
+        "title": "Puzzle by Nikoli S Nurikabe"
     },
     "01008FE0119F4000": {
         "0": "92FE1F496B73E15E",
@@ -44880,8 +44908,9 @@
         "0": "83AFBFDC3582A480",
         "131072": "F3C38053D40DC248",
         "196608": "C26943A43A56036B",
+        "262144": "C26943A43A56036B",
         "65536": "F3C38053D40DC248",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Sheepo"
     },
     "010095C016C14000": {
@@ -44919,8 +44948,9 @@
         "196608": "F0250C92ACD46085",
         "262144": "D3E54FA8868C5344",
         "327680": "61CDAA66905AE33B",
+        "393216": "48CBB65EB079DEC7",
         "65536": "4B68920FBE4C6D99",
-        "latest": 327680,
+        "latest": 393216,
         "title": "even if TEMPEST"
     },
     "010095E018E5E000": {
@@ -47052,7 +47082,7 @@
         "196608": "347F2C4EFF555FB4",
         "65536": "92F0E28C77AF8CF2",
         "latest": 196608,
-        "title": "Gelly Break"
+        "title": "Gelly Break Deluxe"
     },
     "01009D000FAE0000": {
         "0": "F01AF7CF61636B92",
@@ -47667,7 +47697,8 @@
     },
     "01009EE01880A000": {
         "0": "DF15922596F0EC9F",
-        "latest": 0
+        "latest": 0,
+        "title": "Coloring Pages: Lumberhill Tales"
     },
     "01009EE01880B000": {
         "latest": 0
@@ -48215,7 +48246,7 @@
         "196608": "D8BB9ACD4ECA9A64",
         "65536": "18C8D7D49B5F4B99",
         "latest": 196608,
-        "title": "PUPPIES AND KITTENS"
+        "title": "My Universe - Puppies & Kittens"
     },
     "0100A0E0153D0000": {
         "0": "1469ED18D9D0ACCE",
@@ -48652,8 +48683,9 @@
     "0100A280180D4000": {
         "0": "B584F5981013C54C",
         "131072": "D28226C3E3DA0C4C",
+        "196608": "061C0A75BBC83F43",
         "65536": "3927CC3999042F4F",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Jurassic World Aftermath Collection"
     },
     "0100A280187BC000": {
@@ -50656,7 +50688,8 @@
     },
     "0100A97012F04000": {
         "131072": "95AE5CD9E46E3947",
-        "latest": 131072
+        "196608": "DD2672C9492F5E2E",
+        "latest": 196608
     },
     "0100A970164A8000": {
         "0": "CDB6F5057FEF6C01",
@@ -56876,7 +56909,8 @@
         "131072": "ACCDEC455602B8CD",
         "196608": "AFA5A0A7B293DF43",
         "262144": "1C3A63793F005CDD",
-        "latest": 262144
+        "327680": "FA1A3592827A7887",
+        "latest": 327680
     },
     "0100BE700EDA5000": {
         "latest": 0
@@ -58577,6 +58611,11 @@
         "latest": 262144,
         "title": "fig."
     },
+    "0100C3E0199BA000": {
+        "0": "A3108EC40DD215C1",
+        "latest": 0,
+        "title": "My Coloring Books - 2 in 1 Bundle"
+    },
     "0100C3F000BD8000": {
         "0": "7106E85728F8B24F",
         "65536": "073DCB59751DD908",
@@ -58910,8 +58949,9 @@
     },
     "0100C510166F0000": {
         "0": "3D730AA2C1DADC4C",
+        "131072": "143439C462629F4D",
         "65536": "2E8DADDC2F2E22BC",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Chained Echoes"
     },
     "0100C51017B08000": {
@@ -59503,7 +59543,7 @@
         "196608": "62599C50D69C8948",
         "65536": "D699AB0A3A401349",
         "latest": 196608,
-        "title": "Space Aliens Invaders"
+        "title": "Space Invasion"
     },
     "0100C6D01570A000": {
         "0": "597DB602DD0BCDF3",
@@ -61097,7 +61137,7 @@
         "65536": "B66C03795BE67D03",
         "655360": "1E1CC71638EAF1EA",
         "latest": 655360,
-        "title": "Realm Royale"
+        "title": "Realm Royale Reforged"
     },
     "0100CC4011790000": {
         "262144": "3419BFF049EFD074",
@@ -63246,7 +63286,8 @@
         "589824": "B0EB849CFE10CEFC",
         "65536": "97F7329EA93B1F05",
         "655360": "33AEBEDFF7311D49",
-        "latest": 655360,
+        "720896": "8B78792C368D98D5",
+        "latest": 720896,
         "title": "Disney Dreamlight Valley"
     },
     "0100D3A00409E000": {
@@ -64376,7 +64417,7 @@
         "393216": "3D5ABC1395D4904C",
         "65536": "F8BF5B62797BDB4E",
         "latest": 393216,
-        "title": "Alder's Blood"
+        "title": "Alder's Blood: Definitive Edition"
     },
     "0100D74012E0A000": {
         "0": "29C29E4BFA761733",
@@ -65090,6 +65131,7 @@
         "title": "Police Simulator 2023"
     },
     "0100D970191B8000": {
+        "0": "3F3AFCA11B309451",
         "65536": "9625BAD2C21773F3",
         "latest": 65536,
         "title": "Xanchuchamel"
@@ -66615,7 +66657,7 @@
         "131072": "2EBE854606879F41",
         "65536": "4EED28784F2DA345",
         "latest": 131072,
-        "title": "Alpaca Ball: Allstars"
+        "title": "Alpaca Ball: Allstars Legacy Edition"
     },
     "0100DE701446A000": {
         "131072": "522ADA5D2C728F47",
@@ -67303,7 +67345,7 @@
         "0": "0C72CD20D4A14948",
         "65536": "9AB6243FD5F1E6C5",
         "latest": 65536,
-        "title": "Bright Paw"
+        "title": "Bright Paw: Definitive Edition"
     },
     "0100E0F008E64000": {
         "0": "1D8BA8A755138FAB",
@@ -68603,7 +68645,7 @@
         "131072": "0C5800DBBFA2A142",
         "65536": "27334E12F90EE74C",
         "latest": 131072,
-        "title": "Arcanoid Breakout"
+        "title": "Blastoid Breakout"
     },
     "0100E5400AFC8000": {
         "0": "9499AB26583322D6",
@@ -68892,7 +68934,7 @@
         "0": "621394EC7181844D",
         "65536": "71449B32684F034B",
         "latest": 65536,
-        "title": "Business Tour Deluxe"
+        "title": "Business Tour"
     },
     "0100E6200D56E000": {
         "0": "179204ACAA695E49",
@@ -69989,8 +70031,9 @@
         "262144": "C1413555B4752B4A",
         "327680": "6FBF4DC29CAFBE48",
         "393216": "98B490B82ADA834D",
+        "458752": "C51344C23E0D4748",
         "65536": "A5820B40796FB34A",
-        "latest": 393216
+        "latest": 458752
     },
     "0100E9A00B0BC000": {
         "0": "66F69E2E6243F940",
@@ -71943,7 +71986,7 @@
         "0": "A7A39D85C585A445",
         "65536": "5DDB8F406C861241",
         "latest": 65536,
-        "title": "Olympic Boxing"
+        "title": "International Boxing"
     },
     "0100EF70178D8000": {
         "0": "ADD56AD654B8CAD6",
@@ -73999,8 +74042,9 @@
     },
     "0100F60017D4E000": {
         "0": "A0BA380178EEBE4D",
+        "131072": "3FAFCD48DF2D504F",
         "65536": "E6583B0931AB2E4E",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Bravery and Greed"
     },
     "0100F60019CF6000": {
@@ -74283,8 +74327,9 @@
         "262144": "BEB5FD4358075231",
         "327680": "39EDFA58B3A53DF2",
         "393216": "104D657A8ADDED80",
+        "458752": "FE8B71F5A8561293",
         "65536": "C3928DC4C6EF7B1E",
-        "latest": 393216,
+        "latest": 458752,
         "title": "Shishi : Timeless Prelude"
     },
     "0100F6E016EE9000": {
@@ -74800,6 +74845,11 @@
         "131072": "9114C87C791DECF2",
         "196608": "71131C3A369F2CDA",
         "latest": 196608
+    },
+    "0100F8D018E40000": {
+        "65536": "228B16CABC06E53C",
+        "latest": 65536,
+        "title": "Vengeful Guardian: Moonrider"
     },
     "0100F8E009DFA000": {
         "0": "947DE9B506280C4E",
@@ -75615,7 +75665,8 @@
         "655360": "E151670BA87D4657",
         "720896": "DF6543B370693D7D",
         "786432": "DEB0E3335177940C",
-        "latest": 786432,
+        "917504": "33D0E7AE5E2D1070",
+        "latest": 917504,
         "title": "SnowRunner"
     },
     "0100FBD013AB7000": {
