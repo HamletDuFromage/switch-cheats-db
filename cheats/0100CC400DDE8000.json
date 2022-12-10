@@ -2,6 +2,9 @@
     "1E1CC71638EAF1EA": {
         "[60FPS]": "[60FPS]\n580F0000 058EC758\n580F1000 00000078\n780F0000 00000F14\n640F0000 00000000 00000001\n\n"
     },
+    "6EB42BFE473FFECB": {
+        "[60FPS]": "[60FPS]\n580F0000 04E2C358 \n580F1000 0000B6B0 \n580F1000 000000D8 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n"
+    },
     "attribution": {
         "Realm Royale.txt": "By CloudMcFox\n\n60 FPS in dock mode isn't stable even with full OC (at max as HOS allows, haven't tried with KazushiMe OC mods), playing in dock mode with this cheat is painful on every single corner for some reason, you can get the best experience playing on handheld mode with full OC, OR playing on TV setting the console profile to handheld with Masagrator's plugin ReverseNX (needs SaltyNX). Unlike Fortnite & Apex that even on handheld mode have problems to reach 60 FPS, handheld OC mode offers full performance on this game."
     }

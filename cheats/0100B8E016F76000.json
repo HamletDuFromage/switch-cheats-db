@@ -18,6 +18,11 @@
         "[#14. 9S Hacking Debug (Ally Control Level Max)]": "[#14. 9S Hacking Debug (Ally Control Level Max)]\n580F0000 0139C2E4\n510F1000 00000000\n916FF100 00000020\nA1F00400 0139C2E4\n\n",
         "[#15. Hacking Speed Maximum]": "[#15. Hacking Speed Maximum]\n580F0000 0139C2EF\n510F1000 00000000\n916FF100 00000004\nA1F00400 0139C2EF\n\n",
         "[#16. Not sure it is multiplier of what!]": "[#16. Not sure it is multiplier of what!]\n580F0000 0139C2E5\n510F1000 00000000\n916FF100 00000010\nA1F00400 0139C2E5\n\n",
-        "[#17. (Spare) Player HP does not decrease]": "[#17. (Spare) Player HP does not decrease]\n580F0000 0139C2E5\n510F1000 00000000\n916FF100 00000080\nA1F00400 0139C2E5\n\n"
+        "[#17. (Spare) Player HP does not decrease]": "[#17. (Spare) Player HP does not decrease]\n580F0000 0139C2E5\n510F1000 00000000\n916FF100 00000080\nA1F00400 0139C2E5\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 0192C818 \n580F1000 00000040 \n580F1000 00000010 \n580F1000 00000060 \n580F1000 00000180 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS default]": "[30 FPS default]\n580F0000 0192C818\n580F1000 00000040\n580F1000 00000010\n580F1000 00000060\n580F1000 00000180\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "NieR Automata The End of YoRHa Edition (Asia).txt": "By ChanseyIsTheBest\n"
     }
 }
