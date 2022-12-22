@@ -1,0 +1,18 @@
+{
+    "A662532E2D1410DD": {
+        "{Created by Eiffel2018, enjoy!}": "{Created by Eiffel2018, enjoy!}\n80000001\n\n",
+        "[--- Warning: only enable the version of game that you play! ---]": "[--- Warning: only enable the version of game that you play! ---]\n20000000\n\n",
+        "[Invincible (Original mode)]": "[Invincible (Original mode)]\n580E0000 00AC51A8\n580E1000 00000020\n780E0000 002E0F50\n640E0000 00000000 52807088\n\n",
+        "[Infinite Bombs (Original mode)]": "[Infinite Bombs (Original mode)]\n580E0000 00AC51A8\n580E1000 00000020\n780E0000 002E11DC\n640E0000 00000000 528000CA\n\n",
+        "[Items Counter Never Decrease (Original mode)]": "[Items Counter Never Decrease (Original mode)]\n580E0000 00AC51A8\n580E1000 00000020\n780E0000 002E2B54\n640E0000 00000000 D503201F\n\n",
+        "[Invincible (Arrange mode)]": "[Invincible (Arrange mode)]\n580E0000 00AC51A8\n580E1000 00000020\n780E0000 002E1638\n640E0000 00000000 52807088\n\n",
+        "[Infinite Bombs (Arrange mode)]": "[Infinite Bombs (Arrange mode)]\n580E0000 00AC51A8\n580E1000 00000020\n780E0000 002E18C4\n640E0000 00000000 528000CA\n\n",
+        "[Items Counter Never Decrease (Arrange mode)]": "[Items Counter Never Decrease (Arrange mode)]\n580E0000 00AC51A8\n580E1000 00000020\n780E0000 002E2FD0\n640E0000 00000000 D503201F\n\n",
+        "[Invincible (Arcade mode)]": "[Invincible (Arcade mode)]\n580E0000 00AC51A8\n580E1000 00000020\n780E0000 001C0918\n640E0000 00000000 52807088\n\n",
+        "[Infinite Bombs (Arcade mode)]": "[Infinite Bombs (Arcade mode)]\n580E0000 00AC51A8\n580E1000 00000020\n780E0000 001C0B60\n640E0000 00000000 528000CA\n\n",
+        "[Items Counter Never Decrease (Arcade mode)]": "[Items Counter Never Decrease (Arcade mode)]\n580E0000 00AC51A8\n580E1000 00000020\n780E0000 001C1C54\n640E0000 00000000 D503201F\n\n"
+    },
+    "attribution": {
+        "Deathsmiles II (JP) 1.0.2(v131072) by Eiffel2018.txt": "111022\n\n\n\n\n\n\n\n\n"
+    }
+}
