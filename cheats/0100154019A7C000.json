@@ -1,0 +1,14 @@
+{
+    "3B441C98064C672F": {
+        "[HP (Enter the game at the opening)]": "[HP (Enter the game at the opening)]\n580F0000 06039000\n580F1000 00000000\n580F1000 000000A0\n580F1000 00000258\n780F0000 00000668\n640F0000 00000000 461C3C00\n780F0000 00000004\n640F0000 00000000 0000270F\n\n",
+        "[Endurance (Enter the game at the opening)]": "[Endurance (Enter the game at the opening)]\n580F0000 06039000\n580F1000 00000000\n580F1000 000000A0\n780F0000 00001800\n680F0000 461C3C00 461C3C00\n\n",
+        "[Movement Speed Attack SpeedX2 (Enter the game at the opening)]": "[Movement Speed Attack SpeedX2 (Enter the game at the opening)]\n580F0000 06039000\n580F1000 00000000\n580F1000 000000A0\n780F0000 00000098\n640F0000 00000000 40000000\n\n",
+        "[Movement Speed Attack SpeedX3(Enter the game at the opening)]": "[Movement Speed Attack SpeedX3(Enter the game at the opening)]\n580F0000 06039000\n580F1000 00000000\n580F1000 000000A0\n780F0000 00000098\n640F0000 00000000 40400000\n\n",
+        "[Movement Speed Attack Speed Restore (Enter the game at the opening)]": "[Movement Speed Attack Speed Restore (Enter the game at the opening)]\n580F0000 06039000\n580F1000 00000000\n580F1000 000000A0\n780F0000 00000098\n640F0000 00000000 3F800000\n\n",
+        "[Attack PowerX5 (Enter the game at the opening)]": "[Attack PowerX5 (Enter the game at the opening)]\n580F0000 06039000\n580F1000 00000000\n580F1000 000000A0\n780F0000 000025FC\n640F0000 00000000 40C00000\n\n",
+        "[Attack PowerX10 (Enter the game at the opening)]": "[Attack PowerX10 (Enter the game at the opening)]\n580F0000 06039000\n580F1000 00000000\n580F1000 000000A0\n780F0000 000025FC\n640F0000 00000000 42000000\n\n",
+        "[Attack Power Restore (Enter the game at the opening)]": "[Attack Power Restore (Enter the game at the opening)]\n580F0000 06039000\n580F1000 00000000\n580F1000 000000A0\n780F0000 000025FC\n640F0000 00000000 3F800000\n\n",
+        "[ZL Skills 0CD (Enter the game at the opening)]": "[ZL Skills 0CD (Enter the game at the opening)]\n580F0000 06039000\n580F1000 00000000\n580F1000 000000A0\n780F0000 00002644\n640F0000 00000000 00000000\n\n",
+        "[Iron Torso (Enter the game at the opening)]": "[Iron Torso (Enter the game at the opening)]\n580F0000 06039000\n580F1000 00000000\n580F1000 000000A0\n580F1000 00000258\n780F0000 0000078C\n640F0000 00000000 3F800000\n\n"
+    }
+}
