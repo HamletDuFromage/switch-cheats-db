@@ -1224,6 +1224,14 @@
         "latest": 131072,
         "title": "Control Ultimate Edition - Cloud Version"
     },
+    "0100041018810000": {
+        "0": "80329F07550C8B54",
+        "latest": 0,
+        "title": "WRC Generations \u2013 The Official Game"
+    },
+    "0100041018811000": {
+        "latest": 0
+    },
     "010004200FC7C000": {
         "0": "2D428358737108BB",
         "latest": 0
@@ -1737,6 +1745,7 @@
         "latest": 65536
     },
     "01000610199C0000": {
+        "0": "E2E0A1C83737BA7C",
         "65536": "99D57F9732BBF7FF",
         "latest": 65536,
         "title": "Super Puzzle Pack 2"
@@ -11798,7 +11807,8 @@
     "01002840188B8000": {
         "131072": "594F7BCDFDFEA890",
         "196608": "6B19B7957758F413",
-        "latest": 196608
+        "262144": "28021C6CC590E56C",
+        "latest": 262144
     },
     "0100285016010000": {
         "131072": "E994C553ED22376C",
@@ -22329,8 +22339,9 @@
     },
     "010049C015A02000": {
         "0": "8CACAEFBDDCF0CB4",
+        "131072": "94366E1E54F4846F",
         "65536": "B6EC59F3443EB1B5",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Aliisha:The Oblivion of Twin Goddesses"
     },
     "010049D00C8B0000": {
@@ -26208,7 +26219,8 @@
         "0": "147EF834510F9349",
         "262144": "4F44EA9340B5A54F",
         "327680": "336CBE521EBB4A4A",
-        "latest": 327680
+        "393216": "8A85F6BC98B1D34C",
+        "latest": 393216
     },
     "0100572010EF8000": {
         "0": "723DB121A7D694B7",
@@ -26268,8 +26280,9 @@
         "393216": "A3F7204082644B4E",
         "458752": "6D38A29A27D6AB4F",
         "524288": "5993B2116C1A454D",
+        "589824": "F2C852FCA786504E",
         "65536": "042A77E0D8F13549",
-        "latest": 524288,
+        "latest": 589824,
         "title": "The Darkside Detective: A Fumble in the Dark"
     },
     "010057700FF7C000": {
@@ -36135,7 +36148,8 @@
     },
     "010076C01859C000": {
         "0": "C04D0E3C40F073E6",
-        "latest": 0,
+        "131072": "D28C73D4A410A64E",
+        "latest": 131072,
         "title": "Coloring Book for Adults"
     },
     "010076D00E4BA000": {
@@ -45814,6 +45828,11 @@
         "latest": 0,
         "title": "Chess - Clash of Kings"
     },
+    "010097001A01E000": {
+        "0": "80839933E9BF55AC",
+        "latest": 0,
+        "title": "Farming Real Simulation Tractor, Combine Trucks Farmer Land Game"
+    },
     "010097100EDD6000": {
         "0": "8ABA702D5DD3F9B5",
         "131072": "73ACE23D9E196304",
@@ -50652,6 +50671,10 @@
         "65536": "CE0EDE7BA7BA1C13",
         "latest": 65536
     },
+    "0100A77019FBA000": {
+        "0": "282F0CDC676A9158",
+        "latest": 0
+    },
     "0100A7800AFAA000": {
         "0": "A2F53727FEAA4D98",
         "latest": 0,
@@ -51814,6 +51837,11 @@
     },
     "0100AB70177F7000": {
         "latest": 0
+    },
+    "0100AB701A058000": {
+        "0": "EADA88055D3F5900",
+        "latest": 0,
+        "title": "Monster Impossible Truck No Limit Adventure Drive Simulator Sport 3D"
     },
     "0100AB801507C000": {
         "0": "1168249D863E1CEE",
@@ -53328,8 +53356,9 @@
     },
     "0100B0601852A000": {
         "0": "859E1818890E6C29",
+        "131072": "61E4C4B1970EAAF1",
         "65536": "3D2BBCF0FF38303E",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Aka"
     },
     "0100B0700E944000": {
@@ -53364,8 +53393,9 @@
         "0": "71028F2E703A0BF9",
         "131072": "7960B58685958BAA",
         "196608": "DF2F0B68BC9F2B6E",
+        "262144": "D550BC28F3040A1C",
         "65536": "FFC7A539852F3D77",
-        "latest": 196608,
+        "latest": 262144,
         "title": "The Oregon Trail"
     },
     "0100B09018208000": {
@@ -70307,6 +70337,10 @@
     "0100E7C016BB6000": {
         "0": "9D57D3409B49964A",
         "latest": 0
+    },
+    "0100E7C0190AE000": {
+        "65536": "5C27DE4420D52681",
+        "latest": 65536
     },
     "0100E7D00C17A000": {
         "0": "6E48FAF2113EBC26",
