@@ -16353,6 +16353,11 @@
         "latest": 0,
         "title": "Pixel Game Maker Series Fish Tornado"
     },
+    "010036C01960E000": {
+        "0": "D0D3655B6BBBDD4D",
+        "latest": 0,
+        "title": "Aircraft Carrier Survival"
+    },
     "010036D00C362000": {
         "0": "4140EF333A95FE49",
         "131072": "684811C5FAAD6F4E",
@@ -30517,7 +30522,8 @@
     },
     "010064A019CE2000": {
         "0": "A1F5E8D201928EF2",
-        "latest": 0
+        "latest": 0,
+        "title": "Tumbleweed Destiny"
     },
     "010064B00B95C000": {
         "0": "9BBAE5F6C4ED2246",
@@ -50673,7 +50679,8 @@
     },
     "0100A77019FBA000": {
         "0": "282F0CDC676A9158",
-        "latest": 0
+        "latest": 0,
+        "title": "Arcade Archives BUBBLE BOBBLE"
     },
     "0100A7800AFAA000": {
         "0": "A2F53727FEAA4D98",
@@ -54876,7 +54883,8 @@
     },
     "0100B59019E5E000": {
         "0": "FE40B36B06A46067",
-        "latest": 0,
+        "65536": "35546FE3CA4CFFA9",
+        "latest": 65536,
         "title": "Headbangers in Holiday Hell"
     },
     "0100B5A004302000": {
@@ -59678,8 +59686,9 @@
         "0": "3D730AA2C1DADC4C",
         "131072": "143439C462629F4D",
         "196608": "274DA4381C51113A",
+        "262144": "1CB41F8C07F4DD29",
         "65536": "2E8DADDC2F2E22BC",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Chained Echoes"
     },
     "0100C51017B08000": {
@@ -65276,7 +65285,8 @@
     },
     "0100D77019A60000": {
         "0": "06D9356470B138A2",
-        "latest": 0
+        "latest": 0,
+        "title": "Slots Royale: 777 Casino Games"
     },
     "0100D7800C4DC000": {
         "0": "D05EB96CAEF63F45",
@@ -69607,6 +69617,11 @@
         "latest": 0,
         "title": "Candy Jump featuring Frosty"
     },
+    "0100E57019F6C000": {
+        "0": "9A6776E975B0C6C8",
+        "latest": 0,
+        "title": "Infected run to Survive: Zombie Apocalypse Survival Story Shooter Dead Cry"
+    },
     "0100E5800D32C000": {
         "0": "B55B6DBC68ECA640",
         "65536": "ECA39AD294492A40",
@@ -69781,8 +69796,9 @@
     },
     "0100E61013758000": {
         "0": "621394EC7181844D",
+        "131072": "2113C94E23AFE56A",
         "65536": "71449B32684F034B",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Business Tour"
     },
     "0100E6200D56E000": {
@@ -75464,8 +75480,9 @@
         "latest": 65536
     },
     "0100F7C00DFCA000": {
+        "131072": "D8BB49D302BD8E23",
         "65536": "A30DA98335B614A0",
-        "latest": 65536
+        "latest": 131072
     },
     "0100F7C010AF6000": {
         "0": "3764CE647410824A",
