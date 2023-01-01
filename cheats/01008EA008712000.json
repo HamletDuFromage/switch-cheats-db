@@ -1,0 +1,19 @@
+{
+    "BE7FB58267BB4D4E": {
+        "[Breeze beta63 ACA NEOGEO PULSTAR 1.0.0 TID: 01008EA008712000 BID: BE7FB58267BB4D4E]": "[Breeze beta63 ACA NEOGEO PULSTAR 1.0.0 TID: 01008EA008712000 BID: BE7FB58267BB4D4E]\n\n",
+        "[Inf.Credits]": "[Inf.Credits]\n01000000 0123FEF7 00000099\n\n",
+        "[P1 Inf.Lives]": "[P1 Inf.Lives]\n01000000 012511EB 00000099\n\n",
+        "[P2 Inf.Lives]": "[P2 Inf.Lives]\n01000000 012511EC 00000099\n\n",
+        "[Invincibility]": "[Invincibility]\n01000000 0125156C 0000008B\n\n",
+        "[Always Max Speed]": "[Always Max Speed]\n01000000 0125169F 0000000F\n\n",
+        "[Always Have Homing Missile]": "[Always Have Homing Missile]\n01000000 012516A0 00000040\n\n",
+        "[Always All Pods]": "[Always All Pods]\n01000000 012516A0 000000FF\n\n",
+        "[Always Full Charge]": "[Always Full Charge]\n01000000 01251557 000000FF\n\n",
+        "[Extra Weapon Normal Max Shot]": "[Extra Weapon Normal Max Shot]\n01000000 012516A1 00000000\n\n",
+        "[Extra Weapon Rear Shot]": "[Extra Weapon Rear Shot]\n01000000 012516A1 00000001\n\n",
+        "[Extra Weapon Flames]": "[Extra Weapon Flames]\n01000000 012516A1 00000002\n\n",
+        "[Extra Weapon Laser]": "[Extra Weapon Laser]\n01000000 012516A1 00000003\n\n",
+        "[Extra Weapon Wave Shot]": "[Extra Weapon Wave Shot]\n01000000 012516A1 00000004\n\n",
+        "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]": "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]\n20000000\n\n"
+    }
+}

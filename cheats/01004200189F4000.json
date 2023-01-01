@@ -1,0 +1,20 @@
+{
+    "0F97D8856CEA9876": {
+        "{Factorio v1.1.74  by.lulu5431}": "{Factorio v1.1.74  by.lulu5431}\n04000000 00CA2A58 0B000108\n04000000 0035A340 FD003002\n04000000 003EF090 1E611801\n04000000 004A64D8 1E630800\n04000000 004A64E8 1E602820\n04000000 003EEF4C 1E622822\n04000000 003EEF78 1E612841\n04000000 004EE034 B9408A82\n04000000 00368638 1E612801\n04000000 003680C8 1E613863\n04000000 00457A1C 1E603820\n04000000 004CBA00 1E612803\n04000000 004CBA04 1E622801\n04000000 005A9128 1E603821\n04000000 00CC046C FD000C00\n04000000 0007D034 1E602920\n04000000 011F7168 1E602820\n08000000 01480320 1E602800 1E602820\n08000000 01480328 1E622822 D65F03C0\n08000000 01480330 D65F03C0 1E622842\n08000000 01480338 1E612821 1E612841\n08000000 01480340 5282A6C2 D65F03C0\n08000000 01480348 D65F03C0 11000442\n08000000 01480350 1E612821 1E612801\n08000000 01480358 9E6703E8 D65F03C0\n08000000 01480360 D65F03C0 1E683863\n08000000 01480368 1E683820 9E6703E8\n08000000 01480370 1E612803 D65F03C0\n08000000 01480378 1E632863 1E622801\n08000000 01480380 D65F03C0 1E612821\n08000000 01480388 1E602800 1E602920\n08000000 01480390 1E602820 D65F03C0\n08000000 01480398 D65F03C0 1E602800\n\n",
+        "[R+Splitting Copy items]": "[R+Splitting Copy items]\n80000080\n04000000 00CA2A58 1100C908\n20000000\n\n",
+        "[Fuel no reduction]": "[Fuel no reduction]\n04000000 0035A340 D503201F\n\n",
+        "[Smelting speed max]": "[Smelting speed max]\n04000000 003EF090 1E612801\n\n",
+        "[Production facilities speed max]": "[Production facilities speed max]\n04000000 004A64E8 943F678E\n\n",
+        "[Production facilities production capacity max]": "[Production facilities production capacity max]\n04000000 004A64D8 1E602800\n\n",
+        "[Processing facilities speed max]": "[Processing facilities speed max]\n04000000 003EEF4C 944244F8\n\n",
+        "[Processing facilities production capacity max]": "[Processing facilities production capacity max]\n04000000 003EEF78 944244F0\n\n",
+        "[Minerals locking 5431]": "[Minerals locking 5431]\n04000000 004EE034 943E48C4\n\n",
+        "[High-speed battery charging]": "[High-speed battery charging]\n04000000 00368638 94445F46\n\n",
+        "[No reduction in battery power]": "[No reduction in battery power]\n04000000 003680C8 944460A5\n\n",
+        "[Robots do not consume electricity]": "[Robots do not consume electricity]\n04000000 00457A1C 9440A253\n\n",
+        "[Radar high-speed scanning]": "[Radar high-speed scanning]\n08000000 004CBA00 943ED25C D503201F\n\n",
+        "[Generators do not consume steam]": "[Generators do not consume steam]\n04000000 005A9128 D503201F\n\n",
+        "[Research does not consume bottles]": "[Research does not consume bottles]\n04000000 00CC046C D503201F\n\n",
+        "[High-speed research]": "[High-speed research]\n04000000 0007D034 94500CD5\n04000000 011F7168 940A248B\n\n"
+    }
+}
