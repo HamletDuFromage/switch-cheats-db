@@ -12224,6 +12224,10 @@
         "latest": 65536,
         "title": "ESport Manager"
     },
+    "010029C012DB6000": {
+        "0": "02DDEE83C33023C1",
+        "latest": 0
+    },
     "010029D006ED8000": {
         "0": "D49D8014EAE852EE",
         "65536": "398F5C9F32EEBEDA",
@@ -13441,8 +13445,9 @@
     },
     "01002D60188DE000": {
         "0": "71AEC7194FE58315",
+        "131072": "2AE24A6D12BB9C85",
         "65536": "013A5388CB73CC9B",
-        "latest": 65536
+        "latest": 131072
     },
     "01002D6019696000": {
         "0": "52E6FBA0F92C4943",
@@ -17315,8 +17320,9 @@
         "title": "JETBOY"
     },
     "010039C019ADC000": {
+        "131072": "A36A2D12C862603A",
         "65536": "A2091E814EAA9D07",
-        "latest": 65536
+        "latest": 131072
     },
     "010039E00A15E000": {
         "0": "29BBCFED6D98FE4F",
@@ -21400,6 +21406,7 @@
         "title": "Bloodstained: Curse of the Moon 2"
     },
     "01004680126BC000": {
+        "0": "7B61EBA7600B6218",
         "131072": "66C478E80DABBDE8",
         "latest": 131072,
         "title": "Toy Soldiers HD"
@@ -32462,6 +32469,10 @@
         "latest": 524288,
         "title": "Aztech Forgotten Gods"
     },
+    "01006B4017CC6000": {
+        "65536": "2AB21DDBD9505B69",
+        "latest": 65536
+    },
     "01006B4018ECA000": {
         "131072": "C28590AE98732FCD",
         "65536": "DB31EFE971112CEF",
@@ -35778,6 +35789,11 @@
         "0": "080E63B2CF2CD8FA",
         "latest": 0,
         "title": "Dead Ground"
+    },
+    "010075C01405C000": {
+        "0": "BB52C1E6BC85DA52",
+        "latest": 0,
+        "title": "Conway: Disappearance at Dahlia View"
     },
     "010075C016946000": {
         "0": "AD8963900C84DA9D",
