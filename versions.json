@@ -487,6 +487,11 @@
         "latest": 65536,
         "title": "Marbles Rush"
     },
+    "0100016018864000": {
+        "65536": "85351C2B17F50E67",
+        "latest": 65536,
+        "title": "Pathfinder: Wrath of the Righteous - Cloud Version"
+    },
     "0100017007980000": {
         "0": "8485CDFBA67A1F43",
         "latest": 0,
@@ -4592,6 +4597,7 @@
         "title": "Red Ronin"
     },
     "01000FE0164AA000": {
+        "0": "86C0905AFC099FD2",
         "131072": "9D8382D802511043",
         "65536": "0AAA6A0015C461B9",
         "latest": 131072,
@@ -4686,6 +4692,11 @@
         "0": "70B2D14481DC8304",
         "latest": 0,
         "title": "Aliens Drive Me Crazy"
+    },
+    "0100103019320000": {
+        "0": "183824C5784184D1",
+        "latest": 0,
+        "title": "Neon Souls"
     },
     "010010400D46A000": {
         "0": "D3FA3AA21A0EB48C",
@@ -8643,6 +8654,7 @@
         "1441792": "92A048DD9A37972D",
         "1507328": "1377A3511BF735EC",
         "1572864": "A27730794D66C99F",
+        "1638400": "8D49CEFB52A5AAF9",
         "262144": "030E8ED4B6ECD104",
         "524288": "D0A16CF8E426E0DC",
         "589824": "B8030081E944E100",
@@ -8651,7 +8663,7 @@
         "720896": "3F7C6DFED0AC9604",
         "851968": "58752013BAE07FB9",
         "917504": "0C8511B5474A248D",
-        "latest": 1572864,
+        "latest": 1638400,
         "title": "MELTY BLOOD: TYPE LUMINA - Deluxe Edition"
     },
     "01001E30126A1000": {
@@ -9749,6 +9761,11 @@
         "131072": "A3A15A8ED40E1640",
         "latest": 131072,
         "title": "Ellen"
+    },
+    "010021A017DEA000": {
+        "0": "FD792763C38A9F56",
+        "latest": 0,
+        "title": "Clutter 12: It's About Time - Collector's Edition"
     },
     "010021A017EBA000": {
         "0": "0E1D89E4C1C61D75",
@@ -14470,8 +14487,9 @@
     "010030B005CB2000": {
         "0": "5A872D792C767311",
         "131072": "7402BDE90E51F4E9",
+        "196608": "C29276E1735677FB",
         "65536": "5F76299F7BA8A2C1",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Action Arcade Wrestling"
     },
     "010030B00B2F6000": {
@@ -20246,7 +20264,8 @@
     },
     "010043101944A000": {
         "0": "0E43129DC9CCB9E0",
-        "latest": 0
+        "latest": 0,
+        "title": "Alphadia Neo"
     },
     "010043101944B000": {
         "latest": 0
@@ -26099,7 +26118,8 @@
     },
     "0100566015AD2000": {
         "0": "AE582FD3B0D42D1F",
-        "latest": 0
+        "latest": 0,
+        "title": "Arcade Archives GALAGA"
     },
     "0100567011972000": {
         "0": "375F90AC35B60B73",
@@ -27244,7 +27264,8 @@
     },
     "01005A5016428000": {
         "0": "5967EC48CF1CE38E",
-        "latest": 0,
+        "65536": "6F57F53B66491DAD",
+        "latest": 65536,
         "title": "Mech Armada"
     },
     "01005A600BE60000": {
@@ -27723,6 +27744,11 @@
         "0": "7B3FA3D8E5BC5E2E",
         "latest": 0,
         "title": "Hope's Farm"
+    },
+    "01005C0016188000": {
+        "0": "81BC80747439C04C",
+        "latest": 0,
+        "title": "Shieldmaiden: Remix Edition"
     },
     "01005C1010488000": {
         "0": "18A76277A9712C4A",
@@ -29356,6 +29382,11 @@
         "0": "E82518CF2652C833",
         "latest": 0,
         "title": "Dragon Hills 2"
+    },
+    "010060D019B4C000": {
+        "0": "9C8FD72B4DB53B4F",
+        "latest": 0,
+        "title": "Hollow World: Dark Knight"
     },
     "010060E009062000": {
         "0": "D4341C64C6080E4E",
@@ -42629,6 +42660,11 @@
         "latest": 0,
         "title": "Mahjong Minimal"
     },
+    "01008CE01A0C0000": {
+        "0": "5C3CE6D09144765A",
+        "latest": 0,
+        "title": "The House of Da Vinci 3"
+    },
     "01008CF00BA38000": {
         "0": "E7CBC6DC6773E243",
         "latest": 0
@@ -42777,8 +42813,9 @@
     },
     "01008D4018260000": {
         "0": "08E89E270E4FC14A",
+        "131072": "958BA998C5266246",
         "65536": "73EE216C8090FC4F",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Master Spy"
     },
     "01008D4018D84000": {
@@ -44295,6 +44332,11 @@
         "latest": 0,
         "title": "Blackberry Honey"
     },
+    "010091D01A20C000": {
+        "0": "B8DB339961B112D3",
+        "latest": 0,
+        "title": "Magic Card Tricks"
+    },
     "010091E00D488000": {
         "0": "2733D7CE868F73C5",
         "latest": 0
@@ -45142,8 +45184,9 @@
         "0": "1144BD964207E749",
         "131072": "F290DE0294C4F14B",
         "196608": "158B1CE0A12C6A70",
+        "262144": "8C02927DC314EF20",
         "65536": "B9CD280390396E4E",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Sudoku Zenkai"
     },
     "0100946017A46000": {
@@ -45193,6 +45236,11 @@
         "0": "4B09FE70729A011B",
         "latest": 0,
         "title": "Husky's Adventures"
+    },
+    "010094A0196DA000": {
+        "0": "D1E9E41FCCFB720C",
+        "latest": 0,
+        "title": "Collab Ball"
     },
     "010094C00E180000": {
         "131072": "C3644040FECB0044",
@@ -45501,7 +45549,8 @@
     },
     "010095B01658E000": {
         "0": "37B9888DEB582D1E",
-        "latest": 0,
+        "65536": "AE69DE93868EA165",
+        "latest": 65536,
         "title": "Q.U.B.E. 10th Anniversary"
     },
     "010095B0171D0000": {
@@ -48529,6 +48578,11 @@
     "01009FB016287000": {
         "latest": 0
     },
+    "01009FB0172F4000": {
+        "131072": "221F7023E38648DF",
+        "latest": 131072,
+        "title": "SpongeBob SquarePants: The Cosmic Shake"
+    },
     "01009FC018CFC000": {
         "0": "4E9840CB31204AC4",
         "latest": 0
@@ -49230,7 +49284,8 @@
     },
     "0100A22018A04000": {
         "131072": "B9FCCC4909C1CA36",
-        "latest": 131072,
+        "196608": "D68FA9977F8EF1EE",
+        "latest": 196608,
         "title": "Dire Vengeance"
     },
     "0100A23015182000": {
@@ -56171,7 +56226,8 @@
         "65536": "126B87E1504877AE",
         "655360": "1CF911A530323C62",
         "720896": "FD31B91199B23819",
-        "latest": 720896,
+        "851968": "8F752186C393B50E",
+        "latest": 851968,
         "title": "Colt Canyon"
     },
     "0100B9A010B36000": {
@@ -57794,8 +57850,9 @@
     },
     "0100BE8019834000": {
         "0": "0C08584382C0D9C8",
+        "131072": "6923613059A246DA",
         "65536": "3DBCE7620FEE2226",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Dire Vengeance Deluxe"
     },
     "0100BE9007E7E000": {
@@ -58556,6 +58613,11 @@
         "0": "176385C173171C49",
         "latest": 0,
         "title": "War Titans"
+    },
+    "0100C10019EA0000": {
+        "0": "F5CF2B213DAB3135",
+        "latest": 0,
+        "title": "Boat Simulator"
     },
     "0100C11009378000": {
         "0": "13197CCF3745E1C5",
@@ -61733,7 +61795,8 @@
         "65536": "8B30CAB66395AE53",
         "655360": "20B96FB4A2855337",
         "720896": "7C8D38BA4976237B",
-        "latest": 720896,
+        "786432": "8B6F6CA8B1ACFE54",
+        "latest": 786432,
         "title": "Trove"
     },
     "0100CB400E9BC000": {
@@ -63877,7 +63940,8 @@
     },
     "0100D2201A1F6000": {
         "0": "0628C49242D4677F",
-        "latest": 0
+        "latest": 0,
+        "title": "I'll be your ideal lover! - My Dream Lover -"
     },
     "0100D230069CC000": {
         "0": "EBBD6F32A5194443",
@@ -63967,6 +64031,11 @@
         "0": "AF21D4B30325A6FD",
         "latest": 0,
         "title": "MIDNIGHT Remastered"
+    },
+    "0100D2801939C000": {
+        "65536": "6124BA3D25B4B30A",
+        "latest": 65536,
+        "title": "NEScape!"
     },
     "0100D2B00BC54000": {
         "0": "E8FDC682089BB427",
@@ -67388,6 +67457,11 @@
         "0": "3F3F9A48CB6AC958",
         "latest": 0,
         "title": "Car Mats"
+    },
+    "0100DD9019DD4000": {
+        "0": "F690A9051665F93D",
+        "latest": 0,
+        "title": "Puzzle Vacations: Ireland"
     },
     "0100DDA00C0BC000": {
         "0": "CAD2A76053835145",
