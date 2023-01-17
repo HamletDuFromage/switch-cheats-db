@@ -1,0 +1,14 @@
+{
+    "FF3B532334E35F08": {
+        "[Breeze beta47 Dariusburst: Another Chronicle EX+ 1.0.2 TID 010043F013044000 BID FF3B532334E35F08]": "[Breeze beta47 Dariusburst: Another Chronicle EX+ 1.0.2 TID 010043F013044000 BID FF3B532334E35F08]\n\n",
+        "[Invinicble]": "[Invinicble]\n04000000 0083FEBC 1E2E1000\n\n",
+        "[inf lives method 2(custom number load)]": "[inf lives method 2(custom number load)]\n04000000 0080937C 18FFFE89\n04000000 0080934C 00000009\n\n",
+        "[inf lives method 1(subtraction cancellation)]": "[inf lives method 1(subtraction cancellation)]\n04000000 0080937C 51000129\n\n",
+        "[Inf lives (off)]": "[Inf lives (off)]\n04000000 0080937C 51000529\n\n",
+        "[inf shielding method 2(reading)]": "[inf shielding method 2(reading)]\n04000000 0083E5AC B9463268\n\n",
+        "[inf shielding Method 1(writing)]": "[inf shielding Method 1(writing)]\n04000000 0083D854 51000508\n\n",
+        "[inf shielding M2]": "[inf shielding M2]\n04000000 0083E5AC 52800028\n\n",
+        "[inf shielding M1]": "[inf shielding M1]\n04000000 0083D854 52800028\n\n",
+        "[Created By Gamerjin]": "[Created By Gamerjin]\n20000000\n\n"
+    }
+}

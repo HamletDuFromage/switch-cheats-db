@@ -1,0 +1,11 @@
+{
+    "5FC92359462FAD47": {
+        "[HP Inf]": "[HP Inf]\n04000000 003C9A1C 94817D39\n04000000 02428F00 B4000056\n04000000 02428F04 52800014\n04000000 02428F08 4B1402A1\n04000000 02428F0C D65F03C0\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 003C9A1C 4B1402A1\n\n",
+        "[Hunger No Decrease]": "[Hunger No Decrease]\n04000000 003C9430 510002C1\n\n",
+        "[Hunger No Decrease Off]": "[Hunger No Decrease Off]\n04000000 003C9430 4B1502C1\n\n",
+        "[Arrows Inf]": "[Arrows Inf]\n04000000 002A54D8 51000114\n\n",
+        "[Arrows Inf Off]": "[Arrows Inf Off]\n04000000 002A54D8 4B140114\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
+}
