@@ -744,8 +744,9 @@
     },
     "0100026016320000": {
         "0": "8EDA14BB8E28FC45",
+        "131072": "FB018DD1EE073940",
         "65536": "84D0B541B520ED47",
-        "latest": 65536,
+        "latest": 131072,
         "title": "River City Girls 2"
     },
     "0100026019F80000": {
@@ -1578,8 +1579,9 @@
         "0": "300A90ECA78F7036",
         "131072": "517CF9B9F7DB32CD",
         "196608": "A8557C65EFAB6190",
+        "262144": "3675F9FB38C105F6",
         "65536": "0E05D322601B82E5",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Sail Forth"
     },
     "010005500E81E000": {
@@ -2126,6 +2128,11 @@
         "0": "EF55C33EC99B15EE",
         "latest": 0,
         "title": "Escape game & Card search game R01M"
+    },
+    "0100077019A98000": {
+        "65536": "0746DF40B59AADA6",
+        "latest": 65536,
+        "title": "ATONE: Heart of the Elder Tree"
     },
     "01000780068C8000": {
         "0": "6266333D87A7F2EE",
@@ -3187,6 +3194,11 @@
     "01000B600F919000": {
         "latest": 0
     },
+    "01000B601A478000": {
+        "0": "AF369874EB6A1D69",
+        "65536": "FD02FAAD77C06D33",
+        "latest": 65536
+    },
     "01000B700EC22000": {
         "0": "DCAD50AEF4E03C48",
         "latest": 0,
@@ -3961,6 +3973,11 @@
         "0": "8D83879EEAD915EE",
         "latest": 0,
         "title": "Jewel Match Twilight Solitaire"
+    },
+    "01000DD0131FE000": {
+        "0": "366AF2B3935CDC85",
+        "latest": 0,
+        "title": "Critical Zone"
     },
     "01000DE0125B8000": {
         "0": "FD81E63527C6AE46",
@@ -7014,6 +7031,10 @@
         "latest": 0,
         "title": "Pixel Game Maker Series BombMachine Gunzohg"
     },
+    "010018E01A550000": {
+        "0": "1215D584557CB443",
+        "latest": 0
+    },
     "010018F007786000": {
         "0": "1F2DE584E99EA442",
         "65536": "1D6FBAAA14023248",
@@ -8765,6 +8786,11 @@
         "65536": "E60AB56618D1CD4C",
         "latest": 65536
     },
+    "01001E50196F0000": {
+        "0": "35B76FC39A7DA55B",
+        "65536": "41883158209698BD",
+        "latest": 65536
+    },
     "01001E60085E6000": {
         "0": "31CD27F591A4BB4E",
         "latest": 0,
@@ -9163,6 +9189,11 @@
         "65536": "060071D86DEFD2F3",
         "latest": 65536,
         "title": "Super Punch Patrol"
+    },
+    "01001F9018E9C000": {
+        "0": "42A11ECB590A5537",
+        "latest": 0,
+        "title": "Smilemo"
     },
     "01001FA0034E2000": {
         "0": "9F751801449B6D7A",
@@ -9681,6 +9712,9 @@
         "327680": "60568AFC961E0F51",
         "65536": "05096FAB8FA0CF16",
         "latest": 327680
+    },
+    "0100215015449000": {
+        "latest": 65536
     },
     "0100215015C20000": {
         "0": "EF59916B51ACD114",
@@ -10224,6 +10258,12 @@
     },
     "010022F00DA67000": {
         "latest": 65536
+    },
+    "010022F01A016000": {
+        "0": "2722B599869FC048",
+        "65536": "C27DE8222584F64F",
+        "latest": 65536,
+        "title": "Last Command"
     },
     "0100230005A52000": {
         "0": "42EE3B60200A8D4C",
@@ -11237,7 +11277,8 @@
     },
     "010026301A0B0000": {
         "0": "B6942659F7FE26D7",
-        "latest": 0,
+        "65536": "52EB53F89B841AEA",
+        "latest": 65536,
         "title": "World War Battle Heroes Field Armies Call of Prison Duty Simulator"
     },
     "010026400DE10000": {
@@ -11270,6 +11311,11 @@
     },
     "01002650114B5000": {
         "latest": 0
+    },
+    "010026501913C000": {
+        "65536": "C46B0200FF7A404B",
+        "latest": 65536,
+        "title": "The Legend of Gwen"
     },
     "0100266015C64000": {
         "0": "C9E618CC57723F05",
@@ -12305,6 +12351,9 @@
         "latest": 65536,
         "title": "THAT'S A COW"
     },
+    "010029B019D39000": {
+        "latest": 65536
+    },
     "010029C00D768000": {
         "0": "39887BE281DF4A48",
         "65536": "E52E4AC8E0DF4047",
@@ -13184,7 +13233,8 @@
     },
     "01002C4019E80000": {
         "0": "70CD948F387D5FEF",
-        "latest": 0
+        "latest": 0,
+        "title": "- Mischief Dungeon Life - \u7570\u4e16\u754c\u8ee2\u751f\u3057\u305f\u4ffa\u306e\u30a4\u30bf\u30ba\u30e9\u30c0\u30f3\u30b8\u30e7\u30f3\u30e9\u30a4\u30d5 Satsuki Edition"
     },
     "01002C5015EFE000": {
         "0": "69F87F8AECDAAE34",
@@ -13551,8 +13601,9 @@
         "0": "52E6FBA0F92C4943",
         "131072": "1A7388E3DA708FAD",
         "196608": "A254B74DF2FF0FDA",
+        "262144": "0EFE7B151DFFCA3F",
         "65536": "1440C6DAA244A31B",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Buddy Simulator 1984"
     },
     "01002D70049CA000": {
@@ -13878,8 +13929,9 @@
         "262144": "145EBD7448EA3C44",
         "327680": "9232F3A3E6E87E49",
         "393216": "810C3396125C2340",
+        "458752": "256BA72170C0FD42",
         "65536": "D22A342CE479684D",
-        "latest": 393216,
+        "latest": 458752,
         "title": "Cult of the Lamb"
     },
     "01002E7016C47000": {
@@ -17666,8 +17718,9 @@
     },
     "01003A9013DEE000": {
         "0": "5C8945B139F77BBD",
+        "131072": "81952061F3FCC6EB",
         "65536": "274132861EAA8465",
-        "latest": 65536,
+        "latest": 131072,
         "title": "NEW Joe & Mac - Caveman Ninja"
     },
     "01003AA00A8E2000": {
@@ -19609,6 +19662,11 @@
         "458752": "1C0DF2C4BEDCD947",
         "latest": 458752,
         "title": "Speed Brawl"
+    },
+    "010040F01198C000": {
+        "0": "28664BCDA1FD1DD3",
+        "latest": 0,
+        "title": "Trenches"
     },
     "010040F011DE4000": {
         "0": "2623D3639EA1B76A",
@@ -22325,6 +22383,10 @@
         "65536": "FAE0897E6C7FE090",
         "latest": 65536,
         "title": "Super Mega Zero"
+    },
+    "01004920198C8000": {
+        "0": "6770694CB93821FD",
+        "latest": 0
     },
     "010049301226E000": {
         "0": "4D8ABDC6F6C12841",
@@ -27232,6 +27294,11 @@
         "latest": 65536,
         "title": "The Bounty Huntress"
     },
+    "010059C01A240000": {
+        "0": "2110B61A77D4B56D",
+        "latest": 0,
+        "title": "Counter Bottle Shooter-Pro Aim Master Target Bottle Shoot 3D Game Strike Pistol"
+    },
     "010059D00BCAE000": {
         "0": "C0CE4BA0310FDD04",
         "latest": 0,
@@ -27272,7 +27339,8 @@
     },
     "010059F019966000": {
         "65536": "28287543BEBA7E6E",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Monster Girls and the Mysterious Adventure 2"
     },
     "01005A001489A000": {
         "0": "811DD3092596F6F4",
@@ -29046,6 +29114,7 @@
         "1376256": "840A4C0EE3F9A944",
         "1441792": "2F4A43BBA5A14840",
         "1507328": "B24173D42B1A7D01",
+        "1572864": "6B9E600FC081CF97",
         "196608": "D70EF5C4D28EFE41",
         "262144": "A09A2281FD980043",
         "327680": "668C109613C35241",
@@ -29059,7 +29128,7 @@
         "851968": "83F466380CC9BD4C",
         "917504": "0CA9EBF569ED7C4A",
         "983040": "21C77587C980A248",
-        "latest": 1507328,
+        "latest": 1572864,
         "title": "Elemental Knights R"
     },
     "01005FA015D68000": {
@@ -29216,6 +29285,10 @@
         "65536": "B4F2A4F740D8F300",
         "latest": 65536,
         "title": "Arcade Archives DRAGON SABER"
+    },
+    "01006010193D8000": {
+        "65536": "60BCB021A4FD143E",
+        "latest": 65536
     },
     "010060200A4BE000": {
         "196608": "956FCA65440ABF44",
@@ -29420,6 +29493,15 @@
         "65536": "69F0899A7D9FFB41",
         "latest": 65536,
         "title": "Dandy Ace"
+    },
+    "010060801843A000": {
+        "0": "53C98F254D11DF8A",
+        "196608": "D8EA31DD4024CD8C",
+        "latest": 196608,
+        "title": "Rubber Bandits"
+    },
+    "010060801843B000": {
+        "latest": 0
     },
     "010060A00B53C000": {
         "0": "C655F071EC85EB4D",
@@ -30120,6 +30202,11 @@
         "0": "B4F6BF218296B54B",
         "latest": 0,
         "title": "Big Buck Hunter Arcade"
+    },
+    "010062B01525C000": {
+        "0": "C433D980688380A6",
+        "latest": 0,
+        "title": "Persona 4 Golden"
     },
     "010062B015D28000": {
         "0": "B3237F329E07BF27",
@@ -32914,6 +33001,7 @@
         "title": "Theme Park Simulator: Rollecoaster & Thrill Rides"
     },
     "01006BF01923E000": {
+        "0": "EB63C5B655FEA876",
         "131072": "887CE001EAB7C9AB",
         "latest": 131072,
         "title": "A Space for the Unbound"
@@ -33300,6 +33388,11 @@
         "0": "21D5AD0AFCD26BFC",
         "latest": 0,
         "title": "CORPSE FACTORY"
+    },
+    "01006D2019C3A000": {
+        "0": "5669E6B6B07D06ED",
+        "latest": 0,
+        "title": "Void Prison"
     },
     "01006D300AA58000": {
         "0": "C96827C3E638A046",
@@ -34193,6 +34286,11 @@
         "latest": 131072,
         "title": "Unpacking"
     },
+    "0100701019C24000": {
+        "0": "631C0FAAAA73D297",
+        "latest": 0,
+        "title": "Arcade Archives TANK FORCE"
+    },
     "01007020044F0000": {
         "0": "23FD57974ECF6D42",
         "131072": "8541F9686E665B41",
@@ -34554,6 +34652,10 @@
         "0": "20240B7CD78B17AA",
         "latest": 0,
         "title": "Drag Clash Pro: Hot Rod Racing"
+    },
+    "010071601A538000": {
+        "0": "9D38FBE5FAC3C50F",
+        "latest": 0
     },
     "01007170100AA000": {
         "0": "758724D59886BEDE",
@@ -35475,8 +35577,10 @@
         "latest": 0
     },
     "010074101970E000": {
+        "0": "7ECE1BFFA66C1207",
         "65536": "2E8CB0CF3F52ACDC",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Simple Mini Golf 3D"
     },
     "0100742007266000": {
         "latest": 131072,
@@ -36029,6 +36133,11 @@
         "latest": 131072,
         "title": "Persona 4 Arena Ultimax"
     },
+    "010075A017AF4000": {
+        "0": "32D0C830BA163A36",
+        "latest": 0,
+        "title": "Car Parking Multiplayer"
+    },
     "010075B004DD2000": {
         "0": "1093AEA5C3D27BA8",
         "65536": "61D3677C1774EC2D",
@@ -36232,6 +36341,10 @@
         "0": "58F3256530BAE14B",
         "latest": 0
     },
+    "01007640158DE000": {
+        "131072": "32E218A66487D443",
+        "latest": 131072
+    },
     "010076500AA42000": {
         "327680": "DAB89BAC0D1BFB89",
         "latest": 327680
@@ -36246,6 +36359,11 @@
         "196608": "A2B6FEB0CA5B1747",
         "65536": "E1E933E1C6E3D94F",
         "latest": 196608
+    },
+    "01007650184FA000": {
+        "0": "263459C062ED3214",
+        "latest": 0,
+        "title": "Colossal Cave"
     },
     "0100765018DD6000": {
         "0": "C8E32525DCABB3CD",
@@ -36901,8 +37019,9 @@
     },
     "0100787014460000": {
         "0": "FA489A8B262D3B0F",
+        "131072": "BF3D68199E9F924B",
         "65536": "98EF267C55881075",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Nobody Saves the World"
     },
     "0100787014461000": {
@@ -37565,7 +37684,8 @@
     },
     "01007AE019B5A000": {
         "0": "5F1F1C6CF63EED95",
-        "latest": 0,
+        "65536": "0E1030B25F56EE48",
+        "latest": 65536,
         "title": "Vampire Slayer: The Resurrection"
     },
     "01007AF011732000": {
@@ -39226,7 +39346,8 @@
     },
     "010080B019CC4000": {
         "0": "F17EA4588E948065",
-        "latest": 0
+        "latest": 0,
+        "title": "- Mischief Dungeon Life - \u7570\u4e16\u754c\u8ee2\u751f\u3057\u305f\u4ffa\u306e\u30a4\u30bf\u30ba\u30e9\u30c0\u30f3\u30b8\u30e7\u30f3\u30e9\u30a4\u30d5 Dorothy Edition"
     },
     "010080C00AC3C000": {
         "0": "D1A4590FBB68204B",
@@ -44685,6 +44806,11 @@
         "latest": 0,
         "title": "Get Ogre It"
     },
+    "0100926017E00000": {
+        "0": "4E4A4FD2862BE8F8",
+        "65536": "D0821A4BE240FB9D",
+        "latest": 65536
+    },
     "010092700D6B8000": {
         "196608": "E82E82D966509CB3",
         "65536": "CDBF959ACEB39B34",
@@ -44977,6 +45103,10 @@
         "65536": "77B0164B50A1B2DC",
         "latest": 65536,
         "title": "Root Double -Before Crime * After Days- Xtend Edition"
+    },
+    "0100936018EB4000": {
+        "65536": "ECF483EF8F957D50",
+        "latest": 65536
     },
     "010093700BCDC000": {
         "0": "CBAA355CD88D3141",
@@ -45803,6 +45933,11 @@
         "65536": "07AA410B902F154B",
         "latest": 131072,
         "title": "World Splitter"
+    },
+    "010095D01A3FC000": {
+        "0": "A8779FA0E85E70CC",
+        "latest": 0,
+        "title": "Chronicles Of Albian: The Magic Convention"
     },
     "010095E012662000": {
         "0": "B0AF255D00C965C2",
@@ -46861,8 +46996,9 @@
     "010099801870E000": {
         "0": "C1055FC983E7DEE1",
         "131072": "71D77A4B4771F098",
+        "196608": "1A4A688D650515A1",
         "65536": "91D009382CCCAD74",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Atari 50: The Anniversary Celebration"
     },
     "010099900CAB2000": {
@@ -48791,6 +48927,11 @@
         "0": "4E9840CB31204AC4",
         "latest": 0
     },
+    "01009FC019612000": {
+        "0": "788595C4DC3E7154",
+        "latest": 0,
+        "title": "Midnight Runner - Blade Galaxy Beat Puzzle Legacy 3D Games Ultimate Edition"
+    },
     "01009FD0114F4000": {
         "0": "93FA83896005DF4F",
         "131072": "FF8FB22C84E42B43",
@@ -48804,6 +48945,11 @@
         "0": "CFA218B08A780CB6",
         "65536": "A78D19BBFD020B8F",
         "latest": 65536
+    },
+    "01009FD01A338000": {
+        "0": "C62409AD892FA44F",
+        "latest": 0,
+        "title": "Drift & Drive"
     },
     "01009FE010876000": {
         "65536": "407978D722447B25",
@@ -48966,8 +49112,9 @@
     },
     "0100A0701949E000": {
         "0": "87720DD9F750FEAC",
+        "131072": "C1A735C7096D745A",
         "65536": "B540ADFBE268C4C7",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Jitsu Squad"
     },
     "0100A0800B83A000": {
@@ -49891,6 +50038,12 @@
         "latest": 65536,
         "title": "THE LAST BLADE: Beyond the Destiny"
     },
+    "0100A350188F8000": {
+        "0": "A560E8F3DEB364B7",
+        "65536": "BCD94D0A2C727B9A",
+        "latest": 65536,
+        "title": "OmegaBot"
+    },
     "0100A36013A64000": {
         "0": "3E3F9686FF9ECB4C",
         "latest": 0
@@ -50673,6 +50826,15 @@
         "latest": 131072,
         "title": "SEGA Genesis Classics"
     },
+    "0100A6301214E000": {
+        "0": "E7E1382D5EB931B0",
+        "65536": "A21373DFC58390C9",
+        "latest": 65536,
+        "title": "Fire Emblem\u2122 Engage"
+    },
+    "0100A6301214F000": {
+        "latest": 0
+    },
     "0100A63015172000": {
         "0": "5FA4C62DEA6CA744",
         "latest": 0
@@ -50950,7 +51112,8 @@
     },
     "0100A71018440000": {
         "0": "21CA4BBD997FE82F",
-        "latest": 0,
+        "65536": "7E51D53E812679C7",
+        "latest": 65536,
         "title": "UnderDungeon"
     },
     "0100A72004B20000": {
@@ -51593,10 +51756,18 @@
         "65536": "51F7E32B01224E59",
         "latest": 131072
     },
+    "0100A91018633000": {
+        "latest": 0
+    },
     "0100A9200F300000": {
         "131072": "F751EA9BF8CF08EB",
         "65536": "1A284AFDB0A516EC",
         "latest": 131072
+    },
+    "0100A9201A166000": {
+        "0": "760094E3574F59CF",
+        "latest": 0,
+        "title": "A Matter of Principle"
     },
     "0100A9300A4AE000": {
         "0": "A90A01B017D6A9AE",
@@ -52643,8 +52814,9 @@
         "0": "23F73B258DB77395",
         "131072": "CFAA87D843E1CB23",
         "196608": "5B316876D16872F7",
+        "262144": "BE845A8F1D3FB508",
         "65536": "4BCBB9C2A7F1652E",
-        "latest": 196608,
+        "latest": 262144,
         "title": "RichMan 11"
     },
     "0100ACB018FA2000": {
@@ -53231,6 +53403,9 @@
         "983040": "41D4649BD99889AC",
         "latest": 1310720
     },
+    "0100AE7012B5F000": {
+        "latest": 0
+    },
     "0100AE7013B90000": {
         "0": "50F5C05BD9EFE2D7",
         "131072": "BA72FA5C34950F7D",
@@ -53377,7 +53552,8 @@
     },
     "0100AF1019E20000": {
         "0": "C72603B42733C790",
-        "latest": 0
+        "latest": 0,
+        "title": "- Mischief Dungeon Life - \u7570\u4e16\u754c\u8ee2\u751f\u3057\u305f\u4ffa\u306e\u30a4\u30bf\u30ba\u30e9\u30c0\u30f3\u30b8\u30e7\u30f3\u30e9\u30a4\u30d5\u3000\u30a2\u30fc\u30b7\u30e3Edition"
     },
     "0100AF2011EE0000": {
         "131072": "126077B8AC08D736",
@@ -53647,6 +53823,10 @@
     },
     "0100B020117D9000": {
         "latest": 65536
+    },
+    "0100B02019CFA000": {
+        "0": "62E02FC94E924BB0",
+        "latest": 0
     },
     "0100B030082EA000": {
         "0": "F28ED6DBC673A442",
@@ -53997,7 +54177,8 @@
     },
     "0100B1201A1F8000": {
         "0": "8FEC712E8FA06877",
-        "latest": 0
+        "latest": 0,
+        "title": "Menhera Girls Ensemble - Needy Girlfriends -"
     },
     "0100B1300783E000": {
         "0": "6776A3DC6C27C8A6",
@@ -54311,8 +54492,10 @@
         "title": "River City Melee Mach!!"
     },
     "0100B2101A39A000": {
+        "0": "7C7D2B0D69082510",
+        "131072": "04092EF3EA21BB13",
         "65536": "5A7E6FC014815976",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Hack and Shoot Heroes"
     },
     "0100B22013610000": {
@@ -54622,6 +54805,9 @@
         "327680": "A9F3DB8601BEA541",
         "65536": "3334300DD3871CED",
         "latest": 327680
+    },
+    "0100B2F01111D000": {
+        "latest": 0
     },
     "0100B2F0124D4000": {
         "0": "EB1F299BE7647A69",
@@ -56433,8 +56619,9 @@
     "0100B95016F16000": {
         "0": "66199C0953BC4D11",
         "131072": "73D2F35ABE60DA69",
+        "196608": "7A7BFCEB7981EE8C",
         "65536": "467CED82791C6ED3",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Live by the Sword: Tactics"
     },
     "0100B96015C94000": {
@@ -57723,7 +57910,8 @@
         "0": "6621AE054B455E11",
         "131072": "201D4B8DD0B8CF2D",
         "196608": "4EC8D37CB9D164BC",
-        "latest": 196608,
+        "262144": "BAD8504B110A21AE",
+        "latest": 262144,
         "title": "Cobra Kai 2: Dojos Rising"
     },
     "0100BD9015B55000": {
@@ -57731,7 +57919,8 @@
     },
     "0100BD9019C28000": {
         "0": "6F15303FFB6E4D7E",
-        "latest": 0
+        "latest": 0,
+        "title": "- Mischief Dungeon Life - \u7570\u4e16\u754c\u8ee2\u751f\u3057\u305f\u4ffa\u306e\u30a4\u30bf\u30ba\u30e9\u30c0\u30f3\u30b8\u30e7\u30f3\u30e9\u30a4\u30d5\u3000ClaraEdition"
     },
     "0100BDA00F876000": {
         "131072": "91A96313EE55616E",
@@ -57875,6 +58064,10 @@
         "327680": "22F8476676904EFD",
         "393216": "3503C43A7B071DCD",
         "latest": 393216
+    },
+    "0100BE1019E6A000": {
+        "0": "5082C6A041915B68",
+        "latest": 0
     },
     "0100BE200C34A000": {
         "0": "7F589AAB819F8848",
@@ -59708,7 +59901,8 @@
         "786432": "2E2E3BEDD48C0E44",
         "851968": "2E80DF19EDC11145",
         "917504": "7ABD79235B203C4E",
-        "latest": 917504,
+        "983040": "E6BB8E56B8ABF945",
+        "latest": 983040,
         "title": "Fall Guys"
     },
     "0100C3D00923A000": {
@@ -60711,8 +60905,9 @@
         "latest": 0
     },
     "0100C6C010AE4000": {
+        "131072": "FC8AE7252B1E5F40",
         "65536": "FC8AE7252B1E5F40",
-        "latest": 65536
+        "latest": 131072
     },
     "0100C6C01225A000": {
         "131072": "489B2745A7783656",
@@ -61957,6 +62152,11 @@
         "65536": "0368F0652164E647",
         "latest": 65536,
         "title": "The TakeOver"
+    },
+    "0100CAE019C04000": {
+        "65536": "C4CCD9AE9A0B1824",
+        "latest": 65536,
+        "title": "Radiantflux Hyperfractal 4.0"
     },
     "0100CAF001DBE000": {
         "0": "84F8723C0B2EDD8B",
@@ -63267,7 +63467,8 @@
     },
     "0100CF7019DBE000": {
         "0": "B7A2936DC7B089C2",
-        "latest": 0
+        "latest": 0,
+        "title": "- Mischief Dungeon Life - \u7570\u4e16\u754c\u8ee2\u751f\u3057\u305f\u4ffa\u306e\u30a4\u30bf\u30ba\u30e9\u30c0\u30f3\u30b8\u30e7\u30f3\u30e9\u30a4\u30d5 Janice Edition"
     },
     "0100CF8003E70000": {
         "0": "4AE77C1FD4373D43",
@@ -63548,6 +63749,10 @@
     "0100D02014CE1000": {
         "latest": 0
     },
+    "0100D02019222000": {
+        "65536": "A14812538247D7B4",
+        "latest": 65536
+    },
     "0100D03003F0E000": {
         "0": "890DDEC742B348D7",
         "262144": "F7893E37FC10C803",
@@ -63673,6 +63878,9 @@
         "131072": "FBBC0547B10349D6",
         "65536": "713113ADC7B15DF9",
         "latest": 131072
+    },
+    "0100D09016C6B000": {
+        "latest": 0
     },
     "0100D0901963E000": {
         "0": "3A401249F64ACC7D",
@@ -64847,7 +65055,8 @@
         "720896": "87A644B27C81CAC2",
         "786432": "3E6ED0A574178062",
         "851968": "00C9F5EB3C7A1380",
-        "latest": 851968,
+        "917504": "6C1EAB6B03445291",
+        "latest": 917504,
         "title": "Two Point Campus"
     },
     "0100D4A012FF3000": {
@@ -65548,6 +65757,7 @@
         "title": "Gum+"
     },
     "0100D700189C0000": {
+        "0": "7A830BCD5426A636",
         "131072": "B3A628500D65416C",
         "65536": "39ADB802A86E4D32",
         "latest": 131072,
@@ -66338,6 +66548,11 @@
         "latest": 0,
         "title": "Quest for the Golden Duck"
     },
+    "0100D9201563C000": {
+        "0": "7B67780618BC1048",
+        "latest": 0,
+        "title": "Cooking Tycoons 3: 3 in 1 Bundle"
+    },
     "0100D940022F6000": {
         "0": "069B9A025B219E56",
         "latest": 0,
@@ -66688,6 +66903,7 @@
         "latest": 65536
     },
     "0100DA30189CA000": {
+        "0": "244E6EAAAB8725C1",
         "65536": "E3DC4FD0A35D25D8",
         "latest": 65536,
         "title": "NeverAwake"
@@ -67487,6 +67703,11 @@
         "65536": "DE7682E8A8E4B3A6",
         "latest": 65536,
         "title": "Wacky Run"
+    },
+    "0100DCD01525A000": {
+        "0": "663052C2C7E8C357",
+        "latest": 0,
+        "title": "Persona 3 Portable"
     },
     "0100DCE009732000": {
         "0": "8436A2A783EBE240",
@@ -68736,6 +68957,12 @@
         "latest": 65536,
         "title": "Cleopatra Fortune\u2122 S-Tribute"
     },
+    "0100E110188FA000": {
+        "0": "DF6F8373666EEA64",
+        "65536": "2EE2A130A29ADADD",
+        "latest": 65536,
+        "title": "Minimal Move"
+    },
     "0100E11019268000": {
         "0": "118CCE5659EF86E4",
         "131072": "5662AE7587BBC9D1",
@@ -69640,6 +69867,11 @@
         "0": "96168A0427C0023E",
         "latest": 0,
         "title": "Arcade Archives TOY POP"
+    },
+    "0100E41018474000": {
+        "0": "D3527B367E13CF0C",
+        "latest": 0,
+        "title": "Pixel Game Maker Series Pentacore"
     },
     "0100E4200D84E000": {
         "0": "22BAF04D8FB0E680",
@@ -76043,8 +76275,9 @@
     "0100F7C00DFCA000": {
         "131072": "D8BB49D302BD8E23",
         "196608": "44FB6611A518B551",
+        "262144": "828D91837469C9C7",
         "65536": "A30DA98335B614A0",
-        "latest": 196608
+        "latest": 262144
     },
     "0100F7C010AF6000": {
         "0": "3764CE647410824A",
@@ -77396,8 +77629,9 @@
     },
     "0100FC9017F08000": {
         "0": "6707039F4ACD11CA",
+        "196608": "89CB89E19761891C",
         "65536": "546337A6E9EE5FC7",
-        "latest": 65536,
+        "latest": 196608,
         "title": "Togges"
     },
     "0100FCA00C8D0000": {
