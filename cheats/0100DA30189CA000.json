@@ -1,0 +1,10 @@
+{
+    "E3DC4FD0A35D25D8": {
+        "[NeverAwake v65536 TID=0100DA30189CA000 BID=E3DC4FD0A35D25D8]": "[NeverAwake v65536 TID=0100DA30189CA000 BID=E3DC4FD0A35D25D8]\n\n",
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n080E0000 0288D760 A9017BFD 6DBC23E9\n040E0000 0288D5B8 BD004900\n040E0000 0284AFA8 4B140108\n040E0000 025B60CC B9430A68\n\n",
+        "[\u2116 1. Invincible]": "[\u2116 1. Invincible]\n080E0000 0288D760 D65F03C0 52800020\n\n",
+        "[\u2116 2. Unlimited Special Weapon Gauge]": "[\u2116 2. Unlimited Special Weapon Gauge]\n040E0000 0288D5B8 D503201F\n\n",
+        "[\u2116 3. Never Comsume Soul Money]": "[\u2116 3. Never Comsume Soul Money]\n040E0000 0284AFA8 D503201F\n\n",
+        "[\u2116 4. 1000x Main Weapon Strength]": "[\u2116 4. 1000x Main Weapon Strength]\n040E0000 025B5F7C 447A0000\n040E0000 025B60CC 18FFF588\n\n"
+    }
+}
