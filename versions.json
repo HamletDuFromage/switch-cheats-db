@@ -3636,7 +3636,8 @@
     },
     "01000CB0124F4000": {
         "0": "DF24C4608B869D42",
-        "latest": 0,
+        "65536": "736938961F265244",
+        "latest": 65536,
         "title": "Shotgun Farmers"
     },
     "01000CB016F3A000": {
@@ -5588,6 +5589,11 @@
         "latest": 65536,
         "title": "MMC KENKEN - The World's Most Exciting Math and Logic Puzzle -"
     },
+    "010013601782E000": {
+        "0": "DED2FD8C2BDEB134",
+        "latest": 0,
+        "title": "pixelBOT EXTREME!"
+    },
     "010013700DA4A000": {
         "0": "43DE805A3965797C",
         "131072": "3569BA0C9D444380",
@@ -5632,6 +5638,11 @@
     },
     "01001390140BD000": {
         "latest": 131072
+    },
+    "010013901A056000": {
+        "0": "4BB467AEB4476E7D",
+        "latest": 0,
+        "title": "Hyper Shapes"
     },
     "010013A00E750000": {
         "0": "CD92FB8B32F32144",
@@ -6995,6 +7006,7 @@
         "latest": 0
     },
     "01001890196E0000": {
+        "0": "5B9A3B341BF25691",
         "131072": "59665E14BAB08A85",
         "65536": "E06005C986FFFBAA",
         "latest": 131072,
@@ -9285,8 +9297,9 @@
     },
     "01001FB019AB2000": {
         "0": "A4D0E7F8D91B4EAC",
+        "131072": "1A611502ED5F47B4",
         "65536": "9B29658CFC3C929C",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Uphill Rush Water Park Racing"
     },
     "01001FC0152F6000": {
@@ -10328,6 +10341,11 @@
         "0": "E8F1613FA8389CF0",
         "latest": 0,
         "title": "Glittering Sword"
+    },
+    "010023001969A000": {
+        "65536": "A1B7149FF6D37E1E",
+        "latest": 65536,
+        "title": "Session: Skate Sim"
     },
     "01002310064B4000": {
         "0": "A834181745DE7291",
@@ -11776,7 +11794,8 @@
         "0": "CD42511337260A92",
         "131072": "CD42511337260A92",
         "196608": "88308C9A51AB9DA5",
-        "latest": 196608,
+        "262144": "6322556501C4A205",
+        "latest": 262144,
         "title": "Drago Noka"
     },
     "010027800FECE000": {
@@ -16487,6 +16506,11 @@
         "latest": 65536,
         "title": "Gas Guzzlers Extreme"
     },
+    "010036601903C000": {
+        "0": "FFF7740123FCDE89",
+        "latest": 0,
+        "title": "Demolition Inc HD"
+    },
     "01003670066DE000": {
         "0": "7D0857406047CAEF",
         "latest": 0,
@@ -18832,6 +18856,11 @@
         "latest": 0,
         "title": "Serin Fate"
     },
+    "01003DE01A506000": {
+        "0": "3B4F460891A5D472",
+        "latest": 0,
+        "title": "Fear in Hospital: Escape Horror Story"
+    },
     "01003DF00E328000": {
         "0": "0C5B073981232A3F",
         "latest": 0,
@@ -19795,7 +19824,8 @@
     },
     "0100410019716000": {
         "0": "097D6F8630CDACDB",
-        "latest": 0,
+        "65536": "904D6E401EBBDA39",
+        "latest": 65536,
         "title": "Zodiacats"
     },
     "0100410019D3C000": {
@@ -21110,6 +21140,11 @@
         "latest": 0,
         "title": "The Secret Order: Shadow Breach"
     },
+    "010044F01871A000": {
+        "0": "358E3261D967A062",
+        "latest": 0,
+        "title": "Bike Clash"
+    },
     "010044F018C30000": {
         "0": "E1B05D26C70DA762",
         "latest": 0,
@@ -21484,7 +21519,8 @@
     },
     "010045D019FF0000": {
         "0": "29CE3C79D6826F72",
-        "latest": 0
+        "latest": 0,
+        "title": "Arcade Archives THE NEWZEALAND STORY"
     },
     "010045E01057E000": {
         "0": "3C8AD01B7FDC054A",
@@ -23345,8 +23381,9 @@
     "01004BC0166CC000": {
         "0": "C1389EE7FD1F1AE5",
         "131072": "0F01D505966DABF6",
+        "196608": "114D4499AB558921",
         "65536": "6601A8A72426A5CD",
-        "latest": 131072,
+        "latest": 196608,
         "title": "CRISIS CORE \u2013FINAL FANTASY VII\u2013 REUNION"
     },
     "01004BC0166CD000": {
@@ -25533,6 +25570,12 @@
     "010053401147D000": {
         "latest": 0
     },
+    "0100534017DEC000": {
+        "0": "46A2E9F3C4A03A6D",
+        "65536": "3F183E855ADB7EEA",
+        "latest": 65536,
+        "title": "Match Ventures"
+    },
     "010053500F410000": {
         "65536": "61F6EDEDE884034A",
         "latest": 65536
@@ -26639,7 +26682,8 @@
         "327680": "336CBE521EBB4A4A",
         "393216": "8A85F6BC98B1D34C",
         "458752": "05E72DD280A2874C",
-        "latest": 458752
+        "524288": "941A7672E4EB114A",
+        "latest": 524288
     },
     "0100572010EF8000": {
         "0": "723DB121A7D694B7",
@@ -30491,6 +30535,11 @@
         "latest": 65536,
         "title": "Japanese Escape Games The Abandoned Schoolhouse"
     },
+    "0100631019EDE000": {
+        "0": "6FD2E206683D39D9",
+        "latest": 0,
+        "title": "Unblock The Brick: Casual Block Puzzle"
+    },
     "010063200AB12000": {
         "0": "D8648C2D98663C44",
         "131072": "F9749DB19FEB6245",
@@ -31309,8 +31358,9 @@
     },
     "010065D017940000": {
         "0": "002B67475DBB0203",
+        "131072": "5922DD3732FAC33C",
         "65536": "BEC22CEA92255BB4",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Garbage Pail Kids: Mad Mike & the Quest for Stale Gum"
     },
     "010065E003FD8000": {
@@ -31877,6 +31927,11 @@
         "0": "53A35D75F8DA4F4B",
         "latest": 0,
         "title": "Football Killer"
+    },
+    "010067D01A308000": {
+        "0": "C979FD815555D678",
+        "latest": 0,
+        "title": "Anime Girls: Camping Trip"
     },
     "010067E00D9AE000": {
         "0": "DDE2EA73E2092CB0",
@@ -36558,7 +36613,8 @@
     },
     "01007650184FA000": {
         "0": "263459C062ED3214",
-        "latest": 0,
+        "65536": "EA657D46938C381B",
+        "latest": 65536,
         "title": "Colossal Cave"
     },
     "0100765018DD6000": {
@@ -38401,8 +38457,9 @@
     "01007C8018578000": {
         "0": "7E3AB049C50B4E3D",
         "131072": "D9999679E618E2AA",
+        "196608": "89BCA5C835B0791C",
         "65536": "0479E86216369FE1",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Breakers Collection"
     },
     "01007C900FD96000": {
@@ -42821,6 +42878,7 @@
         "title": "Super Meatball"
     },
     "01008BE01422C000": {
+        "0": "4004CA44F780C548",
         "131072": "D2D7CD1433A11D46",
         "65536": "0B4E4FEE095DDF45",
         "latest": 131072,
@@ -42849,6 +42907,11 @@
         "0": "E10CEB2C751F5183",
         "latest": 0,
         "title": "The Zombie Smasher - Dead Apocalyptic Killer Car Driving & Parking Games Survival"
+    },
+    "01008BE019486000": {
+        "0": "4DBCAA3AC83C387E",
+        "latest": 0,
+        "title": "Extreme Highway Racing: Real Speed Driver"
     },
     "01008C0014C10000": {
         "0": "A266FAA4A5B60131",
@@ -44800,6 +44863,10 @@
         "65536": "A61856063E49E8C7",
         "latest": 196608,
         "title": "Star Hunter DX"
+    },
+    "0100918014678000": {
+        "131072": "038612B647C90FB8",
+        "latest": 131072
     },
     "0100918014B02000": {
         "0": "28604DCA269977C2",
@@ -46829,6 +46896,11 @@
         "latest": 0,
         "title": "Gravity Light"
     },
+    "010097F01A79E000": {
+        "0": "1097E45AA49ABC44",
+        "latest": 0,
+        "title": "Hippo: Little Red Riding Hood"
+    },
     "010098000D646000": {
         "0": "F2B2FBB7C738264E",
         "1048576": "01761E3F082F3047",
@@ -47826,6 +47898,11 @@
         "262144": "BFF92D9D3F4CE84D",
         "latest": 262144,
         "title": "OPUS: Echo of Starsong - Full Bloom Edition"
+    },
+    "01009B6019CF0000": {
+        "65536": "1DA073B9F4D608F1",
+        "latest": 65536,
+        "title": "Dyadic"
     },
     "01009B7006C88000": {
         "0": "1439872C64096341",
@@ -49828,6 +49905,10 @@
     "0100A1D017887000": {
         "latest": 0
     },
+    "0100A1E015DCA000": {
+        "65536": "32187400D76BE242",
+        "latest": 65536
+    },
     "0100A1F012948000": {
         "0": "56F10C76026B2740",
         "latest": 0,
@@ -49904,7 +49985,8 @@
     "0100A22018A04000": {
         "131072": "B9FCCC4909C1CA36",
         "196608": "D68FA9977F8EF1EE",
-        "latest": 196608,
+        "262144": "9185FC6A71F9C822",
+        "latest": 262144,
         "title": "Dire Vengeance"
     },
     "0100A23015182000": {
@@ -50852,6 +50934,11 @@
         "0": "0122A5CB1237CC99",
         "latest": 0,
         "title": "\u7570\u4e16\u754c\u6700\u5f37\u52c7\u8005\u306e\u60b2\u604b\u7269\u8a9e - Isekai Tragic Love -"
+    },
+    "0100A5201A46E000": {
+        "0": "FF84D9D8A6138669",
+        "latest": 0,
+        "title": "Jewel Match Solitaire Collector's Edition"
     },
     "0100A5400AC86000": {
         "0": "8BCB1C975785AD13",
@@ -52577,6 +52664,11 @@
     "0100AAD019916000": {
         "0": "E466ABA10AE7C463",
         "latest": 0
+    },
+    "0100AAD019DD2000": {
+        "0": "F155A11818475FA9",
+        "latest": 0,
+        "title": "Nature Escapes Collector's Edition"
     },
     "0100AAE00CAB4000": {
         "0": "A605D0F5F3E8E767",
@@ -54793,8 +54885,9 @@
     "0100B2101A39A000": {
         "0": "7C7D2B0D69082510",
         "131072": "04092EF3EA21BB13",
+        "196608": "291CC2D977F91597",
         "65536": "5A7E6FC014815976",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Hack and Shoot Heroes"
     },
     "0100B22013610000": {
@@ -55498,6 +55591,11 @@
         "0": "557B76B3E90DAC35",
         "latest": 0,
         "title": "Arcade Archives VS. WRECKING CREW"
+    },
+    "0100B49016FF0000": {
+        "0": "18B5A4AAB0742088",
+        "latest": 0,
+        "title": "Wonder Boy Anniversary Collection"
     },
     "0100B4A00E2D0000": {
         "0": "D69D70A63ACDDA46",
@@ -58593,8 +58691,9 @@
     "0100BE8019834000": {
         "0": "0C08584382C0D9C8",
         "131072": "6923613059A246DA",
+        "196608": "168AB8E4DF1A7B81",
         "65536": "3DBCE7620FEE2226",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Dire Vengeance Deluxe"
     },
     "0100BE9007E7E000": {
@@ -58749,6 +58848,11 @@
     },
     "0100BEE017FC1000": {
         "latest": 0
+    },
+    "0100BEE01948E000": {
+        "0": "19385A2A07CE4C5C",
+        "latest": 0,
+        "title": "Beholder 3"
     },
     "0100BEF00DF52000": {
         "0": "891A852AF368ADC2",
@@ -59530,7 +59634,8 @@
     },
     "0100C19019520000": {
         "0": "1C43F399ECA70B44",
-        "latest": 0
+        "latest": 0,
+        "title": "Tales of Shinobi Fantasy Magic Anime World Fight RPG Simulator"
     },
     "0100C1A00AC3E000": {
         "0": "F37FFE1E17069143",
@@ -62027,7 +62132,8 @@
         "655360": "0A6D53D00200617E",
         "720896": "36425CE92BFE3F7D",
         "786432": "EF7C665D3A98FFC4",
-        "latest": 786432,
+        "851968": "4942E4E3C3B227C3",
+        "latest": 851968,
         "title": "Nintendo 64\u2122 \u2013 Nintendo Switch Online"
     },
     "0100C9A013AC4000": {
@@ -63949,6 +64055,11 @@
         "latest": 196608,
         "title": "A Juggler's Tale"
     },
+    "0100CFD0183C2000": {
+        "0": "47060696B21E8911",
+        "latest": 0,
+        "title": "Wonderland Nights: White Rabbit's Diary"
+    },
     "0100CFE003A64000": {
         "0": "D68EE3F8580D735C",
         "latest": 0,
@@ -64199,8 +64310,9 @@
     },
     "0100D09016C6A000": {
         "131072": "FBBC0547B10349D6",
+        "196608": "730E0602A06BDA77",
         "65536": "713113ADC7B15DF9",
-        "latest": 131072
+        "latest": 196608
     },
     "0100D09016C6B000": {
         "latest": 0
@@ -66223,6 +66335,11 @@
         "65536": "D382F0410EE39B84",
         "latest": 65536
     },
+    "0100D730197BE000": {
+        "0": "583FFD70221AFF64",
+        "latest": 0,
+        "title": "Japanese Escape from The Room with Sturdy Door"
+    },
     "0100D7400F2E4000": {
         "0": "41BE051332866CD8",
         "latest": 0,
@@ -67425,6 +67542,11 @@
         "latest": 0,
         "title": "Doctor Hospital: Hypocondriac Simulator"
     },
+    "0100DAB019EDC000": {
+        "0": "5C6DE0E9450CD476",
+        "latest": 0,
+        "title": "Poker Legends: Omaha Champions"
+    },
     "0100DAC00BB52000": {
         "0": "DD4EF9F9B607D44A",
         "latest": 0,
@@ -67876,7 +67998,8 @@
     },
     "0100DC2019C30000": {
         "0": "6A0368E67A56D51B",
-        "latest": 0
+        "latest": 0,
+        "title": "PIPELINE PANIC"
     },
     "0100DC300AC78000": {
         "0": "3924300D1D984440",
@@ -75128,6 +75251,7 @@
         "262144": "B3D6192B638E0A43",
         "2621440": "DF5AB03854A07EE7",
         "2686976": "92C2340A08D5D52F",
+        "2752512": "74ECCE0BCAD4C446",
         "327680": "8AB77F69BA1AA640",
         "393216": "ECBDE66968097441",
         "458752": "4FA1176A415CF219",
@@ -75139,7 +75263,7 @@
         "851968": "D2E0D8B532D3FA09",
         "917504": "C3B1CAB85C81C59C",
         "983040": "329B61F6B873C96F",
-        "latest": 2686976,
+        "latest": 2752512,
         "title": "Wrestling Empire"
     },
     "0100F2B01883A000": {
