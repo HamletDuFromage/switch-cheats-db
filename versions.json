@@ -2145,6 +2145,7 @@
         "title": "Escape game & Card search game R01M"
     },
     "0100077019A98000": {
+        "0": "C9F0F0687E7144A7",
         "65536": "0746DF40B59AADA6",
         "latest": 65536,
         "title": "ATONE: Heart of the Elder Tree"
@@ -2266,6 +2267,11 @@
         "65536": "F71A7029D3C5BD07",
         "latest": 65536,
         "title": "Darkness and Flame: Missing Memories"
+    },
+    "010007F01A3DE000": {
+        "0": "BC1EA2FB17E9BEDA",
+        "latest": 0,
+        "title": "Super Benbo Quest: Turbo Deluxe"
     },
     "010008000C8F6000": {
         "0": "B9C03BE468DCFF4B",
@@ -6076,8 +6082,9 @@
     "010015700D5DC000": {
         "0": "A482A623CF681049",
         "131072": "34D00056A19C1748",
+        "196608": "57E96817E70D7445",
         "65536": "0DF2A1635219A845",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Super Jumpy Ball"
     },
     "010015800B178000": {
@@ -7038,6 +7045,11 @@
     "010018C00954F000": {
         "latest": 0
     },
+    "010018C01A634000": {
+        "0": "E0BA882B1FA934DD",
+        "latest": 0,
+        "title": "Offroad Moto Bike"
+    },
     "010018D013CAA000": {
         "0": "396A9380B4669439",
         "65536": "39CBD82DA8C9E829",
@@ -7414,7 +7426,8 @@
     },
     "010019F019168000": {
         "0": "2F6183AD8D132E54",
-        "latest": 0,
+        "65536": "CCE932825D78F7A0",
+        "latest": 65536,
         "title": "Pocket Pool"
     },
     "01001A0011798000": {
@@ -33483,6 +33496,9 @@
         "latest": 0,
         "title": "Ultre\u00efa"
     },
+    "01006C901754B000": {
+        "latest": 0
+    },
     "01006CA00D454000": {
         "0": "1C9953B7BFA3BAF1",
         "131072": "79B9BF31AB0E423C",
@@ -40288,7 +40304,8 @@
     },
     "010082B01A146000": {
         "0": "2F9C84F257181DF5",
-        "latest": 0,
+        "65536": "BF5FCA8C48D71930",
+        "latest": 65536,
         "title": "Animal Golf - Battle Race"
     },
     "010082C011B24000": {
@@ -41735,6 +41752,10 @@
         "latest": 65536,
         "title": "Inner Voices"
     },
+    "010087D01A55E000": {
+        "131072": "B46B3862568BC2FE",
+        "latest": 131072
+    },
     "010087E006E6E000": {
         "0": "6F1C332CDF0B6448",
         "latest": 0,
@@ -42564,7 +42585,8 @@
     },
     "01008AE019614000": {
         "0": "2AD245A52FE322B1",
-        "latest": 0,
+        "65536": "D3B7F184686BAB01",
+        "latest": 65536,
         "title": "nOS new Operating System"
     },
     "01008AF0080B8000": {
@@ -45833,6 +45855,11 @@
     },
     "0100947013123000": {
         "latest": 0
+    },
+    "01009470189F2000": {
+        "65536": "6C6E96644EE9AD84",
+        "latest": 65536,
+        "title": "Trophy"
     },
     "010094800D3DA000": {
         "0": "605C79C5CB910C49",
@@ -52412,7 +52439,8 @@
         "655360": "90D04ADD3F4FC744",
         "720896": "5E2B9CEA246B4945",
         "786432": "7AD9246D073B8F47",
-        "latest": 786432,
+        "851968": "31851AA60BCE0443",
+        "latest": 851968,
         "title": "Clone Drone in the Danger Zone"
     },
     "0100AA20125D6000": {
@@ -53868,8 +53896,9 @@
         "latest": 65536
     },
     "0100AED0186E4000": {
+        "131072": "D226F9AA15DA681A",
         "65536": "D5EB2A518F7B02E7",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Montezuma's Revenge\uff1a8-Bit Edition"
     },
     "0100AEE012104000": {
@@ -65463,7 +65492,7 @@
         "title": "ARK: Survival Evolved"
     },
     "0100D4A00B285000": {
-        "latest": 196608
+        "latest": 262144
     },
     "0100D4A00E308000": {
         "0": "339D23C0CC4D6A41",
@@ -70294,8 +70323,9 @@
         "0": "80A728BA3DCE6B70",
         "131072": "C7F4359C5184C852",
         "196608": "EDD16473B531A82F",
+        "262144": "5C58F3053C05A564",
         "65536": "D666A652AB0FF3B7",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Habroxia 2"
     },
     "0100E3D014ABC000": {
@@ -70782,7 +70812,8 @@
     },
     "0100E55019A86000": {
         "0": "CD423375E8348DFB",
-        "latest": 0,
+        "65536": "22DC82A187CCFAB3",
+        "latest": 65536,
         "title": "Yeah\uff01Fighting Girl"
     },
     "0100E5600D446000": {
@@ -72199,6 +72230,11 @@
         "0": "E3C300EAB071133B",
         "latest": 0,
         "title": "Hike"
+    },
+    "0100E9C018DA8000": {
+        "0": "788468919B2C0554",
+        "latest": 0,
+        "title": "Farming Life"
     },
     "0100E9D007432000": {
         "65536": "B36D84A5DE2470AB",
@@ -73897,8 +73933,9 @@
     "0100EEA018BAC000": {
         "0": "37592C90377408DB",
         "131072": "2E0151F3E54C68FD",
+        "196608": "4B30C5898D24BDCF",
         "65536": "E3969DF69EE5DA5A",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Scrap Riders"
     },
     "0100EEB005ACC000": {
@@ -75068,6 +75105,11 @@
         "65536": "0EB0818751685BE8",
         "latest": 196608,
         "title": "Darksiders Genesis"
+    },
+    "0100F230145E2000": {
+        "0": "5EBF1A226C04BD4F",
+        "latest": 0,
+        "title": "Dance of Death: Du Lac & Fey"
     },
     "0100F230177E2000": {
         "0": "D66DD53B97B7B105",
