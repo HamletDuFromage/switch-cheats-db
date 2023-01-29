@@ -22845,6 +22845,11 @@
         "latest": 0,
         "title": "Mischief Dungeon Life"
     },
+    "01004A10198F2000": {
+        "65536": "6E0D0148EDCE82D8",
+        "latest": 65536,
+        "title": "Souls of Chronos"
+    },
     "01004A200BB48000": {
         "0": "7AA664ADA81CC54B",
         "latest": 0,
@@ -31667,8 +31672,9 @@
         "131072": "92975AA8AD64C520",
         "196608": "4F29B33C5CBB2DBC",
         "262144": "7E1835789C322187",
+        "327680": "6586C3F7898941A8",
         "65536": "92B09D8B90229A1E",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Math Classroom Challenge"
     },
     "010066F009524000": {
