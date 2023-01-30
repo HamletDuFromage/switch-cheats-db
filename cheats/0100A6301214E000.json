@@ -1,4 +1,8 @@
 {
+    "A21373DFC58390C9": {
+        "[60 FPS]": "[60 FPS]\n580F0000 065BAA30 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 065BAA30 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
     "E7E1382D5EB931B0": {
         "[Fire Emblem Engage v0 TID=0100A6301214E000 BID=E7E1382D5EB931B0]": "[Fire Emblem Engage v0 TID=0100A6301214E000 BID=E7E1382D5EB931B0]\n\n",
         "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 025AF638 0B010129\n040E0000 023AB180 39000001\n040E0000 028CE2F8 2A0103E0\n\n",
@@ -11,6 +15,6 @@
         "[30 fps]": "[30 fps]\n580F0000 065AD9F0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "Fire Emblem Engage.txt": "By Jason\n\nNotes: The 60fps cheat causes double speed in menus and battles."
+        "Fire Emblem Engage.txt": "By Jason v1\nBy Silverdesu v2\n\nNotes: The 60fps cheat causes double speed in menus and battles.\n"
     }
 }
