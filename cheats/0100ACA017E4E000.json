@@ -1,4 +1,10 @@
 {
+    "00CD19B40C36B34B": {
+        "[60 FPS]": "[60 FPS]\n580F0000 142708F8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 142708F8\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+        "[60 FPS (Alt)]": "[60 FPS (Alt)]\n580F0000 14270918\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default, Alt)]": "[30 FPS (Default, Alt)]\n580F0000 14270918\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
     "04E52719F8472C43": {
         "[60 FPS (Alt)]": "[60 FPS (Alt)]\n580F0000 1415D918 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
         "[30 FPS (Alt, Default)]": "[30 FPS (Alt, Default)]\n580F0000 1415D918 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
@@ -30,6 +36,6 @@
         "[30 FPS (Default, Alternative)]": "[30 FPS (Default, Alternative)]\n580F0000 1402C918\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "NBA 2K23.txt": "by retole\nNeed OC. GPU 768+ CPU 1581+"
+        "NBA 2K23.txt": "by retole, v1.06 by sds\nNeed OC. GPU 768+ CPU 1581+\n"
     }
 }
