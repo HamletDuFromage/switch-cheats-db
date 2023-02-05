@@ -1,0 +1,9 @@
+{
+    "9C95108FD8F7464A": {
+        "[60 FPS]": "[60 FPS]\n580F0000 013E5940 \n580F1000 00000008 \n580F1000 00003C68 \n580F1000 00000018 \n780F0000 00000F24 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 013E5940 \n580F1000 00000008 \n580F1000 00003C68 \n580F1000 00000018 \n780F0000 00000F24 \n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Atelier Sophie: The Alchemist of the Mysterious Book DX.txt": "v1.0.3 by sds\n"
+    }
+}
