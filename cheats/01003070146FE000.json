@@ -1,4 +1,16 @@
 {
+    "2A4E4A1D261AE00C": {
+        "[60 FPS (Default)]": "[60 FPS (Default)]\n580F0000 052F2030 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 052F2030 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[360p Overall Resolution]": "[360p Overall Resolution]\n580F0000 0525E7A0 \n780F0000 000000C0 \n680F0000 00000168 00000280 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[480p Overall Resolution]": "[480p Overall Resolution]\n580F0000 0525E7A0 \n780F0000 000000C0 \n680F0000 000001E0 00000356 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[540p Overall Resolution]": "[540p Overall Resolution]\n580F0000 0525E7A0 \n780F0000 000000C0 \n680F0000 0000021C 000003C0 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[612p Overall Resolution]": "[612p Overall Resolution]\n580F0000 0525E7A0 \n780F0000 000000C0 \n680F0000 00000264 00000440 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[720p Overall Resolution (Handheld's Default)]": "[720p Overall Resolution (Handheld's Default)]\n580F0000 0525E7A0 \n780F0000 000000C0 \n680F0000 000002D0 00000500 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[810p Overall Resolution]": "[810p Overall Resolution]\n580F0000 0525E7A0 \n780F0000 000000C0 \n680F0000 0000032A 000005A0 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[900p Overall Resolution]": "[900p Overall Resolution]\n580F0000 0525E7A0 \n780F0000 000000C0 \n680F0000 00000384 00000640 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[1080p Overall Resolution (Docked's Default)]": "[1080p Overall Resolution (Docked's Default)]\n580F0000 0525E7A0 \n780F0000 000000C0 \n680F0000 00000438 00000780 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n"
+    },
     "3614F40345BDBDAA": {
         "{Master code cave}": "{Master code cave}\n08000000 0335FF00 BD030020 BD415820\n08000000 0335FF08 179CC435 BD430020\n08000000 0335FF10 BD030660 BD415E60\n08000000 0335FF18 179CC43A BD430660\n08000000 0335FF30 D2800C6A 00000000\n08000000 0335FF38 D65F03C0 A902AD0A\n\n",
         "[Inf Hp]": "[Inf Hp]\n04000000 01A90FDC 14633BC9\n\n",
@@ -20,6 +32,6 @@
     },
     "attribution": {
         "Astria Ascending 1.0.132 by Gamerjin.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code.",
-        "Astria Ascending.txt": "v1.0.106 by cucholix gbatemp\n"
+        "Astria Ascending.txt": "By cucholix, sds\n\nIncluded in the text file:\nOverall Resolution Cheats from [360p] up to [1080p]\n|Need OC|"
     }
 }

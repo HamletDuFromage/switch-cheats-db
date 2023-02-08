@@ -1,9 +1,13 @@
 {
+    "5E8316D212D6D7BD": {
+        "[60 FPS]": "[60 FPS]\n580F0000 004425D0 \n780F0000 00000F14  \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 004425D0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
     "CDE75C3CF8E3E50D": {
         "[60 FPS]": "[60 FPS]\n580F0000 0044CE48\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
         "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 0044CE48\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "Off The Road Unleashed.txt": "By Hazerou"
+        "Off The Road Unleashed.txt": "By Hazerou\nv1.01 by sds\n"
     }
 }

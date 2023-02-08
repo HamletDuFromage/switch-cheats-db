@@ -1,4 +1,8 @@
 {
+    "5D203792DF3B534B": {
+        "[60 FPS]": "[60 FPS]\n580F0000 04EC7AF0 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 04EC7AF0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
     "73C6EAE859FA7E4E": {
         "[Breeze beta36 Souldiers 3 TID: 0100439016FF6000 BID: 73C6EAE859FA7E4E]": "[Breeze beta36 Souldiers 3 TID: 0100439016FF6000 BID: 73C6EAE859FA7E4E]\n\n",
         "[Inf ammo]": "[Inf ammo]\n04000000 014B7ED0 D503201F\n\n",
@@ -10,6 +14,7 @@
         "[Attacks are 8x stronger (enemy's too)]": "[Attacks are 8x stronger (enemy's too)]\n04000000 0145F358 145E9CAA \n08000000 02C06600 1E220001 531D7000 \n04000000 02C06608 17A16355\n\n"
     },
     "attribution": {
-        "Souldiers 3 by Tomswitch.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+        "Souldiers 3 by Tomswitch.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code.",
+        "Souldiers.txt": "By retole\nNeed OC. GPU 768+ CPU 1581+ (edited)\n"
     }
 }
