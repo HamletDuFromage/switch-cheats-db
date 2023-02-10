@@ -3,6 +3,32 @@
         "[60 FPS]": "[60 FPS]\n580F0000 06D42260\n580F1000 00000018\n580F1000 000000A0\n780F0000 00000F14\n640F0000 00000000 00000001\n580F0000 074F4A30\n780F0000 00000044\n680F0000 42700000 42700000\n\n",
         "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 06D42260\n580F1000 00000018\n580F1000 000000A0\n780F0000 00000F14\n640F0000 00000000 00000002\n580F0000 074F4A30\n780F0000 00000044\n680F0000 41F00000 41F00000\n\n"
     },
+    "2CF52C8DA4468946": {
+        "[01# Inf Health And Armor]": "[01# Inf Health And Armor]\n040A0000 044F5614 4479C000\n040A0000 00FBC9C4 94D4E30F\n\n",
+        "[Inf Health And Armor (off)]": "[Inf Health And Armor (off)]\n040A0000 00FBC9C4 BD443380\n\n",
+        "[02# Wanted Level 0]": "[02# Wanted Level 0]\n040A0000 00F05C20 94D7BE80\n\n",
+        "[02# Wanted Level 6]": "[02# Wanted Level 6]\n040A0000 00F05C20 94D7BE80\n\n",
+        "[Wanted Level (off)]": "[Wanted Level (off)]\n040A0000 00F05C20 B9001A6B\n\n",
+        "[03# Inf Task Time]": "[03# Inf Task Time]\n040A0000 00F049DC 52800009\n\n",
+        "[Inf Task Time (off)]": "[Inf Task Time (off)]\n040A0000 00F049DC 1E390009\n\n",
+        "[04# money X16]": "[04# money X16]\n040A0000 00E59700 0B082148\n\n",
+        "[money X16 (off)]": "[money X16 (off)]\n040A0000 00E59700 0B080148\n\n",
+        "[05# Inf Ammo And Grenades]": "[05# Inf Ammo And Grenades]\n040A0000 00FFE3EC 6B1F0109\n040A0000 00FFE40C 6B1F0129\n\n",
+        "[Inf Ammo And Grenades (off)]": "[Inf Ammo And Grenades (off)]\n040A0000 00FFE3EC 71000509\n040A0000 00FFE40C 71000529\n\n",
+        "[06# Inf Car Health]": "[06# Inf Car Health]\n040A0000 00FCAD6C 1E202820\n\n",
+        "[Inf Car Health (off)]": "[Inf Car Health (off)]\n040A0000 00FCAD6C 1E203820\n\n",
+        "[07# Keep Weapons After Death]": "[07# Keep Weapons After Death]\n040A0000 00F449F0 D65F03C0\n\n",
+        "[Keep Weapons After Death (off)]": "[Keep Weapons After Death (off)]\n040A0000 00F449F0 A9BE4FF4\n\n",
+        "[08# weapons (Press R)]": "[08# weapons (Press R)]\n040A0000 00EE5240 7100CC3F\n040A0000 00EE5244 54000041\n040A0000 00EE5248 17FFD91E\n040A0000 00EE524C D65F03C0\n\n",
+        "[09# tank (Press R)]": "[09# tank (Press R)]\n040A0000 00EE5240 7100CC3F\n040A0000 00EE5244 54000041\n040A0000 00EE5248 17FFDB4E\n040A0000 00EE524C D65F03C0\n\n",
+        "[10# car (Press R)]": "[10# car (Press R)]\n040A0000 00EE5240 7100CC3F\n040A0000 00EE5244 54000041\n040A0000 00EE5248 17FFDB4E\n040A0000 00EE524C D65F03C0\n\n",
+        "[11# FBI car (Press R)]": "[11# FBI car (Press R)]\n040A0000 00EE5240 7100CC3F\n040A0000 00EE5244 54000041\n040A0000 00EE5248 17FFDB4E\n040A0000 00EE524C D65F03C0\n\n",
+        "[12# ship (Press R)]": "[12# ship (Press R)]\n040A0000 00EE5240 7100CC3F\n040A0000 00EE5244 54000041\n040A0000 00EE5248 17FFDB4E\n040A0000 00EE524C D65F03C0\n\n",
+        "[13# police boat (Press R)]": "[13# police boat (Press R)]\n040A0000 00EE5240 7100CC3F\n040A0000 00EE5244 54000041\n040A0000 00EE5248 17FFDB4E\n040A0000 00EE524C D65F03C0\n\n",
+        "[14# glider (Press R)]": "[14# glider (Press R)]\n040A0000 00EE5240 7100CC3F\n040A0000 00EE5244 54000041\n040A0000 00EE5248 17FFDB4E\n040A0000 00EE524C D65F03C0\n\n",
+        "[15# explode nearby vehicles (Press R)]": "[15# explode nearby vehicles (Press R)]\n040A0000 00EE5240 7100CC3F\n040A0000 00EE5244 54000041\n040A0000 00EE5248 17FFDD26\n040A0000 00EE524C D65F03C0\n\n",
+        "[Cheat functions(off)]": "[Cheat functions(off)]\n040A0000 00EE5240 D10143FF\n040A0000 00EE5244 F9000BF7\n040A0000 00EE5248 A90257F6\n040A0000 00EE524C A9034FF4\n\n"
+    },
     "attribution": {
         "Grand Theft Auto III The Definitive Edition.txt": "By Hazerou"
     }
