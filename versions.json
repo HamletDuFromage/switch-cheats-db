@@ -347,6 +347,9 @@
         "latest": 131072,
         "title": "Pixel Family Fun"
     },
+    "010001001997D000": {
+        "latest": 0
+    },
     "0100011005D92000": {
         "0": "4941292ED92AC97C",
         "196608": "A3A998AF3252D110",
@@ -861,6 +864,11 @@
         "0": "AF271A9E5A338D2C",
         "latest": 0,
         "title": "Drunken Fist 2 : Zombie Hangover"
+    },
+    "010002C01A710000": {
+        "0": "3A1D1A0AE625FB92",
+        "latest": 0,
+        "title": "PUTRID SHOT ULTRA"
     },
     "010002D00632E000": {
         "0": "1278B520B42269D7",
@@ -4526,6 +4534,11 @@
     "01000F4015BF7000": {
         "latest": 0
     },
+    "01000F401A218000": {
+        "0": "BB595C3182F36BFB",
+        "latest": 0,
+        "title": "Animal Puzzle World"
+    },
     "01000F5003068000": {
         "0": "6F5409C43347998D",
         "131072": "28E1FFA40745518A",
@@ -5310,6 +5323,11 @@
     "0100121012BB7000": {
         "latest": 131072
     },
+    "010012101468C000": {
+        "0": "67C9CA1428222752",
+        "latest": 0,
+        "title": "Metroid Prime\u2122 Remastered"
+    },
     "010012101541C000": {
         "0": "AF69B4E25712FD89",
         "65536": "AC6399C1B5562395",
@@ -5543,6 +5561,11 @@
         "0": "BCAC5BD416806814",
         "latest": 0,
         "title": "Valis III"
+    },
+    "010012F017576000": {
+        "0": "F742686C2BBECB08",
+        "latest": 0,
+        "title": "Game Boy\u2122 Advance \u2013 Nintendo Switch Online"
     },
     "010012F017608000": {
         "0": "F370608945394A0A",
@@ -6590,6 +6613,11 @@
         "0": "6FE5CE6A41339CF1",
         "latest": 0,
         "title": "ACA NEOGEO THE KING OF FIGHTERS '97"
+    },
+    "010017100E98A000": {
+        "0": "DD743B97F3062C48",
+        "latest": 0,
+        "title": "Puzzle by Nikoli S Hashiwokakero"
     },
     "0100172012F88000": {
         "0": "A4AC39F2B9B2F447",
@@ -9836,6 +9864,11 @@
         "65536": "EF59916B51ACD114",
         "latest": 65536
     },
+    "010021501A5F0000": {
+        "0": "736AB6A47C4D8F92",
+        "latest": 0,
+        "title": "Youmandriver"
+    },
     "010021600E1BC000": {
         "0": "C0D2EF3EF3E42C4A",
         "latest": 0
@@ -9968,6 +10001,11 @@
         "65536": "1701D4115032687C",
         "latest": 65536,
         "title": "The Last Run: Dead Zombie Shooter"
+    },
+    "010021A019A44000": {
+        "0": "9733B3C506A492D4",
+        "latest": 0,
+        "title": "Bumblebee - Little Bee Adventure"
     },
     "010021B002EEA000": {
         "latest": 0
@@ -15985,6 +16023,11 @@
         "latest": 196608,
         "title": "Dyna Bomb 2"
     },
+    "010034301A6D4000": {
+        "0": "F7554A431ACE6FF0",
+        "latest": 0,
+        "title": "Hair Salon: Cool Stories"
+    },
     "010034400CB5E000": {
         "0": "59BC54783F171B47",
         "65536": "55AA8D007FAEC044",
@@ -16776,6 +16819,7 @@
         "title": "GRAND MOUNTAIN ADVENTURE WONDERLANDS"
     },
     "010036F0182C4000": {
+        "0": "5C247C869339C5C5",
         "65536": "ADDDB405A7FB3E32",
         "latest": 65536
     },
@@ -17513,6 +17557,10 @@
         "0": "D7DBCEB06AA29247",
         "latest": 0,
         "title": "OmoTomO"
+    },
+    "0100395011044000": {
+        "0": "C01F4985A772AB1E",
+        "latest": 0
     },
     "010039501405E000": {
         "65536": "222765E1BEB9EA04",
@@ -18856,6 +18904,7 @@
         "title": "The Elder Scrolls\u00ae: Blades"
     },
     "01003D70182C0000": {
+        "0": "62A5C0ECC27A08EA",
         "65536": "2A9B6C909067981F",
         "latest": 65536,
         "title": "Perseverance: Complete Edition"
@@ -19137,6 +19186,9 @@
         "65536": "22FEEC7396B238F6",
         "latest": 65536,
         "title": "Dark Deity"
+    },
+    "01003E701510F000": {
+        "latest": 0
     },
     "01003E7015974000": {
         "0": "7998658737175142",
@@ -25557,6 +25609,11 @@
         "latest": 196608,
         "title": "Red Square Escape"
     },
+    "010052B01A7D4000": {
+        "0": "7475DD54D89F3F8A",
+        "latest": 0,
+        "title": "Axis Football 2023"
+    },
     "010052C00ABFA000": {
         "0": "3C6A998F9823E24E",
         "131072": "3C24695E498F934E",
@@ -25713,6 +25770,11 @@
         "65536": "887EC8C9A74C314F",
         "latest": 131072,
         "title": "Koumajou Remilia: Scarlet Symphony"
+    },
+    "010053201A72A000": {
+        "0": "1A4729FC9EC444DD",
+        "latest": 0,
+        "title": "Detective Agency: Gray Tie Collector's Edition"
     },
     "0100534009FF2000": {
         "0": "E9CED633B113A141",
@@ -26317,6 +26379,10 @@
         "65536": "01C2471E86A59AD1",
         "latest": 65536,
         "title": "10 Second Ninja X"
+    },
+    "0100555017574000": {
+        "0": "F742686C2BBECB08",
+        "latest": 0
     },
     "010055600516C000": {
         "0": "2E5134A7901F5DCD",
@@ -27164,6 +27230,11 @@
         "65536": "1D2022D0D6EDCD29",
         "latest": 196608,
         "title": "Crysis 2 Remastered"
+    },
+    "0100582019890000": {
+        "0": "23E6E2BC5AD1BA25",
+        "latest": 0,
+        "title": "Falling Elevator - Hyper Casual Demolish Escape Survival Game"
     },
     "0100582019970000": {
         "0": "7164779313265562",
@@ -28475,6 +28546,10 @@
         "latest": 65536,
         "title": "ACA NEOGEO SAMURAI SHODOWN"
     },
+    "01005C9018886000": {
+        "65536": "FA3711C80F8E4C96",
+        "latest": 65536
+    },
     "01005C9018C58000": {
         "131072": "2CC89FAE402D88D0",
         "196608": "08E80BB051885B92",
@@ -28503,6 +28578,11 @@
         "latest": 65536,
         "title": "Persona 5 Royal"
     },
+    "01005CA019668000": {
+        "0": "C88E0B6CC5335618",
+        "latest": 0,
+        "title": "Alice in Wonderland - A jigsaw puzzle tale"
+    },
     "01005CB009E20000": {
         "0": "B0290B3F9030B848",
         "65536": "09B97C664CFB184A",
@@ -28517,6 +28597,7 @@
         "title": "Fall Gummies"
     },
     "01005CB0182D2000": {
+        "0": "1CE210ADD1BC9F99",
         "65536": "43F6688604013F39",
         "latest": 65536,
         "title": "Nadir: A Grimdark Deck Builder"
@@ -30227,6 +30308,11 @@
         "65536": "5CBE75E86B158DD5",
         "latest": 65536
     },
+    "010061501A2B6000": {
+        "0": "87B98184C694336A",
+        "latest": 0,
+        "title": "Rob Riches"
+    },
     "0100616009082000": {
         "0": "63F4F34BC2CDCD4A",
         "327680": "F4043308C2F74148",
@@ -31009,6 +31095,7 @@
         "title": "Kubi Adventures"
     },
     "010063F019CB2000": {
+        "0": "8E4CEFED037ED346",
         "65536": "F9A2C4F5643F30B7",
         "latest": 65536,
         "title": "Looking for Aliens"
@@ -31911,6 +31998,10 @@
         "131072": "17F266AF58CF19F0",
         "65536": "FC19E22E1E1D9E85",
         "latest": 131072
+    },
+    "010066F01A36A000": {
+        "65536": "4C10164DBFAA94A1",
+        "latest": 65536
     },
     "0100670014482000": {
         "0": "A929CAC9A1C0084E",
@@ -36588,6 +36679,11 @@
     "01007570160E3000": {
         "latest": 0
     },
+    "010075701A728000": {
+        "0": "C66C303770565C32",
+        "latest": 0,
+        "title": "My Lovely Pets Collector's Edition"
+    },
     "01007580124C0000": {
         "0": "85A9ECD25ABE0445",
         "131072": "EFB93F26850C3E43",
@@ -38975,6 +39071,7 @@
         "title": "Risk System"
     },
     "01007D9019626000": {
+        "0": "BDAA99C0D9EFC340",
         "65536": "927E1D691E98ADCD",
         "latest": 65536,
         "title": "WBSC eBASEBALL\u2122: POWER PROS"
@@ -42207,6 +42304,11 @@
         "latest": 65536,
         "title": "Atelier Arland series Deluxe Pack"
     },
+    "0100886014B94000": {
+        "0": "AF8E4288B4E1E6D9",
+        "latest": 0,
+        "title": "Shuttlecock-H"
+    },
     "010088700C5F8000": {
         "0": "AD09FCDC3A476C38",
         "196608": "B81E693D7591CAB6",
@@ -42839,8 +42941,9 @@
         "title": "RPG Maker MV Player"
     },
     "01008A90164B4000": {
+        "131072": "091A3C5F5B12AD43",
         "65536": "7DD6CA6584585948",
-        "latest": 65536
+        "latest": 131072
     },
     "01008AA017970000": {
         "0": "96095FB4A0C1B745",
@@ -43206,6 +43309,11 @@
         "0": "A43B835A2178357F",
         "latest": 0,
         "title": "Supaplex GO!"
+    },
+    "01008BD01A67E000": {
+        "0": "F049E6484208A879",
+        "latest": 0,
+        "title": "Red Bird Adventure: Classic Physics Puzzle"
     },
     "01008BE00E968000": {
         "0": "B913FF9F5961F043",
@@ -43588,6 +43696,10 @@
         "65536": "7754703E613D6135",
         "latest": 65536,
         "title": "VAZIAL SAGA XX"
+    },
+    "01008CD0172D6000": {
+        "65536": "7F4513630450F385",
+        "latest": 65536
     },
     "01008CE005F12000": {
         "latest": 0
@@ -45230,6 +45342,11 @@
         "latest": 196608,
         "title": "Star Hunter DX"
     },
+    "0100917019FD6000": {
+        "0": "3E74932C7CDD934C",
+        "latest": 0,
+        "title": "nPaint"
+    },
     "0100918014678000": {
         "131072": "038612B647C90FB8",
         "latest": 131072
@@ -45305,6 +45422,10 @@
         "0": "B8DB339961B112D3",
         "latest": 0,
         "title": "Magic Card Tricks"
+    },
+    "010091D01A57E000": {
+        "0": "B98363DF3982B14F",
+        "latest": 0
     },
     "010091E00D488000": {
         "0": "2733D7CE868F73C5",
@@ -52367,6 +52488,7 @@
         "title": "Bunny Park"
     },
     "0100A8801A19E000": {
+        "0": "E06C27BC6281B3D5",
         "65536": "DC44279BBFA9EAF6",
         "latest": 65536,
         "title": "Arcade Archives MAGICAL SPEED"
@@ -54744,6 +54866,11 @@
         "latest": 458752,
         "title": "MindSeize"
     },
+    "0100B05019898000": {
+        "0": "71549F5D6DA4FA89",
+        "latest": 0,
+        "title": "Seventh Lair"
+    },
     "0100B0600ABE6000": {
         "0": "B96F7725B2360845",
         "131072": "E3B9464C323D974F",
@@ -55533,6 +55660,11 @@
         "0": "65B906B69FDA8F44",
         "latest": 0,
         "title": "Cape\u2019s Escape Game 5th Room"
+    },
+    "0100B2A019B0C000": {
+        "0": "8475984E191B773C",
+        "latest": 0,
+        "title": "Legion of Doom"
     },
     "0100B2B00BDEE000": {
         "0": "655D8454EDBB388F",
@@ -57354,6 +57486,11 @@
         "65536": "80FB5C02F0E4292A",
         "latest": 65536,
         "title": "ACA NEOGEO AERO FIGHTERS 3"
+    },
+    "0100B910147BC000": {
+        "0": "85ACAD9429E604E9",
+        "latest": 0,
+        "title": "Prison Tycoon: Under New Management"
     },
     "0100B91014DE8000": {
         "0": "221BBD83FE6936DE",
@@ -59919,8 +60056,9 @@
     "0100C0E014A4E000": {
         "0": "430DEA1558492231",
         "131072": "68DAD0730567D8BC",
+        "196608": "A4AAE5A51D2E656E",
         "65536": "D1F84C8C96042732",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Bear's Restaurant"
     },
     "0100C0F0020E8000": {
@@ -60366,6 +60504,9 @@
         "589824": "AD98AAA143F3A812",
         "latest": 589824,
         "title": "Splatoon\u2122 3"
+    },
+    "0100C2500FC21000": {
+        "latest": 0
     },
     "0100C250115DC000": {
         "0": "9B6FCA808B3F1748",
@@ -61563,6 +61704,11 @@
     "0100C6200D968000": {
         "0": "8F8246F2C12E7557",
         "latest": 0
+    },
+    "0100C62011050000": {
+        "0": "940C0091FFCD09C2",
+        "latest": 0,
+        "title": "Game Boy\u2122 \u2013 Nintendo Switch Online"
     },
     "0100C620180C4000": {
         "0": "B28F8276A9C97550",
@@ -65100,6 +65246,10 @@
         "latest": 131072,
         "title": "Kofi Quest"
     },
+    "0100D16019902000": {
+        "0": "FDFA9A52DFA8D915",
+        "latest": 0
+    },
     "0100D170038EA000": {
         "0": "70E6912BEBF57A0A",
         "latest": 0,
@@ -65504,6 +65654,11 @@
         "131072": "AC413CB004FE9940",
         "latest": 131072,
         "title": "INSIDE"
+    },
+    "0100D2D012930000": {
+        "0": "D1D53EE69D3DEF4E",
+        "latest": 0,
+        "title": "Ragdoll Rage: Heroes Arena"
     },
     "0100D2D017628000": {
         "0": "6236E972ADE0C3BA",
@@ -70547,6 +70702,11 @@
         "latest": 0,
         "title": "Silent Sector"
     },
+    "0100E2E019358000": {
+        "0": "06C9C526D66B8932",
+        "latest": 0,
+        "title": "Deep Space:Action Fire Sci-Fi Game 2023 Shooter Strike Simulator Alien Death Ultimate Games"
+    },
     "0100E2F011DE8000": {
         "0": "6E2A9F057D753B43",
         "latest": 0,
@@ -70556,8 +70716,9 @@
         "0": "832D9E420C2A5547",
         "131072": "9E288E554A029A41",
         "196608": "A89B1A46C28D1D48",
+        "262144": "8B8BA30285E70949",
         "65536": "AC6FC4429263DB45",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Colossus Down"
     },
     "0100E2F014F46000": {
@@ -70940,6 +71101,10 @@
         "0": "794F6058F954AB49",
         "latest": 0,
         "title": "Spooky's Jump Scare Mansion: HD Renovation"
+    },
+    "0100E44019E4C000": {
+        "0": "C5FEC6AAACB0AFD6",
+        "latest": 0
     },
     "0100E45004212000": {
         "0": "E35BDEE8F6959A57",
@@ -72141,6 +72306,11 @@
         "65536": "418EF6D8FC2D841B",
         "latest": 131072
     },
+    "0100E7D01AA24000": {
+        "0": "A6E1F83DB2EDC3C0",
+        "latest": 0,
+        "title": "Big Adventure: Trip To Europe"
+    },
     "0100E7E00C19C000": {
         "0": "77306CA32817A247",
         "latest": 0
@@ -73311,6 +73481,10 @@
         "latest": 0,
         "title": "Cupcake Match"
     },
+    "0100EB501A67C000": {
+        "0": "FD2D743C616DE7F1",
+        "latest": 0
+    },
     "0100EB6005E90000": {
         "0": "D99CEAC8C3287C4F",
         "65536": "260D86BC6C4A9545",
@@ -74449,6 +74623,11 @@
         "65536": "E3969DF69EE5DA5A",
         "latest": 196608,
         "title": "Scrap Riders"
+    },
+    "0100EEA019660000": {
+        "0": "ABEBC08DC0A30EBA",
+        "latest": 0,
+        "title": "Go! Go! PogoGirl"
     },
     "0100EEB005ACC000": {
         "0": "23F363A562C31D14",
@@ -76319,6 +76498,11 @@
         "0": "B9DC04E6638D3971",
         "latest": 0
     },
+    "0100F4401A754000": {
+        "0": "DADD8D79DA796E91",
+        "latest": 0,
+        "title": "Daily Dadish"
+    },
     "0100F45006A00000": {
         "0": "072E390120F86C4B",
         "65536": "072E390120F86C4B",
@@ -77056,6 +77240,11 @@
     },
     "0100F6C00DA57000": {
         "latest": 0
+    },
+    "0100F6C0197CE000": {
+        "0": "C6FBB72AC2C50CF7",
+        "latest": 0,
+        "title": "Japanese Escape Games The Light and Mirror Room"
     },
     "0100F6D00B8F2000": {
         "0": "033E8B565E6447C4",
