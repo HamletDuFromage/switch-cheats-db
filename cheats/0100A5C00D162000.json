@@ -35,7 +35,17 @@
         "[Inf. EX]": "[Inf. EX]\n04000000 00431DEC 1E27D000\n\n",
         "[Inf. Special]": "[Inf. Special]\n04000000 00431C60 BD409400\n\n",
         "[Inf. Coins]": "[Inf. Coins]\n04000000 00419974 52800795\n04000000 00419C94 52800795\n04000000 00419D00 52800795\n\n",
-        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n"
+        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n",
+        "[60 FPS (Default)]": "[60 FPS (Default)]\n580F0000 03AACC78 \n780F0000 00005F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 03AACC78 \n780F0000 00005F14 \n640F0000 00000000 00000002\n\n",
+        "[360p Overall Resolution]": "[360p Overall Resolution]\n580F0000 03AB8E68 \n780F0000 00000060 \n680F0000 00000168 00000280 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[480p Overall Resolution]": "[480p Overall Resolution]\n580F0000 03AB8E68 \n780F0000 00000060 \n680F0000 000001E0 00000356 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[540p Overall Resolution]": "[540p Overall Resolution]\n580F0000 03AB8E68 \n780F0000 00000060 \n680F0000 0000021C 000003C0 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[612p Overall Resolution]": "[612p Overall Resolution]\n580F0000 03AB8E68 \n780F0000 00000060 \n680F0000 00000264 00000440 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[720p Overall Resolution (Handheld's Default)]": "[720p Overall Resolution (Handheld's Default)]\n580F0000 03AB8E68 \n780F0000 00000060 \n680F0000 000002D0 00000500 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[810p Overall Resolution]": "[810p Overall Resolution]\n580F0000 03AB8E68 \n780F0000 00000060 \n680F0000 0000032A 000005A0 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[900p Overall Resolution]": "[900p Overall Resolution]\n580F0000 03AB8E68 \n780F0000 00000060 \n680F0000 00000384 00000640 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n",
+        "[1080p Overall Resolution (Docked's Default)]": "[1080p Overall Resolution (Docked's Default)]\n580F0000 03AB8E68 \n780F0000 00000060 \n680F0000 00000438 00000780 \n780F0000 00000008 \n610F0000 00000000 00000001\n\n"
     },
     "E5F6265D8D486648": {
         "[No Damage On]": "[No Damage On]\n04000000 004AD780 D65F03C0\n\n",
@@ -63,6 +73,6 @@
     },
     "attribution": {
         "cuphead ver 1.2.5 by xtatu.txt": "",
-        "Cuphead.txt": "By Hazerou"
+        "Cuphead.txt": "By Hazerou, sds\n\nIncluded in the text file:\nOverall Resolution Cheats from [360p] up to [1080p]\n|Need OC|"
     }
 }

@@ -3,7 +3,11 @@
         "[Default 60 FPS]": "[Default 60 FPS]\n580F0000 08B780D8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
         "[30 FPS]": "[30 FPS]\n580F0000 08B780D8\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
+    "646761F643AFEBB3": {
+        "[60 FPS (Default)]": "[60 FPS (Default)]\n580F0000 08B950A8 \n780F1000 0000017C \n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 08B950A8 \n780F1000 0000017C \n640F0000 00000000 00000002\n\n"
+    },
     "attribution": {
-        "Metroid Dread.txt": "By @Hazerou\nNo 60 FPS during Cutscenes"
+        "Metroid Dread.txt": "By Hazerou, sds\n\nNo 60 FPS during Cutscenes.\n|Need OC|\n"
     }
 }
