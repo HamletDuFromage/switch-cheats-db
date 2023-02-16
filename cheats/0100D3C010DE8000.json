@@ -12,9 +12,14 @@
         "[10# item x 99 when selling]": "[10# item x 99 when selling]\n040A0000 0053C314 52800C68\n\n",
         "[11# Synthesis Inf Use Septium]": "[11# Synthesis Inf Use Septium]\n040A0000 00537B58 9E6703E0\n040A0000 00537B94 4B1F0169\n040A0000 00537BB8 4B1F0169\n040A0000 00537BD8 4B1F0169\n\n",
         "[16# 999999 Mira]": "[16# 999999 Mira]\n040A0000 01A10498 000F423F\n\n",
-        "[5 bonding point For Event]": "[5 bonding point For Event]\n010F0000 013BB14C 00000005\n\n"
+        "[5 bonding point For Event]": "[5 bonding point For Event]\n010F0000 013BB14C 00000005\n\n",
+        "[60 FPS]": "[60 FPS]\n04000000 00488D78 D2800000\n\n"
+    },
+    "59159483CF88330F": {
+        "[60 FPS]": "[60 FPS]\n04000000 00488D68 D2800000\n\n"
     },
     "attribution": {
-        "The Legend of Heroes Trails of Cold Steel IV ver 1.0.2 by Patjenova and mamatkhaled14.txt": ""
+        "The Legend of Heroes Trails of Cold Steel IV ver 1.0.2 by Patjenova and mamatkhaled14.txt": "",
+        "The Legend of Heroes: Trails of Cold Steel IV.txt": "By systemdev\nConverted from .ips patch by systemdev\nhttps://gbatemp.net/threads/the-legend-of-heroes-trails-of-cold-steel-iv-uncapped-fps-mod-patch-cheat.626274/#post-10075482\n"
     }
 }
