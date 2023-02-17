@@ -1,0 +1,16 @@
+{
+    "8072ABFF51FA1156": {
+        "[HP Inf]": "[HP Inf]\n04000000 0196E390 D503201F\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 0196E390 1E2D3800\n\n",
+        "[Ammo Inf]": "[Ammo Inf]\n04000000 0188A7A8 51000114\n\n",
+        "[Ammo Inf Off]": "[Ammo Inf Off]\n04000000 0188A7A8 51000514\n\n",
+        "[Coins and Cores No Decrease]": "[Coins and Cores No Decrease]\n04000000 0342E1EC 94011745\n04000000 0342E2C8 9401170E\n04000000 03473F00 7100013F\n04000000 03473F04 54000043\n04000000 03473F08 52800009\n04000000 03473F0C 0B080128\n04000000 03473F10 D65F03C0\n\n",
+        "[Coins No Decrease Off]": "[Coins No Decrease Off]\n04000000 0342E1EC 0B080128\n\n",
+        "[Cores No Decrease Off]": "[Cores No Decrease Off]\n04000000 0342E2C8 0B080128\n\n",
+        "[Coins x4]": "[Coins x4]\n04000000 0342DF84 0B010908\n04000000 0342DF8C 0B080928\n\n",
+        "[Coins x4 Off]": "[Coins x4 Off]\n04000000 0342DF84 0B010108\n04000000 0342DF8C 0B080128\n\n",
+        "[Cores x4]": "[Cores x4]\n04000000 0342DFA4 0B090908\n\n",
+        "[Cores x4 Off]": "[Cores x4 Off]\n04000000 0342DFA4 0B080128\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
+}

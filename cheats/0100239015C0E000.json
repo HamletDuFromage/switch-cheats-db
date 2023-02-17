@@ -1,0 +1,28 @@
+{
+    "A0A74652BC501318": {
+        "[*Moonjump Jericoss]": "[*Moonjump Jericoss]\n580F0000 06E9B570\n580F1000 00000040\n580F1000 00000370\n580F1000 00000010\n580F1000 00000060\n780F0000 00000044\n640F0000 00000000 40A00000\n\n",
+        "[*HP 888 /MP 888/ SP 888 Jericoss]": "[*HP 888 /MP 888/ SP 888 Jericoss]\n580F0000 06C19F40\n580F1000 00000070\n580F1000 00019778\n580F1000 00000010\n580F1000 00000098\n580F1000 00000060\n780F0000 00000040\n640F0000 00000000 00000378\n780F0000 00000004\n640F0000 00000000 445E0000\n780F0000 00000004\n640F0000 00000000 445E0000\n\n",
+        "[HP Inf]": "[HP Inf]\n04000000 025E7C88 51000101\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 025E7C88 4B1C0101\n\n"
+    },
+    "ED45613F75A24671": {
+        "[HP Inf]": "[HP Inf]\n04000000 025E7C88 51000101\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 025E7C88 4B1C0101\n\n",
+        "[MP Inf]": "[MP Inf]\n04000000 025D7E64 1E2703E0\n\n",
+        "[MP Inf Off]": "[MP Inf Off]\n04000000 025D7E64 5E21D800\n\n",
+        "[SP Inf]": "[SP Inf]\n04000000 025E7608 1E2703E0\n04000000 025E7768 1E2703E0\n\n",
+        "[SP Inf Off]": "[SP Inf Off]\n04000000 025E7608 5E21D800\n04000000 025E7768 5E21D800\n\n",
+        "[Coins x4]": "[Coins x4]\n04000000 042814DC 0B140929\n04000000 04487F70 0B140908\n\n",
+        "[Coins x4 Off]": "[Coins x4 Off]\n04000000 042814DC 0B140129\n04000000 04487F70 0B140108\n\n",
+        "[Coins No Decrease]": "[Coins No Decrease]\n04000000 04281794 71000129\n\n",
+        "[Coins No Decrease Off]": "[Coins No Decrease Off]\n04000000 04281794 6B140129\n\n",
+        "[Items Inf]": "[Items Inf]\n04000000 02F4FF04 51000002\n\n",
+        "[Items Inf Off]": "[Items Inf Off]\n04000000 02F4FF04 4B170002\n\n",
+        "[Skill Points Inf]": "[Skill Points Inf]\n04000000 04287BF4 51000108\n\n",
+        "[Skill Points Inf Off]": "[Skill Points Inf Off]\n04000000 04287BF4 51000508\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    },
+    "attribution": {
+        "Elderand ver 1.0.0 by jericos.txt": ""
+    }
+}
