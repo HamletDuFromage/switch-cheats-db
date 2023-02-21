@@ -91,7 +91,11 @@
         "[#32. LV limited 255 \u7b49\u7d1a\u4e0a\u9650]": "[#32. LV limited 255 \u7b49\u7d1a\u4e0a\u9650]\n040E0000 0190DF80 437F0000\n040E0000 0190DF7C D65F03C0\n040E0000 0190DF78 BD000160\n040E0000 0190DF74 1C000060\n040E0000 00D87FA0 942E17F5\n\n",
         "[#33. Can Hire all Battalions \u53ef\u50f1\u7528\u6240\u6709\u9a0e\u58eb\u5718]": "[#33. Can Hire all Battalions \u53ef\u50f1\u7528\u6240\u6709\u9a0e\u58eb\u5718]\n040E0000 002E6C38 14000027\n\n"
     },
+    "F62A7D41CAAC7D6D": {
+        "[30 FPS]": "[30 FPS]\n580F0000 02541DC8 \n580F1000 00002AB8 \n580F1000 00000018 \n580F1000 00000008 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[60 FPS (Default)]": "[60 FPS (Default)]\n580F0000 02541DC8 \n580F1000 00002AB8 \n580F1000 00000018 \n580F1000 00000008 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n"
+    },
     "attribution": {
-        "Fire Emblem Warriors Three Hopes.txt": "By JotaGBA"
+        "Fire Emblem Warriors Three Hopes.txt": "By JotaGBA\nUpdated by sds\n"
     }
 }
