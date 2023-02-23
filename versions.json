@@ -1340,6 +1340,10 @@
         "latest": 0,
         "title": "Shadows"
     },
+    "010004501A724000": {
+        "0": "B84CEA214BD8E8EC",
+        "latest": 0
+    },
     "0100046011AE6000": {
         "0": "16D2AEB25B5AFD53",
         "65536": "31A6B48DB304530E",
@@ -1900,6 +1904,11 @@
         "65536": "13D55181826E656D",
         "latest": 65536,
         "title": "Pop the Bubbles"
+    },
+    "0100068018ECC000": {
+        "0": "CC9A3EA0F207AEFA",
+        "latest": 0,
+        "title": "Remorse: The List"
     },
     "0100068019E16000": {
         "0": "4B4BE1C2EE8F6E79",
@@ -2932,6 +2941,10 @@
         "65536": "0357BBEF141DC478",
         "latest": 65536,
         "title": "Catmaze"
+    },
+    "01000A201A9F2000": {
+        "0": "4600836CDAE85546",
+        "latest": 0
     },
     "01000A3017CE6000": {
         "0": "3E80502048A935D3",
@@ -7897,6 +7910,10 @@
         "0": "73393DA27FCF7344",
         "latest": 0
     },
+    "01001AE01A770000": {
+        "0": "74BEFE480701E2EA",
+        "latest": 0
+    },
     "01001AF008BDA000": {
         "0": "1C4828CF9A930BF1",
         "131072": "CBCB0CB81376BA70",
@@ -12070,6 +12087,10 @@
         "65536": "9B7B29C8E3586A0F",
         "latest": 65536
     },
+    "010027D01A41A000": {
+        "0": "7DF8643484F50CCB",
+        "latest": 0
+    },
     "010027E00D940000": {
         "0": "1C5F3150BEB9EB5F",
         "latest": 0
@@ -12816,6 +12837,10 @@
         "latest": 0,
         "title": "Letterbox by POWGI"
     },
+    "01002A3019B5C000": {
+        "0": "8F34AF4DACA5A980",
+        "latest": 0
+    },
     "01002A501869E000": {
         "131072": "061DC8C5C7D614B9",
         "196608": "BFA92380757EF97D",
@@ -12956,6 +12981,11 @@
         "0": "7D7C594B9E721011",
         "latest": 0,
         "title": "Fibbage XL"
+    },
+    "01002AC016752000": {
+        "0": "B6ED850E8DA8229E",
+        "latest": 0,
+        "title": "Tyrant's Blessing"
     },
     "01002AC017848000": {
         "0": "736168C6D284DFE8",
@@ -15028,6 +15058,10 @@
         "0": "2270CCCDBDB3BE41",
         "latest": 0
     },
+    "010031001638A000": {
+        "0": "1BD37D2956A59716",
+        "latest": 0
+    },
     "0100310017088000": {
         "0": "038BC26DD9D43210",
         "131072": "F742AE2BB444E8E4",
@@ -15634,6 +15668,11 @@
         "65536": "9227DDF8AF4217D3",
         "latest": 131072,
         "title": "Om Nom: Run"
+    },
+    "010032D019D4C000": {
+        "0": "EC2D7A32216855D3",
+        "latest": 0,
+        "title": "Sakura Magical Girls"
     },
     "010032E00E6E2000": {
         "0": "46D86B5382B4A94E",
@@ -17188,6 +17227,11 @@
         "0": "933E8AB2047D8841",
         "65536": "2D28BF171907ED49",
         "latest": 65536
+    },
+    "0100381018AB0000": {
+        "0": "AAF2C60EF9EB3BBD",
+        "latest": 0,
+        "title": "Remains"
     },
     "0100381019AC6000": {
         "0": "FF3F36E06630A6F6",
@@ -21000,6 +21044,11 @@
         "latest": 65536,
         "title": "BALAN WONDERWORLD"
     },
+    "0100438014C2C000": {
+        "65536": "71B37A0E8606CBCF",
+        "latest": 65536,
+        "title": "Dwerve"
+    },
     "0100438018284000": {
         "0": "1A03D725A024CE79",
         "latest": 0,
@@ -21421,6 +21470,10 @@
         "0": "EF59916B51ACD114",
         "65536": "EF59916B51ACD114",
         "latest": 65536
+    },
+    "010044C01A862000": {
+        "0": "EDFBECDBA5FDAB9E",
+        "latest": 0
     },
     "010044D00A770000": {
         "0": "0EB313A28A3AE344",
@@ -22127,6 +22180,10 @@
     },
     "010046C00E260000": {
         "0": "75883C3A0D63524B",
+        "latest": 0
+    },
+    "010046C01A75A000": {
+        "0": "33B5EE8E1AF70E44",
         "latest": 0
     },
     "010046D013EB6000": {
@@ -22932,6 +22989,7 @@
         "title": "Animal Pals Bubble Pop"
     },
     "0100495019662000": {
+        "0": "27307B00BF8BE09D",
         "65536": "D0EF4C28A0D1E54E",
         "latest": 65536,
         "title": "Lootbox Lyfe+"
@@ -23090,6 +23148,11 @@
     "010049D0133EA000": {
         "65536": "346589EBFBAA8A49",
         "latest": 65536
+    },
+    "010049D0198E4000": {
+        "0": "858F545DBE19B621",
+        "latest": 0,
+        "title": "Horror Tale 1: Kidnapper"
     },
     "010049E003748000": {
         "0": "A81BC331CA0682BD",
@@ -27433,7 +27496,7 @@
         "latest": 262144
     },
     "0100583014535000": {
-        "latest": 0
+        "latest": 65536
     },
     "010058401223E000": {
         "0": "88B936E0DB287946",
@@ -28490,6 +28553,10 @@
         "latest": 262144
     },
     "01005BA0143BF000": {
+        "latest": 0
+    },
+    "01005BA01A718000": {
+        "0": "94E85063CF9119E5",
         "latest": 0
     },
     "01005BB00FA92000": {
@@ -33599,6 +33666,11 @@
         "latest": 196608,
         "title": "Ultimate Ski Jumping 2020"
     },
+    "01006B601380E000": {
+        "0": "FA24EA3C3A512C07",
+        "latest": 0,
+        "title": "Kirby\u2019s Return to Dream Land\u2122 Deluxe"
+    },
     "01006B6017BBE000": {
         "0": "3DE71C0ECEBAF449",
         "latest": 0
@@ -36362,6 +36434,7 @@
         "title": "Bloody Rally Show"
     },
     "010073F0197DA000": {
+        "0": "3A888505156300A4",
         "65536": "ABB7BFBFD88E76CD",
         "latest": 65536,
         "title": "Redemption Reapers"
@@ -37665,6 +37738,10 @@
         "0": "74235854E0707514",
         "latest": 0
     },
+    "010077901A7B4000": {
+        "0": "7EA97508783E9A80",
+        "latest": 0
+    },
     "010077A00CB58000": {
         "0": "5977D3758C942D4C",
         "131072": "1ABF0EB2E1E6FA46",
@@ -37999,6 +38076,10 @@
         "196608": "495894FFAC81F746",
         "65536": "40C2BB812F731D7F",
         "latest": 196608
+    },
+    "010078D01A346000": {
+        "0": "76612C961B755B39",
+        "latest": 0
     },
     "010078E011FC2000": {
         "0": "CDC0578B35BF7A4F",
@@ -39647,10 +39728,16 @@
         "latest": 0,
         "title": "Golf Zero"
     },
+    "01007EA015520000": {
+        "0": "002190DECA0E9A4B",
+        "latest": 0,
+        "title": "Digimon World: Next Order"
+    },
     "01007EA015521000": {
         "latest": 0
     },
     "01007EA019CFC000": {
+        "0": "99DC02BE4F7902DA",
         "65536": "14C82D85220C5362",
         "latest": 65536,
         "title": "Planet Cube: Edge"
@@ -43058,6 +43145,10 @@
         "latest": 0,
         "title": "Perfect Angle"
     },
+    "010089F015FC4000": {
+        "0": "7FC3BDB3C7CB001B",
+        "latest": 0
+    },
     "01008A000A404000": {
         "0": "9D2088B918D82C43",
         "65536": "C7209AEDA44B0447",
@@ -45364,6 +45455,10 @@
         "latest": 65536,
         "title": "Match Three Pirates II"
     },
+    "010090C019C90000": {
+        "0": "E5F14FF239AEAA82",
+        "latest": 0
+    },
     "010090D016ADE000": {
         "0": "75FAC4FD81D9F8DC",
         "65536": "EEEDE68CDDDBF3F9",
@@ -45887,6 +45982,11 @@
         "196608": "E82E82D966509CB3",
         "65536": "CDBF959ACEB39B34",
         "latest": 196608
+    },
+    "0100927019330000": {
+        "0": "ADCD5C89851CC897",
+        "latest": 0,
+        "title": "Animal Lover"
     },
     "0100928005094000": {
         "0": "89F59A831C9ED344",
@@ -48690,6 +48790,7 @@
         "title": "OPUS: Echo of Starsong - Full Bloom Edition"
     },
     "01009B6019CF0000": {
+        "0": "B497074353F60932",
         "65536": "1DA073B9F4D608F1",
         "latest": 65536,
         "title": "Dyadic"
@@ -51963,6 +52064,11 @@
         "latest": 0,
         "title": "SENTRY"
     },
+    "0100A5D01AA2C000": {
+        "0": "8E0FE26524559A16",
+        "latest": 0,
+        "title": "Hike Isle"
+    },
     "0100A5E009822000": {
         "0": "218508D723D78A13",
         "latest": 0,
@@ -52042,6 +52148,10 @@
     },
     "0100A63015172000": {
         "0": "5FA4C62DEA6CA744",
+        "latest": 0
+    },
+    "0100A6301788E000": {
+        "0": "99F7A60250EBDD42",
         "latest": 0
     },
     "0100A6400F29A000": {
@@ -53602,6 +53712,11 @@
         "0": "39133A6DC8153E7F",
         "latest": 0,
         "title": "Airport Flight Administrator Simulator & Air Traffic-Sky Airplane Sim Plane Games"
+    },
+    "0100AB1019672000": {
+        "0": "0F14DA05D397A5A9",
+        "latest": 0,
+        "title": "Snake Core"
     },
     "0100AB2010B4C000": {
         "0": "0576F78AC91FEF43",
@@ -56661,6 +56776,10 @@
         "latest": 0,
         "title": "Soccer Pinball"
     },
+    "0100B50018F78000": {
+        "0": "61193624F83658D3",
+        "latest": 0
+    },
     "0100B51012DE2000": {
         "0": "2A4EB64C36C2FD4A",
         "latest": 0,
@@ -56704,6 +56823,11 @@
         "0": "6EDDCC5861639948",
         "latest": 0,
         "title": "Witchcrafty"
+    },
+    "0100B5301A180000": {
+        "0": "5E19825B7857DDA8",
+        "latest": 0,
+        "title": "Grim Guardians: Demon Purge"
     },
     "0100B5401217C000": {
         "0": "A42278DA586E1945",
@@ -57025,6 +57149,10 @@
         "65536": "E2053E59B332BD8E",
         "latest": 196608,
         "title": "Shovel Knight Dig"
+    },
+    "0100B6201A2AA000": {
+        "0": "25C5C2D26B6CDA49",
+        "latest": 0
     },
     "0100B630130DA000": {
         "131072": "2BD935653E0A2141",
@@ -58677,6 +58805,11 @@
         "65536": "39373C4484E2A343",
         "latest": 196608,
         "title": "The Pyraplex"
+    },
+    "0100BBD01A18A000": {
+        "0": "F298BA23ED1DC44C",
+        "latest": 0,
+        "title": "Midnight is Lost"
     },
     "0100BBE015384000": {
         "0": "2C7B4384F33F344C",
@@ -61203,6 +61336,11 @@
         "latest": 65536,
         "title": "EXTREME BIKE X"
     },
+    "0100C38019CE4000": {
+        "0": "21B6B4AB7EA8C0D0",
+        "latest": 0,
+        "title": "GRISAIA PHANTOM TRIGGER 08"
+    },
     "0100C39009EEE000": {
         "latest": 0
     },
@@ -62318,6 +62456,7 @@
         "latest": 0
     },
     "0100C6C010AE4000": {
+        "0": "598DB82B41744B4C",
         "131072": "FC8AE7252B1E5F40",
         "65536": "FC8AE7252B1E5F40",
         "latest": 131072,
@@ -65839,6 +65978,11 @@
         "0": "0C497E05BC58ACB1",
         "latest": 0,
         "title": "Professor Lupo: Ocean"
+    },
+    "0100D2000C956000": {
+        "0": "9677D542A655C608",
+        "latest": 0,
+        "title": "Intruders: Hide and Seek"
     },
     "0100D20013DF0000": {
         "131072": "A67F39553DCE4F0F",
@@ -71908,6 +72052,11 @@
         "latest": 65536,
         "title": "Yeah\uff01Fighting Girl"
     },
+    "0100E5501A736000": {
+        "0": "197D573C63157860",
+        "latest": 0,
+        "title": "Ink & Paper: DoodleCut"
+    },
     "0100E5600D446000": {
         "0": "B674EAE1DE612966",
         "131072": "C32B29CB5FBA96D9",
@@ -73518,6 +73667,11 @@
         "0": "92F14F5A2C9CD3E9",
         "latest": 0,
         "title": "Pixel Game Maker Series Puzzle Pedestrians"
+    },
+    "0100EA20194E6000": {
+        "0": "1B71553E770069D3",
+        "latest": 0,
+        "title": "The Crimson Flower that Divides: Lunar Coupling"
     },
     "0100EA300DE6E000": {
         "0": "D72018B0D9C8554A",
@@ -76270,9 +76424,13 @@
         "title": "MachiKnights -Blood bagos-"
     },
     "0100F24014280000": {
+        "0": "60305523B3571988",
         "65536": "D78CB38060C34B48",
         "latest": 65536,
         "title": "Chef Life:  A Restaurant Simulator"
+    },
+    "0100F24014281000": {
+        "latest": 0
     },
     "0100F2401549E000": {
         "0": "9E3F91BA6159F744",
@@ -76719,7 +76877,7 @@
         "title": "Food Truck Tycoon"
     },
     "0100F3900D0F1000": {
-        "latest": 327680
+        "latest": 0
     },
     "0100F3A0095A6000": {
         "0": "00135FCA4614A949",
@@ -77313,7 +77471,7 @@
         "title": "hexceed"
     },
     "0100F59014E8D000": {
-        "latest": 0
+        "latest": 458752
     },
     "0100F59017AFA000": {
         "0": "BB986A1175275B5C",
@@ -79863,6 +80021,11 @@
         "0": "F8CE7238A061E3A6",
         "latest": 0,
         "title": "Backworlds"
+    },
+    "0100FEA01A7EC000": {
+        "0": "D9C00768A5BA001A",
+        "latest": 0,
+        "title": "Neodori Forever"
     },
     "0100FEC014F9E000": {
         "0": "C9911833C0A32014",
