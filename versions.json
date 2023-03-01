@@ -254,6 +254,11 @@
     "010000C010E77000": {
         "latest": 65536
     },
+    "010000C013C42000": {
+        "0": "16682B2DBFB74A3F",
+        "latest": 0,
+        "title": "Ken Follett's The Pillars of the Earth"
+    },
     "010000D00F81A000": {
         "0": "57EC5A34456AD947",
         "latest": 0,
@@ -969,8 +974,9 @@
         "0": "587F5E0024835C69",
         "131072": "38EBE1B815A94C67",
         "196608": "B60BEA8BC1003130",
+        "262144": "049BD9E100FC3525",
         "65536": "B81BB3E0BD1D6B34",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Touhou Gouyoku Ibun\u3000\uff5e Sunken Fossil World."
     },
     "01000320000CC000": {
@@ -1078,7 +1084,8 @@
     },
     "0100038019968000": {
         "65536": "B695DFF1AB1E8B46",
-        "latest": 65536
+        "latest": 65536,
+        "title": "SUBWAY MIDNIGHT"
     },
     "0100039002CCC000": {
         "0": "CA5156D01627E847",
@@ -2089,7 +2096,8 @@
     },
     "0100071019B8A000": {
         "0": "D62CE86CD9754AE7",
-        "latest": 0,
+        "65536": "D62CE86CD9754AE7",
+        "latest": 65536,
         "title": "OSHIIRO"
     },
     "010007200AC0E000": {
@@ -2175,6 +2183,11 @@
         "0": "FAAFCB3BA545BA03",
         "latest": 0,
         "title": "COSPLAY LOVE! Enchanted princess"
+    },
+    "010007601AB74000": {
+        "0": "14BD596D1A6E135A",
+        "latest": 0,
+        "title": "Chess Openings and Book Moves"
     },
     "010007700CFA2000": {
         "0": "35DD5520AD82124E",
@@ -2485,6 +2498,11 @@
         "65536": "A1A71A2DFD89D44D",
         "latest": 65536,
         "title": "Super Destronaut DX"
+    },
+    "0100088019A46000": {
+        "0": "FEB984B9163FE39E",
+        "latest": 0,
+        "title": "Aery - Calm Mind 3"
     },
     "010008900705C000": {
         "0": "93A84D948C179001",
@@ -4102,6 +4120,11 @@
         "latest": 0,
         "title": "Critical Zone"
     },
+    "01000DD01A47C000": {
+        "0": "DD3C979D0D8E778C",
+        "latest": 0,
+        "title": "Choice of Life: Middle Ages 2"
+    },
     "01000DE0125B8000": {
         "0": "FD81E63527C6AE46",
         "131072": "F2C89D763597C342",
@@ -5647,6 +5670,11 @@
         "latest": 65536,
         "title": "Arcade Archives DRAGON BUSTER"
     },
+    "010013001AB9A000": {
+        "0": "E6ED459FB27E9CC3",
+        "latest": 0,
+        "title": "Rider Among Dead - Mad Zombie Killer Machine Survival"
+    },
     "0100132013678000": {
         "0": "8427879887704140",
         "131072": "098C34185EDF4946",
@@ -6031,6 +6059,11 @@
     },
     "010014D01216F000": {
         "latest": 65536
+    },
+    "010014D01A9D8000": {
+        "0": "C7432CB47E3F92D7",
+        "latest": 0,
+        "title": "Live Factory"
     },
     "010014E004FA8000": {
         "0": "0BA3875088A42F20",
@@ -9228,8 +9261,12 @@
         "title": "Outbreak: Contagious Memories"
     },
     "01001EF017BE6000": {
+        "0": "3A827DE65B958320",
         "65536": "D446B00CFA1EED5B",
         "latest": 65536
+    },
+    "01001EF017BE7000": {
+        "latest": 0
     },
     "01001F0012868000": {
         "0": "2701F2B12F94F74A",
@@ -10563,6 +10600,7 @@
         "title": "Session: Skate Sim"
     },
     "010023001A1BC000": {
+        "0": "A3647B6D2F7682E4",
         "65536": "5C14668BAAE983C6",
         "latest": 65536,
         "title": "Rytmos"
@@ -15087,6 +15125,11 @@
         "latest": 131072,
         "title": "Smoots Golf"
     },
+    "010030F01AB56000": {
+        "0": "35180479284DFED1",
+        "latest": 0,
+        "title": "Green Soldiers Heroes"
+    },
     "0100310015D38000": {
         "0": "2270CCCDBDB3BE41",
         "latest": 0
@@ -15192,7 +15235,8 @@
     },
     "0100314018B04000": {
         "0": "552D19D1E2FD5867",
-        "latest": 0,
+        "65536": "7BE33AD7760B0DF5",
+        "latest": 65536,
         "title": "Fragment's Note+"
     },
     "010031500F6BC000": {
@@ -15785,7 +15829,8 @@
     },
     "010033100EE12000": {
         "131072": "CDCDA66280862540",
-        "latest": 131072
+        "196608": "E6FCCB2B65874F4F",
+        "latest": 196608
     },
     "01003310159F8000": {
         "131072": "6BFBA22C78A1111F",
@@ -17450,6 +17495,10 @@
         "latest": 196608,
         "title": "Cricket 22 The Official Game Of The Ashes"
     },
+    "0100387019ECA000": {
+        "0": "C5DE1A5A4F85463B",
+        "latest": 0
+    },
     "0100388008758000": {
         "0": "B8D9A18B060E1609",
         "65536": "8A27393789D3731E",
@@ -18886,6 +18935,10 @@
     "01003CD01299F000": {
         "latest": 0
     },
+    "01003CD018C02000": {
+        "0": "FF83CA372D1159C7",
+        "latest": 0
+    },
     "01003CE00EAF0000": {
         "0": "55B34066D9591247",
         "latest": 0,
@@ -19442,6 +19495,7 @@
         "latest": 0
     },
     "01003E8019490000": {
+        "0": "0220E13D58587A1E",
         "65536": "0220E13D58587A1E",
         "latest": 65536,
         "title": "Lucy Dreaming"
@@ -22127,6 +22181,10 @@
         "65536": "ECCC5BD43E352E90",
         "latest": 65536,
         "title": "Captain Backwater"
+    },
+    "010046501A56E000": {
+        "131072": "32684C30474E3D18",
+        "latest": 131072
     },
     "010046600B76A000": {
         "0": "A2D4202573A00D4A",
@@ -27390,8 +27448,12 @@
         "458752": "BFFB1DE42CA797A0",
         "524288": "53CF4BE0F8F06473",
         "65536": "9D740100916CA35F",
-        "latest": 524288,
+        "655360": "67D2A7669D3C7FE6",
+        "latest": 655360,
         "title": "Bonfire Peaks"
+    },
+    "010057C01330B000": {
+        "latest": 65536
     },
     "010057C015C3A000": {
         "0": "41258311A074C08D",
@@ -31316,6 +31378,10 @@
     "010063B012DC7000": {
         "latest": 0
     },
+    "010063B0198EA000": {
+        "0": "75EC64C78492AF35",
+        "latest": 0
+    },
     "010063C00C688000": {
         "0": "D02415C36D5BFB49",
         "131072": "9FF536EC60504640",
@@ -33154,6 +33220,10 @@
         "latest": 0,
         "title": "GyroBlade"
     },
+    "010069801A7B6000": {
+        "0": "D6BE91003830F17D",
+        "latest": 0
+    },
     "0100699008792000": {
         "0": "B6560D22AABE3EC4",
         "latest": 0,
@@ -33846,6 +33916,11 @@
         "0": "AA4B3C8E4ACE0F47",
         "latest": 0,
         "title": "BurgerTime Party!"
+    },
+    "01006BB015486000": {
+        "0": "C7A9761A20932E13",
+        "latest": 0,
+        "title": "Self gunsbase"
     },
     "01006BC00B188000": {
         "0": "5A643DBA92CB44F2",
@@ -39034,6 +39109,11 @@
         "latest": 0,
         "title": "Square Keeper"
     },
+    "01007C0019ABE000": {
+        "0": "1C9FC54C359EFF68",
+        "latest": 0,
+        "title": "Dream Park Story"
+    },
     "01007C100E4A8000": {
         "262144": "0B6A721401E777B8",
         "327680": "5117BF99968789F1",
@@ -40583,6 +40663,10 @@
         "latest": 65536,
         "title": "The Jackbox Party Starter"
     },
+    "010081401A700000": {
+        "0": "8243D3D57DAE8811",
+        "latest": 0
+    },
     "0100815009DD4000": {
         "0": "22D189BAB4275342",
         "latest": 0
@@ -40810,6 +40894,10 @@
         "327680": "5D40BB23050F29F4",
         "latest": 327680,
         "title": "Treasure Temples"
+    },
+    "010081E01A748000": {
+        "0": "45444C59656CF19F",
+        "latest": 0
     },
     "010081F00EAB8000": {
         "0": "5AEB965C60402F40",
@@ -42177,6 +42265,10 @@
         "latest": 65536,
         "title": "The Excavation of Hob's Barrow"
     },
+    "010086901A778000": {
+        "0": "FE39356768F36955",
+        "latest": 0
+    },
     "010086A013904000": {
         "0": "5F7A9C6AD03CD24D",
         "latest": 0,
@@ -42360,6 +42452,11 @@
         "0": "4A19BE2859BC5E4B",
         "latest": 0,
         "title": "Car Mechanic Simulator Pocket Edition 2"
+    },
+    "010087201951E000": {
+        "0": "53CCB179193DC7C3",
+        "latest": 0,
+        "title": "Afterthought"
     },
     "010087300445A000": {
         "0": "1848E2A2CCBDCE4A",
@@ -44189,6 +44286,11 @@
         "latest": 0,
         "title": "Neptunia X SENRAN KAGURA: Ninja Wars"
     },
+    "01008D001981C000": {
+        "0": "7A273DFC565DA412",
+        "latest": 0,
+        "title": "Chess Pills"
+    },
     "01008D1001512000": {
         "0": "26470D307AD8D145",
         "131072": "6E191829548C2A41",
@@ -45119,6 +45221,9 @@
         "65536": "F7F74F8045642CBE",
         "latest": 196608,
         "title": "Pok\u00e9mon\u2122 Violet"
+    },
+    "01008F6008C5F000": {
+        "latest": 0
     },
     "01008F600CA1A000": {
         "0": "D24FC1D1BC1BE641",
@@ -49598,8 +49703,9 @@
     },
     "01009D80189C6000": {
         "262144": "9D3F3FD7A5467FCA",
+        "327680": "7B9C67B40169A854",
         "65536": "23523B09F023809E",
-        "latest": 262144
+        "latest": 327680
     },
     "01009D8019E32000": {
         "0": "939255C9E0C1788F",
@@ -51503,6 +51609,9 @@
         "latest": 196608,
         "title": "Pok\u00e9mon\u2122 Scarlet"
     },
+    "0100A3D008C5D000": {
+        "latest": 0
+    },
     "0100A3D015232000": {
         "0": "5A9AA65FF59CDF42",
         "latest": 0,
@@ -52687,8 +52796,9 @@
         "131072": "EEBAFA68C0986BE8",
         "196608": "72602A6C57E09325",
         "262144": "7082B2746A441785",
+        "327680": "88BD580FE3728475",
         "65536": "76E70B01E849D3B5",
-        "latest": 262144
+        "latest": 327680
     },
     "0100A78017BD7000": {
         "latest": 0
@@ -54334,6 +54444,10 @@
         "latest": 131072,
         "title": "Bonito Days"
     },
+    "0100ACD017CC4000": {
+        "65536": "E9A122E8D78BE43E",
+        "latest": 65536
+    },
     "0100ACE00DAB6000": {
         "0": "25C1C177A4ACE9A6",
         "65536": "6A37B3A58484379A",
@@ -55098,6 +55212,10 @@
         "0": "7BA36096447C4070",
         "latest": 0,
         "title": "Cats Puzzle"
+    },
+    "0100AF60198C4000": {
+        "0": "04412F942E20AA4B",
+        "latest": 0
     },
     "0100AF700BCD2000": {
         "0": "B783994A7721864B",
@@ -55894,6 +56012,11 @@
         "0": "3FFAA4EC845CDC4A",
         "latest": 0,
         "title": "The Wizard and The Slug"
+    },
+    "0100B1901A44A000": {
+        "0": "1F17098DE251D04A",
+        "latest": 0,
+        "title": "Pretty Girls Breakers! PLUS"
     },
     "0100B1A0066DC000": {
         "0": "E6AE24850F9DC391",
@@ -56891,6 +57014,11 @@
         "latest": 0,
         "title": "Cellular Harvest"
     },
+    "0100B510183BC000": {
+        "0": "386BEBC9FECA6589",
+        "latest": 0,
+        "title": "void* tRrLM2(); //Void Terrarium 2"
+    },
     "0100B52006E8C000": {
         "0": "4EED78E274C5824B",
         "latest": 0,
@@ -57515,6 +57643,10 @@
         "0": "83269390E96AB727",
         "latest": 0,
         "title": "Skycadia"
+    },
+    "0100B7001A732000": {
+        "0": "A9FB6D4EF04EFB4F",
+        "latest": 0
     },
     "0100B7101475E000": {
         "0": "EA630EFBDC4BB9BD",
@@ -61901,6 +62033,10 @@
         "0": "A49E00DB828FA376",
         "latest": 0
     },
+    "0100C4F01A624000": {
+        "0": "CDACD6C8C9EF3AEC",
+        "latest": 0
+    },
     "0100C50007070000": {
         "0": "59024102424AC443",
         "latest": 0,
@@ -62880,8 +63016,9 @@
         "393216": "D8783893BD222153",
         "458752": "8305CB29502E19A8",
         "524288": "1F8C627626069B69",
+        "589824": "3E1E2639C221482C",
         "65536": "1A9F7090D7FFFABC",
-        "latest": 524288,
+        "latest": 589824,
         "title": "Fight'N Rage"
     },
     "0100C7D00FA18000": {
@@ -66191,6 +66328,11 @@
         "0": "A03165C9A862F846",
         "latest": 0
     },
+    "0100D23016D60000": {
+        "0": "F42EE9CDC4F4416A",
+        "latest": 0,
+        "title": "A Fox and His Robot"
+    },
     "0100D2400AFB0000": {
         "0": "1DA52476C29E672A",
         "65536": "7CC18779B44CC2E4",
@@ -66340,8 +66482,9 @@
         "327680": "B651AA9E65F0F860",
         "393216": "48896158011F97A1",
         "458752": "DF03FBCF12311B6B",
+        "524288": "9DCA73968841BE9E",
         "65536": "2A18D706D6557DC8",
-        "latest": 458752,
+        "latest": 524288,
         "title": "Nintendo Switch\u2122 Sports"
     },
     "0100D3000AEC2000": {
@@ -67549,8 +67692,9 @@
         "0": "7A830BCD5426A636",
         "131072": "B3A628500D65416C",
         "196608": "56F0B06DAA37EE5F",
+        "262144": "12D4D53D862242A2",
         "65536": "39ADB802A86E4D32",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Graze Counter GM"
     },
     "0100D71004694000": {
@@ -67783,8 +67927,9 @@
     },
     "0100D77019324000": {
         "0": "EAFB5A6E5188F9AB",
+        "131072": "BC5DCB0C7C8EEEE2",
         "65536": "F93FE010A1FC10BD",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Trek to Yomi"
     },
     "0100D77019A60000": {
@@ -70223,8 +70368,9 @@
         "title": "Freddi Fish 3: The Case of the Stolen Conch Shell"
     },
     "0100DF0017AF8000": {
+        "131072": "3D4D525B6E77C2B0",
         "65536": "761CE851A82D438A",
-        "latest": 65536
+        "latest": 131072
     },
     "0100DF100B97C000": {
         "0": "F7D30BAB180C4280",
@@ -70334,12 +70480,13 @@
         "0": "C15D96F112A7634F",
         "131072": "C31B1CC481E27C40",
         "196608": "90D32FCC40ACD349",
+        "262144": "7155F8BCDDF4644A",
         "65536": "79B6775C70C93F42",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Burger Chef Tycoon"
     },
     "0100DF900EA8F000": {
-        "latest": 196608
+        "latest": 0
     },
     "0100DF900FC52000": {
         "0": "90EBCB0FD4322E45",
@@ -70423,8 +70570,9 @@
     },
     "0100DFD016B7A000": {
         "0": "387940FB989F76FB",
+        "131072": "872316DADD2D4D9D",
         "65536": "4990F12C4F217E83",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Arcade Archives TETRIS\u00ae THE GRAND MASTER"
     },
     "0100DFD019F2A000": {
@@ -71347,6 +71495,10 @@
         "title": "RPG Maker MV"
     },
     "0100E2C00B415000": {
+        "latest": 0
+    },
+    "0100E2C01A7E4000": {
+        "0": "2163A688ADF5FC62",
         "latest": 0
     },
     "0100E2D00FE90000": {
@@ -73127,6 +73279,7 @@
         "131072": "AA6D5E50B8441FBF",
         "1310720": "9456E27BCC169890",
         "1376256": "D836D91490C9349A",
+        "1441792": "EC9092F892A6F10A",
         "196608": "A5E9A8CD6953C6AF",
         "262144": "413A0CF4876699D9",
         "327680": "1A71FE24E26D7AAA",
@@ -73141,7 +73294,7 @@
         "851968": "E222F052FB88A172",
         "917504": "263BD79DE945EDF5",
         "983040": "0B223B69750B0581",
-        "latest": 1376256,
+        "latest": 1441792,
         "title": "Vigor"
     },
     "0100E820117E8000": {
@@ -73815,7 +73968,8 @@
     },
     "0100EA20194E6000": {
         "0": "1B71553E770069D3",
-        "latest": 0,
+        "65536": "FF97CBF4308D24F0",
+        "latest": 65536,
         "title": "The Crimson Flower that Divides: Lunar Coupling"
     },
     "0100EA300DE6E000": {
@@ -75679,6 +75833,10 @@
         "0": "FAA7032F0C12B1CB",
         "latest": 0,
         "title": "Sakura Succubus 6"
+    },
+    "0100EFC01AA9A000": {
+        "0": "4E7355AB7A9D4E99",
+        "latest": 0
     },
     "0100EFD00A4FA000": {
         "0": "1AE49F909F236EF2",
@@ -79279,8 +79437,9 @@
         "131072": "DD3DD5C74307CFE0",
         "196608": "75AC955B3D41B37B",
         "262144": "D190E79AACC4F9FB",
+        "327680": "FF78CB8FC680308A",
         "65536": "A05FF2943B66B8BD",
-        "latest": 262144
+        "latest": 327680
     },
     "0100FB500D8F9000": {
         "latest": 0
