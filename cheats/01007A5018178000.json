@@ -12,5 +12,8 @@
         "[Cores x4]": "[Cores x4]\n04000000 0342DFA4 0B090908\n\n",
         "[Cores x4 Off]": "[Cores x4 Off]\n04000000 0342DFA4 0B080128\n\n",
         "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    },
+    "attribution": {
+        "8072ABFF51FA1156.txt": "[coins]\n04000000 0342DF84 0B010908\n04000000 0342DF8C 0B080928\n\n[coins off]\n04000000 0342DF84 0B010108\n04000000 0342DF8C 0B080128\n\n[hp]\n04000000 0116E390 D503201F\n\n[hp]\n04000000 0116E390 1E2D3800\n"
     }
 }

@@ -1,0 +1,15 @@
+{
+    "6A907254EAE4594D": {
+        "[HP Inf]": "[HP Inf]\n04000000 01807124 1E204120\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 01807124 4EA81D00\n\n",
+        "[Energy Inf]": "[Energy Inf]\n04000000 014ACDC4 D503201F\n\n",
+        "[Energy Inf Off]": "[Energy Inf Off]\n04000000 014ACDC4 1E213800\n\n",
+        "[Tension Inf]": "[Tension Inf]\n04000000 0168F8CC 1E204121\n04000000 016C8904 1E204020\n\n",
+        "[Tension Inf Off]": "[Tension Inf Off]\n04000000 0168F8CC 1E202921\n04000000 016C8904 1E202820\n\n",
+        "[Coins No Decrease]": "[Coins No Decrease]\n04000000 01816554 51000108\n\n",
+        "[Coins No Decrease Off]": "[Coins No Decrease Off]\n04000000 01816554 4B010108\n\n",
+        "[Coins x4]": "[Coins x4]\n04000000 01816514 0B140908\n\n",
+        "[Coins x4 Off]": "[Coins x4 Off]\n04000000 01816514 0B140108\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
+}

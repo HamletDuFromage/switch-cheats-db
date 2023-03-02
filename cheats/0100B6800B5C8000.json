@@ -15,7 +15,18 @@
     },
     "9356531EDD2EC448": {
         "[60 FPS]": "[60 FPS]\n580F0000 048D26C0 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
-        "[30 FPS]": "[30 FPS]\n580F0000 048D26C0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+        "[30 FPS]": "[30 FPS]\n580F0000 048D26C0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[Breeze beta65 Graveyard Keeper 1.0.0.4633 TID: 0100B6800B5C8000 BID: 9356531EDD2EC448]": "[Breeze beta65 Graveyard Keeper 1.0.0.4633 TID: 0100B6800B5C8000 BID: 9356531EDD2EC448]\n\n",
+        "[MasterCode]": "[MasterCode]\n040B0000 005E1734 42C7CCCD \n040B0000 001C0EEC 4B18967F \n040B0000 001C0EF0 BD402800 \n040B0000 005E15DC 1E293900 \n040B0000 002A6994 1E200920 \n040B0000 002A6AEC 1E293800 \n040B0000 001C0F30 BD402400 \n040B0000 00523C34 1E210800\n040B0000 001BFC18 BD402A68\n\n",
+        "[Inf Money]": "[Inf Money]\n040B0000 001C0EF0 1CFFFFE0\n\n",
+        "[Inf Energy]": "[Inf Energy]\n040B0000 005E15DC 1C000AC0\n\n",
+        "[Instant Working]": "[Instant Working]\n040B0000 002A6994 1C8D2AC0\n\n",
+        "[Tool do not brake]": "[Tool do not brake]\n040B0000 002A6AEC 1C8D2000\n\n",
+        "[Instant Progress]": "[Instant Progress]\n040B0000 001C0F30 1CFFFDE0\n\n",
+        "[Hold ZR clone 20 items when swapping]": "[Hold ZR clone 20 items when swapping]\n040B0000 0051C054 0B1C0108\n040B0000 0051e5d8 B9001B28\n80000200\n040B0000 0051C054 52800288\n040B0000 00000254 52800288\n040B0000 00000258 B9001B28\n040B0000 0000025C 141478E0\n040B0000 0051E5D8 17EB871F \n20000000\n\n",
+        "[Hold ZR retain items when swapping]": "[Hold ZR retain items when swapping]\n040B0000 003385F0 97FFF9A4\n80000200\n040B0000 003385F0 D503201F\n20000000\n\n",
+        "[item no cooldown]": "[item no cooldown]\n040B0000 00523C34 1C4E95C0\n\n",
+        "[max store money on]": "[max store money on]\n040B0000 001BF064 4B18967F\n040B0000 001BFC18 1CFFA268\n\n"
     },
     "attribution": {
         "Graveyard Keeper by DaBlackDeath.txt": "Before going to a Mach disable codes. And you must be first at the beginning. ",
