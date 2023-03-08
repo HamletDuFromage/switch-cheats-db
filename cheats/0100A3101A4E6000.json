@@ -1,0 +1,12 @@
+{
+    "D020A51E502B056F": {
+        "[HP Inf]": "[HP Inf]\n04000000 000D8930 51000108\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 000D8930 4B010108\n\n",
+        "[Ammo Inf]": "[Ammo Inf]\n04000000 000C90F0 51000108\n\n",
+        "[Ammo Inf Off]": "[Ammo Inf Off]\n04000000 000C90F0 51000508\n\n",
+        "[Coins, Keys, Gears x4]": "[Coins, Keys, Gears x4]\n04000000 000D7F20 0B020929\n\n",
+        "[Coins, Keys, Gears x4 Off]": "[Coins, Keys, Gears x4 Off]\n04000000 000D7F20 0B020129\n\n",
+        "[Coins, Keys, Gears No Decrease]": "[Coins, Keys, Gears No Decrease]\n04000000 000D99E8 4B020129\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
+}
