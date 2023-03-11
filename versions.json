@@ -29191,6 +29191,10 @@
         "latest": 0,
         "title": "Crazy BMX World"
     },
+    "01005CC018A32000": {
+        "65536": "B46FFA69E2FD7AC2",
+        "latest": 65536
+    },
     "01005CD00A2A2000": {
         "0": "0BA9A9991C416440",
         "65536": "338F9D4D2E6B4849",
@@ -36858,8 +36862,9 @@
     "010073F0197DA000": {
         "0": "3A888505156300A4",
         "131072": "83C51A4E8A55F108",
+        "196608": "3807E140068F85C8",
         "65536": "ABB7BFBFD88E76CD",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Redemption Reapers"
     },
     "010074000BE8E000": {
@@ -69631,6 +69636,11 @@
         "65536": "5FA30416E9579D4D",
         "latest": 131072,
         "title": "Space Stella: The Unknown Planet"
+    },
+    "0100DAE019110000": {
+        "0": "A113BFF8D52F6CE9",
+        "latest": 0,
+        "title": "FATAL FRAME: Mask of the Lunar Eclipse"
     },
     "0100DAE019111000": {
         "latest": 0
