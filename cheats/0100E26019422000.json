@@ -1,0 +1,10 @@
+{
+    "FB152FB431677E62": {
+        "[max skill]": "[max skill]\n040B0000 031FC360 1E27F001\n040B0000 031FC364 1E202820\n\n",
+        "[max skill off]": "[max skill off]\n040B0000 031FC360 BD400920\n040B0000 031FC364 1E220800\n\n",
+        "[max kazemaru stamina]": "[max kazemaru stamina]\n040B0000 0379A414 BD002661\n\n",
+        "[max kazemaru stamina off]": "[max kazemaru stamina off]\n040B0000 0379A414 BD002660\n\n",
+        "[extract 500 and deafeat 1000 enemies after battle]": "[extract 500 and deafeat 1000 enemies after battle]\n040B0000 0355B068 52807D08\n\n",
+        "[extract 500 and deafeat 1000 enemies after battle off]": "[extract 500 and deafeat 1000 enemies after battle off]\n040B0000 0355B068 8B130108\n\n"
+    }
+}
