@@ -8241,7 +8241,8 @@
         "524288": "C0BDFBB0121C9BD8",
         "589824": "6F167C750C3435E6",
         "65536": "9997E13A4159DB7B",
-        "latest": 589824,
+        "655360": "9CFB653EC1E530AE",
+        "latest": 655360,
         "title": "Doom & Destiny Worlds"
     },
     "01001B4011481000": {
@@ -59084,6 +59085,11 @@
         "latest": 0,
         "title": "Dinosaur Fossil Puzzles"
     },
+    "0100B96017EDA000": {
+        "0": "7DC00966CB363B0D",
+        "latest": 0,
+        "title": "Fantasy Ball"
+    },
     "0100B96019E9E000": {
         "0": "E6BC73DC15205BEB",
         "latest": 0
@@ -59583,7 +59589,8 @@
     },
     "0100BB3015F0E000": {
         "0": "EDD9F0191382564F",
-        "latest": 0,
+        "65536": "374063D640851EB0",
+        "latest": 65536,
         "title": "15in1 Solitaire"
     },
     "0100BB400B276000": {
