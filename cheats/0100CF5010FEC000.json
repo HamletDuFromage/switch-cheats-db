@@ -1,0 +1,27 @@
+{
+    "A1CE2940D813ACAB": {
+        "[max onyx roses]": "[max onyx roses]\n040B0000 00B90BCC B90E012A \n040B0000 01287994 5284E1E9\n\n",
+        "[max onyx roses off]": "[max onyx roses off]\n040B0000 00B90BCC B90E0122 \n040B0000 01287994 4B090169\n\n",
+        "[max moon pearl]": "[max moon pearl]\n040B0000 01287978 5284E1E9\n\n",
+        "[max moon pearl off]": "[max moon pearl off]\n040B0000 01287978 4B090169\n\n",
+        "[max avalon drop]": "[max avalon drop]\n040B0000 00B90ADC B90E052A \n040B0000 012879A0 5284E1E9\n\n",
+        "[max avalon drop off]": "[max avalon drop off]\n040B0000 00B90ADC B90E0522 \n040B0000 012879A0 4B090189\n\n",
+        "[max inferno fruit]": "[max inferno fruit]\n040B0000 01287984 5284E1E9\n\n",
+        "[max inferno fruit off]": "[max inferno fruit off]\n040B0000 01287984 4B090189\n\n",
+        "[max mandragora root]": "[max mandragora root]\n040B0000 00B90C78 B90E5D2A\n\n",
+        "[max mandragora root off]": "[max mandragora root off]\n040B0000 00B90C78 B90E5D22\n\n",
+        "[max baked gecko]": "[max baked gecko]\n040B0000 00B90D60 B90E612A\n\n",
+        "[max baked gecko off]": "[max baked gecko off]\n040B0000 00B90D60 B90E6122\n\n",
+        "[max unicorn horn]": "[max unicorn horn]\n040B0000 00B90CEC B90E652A\n\n",
+        "[max unicorn horn off]": "[max unicorn horn off]\n040B0000 00B90CEC B90E6522\n\n",
+        "[max ingredient after craft]": "[max ingredient after craft]\n040B0000 01260058 52807CF0\n040B0000 0126005C 52807CEE\n\n",
+        "[max ingredient after craft off]": "[max ingredient after craft off]\n040B0000 01260058 4B100250\n040B0000 0126005C 4B0E002E\n\n",
+        "[999 blast cocktail]": "[999 blast cocktail]\n040B0000 01260124 0B09016B\n\n",
+        "[999 blast cocktail off]": "[999 blast cocktail off]\n040B0000 01260124 0B09016B\n\n",
+        "[999 item when use]": "[999 item when use]\n040B0000 01260084 52807CEE\n040B0000 0094dd8c 52807CE9\n\n",
+        "[999 item when use off]": "[999 item when use off]\n040B0000 01260084 0B0C01CE\n040B0000 0094dd8c 52807CE9\n\n",
+        "[damage mode upgrade off]": "[damage mode upgrade off]\n04000000 00972AC4 4B08014A\n\n",
+        "[hero mode (double damage)]": "[hero mode (double damage)]\n04000000 00972AC4 4B08054A\n\n",
+        "[daredevil mode (1 hit = death)]": "[daredevil mode (1 hit = death)]\n04000000 00972AC4 4B0A014A\n\n"
+    }
+}
