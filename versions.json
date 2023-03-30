@@ -426,7 +426,8 @@
         "524288": "CCC76903DEF9B42D",
         "589824": "AC49392B93F65F39",
         "65536": "7D2552180D850663",
-        "latest": 589824,
+        "655360": "525CF57BB2183473",
+        "latest": 655360,
         "title": "Fuga: Melodies of Steel"
     },
     "01000130120EF000": {
@@ -1957,6 +1958,10 @@
         "latest": 0,
         "title": "Remorse: The List"
     },
+    "0100068019996000": {
+        "0": "7C9914872D033940",
+        "latest": 0
+    },
     "0100068019E16000": {
         "0": "4B4BE1C2EE8F6E79",
         "65536": "0921BBF4D9B45696",
@@ -2214,6 +2219,11 @@
         "131072": "223D7D986323B84A",
         "latest": 131072,
         "title": "Shiftlings - Enhanced Edition"
+    },
+    "010007501A588000": {
+        "65536": "0DA3F0F5C3C04A6C",
+        "latest": 65536,
+        "title": "TRON: Identity"
     },
     "010007600E8C6000": {
         "0": "437100869CB79B49",
@@ -3263,7 +3273,8 @@
     },
     "01000AD0174B6000": {
         "0": "0E4CDEA18D2F4D8E",
-        "latest": 0,
+        "131072": "19EE5A27152944E5",
+        "latest": 131072,
         "title": "Adios"
     },
     "01000AD018D58000": {
@@ -7302,7 +7313,8 @@
     },
     "01001880191FE000": {
         "0": "DEFEBE6186E38652",
-        "latest": 0
+        "latest": 0,
+        "title": "Tormentor-Action Fire Counter Shooter Game 2023 Gun Strike Simulator"
     },
     "010018900C776000": {
         "0": "F6BAA417691F0E44",
@@ -11336,7 +11348,8 @@
     },
     "010024D012D46000": {
         "196608": "9CA88FA5D37B0988",
-        "latest": 196608
+        "latest": 196608,
+        "title": "The 7th Guest"
     },
     "010024D016DC0000": {
         "0": "73BBF5BD9AE5604F",
@@ -15533,7 +15546,8 @@
     },
     "010031501AB20000": {
         "0": "21BEE7D03B939967",
-        "latest": 0
+        "latest": 0,
+        "title": "Madness Brutal Fighting - Mortal Fight Battle Attack Multiplayer"
     },
     "010031600ACF4000": {
         "0": "B4E5EE1407A6BF45",
@@ -17633,6 +17647,11 @@
         "0": "8840A51F1D09D49A",
         "latest": 0,
         "title": "Sudoku Classic"
+    },
+    "0100380017D3E000": {
+        "131072": "7E3B875A3F823346",
+        "latest": 131072,
+        "title": "DNF Duel: Who's Next"
     },
     "010038100D436000": {
         "0": "0ED0C044C8D09A3D",
@@ -23200,6 +23219,10 @@
         "65536": "587CFEEA27A4754C",
         "latest": 131072
     },
+    "010048501ADD4000": {
+        "0": "2E666A23871370A1",
+        "latest": 0
+    },
     "01004860080A0000": {
         "0": "F38867FDF1D99321",
         "latest": 0,
@@ -25779,8 +25802,9 @@
         "0": "2FABEB78E7A892CC",
         "131072": "47EC45FD6AFB219D",
         "196608": "08BD1CBD8723BAC1",
+        "327680": "6B42889017D03969",
         "65536": "925AD7D243197392",
-        "latest": 196608,
+        "latest": 327680,
         "title": "Vagante"
     },
     "0100502007F54000": {
@@ -27397,6 +27421,11 @@
         "65536": "4623435DE0B90E12",
         "latest": 65536,
         "title": "Rayland"
+    },
+    "010055A0189B8000": {
+        "0": "CD321395929EAA1B",
+        "latest": 0,
+        "title": "Orebody: Binder's Tale"
     },
     "010055A01930E000": {
         "0": "674E0FC8CD1A98DA",
@@ -30556,6 +30585,7 @@
         "1638400": "8613F79FB0ED2E4D",
         "1703936": "D222A1D6B639E447",
         "1769472": "36EA6D54DC94DA5E",
+        "1835008": "024EA9FA06155B6E",
         "196608": "D70EF5C4D28EFE41",
         "262144": "A09A2281FD980043",
         "327680": "668C109613C35241",
@@ -30569,7 +30599,7 @@
         "851968": "83F466380CC9BD4C",
         "917504": "0CA9EBF569ED7C4A",
         "983040": "21C77587C980A248",
-        "latest": 1769472,
+        "latest": 1835008,
         "title": "Elemental Knights R"
     },
     "01005FA015D68000": {
@@ -31487,6 +31517,12 @@
         "latest": 65536,
         "title": "Threaded"
     },
+    "0100621017A7A000": {
+        "0": "22E01AC369E6A40A",
+        "131072": "6FE133E73E2CB57A",
+        "latest": 131072,
+        "title": "Mayhem in Single Valley"
+    },
     "0100621017E62000": {
         "0": "2EDCCA2E8D6C4E79",
         "latest": 0,
@@ -32077,7 +32113,8 @@
     },
     "010063E01A2EE000": {
         "0": "443D73A4E2A513EB",
-        "latest": 0
+        "latest": 0,
+        "title": "Arcade Archives NAVARONE"
     },
     "010063F014176000": {
         "0": "61078725EB7EEDCF",
@@ -33907,6 +33944,11 @@
         "0": "2D9B0A7956B56BA5",
         "latest": 0,
         "title": "Life of Fly 2"
+    },
+    "010069A018132000": {
+        "0": "9535E11966951C92",
+        "latest": 0,
+        "title": "Doodle World Deluxe"
     },
     "010069B002CDE000": {
         "0": "477D409EAE26A147",
@@ -36489,6 +36531,10 @@
         "latest": 65536,
         "title": "There Will Be No Turkey This Christmas"
     },
+    "010071B01AF46000": {
+        "65536": "A7E092B77A3733C6",
+        "latest": 65536
+    },
     "010071C00982C000": {
         "0": "3E06EE2FFD061DF1",
         "latest": 0,
@@ -38823,8 +38869,9 @@
     },
     "01007870141DE000": {
         "0": "37F2F4B84D4BD1E5",
+        "131072": "F803B62B202F1C38",
         "65536": "87677F39E255DA0A",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Heroes of Loot 2"
     },
     "0100787014460000": {
@@ -42485,8 +42532,9 @@
     "0100844019F34000": {
         "0": "E218BC60D884AC10",
         "131072": "06C2409E16582BA7",
+        "196608": "5D123B76898430DD",
         "65536": "0BD14FD7C714CFAD",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Kraino Origins"
     },
     "010084500C7DC000": {
@@ -45696,7 +45744,8 @@
     },
     "01008E40192CE000": {
         "0": "183AA2CF0C52FFC9",
-        "latest": 0
+        "latest": 0,
+        "title": "Kingdom of Aurelia - Mystery of the Poisoned Dagger"
     },
     "01008E500AFF6000": {
         "0": "723E187403BAB18C",
@@ -49340,8 +49389,9 @@
     },
     "0100997014004000": {
         "0": "29E56E9EDF9EE20C",
+        "131072": "8057D5A82615847E",
         "65536": "1D673CA33CE5D10B",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Golazo! 2"
     },
     "0100997014005000": {
@@ -50730,6 +50780,10 @@
         "0": "D4771553F2B4412D",
         "latest": 0
     },
+    "01009DA00EA6C000": {
+        "0": "8E06916870561C45",
+        "latest": 0
+    },
     "01009DA015A6E000": {
         "0": "DB52A839B761FB43",
         "latest": 0
@@ -51309,7 +51363,8 @@
     },
     "01009F90177C0000": {
         "0": "4BF613499B8C3596",
-        "latest": 0,
+        "131072": "4BF613499B8C3596",
+        "latest": 131072,
         "title": "Horizon Midnight Sky Combat Aircraft - War Arena Flight Simulator 2022"
     },
     "01009FA00A570000": {
@@ -52569,6 +52624,7 @@
         "latest": 0
     },
     "0100A3501A88A000": {
+        "0": "06DCDCF71B62204D",
         "65536": "65A38FEFC10EBE43",
         "latest": 65536,
         "title": "MOTHERED - A ROLE-PLAYING HORROR GAME"
@@ -53485,8 +53541,9 @@
         "327680": "AEB6C7D667E8274A",
         "393216": "E100201352283343",
         "458752": "9013D42DE2E13646",
+        "524288": "B5D693901EDE9FF3",
         "65536": "24095A43BD949D4C",
-        "latest": 458752,
+        "latest": 524288,
         "title": "Citizen Sleeper"
     },
     "0100A66003384000": {
@@ -53883,8 +53940,9 @@
         "196608": "72602A6C57E09325",
         "262144": "7082B2746A441785",
         "327680": "88BD580FE3728475",
+        "393216": "FD516BAA1C4B0B6C",
         "65536": "76E70B01E849D3B5",
-        "latest": 327680
+        "latest": 393216
     },
     "0100A78017BD7000": {
         "latest": 0
@@ -54418,7 +54476,8 @@
     },
     "0100A9201A166000": {
         "0": "760094E3574F59CF",
-        "latest": 0,
+        "65536": "8990EF13C8F7E69F",
+        "latest": 65536,
         "title": "A Matter of Principle"
     },
     "0100A9300A4AE000": {
@@ -55869,6 +55928,7 @@
         "latest": 0
     },
     "0100ADC014CDE000": {
+        "0": "569882657EA6086E",
         "65536": "8F934034A1F8C346",
         "latest": 65536,
         "title": "The Last Worker"
@@ -57847,6 +57907,11 @@
         "65536": "68264697B5CB8E13",
         "latest": 131072
     },
+    "0100B4001AAFE000": {
+        "0": "D4B3CA3892D996B5",
+        "latest": 0,
+        "title": "Infinite Guitars"
+    },
     "0100B410040F2000": {
         "0": "253A1CB9DA39F045",
         "latest": 0,
@@ -59713,7 +59778,8 @@
         "65536": "C835CFB5881778D1",
         "655360": "2C0E5AE4DE59436B",
         "720896": "D3A1B43E19EC204F",
-        "latest": 720896,
+        "786432": "D2CFA135E3DEC621",
+        "latest": 786432,
         "title": "Ooblets"
     },
     "0100BA200C378000": {
@@ -60441,6 +60507,11 @@
         "latest": 0,
         "title": "Sakura Succubus 2"
     },
+    "0100BC701AA50000": {
+        "0": "76612C961B755B39",
+        "latest": 0,
+        "title": "Yukiiro Sign"
+    },
     "0100BC800EDA2000": {
         "0": "3ABB7D823C38C74F",
         "latest": 0,
@@ -60508,8 +60579,9 @@
         "327680": "5031CFE3C9418BC4",
         "393216": "CA52B382D2359A5A",
         "458752": "4F38B7F7119F3344",
+        "524288": "6C55D66E7DCE173E",
         "65536": "24E803D8E9B87D87",
-        "latest": 458752
+        "latest": 524288
     },
     "0100BCA016637000": {
         "latest": 0
@@ -62600,6 +62672,11 @@
     },
     "0100C2D00EBD5000": {
         "latest": 0
+    },
+    "0100C2D019816000": {
+        "0": "525E8357296ED613",
+        "latest": 0,
+        "title": "Billy 101"
     },
     "0100C2E00B494000": {
         "0": "465159265887A84D",
@@ -68346,6 +68423,7 @@
         "latest": 0
     },
     "0100D4A018AAC000": {
+        "0": "55215F505B55EE1D",
         "65536": "B5CC7207E9917C33",
         "latest": 65536,
         "title": "LUNARK"
@@ -70030,6 +70108,10 @@
         "65536": "F1040EA24AE52CB1",
         "latest": 65536,
         "title": "Insert before flight"
+    },
+    "0100D9801AADC000": {
+        "0": "E03F23B272897647",
+        "latest": 0
     },
     "0100D99009734000": {
         "0": "C5613DF4907EE89F",
@@ -72368,6 +72450,11 @@
         "0": "47FFBAA5B12FDB45",
         "latest": 0
     },
+    "0100E100182CC000": {
+        "65536": "256A076CF2E819D0",
+        "latest": 65536,
+        "title": "Melon Journey: Bittersweet Memories"
+    },
     "0100E1100D92C000": {
         "0": "0DFBEA1D70F0BD4B",
         "latest": 0,
@@ -72852,8 +72939,9 @@
     "0100E26019422000": {
         "0": "2AFE9940AA9BE10A",
         "196608": "72B6CF6AAEE6E079",
+        "262144": "241C214671CFC9BD",
         "65536": "FB152FB431677E62",
-        "latest": 196608,
+        "latest": 262144,
         "title": "ONI : Road to be the Mightiest Oni"
     },
     "0100E26019423000": {
@@ -72988,6 +73076,7 @@
         "title": "memory\u00ae \u2013 The Original Matching Game from Ravensburger"
     },
     "0100E2D01AB48000": {
+        "0": "65076DF616F5601F",
         "65536": "27D2A2D3668CD2A4",
         "latest": 65536,
         "title": "BookyPets Legends"
@@ -76859,6 +76948,11 @@
         "latest": 0,
         "title": "Survive & Craft"
     },
+    "0100EDC01ACC2000": {
+        "0": "108CEB74B4C2FD34",
+        "latest": 0,
+        "title": "Ratyboy Adventures"
+    },
     "0100EDD0068A6000": {
         "0": "09B9EEAB3ADE54EA",
         "65536": "09B9EEAB3ADE54EA",
@@ -79296,6 +79390,11 @@
         "latest": 0,
         "title": "Rift Adventure"
     },
+    "0100F5501AFBE000": {
+        "0": "5967EE4BB7E5308B",
+        "latest": 0,
+        "title": "Squares and Numbers"
+    },
     "0100F5600D194000": {
         "0": "AF296863B8D71A4E",
         "131072": "64428D1DF1AE8F44",
@@ -81002,6 +81101,11 @@
         "65536": "6ADE8B5D3384F540",
         "latest": 65536,
         "title": "Words Puzzles 3 in 1"
+    },
+    "0100FB201A21E000": {
+        "0": "2AC3CAD9B5B74B36",
+        "latest": 0,
+        "title": "Bubble Puzzler"
     },
     "0100FB30148EC000": {
         "0": "C27EF4D6FB583DCF",
