@@ -56,8 +56,9 @@
     },
     "0100001017216000": {
         "0": "174FAD28EE540D30",
+        "131072": "28CA9267FD93E850",
         "65536": "5B8A84D880998114",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Labyrinth of Galleria: The Moon Society"
     },
     "0100001017217000": {
@@ -1884,7 +1885,8 @@
     },
     "0100063018ECE000": {
         "0": "58F5EE903C2994FB",
-        "latest": 0
+        "65536": "6B4CE697EE1F7A22",
+        "latest": 65536
     },
     "01000640174DA000": {
         "0": "AB7746329DDD9346",
@@ -17917,8 +17919,9 @@
         "0": "125A94441F5EBCDA",
         "131072": "EF3C1E31D4FB7FBB",
         "196608": "FBF84FAAF700CB4A",
+        "262144": "8549BF22F10D5242",
         "65536": "84ACCDA0E5294578",
-        "latest": 196608,
+        "latest": 262144,
         "title": "LEGO\u00ae Brawls"
     },
     "010038A016E92000": {
@@ -23088,8 +23091,9 @@
         "title": "Where's Samantha?"
     },
     "010047F018D5C000": {
+        "131072": "7B28D1F7E0B12D8E",
         "65536": "838C30868507AC43",
-        "latest": 65536,
+        "latest": 131072,
         "title": "The Library of Babel"
     },
     "010048000F946000": {
@@ -24329,7 +24333,8 @@
     },
     "01004B5019FA0000": {
         "65536": "259B46C0B8E0B15D",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Dungeons of Aether"
     },
     "01004B600A2FC000": {
         "0": "D38A85D162951B76",
@@ -31614,6 +31619,11 @@
         "latest": 0,
         "title": "Japanese NEKOSAMA Escape -The Old Inn-"
     },
+    "010062301A9DC000": {
+        "0": "369D21E0289C26BA",
+        "latest": 0,
+        "title": "Panda's Village"
+    },
     "010062400E69C000": {
         "0": "4170CAC94BA14040",
         "131072": "D0946C60D04C8848",
@@ -36632,7 +36642,8 @@
     },
     "010071E0193F0000": {
         "0": "13B816EFA9BB9060",
-        "latest": 0,
+        "65536": "0D452079036B4BB5",
+        "latest": 65536,
         "title": "Record of Agarest War"
     },
     "010071F00D65A000": {
@@ -42245,6 +42256,7 @@
         "title": "Alveole"
     },
     "0100832018228000": {
+        "0": "9411BF8DCE09D7D1",
         "65536": "1590BC9BB68E8C7C",
         "latest": 65536,
         "title": "Shukuchi Ninja"
