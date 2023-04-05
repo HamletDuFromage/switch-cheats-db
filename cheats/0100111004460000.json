@@ -1,8 +1,11 @@
 {
     "6D9EA94F8AAC00A8": {
-        "[inf boost]": "[inf boost]\n04000000 002FCDE8 D65F03C0\n\n"
+        "[inf boost]": "[inf boost]\n04000000 002FCDE8 D65F03C0\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 01C38C28\n780F0000 0000001C\n640F0000 00000000 42F00000\n\n",
+        "[30 FPS (default)]": "[30 FPS (default)]\n580F0000 01C38C28\n780F0000 0000001C\n640F0000 00000000 42700000\n\n"
     },
     "attribution": {
-        "Sonic Forces ver 1.1.0 by xtatu.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005"
+        "Sonic Forces ver 1.1.0 by xtatu.txt": "It's not good for missiles.\n\n[Sub Weapon]\n010F0000 0246DD4E 00000002\n010F0000 0246DD50 00000002\n010F0000 0246DD52 00000005\n010F0000 0246DD54 00000005",
+        "SONIC FORCES DIGITAL BONUS EDITION.txt": "by MasaGratoR\nHas some issues with 60FPS causing softlocks, found in Stage 7 and 20 and may be elsewhere in the game. To progress, change back to 30FPS.\nBased on exefs mod made by theboy181\n"
     }
 }

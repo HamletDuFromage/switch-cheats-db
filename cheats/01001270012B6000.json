@@ -1,8 +1,11 @@
 {
     "6D9EA94F8AAC00A8": {
-        "[999 Rings]": "[999 Rings]\n580F0000 01C39938\n580F1000 00000018\n580F1000 00000298\n580F1000 00000048\n580F1000 00000020\n780F0000 0000001C\n640F0000 00000000 000003E7\n\n"
+        "[999 Rings]": "[999 Rings]\n580F0000 01C39938\n580F1000 00000018\n580F1000 00000298\n580F1000 00000048\n580F1000 00000020\n780F0000 0000001C\n640F0000 00000000 000003E7\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 01C38C28\n780F0000 0000001C\n640F0000 00000000 42F00000\n\n",
+        "[30 FPS (default)]": "[30 FPS (default)]\n580F0000 01C38C28\n780F0000 0000001C\n640F0000 00000000 42700000\n\n"
     },
     "attribution": {
-        "Sonic Forces by wiitendo84.txt": "This Code Becomes Effective While The Motorcycle is Jumping."
+        "Sonic Forces by wiitendo84.txt": "This Code Becomes Effective While The Motorcycle is Jumping.",
+        "SONIC FORCES.txt": "by MasaGratoR\nHas some issues with 60FPS causing softlocks, found in Stage 7 and 20 and may be elsewhere in the game. To progress, change back to 30FPS.\nBased on exefs mod made by theboy181\n"
     }
 }
