@@ -1,4 +1,14 @@
 {
+    "35244CBEA8258FCD": {
+        "[Breeze beta72 Arcade Archives VS. SUPER MARIO BROS. 1.0.2 TID: 010021D00812A000 BID: 35244CBEA8258FCD]": "[Breeze beta72 Arcade Archives VS. SUPER MARIO BROS. 1.0.2 TID: 010021D00812A000 BID: 35244CBEA8258FCD]\n\n",
+        "[Inf.Credits]": "[Inf.Credits]\n01000000 0035DB44 00000063\n\n",
+        "[Only 1 Coin for Life(set extend 100)]": "[Only 1 Coin for Life(set extend 100)]\n01100000 017E67C7 00000063\n\n",
+        "[Only 1 Coin for Life(set extend 150)]": "[Only 1 Coin for Life(set extend 150)]\n01100000 017E67C7 00000095\n\n",
+        "[Only 1 Coin for Life(set extend 200)]": "[Only 1 Coin for Life(set extend 200)]\n01100000 017E67C7 000000C7\n\n",
+        "[Only 1 Coin for Life(set extend 250)]": "[Only 1 Coin for Life(set extend 250)]\n01100000 017E67C7 000000F9\n\n",
+        "[Invincibility]": "[Invincibility]\n01100000 017E6808 00000008\n\n",
+        "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]": "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]\n20000000\n\n"
+    },
     "82FFF40B9CEA383D": {
         "[Time Stop (Time 0 = ZL)]": "[Time Stop (Time 0 = ZL)]\n041F0000 01817860 0A090900\n80000100\n041F0000 01817860 00000000\n20000000\n\n",
         "[Moon Jump]": "[Moon Jump]\n80000001\n011F0000 01817108 000000FC\n20000000\n\n",
