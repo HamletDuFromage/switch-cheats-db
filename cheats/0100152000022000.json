@@ -1,7 +1,8 @@
 {
     "13296B64DFA7A131": {
         "[3-4 player 60 FPS]": "[3-4 player 60 FPS]\n04000000 00B5A47C EA000097\n\n",
-        "[3-4 player 30 FPS (Default)]": "[3-4 player 30 FPS (Default)]\n04000000 00B5A47C 1A000097\n\n"
+        "[3-4 player 30 FPS (Default)]": "[3-4 player 30 FPS (Default)]\n04000000 00B5A47C 1A000097\n\n",
+        "[Ultrawide 21.9]": "[Ultrawide 21.9]\n04000000 003AA228 EEB00A03\n\n"
     },
     "1CD9216A21737FB4": {
         "[Unlock Gold Mario]": "[Unlock Gold Mario]\n01100000 29af136d 00000003\n\n",
@@ -81,6 +82,6 @@
     },
     "attribution": {
         "Mario Kart 8 Deluxe 1.7.1 by Xtatu speed mod.txt": "VMOV.F32 S4, #3.0 EEB02A08 3x\nVMOV.F32 S4, #30.0 EEB32A0E 30x",
-        "Mario Kart 8 Deluxe.txt": "2.2.1 60FPS pchtxt by Wachee\n2.3.0 60FPS pchtxt by zix7\n2.2.1 & 2.3.0 60 & 30 FPS cheat by halop\n\nOriginal author of pchtxt theboy181\n\nrecommended overclock:\nDocked GPU 921 MHz\nHandheld GPU 537 MHz"
+        "Mario Kart 8 Deluxe.txt": "2.2.1 60FPS pchtxt by Wachee\n2.3.0 60FPS pchtxt by zix7\n2.2.1 & 2.3.0 60 & 30 FPS cheat by halop\n2.30 21.9 converted by b0rd2dEAth\n\nOriginal author of pchtxt theboy181\n\nrecommended overclock:\nDocked GPU 921 MHz\nHandheld GPU 537 MHz\n"
     }
 }
