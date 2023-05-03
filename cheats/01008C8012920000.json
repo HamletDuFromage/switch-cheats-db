@@ -19,9 +19,13 @@
         "[Visual Distance x1.2]": "[Visual Distance x1.2]\n580F0000 03EAC010\n580F1000 000000C0\n780F0000 00000048\n680F0000 3F99999A 3F99999A\n\n",
         "[Visual Distance x1.5]": "[Visual Distance x1.5]\n580F0000 03EAC010\n580F1000 000000C0\n780F0000 00000048\n680F0000 3FC00000 3FC00000\n\n",
         "[Visual Distance x1.8]": "[Visual Distance x1.8]\n580F0000 03EAC010\n580F1000 000000C0\n780F0000 00000048\n680F0000 3FE66666 3FE66666\n\n",
-        "[Visual Distance x2.0]": "[Visual Distance x2.0]\n580F0000 03EAC010\n580F1000 000000C0\n780F0000 00000048\n680F0000 40000000 40000000\n\n"
+        "[Visual Distance x2.0]": "[Visual Distance x2.0]\n580F0000 03EAC010\n580F1000 000000C0\n780F0000 00000048\n680F0000 40000000 40000000\n\n",
+        "[60 FPS v2]": "[60 FPS v2]\n580F0000 0410C058\n780F0000 00000F14\n640F0000 00000000 00000001\n04000000 01EF1950 D65F03C0\n04000000 01DE89AC 72A7916A\n04000000 01DE8A0C 72A78CAA\n04000000 01DE80D4 72A78DAC\n04000000 01DE80D0 72A78AEB\n04000000 01DE80FC 72A7908B\n\n",
+        "[Default 30 FPS v2]": "[Default 30 FPS v2]\n580F0000 0410C058\n780F0000 00000F14\n640F0000 00000000 00000002\n04000000 01EF1950 9BC97D08\n04000000 01DE89AC 72A7A16A\n04000000 01DE8A0C 72A79CAA\n04000000 01DE80D4 72A79DAC\n04000000 01DE80D0 72A79AEB\n04000000 01DE80FC 72A7A08B\n\n",
+        "[Force Max Handheld Resolution]": "[Force Max Handheld Resolution]\n04000000 0410C3E8 00000001\n04000000 033A1B70 00000006\n\n",
+        "[Force Max Docked Resolution]": "[Force Max Docked Resolution]\n04000000 0410C3E8 00000001\n04000000 033A1B70 00000000\n\n"
     },
     "attribution": {
-        "Dying Light Platinum Edition.txt": "By ArcharGelod and Hazerou\n\nThe Resolution Codes nearby these codes doesn't affect Render Resolution. It only affects the Texts and UI Shrinking them to the top left of the screen. But reducing the Visual Distance helps Improve the Performance.\n\nOh and in order to apply these Graphics Codes, you need to go back to the Title Screen and then Continue."
+        "Dying Light Platinum Edition.txt": "By ArcharGelod and Hazerou\n\nThe Resolution Codes nearby these codes doesn't affect Render Resolution. It only affects the Texts and UI Shrinking them to the top left of the screen. But reducing the Visual Distance helps Improve the Performance.\n\nOh and in order to apply these Graphics Codes, you need to go back to the Title Screen and then Continue.\n\n---\n\n60 FPS v2 and Resolution Cheats by MasaGratoR\n\n60 FPS v2 tweaks Dynamic Resolution timings to half of default values and blocks dynamic GPU clocks.\nDon't use resolution cheats with 60 FPS v2 + don't use docked resolution in handheld mode, otherwise expect rendering bugs.\n"
     }
 }
