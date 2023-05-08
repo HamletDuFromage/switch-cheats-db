@@ -3,7 +3,9 @@
     "131072": "1A7388E3DA708FAD",
     "196608": "A254B74DF2FF0FDA",
     "262144": "0EFE7B151DFFCA3F",
+    "327680": "0EFE7B151DFFCA3F",
+    "393216": "8DFC335EDA018478",
     "65536": "1440C6DAA244A31B",
-    "latest": 262144,
+    "latest": 393216,
     "title": "Buddy Simulator 1984"
 }
