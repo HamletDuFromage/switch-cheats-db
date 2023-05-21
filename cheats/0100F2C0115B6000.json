@@ -14,6 +14,19 @@
         "[#10. (X) Jump]": "[#10. (X) Jump]\n580F0000 04642D88\n580F1000 000000C8\n580F1000 00000178\n580F1000 00000030\n780F0000 000000FC\n80000004\n640F01D0 00000000 41200000\n20000000\n\n",
         "[-NOTE- with research & codes from patjenova, Eiffel2018, a7251835, KaitoB, khuong]": "[-NOTE- with research & codes from patjenova, Eiffel2018, a7251835, KaitoB, khuong]\n\n"
     },
+    "168DD518D925C7A3": {
+        "[60 FPS]": "[60 FPS]\n04000000 00ECF81C 52800021\n04000000 0081FFB8 52800035\n04000000 00820028 52800028\n04000000 0081FFC0 5280002C\n04000000 0081FF0C 2A1F03EB\n04000000 019BCC40 D503201F\n04000000 019C84D8 D503201F\n04000000 0081FF10 52800035\n04000000 0081FF44 52800021\n\n",
+        "[30 FPS]": "[30 FPS]\n04000000 00ECF81C 52800041\n04000000 0081FFB8 52800055\n04000000 00820028 52800048\n04000000 0081FFC0 5280004C\n04000000 0081FF0C 2A1F03EB\n04000000 019BCC40 D503201F\n04000000 019C84D8 D503201F\n04000000 0081FF10 52800055\n04000000 0081FF44 52800041\n\n",
+        "[20 FPS]": "[20 FPS]\n04000000 00ECF81C 52800061\n04000000 0081FFB8 52800075\n04000000 00820028 52800068\n04000000 0081FFC0 5280006C\n04000000 0081FF0C 2A1F03EB\n04000000 019BCC40 D503201F\n04000000 019C84D8 D503201F\n04000000 0081FF10 52800075\n04000000 0081FF44 52800061\n\n",
+        "[Handheld 480p]": "[Handheld 480p]\n580F0000 047215A0\n580F1000 00000090\n780F0000 000000F0\n680F01D0 000001E0 00000356\n\n",
+        "[Handheld 540p]": "[Handheld 540p]\n580F0000 047215A0\n580F1000 00000090\n780F0000 000000F0\n680F01D0 0000021C 000003C0\n\n",
+        "[Handheld 612p]": "[Handheld 612p]\n580F0000 047215A0\n580F1000 00000090\n780F0000 000000F0\n680F01D0 00000264 00000440\n\n",
+        "[Handheld 648p]": "[Handheld 648p]\n580F0000 047215A0\n580F1000 00000090\n780F0000 000000F0\n680F01D0 00000288 00000480\n\n",
+        "[Default Handheld 720p]": "[Default Handheld 720p]\n580F0000 047215A0\n580F1000 00000090\n780F0000 000000F0\n680F01D0 000002D0 00000500\n\n",
+        "[Docked 720p]": "[Docked 720p]\n580F0000 047215A0\n580F1000 00000090\n780F0000 000000F0\n680F01D0 00000360 00000600\n\n",
+        "[Docked 810p]": "[Docked 810p]\n580F0000 047215A0\n580F1000 00000090\n780F0000 000000F0\n680F01D0 000003CC 000006C0\n\n",
+        "[Default Docked 900p]": "[Default Docked 900p]\n580F0000 047215A0\n580F1000 00000090\n780F0000 000000F0\n680F01D0 00000438 00000780\n\n"
+    },
     "D5AD6AC71EF53E3E": {
         "[The Legend of Zelda Tears of the Kingdom (US) v131072 TID=0100F2C0115B6000 BID=D5AD6AC71EF53E3E]": "[The Legend of Zelda Tears of the Kingdom (US) v131072 TID=0100F2C0115B6000 BID=D5AD6AC71EF53E3E]\n\n",
         "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 006AB0C8 F9400008\n040E0000 009E9BFC 540004C1\n040E0000 007FBA10 1E212841\n080E0000 00D0B8C4 BD401D00 9B292908\n040E0000 00D0B8CC BD000260\n040E0000 00A0EA3C B9400901\n040E0000 00B97364 BD004668\n040E0000 00B973DC BD004668\n040E0000 00807CA4 1E2E1008\n040E0000 00807CE0 BD400000\n040E0000 02B1FFDC 00000000\n040E0000 02B1FFD8 00000000\n040E0000 006920EC 1E210800\n\n",
@@ -49,6 +62,6 @@
         "[Default Docked 900p]": "[Default Docked 900p]\n580F0000 04719670\n580F1000 00000090\n780F0000 000000F0\n680F01D0 00000438 00000780\n\n"
     },
     "attribution": {
-        "The Legend of Zelda Tears of the Kingdom.txt": "1.1.0 20FPS, 30FPS, 60FPS and Shadow resolution by somerandompeople, v0.3.1.10.\nhttps://gbatemp.net/download/loz-tears-of-the-kingdom-20fps-30fps-60fps-patch.37996/\n\n1.1.0 Resolution cheats by bad1dea\nhttps://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom%20(US)/0100F2C0115B6000/cheats\n\nFSR Downscaling and disable quality reduction on low framerate by Patchanon.\n\n1792x1008 Internal Resolution by ChucksFeedAndSeed.\n\nNotes:\n60 FPS causes rendered cutscenes to be out of sync.\nGame speed will slow down whenever it can't maintain 60 FPS.\n1792x1008 is the max supported resolution without breaking effects like AO.\n\n1.1.0 60 fps convert by halop.\n1.1.0 FSR downscaling, quality reduction, 1792x1008 resolution, shadow resolution and updated fps cheats converted by Sildur.\n"
+        "The Legend of Zelda Tears of the Kingdom.txt": "20FPS, 30FPS and 60FPS by somerandompeople, v0.4.2.4.\nhttps://gbatemp.net/download/loz-tears-of-the-kingdom-20fps-30fps-60fps-patch.37996/\n\nResolution cheats by bad1dea\nhttps://github.com/bad1dea/NXCheats/tree/main/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom%20(US)/0100F2C0115B6000/cheats\n\nNotes:\n60 FPS mode causes a few issues such as game slowdowns if 60 FPS can't be maintained and out of sync cutscenes.\n\n60 fps convert by halop.\nUpdated fps cheats converted by Sildur.\n"
     }
 }
