@@ -1,0 +1,10 @@
+{
+    "101279C95BF61B40": {
+        "[*Inf HP Jericoss]": "[*Inf HP Jericoss]\n580F0000 02456FF8\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000058\n580F1000 00000028\n780F0000 00000024\n640F0000 00000000 41A00000\n\n",
+        "[*Max Hp 20]": "[*Max Hp 20]\n580F0000 02456FF8\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000058\n580F1000 00000028\n780F0000 00000020\n640F0000 00000000 41A00000\n\n",
+        "[*Guns 888]": "[*Guns 888]\n580F0000 02456410\n580F1000 000000A0\n580F1000 00000068\n580F1000 00000058\n780F0000 0000008C\n640F0000 00000000 00000378\n\n"
+    },
+    "attribution": {
+        "Star Story The Horizon Escape ver 1.0.0 by jericoss.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
+}

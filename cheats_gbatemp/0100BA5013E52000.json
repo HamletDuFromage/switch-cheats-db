@@ -1,0 +1,10 @@
+{
+    "450F1E06CB093F4E": {
+        "[HP Max by jhmiller]": "[HP Max by jhmiller]\n580F0000 02A07DC8\n580F1000 0000BA80\n580F1000 00000068\n780F0000 00000018\n640F0000 00000000 41E80000\n\n",
+        "[Speed Bar Max by jhmiller]": "[Speed Bar Max by jhmiller]\n580F0000 02A07DC8\n580F1000 000070B0\n580F1000 000000D8\n780F0000 00000230\n640F0000 00000000 3F800000\n\n",
+        "[Money 9999999 by jhmiller]": "[Money 9999999 by jhmiller]\n580F0000 02A07DC8\n580F1000 000010B0\n780F0000 00000068\n640F0000 00000000 0098967F\n\n"
+    },
+    "attribution": {
+        "The Falconeer Warrior Edition ver 1.4.25 by jhmiller.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"
+    }
+}

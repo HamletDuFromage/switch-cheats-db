@@ -1,0 +1,10 @@
+{
+    "95F1724B8C468D93": {
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 0127d31c 00000009\n\n",
+        "[P1 Infinite Ammo]": "[P1 Infinite Ammo]\n08000000 0127d36c 99999999 99999999\n02000000 0127d374 00009999\n\n",
+        "[P1 Invincible]": "[P1 Invincible]\n01000000 0127d2c2 000000ff\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 0127d41c 00000009\n\n",
+        "[P2 Infinite Ammo]": "[P2 Infinite Ammo]\n08000000 0127d46c 99999999 99999999\n02000000 0127d474 00009999\n\n",
+        "[P2 Invincible]": "[P2 Invincible]\n01000000 0127d3c2 000000ff\n\n"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "389C6C494EEC527C": {
+        "[EXP]": "[EXP]\n04000000 00CEE9DC 000F423F\n\n",
+        "[Charisma]": "[Charisma]\n01000000 00CEE9D6 00000032\n\n",
+        "[Intuition]": "[Intuition]\n01000000 00CEE9D7 00000032\n\n",
+        "[Logic]": "[Logic]\n01000000 00CEE9D8 00000032\n\n",
+        "[Charm]": "[Charm]\n01000000 00CEE9D9 00000032\n\n",
+        "[Performance]": "[Performance]\n01000000 00CEE9DA 00000032\n\n",
+        "[Stealth]": "[Stealth]\n01000000 00CEE9DB 00000032\n\n",
+        "[Inf Abilities Points]": "[Inf Abilities Points]\n580F0000 0E909CE0\n580F1000 00000748\n780F0000 000000D0\n640F0000 00000000 00000005\n\n"
+    },
+    "attribution": {
+        "Gnosia ver 1.0.2 by jhmiller.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
+}

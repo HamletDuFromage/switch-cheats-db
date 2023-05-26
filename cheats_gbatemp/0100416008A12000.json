@@ -1,0 +1,11 @@
+{
+    "BDB65BAE30A95ABE": {
+        "[Infinite Health]": "[Infinite Health]\n04100000 5ab30f9a 00f800f8\n\n",
+        "[Infinite Magic]": "[Infinite Magic]\n02100000 5ab2fd4e 000000f8\n02100000 5ab304fe 000000f8\n04100000 5ab30500 00f800f8\n\n",
+        "[99999 Souls x99]": "[99999 Souls x99]\n04100000 5ab40e2c 0001869f\n04100000 5ab30344 0001869f\n04100000 5ab30348 0001869f\n\n",
+        "[hit range grafic crash]": "[hit range grafic crash]\n04000000 00370F5C 00000000\n80000008\n04000000 00370F5C 3F800000\n20000000\n\n"
+    },
+    "attribution": {
+        "onimusha ver 1.0 by xatu.txt": "[From MAX-CHEATS.com by matias3ds for Onimusha Warlords]\n\n[Infinite Health]\n04100000 5ab30f9a 00f800f8\n\n[Infinite Magic]\n02100000 5ab2fd4e 000000f8\n02100000 5ab304fe 000000f8\n04100000 5ab30500 00f800f8\n\n[99999 Souls x99]\n04100000 5ab40e2c 0001869f\n04100000 5ab30344 0001869f\n04100000 5ab30348 0001869f"
+    }
+}

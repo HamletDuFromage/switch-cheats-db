@@ -1,0 +1,9 @@
+{
+    "B803D79D4397A09F": {
+        "[60 FPS]": "[60 FPS]\n580F0000 01CD0800\n580F1000 000026B8\n580F1000 000000D8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 01CD0800\n580F1000 000026B8\n580F1000 000000D8\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Captain Tsubasa Rise of New Champions.txt": "By Hazerou\n\n60 FPS Experience is bad... FPS is all over the place. And sometimes it drops and stays at 30 FPS. (Handheld Max OC). "
+    }
+}

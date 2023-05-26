@@ -1,0 +1,16 @@
+{
+    "C22B26791E9066A9": {
+        "[Max Status]": "[Max Status]\n580F0000 00D10040\n780F0000 00000016\n620F0000 00000000 00003232\n780F0000 00000002\n640F0000 00000000 32323232\n\n",
+        "[Max Lv]": "[Max Lv]\n580F0000 00D10040\n780F0000 00000012\n620F0000 00000000 000003E7\n\n",
+        "[Sex Male (Hold - & Left)]": "[Sex Male (Hold - & Left)]\n80001800\n580F0000 00D10040\n780F0000 00000014\n610F0000 00000000 00000000\n20000000\n\n",
+        "[Sex Woman (Hold - & Right)]": "[Sex Woman (Hold - & Right)]\n80004800\n580F0000 00D10040\n780F0000 00000014\n610F0000 00000000 00000001\n20000000\n\n",
+        "[Sex Asexual (Hold - & Y)]": "[Sex Asexual (Hold - & Y)]\n80000808\n580F0000 00D10040\n780F0000 00000014\n610F0000 00000000 00000002\n20000000\n\n",
+        "[Max EX]": "[Max EX]\n580F0000 00D10040\n780F0000 0000001C\n640F0000 00000000 05F5E0FF\n\n",
+        "[LOOP 999 (Hold - & Up)]": "[LOOP 999 (Hold - & Up)]\n80002800\n580F0000 00D10040\n780F0000 00000024\n620F0000 00000000 000003E7\n20000000\n\n",
+        "[LOOP 1 (Hold - & Down)]": "[LOOP 1 (Hold - & Down)]\n80008800\n580F0000 00D10040\n780F0000 00000024\n620F0000 00000000 00000001\n20000000\n\n",
+        "[ROUND 1 (Hold -)]": "[ROUND 1 (Hold -)]\n80000800\n580F0000 00D10040\n780F0000 0000002A\n610F0000 00000000 00000000\n20000000\n\n"
+    },
+    "attribution": {
+        "Gnosia ver 1.0.0 by ZiT.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
+    }
+}

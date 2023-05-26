@@ -1,0 +1,12 @@
+{
+    "C920E632A1B1160F": {
+        "[Normal]": "[Normal]\n04000000 019406C0 51000529\n04000000 0193FD60 51000529\n04000000 019405A8 51000529\n04000000 0194001C 51000529\n04000000 019407D8 51000529\n04000000 01940298 51000529\n04000000 016ADF50 54FFF928\n\n",
+        "[Unlimited shield]": "[Unlimited shield]\n04000000 019406C0 D503201F\n04000000 0193FD60 52800089\n\n",
+        "[Unlimited bomb]": "[Unlimited bomb]\n04000000 019405A8 D503201F\n04000000 0194001C 52800089\n\n",
+        "[Unlimited slow]": "[Unlimited slow]\n04000000 019407D8 D503201F\n04000000 01940298 52800089\n\n",
+        "[Shield last forever]": "[Shield last forever]\n04000000 016ADF50 17FFFFC9\n\n"
+    },
+    "attribution": {
+        "Hyper Echelon 1.0.4   by Tomswitch.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+    }
+}

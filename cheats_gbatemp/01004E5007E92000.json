@@ -1,0 +1,16 @@
+{
+    "3295D9B0DA169A4F": {
+        "[Infinite HP]": "[Infinite HP]\n04000000 00162380 4B1F0108\n\n",
+        "[Free Extras]": "[Free Extras]\n04000000 0029D490 52800000\n\n",
+        "[Energy unlimited]": "[Energy unlimited]\n580F0000 0436FA70\n780F0000 00008260\n610F0000 00000000 00000006\n\n",
+        "[Add Nuts with DOWN]": "[Add Nuts with DOWN]\n80008000\n580F0000 043596D8\n780F0000 00000FC4\n640F0000 00000000 0001869F\n\n"
+    },
+    "799D52EEAAF76B47": {
+        "[Infinite HP]": "[Infinite HP]\n04000000 000055F0 4B1F0108\n\n",
+        "[Free Extras]": "[Free Extras]\n04000000 000B6090 52800000\n\n"
+    },
+    "attribution": {
+        "Ice Age Scrats Nutty Adventure v1.0 by Dablackdeath.txt": "",
+        "Ice Age Scrats Nutty Adventure v1.0.1 by DaBlackdeath.txt": ""
+    }
+}

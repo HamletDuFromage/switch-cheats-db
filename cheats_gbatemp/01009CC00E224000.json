@@ -1,0 +1,9 @@
+{
+    "0379AC316B16FBC1": {
+        "[Infinite Health]": "[Infinite Health]\n58000000 06D38BF0\n58001000 000011F0\n78000000 00000A8C\n64000000 00000000 43A20000\n\n",
+        "[999999 Gold]": "[999999 Gold]\n58000000 06B50C10\n58001000 00000018\n78000000 00000044\n64000000 00000000 000F423F\n\n"
+    },
+    "attribution": {
+        "Blade 2 by Wiitendo84.txt": "CC buttle and AP buttle codes will only apply during battle\nthese code are only work with atmosphere,because code include address and value check to avoid crash\nI'm not sure that the check is enough to avoid crash,so it's better to use only field cheat code."
+    }
+}

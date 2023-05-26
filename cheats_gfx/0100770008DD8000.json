@@ -1,0 +1,9 @@
+{
+    "FB08F1D20FD1204F": {
+        "[60 FPS]": "[60 FPS]\n58000000 018A6210\n78000000 0000243C\n64000000 00000000 42700000\n\n",
+        "[30 FPS]": "[30 FPS]\n58000000 018A6210\n78000000 0000243C\n64000000 00000000 41F00000\n\n"
+    },
+    "attribution": {
+        "Monster Hunter Generations Ultimate.txt": "By Masagrator\nRecommended OC settings:\n\nhandheld_charging_cpu=1224\nhandheld_charging_gpu=768\nhandheld_charging_mem=1600"
+    }
+}

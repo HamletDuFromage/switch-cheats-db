@@ -1,0 +1,9 @@
+{
+    "4979B200D53BB282": {
+        "[60 FPS]": "[60 FPS]\n04000000 04539D24 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n04000000 04539D24 00000002\n\n"
+    },
+    "attribution": {
+        "Divinity Original Sin 2 - Definitive Edition.txt": "By Hazerou\n\nFPS will drop to 30 if it can't handle 60 FPS."
+    }
+}

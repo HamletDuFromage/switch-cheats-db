@@ -1,0 +1,14 @@
+{
+    "8E1251E46A5BCAAA": {
+        "[inf. HP]": "[inf. HP]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 000004A8\n620E0000 00000000 000003E7\n780E0000 00000040\n620E0000 00000000 000003E7\n\n",
+        "[inf. MP]": "[inf. MP]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 000006E8\n610E0000 00000000 000000FF\n\n",
+        "[Inf. Jump (Double Jump enchance)]": "[Inf. Jump (Double Jump enchance)]\n58010000 034CDA28\n58011000 00000130\n58011000 000002A0\n58011000 00000260\n78010000 00000138\n61010000 00000000 00000000\n\n",
+        "[inf. Water Breathing]": "[inf. Water Breathing]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 00000A38\n610E0000 00000000 00000032\n\n",
+        "[inf. Money]": "[inf. Money]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 00000058\n620E0000 00000000 0000270F\n\n",
+        "[inf. Upgrade Points]": "[inf. Upgrade Points]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 00000508\n610E0000 00000000 00000063\n\n",
+        "[inf. Skill Points]": "[inf. Skill Points]\n580E0000 034CDA20\n580E1000 00000368\n780E0000 00000238\n610E0000 00000000 00000063\n\n"
+    },
+    "attribution": {
+        "Inexistence, Rebirth v1.0.0 by Eiffel.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
+}

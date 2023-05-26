@@ -1,0 +1,9 @@
+{
+    "3758602AA47ADD37": {
+        "[60 FPS]": "[60 FPS]\n04000000 01072764 3F800000\n580F0000 01079700\n580F1000 0000FFF8\n780F0000 00005E34\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n04000000 01072764 40000000\n580F0000 01079700\n580F1000 0000FFF8\n780F0000 00005E34\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Valkyria Chronicles 4.txt": "by Hazerou\nFPS will drop to 30 and Game Speed will slow down when Switch can't handle 60 FPS. OC GPU if Possible.\n\nCouldn't find the Resolution Code. All I found is the viewport and it doesn't even affect improved the performance."
+    }
+}

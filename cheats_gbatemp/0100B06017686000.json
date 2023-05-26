@@ -1,0 +1,17 @@
+{
+    "80A6528448378AAB": {
+        "[HP Inf]": "[HP Inf]\n04000000 01B80228 D503201F\n04000000 01B9162C BD40C900\n04000000 01B92538 BD40CAA0\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 01B80228 1E2A3800\n04000000 01B9162C 1E203820\n04000000 01B92538 1E203920\n\n",
+        "[Stamina Inf]": "[Stamina Inf]\n04000000 01B7AD3C D503201F\n\n",
+        "[Stamina Inf Off]": "[Stamina Inf Off]\n04000000 01B7AD3C 1E213800\n\n",
+        "[Soul Orbs Inf]": "[Soul Orbs Inf]\n04000000 01B7CC74 D503201F\n\n",
+        "[Soul Orbs Inf Off]": "[Soul Orbs Inf Off]\n04000000 01B7CC74 B900D509\n\n",
+        "[Ghost Moves Inf]": "[Ghost Moves Inf]\n04000000 01B83B40 D503201F\n\n",
+        "[Ghost Moves Inf Off]": "[Ghost Moves Inf Off]\n04000000 01B83B40 B900E509\n\n",
+        "[Coins x4]": "[Coins x4]\n04000000 01B84A5C 0B140929\n\n",
+        "[Coins x4 Off]": "[Coins x4 Off]\n04000000 01B84A5C 0B140129\n\n",
+        "[Coins No Decrease]": "[Coins No Decrease]\n04000000 01F5DDC4 D503201F\n04000000 021112F0 2A0A03E9\n\n",
+        "[Coins No Decrease Off]": "[Coins No Decrease Off]\n04000000 01F5DDC4 4B0A0129\n04000000 021112F0 4B090149\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
+}

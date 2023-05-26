@@ -1,0 +1,13 @@
+{
+    "274132861EAA8465": {
+        "[Breeze beta63 New Joe & Mac: Caveman Ninja 1.0.1 TID: 01003A9013DEE000 BID: 274132861EAA8465]": "[Breeze beta63 New Joe & Mac: Caveman Ninja 1.0.1 TID: 01003A9013DEE000 BID: 274132861EAA8465]\n\n",
+        "[life no dec]": "[life no dec]\n04000000 02C9C4EC D503201F\n\n",
+        "[off]": "[off]\n04000000 02C9C4EC 7100054A\n\n",
+        "[ZL fill HP (boss too)]": "[ZL fill HP (boss too)]\n04000000 02CD81F8 5400008C \n80000100 \n04000000 02CD81F8 5400008C \n04000000 02CD81F8 14000004 \n20000000\n\n",
+        "[ZL the one who got hit gets lots of HP (don't hit enemy)]": "[ZL the one who got hit gets lots of HP (don't hit enemy)]\n04000000 02CD7F50 BD401001 \n80000100 \n04000000 02CD7F50 BD401001 \n04000000 02CD7F50 147D8734 \n04000000 04C39C20 1C0000A1 \n04000000 04C39C24 BD001001 \n04000000 04C39C28 BD001401 \n04000000 04C39C2C BD001801 \n04000000 04C39C30 178278C9 \n04000000 04C39C34 44E10000 \n20000000\n\n",
+        "[ZR powerful attack (enemy's too)]": "[ZR powerful attack (enemy's too)]\n04000000 02CD7F68 1E203821 \n80000200 \n04000000 02CD7F68 1E203821 \n04000000 02CD7F68 147D8734 \n04000000 04C39C38 1E27F000 \n04000000 04C39C3C 1E203821 \n04000000 04C39C40 178278CB \n20000000\n\n"
+    },
+    "attribution": {
+        "New Joe & Mac Caveman Ninja 1.0.1 by Tomswitch.txt": "111022\n\n\n\n\n\n\n\n\n"
+    }
+}

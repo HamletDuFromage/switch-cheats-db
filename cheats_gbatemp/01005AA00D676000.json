@@ -1,0 +1,23 @@
+{
+    "A4EA361912D1FAAC": {
+        "[Infinite Player]": "[Infinite Player]\n580F0000 01A2A518\n580F1000 00000580\n580F1000 000001B0\n580F1000 000004D8\n780F0000 00000038\n640F0000 00000000 0000000A\n\n"
+    },
+    "A6508B49CB116267": {
+        "[Ship Energy unlimited]": "[Ship Energy unlimited]\n580F0000 02754BF8\n580F1000 000004D0\n580F1000 00000218\n580F1000 00000288\n780F0000 00000038\n610F0000 00000000 00000008\n\n",
+        "[Human Energy unlimited]": "[Human Energy unlimited]\n580F0000 02754BF8\n580F1000 00000030\n580F1000 00000040\n580F1000 000004D8\n780F0000 00000038\n610F0000 00000000 00000008\n\n"
+    },
+    "B4C22C2A6B42CB3D": {
+        "[Infinite Health]": "[Infinite Health]\n580F0000 01A2A518\n580F1000 00000580\n580F1000 000001B0\n580F1000 000004D8\n780F0000 00000038\n640F0000 00000000 00000008\n\n",
+        "[Infinite Subweapon]": "[Infinite Subweapon]\n580F0000 01A41588\n580F1000 00000080\n580F1000 00000088\n580F1000 000000D0\n780F0000 00000110\n640F0000 00000000 00640800\n\n"
+    },
+    "EACF4443D4078F41": {
+        "[Infinite Ship health]": "[Infinite Ship health]\n580F0000 013064B8\n580F1000 000004B0\n580F1000 00000218\n580F1000 00000278\n780F0000 00000038\n640F0000 00000000 00000008\n\n",
+        "[Infinite Health Player work and crash game]": "[Infinite Health Player work and crash game]\n580F0000 01384970\n580F1000 000004A8\n580F1000 000001A0\n580F1000 000004A8\n780F0000 00000038\n640F0000 00000000 000003E7\n\n",
+        "[Infinite ship Sub Weapon]": "[Infinite ship Sub Weapon]\n580F0000 013064B8\n580F1000 00000030\n580F1000 00000040\n580F1000 00000018\n780F0000 00000040\n640F0000 00000000 00640600\n\n",
+        "[Infinite Health Player]": "[Infinite Health Player]\n580F0000 013064C8\n580F1000 00000040\n580F1000 00000040\n580F1000 000004B8\n780F0000 00000038\n640F0000 00000000 000003E7\n\n"
+    },
+    "attribution": {
+        "Blaster master 2 wiitendo84.txt": "Before going to a Mach disable codes. And you must be first at the beginning. ",
+        "Blaster Master Zero 2 ver 1.5.2 by merlin555.txt": "caution\ncan some problems"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "13B314A955C5CAC4": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n02000000 01283460 00000200\n\n",
+        "[P1 Infinite Time]": "[P1 Infinite Time]\n01000000 01283459 000000ff\n\n",
+        "[P1 Invincible]": "[P1 Invincible]\n01000000 0127d4f1 000000ff\n\n",
+        "[P2 Infinite HP]": "[P2 Infinite HP]\n02000000 01283560 00000200\n\n",
+        "[P2 Infinite Time]": "[P2 Infinite Time]\n01000000 01283559 000000ff\n\n",
+        "[P2 Invincible]": "[P2 Invincible]\n01000000 0127d5f1 000000ff\n\n"
+    }
+}

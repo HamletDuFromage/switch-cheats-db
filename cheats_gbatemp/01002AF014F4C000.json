@@ -1,0 +1,19 @@
+{
+    "F20FDC280AF01CBE": {
+        "[Crazy jump (ZL+B)]": "[Crazy jump (ZL+B)]\n80000102\n04000000 03341CE4 00000000\n20000000\n\n",
+        "[hitanywhere]": "[hitanywhere]\n04000000 00678480 D65F03C0\n\n",
+        "[hitanywhere off]": "[hitanywhere off]\n04000000 00678480 D10083FF\n\n",
+        "[speed attack normal]": "[speed attack normal]\n04000000 000120B0 1E2E1008\n\n",
+        "[speed attack 2x]": "[speed attack 2x]\n04000000 000120B0 1E201008\n\n",
+        "[speed attack 3x]": "[speed attack 3x]\n04000000 000120B0 1E211008\n\n",
+        "[(PRESS L STICK) Enter Hero Mode]": "[(PRESS L STICK) Enter Hero Mode]\n80000010\n02000000 033423D6 00000200\n02000000 033423E8 00000200\n02000000 03342406 00000200\n04000000 03342408 02000200\n02000000 0334240C 00000200\n01000000 03322358 00000001\n20000000\n\n",
+        "[Enter Hero Mode Always]": "[Enter Hero Mode Always]\n02000000 033423D6 00000200\n02000000 033423E8 00000200\n02000000 03342406 00000200\n04000000 03342408 02000200\n02000000 0334240C 00000200\n01000000 03322358 00000001\n\n",
+        "[Maintain FPS Limit to 60]": "[Maintain FPS Limit to 60]\n580F0000 0748BB30\n580F1000 000003D0\n580F1000 00000030\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[*Crazy Speed Jericoss]": "[*Crazy Speed Jericoss]\n80000002\n04000000 03341CE8 00000000\n20000000\n\n",
+        "[1p invicible on ]": "[1p invicible on ]\n04000000 00028890 D503201F\n\n",
+        "[1p invicible off ]": "[1p invicible off ]\n04000000 00028890 72001C1F\n\n"
+    },
+    "attribution": {
+        "NINJA GAIDEN 3 ver 1.0.1 by Patjenova and xtatu Hazerou and Jericoss.txt": "NOTE:\nIf stats become unusable, set to lower number (tested with these a little and seemd fine. Dont exceed too hard or you might get 1 shot etc).\nStat changes will be made when you teleport in/out or level up."
+    }
+}

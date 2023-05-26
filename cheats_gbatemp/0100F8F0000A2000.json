@@ -1,0 +1,12 @@
+{
+    "8A7F4570B0D5D94C": {
+        "[01# Inf Paint]": "[01# Inf Paint]\n580F0000 02E2F0A0\n580F1000 00000078\n580F1000 000007B0\n580F1000 00000234\n780F0000 00000030\n640F0000 00000000 AC88575E\n\n",
+        "[02# Moonjump]": "[02# Moonjump]\n80000002\n580F0000 02E2F0A0\n580F1000 00000078\n780F0000 00000388\n640F0000 00000000 40000000\n20000000\n\n",
+        "[03# Max money]": "[03# Max money]\n580F0000 02E3BD88\n580F1000 000002B0\n580F1000 000005E8\n780F0000 000005E0\n640F0000 00000000 0001869F\n\n",
+        "[04# Max red balls]": "[04# Max red balls]\n580F0000 02E1F408\n580F1000 00000078\n780F0000 000000F8\n640F0000 00000000 0000270F\n\n",
+        "[05# Max life]": "[05# Max life]\n580F0000 02E1F408\n580F1000 00000078\n780F0000 00000174\n640F0000 00000000 00000003\n\n"
+    },
+    "attribution": {
+        "Splatoon 2 ver 5.2.2 by patjenova.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    }
+}

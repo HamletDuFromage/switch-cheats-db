@@ -1,0 +1,21 @@
+{
+    "7AE22DDABCE854F5": {
+        "[ 1p invelcible mode]": "[ 1p invelcible mode]\n04000000 005D8430 D65F03C0\n\n",
+        "[1p speed 2x]": "[1p speed 2x]\n04000000 005DA4E8 320203E9\n\n",
+        "[1p speed 100x]": "[1p speed 100x]\n04000000 005DA4E8 52A85909\n\n",
+        "[1p damger 100x]": "[1p damger 100x]\n04000000 005DBE64 52A85909\n\n",
+        "[throw anywhere mode]": "[throw anywhere mode]\n04000000 008A8B18 D65F03C0\n\n",
+        "[hitanywhere gun shot gun]": "[hitanywhere gun shot gun]\n04000000 00043264 D65F03C0\n\n",
+        "[hitanywhere gun shot gun off code]": "[hitanywhere gun shot gun off code]\n04000000 00043264 A9BF7BFD\n\n",
+        "[1p invecible]": "[1p invecible]\n04000000 005D8430 D65F03C0\n\n",
+        "[hitanywhere gun]": "[hitanywhere gun]\n04000000 00AFD470 D65F03C0\n\n",
+        "[inf health+protection hit+damger0]": "[inf health+protection hit+damger0]\n04000000 0001D5CC D503201F\n\n",
+        "[1p invelcible mode]": "[1p invelcible mode]\n04000000 00020C14 D65F03C0\n\n",
+        "[inf jump]": "[inf jump]\n04000000 000312F4 D10543FF\n80000002 04000000 000312F4 D65F03C0\n20000000\n\n",
+        "[hitanywhere weapon]": "[hitanywhere weapon]\n04000000 00AFD700 D65F03C0\n\n",
+        "[unlimited Combo]": "[unlimited Combo]\n04000000 00062194 52A01309\n04000000 00062198 7292CFE9\n\n"
+    },
+    "attribution": {
+        "Bayonetta BY XTATU.txt": "?After the 2th person, please add +08 to the following code\n580F1000 00000020"
+    }
+}

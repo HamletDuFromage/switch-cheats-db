@@ -1,0 +1,18 @@
+{
+    "2FF03FC088CBA7A7": {
+        "[Inf Hp]": "[Inf Hp]\n040F0000 4D15C76C 00000101\n\n",
+        "[Achieve rate]": "[Achieve rate]\n040F0000 4D15C770 01000000\n\n"
+    },
+    "8CF5D24227C5DD98": {
+        "[Inf Life]": "[Inf Life]\n040F0000 4D14F704 00000101\n\n",
+        "[Achievement rate]": "[Achievement rate]\n040F0000 4D14F708 01000000\n\n"
+    },
+    "E0C41878F636AD4F": {
+        "[Max VP Points]": "[Max VP Points]\n04000000 4D0F51B8 0098967F\n\n",
+        "[Max Score In Song]": "[Max Score In Song]\n04000000 4D15E798 01000000\n\n",
+        "[Infinite Life]": "[Infinite Life]\n04000000 4D15E794 00000101\n\n"
+    },
+    "attribution": {
+        "Hatsune Miku Project DIVA Mega Mix ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
+}

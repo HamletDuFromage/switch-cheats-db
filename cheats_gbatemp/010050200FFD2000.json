@@ -1,0 +1,17 @@
+{
+    "95BE6CAE58392DD9": {
+        "[Infinite Life]": "[Infinite Life]\n011F0000 7521EA81 0000000F\n\n",
+        "[Invincible]": "[Invincible]\n011F0000 7521EDC0 000000BD\n\n",
+        "[Rapid Fire]": "[Rapid Fire]\n011F0000 7521EDC1 00000001\n\n",
+        "[Beam]": "[Beam]\n011F0000 7521EDC3 00000001\n\n",
+        "[Speed (ZL)]": "[Speed (ZL)]\n80000100\n011F0000 7521EDCC 00000002\n011F0000 7521EDCE 00000005\n20000000\n\n",
+        "[Barrier (Y)]": "[Barrier (Y)]\n80000008\n011F0000 7521EDCC 00000003\n20000000\n\n",
+        "[Avatar (X)]": "[Avatar (X)]\n80000004\n011F0000 7521EDCC 00000004\n20000000\n\n",
+        "[3way (L)]": "[3way (L)]\n80000040\n011F0000 7521EDCC 00000008\n20000000\n\n",
+        "[Ball (R)]": "[Ball (R)]\n80000080\n011F0000 7521EDCC 00000009\n20000000\n\n",
+        "[Annihilation (ZR)]": "[Annihilation (ZR)]\n80000200\n011F0000 7521EDCC 0000000A\n20000000\n\n"
+    },
+    "attribution": {
+        "Arcade Archives TwinBee ZiT866.txt": "?After the 2th person, please add +08 to the following code\n580F1000 00000020"
+    }
+}

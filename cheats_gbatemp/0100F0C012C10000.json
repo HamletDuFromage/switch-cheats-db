@@ -1,0 +1,17 @@
+{
+    "2E9D4A761AB93843": {
+        "[Both Modes - Inf Lives ON]": "[Both Modes - Inf Lives ON]\n04000000 0021DBE0 F81D0FF5\n\n",
+        "[Arcade Mode - Inf Lives ON]": "[Arcade Mode - Inf Lives ON]\n01000000 006BED89 00000002\n\n",
+        "[Arcade Mode - Inf Lives OFF]": "[Arcade Mode - Inf Lives OFF]\n01000000 006BED89 00000006\n\n",
+        "[Free Play - Inf Lives ON]": "[Free Play - Inf Lives ON]\n01000000 006BEDF9 00000002\n\n",
+        "[Free Play - Inf Lives OFF]": "[Free Play - Inf Lives OFF]\n01000000 006BEDF9 00000006\n\n",
+        "{Master code}": "{Master code}\n04000000 00398A88 B00208B4\n04000000 00398A8C F907FA80\n\n",
+        "[Y ShotType BombL]": "[Y ShotType BombL]\n80000008\n580F0000 044ADFF0\n780F0000 000001DC\n620F0000 00000000 00000003\n20000000\n\n",
+        "[X ShotType LaserL]": "[X ShotType LaserL]\n80000004\n580F0000 044ADFF0\n780F0000 000001DC\n620F0000 00000000 00000006\n20000000\n\n",
+        "[B ShotType TLaser]": "[B ShotType TLaser]\n80000002\n580F0000 044ADFF0\n780F0000 000001DC\n620F0000 00000000 00000009\n20000000\n\n"
+    },
+    "attribution": {
+        "SPACE INVADERS FOREVER v1.0.0 by blackDeath and TomSwitch.txt": "Ammo 255 don't always work. The other two seems to be consistent",
+        "SPACE INVADERS FOREVER v1.0.0 by blackDeath.txt": "Ammo 255 don't always work. The other two seems to be consistent"
+    }
+}

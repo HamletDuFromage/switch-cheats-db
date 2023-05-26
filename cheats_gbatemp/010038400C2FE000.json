@@ -1,0 +1,13 @@
+{
+    "985EA0225C2D2AE3": {
+        "[01# Moonjump (press B)]": "[01# Moonjump (press B)]\n80000002\n04000000 0034E750 41800000\n20000000\n\n",
+        "[02# 99 Lifes]": "[02# 99 Lifes]\n580F0000 00331160\n780F0000 00001704\n640F0000 00000000 00000063\n\n",
+        "[03# 999 orbs]": "[03# 999 orbs]\n04000000 0036ABE0 000003E7\n\n",
+        "[04# Max health]": "[04# Max health]\n04000000 0034FD68 00000004\n\n",
+        "[05# Speed up (press X)]": "[05# Speed up (press X)]\n80000004\n04000000 0034E77C 42000000\n20000000\n\n",
+        "[06# Inf Air]": "[06# Inf Air]\n04000000 0034FD8C 00000008\n\n"
+    },
+    "attribution": {
+        "Ty the Tasmanian Tiger HD ver 1.0.0 by patjenova.txt": "Not valid for mini games"
+    }
+}

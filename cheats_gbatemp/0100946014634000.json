@@ -1,0 +1,15 @@
+{
+    "6738915A3B98814F": {
+        "[Immortal]": "[Immortal]\n080E0000 02593100 39008413 52800033\n080E0000 02593108 D65F03C0 AA0003F3\n040E0000 01961CF4 9430C503\n\n",
+        "[Reduce Stamina Consumption]": "[Reduce Stamina Consumption]\n040E0000 01963CA8 1E389001\n\n",
+        "[Increase for XP gain]": "[Increase for XP gain]\n040E0000 0196E650 110FA028\n\n",
+        "[One-Hit kill enemy]": "[One-Hit kill enemy]\n040E0000 0196E634 D503201F\n\n",
+        "[No dedution for Skill Point]": "[No dedution for Skill Point]\n040E0000 01600178 1F0BA100\n\n",
+        "[No cooldown for using Skill]": "[No cooldown for using Skill]\n040E0000 01C77FA8 1E2A1000\n\n",
+        "[Max Ingredient when collect]": "[Max Ingredient when collect]\n040E0000 0199AFDC B9407A77\n\n",
+        "[Prevent Ingredient Consumption]": "[Prevent Ingredient Consumption]\n040E0000 0199A8C8 2A0C03EA\n040E0000 0199B88C D503201F\n040E0000 0199BA70 2A0B03E8\n040E0000 0199B7B8 2A0E03ED\n040E0000 0199B724 52800020\n\n"
+    },
+    "attribution": {
+        "Alchemist Adventure v1.210526 (v131072) by Eiffel.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "C3CF52BF2B05D731": {
+        "[60 FPS]": "[60 FPS]\n581F0000 4BD26408\n780F0000 00000F14\n640F0000 00000000 00000001\n04000000 0269E150 0000003C\n04000000 0269E154 00000001\n04000000 0269E158 0000003C\n04000000 0269E15C 42700000\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n581F0000 4BD26408\n780F0000 00000F14\n640F0000 00000000 00000002\n04000000 0269E150 0000001E\n04000000 0269E154 00000002\n04000000 0269E158 0000001E\n04000000 0269E15C 41F00000\n\n",
+        "[378p Locked (Handheld Lowest)]": "[378p Locked (Handheld Lowest)]\n04000000 0277CB78 0000017A\n04000000 0277CB8C 00000000\n\n",
+        "[480p Locked]": "[480p Locked]\n04000000 0277CB78 000001E0\n04000000 0277CB8C 00000000\n\n",
+        "[504p Locked]": "[504p Locked]\n04000000 0277CB78 000001F8\n04000000 0277CB8C 00000000\n\n",
+        "[Default 540p Locked (Handheld Max)]": "[Default 540p Locked (Handheld Max)]\n04000000 0277CB78 000001E0\n04000000 0277CB8C 00000000\n\n",
+        "[567p Locked (Docked Lowest)]": "[567p Locked (Docked Lowest)]\n04000000 0277CB78 00000237\n04000000 0277CB8C 00000000\n\n",
+        "[648p Locked]": "[648p Locked]\n04000000 0277CB78 00000288\n04000000 0277CB8C 00000000\n\n",
+        "[720p Locked]": "[720p Locked]\n04000000 0277CB78 000002D0\n04000000 0277CB8C 00000000\n\n",
+        "[756p Locked]": "[756p Locked]\n04000000 0277CB78 000002F4\n04000000 0277CB8C 00000000\n\n",
+        "[Default 810p Locked (Docked Max)]": "[Default 810p Locked (Docked Max)]\n04000000 0277CB78 000001E0\n04000000 0277CB8C 00000000\n\n",
+        "[Re-Enable Dynamic Resolution]": "[Re-Enable Dynamic Resolution]\n04000000 0277CB8C 01010101\n\n"
+    },
+    "attribution": {
+        "Hyrule Warriors Age of Calamity.txt": "FPS Codes By iCris4\nResolution Hacks by Hazerou\n\nNotes;\n- When using 60 FPS, Game Speed will Slow Down as FPS Drops, Also some Cutscenes Runs Faster.\n\nFurther upscaling the Resolution above 810p will only cause a Graphical Glitch."
+    }
+}

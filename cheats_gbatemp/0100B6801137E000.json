@@ -1,0 +1,13 @@
+{
+    "9A7AD92F9A3E38E2": {
+        "[Money not decreased]": "[Money not decreased]\n04000000 00782834 4B1F0108\n\n",
+        "[\u9053\u5177\u4e0d\u51cf]": "[\u9053\u5177\u4e0d\u51cf]\n04000000 03849A00 6B1502DF\n04000000 03849A04 5400004B\n04000000 03849A08 2A1603F5\n04000000 03849A0C AA1703E0\n04000000 03849A10 D65F03C0\n04000000 0078372C 94C318B5\n\n",
+        "[HP not reduced]": "[HP not reduced]\n04000000 007753A8 B900EA80\n\n",
+        "[MP not reduced]": "[MP not reduced]\n04000000 007753EC B900EE80\n\n",
+        "[Max BP]": "[Max BP]\n04000000 00776080 52800060\n\n",
+        "[\u5fc5\u6740\u6280\u9650\u5236\u89e3\u9664]": "[\u5fc5\u6740\u6280\u9650\u5236\u89e3\u9664]\n04000000 00778CF4 52800C88\n04000000 00778D30 D503201F\n\n"
+    },
+    "attribution": {
+        "Bravely Default II Demo from 91wii.txt": "Not valid for mini games"
+    }
+}

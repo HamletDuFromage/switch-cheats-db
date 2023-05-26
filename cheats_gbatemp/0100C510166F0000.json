@@ -1,0 +1,13 @@
+{
+    "143439C462629F4D": {
+        "[Breeze beta63 Chained Echoes 1.1.1 TID: 0100C510166F0000 BID: 143439C462629F4D]": "[Breeze beta63 Chained Echoes 1.1.1 TID: 0100C510166F0000 BID: 143439C462629F4D]\n\n",
+        "[Gold 1M]": "[Gold 1M]\n580F0000 048358A8 \n580F1000 000000B8 \n780F0000 00000028 \n640F0000 40400000 000F4240\n\n",
+        "[off]": "[off]\n04000000 016E8D24 B9403C08\n04000000 01D73708 B9404808\n\n",
+        "[Hp 1000 (in battle)]": "[Hp 1000 (in battle)]\n04000000 016E8D24 1468382B \n04000000 030F6DD0 52807D08 \n04000000 030F6DD4 B9003C08 \n04000000 030F6DD8 1797C7D4\n\n",
+        "[Tp 1000 (in battle)]": "[Tp 1000 (in battle)] \n04000000 01D73708 144E0DB6 \n04000000 030F6DE0 52807D08 \n04000000 030F6DE4 B9004808 \n04000000 030F6DE8 17B1F249\n\n",
+        "[A damage x 8 (for all)]": "[A damage x 8 (for all)]\n04000000 018555E4 4B080320 \n80000001 \n04000000 018555E4 4B080F20 \n20000000\n\n"
+    },
+    "attribution": {
+        "Chained Echoes 1.1.1  by Tomswitch.txt": "111022\n\n\n\n\n\n\n\n\n"
+    }
+}

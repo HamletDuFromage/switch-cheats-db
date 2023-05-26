@@ -1,0 +1,19 @@
+{
+    "017384C7C95F5BA7": {
+        "[lock hp bar]": "[lock hp bar]\n04000000 00112D0C BD452260\n\n",
+        "[inf. force]": "[inf. force]\n04000000 00107814 1E2703E1\n04000000 0010C5F0 1E2703E9\n04000000 00122EA0 1E2703E9\n\n",
+        "[lock hp bar off]": "[lock hp bar off]\n04000000 00112D0C 1E2ACC00\n\n",
+        "[force meter is always full]": "[force meter is always full]\n580F0000 005B3A20\n780F0000 00001CD4\n640F0000 00000000 00000000\n\n",
+        "[health meter(needs readjusting)]": "[health meter(needs readjusting)]\n580F0000 005B3A20\n780F0000 00000520\n640F0000 00000000 438C0000\n\n"
+    },
+    "7164581C4A7E5739": {
+        "[lock hp bar]": "[lock hp bar]\n04000000 00112D0C BD452260\n\n",
+        "[inf. force]": "[inf. force]\n04000000 00107814 1E2703E1\n04000000 0010C5F0 1E2703E9\n04000000 00122EA0 1E2703E9\n\n",
+        "[lock hp bar off]": "[lock hp bar off]\n04000000 00112D0C 1E2ACC00\n\n",
+        "[force meter is always full]": "[force meter is always full]\n580F0000 005B3A20\n780F0000 00001CD4\n640F0000 00000000 00000000\n\n",
+        "[health meter(needs readjusting)]": "[health meter(needs readjusting)]\n580F0000 005B3A20\n780F0000 00000520\n640F0000 00000000 438C0000\n\n"
+    },
+    "attribution": {
+        "STAR WARS The Force Unleashed 1.0.1 by gamerjin.txt": "Super Mario Allstars\nSuper Mario 3"
+    }
+}

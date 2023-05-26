@@ -1,0 +1,11 @@
+{
+    "6A71DC9407B10148": {
+        "[Inf Lives]": "[Inf Lives]\n580F0000 026BB8C0\n580F1000 00000008\n780F0000 00000432\n610F0000 00000000 0000000A\n\n",
+        "[Inf HP]": "[Inf HP]\n580F0000 026BB8C0\n580F1000 00000008\n780F0000 0000041E\n610F0000 00000000 0000007F\n\n",
+        "[Invincible (OFF:ZR & ZL)]": "[Invincible (OFF:ZR & ZL)]\n580F0000 026BB8C0\n580F1000 00000008\n780F0000 000003CC\n610F0000 00000000 00000000\n80000300\n610F0000 00000000 0000007F\n20000000\n\n",
+        "[Moon Jump (Hold R)]": "[Moon Jump (Hold R)]\n80000080\n580F0000 026BB8C0\n580F1000 00000008\n780F0000 00000043\n610F0000 00000000 0000000A\n20000000\n\n"
+    },
+    "attribution": {
+        "DOUBLE DRAGON \u2161 The Revenge ver 1.0.0 by ZiT.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
+    }
+}

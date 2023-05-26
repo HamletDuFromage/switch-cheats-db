@@ -1,0 +1,17 @@
+{
+    "0BBA2167AED893BE": {
+        "{Mastercode}": "{Mastercode}\n04000000 001F7B44 4B140108\n04000000 001F7BAC 4B140108\n04000000 002EA9D4 2B130108\n04000000 002EACD0 4B140108\n04070000 001CE898 B9401109\n04000000 0019AA6C BD404260\n04000000 0025DC8C 39417000\n04000000 00287998 4B140108\n\n",
+        "[01# HP is not reduced]": "[01# HP is not reduced]\n04000000 0183D880 B9401271\n04000000 0183D884 51002622\n04000000 0183D888 7100005F\n04000000 0183D88C 5400004A\n04000000 0183D890 52800014\n04000000 0183D894 4B140108\n04000000 0183D898 D65F03C0\n04000000 001F7B44 9459174F\n\n",
+        "[02# MP not reduced]": "[02# MP not reduced]\n04000000 001F7BAC 4B1F0108\n\n",
+        "[03# Add a lot off Money when get]": "[03# Add a lot off Money when get]\n04000000 002EA9D4 2B132908\n\n",
+        "[04# Money is not reduced]": "[04# Money is not reduced]\n04000000 002EACD0 4B1F0108\n\n",
+        "[05# Get more experience]": "[05# Get more experience]\n04070000 001CE898 5284E1E9\n\n",
+        "[06# Instant ATB gauge]": "[06# Instant ATB gauge]\n04000000 0019AA6C 1E249000\n\n",
+        "[07# Save anywere]": "[07# Save anywere]\n04000000 0025DC8C 52800020\n\n",
+        "[Save anywere (off)]": "[Save anywere (off)]\n04000000 0025DC8C 39417000\n\n",
+        "[08# Inf Items]": "[08# Inf Items]\n04000000 00287998 D503201F\n\n"
+    },
+    "attribution": {
+        "I am Setsuna ver 1.1.0 by Patjenova.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
+}

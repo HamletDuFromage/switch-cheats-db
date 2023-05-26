@@ -1,0 +1,31 @@
+{
+    "48FEAF16AFB29340": {
+        "[Crystals/Mana Don't reduce]": "[Crystals/Mana Don't reduce]\n04000000 0157F970 D65F03C0\n\n",
+        "[Boss battle gives 999 Gems]": "[Boss battle gives 999 Gems]\n04000000 01536328 52807CF4\n\n",
+        "[add shield -> max shield]": "[add shield -> max shield]\n04000000 0157D938 52807CF4\n\n",
+        "[set hearts full when changed]": "[set hearts full when changed]\n04000000 017AA7D8 52800C73\n\n",
+        "[Can buy with coin unless coins own == cost]": "[Can buy with coin unless coins own == cost]\n04000000 0157F118 1A9F07E0\n\n",
+        "[Spend coins to have max, you don't really need this one if you use the above cheat]": "[Spend coins to have max, you don't really need this one if you use the above cheat]\n04000000 0157F49C 52807CE1\n\n",
+        "[Turn off above cheats]": "[Turn off above cheats]\n04000000 0157F970 F81C0FF7\n04000000 01536328 2A0103F4\n04000000 0157D938 2A0103F4\n04000000 017AA7D8 2A0103F3\n04000000 0157F118 1A9FB7E0\n04000000 0157F49C 4B140001\n\n",
+        "[ZL Fly with Lstick]": "[ZL Fly with Lstick]\n80000100\n580F0000 05701DA8\n580F1000 00000040\n580F1000 00000370\n580F1000 00000010\n580F1000 00000060\n780F0000 00000044\n640F0000 00000000 40A00000\n20000000\n80080100\n580F0000 05701DA8\n580F1000 00000040\n580F1000 00000370\n580F1000 00000010\n580F1000 00000060\n780F0000 00000044\n640F0000 00000000 C1200000\n20000000\n80020100\n580F0000 05701DA8\n580F1000 00000040\n580F1000 00000370\n580F1000 00000010\n580F1000 00000060\n780F0000 00000044\n640F0000 00000000 41A00000\n20000000\n\n",
+        "[Invincible]": "[Invincible]\n010E0000 017AABE2 00000002\n\n",
+        "[Infinite Crystals]": "[Infinite Crystals]\n010E0000 0157F98E 0000001F\n\n",
+        "[Can buy Expensive items]": "[Can buy Expensive items]\n010E0000 01560AAE 0000001F\n\n",
+        "[Unlimited use of Coins]": "[Unlimited use of Coins]\n010E0000 0157F42A 0000001F\n\n",
+        "[Unlimited use of Keys]": "[Unlimited use of Keys]\n040E0000 0157E690 D503201F\n\n",
+        "[Unlimited use of Bombs]": "[Unlimited use of Bombs]\n040E0000 017A3084 D503201F\n040E0000 017A31D8 D503201F\n\n",
+        "[Unlimited use of Boss Coins]": "[Unlimited use of Boss Coins]\n010E0000 015349DA 0000001F\n\n",
+        "[Unlimited use of Final Coin]": "[Unlimited use of Final Coin]\n010E0000 01534B3A 0000001F\n\n"
+    },
+    "A78D968009A9374C": {
+        "[Invulnerable ON]": "[Invulnerable ON]\n04000000 00550E20 D65F03C0\n\n",
+        "[Invulnerable OFF]": "[Invulnerable OFF]\n04000000 00550E20 D10283FF\n\n",
+        "[No need for keys]": "[No need for keys]\n04000000 00279D8C 52800020\n\n",
+        "[Boss gives 999 Unlock Gems]": "[Boss gives 999 Unlock Gems]\n04000000 00365E28 52807CE9\n\n",
+        "[Crystals/Mana dont decrease]": "[Crystals/Mana dont decrease]\n04000000 0027AEF8 51000001\n\n",
+        "[spend coins to have max]": "[spend coins to have max]\n04000000 0027A65C 52807CE1\n\n"
+    },
+    "attribution": {
+        "Neon Abyss v1.0.2 by BlackDeath ver 1.0.6 by Eiffel.txt": "caution\ncan some problems"
+    }
+}

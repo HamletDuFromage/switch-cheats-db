@@ -1,0 +1,9 @@
+{
+    "5767FD44C331B44B": {
+        "[60 FPS]": "[60 FPS]\n580F0000 022D7F40\n580F1000 000000E0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 022D7F40\n580F1000 000000E0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "WORLD OF FINAL FANTASY MAXIMA.txt": "By @Hazerou\n- When Using 60 FPS, Some Animations in a Cutscene looks like they are running at 30 FPS."
+    }
+}

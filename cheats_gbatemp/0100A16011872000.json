@@ -1,0 +1,10 @@
+{
+    "DF8DDC222B04C24D": {
+        "[*Inf Hp Jericoss]": "[*Inf Hp Jericoss]\n580F0000 035F6308\n580F1000 000000B8\n580F1000 00000008\n780F0000 00000038\n640F0000 00000000 00000378\n\n",
+        "[*Money 888888]": "[*Money 888888]\n580F0000 035F6308\n580F1000 000000B8\n580F1000 00000008\n780F0000 00000054\n640F0000 00000000 000D9038\n\n",
+        "[*Inf Magic]": "[*Inf Magic]\n580F0000 035F6308\n580F1000 000000B8\n580F1000 00000008\n780F0000 00000048\n640F0000 00000000 00000378\n\n"
+    },
+    "attribution": {
+        "Gryphon Knight Epic ver 1.0..0 by jericoss.txt": "Super Mario Allstars\nSuper Mario 3"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "EBD3EFB2950F5140": {
+        "[60 FPS]": "[60 FPS]\n580F0000 03C37348\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 03C37348\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "F8098979DBC7F34E": {
+        "[60 FPS]": "[60 FPS]\n580F0000 03C5B188\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS default]": "[30 FPS default]\n580F0000 03C5B188\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Shin Megami Tensei III Nocturne HD Remaster.txt": "hazerou, cucholix\n"
+    }
+}

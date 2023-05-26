@@ -1,0 +1,21 @@
+{
+    "BFBA9856A1EAF74D": {
+        "[01# Infinite Health]": "[01# Infinite Health]\n04000000 017A8204 36003128\n04000000 017A8208 BD402A81\n04000000 017A820C 1400017A\n04000000 017A87F4 BD406E80\n04000000 017A87F8 1E204020\n04000000 017A87FC 1400000B\n04000000 017A8828 BD006E80\n04000000 017A882C D65F03C0\n04000000 017A81C4 94000010\n\n",
+        "[Infinite Health (off)]": "[Infinite Health (off)]\n04000000 017A81C4 BD006E80\n\n",
+        "[02# Infinite Stamina]": "[02# Infinite Stamina]\n04000000 01A87730 D65F03C0\n\n",
+        "[Infinite Stamina (off)]": "[Infinite Stamina (off)]\n04000000 01A87730 6DBC23E9\n\n",
+        "[03# Infinite Ammo]": "[03# Infinite Ammo]\n04000000 01AC1FD4 D503201F\n04000000 019C22E8 D503201F\n\n",
+        "[Infinite Ammo (off)]": "[Infinite Ammo (off)]\n04000000 01AC1FD4 51000508\n04000000 019C22E8 4B130129\n\n",
+        "[04# Inf Inventory Weight Limit]": "[04# Inf Inventory Weight Limit]\n04000000 019C0E58 460CA000\n04000000 019C0E64 1CFFFFA1\n\n",
+        "[Inf Inventory Weight Limit (off)]": "[Inf Inventory Weight Limit (off)]\n04000000 019C0E64 BD403401\n\n",
+        "[05# Infinite Upgrade Points (Open Upgrade Menu)]": "[05# Infinite Upgrade Points (Open Upgrade Menu)]\n04000000 019C3C00 52807CE0\n\n",
+        "[Infinite Upgrade Points (off)]": "[Infinite Upgrade Points (off)]\n04000000 019C3C00 B9402C00\n\n",
+        "[06# Infinite Money (Open Upgrade Menu)]": "[06# Infinite Money (Open Upgrade Menu)]\n04000000 019C3A88 4B095440\n04000000 019C3A90 1CFFFFC0\n\n",
+        "[Infinite Money (off)]": "[Infinite Money (off)]\n04000000 019C3A90 BD402800\n\n",
+        "[07# Infinite Vehicle Health]": "[07# Infinite Vehicle Health]\n04000000 0185FE40 D65F03C0\n\n",
+        "[Infinite Vehicle Health (off)]": "[Infinite Vehicle Health (off)]\n04000000 0185FE40 FC1B0FE8\n\n"
+    },
+    "attribution": {
+        "American Fugitive ver 1.1.0 by Patjenova.txt": ""
+    }
+}

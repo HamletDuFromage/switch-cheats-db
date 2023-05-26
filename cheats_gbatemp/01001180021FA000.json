@@ -1,0 +1,12 @@
+{
+    "5EABC1E307D28486": {
+        "[Speed Up]": "[Speed Up]\n580F0000 00b29a68\n780F1000 00000BF8\n640F0000 00000000 40400000\n\n",
+        "[Size Up]": "[Size Up]\n580F0000 00b29a68\n780F1000 00000B6C\n640F0000 00000000 40000000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 00b29a68\n780F1000 00000540\n680F0000 3F800000 3F800000\n\n",
+        "[ATK Speed]": "[ATK Speed]\n580F0000 00b29a68\n780F0000 00000CB0\n640F0000 00000000 40800000\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 00b29a68\n780F0000 00000E3C\n640F0000 00000000 41D00000\n20000000\n\n"
+    },
+    "attribution": {
+        "Shovel Knight Specter of Torment by ZiT866.txt": "\u203bThe Moon Jump code must return to the title or die."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "3F1E5C8189629F4F": {
+        "[1p invicible]": "[1p invicible]\n04000000 00237C08 D503201F\n\n",
+        "[super jump]": "[super jump]\n04000000 0152B480 D65F03C0\n\n",
+        "[slow jump]": "[slow jump]\n04000000 01871D40 D65F03C0\n\n",
+        "[inf get crystal big on ]": "[inf get crystal big on ]\n04000000 01523324 D503201F\n\n",
+        "[inf get crystal big off ]": "[inf get crystal big off ]\n04000000 01523324 360000C0\n\n"
+    },
+    "7A1598FA5877F246": {
+        "[1p invicible]": "[1p invicible]\n04000000 0023A308 D503201F\n\n",
+        "[super jump]": "[super jump]\n04000000 0161AD00 D65F03C0\n\n",
+        "[slow jump]": "[slow jump]\n04000000 01684270 D65F03C0\n\n",
+        "[inf get crystal big on ]": "[inf get crystal big on ]\n04000000 016881E4 D503201F\n\n",
+        "[inf get crystal big off ]": "[inf get crystal big off ]\n04000000 016881E4 360000C0\n\n"
+    },
+    "attribution": {
+        "Kaze and the Wild Masks Base ver by xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}"
+    }
+}

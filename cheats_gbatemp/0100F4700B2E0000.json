@@ -1,0 +1,24 @@
+{
+    "962CAFE79900AF46": {
+        "[no damage]": "[no damage]\n04000000 0027AFD0 D65F03C0\n\n",
+        "[pendant use give max money]": "[pendant use give max money]\n04000000 0028345C C4653601\n04000000 00282D68 180037A0\n\n",
+        "[free pendant use]": "[free pendant use]\n04000000 0028345C 00000000\n04000000 00282D68 180037A0\n\n",
+        "[free emblem use]": "[free emblem use]\n04000000 002835E8 52800000\n\n",
+        "[free shop upgrades]": "[free shop upgrades]\n04000000 00306814 52800000\n\n",
+        "[free staff]": "[free staff]\n04000000 00308DA0 52800000\n\n",
+        "[craft without mats]": "[craft without mats]\n04000000 0022B48C 14000032\n\n",
+        "[enchant without mats]": "[enchant without mats]\n04000000 00525A64 14000033\n\n"
+    },
+    "CD63653C77E52D44": {
+        "[no damage]": "[no damage]\n04000000 004B3CE0 D65F03C0\n\n",
+        "[pendant use give max money]": "[pendant use give max money]\n04000000 004BE754 52A6C020\n04000000 004BE758 72B88CA0\n\n",
+        "[free emblem use]": "[free emblem use]\n04000000 004BECC8 52800000\n\n",
+        "[free shop upgrades]": "[free shop upgrades]\n04000000 0010B824 52800000\n\n",
+        "[free staff]": "[free staff]\n04000000 0010E89C 52800000\n\n",
+        "[craft without mats]": "[craft without mats]\n04000000 000B8EAC 1400002F\n\n",
+        "[enchant without mats]": "[enchant without mats]\n04000000 0036CBC4 14000030\n\n"
+    },
+    "attribution": {
+        "Moonlighter v1.0.0.5 and 1.0.0.8 made by DablackDeath.txt": ""
+    }
+}

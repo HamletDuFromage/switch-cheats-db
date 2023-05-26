@@ -1,0 +1,9 @@
+{
+    "DDAF9ECB76590A4B": {
+        "[60 FPS (Default)]": "[60 FPS (Default)]\n580F0000 03F46220 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 03F46220 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Slime Rancher Plortable Edition.txt": "By retole\n\nIts already on 60 FPS, just add some OC: CPU 1326+; GPU 537+"
+    }
+}

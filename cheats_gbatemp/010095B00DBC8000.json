@@ -1,0 +1,13 @@
+{
+    "C97DC98AA4A91C9F": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n040F0000 0023F034 00030000\n20000000\n\n",
+        "[Invincible (OFF:ZL & ZR)]": "[Invincible (OFF:ZL & ZR)]\n010F0000 0023F03A 00000011\n80000300\n010F0000 0023F03A 00000000\n20000000\n\n",
+        "[Inf Life]": "[Inf Life]\n010F0000 0023F03D 00000011\n\n",
+        "[Max Lives]": "[Max Lives]\n010F0000 0023EBD2 00000063\n\n",
+        "[Max Coin]": "[Max Coin]\n020F0000 0023EBD4 0000270F\n\n",
+        "[Inf Ammo]": "[Inf Ammo]\n300E0000 00000007\n010F0000 0023EBEC 10101010\n780F0000 00000001\n310E0000\n20000000\n\n"
+    },
+    "attribution": {
+        "Venture Kid ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    }
+}

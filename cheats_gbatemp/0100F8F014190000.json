@@ -1,0 +1,15 @@
+{
+    "AF7114F019CE6E1D": {
+        "[Invincible]": "[Invincible]\n080E0000 035B9E60 B9400268 1E270101\n080E0000 035B9E68 7122811F 12002D08\n080E0000 035B9E70 D65F03C0 1E280C08\n040E0000 003B506C 94C8137D\n\n",
+        "[Max Wrath (L+ZR Transform back)]": "[Max Wrath (L+ZR Transform back)]\n040E0000 00488C60 1E294D22\n\n",
+        "[No decrease for Soul]": "[No decrease for Soul]\n040E0000 004FCA1C 4B1F0129\n\n",
+        "[Infinite Consumable Items]": "[Infinite Consumable Items]\n080E0000 035B9E00 6B13003F B9402D13\n080E0000 035B9E08 D65F03C0 1A93A021\n040E0000 004F67C8 94C30D8E\n\n",
+        "[Infinite Upgrade Materials]": "[Infinite Upgrade Materials]\n040E0000 004FC880 6B0903FB\n\n",
+        "[No decrease for Items sold (for earn soul)]": "[No decrease for Items sold (for earn soul)]\n040E0000 004FCB04 2A1F03F5\n\n",
+        "[300% Damage]": "[300% Damage]\n080E0000 035B9E80 12002EB5 B94002D5\n080E0000 035B9E88 540000A1 710702BF\n080E0000 035B9E90 BD400300 1E211001\n080E0000 035B9E98 BD000300 1E210800\n080E0000 035B9EA0 D65F03C0 AA0003F5\n040E0000 004B25A8 94C41E36\n\n",
+        "[30x Damage (Not recommended)]": "[30x Damage (Not recommended)]\n080E0000 035B9E80 12002EB5 B94002D5\n080E0000 035B9E88 540000A1 710702BF\n080E0000 035B9E90 BD400300 1E27D001\n080E0000 035B9E98 BD000300 1E210800\n080E0000 035B9EA0 D65F03C0 AA0003F5\n040E0000 004B25A8 94C41E36\n\n"
+    },
+    "attribution": {
+        "Darksiders III v1.0.1 (v65536) by Eiffel2018.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"
+    }
+}

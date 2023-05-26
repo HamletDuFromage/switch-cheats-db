@@ -1,0 +1,14 @@
+{
+    "C817FA3B253C70B5": {
+        "[NO MOVE RICHARD FELTON]": "[NO MOVE RICHARD FELTON]\n04000000 01700228 1E27D008\n\n",
+        "[MOVE SPEED 30X]": "[MOVE SPEED 30X]\n04000000 01725EBC 1E27D008\n\n"
+    },
+    "EB57CF3434044523": {
+        "[NO MOVE RICHARD FELTON]": "[NO MOVE RICHARD FELTON]\n04000000 01702258 1E27D008\n\n",
+        "[MOVE SPEED 30X]": "[MOVE SPEED 30X]\n04000000 01727EEC 1E27D008\n\n",
+        "[NO MOVE RICHARD FELTON L on R off ]": "[NO MOVE RICHARD FELTON L on R off ]\n80000040\n04000000 01702258 1E27D008\n20000000\n80000080\n04000000 01702258 1E2E1008\n20000000\n\n"
+    },
+    "attribution": {
+        "Remothered Tormented Fathers ver 1.0 and 1.0.3 by xtatu.txt": "Pressing the A button and using the roll will release invincibility. This is a game specification.\n"
+    }
+}

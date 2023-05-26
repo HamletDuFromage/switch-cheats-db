@@ -1,0 +1,9 @@
+{
+    "432BCA17C1EEF64E": {
+        "[Hold ZR to perform one hit kill, be careful you die with one hit too]": "[Hold ZR to perform one hit kill, be careful you die with one hit too]\n040F0000 01527BE8 1E203820\n80000200\n040F0000 01527BE8 1E2703E0\n20000000\n\n",
+        "[combo]": "[combo]\n580F0000 040F6DC0\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000060\n780F0000 00000014\n640F0000 00000000 000003E8\n\n"
+    },
+    "attribution": {
+        "Shing! ver 1.0 by TomSwitch.txt": "Ammo 255 don't always work. The other two seems to be consistent"
+    }
+}

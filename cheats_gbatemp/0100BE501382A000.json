@@ -1,0 +1,10 @@
+{
+    "A12EF68286EE36A1": {
+        "[life bar]": "[life bar]\n580F0000 0044BF40\n580F1000 000000B8\n580F1000 00000028\n580F1000 000000F8\n780F0000 00000104\n620F0000 00000000 00000014\n\n",
+        "[life]": "[life]\n04000000 003FDD48 00000064\n\n",
+        "[mine]": "[mine]\n04000000 003FDD64 00000064\n\n"
+    },
+    "attribution": {
+        "Shadow Gangs matias3ds.txt": "Ammo 255 don't always work. The other two seems to be consistent"
+    }
+}

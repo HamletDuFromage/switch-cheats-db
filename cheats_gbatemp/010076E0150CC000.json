@@ -1,0 +1,16 @@
+{
+    "98B20F02EF446776": {
+        "[Invincible]": "[Invincible]\n040E0000 01628F84 9415E017\n\n",
+        "[Infinite SP/MP]": "[Infinite SP/MP]\n010E0000 016271BA 00000088\n\n",
+        "[400% Money obtain]": "[400% Money obtain]\n010E0000 0158A485 00000011\n\n",
+        "[No decrease for Money]": "[No decrease for Money]\n010E0000 0158A4A6 0000001F\n010E0000 0158FE1E 0000001F\n\n",
+        "[No decrease for Enchant in God Screen]": "[No decrease for Enchant in God Screen]\n040E0000 015902E0 17FFFF42\n\n",
+        "[Infinite Identity Scrolls]": "[Infinite Identity Scrolls]\n010E0000 0158A50A 0000001F\n\n",
+        "[Infinite Skill Stone]": "[Infinite Skill Stone]\n010E0000 0158A6A6 0000001F\n010E0000 0158A6C6 0000001F\n010E0000 0158A6E6 0000001F\n010E0000 0158A706 0000001F\n\n",
+        "[Infinite Moves]": "[Infinite Moves]\n010E0000 0162BAD8 0000007F\n\n",
+        "{Master Code, Created by Eiffel2018}": "{Master Code, Created by Eiffel2018}\n080E0000 01BA0FE0 7100029F 39464014\n080E0000 01BA0FE8 D65F03C0 9A8103F4\n\n"
+    },
+    "attribution": {
+        "Tears of Avia v1.0.8 (v0) by Eiffel2018.txt": ""
+    }
+}

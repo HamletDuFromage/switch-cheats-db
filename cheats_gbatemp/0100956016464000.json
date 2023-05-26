@@ -1,0 +1,21 @@
+{
+    "8FB0C2D2A6730D26": {
+        "[Breeze beta36 Kao the Kangaroo 1.1 TID: 0100956016464000 BID: 8FB0C2D2A6730D26]": "[Breeze beta36 Kao the Kangaroo 1.1 TID: 0100956016464000 BID: 8FB0C2D2A6730D26]\n\n",
+        "[BIG Heart]": "[BIG Heart]\n04000000 0078D254 14D4942B \n08000000 03CB2300 B9011C09 52804009 \n08000000 03CB2308 172B6BD3 B9012009\n\n",
+        "[100 life]": "[100 life]\n04000000 0078CDD0 14D49550 \n08000000 03CB2310 B9004900 52800C80 \n08000000 03CB2318 172B6AAE D503201F\n\n",
+        "[Infinite Jump]": "[Infinite Jump]\n580F0000 06F4ADD0\n580F1000 00000020\n780F0000 00000348\n640F0000 00000000 00000000\n\n",
+        "[01# Inf Health]": "[01# Inf Health]\n040A0000 0078F3CC 52807CE0\n\n",
+        "[Inf Health (off)]": "[Inf Health (off)]\n040A0000 0078F3CC B944F800\n\n",
+        "[03# Invincible]": "[03# Invincible]\n040A0000 03CB2240 396B1269\n040A0000 03CB2244 B944CAA3\n040A0000 03CB2248 7100047F\n040A0000 03CB224C 54000041\n040A0000 03CB2240 52800029\n040A0000 03CB2244 172BC5CE\n040A0000 007A3978 14D43A32\n\n",
+        "[Invincible (off)]": "[Invincible (off)]\n040A0000 007A3978 396B1269\n\n",
+        "[04# Inf Jump]": "[04# Inf Jump]\n040A0000 007A68DC 11000108\n\n",
+        "[Inf Jump (off)]": "[Inf Jump (off)]\n040A0000 007A68DC 11000508\n\n",
+        "[05# Inf Power]": "[05# Inf Power]\n040A0000 006D2830 BD42B801\n\n",
+        "[Inf Power (off)]": "[Inf Power (off)]\n040A0000 006D2830 BD42B401\n\n",
+        "[06# Increase Speed]": "[06# Increase Speed]\n040A0000 007A128C BD458660\n80000200\n040A0000 03CB2260 1C000040\n040A0000 03CB2264 D65F03C0\n040A0000 03CB2268 45000000\n040A0000 007A128C 94D443F5\n20000000\n\n",
+        "[Increase Speed (off)]": "[Increase Speed (off)]\n040A0000 007A128C BD458660\n\n"
+    },
+    "attribution": {
+        "Kao the Kangaroo 1.1 by Tomswitch and patjenova.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+    }
+}

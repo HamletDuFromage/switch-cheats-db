@@ -1,0 +1,19 @@
+{
+    "416914C121775277": {
+        "[1P INVINCIBLE]": "[1P INVINCIBLE]\n04000000 016BA528 1E27F001\n\n",
+        "[1P INVINCIBLE OFF]": "[1P INVINCIBLE OFF]\n04000000 016BA528 1E2E1001\n\n",
+        "[1P SPEED RUN NORMAL]": "[1P SPEED RUN NORMAL]\n04000000 01E89534 1E2E1001\n\n",
+        "[1P SPEED RUN X1.25]": "[1P SPEED RUN X1.25]\n04000000 01E89534 1E2E9001\n\n",
+        "[1P SPEED RUN X1.5]": "[1P SPEED RUN X1.5]\n04000000 01E89534 1E2F1001\n\n",
+        "[1P SPEED RUN X1.75]": "[1P SPEED RUN X1.75]\n04000000 01E89534 1E2F9001\n\n",
+        "[1P SPEED RUN 2X]": "[1P SPEED RUN 2X]\n04000000 01E89534 1E201001\n\nGRAFIC MOD\n\n",
+        "[HIT \uff32ANGE NORMAL]": "[HIT \uff32ANGE NORMAL]\n04000000 00D41A18 1E2E1008\n\n",
+        "[HIT RANGE 2X]": "[HIT RANGE 2X]\n04000000 00D41A18 1E201008\n\n",
+        "[HIT RANGE 5X]": "[HIT RANGE 5X]\n04000000 00D41A18 1E229008\n\n",
+        "[HIT RANGE 31X]": "[HIT RANGE 31X]\n04000000 00D41A18 1E27F008\n\n",
+        "[coins]": "[coins]\n580F0000 0652C458\n580F1000 00000040\n580F1000 000000D8\n780F0000 00000410\n640F0000 00000000 0001869F\n\n"
+    },
+    "attribution": {
+        "Lost in Random ver 1.0.1 by xtatu and Tomswitch.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "55F09D019671D740": {
+        "[Battery]": "[Battery]\n580F0000 021E49F8\n580F1000 000000A0\n580F1000 00000050\n780F0000 000001CC\n640F0000 00000000 41C00000\n\n",
+        "[Armor]": "[Armor]\n580F0000 021E49F8\n580F1000 000000A0\n580F1000 00000050\n780F0000 00000180\n640F0000 00000000 43400000\n\n",
+        "[Time 0]": "[Time 0]\n580F0000 021E49F8\n580F1000 000000A0\n580F1000 00000050\n780F0000 000001F8\n640F0000 00000000 00000000\n\n"
+    },
+    "attribution": {
+        "The Ninja Saviors Return of the Warriors (Asia) by jhmiller.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
+}

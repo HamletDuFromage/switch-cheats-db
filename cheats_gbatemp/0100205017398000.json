@@ -1,0 +1,11 @@
+{
+    "9C5D6E39780F23BB": {
+        "[Fit Boxing \u5317\u6597\u306e\u62f3 v65536 TID=0100205017398000 BID=9C5D6E39780F23BB]": "[Fit Boxing \u5317\u6597\u306e\u62f3 v65536 TID=0100205017398000 BID=9C5D6E39780F23BB]\n\n",
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 018E8A58 B9018808\n040E0000 01F9C8BC 11000421\n040E0000 01F9C730 1E2E1001\n040E0000 01F9C73C 1E201002\n040E0000 01F9C95C 1E201C29\n040E0000 01F9C948 1E2E1008\n040E0000 01F6D6BC 540000E0\n\n",
+        "[#01. Max Fit Points]": "[#01. Max Fit Points]\n040E0000 018E8A58 B9018809\n\n",
+        "[#02. 2x KO count]": "[#02. 2x KO count]\n040E0000 01F9C8BC 11000821\n\n",
+        "[#03. 2x Damage to Boss]": "[#03. 2x Damage to Boss]\n040E0000 01F9C730 1E201001\n040E0000 01F9C73C 1E221001\n\n",
+        "[#04. No Damage to Player]": "[#04. No Damage to Player]\n040E0000 01F9C95C 1E204029\n040E0000 01F9C948 1E201008\n\n",
+        "[#05. All Just or Miss]": "[#05. All Just or Miss]\n040E0000 01F6D6BC 14000007\n\n"
+    }
+}

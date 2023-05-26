@@ -1,0 +1,17 @@
+{
+    "8B5602A415099D59": {
+        "[Infinite HP 300]": "[Infinite HP 300]\n08000000 015e2e14 43960000 43960000\n\n",
+        "[Infinite Lives]": "[Infinite Lives]\n01000000 015e2e1c 00000009\n01000000 015e2e28 00000009\n\n",
+        "[Infinite Bombs]": "[Infinite Bombs]\n01000000 015e2e20 00000009\n01000000 015e2e30 00000009\n\n",
+        "[Orange Money 50000764]": "[Orange Money 50000764]\n08000000 0155e4d0 29640b42 f6c2c31b\n01000000 0155e4d8 00000088\n\n"
+    },
+    "CC28259144A178C0": {
+        "[Infinite HP 300]": "[Infinite HP 300]\n08000000 015e2e14 43960000 43960000\n\n",
+        "[Infinite Lives]": "[Infinite Lives]\n01000000 015e2e1c 00000009\n01000000 015e2e28 00000009\n\n",
+        "[Infinite Bombs]": "[Infinite Bombs]\n01000000 015e2e20 00000009\n01000000 015e2e30 00000009\n\n",
+        "[Orange Money 50000764]": "[Orange Money 50000764]\n08000000 0155e4d0 29640b42 f6c2c31b\n01000000 0155e4d8 00000088\n\n"
+    },
+    "attribution": {
+        "Contra Rogue Corps 1.0 and 1.0.1 by optanic.txt": ""
+    }
+}

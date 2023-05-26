@@ -1,0 +1,11 @@
+{
+    "32B4BBE0D88214D3": {
+        "[1p inf heath all player]": "[1p inf heath all player]\n04000000 0003E530 D65F03C0\n\n",
+        "[moom jump L &R pad off]": "[moom jump L &R pad off]\n04000000 002EFA74 D65F03C0\n\n",
+        "[enermy speed normal]": "[enermy speed normal]\n04000000 00BA2CD4 1E2E1000\n\n",
+        "[enermy speed 2x]": "[enermy speed 2x]\n04000000 00BA2CD4 1E201000\n\n"
+    },
+    "attribution": {
+        "Trine Enchanted Edition ver 1.0.2 by xtatu.txt": ""
+    }
+}

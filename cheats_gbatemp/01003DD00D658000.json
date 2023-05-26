@@ -1,0 +1,13 @@
+{
+    "32FC35DF1C50E1F1": {
+        "[01# Inf Health]": "[01# Inf Health]\n580F0000 040E4A08\n580F1000 00000648\n780F0000 000003B8\n640F0000 00000000 0000270F\n\n",
+        "[02# Inf Skillpoints]": "[02# Inf Skillpoints]\n580F0000 040E4A08\n580F1000 00000270\n580F1000 00000270\n780F0000 000004EC\n640F0000 00000000 000F423F\n\n",
+        "[03# no reload]": "[03# no reload]\n580F0000 040E4A08\n580F1000 00000648\n580F1000 000005E8\n780F0000 000017E8\n640F0000 00000000 00000032\n\n",
+        "[04# Full Mag]": "[04# Full Mag]\n580F0000 040E4A08\n580F1000 00000648\n580F1000 000005E8\n780F0000 000017E0\n640F0000 00000000 00000226\n\n",
+        "[05# Inf Charge]": "[05# Inf Charge]\n580F0000 040E4A08\n580F1000 00000648\n580F1000 000005E8\n780F0000 000017E4\n640F0000 00000000 0000000A\n\n",
+        "[06# Full Charge]": "[06# Full Charge]\n580F0000 040E4A08\n580F1000 00000648\n580F1000 000005E8\n780F0000 000017E8\n640F0000 00000000 0000000A\n\n"
+    },
+    "attribution": {
+        "Bulletstorm Duke ver 1.14.0 by patjenova.txt": "Pressing the A button and using the roll will release invincibility. This is a game specification.\n"
+    }
+}

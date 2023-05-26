@@ -1,0 +1,14 @@
+{
+    "777320C58883BD91": {
+        "[Inf Diamond]": "[Inf Diamond]\n580F0000 02f42d28\n780F0000 000003C8\n640F0000 00000000 00000064\n\n",
+        "[Inf Life]": "[Inf Life]\n580F0000 02f42d28\n780F0000 000003CC\n640F0000 00000000 00000064\n\n",
+        "[Inf Stone]": "[Inf Stone]\n580F0000 02f42d28\n780F0000 000003D8\n640F0000 00000000 00000064\n\n",
+        "[Time Stop]": "[Time Stop]\n580F0000 02f42d28\n780F0000 000003DC\n640F0000 00000000 42C80000\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 02f4d7f8\n780F0000 0000192c\n640F0000 00000000 44200000\n20000000\n\n",
+        "[Inf Item]": "[Inf Item]\n580F0000 02f4d7f8\n780F0000 00001978\n640F0000 00000000 00000002\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 02f4d7f8\n780F0000 00001994\n640F0000 00000000 42C80000\n\n"
+    },
+    "attribution": {
+        "Croc's World by ZiT866.txt": "This Code Becomes Effective While The Motorcycle is Jumping."
+    }
+}

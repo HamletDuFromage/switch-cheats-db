@@ -1,0 +1,11 @@
+{
+    "AEE8F150DDA1B5A8": {
+        "[60 FPS]": "[60 FPS]\n04000000 0397E8D8 00FE502B\n580F0000 042EC288\n580F1000 00000210\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n04000000 0397E8D8 01FCA056\n580F0000 042EC288\n580F1000 00000210\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+        "[Downscale Handheld 504p / Docked 756p]": "[Downscale Handheld 504p / Docked 756p]\n580F0000 042ECFC8\n580F1000 000000C8\n780F0000 00000020\n640F0000 00000000 00000000\n780F0000 00000004\n640F0000 00000000 7FFFFFFF\n780F0000 00000010\n680F0000 0000001D 00000004\n\n",
+        "[Remain Handheld 720p / Docked 1080p]": "[Remain Handheld 720p / Docked 1080p]\n580F0000 042ECFC8\n580F1000 000000C8\n780F0000 00000020\n640F0000 00000000 00000001\n780F0000 00000004\n640F0000 00000000 7FFFFFFF\n780F0000 00000010\n680F0000 00000000 00000001\n\n"
+    },
+    "attribution": {
+        "Pok\u00e9mon Legends Arceus.txt": "Known Issues;\n\n1.) Menu Speedups,and some effects are double speed.\n\n2.) Crash may occur if 60 FPS is Active after you Press A in the Main Title of the Game.\n\n3.) FPS will drop straight to 30 and the Game will slow down whenever Switch can't handle 60 FPS.\n\nNow I don't know if it works good on Emulators too.\nAnd unfortunately 45 & 50 FPS only changes the Game Speed. Not the FPS Cap.\nBy @Hazerou"
+    }
+}

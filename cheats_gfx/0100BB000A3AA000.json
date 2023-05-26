@@ -1,0 +1,12 @@
+{
+    "B61F280560A937D2": {
+        "[60 FPS]": "[60 FPS]\n580F0000 0B488690\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 0B488690\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+        "[Handheld 540p / Docked 756p]": "[Handheld 540p / Docked 756p]\n04000000 0155A874 00000005\n\n",
+        "[Handheld 648p / Docked 864p]": "[Handheld 648p / Docked 864p]\n04000000 0155A874 00000002\n\n",
+        "[Handheld 720p / Docked 918p]": "[Handheld 720p / Docked 918p]\n04000000 0155A874 00000000\n\n"
+    },
+    "attribution": {
+        "Sniper Elite V2 Remastered.txt": "By Hazerou\n\nFPS will drop straight to 30 whenever Switch can't handle 60 FPS. But luckily the game has D Res so I also made a Resolution Hacks but there's some random Graphical Glitches when using it especially the lower Resolutions."
+    }
+}

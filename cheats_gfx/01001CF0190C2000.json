@@ -1,0 +1,11 @@
+{
+    "4C6727375D877B90": {
+        "[60 FPS]": "[60 FPS]\n580F0000 06818728 \n580F1000 000008B8 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 06818728 \n580F1000 000008B8 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[60 FPS (Alternative)]": "[60 FPS (Alternative)]\n580F0000 067D2060 \n580F1000 00000080 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default, Alternative)]": "[30 FPS (Default, Alternative)]\n580F0000 067D2060 \n580F1000 00000080 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Insomnis.txt": "By retole\n\nNeed OC GPU 614+\nWARNING! Can crash the game in some moments.\n\nIncluded in the text file:\n[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.\n[RRS] may not work or may not be accurate if there's a Mod/Patch used such as Resolution/Graphics Mod etc..."
+    }
+}

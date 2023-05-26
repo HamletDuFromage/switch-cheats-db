@@ -1,0 +1,11 @@
+{
+    "C212C43CBCE55E4D": {
+        "[Bullets don't decrease (Enable) @made by falo]": "[Bullets don't decrease (Enable) @made by falo]\n04000000 005649CC 2A0003E1\n\n",
+        "[Bullets don't decrease (Disable) @made by falo]": "[Bullets don't decrease (Disable) @made by falo]\n04000000 005649CC 51000401\n\n",
+        "[inf hp @made by ary64]": "[inf hp @made by ary64]\n580F0000 024D9268\n580F1000 000000B0\n580F1000 00000038\n580F1000 00000028\n580F1000 000000D0\n780F0000 0000002C\n640F0000 00000000 000003E7\n\n",
+        "[Moon Jump @tomvita]": "[Moon Jump @tomvita]\n80000002\n580F0000 024D9268\n580F1000 000000B0\n580F1000 00000038\n580F1000 00000028\n580F1000 00000070\n780F0000 000000C8\n640F0000 00000000 41000000\n20000000\n\n"
+    },
+    "attribution": {
+        "rice and shine by falo arismendy64 on gbatemp and Tomvita.txt": "Ammo 255 don't always work. The other two seems to be consistent"
+    }
+}

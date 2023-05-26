@@ -1,0 +1,9 @@
+{
+    "A8BA2A8F93AAE647": {
+        "[60 FPS + DR fix]": "[60 FPS + DR fix]\n04000000 05380340 41855555\n580F0000 07212940\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS (default)]": "[30 FPS (default)]\n04000000 05380340 42240000\n580F0000 07212940\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Othercide.txt": "by MasaGratoR\n\nGame by default is targeting 25 FPS in dynamic resolution.\nChanged it to match 60 FPS."
+    }
+}

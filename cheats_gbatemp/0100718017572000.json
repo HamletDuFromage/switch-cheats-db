@@ -1,0 +1,32 @@
+{
+    "E1C15D1CF76064A6": {
+        "[HP]": "[HP]\n04000000 016F5F74 AA0803F6\n04000000 0169E950 0B140AAA\n\n",
+        "[ OFF]": "[ OFF]\n04000000 0169E950 B9001260\n\n",
+        "[MP]": "[MP]\n04000000 016A1FA8 0B140AAA\n04000000 016AE540 0B140AAA\n04000000 016AB6A0 AA1303E0\n\n",
+        "[MP OFF]": "[MP OFF]\n04000000 016A1FA8 BD02AA60\n04000000 016AE540 BD02AA60\n04000000 016AB6A0 BD02AA60\n\n",
+        "[Gold Coin \u00d72]": "[Gold Coin \u00d72]\n04000000 018AC414 0B130908\n\n",
+        "[Gold Coin \u00d74]": "[Gold Coin \u00d74]\n04000000 018AC414 0B131108\n\n",
+        "[Gold Coin\u00d7million 1000000]": "[Gold Coin\u00d7million 1000000]\n04000000 018AC414 0B135108\n\n",
+        "[Gold Coin OFF]": "[Gold Coin OFF]\n04000000 018AC414 0B130108\n\n",
+        "[Gold coins No Decrease]": "[Gold coins No Decrease]\n04000000 018AAFA0 0B130108\n04000000 018AAFA8 0B130108\n\n",
+        "[ INF HP medicine]": "[ INF HP medicine]\n04000000 016A286C 0B140AAA\n\n",
+        "[OFF INF medicine ]": "[OFF INF medicine ]\n04000000 016A286C B9002C08\n\n",
+        "[EXP \u00d7100]": "[EXP \u00d7100]\n04000000 0169EED0 0B140AAA\n\n",
+        "[EXP\u00d7100000]": "[EXP\u00d7100000]\n04000000 0169EED0 0B1412AA\n\n",
+        "[OFF EXP]": "[OFF EXP]\n04000000 0169EED0 0B1402AA\n\n",
+        "[Magic Ingredients \u00d72 ]": "[Magic Ingredients \u00d72 ]\n04000000 018AC4C4 0B140908\n\n",
+        "[Magic Ingredients \u00d74]": "[Magic Ingredients \u00d74]\n04000000 018AC4C4 0B141108\n\n",
+        "[Magic Ingredients \u00d7100]": "[Magic Ingredients \u00d7100]\n04000000 018AC4C4 0B141908\n\n",
+        "[OFF Magic Ingredients ]": "[OFF Magic Ingredients ]\n04000000 018AC4C4 0B140108\n\n",
+        "[Magic Ingredients No Decrease]": "[Magic Ingredients No Decrease]\n04000000 018AAFCC 0B140AAA\n\n",
+        "[OFF]": "[OFF]\n04000000 01723CBC 6B13013F\n\n",
+        "[Miner's cave mineral Availability \u00d72]": "[Miner's cave mineral Availability \u00d72]\n04000000 01723B48 0B020900\n\n",
+        "[Miner's cave mineral Availability \u00d74]": "[Miner's cave mineral Availability \u00d74]\n04000000 01723B48 0B021100\n\n",
+        "[Miner's cave mineral Availability \u00d7100]": "[Miner's cave mineral Availability \u00d7100]\n04000000 01723B48 0B021900\n\n",
+        "[Miner's cave mineral Availability \u00d7100000]": "[Miner's cave mineral Availability \u00d7100000]\n04000000 01723B48 0B022900\n\n",
+        "[OFF Miner's cave mineral Availability]": "[OFF Miner's cave mineral Availability]\n04000000 01723B48 0B020100\n\n",
+        "[No reduction of minerals]": "[No reduction of minerals]\n04000000 01723AEC 0B021900\n\n",
+        "[No reduction of minerals OFF]": "[No reduction of minerals OFF]\n04000000 01723AEC 79404100\n\n",
+        "[After obtaining the material the whole material is the largest ]": "[After obtaining the material the whole material is the largest ]\n04000000 01723CBC 2A0903F3\n\n"
+    }
+}

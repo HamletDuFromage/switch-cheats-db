@@ -1,0 +1,43 @@
+{
+    "9B4979A234077441": {
+        "[01# Carry Capacity 1000]": "[01# Carry Capacity 1000]\n04000000 01E769CC 447A0000\n04000000 01E769B4 1C0000C0\n\n",
+        "[Carry Capacity 1000 (off)]": "[Carry Capacity 1000 (off)]\n04000000 01E769CC D503201F\n04000000 01E769B4 1E202900\n\n",
+        "[02# Inf Campfire fuel]": "[02# Inf Campfire fuel]\n04000000 01C79AA8 D503201F\n\n",
+        "[Inf Campfire fuel (off)]": "[Inf Campfire fuel (off)]\n04000000 01C79AA8 51000508\n\n",
+        "[03# Inf Sprint]": "[03# Inf Sprint]\n04000000 01E42558 43C80000\n04000000 01E41EF0 1C003348\n\n",
+        "[Inf Sprint (off)]": "[Inf Sprint (off)]\n04000000 01E42558 D503201F\n04000000 01E41EF0 BD007E68\n\n",
+        "[04# Can craft anywhere]": "[04# Can craft anywhere]\n04000000 01FC1200 52800020\n04000000 01FC1204 D65F03C0\n\n",
+        "[Can craft anywhere (off0]": "[Can craft anywhere (off0]\n04000000 01FC1200 F81D0FF5\n04000000 01FC1204 A9014FF4\n\n",
+        "[05# No Thirst]": "[05# No Thirst]\n04000000 0219CEC4 1E2703E9\n\n",
+        "[No Thirst (off)]": "[No Thirst (off)]\n04000000 0219CEC4 1E202829\n\n",
+        "[06# Not cold]": "[06# Not cold]\n04000000 020C0A0C 1E2703E0\n\n",
+        "[Not cold (off)]": "[Not cold (off)]\n04000000 020C0A0C BD402100\n\n",
+        "[07# Inf Fatigue]": "[07# Inf Fatigue]\n04000000 01F541B4 1E2703E0\n\n",
+        "[Inf Fatigue (off)]": "[Inf Fatigue (off)]\n04000000 01F541B4 1E202820\n\n",
+        "[08# Max Calories]": "[08# Max Calories]\n04000000 020119CC 451C4000\n04000000 02011D30 1CFFE4E9\n\n",
+        "[Max Calories (off)]": "[Max Calories (off)]\n04000000 020119CC D503201F\n04000000 02011D30 BD001A69\n\n",
+        "[09# Inf health]": "[09# Inf health]\n04000000 01CAF0EC 42DC0000\n04000000 01CAEDF4 1C001769\n\n"
+    },
+    "AC7114153A1DA944": {
+        "[01# Carry Capacity 1000]": "[01# Carry Capacity 1000]\n04000000 01E769CC 447A0000\n04000000 01E769B4 1C0000C0\n\n",
+        "[Carry Capacity 1000 (off)]": "[Carry Capacity 1000 (off)]\n04000000 01E769CC D503201F\n04000000 01E769B4 1E202900\n\n",
+        "[02# Inf Campfire fuel]": "[02# Inf Campfire fuel]\n04000000 01C79AA8 D503201F\n\n",
+        "[Inf Campfire fuel (off)]": "[Inf Campfire fuel (off)]\n04000000 01C79AA8 51000508\n\n",
+        "[03# Inf Sprint]": "[03# Inf Sprint]\n04000000 01E42558 43C80000\n04000000 01E41EF0 1C003348\n\n",
+        "[Inf Sprint (off)]": "[Inf Sprint (off)]\n04000000 01E42558 D503201F\n04000000 01E41EF0 BD007E68\n\n",
+        "[04# Can craft anywhere]": "[04# Can craft anywhere]\n04000000 01FC1200 52800020\n04000000 01FC1204 D65F03C0\n\n",
+        "[Can craft anywhere (off0]": "[Can craft anywhere (off0]\n04000000 01FC1200 F81D0FF5\n04000000 01FC1204 A9014FF4\n\n",
+        "[05# No Thirst]": "[05# No Thirst]\n04000000 0219CEC4 1E2703E9\n\n",
+        "[No Thirst (off)]": "[No Thirst (off)]\n04000000 0219CEC4 1E202829\n\n",
+        "[06# Not cold]": "[06# Not cold]\n04000000 020C0A0C 1E2703E0\n\n",
+        "[Not cold (off)]": "[Not cold (off)]\n04000000 020C0A0C BD402100\n\n",
+        "[07# Inf Fatigue]": "[07# Inf Fatigue]\n04000000 01F541B4 1E2703E0\n\n",
+        "[Inf Fatigue (off)]": "[Inf Fatigue (off)]\n04000000 01F541B4 1E202820\n\n",
+        "[08# Max Calories]": "[08# Max Calories]\n04000000 020119CC 451C4000\n04000000 02011D30 1CFFE4E9\n\n",
+        "[Max Calories (off)]": "[Max Calories (off)]\n04000000 020119CC D503201F\n04000000 02011D30 BD001A69\n\n",
+        "[09# Inf health]": "[09# Inf health]\n04000000 01CAF0EC 42DC0000\n04000000 01CAEDF4 1C001769\n\n"
+    },
+    "attribution": {
+        "The Long Dark 1.0.0 by ZiT and ver 1.84.65582 by patjenova.txt": "If you want to change the status change 00000150."
+    }
+}

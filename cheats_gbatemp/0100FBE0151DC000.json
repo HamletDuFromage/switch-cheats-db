@@ -1,0 +1,14 @@
+{
+    "A354BE6DD8D06F46": {
+        "[No Decrease For Gold]": "[No Decrease For Gold]\n080E0000 01E34E00 1A9FA021 7100003F\n080E0000 01E34E08 D65F03C0 51000448\n040E0000 01D65488 94033E5E\n\n",
+        "[No Decrease For Card Packs]": "[No Decrease For Card Packs]\n040E0000 01E16DE8 5100016B\n040E0000 01E16DC4 5100016B\n\n",
+        "[No Decrease For Cards when Upgrade]": "[No Decrease For Cards when Upgrade]\n040E0000 01D6DC80 4B1F018C\n040E0000 01D6DB28 4B1F01AD\n\n",
+        "[No Decrease For Marshal Wards]": "[No Decrease For Marshal Wards]\n080E0000 01C67AF8 0B02094A 5400010B\n\n",
+        "[No Decrease For items used in Dungeon]": "[No Decrease For items used in Dungeon]\n040E0000 01D6DAC0 4B1F01AD\n\n",
+        "[No Decrease For Player's HP]": "[No Decrease For Player's HP]\n080E0000 01D3DEF0 B9008B68 B9509668\n\n",
+        "[99 MP for Player each Round]": "[99 MP for Player each Round]\n080E0000 01D5097C B9008D4B 52800C6B\n\n"
+    },
+    "attribution": {
+        "THE Card Battle, Eternal Destiny v1.0 by Eiffel2018.txt": "Note: Player will be killed by Super Damage"
+    }
+}

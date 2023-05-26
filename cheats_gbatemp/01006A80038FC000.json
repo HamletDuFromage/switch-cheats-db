@@ -1,0 +1,9 @@
+{
+    "3F175CD5303104D9": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 01240114 00000060\n\n",
+        "[P1 Infinite Power]": "[P1 Infinite Power]\n01000000 012402ED 00000060\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n01000000 01240214 00000001\n\n",
+        "[P2 NO Power]": "[P2 NO Power]\n01000000 012403ED 00000000\n\n",
+        "[hitanywhere]": "[hitanywhere]\n580F0000 01247728\n780F0000 00010CAC\n640F0000 00000000 b86c6012\n\n"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "314761C8FD30894F": {
+        "{- Chenso Club -}": "{- Chenso Club -}\n040C0000 015BF8A0 BD413661\n040C0000 015C0078 BD402E60\n040C0000 01689F40 D10183FF\n040C0000 01689568 4B140129\n040C0000 015BAF78 4B140108\n040C0000 015E7960 1E203900\n040C0000 01569C98 BD413A60\n040C0000 015B323C B9404901\n080C0000 015FF5FC 0B010121 B9404509\n040C0000 015FF6C0 0B010121\n040C0000 015FF6BC B9404909\n080C0000 0376D5B0 72993FE9 52A77349\n040C0000 0376D5B8 177A4842\n040C0000 015C1940 BD403A69\n040C0000 015BF7D8 BD416A62\n\n",
+        "[(ZL+B) Moonjump]": "[(ZL+B) Moonjump]\n80000102\n040C0000 015BF8A0 1E25D001\n20000000\n\n",
+        "[(L) Speed Up]": "[(L) Speed Up]\n80000040\n040C0000 015C0078 1E273000\n20000000\n\n",
+        "[Invincible]": "[Invincible]\n040C0000 01689F40 D65F03C0\n\n",
+        "[Inf. Health]": "[Inf. Health]\n040C0000 01689568 4B1F0129\n040C0000 015BAF78 4B1F0108\n\n",
+        "[Insta-Kill]": "[Insta-Kill]\n040C0000 015E7960 1E2703E0\n\n",
+        "[Items no Cooldown]": "[Items no Cooldown]\n040C0000 01569C98 1E2703E0\n\n",
+        "[Inf. Chenso Tokens]": "[Inf. Chenso Tokens]\n080C0000 015FF5FC 0B1F0121 5284E1E9\n\n",
+        "[Follower x2]": "[Follower x2]\n040C0000 015FF6C0 0B010521\n\n",
+        "[Follower x4]": "[Follower x4]\n040C0000 015FF6C0 0B010921\n\n",
+        "[Follower x16]": "[Follower x16]\n040C0000 015FF6C0 0B011121\n\n",
+        "[Follower x32]": "[Follower x32]\n040C0000 015FF6C0 0B011521\n\n",
+        "[Max Followers]": "[Max Followers]\n040C0000 015FF6BC 1485B7BD\n\n",
+        "[Low Gravity]": "[Low Gravity]\n040C0000 015C1940 1E269009\n\n",
+        "[Dash Distance x2]": "[Dash Distance x2]\n040C0000 015BF7D8 1E201002\n\n",
+        "[Dash Distance x4]": "[Dash Distance x4]\n040C0000 015BF7D8 1E221002\n\n",
+        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n"
+    }
+}

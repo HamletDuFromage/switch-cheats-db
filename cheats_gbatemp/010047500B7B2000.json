@@ -1,0 +1,32 @@
+{
+    "91F1E17F8D8D0B4A": {
+        "[MASTER CODE]": "[MASTER CODE]\n04000000 017BBDD4 B900FC08\n\n",
+        "[SP is not reduced ON]": "[SP is not reduced ON]\n04000000 017BBDD4 B9010001\n\n",
+        "[SP is not reduced OFF]": "[SP is not reduced OFF]\n04000000 017BBDD4 B900FC08\n\n",
+        "[2 times experience]": "[2 times experience]\n04000000 02112170 0B010929\n\n",
+        "[4 times experience]": "[4 times experience]\n04000000 02112170 0B011129\n\n",
+        "[Level 99 after gaining experience]": "[Level 99 after gaining experience]\n04000000 02112170 0B015129\n\n",
+        "[Exp Gained OFF]": "[Exp Gained OFF]\n04000000 02112170 0B010129\n\n",
+        "[locked items Number ON]": "[locked items Number ON]\n04000000 01670E48 B9401400\n\n",
+        "[locked items Number OFF]": "[locked items Number OFF]\n04000000 01670E48 B9001408\n\n",
+        "[Max after the Items are Gained ON]": "[Max after the Items are Gained ON]\n04000000 01670E34 0B015108\n\n",
+        "[Max after the Items are Gained OFF]": "[Max after the Items are Gained OFF]\n04000000 01670E34 0B010108\n\n",
+        "[HP is 9999 ON]": "[HP is 9999 ON]\n04000000 01825BB4 291EA669\n\n",
+        "[HP is 9999 OFF]": "[HP is 9999 OFF]\n04000000 01825BB4 291E8260\n\n",
+        "[Maximum intimacy after obtaining ON]": "[Maximum intimacy after obtaining ON]\n04000000 01988EB0 B900256C\n04000000 014BAAF8 29098A62\n04000000 01988EAC 0B13514A\n\n",
+        "[Maximum intimacy after obtaining OFF]": "[Maximum intimacy after obtaining OFF]\n04000000 01988EB0 B900256A\n04000000 014BAAF8 2909D275\n04000000 01988EAC 0B13014A\n\n"
+    },
+    "91F1E17F8DBD0B4A": {
+        "[Breeze beta41a DIGIMON SURVIVE 1.0.2 TID: 010047500B7B2000 BID: 91F1E17F8DBD0B4A]": "[Breeze beta41a DIGIMON SURVIVE 1.0.2 TID: 010047500B7B2000 BID: 91F1E17F8DBD0B4A]\n\n",
+        "[For unit under cursor \ue0b4 Set HP = 0 \ue0c4 Full HP and SP]": "[For unit under cursor \ue0b4 Set HP = 0 \ue0c4 Full HP and SP]\n04000000 0139B7FC B940FD22 \n80000800 \n04000000 0139B7FC 14572A67 \n08000000 02966198 5280001C A93873FB \n08000000 029661A0 14000008 B900F53C \n04000000 029661C4 B940FD22 \n08000000 029661C8 17A8D58D A97873FB \n20000000 \n80000010 \n04000000 0139B7FC 14572A67 \n08000000 02966198 B940F93C A93873FB \n08000000 029661A0 B941013C B900F53C \n08000000 029661A8 14000006 B900FD3C \n04000000 029661C4 B940FD22 \n08000000 029661C8 17A8D58D A97873FB \n08000000 029661D0 447A0000 43480000 \n20000000\n\n",
+        "[Exp X1]": "[Exp X1]\n04000000 02128600 0B010129\n\n",
+        "[Exp X16]": "[Exp X16]\n04000000 02128600 0B011129\n\n",
+        "[Get item to have min 99]": "[Get item to have min 99]\n04000000 01670E40 1A89C108\n\n",
+        "[Get item back to normal]": "[Get item back to normal]\n04000000 01670E40 1A89C108 \n04000000 01670E3C 52800C69\n\n",
+        "[Change item qty obtained to 9999]": "[Change item qty obtained to 9999]\n04000000 01670E3C 5284E1E9\n\n",
+        "[slot1 qty]": "[slot1 qty]\n580F0000 0495E4E8 \n580F1000 000000B8 \n580F1000 00000008 \n580F1000 00000150 \n580F1000 00000010 \n580F1000 00000020 \n780F0000 00000014 \n640F0000 494B0000 00001323\n\n",
+        "[slot1 item type]": "[slot1 item type]\n580F0000 0495E4E8 \n580F1000 000000B8 \n580F1000 00000008 \n580F1000 00000150 \n580F1000 00000010 \n580F1000 00000020 \n780F0000 00000010 \n640F0000 00001323 00000005\n\n",
+        "[slot2 qty]": "[slot2 qty]\n580F0000 0495E4E8 \n580F1000 000000B8 \n580F1000 00000008 \n580F1000 00000150 \n580F1000 00000010 \n580F1000 00000028 \n780F0000 00000014 \n640F0000 00000000 00001323\n\n",
+        "[slot2 item type]": "[slot2 item type]\n580F0000 0495E4E8 \n580F1000 000000B8 \n580F1000 00000008 \n580F1000 00000150 \n580F1000 00000010 \n580F1000 00000028 \n780F0000 00000010 \n640F0000 00001323 000000CA\n\n"
+    }
+}

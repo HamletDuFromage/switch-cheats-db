@@ -1,0 +1,17 @@
+{
+    "0854BA405CD1554F": {
+        "[01# Godmode]": "[01# Godmode]\n040A0000 02F68CC0 52800029\n\n",
+        "[02# Instant Kill]": "[02# Instant Kill]\n040A0000 0183FDBC 52800028\n\n",
+        "[03# Coins X4]": "[03# Coins X4]\n040A0000 02F5AF38 0B141129\n\n",
+        "[04# Unlock Dash]": "[04# Unlock Dash]\n040A0000 017BDB70 52800028\n\n",
+        "[05# Unlock Shield]": "[05# Unlock Shield]\n040A0000 01C3A934 52800029\n\n",
+        "[06# Unlock SpinAttack]": "[06# Unlock SpinAttack]\n040A0000 01A0A1B0 52800029\n\n",
+        "[07# Can Use Special]": "[07# Can Use Special]\n040A0000 02F5A250 52800020\n040A0000 02F5A254 D65F03C0\n\n",
+        "[08# Unlock Electric Discharge]": "[08# Unlock Electric Discharge]\n040A0000 016794B0 52800029\n\n",
+        "[09# Can Buy Upgrade]": "[09# Can Buy Upgrade]\n040A0000 017A04B0 52800020\n040A0000 017A04B4 D65F03C0\n040A0000 017B78A0 52800020\n040A0000 017B78A4 D65F03C0\n040A0000 0178B440 52800020\n040A0000 0178B444 D65F03C0\n\n",
+        "[10# Infinite special bar]": "[10# Infinite special bar]\n040A0000 02F5A088 52804B09\n040A0000 02F5A1F4 D503201F\n\n"
+    },
+    "attribution": {
+        "Retro Machina ver 1.0.1 by Patjenova.txt": ""
+    }
+}

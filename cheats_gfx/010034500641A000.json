@@ -1,0 +1,9 @@
+{
+    "586EA519C1CDFAE7": {
+        "[60 FPS]": "[60 FPS]\n580F0000 01B86468\n580F1000 00002B08\n580F1000 00000050\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 01B86468\n580F1000 00002B08\n580F1000 00000050\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Attack on Titan 2.txt": "v1.0.14 by Hazerou\nWhen using 60 FPS, Game Speed will slow down whenever FPS Drops.\n"
+    }
+}

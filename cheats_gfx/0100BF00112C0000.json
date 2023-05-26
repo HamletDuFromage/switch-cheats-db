@@ -1,0 +1,9 @@
+{
+    "93A79C77DA81F7F1": {
+        "[60 FPS (2x Cutscene Speed)]": "[60 FPS (2x Cutscene Speed)]\n580F0000 031D1400\n780F0000 00000F14\nC046F400 00000001\n640F0000 00000000 00000001\n20000000\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 031D1400\n780F0000 00000F14\nC046F400 00000001\n640F0000 00000000 00000002\n20000000\n\n"
+    },
+    "attribution": {
+        "Catherine Full Body.txt": "By AnimatedSwine37\nCutscenes seem to play at double speed (voicelines play earlier than they should and can overlap)\nBreaks some gameplay elements such as timers\n"
+    }
+}

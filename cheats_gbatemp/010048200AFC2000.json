@@ -1,0 +1,9 @@
+{
+    "8C918DDFD8DC2D21": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 01285758 00000066\n\n",
+        "[P1 Infinite Super]": "[P1 Infinite Super]\n01000000 01285802 00000004\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n01000000 01285958 00000000\n\n",
+        "[P2 NO Super]": "[P2 NO Super]\n01000000 01285A02 00000000\n\n",
+        "[hitanywhere]": "[hitanywhere]\n04000000 0067902678 60020880\n\n"
+    }
+}

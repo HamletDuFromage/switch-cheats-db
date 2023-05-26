@@ -1,0 +1,8 @@
+{
+    "BC47AD4E7BED34E3": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n04000000 01238B1C 78000000\n\n",
+        "[P1 Maximum Power]": "[P1 Maximum Power]\n04000000 01238B4C 80000000\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n04000000 01238C1C 00000000\n\n",
+        "[P2 NO Maximum Power]": "[P2 NO Maximum Power]\n04000000 01238C4C 00000000\n\n"
+    }
+}

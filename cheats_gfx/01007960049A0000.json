@@ -1,0 +1,9 @@
+{
+    "F19B2E01E1794F93": {
+        "[60 FPS (Default)]": "[60 FPS (Default)]\n580F0000 035039E0 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 035039E0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Bayonetta 2.txt": "By retole\n\nIn Bayonetta 2 30 FPS code does not slow game speed"
+    }
+}

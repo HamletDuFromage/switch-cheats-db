@@ -1,0 +1,11 @@
+{
+    "723EAB9AC0BB3CBF": {
+        "[ZL + R3 Freeze Game]": "[ZL + R3 Freeze Game]\n80000120\nFF000000\n20000000\n\n",
+        "[ZR + R3 Resume Game]": "[ZR + R3 Resume Game]\n80000220\nFF100000\n20000000\n\n",
+        "[Default 60 FPS]": "[Default 60 FPS]\n580F0000 0ABDF568\n580F1000 000080E8\n780F0000 00000F24\n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 0ABDF568\n580F1000 000080E8\n780F0000 00000F24\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Minecraft.txt": "By Hazerou\n\nNow this one is tricky. You can't open the album to go to Edizon-SE. I had to use a Freeze Game Code to access album.\n\nOh and this game updates frequently. I won't be able to update it everytime so if you want, check my videos how to find FPS Codes. For me I used Method 3 = 0xD12120"
+    }
+}

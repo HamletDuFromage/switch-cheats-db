@@ -1,0 +1,9 @@
+{
+    "4B171B8F549B7948": {
+        "[LStick - enemy drop 1000 coins]": "[LStick - enemy drop 1000 coins]\n04000000 006613FC B940C400\n80000010\n04000000 006613FC 52807D00\n20000000\n\n",
+        "[LStick - enemy drop 50 gems]": "[LStick - enemy drop 50 gems]\n04000000 00661404 B940C800\n80000010\n04000000 00661404 52800640\n20000000\n\n"
+    },
+    "attribution": {
+        "PixelJunk Monsters 2 for v1.0.4 Made by DaBlackDeath.txt": "WARNING - Enable these when IN-GAME ONLY or will Crash the Full Game"
+    }
+}

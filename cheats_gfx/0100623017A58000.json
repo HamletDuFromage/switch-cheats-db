@@ -1,0 +1,11 @@
+{
+    "E3D4C44D41E65899": {
+        "[60 FPS]": "[60 FPS]\n580F0000 02C5B360 \n580F1000 00007BD0 \n780F0000 00000014 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 02C5B360 \n580F1000 00007BD0 \n780F0000 00000014 \n640F0000 00000000 00000002\n\n",
+        "[60 FPS alternative]": "[60 FPS alternative]\n040E0000 032471DC 5280002B\n\n",
+        "[30 FPS alternative]": "[30 FPS alternative]\n040E0000 032471DC B94F26AB\n\n"
+    },
+    "attribution": {
+        "Alan Wake Remastered.txt": "By desconection, Eiffel2018\n\nhttps://youtube.com/user/TheDesconection"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "1F4A4708615F76F7": {
+        "[60 FPS  (Default)]": "[60 FPS  (Default)]\n580F0000 03264CD0 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Game Speed Slow)]": "[30 FPS (Game Speed Slow)]\n580F0000 03264CD0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Bayonetta.txt": "By retole\n\nIn Bayonetta 30 FPS code also slow game speed"
+    }
+}

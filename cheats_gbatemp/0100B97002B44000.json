@@ -1,0 +1,11 @@
+{
+    "E1E188AA898B0AC6": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 0123F0F8 00000066\n\n",
+        "[P1 Infinite Super]": "[P1 Infinite Super]\n01000000 0123F0A9 00000090\n\n",
+        "[P1 Infinite Strikers]": "[P1 Infinite Strikers]\n01000000 0123F1A2 00000005\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n01000000 0123F2F8 00000000\n\n",
+        "[P2 NO Super]": "[P2 NO Super]\n01000000 0123F2A9 00000000\n\n",
+        "[P2 NO Strikers]": "[P2 NO Strikers]\n01000000 0123F3A2 00000000\n\n",
+        "[hitanywhere]": "[hitanywhere]\n04000000 008DB0275C 11A6002\n\n"
+    }
+}

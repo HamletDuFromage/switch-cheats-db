@@ -1,0 +1,33 @@
+{
+    "4E587FE27A463D4C": {
+        "[HP Max - Atmosphere]": "[HP Max - Atmosphere]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000010\n580F1000 00000028\n580F1000 00000030\n780F0000 00000048\n989EF000\n540E1000 00000000\n780F1000 00000004\nA4EF0000\n\n",
+        "[HP - SXOS]": "[HP - SXOS]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000010\n580F1000 00000028\n580F1000 00000030\n780F0000 00000044\n640F0000 00000000 00000012\n\n",
+        "[MP Max - Atmosphere]": "[MP Max - Atmosphere]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000010\n580F1000 00000028\n580F1000 00000030\n780F0000 00000048\n989EF000\n540E1000 00000000\n580F0000 02F6D8A0\n580F1000 00000208\n580F1000 00000C10\n580F1000 00000038\n580F1000 00000030\n580F1000 00000010\n580F1000 00000028\n580F1000 00000010\n580F1000 00000028\n780F0000 000000C8\nA4EF0000\n\n",
+        "[MP - SXOS]": "[MP - SXOS]\n580F0000 02F6D8A0\n580F1000 00000208\n580F1000 00000C10\n580F1000 00000038\n580F1000 00000030\n580F1000 00000010\n580F1000 00000028\n580F1000 00000010\n580F1000 00000028\n780F0000 000000C8\n640F0000 00000000 00000012\n\n",
+        "[Almas Dinero - Souls Money]": "[Almas Dinero - Souls Money]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000028\n780F0000 00000018\n640F0000 00000000 000F423F\n\n",
+        "[Llaves - Keys]": "[Llaves - Keys]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000028\n780F0000 0000001C\n640F0000 00000000 00000009\n\n",
+        "[Almas - Souls]": "[Almas - Souls]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000028\n780F0000 00000020\n640F0000 00000000 00000009\n\n",
+        "[Un poco de caos - A bit of chaos]": "[Un poco de caos - A bit of chaos]\n04100000 A8E419E0 00000009\n\n",
+        "[Bomba de pinchos - Spikey bomb]": "[Bomba de pinchos - Spikey bomb]\n04100000 A8E41900 00000009\n\n",
+        "[Tarro de ojos - Jar of eyeballs]": "[Tarro de ojos - Jar of eyeballs]\n04100000 A8DD7C40 00000009\n\n",
+        "[Monton de mugre - Pile of gunk]": "[Monton de mugre - Pile of gunk]\n04100000 A8E41820 00000009\n\n",
+        "[Partes de robot - Robot parts]": "[Partes de robot - Robot parts]\n04100000 A8E41740 00000009\n\n",
+        "[Dedo podrido - Rotten toe]": "[Dedo podrido - Rotten toe]\n04100000 A8E5D220 00000009\n\n",
+        "[Bomba vortice - Vortex bomb]": "[Bomba vortice - Vortex bomb]\n04100000 A8E41660 00000009\n\n",
+        "[Sangre del inocente - Blood of the innocent]": "[Sangre del inocente - Blood of the innocent]\n04100000 A8E5D4F0 00000004\n\n",
+        "[Esencia de fuego - Essence of fire]": "[Esencia de fuego - Essence of fire]\n04100000 A8D19B40 00000009\n\n",
+        "[Esencia de hielo - Essence of ice]": "[Esencia de hielo - Essence of ice]\n04100000 A8E41E40 00000009\n\n",
+        "[Ala de hada - Faerie wing]": "[Ala de hada - Faerie wing]\n04100000 A8E41C80 00000009\n\n",
+        "[Corazon del inocente - Heart of the innocent]": "[Corazon del inocente - Heart of the innocent]\n04100000 A92EFAD0 00000008\n\n",
+        "[Pluma de Fenix - Phoenix feather]": "[Pluma de Fenix - Phoenix feather]\n04100000 A8E41BA0 00000009\n\n",
+        "[Pata de conejo - Rabbits foot]": "[Pata de conejo - Rabbits foot]\n04100000 A8D19A40 00000004\n\n",
+        "[Medula espinal - Spinal cord]": "[Medula espinal - Spinal cord]\n04100000 A8E41AC0 00000009\n\n",
+        "[Polvo de hada - Wisp dust]": "[Polvo de hada - Wisp dust]\n04100000 A92EFA00 00000009\n\n",
+        "[Totem prismatico - Prismatic totem]": "[Totem prismatico - Prismatic totem]\n04100000 A8DD7B40 00000009\n\n",
+        "[Esencia de relampago - Essence of lightning]": "[Esencia de relampago - Essence of lightning]\n04100000 A8E41D60 00000009\n\n",
+        "[Esencia de sombra - Essence of shadow]": "[Esencia de sombra - Essence of shadow]\n04100000 A8E5D400 00000009\n\n"
+    },
+    "attribution": {
+        "Rack N Ruin ver 1.0.4 by jhmiller.txt": "NOTE:\nIf stats become unusable, set to lower number (tested with these a little and seemd fine. Dont exceed too hard or you might get 1 shot etc).\nStat changes will be made when you teleport in/out or level up."
+    }
+}

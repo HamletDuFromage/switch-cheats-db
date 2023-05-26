@@ -1,0 +1,12 @@
+{
+    "7597240B0E03DC43": {
+        "[River City Girls 2 v0 TID=01002E80168F4000 BID=7597240B0E03DC43]": "[River City Girls 2 v0 TID=01002E80168F4000 BID=7597240B0E03DC43]\n\n",
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 01D3D410 4EA01C08\n040E0000 018A4950 2A0103F5\n040E0000 01F4D598 11000508\n040E0000 01D490A0 39422668\n040E0000 01B0E9D8 BD002660\n040E0000 01B0EA1C BD003660\n040E0000 01B0E064 BD403D00\n\n",
+        "[#01. 5x Experience received]": "[#01. 5x Experience received]\n080E0000 03F99FF8 D65F03C0 1E280808\n040E0000 03F99FF4 1E229008\n040E0000 01D3D410 948972F9\n\n",
+        "[#02. 5x Money received]": "[#02. 5x Money received]\n040E0000 018A4950 0B010835\n\n",
+        "[#03. 5x Combo Gained]": "[#03. 5x Combo Gained]\n040E0000 01F4D598 11001508\n\n",
+        "[#04. Invincible]": "[#04. Invincible]\n080E0000 03F99FEC D65F03C0 1A9F17E8\n080E0000 03F99FE4 7101411F 39400108\n080E0000 03F99FDC F9400908 F9400268\n040E0000 01D490A0 948943CF\n\n",
+        "[#05. Recruited team-mates No Colddown]": "[#05. Recruited team-mates No Colddown]\n040E0000 01B0E9D8 B900267F\n040E0000 01B0EA1C B900367F\n\n",
+        "[#06. No Cooldown for Quick Slot]": "[#06. No Cooldown for Quick Slot]\n040E0000 01B0E064 1E2703E0\n\n"
+    }
+}

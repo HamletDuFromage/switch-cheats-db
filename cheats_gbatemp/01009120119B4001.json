@@ -1,0 +1,21 @@
+{
+    "7F8E71143A9B0813": {
+        "{Created by Eiffel2018, enjoy!}": "{Created by Eiffel2018, enjoy!}\n80000001\n\n",
+        "[--- Warning: only enable the version of game that you play! ---]": "[--- Warning: only enable the version of game that you play! ---]\n20000000\n\n",
+        "[Invincible (Original mode)]": "[Invincible (Original mode)]\n580E0000 0041D1C8\n580E1000 00000020\n780E0000 0006A3E0\n680E1000 79000C01 52806161\n640E0000 00000000 D65F03C0\n\n",
+        "[Infinite Bombs (Original mode)]": "[Infinite Bombs (Original mode)]\n580E0000 0041D1C8\n580E1000 00000020\n780E0000 00067ED0\n640E0000 00000000 528000C9\n\n",
+        "[Invincible (Arrange mode)]": "[Invincible (Arrange mode)]\n580E0000 0041D1C8\n580E1000 00000020\n780E0000 00074400\n680E1000 79000C01 52806161\n640E0000 00000000 D65F03C0\n\n",
+        "[Infinite Bombs (Arrange mode)]": "[Infinite Bombs (Arrange mode)]\n580E0000 0041D1C8\n580E1000 00000020\n780E0000 00071EB0\n640E0000 00000000 528000C9\n\n",
+        "[Invincible (Arcade mode)]": "[Invincible (Arcade mode)]\n580E0000 0041D1C8\n580E1000 00000020\n780E0000 00072EB0\n680E1000 79000C01 52806161\n640E0000 00000000 D65F03C0\n\n",
+        "[Infinite Bombs (Arcade mode)]": "[Infinite Bombs (Arcade mode)]\n580E0000 0041D1C8\n580E1000 00000020\n780E0000 00070970\n640E0000 00000000 528000C9\n\n",
+        "[Invincible (MBL Original mode)]": "[Invincible (MBL Original mode)]\n580E0000 0041D1C8\n580E1000 00000020\n780E0000 00082330\n680E1000 79000C01 52806161\n640E0000 00000000 D65F03C0\n\n",
+        "[Infinite Bombs (MBL Original mode)]": "[Infinite Bombs (MBL Original mode)]\n580E0000 0041D1C8\n580E1000 00000020\n780E0000 0007FF40\n640E0000 00000000 528000C9\n\n",
+        "[Invincible (MBL Arrange mode)]": "[Invincible (MBL Arrange mode)]\n580E0000 0041D1C8\n580E1000 00000020\n780E0000 00083920\n680E1000 79000C01 52806161\n640E0000 00000000 D65F03C0\n\n",
+        "[Infinite Bombs (MBL Arrange mode)]": "[Infinite Bombs (MBL Arrange mode)]\n580E0000 0041D1C8\n580E1000 00000020\n780E0000 000813D0\n640E0000 00000000 528000C9\n\n",
+        "[Invincible (MBL Arcade mode)]": "[Invincible (MBL Arcade mode)]\n580E0000 0041D1C8\n580E1000 00000020\n780E0000 00082370\n680E1000 79000C01 52806161\n640E0000 00000000 D65F03C0\n\n",
+        "[Infinite Bombs (MBL Arcade mode)]": "[Infinite Bombs (MBL Arcade mode)]\n580E0000 0041D1C8\n580E1000 00000020\n780E0000 0007FF80\n640E0000 00000000 528000C9\n\n"
+    },
+    "attribution": {
+        "Deathsmiles I (JP) 1.0.2(v131072) by Eiffel2018.txt": "111022\n\n\n\n\n\n\n\n\n"
+    }
+}

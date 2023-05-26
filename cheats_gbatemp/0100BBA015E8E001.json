@@ -1,0 +1,25 @@
+{
+    "37E3E08157F6DF03": {
+        "[01# Inf Health]": "[01# Inf Health]\n040A0000 015D4D1C 6B1F0129\n\n",
+        "[Inf health (off)]": "[Inf health (off)]\n040A0000 015D4D1C 6B150129\n\n",
+        "[02# Max DreamStones]": "[02# Max DreamStones]\n040A0000 01C88770 52807CE9\n\n",
+        "[Max DreamStones (off)]": "[Max DreamStones (off)]\n040A0000 01C88770 0B090109\n\n",
+        "[03# Inf Lives]": "[03# Inf Lives]\n040A0000 01A06090 52800129\n\n",
+        "[Inf Lives (off)]": "[Inf Lives (off)]\n040A0000 01A06090 B9003D09\n\n",
+        "[04# Moonjump]": "[04# Moonjump]\n040A0000 015DFA28 1E232820\n80000002\n040A0000 015DFA28 1E233820\n20000000\n\n",
+        "[Moonjump (off)]": "[Moonjump (off)]\n040A0000 015DFA28 1E232820\n\n"
+    },
+    "552FC82B89F7FC98": {
+        "[01# Inf Health]": "[01# Inf Health]\n040A0000 01B3D144 4B1F014A\n\n",
+        "[Inf health (off)]": "[Inf health (off)]\n040A0000 01B3D144 4B16014A\n\n",
+        "[02# Max DreamStones]": "[02# Max DreamStones]\n040A0000 01C52190 11018D4A\n\n",
+        "[Max DreamStones (off)]": "[Max DreamStones (off)]\n040A0000 01C52190 0B14014A\n\n",
+        "[03# Inf Lives]": "[03# Inf Lives]\n040A0000 01BF6124 4B1F0129\n\n",
+        "[Inf Lives (off)]": "[Inf Lives (off)]\n040A0000 01BF6124 51000529\n\n",
+        "[04# Moonjump (Press B)]": "[04# Moonjump (Press B)]\n040A0000 01B30AA8 1E212800\n80000002\n040A0000 01B30AA8 1E349000\n20000000\n\n",
+        "[Moonjump (off)]": "[Moonjump (off)]\n040A0000 01B30AA8 1E212800\n\n"
+    },
+    "attribution": {
+        "KLONOA Phantasy Reverie Series by patjenova.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+    }
+}

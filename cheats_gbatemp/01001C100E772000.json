@@ -1,0 +1,11 @@
+{
+    "1B80403BE8882745": {
+        "[Hold L & A for 550 million studs]": "[Hold L & A for 550 million studs]\n\n80000041\n580F0000 03B6AA10\n780F0000 00024240\n640F0000 00000000 20C85580\n20000000\n\n",
+        "[Infinite health]": "[Infinite health]\n580F0000 03B57DD0\n780F0000 00000838\n640F0000 00000000 00000404\n\n",
+        "[02# Moonjump]": "[02# Moonjump]\n80000002\n580F0000 03B83918\n780F0000 00000104\n640F0000 00000000 40200000\n20000000\n\n",
+        "[01# Infinite health]": "[01# Infinite health]\n580F0000 03B57DD0\n780F0000 00000838\n640F0000 00000000 00000404\n\n"
+    },
+    "attribution": {
+        "Lego Jurassic World By wiitendo84.txt": ""
+    }
+}

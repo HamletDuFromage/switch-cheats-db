@@ -1,0 +1,15 @@
+{
+    "E14BA06266B126AA": {
+        "[HP by jhmiller]": "[HP by jhmiller]\n580F0000 2A18BA78\n580F1000 00000000\n580F1000 00000000\n780F0000 000001A4\n640F0000 00000000 43480000\n\n",
+        "[Salvage by jhmiller]": "[Salvage by jhmiller]\n580F0000 00DC5A78\n580F1000 00000180\n580F1000 00000060\n580F1000 00000260\n780F0000 00000024\n640F0000 00000000 000F423F\n\n",
+        "[Grenadas by jhmiller]": "[Grenadas by jhmiller]\n580F0000 00DC5A78\n580F1000 00000180\n580F1000 00000060\n580F1000 00000260\n780F0000 00000048\n640F0000 00000000 00000003\n780F0000 00000004\n640F0000 00000000 00000003\n780F0000 00000004\n640F0000 00000000 00000003\n780F0000 00000004\n640F0000 00000000 00000003\n\n",
+        "[Gunnar Ammo by jhmiller]": "[Gunnar Ammo by jhmiller]\n580F0000 00DC5A78\n580F1000 00000180\n580F1000 00000060\n580F1000 00000070\n780F0000 0000005C\n640F0000 00000000 00000032\n\n",
+        "[Shotgun Ammo by jhmiller]": "[Shotgun Ammo by jhmiller]\n580F0000 2A18B988\n580F1000 00000000\n580F1000 00000000\n580F1000 00000070\n580F1000 000000E8\n780F0000 00000094\n640F0000 00000000 00000032\n\n",
+        "[Sammy Launcher Ammo by jhmiller]": "[Sammy Launcher Ammo by jhmiller]\n580F0000 2A18B988\n580F1000 00000000\n580F1000 00000000\n580F1000 00000070\n580F1000 000000E8\n780F0000 0000009C\n640F0000 00000000 00000001\n\n",
+        "[Beam Rifle Ammo by jhmiller]": "[Beam Rifle Ammo by jhmiller]\n580F0000 2A191490\n580F1000 00000010\n580F1000 00000000\n580F1000 00000030\n780F0000 00000074\n640F0000 00000000 00000063\n\n",
+        "[Ships HP by jhmiller]": "[Ships HP by jhmiller]\n580F0000 2A18C0B0\n780F0000 00000018\n640F0000 00000000 457A0000\n\n"
+    },
+    "attribution": {
+        "Rogue Trooper Redux ver 1.0.1 by jhmiller.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
+}

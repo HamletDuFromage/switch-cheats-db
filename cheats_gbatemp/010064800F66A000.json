@@ -1,0 +1,28 @@
+{
+    "1C37C3673E0E4E7A": {
+        "{Disable Sanity Check - Credits to C0dycode of Shadowevil's Modding Server}": "{Disable Sanity Check - Credits to C0dycode of Shadowevil's Modding Server}\n04000000 0193A3B0 D503201F\n04000000 0193A430 D503201F\n\n",
+        "[Disable Level Check for Items - Makes Enemies MUCH Stronger in PT2.5]": "[Disable Level Check for Items - Makes Enemies MUCH Stronger in PT2.5]\n04000000 019434EC 12B00000\n\n",
+        "[Infinite Magazine Ammo]": "[Infinite Magazine Ammo]\n04000000 0192A9B0 79000273\n\n",
+        "[Everyone One-Shot Kill - R to Enable, L to Disable]": "[Everyone One-Shot Kill - R to Enable, L to Disable]\n80000080\n04000000 012C5B70 D503201F\n20000000\n80000040\n04000000 012C5B70 BD000260\n20000000\n\n",
+        "[Invulnerability - Must Wear A Shield]": "[Invulnerability - Must Wear A Shield]\n580F0000 03BAA898\n580F1000 00000050\n580F1000 000002A8\n780F0000 00000098\n640F0000 00000000 3F800000\n580E0000 03BAA898\n580E1000 00000050\n580E1000 000002A0\n780E0000 00000098\n640E0000 00000000 7F800000\n\n",
+        "[9,999,999 Money]": "[9,999,999 Money]\n580F0000 03BAA898\n580F1000 00000048\n780F0000 00000388\n640F0000 00000000 0098967F\n\n",
+        "[Infinite Grenades]": "[Infinite Grenades]\n580F0000 03BAA898\n580F1000 00000050\n580F1000 00000298\n780F0000 00000098\n640F0000 00000000 40400000\n\n",
+        "[Instant Skill Recharge]": "[Instant Skill Recharge]\n580F0000 03BAA898\n580F1000 00000050\n580F1000 00000288\n780F0000 00000098\n640F0000 00000000 00000000\n\n"
+    },
+    "88D224694A04940F": {
+        "[01# Inf Ammo]": "[01# Inf Ammo]\n04000000 018F5484 1E27D000\n\n",
+        "[Inf Ammo (off)]": "[Inf Ammo (off)]\n04000000 018F5484 BD409900\n\n",
+        "[02# Inf Health]": "[02# Inf Health]\n580F0000 03B2EB78\n780F0000 00000098\n640F0000 00000000 47C34F80\n\n",
+        "[03# God Mode]": "[03# God Mode]\n580F0000 03BAA898\n580F1000 00000050\n580F1000 000002A0\n780F0000 0000014C\n640F0000 00000000 00000006\n\n",
+        "[04# Inf Money]": "[04# Inf Money]\n580F0000 03BAA898\n580F1000 00000048\n780F0000 00000388\n640F0000 00000000 000F423F\n\n",
+        "[05# Instant level up (press R stick)]": "[05# Instant level up (press R stick)]\n80000020\n580F0000 03BAA898\n580F1000 00000048\n780F0000 00000364\n640F0000 00000000 00000001\n20000000\n\n",
+        "[06# Skill points]": "[06# Skill points]\n580F0000 03B49BD8\n580F1000 00000070\n580F1000 00000280\n780F0000 00000380\n640F0000 00000000 00000063\n\n",
+        "[07# Running x2 (left) x1 (right)]": "[07# Running x2 (left) x1 (right)]\n80001000\n580F0000 03AFAAF0\n580F1000 00000000\n780F0000 00000414\n640F0000 00000000 40000000\n20000000\n80004000\n580F0000 03AFAAF0\n580F1000 00000000\n780F0000 00000414\n640F0000 00000000 3F800000\n20000000\n\n",
+        "[08# Moonjump (press B)]": "[08# Moonjump (press B)]\n80000002\n580F0000 03AFAAF0\n580F1000 00000000\n780F0000 00000190\n640F0000 00000000 44000000\n20000000\n\n",
+        "[Inf ammo - on]": "[Inf ammo - on]\n04000000 018F5484 1E27D000\n\n",
+        "[No Reload - needs inf.ammo]": "[No Reload - needs inf.ammo]\n58090000 03BAA898\n58091000 00000068\n58091000 000007F8\n78090000 00000518\n64090000 00000000 0000001E\n\n"
+    },
+    "attribution": {
+        "Borderlands game of the year edition ver 1.1.0 by Patjenova and ver 1.0.2 by reclaimerjhon.txt": "Sxos or Edison activate cheat\nAfter selecting the game."
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "AA4B3C8E4ACE0F47": {
+        "[Invincible ON]": "[Invincible ON]\n08000000 00103370 D65F03C0 52800000\n\n",
+        "[Invincible OFF]": "[Invincible OFF]\n08000000 00103370 A9014FF4 A9BD57F6\n\n",
+        "[Inf Pepper ON]": "[Inf Pepper ON]\n04000000 00178010 1E2703E0\n\n",
+        "[Inf Pepper OFF]": "[Inf Pepper OFF]\n04000000 00178010 1E203920\n\n"
+    }
+}

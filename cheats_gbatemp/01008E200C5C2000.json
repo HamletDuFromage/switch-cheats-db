@@ -1,0 +1,26 @@
+{
+    "0A0E633CD3526A41": {
+        "[Inf HP]": "[Inf HP]\n04000000 0027D770 D65F03C0\n\n",
+        "[Normal HP]": "[Normal HP]\n04000000 0027D770 F81A0FFB\n\n",
+        "[Always Rank SS]": "[Always Rank SS]\n04000000 00280360 1E2E1000\n04000000 00280368 54000264\n\n",
+        "[Normal Rank]": "[Normal Rank]\n04000000 00280360 1E290800\n04000000 00280368 54000265\n\n",
+        "[Full Combo]": "[Full Combo]\n04000000 00280D94 D503201F\n\n",
+        "[Normal Combo]": "[Normal Combo]\n04000000 00280D94 0B010108\n\n",
+        "[Unlock All Quest]": "[Unlock All Quest]\n04000000 002C7234 D503201F\n04000000 002C724C D503201F\n\n",
+        "[Normal Quest]": "[Normal Quest]\n04000000 002C7234 946252C7\n04000000 002C724C 360005C0\n\n",
+        "[Miss To Zero]": "[Miss To Zero]\n04000000 00334B4C 6B13001F\n\n",
+        "[Normal Miss]": "[Normal Miss]\n04000000 00334B4C 6B00027F\n\n"
+    },
+    "61A564531B665643": {
+        "[Inf HP]": "[Inf HP]\n04000000 0024EDF0 D65F03C0\n\n"
+    },
+    "EE67E4ACE805674C": {
+        "[Inf HP]": "[Inf HP]\n04000000 000EC7D0 D65F03C0\n\n",
+        "[Normal HP]": "[Normal HP]\n04000000 000EC7D0 F81A0FFB\n\n",
+        "[Always Rank SSS]": "[Always Rank SSS]\n04000000 000EF1D0 1E2E1001\n\n",
+        "[Normal Rank]": "[Normal Rank]\n04000000 000EF1D0 1E290800\n\n"
+    },
+    "attribution": {
+        "Muse Dash 1.2.2 by zzpong and ver 1.2.3 by Eiffel2018.txt": "[Inf HP]\n04000000 0024EDF0 D65F03C0\n"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "14872049185C584C": {
+        "[01# Inf hearts]": "[01# Inf hearts]\n580F0000 039635C0\n580F1000 000000A0\n580F1000 00000010\n580F1000 00000240\n780F0000 00000020\n640F0000 00000000 00000003\n\n",
+        "[02# Infinte Lives]": "[02# Infinte Lives]\n04000000 002C5B60 52800000\n\n",
+        "[03# Infinite jump(on)]": "[03# Infinite jump(on)]\n04000000 0021CD18 D503201F\n\n",
+        "[Infinite Jump(off)]": "[Infinite Jump(off)]\n04000000 0021CD18 321F03F4\n\n",
+        "[04# Enable - cant die - ignore hearts]": "[04# Enable - cant die - ignore hearts]\n04000000 002ECA94 4B0003E1\n\n",
+        "[Disable - cant die - ignore hearts]": "[Disable - cant die - ignore hearts]\n04000000 002ECA94 4B1503E1\n\n",
+        "[05# 300 coins]": "[05# 300 coins]\n580F0000 03966A70\n580F1000 00000040\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000018\n580F1000 00000010\n580F1000 00000028\n780F0000 00000024\n640F0000 00000000 43960000\n\n"
+    },
+    "9ACB46936749F543": {
+        "[Invulnerable]": "[Invulnerable]\n04000000 002C0754 D503201F\n\n",
+        "[Infinte Lives]": "[Infinte Lives]\n04000000 002ED6F0 52800000\n\n",
+        "[cant die - ignore hearts]": "[cant die - ignore hearts]\n04000000 002C0AB4 4B0003E1\n\n",
+        "[Disable cant die code]": "[Disable cant die code]\n04000000 002C0AB4 4B1503E1\n\n",
+        "[02# Infinite jump(on)]": "[02# Infinite jump(on)]\n04000000 0021C698 D503201F\n\n",
+        "[02# Infinite Jump(off)]": "[02# Infinite Jump(off)]\n04000000 0021C698 F4031F32\n\n",
+        "[nfinte Lives]": "[nfinte Lives]\n04000000 002ED6F0 52800000\n\n",
+        "[Infinite Hearts]": "[Infinite Hearts]\n04000000 002C0894 1A95B15A\n\n"
+    },
+    "attribution": {
+        "New Super Lucky's Tale v1.3.6 by DaBlackDeath.txt": "WARNING - Enable these when IN-GAME ONLY or will Crash the Full Game"
+    }
+}

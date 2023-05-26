@@ -1,0 +1,8 @@
+{
+    "4B159F0F7A360669": {
+        "[Cutscenes Speed Fix For 60 FPS Patch]": "[Cutscenes Speed Fix For 60 FPS Patch]\n14050000 0CCA6764 3D088889\n580F0000 0CCB7B08\n580F1000 00000070\n780F0000 00000F14\n640F0000 00000000 00000002\n20000000\n14030000 0CCA6764 3D088889\n580F0000 0CCB7B08\n580F1000 00000070\n780F0000 00000F14\n640F0000 00000000 00000001\n20000000\n\n"
+    },
+    "attribution": {
+        "ASTRAL CHAIN.txt": "60 FPS Patch is needed. You can get it here; by MrComputerRevo\nhttps://gbatemp.net/threads/astral-chain-rom-hacking-bible.547050/post-8777070\n\nCheat code forces The Cutscenes' FPS to 30. It's the only way that I can think of to fix the Cutscenes from Speeding up.\nBy Hazerou v1.01"
+    }
+}

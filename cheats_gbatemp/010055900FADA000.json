@@ -1,0 +1,14 @@
+{
+    "81B7D2CA1A4BA899": {
+        "[Hearts unlimited]": "[Hearts unlimited]\n01100000 043CFB18 00000003\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n041F0000 015DC880 C2000000\n20000000\n\n",
+        "[Speed Up]": "[Speed Up]\n041F0000 015DC8DC 42600000\n\n",
+        "[Walk through Walls (Hold ZL)]": "[Walk through Walls (Hold ZL)]\n041F0000 02D6A7F0 00000101\n80000100\n041F0000 02D6A7F0 00000000\n20000000\n\n",
+        "[Inf Jump]": "[Inf Jump]\n041F0000 02D6A864 00000000\n\n",
+        "[Invincible]": "[Invincible]\n041F0000 02D6A874 40000000\n\n",
+        "[Inf Time]": "[Inf Time]\n041F0000 043CFB00 00000000\n\n"
+    },
+    "attribution": {
+        "Bloo Kid 2 v1.0.0 by merlin555 and ZiT866.txt": "Turn on the cheat code after the stage starts."
+    }
+}

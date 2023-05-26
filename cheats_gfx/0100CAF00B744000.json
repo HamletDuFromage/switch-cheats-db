@@ -1,0 +1,9 @@
+{
+    "FE77FFB8CBFB3A5C": {
+        "[60 FPS]": "[60 FPS]\n04000000 0095CA9C 3F800000\n540F0000 00A05C28\n540F1000 000034F8\n780F0000 000007BC\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n04000000 0095CA9C 40000000\n540F0000 00A05C28\n540F1000 000034F8\n780F0000 000007BC\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Valkyria Chronicles.txt": "By @Hazerou\n- When using 60 FPS, UI and some effects may run faster. And Game Speed will slow down whenever FPS Drops."
+    }
+}

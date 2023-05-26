@@ -1,0 +1,16 @@
+{
+    "74C54F3670579C7A": {
+        "[acceleration SLOW 0.25X]": "[acceleration SLOW 0.25X]\n04000000 014D4C50 1E2A1000\n\n",
+        "[acceleration SLOW 0.5X]": "[acceleration SLOW 0.5X]\n04000000 014D4C50 1E2C1000\n\n",
+        "[acceleration SLOW 0.75X]": "[acceleration SLOW 0.75X]\n04000000 014D4C50 1E2D1000\n\n",
+        "[acceleration NORMAL]": "[acceleration NORMAL]\n04000000 014D4C50 1E2E1000\n\n",
+        "[acceleration SPEED 1.25X]": "[acceleration SPEED 1.25X]\n04000000 014D4C50 1E2E9000\n\n",
+        "[acceleration SPEED 1.5X]": "[acceleration SPEED 1.5X]\n04000000 014D4C50 1E2F1000\n\n",
+        "[acceleration SPEED 1.75X]": "[acceleration SPEED 1.75X]\n04000000 014D4C50 1E2F9000\n\n",
+        "[acceleration SPEED 2X]": "[acceleration SPEED 2X]\n04000000 014D4C50 1E201000\n\n",
+        "[CPU NO MOVE]": "[CPU NO MOVE]\n04000000 0142FAD8 1E2E1002\n\n"
+    },
+    "attribution": {
+        "RiMS Racing ver 1.0.1 by xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
+}

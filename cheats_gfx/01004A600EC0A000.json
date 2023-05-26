@@ -1,0 +1,9 @@
+{
+    "70F3F6751D73C644": {
+        "[60 FPS]": "[60 FPS]\n580F0000 0898F580\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 0898F580\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Immortals Fenyx Rising.txt": "By Hazerou\n\n- A Heavy Game to run 60 FPS even at MAX OC Handheld Mode (Not to be confused with Handheld Clocks).\n\nHow to fix weird Frame Pacing when you activate the Cheat;\n\n* Just Pause the Game by pressing PLUS then continue playing."
+    }
+}

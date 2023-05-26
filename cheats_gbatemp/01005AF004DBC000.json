@@ -1,0 +1,14 @@
+{
+    "CC39C06BF1194EB6": {
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 01236EF0 00000003\n\n",
+        "[P1 Max Power]": "[P1 Max Power]\n01000000 01236F28 00000003\n01000000 01236F2C 00000001\n01000000 01236F30 00000003\n\n",
+        "[P1 Infinite Bombs]": "[P1 Infinite Bombs]\n01000000 01236EF6 00000003\n\n",
+        "[P1 has H Bomb]": "[P1 has H Bomb]\n01000000 01236EE4 00000001\n\n",
+        "[P1 Invincible]": "[P1 Invincible]\n01000000 01236EF4 00000080\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 01236CF0 00000003\n\n",
+        "[P2 Max Power]": "[P2 Max Power]\n01000000 01236D28 00000003\n01000000 01236D2C 00000001\n01000000 01236D30 00000003\n\n",
+        "[P2 Infinite Bombs]": "[P2 Infinite Bombs]\n01000000 01236CF6 00000003\n\n",
+        "[P2 has H Bomb]": "[P2 has H Bomb]\n01000000 01236CE4 00000001\n\n",
+        "[P2 Invincible]": "[P2 Invincible]\n01000000 01236CF4 00000080\n\n"
+    }
+}

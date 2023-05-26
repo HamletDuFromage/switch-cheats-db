@@ -1,0 +1,11 @@
+{
+    "0100C2500CAB6000": {
+        "[01# Max Health]": "[01# Max Health]\n04000000 0005E700 52800280\n04000000 0005E20C 52800280\n\n",
+        "[Max Health (off)]": "[Max Health (off)]\n04000000 0005E700 B9403500\n04000000 0005E210 B90032C0\n\n",
+        "[02# 9999 Coins]": "[02# 9999 Coins]\n04000000 019C841C 5284E1E0\n\n",
+        "[9999 Coins (off)]": "[9999 Coins (off)]\n04000000 019C841C B9402D00\n\n"
+    },
+    "attribution": {
+        "Ary and the secret of seasons ver 1.0.1.txt": "Super Mario Allstars\nSuper Mario 3"
+    }
+}

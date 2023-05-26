@@ -1,0 +1,14 @@
+{
+    "D638F8CAD17CCA99": {
+        "[Moon Jump]": "[Moon Jump]\n80010002\n040F0000 00E01AD4 BFB00000\n040F0000 00E01AD8 3FD00000\n20000000\n80040002\n040F0000 00E01AD4 3FB00000\n040F0000 00E01AD8 3FD00000\n20000000\n80000002\n040F0000 00E01AD8 3FD00000\n20000000\n\n",
+        "[Speed Up]": "[Speed Up]\n040F0000 00E01B64 3FB00000\n\n",
+        "[Inf Life]": "[Inf Life]\n040F0000 00E01B60 00000003\n\n",
+        "[Invincible]": "[Invincible]\n010F0000 00E01AB0 000000DC\n\n",
+        "[Inf Lives]": "[Inf Lives]\n040F0000 04D50820 00000001\n\n",
+        "[Time Stop]": "[Time Stop]\n010F0000 04D50888 00000099\n\n",
+        "[Inf Combo]": "[Inf Combo]\n010F0000 04D50896 00000064\n\n"
+    },
+    "attribution": {
+        "Prinny\u00ac 2 Dawn of Operation Panties, Dood ver 1.0.0 by ZiT.txt": ""
+    }
+}

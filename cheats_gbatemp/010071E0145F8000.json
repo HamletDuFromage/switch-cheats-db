@@ -1,0 +1,28 @@
+{
+    "CF6371F1A91BCB4D": {
+        "[Gold 10M]": "[Gold 10M]\n580F0000 055BE9B8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n580F1000 00000020\n580F1000 000002A8\n780F0000 0000001C\n640F0000 00000000 00989680\n\n",
+        "[Skill points 100]": "[Skill points 100]\n580F0000 055BE9B8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n580F1000 00000020\n580F1000 000002A8\n780F0000 00000030\n640F0000 00000000 00000064\n\n",
+        "[HP 292]": "[HP 292]\n580F0000 055BE9B8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n580F1000 00000020\n580F1000 000002A8\n580F1000 00000010\n780F0000 00000018\n640F0000 00000000 43920000\n780F0000 0000000C\n640F0000 00000000 43920000\n\n",
+        "[Arrow 1000]": "[Arrow 1000]\n580F0000 05CE0488\n580F1000 00000010\n580F1000 00000008\n580F1000 00000028\n580F1000 00000000\n580F1000 00000010\n580F1000 00000028\n780F0000 00000058\n640F0000 00000000 000003E8\n\n",
+        "[Stamina]": "[Stamina]\n580F0000 055BE9B8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000018\n580F1000 00000020\n580F1000 000002B0\n780F0000 00000034\n640F1000 00000000 44BB8000\n640F1000 00000000 44BB8000\n\n",
+        "[01# Inf Health]": "[01# Inf Health]\n040A0000 0333B200 B4000248\n040A0000 0333B204 BD002688\n040A0000 0333B208 D65F03C0\n040A0000 0326C3CC 94033B8D\n\n",
+        "[Inf Health (off)]": "[Inf Health (off)]\n040A0000 0326C3CC BD402688\n\n",
+        "[02# Inf Stamina]": "[02# Inf Stamina]\n040A0000 017A31C0 52800028\n\n",
+        "[Inf Stamina (off)]": "[Inf Stamina (off)]\n040A0000 017A31C0 39446008\n\n",
+        "[03# Inf Arrows and no Reload]": "[03# Inf Arrows and no Reload]\n040A0000 0174FC70 6B1F0108\n040A0000 0174FCC8 6B1F0108\n\n",
+        "[Inf Arrows and no Reload (off)]": "[Inf Arrows and no Reload (off)]\n040A0000 0174FC70 71000508\n040A0000 0174FCC8 71000508\n\n",
+        "[04# No Wanted Level]": "[04# No Wanted Level]\n040A0000 017ECFEC 52800015\n\n",
+        "[No Wanted Level (off)]": "[No Wanted Level (off)]\n040A0000 017ECFEC 2A0103F5\n\n",
+        "[05# One Hit Kill]": "[05# One Hit Kill]\n040A0000 0167A684 1E27D008\n\n",
+        "[One Hit Kill (off)]": "[One Hit Kill (off)]\n040A0000 0167A684 1E213808\n\n",
+        "[06# 99 Skillpoints]": "[06# 99 Skillpoints]\n040A0000 03323C70 52800C68\n\n",
+        "[99 Skillpoints (off)]": "[99 Skillpoints (off)]\n040A0000 03323C70 B9403008\n\n",
+        "[07# Godmode]": "[07# Godmode]\n040A0000 0320C170 D65F03C0\n\n",
+        "[Godmode (off)]": "[Godmode (off)]\n040A0000 0320C170 FC180FEC\n\n",
+        "[08# Inf Money]": "[08# Inf Money]\n040A0000 017B7B98 00989680\n040A0000 017B7BB8 18FFFF14\n\n",
+        "[Inf Money (off)]": "[Inf Money (off)]\n040A0000 017B7BB8 2A0103F4\n\n"
+    },
+    "attribution": {
+        "Rustler 1.0.1 by Tomswitch and Patjenova.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
+}

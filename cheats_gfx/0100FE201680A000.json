@@ -1,0 +1,11 @@
+{
+    "89D0AA352421357D": {
+        "[60 FPS]": "[60 FPS]\n580F0000 0715A0F8 \n780F0000 00000000 \n680F0000 42700000 42700000\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 0715A0F8 \n780F0000 00000000 \n680F0000 41F00000 41F00000\n\n",
+        "[GPU+]": "[GPU+]\n580F0000 0712C4A8 \n780F0000 00000000 \n680F0000 410551EC 410551EC\n\n",
+        "[GPU (Default)]": "[GPU (Default)]\n580F0000 0712C4A8 \n780F0000 00000000 \n680F0000 420551EC 420551EC\n\n"
+    },
+    "attribution": {
+        "Arise A Simple Story - Definitive Edition.txt": "By retole\n\nNeed OC: GPU 768+; CPU  1326+\nBetter use with [GPU+]"
+    }
+}

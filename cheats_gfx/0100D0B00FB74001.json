@@ -1,0 +1,14 @@
+{
+    "D76A84B068F61C70": {
+        "[Default 60 FPS]": "[Default 60 FPS]\n580F0000 02553E80\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 02553E80\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+        "[480p Locked]": "[480p Locked]\n580F0000 024D0758\n780F0000 00000004\n680F0000 42855555 42855555\n\n",
+        "[544p Locked]": "[544p Locked]\n580F0000 024D0758\n780F0000 00000004\n680F0000 42960000 42960000\n\n",
+        "[656p Locked]": "[656p Locked]\n580F0000 024D0758\n780F0000 00000004\n680F0000 42B40000 42B40000\n\n",
+        "[720p Locked]": "[720p Locked]\n580F0000 024D0758\n780F0000 00000004\n680F0000 42C80000 42C80000\n\n",
+        "[Disable Resolution Lock(Re-enable D RES)]": "[Disable Resolution Lock(Re-enable D RES)]\n580F0000 024D0758\n780F0000 00000004\n680F0000 42C80000 42960000\n\n"
+    },
+    "attribution": {
+        "XCOM 2.txt": "By Hazerou\n\nIncluded in the text file;\n[480p Locked]\n[544p Locked]\n[656p Locked]\n[720p Locked]\n[Disable Resolution Lock(Re-enable D RES)]"
+    }
+}

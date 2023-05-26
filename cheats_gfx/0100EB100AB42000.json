@@ -1,0 +1,9 @@
+{
+    "C2932C4D1C84ED7D": {
+        "[Default FOV (45 degrees)]": "[Default FOV (45 degrees)]\n04000000 0175f498 3F490FDB\n\n",
+        "[PS2 vertical FOV (51 degrees)]": "[PS2 vertical FOV (51 degrees)]\n04000000 0175f498 3F63DEC5\n\n"
+    },
+    "attribution": {
+        "FINAL FANTASY XII THE ZODIAC AGE.txt": "By masagrator\n\nRestores the FOV to match default 4:3 PS2 FOV instead of the cramped PS2 widescreen mode FOV that was used in Zodiac Age."
+    }
+}

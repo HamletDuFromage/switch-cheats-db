@@ -1,0 +1,9 @@
+{
+    "54E692ACAA5F84E6": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 0124f2b1 00000010\n\n",
+        "[P1 Infinite Power]": "[P1 Infinite Power]\n01000000 0124f2b3 00000010\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n01000000 0124f3b1 00000001\n\n",
+        "[P2 NO Power]": "[P2 NO Power]\n01000000 0124f3b3 00000000\n\n",
+        "[hitanywhere]": "[hitanywhere]\n580F0000 0125F728\n780F0000 0000EC74\n640F0000 00000000 60024a47\n\n"
+    }
+}

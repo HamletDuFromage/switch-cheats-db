@@ -1,0 +1,15 @@
+{
+    "315BA17FD941C553": {
+        "[Breeze beta36 Twin Blades of the Three Kingdoms 1.0.1 TID: 0100F5A017FE8000 BID: 315BA17FD941C553]": "[Breeze beta36 Twin Blades of the Three Kingdoms 1.0.1 TID: 0100F5A017FE8000 BID: 315BA17FD941C553]\n\n",
+        "[EXP normal]": "[EXP normal]\n04000000 01572708 0B140100\n\n",
+        "[EXP X2]": "[EXP X2]\n04000000 01572708 0B140500\n\n",
+        "[EXP X4]": "[EXP X4]\n04000000 01572708 0B140900\n\n",
+        "[EXP X8]": "[EXP X8]\n04000000 01572708 0B140D00\n\n",
+        "[EXP X16]": "[EXP X16]\n04000000 01572708 0B141100\n\n",
+        "[Start every battle with max HP and MP]": "[Start every battle with max HP and MP]\n04000000 0149BD24 B9004A80 \n04000000 0149BD28 2A0003E8 \n04000000 0149BD58 2A0003E8 \n04000000 0148DAA8 2949268A\n\n",
+        "[One hit kill]": "[One hit kill]\n04000000 0148DAA8 14232734 \n08000000 01D57778 52806F09 2949268A \n08000000 01D57780 54000040 6B09015F \n08000000 01D57788 2949268A F900269F \n04000000 01D57790 17DCD8C7 \n08000000 0149BD24 B9004A88 52806F08\n\n"
+    },
+    "attribution": {
+        "Twin Blades of the Three Kingdoms 1.0.1 by Tomswitch.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+    }
+}

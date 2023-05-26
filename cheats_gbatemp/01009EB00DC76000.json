@@ -1,0 +1,15 @@
+{
+    "1953770037ACC52A": {
+        "[Inf Ammo Pistol]": "[Inf Ammo Pistol]\n010F0000 002D156E 00000063\n\n",
+        "[Max Money]": "[Max Money]\n040F0000 00290B78 0098967F\n\n"
+    },
+    "35B2BF0C429A1EC0": {
+        "[Inf Ammo]": "[Inf Ammo]\n040F0000 002D156E 03E703E7\n040F0000 002D158A 03E703E7\n\n",
+        "[Inf Heart]": "[Inf Heart]\n010F0000 002D1582 00000004\n010F0000 002D159E 00000004\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 0023E150\n580F1000 00000010\n780F0000 00000034\n640F0000 00000000 3B900000\n20000000\n\n",
+        "[No Reload]": "[No Reload]\n580F0000 0023E150\n580F1000 00000010\n580F1000 00000078\n780F0000 00000890\n640F0000 00000000 00000000\n\n"
+    },
+    "attribution": {
+        "Gun Gun Pixies v1.0.0 by xaimaster.txt": ""
+    }
+}

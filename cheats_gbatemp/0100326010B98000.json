@@ -1,0 +1,11 @@
+{
+    "606F37176B3DD269": {
+        "[HP Inf]": "[HP Inf]\n04000000 03A11F00 B946DA68\n04000000 03A11F04 35000048\n04000000 03A11F08 1E204120\n04000000 03A11F0C BD06DE60\n04000000 03A11F10 F9400268\n04000000 03A11F14 D65F03C0\n04000000 0060B404 94D01ABF\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 0060B404 BD06DE60\n\n",
+        "[Coins x4]": "[Coins x4]\n04000000 00651584 0B010AA8\n\n",
+        "[Coins x4 Off]": "[Coins x4 Off]\n04000000 00651584 0B0102A8\n\n",
+        "[Coins No Decrease]": "[Coins No Decrease]\n04000000 00668B40 71000108\n\n",
+        "[Coins No Decrease Off]": "[Coins No Decrease Off]\n04000000 00668B40 6B010108\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
+}

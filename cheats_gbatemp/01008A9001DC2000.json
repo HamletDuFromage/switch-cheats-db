@@ -1,0 +1,10 @@
+{
+    "B4EE7C055C9D50BF": {
+        "[Time 99]": "[Time 99]\n010F0000 01240470 00000099\n\n",
+        "[Inf Bomb]": "[Inf Bomb]\n010F0000 01240532 00000063\n010F0000 01240536 00000063\n010F0000 0124053A 00000063\n\n",
+        "[Invincible]": "[Invincible]\n010F0000 01240561 00000010\n\n"
+    },
+    "attribution": {
+        "ACA NEOGEO SHOCK TROOPERS ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
+}

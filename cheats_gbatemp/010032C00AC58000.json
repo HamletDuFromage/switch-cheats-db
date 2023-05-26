@@ -1,0 +1,36 @@
+{
+    "2CDB9B9D70010E88": {
+        "[1p invicible]": "[1p invicible]\n04000000 00E16DA0 D65F03C0\n\n",
+        "[1p speed2x]": "[1p speed2x]\n04000000 00E1CD78 1E20100A\n\n",
+        "[1p speed10x]": "[1p speed10x]\n04000000 00E1CD78 1E24900A\n\n",
+        "[Weight 0]": "[Weight 0]\n04100000 4E95DFF4 00000000\n\n",
+        "[Max Money]": "[Max Money]\n04000000 009918B8 1A88B10A\n\n",
+        "[Max RC Points]": "[Max RC Points]\n04000000 00991AB4 1A88B10A\n\n",
+        "[Max DP Points]": "[Max DP Points]\n04000000 003E2604 1A8AB149\n\n",
+        "[Carry Weight 0]": "[Carry Weight 0]\n04100000 4E95DFF4 00000000\n\n",
+        "[L+R Quick Upgrade]": "[L+R Quick Upgrade]\n800000C0\n04100000 4D58719C 00000000\n04100000 4D5879AC 00000000\n20000000\n\n",
+        "[Unlimited Item qty thanks @Falo ]": "[Unlimited Item qty thanks @Falo ]\n04000000 0098B2D0 D503201F\n\n",
+        "[Speed normal]": "[Speed normal]\n04000000 00E1CD78 1E2E100A\n\n",
+        "[Speed 1.25x]": "[Speed 1.25x]\n04000000 00E1CD78 1E2E900A\n\n",
+        "[Speed 1.5x]": "[Speed 1.5x]\n04000000 00E1CD78 1E2F100A\n\n",
+        "[Speed 1.75x]": "[Speed 1.75x]\n04000000 00E1CD78 1E2F900A\n\n"
+    },
+    "DEB6B520BB1E0352": {
+        "[1p invicible]": "[1p invicible]\n04000000 00E16DA0 D65F03C0\n\n",
+        "[1p speed2x]": "[1p speed2x]\n04000000 00E1CD78 1E20100A\n\n",
+        "[1p speed10x]": "[1p speed10x]\n04000000 00E1CD78 1E24900A\n\n"
+    },
+    "ED2C2056AF00B1C7": {
+        "[*Inf Hp world map]": "[*Inf Hp world map]\n580F0000 010291C8\n780F0000 00000C80\n620F0000 00000000 00000378\n\n",
+        "[*Inf Mp world map]": "[*Inf Mp world map]\n580F0000 010291C8\n780F0000 00000C88\n620F0000 00000000 00000378\n\n",
+        "[*Inf Money 8888888 ]": "[*Inf Money 8888888 ]\n580F0000 01027100\n780F0000 000031EC\n640F0000 00000000 0087A238\n\n",
+        "[*Inf Hp P1 Battle]": "[*Inf Hp P1 Battle]\n580F0000 01028258\n580F1000 00000120\n580F1000 00000510\n580F1000 00000008\n780F0000 0000004A\n620F0000 00000000 00000378\n\n",
+        "[*Inf Mp P1 Battle]": "[*Inf Mp P1 Battle]\n580F0000 01027AB8\n580F1000 000000A0\n580F1000 00000010\n580F1000 00000008\n780F0000 0000004E\n620F0000 00000000 00000378\n\n",
+        "[*Inf Mp P1/P2 Battle]": "[*Inf Mp P1/P2 Battle]\n580F0000 01027AB8\n580F1000 000000A0\n580F1000 00000070\n780F0000 0000004E\n620F0000 00000000 00000378\n\n",
+        "[*P1 Power Battle 999]": "[*P1 Power Battle 999]\n580F0000 01027AB8\n580F1000 000000A0\n580F1000 00000070\n780F0000 00000064\n620F0000 00000000 000003E7\n\n"
+    },
+    "attribution": {
+        "Dragon's Dogma Dark Arisen ver 1.0.0 ver 1.0.1 by xtatu and Demon_Alex.txt": "Before going to a Mach disable codes. And you must be first at the beginning. ",
+        "Hero Must Die Again ver 1.0.0 by jericoos.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
+    }
+}

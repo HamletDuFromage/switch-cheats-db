@@ -1,0 +1,23 @@
+{
+    "1E7696EE3BF2324E": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 01240158 00000067\n\n",
+        "[P1 Infinite Super]": "[P1 Infinite Super]\n01000000 01240202 00000006\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n01000000 01240358 00000000\n\n",
+        "[P2 NO Super]": "[P2 NO Super]\n01000000 01240402 00000000\n\n"
+    },
+    "A45E6532566B6592": {
+        "[Inf Character Select Turn off after]": "[Inf Character Select Turn off after]\n01000000 01290D8A 00000048\n\n",
+        "[Inf Round Time]": "[Inf Round Time]\n01000000 01292FF3 00000096\n\n",
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 012909F0 00000067\n\n",
+        "[P1 Inf Super Advanced]": "[P1 Inf Super Advanced]\n01000000 012909A1 00000080\n\n",
+        "[P1 Inf Super Extra]": "[P1 Inf Super Extra]\n01000000 012909A1 0000009C\n01000000 012909A3 0000003E\n\n",
+        "[P1 Never Dizzy]": "[P1 Never Dizzy]\n01000000 012909F6 00000067\n\n",
+        "[P2 NO Super Advanced]": "[P2 NO Super Advanced]\n01000000 01290C9A 00000000\n01000000 01290BA1 00000000\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n01000000 01290BF0 00000000\n\n",
+        "[CPU Always Dizzy]": "[CPU Always Dizzy]\n01000000 01290BF6 00000000\n\n",
+        "[hitanywhere]": "[hitanywhere]\n04000000 00009A3B04 10A66002\n\n"
+    },
+    "attribution": {
+        "ACA NeoGeo KOF98 ver 1.02 by Smoker1.txt": "[From MAX-CHEATS.com by optantic for ACA NEOGEO KOF 98 1.0.1]\n\n[P1 Infinite HP]\n01000000 01240158 00000067\n\n[P1 Infinite Super]\n01000000 01240202 00000006\n\n[P2 NO HP]\n01000000 01240358 00000000\n\n[P2 NO Super]\n01000000 01240402 00000000"
+    }
+}

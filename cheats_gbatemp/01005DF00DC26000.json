@@ -1,0 +1,39 @@
+{
+    "0BC8E0955E19E9ED": {
+        "[Max after money changes]": "[Max after money changes]\n04000000 00A838EC 1A89B129\n04000000 00A83B8C 1A8AB14A\n\n",
+        "[skills/props proficiency 4 times]": "[skills/props proficiency 4 times]\n04000000 00A8333C 0B15094A\n\n",
+        "[skills/props proficiency 8 times]": "[skills/props proficiency 8 times]\n04000000 00A8333C 0B150D4A\n\n",
+        "[Skills/props proficiency 16 times]": "[Skills/props proficiency 16 times]\n04000000 00A8333C 0B15114A\n\n",
+        "[Maximum sensitivity increased Max]": "[Maximum sensitivity increased Max]\n04000000 00FB9BB8 D503201F\n04000000 010E63B4 D503201F\n\n"
+    },
+    "7D388942A921E50A": {
+        "[Unlimited Items and Ammo (on)]": "[Unlimited Items and Ammo (on)]\n04000000 00B4FD00 D503201F\n\n",
+        "[Unlimited Items and Ammo (off)]": "[Unlimited Items and Ammo (off)]\n04000000 00B4FD00 4B140108\n\n",
+        "[Max Money on change (on)]": "[Max Money on change (on)]\n04000000 010E21C0 52993FE1\n04000000 010E21C4 72A77341\n04000000 010E21C8 B9044801\n04000000 010E21CC D65F03C0\n\n",
+        "[Max Money on change (off)]": "[Max Money on change (off)]\n04000000 010E21C0 B9044801\n04000000 010E21C4 D65F03C0\n04000000 010E21C8 D503201F\n04000000 010E21CC D503201F\n\n",
+        "[100% Dropchance (on)]": "[100% Dropchance (on)]\n04000000 0029DFF4 52A85908\n04000000 0029DFF8 1E270100\n04000000 0029DFFC BD000040\n\n",
+        "[100% Dropchance (off)]": "[100% Dropchance (off)]\n04000000 0029DFF4 AA0203F3\n04000000 0029DFF8 D63F0100\n04000000 0029DFFC BD000260\n\n",
+        "[Max Reputation (Affection/Affinity) after change (on)]": "[Max Reputation (Affection/Affinity) after change (on)]\n04000000 00A734E0 1A95B2A9\n04000000 00A73514 1A95B2A9\n\n",
+        "[Max Reputation (Affection/Affinity) after change (off)]": "[Max Reputation (Affection/Affinity) after change (off)]\n04000000 00A734E0 1A95B109\n04000000 00A73514 1A95B109\n\n",
+        "[Max after the money changes]": "[Max after the money changes]\n04000000 00A87FEC 1A89B129\n04000000 00A8828C 1A8AB14A\n\n",
+        "[Skill/props proficiency 4 times]": "[Skill/props proficiency 4 times]\n04000000 00A87A3C 0B15094A\n\n",
+        "[Skill/props proficiency 8 times]": "[Skill/props proficiency 8 times]\n04000000 00A87A3C 0B150D4A\n\n",
+        "[Skill/props proficiency 16 times]": "[Skill/props proficiency 16 times]\n04000000 00A87A3C 0B15114A\n\n",
+        "[Skill/props proficiency increased after Max]": "[Skill/props proficiency increased after Max]\n04000000 00A87A44 1A8BB16B\n\n",
+        "[Max after the increase of CP]": "[Max after the increase of CP]\n04000000 00A72DC0 1A89B129\n04000000 00A72F3C 1A97B2E9\n\n",
+        "[SP use is not reduced]": "[SP use is not reduced]\n04000000 00A721A4 4B1F0108\n\n",
+        "[Experience value 4 times]": "[Experience value 4 times]\n04000000 00A72DFC 0B010908\n\n",
+        "[Experience value 8 times]": "[Experience value 8 times]\n04000000 00A72DFC 0B010D08\n\n",
+        "[Experience value 16 times]": "[Experience value 16 times]\n04000000 00A72DFC 0B011108\n\n",
+        "[Max after level upgrade]": "[Max after level upgrade]\n04000000 00A72E0C 1A94B289\n\n",
+        "[Medal acquisition 4 times]": "[Medal acquisition 4 times]\n04000000 00A876AC 0B14094B\n04000000 00A8FEDC 0B090989\n\n",
+        "[Medal acquisition 8 times]": "[Medal acquisition 8 times]\n04000000 00A876AC 0B140D4B\n04000000 00A8FEDC 0B090D89\n\n",
+        "[Medal acquisition 16 times]": "[Medal acquisition 16 times]\n04000000 00A876AC 0B14114B\n04000000 00A8FEDC 0B091189\n\n",
+        "[Medal modification effect is turned off]": "[Medal modification effect is turned off]\n04000000 00A876AC 0B14014B\n04000000 00A8FEDC 0B090189\n\n",
+        "[Increased goodness after Max]": "[Increased goodness after Max]\n04000000 00FBE978 D503201F\n04000000 010EB924 D503201F\n\n"
+    },
+    "attribution": {
+        "SWORD ART ONLINE FATAL BULLET COMPLETE EDITION v1.0.0 EUR made by DaBlackDeath and 1.80 by falo.txt": "",
+        "SWORD ART ONLINE FATAL BULLET COMPLETE EDITION v1.0.0 EUR made by DaBlackDeath.txt": ""
+    }
+}

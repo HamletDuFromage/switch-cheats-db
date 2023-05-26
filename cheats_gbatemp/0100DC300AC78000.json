@@ -1,0 +1,37 @@
+{
+    "2A979C3FDF717642": {
+        "[Infinite HP]": "[Infinite HP]\n581f0000 940cb708\n781f0000 000002a0\n610f0000 00000000 0000000a\n\n",
+        "[Infinite Shurikens]": "[Infinite Shurikens]\n04100000 940cb71c 00000009\n\n",
+        "[Money 99999]": "[Money 99999]\n581f0000 940d8dc8\n581f1000 00000020\n581f1000 00000028\n781f0000 00000020\n640f0000 00000000 0001869f\n\n",
+        "[R button Moonjump]": "[R button Moonjump]\n80000080\n581f0000 940cb708\n781f0000 000002b4\n640f0000 00000000 41800000\n20000000\n\n"
+    },
+    "D8E60563C302AA41": {
+        "[Infinite HP]": "[Infinite HP]\n581f0000 9534bed8\n781f0000 000002b8\n610f0000 00000000 0000000a\n\n",
+        "[Infinite Shurikens]": "[Infinite Shurikens]\n04100000 9534beec 00000009\n\n",
+        "[Money 99999]": "[Money 99999]\n581f0000 01cbfe58\n581f1000 00000020\n581f1000 00000028\n781f0000 00000020\n640f0000 00000000 0001869f\n\n",
+        "[R button Moonjump]": "[R button Moonjump]\n80000080\n581f0000 9534bed8\n781f0000 000002cc\n640f0000 00000000 41800000\n20000000\n\n"
+    },
+    "EABD92AD1CDC0E43": {
+        "[Infinite HP]": "[Infinite HP]\n581f0000 95359ed8\n781f0000 000002b8\n610f0000 00000000 0000000a\n\n",
+        "[Infinite Shurikens]": "[Infinite Shurikens]\n04100000 95359eec 00000009\n\n",
+        "[Money 99999]": "[Money 99999]\n581f0000 01cbeee8\n581f1000 00000020\n581f1000 00000028\n781f0000 00000020\n640f0000 00000000 0001869f\n\n",
+        "[R button Moonjump]": "[R button Moonjump]\n80000080\n581f0000 95359ed8\n781f0000 000002cc\n640f0000 00000000 41800000\n20000000\n\n"
+    },
+    "EDE81745C5421D45": {
+        "[Infinite HP]": "[Infinite HP]\n581f0000 95125708\n781f0000 000002a0\n610f0000 00000000 0000000a\n\n",
+        "[Infinite Shurikens]": "[Infinite Shurikens]\n04100000 9512571C 00000009\n\n",
+        "[Money 99999]": "[Money 99999]\n581f0000 95132DC8\n581f1000 00000020\n581f1000 00000028\n781f0000 00000020\n640f0000 00000000 0001869f\n\n",
+        "[R button Moonjump]": "[R button Moonjump]\n80000080\n581f0000 95125708\n781f0000 000002b4\n640f0000 00000000 41800000\n20000000\n\n"
+    },
+    "FB6206B43C698A4B": {
+        "[1p invicible]": "[1p invicible]\n04000000 0015DDC0 D65F03C0\n\n",
+        "[speed game normal ]": "[speed game normal ]\n04000000 01CB7E9C 1E2E100A\n\n",
+        "[speed game 1.25 ]": "[speed game 1.25 ]\n04000000 01CB7E9C 1E2D100A\n\n",
+        "[speed game 1.5 ]": "[speed game 1.5 ]\n04000000 01CB7E9C 1E2C100A\n\n",
+        "[speed game 1.75 ]": "[speed game 1.75 ]\n04000000 01CB7E9C 1E2A100A\n\n",
+        "[*Moon Jump Jericoss]": "[*Moon Jump Jericoss]\n80000002\n580F0000 03594350\n580F1000 000000A0\n580F1000 00000288\n580F1000 00000028\n780F0000 000002E4\n640F0000 00000000 41311997\n20000000\n\n"
+    },
+    "attribution": {
+        "The Messenger 2.0.2 by xtatu and jericoss.txt": "[From MAX-CHEATS.com by optantic for The Messenger 1.0.3]\n\n[Infinite HP]\n581f0000 95359ed8\n781f0000 000002b8\n610f0000 00000000 0000000a\n\n[Infinite Shurikens]\n04100000 95359eec 00000009\n\n[Money 99999]\n581f0000 01cbeee8\n581f1000 00000020\n581f1000 00000028\n781f0000 00000020\n640f0000 00000000 0001869f\n\n[R button Moonjump]\n80000080\n581f0000 95359ed8\n781f0000 000002cc\n640f0000 00000000 41800000\n20000000"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "312A6760655AC64A": {
+        "[alien boost point]": "[alien boost point]\n580F0000 02FC4F40\n580F1000 00000098\n580F1000 00000020\n580F1000 00000020\n580F1000 00000020\n580F1000 00000028\n780F0000 0000005C\n640F0000 00000000 0001869F\n\n",
+        "[inf special]": "[inf special]\n580F0000 02FC4FA0\n580F1000 00000098\n580F1000 00000000\n780F0000 00000154\n640F0000 00000000 3F800000\n\n",
+        "[inf hp]": "[inf hp]\n580F0000 02FC4FA0\n580F1000 00000098\n580F1000 00000000\n580F1000 00000060\n780F0000 00000050\n640F0000 00000000 43160000\n\n"
+    },
+    "attribution": {
+        "ben 10 by arismendy64.txt": "note: this will reset any skills you did upgrade"
+    }
+}

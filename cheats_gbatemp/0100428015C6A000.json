@@ -1,0 +1,17 @@
+{
+    "ECCA4788A949FA49": {
+        "[HP Inf]": "[HP Inf]\n04000000 0301E360 D503201F\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 0301E360 4B140108\n\n",
+        "[Ammo Inf]": "[Ammo Inf]\n04000000 0302D434 D503201F\n\n",
+        "[Ammo Inf Off]": "[Ammo Inf Off]\n04000000 0302D434 4B010108\n\n",
+        "[Special Inf]": "[Special Inf]\n04000000 0301C45C 1A89C12A\n04000000 0302CF04 D503201F\n\n",
+        "[Special Inf Off]": "[Special Inf Off]\n04000000 0301C45C 1A88C12A\n04000000 0302CF04 B902EE7F\n\n",
+        "[Bones x4]": "[Bones x4]\n04000000 0301C514 0B140908\n\n",
+        "[Bones x4 Off]": "[Bones x4 Off]\n04000000 0301C514 0B140108\n\n",
+        "[Bones No Decrease]": "[Bones No Decrease]\n04000000 0302D4C4 D503201F\n\n",
+        "[Bones No Decrease Off]": "[Bones No Decrease Off]\n04000000 0302D4C4 4B140108\n\n",
+        "[Armor Inf]": "[Armor Inf]\n04000000 0301E26C 51000108\n\n",
+        "[Armor Inf Off]": "[Armor Inf Off]\n04000000 0301E26C 4B140108\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
+}

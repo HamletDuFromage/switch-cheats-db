@@ -1,0 +1,11 @@
+{
+    "8AF5434B6DBB81CC": {
+        "[lucre]": "[lucre]\n04000000 01CB2A50 000F4240\n\n",
+        "[first item]": "[first item]\n01000000 01CB6000 00000001\n\n",
+        "[last item]": "[last item]\n01000000 01CB60D7 000000C8\n\n",
+        "[Fill memory from first to last with 1..99 1..99 1..18 with this code you can research the memory location for items, this code only works on atmosphere]": "[Fill memory from first to last with 1..99 1..99 1..18 with this code you can research the memory location for items, this code only works on atmosphere]\n400F0000 00000000 01CB6000\n400A0000 00000000 00000001\n30000000 00000063\nA1AF1300\n780A0000 00000001\n31000000\n400A0000 00000000 00000001\n30000000 00000063\nA1AF1300\n780A0000 00000001\n31000000\n400A0000 00000000 00000001\n30000000 00000012\nA1AF1300\n780A0000 00000001\n31000000\n\n"
+    },
+    "attribution": {
+        "LEGEND OF MANA VER. 1.0.0 by Tomswitch.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
+}

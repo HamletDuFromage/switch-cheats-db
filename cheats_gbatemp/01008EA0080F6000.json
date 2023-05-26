@@ -1,0 +1,23 @@
+{
+    "8FAB041B6BD95A26": {
+        "[Inf FP points]": "[Inf FP points]\n041F0000 0020C000 0098967F\n\n",
+        "[Away Team Batter Power X99]": "[Away Team Batter Power X99]\n540F0000 02659E6C\n740F0000 0000000C\n610F0000 00000000 00000063\n\n",
+        "[Away Team Pitcher Inf. Power]": "[Away Team Pitcher Inf. Power]\n540F0000 02659E6C\n740F0000 00000458\n640F0000 00000000 43FA0000\n740f0000 00000004\n640f0000 00000000 43FA0000\n\n",
+        "[Away Team Pitcher Max99 Stats]": "[Away Team Pitcher Max99 Stats]\n540F0000 02659E6C\n740F0000 00000464\n640F0000 00000000 FFFFFFFF\n740f0000 00000004\n610f0000 00000000 000000FF\n\n",
+        "[Away Team Pitcher Special Rainbow Curve]": "[Away Team Pitcher Special Rainbow Curve]\n540F0000 02659E6C\n740F0000 00000469\n610f0000 00000000 00000019\n\n",
+        "[Away Team Pitcher Special Anaconda]": "[Away Team Pitcher Special Anaconda]\n540F0000 02659E6C\n740F0000 00000469\n610f0000 00000000 00000041\n\n",
+        "[Away Team Pitcher Special illusion]": "[Away Team Pitcher Special illusion]\n540F0000 02659E6C\n740F0000 00000469\n610f0000 00000000 00000031\n\n",
+        "[Away Team Pitcher Special Flame]": "[Away Team Pitcher Special Flame]\n540F0000 02659E6C\n740F0000 00000469\n610f0000 00000000 0000003c\n\n",
+        "[Away Team Pitcher Special Lightning]": "[Away Team Pitcher Special Lightning]\n540F0000 02659E6C\n740F0000 00000469\n610f0000 00000000 00000033\n\n",
+        "[Away Team Pitcher Special Elf]": "[Away Team Pitcher Special Elf]\n540F0000 02659E6C\n740F0000 00000469\n610f0000 00000000 00000032\n\n",
+        "[Home Team Batters Power Swing X99]": "[Home Team Batters Power Swing X99]\n540F0000 02659E6C\n740F0000 000004bC\n640F0000 00000000 00000063\n\n",
+        "[Home Team Inf. Pitch Power]": "[Home Team Inf. Pitch Power]\n540F0000 02659E6C\n740F0000 00000908\n640F0000 00000000 43FA0000\n740f0000 00000004\n640f0000 00000000 43FA0000\n\n",
+        "[Home Team Pitcher Max99 Stats]": "[Home Team Pitcher Max99 Stats]\n540F0000 02659E6C\n740F0000 00000914\n640F0000 00000000 FFFFFFFF\n740f0000 00000004\n610f0000 00000000 000000FF\n\n",
+        "[Home Team Pitcher Special Rainbow Curve]": "[Home Team Pitcher Special Rainbow Curve]\n540F0000 02659E6C\n740F0000 00000919\n610f0000 00000000 00000019\n\n",
+        "[Home Team Pitcher Special Anaconda]": "[Home Team Pitcher Special Anaconda]\n540F0000 02659E6C\n740F0000 00000919\n610f0000 00000000 00000041\n\n",
+        "[Home Team Pitcher Special illusion]": "[Home Team Pitcher Special illusion]\n540F0000 02659E6C\n740F0000 00000919\n610f0000 00000000 00000031\n\n",
+        "[Home Team Pitcher Special Flame]": "[Home Team Pitcher Special Flame]\n540F0000 02659E6C\n740F0000 00000919\n610f0000 00000000 0000003c\n\n",
+        "[Home Team Pitcher Special Lightning]": "[Home Team Pitcher Special Lightning]\n540F0000 02659E6C\n740F0000 00000919\n610f0000 00000000 00000033\n\n",
+        "[Home Team Pitcher Special Elf]": "[Home Team Pitcher Special Elf]\n540F0000 02659E6C\n740F0000 00000919\n610f0000 00000000 00000032\n\n"
+    }
+}

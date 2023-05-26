@@ -1,0 +1,11 @@
+{
+    "88E11D3D8A79074F": {
+        "[Breeze beta69 Arcade Archives CRAZY CLIMBER 1.0.0 TID: 0100BB1001DD6000 BID: 88E11D3D8A79074F]": "[Breeze beta69 Arcade Archives CRAZY CLIMBER 1.0.0 TID: 0100BB1001DD6000 BID: 88E11D3D8A79074F]\n\n",
+        "[Inf.Credits]": "[Inf.Credits]\n01100000 01845072 00000099\n\n",
+        "[Inf.Lives]": "[Inf.Lives]\n01100000 018450D8 00000006\n\n",
+        "[Select Start Building(0=1,3=4)]": "[Select Start Building(0=1,3=4)]\n01100000 018450DF 00000000\n\n",
+        "[\ue0a6 Inf.Bonus Off]": "[\ue0a6 Inf.Bonus Off]\n01100000 018450E5 00000099 \n80000100 \n01100000 018450E5 00000000 \n20000000\n\n",
+        "[No Windows Close]": "[No Windows Close]\n01100000 018452AD 000000FF\n\n",
+        "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]": "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]\n20000000\n\n"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "8432CEC51F882448": {
+        "[01# Never get attacked (On)]": "[01# Never get attacked (On)]\n04000000 002127B0 D65F03C0\n\n",
+        "[Never get attacked (Off)]": "[Never get attacked (Off)]\n04000000 002127B0 D102C3FF\n\n",
+        "[02# Super Jump (Press B)]": "[02# Super Jump (Press B)]\n04000000 00185970 D10183FF\n80000002\n04000000 00185970 D65F03C0\n20000000\n\n",
+        "[03# 2D Inf Jump (Press B)]": "[03# 2D Inf Jump (Press B)]\n04000000 002AFDD0 360000A0\n80000002\n04000000 002AFDD0 D503201F\n20000000\n\n",
+        "[04# Add Quils when you buy]": "[04# Add Quils when you buy]\n04000000 0048CC44 0B130129\n\n",
+        "[Add Quils when you buy(off)]": "[Add Quils when you buy(off)]\n04000000 0048CC44 4B130129\n\n",
+        "[05# Ignore Paywall Cost]": "[05# Ignore Paywall Cost]\n04000000 00200270 52800020\n\n",
+        "[Ignore Paywall Cost(off)]": "[Ignore Paywall Cost(off)]\n04000000 00200270 B9401800\n\n",
+        "[06# No Tonic Reduce]": "[06# No Tonic Reduce]\n04000000 0048C1B8 0B130129\n\n",
+        "[No Tonic Reduce(off)]": "[No Tonic Reduce(off)]\n04000000 0048C1B8 4B130129\n\n"
+    },
+    "CB788AA9E4E02D49": {
+        "[Infinite Jump hold b]": "[Infinite Jump hold b]\n04000000 00BC5400 A9BE4FF4\n04000000 00BC53A0 A9BE4FF4\n80000002\n04000000 00BC5400 D65F03C0\n04000000 00BC53A0 D65F03C0\n20000000\n\n"
+    },
+    "EA84F555E2D0BC41": {
+        "[Gravity hold b]": "[Gravity hold b]\n04000000 0068DF20 A9BE4FF4\n04000000 0068DEC0 A9BE4FF4\n80000002\n04000000 0068DF20 D65F03C0\n04000000 0068DEC0 D65F03C0\n20000000\n\n",
+        "[#Never get attacked (On)]": "[#Never get attacked (On)]\n04000000 00684B10 D65F03C0\n\n",
+        "[#Never get attacked (Off)]": "[#Never get attacked (Off)]\n04000000 00684B10 D102C3FF\n\n"
+    },
+    "attribution": {
+        "Yooka-Laylee and the Impossible Lair ver 1.0.1 by patjenova.txt": "",
+        "Yooka-Laylee and the Impossible Lair ver 1.0.4 by Patjenova.txt": ""
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "98FFC4D49752C04A": {
+        "[JUMP ANYWHERE]": "[JUMP ANYWHERE]\n04000000 0101A7D4 1E27F012\n\n",
+        "[1P NORMAL SPEED]": "[1P NORMAL SPEED]\n04000000 0177782C 1E2E100A\n\n",
+        "[1P 1.25X SPEED]": "[1P 1.25X SPEED]\n04000000 0177782C 1E2D100A\n\n",
+        "[1P 1.5X SPEED]": "[1P 1.5X SPEED]\n04000000 0177782C 1E2C100A\n\n",
+        "[1P 1.75X SPEED]": "[1P 1.75X SPEED]\n04000000 0177782C 1E2A100A\n\n"
+    },
+    "attribution": {
+        "SHIO \u6c50 ver 1.0.0 and 1.0.1 by Xtatu.txt": ""
+    }
+}

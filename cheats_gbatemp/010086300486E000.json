@@ -1,0 +1,11 @@
+{
+    "32D6E6C4F9D89524": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n040F0000 01238300 9AAA0007\n20000000\n\n",
+        "[Invincible]": "[Invincible]\n010F0000 0123834E 00000010\n\n",
+        "[Inf Time]": "[Inf Time]\n010F0000 012381ED 000000FF\n\n",
+        "[hitanywhere]": "[hitanywhere]\n021f0000 8DD780CA 00006002\n021f0000 8DD77DF6 00006002\n021f0000 8DD77E32 00006002\n021f0000 8DD04B36 0000018A\n\n"
+    },
+    "attribution": {
+        "ACA NEOGEO METAL SLUG 2ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    }
+}

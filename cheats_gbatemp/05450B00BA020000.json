@@ -1,0 +1,11 @@
+{
+    "0F82A87C62E47F6E": {
+        "[inf heath]": "[inf heath]\n580F0000 00B29AB8\n580F1000 00000058\n580F1000 00000010\n580F1000 00003BF0\n780F0000 00000004\n640F0000 00000000 408F3800\n\n",
+        "[999 missile]": "[999 missile]\n580F0000 00B29AB8\n580F1000 00000058\n580F1000 00000010\n580F1000 00000050\n780F0000 00000004\n640F0000 00000000 408F3800\n\n",
+        "[99 s misile]": "[99 s misile]\n580F0000 00B29AB8\n580F1000 00000058\n580F1000 00000010\n580F1000 00001B60\n780F0000 00000004\n640F0000 00000000 4058C000\n\n",
+        "[99 bomb]": "[99 bomb]\n580F0000 00B29AB8\n580F1000 00000058\n580F1000 00000010\n580F1000 00003670\n780F0000 00000004\n640F0000 00000000 4058C000\n\n"
+    },
+    "attribution": {
+        "Another Metroid 2 Remake (AM2R) ver 1.5.2 by arismendy54.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "842053A9E717FDC2": {
+        "[R FLY with Lstick]": "[R FLY with Lstick]\n80000080\n580F0000 06D6EA50\n580F1000 00000000\n580F1000 00000020\n580F1000 00000038\n580F1000 00000008\n780F0000 0000009C\n640F0000 00000000 43820000\n80080000\n640F0000 00000000 C4098000\n20000000\n80020000\n640F0000 00000000 44834000\n20000000\n20000000\n\n"
+    },
+    "BB5609F056926AC3": {
+        "[*Moonjump Jericoss]": "[*Moonjump Jericoss]\n80000002\n580F0000 06D59150\n580F1000 00000000\n580F1000 00000010\n580F1000 00000010\n580F1000 00000008\n780F0000 0000009C\n640F0000 00000000 447A0000\n20000000\n\n",
+        "[*Moonjump hover]": "[*Moonjump hover]\n80000002\n580F0000 06D59150\n580F1000 00000000\n580F1000 00000010\n580F1000 00000010\n580F1000 00000008\n780F0000 0000009C\n640F0000 00000000 43AF0000\n20000000\n\n",
+        "[*Moonjump Y -700]": "[*Moonjump Y -700]\n80000008\n580F0000 06D59150\n580F1000 00000000\n580F1000 00000010\n580F1000 00000010\n580F1000 00000008\n780F0000 0000009C\n640F0000 00000000 C42F0000\n20000000\n\n",
+        "[*Moonjump 1200]": "[*Moonjump 1200]\n80000002\n580F0000 06D59150\n580F1000 00000000\n580F1000 00000010\n580F1000 00000010\n580F1000 00000008\n780F0000 0000009C\n640F0000 00000000 44960000\n20000000\n\n",
+        "[*Monn Jump]": "[*Monn Jump]\n80000002\n580F0000 06D28CD0\n580F1000 00000030\n580F1000 00000038\n580F1000 00000008\n780F0000 0000009C\n640F0000 00000000 447A0000\n20000000\n\n"
+    },
+    "attribution": {
+        "Unbound Worlds Apart ver 1.0.0 by jericoss ver 1.0.1 by tomswitch.txt": "#Give you 13 pearls in any Silent Realm.\nOnce the Silent Realm has started and you're able to move, activate and immediately disable the code.\nIt will give you 13 pearls, just pick 2 random pearls on the floor to correctly trigger the win and end the Silent Realm.\n\n[Inf. Deku Seeds]\n[Inf. Arrows]\n[Inf. Bombs]\n[Infinite Shield Durability]\n*[Inf Bugs / Materials] new\n*[Unlock All Bugs / Materials] new\n* Shoot arrow / seeds, or go to a new area (loading screen) for cheat to become visible.",
+        "Unbound Worlds Apart ver 1.0.0 by jericoss.txt": "#Give you 13 pearls in any Silent Realm.\nOnce the Silent Realm has started and you're able to move, activate and immediately disable the code.\nIt will give you 13 pearls, just pick 2 random pearls on the floor to correctly trigger the win and end the Silent Realm.\n\n[Inf. Deku Seeds]\n[Inf. Arrows]\n[Inf. Bombs]\n[Infinite Shield Durability]\n*[Inf Bugs / Materials] new\n*[Unlock All Bugs / Materials] new\n* Shoot arrow / seeds, or go to a new area (loading screen) for cheat to become visible."
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "3A533EC563D74BE2": {
+        "[60 FPS]": "[60 FPS]\n580F0000 04A59130 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 04A59130 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[60 FPS (Alternative)]": "[60 FPS (Alternative)]\n580F0000 04A59138 \n580F1000 00000008 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS (Default, Alternative)]": "[30 FPS (Default, Alternative)]\n580F0000 04A59138 \n580F1000 00000008 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "SIGNALIS.txt": "By retole\n\nNeed OC CPU 1122+; GPU 537+"
+    }
+}

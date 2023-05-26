@@ -1,0 +1,9 @@
+{
+    "A6069D8D14422130": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 012a555d 00000028\n\n",
+        "[P1 Infinite Bombs]": "[P1 Infinite Bombs]\n01000000 012a5568 00000003\n\n",
+        "[P1 Can use LV3 attack]": "[P1 Can use LV3 attack]\n01000000 012a55d3 00000030\n\n",
+        "[P2 No Bombs]": "[P2 No Bombs]\n01000000 012a6568 00000000\n\n",
+        "[P2 No Special attack]": "[P2 No Special attack]\n04000000 012a65d0 00000000\n\n"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "915A86B4D6A5EACD": {
+        "[Invincible]": "[Invincible]\n010E0000 0065492E 0000001F\n020E0000 006456CC 000003E8\n\n",
+        "[8x ATK]": "[8x ATK]\n010E0000 0064D12D 0000000D\n\n",
+        "[Infinite Skill Points]": "[Infinite Skill Points]\n010E0000 0065AA22 0000001F\n\n",
+        "[Infinite AP (talking)]": "[Infinite AP (talking)]\n040E0000 00564354 2A1F03F4\n\n",
+        "[Infinite AP (housework)]": "[Infinite AP (housework)]\n010E0000 005641A6 0000001F\n\n",
+        "[Max items when receiving]": "[Max items when receiving]\n040E0000 005F1390 52800C73\n\n",
+        "[Item not reduce]": "[Item not reduce]\n010E0000 005FFBE2 0000001F\n\n"
+    },
+    "attribution": {
+        "Fuga, Melodies of Steel v1.0.0 by Eiffel.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
+}

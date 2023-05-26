@@ -1,0 +1,13 @@
+{
+    "A2AD2E750B402FAC": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n540F0000 001B3F80\n780F0000 00000074\n640F0000 00000000 C0C00000\n20000000\n\n",
+        "[dpad left]": "[dpad left]\n80001000\n540F0000 001B3F80\n780F0000 00000070\n640F0000 00000000 C0C00000\n20000000\n\n",
+        "[dpad right]": "[dpad right]\n80004000\n540F0000 001B3F80\n780F0000 00000070\n640F0000 00000000 40C00000\n20000000\n\n",
+        "[Gold 1K]": "[Gold 1K]\n540F0000 001B1A54\n780F0000 00000008\n640F0000 00000000 000003EB\n\n",
+        "[Won't die unless drop into wrong place]": "[Won't die unless drop into wrong place]\n540F0000 001B1A54\n780F0000 00000176\n620F0000 00000000 00000200\n\n",
+        "[Invincible unless drop into wrong place]": "[Invincible unless drop into wrong place]\n540F0000 001B1A54\n780F0000 0000017B\n610F0000 18000100 02000018\n\n"
+    },
+    "attribution": {
+        "V\u00f6lgarr the Viking by TomSwitch.txt": ""
+    }
+}

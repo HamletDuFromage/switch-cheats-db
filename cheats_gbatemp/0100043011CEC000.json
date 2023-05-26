@@ -1,0 +1,9 @@
+{
+    "9965D21EE9EA2969": {
+        "[Inf Lives]": "[Inf Lives]\n011F0000 018AF276 00000064\n\n",
+        "[Enemy Annihilation (Hold X)]": "[Enemy Annihilation (Hold X)]\n011F0000 018AF2AB 00000000\n80000004\n011F0000 018AF2AB 000000FF\n20000000\n\n"
+    },
+    "attribution": {
+        "Arcade Archives LIGHTNING FIGHTERS 1.0.0 by ZiT.txt": "If you want to change the status change 00000150."
+    }
+}

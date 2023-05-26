@@ -1,0 +1,11 @@
+{
+    "073A619A4A4C528D": {
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 0054FDA0\n780F0000 0000005C\n640F0000 00000000 C1500000\n20000000\n\n",
+        "[Inf Life]": "[Inf Life]\n580F0000 0054FDA0\n780F0000 00000110\n640F0000 00000000 00000064\n\n",
+        "[Max Combo (Hold ZR)]": "[Max Combo (Hold ZR)]\n80000200\n580F0000 00542340\n780F0000 00000004\n640F0000 00000000 00000960\n20000000\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 00542280\n780F0000 00000000\n640F0000 00000000 00000030\n\n"
+    },
+    "attribution": {
+        "They Bleed Pixels ver 1.0.0 by ZiT.txt": "\u203b If you activate the code at the start of the game, it will freeze."
+    }
+}

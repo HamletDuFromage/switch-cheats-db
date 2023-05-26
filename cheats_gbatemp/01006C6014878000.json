@@ -1,0 +1,13 @@
+{
+    "2CF49E4270162942": {
+        "[HP Inf]": "[HP Inf]\n04000000 006B1FB0 510002C9\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 006B1FB0 4B0002C9\n\n",
+        "[Lives Inf]": "[Lives Inf]\n04000000 001A1B84 51000108\n\n",
+        "[Lives Inf Off]": "[Lives Inf Off]\n04000000 001A1B84 51000508\n\n",
+        "[Coins x4]": "[Coins x4]\n04000000 0031349C 0B080A94\n\n",
+        "[Coins x8]": "[Coins x8]\n04000000 0031349C 0B080E94\n\n",
+        "[Coins x Off]": "[Coins x Off]\n04000000 0031349C 0B140114\n\n",
+        "[Moonjump]": "[Moonjump]\n80000002 \n580F0000 043B6090 \n580F1000 000000B8 \n580F1000 00000000 \n580F1000 00000048 \n780F0000 000001D8 \n640F0000 00000000 41400000 \n20000000\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "562F197C579E7A45": {
+        "[01# Inf Health]": "[01# Inf Health]\n040A0000 02046CEC 461C3C00\n040A0000 02046D0C 1CFFFF08\n\n",
+        "[02# Inf Stamina]": "[02# Inf Stamina]\n040A0000 02046CEC 461C3C00\n040A0000 02112C3C 1C9A0580\n\n",
+        "[03# Exp X16]": "[03# Exp X16]\n040A0000 02122870 0B141108\n\n",
+        "[04# Inf Items]": "[04# Inf Items]\n040A0000 020EE3B8 D503201F\n\n",
+        "[05# Increase melee weapon damage x100]": "[05# Increase melee weapon damage x100]\n040A0000 020537D8 42C80000\n040A0000 02053F68 1CFFC380\n\n",
+        "[06# Junk Multiplier x16]": "[06# Junk Multiplier x16]\n040A0000 02122704 0B141101\n\n",
+        "[07# Movespeed x3]": "[07# Movespeed x3]\n040A0000 020E803C 1E211000\n\n"
+    },
+    "69EE3835AA82D64D": {
+        "[Infinite Health P1]": "[Infinite Health P1]\n580F0000 040296A8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000078\n780F0000 000000D8\n640F0000 00000000 43FA0000\n\n"
+    },
+    "attribution": {
+        "The last Kids on Earth and the staff of doom by wiitwndo84 ver 1.0.1 by patjenova.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
+}

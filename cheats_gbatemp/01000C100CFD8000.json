@@ -1,0 +1,8 @@
+{
+    "8CDB26F131CAE447": {
+        "[1) Inf. Moves - on]": "[1) Inf. Moves - on]\n040E0000 00CDA6A8 52800028\n\n",
+        "[1) Inf. Moves - off]": "[1) Inf. Moves - off]\n040E0000 00CDA6A8 11000688\n\n",
+        "[2) Coin 100x - on]": "[2) Coin 100x - on]\n080E0000 0199E800 1E280908 1E249008\n080E0000 0199E808 D65F03C0 1E280808\n040E0000 00B69244 9438D56F\n\n",
+        "[2) Coin 100x - off]": "[2) Coin 100x - off]\n040E0000 00B69244 4EA01C08\n\n"
+    }
+}

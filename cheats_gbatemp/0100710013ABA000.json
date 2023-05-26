@@ -1,0 +1,10 @@
+{
+    "5197521A3EED9A81": {
+        "[*Moon jump Jericoss]": "[*Moon jump Jericoss]\n80000002\n580F0000 00709E78\n580F1000 00000038\n780F0000 000002EC\n640F0000 00000000 3E243FE6\n20000000\n\n",
+        "[*HP]": "[*HP]\n580F0000 00709E78\n580F1000 00000038\n780F0000 000001C8\n640F0000 00000000 00000004\n\n",
+        "[*Inf Bombs]": "[*Inf Bombs]\n580F0000 00709E78\n580F1000 00000038\n580F1000 00000330\n780F0000 00000010\n640F0000 00000000 00000006\n\n"
+    },
+    "attribution": {
+        "Spelunky ver 1.0.0 by jericoss.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
+}

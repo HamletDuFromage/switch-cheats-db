@@ -1,0 +1,39 @@
+{
+    "985E17C3D9255F4D": {
+        "[NORMAL RUN SPEED]": "[NORMAL RUN SPEED]\n04000000 01385CA8 1E2E1000\n\n",
+        "[1.25X RUN SPEED]": "[1.25X RUN SPEED]\n04000000 01385CA8 1E2E9000\n\n",
+        "[1.5X RUN SPEED]": "[1.5X RUN SPEED]\n04000000 01385CA8 1E2F1000\n\n",
+        "[1.75X RUN SPEED]": "[1.75X RUN SPEED]\n04000000 01385CA8 1E2F9000\n\n",
+        "[2X RUN SPEED]": "[2X RUN SPEED]\n04000000 01385CA8 1E201000\n\n",
+        "[NORMAL SPEED GAME]": "[NORMAL SPEED GAME]\n04000000 013E11B0 1E2E1001\n\n",
+        "[1.25X SPEED GAME]": "[1.25X SPEED GAME]\n04000000 013E11B0 1E2E9001\n\n",
+        "[1.5X SPEED GAME]": "[1.5X SPEED GAME]\n04000000 013E11B0 1E2F1001\n\n",
+        "[1.75X SPEED GAME]": "[1.75X SPEED GAME]\n04000000 013E11B0 1E2F9001\n\n",
+        "[2X SPEED GAME]": "[2X SPEED GAME]\n04000000 013E11B0 1E201001\n\n",
+        "[5X SPEED GAME]": "[5X SPEED GAME]\n04000000 013E11B0 1E229001\n\n",
+        "[10X SPEED GAME]": "[10X SPEED GAME]\n04000000 013E11B0 1E249001\n\n",
+        "[1P INVINCIBLE L PAD ON R PAD OFF]": "[1P INVINCIBLE L PAD ON R PAD OFF]\n80000040\n04000000 010BF5B0 D65F03C0\n20000000\n80000080\n04000000 010BF5B0 D101C3FF\n20000000\n\n"
+    },
+    "A2EB89C60B10B04A": {
+        "[01# Inf life]": "[01# Inf life]\n040A0000 013E28E0 D503201F\n040A0000 013E2944 D503201F\n\n",
+        "[Inf life (off)]": "[Inf life (off)]\n040A0000 013E28E0 4B140129\n040A0000 013E2944 4B010129\n\n",
+        "[02# Coin Multiplier x4]": "[02# Coin Multiplier x4]\n040A0000 013E250C 0B012129\n\n",
+        "[Coin Multiplier (off)]": "[Coin Multiplier (off)]\n040A0000 013E2A04 0B010129\n\n",
+        "[03# Coins Don't Decrease]": "[03# Coins Don't Decrease]\n040A0000 013E2A04 D503201F\n\n",
+        "[Coins Don't Decrease (off)]": "[Coins Don't Decrease (off)]\n040A0000 013E250C 4B010129\n\n",
+        "[04# Orb Multiplier x4]": "[04# Orb Multiplier x4]\n040A0000 013E261C 0B012129\n\n",
+        "[Orb Multiplier(off)]": "[Orb Multiplier(off)]\n040A0000 013E261C 0B010129\n\n",
+        "[05# Orb Don't Decrease]": "[05# Orb Don't Decrease]\n040A0000 013E29A4 D503201F\n\n",
+        "[Orb Don't Decrease (off)]": "[Orb Don't Decrease (off)]\n040A0000 013E29A4 4B010129\n\n",
+        "[06# Inf Items]": "[06# Inf Items]\n040A0000 013E29A4 D503201F\n\n",
+        "[Inf Items (off)]": "[Inf Items (off)]\n040A0000 013860B8 1E213800\n\n",
+        "[07# Inf Stamina]": "[07# Inf Stamina]\n040A0000 013860B8 D503201F\n\n",
+        "[08# Runspeed x 2]": "[08# Runspeed x 2]\n040A0000 01385D50 1E255009\n\n",
+        "[Runspeed x 2 (off)]": "[Runspeed x 2 (off)]\n040A0000 01385D50 1E213800\n\n",
+        "[09# Inf Dungeonkeys]": "[09# Inf Dungeonkeys]\n040A0000 013E2E58 D503201F\n\n",
+        "[Inf Dungeonkeys (off)]": "[Inf Dungeonkeys (off)]\n040A0000 013E2E58 51000529\n\n"
+    },
+    "attribution": {
+        "Baldo The Guardian Owls v1.1.0 by Patjenova ver 1.0.4 by xtatu.txt": "SWITCH OFF TO ENTER DOORS AND STAIRS"
+    }
+}

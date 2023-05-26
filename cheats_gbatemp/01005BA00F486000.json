@@ -1,0 +1,11 @@
+{
+    "581B2B50678F2941": {
+        "[shinchan speed normal]": "[shinchan speed normal]\n04000000 017C2AF0 1E2E1000\n\n",
+        "[shinchan speed 1.5x]": "[shinchan speed 1.5x]\n04000000 017C2AF0 1E2F1000\n\n",
+        "[shinchan speed 2x]": "[shinchan speed 2x]\n04000000 017C2AF0 1E201000\n\n",
+        "[shinchan speed 5x]": "[shinchan speed 5x]\n04000000 017C2AF0 1E229000\n\n"
+    },
+    "attribution": {
+        "Crayon Shin-chan Ora to Hakase no Natsuyasumi - Owaranai Nanokakan no Tabi ver 1.0.0 by xtatu.txt": "note: Infinite Jump can be used after learning double jump\n"
+    }
+}

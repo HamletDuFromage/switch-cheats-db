@@ -1,0 +1,16 @@
+{
+    "BFAFBB54899F1441": {
+        "[Gold x50k]": "[Gold x50k]\n04000000 003097CC 52986A00\n04000000 00336FE0 52986A01\n04000000 00336FE4 B9001801\n04000000 00336FE0 D65F03C0\n\n",
+        "[Inf Item Usage]": "[Inf Item Usage]\n04000000 0023CAC8 51000108\n\n",
+        "[Inf Energy]": "[Inf Energy]\n04000000 0037E648 51000001\n\n"
+    },
+    "D0E79C23F66C2C42": {
+        "[HP to Max - Atmosphere]": "[HP to Max - Atmosphere]\n580F0000 040E3260\n580F1000 000007D8\n580F1000 00000040\n580F1000 00000050\n780F0000 00000010\n989EF000\n540E1000 00000000\n780F0000 00000004\nA4EF0000\n\n",
+        "[HP - SXOS]": "[HP - SXOS]\n580F0000 040E3260\n580F1000 000007D8\n580F1000 00000040\n580F1000 00000050\n780F0000 00000014\n640F0000 00000000 0000000C\n\n",
+        "[Inf Energy]": "[Inf Energy]\n04000000 003505D8 51000001\n\n",
+        "[Inf Item Usage]": "[Inf Item Usage]\n04000000 001D4A78 51000108\n\n"
+    },
+    "attribution": {
+        "Sparklite v1.2.15 by DaBlackdeath anf ver  1.6.12 - V458752 Updated by jhmiller.txt": ""
+    }
+}

@@ -135,16 +135,17 @@ class ArchiveWorker():
         with open(f"{out_path}/VERSION", "w") as version_file:
             version_file.write(str(date.today()))
 
-
 if __name__ == '__main__':
     cheats_path = "cheats"
+    cheats_gba_path = "cheats_gbatemp"
+    cheats_gfx_path = "cheats_gfx"
     archive_path = "titles.zip"
     database = DatabaseInfo()
     database_version = database.get_database_version()
     highfps = HighFPSCheatsInfo()
     gbatemp = GbatempCheatsInfo()
-    if gbatemp.has_new_cheats(database_version) or highfps.has_new_cheats(database_version):
-    # if True:
+    #if gbatemp.has_new_cheats(database_version) or highfps.has_new_cheats(database_version):
+    if True:
         archive_worker = ArchiveWorker()
         print(f"Downloading cheats")
         archive_worker.download_archive(gbatemp.get_download_url(), archive_path)
@@ -153,7 +154,9 @@ if __name__ == '__main__':
         archive_worker.extract_archive(archive_path)
 
         print("Processing the cheat sheets")
-        process_cheats.ProcessCheats("gbatemp/titles", cheats_path)
+        process_cheats.ProcessCheats("gbatemp/titles", cheats_gba_path)
+        process_cheats.ProcessCheats("NX-60FPS-RES-GFX-Cheats-main/titles", cheats_gfx_path)
+        process_cheats.ProcessCheats("gbatemp/titles", cheats_path) # this could be done more elegantly
         process_cheats.ProcessCheats("NX-60FPS-RES-GFX-Cheats-main/titles", cheats_path)
 
         print("building complete cheat sheets")

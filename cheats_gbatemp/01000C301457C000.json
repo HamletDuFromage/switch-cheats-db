@@ -1,0 +1,11 @@
+{
+    "2206455C8DEBC1FD": {
+        "[Infinite Health]": "[Infinite Health]\n580F0000 033FA120\n580F1000 000000B8\n580F1000 00000010\n780F0000 00000030\n640F0000 00000000 0000000A\n\n",
+        "[HITANYWHERE+INVICIBLE ALL HIT A PAD A DISABLE ATTACK]": "[HITANYWHERE+INVICIBLE ALL HIT A PAD A DISABLE ATTACK]\n04000000 00B65BD0 D65F03C0\n04000000 00B2E9B4 1E27F000\n80000001\n04000000 00B65BD0 D10143FF\n20000000\n80000004\n04000000 00B65BD0 D10143FF\n20000000\n\n",
+        "[HITANYWHERE DISABLE]": "[HITANYWHERE DISABLE]\n04000000 00B2E9B4 1E202028\n\n",
+        "[B PAD MOOM JUMP]": "[B PAD MOOM JUMP]\n04000000 0146210C 1E202028\n80000002\n04000000 0146210C 1E27F000\n20000000\n\n"
+    },
+    "attribution": {
+        "Moon Raider by wiitendo84 and xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    }
+}

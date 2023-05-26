@@ -1,0 +1,9 @@
+{
+    "6D9EA94F8AAC00A8": {
+        "[60 FPS]": "[60 FPS]\n580F0000 01C38C28\n780F0000 0000001C\n640F0000 00000000 42F00000\n\n",
+        "[30 FPS (default)]": "[30 FPS (default)]\n580F0000 01C38C28\n780F0000 0000001C\n640F0000 00000000 42700000\n\n"
+    },
+    "attribution": {
+        "SONIC FORCES.txt": "by MasaGratoR\nHas some issues with 60FPS causing softlocks, found in Stage 7 and 20 and may be elsewhere in the game. To progress, change back to 30FPS.\nBased on exefs mod made by theboy181: https://linktr.ee/theboy181\n"
+    }
+}

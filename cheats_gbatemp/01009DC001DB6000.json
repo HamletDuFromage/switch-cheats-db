@@ -1,0 +1,15 @@
+{
+    "BA81650BEC0CBD54": {
+        "[Inf Time Smoker1]": "[Inf Time Smoker1]\n01000000 01259707 00000060\n\n",
+        "[Enable Hidden Characters Smoker1]": "[Enable Hidden Characters Smoker1]\n01000000 0125D66B 00000001\n\n",
+        "[P1 Infinite HP Optantic]": "[P1 Infinite HP Optantic]\n01000000 012570F0 000000CF\n\n",
+        "[P1 Infinite Super Optantic]": "[P1 Infinite Super Optantic]\n01000000 012570E8 0000007F\n\n",
+        "[P2 NO HP Optantic]": "[P2 NO HP Optantic]\n01000000 012572F0 00000000\n\n",
+        "[P2 NO Super Optantic]": "[P2 NO Super Optantic]\n01000000 012572E8 00000000\n\n",
+        "[hitanywhere]": "[hitanywhere]\n04000000 0000A366D0 2C6D4E71\n\n"
+    },
+    "attribution": {
+        "ACA NEOGEO THE KING OF FIGHTERS '95 ver 1.0.1 by xtatu.txt": "Super Mario Allstars\nSuper Mario 3",
+        "King of Fighters 95 ver 1.01 by optanic.txt": ""
+    }
+}

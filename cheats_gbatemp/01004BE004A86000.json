@@ -1,0 +1,13 @@
+{
+    "DC7EBF2D74AE270D": {
+        "[Moon Jump (Hold A)]": "[Moon Jump (Hold A)]\n80000001\n580F0000 05EE8998\n780F0000 0000007C\n640F0000 00000000 FFFFD000\n20000000\n\n",
+        "[Inf Heart]": "[Inf Heart]\n580F0000 05EE8998\n780F0000 000000F4\n640F0000 00000000 00000003\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 05EE8998\n780F0000 00000164\n640F0000 00000000 00002000\n\n",
+        "[Moon Jump (Hold A)(SC)]": "[Moon Jump (Hold A)(SC)]\n80000001\n580F0000 061EAB18\n780F0000 0000007C\n640F0000 00000000 FFFFD000\n20000000\n\n",
+        "[Inf Heart (SC)]": "[Inf Heart (SC)]\n580F0000 061EAB18\n780F0000 000000FC\n640F0000 00000000 00000003\n\n",
+        "[Invincible (SC)]": "[Invincible (SC)]\n580F0000 061EAB18\n780F0000 00000170\n640F0000 00000000 00002000\n\n"
+    },
+    "attribution": {
+        "Mutant Mudds Collection BY ZiT866.txt": "CC buttle and AP buttle codes will only apply during battle\nthese code are only work with atmosphere,because code include address and value check to avoid crash\nI'm not sure that the check is enough to avoid crash,so it's better to use only field cheat code."
+    }
+}
