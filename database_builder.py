@@ -60,8 +60,8 @@ class GbatempCheatsInfo:
 class HighFPSCheatsInfo:
     def __init__(self):
         self.scraper = cloudscraper.create_scraper()
-        self.download_url = "https://github.com/karmicpumpkin/NX-60FPS-RES-GFX-Cheats/archive/refs/heads/main.zip"
-        self.api_url = "https://api.github.com/repos/karmicpumpkin/NX-60FPS-RES-GFX-Cheats/branches/main"
+        self.download_url = "https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/archive/refs/heads/main.zip"
+        self.api_url = "https://api.github.com/repos/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/branches/main"
         self.highfps_version = self.fetch_high_FPS_cheats_version()
 
     def fetch_high_FPS_cheats_version(self):
