@@ -788,8 +788,9 @@
     "0100026016320000": {
         "0": "8EDA14BB8E28FC45",
         "131072": "FB018DD1EE073940",
+        "196608": "4CBB479C075A1943",
         "65536": "84D0B541B520ED47",
-        "latest": 131072,
+        "latest": 196608,
         "title": "River City Girls 2"
     },
     "0100026019F80000": {
@@ -2203,9 +2204,15 @@
     "010006F011221000": {
         "latest": 0
     },
+    "010006F01AA34000": {
+        "0": "B5D5672613145BF5",
+        "latest": 0,
+        "title": "Kuroi Tsubasa"
+    },
     "010006F01B908000": {
         "0": "85BE710C076DF4C5",
-        "latest": 0
+        "latest": 0,
+        "title": "Hentai Girls"
     },
     "0100070019EA6000": {
         "0": "67D019044BCCEAF8",
@@ -8348,7 +8355,8 @@
     "01001A60195E2000": {
         "0": "D9F79D75BBCBC2F7",
         "65536": "D9F79D75BBCBC2F7",
-        "latest": 65536
+        "latest": 65536,
+        "title": "NoEvidence - Scary Horror Quest Survival Story"
     },
     "01001A700C832000": {
         "0": "DC9C7444F95A2937",
@@ -11869,7 +11877,8 @@
         "262144": "3846B6C52BB6A9E7",
         "327680": "B7F5EDF3A1BC6156",
         "393216": "F8E70056573604EB",
-        "latest": 393216,
+        "458752": "A06BB49B45B74460",
+        "latest": 458752,
         "title": "The 7th Guest"
     },
     "010024D016DC0000": {
@@ -12439,8 +12448,9 @@
     },
     "01002640165E4000": {
         "0": "4AD0E0CBB69F0249",
+        "131072": "5C8D6BE0FC85FA4B",
         "65536": "817877CDF8C8B34B",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Orbital Bullet"
     },
     "010026500DAA8000": {
@@ -15322,8 +15332,9 @@
     "01002E80168F4000": {
         "0": "7597240B0E03DC43",
         "131072": "EBDE14682B70A042",
+        "196608": "53910D3E6592F340",
         "65536": "69C0F55C75CB4D4C",
-        "latest": 131072
+        "latest": 196608
     },
     "01002E80192E0000": {
         "0": "0CDB864FECDF99BC",
@@ -35583,6 +35594,10 @@
         "65536": "F85151E7C9EE704F",
         "latest": 65536
     },
+    "010069F01B3B8000": {
+        "131072": "EF211923A6FD324A",
+        "latest": 131072
+    },
     "01006A0003892000": {
         "0": "4B452D38512E6449",
         "latest": 0
@@ -45181,8 +45196,9 @@
         "0": "7F6B7547F2091D4F",
         "196608": "E149B84AEE129940",
         "262144": "A589E8A517C55B4B",
+        "327680": "90262F291B227A47",
         "65536": "3D518E9ACBA9B647",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Doki Doki Literature Club Plus!"
     },
     "0100869016E68000": {
@@ -49643,8 +49659,9 @@
         "196608": "7ED89A55875CE19C",
         "262144": "8D2A0B478F1BC640",
         "327680": "5CF15C74D91B95FB",
+        "393216": "EAF3765655E29573",
         "65536": "239F7D1B0F941BEA",
-        "latest": 327680,
+        "latest": 393216,
         "title": "Unmatched: Digital Edition"
     },
     "010093401939B000": {
@@ -53834,6 +53851,7 @@
         "title": "Midnight Runner - Blade Galaxy Beat Puzzle Legacy 3D Games Ultimate Edition"
     },
     "01009FC01B854000": {
+        "0": "CD4E09FA6CE038FF",
         "65536": "F67571D1F4D8BA02",
         "latest": 65536,
         "title": "Powers of Hex"
@@ -59384,8 +59402,9 @@
         "196608": "DF2F0B68BC9F2B6E",
         "262144": "D550BC28F3040A1C",
         "327680": "7B847808BF45FAF0",
+        "393216": "611AAAD67ED18B21",
         "65536": "FFC7A539852F3D77",
-        "latest": 327680,
+        "latest": 393216,
         "title": "The Oregon Trail"
     },
     "0100B080184BD000": {
@@ -65402,7 +65421,8 @@
         "786432": "D4E04E291D4A5AF9",
         "851968": "9C9908501DFC5C16",
         "917504": "BA060FE15CC075E4",
-        "latest": 917504,
+        "983040": "62720B5A48247A21",
+        "latest": 983040,
         "title": "Splatoon\u2122 3 + Nintendo Switch Online Individual Membership (3 Months)"
     },
     "0100C2500FC21000": {
@@ -71343,9 +71363,13 @@
         "title": "Football Cup 2021"
     },
     "0100D43017114000": {
+        "0": "685440BFBDF4072C",
         "131072": "BBBAEA4E86C39391",
         "latest": 131072,
         "title": "Super Mega Baseball\u2122 4"
+    },
+    "0100D43017115000": {
+        "latest": 0
     },
     "0100D4400D994000": {
         "0": "3C458D44D3D25166",
@@ -75824,6 +75848,11 @@
         "0": "70DAC5D93808246A",
         "latest": 0
     },
+    "0100E1301B0F6000": {
+        "65536": "65CD2930C29AAFBF",
+        "latest": 65536,
+        "title": "Super Drunken Guy"
+    },
     "0100E1400BA96000": {
         "0": "A4CC4C44C07AEC14",
         "latest": 0,
@@ -75940,6 +75969,11 @@
         "65536": "E9C3F68B093924A8",
         "latest": 65536,
         "title": "Unichrome: A 1-Bit Unicorn Adventure"
+    },
+    "0100E1901B5B8000": {
+        "0": "710DA5DD0C54977B",
+        "latest": 0,
+        "title": "Johnny Trigger: Sniper"
     },
     "0100E1A00AF40000": {
         "0": "857930D91A916D44",
@@ -77942,8 +77976,13 @@
         "title": "Idol Manager"
     },
     "0100E71018D1A000": {
+        "0": "F01CBC1FC2F54FCC",
         "131072": "E32265E56EE025FB",
-        "latest": 131072
+        "latest": 131072,
+        "title": "We Love Katamari REROLL+ Royal Reverie"
+    },
+    "0100E71018D1B000": {
+        "latest": 65536
     },
     "0100E7200B272000": {
         "0": "8F58599378DA294B",
@@ -82549,6 +82588,7 @@
     },
     "0100F3D0122C2000": {
         "0": "635C18D3F34BEE4A",
+        "1048576": "4AD246C8B7D6074B",
         "131072": "933A01D9CB978D4D",
         "196608": "D230FFA28C6B9444",
         "262144": "B0CC1DA98592384C",
@@ -82556,7 +82596,7 @@
         "393216": "BC6FFB03A654CC4F",
         "458752": "9717D230A1911349",
         "917504": "4DC9768F2D853C48",
-        "latest": 917504,
+        "latest": 1048576,
         "title": "The Longing"
     },
     "0100F3D013062000": {
