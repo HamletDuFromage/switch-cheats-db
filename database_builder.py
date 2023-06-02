@@ -144,8 +144,8 @@ if __name__ == '__main__':
     database_version = database.get_database_version()
     highfps = HighFPSCheatsInfo()
     gbatemp = GbatempCheatsInfo()
-    #if gbatemp.has_new_cheats(database_version) or highfps.has_new_cheats(database_version):
-    if True:
+    if gbatemp.has_new_cheats(database_version) or highfps.has_new_cheats(database_version):
+    #if True:
         archive_worker = ArchiveWorker()
         print(f"Downloading cheats")
         archive_worker.download_archive(gbatemp.get_download_url(), archive_path)
