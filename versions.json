@@ -199,6 +199,10 @@
         "latest": 0,
         "title": "Arcade Archives THE TIN STAR"
     },
+    "010000701ABA2000": {
+        "0": "7E1305CF7A6F503D",
+        "latest": 0
+    },
     "0100008011882000": {
         "131072": "2523CB8B455ABC1D",
         "196608": "6D3B212072E10085",
@@ -356,6 +360,14 @@
         "0": "5AB3BEB0BB20CB42",
         "latest": 0,
         "title": "Pineview Drive"
+    },
+    "010001000EB0C000": {
+        "0": "93C7C51DE4983904",
+        "latest": 0,
+        "title": "Circuit Superstars"
+    },
+    "010001000EB0D000": {
+        "latest": 0
     },
     "0100010016026000": {
         "0": "45EC6CC60DF62F46",
@@ -3898,6 +3910,10 @@
     "01000C501A15F000": {
         "latest": 0
     },
+    "01000C501BC1C000": {
+        "0": "7D145212687D8ABF",
+        "latest": 0
+    },
     "01000C600D7CE000": {
         "0": "FBE4653EE1DD261F",
         "latest": 0,
@@ -4393,6 +4409,10 @@
     },
     "01000DA00F026000": {
         "0": "9C35183C5AF4B941",
+        "latest": 0
+    },
+    "01000DA01BBE8000": {
+        "0": "1694A7A1ABE3138D",
         "latest": 0
     },
     "01000DB00980A000": {
@@ -5148,6 +5168,11 @@
         "latest": 327680,
         "title": "Maximus 2"
     },
+    "01000FF01A7E0000": {
+        "0": "67E13E2CFB5E31B4",
+        "latest": 0,
+        "title": "Sky Caravan"
+    },
     "010010001636E000": {
         "0": "7002377F3ECC2646",
         "latest": 0,
@@ -5596,6 +5621,10 @@
     },
     "010011501274A000": {
         "65536": "C06F3043B77184D0",
+        "latest": 65536
+    },
+    "010011501A38C000": {
+        "65536": "A3C852DFE0477CB9",
         "latest": 65536
     },
     "010011600BB84000": {
@@ -6745,8 +6774,9 @@
     },
     "0100157015DD8000": {
         "0": "A2C3F3312A35FC63",
+        "131072": "6F52F2A81373246B",
         "65536": "2BFC784E7E10DD89",
-        "latest": 65536,
+        "latest": 131072,
         "title": "DC's Justice League: Cosmic Chaos"
     },
     "010015800B178000": {
@@ -7412,6 +7442,11 @@
     },
     "0100179015DE1000": {
         "latest": 0
+    },
+    "0100179017B34000": {
+        "0": "BE449635B5E2586C",
+        "latest": 0,
+        "title": "Finding Heidi"
     },
     "010017901913A000": {
         "0": "A66EDEF8508412EF",
@@ -8493,6 +8528,9 @@
         "latest": 196608,
         "title": "Bright Memory: Infinite Gold Edition"
     },
+    "01001A9018561000": {
+        "latest": 0
+    },
     "01001A901922E000": {
         "0": "A609A0A0515792BA",
         "latest": 0,
@@ -8928,7 +8966,8 @@
     },
     "01001B901A6E6000": {
         "65536": "FFF239CE2A527078",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Armored Lab Force VULVEHICLES"
     },
     "01001BA00AE4E000": {
         "0": "45E162B5385DC449",
@@ -9258,6 +9297,11 @@
         "latest": 393216,
         "title": "My Life: Riding Stables 3"
     },
+    "01001CA019DA2000": {
+        "0": "0E8CA32F98D3990B",
+        "latest": 0,
+        "title": "Pretty Princess Magical Garden Island"
+    },
     "01001CB00EFD6000": {
         "0": "F9A0183C9BBA983E",
         "65536": "77CF09013D816AC8",
@@ -9388,8 +9432,9 @@
     "01001D00152BE000": {
         "0": "FDA2A346FD90D5F1",
         "131072": "2ED0DAC1C39B0CA5",
+        "196608": "54339A37E29CD2B9",
         "65536": "197FADE4F0EAF440",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Backbeat"
     },
     "01001D00195A2000": {
@@ -9554,6 +9599,10 @@
         "0": "552CE76A11E2DC47",
         "latest": 0,
         "title": "Arcade Archives ITAZURA TENSHI"
+    },
+    "01001DB01AF50000": {
+        "0": "5C3214AF68F2F2C0",
+        "latest": 0
     },
     "01001DC00E324000": {
         "0": "493058A9286DC04B",
@@ -10014,6 +10063,9 @@
     "01001F0019804000": {
         "65536": "93747E10D2E58CB4",
         "latest": 65536
+    },
+    "01001F0019805000": {
+        "latest": 0
     },
     "01001F100B586000": {
         "0": "500448065C440046",
@@ -15318,6 +15370,10 @@
         "latest": 65536,
         "title": "Hell Blasters"
     },
+    "01002E301B74C000": {
+        "0": "2D8BB10E843A3A2D",
+        "latest": 0
+    },
     "01002E4011924000": {
         "0": "8A4690663662FBB5",
         "latest": 0,
@@ -17011,6 +17067,11 @@
         "latest": 196608,
         "title": "Lines XL"
     },
+    "010033001B03C000": {
+        "0": "3662478EE0B08C5E",
+        "latest": 0,
+        "title": "The Wonderful One: After School Hero"
+    },
     "0100331005E8E000": {
         "0": "281C3AEAC2483906",
         "131072": "A028E4F0C384A83C",
@@ -18641,8 +18702,9 @@
         "131072": "9A34AD0B44B3FBFE",
         "196608": "BAAECC49ABFAD77A",
         "262144": "30A19EAF9CB72F9E",
+        "327680": "575F3D8ACCA2B0A9",
         "65536": "2AE761897172F0F0",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Remains"
     },
     "0100381019AC6000": {
@@ -24440,7 +24502,8 @@
         "65536": "E81E9C713DC9B146",
         "655360": "F9BDC7AFECAA8248",
         "720896": "518891DFD2AC564D",
-        "latest": 720896,
+        "786432": "9A182385D3082347",
+        "latest": 786432,
         "title": "Concordia: Digital Edition"
     },
     "0100482015D95000": {
@@ -25386,6 +25449,7 @@
         "title": "FishWitch Halloween"
     },
     "01004AA01A6BA000": {
+        "0": "03824E4AB7E41DE8",
         "65536": "F7931BB9DF0B6A0C",
         "latest": 65536,
         "title": "Nova Lands"
@@ -29967,6 +30031,11 @@
         "latest": 131072,
         "title": "SOL DIVIDE -SWORD OF DARKNESS- for Nintendo Switch"
     },
+    "010059001B322000": {
+        "0": "7C59A41F0143384F",
+        "latest": 0,
+        "title": "Princess Closet - Fashion and love will change me -"
+    },
     "010059001B818000": {
         "0": "0DB61350EA10B7A3",
         "latest": 0
@@ -32483,7 +32552,8 @@
     },
     "010060101A6E0000": {
         "0": "92E261D24705F4A1",
-        "latest": 0,
+        "65536": "AC47B98D3E5E2A8C",
+        "latest": 65536,
         "title": "Alekon"
     },
     "010060200A4BE000": {
@@ -33022,7 +33092,8 @@
     },
     "010061501A2B6000": {
         "0": "87B98184C694336A",
-        "latest": 0,
+        "65536": "2A01928CD03860C3",
+        "latest": 65536,
         "title": "Rob Riches"
     },
     "0100616009082000": {
@@ -36698,6 +36769,7 @@
         "title": "Lila's Sky Ark"
     },
     "01006C301B7C2000": {
+        "0": "E40E3190323908B9",
         "65536": "35B8C7A4BF398955",
         "latest": 65536,
         "title": "Dr. Fetus' Mean Meat Machine"
@@ -36997,6 +37069,12 @@
         "0": "D4502383186ADCAD",
         "latest": 0,
         "title": "Flower Shop: Summer In Fairbrook"
+    },
+    "01006D0018222000": {
+        "0": "4A86A6CF7ADD4E35",
+        "65536": "A8D670FF2FA461C3",
+        "latest": 65536,
+        "title": "Unimime - Unicycle Madness"
     },
     "01006D100E1DE000": {
         "0": "4C4F76BBEC03ED1F",
@@ -37423,6 +37501,11 @@
         "0": "D6BFA6BFE5528CE4",
         "latest": 0,
         "title": "Rattyvity Lab"
+    },
+    "01006E7018F8A000": {
+        "0": "EF9C4E3CE499528A",
+        "latest": 0,
+        "title": "Valthirian Arc: Hero School Story 2"
     },
     "01006E800972C000": {
         "0": "F53DE2FBC8C427AB",
@@ -41662,8 +41745,9 @@
     "01007A5018178000": {
         "0": "78D8ADA7FC88AB6A",
         "131072": "0B3220FA94E793C2",
+        "196608": "779EA65A5897C4F9",
         "65536": "8072ABFF51FA1156",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Dust & Neon"
     },
     "01007A60125F2000": {
@@ -41882,6 +41966,10 @@
         "0": "6538EA7B55407A1A",
         "latest": 0,
         "title": "Connect the Dots"
+    },
+    "01007B301BB9C000": {
+        "0": "491F6DE8492B0EE6",
+        "latest": 0
     },
     "01007B4013436000": {
         "0": "785EB45A6634DE4B",
@@ -44029,6 +44117,11 @@
     "010081A01565B000": {
         "latest": 0
     },
+    "010081A01B008000": {
+        "0": "450969DD2FFD92A2",
+        "latest": 0,
+        "title": "Rice Bowl Restaurant"
+    },
     "010081B00D890000": {
         "0": "37E7E5587ACCD444",
         "65536": "810AA3C4F6590949",
@@ -46109,6 +46202,7 @@
         "title": "Slash Ninja"
     },
     "010088001B136000": {
+        "0": "35F9FAF80D325F3F",
         "65536": "B858CF198E4F7C99",
         "latest": 65536
     },
@@ -50369,6 +50463,11 @@
         "latest": 0,
         "title": "Dead Invaders: Modern War 3D"
     },
+    "010094101AF2C000": {
+        "65536": "E4325A1D5EDD159A",
+        "latest": 65536,
+        "title": "Suicide Guy: The Lost Dreams"
+    },
     "0100942019418000": {
         "0": "910A9B8E7DF9A9CE",
         "131072": "5C04DB2C7B01369A",
@@ -53058,6 +53157,7 @@
         "title": "Pocket Academy"
     },
     "01009C101B1C2000": {
+        "0": "4C265F6563A66F81",
         "65536": "A55A90FD45FD2845",
         "latest": 65536,
         "title": "Marble Ball Friends"
@@ -54070,8 +54170,9 @@
     },
     "01009EC01545E000": {
         "0": "ACA24BEA1535E216",
+        "131072": "7C55D6868FF830B3",
         "65536": "26777F4F7AF9D51A",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Tails of Trainspot"
     },
     "01009ED017BC4000": {
@@ -54280,8 +54381,9 @@
     "01009FB016286000": {
         "0": "59633133192BD26E",
         "131072": "25EC346A5EF1374D",
+        "262144": "7BD427EF7F9C1E6A",
         "65536": "BC6146A36AE559C0",
-        "latest": 131072,
+        "latest": 262144,
         "title": "Sonic Origins"
     },
     "01009FB016287000": {
@@ -54927,6 +55029,11 @@
         "latest": 65536,
         "title": "COTTOn 2 - Saturn Tribute"
     },
+    "0100A1801AA58000": {
+        "0": "5DFCC403D7D4E793",
+        "latest": 0,
+        "title": "Tricks Magician"
+    },
     "0100A1900B5B8000": {
         "0": "839F67FA228D5F43",
         "latest": 0,
@@ -55077,8 +55184,9 @@
     "0100A21017FC6000": {
         "0": "EF2A3D26453BAFC7",
         "131072": "0D1081D19D4BA7FE",
+        "196608": "917DFA074D477A9A",
         "65536": "02DB4D86F16B3F0A",
-        "latest": 131072
+        "latest": 196608
     },
     "0100A2200AFE2000": {
         "0": "91F72BDECF7D6742",
@@ -55834,6 +55942,11 @@
     "0100A44010073000": {
         "latest": 0
     },
+    "0100A4401B6E0000": {
+        "0": "4D60633B989D2E34",
+        "latest": 0,
+        "title": "Earthen Dragon"
+    },
     "0100A46015296000": {
         "65536": "F73EF4988E00CC4A",
         "latest": 65536
@@ -55842,8 +55955,9 @@
         "0": "607DB47A98118656",
         "131072": "A8AB3E2D6EB21E1F",
         "196608": "42613274FFC1E841",
+        "262144": "42613274FFC1E841",
         "65536": "E8F9B9BDAC537D89",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Monmusu Gladiator"
     },
     "0100A46018F8E000": {
@@ -56527,6 +56641,11 @@
         "0": "F1569308D7BE89A1",
         "65536": "3749BFEA64DC98DF",
         "latest": 65536
+    },
+    "0100A6800C4B4000": {
+        "0": "249E39003F85F4E0",
+        "latest": 0,
+        "title": "Auralux: Constellations"
     },
     "0100A6800DE70000": {
         "0": "3AEDD1A7D452AE47",
@@ -60533,8 +60652,9 @@
     "0100B2201413A000": {
         "0": "A685C35FA098F25D",
         "131072": "872AD18F3B6A8A19",
+        "196608": "A36CE6BB53392041",
         "65536": "EEA54AED68C5AA83",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Mask of the Rose"
     },
     "0100B2300B932000": {
@@ -64513,7 +64633,8 @@
         "720896": "915FF4709E55850C",
         "786432": "B367CDCA1256CEBA",
         "851968": "D5E97B31F8B83D1A",
-        "latest": 851968,
+        "917504": "D5AFACF08B6F1CCB",
+        "latest": 917504,
         "title": "Talisman: Digital Edition"
     },
     "0100BE300F6AB000": {
@@ -64689,8 +64810,9 @@
         "0": "83BC9366BD80D244",
         "131072": "118C8425820A3D4D",
         "196608": "51A38C04F6E3F445",
+        "262144": "7E9AFBD71B2BFA44",
         "65536": "9944C30EF85EAA4C",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Smushi Come Home"
     },
     "0100BE80097FA000": {
@@ -65897,8 +66019,9 @@
     },
     "0100C20013196000": {
         "0": "4265BDEA135F0C43",
+        "131072": "FEF5873ED94336CA",
         "65536": "EC2517CBDAF5B243",
-        "latest": 65536,
+        "latest": 131072,
         "title": "OctaFight"
     },
     "0100C20014B3C000": {
@@ -66925,6 +67048,11 @@
         "0": "FD2E38E8DCAADC46",
         "65536": "37B21A5635AEB947",
         "latest": 65536
+    },
+    "0100C5001AC0E000": {
+        "0": "9A266D18B4258CED",
+        "latest": 0,
+        "title": "Medieval Royal Chess: Classic Board Game"
     },
     "0100C51003B46000": {
         "0": "ED4B5FEA235A4CF1",
@@ -69081,6 +69209,7 @@
         "title": "Pro Gymnast Simulator"
     },
     "0100CB301B1C8000": {
+        "0": "14B0739E4E8A9981",
         "65536": "5CA30810AF09EE1D",
         "latest": 65536,
         "title": "Quick Race"
@@ -71838,6 +71967,11 @@
         "latest": 0,
         "title": "Zodiac Tri Peaks Solitaire"
     },
+    "0100D3601A682000": {
+        "0": "A605657E0A82F6A4",
+        "latest": 0,
+        "title": "Arcade Archives SPLATTER HOUSE"
+    },
     "0100D37009B8A000": {
         "131072": "D151458CB2FFB142",
         "65536": "31325B4F879F994D",
@@ -72753,6 +72887,11 @@
         "196608": "23810861FDCC1741",
         "262144": "23810861FDCC1741",
         "latest": 262144
+    },
+    "0100D6401A9E6000": {
+        "0": "86CA1118EFE7CADB",
+        "latest": 0,
+        "title": "Alice Sisters"
     },
     "0100D65016AE0000": {
         "0": "A8C62527C4EFEB4F",
@@ -73949,6 +74088,11 @@
         "65536": "9625BAD2C21773F3",
         "latest": 131072,
         "title": "Xanchuchamel"
+    },
+    "0100D9701BCA2000": {
+        "0": "84A4E06F6234CEC0",
+        "latest": 0,
+        "title": "Zenful Journey"
     },
     "0100D98005E8C000": {
         "0": "AC882E9BF1DCBA42",
@@ -77436,6 +77580,7 @@
         "title": "OneShot: World Machine Edition"
     },
     "0100E3C01971E000": {
+        "0": "159A3A7B6965EE2D",
         "65536": "76DB255018BE69B5",
         "latest": 65536,
         "title": "Railway Empire 2 - Nintendo Switch\u2122 Edition"
@@ -77791,6 +77936,11 @@
     },
     "0100E4A01548D000": {
         "latest": 0
+    },
+    "0100E4A0194DE000": {
+        "65536": "C20C307E3A189EA4",
+        "latest": 65536,
+        "title": "Crime O'Clock"
     },
     "0100E4B0145D6000": {
         "0": "54999F87A5561E4F",
@@ -80140,7 +80290,7 @@
         "title": "GROOVE COASTER WAI WAI PARTY!!!!"
     },
     "0100EB500D92F000": {
-        "latest": 0
+        "latest": 65536
     },
     "0100EB501130E000": {
         "0": "9A2617C1365C0D4C",
@@ -81439,6 +81589,10 @@
         "65536": "B668B79484FC3103",
         "latest": 65536,
         "title": "DARIUSBURST CS CORE + TAITO/SEGA Pack"
+    },
+    "0100EEB019430000": {
+        "0": "A1F5AF9BE1D741F7",
+        "latest": 0
     },
     "0100EEC00A262000": {
         "0": "9E66E59DE9F15641",
@@ -83588,8 +83742,9 @@
     },
     "0100F4C009322000": {
         "0": "CD23D5CFB75D7E94",
+        "131072": "D467F5AD367BBEE8",
         "65536": "D467F5AD367BBEE8",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Pikmin\u2122 3 Deluxe"
     },
     "0100F4C00B1DE000": {
@@ -84194,6 +84349,9 @@
         "196608": "255F1313E400E131",
         "65536": "0C28B121BAC7801C",
         "latest": 196608
+    },
+    "0100F6A00A685000": {
+        "latest": 0
     },
     "0100F6A00E31E000": {
         "131072": "972E6CFFA4E07940",
