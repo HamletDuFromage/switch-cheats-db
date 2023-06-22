@@ -1,0 +1,9 @@
+{
+    "B9360479C445B355": {
+        "[HP Inf]": "[HP Inf]\n04000000 014C29D8 51000108\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 014C29D8 51000508\n\n",
+        "[QI Inf]": "[QI Inf]\n04000000 0151A5F8 BD430401\n04000000 0151A7D0 BD430401\n\n",
+        "[QI Inf Off]": "[QI Inf Off]\n04000000 0151A5F8 BD430801\n04000000 0151A7D0 BD430801\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
+}

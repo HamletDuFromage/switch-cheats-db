@@ -1,0 +1,12 @@
+{
+    "DCC5A9D6EE5BB7D8": {
+        "[HP Inf]": "[HP Inf]\n04000000 00218850 51000001\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 00218850 4B140001\n\n",
+        "[Coins x4]": "[Coins x4]\n04000000 00206F68 11001114\n\n",
+        "[Coins x4 Off]": "[Coins x4 Off]\n04000000 00206F68 11000514\n\n",
+        "[Coins No Decrease]": "[Coins No Decrease]\n04000000 0021447C 51000114\n\n",
+        "[Coins No Decrease Off]": "[Coins No Decrease Off]\n04000000 0021447C 4B090114\n\n",
+        "[A Moonjump]": "[A Moonjump]\n80000001 \n580F0000 02E40FD0 \n580F1000 00000028 \n780F0000 00000090 \n640F0000 00000000 C3480000 \n20000000\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
+}

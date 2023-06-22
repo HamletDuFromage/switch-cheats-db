@@ -1,0 +1,11 @@
+{
+    "F3634475DBAD773A": {
+        "[HP Inf]": "[HP Inf]\n04000000 0430B9BC D503201F\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 0430B9BC 1E293800\n\n",
+        "[Ammo Inf]": "[Ammo Inf]\n04000000 0431A4A4 71000129\n\n",
+        "[Ammo Inf Off]": "[Ammo Inf Off]\n04000000 0431A4A4 71000529\n\n",
+        "[Time Inf]": "[Time Inf]\n04000000 03A8F3CC 1E204160\n\n",
+        "[Time Inf Off]": "[Time Inf Off]\n04000000 03A8F3CC 1E203960\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
+}

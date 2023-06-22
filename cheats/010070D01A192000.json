@@ -1,0 +1,19 @@
+{
+    "5310B77281A7E5EF": {
+        "[HP Inf]": "[HP Inf]\n04000000 00112958 1E20400A\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 00112958 1E28380A\n\n",
+        "[MP Inf]": "[MP Inf]\n04000000 000AA828 1E204020\n\n",
+        "[MP Inf Off]": "[MP Inf Off]\n04000000 000AA828 1E203820\n\n",
+        "[Coins x4]": "[Coins x4]\n04000000 00110CE4 0B080928\n\n",
+        "[Coins x4 Off]": "[Coins x4 Off]\n04000000 00110CE4 0B080128\n\n",
+        "[Coins Max]": "[Coins Max]\n04000000 00110CEC B900015A\n\n",
+        "[Coins Max Off]": "[Coins Max Off]\n04000000 00110CEC B9000148\n\n",
+        "[Coins no Decrease]": "[Coins no Decrease]\n04000000 0013ADA8 51000148\n04000000 0013B6C8 51000148\n\n",
+        "[Coins no Decrease Off]": "[Coins no Decrease Off]\n04000000 0013ADA8 4B080148\n04000000 0013B6C8 4B080148\n\n",
+        "[Raval x4]": "[Raval x4]\n04000000 00134AF0 0B150908\n\n",
+        "[Raval x4 Off]": "[Raval x4 Off]\n04000000 00134AF0 0B150108\n\n",
+        "[Raval no Decrease]": "[Raval no Decrease]\n04000000 0013B704 51000128\n04000000 00134BB0 51000108\n\n",
+        "[Raval no Decrease Off]": "[Raval no Decrease Off]\n04000000 0013B704 4B080128\n04000000 00134BB0 4B150108\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
+}
