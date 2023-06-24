@@ -15052,8 +15052,9 @@
     },
     "01002D201B52A000": {
         "0": "263FDA372F01EB13",
+        "131072": "D4FDC6E073C16317",
         "65536": "C0570C4A3031A405",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Sunshine Shuffle"
     },
     "01002D3007962000": {
@@ -17537,8 +17538,9 @@
         "0": "D46A2909AEC4E307",
         "131072": "7F1F1FD1CB55DB8D",
         "196608": "ECDB3DE41EC573F9",
+        "262144": "3781CD13B7EF03DD",
         "65536": "7E254139DA67B40E",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Chasm: The Rift"
     },
     "010034301A6D4000": {
@@ -18687,6 +18689,11 @@
         "131072": "7E3B875A3F823346",
         "latest": 131072,
         "title": "DNF Duel: Who's Next"
+    },
+    "010038001AD72000": {
+        "0": "8385A6A36CEA8A2D",
+        "latest": 0,
+        "title": "Hooligan Simulator - San Gangster Andreas Fight for City, Battle Gangs, Shooter, Police"
     },
     "010038100D436000": {
         "0": "0ED0C044C8D09A3D",
@@ -25516,8 +25523,9 @@
         "0": "432D4198D8C563C5",
         "196608": "DD7FF70188B281D9",
         "262144": "AE548A35FD9DF5DA",
+        "327680": "0B815AF775888406",
         "65536": "62588A30606B14FB",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Sonic Frontiers"
     },
     "01004AD014BF1000": {
@@ -28700,8 +28708,9 @@
         "latest": 0
     },
     "010054D01ADB6000": {
+        "131072": "510D57551AD1B731",
         "65536": "536433098AE62ED3",
-        "latest": 65536
+        "latest": 131072
     },
     "010054E0168A6000": {
         "0": "3E4E84C099E08903",
@@ -30330,8 +30339,9 @@
         "0": "B397BE2FB13F4760",
         "196608": "2A89C9EB41AADE12",
         "262144": "AE3FF510AFFAE72B",
+        "327680": "DDCA3B21CE94D61C",
         "65536": "EC151ACAF59E6988",
-        "latest": 262144
+        "latest": 327680
     },
     "010059C014C41000": {
         "latest": 0
@@ -40164,7 +40174,8 @@
     },
     "010075A017AF4000": {
         "0": "32D0C830BA163A36",
-        "latest": 0,
+        "65536": "EABBE82A581464B5",
+        "latest": 65536,
         "title": "Car Parking Multiplayer"
     },
     "010075A01A312000": {
