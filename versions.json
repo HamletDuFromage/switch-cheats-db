@@ -5826,6 +5826,11 @@
         "latest": 0,
         "title": "Star Drives"
     },
+    "010011D01AAE2000": {
+        "0": "CDDC97DDF5C83D0A",
+        "latest": 0,
+        "title": "Vision Soft Reset"
+    },
     "010011E00DF5C000": {
         "65536": "E1AFF7EF6E499144",
         "latest": 65536
@@ -5924,7 +5929,8 @@
         "327680": "95BFB4D92B589FA4",
         "393216": "5F0A9612888C7310",
         "458752": "566F312FA971521C",
-        "latest": 458752,
+        "524288": "5CC56690A4D95C1A",
+        "latest": 524288,
         "title": "Melatonin"
     },
     "0100123019BEA000": {
@@ -6817,6 +6823,11 @@
         "0": "4B17E8FFAC2D8B8F",
         "latest": 0,
         "title": "Lost Lands 3: The Golden Curse"
+    },
+    "010015601B0C2000": {
+        "0": "7ED5E9C95DA8F71C",
+        "latest": 0,
+        "title": "The Lost and The Wicked"
     },
     "0100157004512000": {
         "0": "21A57A5E8D5A3F48",
@@ -16997,6 +17008,7 @@
         "title": "At Sundown: Shots in the Dark"
     },
     "010032A01AACA000": {
+        "0": "55C82081D3A3DC47",
         "131072": "2D42A502A86172CC",
         "latest": 131072,
         "title": "A Tale For Anna"
@@ -32569,7 +32581,7 @@
         "latest": 131072
     },
     "01005FA019DC9000": {
-        "latest": 0
+        "latest": 65536
     },
     "01005FB00DA7C000": {
         "0": "426C0DEC54D66B09",
@@ -36248,8 +36260,9 @@
         "0": "54DC897A78AA4375",
         "131072": "A57BE54C190F0F4C",
         "196608": "2289C595D1E0866D",
+        "262144": "A8008B6334B9942D",
         "65536": "D3972DDE90DAF69C",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Floppy Knights"
     },
     "01006A400C9C8000": {
@@ -44089,6 +44102,11 @@
         "latest": 65536,
         "title": "Him & Her Collection"
     },
+    "010080F01B10E000": {
+        "0": "DB7FCDD3D8649B0D",
+        "latest": 0,
+        "title": "Bruxa"
+    },
     "0100810012A1A000": {
         "0": "F7B61A1037C56644",
         "131072": "249C5CB9CE44FD4F",
@@ -46401,6 +46419,11 @@
         "196608": "216A6AF0A04907A1",
         "latest": 196608
     },
+    "010087D01BCB0000": {
+        "0": "8D49B453FCC0C64C",
+        "latest": 0,
+        "title": "Rifter"
+    },
     "010087E006E6E000": {
         "0": "6F1C332CDF0B6448",
         "latest": 0,
@@ -46619,6 +46642,7 @@
         "title": "Stacks On Stacks (On Stacks)"
     },
     "010088801BDBC000": {
+        "0": "24980944293FB204",
         "65536": "24980944293FB204",
         "latest": 65536
     },
@@ -48014,6 +48038,11 @@
     "01008CB00E6B4000": {
         "0": "F1692DF9B7979C4E",
         "latest": 0
+    },
+    "01008CB0156BC000": {
+        "131072": "A3E80F5FE073639D",
+        "latest": 131072,
+        "title": "The Legend of Heroes: Trails into Reverie"
     },
     "01008CB01716E000": {
         "0": "A451102BFDED42F5",
@@ -50533,7 +50562,8 @@
         "65536": "4D2483C5BA7800BE",
         "655360": "9435659DE39D1F68",
         "720896": "7C68FF51E2D0D617",
-        "latest": 720896,
+        "786432": "A9160F18FC8C3683",
+        "latest": 786432,
         "title": "What the Dub?!"
     },
     "01009370171AA000": {
@@ -50759,6 +50789,7 @@
         "title": "Dead Invaders: Modern War 3D"
     },
     "010094101AF2C000": {
+        "0": "CD61554336E88532",
         "65536": "E4325A1D5EDD159A",
         "latest": 65536,
         "title": "Suicide Guy: The Lost Dreams"
@@ -51625,6 +51656,11 @@
         "65536": "B97BBA1EB5F467DE",
         "latest": 196608,
         "title": "Stubbs the Zombie in Rebel Without a Pulse"
+    },
+    "0100964018622000": {
+        "0": "BFD3AB40EDB8B1CF",
+        "latest": 0,
+        "title": "MeteoHeroes Saving Planet Earth!"
     },
     "010096500B018000": {
         "0": "96B6C43DD650664D",
@@ -53824,6 +53860,11 @@
         "65536": "8257A27C6C4F2746",
         "latest": 65536,
         "title": "Buck Bradley 2"
+    },
+    "01009D0019BCC000": {
+        "0": "16B1649F24234B5A",
+        "latest": 0,
+        "title": "Ray\u2019z Arcade Chronology"
     },
     "01009D1003A96000": {
         "0": "2975E47F02C6AB02",
@@ -58429,6 +58470,11 @@
         "0": "BD84277B45935B32",
         "latest": 0,
         "title": "Jumbo Airport Story"
+    },
+    "0100AA901A9C6000": {
+        "0": "5C3214AF68F2F2C0",
+        "latest": 0,
+        "title": "Neko Secret Homecoming"
     },
     "0100AAA00ACBE000": {
         "0": "6D1B103385F148DF",
@@ -63497,6 +63543,11 @@
         "65536": "A46E63164F1BE6D6",
         "latest": 131072
     },
+    "0100B9D0196D6000": {
+        "0": "9B8A4CE0CEFE1D85",
+        "latest": 0,
+        "title": "RayStorm X RayCrisis HD Collection"
+    },
     "0100B9D01AC0C000": {
         "0": "D12B42A65C2904AD",
         "latest": 0,
@@ -68475,7 +68526,7 @@
         "title": "Chompy Chomp Chomp Party"
     },
     "0100C7D00FA19000": {
-        "latest": 0
+        "latest": 65536
     },
     "0100C7D012FB8000": {
         "0": "AE2E8FCF02FA994E",
@@ -72742,7 +72793,7 @@
         "title": "ARK: Survival Evolved"
     },
     "0100D4A00B285000": {
-        "latest": 327680
+        "latest": 393216
     },
     "0100D4A00E308000": {
         "0": "339D23C0CC4D6A41",
@@ -77739,7 +77790,8 @@
     },
     "0100E2E0188F4000": {
         "0": "B2D9855E5D6F6AB5",
-        "latest": 0,
+        "65536": "D2E152122323D3F2",
+        "latest": 65536,
         "title": "Silent Sector"
     },
     "0100E2E019358000": {
@@ -84899,6 +84951,7 @@
         "1376256": "369203418BAE8A49",
         "1441792": "39DEDEC14C929F46",
         "1507328": "7C1CE132DE526244",
+        "1572864": "A3038B7F190B2942",
         "196608": "2A67756BCEF84146",
         "262144": "0E53438279399744",
         "327680": "04199816D0BD1C4B",
@@ -84909,7 +84962,7 @@
         "851968": "8F33B95BA51FFF41",
         "917504": "1C8C844BB7222242",
         "983040": "855970047985CB4F",
-        "latest": 1507328
+        "latest": 1572864
     },
     "0100F6C00DA57000": {
         "latest": 0
