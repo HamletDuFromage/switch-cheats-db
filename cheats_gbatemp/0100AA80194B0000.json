@@ -1,0 +1,10 @@
+{
+    "342A165CC42E997E": {
+        "[Breeze beta79a Pikmin 1 1.0.0 TID: 0100AA80194B0000 BID: 342A165CC42E997E]": "[Breeze beta79a Pikmin 1 1.0.0 TID: 0100AA80194B0000 BID: 342A165CC42E997E]\n\n",
+        "[D-Right + R button timer work normally]": "[D-Right + R button timer work normally]\n80004080 \n04000000 00001AD4 1E202820 \n20000000\n\n",
+        "[D-Left + R button Turn back the timer]": "[D-Left + R button Turn back the timer]\n80001080 \n04000000 00001AD4 1E203820 \n20000000\n\n",
+        "[put in pikmin increased by 100 times]": "[put in pikmin increased by 100 times]\n04000000 0008CC9C 11019129\n\n",
+        "[put in pikmin origon code]": "[put in pikmin origon code]\n04000000 0008CC9C 11000529\n\n",
+        "[Original Code by herowang]": "[Original Code by herowang]\n20000000\n\n"
+    }
+}
