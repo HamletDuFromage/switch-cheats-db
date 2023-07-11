@@ -5,6 +5,11 @@
         "[D-Left + R button Turn back the timer]": "[D-Left + R button Turn back the timer]\n80001080 \n04000000 00001AD4 1E203820 \n20000000\n\n",
         "[put in pikmin increased by 100 times]": "[put in pikmin increased by 100 times]\n04000000 0008CC9C 11019129\n\n",
         "[put in pikmin origon code]": "[put in pikmin origon code]\n04000000 0008CC9C 11000529\n\n",
-        "[Original Code by herowang]": "[Original Code by herowang]\n20000000\n\n"
+        "[Original Code by herowang]": "[Original Code by herowang]\n20000000\n\n",
+        "[60 FPS Gameplay + 30 FPS Cutscene v1]": "[60 FPS Gameplay + 30 FPS Cutscene v1]\n14050000 00740A3C 00000000\n04000000 00757620 00000001\n20000000\n14010000 00740A3C 00000000\n04000000 00757620 00000002\n20000000\n\n",
+        "[30 FPS]": "[30 FPS]\n04000000 00757620 00000002\n\n"
+    },
+    "attribution": {
+        "Pikmin 1.txt": "By Hazerou\n"
     }
 }
