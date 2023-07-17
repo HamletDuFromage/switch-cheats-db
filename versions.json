@@ -25553,6 +25553,11 @@
         "latest": 0,
         "title": "ZIC: Zombies in City"
     },
+    "010049E01B034000": {
+        "0": "73E7F391497B807A",
+        "65536": "4F97657917799ABD",
+        "latest": 65536
+    },
     "010049F00AFE8000": {
         "0": "8E14F03D9792789C",
         "latest": 0,
@@ -45233,7 +45238,8 @@
     },
     "010082F016152000": {
         "0": "CA17F76E0E02C348",
-        "latest": 0,
+        "65536": "8F75042AE1A1ED45",
+        "latest": 65536,
         "title": "The Tartarus Key"
     },
     "010082F01792C000": {
@@ -46427,8 +46433,9 @@
         "0": "EDF9C3851A2EC4A0",
         "131072": "07F5F9D479F0561A",
         "196608": "EDF9C3851A2EC4A0",
+        "262144": "07F5F9D479F0561A",
         "65536": "7B9416349D017216",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Horace"
     },
     "010086D01674E000": {
@@ -55450,8 +55457,9 @@
         "title": "Santa Claus Goblins Attack"
     },
     "0100A0901B04C000": {
+        "131072": "601A320F7E19DC1D",
         "65536": "803A1B986D44AE74",
-        "latest": 65536,
+        "latest": 131072,
         "title": "LISA: The Joyful - Definitive Edition"
     },
     "0100A0A00D1AA000": {
@@ -57415,8 +57423,9 @@
     },
     "0100A65017D68000": {
         "0": "D0F4F98131D9E262",
+        "131072": "0BE9193929CF6C51",
         "65536": "AD67EF442476D86E",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Harmony: The Fall of Reverie"
     },
     "0100A66003384000": {
@@ -64069,8 +64078,10 @@
         "latest": 0
     },
     "0100B9E01C140000": {
+        "0": "F34B76922D3F1B3B",
         "65536": "90D4126EBA2EBA80",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Moto Racer Simulator GT Games"
     },
     "0100B9F00B58E000": {
         "0": "5A98322D779BF750",
@@ -70516,6 +70527,10 @@
         "latest": 0,
         "title": "Super Glitch Dash"
     },
+    "0100CC201BC2A000": {
+        "0": "1D5633FEDF204D1F",
+        "latest": 0
+    },
     "0100CC3014886000": {
         "0": "094BD2CDF388A1DB",
         "latest": 0,
@@ -73688,8 +73703,9 @@
         "327680": "B5E1E867387510CB",
         "458752": "2CEDB551155FC311",
         "524288": "787EF406E14E5EB0",
+        "589824": "D4587F8CBB4C7322",
         "65536": "30FB4D951D846CE0",
-        "latest": 524288
+        "latest": 589824
     },
     "0100D5B00C3D0000": {
         "0": "9A02A5236A40074D",
@@ -75022,8 +75038,9 @@
         "title": "The Lost Labyrinth"
     },
     "0100D9101B048000": {
+        "131072": "5CDFDA0876C4BF4A",
         "65536": "3B91EE1DC18EA1F3",
-        "latest": 65536,
+        "latest": 131072,
         "title": "LISA: The Painful - Definitive Edition"
     },
     "0100D9200D090000": {
