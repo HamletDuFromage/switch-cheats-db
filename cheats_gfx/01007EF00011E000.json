@@ -30,9 +30,10 @@
         "[Saturation 125%]": "[Saturation 125%]\n580F0000 02CCEAE8\n780F0000 00001188\n640F0000 00000000 3FA00000\n\n",
         "[Saturation 150%]": "[Saturation 150%]\n580F0000 02CCEAE8\n780F0000 00001188\n640F0000 00000000 3FC00000\n\n",
         "[Saturation 175%]": "[Saturation 175%]\n580F0000 02CCEAE8\n780F0000 00001188\n640F0000 00000000 3FE00000\n\n",
-        "[Saturation 200%]": "[Saturation 200%]\n580F0000 02CCEAE8\n780F0000 00001188\n640F0000 00000000 40000000\n\n"
+        "[Saturation 200%]": "[Saturation 200%]\n580F0000 02CCEAE8\n780F0000 00001188\n640F0000 00000000 40000000\n\n",
+        "[60 FPS + FMV Cutscenes Speed Fix v1]": "[60 FPS + FMV Cutscenes Speed Fix v1]\n14050000 02CBEF40 00000000\n04000000 01614954 52800008\n04000000 01614D84 5287F008\n04000000 01614DB0 52800020\n04000000 01614DA4 12000021\n20000000\n14010000 02CBEF40 00000000\n04000000 01614954 39497E68\n04000000 01614D84 1E380008\n04000000 01614DB0 B9423800\n04000000 01614DA4 12001C21\n20000000\n\n"
     },
     "attribution": {
-        "The Legend of Zelda Breath of the Wild.txt": "Included in the text file;\n\nResolution Hacks By @Hazerou\n\nNotes;\n\n1.) FPS will drop straight to 30 and Game Speed will slow down whenever Switch can't handle 60 FPS.\n\nRRS cheats rely on Dynamic Resolution Function. If you have a mod or cheat that disables it, it will not work\nRRS will stop DRS from controlling your Resolution up and down\nDon't use old resolution codes previously here with new RRS as it can cause crashes and unxpected resolutions\nDocked RRS v2 cheats may crash the gaem if used in handheld mode\n\nFPS Codes by @theboy181 based from his YUZU Mod which can be found here;\nhttps://yuzu-emu.org/wiki/switch-mods/\n"
+        "The Legend of Zelda Breath of the Wild.txt": "Included in the text file;\n\nResolution Hacks By @Hazerou\nFMV cutscene speed fix by Hazerou\n\nNotes;\n\n1.) FPS will drop straight to 30 and Game Speed will slow down whenever Switch can't handle 60 FPS.\n\nRRS cheats rely on Dynamic Resolution Function. If you have a mod or cheat that disables it, it will not work\nRRS will stop DRS from controlling your Resolution up and down\nDon't use old resolution codes previously here with new RRS as it can cause crashes and unxpected resolutions\nDocked RRS v2 cheats may crash the gaem if used in handheld mode\n\nFPS Codes by @theboy181 based from his YUZU Mod which can be found here;\nhttps://yuzu-emu.org/wiki/switch-mods/\n"
     }
 }
