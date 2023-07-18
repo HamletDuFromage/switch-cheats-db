@@ -448,7 +448,8 @@
         "65536": "7D2552180D850663",
         "655360": "525CF57BB2183473",
         "720896": "06A0A6C4AA936533",
-        "latest": 720896,
+        "786432": "4296FCD835C824AB",
+        "latest": 786432,
         "title": "Fuga: Melodies of Steel"
     },
     "01000130120EF000": {
@@ -5824,6 +5825,11 @@
         "latest": 0,
         "title": "0 Degrees"
     },
+    "010011A01A5E6000": {
+        "0": "E30823896276643A",
+        "latest": 0,
+        "title": "Agriculture"
+    },
     "010011B00910C000": {
         "0": "326A305630F12244",
         "65536": "9B5904EF60298F47",
@@ -7463,8 +7469,9 @@
         "327680": "118ABDD6065DB9B6",
         "393216": "D882EFC85105852D",
         "458752": "0CF20531B1EAA639",
+        "524288": "BEEFC822F8C11811",
         "65536": "2C70421875EAB95C",
-        "latest": 458752,
+        "latest": 524288,
         "title": "Plunder Panic"
     },
     "01001730159E8000": {
@@ -7614,6 +7621,12 @@
         "65536": "55CD6B6852F1409B",
         "latest": 65536,
         "title": "Plunder Dungeons"
+    },
+    "010017A01AAB8000": {
+        "0": "0F21D514CFAAA662",
+        "65536": "08DF78AF3B63CF3F",
+        "latest": 65536,
+        "title": "Ember Knights"
     },
     "010017B0102A8000": {
         "0": "18ACFD4443539F49",
@@ -10369,6 +10382,11 @@
         "latest": 262144,
         "title": "Pok\u00e9mon\u2122 Legends: Arceus"
     },
+    "01001F501A64C000": {
+        "0": "EB454465869E08B0",
+        "latest": 0,
+        "title": "Wood Cube Block: Classic Casual Puzzle"
+    },
     "01001F600829A000": {
         "0": "BA25511843AC1948",
         "latest": 0,
@@ -12679,8 +12697,9 @@
     "010026100A2CA000": {
         "0": "1F223D6157F367D4",
         "131072": "71778DEB43DF134E",
+        "262144": "D08ACD6D01492B6B",
         "65536": "843CAF7533CFF842",
-        "latest": 131072,
+        "latest": 262144,
         "title": "The Big Con - GRIFT OF THE YEAR EDITION"
     },
     "01002610159C4000": {
@@ -30772,6 +30791,12 @@
         "latest": 0,
         "title": "Counter Bottle Shooter-Pro Aim Master Target Bottle Shoot 3D Game Strike Pistol"
     },
+    "010059C01A742000": {
+        "0": "0E8B061BD39FD8D7",
+        "131072": "42B32013CB5A664D",
+        "latest": 131072,
+        "title": "Madshot"
+    },
     "010059D00BCAE000": {
         "0": "C0CE4BA0310FDD04",
         "latest": 0,
@@ -37230,8 +37255,9 @@
         "196608": "18AA1A686407F14C",
         "262144": "30FB804D46200DF3",
         "327680": "68E2DC6FAC56AD51",
+        "393216": "EACF2312BDA9682A",
         "65536": "2709781E88180CDF",
-        "latest": 327680
+        "latest": 393216
     },
     "01006C3004FAE000": {
         "0": "6A68DC16168178FE",
@@ -43705,6 +43731,11 @@
         "0": "F63F2AEB1762C54F",
         "latest": 0,
         "title": "Pixel Game Maker Series NINJA OTEDAMA R"
+    },
+    "01007EB01B554000": {
+        "0": "32AC2F995EF1FE89",
+        "latest": 0,
+        "title": "REMEDIUM: Sentinels"
     },
     "01007EC010B48000": {
         "0": "24940C915AD9414A",
@@ -54265,8 +54296,9 @@
     "01009D001688C000": {
         "0": "BC40039C04D1604A",
         "131072": "0794F4B39130022D",
+        "196608": "405AD4BDDF2E7F14",
         "65536": "DF46F9A95C2F8FBA",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Dordogne"
     },
     "01009D00177EC000": {
@@ -54617,6 +54649,7 @@
         "title": "Star Trek Prodigy: Supernova"
     },
     "01009DF019B18000": {
+        "0": "02D885E5AF39FFA3",
         "131072": "7C1A943E1D0B777E",
         "latest": 131072,
         "title": "Spirit Hunters: Infinite Horde"
@@ -63761,6 +63794,9 @@
         "65536": "1EF960F315C8DD1D",
         "latest": 196608,
         "title": "Johnny Trigger"
+    },
+    "0100B9001B875000": {
+        "latest": 0
     },
     "0100B9001C11A000": {
         "0": "C64E2BCBDDFAF684",
@@ -78855,6 +78891,11 @@
         "latest": 131072,
         "title": "Yumeiri"
     },
+    "0100E44016C22000": {
+        "65536": "86171CBDE77FB449",
+        "latest": 65536,
+        "title": "Patrick's Parabox"
+    },
     "0100E44017D36000": {
         "0": "55234C2D9BE7C6C9",
         "latest": 0,
@@ -85149,8 +85190,9 @@
         "title": "Rift Adventure"
     },
     "0100F5501986E000": {
+        "131072": "A762F92BAEEF07DC",
         "65536": "3B937FAB8C981F34",
-        "latest": 65536
+        "latest": 131072
     },
     "0100F5501AFBE000": {
         "0": "5967EE4BB7E5308B",
@@ -87265,6 +87307,7 @@
         "0": "17D09875F79E0DC1",
         "1048576": "84E92A9A50DF4644",
         "1179648": "905D4B9D1A01E376",
+        "1245184": "4A8AC6EA938B027E",
         "131072": "5084DBE83AED8537",
         "196608": "9B4A8F8151605B1D",
         "262144": "A45DE9BF7CD4E623",
@@ -87279,7 +87322,7 @@
         "786432": "DEB0E3335177940C",
         "917504": "33D0E7AE5E2D1070",
         "983040": "33D0E7AE5E2D1070",
-        "latest": 1179648,
+        "latest": 1245184,
         "title": "SnowRunner"
     },
     "0100FBD013AB7000": {
