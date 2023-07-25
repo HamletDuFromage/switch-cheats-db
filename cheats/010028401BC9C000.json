@@ -1,0 +1,13 @@
+{
+    "6EEE72F49489A4F2": {
+        "[Lifes Inf]": "[Lifes Inf]\n04000000 01894900 51000101\n04000000 018913B4 51000101\n\n",
+        "[Lifes Inf Off]": "[Lifes Inf Off]\n04000000 01894900 51000501\n04000000 018913B4 51000501\n\n",
+        "[Time Inf]": "[Time Inf]\n04000000 0188F0A4 D503201F\n\n",
+        "[Time Inf Off]": "[Time Inf Off]\n04000000 0188F0A4 1E283800\n\n",
+        "[Lower Barrier Inf]": "[Lower Barrier Inf]\n04000000 01890E14 51000101\n04000000 01892BBC 51000101\n\n",
+        "[Lower Barrier Inf Off]": "[Lower Barrier Inf Off]\n04000000 01890E14 51000501\n04000000 01892BBC 51000501\n\n",
+        "[Points No Decrease]": "[Points No Decrease]\n04000000 015C0FAC AA0A03E2\n\n",
+        "[Points No Decrease Off]": "[Points No Decrease Off]\n04000000 015C0FAC AA0B0142\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    }
+}
