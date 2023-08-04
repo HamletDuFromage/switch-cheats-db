@@ -784,7 +784,8 @@
     },
     "010002401AE94000": {
         "0": "9EDC9E372163C318",
-        "latest": 0,
+        "65536": "3F1CAA9EFF227D42",
+        "latest": 65536,
         "title": "Tiny Thor"
     },
     "010002501378C000": {
@@ -10768,6 +10769,11 @@
         "latest": 0,
         "title": "Zumatch"
     },
+    "010020301B6D4000": {
+        "0": "656921E2FA00B2CF",
+        "latest": 0,
+        "title": "Ultimate General: Gettysburg"
+    },
     "010020400B0A8000": {
         "0": "C174D0BB12C4B436",
         "latest": 0
@@ -12759,8 +12765,9 @@
         "196608": "E2372A8F77417A43",
         "262144": "057B2B8BB5A1348D",
         "327680": "4657230B831F8BCA",
+        "393216": "EBE65821B9F6C4E2",
         "65536": "63E91A52F5A751F3",
-        "latest": 327680
+        "latest": 393216
     },
     "010025E0092B6000": {
         "0": "69DA58139FF54242",
@@ -25321,6 +25328,11 @@
         "latest": 131072,
         "title": "The Last Days"
     },
+    "010048701A9F8000": {
+        "65536": "A9A56302F6BA363C",
+        "latest": 65536,
+        "title": "Monster Prom 3: Monster Roadtrip XXL"
+    },
     "010048800B638000": {
         "0": "60AD2F7BAC023715",
         "196608": "D83CE19DD5667A1D",
@@ -30036,7 +30048,8 @@
     },
     "010056601A70A000": {
         "0": "B591211A43FFF022",
-        "latest": 0,
+        "131072": "BDD52BBB54F7AF6E",
+        "latest": 131072,
         "title": "Eden's Last Sunrise"
     },
     "0100567011972000": {
@@ -41236,6 +41249,11 @@
         "latest": 0,
         "title": "Garden of Pets"
     },
+    "010075A01BF76000": {
+        "0": "6FDE01C51C749FF5",
+        "latest": 0,
+        "title": "X-Force Under Attack"
+    },
     "010075B004DD2000": {
         "0": "1093AEA5C3D27BA8",
         "65536": "61D3677C1774EC2D",
@@ -48013,6 +48031,11 @@
         "latest": 0,
         "title": "Vylan"
     },
+    "010089A0197E4000": {
+        "65536": "FC88C1E78D4A4E9F",
+        "latest": 65536,
+        "title": "Vampire Survivors"
+    },
     "010089A01A3C8000": {
         "0": "B4A9F36B3AFF1C03",
         "latest": 0,
@@ -51854,6 +51877,11 @@
         "latest": 0,
         "title": "Moonlight"
     },
+    "010094201BB06000": {
+        "0": "4C32E9EA1842B94D",
+        "latest": 0,
+        "title": "Idle Zoo Park"
+    },
     "010094300C888000": {
         "0": "7A35205D6FAA814B",
         "latest": 0,
@@ -51956,8 +51984,9 @@
         "title": "Cardful Planning"
     },
     "010094501B6C8000": {
+        "131072": "94D063EF3B83BF81",
         "65536": "BC4056E5A7425D23",
-        "latest": 65536,
+        "latest": 131072,
         "title": "A Castle Full of Cats"
     },
     "0100946008DAE000": {
@@ -52104,6 +52133,7 @@
         "title": "Fifty Words by POWGI"
     },
     "010094D019BB0000": {
+        "0": "CD61F2B3BA901FC6",
         "131072": "45B586A62343B500",
         "latest": 131072,
         "title": "Death Becomes You"
@@ -53510,6 +53540,11 @@
         "65536": "6A6A80F2D4C374BB",
         "latest": 65536
     },
+    "010098E01C38A000": {
+        "0": "8DBD1371E7EBD0E5",
+        "latest": 0,
+        "title": "Ace Antigravity Combat Racing"
+    },
     "010098F0172D4000": {
         "131072": "B85AC7E1ED3AC243",
         "196608": "2B580D2A90FA0C05",
@@ -54356,6 +54391,11 @@
         "65536": "1DA073B9F4D608F1",
         "latest": 65536,
         "title": "Dyadic"
+    },
+    "01009B601C6A0000": {
+        "0": "4DC004640D5E10ED",
+        "latest": 0,
+        "title": "Detective Agency: Gray Tie 2 Collector's Edition"
     },
     "01009B7006C88000": {
         "0": "1439872C64096341",
@@ -55996,7 +56036,8 @@
     },
     "0100A0001B9F0000": {
         "0": "44A9F45496612D3D",
-        "latest": 0
+        "65536": "7D1D9A464B148A09",
+        "latest": 65536
     },
     "0100A01006E00000": {
         "0": "7BE883404712A345",
@@ -56476,6 +56517,11 @@
         "65536": "CD1AB97332D62962",
         "latest": 65536,
         "title": "Whiskey Mafia: Leo's Family"
+    },
+    "0100A1201AEF0000": {
+        "0": "583F2FB3E23A4407",
+        "latest": 0,
+        "title": "Slime Girl Smoothies"
     },
     "0100A130109B2000": {
         "0": "01ECF7C70A87804C",
@@ -57434,6 +57480,10 @@
         "0": "345DDBDC8D561958",
         "latest": 0,
         "title": "Aery \u2013 A New Frontier"
+    },
+    "0100A4101AC26000": {
+        "65536": "FB73B824FB53892E",
+        "latest": 65536
     },
     "0100A42004718000": {
         "0": "EFEB80F108BE0044",
@@ -63554,8 +63604,9 @@
         "131072": "0FE9BCB00D2C93FE",
         "196608": "840AC2D88F1C20A0",
         "262144": "0396EC6564B8AB7D",
+        "327680": "AC9F883DD8BB26DB",
         "65536": "0FE9BCB00D2C93FE",
-        "latest": 262144
+        "latest": 327680
     },
     "0100B5B01ACCF000": {
         "latest": 0
@@ -67686,6 +67737,11 @@
     "0100C1601181A000": {
         "0": "846DD90E82102B46",
         "latest": 0
+    },
+    "0100C1601AE38000": {
+        "65536": "A5EFC06637ABB694",
+        "latest": 65536,
+        "title": "Firefighting Simulator - The Squad"
     },
     "0100C1700A9F0000": {
         "0": "C7E03551B705BA49",
@@ -76160,8 +76216,9 @@
     },
     "0100D9701B400000": {
         "0": "A9992A05EF0D5CB5",
+        "131072": "F6BF91FBF064DFA7",
         "65536": "F6BF91FBF064DFA7",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Medal of Guardians"
     },
     "0100D9701BCA2000": {
@@ -81527,6 +81584,11 @@
         "65536": "78FF43EECE68CE46",
         "latest": 65536,
         "title": "Maze"
+    },
+    "0100E8B019C44000": {
+        "0": "85D458E23DD81F28",
+        "latest": 0,
+        "title": "Contraptions 3"
     },
     "0100E8C004616000": {
         "0": "019FDEE3B93FC44F",
@@ -86936,7 +86998,8 @@
     },
     "0100F7301A672000": {
         "0": "9466C790FBACFF35",
-        "latest": 0,
+        "65536": "750EE20C9A01A3BF",
+        "latest": 65536,
         "title": "Shootvaders: The Beginning"
     },
     "0100F75016A72000": {
@@ -88944,6 +89007,11 @@
         "65536": "12061F56E4A6E041",
         "latest": 131072,
         "title": "Heaven's Vault"
+    },
+    "0100FD90152F2000": {
+        "0": "EC14FEBF0E9A8BFB",
+        "latest": 0,
+        "title": "Farm Frenzy: Refreshed"
     },
     "0100FDA015C38000": {
         "0": "A11E552A6AB0CF45",
