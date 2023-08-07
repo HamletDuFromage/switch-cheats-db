@@ -2835,7 +2835,7 @@
         "0": "BDDAD28114381348",
         "65536": "BDDAD28114381348",
         "latest": 65536,
-        "title": "Pop. Love. Panic! The OFK Story"
+        "title": "We Are OFK"
     },
     "010008C00B2F2000": {
         "0": "E8664116DF8BD641",
@@ -25499,7 +25499,7 @@
         "262144": "A94C54ED1788AB4E",
         "65536": "03480337F20B6916",
         "latest": 262144,
-        "title": "Advent Calendar"
+        "title": "Advent Calendar: Puzzle Edition"
     },
     "010048E018CDC000": {
         "0": "7D6B779ACDA9CE9A",
@@ -58557,7 +58557,8 @@
     },
     "0100A7201BE1A000": {
         "0": "255DFEA0ACE1A81D",
-        "latest": 0,
+        "65536": "9E08BE832AE33889",
+        "latest": 65536,
         "title": "Heist Force"
     },
     "0100A73006E74000": {
