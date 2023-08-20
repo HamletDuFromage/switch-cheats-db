@@ -1,0 +1,10 @@
+{
+    "A1CC011D984F2167": {
+        "[Breeze beta79c Luna & Monsters Tower Defense -The deprived magical kingdom- 2.3.2 TID: 0100B9501B7DE000 BID: A1CC011D984F2167]": "[Breeze beta79c Luna & Monsters Tower Defense -The deprived magical kingdom- 2.3.2 TID: 0100B9501B7DE000 BID: A1CC011D984F2167]\n\n",
+        "[Restore Code]": "[Restore Code]\n04000000 017BE418 1E203900 \n04000000 01889874 6B090149 \n04000000 0192C824 0B0902A9\n\n",
+        "[Spells have no cooldown]": "[Spells have no cooldown]\n04000000 017BE418 1E283900\n\n",
+        "[Coins will increase when the spell is strengthened]": "[Coins will increase when the spell is strengthened]\n04000000 01889874 2B090149\n\n",
+        "[Level's score surge]": "[Level's score surge]\n04000000 0192C824 1B097EA9\n\n",
+        "[Original Code by herowang]": "[Original Code by herowang]\n20000000\n\n"
+    }
+}

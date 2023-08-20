@@ -1,0 +1,9 @@
+{
+    "07CDECB2CFDB33DB": {
+        "[Breeze beta79c Mad Bullets 1.0.2 TID: 01008F000E908000 BID: 07CDECB2CFDB33DB]": "[Breeze beta79c Mad Bullets 1.0.2 TID: 01008F000E908000 BID: 07CDECB2CFDB33DB]\n\n",
+        "[(Restore Code)]": "[(Restore Code)]\n04000000 000488E4 51000502 \n04000000 0004D2B4 71000508\n\n",
+        "[Inf Hp]": "[Inf Hp]\n04000000 000488E4 0B1F0102\n\n",
+        "[Inf Bullets]": "[Inf Bullets]\n04000000 0004D2B4 2B1F0108\n\n",
+        "[Original Code by herowang]": "[Original Code by herowang]\n20000000\n\n"
+    }
+}

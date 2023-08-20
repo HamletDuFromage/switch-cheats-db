@@ -1,0 +1,12 @@
+{
+    "A34C2F90993D5B14": {
+        "[Breeze beta79c GIGABASH 1.0.2 TID: 010067301335A000 BID: A34C2F90993D5B14]": "[Breeze beta79c GIGABASH 1.0.2 TID: 010067301335A000 BID: A34C2F90993D5B14]\n\n",
+        "{Master code}": "{Master code}\n04000000 05A94B20 B9404001\n04000000 05A94B24 340000A1 \n04000000 05A94B28 BD56F800 \n04000000 05A94B34 14000002 \n04000000 05A94B38 1E213800 \n04000000 05A94B3C 16FBF165 \n04000000 05A94B40 B9404001 \n04000000 05A94B44 34000061 \n04000000 05A94B48 BD56FC00 \n04000000 05A94B4C 14000002 \n04000000 05A94B50 1E212800 \n04000000 05A94B54 16FC62D2 \n04000000 05A94B58 B9404001 \n04000000 05A94B5C 34000061 \n04000000 05A94B60 BD56FC00 \n04000000 05A94B64 14000002 \n04000000 05A94B68 1E213800 \n04000000 05A94B6C 16FC5A18\n\n",
+        "[Player has unlimited blood (need to be punched first)]": "[Player has unlimited blood (need to be punched first)]\n04000000 019910CC 15040E95\n04000000 05A94B2C D503201F\n04000000 05A94B30 D503201F\n\n",
+        "[Player has unlimited blood + damage is high (need to be punched first)]": "[Player has unlimited blood + damage is high (need to be punched first)]\n04000000 019910CC 15040E95\n04000000 05A94B2C BD173000 \n04000000 05A94B30 BD173400\n\n",
+        "[Player accumulates Giga Energy quickly and unlimited]": "[Player accumulates Giga Energy quickly and unlimited]\n04000000 019AD698 15039D2A\n\n",
+        "[Maximize Giga Energy after transforming to S-Class.]": "[Maximize Giga Energy after transforming to S-Class.]\n04000000 019AB3C8 1503A5E4\n\n",
+        "[Restore Code]": "[Restore Code]\n04000000 019910CC 1E213800\n04000000 019AD698 1E212800 \n04000000 019AB3C8 1E213800\n\n",
+        "[Original Code by herowang]": "[Original Code by herowang]\n20000000\n\n"
+    }
+}

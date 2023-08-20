@@ -1,0 +1,11 @@
+{
+    "41650C1E9023A44B": {
+        "[Breeze beta79c The Hong Kong Massacre 1.0.2 TID: 0100EA9016A3C000 BID: 41650C1E9023A44B]": "[Breeze beta79c The Hong Kong Massacre 1.0.2 TID: 0100EA9016A3C000 BID: 41650C1E9023A44B]\n\n",
+        "[Restore Code]": "[Restore Code]\n04000000 006E3CC0 51000508 \n04000000 003BD838 1E212000 \n04000000 003BD83C 54FFEA2D \n04000000 0048D4A0 4B130129 \n04000000 003BD08C 1E202900 \n04000000 003BD60C 1E202900 \n04000000 003BD0C0 1E202900 \n04000000 006E5A38 11000508\n\n",
+        "[Infinite ammo]": "[Infinite ammo]\n04000000 006E3CC0 D503201F\n\n",
+        "[Unlimited slow motion power]": "[Unlimited slow motion power]\n04000000 003BD838 D503201F \n04000000 003BD83C D503201F\n\n",
+        "[Stars keep 99]": "[Stars keep 99]\n04000000 0048D4A0 52800C69\n\n",
+        "[1 second killer (clearance score)]": "[1 second killer (clearance score)]\n04000000 003BD08C 1E2E1000 \n04000000 003BD60C 1E2703E0 \n04000000 003BD0C0 1E2E1000 \n04000000 006E5A38 52800008\n\n",
+        "[Original Code by herowang]": "[Original Code by herowang]\n20000000\n\n"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "8061F16D8D8FCB47": {
+        "[Breeze beta79c Old Coin Pusher Friends 1.1.8 TID: 010061F01734C000 BID: 8061F16D8D8FCB47]": "[Breeze beta79c Old Coin Pusher Friends 1.1.8 TID: 010061F01734C000 BID: 8061F16D8D8FCB47]\n\n",
+        "[L key to restore copper coin calculation]": "[L key to restore copper coin calculation]\n80000040 \n04000000 019202EC A905A969 \n20000000\n\n",
+        "[R key Get 9,999,999 copper coin after changed]": "[R key Get 9,999,999 copper coin after changed]\n80000080 \n04000000 019202EC 14512BCF \n04000000 02D6B228 5292CFE1 \n04000000 02D6B22C 72A01301 \n04000000 02D6B230 52800002 \n04000000 02D6B234 72800002 \n04000000 02D6B238 290B0961 \n04000000 02D6B23C 17AED42D \n20000000\n\n",
+        "[ZL key to restore copper coin calculation (challenge mode)]": "[ZL key to restore copper coin calculation (challenge mode)]\n80000100 \n04000000 018A25A0 A900266A \n20000000\n\n",
+        "[ZR key Get 9,999,999 copper coin after changed (challenge mode)]": "[ZR key Get 9,999,999 copper coin after changed (challenge mode)]\n80000200 \n04000000 018A25A0 14532328 \n04000000 02D6B240 5292CFE1 \n04000000 02D6B244 72A01301 \n04000000 02D6B248 52800002 \n04000000 02D6B24C 72800002 \n04000000 02D6B250 29000A61 \n04000000 02D6B254 17ACDCD4 \n20000000\n\n"
+    }
+}

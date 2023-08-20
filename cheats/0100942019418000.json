@@ -1,0 +1,14 @@
+{
+    "CCC8A98FD8EC5F3C": {
+        "[Breeze beta79c BUCCANYAR 1.03 TID: 0100942019418000 BID: CCC8A98FD8EC5F3C]": "[Breeze beta79c BUCCANYAR 1.03 TID: 0100942019418000 BID: CCC8A98FD8EC5F3C]\n\n",
+        "[Restore code]": "[Restore code]\n04000000 007922C8 1E349001 \n04000000 007922CC 1E212800 \n04000000 008F2414 4B0A016A \n04000000 00791E8C 1E203820 \n04000000 0076AD00 1E222821 \n04000000 00447928 4B130108 \n04000000 00450954 4B130108 \n04000000 004395B8 0B080128\n\n",
+        "[1.Boost No Cooling Time]": "[1.Boost No Cooling Time]\n04000000 007922C8 1E2703E1 \n04000000 007922CC 1E212820\n\n",
+        "[2.Ether fast buildup maxed out]": "[2.Ether fast buildup maxed out]\n04000000 0076AD00 1F020421\n\n",
+        "[3.Ether Consumption Increases (backup,Code 2 is enough)]": "[3.Ether Consumption Increases (backup,Code 2 is enough)]\n04000000 00791E8C 1E202820\n\n",
+        "[4.The more you spend, the more money you get at the store.]": "[4.The more you spend, the more money you get at the store.]\n04000000 008F2414 0B0A016A\n\n",
+        "[5.When using items or sell them at the store, the number of it increases by 90.]": "[5.When using items or sell them at the store, the number of it increases by 90.]\n04000000 00447928 11016908 \n04000000 00450954 11016908\n\n",
+        "[6.When using items, your ability value will increase by 100.]": "[6.When using items, your ability value will increase by 100.]\n04000000 004395B8 11019128\n\n",
+        "[7.When using items, your ability value will increase by 1000.]": "[7.When using items, your ability value will increase by 1000.]\n04000000 004395B8 110F9D28\n\n",
+        "[Original Code by herowang]": "[Original Code by herowang]\n20000000\n\n"
+    }
+}

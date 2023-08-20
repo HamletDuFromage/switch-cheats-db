@@ -1,0 +1,16 @@
+{
+    "1E08FA9F2D645EF7": {
+        "[Breeze beta79c Nova Lands 1.0.18 TID: 01004AA01A6BA000 BID: 1E08FA9F2D645EF7]": "[Breeze beta79c Nova Lands 1.0.18 TID: 01004AA01A6BA000 BID: 1E08FA9F2D645EF7]\n\n",
+        "[1.Change the number of materials to 96 when you get them.]": "[1.Change the number of materials to 96 when you get them.]\n04000000 0268F3AC 52800C08\n\n",
+        "[1(Restore)]": "[1(Restore)]\n04000000 0268F3AC 0B0A0108\n\n",
+        "[2.ZR+A button Keep 96 materials on your body when storing them.]": "[2.ZR+A button Keep 96 materials on your body when storing them.]\n04000000 0268E6E4 52800C08\n\n",
+        "[2(Restore)]": "[2(Restore)]\n04000000 0268E6E4 6B160108\n\n",
+        "[3.Bullet energy does not decrease.]": "[3.Bullet energy does not decrease.]\n04000000 022FC444 1E212800\n\n",
+        "[3(Restore)]": "[3(Restore)]\n04000000 022FC444 1E213800\n\n",
+        "[4.Oxygen does not decrease.]": "[4.Oxygen does not decrease.]\n04000000 0285B7A4 1E3F2800\n\n",
+        "[4(Restore)]": "[4(Restore)]\n04000000 0285B7A4 1E293800\n\n",
+        "[5.Shield energy does not decrease.]": "[5.Shield energy does not decrease.]\n04000000 028475A0 D503201F\n\n",
+        "[5(Restore)]": "[5(Restore)]\n04000000 028475A0 1E2C3821\n\n",
+        "[Original Code by herowang]": "[Original Code by herowang]\n20000000\n\n"
+    }
+}
