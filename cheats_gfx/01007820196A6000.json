@@ -1,0 +1,9 @@
+{
+    "90D38D285A365D9E": {
+        "[FXAA ON (default)]": "[FXAA ON (default)]\n580F0000 4F1882D0\n780F0000 000003E0\n640F0000 00000000 00000001\n\n",
+        "[FXAA OFF]": "[FXAA OFF]\n580F0000 4F1882D0\n780F0000 000003E0\n640F0000 00000000 00000000\n\n"
+    },
+    "attribution": {
+        "Red Dead Redemption.txt": "FXAA cheat by MasaGratoR"
+    }
+}

@@ -9,6 +9,11 @@
         "[Horse Speed 4X]": "[Horse Speed 4X]\n400B0000 00000000 0082B7B0\n640F01B0 00000000 944CA684\n04000000 01B92990 00000004\n\n",
         "[Horse Speed 5X]": "[Horse Speed 5X]\n400B0000 00000000 0082B7B0\n640F01B0 00000000 944CA684\n04000000 01B92990 00000005\n\n",
         "[Horse Inf.Stamina]": "[Horse Inf.Stamina]\n400B0000 00000000 00823608\n640F01B0 00000000 1E21AC20\n\n",
-        "[Inf. Dead Eye]": "[Inf. Dead Eye]\n400B0000 00000000 014C6D2C\n640F01B0 00000000 1E2703E0\n\n"
+        "[Inf. Dead Eye]": "[Inf. Dead Eye]\n400B0000 00000000 014C6D2C\n640F01B0 00000000 1E2703E0\n\n",
+        "[FXAA ON (default)]": "[FXAA ON (default)]\n580F0000 4F1882D0\n780F0000 000003E0\n640F0000 00000000 00000001\n\n",
+        "[FXAA OFF]": "[FXAA OFF]\n580F0000 4F1882D0\n780F0000 000003E0\n640F0000 00000000 00000000\n\n"
+    },
+    "attribution": {
+        "Red Dead Redemption.txt": "FXAA cheat by MasaGratoR"
     }
 }
