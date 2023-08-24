@@ -257,6 +257,7 @@
         "title": "The Minesweeper: Crew Bomber Expedition"
     },
     "010000B0196AA000": {
+        "0": "7C92F8E3A1F1445B",
         "65536": "E49919B2F71380F9",
         "latest": 65536
     },
@@ -1491,8 +1492,9 @@
         "0": "7E589AA1C8D3254B",
         "131072": "D99D7CE3E5E69A49",
         "196608": "8883251DD9DA431B",
+        "262144": "27BCBBD8BFC3D804",
         "65536": "D8E240C7BCD62F0C",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Forklift Extreme"
     },
     "0100046017F15000": {
@@ -1811,8 +1813,9 @@
         "262144": "3675F9FB38C105F6",
         "327680": "33F55630070EF1D3",
         "393216": "77D138350E6EE360",
+        "458752": "50A214676E488280",
         "65536": "0E05D322601B82E5",
-        "latest": 393216,
+        "latest": 458752,
         "title": "Sail Forth"
     },
     "010005500E81E000": {
@@ -2759,6 +2762,11 @@
         "latest": 131072,
         "title": "The Wreck"
     },
+    "010008501AC06000": {
+        "0": "986AFF45AD900C0E",
+        "latest": 0,
+        "title": "Curse Crackers: For Whom the Belle Toils"
+    },
     "0100086005EDC000": {
         "latest": 0
     },
@@ -3108,6 +3116,10 @@
         "65536": "E296E8D2561CD489",
         "latest": 65536
     },
+    "010009701C5A2000": {
+        "0": "101ACE8831EB1007",
+        "latest": 0
+    },
     "010009800203E000": {
         "0": "F92DCFC79E37DD03",
         "327680": "DEEE18D307C81634",
@@ -3156,8 +3168,9 @@
     },
     "0100099016862000": {
         "0": "0F0ABE8ECB81DE62",
+        "131072": "F429FDD3956D6A3B",
         "65536": "0B15769CFA6E66FC",
-        "latest": 65536,
+        "latest": 131072,
         "title": "World Quiz"
     },
     "010009A019548000": {
@@ -4443,6 +4456,11 @@
         "latest": 0,
         "title": "Tanky Tanks"
     },
+    "01000D401B770000": {
+        "0": "6ED5AD7637DF2D7A",
+        "latest": 0,
+        "title": "Alice Escaped!"
+    },
     "01000D5005974000": {
         "0": "E231ED9217E2AB13",
         "196608": "EC92ED6BBB75594B",
@@ -5283,6 +5301,7 @@
         "latest": 65536
     },
     "01000FA01AB30000": {
+        "0": "75D99A086F6157E2",
         "65536": "E4CF5F56962AC19C",
         "latest": 65536,
         "title": "Stray Gods: The Roleplaying Musical"
@@ -5484,8 +5503,9 @@
     },
     "010010401BC1A000": {
         "0": "9BBA06CFCE842B8D",
+        "131072": "C000BB9784296978",
         "65536": "5D072C126CE0DBA1",
-        "latest": 65536
+        "latest": 131072
     },
     "010010500390C000": {
         "0": "7F8E91FC6B0DC775",
@@ -6432,6 +6452,7 @@
         "title": "Skate City"
     },
     "010013401ABDC000": {
+        "0": "10021757A796B651",
         "131072": "33D68DAB202ADC27",
         "65536": "1600E2A752AB47CA",
         "latest": 131072,
@@ -7264,6 +7285,7 @@
         "title": "NOSTALGIC TRAIN"
     },
     "0100160017A80000": {
+        "0": "126AAC192A307430",
         "65536": "DEC5D11E42FCEB97",
         "latest": 65536,
         "title": "Hello Engineer"
@@ -7337,6 +7359,11 @@
         "0": "95FAAACCC6DF5B4B",
         "latest": 0,
         "title": "Unlock the cat"
+    },
+    "010016301C02A000": {
+        "0": "0660A3F66832B506",
+        "latest": 0,
+        "title": "Funny Jokes"
     },
     "010016400B1FE000": {
         "0": "E4F98194C2915840",
@@ -8058,6 +8085,11 @@
         "latest": 65536,
         "title": "Tormentor-Action Fire Counter Shooter Game 2023 Gun Strike Simulator"
     },
+    "010018801C5B2000": {
+        "0": "4F2C89A5978930F5",
+        "latest": 0,
+        "title": "Aery - Flow of Time"
+    },
     "010018900C776000": {
         "0": "F6BAA417691F0E44",
         "latest": 0
@@ -8451,6 +8483,10 @@
         "65536": "3C096F732738D243",
         "latest": 196608,
         "title": "Haunted Zombie School"
+    },
+    "010019801C616000": {
+        "0": "49A1F12B528674C1",
+        "latest": 0
     },
     "0100199012ACC000": {
         "65536": "6EF25DFD3AC0C7EC",
@@ -9418,6 +9454,11 @@
     "01001C00179E8000": {
         "0": "A99AD5B97133C9A2",
         "latest": 0
+    },
+    "01001C001AB1A000": {
+        "0": "2136DCEA52184D42",
+        "latest": 0,
+        "title": "Embraced By Autumn"
     },
     "01001C1009892000": {
         "0": "2C2372626E9E3241",
@@ -11108,6 +11149,11 @@
         "latest": 0,
         "title": "LumbearJack"
     },
+    "010020C01A704000": {
+        "0": "A24AA0EFAA794530",
+        "latest": 0,
+        "title": "Wildagotchi: Virtual Pet"
+    },
     "010020D01A2BC000": {
         "0": "63892B74ABD1E8BA",
         "latest": 0,
@@ -11937,6 +11983,11 @@
         "latest": 196608,
         "title": "Mary Kay Andrews: The Fixer Upper"
     },
+    "010023201B184000": {
+        "0": "39AB5AB0239114B0",
+        "latest": 0,
+        "title": "Creepy Tale: Ingrid Penance"
+    },
     "010023300B0F0000": {
         "0": "16A13FFB3BCE9D49",
         "latest": 0,
@@ -11989,6 +12040,11 @@
         "131072": "D406AD25B46281EA",
         "65536": "A15314AC18EEF7C5",
         "latest": 131072
+    },
+    "01002350196EA000": {
+        "0": "6064A722673D68EF",
+        "latest": 0,
+        "title": "SHINOBI NON GRATA"
     },
     "010023600AA34000": {
         "0": "E895E09FE4E84374",
@@ -12884,6 +12940,10 @@
         "title": "Potion Permit"
     },
     "010025F0126FF000": {
+        "latest": 0
+    },
+    "010025F01C376000": {
+        "0": "0D672C1CE4F076A1",
         "latest": 0
     },
     "010026000E466000": {
@@ -14000,6 +14060,11 @@
         "latest": 65536,
         "title": "The Walking Dead: The Complete First Season"
     },
+    "010029201C76A000": {
+        "0": "C9620CB744B7C7E2",
+        "latest": 0,
+        "title": "Stack Ball Run!"
+    },
     "010029300E5C4000": {
         "0": "833A45FEEEC20541",
         "131072": "8D8D6EB98E25614F",
@@ -14009,6 +14074,11 @@
         "393216": "B115EDF28DEE2C46",
         "latest": 393216,
         "title": "The Stanley Parable: Ultra Deluxe"
+    },
+    "010029301157E000": {
+        "0": "0ED37C9A5A496F46",
+        "latest": 0,
+        "title": "Sonar Beat"
     },
     "010029301250E000": {
         "0": "D3A0CF008C760545",
@@ -17053,6 +17123,7 @@
         "latest": 0
     },
     "0100317014B7C000": {
+        "0": "AAB69C9F194A85D0",
         "65536": "4F3A19BB05A452F4",
         "latest": 65536,
         "title": "Bomb Rush Cyberfunk"
@@ -17074,6 +17145,11 @@
     "0100319015E72000": {
         "65536": "8B61BA304C07B344",
         "latest": 65536
+    },
+    "010031901C19E000": {
+        "0": "91E53194AD2C4146",
+        "latest": 0,
+        "title": "LiartaniumOS - Operating System"
     },
     "010031A00BC9E000": {
         "0": "F9C65EB34FC36B4D",
@@ -17341,6 +17417,11 @@
         "65536": "B0CE5CCDFF637507",
         "latest": 65536
     },
+    "010032401AF0E000": {
+        "0": "73EC92E88E74D637",
+        "latest": 0,
+        "title": "Prison Life Simulator Jail - Gangster Escape Games Scary Architect Battle"
+    },
     "0100325012C12000": {
         "0": "DEF331A100554443",
         "latest": 0,
@@ -17451,6 +17532,11 @@
         "0": "4D07E9AD36E6BF4C",
         "latest": 0,
         "title": "Freddy Spaghetti 2"
+    },
+    "010032901C65A000": {
+        "0": "1D1DEC7EA08971B7",
+        "latest": 0,
+        "title": "Lost Forest"
     },
     "010032A008754000": {
         "0": "7846D5AEFAD37049",
@@ -22404,6 +22490,7 @@
         "latest": 65536
     },
     "010040801A4C8000": {
+        "0": "20D390BEBD05C190",
         "131072": "EE30EF16986B7DBE",
         "65536": "43CB326549DBFB11",
         "latest": 131072,
@@ -22465,6 +22552,9 @@
         "65536": "C9A028A285951691",
         "latest": 262144,
         "title": "The Smurfs - Mission Vileaf"
+    },
+    "010040A01407F000": {
+        "latest": 65536
     },
     "010040A014F54000": {
         "0": "14FB7E2D8BC8B448",
@@ -24085,6 +24175,10 @@
         "0": "EDFBECDBA5FDAB9E",
         "latest": 0
     },
+    "010044C01C5C6000": {
+        "0": "101ACE8831EB1007",
+        "latest": 0
+    },
     "010044D00A770000": {
         "0": "0EB313A28A3AE344",
         "latest": 0,
@@ -24477,6 +24571,10 @@
         "0": "B3E3A608C3C3B585",
         "latest": 0,
         "title": "Santa\u00b4s Monster Shootout"
+    },
+    "010045B01C524000": {
+        "0": "320C0FC1C0FAF69F",
+        "latest": 0
     },
     "010045C00E27C000": {
         "0": "10940DC9A9C1DA47",
@@ -27474,6 +27572,11 @@
         "65536": "694EFB9F1E3C0069",
         "latest": 65536,
         "title": "Elasto Mania Remastered"
+    },
+    "01004DF01BCCC000": {
+        "0": "3709CD95E50D37D8",
+        "latest": 0,
+        "title": "Pipe Dream"
     },
     "01004E000ADBE000": {
         "0": "703A54B5B199BB4F",
@@ -35655,6 +35758,9 @@
         "latest": 131072,
         "title": "Moving Out 2"
     },
+    "010065D018173000": {
+        "latest": 0
+    },
     "010065D01A5E0000": {
         "0": "AD0A927183491AED",
         "131072": "AA04622958E8330E",
@@ -36940,6 +37046,9 @@
     },
     "010069801A7B6000": {
         "0": "D6BE91003830F17D",
+        "latest": 0
+    },
+    "010069801BC8F000": {
         "latest": 0
     },
     "0100699008792000": {
@@ -40859,6 +40968,9 @@
         "0": "637D29AE5A83D4DE",
         "65536": "695F57EC23FD57A0",
         "latest": 65536
+    },
+    "010074401B813000": {
+        "latest": 0
     },
     "010074500699A000": {
         "0": "C0EDAB67F04DBB48",
@@ -48180,6 +48292,9 @@
         "65536": "FC88C1E78D4A4E9F",
         "latest": 131072,
         "title": "Vampire Survivors"
+    },
+    "010089A0197E5000": {
+        "latest": 65536
     },
     "010089A01A3C8000": {
         "0": "B4A9F36B3AFF1C03",
@@ -62512,6 +62627,9 @@
         "latest": 0,
         "title": "Viki Spotter: Shopping"
     },
+    "0100B1D01BE7B000": {
+        "latest": 0
+    },
     "0100B1E0022F8000": {
         "0": "50863F0E459E39C6",
         "65536": "0F3B1EC3E3BF0614",
@@ -68004,6 +68122,9 @@
         "65536": "5D1CE19BD77EC31F",
         "latest": 65536,
         "title": "Marble It Up! Ultra"
+    },
+    "0100C18016897000": {
+        "latest": 0
     },
     "0100C19013ECC000": {
         "0": "4922415AB1FCCA41",
@@ -83302,6 +83423,9 @@
         "latest": 393216,
         "title": "Glitch Busters: Stuck On You"
     },
+    "0100EC40181AD000": {
+        "latest": 0
+    },
     "0100EC401914E000": {
         "0": "E429E6BEC4112CEA",
         "131072": "8D1A72E05CB80B10",
@@ -88334,6 +88458,9 @@
         "latest": 0,
         "title": "Risk your life to get your dinner back -Nyanzou action game-"
     },
+    "0100FA601A58D000": {
+        "latest": 0
+    },
     "0100FA7017CA6000": {
         "0": "90DAE9774C46BF3E",
         "latest": 0
@@ -89731,6 +89858,9 @@
         "0": "E2819454724E7146",
         "65536": "F2B2AD588D9AAE49",
         "latest": 65536
+    },
+    "0100FF1011871000": {
+        "latest": 0
     },
     "0100FF1012C1C000": {
         "0": "AF2AF618C7CF574D",
