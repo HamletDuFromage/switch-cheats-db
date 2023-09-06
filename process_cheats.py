@@ -65,27 +65,28 @@ class ProcessCheats:
     def createJson(self, tid):
         out = OrderedDict()
         cheats_dir = self.getCheatsPath(tid)
-        try:
-            for sheet in cheats_dir.iterdir():
-                if self.isHexAnd16Char(sheet.stem):
-                    out[sheet.stem.upper()] = self.constructBidDict(sheet)
-        except FileNotFoundError:
-            print(f"error: FileNotFoundError {folder_path}")
-        attribution = self.getAttribution(tid)
-        if attribution:
-            out = self.update_dict(out, {"attribution": attribution})
+        if cheats_dir:
+            try:
+                for sheet in cheats_dir.iterdir():
+                    if self.isHexAnd16Char(sheet.stem):
+                        out[sheet.stem.upper()] = self.constructBidDict(sheet)
+            except FileNotFoundError:
+                print(f"error: FileNotFoundError {folder_path}")
+            attribution = self.getAttribution(tid)
+            if attribution:
+                out = self.update_dict(out, {"attribution": attribution})
 
-        cheats_file = self.out_path.joinpath(f"{tid.name.upper()}.json")
-        try:
-            with open(cheats_file, 'r') as json_file:
-                out = self.update_dict(out, json.load(json_file))
-        except FileNotFoundError:
-            pass
+            cheats_file = self.out_path.joinpath(f"{tid.name.upper()}.json")
+            try:
+                with open(cheats_file, 'r') as json_file:
+                    out = self.update_dict(out, json.load(json_file))
+            except FileNotFoundError:
+                pass
 
-        out = OrderedDict(sorted(out.items()))
+            out = OrderedDict(sorted(out.items()))
 
-        with open(cheats_file, 'w') as json_file:
-            json.dump(out, json_file, indent=4)
+            with open(cheats_file, 'w') as json_file:
+                json.dump(out, json_file, indent=4)
 
     def parseCheats(self):
         subprocess.call(['bash', '-c', f"chmod -R +rw {self.in_path}"])
