@@ -3,6 +3,10 @@
         "[FXAA ON (default)]": "[FXAA ON (default)]\n580F0000 4F1882D0\n780F0000 000003E0\n640F0000 00000000 00000001\n\n",
         "[FXAA OFF]": "[FXAA OFF]\n580F0000 4F1882D0\n780F0000 000003E0\n640F0000 00000000 00000000\n\n"
     },
+    "F68A7D87ABAC6AAC": {
+        "[FXAA ON (default)]": "[FXAA ON (default)]\n580F0000 4DA8DCB0\n780F0000 000003E0\n640F0000 00000000 00000001\n\n",
+        "[FXAA OFF]": "[FXAA OFF]\n580F0000 4DA8DCB0\n780F0000 000003E0\n640F0000 00000000 00000000\n\n"
+    },
     "attribution": {
         "Red Dead Redemption.txt": "FXAA cheat by MasaGratoR"
     }
