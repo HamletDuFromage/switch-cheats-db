@@ -521,7 +521,7 @@
     "0100016011A1A000": {
         "0": "C7A0BF1928E42B48",
         "latest": 0,
-        "title": "Ship Sim 2020"
+        "title": "Ship Simulator"
     },
     "01000160127EC000": {
         "0": "B88495EBF417D04C",
@@ -795,8 +795,9 @@
     },
     "010002401AE94000": {
         "0": "9EDC9E372163C318",
+        "131072": "89CA3A7E7E01A908",
         "65536": "3F1CAA9EFF227D42",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Tiny Thor"
     },
     "010002501378C000": {
@@ -3094,8 +3095,9 @@
     },
     "010009501A22E000": {
         "0": "4CB5829EE9E2BB83",
+        "131072": "9847C8887912A430",
         "65536": "B0120E2DDF6C4AA3",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Belle Boomerang"
     },
     "010009501AB94000": {
@@ -5512,7 +5514,8 @@
     },
     "0100102019824000": {
         "0": "BB4DBE06CD18D964",
-        "latest": 0,
+        "65536": "ADFB3E185122FFF1",
+        "latest": 65536,
         "title": "Touhou: New World"
     },
     "0100103011894000": {
@@ -5582,6 +5585,10 @@
         "0": "AB6B3B7DF22AC00F",
         "latest": 0,
         "title": "Scramballed!"
+    },
+    "010010601983A000": {
+        "65536": "DC3BCE1F806B149F",
+        "latest": 65536
     },
     "010010701796A000": {
         "0": "A5F452510BB8949C",
@@ -6640,7 +6647,7 @@
         "131072": "D8342837A211FB67",
         "196608": "9F4689B14BCF8D25",
         "latest": 196608,
-        "title": "Everybody's Home Run Derby"
+        "title": "Everybody's Home Run Rush"
     },
     "010013C010C5C000": {
         "0": "1D054498CF18F143",
@@ -14233,7 +14240,7 @@
         "786432": "1A05A6090075C60C",
         "851968": "FC06536466700264",
         "latest": 851968,
-        "title": "Clue: The Classic Mystery Game"
+        "title": "Clue: Classic Edition"
     },
     "010029400CA21000": {
         "latest": 0
@@ -17993,8 +18000,9 @@
         "title": "orbit.industries"
     },
     "010033301A9C0000": {
+        "131072": "C978A4FA48269C03",
         "65536": "9246DEA206B61B0F",
-        "latest": 65536,
+        "latest": 131072,
         "title": "METAL GEAR SOLID"
     },
     "0100334011C6C000": {
@@ -19159,7 +19167,7 @@
         "131072": "963526FE37CA1952",
         "65536": "8A008CD6D30414E9",
         "latest": 131072,
-        "title": "Golf Club Wasteland"
+        "title": "Golf Club Nostalgia"
     },
     "010036B0034E4000": {
         "0": "9F13B69757666412",
@@ -22760,6 +22768,11 @@
         "latest": 0,
         "title": "Arcade Archives ORDYNE"
     },
+    "010040901B5C8000": {
+        "0": "DE4E26446E774690",
+        "latest": 0,
+        "title": "All That Remains: Part 1"
+    },
     "010040A0065D2000": {
         "0": "05E1EE496F488D4E",
         "131072": "50C03BBD72D4674D",
@@ -25584,7 +25597,8 @@
     },
     "010047F01AA10000": {
         "131072": "1BC964DDE1DBA44C",
-        "latest": 131072,
+        "196608": "1BC964DDE1DBA44C",
+        "latest": 196608,
         "title": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version"
     },
     "010047F01AE26000": {
@@ -30670,7 +30684,8 @@
     },
     "010056901AA16000": {
         "131072": "416982FB13D50D35",
-        "latest": 131072,
+        "196608": "416982FB13D50D35",
+        "latest": 196608,
         "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.1 BONUS CONTENT"
     },
     "010056A00EC78000": {
@@ -35375,6 +35390,10 @@
         "0": "567FEEE2E0F5AA03",
         "latest": 0
     },
+    "01006370187F2000": {
+        "65536": "022241CB3B054E83",
+        "latest": 65536
+    },
     "010063800FCDC000": {
         "0": "C4A01CCAA834044D",
         "latest": 0
@@ -39077,7 +39096,7 @@
         "0": "2395748E5610FFA3",
         "65536": "EAAB46ED1E4989C0",
         "latest": 65536,
-        "title": "Backbone"
+        "title": "Tails Noir"
     },
     "01006DD00CC96000": {
         "0": "2BE69911AC4B8542",
@@ -41669,7 +41688,7 @@
         "0": "90E451C153182041",
         "65536": "D51A515B94668143",
         "latest": 65536,
-        "title": "Real Driving Sim"
+        "title": "Real Driving Simulator"
     },
     "0100749009844000": {
         "0": "6CB0E6850D9FBA3C",
@@ -44483,8 +44502,9 @@
     "01007C7018F8C000": {
         "0": "47756C735E6C439C",
         "196608": "32C2E3969570B647",
+        "262144": "72FF7D1E6CD16C2D",
         "65536": "D2AE0572A02F77B1",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Die After Sunset"
     },
     "01007C8007376000": {
@@ -45630,8 +45650,9 @@
         "196608": "E65E0C5A9D7D9043",
         "262144": "DF6D5448863E6141",
         "327680": "C83CB1ECDCD95D46",
+        "393216": "D0A26745E20F1246",
         "65536": "2524A2E980192643",
-        "latest": 327680
+        "latest": 393216
     },
     "01007FE016940000": {
         "131072": "287BD5E5D7180B63",
@@ -46983,7 +47004,8 @@
     },
     "010083801AA14000": {
         "131072": "90A99E7959EE9300",
-        "latest": 131072,
+        "196608": "90A99E7959EE9300",
+        "latest": 196608,
         "title": "Metal Gear & Metal Gear 2: Solid Snake"
     },
     "0100839010DD6000": {
@@ -50537,7 +50559,8 @@
         "0": "534C5C73B47BAF7F",
         "131072": "534C5C73B47BAF7F",
         "196608": "64B1B6AEB492D2A6",
-        "latest": 196608,
+        "262144": "64B1B6AEB492D2A6",
+        "latest": 262144,
         "title": "Gravity Circuit"
     },
     "01008DA00CBBA000": {
@@ -58796,8 +58819,9 @@
         "title": "Host 714"
     },
     "0100A4301AA0C000": {
+        "131072": "68B30C6774AE4B6B",
         "65536": "68B30C6774AE4B6B",
-        "latest": 65536,
+        "latest": 131072,
         "title": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version"
     },
     "0100A4400BE74000": {
@@ -59012,8 +59036,9 @@
     },
     "0100A4D019BA0000": {
         "0": "C8F2CE9D5C29B436",
+        "131072": "E7A2FD9B3222A488",
         "65536": "6B63E697F39E0CB7",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Crime Secrets: Crimson Lily"
     },
     "0100A4D019CCA000": {
@@ -59556,8 +59581,9 @@
         "title": "Harmony: The Fall of Reverie"
     },
     "0100A6501BFCA000": {
+        "131072": "2271CD3DA21D1483",
         "65536": "22E0DA1A6849CEB4",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Enraged Red Ogre"
     },
     "0100A66003384000": {
@@ -63872,6 +63898,7 @@
     },
     "0100B27008170000": {
         "0": "C1428EA9AE909A40",
+        "1179648": "51616ABC790238F9",
         "327680": "67AF1A45293C2948",
         "458752": "DCFEA5415B3A064D",
         "524288": "7373978542F5CA4F",
@@ -63880,7 +63907,7 @@
         "786432": "1E4A83589F7D104B",
         "851968": "920CE39B0CC1D140",
         "983040": "6ED1742426476041",
-        "latest": 983040
+        "latest": 1179648
     },
     "0100B2700E90E000": {
         "0": "98BE3533360F5645",
@@ -64907,7 +64934,7 @@
         "0": "FE87BEB149F96C45",
         "65536": "FE87BEB149F96C45",
         "latest": 65536,
-        "title": "Drag Sim 2020"
+        "title": "Car Drag Racing Simulator"
     },
     "0100B5901230C000": {
         "0": "2531AAECCD578B27",
@@ -64962,7 +64989,7 @@
         "196608": "899F2667168F4246",
         "65536": "B66C3D156202294B",
         "latest": 196608,
-        "title": "Marble It Up!"
+        "title": "Marble It Up! Classic"
     },
     "0100B5B00E77C000": {
         "0": "693754273B6FDE49",
@@ -65940,8 +65967,9 @@
         "title": "Farm for your Life"
     },
     "0100B87017D94000": {
+        "131072": "579CE7DD110A448B",
         "65536": "165CE66FCA4956F8",
-        "latest": 65536,
+        "latest": 131072,
         "title": "SUPER BOMBERMAN R 2"
     },
     "0100B8800F858000": {
@@ -66096,7 +66124,7 @@
         "0": "72172FFA608DCF4E",
         "65536": "72172FFA608DCF4E",
         "latest": 65536,
-        "title": "Flight Sim 2019"
+        "title": "Airplane Flight Simulator"
     },
     "0100B9001B874000": {
         "0": "A4B740E9D47C86D8",
@@ -66862,7 +66890,8 @@
     },
     "0100BB20152BA000": {
         "0": "47015B42D2435E86",
-        "latest": 0,
+        "65536": "03DC50100BB8492E",
+        "latest": 65536,
         "title": "Enigmatis: The Ghosts of Maple Creek"
     },
     "0100BB2015FCA000": {
@@ -73478,7 +73507,7 @@
         "0": "872997D89D26A54C",
         "65536": "4759D8ED44C95541",
         "latest": 65536,
-        "title": "Taxi Sim 2020"
+        "title": "Taxi Simulator"
     },
     "0100CD4012DCA000": {
         "0": "F90A13A87CA13206",
@@ -76602,6 +76631,7 @@
         "title": "Wanna Survive"
     },
     "0100D67017098000": {
+        "0": "70E96D3B4F86DC92",
         "131072": "7F668B853E902B40",
         "latest": 131072,
         "title": "You Suck at Parking"
@@ -77000,8 +77030,9 @@
     },
     "0100D74019A0E000": {
         "0": "7FC49585F7145146",
+        "196608": "4BEBA4902A75CAC0",
         "65536": "CD1F9EF7C108F5AE",
-        "latest": 65536,
+        "latest": 196608,
         "title": "AKIBA'S TRIP: Undead & Undressed Director's Cut"
     },
     "0100D74019A0F000": {
@@ -77347,6 +77378,11 @@
         "0": "9120C972312E8A43",
         "latest": 0,
         "title": "Legend of Arcadieu Bundle"
+    },
+    "0100D8301ACAC000": {
+        "131072": "F2D55B2F540A4915",
+        "latest": 131072,
+        "title": "Labyrinth"
     },
     "0100D84005AF6000": {
         "0": "7AE834C60789C948",
@@ -80699,7 +80735,8 @@
     },
     "0100E1D019A3A000": {
         "0": "AC1D90CA345E141B",
-        "latest": 0
+        "latest": 0,
+        "title": "Spectator"
     },
     "0100E1E00A14E000": {
         "0": "2AFF17299DC89D46",
@@ -89968,9 +90005,13 @@
     },
     "0100FAC00F716000": {
         "0": "3FA2D0A085148946",
+        "131072": "B77D895962BABA49",
         "65536": "3FA2D0A085148946",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Desktop Rugby"
+    },
+    "0100FAC00F717000": {
+        "latest": 0
     },
     "0100FAC011CEE000": {
         "0": "CEE96F2AFCC34E4F",
@@ -90281,7 +90322,8 @@
     },
     "0100FBB01B5F8000": {
         "0": "7172C26E7D91D611",
-        "latest": 0
+        "65536": "5C3FE00463B10D07",
+        "latest": 65536
     },
     "0100FBC007EAE000": {
         "0": "E88F29E25C0E4E70",
