@@ -75,6 +75,7 @@
         "title": "Dragon Caffi"
     },
     "0100001019F6E000": {
+        "0": "747421239612572F",
         "131072": "A711EF7DF00902A9",
         "latest": 131072,
         "title": "Horizon Chase 2"
@@ -1111,6 +1112,11 @@
     "01000320190E9000": {
         "latest": 0
     },
+    "010003201C12A000": {
+        "0": "434F31CD102342E2",
+        "latest": 0,
+        "title": "HexaWars"
+    },
     "010003300BA80000": {
         "65536": "392D25CAEFCC4D4D",
         "latest": 65536
@@ -1631,9 +1637,13 @@
         "title": "Dinosaurs: Types and Names"
     },
     "010004B01C3E8000": {
+        "0": "6F15B1BF4F819B98",
         "65536": "9165945EED827ACD",
         "latest": 65536,
         "title": "Isekai Rondo"
+    },
+    "010004B01C3E9000": {
+        "latest": 0
     },
     "010004C00ACE0000": {
         "latest": 0
@@ -3227,6 +3237,7 @@
         "title": "World Quiz"
     },
     "010009901CD20000": {
+        "0": "5DB451CEC840D6CB",
         "65536": "B3C0DF0C92211B54",
         "latest": 65536,
         "title": "Bright Side: Riddles and Puzzles"
@@ -3416,6 +3427,7 @@
         "title": "Catmaze"
     },
     "01000A2018E1A000": {
+        "0": "AC29A1DE79E97140",
         "131072": "87927E5B0B0FACCD",
         "196608": "348B2AD62915A15D",
         "65536": "CC2A787DE5E424A5",
@@ -3646,7 +3658,8 @@
         "196608": "85657161BC70B64B",
         "262144": "528D3012F9BBCB2D",
         "327680": "284026FC3B1B68C0",
-        "latest": 327680
+        "393216": "B29A582BD7ED8E91",
+        "latest": 393216
     },
     "01000AC00F5EC000": {
         "0": "9572CF07705F0048",
@@ -5281,6 +5294,11 @@
         "latest": 65536,
         "title": "Animal Puzzle World"
     },
+    "01000F401C7EE000": {
+        "0": "C23698028EC353D8",
+        "latest": 0,
+        "title": "Super Brawl Rush"
+    },
     "01000F5003068000": {
         "0": "6F5409C43347998D",
         "131072": "28E1FFA40745518A",
@@ -6726,6 +6744,11 @@
     "010013E013221000": {
         "latest": 0
     },
+    "010013E01A002000": {
+        "0": "57A4B2B04A1163BB",
+        "latest": 0,
+        "title": "Word Web by POWGI"
+    },
     "010013F009B88000": {
         "131072": "C497820C9A39F645",
         "65536": "4B3659B3EA017842",
@@ -7221,6 +7244,11 @@
         "latest": 0,
         "title": "Arcade Archives MEGABLAST"
     },
+    "010015901B09A000": {
+        "0": "2EA92052D7EC5FEF",
+        "latest": 0,
+        "title": "Sakura MMO Extra"
+    },
     "010015A00AF1E000": {
         "0": "5F6A4A66CB8C2E46",
         "131072": "FCE04BAA44360C4F",
@@ -7295,6 +7323,11 @@
     "010015C017776000": {
         "0": "A40B60498769FAF8",
         "latest": 0
+    },
+    "010015C01812C000": {
+        "0": "5A7AD6AF832AC5ED",
+        "latest": 0,
+        "title": "Thunder Ray"
     },
     "010015D003EE4000": {
         "0": "8C5C71309925CD97",
@@ -11010,6 +11043,11 @@
         "131072": "3AD9EB9C3232EA98",
         "65536": "200BB624EC035E3C",
         "latest": 131072
+    },
+    "010020201CD7C000": {
+        "0": "7A239DBED3466B7F",
+        "latest": 0,
+        "title": "Car Parking Simulator 2024"
     },
     "010020300C218000": {
         "0": "571A1CA8F194C944",
@@ -19056,6 +19094,15 @@
         "latest": 0,
         "title": "Battle of Kings"
     },
+    "010035E0184E2000": {
+        "0": "D2D8EFB6E5A3175B",
+        "196608": "C4748E5EB7F6E0C9",
+        "latest": 196608,
+        "title": "Gloomhaven"
+    },
+    "010035E0184E3000": {
+        "latest": 0
+    },
     "010035F0169B0000": {
         "0": "232113790820F97C",
         "latest": 0
@@ -20225,6 +20272,7 @@
         "title": "WAIFU IMPACT"
     },
     "010039400E8D6000": {
+        "0": "986CE0BB97D63CE6",
         "131072": "7D0794DC20FAF372",
         "196608": "11F23ECBDFBA7E24",
         "262144": "4FFB62F1CD9E17F8",
@@ -20552,6 +20600,7 @@
         "title": "origamihero games 2D Platformer Collection"
     },
     "010039F01AF5A000": {
+        "0": "0A9FD7BC78A1DA4A",
         "262144": "1786D7F66D9EBA45",
         "latest": 262144,
         "title": "Trombone Champ"
@@ -24878,6 +24927,11 @@
         "0": "BD042364FCF893CA",
         "196608": "9B528F4A16FF01D3",
         "latest": 196608
+    },
+    "010045801BEAA000": {
+        "0": "47054040BD752291",
+        "latest": 0,
+        "title": "Truck Drag Racing Legends Simulator"
     },
     "0100459000302000": {
         "327680": "1392C7AD9A7AAE4F",
@@ -29331,6 +29385,11 @@
         "latest": 65536,
         "title": "ISLANDERS"
     },
+    "010052201C538000": {
+        "0": "7826DBE1D8C904BE",
+        "latest": 0,
+        "title": "Moto Racer 2044 Game Simulator"
+    },
     "010052300F612000": {
         "0": "48E4ACB14352F106",
         "latest": 0
@@ -29972,6 +30031,11 @@
         "latest": 0,
         "title": "Double Shot Gals"
     },
+    "0100540018FAC000": {
+        "0": "D5042D5F44F67885",
+        "latest": 0,
+        "title": "Baby Shark\u2122: Sing & Swim Party"
+    },
     "010054101370E000": {
         "0": "4C01713C04E12AD4",
         "latest": 0,
@@ -30281,6 +30345,11 @@
         "65536": "F37893C48A493280",
         "latest": 65536,
         "title": "Fury Fight: Gangsters of City"
+    },
+    "010055001CF8C000": {
+        "0": "AA93ECD9762900F6",
+        "latest": 0,
+        "title": "River Pirates"
     },
     "0100551001D88000": {
         "0": "CCFB8481673ED84B",
@@ -31614,6 +31683,7 @@
         "title": "Dungeon Bricker"
     },
     "010058E01AC2C000": {
+        "0": "95440FFB4430CF0A",
         "65536": "5E42038882812DB8",
         "latest": 65536
     },
@@ -32022,6 +32092,11 @@
         "65536": "28287543BEBA7E6E",
         "latest": 262144,
         "title": "Monster Girls and the Mysterious Adventure 2"
+    },
+    "010059F019A42000": {
+        "0": "63BAA245140EF449",
+        "latest": 0,
+        "title": "Another Crusade"
     },
     "01005A001489A000": {
         "0": "811DD3092596F6F4",
@@ -34679,6 +34754,11 @@
         "latest": 65536,
         "title": "Dungeon Adventure"
     },
+    "010061001CD1C000": {
+        "0": "440A2059DC1141EE",
+        "latest": 0,
+        "title": "Ouija: They are Among us"
+    },
     "010061100FA8E000": {
         "0": "15FC6AB43A031F42",
         "latest": 0,
@@ -34985,6 +35065,10 @@
         "0": "B1948A769B8024D2",
         "latest": 0,
         "title": "Pixel Game Maker Series Osyaberi! Horijyo! Holin Slash"
+    },
+    "010061D015ADA000": {
+        "0": "67D1922B1301464B",
+        "latest": 0
     },
     "010061D0167FA000": {
         "0": "D6728D466ECE4D89",
@@ -36301,10 +36385,14 @@
         "latest": 0
     },
     "01006560184E6000": {
+        "0": "08E8842919224D63",
         "196608": "A446D1E967710943",
         "65536": "0AA2C55458B67809",
         "latest": 196608,
         "title": "Mortal Kombat\u2122 1"
+    },
+    "01006560184E7000": {
+        "latest": 0
     },
     "010065601AD7A000": {
         "0": "D4599F428DD717D7",
@@ -36314,6 +36402,11 @@
     "010065700EE06000": {
         "0": "FCFD89523272EEED",
         "latest": 0
+    },
+    "010065701BE72000": {
+        "0": "8993C0F2AB0CBE6F",
+        "latest": 0,
+        "title": "Yummy Jewels"
     },
     "010065801926C000": {
         "0": "69166398C6472CD7",
@@ -39623,6 +39716,11 @@
         "latest": 0,
         "title": "Japanese Escape Games The Fortress Prison"
     },
+    "01006EC01CFC0000": {
+        "0": "5B22D557858166F2",
+        "latest": 0,
+        "title": "Hole Switch"
+    },
     "01006ED00BC76000": {
         "0": "7D0871AD3832F62E",
         "131072": "61CDD17992865CF4",
@@ -41364,6 +41462,10 @@
         "65536": "60B53C7A500DB149",
         "latest": 327680,
         "title": "Shadowgate"
+    },
+    "010073400EC4A000": {
+        "0": "143EFEB941D62B4B",
+        "latest": 0
     },
     "010073401175E000": {
         "0": "D3CA5602F3467451",
@@ -44362,6 +44464,11 @@
     "01007B70146F7000": {
         "latest": 0
     },
+    "01007B701AF40000": {
+        "0": "B6F9113F59E43039",
+        "latest": 0,
+        "title": "Skyhook"
+    },
     "01007B701B5C0000": {
         "0": "9B72EA7EB6639DF7",
         "latest": 0,
@@ -46672,6 +46779,7 @@
         "title": "HAAK"
     },
     "010082201B00C000": {
+        "0": "3848566F829260FE",
         "131072": "C65E98FE200D6DEC",
         "196608": "1EC454C7E9CB3310",
         "latest": 196608,
@@ -47152,6 +47260,11 @@
         "65536": "7E06FBEF7AD8E317",
         "latest": 262144
     },
+    "010083501AB36000": {
+        "0": "787FF5DAADBD445E",
+        "latest": 0,
+        "title": "Solar Ash"
+    },
     "010083600AE9E000": {
         "0": "B5186849F0B450C6",
         "65536": "7F082533385FAE55",
@@ -47415,6 +47528,11 @@
         "latest": 131072,
         "title": "JCB Pioneer: Mars"
     },
+    "010084101C85C000": {
+        "0": "F287ACB1BDCBB24A",
+        "latest": 0,
+        "title": "Princess Bubble Story"
+    },
     "0100842008EC4000": {
         "0": "CDE43AAC8C49C618",
         "latest": 0,
@@ -47643,6 +47761,10 @@
         "title": "NARUTO SHIPPUDEN\u2122: Ultimate Ninja\u00ae STORM 4 ROAD TO BORUTO"
     },
     "010084D00CF5F000": {
+        "latest": 0
+    },
+    "010084D01CA20000": {
+        "0": "C8A8991181B49902",
         "latest": 0
     },
     "010084E00E8A4000": {
@@ -50450,8 +50572,9 @@
         "196608": "68B7A194A9BF046A",
         "262144": "D16558D855603353",
         "327680": "950E1BC9DB17E83F",
+        "393216": "346DA9C0DF6A7D09",
         "65536": "7F4513630450F385",
-        "latest": 327680,
+        "latest": 393216,
         "title": "DREDGE"
     },
     "01008CD0172D7000": {
@@ -59829,6 +59952,7 @@
         "title": "Harmony: The Fall of Reverie"
     },
     "0100A6501BFCA000": {
+        "0": "B69D517A387D9272",
         "131072": "2271CD3DA21D1483",
         "65536": "22E0DA1A6849CEB4",
         "latest": 131072,
@@ -59971,6 +60095,11 @@
         "0": "863C6D1966C8217F",
         "latest": 0,
         "title": "Bridge Strike"
+    },
+    "0100A6C0180DE000": {
+        "0": "28F0C3FFBB1FD767",
+        "latest": 0,
+        "title": "Retro Revengers"
     },
     "0100A6D009840000": {
         "0": "4C1D3ADF0CC1E646",
@@ -63167,6 +63296,10 @@
         "latest": 196608,
         "title": "Brewmaster: Beer Brewing Simulator"
     },
+    "0100AFC01A0BE000": {
+        "0": "901FD1DA17F09B20",
+        "latest": 0
+    },
     "0100AFD00F13C000": {
         "0": "9C321FE3CFE91440",
         "65536": "5A51199158099A4E",
@@ -63599,6 +63732,11 @@
         "0": "29E5B88ED5E74BB4",
         "latest": 0,
         "title": "Mighty Mage"
+    },
+    "0100B0F01B1BA000": {
+        "0": "46314A5BBDAE76B7",
+        "latest": 0,
+        "title": "qrth-phyl"
     },
     "0100B10002904000": {
         "0": "82092DF70410F821",
@@ -67323,6 +67461,9 @@
         "latest": 131072,
         "title": "For a Vast Future"
     },
+    "0100BB901A461000": {
+        "latest": 0
+    },
     "0100BB901AC74000": {
         "65536": "94EA161E5D15EAEC",
         "latest": 65536
@@ -68069,6 +68210,10 @@
         "65536": "AEF59D090F8D7749",
         "latest": 65536,
         "title": "Sentry City"
+    },
+    "0100BD801BA68000": {
+        "0": "64378752A2529C00",
+        "latest": 0
     },
     "0100BD9004AB6000": {
         "0": "871A5F971B929D4E",
@@ -69220,6 +69365,7 @@
         "latest": 0
     },
     "0100C07018CA6000": {
+        "0": "CDA4F31586FC9123",
         "65536": "0B3DB8B35011E088",
         "latest": 65536,
         "title": "Baten Kaitos I & II HD Remaster"
@@ -69918,6 +70064,7 @@
         "latest": 0
     },
     "0100C2601A33E000": {
+        "0": "B82C110629D23785",
         "65536": "C732E985F14C684C",
         "latest": 65536
     },
@@ -71762,6 +71909,7 @@
         "title": "JIGSAW MASTER KIDS"
     },
     "0100C7601CD08000": {
+        "0": "1FB3F1BD2932CFC1",
         "65536": "0D4B79BDB8F8F712",
         "latest": 65536
     },
@@ -73696,6 +73844,11 @@
         "65536": "C9FB83B55873D1A6",
         "latest": 458752,
         "title": "ENDER LILIES: Quietus of the Knights"
+    },
+    "0100CCF019C8C000": {
+        "0": "83F7DC0EC25FEEB6",
+        "latest": 0,
+        "title": "F-ZERO\u2122 99"
     },
     "0100CCF01A884000": {
         "0": "7F21DB3331855B04",
@@ -76101,6 +76254,12 @@
         "latest": 0,
         "title": "Disco Cannon Airlines"
     },
+    "0100D4001A4F8000": {
+        "0": "B97EF4DE3524F6BE",
+        "65536": "74641424500B4ACA",
+        "latest": 65536,
+        "title": "Persha and the Magic Labyrinth -Arabian Nyaights-"
+    },
     "0100D41014E62000": {
         "65536": "A85EC2FA3189AC4F",
         "latest": 65536
@@ -77677,6 +77836,7 @@
         "title": "Legend of Arcadieu Bundle"
     },
     "0100D8301ACAC000": {
+        "0": "F7A6AAF71DBBB0BB",
         "131072": "F2D55B2F540A4915",
         "latest": 131072,
         "title": "Labyrinth"
@@ -78152,9 +78312,13 @@
         "title": "Xanchuchamel"
     },
     "0100D9701A266000": {
+        "0": "902C6F8BFCB2E06F",
         "65536": "F25ACF8D0B8276B8",
         "latest": 65536,
         "title": "NASCAR Arcade Rush"
+    },
+    "0100D9701A267000": {
+        "latest": 0
     },
     "0100D9701B400000": {
         "0": "A9992A05EF0D5CB5",
@@ -79933,6 +80097,7 @@
         "latest": 0
     },
     "0100DE401B2C6000": {
+        "0": "0E68A2CA0D9FDC8A",
         "131072": "A7CD19ED454BFE23",
         "latest": 131072,
         "title": "Anime Sexy Girl Puzzle - Hentai Game History Adventure"
@@ -81985,6 +82150,11 @@
         "65536": "C86850ECFFCB6BDA",
         "latest": 65536
     },
+    "0100E4401C490000": {
+        "65536": "0960811AE364E2A1",
+        "latest": 65536,
+        "title": "Games Advent Calendar - 25 Days - 25 Surprises"
+    },
     "0100E45004212000": {
         "0": "E35BDEE8F6959A57",
         "131072": "B62BBA86FCE6E4BB",
@@ -82546,8 +82716,9 @@
         "0": "EC7773CFB1B3D024",
         "131072": "3EE509B1B1F93E8C",
         "196608": "8FE8E7BAB39196D2",
+        "262144": "467D3A3D24D9DBA6",
         "65536": "80897617E9DE36A2",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Return to Shironagasu Island"
     },
     "0100E5C019982000": {
@@ -82795,6 +82966,11 @@
         "65536": "5110F6BFB9E3CB53",
         "latest": 131072,
         "title": "Necrobarista - Final Pour -"
+    },
+    "0100E64019EAE000": {
+        "0": "5D0E78AAB810757D",
+        "latest": 0,
+        "title": "Ugly"
     },
     "0100E65002BB8000": {
         "0": "F0D30A674A2813C7",
@@ -84570,8 +84746,9 @@
     },
     "0100EB001AE86000": {
         "0": "F6C53766FC91940D",
+        "131072": "0EBA4DECEEFA3AA5",
         "65536": "8E8D63164CB156AF",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Old School"
     },
     "0100EB100AB42000": {
@@ -85054,6 +85231,10 @@
     "0100EC1016D36000": {
         "65536": "373B2A0B72BF9025",
         "latest": 65536
+    },
+    "0100EC101A07C000": {
+        "0": "7FC6B7D87777A258",
+        "latest": 0
     },
     "0100EC101BCEC000": {
         "0": "79BE984AAD8FA5BE",
@@ -85602,8 +85783,12 @@
         "title": "Cursed Castilla"
     },
     "0100ED700F718000": {
+        "0": "3C75C626F6B95A4E",
         "65536": "B77D895962BABA49",
         "latest": 65536
+    },
+    "0100ED700F719000": {
+        "latest": 0
     },
     "0100ED7012DB2000": {
         "0": "65F167FEFD7312A7",
@@ -86030,6 +86215,11 @@
         "0": "A1F5AF9BE1D741F7",
         "latest": 0,
         "title": "Farming Simulator - Farm, Tractor, Experience Logic Games Nintendo Switch\u2122 Edition"
+    },
+    "0100EEB01BB4A000": {
+        "0": "6220CA747FF15927",
+        "latest": 0,
+        "title": "Retro Mystery Club Vol.1: The Ise-Shima Case"
     },
     "0100EEC00A262000": {
         "0": "9E66E59DE9F15641",
@@ -87839,6 +88029,9 @@
         "65536": "D5ECCA5F066A6C9C",
         "latest": 65536,
         "title": "Zombie Soup"
+    },
+    "0100F3601B0FF000": {
+        "latest": 65536
     },
     "0100F3700C09C000": {
         "0": "4C6AE54BD9539549",
