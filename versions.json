@@ -1789,6 +1789,10 @@
         "latest": 65536,
         "title": "Pixel Art Coloring Book"
     },
+    "0100052019CDA000": {
+        "0": "9A80286F86BC7A73",
+        "latest": 0
+    },
     "010005300EDCC000": {
         "0": "C56AF9343D14CE44",
         "65536": "F5C1155D1A0E4B42",
@@ -2494,6 +2498,10 @@
         "65536": "C2444C9B57DDE5D3",
         "latest": 131072
     },
+    "0100075019CDC000": {
+        "0": "CA7EAEE3D2F3B8FA",
+        "latest": 0
+    },
     "010007501A588000": {
         "0": "7B4CE2A50BEAD0C2",
         "65536": "0DA3F0F5C3C04A6C",
@@ -3164,7 +3172,8 @@
         "655360": "FB068C3405E58D1A",
         "720896": "55F8E0AE1795C7EE",
         "786432": "D3971009236D83F3",
-        "latest": 786432,
+        "851968": "9E30A3B4B1F06153",
+        "latest": 851968,
         "title": "Cardfight!! Vanguard Dear Days"
     },
     "0100097016B05000": {
@@ -4606,6 +4615,10 @@
         "0": "05C4330C9401F5C6",
         "latest": 0,
         "title": "Arcade Archives MIRAI NINJA"
+    },
+    "01000D501A086000": {
+        "0": "82EC2232F0AC2245",
+        "latest": 0
     },
     "01000D600EFC4000": {
         "0": "3D200A9F65E66BB0",
@@ -6585,8 +6598,9 @@
         "0": "10021757A796B651",
         "131072": "33D68DAB202ADC27",
         "196608": "12577CD4F53DA372",
+        "262144": "3CFABE3B9A5A0EBF",
         "65536": "1600E2A752AB47CA",
-        "latest": 196608,
+        "latest": 262144,
         "title": "The Cosmic Wheel Sisterhood"
     },
     "010013500A560000": {
@@ -7379,6 +7393,11 @@
         "latest": 0,
         "title": "Mad Experiments: Escape Room"
     },
+    "010015E01BE76000": {
+        "0": "B1AE05AB32E2565F",
+        "latest": 0,
+        "title": "Magic Donut Adventure: Line Match 3 Puzzle"
+    },
     "010015F005C8E000": {
         "0": "5637B2476C5DFE45",
         "131072": "E43E3680DB71654C",
@@ -7567,6 +7586,10 @@
         "393216": "151197DBEFE33331",
         "latest": 393216,
         "title": "Dungeon Village"
+    },
+    "010016701C5F4000": {
+        "0": "5D9944D89A0532EE",
+        "latest": 0
     },
     "01001680128FE000": {
         "65536": "A63CF04E0ACAC747",
@@ -8495,8 +8518,9 @@
         "196608": "93C0F2F0DAA295FA",
         "262144": "7D1C752EE893ADCB",
         "327680": "7D1C752EE893ADCB",
+        "393216": "0DBAABE199740C44",
         "65536": "8789956D7CEEA237",
-        "latest": 327680,
+        "latest": 393216,
         "title": "Tracks - Toybox Edition"
     },
     "01001920156C2000": {
@@ -10674,8 +10698,9 @@
         "title": "Family Mysteries 3: Criminal Mindset"
     },
     "01001F0019804000": {
+        "131072": "0D949C276FA7CC9E",
         "65536": "93747E10D2E58CB4",
-        "latest": 65536
+        "latest": 131072
     },
     "01001F0019805000": {
         "latest": 0
@@ -11525,6 +11550,10 @@
         "0": "736AB6A47C4D8F92",
         "latest": 0,
         "title": "Youmandriver"
+    },
+    "010021501CC28000": {
+        "0": "2AB45BD404A612D9",
+        "latest": 0
     },
     "010021600E1BC000": {
         "0": "C0D2EF3EF3E42C4A",
@@ -13231,7 +13260,8 @@
         "0": "21C5C1628F86834D",
         "131072": "53A19549706EC741",
         "196608": "196AF69487ACB540",
-        "latest": 196608,
+        "262144": "C5A542DA4273A84C",
+        "latest": 262144,
         "title": "Yu-Gi-Oh! RUSH DUEL: Dawn of the Battle Royale!!"
     },
     "0100261016A62000": {
@@ -16849,6 +16879,10 @@
         "latest": 262144,
         "title": "Axiom Verge 2"
     },
+    "01002FC01CD56000": {
+        "0": "963A1C69AB7C8D4E",
+        "latest": 0
+    },
     "01002FD00D1E4000": {
         "0": "A96F2D79B57A0E4B",
         "65536": "E78D1137F35A644C",
@@ -17979,8 +18013,9 @@
     },
     "010032D019AFC000": {
         "131072": "DB1CA2A5CE0E9C7A",
+        "196608": "77329A60C44D9E98",
         "65536": "0820886A1900D82A",
-        "latest": 131072
+        "latest": 196608
     },
     "010032D019D4C000": {
         "0": "EC2D7A32216855D3",
@@ -18850,6 +18885,11 @@
         "latest": 65536,
         "title": "Odysseus Kosmos and his Robot Quest"
     },
+    "010035301766A000": {
+        "0": "296CF76CB7810950",
+        "latest": 0,
+        "title": "Operation Wolf Returns: First Mission"
+    },
     "01003530182B6000": {
         "0": "5032CD003087F24A",
         "131072": "5032CD003087F24A",
@@ -19254,6 +19294,7 @@
         "title": "Demolition Inc HD"
     },
     "010036601ACAE000": {
+        "0": "4494FF7F05B54EC0",
         "131072": "F090FEC15F3BD3B2",
         "latest": 131072,
         "title": "Days of Doom"
@@ -26709,8 +26750,9 @@
     },
     "01004A301AAFA000": {
         "0": "BF0842F6054DFB1A",
+        "131072": "C1999B980195B6FB",
         "65536": "E2619D0292C23B68",
-        "latest": 65536,
+        "latest": 131072,
         "title": "How 2 Escape"
     },
     "01004A4009106000": {
@@ -27664,6 +27706,10 @@
         "131072": "73514238F145705E",
         "latest": 131072
     },
+    "01004CC012D02000": {
+        "0": "E7F5DDBA59A217B0",
+        "latest": 0
+    },
     "01004CC018D22000": {
         "0": "D84505496AA9A670",
         "131072": "C5A30F7AF19E7DC1",
@@ -28031,6 +28077,11 @@
         "65536": "56CA7A237771DDB6",
         "latest": 131072,
         "title": "Bleak Sword DX"
+    },
+    "01004DD01A872000": {
+        "0": "645971E1920F5A89",
+        "latest": 0,
+        "title": "Livestream 2: Escape from Togaezuka Happy Place"
     },
     "01004DE001DC8000": {
         "0": "35F6DBC315CD74C7",
@@ -31221,6 +31272,11 @@
         "latest": 131072,
         "title": "Escape First Supernatural"
     },
+    "010057801AA3E000": {
+        "0": "BFA5AEB92B343390",
+        "latest": 0,
+        "title": "Super Adventure Hand"
+    },
     "01005790110F0000": {
         "0": "B686E3C2AC685A41",
         "131072": "97E45918D2113640",
@@ -33841,6 +33897,11 @@
         "0": "6B70B88B9BEBFBF3",
         "latest": 0,
         "title": "Attentat 1942"
+    },
+    "01005EF01A12E000": {
+        "0": "A07FFE2F32878CE9",
+        "latest": 0,
+        "title": "Bro Falls DELUXE"
     },
     "01005EF01A366000": {
         "0": "E2866384883C7A47",
@@ -36696,7 +36757,8 @@
     },
     "010066401C466000": {
         "0": "90C6CF97B62FCB32",
-        "latest": 0
+        "latest": 0,
+        "title": "Amanda the Adventurer"
     },
     "010066501069C000": {
         "1048576": "205EB1F378BE86BE",
@@ -38343,6 +38405,10 @@
         "latest": 0,
         "title": "Learn & Play: Dino Coloring"
     },
+    "01006AF01C0FA000": {
+        "0": "FE05F7A53500A939",
+        "latest": 0
+    },
     "01006B000A666000": {
         "0": "685BEB151806E054",
         "65536": "FEC8B2147E4711C6",
@@ -38553,6 +38619,11 @@
         "65536": "B15B04C5E2D8FE08",
         "latest": 65536,
         "title": "Arcade Archives TYPHOON GAL"
+    },
+    "01006B801A6AC000": {
+        "0": "15C8E720A5271C09",
+        "latest": 0,
+        "title": "Sugar Tanks"
     },
     "01006B801AB3A000": {
         "131072": "89CD1F3C21C750FA",
@@ -39084,8 +39155,9 @@
         "327680": "C9AE323DABB8D607",
         "393216": "AA72BB4361F275E6",
         "458752": "0923CE86C109FB3A",
+        "524288": "B975C0709A750D0C",
         "65536": "0E5BB72DE6B634F1",
-        "latest": 458752
+        "latest": 524288
     },
     "01006CC015ECB000": {
         "latest": 0
@@ -40737,6 +40809,9 @@
         "65536": "E6AE5E786975C7CA",
         "latest": 65536
     },
+    "010071801C849000": {
+        "latest": 0
+    },
     "010071900D95A000": {
         "0": "3D292F6718EB0046",
         "65536": "B5D5F5913696E04A",
@@ -42025,6 +42100,11 @@
         "latest": 65536,
         "title": "Plan B from Outer Space: A Bavarian Odyssey"
     },
+    "010074901A702000": {
+        "0": "78CA1CF79FF787A0",
+        "latest": 0,
+        "title": "Fragment's Note2+"
+    },
     "010074901AA42000": {
         "65536": "E399306936CA14E1",
         "latest": 65536
@@ -43229,8 +43309,9 @@
         "131072": "1ABF0EB2E1E6FA46",
         "196608": "7D8B48F12AD6DD4E",
         "327680": "2A87A6D94D28484B",
+        "393216": "156E9FFF0DC7A344",
         "65536": "4ED5CAA3B78AEF41",
-        "latest": 327680,
+        "latest": 393216,
         "title": "Catlateral Damage: Remeowstered"
     },
     "010077A012A5C000": {
@@ -44183,6 +44264,9 @@
     },
     "01007A901C6E6000": {
         "0": "F5B3C8196DD8C9C6",
+        "latest": 0
+    },
+    "01007A901C6E7000": {
         "latest": 0
     },
     "01007AA00A91A000": {
@@ -45729,6 +45813,10 @@
         "latest": 0,
         "title": "Beat Them Up - Box Simulator - Boxing Battle Fight Combat for Nintendo Switch Ultimate 2023"
     },
+    "01007F101CC2C000": {
+        "0": "EE1A53993D0A18B0",
+        "latest": 0
+    },
     "01007F200B0C0000": {
         "0": "D4697788BCE011D0",
         "262144": "351694385B22760D",
@@ -46500,14 +46588,16 @@
     },
     "010081601B19A000": {
         "0": "4BBF6B5E145F8BFA",
-        "latest": 0,
+        "65536": "1D81A58D6F47722B",
+        "latest": 65536,
         "title": "ALIEN WAR 2 DOGFIGHT"
     },
     "010081601B2DC000": {
         "0": "6EA2CC7357336442",
         "131072": "3FDD7DE80CE5E351",
         "196608": "096186C4D564B3E4",
-        "latest": 196608
+        "262144": "711C5050B536A369",
+        "latest": 262144
     },
     "010081700EDF4000": {
         "0": "9420AF7A8E665D2B",
@@ -46566,7 +46656,8 @@
     },
     "010081900F9E2000": {
         "0": "122EBF9E18E9DB4B",
-        "latest": 0,
+        "65536": "489B6A252219C143",
+        "latest": 65536,
         "title": "Wizards of Brandel"
     },
     "010081900F9E3000": {
@@ -47034,8 +47125,9 @@
         "title": "Swordbreaker: Origins"
     },
     "010082A01ACE8000": {
+        "131072": "960808FDC41BD95E",
         "65536": "FF18A44F4BC9F1EE",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Paperman: Adventure Delivered"
     },
     "010082B00E8B8000": {
@@ -49456,8 +49548,9 @@
         "262144": "20AFAC2934B74A51",
         "327680": "8B7009512E77E7C0",
         "393216": "788E733D7B65E78B",
+        "458752": "0B38FC92F2AB6144",
         "65536": "43DF498AFEDEE217",
-        "latest": 393216
+        "latest": 458752
     },
     "010089C00DA6B000": {
         "latest": 0
@@ -51849,8 +51942,9 @@
         "262144": "740FA17EEEB5D6CC",
         "327680": "6DFBD952D22A6E51",
         "393216": "0512BDA69B401F74",
+        "458752": "DC058F5A33406AD4",
         "65536": "7AD7FF7329152B07",
-        "latest": 393216,
+        "latest": 458752,
         "title": "ONE PIECE: PIRATE WARRIORS 4"
     },
     "01008FE00E2F7000": {
@@ -53870,6 +53964,11 @@
     "0100957016B91000": {
         "latest": 0
     },
+    "010095701CA38000": {
+        "0": "B91AD873510FFCF9",
+        "latest": 0,
+        "title": "Earthshine"
+    },
     "01009580113A4000": {
         "0": "12BE223E21FF518F",
         "65536": "DC67510EDBC3DF75",
@@ -54201,6 +54300,11 @@
         "0": "0672219C3AEBE8D0",
         "latest": 0,
         "title": "Zombo Buster Rising"
+    },
+    "010096201B80E000": {
+        "0": "DB7D4EE91C388412",
+        "latest": 0,
+        "title": "Evil Wizard"
     },
     "01009630076B8000": {
         "0": "BEC3298A3C0FB245",
@@ -55057,6 +55161,10 @@
         "0": "889D9436CF5D7B1B",
         "latest": 0,
         "title": "Ludo Game: Just chill out!"
+    },
+    "010098D01BC02000": {
+        "0": "C3E6F398D69D8539",
+        "latest": 0
     },
     "010098D01CD80000": {
         "0": "3C63116AB877C5DE",
@@ -55978,6 +56086,10 @@
         "131072": "52BAA39181353EC5",
         "65536": "0450E64E6C98381F",
         "latest": 131072
+    },
+    "01009B801CD60000": {
+        "0": "5AE5437A8B7A26FA",
+        "latest": 0
     },
     "01009B90006DC000": {
         "0": "3EBB1EB2FFFB029A",
@@ -57985,6 +58097,10 @@
         "latest": 0,
         "title": "Slingshot Stunt Driver & Sports"
     },
+    "0100A0C01BED8000": {
+        "65536": "0B0D09D27F3D5622",
+        "latest": 65536
+    },
     "0100A0D004FB0000": {
         "0": "46F7CA498F8E3A92",
         "latest": 0,
@@ -58159,6 +58275,11 @@
         "0": "583F2FB3E23A4407",
         "latest": 0,
         "title": "Slime Girl Smoothies"
+    },
+    "0100A1201B82A000": {
+        "0": "F8BCB9DCDC4BDF96",
+        "latest": 0,
+        "title": "Cry Babies Magic Tears: The Big Game"
     },
     "0100A130109B2000": {
         "0": "01ECF7C70A87804C",
@@ -61427,6 +61548,10 @@
         "latest": 0,
         "title": "Sticky Monsters"
     },
+    "0100AA4019CD6000": {
+        "0": "416653B45E3D25B4",
+        "latest": 0
+    },
     "0100AA50123B2000": {
         "131072": "7B1FAC2A61CAB905",
         "196608": "D3329CBFA1582231",
@@ -61955,6 +62080,10 @@
         "latest": 0,
         "title": "Plumber Puzzles"
     },
+    "0100ABF01B794000": {
+        "0": "C16FD8EB4179D94E",
+        "latest": 0
+    },
     "0100AC000ABE0000": {
         "latest": 0
     },
@@ -62463,6 +62592,11 @@
         "0": "D9759DF231BFEFB8",
         "latest": 0,
         "title": "The Flea Evolution"
+    },
+    "0100AD401A2F0000": {
+        "131072": "5FC2DE9DF97569BA",
+        "latest": 131072,
+        "title": "Wargroove 2"
     },
     "0100AD5007430000": {
         "65536": "520A44E7BAFBF043",
@@ -63520,8 +63654,9 @@
         "0": "B96F7725B2360845",
         "131072": "E3B9464C323D974F",
         "196608": "0756450EBC0BA24E",
+        "262144": "A5DA0345CCB4C33E",
         "65536": "F4275342EC57B241",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Treachery in Beatdown City"
     },
     "0100B0601205E000": {
@@ -64189,8 +64324,9 @@
     },
     "0100B1F0123B6000": {
         "0": "B5E8363FD03DB6AD",
+        "131072": "9DD5F32EF9B3F41B",
         "65536": "B7E1C5F019C9E4D8",
-        "latest": 65536
+        "latest": 131072
     },
     "0100B1F013F2E000": {
         "0": "DD5CB6F9B5BEFB40",
@@ -67025,8 +67161,9 @@
         "262144": "2E428280DEC8B8AA",
         "327680": "76951D2781047EA9",
         "393216": "E15D255E4938DC97",
+        "458752": "35170B437214C454",
         "65536": "5F3DDE54A6C4A4F1",
-        "latest": 393216
+        "latest": 458752
     },
     "0100BA400E2F5000": {
         "latest": 0
@@ -67076,6 +67213,10 @@
     },
     "0100BA501AD8B000": {
         "latest": 0
+    },
+    "0100BA6013F0E000": {
+        "65536": "EA1D1E7C0FF6B1F3",
+        "latest": 65536
     },
     "0100BA6015E82000": {
         "0": "9CEEA0A66EECD747",
@@ -67723,7 +67864,8 @@
     },
     "0100BC50122B6000": {
         "0": "F42C9E2B1F6EBD46",
-        "latest": 0,
+        "65536": "31345378FEA345C4",
+        "latest": 65536,
         "title": "Farm Builder"
     },
     "0100BC501355A000": {
@@ -68400,6 +68542,10 @@
         "65536": "E64099A8449C88F0",
         "latest": 65536,
         "title": "Avatar The Last Airbender: Quest for Balance"
+    },
+    "0100BDF01BFBE000": {
+        "0": "EDD9268CCDEB631F",
+        "latest": 0
     },
     "0100BE0010AAE000": {
         "0": "F3A41D74531A144C",
@@ -75993,6 +76139,10 @@
         "latest": 65536,
         "title": "Toon Shooters 2: The Freelancers"
     },
+    "0100D3101CDC6000": {
+        "0": "5D175A25D176472D",
+        "latest": 0
+    },
     "0100D3200AF74000": {
         "0": "EFEB10C886EC07CC",
         "196608": "571EFCDB1309771D",
@@ -76677,6 +76827,10 @@
         "0": "4269C721C4226F42",
         "latest": 0,
         "title": "Travel Mosaics 6: Christmas Around the World"
+    },
+    "0100D5301CD54000": {
+        "0": "4300F0FF9222E9C6",
+        "latest": 0
     },
     "0100D54003AAA000": {
         "latest": 0
@@ -79766,6 +79920,10 @@
         "latest": 0,
         "title": "Arcade Archives DIG DUG II"
     },
+    "0100DD201C8C8000": {
+        "65536": "ADDCE98FC1FBCE56",
+        "latest": 65536
+    },
     "0100DD300CF3A000": {
         "0": "95947700181F5C61",
         "65536": "95947700181F5C61",
@@ -81120,6 +81278,11 @@
         "0": "1657FF69882C2935",
         "latest": 0,
         "title": "Mafia Slots"
+    },
+    "0100E1501CEE4000": {
+        "0": "7D6A0DC140721E72",
+        "latest": 0,
+        "title": "Galaxy Battle"
     },
     "0100E16015E20000": {
         "0": "4B3B37DB019A4F4F",
@@ -84186,6 +84349,10 @@
         "65536": "A5820B40796FB34A",
         "latest": 524288
     },
+    "0100E99019CD8000": {
+        "0": "E08EC1738872E986",
+        "latest": 0
+    },
     "0100E9A00B0BC000": {
         "0": "66F69E2E6243F940",
         "latest": 0,
@@ -84388,7 +84555,8 @@
         "589824": "69E825C313B76B13",
         "65536": "16295978EA62EA56",
         "655360": "688838F5B9163BDD",
-        "latest": 655360,
+        "720896": "1AA82ED09C36CE28",
+        "latest": 720896,
         "title": "Rush Rally Origins"
     },
     "0100EA0016F1C000": {
@@ -84873,6 +85041,7 @@
     },
     "0100EB500D92E000": {
         "0": "5E462A2E7FA7136C",
+        "1048576": "831999731085D2F2",
         "131072": "501293F1E6078D99",
         "196608": "FDE2604B1C3DB26C",
         "262144": "F8837FA4B4EA01BB",
@@ -84888,7 +85057,7 @@
         "851968": "2A038A2F23C049AE",
         "917504": "C427D281C088EB3C",
         "983040": "EBC82C4277C412E5",
-        "latest": 983040,
+        "latest": 1048576,
         "title": "GROOVE COASTER WAI WAI PARTY!!!!"
     },
     "0100EB500D92F000": {
@@ -85541,6 +85710,7 @@
         "latest": 0
     },
     "0100ECB01AFCA000": {
+        "0": "3F2438154ECE3B49",
         "131072": "E86806C8239CC64B",
         "latest": 131072,
         "title": "Warriors of the Nile 2"
@@ -88363,6 +88533,11 @@
     "0100F41015BF5000": {
         "latest": 0
     },
+    "0100F4101BD00000": {
+        "0": "5A2D761EC3E0B97E",
+        "latest": 0,
+        "title": "Kind Heart Defenders"
+    },
     "0100F42007752000": {
         "0": "D1DD4CB8CC723482",
         "196608": "0ED1569AAFBBBF36",
@@ -89426,6 +89601,11 @@
         "latest": 327680,
         "title": "The Last Spell"
     },
+    "0100F7201BE58000": {
+        "0": "81D5B82BE8D78328",
+        "latest": 0,
+        "title": "Tick Tack Puppet"
+    },
     "0100F7300B24E000": {
         "0": "8D665B5FEC6FCE4B",
         "131072": "60B7597943D57B4B",
@@ -89815,6 +89995,10 @@
     "0100F86019A24000": {
         "0": "59682F31A69338C2",
         "latest": 0
+    },
+    "0100F8701C182000": {
+        "65536": "6DF40BA4ADDB6D7A",
+        "latest": 65536
     },
     "0100F88012E34000": {
         "131072": "E16DF8316BD7B02B",
@@ -91412,6 +91596,12 @@
         "65536": "D0B3501DC634C120",
         "latest": 65536,
         "title": "Baldur's Gate: Dark Alliance"
+    },
+    "0100FD101C028000": {
+        "0": "E8F27C558E05288B",
+        "65536": "E8F27C558E05288B",
+        "latest": 65536,
+        "title": "Raid on Taihoku"
     },
     "0100FD200A45A000": {
         "0": "42AE702FAFAC8F49",
