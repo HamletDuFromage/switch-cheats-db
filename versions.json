@@ -4618,7 +4618,8 @@
     },
     "01000D501A086000": {
         "0": "82EC2232F0AC2245",
-        "latest": 0
+        "latest": 0,
+        "title": "ALTF4"
     },
     "01000D600EFC4000": {
         "0": "3D200A9F65E66BB0",
@@ -15542,7 +15543,8 @@
     },
     "01002C301280E000": {
         "0": "AC7CF91EECD62545",
-        "latest": 0,
+        "131072": "99F5C5DE64041E46",
+        "latest": 131072,
         "title": "Vampire: The Masquerade - Shadows of New York"
     },
     "01002C30136F4000": {
@@ -16167,6 +16169,11 @@
         "0": "5858E30FEBF91A21",
         "latest": 0,
         "title": "Chef"
+    },
+    "01002DE01C24E000": {
+        "0": "3B9AEB35814685B1",
+        "latest": 0,
+        "title": "Samurai - Japan Warrior Fighter"
     },
     "01002DF00F76C000": {
         "0": "9A5333C69824EE75",
@@ -18897,6 +18904,10 @@
         "latest": 131072,
         "title": "Yuoni"
     },
+    "010035301B64C000": {
+        "0": "0B49741A5080F1D2",
+        "latest": 0
+    },
     "0100354011914000": {
         "0": "02518E6F6A9025ED",
         "latest": 0
@@ -19491,6 +19502,11 @@
         "65536": "B577CB6BF0D09804",
         "latest": 196608,
         "title": "Shadowrun Returns"
+    },
+    "010037101A4CE000": {
+        "0": "945A92FC45D08E25",
+        "latest": 0,
+        "title": "Mon-Yu: Defeat Monsters And Gain Strong Weapons And Armor. You May Be Defeated, But Don\u2019t Give Up. Become Stronger. I Believe There Will Be A Day When The Heroes Defeat The Devil King."
     },
     "010037200B346000": {
         "0": "C0E754381CD89381",
@@ -22501,8 +22517,9 @@
         "196608": "C0E22D4F42A3E010",
         "262144": "A6B8A41776D2AEA1",
         "327680": "6D68E85A4A99060A",
+        "393216": "37DA31DFB9C4C6D9",
         "65536": "860614234E1C022D",
-        "latest": 327680,
+        "latest": 393216,
         "title": "Fuga: Melodies of Steel 2"
     },
     "01003F501907B000": {
@@ -23559,8 +23576,9 @@
         "327680": "99954F5C85FA479A",
         "393216": "FE8C96136B7C58C1",
         "524288": "A3DDD58A011E7286",
+        "589824": "41D65F1FD2E4758B",
         "65536": "0CEFB36B58AA4E1E",
-        "latest": 524288,
+        "latest": 589824,
         "title": "Factorio"
     },
     "0100420019020000": {
@@ -27708,7 +27726,8 @@
     },
     "01004CC012D02000": {
         "0": "E7F5DDBA59A217B0",
-        "latest": 0
+        "latest": 0,
+        "title": "Pan-Dimensional Conga Combat"
     },
     "01004CC018D22000": {
         "0": "D84505496AA9A670",
@@ -30207,6 +30226,7 @@
         "latest": 0
     },
     "01005450178B0000": {
+        "0": "6F98F922DA344C41",
         "65536": "9017C75B5F9C8A40",
         "latest": 65536,
         "title": "HammerHelm"
@@ -30348,6 +30368,10 @@
         "196608": "50D44B003D5B3AE2",
         "65536": "536433098AE62ED3",
         "latest": 196608
+    },
+    "010054E0120B2000": {
+        "65536": "9C391E22F273ABA6",
+        "latest": 65536
     },
     "010054E0168A6000": {
         "0": "3E4E84C099E08903",
@@ -32100,7 +32124,8 @@
     "010059C01A742000": {
         "0": "0E8B061BD39FD8D7",
         "131072": "42B32013CB5A664D",
-        "latest": 131072,
+        "196608": "C3498EF145F431A6",
+        "latest": 196608,
         "title": "Madshot"
     },
     "010059D00BCAE000": {
@@ -32607,6 +32632,11 @@
     "01005B2019F86000": {
         "65536": "7A03D9A41969F04F",
         "latest": 65536
+    },
+    "01005B201AA4E000": {
+        "65536": "0A3DEDE521DDA666",
+        "latest": 65536,
+        "title": "Pizza Possum"
     },
     "01005B3005D6E000": {
         "0": "EDA28D4FC297AED5",
@@ -33174,7 +33204,8 @@
         "0": "D60E90CFCD305BBF",
         "131072": "5D072C126CE0DBA1",
         "196608": "C000BB9784296978",
-        "latest": 196608,
+        "262144": "5A3F6685A2595C3C",
+        "latest": 262144,
         "title": "Double Dragon Gaiden: Rise of the Dragons"
     },
     "01005D001BBDA000": {
@@ -33301,6 +33332,11 @@
     },
     "01005D6003B73000": {
         "latest": 0
+    },
+    "01005D6013A54000": {
+        "0": "EE2977B0ADC57B44",
+        "latest": 0,
+        "title": "Osyaberi! Horijyo! Gekihori: Anna Holinski saves the universe, alright?!"
     },
     "01005D6014BE8000": {
         "0": "77DE22E09205378E",
@@ -34192,6 +34228,7 @@
         "1966080": "7142DBD370AB3AA0",
         "2031616": "F6693EEE51B0A745",
         "2097152": "B895F70094D882AE",
+        "2162688": "A6BEB8F5BA1544DF",
         "262144": "A09A2281FD980043",
         "327680": "668C109613C35241",
         "393216": "E2D7450916C26341",
@@ -34204,7 +34241,7 @@
         "851968": "83F466380CC9BD4C",
         "917504": "0CA9EBF569ED7C4A",
         "983040": "21C77587C980A248",
-        "latest": 2097152,
+        "latest": 2162688,
         "title": "Elemental Knights R"
     },
     "01005FA015D68000": {
@@ -36583,8 +36620,9 @@
         "131072": "FC8C229A661D2BC0",
         "196608": "ABE660DAD08E32AA",
         "262144": "9B24D80EADD244A0",
+        "327680": "C552B6464E7348A7",
         "65536": "9B01F243231D768B",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Moving Out 2"
     },
     "010065D018173000": {
@@ -41812,8 +41850,9 @@
         "0": "8750FDF251607F0F",
         "131072": "53967A9A2C270EC4",
         "262144": "74068320E985798B",
+        "327680": "A667C9FB4539AF9C",
         "65536": "AA9C314357506BA5",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Fae Farm"
     },
     "010073F0197DA000": {
@@ -42102,7 +42141,8 @@
     },
     "010074901A702000": {
         "0": "78CA1CF79FF787A0",
-        "latest": 0,
+        "65536": "1264D8A6212EC6EA",
+        "latest": 65536,
         "title": "Fragment's Note2+"
     },
     "010074901AA42000": {
@@ -42582,7 +42622,8 @@
     },
     "010075D0101FA000": {
         "0": "DC21619C9456324C",
-        "latest": 0,
+        "65536": "832A11FDA4450642",
+        "latest": 65536,
         "title": "Seek Hearts"
     },
     "010075D0101FB000": {
@@ -47370,7 +47411,8 @@
     },
     "010083501AB36000": {
         "0": "787FF5DAADBD445E",
-        "latest": 0,
+        "65536": "0959D87753F9FED4",
+        "latest": 65536,
         "title": "Solar Ash"
     },
     "010083600AE9E000": {
@@ -47973,6 +48015,7 @@
         "1507328": "63FF31D91BE6A1BA",
         "1572864": "2E4F456EBE4D83EA",
         "1638400": "B470984DB4CCC948",
+        "1703936": "DA7D68D91AB5FA3C",
         "327680": "60A84A7C1DB7A265",
         "393216": "407EA5D81F0E0497",
         "458752": "09128A5ADC482018",
@@ -47984,7 +48027,7 @@
         "851968": "4B9CD29AD17E9450",
         "917504": "AE53F010594F9FB8",
         "983040": "8625F7D5D0760E07",
-        "latest": 1638400,
+        "latest": 1703936,
         "title": "No Man's Sky"
     },
     "010085301797E000": {
@@ -52423,6 +52466,7 @@
     "0100913019170000": {
         "0": "1DD404C7CB742AB8",
         "1048576": "9C65351FDED2BA0C",
+        "1114112": "DE2A6641AB82F1AF",
         "131072": "39469FAF575D6CC9",
         "196608": "B796B30CC06A6CB5",
         "262144": "4C4D292A972DDF27",
@@ -52437,7 +52481,7 @@
         "786432": "ABE3FCD775AC92B5",
         "851968": "F419F23AD1FF0E6C",
         "917504": "FA72D2F40A9D6347",
-        "latest": 1048576,
+        "latest": 1114112,
         "title": "MLB\u00ae The Show\u2122 23"
     },
     "0100913019171000": {
@@ -53570,6 +53614,11 @@
         "latest": 131072,
         "title": "A Castle Full of Cats"
     },
+    "010094501CE96000": {
+        "0": "1B40CC6704433645",
+        "latest": 0,
+        "title": "Haunted Zombie Slaughter 2"
+    },
     "0100946008DAE000": {
         "0": "901D318088437E45",
         "65536": "F3CDB14AC6528042",
@@ -54484,8 +54533,9 @@
     "010096901B706000": {
         "0": "5B5E930188278FAC",
         "131072": "079F4F1DBC05F1BC",
+        "196608": "139E73ACD460AACB",
         "65536": "7A7A6533469FCBB4",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Adore"
     },
     "010096A00CC80000": {
@@ -55164,7 +55214,8 @@
     },
     "010098D01BC02000": {
         "0": "C3E6F398D69D8539",
-        "latest": 0
+        "latest": 0,
+        "title": "Crimson Song - Yuri Visual Novel"
     },
     "010098D01CD80000": {
         "0": "3C63116AB877C5DE",
@@ -56413,6 +56464,10 @@
         "latest": 0,
         "title": "Arenas Of Tanks"
     },
+    "01009C40194C4000": {
+        "65536": "94875C57AAF67821",
+        "latest": 65536
+    },
     "01009C5011274000": {
         "0": "883F3728EC53224A",
         "latest": 0
@@ -57471,6 +57526,11 @@
         "latest": 65536,
         "title": "CATTCH"
     },
+    "01009F0017F60000": {
+        "0": "794010320EB7DB45",
+        "latest": 0,
+        "title": "FRAG Pro Shooter"
+    },
     "01009F001A114000": {
         "0": "FD1C2F2613160F94",
         "latest": 0,
@@ -57674,6 +57734,11 @@
         "65536": "8E3D2C27D82782F0",
         "latest": 131072,
         "title": "HEXAPODA"
+    },
+    "01009FB01C66E000": {
+        "65536": "82B5BAFCAF0E56A3",
+        "latest": 65536,
+        "title": "Foot Clinic"
     },
     "01009FC018940000": {
         "0": "81A723650ACCB75E",
@@ -58098,8 +58163,9 @@
         "title": "Slingshot Stunt Driver & Sports"
     },
     "0100A0C01BED8000": {
+        "131072": "41C80760F44B0D2F",
         "65536": "0B0D09D27F3D5622",
-        "latest": 65536
+        "latest": 131072
     },
     "0100A0D004FB0000": {
         "0": "46F7CA498F8E3A92",
@@ -60097,8 +60163,9 @@
     "0100A6501BFCA000": {
         "0": "B69D517A387D9272",
         "131072": "2271CD3DA21D1483",
+        "196608": "75FBAE1CEF23ED48",
         "65536": "22E0DA1A6849CEB4",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Enraged Red Ogre"
     },
     "0100A66003384000": {
@@ -60790,6 +60857,11 @@
         "65536": "89EC30C12595DA6F",
         "latest": 196608,
         "title": "BROKEN MIND"
+    },
+    "0100A8201C54A000": {
+        "0": "506853A5AD67D35F",
+        "latest": 0,
+        "title": "Aireo FlightSimulator"
     },
     "0100A8300A4BA000": {
         "0": "09653E971C7AB9C4",
@@ -61674,7 +61746,8 @@
     },
     "0100AA80194B0000": {
         "0": "342A165CC42E997E",
-        "latest": 0,
+        "65536": "3A8E744D8F65CDEA",
+        "latest": 65536,
         "title": "Pikmin\u2122 1"
     },
     "0100AA900B282000": {
@@ -62082,7 +62155,8 @@
     },
     "0100ABF01B794000": {
         "0": "C16FD8EB4179D94E",
-        "latest": 0
+        "latest": 0,
+        "title": "Final Exerion"
     },
     "0100AC000ABE0000": {
         "latest": 0
@@ -62578,6 +62652,10 @@
         "0": "B4A8D002B8789B41",
         "latest": 0,
         "title": "Solitaire TriPeaks Flowers"
+    },
+    "0100AD301A982000": {
+        "0": "96E1A50D7786F4EB",
+        "latest": 0
     },
     "0100AD400BBE0000": {
         "0": "98341656CC77BFC2",
@@ -63536,6 +63614,11 @@
         "0": "3EF38B908B7442E5",
         "latest": 0,
         "title": "Chalk Gardens"
+    },
+    "0100B0101C718000": {
+        "0": "8A60BDD3F0D0AC11",
+        "latest": 0,
+        "title": "Retro Kart Rush"
     },
     "0100B020117D8000": {
         "0": "77FC645D80C16999",
@@ -68140,8 +68223,9 @@
         "0": "13DF1D7CE27DF649",
         "131072": "A30010B917E1E83A",
         "262144": "473D704EDA7B7983",
+        "327680": "E94FD7577DCA88DC",
         "65536": "6C2D4E0EE0DB2129",
-        "latest": 262144,
+        "latest": 327680,
         "title": "AEW: Fight Forever"
     },
     "0100BD10190C1000": {
@@ -68372,8 +68456,9 @@
         "latest": 0
     },
     "0100BD801B2DE000": {
+        "131072": "40F0BEA3C685624D",
         "65536": "AEF59D090F8D7749",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Sentry City"
     },
     "0100BD801BA68000": {
@@ -68455,8 +68540,9 @@
         "title": "Drunken Fist"
     },
     "0100BDB01A0E6000": {
+        "131072": "A8D4FEE18023F15C",
         "65536": "6B6D4D60E3187FFC",
-        "latest": 65536,
+        "latest": 131072,
         "title": "EA SPORTS FC\u2122 24"
     },
     "0100BDC00A664000": {
@@ -71170,7 +71256,8 @@
         "589824": "53AECA8D764401D4",
         "65536": "2E8DADDC2F2E22BC",
         "655360": "33F2BA939F798AC2",
-        "latest": 655360,
+        "720896": "9AAE6FD142F1D221",
+        "latest": 720896,
         "title": "Chained Echoes"
     },
     "0100C51017B08000": {
@@ -77296,7 +77383,8 @@
     },
     "0100D680194B2000": {
         "0": "B23A43495191E7AD",
-        "latest": 0,
+        "65536": "9A257FAB83444214",
+        "latest": 65536,
         "title": "Pikmin\u2122 2"
     },
     "0100D6801B98E000": {
@@ -79891,8 +79979,9 @@
         "0": "A354AE69ACAEF84E",
         "131072": "18EE24A86B62294B",
         "196608": "9EF66909BBC3884A",
+        "327680": "9722D7032FD13B4D",
         "65536": "F47F8C0D76574B4F",
-        "latest": 196608,
+        "latest": 327680,
         "title": "Black Book"
     },
     "0100DD1016EF0000": {
@@ -79921,8 +80010,9 @@
         "title": "Arcade Archives DIG DUG II"
     },
     "0100DD201C8C8000": {
+        "131072": "8B9AF8A32E7AA5BB",
         "65536": "ADDCE98FC1FBCE56",
-        "latest": 65536
+        "latest": 131072
     },
     "0100DD300CF3A000": {
         "0": "95947700181F5C61",
@@ -86711,6 +86801,11 @@
         "latest": 65536,
         "title": "Arcade Archives THUNDER CEPTOR"
     },
+    "0100EF801B7FA000": {
+        "65536": "2879D3370CC6C5DF",
+        "latest": 65536,
+        "title": "Fabled Lands"
+    },
     "0100EF801C822000": {
         "0": "0BAD4352C6F345E5",
         "latest": 0,
@@ -87498,6 +87593,11 @@
         "latest": 0,
         "title": "War Tank Machine Battle Vehicle Simulator - Fight World Wars WWII Mechanic Troopers Royale Driving"
     },
+    "0100F1801ACA6000": {
+        "65536": "30D51A973CBB0100",
+        "latest": 65536,
+        "title": "The Sisters 2 - Road to Fame"
+    },
     "0100F1801CA12000": {
         "0": "73DE8B5F12419D84",
         "latest": 0,
@@ -88172,6 +88272,11 @@
         "65536": "47E8B4AEB23188F0",
         "latest": 196608,
         "title": "Brightstone Mysteries: The Others"
+    },
+    "0100F3101C34C000": {
+        "0": "06C91CC9FB694651",
+        "latest": 0,
+        "title": "Evolings"
     },
     "0100F3200E7CA000": {
         "0": "254DF6A118587EA0",
@@ -88925,8 +89030,9 @@
     "0100F5501986E000": {
         "131072": "A762F92BAEEF07DC",
         "262144": "7FAEB5D0BBAF8752",
+        "327680": "148AFB38B45BFF6C",
         "65536": "3B937FAB8C981F34",
-        "latest": 262144
+        "latest": 327680
     },
     "0100F5501AFBE000": {
         "0": "5967EE4BB7E5308B",
@@ -89041,8 +89147,9 @@
         "131072": "A080548105F4E1EA",
         "196608": "4002AB524721525A",
         "262144": "B7C0B3B9C296E80B",
+        "327680": "799C01FC5DAD16EF",
         "65536": "315BA17FD941C553",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Twin Blades of the Three Kingdoms"
     },
     "0100F5B007638000": {
@@ -89997,8 +90104,9 @@
         "latest": 0
     },
     "0100F8701C182000": {
+        "131072": "BC26D98724BC5531",
         "65536": "6DF40BA4ADDB6D7A",
-        "latest": 65536
+        "latest": 131072
     },
     "0100F88012E34000": {
         "131072": "E16DF8316BD7B02B",
@@ -90247,6 +90355,11 @@
         "0": "DA197F3EBA101ED8",
         "latest": 0,
         "title": "Pixel Game Maker Series BURAIGUN GALAXY STORM"
+    },
+    "0100F91018628000": {
+        "65536": "E0AD8C25141AC915",
+        "latest": 65536,
+        "title": "TY the Tasmanian Tiger\u2122 4: Bush Rescue Returns\u2122"
     },
     "0100F9101ABC6000": {
         "0": "22241E4EDF84078C",
