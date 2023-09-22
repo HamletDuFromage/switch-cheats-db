@@ -7163,8 +7163,9 @@
     },
     "0100154019A7C000": {
         "0": "3B441C98064C672F",
+        "131072": "6D9F6C7B79F5197F",
         "65536": "BE2D1A84420113EC",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Mortal Shell: Complete Edition"
     },
     "010015500E9C0000": {
@@ -11638,6 +11639,11 @@
         "65536": "FF67967B1CB29CA1",
         "latest": 65536
     },
+    "0100218017CD8000": {
+        "65536": "08E95000EDE69DEB",
+        "latest": 65536,
+        "title": "Agatha Christie - Murder on the Orient Express"
+    },
     "0100219008678000": {
         "0": "9976817F2FD48249",
         "65536": "49CC8ADD49F5964B",
@@ -12789,9 +12795,13 @@
         "latest": 0
     },
     "010024D01C5A8000": {
+        "0": "AAD677108844DC53",
         "65536": "9375C636A7D8C8C0",
         "latest": 65536,
         "title": "Farm Land"
+    },
+    "010024D01C5A9000": {
+        "latest": 0
     },
     "010024F008742000": {
         "0": "8D30C66AF20E0B49",
@@ -14733,8 +14743,9 @@
     },
     "01002A001B13E000": {
         "0": "88DD2BF5BC95502D",
+        "131072": "F86AAB98564E6EAA",
         "65536": "D8DB7A1E0FAF49FF",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Mage & Monsters"
     },
     "01002A1004B34000": {
@@ -16375,6 +16386,11 @@
         "0": "F3645A37AA15B156",
         "latest": 0,
         "title": "ACA NEOGEO ZUPAPA!"
+    },
+    "01002E700C366000": {
+        "65536": "E7176397DD060813",
+        "latest": 65536,
+        "title": "COCOON"
     },
     "01002E700F958000": {
         "0": "02DD7CBD14A38994",
@@ -18906,7 +18922,8 @@
     },
     "010035301B64C000": {
         "0": "0B49741A5080F1D2",
-        "latest": 0
+        "latest": 0,
+        "title": "Tough Law"
     },
     "0100354011914000": {
         "0": "02518E6F6A9025ED",
@@ -19830,8 +19847,9 @@
         "327680": "575F3D8ACCA2B0A9",
         "393216": "575F3D8ACCA2B0A9",
         "458752": "38E8FF9CFD6B74CB",
+        "524288": "C1194C0984AB8CEF",
         "65536": "2AE761897172F0F0",
-        "latest": 458752,
+        "latest": 524288,
         "title": "Remains"
     },
     "0100381019AC6000": {
@@ -20642,6 +20660,11 @@
         "983040": "A153087D0559F682",
         "latest": 983040,
         "title": "Yu-Gi-Oh! Master Duel"
+    },
+    "010039E0182D8000": {
+        "0": "8ECB01C6E7E4F50C",
+        "latest": 0,
+        "title": "RAINBOW HIGH\u2122: RUNWAY RUSH"
     },
     "010039F00EF70000": {
         "0": "86792E00DF538845",
@@ -25386,6 +25409,11 @@
     "010046601125B000": {
         "latest": 0
     },
+    "0100466014290000": {
+        "0": "0A6554BB874E98AF",
+        "latest": 0,
+        "title": "Whateverland"
+    },
     "010046601865A000": {
         "65536": "95067CB531C4CCF9",
         "latest": 65536
@@ -28730,6 +28758,7 @@
         "latest": 196608
     },
     "01004FB01BD32000": {
+        "0": "53B859FDD9238B7C",
         "65536": "07A8BEC00CB7BCAC",
         "latest": 65536,
         "title": "Shuyan Saga"
@@ -30531,8 +30560,9 @@
     },
     "010055501B14C000": {
         "131072": "5A807EAD6289055F",
+        "196608": "76C988487F1DEEDD",
         "65536": "12D8805CDF50CA3E",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Wartales"
     },
     "010055600516C000": {
@@ -32570,6 +32600,11 @@
         "131072": "8BF3DE5A7340B50D",
         "65536": "0C4B977CD8598E51",
         "latest": 131072
+    },
+    "01005AF01AEE6000": {
+        "65536": "230DCB404FF673D1",
+        "latest": 65536,
+        "title": "Indoor Kickball"
     },
     "01005B000D786000": {
         "0": "2B0AC7E5A5FB6135",
@@ -35252,8 +35287,9 @@
     },
     "010061F0176F6000": {
         "131072": "B48DBEC9052F87E1",
+        "196608": "F722A80C29EF4275",
         "65536": "FF9A35D9CB784874",
-        "latest": 131072,
+        "latest": 196608,
         "title": "OXENFREE II: Lost Signals"
     },
     "0100620012D6E000": {
@@ -35748,6 +35784,11 @@
         "0": "39B69D08D7EC99FC",
         "latest": 0,
         "title": "Arcade Archives MAZINGER Z"
+    },
+    "010063601B386000": {
+        "0": "B2D980988279E8EA",
+        "latest": 0,
+        "title": "Venatrix"
     },
     "010063700CA1C000": {
         "65536": "C8BDEB90D7F8C92E",
@@ -37772,6 +37813,10 @@
         "latest": 0,
         "title": "Valis II"
     },
+    "010069301B44C000": {
+        "65536": "C0CE223A417650B6",
+        "latest": 65536
+    },
     "0100694006AC0000": {
         "0": "5E6DAD1B8CE88B86",
         "latest": 0
@@ -38445,7 +38490,8 @@
     },
     "01006AF01C0FA000": {
         "0": "FE05F7A53500A939",
-        "latest": 0
+        "latest": 0,
+        "title": "Arcade Archives STRIKE GUNNER"
     },
     "01006B000A666000": {
         "0": "685BEB151806E054",
@@ -39603,8 +39649,9 @@
     },
     "01006E300C920000": {
         "0": "98107A948C9EB7BB",
+        "131072": "75DF530B588C5DEE",
         "65536": "FA4DE175ED26F6D9",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Floating Cloud God: Anniversary Edition"
     },
     "01006E3018574000": {
@@ -40142,6 +40189,11 @@
         "latest": 65536,
         "title": "Infinity Strash: DRAGON QUEST The Adventure of Dai"
     },
+    "01006FA01CDA4000": {
+        "0": "4D4372BEC732190B",
+        "latest": 0,
+        "title": "AirJet Fighter Sky Dominators: Aerial Assault"
+    },
     "01006FB00990E000": {
         "0": "72BBC4CA4A543699",
         "131072": "B21025CA38B0E4D7",
@@ -40615,8 +40667,9 @@
     },
     "010070F017872000": {
         "0": "2DC6DB7A1EA3258D",
+        "131072": "4B807C0A35B84FE9",
         "65536": "2BF421C87EA41B18",
-        "latest": 65536,
+        "latest": 131072,
         "title": "WrestleQuest"
     },
     "010070F01901C000": {
@@ -44445,6 +44498,11 @@
         "0": "37DEF7C992D01C47",
         "latest": 0
     },
+    "01007B001CBFE000": {
+        "0": "C44E98C396C7B2F8",
+        "latest": 0,
+        "title": "Construction Machine Simulator 2023 : Hard Truck Work Job"
+    },
     "01007B100F9AC000": {
         "0": "24F6E1CF9575B440",
         "latest": 0
@@ -47915,7 +47973,8 @@
     },
     "010084D01CA20000": {
         "0": "C8A8991181B49902",
-        "latest": 0
+        "65536": "683F6368611D5ABD",
+        "latest": 65536
     },
     "010084E00E8A4000": {
         "0": "693008F5D02E4470",
@@ -56385,7 +56444,8 @@
     },
     "01009C201BF2E000": {
         "0": "2A6AD0CBB38A6F7A",
-        "latest": 0,
+        "65536": "7ECED8176ADA13D6",
+        "latest": 65536,
         "title": "DYNABLASTER"
     },
     "01009C201BFE8000": {
@@ -60222,8 +60282,9 @@
         "title": "Everybody, Hearts!"
     },
     "0100A6901967E000": {
+        "131072": "1CBACD9AB20A7782",
         "65536": "FC981E30BB97C46B",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Sven - Completely Screwed"
     },
     "0100A6A00894C000": {
@@ -62655,7 +62716,8 @@
     },
     "0100AD301A982000": {
         "0": "96E1A50D7786F4EB",
-        "latest": 0
+        "latest": 0,
+        "title": "Telenet Shooting Collection"
     },
     "0100AD400BBE0000": {
         "0": "98341656CC77BFC2",
@@ -64409,7 +64471,8 @@
         "0": "B5E8363FD03DB6AD",
         "131072": "9DD5F32EF9B3F41B",
         "65536": "B7E1C5F019C9E4D8",
-        "latest": 131072
+        "latest": 131072,
+        "title": "TAISHO x ALICE: HEADS & TAILS"
     },
     "0100B1F013F2E000": {
         "0": "DD5CB6F9B5BEFB40",
@@ -68625,6 +68688,7 @@
         "title": "Strife: Veteran Edition"
     },
     "0100BDF015760000": {
+        "0": "71E1BBBEBF10FA1E",
         "65536": "E64099A8449C88F0",
         "latest": 65536,
         "title": "Avatar The Last Airbender: Quest for Balance"
@@ -71537,6 +71601,11 @@
         "65536": "388E0AD8CDD7AB66",
         "latest": 131072
     },
+    "0100C5E01CFDA000": {
+        "0": "047FEC67701715EE",
+        "latest": 0,
+        "title": "Playroom Racer"
+    },
     "0100C5F00D8AA000": {
         "65536": "B310693A6D355E98",
         "latest": 65536
@@ -71849,8 +71918,9 @@
     "0100C6801A176000": {
         "0": "8060E8F7084940E9",
         "131072": "9187D8FE6C0CA17B",
+        "196608": "62E530FD7B4BB762",
         "65536": "62DD1B19A13FF639",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Necrosmith"
     },
     "0100C69010522000": {
@@ -72413,6 +72483,11 @@
         "65536": "EB87BF4D8C40564A",
         "latest": 65536,
         "title": "Fin and the Ancient Mystery"
+    },
+    "0100C8201BF8E000": {
+        "0": "F38C75D07D9D245F",
+        "latest": 0,
+        "title": "Mermaid Castle 2"
     },
     "0100C8300FA30000": {
         "0": "74B8FB8D7225594F",
@@ -77515,8 +77590,9 @@
     "0100D6F012AE6000": {
         "0": "24C65DEF343C264C",
         "131072": "EE03D977BB0B4C43",
+        "196608": "EE03D977BB0B4C43",
         "65536": "AF989E9170DF844C",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Tales of Djungarian Hamster"
     },
     "0100D6F012AE7000": {
@@ -78598,6 +78674,11 @@
     },
     "0100D9701A267000": {
         "latest": 0
+    },
+    "0100D9701AF14000": {
+        "0": "E5F7B7AE0420FC65",
+        "latest": 0,
+        "title": "Sudoku for Kids"
     },
     "0100D9701B400000": {
         "0": "A9992A05EF0D5CB5",
@@ -82536,8 +82617,9 @@
     },
     "0100E46015634000": {
         "0": "098B9DB864FF2F1B",
+        "131072": "8192BA7D0DD9A22B",
         "65536": "6B4DCD709C251C90",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Pirates Outlaws"
     },
     "0100E46016F18000": {
@@ -87486,6 +87568,11 @@
         "latest": 393216,
         "title": "INMOST"
     },
+    "0100F1401CBF6000": {
+        "0": "E0865185DA7C97FC",
+        "latest": 0,
+        "title": "Cyber Citizen Shockman 2: A New Menace"
+    },
     "0100F15003E64000": {
         "0": "43FC559A975DD485",
         "327680": "1953770037ACC52A",
@@ -88975,7 +89062,8 @@
         "0": "D11BBAF077AD5F22",
         "131072": "A8CD87B850AF3AEE",
         "196608": "49FB41AF369A3245",
-        "latest": 196608,
+        "327680": "C7A1C83ADA6918E3",
+        "latest": 327680,
         "title": "Fall of Porcupine"
     },
     "0100F5301B542000": {
@@ -91645,6 +91733,10 @@
         "latest": 0,
         "title": "Reversi Let's Go"
     },
+    "0100FCD0193A0000": {
+        "65536": "4F3EB9C99B67CA86",
+        "latest": 65536
+    },
     "0100FCE00F9B0000": {
         "65536": "E3E744769CE7384A",
         "latest": 65536
@@ -92289,6 +92381,7 @@
         "title": "Japanese NEKOSAMA Escape The Local Train"
     },
     "0100FF301B18C000": {
+        "0": "1EC1515E15791E42",
         "65536": "659E0A4ACD3F0A69",
         "latest": 65536,
         "title": "Bud Spencer & Terence Hill - Slaps and Beans 2"
