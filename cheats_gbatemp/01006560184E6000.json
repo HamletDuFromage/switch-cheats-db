@@ -1,0 +1,14 @@
+{
+    "A446D1E967710943": {
+        "[Mortal Kombat 1 v1.3.0 TID=01006560184E6000 BID=A446D1E967710943]": "[Mortal Kombat 1 v1.3.0 TID=01006560184E6000 BID=A446D1E967710943]\n\n",
+        "{Master Code (includes share functions)}": "{Master Code (includes share functions)}\n580F0000 0AA840B0\n580F1000 00000000\n580F1000 00001870\n\n",
+        "[\u2116 1. Invulnerable]": "[\u2116 1. Invulnerable]\n480D0000 00000000 000000C0\n620F01D0 00000000 00000101\n\n",
+        "[\u2116 2. Infinite Fight Timer]": "[\u2116 2. Infinite Fight Timer]\n480D0000 00000000 000000CA\n620F01D0 00000000 00000101\n\n",
+        "[\u2116 3. Combo Scale Damage]": "[\u2116 3. Combo Scale Damage]\n480D0000 00000000 000000C8\n620F01D0 00000000 00000101\n\n",
+        "[\u2116 4. Unlimited Talisman Charges]": "[\u2116 4. Unlimited Talisman Charges]\n480D0000 00000000 000000CC\n620F01D0 00000000 00000101\n\n",
+        "[\u2116 5. Unlimited Krushing Blows]": "[\u2116 5. Unlimited Krushing Blows]\n480D0000 00000000 000000A4\n640F01D0 00000000 01010101\n\n",
+        "[\u2116 6. Ignore Supermove Requirement]": "[\u2116 6. Ignore Supermove Requirement]\n480D0000 00000000 00000098\n620F01D0 00000000 00000101\n\n",
+        "[\u2116 7. X-Rays Moves Are Instant Kill]": "[\u2116 7. X-Rays Moves Are Instant Kill]\n480D0000 00000000 000000A2\n620F01D0 00000000 00000101\n\n",
+        "[\u2116 8. Map Mode XP Boost Multiplier 5x]": "[\u2116 8. Map Mode XP Boost Multiplier 5x]\n480D0000 00000000 00000128\n680F01D0 40A00000 40A00000\n\n"
+    }
+}
