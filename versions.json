@@ -282,6 +282,11 @@
         "latest": 0,
         "title": "Ken Follett's The Pillars of the Earth"
     },
+    "010000C01CDD0000": {
+        "0": "4D73466CA80A9810",
+        "latest": 0,
+        "title": "Kumakichi's Birth \u2606 Destruction God"
+    },
     "010000D00F81A000": {
         "0": "57EC5A34456AD947",
         "latest": 0,
@@ -2923,6 +2928,10 @@
         "latest": 65536,
         "title": "We Are OFK"
     },
+    "010008A01962E000": {
+        "0": "70D45EF00E0AF0D8",
+        "latest": 0
+    },
     "010008B01CCD8000": {
         "0": "198350B9DBA037C9",
         "latest": 0
@@ -3927,8 +3936,9 @@
     "01000B9019012000": {
         "0": "53392EA23C6BD1B7",
         "131072": "C1260B9FA8369204",
+        "196608": "9A0BF90ACCBA0987",
         "65536": "C1260B9FA8369204",
-        "latest": 131072
+        "latest": 196608
     },
     "01000B901BD96000": {
         "0": "F4AF50D416017F93",
@@ -4718,6 +4728,14 @@
         "0": "9C35183C5AF4B941",
         "latest": 0
     },
+    "01000DA017CF0000": {
+        "0": "47155E024AA0A85D",
+        "65536": "B3F271EF130A5338",
+        "latest": 65536
+    },
+    "01000DA017CF1000": {
+        "latest": 0
+    },
     "01000DA01BBE8000": {
         "0": "1694A7A1ABE3138D",
         "latest": 0,
@@ -5435,8 +5453,9 @@
     "01000FA01AB30000": {
         "0": "75D99A086F6157E2",
         "131072": "3AF61A433C103BFD",
+        "196608": "26FED6D6298137E6",
         "65536": "E4CF5F56962AC19C",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Stray Gods: The Roleplaying Musical"
     },
     "01000FB008900000": {
@@ -5457,7 +5476,8 @@
     },
     "01000FC019058000": {
         "0": "50988F94FC940FCB",
-        "latest": 0,
+        "65536": "EC637FFAE19AEE69",
+        "latest": 65536,
         "title": "BACKGAMMON PRO for Nintendo Switch"
     },
     "01000FC01977E000": {
@@ -5913,6 +5933,11 @@
         "latest": 0,
         "title": "Quell Reflect"
     },
+    "010011101B7BE000": {
+        "0": "F4622CF645D1C567",
+        "latest": 0,
+        "title": "CyberTD"
+    },
     "0100112003B8A000": {
         "0": "7B26C64A146957E3",
         "262144": "B422D63E07B2BDE2",
@@ -6145,6 +6170,10 @@
         "latest": 393216
     },
     "010011C00E637000": {
+        "latest": 0
+    },
+    "010011C01B938000": {
+        "0": "5B4CB7C158E9D8D8",
         "latest": 0
     },
     "010011D00F540000": {
@@ -7067,6 +7096,7 @@
         "latest": 65536
     },
     "0100150018200000": {
+        "0": "C0E98C22CE00D298",
         "65536": "47B7DC55D707D10A",
         "latest": 65536,
         "title": "Dolphin Spirit - Ocean Mission"
@@ -7427,7 +7457,8 @@
         "589824": "7A834FBEB000143F",
         "65536": "B9C712C5C87E9EE8",
         "655360": "10F33FB6836643D5",
-        "latest": 655360,
+        "720896": "5EABBB752498C865",
+        "latest": 720896,
         "title": "Pok\u00e9mon\u2122 HOME"
     },
     "010015F014A5C000": {
@@ -10175,6 +10206,11 @@
         "0": "8F46459878EF3630",
         "latest": 0,
         "title": "Storm Tale 2"
+    },
+    "01001D701C290000": {
+        "0": "1EF8A973A0D18AAB",
+        "latest": 0,
+        "title": "Chipmonk!"
     },
     "01001D800AAA0000": {
         "0": "1CD3D75F1A80864A",
@@ -13793,6 +13829,12 @@
         "65536": "D6749F3A25827471",
         "latest": 131072
     },
+    "0100273018D70000": {
+        "0": "3846C29E56B3D022",
+        "65536": "146793D113E1391B",
+        "latest": 65536,
+        "title": "PAW Patrol World"
+    },
     "0100274004052000": {
         "latest": 65536,
         "title": "PAYDAY 2"
@@ -14671,6 +14713,11 @@
         "0": "A2FEA0F6561E1BCF",
         "latest": 0,
         "title": "Sokocat - Combo"
+    },
+    "010029D01CECC000": {
+        "0": "652E0642CAB9B1E6",
+        "latest": 0,
+        "title": "Ancient Mahjong"
     },
     "010029E00B0D8000": {
         "0": "F940E0AB6288464E",
@@ -15855,6 +15902,10 @@
         "65536": "D615CBFBA54A6A34",
         "latest": 65536,
         "title": "Air Stunt Racing"
+    },
+    "01002CD01D19A000": {
+        "0": "2BA40621F9748769",
+        "latest": 0
     },
     "01002CE00B6A8000": {
         "0": "BA38C173B15DF2E0",
@@ -17807,6 +17858,7 @@
         "title": "Prison Life Simulator Jail - Gangster Escape Games Scary Architect Battle"
     },
     "010032401BA7C000": {
+        "0": "9CB62757F3987A52",
         "65536": "C805F4A869906AB5",
         "latest": 65536,
         "title": "Boaty Tanks"
@@ -18699,6 +18751,10 @@
         "0": "7BD16BF55504AF50",
         "65536": "159E7B6DD5735AC0",
         "latest": 65536
+    },
+    "010034701D13A000": {
+        "0": "B8CCA2D1409C558F",
+        "latest": 0
     },
     "0100348001DE6000": {
         "0": "8B3FE605F3F820AB",
@@ -20705,7 +20761,8 @@
     "010039F01AF5A000": {
         "0": "0A9FD7BC78A1DA4A",
         "262144": "1786D7F66D9EBA45",
-        "latest": 262144,
+        "327680": "9727E4585B6C684B",
+        "latest": 327680,
         "title": "Trombone Champ"
     },
     "01003A000976E000": {
@@ -21056,6 +21113,11 @@
     "01003AE015020000": {
         "65536": "EE34D0D6F05D414C",
         "latest": 65536
+    },
+    "01003AE01AA76000": {
+        "65536": "B3F271EF130A5338",
+        "latest": 65536,
+        "title": "Fate/Samurai Remnant"
     },
     "01003AF006A6C000": {
         "0": "8C5A68EC47371E4F",
@@ -23382,6 +23444,7 @@
         "latest": 0
     },
     "010041501ADC8000": {
+        "0": "59299AA113E99706",
         "65536": "FBCA5D0362EB2C93",
         "latest": 65536
     },
@@ -25932,6 +25995,11 @@
         "65536": "010E2E09F0E43D25",
         "latest": 327680
     },
+    "010048001C52E000": {
+        "0": "1BE6FD654A4CE962",
+        "latest": 0,
+        "title": "ANGEL WHISPER - The Suspense Visual Novel Left Behind by a Game Creator."
+    },
     "010048100BCD8000": {
         "0": "8CD2DFDD399D9342",
         "latest": 0
@@ -26057,6 +26125,11 @@
         "65536": "2A1E24E247287805",
         "latest": 131072,
         "title": "SUPER UFO FIGHTER"
+    },
+    "010048401A7E8000": {
+        "0": "D51F6FA01C0ABE48",
+        "latest": 0,
+        "title": "Deflector"
     },
     "0100485012F1C000": {
         "0": "B4A31728DFF82848",
@@ -28339,9 +28412,13 @@
         "131072": "C67FEBB1A94E8140",
         "196608": "A5B86711635EEB43",
         "327680": "5713C1EB10D39741",
+        "393216": "466FF1284FF7D64C",
         "65536": "658475DF5B183C43",
-        "latest": 327680,
+        "latest": 393216,
         "title": "The Crackpet Show"
+    },
+    "01004E6016E6F000": {
+        "latest": 0
     },
     "01004E700DFE6000": {
         "0": "73E0765BF7B07047",
@@ -30903,6 +30980,11 @@
         "latest": 65536,
         "title": "Five Nights at Freddy's 3"
     },
+    "0100561012BAC000": {
+        "0": "ECE54750E228B82B",
+        "65536": "D75E988BE21BCE2E",
+        "latest": 65536
+    },
     "010056200B46A000": {
         "0": "E05627B3D675904E",
         "65536": "C41CB5DAF8C42F48",
@@ -31534,6 +31616,11 @@
         "latest": 65536,
         "title": "Halloween Forever"
     },
+    "010057D017B0A000": {
+        "131072": "0BC3BE34BB480BBA",
+        "65536": "D07C167F67CADDC0",
+        "latest": 131072
+    },
     "010057D01BA78000": {
         "0": "CFAC3F010490E2CF",
         "latest": 0
@@ -31948,8 +32035,9 @@
         "196608": "EDE7CAE790AB7DDC",
         "262144": "B9F4AB7B136F4609",
         "327680": "40F1582EF59B2CA4",
+        "393216": "6E3940C132C1364F",
         "65536": "FD727B9D08F7CCEF",
-        "latest": 327680
+        "latest": 393216
     },
     "0100594019A2A000": {
         "0": "906A2CB82B6E0391",
@@ -32638,6 +32726,7 @@
         "latest": 131072
     },
     "01005AF01AEE6000": {
+        "0": "86C32C3C0DF30E14",
         "65536": "230DCB404FF673D1",
         "latest": 65536,
         "title": "Indoor Kickball"
@@ -32705,6 +32794,7 @@
         "latest": 65536
     },
     "01005B201AA4E000": {
+        "0": "181B66590507824D",
         "65536": "0A3DEDE521DDA666",
         "latest": 65536,
         "title": "Pizza Possum"
@@ -39439,6 +39529,10 @@
         "latest": 65536,
         "title": "Arcade Archives TUBE PANIC"
     },
+    "01006D40199A2000": {
+        "0": "96AAFE4288CEA049",
+        "latest": 0
+    },
     "01006D500B0C8000": {
         "0": "67F2BD16688466CB",
         "196608": "DC2DC2B620DC10A2",
@@ -40231,9 +40325,14 @@
         "title": "Best Sniper Legacy: Dino Hunt & Shooter 3D"
     },
     "01006FA018D40000": {
+        "0": "BBF8EA4CA985DE4E",
+        "131072": "DB7E474BEFABB6A0",
         "65536": "ED5D2490D18A4BE3",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Infinity Strash: DRAGON QUEST The Adventure of Dai"
+    },
+    "01006FA018D41000": {
+        "latest": 0
     },
     "01006FA01CDA4000": {
         "0": "4D4372BEC732190B",
@@ -42602,6 +42701,11 @@
         "latest": 0,
         "title": "My Lovely Pets Collector's Edition"
     },
+    "010075701C2E8000": {
+        "0": "DE13CC154874A11B",
+        "latest": 0,
+        "title": "Digitris"
+    },
     "01007580124C0000": {
         "0": "85A9ECD25ABE0445",
         "131072": "EFB93F26850C3E43",
@@ -44957,8 +45061,12 @@
     },
     "01007C3018A98000": {
         "0": "E42282D6D0EDF095",
+        "131072": "FDFB5943B74F688D",
         "65536": "59AC6E47346BA7AC",
-        "latest": 65536
+        "latest": 131072
+    },
+    "01007C3018A99000": {
+        "latest": 0
     },
     "01007C301931E000": {
         "0": "71A010A09FD4A175",
@@ -46602,8 +46710,9 @@
     },
     "010081001B516000": {
         "0": "C210EDBFBF404575",
+        "131072": "B57F15BD01D92E2D",
         "65536": "9A8D48D1E3634EB8",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Placid Plastic Duck Simulator"
     },
     "01008110036FE000": {
@@ -46807,6 +46916,7 @@
         "title": "Ruggnar"
     },
     "010081801A980000": {
+        "0": "7E41597F484FEF0B",
         "65536": "255557811A2EACC5",
         "latest": 65536,
         "title": "CounterAttack: Uprising"
@@ -46978,6 +47088,11 @@
         "327680": "5D40BB23050F29F4",
         "latest": 327680,
         "title": "Treasure Temples"
+    },
+    "010081E01A45C000": {
+        "65536": "6B5E31BAA58DB229",
+        "latest": 65536,
+        "title": "Bang-On Balls: Chronicles"
     },
     "010081E01A748000": {
         "0": "45444C59656CF19F",
@@ -51345,6 +51460,10 @@
         "latest": 458752,
         "title": "APICO"
     },
+    "01008DE01CE46000": {
+        "0": "2F3EBE24248C2C9F",
+        "latest": 0
+    },
     "01008DF00B78E000": {
         "0": "5D956D4949715A4E",
         "65536": "C76EA2C6DF825C45",
@@ -53613,8 +53732,9 @@
         "0": "910A9B8E7DF9A9CE",
         "131072": "5C04DB2C7B01369A",
         "196608": "CCC8A98FD8EC5F3C",
+        "262144": "1B5BB4F1899B5663",
         "65536": "8AF21169A68583B9",
-        "latest": 196608
+        "latest": 262144
     },
     "0100942019419000": {
         "latest": 0
@@ -55317,6 +55437,10 @@
         "latest": 0,
         "title": "Drift Horizon Racing, Driving & Parking Trial Simulator Games"
     },
+    "010098A01999E000": {
+        "0": "6811AE70EBD39AD0",
+        "latest": 0
+    },
     "010098A01B9A8000": {
         "0": "F53AFC6DB5256F55",
         "65536": "A3D1200EF617A81E",
@@ -56113,6 +56237,11 @@
         "65536": "D3F53669DDC6AB45",
         "latest": 65536,
         "title": "Caverns of Mars: Recharged"
+    },
+    "01009B201A95E000": {
+        "65536": "848E0618970349DE",
+        "latest": 65536,
+        "title": "Gothic Classic"
     },
     "01009B300872A000": {
         "0": "3F6CA7B86B217FA0",
@@ -58298,8 +58427,9 @@
     },
     "0100A0C01BED8000": {
         "131072": "41C80760F44B0D2F",
+        "196608": "41C80760F44B0D2F",
         "65536": "0B0D09D27F3D5622",
-        "latest": 131072
+        "latest": 196608
     },
     "0100A0D004FB0000": {
         "0": "46F7CA498F8E3A92",
@@ -59972,6 +60102,11 @@
         "latest": 0,
         "title": "Gruta"
     },
+    "0100A5701C1BE000": {
+        "0": "A53681B051A7C417",
+        "latest": 0,
+        "title": "Anime Poly Puzzle - Sci-Fi Maidens"
+    },
     "0100A58012268000": {
         "0": "05F8EEC744BFDD4C",
         "131072": "05822BD24EFE604C",
@@ -60543,6 +60678,7 @@
         "latest": 458752
     },
     "0100A70016FEE000": {
+        "0": "A3FEE9497B5E3F42",
         "131072": "A3FEE9497B5E3F42",
         "196608": "A3FEE9497B5E3F42",
         "65536": "A3FEE9497B5E3F42",
@@ -63066,6 +63202,10 @@
         "latest": 131072,
         "title": "Emily Archer and the Curse of Tutankhamun"
     },
+    "0100ADF01CF7E000": {
+        "0": "9B4984368D624CFB",
+        "latest": 0
+    },
     "0100AE0003424000": {
         "0": "E0551154AB7AB947",
         "327680": "B1A687EE102974E5",
@@ -63537,6 +63677,10 @@
         "latest": 0,
         "title": "VEREDA - Escape Room Adventure"
     },
+    "0100AF701CA92000": {
+        "0": "8A9D954CBE2EA5D1",
+        "latest": 0
+    },
     "0100AF8006AF2000": {
         "131072": "D8068522E950DD87",
         "latest": 131072
@@ -63916,6 +64060,10 @@
         "0": "1C46E08C2C64FFE9",
         "latest": 0,
         "title": "Z World Zombie Death War : Survival Platformer Game Left Killer Box 2023"
+    },
+    "0100B0701AA78000": {
+        "65536": "B3F271EF130A5338",
+        "latest": 65536
     },
     "0100B0800DBAC000": {
         "0": "1C06D7E11BE6A440",
@@ -65179,7 +65327,8 @@
     },
     "0100B3F01B5E0000": {
         "0": "B62F313C6A991863",
-        "latest": 0
+        "latest": 0,
+        "title": "My Name is Mayo 2"
     },
     "0100B40013CF2000": {
         "0": "68264697B5CB8E13",
@@ -66525,8 +66674,9 @@
     },
     "0100B7C00933A000": {
         "0": "396C9D7D8EB611A3",
+        "131072": "BB89070F5B0028FF",
         "65536": "3C8B5AEAA796F844",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Pikmin\u2122 4"
     },
     "0100B7C01169C000": {
@@ -67594,6 +67744,11 @@
         "latest": 0,
         "title": "Super Dinoblasters"
     },
+    "0100BAC01CD32000": {
+        "0": "83AAAF1E3AA6F2AD",
+        "65536": "B71ECC7C166B8772",
+        "latest": 65536
+    },
     "0100BAD013B6E000": {
         "0": "76876C04EE6CFD4F",
         "latest": 0,
@@ -67629,9 +67784,18 @@
         "title": "Indie Darling Bundle Vol. 1"
     },
     "0100BAE01A078000": {
+        "0": "20031EF79E8ADF72",
         "131072": "C7CC59D8B60D5A6E",
         "65536": "B3F8EB2CF7A6BFD1",
         "latest": 131072
+    },
+    "0100BAE01A079000": {
+        "latest": 0
+    },
+    "0100BAE01C1FA000": {
+        "65536": "03DBF7F74D2AA2B5",
+        "latest": 65536,
+        "title": "Aquarium Land"
     },
     "0100BAF011C14000": {
         "65536": "A45725F8E855E31A",
@@ -67808,6 +67972,7 @@
         "1179648": "AD819EC1B50A9340",
         "1245184": "F66444661EFF0142",
         "131072": "DACA128D4F586046",
+        "1310720": "82A3AA4DA8D5EB4E",
         "196608": "12C224EFE4CA3641",
         "262144": "D1EABD1318475B4A",
         "327680": "E167BEAEC743A840",
@@ -67822,7 +67987,7 @@
         "851968": "A324C5AFD6512641",
         "917504": "3871F9BBD6F13D46",
         "983040": "97045CE7D924B544",
-        "latest": 1245184,
+        "latest": 1310720,
         "title": "Jigsaw Masterpieces"
     },
     "0100BB800E0D3000": {
@@ -68556,6 +68721,7 @@
         "1638400": "E1CAB73BD5AA11CC",
         "1703936": "B8481AD4A3A127E2",
         "1769472": "1B1CB5DD88959077",
+        "1835008": "35A7091376D5B3CD",
         "196608": "63304FE240573247",
         "262144": "279B61115A5C1241",
         "327680": "04183CA2CCED6D4D",
@@ -68570,7 +68736,7 @@
         "851968": "77568A690EA64543",
         "917504": "4058E95B165CB347",
         "983040": "CB61FFD15E90C844",
-        "latest": 1769472,
+        "latest": 1835008,
         "title": "Gems of War"
     },
     "0100BD800DFA6000": {
@@ -68606,6 +68772,7 @@
         "latest": 0
     },
     "0100BD801B2DE000": {
+        "0": "7E38EDC9B8AD4642",
         "131072": "40F0BEA3C685624D",
         "65536": "AEF59D090F8D7749",
         "latest": 131072,
@@ -68896,6 +69063,10 @@
         "0": "7CBA2D246A2ECFD0",
         "latest": 0,
         "title": "Time Loader"
+    },
+    "0100BE40199A0000": {
+        "0": "13609A617E035827",
+        "latest": 0
     },
     "0100BE50042F6000": {
         "0": "8B341F1009E7414D",
@@ -70060,6 +70231,7 @@
         "latest": 0
     },
     "0100C1601AE38000": {
+        "0": "7D7A03B0E47F252C",
         "65536": "A5EFC06637ABB694",
         "latest": 65536,
         "title": "Firefighting Simulator - The Squad"
@@ -70252,6 +70424,10 @@
         "65536": "11EB1FC380E9208B",
         "latest": 131072,
         "title": "Virtual Families Cook Off: Chapter 2 Farm Life"
+    },
+    "0100C1E01CEE6000": {
+        "0": "652F6BBA9634E007",
+        "latest": 0
     },
     "0100C1F0051B6000": {
         "0": "0E7A480A50A0D3DD",
@@ -70831,8 +71007,9 @@
     },
     "0100C380190EA000": {
         "0": "4D1A731FBB8DB5CA",
+        "131072": "226721AA06FE6AC8",
         "65536": "0AC975009E06D442",
-        "latest": 65536,
+        "latest": 131072,
         "title": "EXTREME BIKE X"
     },
     "0100C38019A02000": {
@@ -70933,6 +71110,7 @@
         "131072": "DBEB5A96310F8945",
         "1310720": "E1DF725B85A6274E",
         "1376256": "404FB9D9B7B05943",
+        "1441792": "4D8E60EE54647017",
         "196608": "5538783454843541",
         "262144": "78589E48A803AE42",
         "327680": "ABD5A6B5E423724F",
@@ -70945,7 +71123,7 @@
         "851968": "2E80DF19EDC11145",
         "917504": "7ABD79235B203C4E",
         "983040": "E6BB8E56B8ABF945",
-        "latest": 1376256,
+        "latest": 1441792,
         "title": "Fall Guys"
     },
     "0100C3D00923A000": {
@@ -71642,6 +71820,11 @@
         "65536": "827B2B18A0539F25",
         "latest": 262144,
         "title": "Retro Bowl"
+    },
+    "0100C5B01BB32000": {
+        "0": "90316398652EB04B",
+        "latest": 0,
+        "title": "Faerie Afterlight"
     },
     "0100C5C01771C000": {
         "0": "852B65D4CAE8914E",
@@ -74009,9 +74192,13 @@
         "latest": 196608
     },
     "0100CC401A16C000": {
+        "0": "A6581B4C16DB0F4C",
         "131072": "14026324C6864D20",
         "65536": "40A5B66BC0DCC1B5",
         "latest": 131072
+    },
+    "0100CC401A16D000": {
+        "latest": 0
     },
     "0100CC501A276000": {
         "0": "BC5960C6170AD124",
@@ -75447,7 +75634,8 @@
         "0": "69DCBA3B11E93C99",
         "131072": "33B05E710CF81CFC",
         "196608": "473437E0EEC7FB10",
-        "latest": 196608
+        "262144": "62DABAEC5F9C3EDD",
+        "latest": 262144
     },
     "0100D0601BCE4000": {
         "0": "743F36510C36DF21",
@@ -76191,6 +76379,11 @@
         "65536": "691CA8131E04856C",
         "latest": 131072,
         "title": "DREAMO"
+    },
+    "0100D24016218000": {
+        "0": "CCCF7368624E70B0",
+        "latest": 0,
+        "title": "Abomi Nation"
     },
     "0100D250083B4000": {
         "0": "51156CAC4DD69C27",
@@ -77155,6 +77348,10 @@
         "latest": 0,
         "title": "DreamGallery"
     },
+    "0100D5601CD5C000": {
+        "0": "A5BA58980FC22679",
+        "latest": 0
+    },
     "0100D5700877A000": {
         "0": "DE241662F27B71D5",
         "131072": "02AC669F45C200DB",
@@ -77569,6 +77766,10 @@
         "latest": 0,
         "title": "Healthy Recipes"
     },
+    "0100D6801CD64000": {
+        "0": "5C258EF2A13FDF3C",
+        "latest": 0
+    },
     "0100D6900E3D6000": {
         "0": "2A009DDFB1DEA64C",
         "latest": 0,
@@ -77584,6 +77785,10 @@
         "65536": "CC5CA8CDF538621F",
         "latest": 65536,
         "title": "The Witch's House MV"
+    },
+    "0100D6901CE24000": {
+        "0": "0B8A41B9295E9A94",
+        "latest": 0
     },
     "0100D6A00BE66000": {
         "0": "CBE031EF3E5A7848",
@@ -78540,6 +78745,10 @@
     },
     "0100D8B019E9A000": {
         "0": "8CBF8D167941F045",
+        "latest": 0
+    },
+    "0100D8B019FC0000": {
+        "0": "073A98FB1111EDD1",
         "latest": 0
     },
     "0100D8C01535C000": {
@@ -79548,7 +79757,8 @@
     },
     "0100DB601AFBA000": {
         "0": "0581D414AB0CAD42",
-        "latest": 0,
+        "65536": "D93AEFD771492CF7",
+        "latest": 65536,
         "title": "Side View Golf"
     },
     "0100DB7003828000": {
@@ -80174,6 +80384,11 @@
         "latest": 0,
         "title": "Ammo Pigs: Cocked and Loaded"
     },
+    "0100DD101C768000": {
+        "0": "DC748158855B9304",
+        "latest": 0,
+        "title": "Lord of the Click: Interstellar Wars"
+    },
     "0100DD200B59E000": {
         "0": "11A0A0B945EFA34B",
         "131072": "8211262E7EF7AD41",
@@ -80196,8 +80411,9 @@
     },
     "0100DD201C8C8000": {
         "131072": "8B9AF8A32E7AA5BB",
+        "196608": "8B9AF8A32E7AA5BB",
         "65536": "ADDCE98FC1FBCE56",
-        "latest": 131072
+        "latest": 196608
     },
     "0100DD300CF3A000": {
         "0": "95947700181F5C61",
@@ -81337,7 +81553,8 @@
     },
     "0100E0B019974000": {
         "0": "E2ECDD490B9F4146",
-        "latest": 0
+        "65536": "D0DA783EAC219CFD",
+        "latest": 65536
     },
     "0100E0B01B0A0000": {
         "0": "D666FA381D473DD8",
@@ -83656,6 +83873,10 @@
         "latest": 0,
         "title": "Robolt"
     },
+    "0100E6B018CE0000": {
+        "0": "AA9F504BC18F74F6",
+        "latest": 0
+    },
     "0100E6B019718000": {
         "262144": "403BB96D992DAD8B",
         "327680": "B7E84D2B891DED35",
@@ -85097,6 +85318,10 @@
         "0": "92B9EE80D1B041AC",
         "latest": 0,
         "title": "Forklift 2024 - The Simulation"
+    },
+    "0100EAB01B614000": {
+        "0": "A7C13ADEC40C7257",
+        "latest": 0
     },
     "0100EAD007E98000": {
         "0": "9AD9E0CE3A71663C",
@@ -89480,8 +89705,9 @@
         "title": "Reasoning of Courage123"
     },
     "0100F6001B738000": {
+        "131072": "933C03D22D733010",
         "65536": "F6683D21922FDA37",
-        "latest": 65536,
+        "latest": 131072,
         "title": "A Tiny Sticker Tale"
     },
     "0100F6001CEAA000": {
@@ -90468,6 +90694,10 @@
         "latest": 131072,
         "title": "Vengeful Guardian: Moonrider"
     },
+    "0100F8D01A06E000": {
+        "65536": "D2507A20D1883594",
+        "latest": 65536
+    },
     "0100F8E009DFA000": {
         "0": "947DE9B506280C4E",
         "latest": 0
@@ -90569,6 +90799,7 @@
         "title": "Pixel Game Maker Series BURAIGUN GALAXY STORM"
     },
     "0100F91018628000": {
+        "0": "4786B053B8806C30",
         "65536": "E0AD8C25141AC915",
         "latest": 65536,
         "title": "TY the Tasmanian Tiger\u2122 4: Bush Rescue Returns\u2122"
@@ -90576,8 +90807,9 @@
     "0100F9101ABC6000": {
         "0": "22241E4EDF84078C",
         "131072": "763C13E67052D748",
+        "196608": "B081867BBF7D0D10",
         "65536": "763C13E67052D748",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Love Love School Days"
     },
     "0100F92005D54000": {
@@ -91941,6 +92173,11 @@
         "0": "C2FDB466A06F224C",
         "latest": 0,
         "title": "Cape\u2019s Escape Game 4th Room"
+    },
+    "0100FD201AE92000": {
+        "0": "C65447B50BE437AD",
+        "latest": 0,
+        "title": "Betomis"
     },
     "0100FD3016828000": {
         "0": "28F65EE4B1FC6CF5",
