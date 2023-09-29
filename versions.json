@@ -5403,8 +5403,9 @@
         "0": "5738AF49DE79D346",
         "131072": "CE0C4C6D7D75C43C",
         "196608": "A83E8CE6328A5607",
+        "262144": "0B6F5535D9EB09A5",
         "65536": "6156D4DDE0EB568F",
-        "latest": 196608
+        "latest": 262144
     },
     "01000F601A71B000": {
         "latest": 0
@@ -5942,7 +5943,8 @@
     },
     "010011101B7BE000": {
         "0": "F4622CF645D1C567",
-        "latest": 0,
+        "65536": "F9135B577355FBE7",
+        "latest": 65536,
         "title": "CyberTD"
     },
     "0100112003B8A000": {
@@ -6557,8 +6559,9 @@
         "0": "F742686C2BBECB08",
         "131072": "A51EEBF0AB98D86B",
         "196608": "878FC8A8185EA046",
+        "262144": "2915A2DBF3E9BF43",
         "65536": "7A055F2DA6752E99",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Game Boy\u2122 Advance \u2013 Nintendo Switch Online"
     },
     "010012F017608000": {
@@ -7416,7 +7419,8 @@
     },
     "010015D01AC6E000": {
         "0": "FF5302BC5E5FABEF",
-        "latest": 0
+        "latest": 0,
+        "title": "Beach Cafe III: The Escape Room"
     },
     "010015E007A7C000": {
         "0": "402A4254055FE3EE",
@@ -8337,6 +8341,9 @@
         "65536": "DEFEBE6186E38652",
         "latest": 65536,
         "title": "Tormentor-Action Fire Counter Shooter Game 2023 Gun Strike Simulator"
+    },
+    "01001880191FF000": {
+        "latest": 0
     },
     "010018801C5B2000": {
         "0": "4F2C89A5978930F5",
@@ -10437,8 +10444,9 @@
     },
     "01001E3017A10000": {
         "0": "96BAB024C5F4E1D8",
+        "131072": "17F37A56B17DD9CC",
         "65536": "1C38F0E269ED4438",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Farming Simulator 23; Nintendo Switch\u2122 Edition"
     },
     "01001E40041BE000": {
@@ -13275,7 +13283,8 @@
         "458752": "D0D456EE7DCF0FEE",
         "589824": "057AF5139980E8D4",
         "65536": "7A410D12F6C321F2",
-        "latest": 589824,
+        "720896": "C7249836825D1750",
+        "latest": 720896,
         "title": "Potion Permit"
     },
     "010025F0126FF000": {
@@ -16462,6 +16471,7 @@
         "title": "ACA NEOGEO ZUPAPA!"
     },
     "01002E700C366000": {
+        "0": "A446A7B9355E71E0",
         "131072": "3B3D1FE5041C98F4",
         "65536": "E7176397DD060813",
         "latest": 131072,
@@ -16938,6 +16948,7 @@
         "title": "Animals Names"
     },
     "01002FB01B55A000": {
+        "0": "CB4580549475DE86",
         "65536": "705808D4D18F34C3",
         "latest": 65536,
         "title": "Supfly Delivery Simulator"
@@ -17008,8 +17019,9 @@
     "01002FE018EE4000": {
         "131072": "94136AE3F2BE828B",
         "196608": "2C84D98BD753F164",
+        "262144": "3ECDD2D838CD15DB",
         "65536": "7ECF8132FD9D0448",
-        "latest": 196608
+        "latest": 262144
     },
     "01002FF008C24000": {
         "0": "BC4CCE89D16D290B",
@@ -17865,6 +17877,11 @@
         "0": "EB75A3490903F50D",
         "65536": "B0CE5CCDFF637507",
         "latest": 65536
+    },
+    "010032401A9B0000": {
+        "0": "2B44AC64AA331411",
+        "latest": 0,
+        "title": "NINJA KIDZ: TIME MASTERS"
     },
     "010032401AF0E000": {
         "0": "73EC92E88E74D637",
@@ -18768,7 +18785,8 @@
     },
     "010034701D13A000": {
         "0": "B8CCA2D1409C558F",
-        "latest": 0
+        "latest": 0,
+        "title": "Art Heist - Escape Room Adventure"
     },
     "0100348001DE6000": {
         "0": "8B3FE605F3F820AB",
@@ -21135,9 +21153,13 @@
         "latest": 65536
     },
     "01003AE01AA76000": {
+        "0": "47155E024AA0A85D",
         "65536": "B3F271EF130A5338",
         "latest": 65536,
         "title": "Fate/Samurai Remnant"
+    },
+    "01003AE01AA77000": {
+        "latest": 0
     },
     "01003AF006A6C000": {
         "0": "8C5A68EC47371E4F",
@@ -25193,8 +25215,9 @@
     },
     "010045A01A39C000": {
         "0": "EA3FCCD6548E7823",
+        "131072": "457AEF03E3AFE832",
         "65536": "F32C9E6240B1C0CB",
-        "latest": 65536,
+        "latest": 131072,
         "title": "No Son Of Mine"
     },
     "010045B00849C000": {
@@ -27153,8 +27176,9 @@
         "196608": "DD7FF70188B281D9",
         "262144": "AE548A35FD9DF5DA",
         "327680": "0B815AF775888406",
+        "393216": "585BAC5A827ADD87",
         "65536": "62588A30606B14FB",
-        "latest": 327680,
+        "latest": 393216,
         "title": "Sonic Frontiers"
     },
     "01004AD014BF1000": {
@@ -29847,6 +29871,11 @@
         "latest": 65536,
         "title": "ALUMNI - Escape Room Adventure"
     },
+    "010052D01CE68000": {
+        "0": "9A888FCC99F14CA3",
+        "latest": 0,
+        "title": "My Heart Grows Fonder"
+    },
     "010052E011A62000": {
         "0": "EFCA22EFE0F0B141",
         "latest": 0,
@@ -30687,8 +30716,9 @@
         "0": "F742686C2BBECB08",
         "131072": "A51EEBF0AB98D86B",
         "196608": "F1F09A3DE5A8BCFF",
+        "262144": "286BD9F1DCAC6BFD",
         "65536": "7A055F2DA6752E99",
-        "latest": 196608
+        "latest": 262144
     },
     "010055501B14C000": {
         "131072": "5A807EAD6289055F",
@@ -32276,8 +32306,9 @@
         "196608": "2A89C9EB41AADE12",
         "262144": "AE3FF510AFFAE72B",
         "327680": "DDCA3B21CE94D61C",
+        "393216": "E8AF53A7F94CD681",
         "65536": "EC151ACAF59E6988",
-        "latest": 327680
+        "latest": 393216
     },
     "010059C014C41000": {
         "latest": 0
@@ -35861,8 +35892,9 @@
     "01006320174AE000": {
         "131072": "81D1A2E2C2BB7BF8",
         "196608": "67AE77F5BDEDD017",
+        "262144": "F8D33E0B7CC65AF2",
         "65536": "81D1A2E2C2BB7BF8",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Mato Anomalies"
     },
     "01006320174AF000": {
@@ -58058,9 +58090,13 @@
         "title": "HEXAPODA"
     },
     "01009FB01C66E000": {
+        "0": "82B5BAFCAF0E56A3",
         "65536": "82B5BAFCAF0E56A3",
         "latest": 65536,
         "title": "Foot Clinic"
+    },
+    "01009FB01C66F000": {
+        "latest": 0
     },
     "01009FC018940000": {
         "0": "81A723650ACCB75E",
@@ -58667,7 +58703,8 @@
     },
     "0100A1201B82A000": {
         "0": "F8BCB9DCDC4BDF96",
-        "latest": 0,
+        "65536": "7C1D1E7A2B689E40",
+        "latest": 65536,
         "title": "Cry Babies Magic Tears: The Big Game"
     },
     "0100A130109B2000": {
@@ -58794,6 +58831,11 @@
         "65536": "17A64E33E3DDCC90",
         "latest": 65536,
         "title": "Hentai Project"
+    },
+    "0100A1A01CBDE000": {
+        "0": "013089D29CF1C938",
+        "latest": 0,
+        "title": "Humans vs Tigers"
     },
     "0100A1B00C8CC000": {
         "0": "6C135A1E3AEEE01B",
@@ -60824,6 +60866,7 @@
     },
     "0100A75005E92000": {
         "0": "AB144284DEDF3943",
+        "1048576": "B54CC51F31A49342",
         "196608": "20A081AF923C764C",
         "262144": "985E17C3D9255F4D",
         "327680": "C39C99E807D11843",
@@ -60836,7 +60879,7 @@
         "851968": "65AFA78EC76AD94E",
         "917504": "0775E86DD72E8545",
         "983040": "55DCCE87699CF94C",
-        "latest": 983040,
+        "latest": 1048576,
         "title": "Baldo\nThe guardian owls"
     },
     "0100A7500DF64000": {
@@ -63274,7 +63317,8 @@
     },
     "0100ADF01CF7E000": {
         "0": "9B4984368D624CFB",
-        "latest": 0
+        "latest": 0,
+        "title": "Tetropunk"
     },
     "0100AE0003424000": {
         "0": "E0551154AB7AB947",
@@ -63749,7 +63793,8 @@
     },
     "0100AF701CA92000": {
         "0": "8A9D954CBE2EA5D1",
-        "latest": 0
+        "latest": 0,
+        "title": "Hidden Gems: Volume One"
     },
     "0100AF8006AF2000": {
         "131072": "D8068522E950DD87",
@@ -71737,6 +71782,9 @@
         "latest": 65536,
         "title": "Zombie Dead Smasher - World Simulator Kill Strike Gun Shooter 3D Poly Games 2023"
     },
+    "0100C540192F9000": {
+        "latest": 0
+    },
     "0100C5401B3A8000": {
         "0": "3949E38309D7AD7A",
         "latest": 0
@@ -71777,6 +71825,7 @@
         "latest": 0
     },
     "0100C5601815E000": {
+        "0": "662C104AA2799919",
         "131072": "0EB131A1581ADC87",
         "latest": 131072,
         "title": "Rise of the Triad: Ludicrous Edition"
@@ -71903,8 +71952,9 @@
     },
     "0100C5B01BB32000": {
         "0": "90316398652EB04B",
+        "131072": "873BAE47AC0093C3",
         "65536": "D04535AA55FCDD83",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Faerie Afterlight"
     },
     "0100C5C01771C000": {
@@ -80805,6 +80855,11 @@
         "65536": "6E3B9C9F1769E16A",
         "latest": 65536
     },
+    "0100DE001CAA4000": {
+        "0": "5E4771FA7D97ECAD",
+        "latest": 0,
+        "title": "Love Kuesuto"
+    },
     "0100DE1016A3E000": {
         "0": "87AB3ECC2B7BB74F",
         "latest": 0
@@ -81535,6 +81590,7 @@
         "1835008": "C138837894CC8DB4",
         "1900544": "ACA1AE30D2FFEBFA",
         "196608": "2F229F06B21A3F4B",
+        "1966080": "FCC0F787EF6F90CC",
         "262144": "93BA3658A9DED644",
         "327680": "F8423A614CDFEF4C",
         "393216": "FD3AD0164D665942",
@@ -81547,7 +81603,7 @@
         "851968": "437410BC40686F48",
         "917504": "24F0BAB68B61384D",
         "983040": "02348A4F54599547",
-        "latest": 1900544,
+        "latest": 1966080,
         "title": "WINGSPAN"
     },
     "0100E05011351000": {
@@ -83968,7 +84024,8 @@
     },
     "0100E6B018CE0000": {
         "0": "AA9F504BC18F74F6",
-        "latest": 0
+        "latest": 0,
+        "title": "WFO World Football Online"
     },
     "0100E6B019718000": {
         "262144": "403BB96D992DAD8B",
@@ -86315,7 +86372,8 @@
     "0100ECB01AFCA000": {
         "0": "3F2438154ECE3B49",
         "131072": "E86806C8239CC64B",
-        "latest": 131072,
+        "262144": "E938FE4897631E45",
+        "latest": 262144,
         "title": "Warriors of the Nile 2"
     },
     "0100ECC00B070000": {
@@ -92188,7 +92246,8 @@
     },
     "0100FCD0193A0000": {
         "65536": "4F3EB9C99B67CA86",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Project Blue"
     },
     "0100FCE00F9B0000": {
         "65536": "E3E744769CE7384A",
