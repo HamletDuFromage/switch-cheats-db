@@ -6773,6 +6773,11 @@
         "latest": 131072,
         "title": "Boo Party"
     },
+    "010013A01C468000": {
+        "0": "423E3C2931A038BF",
+        "latest": 0,
+        "title": "Cooking Craze"
+    },
     "010013B01962A000": {
         "0": "D6441C512CC735FD",
         "131072": "D8342837A211FB67",
@@ -15927,7 +15932,8 @@
     },
     "01002CD01D19A000": {
         "0": "2BA40621F9748769",
-        "latest": 0
+        "latest": 0,
+        "title": "Detail Detective"
     },
     "01002CE00B6A8000": {
         "0": "BA38C173B15DF2E0",
@@ -23048,6 +23054,10 @@
         "0": "92DE05D67279FA5E",
         "latest": 0,
         "title": "Beach Bounce Remastered"
+    },
+    "010040601D094000": {
+        "0": "CFBB53C610DF9558",
+        "latest": 0
     },
     "01004070022F0000": {
         "0": "B375F9C4583E074B",
@@ -49670,8 +49680,9 @@
         "title": "Kwaidan \uff5eAzuma manor story\uff5e"
     },
     "010089500B732000": {
+        "196608": "69607A7C4309E827",
         "65536": "9C9565B41FD99394",
-        "latest": 65536
+        "latest": 196608
     },
     "0100895013EE0000": {
         "0": "EF41D5C2D08C4135",
@@ -58215,6 +58226,9 @@
         "latest": 0,
         "title": "Car Racing Highway Driving Simulator, real parking driver sim speed traffic deluxe 2022"
     },
+    "0100A01018D31000": {
+        "latest": 0
+    },
     "0100A02012684000": {
         "0": "08513120538CC749",
         "latest": 0
@@ -61003,6 +61017,11 @@
         "latest": 262144,
         "title": "Falling Out"
     },
+    "0100A7801A530000": {
+        "131072": "ECFE5936549248CF",
+        "latest": 131072,
+        "title": "Disgaea 7: Vows of the Virtueless"
+    },
     "0100A7900B936000": {
         "0": "776A8A1E0872E74E",
         "latest": 0,
@@ -61361,6 +61380,10 @@
         "65536": "DC44279BBFA9EAF6",
         "latest": 65536,
         "title": "Arcade Archives MAGICAL SPEED"
+    },
+    "0100A8801D198000": {
+        "0": "79785432FF0EBAC5",
+        "latest": 0
     },
     "0100A8900AF04000": {
         "0": "02343AA7C8639349",
@@ -70549,7 +70572,8 @@
     },
     "0100C1E01CEE6000": {
         "0": "652F6BBA9634E007",
-        "latest": 0
+        "latest": 0,
+        "title": "Dungeons and Goblins"
     },
     "0100C1F0051B6000": {
         "0": "0E7A480A50A0D3DD",
@@ -71236,6 +71260,7 @@
         "1310720": "E1DF725B85A6274E",
         "1376256": "404FB9D9B7B05943",
         "1441792": "4D8E60EE54647017",
+        "1507328": "B5D931E8F3B86FD5",
         "196608": "5538783454843541",
         "262144": "78589E48A803AE42",
         "327680": "ABD5A6B5E423724F",
@@ -71248,7 +71273,7 @@
         "851968": "2E80DF19EDC11145",
         "917504": "7ABD79235B203C4E",
         "983040": "E6BB8E56B8ABF945",
-        "latest": 1441792,
+        "latest": 1507328,
         "title": "Fall Guys"
     },
     "0100C3D00923A000": {
@@ -85918,6 +85943,11 @@
         "65536": "F34B5D7275D81E47",
         "latest": 196608,
         "title": "Chronicles of 2 Heroes: Amaterasu's Wrath"
+    },
+    "0100EB901B8A4000": {
+        "0": "46EF635766A303CD",
+        "latest": 0,
+        "title": "4x4 Mud - Offroad Car Simulator & Truck"
     },
     "0100EBA004726000": {
         "0": "20BE97BE1162E647",
