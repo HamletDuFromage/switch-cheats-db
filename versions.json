@@ -1118,6 +1118,11 @@
     "01000320190E9000": {
         "latest": 0
     },
+    "010003201A0B4000": {
+        "65536": "9C2F41EF5C383D1E",
+        "latest": 65536,
+        "title": "Kingdom Eighties"
+    },
     "010003201C12A000": {
         "0": "434F31CD102342E2",
         "latest": 0,
@@ -9714,6 +9719,11 @@
         "latest": 327680,
         "title": "Taiko no Tatsujin: Rhythmic Adventure 1"
     },
+    "01001BE01908C000": {
+        "65536": "012294C1E2D28A79",
+        "latest": 65536,
+        "title": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged"
+    },
     "01001BF00B54E000": {
         "0": "5E5C441EB80B4A42",
         "65536": "5E5C441EB80B4A42",
@@ -10056,6 +10066,10 @@
         "0": "D04A06CF236A6A3B",
         "65536": "D04A06CF236A6A3B",
         "latest": 65536
+    },
+    "01001CC01CE48000": {
+        "0": "511B6A1640F65DA8",
+        "latest": 0
     },
     "01001CD012FC4000": {
         "196608": "068B9036E122714B",
@@ -14068,6 +14082,10 @@
         "latest": 65536,
         "title": "Dininho Space Adventure"
     },
+    "010027E01D1EC000": {
+        "0": "59708528C4BAF164",
+        "latest": 0
+    },
     "010027F00AD6C000": {
         "0": "241E280992C82E65",
         "327680": "0BF05F210BFF73EF",
@@ -15299,6 +15317,12 @@
         "0": "27E9E9DD95465D4E",
         "latest": 0,
         "title": "Adventures of Pip"
+    },
+    "01002B501C41E000": {
+        "0": "E5E15D6843D7257D",
+        "65536": "99D993CDA6845F63",
+        "latest": 65536,
+        "title": "schleich\u00ae Puzzles FARM WORLD"
     },
     "01002B6001364000": {
         "0": "9C263DCA8473AC42",
@@ -19801,6 +19825,10 @@
         "latest": 0,
         "title": "Drizzlepath: Deja Vu"
     },
+    "0100377017CDE000": {
+        "0": "392F5374FE112329",
+        "latest": 0
+    },
     "0100378002CCA000": {
         "0": "EBBD6F32A5194443",
         "latest": 0,
@@ -20106,6 +20134,10 @@
         "0": "7713E95F54BC0D74",
         "latest": 0,
         "title": "Memory Lane 2"
+    },
+    "010038401C030000": {
+        "0": "40B7BA87FA1F5763",
+        "latest": 0
     },
     "010038500BCD6000": {
         "0": "14B37A5AE3C8EB42",
@@ -21587,7 +21619,8 @@
     "01003C001B472000": {
         "0": "7851CB4C4816455A",
         "131072": "05445FC88993C09B",
-        "latest": 131072,
+        "196608": "672F64DC2A20403B",
+        "latest": 196608,
         "title": "OU"
     },
     "01003C001CE8C000": {
@@ -24316,6 +24349,10 @@
         "65536": "A8939A7485DBEC4A",
         "latest": 65536
     },
+    "0100435019E5C000": {
+        "0": "A84D5FDB56677E56",
+        "latest": 0
+    },
     "010043501B702000": {
         "0": "8BBB5A11A3088A73",
         "131072": "727F26A09622292C",
@@ -24945,8 +24982,9 @@
     },
     "010044F0199E0000": {
         "0": "F5533FBE7AC72E38",
+        "131072": "84B382298E7513C9",
         "65536": "14B0F7FFC0502EB7",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Hamster on Rails"
     },
     "010045000BF6A000": {
@@ -26078,8 +26116,9 @@
         "196608": "2058227F80E9B40C",
         "262144": "03CEBB09F9E66ED7",
         "327680": "6D722DED660CD6E3",
+        "393216": "B1C54D7E3540577B",
         "65536": "010E2E09F0E43D25",
-        "latest": 327680
+        "latest": 393216
     },
     "010048001C52E000": {
         "0": "1BE6FD654A4CE962",
@@ -30612,6 +30651,9 @@
         "65536": "9C391E22F273ABA6",
         "latest": 65536
     },
+    "010054E0120B3000": {
+        "latest": 0
+    },
     "010054E0168A6000": {
         "0": "3E4E84C099E08903",
         "latest": 0,
@@ -34708,6 +34750,10 @@
         "latest": 65536,
         "title": "Arcade Archives DRAGON SABER"
     },
+    "010060001C708000": {
+        "0": "CCC1D7054DDD2BE0",
+        "latest": 0
+    },
     "01006010193D8000": {
         "0": "E172D40D1F3ED1A7",
         "65536": "60BCB021A4FD143E",
@@ -37805,6 +37851,10 @@
         "latest": 0,
         "title": "Marco & The Galaxy Dragon"
     },
+    "010068801D06E000": {
+        "0": "E962EB752D52A9B1",
+        "latest": 0
+    },
     "010068900F0D4000": {
         "0": "F30AD549A2C306BE",
         "latest": 0,
@@ -38061,6 +38111,7 @@
         "title": "Valis II"
     },
     "010069301B44C000": {
+        "0": "4A93093385710618",
         "65536": "C0CE223A417650B6",
         "latest": 65536,
         "title": "Asterix & Obelix: Heroes"
@@ -38734,6 +38785,11 @@
         "0": "6B90D6CAEE897A42",
         "latest": 0,
         "title": "Otti: The House Keeper"
+    },
+    "01006AF018004000": {
+        "0": "AD188BC9AFBC8D47",
+        "latest": 0,
+        "title": "Dinobreak"
     },
     "01006AF019494000": {
         "0": "C78AC65304B18305",
@@ -41751,6 +41807,11 @@
         "65536": "CE7E820FEBADC24D",
         "latest": 65536,
         "title": "Event Horizon: Space Defense"
+    },
+    "010072D016416000": {
+        "0": "2B77C0B429A6D40F",
+        "latest": 0,
+        "title": "Diorama Dungeoncrawl - Master of the Living Castle"
     },
     "010072D0167D0000": {
         "0": "B8BCD9A716C3CED4",
@@ -45143,6 +45204,7 @@
         "title": "Dream Park Story"
     },
     "01007C001B960000": {
+        "0": "4E67F5AFE898D5C6",
         "65536": "0A6539342DDA98DA",
         "latest": 65536,
         "title": "Cafe Master Story"
@@ -49528,11 +49590,23 @@
         "latest": 0,
         "title": "Stacks On Stacks (On Stacks)"
     },
+    "010088801B324000": {
+        "0": "74D149EF24A140FD",
+        "65536": "A0E97BF4475FE385",
+        "latest": 65536
+    },
+    "010088801B325000": {
+        "latest": 0
+    },
     "010088801BDBC000": {
         "0": "24980944293FB204",
         "131072": "24980944293FB204",
         "65536": "24980944293FB204",
         "latest": 131072
+    },
+    "010088801CD5A000": {
+        "0": "3FBA6F67BBB6D206",
+        "latest": 0
     },
     "010088900E330000": {
         "0": "096B92A00BA596E9",
@@ -56182,6 +56256,11 @@
         "latest": 0,
         "title": "Viki Spotter: The Farm"
     },
+    "01009A8019090000": {
+        "0": "CCC5B24541DE93D1",
+        "latest": 0,
+        "title": "Sunshine Manor"
+    },
     "01009A801A6A0000": {
         "0": "074994E470962048",
         "65536": "B22809C7919E34D6",
@@ -62475,6 +62554,7 @@
         "title": "Demetrios - The BIG Cynical Adventure"
     },
     "0100AB601AEA2000": {
+        "0": "BB996D80FA49D95F",
         "65536": "12AC3A34E912127B",
         "latest": 65536,
         "title": "My Little Universe"
@@ -63167,7 +63247,8 @@
     },
     "0100AD401A2F0000": {
         "131072": "5FC2DE9DF97569BA",
-        "latest": 131072,
+        "196608": "BAAE9787A15734A4",
+        "latest": 196608,
         "title": "Wargroove 2"
     },
     "0100AD5007430000": {
@@ -65565,6 +65646,11 @@
         "latest": 65536,
         "title": "Infinite Guitars"
     },
+    "0100B4001CCE0000": {
+        "0": "C6EDB8CDFA9A3844",
+        "latest": 0,
+        "title": "Shy Cats Hidden Orchestra"
+    },
     "0100B410040F2000": {
         "0": "253A1CB9DA39F045",
         "latest": 0,
@@ -65588,6 +65674,11 @@
         "65536": "3B2F7537A6FD954E",
         "latest": 131072,
         "title": "Hatsune Miku Logic Paint S"
+    },
+    "0100B4101CB08000": {
+        "0": "151329C51D67D120",
+        "latest": 0,
+        "title": "Freaky Trip"
     },
     "0100B42001DB4000": {
         "0": "3C791ACEE5E3986C",
@@ -69086,8 +69177,9 @@
     },
     "0100BDB01A0E6000": {
         "131072": "A8D4FEE18023F15C",
+        "196608": "E0A5A92EA4F37A3A",
         "65536": "6B6D4D60E3187FFC",
-        "latest": 131072,
+        "latest": 196608,
         "title": "EA SPORTS FC\u2122 24"
     },
     "0100BDB01A0E7000": {
@@ -69742,7 +69834,8 @@
         "393216": "35D6A82B53F6184C",
         "458752": "B606F445CC46CE34",
         "589824": "772C4AA86836C994",
-        "latest": 589824,
+        "655360": "CC7022B0233341C9",
+        "latest": 655360,
         "title": "Let's Build a Zoo"
     },
     "0100BF401539D000": {
@@ -71294,6 +71387,11 @@
         "latest": 131072,
         "title": "NENA"
     },
+    "0100C390188F0000": {
+        "0": "32A888E7027AC241",
+        "latest": 0,
+        "title": "BLACK WITCHCRAFT"
+    },
     "0100C39019C16000": {
         "0": "B8AA7174B61BFFFF",
         "latest": 0,
@@ -71691,6 +71789,10 @@
         "latest": 0,
         "title": "Retrace: Memories of Death"
     },
+    "0100C4C01B0AC000": {
+        "0": "E8357CD11DBB6570",
+        "latest": 0
+    },
     "0100C4D0093EA000": {
         "0": "9CEAC7C98774184B",
         "327680": "8C853C65D7FF824F",
@@ -71725,6 +71827,11 @@
         "0": "8DD13AB652E76045",
         "latest": 0,
         "title": "Gaps by POWGI"
+    },
+    "0100C4E018A24000": {
+        "0": "C478B6B3E91E01F2",
+        "latest": 0,
+        "title": "FRONT MISSION 2: Remake"
     },
     "0100C4F005EB4000": {
         "0": "8C5BDFAAFDAD4C32",
@@ -72267,6 +72374,11 @@
         "131072": "422C104C20355145",
         "latest": 131072,
         "title": "Electro Ride: The Neon Racing"
+    },
+    "0100C6301CBB8000": {
+        "0": "2ED7225288450D7E",
+        "latest": 0,
+        "title": "Park Racer"
     },
     "0100C64015F84000": {
         "0": "0DA13A7E3D27208B",
@@ -72811,6 +72923,12 @@
         "0": "1BF6285B3251E5F2",
         "latest": 0,
         "title": "Duck Race"
+    },
+    "0100C7801C038000": {
+        "131072": "2B98CC1CDCFE233C",
+        "65536": "1C17461729DBECA1",
+        "latest": 131072,
+        "title": "RollerCoaster Tycoon Adventures Deluxe"
     },
     "0100C79018ABA000": {
         "0": "2C34A5E67EB580B6",
@@ -77627,8 +77745,9 @@
         "0": "5B5CB9D985E5A0DF",
         "131072": "FAB6AF7C8DB29B08",
         "196608": "6B59DF1973697712",
+        "262144": "3C0644B7CAA615BA",
         "65536": "5B5CB9D985E5A0DF",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Gang Beasts"
     },
     "0100D58012FC2000": {
@@ -79533,8 +79652,9 @@
     "0100DA2019044000": {
         "0": "D805D4E094851F47",
         "131072": "990B1C5462C44180",
+        "196608": "ECB59051AFCFD116",
         "65536": "CB0FDF0EB3923B81",
-        "latest": 131072
+        "latest": 196608
     },
     "0100DA2019045000": {
         "latest": 0
@@ -82606,7 +82726,8 @@
     },
     "0100E2C01A7E4000": {
         "0": "2163A688ADF5FC62",
-        "latest": 0,
+        "65536": "2092DF4007A7CB2E",
+        "latest": 65536,
         "title": "Give me toilet paper!"
     },
     "0100E2D00FE90000": {
@@ -83332,6 +83453,9 @@
         "65536": "BCB28072F898578E",
         "latest": 65536,
         "title": "CrashMetal - Drift Racing Car Driving Simulator 2022 Games"
+    },
+    "0100E490189BF000": {
+        "latest": 0
     },
     "0100E4A00D066000": {
         "0": "0ED087062378EE34",
@@ -88324,9 +88448,13 @@
         "title": "War Tank Machine Battle Vehicle Simulator - Fight World Wars WWII Mechanic Troopers Royale Driving"
     },
     "0100F1801ACA6000": {
+        "0": "010A796EA6032653",
         "65536": "30D51A973CBB0100",
         "latest": 65536,
         "title": "The Sisters 2 - Road to Fame"
+    },
+    "0100F1801ACA7000": {
+        "latest": 0
     },
     "0100F1801CA12000": {
         "0": "73DE8B5F12419D84",
@@ -90002,6 +90130,7 @@
         "title": "Reasoning of Courage123"
     },
     "0100F6001B738000": {
+        "0": "124C752E12591924",
         "131072": "933C03D22D733010",
         "65536": "F6683D21922FDA37",
         "latest": 131072,
@@ -91313,8 +91442,9 @@
         "131072": "0ADF85F22129D44C",
         "196608": "2C23357C24E684DF",
         "262144": "788C4E85A14F3BAB",
+        "327680": "0FACA8557E893149",
         "65536": "FD5311D0A2FF3BEF",
-        "latest": 262144,
+        "latest": 327680,
         "title": "NOBUNAGA'S AMBITION: Awakening"
     },
     "0100F9A01B0A3000": {
@@ -91716,6 +91846,10 @@
         "latest": 0,
         "title": "Eastern Euro Truck Simulator: Real Offroad Car Driving Game Sim 4x4 Mud"
     },
+    "0100FAE01AF9E000": {
+        "0": "EBD97D3F1474A47F",
+        "latest": 0
+    },
     "0100FAF009562000": {
         "0": "E2D0FC0E98D0224C",
         "131072": "BDE874423991154A",
@@ -91889,7 +92023,8 @@
     },
     "0100FB701AD6C000": {
         "0": "67F98847B8241765",
-        "latest": 0,
+        "65536": "67F98847B8241765",
+        "latest": 65536,
         "title": "Tsugunohi"
     },
     "0100FB8019AF0000": {
@@ -91914,6 +92049,10 @@
     },
     "0100FB90103DF000": {
         "latest": 65536
+    },
+    "0100FB901C262000": {
+        "0": "77EF59A5ED8E897C",
+        "latest": 0
     },
     "0100FBA00E35C000": {
         "0": "896023B90EC59D51",
