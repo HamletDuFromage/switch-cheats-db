@@ -1,0 +1,19 @@
+{
+    "B3F271EF130A5338": {
+        "[Fate Samurai Remnant v1.0.1 TID=0100B0701AA78000 BID=B3F271EF130A5338]": "[Fate Samurai Remnant v1.0.1 TID=0100B0701AA78000 BID=B3F271EF130A5338]\n\n",
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 00CF6800 1E2E1003\n040E0000 00CF67FC 1E202008\n040E0000 00DE29D8 4B150149\n040E0000 00DE2A14 1B157C1A\n080E0000 010AC610 A9016FFC A9BA7BFD\n040E0000 00EC7518 0B010210\n040E0000 00CFB6E4 1E20AC20\n080E0000 00B34160 F9000BF5 A9BD7BFD\n040E0000 012F7D3C BD4012A8\n080E0000 010A2DB8 A9014FF4 A9BE7BFD\n080E0000 010A2BE4 72A001E9 528847E9\n040E0000 00DDB6C0 A9BE7BFD\n040E0000 0122B244 79400129\n040E0000 0122AF0C 79400119\n040E0000 00E097D8 79400117\n\n",
+        "[\u2116 1. HP gauge does not decrease]": "[\u2116 1. HP gauge does not decrease]\n080E0000 02385FF8 D65F03C0 1E2E1003\n080E0000 02385FF0 1E2703E0 54000041\n080E0000 02385FE8 7100053F 39401109\n080E0000 02385FE0 540000AA 1E202008\n040E0000 00CF6800 945A3DF8\n\n",
+        "[\u2116 2. 5x Attack Damage]": "[\u2116 2. 5x Attack Damage]\n080E0000 02385FD8 D65F03C0 1E202008\n080E0000 02385FD0 1E230800 1E229003\n080E0000 02385FC8 54000060 7100053F\n040E0000 02385FC4 39401109\n040E0000 00CF67FC 945A3DF2\n\n",
+        "[\u2116 3. When shopping, inventory remains the same]": "[\u2116 3. When shopping, inventory remains the same]\n040E0000 00DE29D8 4B1F0149\n\n",
+        "[\u2116 4. When shopping, money is not reduced]": "[\u2116 4. When shopping, money is not reduced]\n040E0000 00DE2A14 1B1F7C1A\n\n",
+        "[\u2116 5. Infinite Acquire Skill Points ]": "[\u2116 5. Infinite Acquire Skill Points ]\n080E0000 010AC610 D65F03C0 52800C60\n\n",
+        "[\u2116 6. EXP 4x]": "[\u2116 6. EXP 4x]\n040E0000 00EC7518 0B010A10\n\n",
+        "[\u2116 7. Hidden Sword Gauge / Substitution Gauge Instant Max]": "[\u2116 7. Hidden Sword Gauge / Substitution Gauge Instant Max]\n040E0000 00CFB6E4 1E204020\n\n",
+        "[\u2116 8. Spells casting does not consume Gem]": "[\u2116 8. Spells casting does not consume Gem]\n080E0000 00B34160 D65F03C0 2A1F03E0\n\n",
+        "[\u2116 9. Affinity Gauge always Max]": "[\u2116 9. Affinity Gauge always Max]\n080E0000 02385FBC 43960000 D65F03C0\n080E0000 02385FB4 BD0012A8 1C000068\n040E0000 012F7D3C 9442389E\n\n",
+        "[\u211610. No materials or money are required to exchange skills]": "[\u211610. No materials or money are required to exchange skills]\n080E0000 010A2DB8 D65F03C0 52800020\n\n",
+        "[\u211611. When exchange skills, money is not reduced]": "[\u211611. When exchange skills, money is not reduced]\n080E0000 010A2BE4 D503201F 2A1F03E9\n\n",
+        "[\u211612. Item does not decrease]": "[\u211612. Item does not decrease]\n040E0000 00DDB6C0 D65F03C0\n\n",
+        "[\u211613. Ignore material requirements when strengthening sword equipment]": "[\u211613. Ignore material requirements when strengthening sword equipment]\n040E0000 0122B244 2A1F03E9\n040E0000 0122AF0C 2A1F03F9\n040E0000 00E097D8 2A1F03F7\n\n"
+    }
+}
