@@ -9,7 +9,11 @@
         "[60 FPS Gameplay + 30 FPS Cutscene v1]": "[60 FPS Gameplay + 30 FPS Cutscene v1]\n14050000 00740A3C 00000000\n04000000 00757620 00000001\n20000000\n14010000 00740A3C 00000000\n04000000 00757620 00000002\n20000000\n\n",
         "[30 FPS]": "[30 FPS]\n04000000 00757620 00000002\n\n"
     },
+    "3A8E744D8F65CDEA": {
+        "[60 FPS Gameplay + 30 FPS Cutscene v1]": "[60 FPS Gameplay + 30 FPS Cutscene v1]\n14050000 00749A3C 00000000\n04000000 007606A0 00000001\n20000000\n14010000 00749A3C 00000000\n04000000 007606A0 00000002\n20000000\n\n",
+        "[30 FPS]": "[30 FPS]\n04000000 007606A0 00000002\n\n"
+    },
     "attribution": {
-        "Pikmin 1.txt": "By Hazerou\n"
+        "Pikmin 1.txt": "By Hazerou\n\nCutscenes running at 60 FPS doubles up the game speed. So the code will force FPS to 30 whenever cutscenes occur and will only go back to 60 FPS when it's over."
     }
 }
