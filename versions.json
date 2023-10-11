@@ -2284,8 +2284,9 @@
     },
     "010006B018F48000": {
         "0": "957532ED0D78F681",
+        "131072": "50283C51EC0077A9",
         "65536": "F6673B1867314301",
-        "latest": 65536,
+        "latest": 131072,
         "title": "MythForce"
     },
     "010006B01BD9C000": {
@@ -2353,6 +2354,11 @@
         "0": "3BC083040F46494A",
         "latest": 0,
         "title": "Pantsu Hunter: Back to the 90s"
+    },
+    "010006E01C3CC000": {
+        "0": "696CD9F1392B1E4C",
+        "latest": 0,
+        "title": "Break the Glass Cup: Breaking Physics Puzzle"
     },
     "010006F00EE72000": {
         "0": "DBA47821DB30D944",
@@ -6701,7 +6707,8 @@
         "196608": "F1AECF1671DD71EF",
         "262144": "1F5398D5E1F10CDB",
         "327680": "E5B4EBFFC66B7F8F",
-        "latest": 327680,
+        "393216": "BAF8F42D89E50C9E",
+        "latest": 393216,
         "title": "The Many Pieces of Mr. Coo"
     },
     "0100136015456000": {
@@ -7303,6 +7310,10 @@
         "latest": 0,
         "title": "The Lost and The Wicked"
     },
+    "010015601CFC2000": {
+        "0": "2262E5790FC7D089",
+        "latest": 0
+    },
     "0100157004512000": {
         "0": "21A57A5E8D5A3F48",
         "latest": 0,
@@ -7402,6 +7413,11 @@
         "0": "A3420636244F451B",
         "latest": 0,
         "title": "Sakura Gamer"
+    },
+    "010015A01D0B8000": {
+        "0": "4EEBCB5B662776DE",
+        "latest": 0,
+        "title": "Supreme Car Parking Simulator 2024"
     },
     "010015B00BB00000": {
         "0": "2ACB02A77B0DC448",
@@ -9299,7 +9315,8 @@
         "0": "3CBB28D2EFE7BDBD",
         "131072": "B9AD0BA1BA44D40B",
         "196608": "4321DFA92AE19194",
-        "latest": 196608
+        "327680": "CD1AC8FB3879A639",
+        "latest": 327680
     },
     "01001AD01BCEA000": {
         "0": "04C7E9BC5DBD1817",
@@ -9553,6 +9570,10 @@
         "65536": "F45E2A3F00C75FD3",
         "latest": 65536,
         "title": "World of Machines - Tanks War Operation"
+    },
+    "01001B601CDFA000": {
+        "65536": "10062CB52F8CA582",
+        "latest": 65536
     },
     "01001B700220A000": {
         "131072": "F21A948DBB24C949",
@@ -12171,6 +12192,11 @@
         "latest": 327680,
         "title": "Hokko Life"
     },
+    "010022A01C670000": {
+        "65536": "05E059F834205540",
+        "latest": 65536,
+        "title": "Zombie Defense"
+    },
     "010022B00ACE6000": {
         "0": "8512CE4F95DFD443",
         "262144": "7E743C70A98A0B4E",
@@ -14766,6 +14792,10 @@
         "latest": 65536,
         "title": "Arcade Archives GROWL"
     },
+    "010029C01CD66000": {
+        "0": "6F71D9B303EE320C",
+        "latest": 0
+    },
     "010029D006ED8000": {
         "0": "D49D8014EAE852EE",
         "65536": "398F5C9F32EEBEDA",
@@ -15133,6 +15163,11 @@
         "65536": "31FA4209CA151838",
         "latest": 65536,
         "title": "Moorhuhn Jump and Run 'Traps and Treasures 2'"
+    },
+    "01002AB0197EE000": {
+        "0": "C3AAE3714E0E1FE0",
+        "131072": "13E9B02DB6886E26",
+        "latest": 131072
     },
     "01002AC0113DE000": {
         "0": "7D7C594B9E721011",
@@ -15657,6 +15692,10 @@
     },
     "01002C00177AE000": {
         "0": "0C94FAEE0E9677FA",
+        "latest": 0
+    },
+    "01002C001D076000": {
+        "0": "6897FD903BC3A02D",
         "latest": 0
     },
     "01002C100E414000": {
@@ -18038,6 +18077,10 @@
         "latest": 0,
         "title": "Japanese Escape Games The Forbidden Garden"
     },
+    "010032701C054000": {
+        "0": "26D3F3F87F6BEE42",
+        "latest": 0
+    },
     "0100328009800000": {
         "0": "8A1BDE094FFFB53C",
         "latest": 0,
@@ -18418,7 +18461,8 @@
     },
     "010033401CE40000": {
         "0": "B17C2E77453C517A",
-        "latest": 0,
+        "65536": "9C2328B8DC5D39F3",
+        "latest": 65536,
         "title": "Block Buster Billy"
     },
     "010033500944A000": {
@@ -19879,6 +19923,10 @@
         "latest": 0,
         "title": "Johnny Turbo\u2019s Arcade: Express Raider"
     },
+    "010037801CE28000": {
+        "0": "C30E2C6CFDA386A2",
+        "latest": 0
+    },
     "0100379003900000": {
         "0": "7F38079D766279AA",
         "latest": 0,
@@ -20149,6 +20197,7 @@
         "latest": 0
     },
     "010038301ABDA000": {
+        "0": "586107AD825C7E77",
         "65536": "DDF3A995F0EC84E1",
         "latest": 65536,
         "title": "Dino Ranch \u2013 Ride to the Rescue"
@@ -20182,7 +20231,8 @@
     },
     "010038401C030000": {
         "0": "40B7BA87FA1F5763",
-        "latest": 0
+        "latest": 0,
+        "title": "Dark American Horror Stories"
     },
     "010038500BCD6000": {
         "0": "14B37A5AE3C8EB42",
@@ -20887,7 +20937,8 @@
     },
     "010039E01D19E000": {
         "0": "FEABC6090926403F",
-        "latest": 0
+        "latest": 0,
+        "title": "Domino Draw"
     },
     "010039F00EF70000": {
         "0": "86792E00DF538845",
@@ -20914,7 +20965,8 @@
         "0": "0A9FD7BC78A1DA4A",
         "262144": "1786D7F66D9EBA45",
         "327680": "9727E4585B6C684B",
-        "latest": 327680,
+        "393216": "50C51F9576775E4C",
+        "latest": 393216,
         "title": "Trombone Champ"
     },
     "01003A000976E000": {
@@ -22971,8 +23023,9 @@
     },
     "01003FE0168EA000": {
         "0": "9040EFCA10245706",
+        "131072": "58B5599E3251EF82",
         "65536": "C29886A391BAA101",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Harvest Yuuka"
     },
     "01003FF009E60000": {
@@ -24403,7 +24456,8 @@
     },
     "0100435019E5C000": {
         "0": "A84D5FDB56677E56",
-        "latest": 0
+        "latest": 0,
+        "title": "Learn Words - Use Syllables"
     },
     "010043501B702000": {
         "0": "8BBB5A11A3088A73",
@@ -24479,6 +24533,7 @@
         "title": "BALAN WONDERWORLD"
     },
     "0100438014C2C000": {
+        "0": "A2F87BA785C11DC2",
         "65536": "71B37A0E8606CBCF",
         "latest": 65536,
         "title": "Dwerve"
@@ -24684,6 +24739,11 @@
         "65536": "A8A4A650889E10F3",
         "latest": 131072,
         "title": "Loot Box Simulator - RPG Anime Girls"
+    },
+    "010044101CD78000": {
+        "0": "5BDCC60D19A4E7BA",
+        "latest": 0,
+        "title": "Eventide 3: Legacy of Legends"
     },
     "010044200A112000": {
         "0": "9A56CAD6D0BD2642",
@@ -29398,6 +29458,7 @@
         "title": "Feral Flowers"
     },
     "010050F018148000": {
+        "0": "A1851186633C6C29",
         "65536": "BA3F089187CE80EB",
         "latest": 65536,
         "title": "Haunted House"
@@ -31244,8 +31305,9 @@
         "131072": "409FBFC60BE90E87",
         "196608": "B98ECE07F9ACAD32",
         "262144": "B98ECE07F9ACAD32",
+        "458752": "FDB5FDBF7C542B63",
         "65536": "A36FB0FD0AE237C0",
-        "latest": 262144,
+        "latest": 458752,
         "title": "Kardboard Kings: Card Shop Simulator"
     },
     "01005640080B0000": {
@@ -32135,6 +32197,11 @@
         "0": "5B367B61EAC88018",
         "latest": 0,
         "title": "Dungeon Bricker"
+    },
+    "010058E017A82000": {
+        "65536": "1F601E7C6D603793",
+        "latest": 65536,
+        "title": "KarmaZoo"
     },
     "010058E01AC2C000": {
         "0": "95440FFB4430CF0A",
@@ -34824,7 +34891,8 @@
     },
     "010060001C708000": {
         "0": "CCC1D7054DDD2BE0",
-        "latest": 0
+        "latest": 0,
+        "title": "Shadows of Truth"
     },
     "01006010193D8000": {
         "0": "E172D40D1F3ED1A7",
@@ -35438,7 +35506,8 @@
     },
     "010061601D00A000": {
         "0": "67EA2842FFF8D824",
-        "latest": 0
+        "latest": 0,
+        "title": "Jigsaw Ice Princess"
     },
     "010061700FA8C000": {
         "0": "5EF9680384A22345",
@@ -35824,6 +35893,7 @@
         "latest": 0
     },
     "010062601CA1E000": {
+        "0": "3B0F2F15DAEE2084",
         "65536": "EC113B6F1DABFF6D",
         "latest": 65536,
         "title": "Kittengumi: The Sakabato's Thief"
@@ -37934,7 +38004,8 @@
     },
     "010068801D06E000": {
         "0": "E962EB752D52A9B1",
-        "latest": 0
+        "latest": 0,
+        "title": "The Meaning of Dreams"
     },
     "010068900F0D4000": {
         "0": "F30AD549A2C306BE",
@@ -39675,6 +39746,10 @@
         "65536": "6C2B70653F48582A",
         "latest": 65536,
         "title": "Railway Islands - Puzzle"
+    },
+    "01006CE01CBFC000": {
+        "65536": "4BE6FB2ED4E1C662",
+        "latest": 65536
     },
     "01006CF00CF60000": {
         "0": "2D9B56EF70A047DD",
@@ -42296,6 +42371,11 @@
         "latest": 65536,
         "title": "Elli"
     },
+    "010073C01B7FE000": {
+        "65536": "31CD8ABE8385D647",
+        "latest": 65536,
+        "title": "The Smurfs 2 - The Prisoner of the Green Stone"
+    },
     "010073D01AF18000": {
         "0": "A44CF95876B7A13F",
         "latest": 0,
@@ -44136,6 +44216,10 @@
         "latest": 131072,
         "title": "Teslagrad 2"
     },
+    "010078801CEA4000": {
+        "0": "E1CC7FA2C3968D52",
+        "latest": 0
+    },
     "0100789014E26000": {
         "0": "47167106AAD4854B",
         "latest": 0,
@@ -44242,6 +44326,11 @@
         "0": "F781CB3ACC93584B",
         "65536": "09A62615A96E56EE",
         "latest": 65536
+    },
+    "010078D01CE8A000": {
+        "0": "EE1A514988FAF084",
+        "latest": 0,
+        "title": "Ancient Relics - Egypt"
     },
     "010078E011FC2000": {
         "0": "CDC0578B35BF7A4F",
@@ -49046,6 +49135,10 @@
         "latest": 0,
         "title": "iota"
     },
+    "010086A01D01E000": {
+        "0": "E2D095574A30A078",
+        "latest": 0
+    },
     "010086B00BB50000": {
         "0": "50024A3AFD93F340",
         "1048576": "AA8C8E3D5C995A44",
@@ -50662,6 +50755,11 @@
     "01008B1019443000": {
         "latest": 0
     },
+    "01008B101AEC6000": {
+        "0": "AFCBAF8B1F52A8EC",
+        "latest": 0,
+        "title": "RedRaptor"
+    },
     "01008B20022AA000": {
         "0": "1DCCDB6FE282748D",
         "65536": "FD54791AE40FD079",
@@ -51782,7 +51880,8 @@
     },
     "01008DD01CFF2000": {
         "0": "E7A926063E476B65",
-        "latest": 0
+        "latest": 0,
+        "title": "Turbo Dash Kart Racing"
     },
     "01008DE0121F4000": {
         "0": "E1B411AB3B1DC141",
@@ -52527,7 +52626,8 @@
     },
     "01008FA01CE08000": {
         "0": "5F122B9FB4D5C733",
-        "latest": 0
+        "latest": 0,
+        "title": "Car Parking & Car Driving Simulator 2023"
     },
     "01008FB011248000": {
         "0": "9906622A5B311548",
@@ -54735,9 +54835,13 @@
     "010095A01550E000": {
         "0": "755FEDC591E51CC1",
         "131072": "E4517A7007BCDABE",
+        "196608": "18B65717D7CA052B",
         "65536": "90236F72DA0BF59B",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Manic Mechanics"
+    },
+    "010095A01550F000": {
+        "latest": 65536
     },
     "010095A019DDC000": {
         "0": "F319C304DB4676B8",
@@ -55221,6 +55325,11 @@
     "010096D013AA4000": {
         "0": "3D3B341C3B934847",
         "latest": 0
+    },
+    "010096D0164DE000": {
+        "0": "2AD9BC9AF3167527",
+        "latest": 0,
+        "title": "Terra Alia: The Language Discovery RPG"
     },
     "010096E008BAA000": {
         "0": "70742093D32D2AF7",
@@ -56271,7 +56380,8 @@
     },
     "01009A201CFFA000": {
         "0": "A181835B22F40793",
-        "latest": 0
+        "latest": 0,
+        "title": "Speediest - Car Racing Formula & Auto Sport"
     },
     "01009A300C836000": {
         "0": "2D738393B1FB0F4C",
@@ -58528,7 +58638,8 @@
     },
     "0100A0101D1A2000": {
         "0": "1C3542F99B94AD48",
-        "latest": 0
+        "latest": 0,
+        "title": "High Cars"
     },
     "0100A02012684000": {
         "0": "08513120538CC749",
@@ -60127,8 +60238,9 @@
         "131072": "A8AB3E2D6EB21E1F",
         "196608": "42613274FFC1E841",
         "262144": "42613274FFC1E841",
+        "327680": "79351866CC125547",
         "65536": "E8F9B9BDAC537D89",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Monmusu Gladiator"
     },
     "0100A46018F8E000": {
@@ -60455,6 +60567,13 @@
         "0": "6FFAE7C53BB27E99",
         "latest": 0,
         "title": "Airplane Race Simulator - 2 Player Game"
+    },
+    "0100A5301D2FC000": {
+        "0": "F091025515633A0C",
+        "latest": 0
+    },
+    "0100A5301D2FD000": {
+        "latest": 0
     },
     "0100A5400AC86000": {
         "0": "8BCB1C975785AD13",
@@ -62819,6 +62938,11 @@
         "latest": 0,
         "title": "Digerati Presents: Make It Quick Bundle Vol. 1"
     },
+    "0100ABD0156F8000": {
+        "0": "F2C994AB5CA5A756",
+        "latest": 0,
+        "title": "Company of Heroes Collection"
+    },
     "0100ABD01785C000": {
         "0": "388FFB1644AFCDEF",
         "131072": "9DBB01A286499E21",
@@ -63400,7 +63524,8 @@
         "0": "48ECD69A1225714E",
         "131072": "5FC2DE9DF97569BA",
         "196608": "BAAE9787A15734A4",
-        "latest": 196608,
+        "262144": "4EDDA32A66F9EDC6",
+        "latest": 262144,
         "title": "Wargroove 2"
     },
     "0100AD5007430000": {
@@ -63892,6 +64017,10 @@
         "65536": "31968158846ACE40",
         "latest": 65536
     },
+    "0100AE801D0AC000": {
+        "0": "DA959818FBCFAA4F",
+        "latest": 0
+    },
     "0100AE9003FAC000": {
         "0": "A6BCCDF70B0C7CD4",
         "latest": 0
@@ -64082,8 +64211,9 @@
         "131072": "D94AD8818B304ADC",
         "196608": "596461688BB8BEC5",
         "262144": "A496DCFEC6CF0664",
+        "327680": "1C778FD95CEB86A8",
         "65536": "24EFA90A7CF3E8D3",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Windjammers 2"
     },
     "0100AF5013F00000": {
@@ -64355,7 +64485,8 @@
     },
     "0100B0101C718000": {
         "0": "8A60BDD3F0D0AC11",
-        "latest": 0,
+        "65536": "8A60BDD3F0D0AC11",
+        "latest": 65536,
         "title": "Retro Kart Rush"
     },
     "0100B020117D8000": {
@@ -65562,7 +65693,8 @@
     },
     "0100B2F0190EE000": {
         "0": "31C5F0007701A1A7",
-        "latest": 0
+        "65536": "ACB065F8D94F55FC",
+        "latest": 65536
     },
     "0100B300116C8000": {
         "0": "454ABDF7363228E7",
@@ -66640,8 +66772,9 @@
     },
     "0100B63016916000": {
         "131072": "B95B3066C21803E2",
+        "196608": "B685EFB504B8E026",
         "65536": "13425C6FD5817173",
-        "latest": 131072,
+        "latest": 196608,
         "title": "My Time at Sandrock"
     },
     "0100B63017370000": {
@@ -70403,6 +70536,11 @@
         "0": "376CA98F2450FC4E",
         "latest": 0
     },
+    "0100C0401921A000": {
+        "0": "50D95054ADF19477",
+        "latest": 0,
+        "title": "River City: Rival Showdown"
+    },
     "0100C05017934000": {
         "0": "88C3017A208427C1",
         "latest": 0,
@@ -71598,6 +71736,10 @@
         "65536": "4453A1D7EF3EB183",
         "latest": 131072
     },
+    "0100C3B01A5DC000": {
+        "0": "8ED348C2DEF54476",
+        "latest": 0
+    },
     "0100C3C012718000": {
         "0": "B02D18395003CE66",
         "131072": "7263A54A1E58DD45",
@@ -71958,7 +72100,8 @@
     },
     "0100C4C01B0AC000": {
         "0": "E8357CD11DBB6570",
-        "latest": 0
+        "latest": 0,
+        "title": "Dateless Love - Love Story Behind the Restoration -"
     },
     "0100C4D0093EA000": {
         "0": "9CEAC7C98774184B",
@@ -72692,8 +72835,9 @@
         "5308416": "9CC11CC8F6839537",
         "5373952": "B43281D3E071E220",
         "5439488": "3F5B43F07A10351F",
+        "5505024": "44AE32718F30E8F6",
         "786432": "403546D24898F9E9",
-        "latest": 5439488,
+        "latest": 5505024,
         "title": "Brawlhalla"
     },
     "0100C6800D770000": {
@@ -76407,7 +76551,8 @@
     "0100D11017672000": {
         "0": "F1D5002623EEB117",
         "65536": "3156D5BE556C2884",
-        "latest": 65536
+        "latest": 65536,
+        "title": "NOISZ re:||COLLECTION G"
     },
     "0100D11018A7E000": {
         "0": "8F544D2BBADF2841",
@@ -79308,6 +79453,11 @@
         "0": "073A98FB1111EDD1",
         "latest": 0
     },
+    "0100D8B01CE60000": {
+        "65536": "6E65B549F4E0FACE",
+        "latest": 65536,
+        "title": "Sakura Alien"
+    },
     "0100D8C01535C000": {
         "0": "A97D0A4D4CA531BF",
         "131072": "62398EECF3447871",
@@ -80911,7 +81061,8 @@
     },
     "0100DD001C534000": {
         "0": "7FD34BD1A4454AB0",
-        "latest": 0
+        "latest": 0,
+        "title": "Zombie Sniper Shooter - Stickman War"
     },
     "0100DD100AE8C000": {
         "0": "64FFD10432BACF47",
@@ -86446,6 +86597,10 @@
         "latest": 0,
         "title": "Crystal Goddess"
     },
+    "0100EBC01CEC8000": {
+        "0": "D316D358D0834493",
+        "latest": 0
+    },
     "0100EBD00B21E000": {
         "0": "A5CE2EC4086F0E41",
         "latest": 0
@@ -88133,7 +88288,8 @@
     },
     "0100F0501BB08000": {
         "0": "B319CD50802E70CC",
-        "latest": 0
+        "latest": 0,
+        "title": "Slots Casino Game"
     },
     "0100F06012874000": {
         "0": "9710329B8A7DAA42",
@@ -89716,6 +89872,11 @@
         "65536": "3755243FD1C41A4B",
         "latest": 65536,
         "title": "Tcheco in the Castle of Lucio"
+    },
+    "0100F4301BCB4000": {
+        "0": "22A92A9ACD95A7D8",
+        "latest": 0,
+        "title": "Astebros"
     },
     "0100F4400DE9E000": {
         "0": "C7E9F472D13C1A4E",
@@ -92035,7 +92196,8 @@
     },
     "0100FAE01AF9E000": {
         "0": "EBD97D3F1474A47F",
-        "latest": 0
+        "latest": 0,
+        "title": "Arcade Archives DARIUS II"
     },
     "0100FAF009562000": {
         "0": "E2D0FC0E98D0224C",
@@ -92239,7 +92401,8 @@
     },
     "0100FB901C262000": {
         "0": "77EF59A5ED8E897C",
-        "latest": 0
+        "latest": 0,
+        "title": "Pixel Game Maker Series Ninja Runner"
     },
     "0100FBA00E35C000": {
         "0": "896023B90EC59D51",
