@@ -8,9 +8,19 @@
     },
     "957E1E19958A93F9": {
         "[60 fps]": "[60 fps]\n580F0000 02CB1138\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-        "[30 fps (default)]": "[30 fps (default)]\n580F0000 02CB1138\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+        "[30 fps (default)]": "[30 fps (default)]\n580F0000 02CB1138\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+        "[Docked RRS 50% (540p)]": "[Docked RRS 50% (540p)]\n04000000 023770DC 3F000000\n\n",
+        "[Docked RRS 56.67% (612p)]": "[Docked RRS 56.67% (612p)]\n04000000 023770DC 3F111111\n\n",
+        "[Docked RRS 60% (648p)]": "[Docked RRS 60% (648p)]\n04000000 023770DC 3F19999A\n\n",
+        "[Docked RRS 66.66% (720p)]": "[Docked RRS 66.66% (720p)]\n04000000 023770DC 3F2AAAAB\n\n",
+        "[Docked RRS 70% (756p)]": "[Docked RRS 70% (756p)]\n04000000 023770DC 3F333333\n\n",
+        "[Docked RRS 75% (810p)]": "[Docked RRS 75% (810p)]\n04000000 023770DC 3F400000\n\n",
+        "[Default Docked RRS 83.33% (900p)]": "[Default Docked RRS 83.33% (900p)]\n04000000 023770DC 3F555555\n\n",
+        "[Docked RRS 100% (1080p)]": "[Docked RRS 100% (1080p)]\n04000000 023770DC 3F800000\n\n",
+        "[Docked RRS 133.33% (1440p)]": "[Docked RRS 133.33% (1440p)]\n04000000 023770DC 3FAAAAAB\n\n",
+        "[Docked RRS 200% (4K 2160p)]": "[Docked RRS 200% (4K 2160p)]\n04000000 023770DC 40000000\n\n"
     },
     "attribution": {
-        "Sonic Colors Ultimate.txt": "By Hazerou"
+        "Sonic Colors Ultimate.txt": "By Hazerou\n\nHow to use;\n\n1.) RRS Cheats are for Docked Mode only and effects are not applied on the fly. So all you have to do is Undock => Dock for the cheats to apply. Or use \u2060reverse-nx-rt  Mode: Handheld => Mode: Docked which is much easier to do.\n\n2.) You can experience these in Handheld . Just use \u2060reverse-nx-rt and set mode to Mode: Docked.\n\nNotes;\n\n1.) The RRS 1440p and 4K 2160p are experimental for use with Emulator. It may crash the game if you use it on Switch Console.\n"
     }
 }
