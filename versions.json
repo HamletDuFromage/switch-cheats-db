@@ -35510,7 +35510,8 @@
     },
     "010061301D2E2000": {
         "0": "C133CBC9608A188C",
-        "latest": 0
+        "latest": 0,
+        "title": "Giant Chase"
     },
     "010061400A990000": {
         "0": "414E5441F75B234F",
@@ -47467,8 +47468,9 @@
     },
     "010081801A980000": {
         "0": "7E41597F484FEF0B",
+        "131072": "DA47EB8134180066",
         "65536": "255557811A2EACC5",
-        "latest": 65536,
+        "latest": 131072,
         "title": "CounterAttack: Uprising"
     },
     "010081900C0F0000": {
@@ -75003,7 +75005,8 @@
     },
     "0100CC001D1A0000": {
         "0": "908FADA24CD2BA34",
-        "latest": 0
+        "latest": 0,
+        "title": "Flap Legends"
     },
     "0100CC100B78A000": {
         "0": "ED4E028AD3D9DF47",
@@ -91827,8 +91830,9 @@
         "0": "22241E4EDF84078C",
         "131072": "763C13E67052D748",
         "196608": "B081867BBF7D0D10",
+        "262144": "B081867BBF7D0D10",
         "65536": "763C13E67052D748",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Love Love School Days"
     },
     "0100F92005D54000": {
@@ -93560,6 +93564,10 @@
         "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge"
     },
     "0100FE701475B000": {
+        "latest": 0
+    },
+    "0100FE701B38E000": {
+        "0": "D8BF2FFF54E6AF66",
         "latest": 0
     },
     "0100FE801185E000": {
