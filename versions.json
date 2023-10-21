@@ -33949,7 +33949,8 @@
     },
     "01005D2016934000": {
         "0": "6C66FD1FA5EA3CDF",
-        "latest": 0,
+        "65536": "CC5BE0AAB0AEFDFD",
+        "latest": 65536,
         "title": "Ghostbusters: Spirits Unleashed Ecto Edition"
     },
     "01005D3012322000": {
@@ -40029,6 +40030,7 @@
         "title": "Railway Islands - Puzzle"
     },
     "01006CE01CBFC000": {
+        "0": "4BE6FB2ED4E1C662",
         "65536": "4BE6FB2ED4E1C662",
         "latest": 65536,
         "title": "The GhostX : Sniper Simulator (Tactical Shooting & Eliminator)"
@@ -46321,7 +46323,8 @@
     },
     "01007DD01D0DE000": {
         "65536": "B15EC3ED3769F85B",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Halloween Bubble Shooter"
     },
     "01007DE013A48000": {
         "0": "E150450F665FAF48",
@@ -48218,6 +48221,10 @@
     "010082C017E30000": {
         "0": "773186185AAD981B",
         "65536": "773186185AAD981B",
+        "latest": 65536
+    },
+    "010082C01954E000": {
+        "65536": "E6AEA53162E592EC",
         "latest": 65536
     },
     "010082D014B98000": {
@@ -72298,7 +72305,8 @@
         "720896": "EC7F5279BCA9ED44",
         "786432": "37FE288E4BD0EA40",
         "917504": "C4690CC11D2C464C",
-        "latest": 917504,
+        "983040": "601B246598670F46",
+        "latest": 983040,
         "title": "Mutant Football League: Dynasty Edition"
     },
     "0100C3E00ACAB000": {
@@ -77870,7 +77878,8 @@
     },
     "0100D340199CA000": {
         "0": "0DFD5D3AE20D2491",
-        "latest": 0
+        "latest": 0,
+        "title": "Blub"
     },
     "0100D3401AB18000": {
         "0": "70D7D381AF158C00",
@@ -80069,7 +80078,8 @@
     },
     "0100D8E01D074000": {
         "0": "B75ECB6136E10D8A",
-        "latest": 0
+        "latest": 0,
+        "title": "Colors and their Meanings"
     },
     "0100D90009530000": {
         "0": "3E95C9FF67BA9E4B",
@@ -80205,7 +80215,8 @@
     },
     "0100D9501A2F4000": {
         "0": "460FA6968C337687",
-        "latest": 0,
+        "65536": "4D03B7F10B69EFA8",
+        "latest": 65536,
         "title": "Crowns and Pawns: Kingdom of Deceit"
     },
     "0100D9600BA8E000": {
