@@ -3323,6 +3323,10 @@
         "latest": 131072,
         "title": "World Quiz"
     },
+    "0100099019536000": {
+        "131072": "9BCB45C0AC75040D",
+        "latest": 131072
+    },
     "010009901CD20000": {
         "0": "5DB451CEC840D6CB",
         "131072": "700F2A8B889EF962",
@@ -7235,6 +7239,11 @@
         "65536": "7B25550C73F0C896",
         "latest": 131072,
         "title": "SENSEs: Midnight"
+    },
+    "010015100B514000": {
+        "0": "CD6E42AEE7934F4D",
+        "latest": 0,
+        "title": "Super Mario Bros.\u2122 Wonder"
     },
     "010015100DD26000": {
         "0": "37C42FBB0316AA45",
@@ -14805,6 +14814,10 @@
         "latest": 131072,
         "title": "Gems of Magic: Dwarf's Destiny"
     },
+    "0100297019532000": {
+        "131072": "C86A0B3A42144F2E",
+        "latest": 131072
+    },
     "010029701996C000": {
         "0": "7A1320D56A73B894",
         "65536": "21292672A8110B9A",
@@ -18598,8 +18611,9 @@
     },
     "010033301A9C0000": {
         "131072": "C978A4FA48269C03",
+        "262144": "081F10EAC62A7988",
         "65536": "9246DEA206B61B0F",
-        "latest": 131072,
+        "latest": 262144,
         "title": "METAL GEAR SOLID"
     },
     "0100334011C6C000": {
@@ -26385,7 +26399,8 @@
     "010047F01AA10000": {
         "131072": "1BC964DDE1DBA44C",
         "196608": "1BC964DDE1DBA44C",
-        "latest": 196608,
+        "327680": "6D7F10C348D92AE9",
+        "latest": 327680,
         "title": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version"
     },
     "010047F01AE26000": {
@@ -31640,7 +31655,8 @@
     "010056901AA16000": {
         "131072": "416982FB13D50D35",
         "196608": "416982FB13D50D35",
-        "latest": 196608,
+        "327680": "0E2C4585A6554204",
+        "latest": 327680,
         "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.1 BONUS CONTENT"
     },
     "010056A00EC78000": {
@@ -37934,6 +37950,11 @@
         "131072": "B1A54A90CAFC3D09",
         "65536": "7D1C36CCF39304E3",
         "latest": 131072
+    },
+    "010067701B93A000": {
+        "0": "0DFD14C979A8D06B",
+        "latest": 0,
+        "title": "Space Games Galaxy Attack"
     },
     "0100679006532000": {
         "0": "112F7390F9755F2B",
@@ -48470,7 +48491,8 @@
     "010083801AA14000": {
         "131072": "90A99E7959EE9300",
         "196608": "90A99E7959EE9300",
-        "latest": 196608,
+        "327680": "EB8BF26F546741CC",
+        "latest": 327680,
         "title": "Metal Gear & Metal Gear 2: Solid Snake"
     },
     "0100839010DD6000": {
@@ -60628,8 +60650,9 @@
     },
     "0100A4301AA0C000": {
         "131072": "68B30C6774AE4B6B",
+        "262144": "E5E66F6EC4952F87",
         "65536": "68B30C6774AE4B6B",
-        "latest": 131072,
+        "latest": 262144,
         "title": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version"
     },
     "0100A4400BE74000": {
@@ -71035,6 +71058,11 @@
         "latest": 0,
         "title": "Word Chef"
     },
+    "0100C0501D4A8000": {
+        "0": "7DA21A16A4487F87",
+        "latest": 0,
+        "title": "Lamphead"
+    },
     "0100C06014588000": {
         "0": "78158746CB74094D",
         "latest": 0,
@@ -71066,6 +71094,11 @@
         "65536": "0B3DB8B35011E088",
         "latest": 131072,
         "title": "Baten Kaitos I & II HD Remaster"
+    },
+    "0100C0701D2E6000": {
+        "0": "E79C99C8345906B9",
+        "latest": 0,
+        "title": "Letters To Heaven"
     },
     "0100C08011942000": {
         "131072": "CAD041FF39B99230",
@@ -71290,6 +71323,10 @@
         "65536": "0ED4DE6ECA7B2D97",
         "latest": 65536,
         "title": "The Legend Of The Blue Warrior"
+    },
+    "0100C1301A9C2000": {
+        "196608": "C6F3280D8983A1BB",
+        "latest": 196608
     },
     "0100C14007E42000": {
         "0": "944362EEF6B0D7E6",
@@ -79586,6 +79623,11 @@
         "latest": 0,
         "title": "Timber Story"
     },
+    "0100D7B01D2E4000": {
+        "0": "D1449740FFB2011D",
+        "latest": 0,
+        "title": "Long Run"
+    },
     "0100D7C01115E000": {
         "0": "5A95EB5631C22043",
         "latest": 0,
@@ -87125,6 +87167,11 @@
         "latest": 196608,
         "title": "Chronicles of 2 Heroes: Amaterasu's Wrath"
     },
+    "0100EB901B412000": {
+        "0": "4B4817EC50C83844",
+        "latest": 0,
+        "title": "Cats and the Other Lives"
+    },
     "0100EB901B8A4000": {
         "0": "46EF635766A303CD",
         "latest": 0,
@@ -88239,6 +88286,10 @@
         "65536": "4C531136514B74B1",
         "latest": 65536,
         "title": "BLAZBLUE CENTRALFICTION Special Edition"
+    },
+    "0100EE8019534000": {
+        "131072": "FBC3E943D6AADBB0",
+        "latest": 131072
     },
     "0100EE900AB58000": {
         "0": "1C1F052D10A63EEF",
@@ -91595,7 +91646,8 @@
     "0100F75016A72000": {
         "0": "0BD4001940B98212",
         "131072": "2FE3C978119167A4",
-        "latest": 131072,
+        "196608": "6EC78E80E6DE03E2",
+        "latest": 196608,
         "title": "Day of the Dead: Solitaire Collection"
     },
     "0100F7501A382000": {
