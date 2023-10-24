@@ -2,6 +2,17 @@
     "C8A261F5EF9CCB88": {
         "\ufeff[Inf Hp]": "\ufeff[Inf Hp]\n58000000 02F52EC8\n58001000 00000150\n58001000 00000598\n58001000 00000030\n58001000 00000080\n78000000 0000001C\n64000000 00000000 000000C8\n\n"
     },
+    "D43CC23791BFF3E4": {
+        "[HP Inf]": "[HP Inf]\n04000000 016047E4 942B31CF\n04000000 020D0F20 B9403A68\n04000000 020D0F24 7100011F\n04000000 020D0F28 B9401E68\n04000000 020D0F2C 54000061\n04000000 020D0F30 D503201F\n04000000 020D0F34 4B140108\n04000000 020D0F38 D65F03C0\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 016047E4 4B140108\n\n",
+        "[One Hit Kill (Must be enabled the HP cheat)]": "[One Hit Kill (Must be enabled the HP cheat)]\n04000000 020D0F30 2A0803F4\n\n",
+        "[One Hit Kill (Must be enabled the HP cheat) Off]": "[One Hit Kill (Must be enabled the HP cheat) Off]\n04000000 020D0F30 D503201F\n\n",
+        "[Energy Inf]": "[Energy Inf]\n04000000 0157CCE0 1E204020\n\n",
+        "[Energy Inf Off]": "[Energy Inf Off]\n04000000 0157CCE0 1E203820\n\n",
+        "[Coins No Decrease]": "[Coins No Decrease]\n04000000 01578CB4 51000108\n\n",
+        "[Coins No Decrease Off]": "[Coins No Decrease Off]\n04000000 01578CB4 4B130108\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    },
     "attribution": {
         "The Last Dragon Slayer V1.1.txt": "\ufeff"
     }
