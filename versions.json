@@ -1763,7 +1763,8 @@
     "010005001A8CA000": {
         "0": "E45D017EF16F06BC",
         "262144": "4E02DA432763C4C3",
-        "latest": 262144,
+        "327680": "F87BEAF2C5CE13E3",
+        "latest": 327680,
         "title": "TRANSFORMERS: EARTHSPARK - Expedition"
     },
     "010005001B4DE000": {
@@ -2702,6 +2703,11 @@
         "latest": 131072,
         "title": "Doctor Who: The Lonely Assassins"
     },
+    "010007C01B510000": {
+        "0": "BB6CD9B26F41FBEA",
+        "latest": 0,
+        "title": "DOG\u00ae"
+    },
     "010007D00D43A000": {
         "0": "9ECC9F6E7675E1B1",
         "131072": "FC2A2A1ACAE7F4D7",
@@ -3326,8 +3332,12 @@
         "title": "World Quiz"
     },
     "0100099019536000": {
+        "0": "B8C2EAABAB58495F",
         "131072": "9BCB45C0AC75040D",
         "latest": 131072
+    },
+    "0100099019537000": {
+        "latest": 0
     },
     "010009901CD20000": {
         "0": "5DB451CEC840D6CB",
@@ -4728,6 +4738,11 @@
         "latest": 0,
         "title": "ALTF4"
     },
+    "01000D501D02C000": {
+        "0": "33D376B8232FC3BA",
+        "latest": 0,
+        "title": "EASY LEARNING CLASSICAL MUSIC"
+    },
     "01000D600EFC4000": {
         "0": "3D200A9F65E66BB0",
         "131072": "4AD52CE3AE5D2251",
@@ -5139,7 +5154,8 @@
     },
     "01000E801ACDE000": {
         "0": "D1A27839013333B9",
-        "latest": 0,
+        "65536": "5FB967167EFA1984",
+        "latest": 65536,
         "title": "DESOLATIUM"
     },
     "01000E801C38C000": {
@@ -5149,6 +5165,11 @@
     "01000E9013CD4000": {
         "65536": "0D71D8CB8614502B",
         "latest": 65536
+    },
+    "01000E90165E6000": {
+        "0": "12AD799BF05B7B6F",
+        "latest": 0,
+        "title": "Seaside Driving"
     },
     "01000EA00B23C000": {
         "131072": "232BEDF815044A75",
@@ -6059,8 +6080,9 @@
     "010011101B7BE000": {
         "0": "F4622CF645D1C567",
         "131072": "7E15DC0B7883F78B",
+        "196608": "463957AEF7DAD433",
         "65536": "F9135B577355FBE7",
-        "latest": 131072,
+        "latest": 196608,
         "title": "CyberTD"
     },
     "0100112003B8A000": {
@@ -6695,7 +6717,8 @@
     },
     "010012F017608000": {
         "0": "F370608945394A0A",
-        "latest": 0,
+        "65536": "2CF7515417F652C7",
+        "latest": 65536,
         "title": "Pixel Game Maker Series RUMBLE DRAGON"
     },
     "0100130015E0E000": {
@@ -7010,6 +7033,12 @@
         "131072": "9363944AAF8EED4F",
         "latest": 131072,
         "title": "Trollhunters: Defenders of Arcadia"
+    },
+    "010014501C28E000": {
+        "0": "906F5B1FDF52E937",
+        "65536": "3A5402508F67791E",
+        "latest": 65536,
+        "title": "VISCO Collection"
     },
     "010014600EAA2000": {
         "0": "93DF8F9580187749",
@@ -9331,6 +9360,11 @@
         "latest": 131072,
         "title": "Esports Life Tycoon"
     },
+    "01001AA01B6CA000": {
+        "0": "78D98DD48660AE7C",
+        "latest": 0,
+        "title": "Animal Kart Racer 2"
+    },
     "01001AB0140F2000": {
         "0": "09F57ACEA21909B9",
         "131072": "6CBEE0573826FF73",
@@ -9775,6 +9809,11 @@
         "0": "54CB077C6D96712C",
         "latest": 0,
         "title": "Smash Out"
+    },
+    "01001B801C656000": {
+        "0": "7C59380ECFA0FE38",
+        "latest": 0,
+        "title": "Paintball 3 - Candy Match Factory"
     },
     "01001B9015E7A000": {
         "0": "1A6D79A07085C845",
@@ -11800,6 +11839,10 @@
         "0": "77FACA3CA5F8D084",
         "latest": 0,
         "title": "Jewel Fever 2 Demo"
+    },
+    "010021401A0AE000": {
+        "0": "045F54E34DF72EA2",
+        "latest": 0
     },
     "010021401ADCC000": {
         "65536": "A1E1EFBA68B846A9",
@@ -13831,6 +13874,7 @@
         "title": "Taco Tom 2"
     },
     "010026A01B334000": {
+        "0": "54228938C1008938",
         "65536": "C79F9EA1D7AC926B",
         "latest": 65536,
         "title": "Hero Survival"
@@ -14842,8 +14886,12 @@
         "title": "Gems of Magic: Dwarf's Destiny"
     },
     "0100297019532000": {
+        "0": "9F3B029F9C80F4A3",
         "131072": "C86A0B3A42144F2E",
         "latest": 131072
+    },
+    "0100297019533000": {
+        "latest": 0
     },
     "010029701996C000": {
         "0": "7A1320D56A73B894",
@@ -15069,6 +15117,11 @@
         "0": "3363E6E2D773980B",
         "latest": 0
     },
+    "010029F01BF20000": {
+        "0": "435477B596E78DC3",
+        "latest": 0,
+        "title": "Kraken Odyssey"
+    },
     "01002A0009E18000": {
         "0": "D74B956DA717184A",
         "latest": 0,
@@ -15277,6 +15330,7 @@
         "title": "Death or Treat"
     },
     "01002AA01C7C2000": {
+        "0": "652AE2AE877E8920",
         "65536": "F1179CAD14F28CFF",
         "latest": 65536,
         "title": "Great Ambition of the SLIMES"
@@ -15618,9 +15672,13 @@
         "latest": 0
     },
     "01002B7015A40000": {
+        "0": "B7730D245C9A78EC",
         "65536": "89197F6D3C42665F",
         "latest": 65536,
         "title": "Spin Rhythm XD"
+    },
+    "01002B7015A41000": {
+        "latest": 65536
     },
     "01002B701A57A000": {
         "0": "F16C744EEE4BD832",
@@ -16481,6 +16539,10 @@
         "262144": "4CCD2F6D331DD104",
         "latest": 262144
     },
+    "01002DB01B612000": {
+        "0": "BED2E463E65282CE",
+        "latest": 0
+    },
     "01002DB01B6C0000": {
         "0": "D47C9E8C33766FCE",
         "65536": "ECF296C81A3E3ADD",
@@ -16652,6 +16714,11 @@
         "0": "5854845DF4434D11",
         "latest": 0,
         "title": "Elite Soldier Shooter"
+    },
+    "01002E101B50A000": {
+        "0": "7FD3F38A3744AE7A",
+        "latest": 0,
+        "title": "Yatzi"
     },
     "01002E2014158000": {
         "0": "077EF6585923CABF",
@@ -17964,6 +18031,11 @@
         "latest": 0,
         "title": "Artsy Pixel"
     },
+    "010031A019CD2000": {
+        "0": "B18807D5298360F7",
+        "latest": 0,
+        "title": "Hana Awase New Moon -Iroha Volume-"
+    },
     "010031B00A4E8000": {
         "0": "EC68A5E51DF1A542",
         "196608": "CCCB908FADD61B44",
@@ -18648,11 +18720,15 @@
         "title": "orbit.industries"
     },
     "010033301A9C0000": {
+        "0": "C978A4FA48269C03",
         "131072": "C978A4FA48269C03",
         "262144": "081F10EAC62A7988",
         "65536": "9246DEA206B61B0F",
         "latest": 262144,
         "title": "METAL GEAR SOLID"
+    },
+    "010033301A9C1000": {
+        "latest": 0
     },
     "0100334011C6C000": {
         "65536": "1015A46FA5D8BD41",
@@ -18786,6 +18862,9 @@
         "0": "93FB5223AD37635D",
         "latest": 0,
         "title": "Subway Simulator - Underground Train Ride Station Ultimate Driving Games"
+    },
+    "010033601B175000": {
+        "latest": 0
     },
     "010033700418A000": {
         "0": "C68BC0A4F96DB645",
@@ -19326,6 +19405,11 @@
         "latest": 0,
         "title": "Super Hero Driving School"
     },
+    "010035100F23E000": {
+        "0": "73A83139D5446570",
+        "latest": 0,
+        "title": "Varenje - Don't Touch The Berries"
+    },
     "0100351013A06000": {
         "0": "668D86248CB21165",
         "65536": "7D8AC3A9510978CD",
@@ -19404,7 +19488,8 @@
         "524288": "56A6F16D088132AD",
         "589824": "5EC597E637F1A571",
         "65536": "542881CB188B5F12",
-        "latest": 589824,
+        "655360": "CF33E51B9F5FDF68",
+        "latest": 655360,
         "title": "A Little to the Left"
     },
     "0100354017669000": {
@@ -20146,6 +20231,11 @@
         "latest": 0,
         "title": "Johnny Turbo\u2019s Arcade: Express Raider"
     },
+    "0100378019CCC000": {
+        "0": "D41C6CD3AD183291",
+        "latest": 0,
+        "title": "Hana Awase New Moon -Mizuchi Volume-"
+    },
     "010037801CE28000": {
         "0": "C30E2C6CFDA386A2",
         "65536": "D8CAB287EBA020B1",
@@ -20227,6 +20317,7 @@
         "latest": 131072
     },
     "010037C01C27E000": {
+        "0": "C85C71CF2E8795DD",
         "65536": "4DFD4002689D447E",
         "latest": 65536,
         "title": "Composer World"
@@ -20302,6 +20393,11 @@
     },
     "0100380017D3F000": {
         "latest": 0
+    },
+    "0100380019CD0000": {
+        "0": "BC3D991826A886EA",
+        "latest": 0,
+        "title": "Hana Awase New Moon -Karakurenai/Utsutsu Volume-"
     },
     "010038001AD72000": {
         "0": "8385A6A36CEA8A2D",
@@ -21034,8 +21130,9 @@
         "131072": "5523F02611EE5CF6",
         "196608": "408D33DFB8B4176F",
         "262144": "34D6C086B09AAD96",
+        "327680": "587BEFD84A0B0DAC",
         "65536": "3E18AD0E691CBF11",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Infernax"
     },
     "010039A019B20000": {
@@ -21296,6 +21393,11 @@
     "01003A40170EA000": {
         "65536": "4350B06CB2416BED",
         "latest": 65536
+    },
+    "01003A401D146000": {
+        "0": "5CC880F81381377E",
+        "latest": 0,
+        "title": "LumiereMagna"
     },
     "01003A5001DBA000": {
         "0": "8064D8D08B439BFC",
@@ -25654,6 +25756,11 @@
         "latest": 196608,
         "title": "No Son Of Mine"
     },
+    "010045A01D462000": {
+        "0": "3114A67118368A86",
+        "latest": 0,
+        "title": "The Little Mermaid: Visual Harmony"
+    },
     "010045B00849C000": {
         "0": "6D64C7AB8AF64584",
         "latest": 0,
@@ -26450,6 +26557,7 @@
         "title": "The Library of Babel"
     },
     "010047F01AA10000": {
+        "0": "1BC964DDE1DBA44C",
         "131072": "1BC964DDE1DBA44C",
         "196608": "1BC964DDE1DBA44C",
         "327680": "6D7F10C348D92AE9",
@@ -26681,8 +26789,9 @@
         "0": "F4C15144BD9FE491",
         "131072": "3E92160947E14FD2",
         "196608": "C5BB0E83B1B46A04",
+        "262144": "61A3383A15AFF7C2",
         "65536": "A9A56302F6BA363C",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Monster Prom 3: Monster Roadtrip XXL"
     },
     "010048701A9F9000": {
@@ -31067,7 +31176,8 @@
     },
     "010054E0168A6000": {
         "0": "3E4E84C099E08903",
-        "latest": 0,
+        "65536": "2CF7515417F652C7",
+        "latest": 65536,
         "title": "Pixel Game Maker Series JEWELiNX"
     },
     "010054F00D2E2000": {
@@ -31714,6 +31824,7 @@
         "title": "War Dogs: Red's Return"
     },
     "010056901AA16000": {
+        "0": "416982FB13D50D35",
         "131072": "416982FB13D50D35",
         "196608": "416982FB13D50D35",
         "327680": "0E2C4585A6554204",
@@ -32192,8 +32303,9 @@
     },
     "010057D017B0A000": {
         "131072": "0BC3BE34BB480BBA",
+        "196608": "D6D365216B11BD9B",
         "65536": "D07C167F67CADDC0",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Headbangers: Rhythm Royale"
     },
     "010057D01BA78000": {
@@ -33040,7 +33152,8 @@
     },
     "01005A40168A2000": {
         "0": "3E4E84C099E08903",
-        "latest": 0,
+        "65536": "2CF7515417F652C7",
+        "latest": 65536,
         "title": "Pixel Game Maker Series CHAM THE CAT ADVENTURE"
     },
     "01005A4019B00000": {
@@ -34684,8 +34797,10 @@
         "latest": 0
     },
     "01005EE01C12C000": {
+        "0": "662AEB56A9F4794C",
         "65536": "BFD3684CA2D6AF49",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Wetory"
     },
     "01005EF003FF2000": {
         "0": "F2DA1E131CD72241",
@@ -36250,6 +36365,11 @@
         "latest": 65536,
         "title": "Kittengumi: The Sakabato's Thief"
     },
+    "010062701C856000": {
+        "0": "D5F8ACB52EF1167E",
+        "latest": 0,
+        "title": "Horror Gallery"
+    },
     "0100628004BCE000": {
         "0": "A7A01C91D1CDD667",
         "65536": "81DA4F9E1E961CA6",
@@ -36402,6 +36522,10 @@
         "0": "849F92A52931220C",
         "latest": 0,
         "title": "Memory Lane"
+    },
+    "010062F015D34000": {
+        "0": "B723F53B3723412B",
+        "latest": 0
     },
     "010062F01B138000": {
         "0": "8924ACB637457B35",
@@ -36674,6 +36798,12 @@
     "010063B0198EA000": {
         "0": "75EC64C78492AF35",
         "latest": 0
+    },
+    "010063B01C858000": {
+        "0": "1CC7A6C8DE755F4A",
+        "65536": "0A3EFBEFF81EA788",
+        "latest": 65536,
+        "title": "Paper Dash - Ghost Hunt"
     },
     "010063C00C688000": {
         "0": "D02415C36D5BFB49",
@@ -38745,6 +38875,12 @@
         "latest": 196608,
         "title": "Jigsaw Fun: Greatest Cities"
     },
+    "0100696019D02000": {
+        "0": "067DF72D1A1985D3",
+        "65536": "067DF72D1A1985D3",
+        "latest": 65536,
+        "title": "Tappy Word Infinite"
+    },
     "010069700AF9C000": {
         "0": "E6210AE42CC34ADA",
         "latest": 0,
@@ -40091,7 +40227,8 @@
         "589824": "7E1477790759D172",
         "65536": "0E5BB72DE6B634F1",
         "655360": "2F3E3091FAE1316B",
-        "latest": 655360
+        "720896": "1F36CF6C5931C6D5",
+        "latest": 720896
     },
     "01006CC015ECB000": {
         "latest": 0
@@ -43032,6 +43169,7 @@
         "2097152": "E92B58A51FC8404D",
         "2359296": "0DFAA1619547DB41",
         "2424832": "E8FD7CBD01CDD648",
+        "2490368": "277D831752E7F34C",
         "327680": "1C62D0ADE6B16E44",
         "458752": "95D1AE13F0A1A049",
         "524288": "01038A63FCF77B40",
@@ -43042,7 +43180,7 @@
         "786432": "6E8B4A63B5BA004C",
         "917504": "A2BA7952ED308C40",
         "983040": "0E1E0CB3E287D541",
-        "latest": 2424832,
+        "latest": 2490368,
         "title": "OBAKEIDORO!"
     },
     "010074600CC7B000": {
@@ -43414,6 +43552,11 @@
         "0": "DA335623941EE23E",
         "latest": 0,
         "title": "2URVIVE"
+    },
+    "010075501BDAE000": {
+        "0": "F3CA4C01784505F2",
+        "latest": 0,
+        "title": "THE KITTY in The Trapping Garden"
     },
     "010075600AE96000": {
         "0": "7BC537E4E449F5FB",
@@ -44402,6 +44545,11 @@
         "65536": "C9376B603FBBA24A",
         "latest": 131072,
         "title": "Hero-U: Rogue to Redemption"
+    },
+    "010077D01D2C0000": {
+        "0": "D1E433A4C6D64872",
+        "latest": 0,
+        "title": "Springtime Hike"
     },
     "010077E00F30E000": {
         "0": "1306B9F7B2365D4C",
@@ -46375,8 +46523,9 @@
         "131072": "A732475E6BC21636",
         "196608": "25E6543C4FFC6621",
         "262144": "9F6864ADF54297F7",
+        "327680": "3DF8F7F2E0E3F9E5",
         "65536": "D575FB9A598DF6B1",
-        "latest": 262144,
+        "latest": 327680,
         "title": "To Hell with the Ugly"
     },
     "01007DC018AEA000": {
@@ -46426,6 +46575,7 @@
         "title": "LawnMower: Mortal Race"
     },
     "01007DD01D0DE000": {
+        "0": "6F0942455D78B20D",
         "65536": "B15EC3ED3769F85B",
         "latest": 65536,
         "title": "Halloween Bubble Shooter"
@@ -48331,6 +48481,7 @@
         "latest": 65536
     },
     "010082C01954E000": {
+        "0": "E6AEA53162E592EC",
         "65536": "E6AEA53162E592EC",
         "latest": 65536
     },
@@ -48575,6 +48726,7 @@
         "title": "The Guise"
     },
     "010083801AA14000": {
+        "0": "90A99E7959EE9300",
         "131072": "90A99E7959EE9300",
         "196608": "90A99E7959EE9300",
         "327680": "EB8BF26F546741CC",
@@ -51682,6 +51834,7 @@
         "title": "Robotry!"
     },
     "01008C701C774000": {
+        "0": "64A986558B127443",
         "65536": "2240CC2FE8F74878",
         "latest": 65536,
         "title": "Enchanted Portals"
@@ -52242,6 +52395,11 @@
         "latest": 0,
         "title": "Arcade Archives PAC & PAL"
     },
+    "01008D8019CCE000": {
+        "0": "5DA368CCAD8C1AC9",
+        "latest": 0,
+        "title": "Hana Awase New Moon -Himeutsugi Volume-"
+    },
     "01008D900B984000": {
         "0": "D9DDFD1F44DEDB45",
         "131072": "A6C1048B45634152",
@@ -52679,6 +52837,12 @@
     "01008E8015294000": {
         "65536": "6BE6E7BEEA401646",
         "latest": 65536
+    },
+    "01008E80199A8000": {
+        "0": "466506AE09B9CE9A",
+        "65536": "466506AE09B9CE9A",
+        "latest": 65536,
+        "title": "Tappy Word 3"
     },
     "01008E900471E000": {
         "0": "4B452D38512E6449",
@@ -55889,7 +56053,8 @@
     },
     "010096F01997A000": {
         "0": "A3D17206C6AF1905",
-        "latest": 0
+        "latest": 0,
+        "title": "Arcade Archives BURNING FORCE"
     },
     "010097000BC10000": {
         "0": "FB4239AA962B429B",
@@ -56747,6 +56912,11 @@
         "latest": 262144,
         "title": "Atari 50: The Anniversary Celebration"
     },
+    "010099801CFD0000": {
+        "0": "09037FC007A2CD44",
+        "latest": 0,
+        "title": "SPACE STORESHIP"
+    },
     "010099900CAB2000": {
         "0": "2FBB8B54B2F1618E",
         "65536": "F2F739A2F1CAFF72",
@@ -56778,6 +56948,12 @@
         "65536": "3FE81B446A7EA54D",
         "latest": 65536,
         "title": "Mahluk dark demon"
+    },
+    "010099A0199A4000": {
+        "0": "129F4AA403EB4A29",
+        "65536": "129F4AA403EB4A29",
+        "latest": 65536,
+        "title": "Tappy Word"
     },
     "010099B00A2DC000": {
         "0": "9EC9964FFD6E3F73",
@@ -59043,8 +59219,9 @@
         "131072": "25EC346A5EF1374D",
         "262144": "7BD427EF7F9C1E6A",
         "327680": "7C682079AF2D0D1B",
+        "393216": "F57DB1FA410FD9DD",
         "65536": "BC6146A36AE559C0",
-        "latest": 327680,
+        "latest": 393216,
         "title": "Sonic Origins"
     },
     "01009FB016287000": {
@@ -60484,8 +60661,9 @@
     },
     "0100A3501A88A000": {
         "0": "06DCDCF71B62204D",
+        "131072": "BB99718493236DDA",
         "65536": "65A38FEFC10EBE43",
-        "latest": 65536,
+        "latest": 131072,
         "title": "MOTHERED - A ROLE-PLAYING HORROR GAME"
     },
     "0100A36013A64000": {
@@ -60767,6 +60945,7 @@
         "title": "Host 714"
     },
     "0100A4301AA0C000": {
+        "0": "68B30C6774AE4B6B",
         "131072": "68B30C6774AE4B6B",
         "262144": "E5E66F6EC4952F87",
         "65536": "68B30C6774AE4B6B",
@@ -62027,7 +62206,8 @@
     "0100A7801A530000": {
         "0": "153AAF3E3E45B9B0",
         "131072": "ECFE5936549248CF",
-        "latest": 131072,
+        "196608": "E24C4E03918D3A6C",
+        "latest": 196608,
         "title": "Disgaea 7: Vows of the Virtueless"
     },
     "0100A7801A531000": {
@@ -62954,6 +63134,7 @@
     "0100AA201236E000": {
         "0": "C5B7331896DF784C",
         "1048576": "E7EA5C403EA81A48",
+        "1114112": "FFF272E543943440",
         "262144": "23288E120F5D3946",
         "327680": "3B9BFEAC93D63049",
         "393216": "10B9449FF6A1074F",
@@ -62966,7 +63147,7 @@
         "851968": "31851AA60BCE0443",
         "917504": "46C7ED2F93D50D49",
         "983040": "1A4C274C351EA14C",
-        "latest": 1048576,
+        "latest": 1114112,
         "title": "Clone Drone in the Danger Zone"
     },
     "0100AA20125D6000": {
@@ -63416,8 +63597,9 @@
     },
     "0100AB601AEA2000": {
         "0": "BB996D80FA49D95F",
+        "131072": "4B61EEED606FDB55",
         "65536": "12AC3A34E912127B",
-        "latest": 65536,
+        "latest": 131072,
         "title": "My Little Universe"
     },
     "0100AB700AF14000": {
@@ -66950,6 +67132,11 @@
         "latest": 65536,
         "title": "Arcade Archives POLE POSITION"
     },
+    "0100B5001D0E6000": {
+        "0": "84A3CDDFCCDBF2F7",
+        "latest": 0,
+        "title": "Wet Steps"
+    },
     "0100B51012DE2000": {
         "0": "2A4EB64C36C2FD4A",
         "latest": 0,
@@ -68900,6 +69087,7 @@
         "latest": 0
     },
     "0100BA90174A8000": {
+        "0": "E33723AC8C755805",
         "65536": "3E934902F2DE55BA",
         "latest": 65536,
         "title": "Kickback Slug: Cosmic Courier"
@@ -70106,8 +70294,9 @@
         "131072": "A8D4FEE18023F15C",
         "196608": "E0A5A92EA4F37A3A",
         "262144": "58636D33E56B931B",
+        "327680": "9C33602289E55F7A",
         "65536": "6B6D4D60E3187FFC",
-        "latest": 262144,
+        "latest": 327680,
         "title": "EA SPORTS FC\u2122 24"
     },
     "0100BDB01A0E7000": {
@@ -71212,7 +71401,8 @@
         "65536": "8A062CB529281EC8",
         "655360": "BACEFD326FD85D20",
         "720896": "3772F0D87D987EC4",
-        "latest": 720896,
+        "786432": "506E009E09F089EA",
+        "latest": 786432,
         "title": "Winkeltje: The Little Shop"
     },
     "0100C0701310A000": {
@@ -71570,8 +71760,9 @@
         "131072": "61CEBD924B9C726D",
         "196608": "71116C3A111BB173",
         "262144": "B351D024354D75DE",
+        "327680": "DCBF8673C1FE6197",
         "65536": "5D1CE19BD77EC31F",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Marble It Up! Ultra"
     },
     "0100C18016897000": {
@@ -72107,6 +72298,12 @@
         "0": "A5E5407DEE5C9BC1",
         "latest": 0,
         "title": "Ninja JaJaMaru: The Lost RPGs"
+    },
+    "0100C2F01B1AE000": {
+        "0": "9E9858BB15EB014E",
+        "131072": "35B5E1DCADF17247",
+        "latest": 131072,
+        "title": "A Perfect Day"
     },
     "0100C31005A50000": {
         "0": "5F3B7618CFA088FF",
@@ -73880,8 +74077,9 @@
     },
     "0100C7601CD08000": {
         "0": "1FB3F1BD2932CFC1",
+        "131072": "E57156DFDBE5C150",
         "65536": "0D4B79BDB8F8F712",
-        "latest": 65536
+        "latest": 131072
     },
     "0100C77018F90000": {
         "0": "D410699A5BAFFB89",
@@ -74906,6 +75104,7 @@
         "latest": 65536
     },
     "0100CA501BF66000": {
+        "0": "2881B88C111FB202",
         "131072": "D1A0FCA04B08402B",
         "65536": "72588D55817A98FA",
         "latest": 131072,
@@ -74916,6 +75115,11 @@
         "65536": "AD12E8CBE87E0E4C",
         "latest": 65536,
         "title": "VERTICAL STRIKE ENDLESS CHALLENGE"
+    },
+    "0100CA601D134000": {
+        "0": "D690AB0C343A93B4",
+        "latest": 0,
+        "title": "Nyanzou & Kumakichi Let's make a flower garden"
     },
     "0100CA7012CD6000": {
         "0": "D4260FF755A05C46",
@@ -78432,6 +78636,7 @@
         "title": "Driving World: Aspen"
     },
     "0100D4601D20A000": {
+        "0": "44128C90DEEBE653",
         "65536": "AEEF3E8BFAB6B8F9",
         "latest": 65536
     },
@@ -78665,6 +78870,11 @@
         "0": "82803EF4FCECA3CC",
         "latest": 0,
         "title": "Volleyball Trainer: The Legend of Sports"
+    },
+    "0100D4F01C478000": {
+        "0": "7FE058B8F95617D5",
+        "latest": 0,
+        "title": "Swapshot"
     },
     "0100D50014AC4000": {
         "0": "02DFF0969D0AC441",
@@ -79296,6 +79506,11 @@
     "0100D6C01B4F0000": {
         "0": "C03A5271885CAB90",
         "latest": 0
+    },
+    "0100D6C01C5F2000": {
+        "0": "CFE54CA96D865BE3",
+        "latest": 0,
+        "title": "CometStriker DX"
     },
     "0100D6D00A490000": {
         "0": "F469912C2279104D",
@@ -82495,6 +82710,7 @@
         "title": "NinNinDays2"
     },
     "0100DEF01D0C2000": {
+        "0": "AE3BFBFC441090F8",
         "65536": "F30797401412F419",
         "latest": 65536,
         "title": "even if TEMPEST Dawning Connections"
@@ -82587,6 +82803,7 @@
         "title": "AstroWings: Space War"
     },
     "0100DF401B7F8000": {
+        "0": "D49CB3DEC257B1C8",
         "65536": "D757A5E4F84FC29D",
         "latest": 65536,
         "title": "Alive Paint"
@@ -82692,6 +82909,9 @@
         "65536": "D2801A68ADDB4D41",
         "latest": 196608,
         "title": "Cooking Tycoons - 3 in 1 Bundle"
+    },
+    "0100DF9010207000": {
+        "latest": 0
     },
     "0100DF9013AD4000": {
         "0": "164247FCFA517C4B",
@@ -84699,6 +84919,11 @@
         "0": "5E4F4D5CFA7B744C",
         "latest": 0,
         "title": "Be a Poker Champion! Texas Hold'em"
+    },
+    "0100E5001AFAE000": {
+        "0": "671836B00FC93864",
+        "latest": 0,
+        "title": "Pickleball Smash"
     },
     "0100E510143EC000": {
         "0": "E69EDD44C3CD35DF",
@@ -88451,8 +88676,12 @@
         "title": "BLAZBLUE CENTRALFICTION Special Edition"
     },
     "0100EE8019534000": {
+        "0": "9C1F1FA5FBDF5133",
         "131072": "FBC3E943D6AADBB0",
         "latest": 131072
+    },
+    "0100EE8019535000": {
+        "latest": 0
     },
     "0100EE900AB58000": {
         "0": "1C1F052D10A63EEF",
@@ -89760,6 +89989,12 @@
     "0100F1D0191A2000": {
         "0": "159923CC85DE274E",
         "latest": 0
+    },
+    "0100F1D0199A6000": {
+        "0": "76004E2757C89F33",
+        "65536": "76004E2757C89F33",
+        "latest": 65536,
+        "title": "Tappy Word 2"
     },
     "0100F1E00E2D2000": {
         "0": "1C1F764E9000C74E",
@@ -91431,6 +91666,10 @@
         "0": "3AF610FC01A8090C",
         "latest": 0
     },
+    "0100F640129A8000": {
+        "0": "F5E5A0B0235332A6",
+        "latest": 0
+    },
     "0100F6401AF04000": {
         "0": "08C1F95610BC45EC",
         "latest": 0,
@@ -91805,6 +92044,11 @@
         "65536": "750EE20C9A01A3BF",
         "latest": 65536,
         "title": "Shootvaders: The Beginning"
+    },
+    "0100F7301AAB6000": {
+        "0": "8B20A7718739E6C9",
+        "latest": 0,
+        "title": "Horror Tale 2: Samantha"
     },
     "0100F75016A72000": {
         "0": "0BD4001940B98212",
@@ -92922,6 +93166,7 @@
         "title": "Hamsterdam"
     },
     "0100FA8019B28000": {
+        "0": "F393FBBF7C74E45A",
         "65536": "EAEFC0735A547A95",
         "latest": 65536
     },
@@ -93436,6 +93681,10 @@
         "0": "13635852B835A6AA",
         "latest": 0,
         "title": "Pillar Builder Puzzle"
+    },
+    "0100FBE01AC5C000": {
+        "0": "AC6B182176B39DC4",
+        "latest": 0
     },
     "0100FBF014064000": {
         "65536": "BC007A5EB3EC1844",
