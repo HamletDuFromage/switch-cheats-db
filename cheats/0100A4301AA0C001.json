@@ -51,6 +51,11 @@
         "[\u266f46. Have Dog Tags]": "[\u266f46. Have Dog Tags]\n580F0000 00A11278\n480D0000 00000000 0000022E\n620F01D0 00000000 00000063\n\n",
         "[\u266f47. Have MO Disc]": "[\u266f47. Have MO Disc]\n580F0000 00A11278\n480D0000 00000000 00000230\n620F01D0 00000000 00000001\n\n",
         "[--SectionEnd:Snake Codes--]": "[--SectionEnd:Snake Codes--]\n00000000 00000000 00000000\n\n",
-        "[- khuong \u30c4 -]": "[- khuong \u30c4 -]\n20000000\n\n"
+        "[- khuong \u30c4 -]": "[- khuong \u30c4 -]\n20000000\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 1498F008\n780F0000 0000003C\n640F0000 00000000 00000002\n04000000 0002D140 D503201F\n\n",
+        "[30 FPS (default)]": "[30 FPS (default)]\n04000000 0002D140 B9003D28\n\n"
+    },
+    "attribution": {
+        "Metal Gear Solid 2: Sons of Liberty.txt": "By masagrator\nGame speed is tied to framerate, so if framerate drops the game will slow down.\nIt's reccomended to use the .ips version of modification for 60FPS instead of the cheat because it forces triple buffering making framerate dips less severe\nhttps://gbatemp.net/threads/metal-gear-solid-2-3-60-fps-patches.642085/\n"
     }
 }
