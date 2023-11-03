@@ -2228,8 +2228,9 @@
     },
     "0100068018ECC000": {
         "0": "CC9A3EA0F207AEFA",
+        "131072": "8019D7D61A81AF2B",
         "65536": "5D51B5D9920AABFE",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Remorse: The List"
     },
     "0100068019996000": {
@@ -3819,6 +3820,11 @@
         "latest": 0,
         "title": "Japanese Escape Games The Retro House"
     },
+    "01000AD01D194000": {
+        "0": "B28B135A8EF83AFF",
+        "latest": 0,
+        "title": "Jigsaw Advent Calendar"
+    },
     "01000AE01BD02000": {
         "0": "CD4210A79A95D644",
         "131072": "9A7868E17B0FBF49",
@@ -4209,9 +4215,13 @@
         "latest": 0
     },
     "01000C001A09A000": {
+        "0": "43941E4E78E1F3A7",
         "65536": "AE65257E27872667",
         "latest": 65536,
         "title": "Fashion Dreamer"
+    },
+    "01000C001A09B000": {
+        "latest": 0
     },
     "01000C100CFD8000": {
         "0": "8CDB26F131CAE447",
@@ -9571,6 +9581,11 @@
         "latest": 0,
         "title": "Escape Academy: The Complete Edition"
     },
+    "01001B001C0E8000": {
+        "0": "6A07555D4E6D2EA9",
+        "latest": 0,
+        "title": "Ebenezer and the Invisible World"
+    },
     "01001B10068EC000": {
         "0": "65D165FEC9324C96",
         "262144": "1CAA05A4630E7769",
@@ -12677,8 +12692,9 @@
     },
     "01002350196EA000": {
         "0": "6064A722673D68EF",
+        "131072": "DF54CEF1CDF4C002",
         "65536": "6064A722673D68EF",
-        "latest": 65536,
+        "latest": 131072,
         "title": "SHINOBI NON GRATA"
     },
     "010023600AA34000": {
@@ -14247,6 +14263,11 @@
     "0100275011FB8000": {
         "0": "961E765B059DF74A",
         "latest": 0
+    },
+    "010027501B1BE000": {
+        "65536": "878C6DBF8747906E",
+        "latest": 65536,
+        "title": "Hidden Cats in London"
     },
     "0100276009872000": {
         "0": "A4FDDC7FD35B30CB",
@@ -20229,9 +20250,13 @@
         "latest": 65536
     },
     "010037401A374000": {
+        "0": "275EE76C182EC15E",
         "65536": "3C3A2E68DBD1BBEC",
         "latest": 65536,
         "title": "DreamWorks All-Star Kart Racing"
+    },
+    "010037401A375000": {
+        "latest": 0
     },
     "0100375009F80000": {
         "0": "01BF4416461A7E4F",
@@ -28521,6 +28546,11 @@
         "latest": 0,
         "title": "Indygo"
     },
+    "01004C801CE52000": {
+        "0": "EF015357ACF10C64",
+        "latest": 0,
+        "title": "ATV Monster Racing Simulator Rally Cross"
+    },
     "01004C900DBBE000": {
         "0": "9D8BC0CE2C08CF49",
         "131072": "6F230C078D6BD941",
@@ -31157,8 +31187,9 @@
     },
     "01005450178B0000": {
         "0": "6F98F922DA344C41",
+        "131072": "DCB7F699037DEA4C",
         "65536": "9017C75B5F9C8A40",
-        "latest": 65536,
+        "latest": 131072,
         "title": "HammerHelm"
     },
     "010054501B342000": {
@@ -31477,8 +31508,9 @@
         "131072": "5A807EAD6289055F",
         "196608": "76C988487F1DEEDD",
         "262144": "BBE9045D11B27F9F",
+        "327680": "97E3082EACF555B0",
         "65536": "12D8805CDF50CA3E",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Wartales"
     },
     "010055600516C000": {
@@ -33926,6 +33958,11 @@
         "0": "F6374FF081A90E30",
         "latest": 0,
         "title": "Fantasy Tavern Sextet -Vol.2 Adventurer's Days-"
+    },
+    "01005C101CFFC000": {
+        "65536": "680BAF7F781140AD",
+        "latest": 65536,
+        "title": "Berzerk: Recharged"
     },
     "01005C201074E000": {
         "0": "13AC2CCF6BE2C747",
@@ -38559,8 +38596,9 @@
     },
     "010068201A48C000": {
         "0": "1B68039DBD6AC30A",
+        "131072": "A39B4A6BE111A43F",
         "65536": "99963F7BF61AD5F8",
-        "latest": 65536,
+        "latest": 131072,
         "title": "The Mortuary Assistant"
     },
     "010068300DD20000": {
@@ -52037,8 +52075,9 @@
     },
     "01008C701C774000": {
         "0": "64A986558B127443",
+        "131072": "E49B50E52D183A9B",
         "65536": "2240CC2FE8F74878",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Enchanted Portals"
     },
     "01008C800E654000": {
@@ -54062,6 +54101,7 @@
         "1114112": "DE2A6641AB82F1AF",
         "1179648": "DA53A08E5EB86C64",
         "131072": "39469FAF575D6CC9",
+        "1310720": "793D4199946C240C",
         "196608": "B796B30CC06A6CB5",
         "262144": "4C4D292A972DDF27",
         "327680": "3C0A5A61E8CDC25B",
@@ -54075,7 +54115,7 @@
         "786432": "ABE3FCD775AC92B5",
         "851968": "F419F23AD1FF0E6C",
         "917504": "FA72D2F40A9D6347",
-        "latest": 1179648,
+        "latest": 1310720,
         "title": "MLB\u00ae The Show\u2122 23"
     },
     "0100913019171000": {
@@ -67829,8 +67869,9 @@
     "0100B63016916000": {
         "131072": "B95B3066C21803E2",
         "196608": "B685EFB504B8E026",
+        "262144": "64E05DC7E63FE962",
         "65536": "13425C6FD5817173",
-        "latest": 196608,
+        "latest": 262144,
         "title": "My Time at Sandrock"
     },
     "0100B63016917000": {
@@ -68035,6 +68076,11 @@
         "65536": "5166D09C4FD1825D",
         "latest": 131072,
         "title": "Lone Ruin"
+    },
+    "0100B6D01D1FE000": {
+        "0": "7D0FC4F04256399B",
+        "latest": 0,
+        "title": "Amabilly"
     },
     "0100B6E00A420000": {
         "0": "D273F6D43B6F1AF6",
@@ -70478,6 +70524,11 @@
         "0": "64378752A2529C00",
         "latest": 0
     },
+    "0100BD801C336000": {
+        "65536": "46A7997FC0328B54",
+        "latest": 65536,
+        "title": "Super Ultimate Fighters"
+    },
     "0100BD9004AB6000": {
         "0": "871A5F971B929D4E",
         "131072": "A57D87A5068D5C43",
@@ -72365,7 +72416,7 @@
         "title": "Splatoon\u2122 3 + Nintendo Switch Online Individual Membership (3 Months)"
     },
     "0100C2500FC21000": {
-        "latest": 196608
+        "latest": 262144
     },
     "0100C250115DC000": {
         "0": "9B6FCA808B3F1748",
@@ -75783,6 +75834,10 @@
         "latest": 0,
         "title": "The Intership"
     },
+    "0100CB601A7BC000": {
+        "65536": "CAB75E9E693E4B6D",
+        "latest": 65536
+    },
     "0100CB700D438000": {
         "196608": "2841024EBA162097",
         "262144": "22B01EF4CB4A6154",
@@ -78173,8 +78228,9 @@
         "196608": "1E5F8CED9A6D8886",
         "262144": "43B4DC5EBE16C758",
         "327680": "26ED2F427DE2D442",
+        "393216": "3F3081F9DE49D0DF",
         "65536": "8BF7F8421A12EA7D",
-        "latest": 327680,
+        "latest": 393216,
         "title": "Horse Tales: Emerald Valley Ranch"
     },
     "0100D20013DF1000": {
@@ -79979,7 +80035,8 @@
         "5767168": "8A02CF32B822E297",
         "5832704": "AFDA5C399733B488",
         "5898240": "3F5B5BEC6DDB0E47",
-        "latest": 5898240,
+        "5963776": "E040344826318834",
+        "latest": 5963776,
         "title": "Minecraft"
     },
     "0100D7100FDDE000": {
@@ -86146,7 +86203,8 @@
     },
     "0100E7301D41C000": {
         "0": "93F8ED8F711FE8F3",
-        "latest": 0
+        "latest": 0,
+        "title": "PAWfectly Designed"
     },
     "0100E7301D41D000": {
         "latest": 0
