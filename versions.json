@@ -2814,6 +2814,11 @@
         "latest": 131072,
         "title": "LiEat"
     },
+    "010008101C4C6000": {
+        "0": "4AEF258ABA1D274D",
+        "latest": 0,
+        "title": "The great battle of Shark Monkey Squirrel Dinossaur Bird Bee"
+    },
     "0100082010A4E000": {
         "0": "2CB78ECC38E38643",
         "131072": "1E2C15E76A5E7B4C",
@@ -22230,6 +22235,11 @@
         "latest": 65536,
         "title": "Archaica: The Path Of Light"
     },
+    "01003C201D482000": {
+        "0": "535EBD51D6063F68",
+        "latest": 0,
+        "title": "Save The World"
+    },
     "01003C300AAAE000": {
         "0": "E2615D6136D1137A",
         "131072": "68FEB6EC280E73B2",
@@ -26936,8 +26946,9 @@
         "131072": "3E92160947E14FD2",
         "196608": "C5BB0E83B1B46A04",
         "262144": "61A3383A15AFF7C2",
+        "327680": "49995FFA48895A58",
         "65536": "A9A56302F6BA363C",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Monster Prom 3: Monster Roadtrip XXL"
     },
     "010048701A9F9000": {
@@ -28350,6 +28361,11 @@
         "latest": 131072,
         "title": "Papetura"
     },
+    "01004C101D3C8000": {
+        "0": "C63B1B81C4CDAEA0",
+        "latest": 0,
+        "title": "Radio Cars"
+    },
     "01004C200100E000": {
         "0": "40E0C485C6A67144",
         "65536": "A8E3898464BE99DD",
@@ -28501,6 +28517,11 @@
     "01004C601AA18000": {
         "0": "0BAC31EF3289F316",
         "latest": 0
+    },
+    "01004C601D228000": {
+        "0": "1367D5DF2F95A0E2",
+        "latest": 0,
+        "title": "Internet Cafe Mini Games 10 in 1"
     },
     "01004C70086EC000": {
         "0": "F09EBE59E9E17840",
@@ -28823,6 +28844,11 @@
         "65536": "0D8139F60D6B2C44",
         "latest": 327680,
         "title": "Olija"
+    },
+    "01004D501D4EC000": {
+        "0": "E509B5972AF53A57",
+        "latest": 0,
+        "title": "Real Car Parking 2024: Driving Simulator"
     },
     "01004D600AC14000": {
         "0": "7D4B77375098E746",
@@ -78364,6 +78390,11 @@
         "0": "D666FA381D473DD8",
         "latest": 0
     },
+    "0100D2501CAA6000": {
+        "0": "8362E6DA391160D5",
+        "latest": 0,
+        "title": "Murder Is Game Over"
+    },
     "0100D2600736A000": {
         "0": "4FF8F56B697A0949",
         "latest": 0,
@@ -87601,6 +87632,11 @@
     },
     "0100EAE019905000": {
         "latest": 0
+    },
+    "0100EAE01D3C6000": {
+        "0": "970F2BADCD07D801",
+        "latest": 0,
+        "title": "Smash Balls"
     },
     "0100EAF00D408000": {
         "131072": "1894DD1EF5430C91",
