@@ -6668,8 +6668,9 @@
         "0": "6A866A5229D158BB",
         "131072": "C57598A4EBA5F1CB",
         "196608": "C64DD02CE10B5F8C",
+        "262144": "6AF33184B7B9C88C",
         "65536": "3EA316B4E14CE7CA",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Inescapable: No Rules, No Rescue"
     },
     "010012B0086C0000": {
@@ -22594,6 +22595,11 @@
         "0": "AFFA52FEC56A69DC",
         "latest": 0,
         "title": "Our Winter Sports"
+    },
+    "01003CF0191EE000": {
+        "0": "190E56119DA74808",
+        "latest": 0,
+        "title": "Double Dragon Advance"
     },
     "01003D00099EC000": {
         "0": "32C72B0D3FDF012F",
@@ -51810,6 +51816,11 @@
         "latest": 65536,
         "title": "Blocky Puzzle"
     },
+    "01008B701C59A000": {
+        "0": "C6827A160647188F",
+        "latest": 0,
+        "title": "Excessive Trim"
+    },
     "01008B8004E36000": {
         "0": "5CC405D753FAD34D",
         "131072": "985B0FF06BDEE834",
@@ -57113,6 +57124,11 @@
         "latest": 65536,
         "title": "Rick Henderson"
     },
+    "01009930191EC000": {
+        "0": "B28B135D9C3D80F3",
+        "latest": 0,
+        "title": "Super Double Dragon"
+    },
     "01009940140D8000": {
         "0": "4673323668BF84AB",
         "131072": "4D2E79BB971AE654",
@@ -60634,6 +60650,11 @@
         "65536": "668FB5BD516E8DAF",
         "latest": 65536,
         "title": "Gas Station Simulator"
+    },
+    "0100A2601BFF2000": {
+        "0": "2CA45FF50194EDE3",
+        "latest": 0,
+        "title": "Cobalt Core"
     },
     "0100A2700A86E000": {
         "0": "D358C95DCF624347",
@@ -78100,6 +78121,10 @@
         "latest": 65536,
         "title": "Our Summer Festival"
     },
+    "0100D1801A0F4000": {
+        "0": "72CF5F42C3586558",
+        "latest": 0
+    },
     "0100D1900EC80000": {
         "131072": "4E9E9501D27DD02E",
         "196608": "3F89E39F63955864",
@@ -84950,6 +84975,11 @@
         "196608": "8829DC513DB6564D",
         "65536": "F694138EBD1C8D49",
         "latest": 196608
+    },
+    "0100E3F01D71C000": {
+        "0": "0FDDA00A7314D061",
+        "latest": 0,
+        "title": "Village Tycoon: Farm City Simulator"
     },
     "0100E4000B6CA000": {
         "0": "9D60BA9017A77D33",
