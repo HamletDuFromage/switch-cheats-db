@@ -2,7 +2,16 @@
     "13296B64DFA7A131": {
         "[3-4 player 60 FPS]": "[3-4 player 60 FPS]\n04000000 00B5A47C EA000097\n\n",
         "[3-4 player 30 FPS (Default)]": "[3-4 player 30 FPS (Default)]\n04000000 00B5A47C 1A000097\n\n",
-        "[Ultrawide 21.9]": "[Ultrawide 21.9]\n04000000 003AA228 EEB00A03\n\n"
+        "[Ultrawide 21.9]": "[Ultrawide 21.9]\n04000000 003AA228 EEB00A03\n\n",
+        "[Mario Kart 8 Deluxe v2.3.0 TID=0100152000022000 BID=13296B64DFA7A131]": "[Mario Kart 8 Deluxe v2.3.0 TID=0100152000022000 BID=13296B64DFA7A131]\n\n",
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 008970F4 03000001\n040E0000 0089713C 03000001\n040E0000 00897184 03000001\n040E0000 008971CC 03000001\n040E0000 00897214 03000001\n040E0000 0089725C 03000001\n040E0000 008A0EE8 E1A05000\n040E0000 008A0F74 E6EF2077\n040E0000 008A0F84 E6EF2070\n040E0000 000E42B0 EEB72A00\n040E0000 001A20F8 EEB72A00\n040E0000 000E43A4 EEB72A00\n040E0000 007D6B68 42C80000\n040E0000 0018F3AC EEB72A00\n\n",
+        "[\u2116 1. Can use all Parts and Characters without Unlock]": "[\u2116 1. Can use all Parts and Characters without Unlock]\n040E0000 008970F4 E3000001\n040E0000 0089713C E3000001\n040E0000 00897184 E3000001\n040E0000 008971CC E3000001\n040E0000 00897214 E3000001\n040E0000 0089725C E3000001\n\n",
+        "[\u2116 2. 1000 Upper limited Coins]": "[\u2116 2. 1000 Upper limited Coins]\n040E0000 008A0EE8 E3A05FFA\n\n",
+        "[\u2116 3. 5x Coins Collected (for Player 1)]": "[\u2116 3. 5x Coins Collected (for Player 1)]\n080E0000 00BB6FF8 E12FFF1E E6EF2077\n080E0000 00BB6FF0 00877107 00855107\n080E0000 00BB6FE8 E3520000 E5D4201C\n040E0000 008A0F74 EB0C581B\n\n",
+        "[\u2116 4. No Coins Dropped (for Player 1)]": "[\u2116 4. No Coins Dropped (for Player 1)]\n080E0000 00BB6FE0 E12FFF1E E6EF2070\n080E0000 00BB6FD8 03A00000 00855000\n080E0000 00BB6FD0 E3520000 E5D4201C\n040E0000 008A0F84 EB0C5811\n\n",
+        "[\u2116 5. Double Size (original by @Optantic)]": "[\u2116 5. Double Size (original by @Optantic)]\n040E0000 000E42B0 EEB02A00\n040E0000 001A20F8 EEB02A00\n040E0000 000E43A4 EEB02A00\n\n",
+        "[\u2116 6. Confuse Enemies (original by @xtatu)]": "[\u2116 6. Confuse Enemies (original by @xtatu)]\n040E0000 007D6B68 461C4000\n\n",
+        "[\u2116 7. Speed Up Acceleration (original by @xtatu)]": "[\u2116 7. Speed Up Acceleration (original by @xtatu)]\n040E0000 0018F3AC EEB32A0E\n\n"
     },
     "1CD9216A21737FB4": {
         "[Unlock Gold Mario]": "[Unlock Gold Mario]\n01100000 29af136d 00000003\n\n",
