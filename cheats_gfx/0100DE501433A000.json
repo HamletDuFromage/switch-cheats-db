@@ -1,14 +1,4 @@
 {
-    "02E64F62153C1F00": {
-        "[Invincible (No Gravity)]": "[Invincible (No Gravity)]\n580E0000 074F2220\n580E1000 00000000\n580E1000 00000020\n580E1000 000002D0\n780E0000 00000714\n640E0000 00000000 00000001\n\n",
-        "[10x Line Erase Score]": "[10x Line Erase Score]\n580E0000 074F2220\n580E1000 00000000\n580E1000 00000020\n580E1000 000002D0\n780E0000 0000068C\n640E0000 00000000 0000000A\n\n",
-        "[Next Spawn XL (Press Y)]": "[Next Spawn XL (Press Y)]\n80000008\n580E0000 074F2220\n580E1000 00000000\n580E1000 00000020\n580E1000 000002D0\n780E0000 00000680\n640E0000 00000000 00000001\n20000000\n\n"
-    },
-    "4AEA702B9DE72FD5": {
-        "[Invincible (No Gravity)]": "[Invincible (No Gravity)]\n580E0000 07667220\n580E1000 00000000\n580E1000 00000020\n580E1000 000002D0\n780E0000 00000714\n640E0000 00000000 00000001\n\n",
-        "[10x Line Erase Score]": "[10x Line Erase Score]\n580E0000 07667220\n580E1000 00000000\n580E1000 00000020\n580E1000 000002D0\n780E0000 0000068C\n640E0000 00000000 0000000A\n\n",
-        "[Next Spawn XL (Press Y)]": "[Next Spawn XL (Press Y)]\n80000008\n580E0000 07667220\n580E1000 00000000\n580E1000 00000020\n580E1000 000002D0\n780E0000 00000680\n640E0000 00000000 00000001\n20000000\n\n"
-    },
     "95C56FF872C4F6D8": {
         "[Default 60 FPS]": "[Default 60 FPS]\n580F0000 07B490F8\n680F0000 00000001 00000001\n580F0000 0749C948\n680F0000 00000000 00000000\n580F0000 07C99BA8\n680F0000 42700000 42700000\n580F0000 07C99288\n780F0000 000007A4\n680F0000 42700000 00000007\n\n",
         "[30 FPS]": "[30 FPS]\n580F0000 07B490F8\n680F0000 00000002 00000002\n580F0000 07C99BA8\n680F0000 41F00000 41F00000\n\n",
@@ -113,8 +103,6 @@
         "[Default Distortion Effects ON]": "[Default Distortion Effects ON]\n580F0000 07BA0BD0\n680F0000 00000000 00000000\n\n"
     },
     "attribution": {
-        "Tetris\u00ac Effect, Connected (US) v1.0.0 by Eiffel2018.txt": "Note: Better use NOEXES to avoid game lag",
-        "Tetris\u00ac Effect, Connected (US) v1.0.0 and 1.0.1 by Eiffel2018.txt": "Note: Better use NOEXES to avoid game lag",
         "Tetris Effect Connected.txt": "By Hazerou\n\nIncluded in the text file;\n\n[Default 60 FPS]\n[30 FPS]\n[Filtering]\n[Enable DRS For Handheld (360p<=>720p)]\n[Enable DRS For Docked (540p<=>1080p)]\n[Dynamic Resolution Target 60 FPS]\n[Default Dynamic Resolution Target 30 FPS]\n[Disable Dynamic Resolution Scaling]\n[Handheld RRS 50% (360p)]\n[Handheld RRS 66.66% (480p)]\n[Handheld RRS 75% (540p)]\n[Handheld RRS 85% (612p)]\n[Handheld RRS 90% (648p)]\n[Handheld RRS 100% (720p)]\n[Default Handheld RRS 812p]\n[Docked RRS 66.66% (720p)]\n[Docked RRS 70% (756p)]\n[Docked RRS 71.11% (768p)]\n[Docked RRS 75% (812p)]\n[Docked RRS 83.33% (900p)]\n[Default Docked RRS 100% (1080p)]\n[Film Grain ON/OFF]\n[Vignette ON/OFF]\n[Foggy Scene ON/OFF]\n[Motion Blur ON/OFF]\n[CHROM AB ON/OFF]\n[Lens Flare ON/OFF]\n[Sky Lighting Quality ON/OFF]\n[Use / Don't Use New Film Tone Mapper]\n[Image Sharpening ON/OFF]\n[Use / Don't Use TAAU]\n[AA OFF / FXAA / TAA]\n[DOF OFF <=> ON]\n[View Distance Scale x0.5 <=> x2]\n[Anisotropic Filtering x1 <=> x16]\n[Shadow OFF <=> Max]\n[Shadow Distance x0.5 <=> x2]\n[SSA0 OFF <=> x2]\n[Bloom OFF <=> Very High]\n[Material Quality Low <=> Epic]\n[Detail Mode Low <=> High]\n[Adaptive Exposure ON/OFF]\n[Foliage ON/OFF (Experimental)]\n[Disable / Enable Fully Load Textures ASAP (Experimental)]\n[Distortion Effects OFF <=> ON]\n\n\nNotes;\n\n1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.\nPlease use;\nHandheld RRS for Handheld Mode.\nDocked RRS for Docked Mode.\nDon't activate them at the same time!\n"
     }
 }
