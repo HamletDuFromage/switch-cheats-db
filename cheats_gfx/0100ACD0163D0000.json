@@ -1,9 +1,18 @@
 {
     "7E82B6E57F467EC4": {
         "[RRS 100% (Handheld 720p, Docked 1080p)]": "[RRS 100% (Handheld 720p, Docked 1080p)]\n08000000 051B5E40 42C80000 42C80000\n\n",
-        "[RRS 75% (default) (Handheld 540p, Docked 810p)]": "[RRS 75% (default) (Handheld 540p, Docked 810p)]\n08000000 051B5E40 42960000 42960000\n\n"
+        "[RRS 75% (default) (Handheld 540p, Docked 810p)]": "[RRS 75% (default) (Handheld 540p, Docked 810p)]\n08000000 051B5E40 42960000 42960000\n\n",
+        "RRS 50% [360p]": "RRS 50% [360p]\n04000000 051B5E40 42480000\n\n",
+        "RRS 66.6667% [480p]": "RRS 66.6667% [480p]\n04000000 051B5E40 42855555\n\n",
+        "RRS 75% [540p]": "RRS 75% [540p]\n04000000 051B5E40 42960000\n\n",
+        "RRS 90% [648p]": "RRS 90% [648p]\n04000000 051B5E40 42B40000\n\n",
+        "RRS 100% [720p]": "RRS 100% [720p]\n04000000 051B5E40 42C80000\n\n",
+        "RRS 66.6667% [720p Docked]": "RRS 66.6667% [720p Docked]\n04000000 051B5E40 42855555\n\n",
+        "RRS 75% [812p Docked]": "RRS 75% [812p Docked]\n04000000 051B5E40 42960000\n\n",
+        "RRS 83.33% [900p Docked]": "RRS 83.33% [900p Docked]\n04000000 051B5E40 42A6A8F6\n\n",
+        "RRS 100 % [1080p Docked]": "RRS 100 % [1080p Docked]\n04000000 051B5E40 42C80000\n\n"
     },
     "attribution": {
-        "Batman Arkham Knight.txt": "By masagrator\n"
+        "Batman Arkham Knight.txt": "By masagrator\nRRS cheats by DAVYSGAMING\n"
     }
 }

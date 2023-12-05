@@ -76,6 +76,10 @@
         "[Unlock Gold Mario]": "[Unlock Gold Mario]\n01100000 29af136d 00000003\n\n",
         "[Unlock All Parts]": "[Unlock All Parts]\n08100000 29af1388 03030303 03030303\n08100000 29af1390 03030303 03030303\n08100000 29af1398 03030303 03030303\n08100000 29af13A0 03030303 03030303\n08100000 29af13A8 03030303 03030303\n08100000 29af13c8 03030303 03030303\n08100000 29af13d0 03030303 03030303\n08100000 29af13d8 00000003 03030303\n08100000 29af1408 03030303 03030303\n08100000 29af1410 00000303 03030303\n\n"
     },
+    "9EF5CAA2D5B933C7": {
+        "[3-4 player 60 FPS]": "[3-4 player 60 FPS]\n04000000 00BC0B3C EA000097\n\n",
+        "[3-4 player 30 FPS (Default)]": "[3-4 player 30 FPS (Default)]\n04000000 00BC0B3C 1A000097\n\n"
+    },
     "BDA8F5E6A0F87F36": {
         "[Mario Kart 8 Deluxe v2.1.0 TID=0100152000022000 BID=BDA8F5E6A0F87F36]": "[Mario Kart 8 Deluxe v2.1.0 TID=0100152000022000 BID=BDA8F5E6A0F87F36]\n\n",
         "[#01. Can use all Parts and Characters without Unlock]": "[#01. Can use all Parts and Characters without Unlock]\n040E0000 0082D178 E3000001\n040E0000 0082D1C0 E3000001\n040E0000 0082D208 E3000001\n040E0000 0082D250 E3000001\n040E0000 0082D298 E3000001\n040E0000 0082D2E0 E3000001\n\n",
@@ -100,6 +104,6 @@
     },
     "attribution": {
         "Mario Kart 8 Deluxe 1.7.1 by Xtatu speed mod.txt": "VMOV.F32 S4, #3.0 EEB02A08 3x\nVMOV.F32 S4, #30.0 EEB32A0E 30x",
-        "Mario Kart 8 Deluxe.txt": "2.2.1 60FPS pchtxt by Wachee\n2.3.0 60FPS pchtxt by zix7\n2.2.1 & 2.3.0 60 & 30 FPS cheat by halop\n2.30 21.9 converted by b0rd2dEAth\n2.4 60fps updated by B3711\n3.0 updated by B3711 & b0rd2dEAth based on public pchtxt\n\nOriginal author of all pchtxt theboy181\nhttps://linktr.ee/theboy181\n21.9 credits\n@theboy181 - https://linktr.ee/theboy181\n\nContributors (Thank You!) Cathy#6751, Biggsy#7677, brunolv#1631, dutyfree#6162, Niwu#4082, SP4RT4N3R#6735, Wemerson#6308, \ud80c\udce0Yaro\ud80c\udce0 \u672c\u97f3#9974\n\nrecommended overclock:\nDocked GPU 921 MHz\nHandheld GPU 537 MHz\n"
+        "Mario Kart 8 Deluxe.txt": "2.2.1 60FPS pchtxt by Wachee\n2.3.0 60FPS pchtxt by zix7\n2.2.1 & 2.3.0 60 & 30 FPS cheat by halop\n2.30 21.9 converted by b0rd2dEAth\n2.4 60fps updated by B3711\n3.0 updated by B3711 & b0rd2dEAth based on public pchtxt\n3.1 updated by BE711 based on public pchtxt\n\nOriginal author of all pchtxt theboy181\nhttps://linktr.ee/theboy181\n21.9 credits\n@theboy181 - https://linktr.ee/theboy181\n\nContributors (Thank You!) Cathy#6751, Biggsy#7677, brunolv#1631, dutyfree#6162, Niwu#4082, SP4RT4N3R#6735, Wemerson#6308, \ud80c\udce0Yaro\ud80c\udce0 \u672c\u97f3#9974\n\nrecommended overclock:\nDocked GPU 921 MHz\nHandheld GPU 537 MHz\n"
     }
 }
