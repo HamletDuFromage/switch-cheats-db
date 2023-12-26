@@ -12,10 +12,13 @@
         "[Handheld 576p / Docked 864p?]": "[Handheld 576p / Docked 864p?]\n580F0000 042FD680\n780F0000 0000003C\n640F0000 00000000 00000003\n\n",
         "[Handheld 720p / Docked 1080p?]": "[Handheld 720p / Docked 1080p?]\n580F0000 042FD680\n780F0000 0000003C\n640F0000 00000000 00000001\n\n"
     },
+    "C01884F294C053C4": {
+        "[60FPS]": "[60FPS]\n04090000 02B7A738 52800014\n\n"
+    },
     "C0D85FF5B8C86436": {
         "[60FPS]": "[60FPS]\n04090000 02A92548 52800014\n\n"
     },
     "attribution": {
-        "Pok\u00e9mon Scarlet.txt": "By Hazerou, retole, lucky\n\nGame is still GPU Heavy even at lowest possible Resolution= 467p\n\nCouldn't find the precise Resolution Code. All I can find is the DRS Levels.\nAnd also Docked Resolutions might not be accurate.\n\nTo balance Game Speed at 60 FPS, I used a Game Speed Code from here;\nhttps://gbatemp.net/threads/60-fps-cheats-for-nswitch.592464/post-9994889\n\n1.3.2 60FPS by theboy181/OldManKain \n2.0.1 60FPS by theboy181/OldManKain\n"
+        "Pok\u00e9mon Scarlet.txt": "By Hazerou, retole, lucky\n\nGame is still GPU Heavy even at lowest possible Resolution= 467p\n\nCouldn't find the precise Resolution Code. All I can find is the DRS Levels.\nAnd also Docked Resolutions might not be accurate.\n\nTo balance Game Speed at 60 FPS, I used a Game Speed Code from here;\nhttps://gbatemp.net/threads/60-fps-cheats-for-nswitch.592464/post-9994889\n\n1.3.2 60FPS by theboy181/OldManKain \n2.0.1 60FPS by theboy181/OldManKain\n3.0.0 60FPS by theboy181/OldManKain\n"
     }
 }
