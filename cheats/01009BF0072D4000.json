@@ -15,6 +15,8 @@
         "[toadette invincible]": "[toadette invincible]\n580F0000 010739D0\n580F1000 000000B0\n580F1000 000002A8\n580F1000 00000178\n780F0000 00000344\n640F0000 00000000 000000B3\n\n"
     },
     "attribution": {
-        "Captain Toad by ZiT866 and arismendy64.txt": ""
+        "Captain Toad by ZiT866 and arismendy64.txt": "",
+        "hack.txt": "Keypatch: successfully patched 4 byte(s) at 0x6DA7526910 from [00 48 40 F9] to [00 00 80 D2]\nKeypatch: attempting to modify \"CBZ X0, locret_6DA752691C\" at 0x6DA7526914 to \"ret\"\nKeypatch: successfully patched 4 byte(s) at 0x6DA7526914 from [40 00 00 B4] to [C0 03 5F D6]",
+        "8F75C9B8B7FF69D9.txt": "[Breeze beta79a Captain Toad: Treasure Tracker 1.3.0 TID: 01009BF0072D4000 BID: 8F75C9B8B7FF69D9]\n\n[inv]\n04000000 0021E9D0 3940E800 \n04000000 0021E9D0 52800020 \n\n[\ue0a7 Pickaxe]\n04000000 0021E9B0 3940E000 \n80000200 \n04000000 0021E9B0 3940E000 \n04000000 0021E9B0 52800020 \n20000000 \n\n[no hit to Brigade and can't pick mushroom off]\n80000040 \n04000000 00322910 F9404800 \n04000000 00322914 B4000040 \n20000000 \n\n[no hit to Brigade and can't pick mushroom]\n80000080 \n04000000 00322910 D2800000 \n04000000 00322914 D65F03C0 \n20000000 \n\n[Off enable]\n04000000 0021E9D0 3940E800 \n\n"
     }
 }

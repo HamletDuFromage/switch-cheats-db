@@ -5,5 +5,9 @@
         "[QI Inf]": "[QI Inf]\n04000000 0151A5F8 BD430401\n04000000 0151A7D0 BD430401\n\n",
         "[QI Inf Off]": "[QI Inf Off]\n04000000 0151A5F8 BD430801\n04000000 0151A7D0 BD430801\n\n",
         "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    },
+    "attribution": {
+        "B9360479C445B355.txt": "[Breeze beta79a Terracotta 1.2.9 TID: 010042F01686C000 BID: B9360479C445B355]\n\n[hp inc]\n04000000 014C29D8 51000508 \n04000000 014C29D8 11000508 \n\n[Off enable]\n04000000 014C29D8 51000508 \n\n",
+        "toggles.txt": "[hp inc]\nfalse\n[Off enable]\nfalse\n"
     }
 }

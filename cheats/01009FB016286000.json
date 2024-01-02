@@ -88,5 +88,8 @@
         "[--SectionEnd:Sonic The Hedgehog 3 & Knuckles Button Cheat--]": "[--SectionEnd:Sonic The Hedgehog 3 & Knuckles Button Cheat--]\n00000000 00000000 00000000\n\n",
         "[--SectionEnd:Button Cheats--]": "[--SectionEnd:Button Cheats--]\n00000000 00000000 00000000\n\n",
         "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n"
+    },
+    "attribution": {
+        "7BD427EF7F9C1E6A.txt": "[Breeze beta79a Sonic Origins 2.0.0 TID: 01009FB016286000 BID: 7BD427EF7F9C1E6A]\n\n[Rings 99]\n80000100 \n04000000 024F5284 00000063 \n04000000 02364E80 00000063 \n04000000 02B17C70 00000063 \n20000000 \n\n[Rings add]\n80000100 \n54000000 024F5284 \n74000000 00000001 \nA1000400 024F5284 \n54000000 02364E80 \n74000000 00000001 \nA1000400 02364E80 \n54000000 02B17C70 \n74000000 00000001 \nA1000400 02B17C70 \n20000000 \n\n"
     }
 }

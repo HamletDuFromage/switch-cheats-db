@@ -6,5 +6,10 @@
         "[put in pikmin increased by 100 times]": "[put in pikmin increased by 100 times]\n04000000 0008CC9C 11019129\n\n",
         "[put in pikmin origon code]": "[put in pikmin origon code]\n04000000 0008CC9C 11000529\n\n",
         "[Original Code by herowang]": "[Original Code by herowang]\n20000000\n\n"
+    },
+    "attribution": {
+        "100 in onion.txt": "ldr w24, a\nstr w24, [x8, #0x57c]\nreturn: b code1+4\na:.word 100\n",
+        "342A165CC42E997E.txt": "[Breeze beta79a Pikmin 1 1.0.0 TID: 0100AA80194B0000 BID: 342A165CC42E997E]\n\n[100 in onion]\n04000000 0009CA40 B9457D18 \n04000000 0009CA40 140BE8D0 \n04000000 00396D80 18000078 \n04000000 00396D84 B9057D18 \n04000000 00396D88 17F4172F \n04000000 00396D8C 00000064 \n\n[\ue0c5 zoom]\n04000000 000E7484 BD409E63 \n80000020 \n04000000 000E7484 BD409E63 \n04000000 000E7484 140ABE3B \n04000000 00396D70 1C000063 \n04000000 00396D74 BD009E63 \n04000000 00396D78 17F541C4 \n04000000 00396D7C 42C80000 \n20000000 \n\n[Off enable]\n04000000 0009CA40 B9457D18 \n\n\n\n",
+        "zoom.txt": "ldr s3, b\nstr s3, [x19, #0x9c]\nreturn: b code1+4\nb:.float 50\n"
     }
 }

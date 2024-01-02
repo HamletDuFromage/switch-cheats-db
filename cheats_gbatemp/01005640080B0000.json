@@ -5,6 +5,7 @@
         "[Speed Up]": "[Speed Up]\n04000000 00341ECC 41800000\n\n"
     },
     "attribution": {
-        "Crimsonland by zit.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
+        "Crimsonland by zit.txt": "Before going to a Mach disable codes. And you must be first at the beginning. ",
+        "189BF78EC90C7C49.txt": "[Breeze beta79a Crimsonland 1.3.4 TID: 01005640080B0000 BID: 189BF78EC90C7C49]\n\n[ammo no dec]\n04000000 000B9790 1E293800 \n04000000 000B9790 D503201F \n\n[\ue0a4 \ue0a6 hp fill]\n04000000 0009E768 BD4002A0 \n80000140 \n04000000 0009E768 BD4002A0 \n04000000 0009E768 1407F93C \n04000000 0029CC58 BD4006A0 \n04000000 0029CC5C BD0002A0 \n04000000 0029CC60 17F806C3 \n20000000 \n\n[Off enable]\n04000000 000B9790 1E293800 \n\n"
     }
 }

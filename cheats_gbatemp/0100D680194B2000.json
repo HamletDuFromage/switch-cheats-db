@@ -5,5 +5,10 @@
         "[Push D-Pad Right + R button sets time go to dusk]": "[Push D-Pad Right + R button sets time go to dusk]\n580F0000 00C07EE0 \n580F1000 000003E8 \n580F1000 000000C0 \n580F1000 000000C0 \n780F0000 000000A8 \n80004080 \n680F0000 00000000 44960000\n20000000\n\n",
         "[Inf. sprays]": "[Inf. sprays]\n04000000 00071610 71000129\n\n",
         "[Original Code by herowang]": "[Original Code by herowang]\n20000000\n\n"
+    },
+    "attribution": {
+        "B23A43495191E7AD.txt": "[Breeze beta79a Pikmin 2 1.0.0 TID: 0100D680194B2000 BID: B23A43495191E7AD]\n\n[100 in onion ]\n04000000 000A5348 29402909 \n04000000 000A5348 1412E9CE \n04000000 0055FA80 52800C89 \n04000000 0055FA84 79000109 \n04000000 0055FA88 29402909 \n04000000 0055FA8C 17ED1630 \n\n[zoom x5]\n04000000 001DBECC B9020669 \n04000000 001DBECC 140E0EF1 \n04000000 0055FA90 18000069 \n04000000 0055FA94 B9020669 \n04000000 0055FA98 17F1F10E \n04000000 0055FA9C 42480000 \n\n[Off enable]\n04000000 000A5348 29402909 \n04000000 001DBECC B9020669 \n\n",
+        "toggles.txt": "[100 in onion ]\nfalse\n[Off enable]\nfalse\n",
+        "100 in onion .txt": "mov w9,100\nstrh w9,[x8] \nldp w9, w10, [x8]\nreturn: b code1+4\n"
     }
 }
