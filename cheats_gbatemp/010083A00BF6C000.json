@@ -1,0 +1,15 @@
+{
+    "4F93698A5605676B": {
+        "[Breeze beta86  Dark Devotion 1.0.1 TID: 010083A00BF6C000 BID: 4F93698A5605676B]": "[Breeze beta86  Dark Devotion 1.0.1 TID: 010083A00BF6C000 BID: 4F93698A5605676B]\n\n",
+        "[Inf. HP]": "[Inf. HP]\n580F0000 1EDD07D8 \n580F1000 00000370 \n780F0000 00000008 \n610F0000 00000000 00000008\n\n",
+        "[Inf. Stamina]": "[Inf. Stamina]\n580F0000 1EDD07D8 \n580F1000 00000370 \n780F0000 0000002C \n640F0000 00000000 7F800000\n\n",
+        "[Inf. Arrow's]": "[Inf. Arrow's]\n580F0000 1EDD07D8 \n580F1000 00000370 \n780F0000 000001D8 \n610F0000 00000000 00000058\n\n",
+        "[Faith don't decrease]": "[Faith don't decrease]\n04000000 001511D0 4B080128 \n80000004 \n04000000 001511D0 0B080128 \n20000000\n\n",
+        "[Purple Ord multiplier x128 (hold ZL when receiving)]": "[Purple Ord multiplier x128 (hold ZL when receiving)]\n04000000 00150EC0 0B080128 \n80000100 \n04000000 00150EC0 0B081D28 \n20000000\n\n",
+        "[Get Purple Orb when spend (hold ZL)]": "[Get Purple Orb when spend (hold ZL)]\n04000000 001514A4 4B080128 \n80000100 \n04000000 001514A4 0B080128 \n20000000\n\n",
+        "[Cheats by: Deadqool]": "[Cheats by: Deadqool]\n20000000\n\n"
+    },
+    "attribution": {
+        "Dark Devotion.txt": ""
+    }
+}
