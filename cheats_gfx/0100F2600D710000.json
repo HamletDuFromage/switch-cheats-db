@@ -1,0 +1,9 @@
+{
+    "4CCD2F6D331DD104": {
+        "[Disable Dynamic Resolution]": "[Disable Dynamic Resolution]\n04000000 015651BC 3F800000\n04000000 015651C8 3F800000\n04000000 015651CC 3F800000\n\n",
+        "[Enable Dynamic Resolution]": "[Enable Dynamic Resolution]\n04000000 015651BC 3F666666\n04000000 015651C8 3F000000\n04000000 015651CC 3F333333\n\n"
+    },
+    "attribution": {
+        "CONTRA ROGUE CORPS.txt": "By masagrator\n\nFirst line - highest resolution in handheld (0.9 = 648p)\nSecond line - lowest resolution in handheld (0.5 = 360p)\nThird line - lowest resolution in docked (0.7 = 504p)\nfyi Docked highest res is 1.0 = 720p\n"
+    }
+}

@@ -1,4 +1,8 @@
 {
+    "4CCD2F6D331DD104": {
+        "[Disable Dynamic Resolution]": "[Disable Dynamic Resolution]\n04000000 015651BC 3F800000\n04000000 015651C8 3F800000\n04000000 015651CC 3F800000\n\n",
+        "[Enable Dynamic Resolution]": "[Enable Dynamic Resolution]\n04000000 015651BC 3F666666\n04000000 015651C8 3F000000\n04000000 015651CC 3F333333\n\n"
+    },
     "8B5602A415099D59": {
         "[Infinite HP 300]": "[Infinite HP 300]\n08000000 015e2e14 43960000 43960000\n\n",
         "[Infinite Lives]": "[Infinite Lives]\n01000000 015e2e1c 00000009\n01000000 015e2e28 00000009\n\n",
@@ -12,6 +16,7 @@
         "[Orange Money 50000764]": "[Orange Money 50000764]\n08000000 0155e4d0 29640b42 f6c2c31b\n01000000 0155e4d8 00000088\n\n"
     },
     "attribution": {
-        "Contra Rogue Corps 1.0 and 1.0.1 by optanic.txt": ""
+        "Contra Rogue Corps 1.0 and 1.0.1 by optanic.txt": "",
+        "CONTRA ROGUE CORPS.txt": "By masagrator\n\nFirst line - highest resolution in handheld (0.9 = 648p)\nSecond line - lowest resolution in handheld (0.5 = 360p)\nThird line - lowest resolution in docked (0.7 = 504p)\nfyi Docked highest res is 1.0 = 720p\n"
     }
 }
