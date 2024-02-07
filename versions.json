@@ -7,7 +7,8 @@
     },
     "010000000E5EE000": {
         "0": "275B796C2BAFCA35",
-        "latest": 0
+        "latest": 0,
+        "title": "8-BIT YU-NO'S GREAT ADVENTURE"
     },
     "010000000EEF0000": {
         "65536": "19D252D9E8FC3C46",
@@ -234,7 +235,8 @@
     },
     "010000A00218E000": {
         "0": "0F129135D8A7621C",
-        "latest": 0
+        "latest": 0,
+        "title": "Splatoon\u2122 2 Global Testfire"
     },
     "010000A00CA78000": {
         "0": "7A9D7A656549AF40",
@@ -683,7 +685,8 @@
     },
     "010001C01D072000": {
         "0": "A3988DDF1BC54AD2",
-        "latest": 0
+        "latest": 0,
+        "title": "Meaning of Symbols"
     },
     "010001D014348000": {
         "0": "8E1251E46A5BCAAA",
@@ -908,7 +911,8 @@
         "latest": 0
     },
     "010002900294A000": {
-        "latest": 131072
+        "latest": 131072,
+        "title": "NBA Playgrounds"
     },
     "010002900B75A000": {
         "0": "B280AB953728F741",
@@ -2465,7 +2469,8 @@
     },
     "010007001B418000": {
         "0": "840739941F557951",
-        "latest": 0
+        "latest": 0,
+        "title": "CONVERGENCE: Digital Comic and Art Book"
     },
     "010007100A16A000": {
         "0": "D17D303386D8C54A",
@@ -2897,7 +2902,8 @@
     },
     "010008501186E000": {
         "0": "30B812AB1BA3D447",
-        "latest": 0
+        "latest": 0,
+        "title": "Life is Strange: Before the Storm Remastered"
     },
     "0100085012A0E000": {
         "0": "AA752EA84138784E",
@@ -3170,7 +3176,7 @@
         "458752": "63EBAAF9271D215E",
         "524288": "A85AF4C49F905364",
         "latest": 524288,
-        "title": "Tennis World Tour"
+        "title": "Tennis World Tour: Roland Garros Edition - Retail Only"
     },
     "0100092006815000": {
         "latest": 0
@@ -3408,7 +3414,8 @@
     },
     "010009B01D326000": {
         "0": "2027A68402403D26",
-        "latest": 0
+        "latest": 0,
+        "title": "Snap Together"
     },
     "010009D00E5A2000": {
         "65536": "91993B8C8E594BFB",
@@ -3788,7 +3795,8 @@
     },
     "01000AA018F24000": {
         "0": "C10700898FEA484B",
-        "latest": 0
+        "latest": 0,
+        "title": "SANABI"
     },
     "01000AB00E73A000": {
         "0": "CD8F5AA897713E40",
@@ -4068,7 +4076,7 @@
         "458752": "095B8BF19189F1A0",
         "65536": "58D659D1017E8350",
         "latest": 458752,
-        "title": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda"
+        "title": "Cadence of Hyrule: Crypt of the NecroDancer featuring The Legend of Zelda"
     },
     "01000B900D8B1000": {
         "latest": 327680
@@ -5264,7 +5272,8 @@
     },
     "01000EA01D5D0000": {
         "0": "D4574C0C4D9B986B",
-        "latest": 0
+        "latest": 0,
+        "title": "Draw and Color"
     },
     "01000EB00BE02000": {
         "0": "41652B20A6D2D646",
@@ -5949,7 +5958,8 @@
     },
     "010010901AFB0000": {
         "0": "195AF0E9E3CE0522",
-        "latest": 0
+        "latest": 0,
+        "title": "The Walking Dead: Destinies"
     },
     "010010A009830000": {
         "0": "F4B0201CA21C124C",
@@ -6254,7 +6264,8 @@
     },
     "010011401CA3C000": {
         "0": "1BE5B2BA26189D0B",
-        "latest": 0
+        "latest": 0,
+        "title": "Heads Up! Phones Down Edition"
     },
     "0100115012260000": {
         "0": "7186D278C1DA2CF6",
@@ -6830,7 +6841,8 @@
     },
     "010012F01C00C000": {
         "0": "16CD6A8AB2EFF72A",
-        "latest": 0
+        "latest": 0,
+        "title": "Dream Town Island"
     },
     "0100130015E0E000": {
         "0": "E0BE27F04A7AB0BD",
@@ -7992,7 +8004,7 @@
         "458752": "5C9CCD358BE85FC9",
         "524288": "5C9CCD358BE85FC9",
         "latest": 524288,
-        "title": "WARRIORS OROCHI 4"
+        "title": "WARRIORS OROCHI 4 Ultimate - Retail Only"
     },
     "010016A00AEC1000": {
         "latest": 0
@@ -8436,7 +8448,8 @@
     },
     "010017F01CEBA000": {
         "0": "35EA165F0DECAAC6",
-        "latest": 0
+        "latest": 0,
+        "title": "Da Da Daungo"
     },
     "0100180018732000": {
         "0": "AE3ED0AA03663547",
@@ -8477,7 +8490,8 @@
         "327680": "B8445417486F1D89",
         "393216": "2E0724DDC62DBA5D",
         "458752": "56EEFA704373BDB3",
-        "latest": 458752
+        "latest": 458752,
+        "title": "Grand Theft Auto: Vice City \u2013 The Definitive Edition"
     },
     "0100182014358000": {
         "0": "8DEA9AE7D1185B7C",
@@ -9515,7 +9529,8 @@
     },
     "01001AB014206000": {
         "65536": "6A680CBF152F4A47",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Tiny Lands"
     },
     "01001AB015446000": {
         "0": "ECF668457EE7A64B",
@@ -10880,7 +10895,8 @@
     "01001E5006C6E000": {
         "0": "2E6C491B49DD9FFD",
         "65536": "3C4233363D4CE074",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Super Mario Odyssey\u2122 Demo for KIOSK"
     },
     "01001E500EA16000": {
         "0": "5DCE767747F366A2",
@@ -11007,7 +11023,8 @@
     },
     "01001E9003502000": {
         "65536": "32DFCA7F6238C8AA",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Nintendo Labo Toy-Con 03 Vehicle Kit"
     },
     "01001E900EC04000": {
         "0": "49F860E351946145",
@@ -11883,7 +11900,8 @@
     },
     "010020C01CE26000": {
         "0": "EB341595CE21727B",
-        "latest": 0
+        "latest": 0,
+        "title": "Firebird"
     },
     "010020D01A2BC000": {
         "0": "63892B74ABD1E8BA",
@@ -14118,7 +14136,8 @@
     },
     "010026C01D6AA000": {
         "0": "112C8585A3913D41",
-        "latest": 0
+        "latest": 0,
+        "title": "Spacefarer Mahjong"
     },
     "010026D00AABE000": {
         "0": "0BD06B045E64884E",
@@ -14308,7 +14327,8 @@
     },
     "010027101192A000": {
         "65536": "1FA06533151B6847",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Don't Get Caught"
     },
     "0100271014B26000": {
         "0": "C4BF3F61DF6B35A2",
@@ -15538,7 +15558,8 @@
     },
     "01002A901CAF4000": {
         "0": "733CC1A11A7D0D78",
-        "latest": 0
+        "latest": 0,
+        "title": "Low Story"
     },
     "01002AA004DB4000": {
         "0": "BDEE92E5EC9697C6",
@@ -16266,7 +16287,8 @@
     },
     "01002C400B6B6000": {
         "0": "79A211AAEBCC7873",
-        "latest": 0
+        "latest": 0,
+        "title": "Captain Toad\u2122: Treasure Tracker Demo"
     },
     "01002C400E526000": {
         "0": "EF7B49570430043E",
@@ -17029,7 +17051,8 @@
     "01002E5008C56000": {
         "131072": "27C5788257EB20E3",
         "65536": "D11B7FAB3985AEFF",
-        "latest": 131072
+        "latest": 131072,
+        "title": "HAC-P-ALZUA"
     },
     "01002E500B0A0000": {
         "0": "AD1ACCB129610554",
@@ -17404,7 +17427,8 @@
     "01002F101340C000": {
         "0": "14DF2F288C5A534C",
         "131072": "0A3E42BF94BBA747",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Persona\u00ae5 Strikers Bonus Content"
     },
     "01002F101353A000": {
         "0": "011E86B271225D41",
@@ -17584,7 +17608,7 @@
     "01002FA017DB4000": {
         "0": "FBECE3EFB60E736E",
         "latest": 0,
-        "title": "A Boy and His Blob: Retro Collection"
+        "title": "A Boy and His Blob Retro Collection"
     },
     "01002FB013B8E000": {
         "131072": "F8E4EC17F3BC890F",
@@ -17698,7 +17722,8 @@
         "262144": "388445CA5A81E48B",
         "327680": "B0A94A27A8EA158C",
         "65536": "0B52E654ADC54486",
-        "latest": 327680
+        "latest": 327680,
+        "title": "RingFit Adventure"
     },
     "01002FF00F460000": {
         "0": "39031D543ADFB347",
@@ -18027,7 +18052,8 @@
     },
     "010030D005AE6000": {
         "0": "BF21EA2099CC0118",
-        "latest": 0
+        "latest": 0,
+        "title": "Pokk\u00e9n Tournament\u2122 DX Demo"
     },
     "010030D00D960000": {
         "0": "8134015E88CD1743",
@@ -18711,7 +18737,8 @@
     },
     "010032901D346000": {
         "0": "33ACB1254090D8AE",
-        "latest": 0
+        "latest": 0,
+        "title": "Swim Sacabambaspis!"
     },
     "010032A008754000": {
         "0": "7846D5AEFAD37049",
@@ -19341,7 +19368,8 @@
     },
     "010034001D5A4000": {
         "0": "67E9E0AA49412596",
-        "latest": 0
+        "latest": 0,
+        "title": "Pop and Chicks"
     },
     "010034100D096000": {
         "0": "EAC1334D1CD0984D",
@@ -19435,7 +19463,7 @@
         "851968": "7985AFCCDA8E7313",
         "917504": "586EA519C1CDFAE7",
         "latest": 917504,
-        "title": "Attack on Titan 2"
+        "title": "Attack on Titan 2: Final Battle (US version) - Retail Only"
     },
     "010034500641B000": {
         "latest": 0
@@ -20899,7 +20927,8 @@
     },
     "010038501D6B6000": {
         "0": "077D56A5E023EC8D",
-        "latest": 0
+        "latest": 0,
+        "title": "Girl Dress Up Classic"
     },
     "010038600B27E000": {
         "0": "26A2D0CCAEE5F39E",
@@ -20916,7 +20945,8 @@
     },
     "0100386013D3A000": {
         "131072": "9A974689F7F55D98",
-        "latest": 131072
+        "latest": 131072,
+        "title": "MONSTER HUNTER RISE MEDIA DEMO"
     },
     "0100386013F8A000": {
         "0": "DD3CAB328E030EFE",
@@ -20934,7 +20964,8 @@
     "01003870040FA000": {
         "0": "DA76BEE463910C68",
         "65536": "68202F1AE35348E4",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Splatoon\u2122 2: Splatfest World Premiere"
     },
     "0100387009412000": {
         "0": "ACF71EB597F8B74B",
@@ -21609,7 +21640,8 @@
     },
     "010039F0185C8000": {
         "0": "771F387B88DC280D",
-        "latest": 0
+        "latest": 0,
+        "title": "Eyra: The Crow Maiden"
     },
     "010039F01903A000": {
         "0": "C69923B4A2D200AE",
@@ -22009,7 +22041,8 @@
     },
     "01003AF01B188000": {
         "0": "F1283BF4DEBDF7A3",
-        "latest": 0
+        "latest": 0,
+        "title": "Asterix & Obelix Slap Them All! 2"
     },
     "01003B0012DC2000": {
         "0": "6932330D6E9F5447",
@@ -23311,7 +23344,7 @@
         "524288": "D80D7E59E9888436",
         "65536": "B4F410AFD99DA685",
         "latest": 524288,
-        "title": "Them's Fightin' Herds"
+        "title": "Them's Fightin' Herds: Deluxe Edition"
     },
     "01003E80178A1000": {
         "latest": 0
@@ -23910,7 +23943,7 @@
         "393216": "5D345A1A1162F6EE",
         "458752": "752772F761E729AE",
         "latest": 458752,
-        "title": "Tetris\u00ae 99"
+        "title": "Tetris 99 Retail Bundle"
     },
     "010040600C5CF000": {
         "latest": 0
@@ -23981,7 +24014,7 @@
         "262144": "7A93E3E83A97DB7A",
         "65536": "1AF976332ECFAA71",
         "latest": 262144,
-        "title": "Bratz\u2122: Flaunt your fashion"
+        "title": "Bratz\u00ae: Flaunt your fashion - Complete Edition"
     },
     "0100408017E49000": {
         "latest": 65536
@@ -25356,7 +25389,8 @@
     "010043D004CF6000": {
         "0": "EED66186F9338153",
         "65536": "3AB9F7DE6F021503",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Just Dance\u00ae 2018 Demo"
     },
     "010043D00BA32000": {
         "0": "E14B8B81D161446E",
@@ -25681,7 +25715,8 @@
     },
     "0100448014224000": {
         "0": "C37CD5922F78ACC2",
-        "latest": 0
+        "latest": 0,
+        "title": "Atelier Firis: The Alchemist and the Mysterious Journey DX Digital Art Book"
     },
     "0100448014568000": {
         "0": "9EC800C5FE539ED2",
@@ -26086,7 +26121,7 @@
     },
     "0100459009A2A000": {
         "latest": 524288,
-        "title": "GRIP"
+        "title": "GRIP: Ultimate Edition (retail only)"
     },
     "0100459009A2B000": {
         "latest": 65536
@@ -28054,7 +28089,8 @@
     },
     "01004A601CDAE000": {
         "0": "92155CEF44DD8026",
-        "latest": 0
+        "latest": 0,
+        "title": "What The Duck"
     },
     "01004A700A168000": {
         "0": "4E448C8BA8DC4449",
@@ -28450,7 +28486,8 @@
     },
     "01004B801B500000": {
         "0": "72820F7AF3126A9E",
-        "latest": 0
+        "latest": 0,
+        "title": "Attack Strategy - Battle Simulator Accurate"
     },
     "01004B90183A4000": {
         "0": "9AE08E93F1277340",
@@ -29223,7 +29260,8 @@
     },
     "01004DB00BC70000": {
         "0": "F4204427FF3E7602",
-        "latest": 0
+        "latest": 0,
+        "title": "DRAGON BALL Z Super Butoden"
     },
     "01004DB0126AC000": {
         "0": "EDE161EED4D7D348",
@@ -29475,7 +29513,8 @@
     },
     "01004E501A2C2000": {
         "0": "08E9480106167338",
-        "latest": 0
+        "latest": 0,
+        "title": "Noise of Neon"
     },
     "01004E501D364000": {
         "0": "57F2EA8EC546DC50",
@@ -30217,7 +30256,8 @@
     "0100509005AF2000": {
         "0": "264569D52D6C58E3",
         "65536": "16A91992BBA71201",
-        "latest": 65536
+        "latest": 65536,
+        "title": "The Legend of Zelda\u2122: Breath of the Wild Demo for KIOSK"
     },
     "010050900E1C6000": {
         "0": "7A1EF8217D9B4740",
@@ -34158,7 +34198,8 @@
     },
     "01005BB00FA92000": {
         "65536": "0BB64763F2B58E69",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Rogue Company Demo"
     },
     "01005BB019EC0000": {
         "0": "66912B01A278311C",
@@ -34349,7 +34390,8 @@
     },
     "01005C401D300000": {
         "0": "59708528C4BAF164",
-        "latest": 0
+        "latest": 0,
+        "title": "Find the Pairs Memo Game for Kids"
     },
     "01005C500D690000": {
         "65536": "F1CFD3782AEB6946",
@@ -34416,7 +34458,8 @@
     },
     "01005C601A2C0000": {
         "0": "19F2259B53E0549D",
-        "latest": 0
+        "latest": 0,
+        "title": "The Book of Death"
     },
     "01005C700990A000": {
         "0": "791C3F949C876B4C",
@@ -34610,7 +34653,8 @@
     "01005CF014794000": {
         "0": "05DC41C9D424C341",
         "65536": "964CD69CD40B7AE0",
-        "latest": 65536
+        "latest": 65536,
+        "title": "GetsuFumaDen"
     },
     "01005D00107E8000": {
         "0": "93F5505DC45CA447",
@@ -35509,7 +35553,8 @@
     "01005F201BC08000": {
         "131072": "553279D38DBF5B64",
         "65536": "6BC2EA699F49E918",
-        "latest": 131072
+        "latest": 131072,
+        "title": "EA SPORTS FC\u2122 24 Closed Beta"
     },
     "01005F3006AFE000": {
         "0": "AAED8D165F439A45",
@@ -36213,7 +36258,8 @@
     },
     "010060C00B0AA000": {
         "0": "C174D0BB12C4B436",
-        "latest": 0
+        "latest": 0,
+        "title": "Mario Tennis\u2122 Aces Pre-launch Online Tournament"
     },
     "010060C00E280000": {
         "0": "6BF4AD2C73CA6C4E",
@@ -36445,7 +36491,7 @@
         "131072": "8FED5A3996166895",
         "65536": "269E7D42C0DBD8C7",
         "latest": 131072,
-        "title": "PJ MASKS: HEROES OF THE NIGHT"
+        "title": "PJ MASKS: HEROES OF THE NIGHT - COMPLETE EDITION"
     },
     "0100614013DC1000": {
         "latest": 0
@@ -37675,7 +37721,7 @@
         "0": "A29EDB8AA1D95547",
         "65536": "55FF5BB10B1A7A4C",
         "latest": 65536,
-        "title": "AVICII Invector"
+        "title": "AVICII Invector: Encore Edition"
     },
     "010064600F983000": {
         "latest": 0
@@ -37905,7 +37951,8 @@
     },
     "010065001D6AE000": {
         "0": "0499B249BE723E9B",
-        "latest": 0
+        "latest": 0,
+        "title": "Tennis Tournament Hyper-Casual"
     },
     "010065100E7DA000": {
         "0": "29C636095DB11B54",
@@ -38046,7 +38093,8 @@
     },
     "010065601D71E000": {
         "0": "976B1B155D115450",
-        "latest": 0
+        "latest": 0,
+        "title": "Drive Hard"
     },
     "010065700EE06000": {
         "0": "FCFD89523272EEED",
@@ -38095,7 +38143,8 @@
         "393216": "D51ECF846DB9AE08",
         "458752": "6FB56071CCB321B6",
         "65536": "EAAED49BDD269837",
-        "latest": 458752
+        "latest": 458752,
+        "title": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition"
     },
     "010065A0178EE000": {
         "0": "C5717838855B918E",
@@ -38798,11 +38847,13 @@
     },
     "010067A01BFCC000": {
         "0": "4144218AFF30D7C7",
-        "latest": 0
+        "latest": 0,
+        "title": "Enjoy the Diner"
     },
     "010067B01C752000": {
         "0": "A4BACDE12CA14FBE",
-        "latest": 0
+        "latest": 0,
+        "title": "The Myth Seekers 2: The Sunken City"
     },
     "010067C00A776000": {
         "0": "6B3808BCFEA9BE42",
@@ -39423,7 +39474,8 @@
         "0": "E2E69F627992A46E",
         "131072": "EB526F5A41621D69",
         "65536": "DC27156B7AB58D31",
-        "latest": 131072
+        "latest": 131072,
+        "title": "NINJA GAIDEN \u03a32"
     },
     "01006960155C4000": {
         "0": "C08E8542DE755D42",
@@ -39744,7 +39796,8 @@
     },
     "01006A101BFE6000": {
         "0": "A6AF6F45B9FE492F",
-        "latest": 0
+        "latest": 0,
+        "title": "ForRace GT2D"
     },
     "01006A200936C000": {
         "0": "99E4B68B85A5B109",
@@ -40061,7 +40114,7 @@
         "196608": "F3093F48D2076372",
         "65536": "31BB9F28ABB8A4DC",
         "latest": 196608,
-        "title": "Shovel Knight Pocket Dungeon"
+        "title": "Shovel Knight Pocket Dungeon + DLC"
     },
     "01006B0014590000": {
         "0": "9FB2F3E2446E3346",
@@ -40512,7 +40565,7 @@
         "917504": "9B50BF653C4900DD",
         "983040": "AE8C04D0E3F8949B",
         "latest": 1769472,
-        "title": "Minecraft Dungeons"
+        "title": "Minecraft Dungeons Hero Edition"
     },
     "01006C100EC09000": {
         "latest": 0
@@ -41593,7 +41646,8 @@
     },
     "01006F201A19C000": {
         "0": "FC1FD34FEA6E743B",
-        "latest": 0
+        "latest": 0,
+        "title": "Fairy Fencer F: Refrain Chord Digital Artbook"
     },
     "01006F30129F8000": {
         "0": "C6AB144A0D33CF40",
@@ -42088,7 +42142,7 @@
     "010070501BD42000": {
         "0": "0FC6D47447519BEE",
         "latest": 0,
-        "title": "Wizardry School: Escape Room"
+        "title": "Mystic Academy: Escape Room"
     },
     "0100706005B6A000": {
         "0": "5A76A682EFA30847",
@@ -42947,7 +43001,8 @@
         "0": "BF3EA134FF91CBE5",
         "131072": "B14FFBCA2A2EAE83",
         "65536": "F3734861BD768687",
-        "latest": 131072
+        "latest": 131072,
+        "title": "MELTY BLOOD ARCHIVES"
     },
     "010072601922C000": {
         "0": "8AB86AC912E05E8C",
@@ -43037,7 +43092,7 @@
         "851968": "F101F98227B95247",
         "917504": "FE757B10B45C3444",
         "latest": 917504,
-        "title": "Gear.Club Unlimited 2"
+        "title": "Gear.Club Unlimited 2 - Definitive Edition"
     },
     "010072900AFF1000": {
         "latest": 0
@@ -43752,7 +43807,7 @@
         "0": "8DC861EA5129114D",
         "131072": "AFAAE7E8FD18F04C",
         "latest": 131072,
-        "title": "Bendy and the Ink Machine\u2122"
+        "title": "Bendy and the Ink Machine"
     },
     "010074500E6BC000": {
         "0": "6FF055FF8559B53F",
@@ -44341,7 +44396,7 @@
         "262144": "7B1E659851564A19",
         "65536": "9589710EF89215E1",
         "latest": 262144,
-        "title": "Race with Ryan"
+        "title": "Race With Ryan Road Trip Deluxe Edition"
     },
     "010075D00DD05000": {
         "latest": 0
@@ -44985,7 +45040,8 @@
     },
     "0100775008C5A000": {
         "65536": "E6FE6F42E627FB79",
-        "latest": 65536
+        "latest": 65536,
+        "title": "HAC-P-ALZWA"
     },
     "010077500FA64000": {
         "latest": 0,
@@ -45461,7 +45517,7 @@
         "917504": "0D0E5AAB66AD6795",
         "983040": "FFD194436F8D3D2D",
         "latest": 1835008,
-        "title": "DRAGON BALL Xenoverse 2 for Nintendo Switch"
+        "title": "DRAGON BALL XENOVERSE 2 for Nintendo Switch"
     },
     "010078D000F89000": {
         "latest": 0
@@ -45802,7 +45858,8 @@
         "latest": 0
     },
     "010079A009B7A000": {
-        "latest": 0
+        "latest": 0,
+        "title": "Max: The Curse of Brotherhood (retail only)"
     },
     "010079A00D9E8000": {
         "0": "B3400C0CE3F80C41",
@@ -46470,7 +46527,8 @@
         "0": "A672F1DA76262995",
         "131072": "8EC6B5335D7CA09E",
         "196608": "8EC6B5335D7CA09E",
-        "latest": 196608
+        "latest": 196608,
+        "title": "Portal"
     },
     "01007BC00AD3C000": {
         "0": "187CEC6F0087066B",
@@ -46917,7 +46975,8 @@
     },
     "01007CF01C644000": {
         "0": "CBCD3D5717AE0D47",
-        "latest": 0
+        "latest": 0,
+        "title": "Pixel Game Maker Series Storm Swordsman"
     },
     "01007D000AD8A000": {
         "0": "A8D1F8391E7D4D31",
@@ -46991,7 +47050,8 @@
     },
     "01007D4014226000": {
         "0": "443DB2C5373DF6D3",
-        "latest": 0
+        "latest": 0,
+        "title": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings DX Digital Art Book"
     },
     "01007D4017740000": {
         "0": "912645C29CE5B055",
@@ -47775,7 +47835,8 @@
     },
     "01007F501CEB6000": {
         "0": "F248059D1A9C49D3",
-        "latest": 0
+        "latest": 0,
+        "title": "Inertia 2"
     },
     "01007F600B134000": {
         "0": "10AC5E3AEFDF16D1",
@@ -48216,7 +48277,8 @@
     },
     "010080B01D63C000": {
         "0": "CB6C5DB8A40D99E2",
-        "latest": 0
+        "latest": 0,
+        "title": "Brawl.io 2"
     },
     "010080C00AC3C000": {
         "0": "D1A4590FBB68204B",
@@ -49666,7 +49728,7 @@
         "262144": "EAC5DB2261E2BB45",
         "65536": "530771A760F3AC4F",
         "latest": 262144,
-        "title": "Angry Video Game Nerd 1 & 2 Deluxe"
+        "title": "Angry Video Game Nerd I & II Deluxe"
     },
     "010084500EA2E000": {
         "0": "9CA83455D224A49C",
@@ -50406,7 +50468,7 @@
     "010086A013904000": {
         "0": "5F7A9C6AD03CD24D",
         "latest": 0,
-        "title": "Daylife in Japan - Pixel Art Jigsaw Puzzle"
+        "title": "Daylife in Japan - Animated Jigsaw Puzzle Series"
     },
     "010086A013FD8000": {
         "0": "91A25B289C6A3846",
@@ -50770,7 +50832,8 @@
     },
     "0100879019C60000": {
         "0": "B1729BB72E5E9160",
-        "latest": 0
+        "latest": 0,
+        "title": "Arcade Archives Dinorex"
     },
     "010087A00F6D4000": {
         "0": "DAD6A0044D7C204A",
@@ -50932,7 +50995,8 @@
     },
     "01008800185B2000": {
         "65536": "3AFD9FDFECEDFC3F",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Resident Evil 2 Cloud"
     },
     "01008800185B3000": {
         "latest": 0
@@ -51065,7 +51129,8 @@
     },
     "010088701D748000": {
         "0": "8B2E46DA84EC0510",
-        "latest": 0
+        "latest": 0,
+        "title": "Mix AI Animal Ultimate"
     },
     "010088800B72E000": {
         "0": "E2300AF2C62321B8",
@@ -51115,7 +51180,8 @@
     },
     "010088801C150000": {
         "0": "9D35CFA6C6920DE6",
-        "latest": 0
+        "latest": 0,
+        "title": "Digital Artbook & Mini Original Soundtrack"
     },
     "010088801CD5A000": {
         "0": "3FBA6F67BBB6D206",
@@ -52569,7 +52635,7 @@
         "262144": "E90D985D706DF59F",
         "65536": "9E885A66C9CA0DE1",
         "latest": 262144,
-        "title": "Gunvolt Chronicles: Luminous Avenger iX"
+        "title": "Gunvolt Chronicles Luminous Avenger iX - Retail Version"
     },
     "01008C800E655000": {
         "latest": 0
@@ -52630,7 +52696,7 @@
         "262144": "F5B4925D514B5AAF",
         "65536": "C432ABB3C487D08E",
         "latest": 262144,
-        "title": "My Friend Peppa Pig"
+        "title": "My Friend Peppa Pig - Complete Edition"
     },
     "01008C9014695000": {
         "latest": 0
@@ -53055,7 +53121,8 @@
     },
     "01008D6018A4C000": {
         "0": "66F4D9E57DA6E841",
-        "latest": 0
+        "latest": 0,
+        "title": "The DioField Chronicle Original Soundtrack"
     },
     "01008D6018FEC000": {
         "0": "EAB127640EF90599",
@@ -53196,7 +53263,7 @@
         "458752": "A16802625E7826BF",
         "65536": "BDD027F80FAB4EF4",
         "latest": 458752,
-        "title": "Pok\u00e9mon\u2122 Shield"
+        "title": "Pok\u00e9mon Shield + Pok\u00e9mon Shield Expansion Pass"
     },
     "01008DB008C2D000": {
         "latest": 0
@@ -53375,7 +53442,8 @@
     "01008E20047DC000": {
         "0": "756A97DB2A70A072",
         "65536": "93A98177F8BC854F",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Snipperclips Plus: Cut It Out, Together!"
     },
     "01008E200C5C2000": {
         "0": "61A564531B665643",
@@ -53935,7 +54003,7 @@
         "589824": "16E9D76755ED0948",
         "65536": "F7F74F8045642CBE",
         "latest": 589824,
-        "title": "Pok\u00e9mon\u2122 Violet"
+        "title": "Pok\u00e9mon\u2122 Violet + AOC bundle (for GP distribution)"
     },
     "01008F6008C5F000": {
         "latest": 0
@@ -54248,7 +54316,7 @@
         "131072": "B58A4B745CFE8371",
         "65536": "C7F83D7B0A5AE0F6",
         "latest": 131072,
-        "title": "Ala Mobile"
+        "title": "Ala Mobile - Formula Racing"
     },
     "01009040091E0000": {
         "0": "3F749E59FBAEE44E",
@@ -55100,7 +55168,7 @@
         "131072": "C4067E8CB3258656",
         "65536": "2D9B798A745DFE72",
         "latest": 131072,
-        "title": "It Takes Two"
+        "title": "It Takes Two - On Card DLC"
     },
     "010092A0172E5000": {
         "latest": 0
@@ -55260,7 +55328,8 @@
     },
     "010093001C49A000": {
         "0": "13910EC221D26371",
-        "latest": 0
+        "latest": 0,
+        "title": "Time Master"
     },
     "010093100DA04000": {
         "0": "A48CD681788CCF52",
@@ -55711,7 +55780,8 @@
     "0100944009646000": {
         "0": "FA5246947192BC4C",
         "65536": "20B037B2691C3E49",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Arena of Valor"
     },
     "010094401280A000": {
         "0": "C27390313B8DE044",
@@ -58092,7 +58162,8 @@
     "01009AB0034E0000": {
         "0": "E814CF029FFC88B4",
         "131072": "182ACCCF23EC394B",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Nintendo Labo\u2122 Toy-Con 02: Robot Kit"
     },
     "01009AB00B186000": {
         "0": "0CA92D4359E61CD4",
@@ -58780,7 +58851,8 @@
     },
     "01009C501D57E000": {
         "0": "79D3037D9E4695E5",
-        "latest": 0
+        "latest": 0,
+        "title": "OnlyUP!"
     },
     "01009C600F02C000": {
         "0": "F82D2319C081A647",
@@ -60045,7 +60117,7 @@
         "393216": "F57DB1FA410FD9DD",
         "65536": "BC6146A36AE559C0",
         "latest": 393216,
-        "title": "Sonic Origins"
+        "title": "Sonic Origins Plus"
     },
     "01009FB016287000": {
         "latest": 0
@@ -60434,7 +60506,8 @@
     },
     "0100A0A01BEB4000": {
         "0": "B186A07C43198556",
-        "latest": 0
+        "latest": 0,
+        "title": "Turbo Shell"
     },
     "0100A0A01C528000": {
         "0": "7E85CB558EFA3E5E",
@@ -60934,7 +61007,8 @@
     },
     "0100A21003E66000": {
         "0": "CD25ACB0DBDFCA07",
-        "latest": 0
+        "latest": 0,
+        "title": "Fire Emblem Warriors Demo for KIOSK"
     },
     "0100A21007FFA000": {
         "0": "16F7031AF0C8D38E",
@@ -61270,7 +61344,8 @@
     },
     "0100A2C01D73E000": {
         "0": "33FEA37794635F56",
-        "latest": 0
+        "latest": 0,
+        "title": "Extreme Skyway Racer Simulator"
     },
     "0100A2D00C506000": {
         "0": "5A06A8895E54944A",
@@ -61333,7 +61408,7 @@
         "196608": "73AB7C4B2F220FA8",
         "65536": "7481ED1FB27AC72D",
         "latest": 196608,
-        "title": "Disney Classic Games: Aladdin and The Lion King"
+        "title": "Disney Classic Games Collection"
     },
     "0100A2F00EEFD000": {
         "latest": 0
@@ -61598,7 +61673,7 @@
         "589824": "C0D85FF5B8C86436",
         "65536": "B26A631109A29124",
         "latest": 589824,
-        "title": "Pok\u00e9mon\u2122 Scarlet"
+        "title": "Pok\u00e9mon\u2122 Scarlet + AOC bundle (for GP distribution)"
     },
     "0100A3D008C5D000": {
         "latest": 0
@@ -64593,7 +64668,8 @@
         "0": "388FFB1644AFCDEF",
         "131072": "9DBB01A286499E21",
         "196608": "B3AD507237147973",
-        "latest": 196608
+        "latest": 196608,
+        "title": "Portal 2"
     },
     "0100ABE00CE7C000": {
         "0": "98D3E6F6403E7240",
@@ -64624,7 +64700,7 @@
         "458752": "A3B75BCD3311385A",
         "65536": "490648316CC1CCDC",
         "latest": 458752,
-        "title": "Pok\u00e9mon Sword and Pok\u00e9mon Shield Double Pack Digital Version"
+        "title": "Pok\u00e9mon Sword + Pok\u00e9mon Sword Expansion Pass"
     },
     "0100ABF008969000": {
         "latest": 0
@@ -65040,7 +65116,8 @@
         "851968": "4D80FC96D3673947",
         "917504": "17C45AB482E34A47",
         "983040": "021D5CEDB7108545",
-        "latest": 1376256
+        "latest": 1376256,
+        "title": "Fall Guys Beta"
     },
     "0100ACE01A9DE000": {
         "0": "6D9097CD4186513B",
@@ -65617,7 +65694,8 @@
     },
     "0100AE501AC16000": {
         "0": "5BEBA47C3EC62109",
-        "latest": 0
+        "latest": 0,
+        "title": "Hodgepodge Hunch"
     },
     "0100AE600DBE4000": {
         "0": "5BD159106D6DF44A",
@@ -65685,7 +65763,8 @@
     "0100AE800C9C6000": {
         "0": "6E114D3262F05290",
         "65536": "171B1D215523F0E0",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Yoshi\u2019s Crafted World\u2122 Demo"
     },
     "0100AE800E7F8000": {
         "65536": "97B632B2C6C22449",
@@ -66478,7 +66557,7 @@
         "851968": "BB1680AA2AE07807",
         "983040": "A15130A356A9649A",
         "latest": 2490368,
-        "title": "Among Us"
+        "title": "Among Us - Crewmate Edition"
     },
     "0100B0C016164000": {
         "0": "B70F0A492FFB7B84",
@@ -67337,7 +67416,8 @@
     "0100B2C01470C000": {
         "0": "6C6FF12669E64BB6",
         "65536": "BFF78F6540ED16F5",
-        "latest": 65536
+        "latest": 65536,
+        "title": "NINJA GAIDEN: Master Collection Digital Art Book & Soundtrack"
     },
     "0100B2C016252000": {
         "0": "A5F057A507F41B24",
@@ -69871,7 +69951,8 @@
     },
     "0100BA101C76C000": {
         "0": "AFA387F99705A227",
-        "latest": 0
+        "latest": 0,
+        "title": "Kumi-Daiko Beatoff"
     },
     "0100BA200C378000": {
         "0": "C2DAC77C25BB7944",
@@ -71819,7 +71900,7 @@
         "589824": "E395C1DB511DF6F3",
         "65536": "3C2BA1283F841485",
         "latest": 589824,
-        "title": "Just Dance\u00ae"
+        "title": "Just Dance\u00a9"
     },
     "0100BEE017FC1000": {
         "latest": 0
@@ -73409,7 +73490,8 @@
     "0100C34017764000": {
         "0": "035ED933EF42C0E9",
         "65536": "DE83BD13DA579183",
-        "latest": 65536
+        "latest": 65536,
+        "title": "KLONOA Phantasy Reverie Series: Art Book & Soundtrack"
     },
     "0100C34019218000": {
         "0": "98DCA785E05C1C97",
@@ -73418,7 +73500,8 @@
     },
     "0100C3401A11C000": {
         "0": "BE471E78256EC1FB",
-        "latest": 0
+        "latest": 0,
+        "title": "Fairy Fencer F: Refrain Chord Digital Soundtrack"
     },
     "0100C3401AFBC000": {
         "0": "2F9DCD8F65319260",
@@ -73488,7 +73571,8 @@
     },
     "0100C3701CEB0000": {
         "0": "6515F04E8D372A19",
-        "latest": 0
+        "latest": 0,
+        "title": "Orbital Cargo Division"
     },
     "0100C3800049C000": {
         "0": "8B338F57A04A2688",
@@ -73624,7 +73708,8 @@
         "393216": "2A4CD727FB61F4EA",
         "458752": "2CF52C8DA4468946",
         "65536": "5912317EF545C648",
-        "latest": 458752
+        "latest": 458752,
+        "title": "Grand Theft Auto III \u2013 The Definitive Edition"
     },
     "0100C3C015738000": {
         "0": "D7AD4F7AB2F72240",
@@ -73961,7 +74046,8 @@
     "0100C4B0034B2000": {
         "0": "3DDD4AC9EFF8361A",
         "65536": "06D12779FB7721E5",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Nintendo Labo Toy-Con 01 Variety Kit"
     },
     "0100C4C00E73E000": {
         "0": "F95EBBB3C806724C",
@@ -74249,7 +74335,8 @@
     },
     "0100C56012C96000": {
         "0": "713E445C7E80134B",
-        "latest": 0
+        "latest": 0,
+        "title": "Arkanoid vs. Space Invaders"
     },
     "0100C5601815E000": {
         "0": "662C104AA2799919",
@@ -74425,7 +74512,8 @@
     "0100C5E003B40000": {
         "0": "7C5A8B2327EA5EE3",
         "131072": "1FCA0DA191F3C018",
-        "latest": 131072
+        "latest": 131072,
+        "title": "ARMS\u2122 Global Testpunch"
     },
     "0100C5E00E4E0000": {
         "65536": "1CCCBB60BEF61F46",
@@ -76879,7 +76967,8 @@
     },
     "0100CC600ABB2000": {
         "131072": "62AC28023BEF0246",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Yonder: The Cloud Catcher Chronicles (Retail Only)"
     },
     "0100CC6013432000": {
         "0": "ABD051766261F146",
@@ -78211,7 +78300,8 @@
     },
     "0100D0301D356000": {
         "0": "636AC128461D6DC0",
-        "latest": 0
+        "latest": 0,
+        "title": "Heavy Car Battle - Demolition Derby"
     },
     "0100D04004176000": {
         "0": "7D0651174A65DD84",
@@ -78740,7 +78830,8 @@
     },
     "0100D1801A0F4000": {
         "0": "72CF5F42C3586558",
-        "latest": 0
+        "latest": 0,
+        "title": "Risk of Rain Returns"
     },
     "0100D1900EC80000": {
         "131072": "4E9E9501D27DD02E",
@@ -78926,7 +79017,7 @@
         "917504": "86FB682D652B052A",
         "983040": "A96224882D4D686B",
         "latest": 1835008,
-        "title": "Warface"
+        "title": "Warface: Clutch"
     },
     "0100D1E018F26000": {
         "0": "40B99A5B8D3C5C48",
@@ -80491,7 +80582,7 @@
         "131072": "7F668B853E902B40",
         "196608": "5515D42F9D2301B0",
         "latest": 196608,
-        "title": "You Suck at Parking"
+        "title": "You Suck at Parking: Complete Edition"
     },
     "0100D6800AC5C000": {
         "0": "437743A9A4E50B44",
@@ -82304,7 +82395,8 @@
     },
     "0100DAA00AEE6000": {
         "0": "5EA5BAA1D0BFB24B",
-        "latest": 0
+        "latest": 0,
+        "title": "NAMCO MUSEUM\u2122 ARCADE PAC\u2122"
     },
     "0100DAA0153C0000": {
         "0": "340265137AA05B6C",
@@ -82469,7 +82561,8 @@
     },
     "0100DB101B90E000": {
         "0": "79624112402A206C",
-        "latest": 0
+        "latest": 0,
+        "title": "Until The Last Bullet"
     },
     "0100DB200B512000": {
         "0": "2B79B756144A0F44",
@@ -82909,7 +83002,8 @@
     "0100DC301186A000": {
         "0": "207FBCDA9E4B19DD",
         "65536": "EE295EAAEA7D31E4",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Life is Strange Remastered"
     },
     "0100DC4009828000": {
         "0": "4258054AAC80B832",
@@ -82994,7 +83088,8 @@
     },
     "0100DC701A388000": {
         "0": "EA48E6A98AF45658",
-        "latest": 0
+        "latest": 0,
+        "title": "THE KING OF FIGHTERS XIII GLOBAL MATCH"
     },
     "0100DC800A602000": {
         "0": "88ACCFC1CB2F53EA",
@@ -83303,7 +83398,8 @@
     },
     "0100DD501D6A6000": {
         "0": "DD42111861BEA747",
-        "latest": 0
+        "latest": 0,
+        "title": "Spacefarer Solitaire"
     },
     "0100DD600DD48000": {
         "0": "5DDDF2EC1683C444",
@@ -83906,7 +84002,8 @@
     },
     "0100DF200AC96000": {
         "0": "859F360EAB18490A",
-        "latest": 0
+        "latest": 0,
+        "title": "DARK SOULS\u2122: REMASTERED NETWORK TEST VER"
     },
     "0100DF200B24C000": {
         "0": "4F6792FAAC98FB4A",
@@ -84775,7 +84872,8 @@
     },
     "0100E1B018A4E000": {
         "0": "E0CB6B477FD4A721",
-        "latest": 0
+        "latest": 0,
+        "title": "The DioField Chronicle Digital Artbook"
     },
     "0100E1C00DB6C000": {
         "0": "18A682A6706E044E",
@@ -84827,7 +84925,7 @@
         "917504": "96E1553486CED84F",
         "983040": "7EE465B6F0C0E242",
         "latest": 1638400,
-        "title": "Power Rangers: Battle for the Grid"
+        "title": "Power Rangers: Battle for the Grid - Retail Version"
     },
     "0100E1E00CF1B000": {
         "latest": 0
@@ -85018,7 +85116,7 @@
         "0": "257893E8C1F33C09",
         "131072": "FA9CF12B37F35DF6",
         "latest": 131072,
-        "title": "Cabela's: The Hunt - Championship Edition"
+        "title": "The Hunt - Championship Edition"
     },
     "0100E24006FA8000": {
         "0": "E820E8970A382342",
@@ -85336,7 +85434,8 @@
         "196608": "2C25898AC240E814",
         "262144": "2C25898AC240E814",
         "65536": "73C01D12EC628195",
-        "latest": 262144
+        "latest": 262144,
+        "title": "NINJA GAIDEN \u03a3"
     },
     "0100E2F016680000": {
         "0": "5947A83BD62A424A",
@@ -85359,7 +85458,7 @@
         "196608": "54DD4B0333C121BB",
         "262144": "577AD0F1CE8F50EB",
         "latest": 262144,
-        "title": "Bass Pro Shops: The Strike - Championship Edition"
+        "title": "The Strike - Championship Edition"
     },
     "0100E3101A31E000": {
         "0": "4064AC546312FE5E",
@@ -85505,7 +85604,8 @@
     },
     "0100E3701B536000": {
         "0": "2CF7515417F652C7",
-        "latest": 0
+        "latest": 0,
+        "title": "Pixel Game Maker Series Project Nosferatu"
     },
     "0100E3801140A000": {
         "0": "196E2F52A3329744",
@@ -86533,7 +86633,8 @@
     },
     "0100E6201D4F0000": {
         "0": "A33FD382984C0DD0",
-        "latest": 0
+        "latest": 0,
+        "title": "Your Future 2 Future Prediction"
     },
     "0100E6300AA3A000": {
         "0": "40E39AE789B43C62",
@@ -87249,7 +87350,8 @@
     },
     "0100E7E01BD26000": {
         "0": "01398E404BB722AD",
-        "latest": 0
+        "latest": 0,
+        "title": "Keep The Fire - Survival Simulator"
     },
     "0100E7F00BA5A000": {
         "0": "4C2B252F68E9DD4B",
@@ -87492,7 +87594,8 @@
     },
     "0100E890185B6000": {
         "65536": "34967DF75DFBD3FC",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Resident Evil 7 biohazard Cloud"
     },
     "0100E8A00BCCA000": {
         "0": "B60BA569B8518F30",
@@ -87827,7 +87930,8 @@
     },
     "0100E9801D77A000": {
         "0": "2B0DDC9534D6C8BC",
-        "latest": 0
+        "latest": 0,
+        "title": "Hoop Shoot"
     },
     "0100E9900ED74000": {
         "0": "B5E50E20DEA65D80",
@@ -88038,7 +88142,8 @@
     },
     "0100E9F00B882000": {
         "0": "293F7340EE9A0F41",
-        "latest": 0
+        "latest": 0,
+        "title": "8-BIT ADV STEINS;GATE"
     },
     "0100E9F00CACC000": {
         "0": "BD0D4DCCB628B245",
@@ -88679,7 +88784,8 @@
     },
     "0100EB6017AC6000": {
         "0": "519B6F6D667A0CC4",
-        "latest": 0
+        "latest": 0,
+        "title": "Ultimate Solitaire Collection"
     },
     "0100EB6018686000": {
         "0": "265BDB52754CD507",
@@ -89009,7 +89115,8 @@
     },
     "0100EC101CCCE000": {
         "0": "8DDCD6F3AE031340",
-        "latest": 0
+        "latest": 0,
+        "title": "Adventure Word: Around the World"
     },
     "0100EC200BFF8000": {
         "0": "2BC3F1356EFA8560",
@@ -90591,7 +90698,7 @@
         "786432": "7396250631E26D87",
         "851968": "7970CE928C304FB4",
         "latest": 851968,
-        "title": "Disney Speedstorm - Standard Founder\u2019s Pack"
+        "title": "Disney Speedstorm"
     },
     "0100F0401435F000": {
         "latest": 65536
@@ -91895,7 +92002,8 @@
     },
     "0100F35012E64000": {
         "0": "97CB0A5E1405E29A",
-        "latest": 0
+        "latest": 0,
+        "title": "METAL SLUG 2ND MISSION"
     },
     "0100F35014B6C000": {
         "0": "1C5E44622BA30D28",
@@ -92708,7 +92816,8 @@
         "title": "Ducky Quacky"
     },
     "0100F5A008126000": {
-        "latest": 0
+        "latest": 0,
+        "title": "NBA Playgrounds - Enhanced Edition"
     },
     "0100F5A008127000": {
         "latest": 0
@@ -92830,7 +92939,8 @@
     },
     "0100F6000BC6C000": {
         "0": "883413C923496D36",
-        "latest": 0
+        "latest": 0,
+        "title": "DRAGON BALL FIGHTERZ - Open Beta"
     },
     "0100F6000EAA8000": {
         "0": "8F2EF93135EC7D4D",
@@ -93765,7 +93875,8 @@
         "title": "The Sexy Brutale"
     },
     "0100F890078A8000": {
-        "latest": 0
+        "latest": 0,
+        "title": "Streets of Red - Devil's Dare Deluxe"
     },
     "0100F8900A5B0000": {
         "0": "45D613AEBD45AF46",
@@ -94151,7 +94262,8 @@
     },
     "0100F9701CDA8000": {
         "0": "82A2C813D97AA951",
-        "latest": 0
+        "latest": 0,
+        "title": "Draw and Go!"
     },
     "0100F9800DA3C000": {
         "0": "1666DD2EC1E03FF7",
@@ -95795,7 +95907,7 @@
         "458752": "4EDE193E6F76F1C6",
         "65536": "1FFB60C2C26D3DAB",
         "latest": 458752,
-        "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge"
+        "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge - Anniversary Edition"
     },
     "0100FE701475B000": {
         "latest": 0
@@ -96109,7 +96221,7 @@
     "0100FF501CE6A000": {
         "0": "26CDA179378DBC59",
         "latest": 0,
-        "title": "Euro Truck Driver Simulator"
+        "title": "Truck Simulator: European Roads"
     },
     "0100FF60051E2000": {
         "0": "8FC147685E7C4E4F",
