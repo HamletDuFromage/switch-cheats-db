@@ -1,0 +1,9 @@
+{
+    "70BD4BC32C10BFFE": {
+        "[60 FPS]": "[60 FPS]\n04000000 0112731C 0001003C\n580F0000 02681288\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n04000000 0112731C 0101001E\n580F0000 02681288\n580F0000 0DD35510\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Penny's Big Breakaway.txt": "By Hazerou\nGame uses double buffering. So FPS will drop to 30 and game speed will slow down whenever it can't handle 60 FPS\n"
+    }
+}
