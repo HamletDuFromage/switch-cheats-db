@@ -1,4 +1,21 @@
 {
+    "7DC6FDFAD9368F08": {
+        "[60 FPS]": "[60 FPS]\n04000000 05F1AB84 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n04000000 05F1AB84 00000002\n\n",
+        "[Handheld RRS 50% (360p)]": "[Handheld RRS 50% (360p)]\n08000000 051151C8 42480000 42480000\n\n",
+        "[Handheld RRS 66.6% (480p)]": "[Handheld RRS 66.6% (480p)]\n08000000 051151C8 42854580 42854580\n\n",
+        "[Default Handheld RRS 75% (540p)]": "[Default Handheld RRS 75% (540p)]\n08000000 051151C8 42960000 42960000\n\n",
+        "[Default Handheld RRS 80% (576p)]": "[Default Handheld RRS 80% (576p)]\n08000000 051151C8 42A00000 42A00000\n\n",
+        "[Handheld RRS 85% (612p)]": "[Handheld RRS 85% (612p)]\n08000000 051151C8 42AA0000 42AA0000\n\n",
+        "[Handheld RRS 90% (648p)]": "[Handheld RRS 90% (648p)]\n08000000 051151C8 42B40000 42B40000\n\n",
+        "[Handheld RRS 100% (720p)]": "[Handheld RRS 100% (720p)]\n08000000 051151C8 42C80000 42C80000\n\n",
+        "[Docked RRS 66.66% (720p)]": "[Docked RRS 66.66% (720p)]\n08000000 051151C8 42855600 42855600\n\n",
+        "[Docked RRS 70% (756p)]": "[Docked RRS 70% (756p)]\n08000000 051151C8 428C0000 428C0000\n\n",
+        "[Docked RRS 71.1% (768p)]": "[Docked RRS 71.1% (768p)]\n08000000 051151C8 428E4F80 428E4F80\n\n",
+        "[Default Docked RRS 75% (812p)]": "[Default Docked RRS 75% (812p)]\n08000000 051151C8 42960000 42960000\n\n",
+        "[Docked RRS 83.33% (900p)]": "[Docked RRS 83.33% (900p)]\n08000000 051151C8 42A6AAAB 42A6AAAB\n\n",
+        "[Docked RRS 100% (1080p)]": "[Docked RRS 100% (1080p)]\n08000000 051151C8 42C80000 42C80000\n\n"
+    },
     "7E82B6E57F467EC4": {
         "[RRS 100% (Handheld 720p, Docked 1080p)]": "[RRS 100% (Handheld 720p, Docked 1080p)]\n08000000 051B5E40 42C80000 42C80000\n\n",
         "[RRS 75% (default) (Handheld 540p, Docked 810p)]": "[RRS 75% (default) (Handheld 540p, Docked 810p)]\n08000000 051B5E40 42960000 42960000\n\n",
@@ -13,6 +30,6 @@
         "RRS 100 % [1080p Docked]": "RRS 100 % [1080p Docked]\n04000000 051B5E40 42C80000\n\n"
     },
     "attribution": {
-        "Batman Arkham Knight.txt": "By masagrator\nRRS cheats by DAVYSGAMING\n"
+        "Batman Arkham Knight.txt": "By masagrator\nRRS cheats by DAVYSGAMING\nUpdated by Hazerou\n"
     }
 }
