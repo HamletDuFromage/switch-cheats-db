@@ -1,0 +1,10 @@
+{
+    "FB968CFB649A5842": {
+        "[576p Default Res for Handheld]": "[576p Default Res for Handheld]\n580F0000 0292B028\n780F0000 00000060\n680F0000 00000240 00000400 \n580F0000 0291EE38\n780F0000 00006EE8\n680F0000 00000240 00000400\n580F0000 0292A618\n780F0000 000018C8\n680F0000 00000240 00000400\n\n",
+        "[720p Default Res for Docked]": "[720p Default Res for Docked]\n580F0000 0292B028\n780F0000 00000060\n680F0000 000002D0 00000500 \n580F0000 0291EE38\n780F0000 00006EE8\n680F0000 000002D0 00000500\n580F0000 0292A618\n780F0000 000018C8\n680F0000 000002D0 00000500\n\n",
+        "[1080p Res]": "[1080p Res]\n580F0000 0292B028\n780F0000 00000060\n680F0000 00000438 00000780\n580F0000 0291EE38\n780F0000 00006EE8\n680F0000 00000438 00000780\n580F0000 0292A618\n780F0000 000018C8\n680F0000 00000438 00000780\n\n"
+    },
+    "attribution": {
+        "Hollow Knight.txt": "By t a s h I\n\nResolution Cheats from 576p up to 1080p\n\nNotes: \nResolution is applied to both handheld mode and docked mode so you will have to change them whenever you switch modes if you want to use seperate resolutions for handheld and docked\nI couldn't find how to set them seperately \n\nGame runs at 720p60 well while in handheld mode with the default clocks\n"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "E2876F945A831D78": {
+        "[set valor]": "[set valor]\n580F0000 032DD290\n580F1000 000000B8\n580F1000 00000010\n780F0000 00000948\n640F0000 01000100 0000000A\n\n",
+        "[max money on purchase]": "[max money on purchase]\n04000000 00035FC8 B9001009\n\n",
+        "[max money on purchase off]": "[max money on purchase off]\n04000000 00035FC8 B9001008\n\n",
+        "[max honor and item]": "[max honor and item]\n04000000 002C9310 5284E1E8\n\n",
+        "[max honor and item off]": "[max honor and item off]\n04000000 002C9310 0B010108\n\n",
+        "[max reown]": "[max reown]\n04000000 002CD218 52827108\n\n",
+        "[max reown off]": "[max reown off]\n04000000 002CD218 1A88B3E8\n\n",
+        "[max stamina]": "[max stamina]\n04000000 000D6DE8 528000CB\n\n",
+        "[max stamina off]": "[max stamina off]\n04000000 000D6DE8 B9417E6B\n\n"
+    }
+}
