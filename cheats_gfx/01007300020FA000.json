@@ -1,8 +1,14 @@
 {
     "4B159F0F7A360669": {
-        "[Cutscenes Speed Fix For 60 FPS Patch]": "[Cutscenes Speed Fix For 60 FPS Patch]\n14050000 0CCA6764 3D088889\n580F0000 0CCB7B08\n580F1000 00000070\n780F0000 00000F14\n640F0000 00000000 00000002\n20000000\n14030000 0CCA6764 3D088889\n580F0000 0CCB7B08\n580F1000 00000070\n780F0000 00000F14\n640F0000 00000000 00000001\n20000000\n\n"
+        "[Cutscenes Speed Fix For 60 FPS Patch]": "[Cutscenes Speed Fix For 60 FPS Patch]\n14050000 0CCA6764 3D088889\n580F0000 0CCB7B08\n580F1000 00000070\n780F0000 00000F14\n640F0000 00000000 00000002\n20000000\n14030000 0CCA6764 3D088889\n580F0000 0CCB7B08\n580F1000 00000070\n780F0000 00000F14\n640F0000 00000000 00000001\n20000000\n\n",
+        "[Default Re enable DRS (H. 630p<=>720p) (D. 810p<=>900p)]": "[Default Re enable DRS (H. 630p<=>720p) (D. 810p<=>900p)]\n04000000 0040F1A4 321603E8\n04000000 0040F1B0 52804ED4\n04000000 0040F12C 5280A013\n04000000 0040F138 52805A14\n\n",
+        "[Handheld 360p Locked]": "[Handheld 360p Locked]\n04000000 0040F1A4 52805008\n04000000 0040F1B0 52802D14\n04000000 0040F12C 52805013\n04000000 0040F138 52802D14\n\n",
+        "[Handheld 480p Locked]": "[Handheld 480p Locked]\n04000000 0040F1A4 52806B08\n04000000 0040F1B0 52803C14\n04000000 0040F12C 52806B13\n04000000 0040F138 52803C14\n\n",
+        "[Handheld 540p Locked]": "[Handheld 540p Locked]\n04000000 0040F1A4 52807808\n04000000 0040F1B0 52804414\n04000000 0040F12C 52807813\n04000000 0040F138 52804414\n\n",
+        "[Handheld 648p Locked]": "[Handheld 648p Locked]\n04000000 0040F1A4 52809008\n04000000 0040F1B0 52805114\n04000000 0040F12C 52809013\n04000000 0040F138 52805114\n\n",
+        "[Handheld 720p Locked]": "[Handheld 720p Locked]\n04000000 0040F1A4 5280A008\n04000000 0040F1B0 52805A14\n04000000 0040F12C 5280A013\n04000000 0040F138 52805A14\n\n"
     },
     "attribution": {
-        "ASTRAL CHAIN.txt": "60 FPS Patch is needed. You can get it here; by MrComputerRevo\nhttps://gbatemp.net/threads/astral-chain-rom-hacking-bible.547050/post-8777070\n\nCheat code forces The Cutscenes' FPS to 30. It's the only way that I can think of to fix the Cutscenes from Speeding up.\nBy Hazerou v1.01"
+        "ASTRAL CHAIN.txt": "60 FPS Patch is needed. You can get it here; by MrComputerRevo\nhttps://gbatemp.net/threads/astral-chain-rom-hacking-bible.547050/post-8777070\n\nHow to apply resolution cheat changes properly;\n1.) Same case with Sonic Colors but this time it's for Handheld Mode only. All you have to do is Dock => Undock and it will apply the effects of the cheats. Or use \u2060reverse-nx-rt Mode: Docked => Mode: Handheld which is much easier to do.\n\n\nCheat code forces The Cutscenes' FPS to 30. It's the only way that I can think of to fix the Cutscenes from Speeding up.\nBy Hazerou v1.01\n"
     }
 }
