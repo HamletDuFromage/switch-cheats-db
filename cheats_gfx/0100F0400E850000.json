@@ -1,11 +1,5 @@
 {
     "85C362CC9790F0ED": {
-        "[01# Inf Health]": "[01# Inf Health]\n58010000 01734550\n78010000 00000330\n64010000 00000000 3F800000\n\n",
-        "[02# Max Money]": "[02# Max Money]\n580E0000 016F0E80\n580E1000 00000010\n580E1000 000000A8\n780E0000 00000520\n640E0000 00000000 000F423F\n\n",
-        "[03# Max Gasmask (ZL+Left)]": "[03# Max Gasmask (ZL+Left)]\n80001100\n580F0000 016F0E80\n580F1000 00000010\n580F1000 00000118\n780F0000 000006B4\n640F0000 00000000 43960000\n20000000\n\n",
-        "[04# Max Bullets (ZL+Up)]": "[04# Max Bullets (ZL+Up)]\n80002100\n58020000 016F0E80\n58021000 00000010\n58021000 000001D8\n78020000 00000478\n62020000 00000000 0000270F\n20000000\n\n",
-        "[05# Max Bullets (ZL+Right)]": "[05# Max Bullets (ZL+Right)]\n80004100\n58030000 016F0E80\n58031000 00000010\n58031000 00005BD8\n78030000 00000478\n64030000 00000000 0000270F\n20000000\n\n",
-        "[06# Max Bullets (ZL+Down)]": "[06# Max Bullets (ZL+Down)]\n80008100\n58040000 016F0E80\n58041000 00000010\n58041000 00000278\n78040000 00000478\n64040000 00000000 0000270F\n20000000\n\n",
         "[60 FPS]": "[60 FPS]\n04000000 024191F4 00000001\n\n",
         "[Default 30 FPS]": "[Default 30 FPS]\n04000000 024191F4 00000002\n\n",
         "[Default Enable DRS (416p<=>720p No RRS Lock)]": "[Default Enable DRS (416p<=>720p No RRS Lock)]\n04000000 01734E48 00000000\n04000000 017321D8 41ED5C29\n04000000 01732148 3EAA7EFA\n04000000 01732178 3F800000\n\n",
@@ -25,7 +19,6 @@
         "[FOV 90]": "[FOV 90]\n04000000 014DE02C 42B40000\n\n"
     },
     "attribution": {
-        "Metro 2033 Redux Metro Last Light redux ver 1.0 by patjenova.txt": "Before going to a Mach disable codes. And you must be first at the beginning. ",
         "Metro Last Light Redux.txt": "RRS and TAA are for Handheld Mode only. Docked Mode breaks viewport\n"
     }
 }
