@@ -109,5 +109,8 @@
         "[Max Quality Override To Highest ON]": "[Max Quality Override To Highest ON]\n580F0000 0AEAE7F0\n680F0000 00000001 00000001\n\n",
         "[Distortion Effects OFF]": "[Distortion Effects OFF]\n580F0000 0ADB8080\n680F0000 00000001 00000001\n\n",
         "[Default Distortion Effects ON]": "[Default Distortion Effects ON]\n580F0000 0ADB8080\n680F0000 00000000 00000000\n\n"
+    },
+    "attribution": {
+        "Princess Peach Showtime!.txt": "By Hazerou\nUse Masagrator's \u2060fpslocker + patch for 60FPS\n1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.\n2.) Some GFX Codes has no Function/Effect to the Game. \n"
     }
 }
