@@ -1,0 +1,18 @@
+{
+    "4EB19EA36BA4FE00": {
+        "[Breeze beta89  BLAZE UNION - STORY TO REACH THE FUTURE 1.0.0 TID: 01009A701DAB0000 BID: 4EB19EA36BA4FE00]": "[Breeze beta89  BLAZE UNION - STORY TO REACH THE FUTURE 1.0.0 TID: 01009A701DAB0000 BID: 4EB19EA36BA4FE00]\n\n",
+        "[Always Turn 1]": "[Always Turn 1]\n010F0000 00640130 00000001\n\n",
+        "[Inf Move (ZL:0)]": "[Inf Move (ZL:0)]\n010F0000 00640132 00000063\n80000100\n010F0000 00640132 00000000\n20000000\n\n",
+        "[Max Status (Garlot)]": "[Max Status (Garlot)]\n010F0000 00551A53 0000005A\n040F0000 00551A54 5A5A5A5A\n\n",
+        "[Inf Morale (Garlot)]": "[Inf Morale (Garlot)]\n020F0000 00551A5A 0000270F\n040F0000 00551A5C 270F270F\n\n",
+        "[Max Status (Gulcasa)]": "[Max Status (Gulcasa)]\n010F0000 00551A97 0000005A\n040F0000 00551A98 5A5A5A5A\n\n",
+        "[Inf Morale (Gulcasa)]": "[Inf Morale (Gulcasa)]\n020F0000 00551A9E 0000270F\n040F0000 00551AA0 270F270F\n\n",
+        "[Max Status (Siskier)]": "[Max Status (Siskier)]\n010F0000 00551ADB 0000005A\n040F0000 00551ADC 5A5A5A5A\n\n",
+        "[Inf Morale (Siskier)]": "[Inf Morale (Siskier)]\n020F0000 00551AE2 0000270F\n040F0000 00551AE4 270F270F\n\n",
+        "[Max Status (Jenon)]": "[Max Status (Jenon)]\n010F0000 00551B1F 0000005A\n040F0000 00551B20 5A5A5A5A\n\n",
+        "[Inf Morale (Jenon)]": "[Inf Morale (Jenon)]\n020F0000 00551B26 0000270F\n040F0000 00551B28 270F270F\n\n",
+        "[Max Status (Medoutel)]": "[Max Status (Medoutel)]\n010F0000 00551B63 0000005A\n040F0000 00551B64 5A5A5A5A\n\n",
+        "[Inf Morale (Medoutel)]": "[Inf Morale (Medoutel)]\n020F0000 00551B6A 0000270F\n040F0000 00551B6C 270F270F\n\n",
+        "[Cards 9999 pow]": "[Cards 9999 pow]\n300E0000 00000016\n040F0000 005519F0 FFFFFFFF\n780F0000 00000004\n310E0000\n20000000\n\n"
+    }
+}
