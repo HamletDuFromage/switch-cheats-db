@@ -39,7 +39,7 @@ class ProcessCheats:
             lines = cheatSheet.readlines()
 
         for i in range(len(lines)):
-            titles = re.search("(\[.+\]|\{.+\})", lines[i])
+            titles = re.search(r"(\[.+\]|\{.+\})", lines[i])
             if titles:
                 pos.append(i)
 

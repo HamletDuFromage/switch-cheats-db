@@ -6,7 +6,7 @@ import cloudscraper
 import json
 import shutil
 from pathlib import Path
-from datetime import date
+from datetime import date, datetime
 from bs4 import BeautifulSoup
 
 import process_cheats
@@ -40,12 +40,10 @@ class GbatempCheatsInfo:
         self.gbatemp_version = self.fetch_gbatemp_version()
 
     def fetch_gbatemp_version(self):
-        page = self.scraper.get(self.page_url)
+        page = self.scraper.get(f"{self.page_url}/updates")
         soup = BeautifulSoup(page.content, "html.parser")
-        # There are two occurances of the version, we pick the biggest one
-        version1 = version_parser(soup.find("ol", {"class": "block-body"}).find("div").getText())
-        version2 = version_parser(soup.find("span", {"class": "u-muted"}).getText())
-        return max(version1, version2)
+        version = datetime.fromisoformat(soup.find("div", {"class": "block-container"}).find("time").get("datetime"))
+        return version.date()
 
     def has_new_cheats(self, database_version):
         return self.gbatemp_version > database_version
