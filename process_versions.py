@@ -6,17 +6,24 @@ import os
 
 
 class ProcessVersions:
-    def __init__(self, cnmts_url, titles_url):
+    def __init__(self, cnmts_url, titles_url, versions_url):
         self.json_path = "versions.json"
         self.dir_path = "versions/"
         self.changed = False
         self.versions_dict = dict()
         self.data = dict()
         try:
-            self.data = json.loads(requests.get(cnmts_url).text)
+            self.data = self.merge_cmts_and_versions(cnmts_url, versions_url)
         except ValueError:
             print("Invalid JSON file!")
         self.title_dict = self.create_names_dict(titles_url)
+
+    def merge_cmts_and_versions(self, cnmts_url, versions_url):
+        cmnts = json.loads(requests.get(cnmts_url).text)
+        versions = json.loads(requests.get(versions_url).text)
+        for tid, value in versions.items():
+            cmnts[tid] = {**value, **cmnts.get(tid, {})}
+        return cmnts
 
     def update_versions(self):
         if self.data:
@@ -37,9 +44,12 @@ class ProcessVersions:
 
             latest_ver = 0
             for ver in self.data[tid]:
-                if "buildId" in self.data[tid][ver]["contentEntries"][0]:
-                    self.versions_dict[tid_base][str(self.data[tid][ver]["version"])
-                                                                 ] = self.data[tid][ver]["contentEntries"][0]["buildId"][:16].upper()
+                try:
+                    if "buildId" in self.data[tid][ver]["contentEntries"][0]:
+                        self.versions_dict[tid_base][str(self.data[tid][ver]["version"])
+                                                                    ] = self.data[tid][ver]["contentEntries"][0]["buildId"][:16].upper()
+                except:
+                    pass
                 latest_ver = max(latest_ver, int(ver))
             self.versions_dict[tid_base]["latest"] = latest_ver
 
@@ -76,5 +86,9 @@ class ProcessVersions:
 
 
 if __name__ == '__main__':
-    processor = ProcessVersions("https://raw.githubusercontent.com/blawar/titledb/master/cnmts.json", "https://raw.githubusercontent.com/blawar/titledb/master/US.en.json")
+    processor = ProcessVersions(
+        "https://raw.githubusercontent.com/blawar/titledb/master/cnmts.json",
+        "https://raw.githubusercontent.com/blawar/titledb/master/US.en.json",
+        "https://raw.githubusercontent.com/blawar/titledb/master/versions.json"
+    )
     processor.update_versions()
