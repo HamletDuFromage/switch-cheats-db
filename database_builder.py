@@ -133,6 +133,25 @@ class ArchiveWorker():
         with open(f"{out_path}/VERSION", "w") as version_file:
             version_file.write(str(date.today()))
 
+def count_cheats(cheats_directory):
+    n_games = 0
+    n_updates = 0
+    n_cheats = 0
+    for json_file in Path(cheats_directory).glob('*.json'):
+        with open(json_file, 'r') as file:
+            cheats = json.load(file)
+            for bid in cheats.values():
+                n_cheats += len(bid)
+                n_updates += 1
+        n_games += 1
+
+    readme_file = Path('README.md')
+    with readme_file.open('r') as file:
+        lines = file.readlines()
+    lines[-1] = f"{n_cheats} cheats in {n_games} titles/{n_updates} updates"
+    with readme_file.open('w') as file:
+        file.writelines(lines)
+
 if __name__ == '__main__':
     cheats_path = "cheats"
     cheats_gba_path = "cheats_gbatemp"
@@ -168,6 +187,8 @@ if __name__ == '__main__':
         archive_worker.create_archives("gbatemp")
 
         archive_worker.create_version_file()
+
+        count_cheats(cheats_path)
 
     else:
         print("Everything is already up to date!")
