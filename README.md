@@ -16,4 +16,5 @@ https://github.com/HamletDuFromage/switch-cheats-db/releases/latest
 | Graphics codes            | contents_60fps-res-gfx.zip  | titles_60fps-res-gfx.zip  |
 | Gameplay + graphics codes | contents_complete.zip       | titles_complete.zip       |
 
+## Cheats count
 53330 cheats in 2383 titles/5389 updates
