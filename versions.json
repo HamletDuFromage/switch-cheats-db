@@ -2155,6 +2155,10 @@
         "latest": 65536,
         "title": "The Future You've Been Dreaming Of"
     },
+    "010005E01E5E6000": {
+        "latest": 131072,
+        "title": "Hero's Hour"
+    },
     "010005F0157C4000": {
         "0": "CA7A493846EC96D8",
         "latest": 0
@@ -39983,7 +39987,7 @@
         "title": "Bounce House"
     },
     "010066601CDDE000": {
-        "latest": 393216
+        "latest": 458752
     },
     "0100667009E4C000": {
         "0": "31BDEC56804E9820",
@@ -42216,7 +42220,7 @@
         "latest": 0
     },
     "01006C001C3DA000": {
-        "latest": 196608
+        "latest": 327680
     },
     "01006C100EC08000": {
         "0": "B0EFB225275BA084",
@@ -42987,7 +42991,7 @@
         "title": "Ben 10"
     },
     "01006E101DBA0000": {
-        "latest": 65536,
+        "latest": 131072,
         "title": "Beyond Galaxyland"
     },
     "01006E200E322000": {
@@ -68576,7 +68580,7 @@
     },
     "0100AE90109A2000": {
         "0": "56BE481DEFC7044E",
-        "latest": 0
+        "latest": 65536
     },
     "0100AEA00CCAE000": {
         "0": "747C833784000C4C",
@@ -77345,6 +77349,9 @@
         "latest": 0,
         "title": "My Coloring Book 2"
     },
+    "0100C5102050C000": {
+        "latest": 65536
+    },
     "0100C5200D178000": {
         "0": "B28A86026F91514A",
         "131072": "E89FADA3B7F5514C",
@@ -82046,7 +82053,7 @@
         "title": "Montgomery Fox And The Revenge Of Victor Draven"
     },
     "0100D1501ABAE000": {
-        "latest": 393216,
+        "latest": 458752,
         "title": "SOUTH PARK: SNOW DAY!"
     },
     "0100D1600C9C4000": {
@@ -86702,6 +86709,10 @@
         "latest": 0,
         "title": "Arcade Machine: Gopher's Revenge"
     },
+    "0100DCB01FE98000": {
+        "latest": 65536,
+        "title": "Find the cat"
+    },
     "0100DCC01376E000": {
         "0": "3A3197702233E943",
         "131072": "BBA6E5935D3D4A47",
@@ -86915,6 +86926,10 @@
     },
     "0100DD30191DD000": {
         "latest": 0
+    },
+    "0100DD301A686000": {
+        "latest": 65536,
+        "title": "LOLLIPOP CHAINSAW RePOP"
     },
     "0100DD400C468000": {
         "131072": "91179A3BACC3A6C3",
@@ -89423,6 +89438,10 @@
         "latest": 131072,
         "title": "Witchtastic"
     },
+    "0100E41016E6C000": {
+        "latest": 65536,
+        "title": "Koi-Koi Japan"
+    },
     "0100E41018474000": {
         "0": "D3527B367E13CF0C",
         "latest": 0,
@@ -89872,6 +89891,9 @@
         "0": "20302004E29C0749",
         "latest": 0,
         "title": "Hentai Tales Vol. 1"
+    },
+    "0100E5001FB58000": {
+        "latest": 65536
     },
     "0100E510143EC000": {
         "0": "E69EDD44C3CD35DF",
@@ -95671,6 +95693,9 @@
         "latest": 0,
         "title": "BLEED: Arcade Arena Shooter"
     },
+    "0100F2C01E6CA000": {
+        "latest": 65536
+    },
     "0100F2D00C7DE000": {
         "0": "945C712DFD196A4C",
         "65536": "3CB4A3E84EC3AB49",
@@ -97776,7 +97801,7 @@
         "latest": 0
     },
     "0100F8601DA50000": {
-        "latest": 65536
+        "latest": 131072
     },
     "0100F8701C182000": {
         "131072": "BC26D98724BC5531",
