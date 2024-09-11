@@ -43504,6 +43504,11 @@
         "latest": 131072,
         "title": "Missile Command: Recharged"
     },
+    "01006C601C5EC000": {
+        "65536": "6B353CD75D7C4CDD",
+        "latest": 65536,
+        "title": "Pizza Tower"
+    },
     "01006C602010C000": {
         "65536": "2E21BE47BF54B184",
         "latest": 65536
@@ -95790,6 +95795,10 @@
         "65536": "C3EECA8CA6D4251A",
         "latest": 65536,
         "title": "Arcade Archives TOUKI DENSHOU ANGEL EYES"
+    },
+    "0100ED101F3E8000": {
+        "65536": "6A6C977A587555B8",
+        "latest": 65536
     },
     "0100ED200B6FC000": {
         "0": "41E7D227F248534E",
