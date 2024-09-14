@@ -45540,8 +45540,9 @@
         "131072": "D3F2C3B4661AE42A",
         "196608": "AE3A4161B6D12C4E",
         "262144": "702B85FACA785AFD",
+        "327680": "57041312ABFE8572",
         "65536": "A105B874AB04CB04",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Mosaic Chronicles Deluxe"
     },
     "010071801A0FF000": {
@@ -88344,7 +88345,8 @@
     },
     "0100DAA02088A000": {
         "65536": "DFBB11A2D2F2455C",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Santa's Spot It"
     },
     "0100DAB019EDC000": {
         "0": "5C6DE0E9450CD476",
