@@ -17880,6 +17880,11 @@
         "latest": 458752,
         "title": "Buddy Simulator 1984"
     },
+    "01002D601F6C6000": {
+        "65536": "9EA11235196ED879",
+        "latest": 65536,
+        "title": "Keylocker | Turn Based Cyberpunk Action"
+    },
     "01002D70049CA000": {
         "0": "A2F6D026989427A0",
         "196608": "90885375A9AA07B6",
@@ -20654,6 +20659,11 @@
         "65536": "F463E25D812EA801",
         "latest": 327680,
         "title": "Spirit of the Island"
+    },
+    "010033F01AD2E000": {
+        "196608": "19AC9EDDD4818E35",
+        "latest": 196608,
+        "title": "Wizardry: Proving Grounds of the Mad Overlord"
     },
     "010033F01FCCA000": {
         "65536": "BF5B0D8AA2371F33",
@@ -33916,8 +33926,9 @@
         "title": "Pixel Game Maker Series JEWELiNX"
     },
     "010054E01D878000": {
+        "131072": "90D7C88E10106E23",
         "65536": "4DC4F2CB1754B697",
-        "latest": 65536
+        "latest": 131072
     },
     "010054F00D2E2000": {
         "0": "3F4016AD7171A547",
@@ -42986,8 +42997,9 @@
         "latest": 0
     },
     "01006B201A606000": {
+        "131072": "29415CC974F50159",
         "65536": "684A2740A8ECA497",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Super Dark Deception"
     },
     "01006B30092F0000": {
@@ -45439,6 +45451,10 @@
     "010071400F837000": {
         "latest": 0
     },
+    "010071401A274000": {
+        "65536": "B4D1E186AA400163",
+        "latest": 65536
+    },
     "0100715007354000": {
         "0": "26BE0096E49DBE04",
         "latest": 0,
@@ -47376,6 +47392,11 @@
         "0": "DE13CC154874A11B",
         "latest": 0,
         "title": "Digitris"
+    },
+    "010075702001E000": {
+        "65536": "F15FE9411D0BDC09",
+        "latest": 65536,
+        "title": "Road Defense: Outsiders"
     },
     "01007580124C0000": {
         "0": "85A9ECD25ABE0445",
@@ -67668,7 +67689,8 @@
         "458752": "64D6B65890532FA4",
         "65536": "76E70B01E849D3B5",
         "655360": "29B0A7594C55C872",
-        "latest": 655360
+        "720896": "94F9328AD9C9C0CA",
+        "latest": 720896
     },
     "0100A78017BD7000": {
         "latest": 0
