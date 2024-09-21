@@ -1,0 +1,14 @@
+{
+    "09A15C8259828A41": {
+        "[max rupee]": "[max rupee]\n04000000 0173D27C B91B990A\n04000000 0215B3E8 B91B990A\n04000000 015B3180 B91B992B\n\n",
+        "[max rupee off]": "[max rupee off]\n04000000 0173D27C B91B9909\n04000000 0215B3E8 B91B9909\n04000000 015B3180 B91B992A\n\n",
+        "[max oxygen]": "[max oxygen]\n04000000 02106C68 BD1B4662\n\n",
+        "[max oxygen off]": "[max oxygen off]\n04000000 02106C68 BD1B4661\n\n",
+        "[max item]": "[max item]\n04000000 0173D068 3829690B\n04000000 024D78A8 382A692B\n\n",
+        "[max item off]": "[max item off]\n04000000 0173D068 3829690A\n04000000 024D78A8 382A6928\n\n",
+        "[max hp]": "[max hp]\n04000000 021DFE84 B9000E69\n\n",
+        "[max hp off]": "[max hp off]\n04000000 021DFE84 B9000E68\n\n",
+        "[max sword energy]": "[max sword energy]\n04000000 02107404 BD1BB280 \n04010000 02107404 141B60B7 \n04010000 027DF6E0 1C000060 \n04010000 027DF6E4 BD1BB280 \n04010000 027DF6E8 17E49F48 \n04010000 027DF6EC 41A00000\n\n",
+        "[max sword energy off]": "[max sword energy off]\n04000000 02107404 BD1BB280\n\n"
+    }
+}
