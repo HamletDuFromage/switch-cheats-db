@@ -45381,6 +45381,11 @@
         "latest": 65536,
         "title": "Family Man"
     },
+    "010070B01BEBC000": {
+        "65536": "E5F3DDDAF011E2BC",
+        "latest": 65536,
+        "title": "Golfing in Aether"
+    },
     "010070B01F01C000": {
         "65536": "DAFA922F2EB664C0",
         "latest": 65536,
@@ -49885,6 +49890,11 @@
         "0": "EC33D68FD47B4E45",
         "latest": 0,
         "title": "Aloof"
+    },
+    "01007BA01B9B2000": {
+        "65536": "7FB67AA2D2F63B26",
+        "latest": 65536,
+        "title": "Pummel Party"
     },
     "01007BB00A0A0000": {
         "0": "3D5F9689232ACE44",
@@ -99067,7 +99077,8 @@
     },
     "0100F3D01E094000": {
         "196608": "CAAA466C38D7C0D1",
-        "latest": 196608,
+        "327680": "C8738A130AA2BEC5",
+        "latest": 327680,
         "title": "Duck Detective - The Secret Salami"
     },
     "0100F3E0157CE000": {
