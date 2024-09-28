@@ -86308,8 +86308,9 @@
     },
     "0100D5501857E000": {
         "196608": "F7EF9F90E1C79C3B",
+        "262144": "F7EF9F90E1C79C3B",
         "65536": "F7EF9F90E1C79C3B",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Sam & Max: The Devil's Playhouse"
     },
     "0100D560102C8000": {
@@ -95596,7 +95597,8 @@
     "0100EB6017AC6000": {
         "0": "519B6F6D667A0CC4",
         "262144": "2BBE784D85BF203C",
-        "latest": 262144,
+        "327680": "E1B1DCA1C1088F57",
+        "latest": 327680,
         "title": "Ultimate Solitaire Collection"
     },
     "0100EB6018686000": {
