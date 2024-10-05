@@ -8684,8 +8684,9 @@
         "title": "Namariel Legends - Iron Lord"
     },
     "010016A01F8D0000": {
+        "131072": "966D243E64D29D52",
         "65536": "025A5C696878751C",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Cash Cow DX"
     },
     "010016B005CF8000": {
@@ -13561,6 +13562,11 @@
         "196608": "41CE95FCECF46372",
         "latest": 196608,
         "title": "Fishing Break"
+    },
+    "01002290204B8000": {
+        "65536": "1F6F4792987A2031",
+        "latest": 65536,
+        "title": "Necro Story"
     },
     "010022A009368000": {
         "0": "C022F11A85E1AA4E",
@@ -35238,6 +35244,10 @@
         "65536": "848F5BE234F9FA42",
         "latest": 65536
     },
+    "010057901FD82000": {
+        "65536": "B3F9A3B8D74658A6",
+        "latest": 65536
+    },
     "010057A00C1F6000": {
         "0": "813B4FAA88A4A839",
         "latest": 0,
@@ -54814,6 +54824,10 @@
         "latest": 0,
         "title": "Blandville"
     },
+    "0100878020472000": {
+        "65536": "54625167103165C1",
+        "latest": 65536
+    },
     "0100879019212000": {
         "0": "69A91B92A8C21DC2",
         "65536": "050847C027473AE3",
@@ -55534,6 +55548,11 @@
         "0": "D5ABC6B5622735BC",
         "latest": 0,
         "title": "City Super Hero 3D - Flying Legend Warriors Deluxe Simulator"
+    },
+    "01008960206CE000": {
+        "65536": "10F77E5150DEE13D",
+        "latest": 65536,
+        "title": "Stickin' the Landing"
     },
     "010089700150E000": {
         "0": "E6D27D568F3EA9C8",
