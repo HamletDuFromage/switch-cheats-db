@@ -4546,6 +4546,11 @@
         "latest": 0,
         "title": "Ultimate Anime Jigsaw Puzzle"
     },
+    "01000BC01E3E6000": {
+        "65536": "80DD66EBE8D803F1",
+        "latest": 65536,
+        "title": "Totally Spies! - Cyber Mission"
+    },
     "01000BD00CE64000": {
         "latest": 131072,
         "title": "VAMPYR"
@@ -6915,6 +6920,11 @@
         "latest": 0,
         "title": "0 Degrees"
     },
+    "010011A01896E000": {
+        "65536": "515D1ACE582780FB",
+        "latest": 65536,
+        "title": "Sky Oceans: Wings for Hire"
+    },
     "010011A01A5E6000": {
         "0": "E30823896276643A",
         "latest": 0,
@@ -7424,6 +7434,11 @@
         "0": "E6ED459FB27E9CC3",
         "latest": 0,
         "title": "Rider Among Dead - Mad Zombie Killer Machine Survival"
+    },
+    "010013001BD62000": {
+        "65536": "16BF0562795FA80B",
+        "latest": 65536,
+        "title": "Teenage Mutant Ninja Turtles: Mutants Unleashed"
     },
     "0100132013678000": {
         "0": "8427879887704140",
@@ -9901,8 +9916,9 @@
         "title": "Crowalt: Traces of the Lost Colony"
     },
     "010019701E858000": {
+        "131072": "7A82620EC893A6D8",
         "65536": "8942FC2B38244DA2",
-        "latest": 65536
+        "latest": 131072
     },
     "0100198015682000": {
         "0": "979ABE8005FFDA4F",
@@ -11337,8 +11353,9 @@
     },
     "01001CC01B2D4000": {
         "196608": "26AB1CB54DD4508D",
+        "262144": "A5DA93E6537350D8",
         "65536": "0DE3020411F4232B",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Goat Simulator 3"
     },
     "01001CC01CE48000": {
@@ -11908,6 +11925,10 @@
     },
     "01001E601D994000": {
         "65536": "C0A127EDDBC152A4",
+        "latest": 65536
+    },
+    "01001E601F6B8000": {
+        "65536": "E6D6A6698D063B0A",
         "latest": 65536
     },
     "01001E700AC60000": {
@@ -13903,7 +13924,8 @@
         "262144": "CDADA0F2BD02C521",
         "327680": "F6F71995CFA15E3D",
         "393216": "DD2E20F9C0DC5B50",
-        "latest": 393216,
+        "458752": "785D7783F7D40440",
+        "latest": 458752,
         "title": "Fate/stay night REMASTERED"
     },
     "010023500B0BA000": {
@@ -32672,8 +32694,9 @@
         "title": "PixelJunk Scrappers Deluxe"
     },
     "010050401D0C8000": {
+        "131072": "3EAD9E2F536F45B8",
         "65536": "2211F7C08E4386A1",
-        "latest": 65536
+        "latest": 131072
     },
     "010050500C5F4000": {
         "0": "808E7942DF966EDB",
@@ -34349,8 +34372,9 @@
         "196608": "C3A7D284DA741DBC",
         "262144": "668645A62391CDDE",
         "327680": "A2932DA7A96EC054",
+        "458752": "D404E90111F98D16",
         "65536": "4DC4F2CB1754B697",
-        "latest": 327680
+        "latest": 458752
     },
     "010054F00D2E2000": {
         "0": "3F4016AD7171A547",
@@ -36691,7 +36715,8 @@
     },
     "01005AA01E9CC000": {
         "65536": "8F906B03D2806555",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Heretic's Fork"
     },
     "01005AB01119C000": {
         "0": "3151F262D103364F",
@@ -38090,8 +38115,9 @@
         "title": "SONIC X SHADOW GENERATIONS"
     },
     "01005EA01F4A2000": {
+        "131072": "855DD1532A307515",
         "65536": "52FE890312668B66",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Hidden Cats in Berlin"
     },
     "01005EB00EA10000": {
@@ -43809,8 +43835,9 @@
     "01006BD018B54000": {
         "131072": "FD84337DB6559628",
         "196608": "B771B34505774A8E",
+        "262144": "D53CF6573CAED4B1",
         "65536": "09B7C970738BA80B",
-        "latest": 196608,
+        "latest": 262144,
         "title": "The Plucky Squire"
     },
     "01006BD019A78000": {
@@ -44761,8 +44788,9 @@
     "01006E401E9EA000": {
         "131072": "B9A00C1773FFA2B1",
         "196608": "50CE3B0970626C62",
+        "262144": "DFB1374B8AC14627",
         "65536": "045B5BF834D8122C",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Exographer"
     },
     "01006E50042EA000": {
@@ -45802,8 +45830,9 @@
         "title": "Family Man"
     },
     "010070B01BEBC000": {
+        "131072": "09BD2170138FB80C",
         "65536": "E5F3DDDAF011E2BC",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Golfing in Aether"
     },
     "010070B01F01C000": {
@@ -49574,6 +49603,10 @@
         "latest": 0,
         "title": "Space Robinson"
     },
+    "01007950202C4000": {
+        "65536": "DA191FE408D39038",
+        "latest": 65536
+    },
     "01007960049A0000": {
         "0": "40EA84ADF0A7BC26",
         "131072": "F19B2E01E1794F93",
@@ -52024,6 +52057,10 @@
         "0": "C74689D3A309F15A",
         "latest": 0,
         "title": "JDM Drag Racing Car Driving Simulator 2022 Games"
+    },
+    "01007FD0208C2000": {
+        "65536": "84812E03AD3B142F",
+        "latest": 65536
     },
     "01007FE00C3F0000": {
         "0": "87A1390FBEDB424C",
@@ -60032,8 +60069,9 @@
     },
     "010093001F888000": {
         "131072": "BB5A8BD68878C033",
+        "196608": "BB5A8BD68878C033",
         "65536": "27D155ED6BC7CA37",
-        "latest": 131072,
+        "latest": 196608,
         "title": "While We Wait Here"
     },
     "010093100DA04000": {
@@ -60265,7 +60303,7 @@
     },
     "0100939011ED4000": {
         "0": "DFA52D86BC18724A",
-        "latest": 1179648,
+        "latest": 1245184,
         "title": "Pok\u00e9mon UNITE"
     },
     "0100939015968000": {
@@ -65211,6 +65249,11 @@
         "latest": 0,
         "title": "Ground Divers!"
     },
+    "01009FA01FF6C000": {
+        "65536": "FCCC4FDA392C1C16",
+        "latest": 65536,
+        "title": "Nikoderiko: The Magical World"
+    },
     "01009FB002B2E000": {
         "0": "1D49C45442987541",
         "65536": "9CF17EBFD540D543",
@@ -70003,6 +70046,11 @@
         "0": "EADA88055D3F5900",
         "latest": 0,
         "title": "Monster Impossible Truck No Limit Adventure Drive Simulator Sport 3D"
+    },
+    "0100AB701E288000": {
+        "131072": "CBC849AC99B61B81",
+        "65536": "CBC849AC99B61B81",
+        "latest": 131072
     },
     "0100AB801507C000": {
         "0": "1168249D863E1CEE",
@@ -75267,7 +75315,8 @@
     },
     "0100B8C01B360000": {
         "196608": "4D8E1DFC6D791436",
-        "latest": 196608,
+        "262144": "AE9D27C77E8B731A",
+        "latest": 262144,
         "title": "Wildermyth: Console Edition"
     },
     "0100B8C01FEBA000": {
@@ -82081,7 +82130,8 @@
     "0100C9301F498000": {
         "196608": "16595EE582EA8B2C",
         "262144": "16595EE582EA8B2C",
-        "latest": 262144,
+        "327680": "16595EE582EA8B2C",
+        "latest": 327680,
         "title": "NINJA SLAYER NEO-SAITAMA IN FLAMES"
     },
     "0100C94015CBA000": {
@@ -84022,6 +84072,11 @@
     "0100CE001643C000": {
         "0": "34DF8DBC62F1169E",
         "latest": 0
+    },
+    "0100CE00203FA000": {
+        "65536": "FDA37B199EB6D0D7",
+        "latest": 65536,
+        "title": "Cooking"
     },
     "0100CE1004E72000": {
         "0": "E10AE6CB2FABE3EC",
@@ -87691,6 +87746,11 @@
         "latest": 65536,
         "title": "Mars Colonization Expedition: Survival Simulator"
     },
+    "0100D7101F892000": {
+        "65536": "CB669F15216A3F38",
+        "latest": 65536,
+        "title": "SUPER SHAKING GIRL!!!"
+    },
     "0100D720131FC000": {
         "0": "701344E612B0AA06",
         "131072": "A13AE14903CB438D",
@@ -88580,6 +88640,11 @@
     "0100D9001C134000": {
         "327680": "AF842134F7AE5DEF",
         "latest": 327680
+    },
+    "0100D90020486000": {
+        "65536": "BD1260D44C6D0702",
+        "latest": 65536,
+        "title": "Dog Man: Mission Impawsible"
     },
     "0100D910196A2000": {
         "0": "A9BAB63089309E0C",
@@ -90971,8 +91036,9 @@
         "title": "Driving Quest"
     },
     "0100DEC01FD24000": {
+        "131072": "F10D5D21B53F7D43",
         "65536": "89AB3E24978F2543",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Aura of Worlds"
     },
     "0100DED012642000": {
@@ -91587,8 +91653,9 @@
         "latest": 0
     },
     "0100E0601DC2A000": {
+        "131072": "7E658BC905090C29",
         "65536": "6457C8AB82EECA77",
-        "latest": 65536,
+        "latest": 131072,
         "title": "B\u014d: Path of the Teal Lotus"
     },
     "0100E07006C84000": {
@@ -92394,6 +92461,10 @@
         "latest": 0,
         "title": "New Tanks"
     },
+    "0100E2701E5B8000": {
+        "65536": "E5816E16CC5D72A5",
+        "latest": 65536
+    },
     "0100E28002D74000": {
         "0": "DCC075B630090D4F",
         "latest": 0,
@@ -92717,7 +92788,8 @@
         "196608": "D6FD5A2C732171EC",
         "262144": "1DD91552DBAA4E30",
         "327680": "2C059DEAD98C8A7B",
-        "latest": 327680,
+        "393216": "0B8B2416F3DA406A",
+        "latest": 393216,
         "title": "Skelethrone: The Chronicles of Ericona"
     },
     "0100E3500B00E000": {
@@ -95819,7 +95891,8 @@
         "262144": "0D66E949277974FD",
         "327680": "F92444F55E544A01",
         "393216": "39993D9F4E237177",
-        "latest": 393216,
+        "458752": "DCCD89466703A97E",
+        "latest": 458752,
         "title": "FUZE4 Nintendo Switch"
     },
     "0100EAD01091A000": {
@@ -96298,8 +96371,9 @@
         "196608": "FD8C7213FA1B3D12",
         "262144": "3EE84690D8BBAA45",
         "327680": "E7CEBA257D1D2FB1",
+        "393216": "940BC59F89EF2447",
         "65536": "B49394ADD30F705C",
-        "latest": 327680,
+        "latest": 393216,
         "title": "CyberHive"
     },
     "0100EB901706C000": {
@@ -101368,8 +101442,9 @@
         "latest": 0
     },
     "0100F7901971C000": {
+        "131072": "0DECF317BF0B9C83",
         "65536": "6CF74DDB33F0CECD",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Dungeons 4 - Nintendo Switch\u2122 Edition"
     },
     "0100F7901B042000": {
