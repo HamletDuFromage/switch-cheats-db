@@ -1,15 +1,5 @@
 {
     "F3315F8027A9B24A": {
-        "[01# Inf Energy]": "[01# Inf Energy]\n04000000 002CE9C0 D503201F\n\n",
-        "[Inf Energy (off)]": "[Inf Energy (off)]\n04000000 002CE9C0 1E283800\n\n",
-        "[02# No Damage]": "[02# No Damage]\n04000000 00601D90 D65F03C0\n\n",
-        "[No Damage (off)]": "[No Damage (off)]\n04000000 00601D90 A9BD57F6\n\n",
-        "[03# Inf Shadow]": "[03# Inf Shadow]\n04000000 002D0698 52800048\n\n",
-        "[Inf Shadow (off)]": "[Inf Shadow (off)]\n04000000 002D0698 B9446268\n\n",
-        "[04# Enemies Cant Chase]": "[04# Enemies Cant Chase]\n04000000 0068D6A0 D65F03C0\n\n",
-        "[Enemies Cant Chase (off)]": "[Enemies Cant Chase (off)]\n04000000 0068D6A0 FC1A0FEA\n\n",
-        "[05# Enemies Cant Chase Or Attack]": "[05# Enemies Cant Chase Or Attack]\n04000000 0068E0F0 D65F03C0\n\n",
-        "[Enemies Cant Chase Or Attack (off)]": "[Enemies Cant Chase Or Attack (off)]\n04000000 0068E0F0 F81D0FF5\n\n",
         "[Default 60 FPS]": "[Default 60 FPS]\n580F0000 05242BF0\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
         "[30 FPS]": "[30 FPS]\n580F0000 05242BF0\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
         "[360p Overall Resolution]": "[360p Overall Resolution]\n580F0000 05200ED0\n780F0000 00000068\n680F0000 00000168 00000280\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
@@ -23,7 +13,6 @@
         "[1080p Overall Resolution]": "[1080p Overall Resolution]\n580F0000 05200ED0\n780F0000 00000068\n680F0000 00000438 00000780\n780F0000 00000008\n610F0000 00000000 00000001\n\n"
     },
     "attribution": {
-        "Aragami shadow edtion ver 1.0.1 by Patjenova.txt": "",
         "Aragami Shadow Edition.txt": "By Hazerou\nIncluded in the text file;\n[Default 60 FPS]\n[30 FPS]\n[360p Overall Resolution]\n[480p Overall Resolution]\n[540p Overall Resolution]\n[612p Overall Resolution]\n[630p Overall Resolution (Handheld's Default)]\n[720p Overall Resolution]\n[810p Overall Resolution]\n[900p Overall Resolution]\n[1080p Overall Resolution]\n"
     }
 }
