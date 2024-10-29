@@ -5,6 +5,14 @@
         "[99999999 Experience]": "[99999999 Experience]\n580F0000 03CC6270\n580F1000 00000080\n580F1000 00000168\n580F1000 00000128\n780F0000 0000017C\n640F0000 00000000 05F5E0FF\n\n",
         "[Infinite Nitro]": "[Infinite Nitro]\n580F0000 03CC6270\n580F1000 00000080\n580F1000 00000168\n580F1000 00000128\n780F0000 000000BC\n640F0000 00000000 43000000\n\n"
     },
+    "90B2CBD13A1F4249": {
+        "[Road Redemption 1.0.3 TID=010053000B986000 BID=90B2CBD13A1F4249]": "[Road Redemption 1.0.3 TID=010053000B986000 BID=90B2CBD13A1F4249]\n\n",
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040A0000 002B8B44 BD001E68\n040A0000 00342480 BD00BE68\n040A0000 00115720 B9417A88\n040A0000 001154F8 0B1402A2\n\n",
+        "[01# Inf Health]": "[01# Inf Health]\n040A0000 025E6FF0 1C000068\n040A0000 025E6FF4 BD001E68\n040A0000 025E6FF8 177346D4\n040A0000 025E6FFC 4479C000\n040A0000 002B8B44 148CB92B\n\n",
+        "[02# Inf Nitro]": "[02# Inf Nitro]\n040A0000 025E6FE0 1C000068\n040A0000 025E6FE4 BD00BE68\n040A0000 025E6FE8 17756D27\n040A0000 025E6FEC 43480000\n040A0000 00342480 148A92D8\n\n",
+        "[03# Money Multiplier]": "[03# Money Multiplier]\n040A0000 00115720 0B1322A2\n\n",
+        "[04# Exp Multiplier]": "[04# Exp Multiplier]\n040A0000 001154F8 0B1422A2\n\n"
+    },
     "attribution": {
         "Road Redemption by wiitendo84.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }
