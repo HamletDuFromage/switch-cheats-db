@@ -9158,7 +9158,8 @@
         "524288": "BA6FCAB24A9D8A44",
         "589824": "9883B63933ACC2D4",
         "65536": "08DF78AF3B63CF3F",
-        "latest": 589824,
+        "655360": "9AF6B2527A74A4D8",
+        "latest": 655360,
         "title": "Ember Knights"
     },
     "010017B0102A8000": {
@@ -20213,8 +20214,9 @@
     },
     "010032401AF0E000": {
         "0": "73EC92E88E74D637",
+        "131072": "A7F4466085DB0D3E",
         "65536": "56FA348043D5F8AB",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Prison Life Simulator Jail - Gangster Escape Games Scary Architect Battle"
     },
     "010032401BA7C000": {
@@ -29458,7 +29460,8 @@
         "720896": "518891DFD2AC564D",
         "786432": "9A182385D3082347",
         "917504": "9ADFBABE07342C26",
-        "latest": 917504,
+        "983040": "A784FC36305B067C",
+        "latest": 983040,
         "title": "Concordia: Digital Edition"
     },
     "0100482015D95000": {
@@ -29670,7 +29673,8 @@
     "010048801D68C000": {
         "131072": "58E9F030F96E699B",
         "196608": "89096EF8E88BB146",
-        "latest": 196608,
+        "262144": "AF6C6EE281EAE010",
+        "latest": 262144,
         "title": "Truckzilla - Monster Truck Mega Ramp"
     },
     "010048900CF64000": {
@@ -32843,8 +32847,9 @@
     },
     "010050401D0C8000": {
         "131072": "3EAD9E2F536F45B8",
+        "196608": "590DBC8A0DD0BB18",
         "65536": "2211F7C08E4386A1",
-        "latest": 131072
+        "latest": 196608
     },
     "010050500C5F4000": {
         "0": "808E7942DF966EDB",
@@ -45354,7 +45359,8 @@
     "01006F401D934000": {
         "458752": "8AA7D10343CB3870",
         "524288": "D71970AAA5D34DD0",
-        "latest": 524288,
+        "589824": "66FCB9B306005BBA",
+        "latest": 589824,
         "title": "Twilight Survivors"
     },
     "01006F5013202000": {
@@ -50254,8 +50260,9 @@
         "latest": 65536
     },
     "01007AD01CB42000": {
+        "131072": "ADBA72FAFF7AF6F1",
         "65536": "68673DE33C2DF269",
-        "latest": 65536
+        "latest": 131072
     },
     "01007AE014E66000": {
         "0": "C5AB2142AAD2B848",
@@ -52257,8 +52264,9 @@
         "title": "JDM Drag Racing Car Driving Simulator 2022 Games"
     },
     "01007FD0208C2000": {
+        "131072": "AA701BA097DA991F",
         "65536": "84812E03AD3B142F",
-        "latest": 65536
+        "latest": 131072
     },
     "01007FE00C3F0000": {
         "0": "87A1390FBEDB424C",
@@ -53063,6 +53071,11 @@
         "0": "E939C9A77E59EF37",
         "latest": 0,
         "title": "Barn Finders"
+    },
+    "010081D01E246000": {
+        "65536": "4DE88C6C0DAAA551",
+        "latest": 65536,
+        "title": "Ticket to Ride"
     },
     "010081E001DD2000": {
         "0": "440BA52CE133424A",
@@ -59671,8 +59684,9 @@
     "0100918018510000": {
         "0": "742A5A9140A21F69",
         "196608": "AF483A3965FBCB99",
+        "393216": "D0E06A2D61EB1B58",
         "65536": "BADE33A442683C69",
-        "latest": 196608,
+        "latest": 393216,
         "title": "NEEDY STREAMER OVERLOAD"
     },
     "0100918019990000": {
@@ -61058,8 +61072,9 @@
         "title": "Prison Simulator"
     },
     "010094C01E04C000": {
+        "131072": "17F82C33048510A5",
         "65536": "F7F1A859F93B3EA3",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Alchemist: The Potion Monger"
     },
     "010094D00F17C000": {
@@ -61132,6 +61147,10 @@
     },
     "0100950012F66000": {
         "65536": "D1B29E1ABDCD955E",
+        "latest": 65536
+    },
+    "010095001D1E8000": {
+        "65536": "E0EE6FB6CACDE51B",
         "latest": 65536
     },
     "01009510001CA000": {
@@ -62373,6 +62392,11 @@
         "latest": 0,
         "title": "Hippo: Little Red Riding Hood"
     },
+    "010097F01C75A000": {
+        "65536": "23056BD1668EAC71",
+        "latest": 65536,
+        "title": "Monster High\u2122 Skulltimate Secrets\u2122"
+    },
     "010098000D646000": {
         "0": "F2B2FBB7C738264E",
         "1048576": "01761E3F082F3047",
@@ -63310,6 +63334,11 @@
         "65536": "001CE95620EF8449",
         "latest": 131072,
         "title": "Oh!Edo Towns"
+    },
+    "01009A70110F8000": {
+        "65536": "EC2E2F75DB29B4B3",
+        "latest": 65536,
+        "title": "Forgotten Memories"
     },
     "01009A701DAB0000": {
         "131072": "F62470B06BBFA651",
@@ -76145,7 +76174,8 @@
     },
     "0100BA201DB1E000": {
         "131072": "06C34882823BCF98",
-        "latest": 131072,
+        "196608": "06C34882823BCF98",
+        "latest": 196608,
         "title": "Pigeon Sim - Bird Simulator"
     },
     "0100BA3003B70000": {
@@ -77959,6 +77989,11 @@
         "latest": 0,
         "title": "PROJECT : KNIGHT"
     },
+    "0100BE6015772000": {
+        "65536": "ABD1C34D41FC94F9",
+        "latest": 65536,
+        "title": "Metal Slug Tactics"
+    },
     "0100BE6017C7A000": {
         "0": "1FB4411426F3FE44",
         "131072": "7A2BF29EA0C33E44",
@@ -78626,6 +78661,10 @@
         "0": "918F75D661950A3D",
         "latest": 0,
         "title": "Animals Transport Simulator - Car Driving & Parking Games Real Zoo Park"
+    },
+    "0100BFD020C60000": {
+        "65536": "63C5F7F70A4DEB02",
+        "latest": 65536
     },
     "0100BFE00865E000": {
         "0": "F477E1A80098A54E",
@@ -81475,7 +81514,8 @@
     },
     "0100C69018E4A000": {
         "327680": "87305D2F34B26E77",
-        "latest": 327680,
+        "393216": "273E5868A3D01DD2",
+        "latest": 393216,
         "title": "The Last Faith"
     },
     "0100C6A00E94A000": {
@@ -83986,6 +84026,10 @@
         "131072": "054F52147F66E415",
         "latest": 131072
     },
+    "0100CCE01FF74000": {
+        "65536": "8260E00C99181523",
+        "latest": 65536
+    },
     "0100CCF00F5BC000": {
         "0": "923A91015F81B947",
         "131072": "E339C1E93E63C242",
@@ -85761,8 +85805,9 @@
         "131072": "8AEF0FF3962C7BA2",
         "196608": "411334AAC1F7AF48",
         "262144": "D60121A2D3EA0745",
+        "327680": "312B3C59EF1D815B",
         "65536": "8B3ECB337A448D02",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Botworld Odyssey"
     },
     "0100D1800D902000": {
@@ -88068,7 +88113,8 @@
         "7208960": "90FE266A8A5C2329",
         "7274496": "2F44748E84C11932",
         "7340032": "C61F9D0B24B2DDF8",
-        "latest": 7340032,
+        "7405568": "F1846A72C5ACE8AF",
+        "latest": 7405568,
         "title": "Minecraft"
     },
     "0100D7100FDDE000": {
@@ -88516,8 +88562,9 @@
         "title": "Welcome to Primrose Lake"
     },
     "0100D7F01E49C000": {
+        "131072": "7094FCC39EA3441D",
         "65536": "85333A19D9A362C0",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Tomba! Special Edition"
     },
     "0100D800040AC000": {
@@ -92017,6 +92064,11 @@
         "0": "696B2FD1534F5F47",
         "latest": 0
     },
+    "0100E0601C632000": {
+        "65536": "C2E3F6E40FFE1D97",
+        "latest": 65536,
+        "title": "Nintendo 64\u2122 \u2013 Nintendo Switch Online: MATURE 17+"
+    },
     "0100E0601DC2A000": {
         "131072": "7E658BC905090C29",
         "65536": "6457C8AB82EECA77",
@@ -94519,8 +94571,9 @@
     },
     "0100E6601ACB6000": {
         "131072": "FB40463C0F28A18B",
+        "196608": "FB40463C0F28A18B",
         "65536": "FB40463C0F28A18B",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Arco"
     },
     "0100E6601B150000": {
