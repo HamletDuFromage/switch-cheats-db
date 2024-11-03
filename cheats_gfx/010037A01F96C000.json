@@ -1,0 +1,18 @@
+{
+    "5B863A6EFCE084B0": {
+        "[120 FPS (Recommended for Emu)]": "[120 FPS (Recommended for Emu)]\n580F0000 03A53A70 \n580F1000 00000048 \n780F0000 00000F14 \n640F0000 00000000 00000000 \n580F0000 03A89D40 \n780F0000 00000694 \n640F0000 00000000 42F00000\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 03A53A70 \n580F1000 00000048 \n780F0000 00000F14 \n640F0000 00000000 00000001\n580F0000 03A89D40 \n780F0000 00000694 \n640F0000 00000000 42700000\n\n",
+        "[45 FPS]": "[45 FPS]\n580F0000 03A53A70 \n580F1000 00000048 \n780F0000 00000F14 \n640F0000 00000000 00000001\n580F0000 03A89D40 \n780F0000 00000694 \n640F0000 00000000 42340000\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 03A53A70 \n580F1000 00000048 \n780F0000 00000F14 \n640F0000 00000000 00000002\n580F0000 03A89D40 \n780F0000 00000694 \n640F0000 00000000 42000000\n\n",
+        "[RRS 50% (360p)]": "[RRS 50% (360p)]\n08000000 03A8A2FC 00000001 42480000\n\n",
+        "[RRS 66.66% (480p)]": "[RRS 66.66% (480p)]\n08000000 03A8A2FC 00000001 42855555\n\n",
+        "[RRS 75% (540p)]": "[RRS 75% (540p)]\n08000000 03A8A2FC 00000001 42960000\n\n",
+        "[RRS 80% (576p)]": "[RRS 80% (576p)]\n08000000 03A8A2FC 00000001 42A00000\n\n",
+        "[RRS 85% (612p)]": "[RRS 85% (612p)]\n08000000 03A8A2FC 00000001 42AA0000\n\n",
+        "[RRS 90% (648p)]": "[RRS 90% (648p)]\n08000000 03A8A2FC 00000001 42B40000\n\n",
+        "[Default RRS 100% (720p)]": "[Default RRS 100% (720p)]\n08000000 03A8A2FC 00000000 42C80000\n\n"
+    },
+    "attribution": {
+        "Shadows of the Damned Hella Remastered.txt": "By Hazerou\nIncluded in the text file;\n[120 FPS (Recommended for Emu)]\n[60 FPS]\n[45 FPS]\n[Default 30 FPS]\n[RRS 50% (360p)]\n[RRS 66.66% (480p)]\n[RRS 75% (540p)]\n[RRS 80% (576p)]\n[RRS 85% (612p)]\n[RRS 90% (648p)]\n[Default RRS 100% (720p)]\n\n\nNote;\nUnfortunately we can't go above 720p using RRS alone.\nJust in case a cheat/mod that sets resolution to 1080p has been made, RRS may produce a different res this time. For example RRS 100% should become 1080p instead of 720p\n"
+    }
+}
