@@ -46,13 +46,13 @@
         "[MSAA 2x]": "[MSAA 2x]\n580F0000 07879420\n780F0000 00000064\n680F0000 00000002 00000002\n\n",
         "[Default MSAA 4x]": "[Default MSAA 4x]\n580F0000 07879420\n780F0000 00000064\n680F0000 00000004 00000004\n\n",
         "[MSAA 8x]": "[MSAA 8x]\n580F0000 07879420\n780F0000 00000064\n680F0000 00000008 00000008\n\n",
-        "[AA OFF]": "[AA OFF]\n580F0000 078792A0\n780F0000 00000064\n680F0000 00000000 00000000\n\n",
+        "[AA OFF]": "[AA OFF]\n580F0000 084ECC10\n680F0000 00000000 00000000\n580F0000 078792A8\n680F0000 00000000 00000000\n\n",
         "[AA Very Low (Faster FXAA)]": "[AA Very Low (Faster FXAA)]\n580F0000 078792A0\n780F0000 00000064\n680F0000 00000001 00000001\n\n",
         "[Default AA Low (FXAA)]": "[Default AA Low (FXAA)]\n580F0000 078792A0\n780F0000 00000064\n680F0000 00000002 00000002\n\n",
         "[AA Medium (Faster TAA)]": "[AA Medium (Faster TAA)]\n580F0000 078792A0\n780F0000 00000064\n680F0000 00000003 00000003\n\n",
         "[AA High (Default TAA)]": "[AA High (Default TAA)]\n580F0000 078792A0\n780F0000 00000064\n680F0000 00000004 00000004\n\n",
-        "[AA Very High]": "[AA Very High]\n580F0000 078792A0\n780F0000 00000064\n680F0000 00000005 00000005\n\n",
-        "[AA Max]": "[AA Max]\n580F0000 078792A0\n780F0000 00000064\n680F0000 00000006 00000006\n\n",
+        "[AA Very High]": "[AA Very High]\n580F0000 078792A8\n680F0000 00000005 00000005\n\n",
+        "[AA Max]": "[AA Max]\n580F0000 078792A8\n680F0000 00000006 00000006\n\n",
         "[Shadow OFF]": "[Shadow OFF]\n580F0000 07879270\n780F0000 00000064\n680F0000 00000000 00000000\n\n",
         "[Shadow Low (Unfiltered)]": "[Shadow Low (Unfiltered)]\n580F0000 07879270\n780F0000 00000064\n680F0000 00000001 00000001\n\n",
         "[Shadow Low]": "[Shadow Low]\n580F0000 07879270\n780F0000 00000064\n680F0000 00000002 00000002\n\n",
@@ -101,9 +101,17 @@
         "[Default Filtering Type-1 (Simple Bilinear)]": "[Default Filtering Type-1 (Simple Bilinear)]\n580F0000 08466B70\n680F0000 00000001 00000001\n\n",
         "[Filtering Type-2 (Directional Blur)]": "[Filtering Type-2 (Directional Blur)]\n580F0000 08466B70\n680F0000 00000002 00000002\n\n",
         "[VSync OFF]": "[VSync OFF]\n580F0000 07879500\n680F0000 00000000 00000000\n\n",
-        "[Default VSync ON]": "[Default VSync ON]\n580F0000 07879500\n680F0000 00000001 00000001\n\n"
+        "[Default VSync ON]": "[Default VSync ON]\n580F0000 07879500\n680F0000 00000001 00000001\n\n",
+        "[Default Perks From TAAU Stock (For Use With TAA & AA Medium)]": "[Default Perks From TAAU Stock (For Use With TAA & AA Medium)]\n580F0000 0849CB70\n680F0000 00000008 00000008\n580F0000 08470578\n680F0000 00000000 00000000\n580F0000 084705A8\n680F0000 3D23D70A 3D23D70A\n\n",
+        "[Perks From TAAU Plus (For Use With TAA & AA Medium)]": "[Perks From TAAU Plus (For Use With TAA & AA Medium)]\n580F0000 0849CB70\n680F0000 00000002 00000002\n580F0000 08470578\n680F0000 00000001 00000001\n580F0000 084705A8\n680F0000 3EB33333 3EB33333\n\n",
+        "[Default AA mode = FXAA (TAA OFF)]": "[Default AA mode = FXAA (TAA OFF)]\n580F0000 084ECC10\n680F0000 00000001 00000001\n\n",
+        "[AA mode = TAA (FXAA OFF)]": "[AA mode = TAA (FXAA OFF)]\n580F0000 084ECC10\n680F0000 00000002 00000002\n\n",
+        "[Default AA Very Low]": "[Default AA Very Low]\n580F0000 078792A8\n680F0000 00000001 00000001\n\n",
+        "[AA Low]": "[AA Low]\n580F0000 078792A8\n680F0000 00000002 00000002\n\n",
+        "[AA Medium]": "[AA Medium]\n580F0000 078792A8\n680F0000 00000003 00000003\n\n",
+        "[AA High]": "[AA High]\n580F0000 078792A8\n680F0000 00000004 00000004\n\n"
     },
     "attribution": {
-        "DRAGON QUEST XI S Echoes of an Elusive Age - Definitive Edition.txt": "By Hazerou\n\nIncluded in the text file;\n\n[Enable / Disable Dynamic Resolution]\n[RRS]\n[Image Sharpening]\n[Vignette]\n[Motion Blur]\n[Film Grain]\n[CHROM AB]\n[Lens Flare]\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n[MIN/MAX/Default GFX Quality]\n\nNote;\n\nThe [GFX Quality] Are For;\n\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n\n=====\n\n[RSS] is Render Resolution Scale and it disables Dynamic Resolution Function.\n\nAdded new Cheats;\n[Dynamic Resolution Target 60 FPS]\n[Default Dynamic Resolution Target 30 FPS]\n[Use / Don't Use New Film Tone Mapper]\n[Material Quality Low <=> Epic]\n[Detail Mode Low <=> High]\n[Foliage ON/OFF (Experimental)]\n[Disable / Enable Fully Load Textures ASAP (Experimental)]\n[Max Quality Override To Highest ON/OFF]\n[Distortion Effects OFF/ON]\n[Foggy Scene ON/OFF]\n[Filtering]\n[VSync ON/OFF]\n\nPlease use;\nHandheld RRS for Handheld Mode.\nDocked RRS for Docked Mode.\n\nSome GFX Codes has no Function/Effect to the Game.\n"
+        "DRAGON QUEST XI S Echoes of an Elusive Age - Definitive Edition.txt": "By Hazerou\n\nIncluded in the text file;\n\n[Enable / Disable Dynamic Resolution]\n[RRS]\n[Image Sharpening]\n[Vignette]\n[Motion Blur]\n[Film Grain]\n[CHROM AB]\n[Lens Flare]\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n[MIN/MAX/Default GFX Quality]\n\nNote;\n\nThe [GFX Quality] Are For;\n\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n\n=====\n\n[RSS] is Render Resolution Scale and it disables Dynamic Resolution Function.\n\nAdded new Cheats;\n[Dynamic Resolution Target 60 FPS]\n[Default Dynamic Resolution Target 30 FPS]\n[Use / Don't Use New Film Tone Mapper]\n[Material Quality Low <=> Epic]\n[Detail Mode Low <=> High]\n[Foliage ON/OFF (Experimental)]\n[Disable / Enable Fully Load Textures ASAP (Experimental)]\n[Max Quality Override To Highest ON/OFF]\n[Distortion Effects OFF/ON]\n[Foggy Scene ON/OFF]\n[Filtering]\n[VSync ON/OFF]\n\nPlease use;\nHandheld RRS for Handheld Mode.\nDocked RRS for Docked Mode.\n\nSome GFX Codes has no Function/Effect to the Game.\n\n[Perks From TAAU Stock / Plus] Not fully working because of TAAU missing\n[AA Mode & Quality]\n"
     }
 }
