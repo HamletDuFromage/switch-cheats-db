@@ -1,0 +1,18 @@
+{
+    "D91C67509C6AED8D": {
+        "[Docked 1080p (Default)]": "[Docked 1080p (Default)]\n04000000 007e5364 5280F009\n04000000 007e5368 5280870A\n\n",
+        "[Docked 990p]": "[Docked 990p]\n04000000 007e5364 5280DC09\n04000000 007e5368 52807BCA\n\n",
+        "[Docked 900p]": "[Docked 900p]\n04000000 007e5364 5280C809\n04000000 007e5368 5280708A\n\n",
+        "[Docked 810p]": "[Docked 810p]\n04000000 007e5364 5280b409\n04000000 007e5368 5280654A\n\n",
+        "[Docked 720p]": "[Docked 720p]\n04000000 007e5364 5280A009\n04000000 007e5368 52805A0A\n\n",
+        "[Handheld 720p (Default)]": "[Handheld 720p (Default)]\n04000000 007e5374 5280A008\n04000000 007e5380 52805A09\n\n",
+        "[Handheld 630p]": "[Handheld 630p]\n04000000 007e5374 52808c08\n04000000 007e5380 52804ec9\n\n",
+        "[Handheld 576p]": "[Handheld 576p]\n04000000 007e5374 52808008\n04000000 007e5380 52804809\n\n",
+        "[Handheld 540p]": "[Handheld 540p]\n04000000 007e5374 52807808\n04000000 007e5380 52804389\n\n",
+        "[Handheld 504p]": "[Handheld 504p]\n04000000 007e5374 52807008\n04000000 007e5380 52803F09\n\n",
+        "[Always Update Resolution (Turn On Always]": "[Always Update Resolution (Turn On Always]\n04000000 007e52e8 360003a0\n\n"
+    },
+    "attribution": {
+        "Sonic Generations.txt": "By Craftyawesome\nThe final code \"Always Update Resolution\" is needed for the resolution to actually change without (un)docking. \nThis includes booting the game (though if you convert to ips then likely not)\n"
+    }
+}
