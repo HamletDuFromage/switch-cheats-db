@@ -1,0 +1,18 @@
+{
+    "2D99FA4793E426C3": {
+        "[Breeze beta96  LEGO\u00ae Horizon Adventures\u2122 1.1.0 TID: 010073C01AF34000 BID: 2D99FA4793E426C3]": "[Breeze beta96  LEGO\u00ae Horizon Adventures\u2122 1.1.0 TID: 010073C01AF34000 BID: 2D99FA4793E426C3]\n\n",
+        "[Max Health]": "[Max Health]\n040A0000 057B8FF0 BD401C00 \n040A0000 057B8FF4 BD000C00 \n040A0000 057B8FF8 17A4BD1D \n040A0000 057B8FFC 4479C000 \n040A0000 040E8468 145B42E2\n\n",
+        "[Inf. HP (Pntr)]": "[Inf. HP (Pntr)]\n580F0000 0A103628\n580F1000 00000208\n580F1000 00000068\n580F1000 00000218\n580F1000 00000060\n580F1000 00000130\n780F0000 0000006C\n640F0000 00000000 445E0000\n\n",
+        "[Inf. Blast Boots]": "[Inf. Blast Boots]\n04000000 0410BB14 52800B00\n\n",
+        "[Inf. Upgrade Time]": "[Inf. Upgrade Time]\n040A0000 0410BD5C 6B1F02C8\n\n",
+        "[Max Studs]": "[Max Studs]\n040A0000 040D9D70 2A0903E9\n\n",
+        "[\ue0a5 8,888 Studs on pick-up (hold R)]": "[\ue0a5 8,888 Studs on pick-up (hold R)]\n04000000 040D9D50 B942A268 \n80000080 \n04000000 040D9D50 52845708 \n20000000\n\n",
+        "[Studs Multiplier x4]": "[Studs Multiplier x4]\n04000000 040D9D68 0B01090A\n\n",
+        "[Studs Multiplier x8]": "[Studs Multiplier x8]\n04000000 040D9D68 0B010D0A\n\n",
+        "[Exp. Multiplier x16]": "[Exp. Multiplier x16]\n04000000 040D9BF0 0B181108\n\n",
+        "[Exp. Multiplier x64]": "[Exp. Multiplier x64]\n04000000 040D9BF0 0B181908\n\n",
+        "[Exp. Multiplier x256]": "[Exp. Multiplier x256]\n04000000 040D9BF0 0B182108\n\n",
+        "[Cheat off (Use after disabling cheats)]": "[Cheat off (Use after disabling cheats)]\n04000000 0410BB14 B9401A80 \n04000000 040D9D68 0B01010A \n04000000 040D9BF0 0B180108\n\n",
+        "[Cheats by: Deadqool]": "[Cheats by: Deadqool]\n20000000\n\n"
+    }
+}
