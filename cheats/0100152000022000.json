@@ -58,7 +58,10 @@
     },
     "6A85262F21B90364": {
         "[3-4 player 60 FPS]": "[3-4 player 60 FPS]\n04000000 00BC0B1C EA000097\n\n",
-        "[3-4 player 30 FPS (Default)]": "[3-4 player 30 FPS (Default)]\n04000000 00BC0B1C 1A000097\n\n"
+        "[3-4 player 30 FPS (Default)]": "[3-4 player 30 FPS (Default)]\n04000000 00BC0B1C 1A000097\n\n",
+        "[25-100% DRS]": "[25-100% DRS]\n04000000 003f1ac8 e3a005fa\n\n",
+        "[50-100% DRS]": "[50-100% DRS]\n04000000 003f1ac8 e3a0043f\n\n",
+        "[75-100% DRS (Default)]": "[75-100% DRS (Default)]\n04000000 003f1ac8 e3a005fd\n\n"
     },
     "937E57FF64D21ECD": {
         "[Mario Kart 8 Deluxe (US) v2.0.0(v720896)  TID=0100152000022000  BID=937E57FF64D21ECD ]": "[Mario Kart 8 Deluxe (US) v2.0.0(v720896)  TID=0100152000022000  BID=937E57FF64D21ECD ]\n\n",
@@ -125,6 +128,6 @@
     },
     "attribution": {
         "Mario Kart 8 Deluxe 1.7.1 by Xtatu speed mod.txt": "VMOV.F32 S4, #3.0 EEB02A08 3x\nVMOV.F32 S4, #30.0 EEB32A0E 30x",
-        "Mario Kart 8 Deluxe.txt": "2.2.1 60FPS pchtxt by Wachee\n2.3.0 60FPS pchtxt by zix7\n2.2.1 & 2.3.0 60 & 30 FPS cheat by halop\n2.30 21.9 converted by b0rd2dEAth\n2.4 60fps updated by B3711\n3.0 updated by B3711 & b0rd2dEAth based on public pchtxt\n3.1 updated by BE711 based on public pchtxt\n3.0.3 updated by Craftyawesome based on public pchtxt\n\nOriginal author of all pchtxt theboy181\nhttps://linktr.ee/theboy181\n21.9 credits\n@theboy181 - https://linktr.ee/theboy181\n\nContributors (Thank You!) Cathy#6751, Biggsy#7677, brunolv#1631, dutyfree#6162, Niwu#4082, SP4RT4N3R#6735, Wemerson#6308, \ud80c\udce0Yaro\ud80c\udce0 \u672c\u97f3#9974\n\nrecommended overclock:\nDocked GPU 921 MHz\nHandheld GPU 537 MHz\n"
+        "Mario Kart 8 Deluxe.txt": "2.2.1 60FPS pchtxt by Wachee\n2.3.0 60FPS pchtxt by zix7\n2.2.1 & 2.3.0 60 & 30 FPS cheat by halop\n2.30 21.9 converted by b0rd2dEAth\n2.4 60fps updated by B3711\n3.0 updated by B3711 & b0rd2dEAth based on public pchtxt\n3.1 updated by BE711 based on public pchtxt\n3.0.3 updated by Craftyawesome based on public pchtxt + Craftawsome for RRS cheats\n\nOriginal author of all pchtxt theboy181\nhttps://linktr.ee/theboy181\n21.9 credits\n@theboy181 - https://linktr.ee/theboy181\n\nContributors (Thank You!) Cathy#6751, Biggsy#7677, brunolv#1631, dutyfree#6162, Niwu#4082, SP4RT4N3R#6735, Wemerson#6308, \ud80c\udce0Yaro\ud80c\udce0 \u672c\u97f3#9974\n\nrecommended overclock:\nDocked GPU 921 MHz\nHandheld GPU 537 MHz\n"
     }
 }
