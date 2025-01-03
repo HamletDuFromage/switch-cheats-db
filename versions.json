@@ -13450,8 +13450,9 @@
     "0100213020D84000": {
         "131072": "AEF83FFE0778BED0",
         "196608": "F2A5BA44DADF60AD",
+        "262144": "A482871660AC67BF",
         "65536": "F562982FF6F1DF82",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Tri Breaker: A Sacred Symbols Odyssey"
     },
     "010021400C6C4000": {
@@ -73134,8 +73135,9 @@
         "latest": 65536
     },
     "0100AEE01FBD4000": {
+        "131072": "98B582D8ECA2ED81",
         "65536": "DCACF33E9B107665",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Astral Flux"
     },
     "0100AEF00A270000": {
@@ -89080,8 +89082,9 @@
         "196608": "F7EF9F90E1C79C3B",
         "262144": "F7EF9F90E1C79C3B",
         "327680": "F7EF9F90E1C79C3B",
+        "393216": "F7EF9F90E1C79C3B",
         "65536": "F7EF9F90E1C79C3B",
-        "latest": 327680,
+        "latest": 393216,
         "title": "Sam & Max: The Devil's Playhouse"
     },
     "0100D560102C8000": {
