@@ -1,0 +1,8 @@
+{
+    "D9D13603133F3D89": {
+        "[Breeze beta97 Hokko Life 1.0.5 TID: 010022A016250000 BID: D9D13603133F3D89]": "[Breeze beta97 Hokko Life 1.0.5 TID: 010022A016250000 BID: D9D13603133F3D89]\n\n",
+        "[cheats off]": "[cheats off]\n04000000 018190CC 0B090149 \n04000000 01819204 4B0A0129\n\n",
+        "[\ue0a6 item/money+99]": "[\ue0a6 item/money+99]\n04000000 018190CC 0B090149 \n80000100 \n04000000 018190CC 0B090149 \n04000000 018190CC 11018D29 \n20000000\n\n",
+        "[\ue0a7 item/money not decrease]": "[\ue0a7 item/money not decrease]\n04000000 01819204 4B0A0129 \n80000200 \n04000000 01819204 4B0A0129 \n04000000 01819204 2A0903E9 \n20000000\n\n"
+    }
+}
