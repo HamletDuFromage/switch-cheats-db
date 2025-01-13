@@ -9386,7 +9386,8 @@
         "65536": "08DF78AF3B63CF3F",
         "655360": "9AF6B2527A74A4D8",
         "720896": "1239D8C2FB684BA2",
-        "latest": 720896,
+        "786432": "E2E36454C3E6AAA9",
+        "latest": 786432,
         "title": "Ember Knights"
     },
     "010017B0102A8000": {
@@ -46246,8 +46247,9 @@
     },
     "01006ED01C7E6000": {
         "262144": "946D98E98906CB51",
+        "327680": "0A20D1F6ADB85AA5",
         "65536": "86C2EF20268EC1A3",
-        "latest": 262144
+        "latest": 327680
     },
     "01006EE00380C000": {
         "0": "FB689F69CB491045",
@@ -48270,6 +48272,10 @@
         "65536": "F43C10C9405E9681",
         "latest": 196608,
         "title": "Project Nightmares Case 36: Henrietta Kedward"
+    },
+    "010073601DF1A000": {
+        "65536": "2F7063728B5E26E5",
+        "latest": 65536
     },
     "0100737003190000": {
         "0": "4799074432796AA2",
@@ -59829,8 +59835,9 @@
         "latest": 131072
     },
     "01008EC020CBA000": {
+        "131072": "FD66887E0BE233CA",
         "65536": "109A10E9BF3C6048",
-        "latest": 65536,
+        "latest": 131072,
         "title": "W.A.N.D. Project"
     },
     "01008ED008776000": {
@@ -68228,8 +68235,9 @@
         "title": "Battle Kid: Fortress of Peril"
     },
     "0100A2801FAB4000": {
+        "131072": "EC56240A2A923FD0",
         "65536": "32FD564DA3EAC1F5",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Jewel Match Solitaire Winterscapes 2 Collector's Edition"
     },
     "0100A290038F8000": {
@@ -70411,8 +70419,9 @@
         "title": "PigShip and the Giant Wolf"
     },
     "0100A7B0172EC000": {
+        "131072": "67F6650818670F5A",
         "65536": "D37FF9E7C06874AA",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Mythwrecked: Ambrosia Island"
     },
     "0100A7B018668000": {
@@ -71351,8 +71360,9 @@
     },
     "0100AA201F6C8000": {
         "131072": "E80BED9F2EA49F85",
+        "196608": "899FB39CF7C3684F",
         "65536": "2B213B41AB97AB40",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Vampire Hunters"
     },
     "0100AA3009738000": {
