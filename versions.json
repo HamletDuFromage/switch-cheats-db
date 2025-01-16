@@ -947,8 +947,9 @@
         "262144": "27BB1A460D98634C",
         "327680": "3076D5A950E8F54D",
         "393216": "242EB4B07C8F6A4E",
+        "458752": "42DFBB34B8236148",
         "65536": "84D0B541B520ED47",
-        "latest": 393216,
+        "latest": 458752,
         "title": "River City Girls 2"
     },
     "0100026019F80000": {
@@ -3364,8 +3365,9 @@
         "latest": 0
     },
     "010008B00D682000": {
+        "131072": "89777FD8569E563D",
         "65536": "89777FD8569E563D",
-        "latest": 65536,
+        "latest": 131072,
         "title": "8-Bit Adventures 2"
     },
     "010008B01CCD8000": {
@@ -11605,8 +11607,9 @@
     "01001CA01A066000": {
         "0": "F1A1760311D6CF2A",
         "131072": "F4EC94B3F7094F1F",
+        "196608": "5CD6501327D08FD7",
         "65536": "671A8CB601A01764",
-        "latest": 131072,
+        "latest": 196608,
         "title": "RoboDunk"
     },
     "01001CA02120C000": {
@@ -13460,8 +13463,9 @@
         "title": "20 Minutes Till Dawn"
     },
     "01002120213F6000": {
+        "131072": "B1596C4AFAD580B2",
         "65536": "14FD59BFEA87EEB3",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Make it! Oden"
     },
     "010021300ABDE000": {
@@ -18792,8 +18796,9 @@
     },
     "01002DB0200E0000": {
         "131072": "BBA7A9762AC4499C",
+        "196608": "ED8EE3E023DDB133",
         "65536": "0F024D7F7CDDDCD6",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Q2 HUMANITY"
     },
     "01002DC0156A8000": {
@@ -21809,8 +21814,9 @@
         "262144": "3E9E08A39AA748BF",
         "327680": "6E9A350714DE0DCF",
         "393216": "8126D97A6B2C44AF",
+        "458752": "CA8C2C35FD783412",
         "65536": "55F3C49DDD134749",
-        "latest": 393216,
+        "latest": 458752,
         "title": "Astrology and Horoscopes Premium"
     },
     "010034800FB60000": {
@@ -21878,6 +21884,11 @@
         "65536": "D1D37E282049302F",
         "latest": 131072,
         "title": "Yars: Recharged"
+    },
+    "010034B0213F4000": {
+        "65536": "7173EF6428F913A8",
+        "latest": 65536,
+        "title": "Cats Visiting Christmas Town"
     },
     "010034C007610000": {
         "131072": "5670181241F138F7",
@@ -35386,7 +35397,8 @@
         "65536": "4DC4F2CB1754B697",
         "655360": "27BDC0166D5D5A1B",
         "720896": "AF76EBEDE6A89F89",
-        "latest": 720896
+        "786432": "2213810D247A7293",
+        "latest": 786432
     },
     "010054F00D2E2000": {
         "0": "3F4016AD7171A547",
@@ -38589,6 +38601,11 @@
         "latest": 65536,
         "title": "GetsuFumaDen"
     },
+    "01005CF01BAC2000": {
+        "65536": "F1955DB10D1A89D9",
+        "latest": 65536,
+        "title": "Professor Doctor Jetpack"
+    },
     "01005CF01E784000": {
         "196608": "9C637E8B3EDBE0BD",
         "262144": "A89E8155D3D311B0",
@@ -39155,6 +39172,11 @@
         "0": "4CBCD9A7538D56D2",
         "latest": 0,
         "title": "TroubleDays"
+    },
+    "01005EA0163BE000": {
+        "65536": "17BB4205F98C88F1",
+        "latest": 65536,
+        "title": "Restaurant Tycoon: My Cooking Empire"
     },
     "01005EA017CCE000": {
         "0": "39667995427D69DC",
@@ -41804,6 +41826,11 @@
         "65536": "BAFEA00F0881C54E",
         "latest": 65536,
         "title": "Cute And Creepy"
+    },
+    "01006440213BA000": {
+        "65536": "CE5AC054D34F7B75",
+        "latest": 65536,
+        "title": "EGGCONSOLE CRIMSON PC-8801mkIISR"
     },
     "010064500AF72000": {
         "0": "F7B73659868C7441",
@@ -51918,7 +51945,8 @@
     },
     "01007C101C058000": {
         "131072": "C9E25874F6993624",
-        "latest": 131072
+        "196608": "886C7B7A30363884",
+        "latest": 196608
     },
     "01007C101E334000": {
         "131072": "AD4533C7DBA50477",
@@ -53416,7 +53444,8 @@
     },
     "01007FC01CF4E000": {
         "196608": "6C9CCA1C4594F528",
-        "latest": 196608,
+        "262144": "4F5FB4B8163628A4",
+        "latest": 262144,
         "title": "Blade Chimera"
     },
     "01007FD017C94000": {
@@ -54524,8 +54553,9 @@
         "title": "Long Gone Days"
     },
     "010082601F6FC000": {
+        "131072": "AB19D1C3927D87EE",
         "65536": "8AFF478660476225",
-        "latest": 65536
+        "latest": 131072
     },
     "010082700C618000": {
         "0": "45FDE6FCEF6E134C",
@@ -56847,6 +56877,11 @@
         "latest": 131072,
         "title": "THE HOUSE OF THE DEAD: Remake"
     },
+    "010088401F55A000": {
+        "65536": "67C2FDFEE10766CA",
+        "latest": 65536,
+        "title": "Super Rolling Heroes Deluxe"
+    },
     "010088500878C000": {
         "0": "05F3E162D09C4C5B",
         "latest": 0,
@@ -57605,8 +57640,9 @@
         "title": "Escape Lala 2 - Retro Point and Click Adventure"
     },
     "010089E01F5EA000": {
+        "131072": "6C80745D1D7899D7",
         "65536": "78C7F344973A92EC",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Petit Island"
     },
     "010089F00A3B4000": {
@@ -57728,7 +57764,8 @@
     "01008A6019CBE000": {
         "131072": "0353564B0B132DE1",
         "65536": "9FC72A7A69814CD1",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Witch It"
     },
     "01008A601C6BC000": {
         "0": "884430F9B515EB10",
@@ -60278,6 +60315,11 @@
         "65536": "AAE1310593EFC2AB",
         "latest": 65536
     },
+    "01008FB01FD20000": {
+        "65536": "CC49467290244E2F",
+        "latest": 65536,
+        "title": "Dragon Takers"
+    },
     "01008FC00C5BC000": {
         "0": "4C32BD9D47164941",
         "131072": "B6A3F1A505A96246",
@@ -61903,7 +61945,7 @@
     },
     "0100939011ED4000": {
         "0": "DFA52D86BC18724A",
-        "latest": 1310720,
+        "latest": 1376256,
         "title": "Pok\u00e9mon UNITE"
     },
     "0100939015968000": {
@@ -64913,6 +64955,11 @@
         "latest": 65536,
         "title": "Full Quiet"
     },
+    "01009AC01F8E4000": {
+        "65536": "85237833F64043B4",
+        "latest": 65536,
+        "title": "ROBOBEAT"
+    },
     "01009AD008C4C000": {
         "0": "DA05CEAA0AA8C632",
         "latest": 0
@@ -66996,8 +67043,9 @@
         "title": "Ground Divers!"
     },
     "01009FA01FF6C000": {
+        "131072": "6CFA2609A2D00FA5",
         "65536": "FCCC4FDA392C1C16",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Nikoderiko: The Magical World"
     },
     "01009FB002B2E000": {
@@ -69038,8 +69086,9 @@
     },
     "0100A4900B2DE000": {
         "0": "389F9F8676B48CE0",
+        "131072": "2DCB0535A7C26756",
         "65536": "87FE1B88FEC057B1",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Jewel Fever 2"
     },
     "0100A49012D10000": {
@@ -70710,6 +70759,11 @@
         "65536": "D3BDE9BAE6231DF5",
         "latest": 65536,
         "title": "Japan Train Models - JR Freight Edition"
+    },
+    "0100A8701F06C000": {
+        "65536": "F4C5BC0ED832AD01",
+        "latest": 65536,
+        "title": "Darts Fever"
     },
     "0100A88012504000": {
         "0": "35F1233949C7E447",
@@ -73382,6 +73436,11 @@
         "0": "C72603B42733C790",
         "latest": 0,
         "title": "- Mischief Dungeon Life - \u7570\u4e16\u754c\u8ee2\u751f\u3057\u305f\u4ffa\u306e\u30a4\u30bf\u30ba\u30e9\u30c0\u30f3\u30b8\u30e7\u30f3\u30e9\u30a4\u30d5\u3000\u30a2\u30fc\u30b7\u30e3Edition"
+    },
+    "0100AF101F816000": {
+        "65536": "843603F46059FF84",
+        "latest": 65536,
+        "title": "Arcade Archives FINALIZER SUPER TRANSFORMATION"
     },
     "0100AF2011EE0000": {
         "131072": "126077B8AC08D736",
@@ -83277,8 +83336,9 @@
         "6684672": "DAEA134B38F7E452",
         "6750208": "0450254BE0ABBB50",
         "6815744": "CF5B8F96761501A4",
+        "6881280": "972BDA3F788B6F7B",
         "786432": "403546D24898F9E9",
-        "latest": 6815744,
+        "latest": 6881280,
         "title": "Brawlhalla"
     },
     "0100C6800D770000": {
@@ -85061,7 +85121,8 @@
         "131072": "26441C1A9F62CFDC",
         "196608": "15A2A70FBB56C2B1",
         "262144": "038A6F685078364B",
-        "latest": 262144,
+        "327680": "F7C9D21BB4615843",
+        "latest": 327680,
         "title": "Mighty Morphin Power Rangers: Rita's Rewind"
     },
     "0100CAC01C3EC000": {
@@ -85868,6 +85929,7 @@
         "196608": "A76AA87103ABB94C",
         "1966080": "BF8F1D82CC2D1311",
         "2031616": "6CA572F44A052F28",
+        "2097152": "C9ED970ED11688F1",
         "262144": "A6E73731D5C6E39F",
         "327680": "067A7ADF31D46E68",
         "393216": "3212BC9993F804BC",
@@ -85879,7 +85941,7 @@
         "786432": "C8E39D73F9B3EB7B",
         "851968": "76CE1BCAE4443148",
         "983040": "74FCE292FBFC182A",
-        "latest": 2031616,
+        "latest": 2097152,
         "title": "Ninjala"
     },
     "0100CCD0073EB000": {
@@ -86285,7 +86347,8 @@
     },
     "0100CDC01E300000": {
         "131072": "CBCA93D536E0C141",
-        "latest": 131072,
+        "196608": "CBCA93D536E0C141",
+        "latest": 196608,
         "title": "Potion Permit - Complete Edition"
     },
     "0100CDC01E42C000": {
@@ -86712,6 +86775,10 @@
     },
     "0100CF2017D97000": {
         "latest": 0
+    },
+    "0100CF201E0B0000": {
+        "65536": "62D64D2BFBF2FDFD",
+        "latest": 65536
     },
     "0100CF3007578000": {
         "0": "C0E25A8BE9559AD1",
@@ -95308,8 +95375,9 @@
         "title": "Lost Ember"
     },
     "0100E3401D4EE000": {
+        "131072": "3F8C801FE9FC09D7",
         "65536": "3F8C801FE9FC09D7",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Mad Experiments 2: Escape Room"
     },
     "0100E3401EC1E000": {
@@ -97757,8 +97825,9 @@
         "0": "45620AA8DF5887EF",
         "131072": "4008B40CB4331CE9",
         "196608": "F12115E0BEC52CD8",
+        "262144": "0B52D20238568FAE",
         "65536": "6FFF1AA27E5CDE3B",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Wind Peaks"
     },
     "0100E910140D4000": {
