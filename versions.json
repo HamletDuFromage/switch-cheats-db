@@ -2226,8 +2226,9 @@
     },
     "010005A01E1D2000": {
         "131072": "5D4C2E6843EA04A7",
+        "196608": "AAECF98F8993A626",
         "65536": "4643931FA659D026",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Get in the Car, Loser!"
     },
     "010005B01CE3E000": {
@@ -4062,7 +4063,8 @@
         "393216": "D04B1E2243E3E51C",
         "458752": "5391D7D51021C26B",
         "524288": "C7152DA887A736DE",
-        "latest": 524288,
+        "589824": "C7152DA887A736DE",
+        "latest": 589824,
         "title": "Little Kitty, Big City"
     },
     "01000A5015EA4000": {
@@ -44553,6 +44555,11 @@
         "0": "1A70B3283C40DB5B",
         "latest": 0,
         "title": "Ninja JaJaMaru: The Great Yokai Battle +Hell"
+    },
+    "01006AC01F630000": {
+        "65536": "EA7A039E6F647638",
+        "latest": 65536,
+        "title": "Sword of the Necromancer: Resurrection"
     },
     "01006AD00B82C000": {
         "0": "763E7589032EB940",
