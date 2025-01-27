@@ -560,6 +560,10 @@
         "latest": 65536,
         "title": "Subdivision Infinity DX"
     },
+    "010001401F532000": {
+        "65536": "158DAC59808B6CDE",
+        "latest": 65536
+    },
     "010001501B98A000": {
         "0": "50FA643EC8E5CA94",
         "196608": "41B039A23DA36E81",
@@ -2116,8 +2120,9 @@
         "title": "Lucid Cycle"
     },
     "010005501E68C000": {
+        "131072": "F2755F077E2B2DFD",
         "65536": "EE4EDEE8DDAD84D4",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Ace Attorney Investigations Collection"
     },
     "0100056014B7A000": {
@@ -3162,7 +3167,8 @@
         "458752": "2B39BAE137895AE4",
         "65536": "AE2ABDB6A33970BD",
         "655360": "6AB3379643328E0E",
-        "latest": 655360,
+        "720896": "EBA2175A33ACDDB1",
+        "latest": 720896,
         "title": "VasterClaws 3:Dragon slayer of the God world"
     },
     "0100082014D87000": {
@@ -25565,8 +25571,9 @@
     },
     "01003D101FF0C000": {
         "131072": "B9AD15D589091D0B",
+        "262144": "AE35BD5570475EB0",
         "65536": "A013FF956F1B8836",
-        "latest": 131072,
+        "latest": 262144,
         "title": "RollerCoaster Tycoon\u00ae Classic"
     },
     "01003D200BAA2000": {
@@ -29299,8 +29306,9 @@
     "010045B01FAF8000": {
         "131072": "8FC6963EEB46AB31",
         "196608": "8FC6963EEB46AB31",
+        "262144": "FF986F2D6605DB56",
         "65536": "8259ACCFDDC76E64",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Ketsu Battler"
     },
     "010045C00E27C000": {
@@ -30132,9 +30140,14 @@
         "title": "Lost Dream: Memories"
     },
     "010047E01E22A000": {
+        "131072": "E59A6CBE767E9C0D",
         "65536": "E59A6CBE767E9C0D",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Voice Love On Air"
+    },
+    "010047E01EA24000": {
+        "65536": "DFBDABAEEBC8C93C",
+        "latest": 65536
     },
     "010047F001DBC000": {
         "0": "21610CABD4340C7F",
@@ -47635,7 +47648,8 @@
         "393216": "8C1C56AE08A9FED4",
         "458752": "89A5912CF49F6F74",
         "524288": "4AD9A6767EBDE4E1",
-        "latest": 524288,
+        "589824": "3D7C37EF75CB1F7E",
+        "latest": 589824,
         "title": "STAR WARS: Hunters\u2122"
     },
     "010071D014BDE000": {
@@ -63854,8 +63868,9 @@
         "title": "Haunted Zombie Slaughter"
     },
     "010097C00435C000": {
+        "131072": "8B2AE9098118BD17",
         "65536": "7549C94801D0D772",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Leif's Adventure: Netherworld Hero"
     },
     "010097C00AB66000": {
@@ -69386,8 +69401,9 @@
         "196608": "569F613E1AA47E6D",
         "327680": "C66098A8D64F542E",
         "393216": "4304CD47585ABD55",
+        "458752": "41709BB0D7D3C0CC",
         "65536": "017CC25BD8DD557B",
-        "latest": 393216,
+        "latest": 458752,
         "title": "Barony"
     },
     "0100A4E00F671000": {
@@ -75595,8 +75611,9 @@
     },
     "0100B4001F81C000": {
         "131072": "8DA7B0345B3F8BE5",
+        "196608": "8410B28FDEBFAA07",
         "65536": "638242E861D8683D",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Citizen Sleeper 2: Starward Vector"
     },
     "0100B410040F2000": {
@@ -77142,6 +77159,11 @@
     },
     "0100B7C01169D000": {
         "latest": 0
+    },
+    "0100B7C01D480000": {
+        "65536": "E8EA74BE6221F2E4",
+        "latest": 65536,
+        "title": "Boti: Byteland Overclocked"
     },
     "0100B7D0022EE000": {
         "0": "C013B93E5320CF27",
@@ -84548,8 +84570,9 @@
     },
     "0100C9201E2AC000": {
         "131072": "F46EB727CD6E3C3B",
+        "196608": "F536BA94F3A5BEE8",
         "65536": "BF9D98E19BB948B1",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Paw Paw Destiny"
     },
     "0100C930118E2000": {
@@ -103425,7 +103448,8 @@
     "0100F5101C890000": {
         "458752": "1829206E90D1C317",
         "524288": "26A4D736FA1B7476",
-        "latest": 524288
+        "720896": "B74DFD27FC9DA1B4",
+        "latest": 720896
     },
     "0100F52013A66000": {
         "0": "52C9AFEFEF88B928",
