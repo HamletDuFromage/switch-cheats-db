@@ -1,0 +1,15 @@
+{
+    "6C46135714ABB870": {
+        "[Handheld RRS 40% (360p)]": "[Handheld RRS 40% (360p)]\n04000000 02C80DB8 3ECCCCCD\n\n",
+        "[Handheld RRS 53.33% (480p)]": "[Handheld RRS 53.33% (480p)]\n04000000 02C80DB8 3F088888\n\n",
+        "[Handheld RRS 60% (540p)]": "[Handheld RRS 60% (540p)]\n04000000 02C80DB8 3F19999A\n\n",
+        "[Default Handheld RRS 70% (630p)]": "[Default Handheld RRS 70% (630p)]\n04000000 02C80DB8 3F333333\n\n",
+        "[Handheld RRS 80% (720p)]": "[Handheld RRS 80% (720p)]\n04000000 02C80DB8 3F4CCCCD\n\n",
+        "[Docked RRS 80% (720p)]": "[Docked RRS 80% (720p)]\n04000000 02C80DC8 3F4CCCCD\n\n",
+        "[Docked RRS 90% (810p)]": "[Docked RRS 90% (810p)]\n04000000 02C80DC8 3F666666\n\n",
+        "[Default Docked RRS 100% (900p)]": "[Default Docked RRS 100% (900p)]\n04000000 02C80DC8 3F800000\n\n"
+    },
+    "attribution": {
+        "Fate Samurai Remnant.txt": "By Hazerou\nFor the framerate, use \u2060fpslocker => Advanced settings => Download & Convert config to patch file then reboot the game.\n\nIncluded in the text file;\n[Handheld RRS 40% (360p)]\n[Handheld RRS 53.33% (480p)]\n[Handheld RRS 60% (540p)]\n[Default Handheld RRS 70% (630p)]\n[Handheld RRS 80% (720p)]\n[Docked RRS 80% (720p)]\n[Docked RRS 90% (810p)]\n[Default Docked RRS 100% (900p)]\n"
+    }
+}

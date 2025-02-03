@@ -1,4 +1,14 @@
 {
+    "6C46135714ABB870": {
+        "[Handheld RRS 40% (360p)]": "[Handheld RRS 40% (360p)]\n04000000 02C80DB8 3ECCCCCD\n\n",
+        "[Handheld RRS 53.33% (480p)]": "[Handheld RRS 53.33% (480p)]\n04000000 02C80DB8 3F088888\n\n",
+        "[Handheld RRS 60% (540p)]": "[Handheld RRS 60% (540p)]\n04000000 02C80DB8 3F19999A\n\n",
+        "[Default Handheld RRS 70% (630p)]": "[Default Handheld RRS 70% (630p)]\n04000000 02C80DB8 3F333333\n\n",
+        "[Handheld RRS 80% (720p)]": "[Handheld RRS 80% (720p)]\n04000000 02C80DB8 3F4CCCCD\n\n",
+        "[Docked RRS 80% (720p)]": "[Docked RRS 80% (720p)]\n04000000 02C80DC8 3F4CCCCD\n\n",
+        "[Docked RRS 90% (810p)]": "[Docked RRS 90% (810p)]\n04000000 02C80DC8 3F666666\n\n",
+        "[Default Docked RRS 100% (900p)]": "[Default Docked RRS 100% (900p)]\n04000000 02C80DC8 3F800000\n\n"
+    },
     "B3F271EF130A5338": {
         "[Fate Samurai Remnant v1.0.1 TID=01003AE01AA76000 BID=B3F271EF130A5338]": "[Fate Samurai Remnant v1.0.1 TID=01003AE01AA76000 BID=B3F271EF130A5338]\n\n",
         "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 00CF6800 1E2E1003\n040E0000 00CF67FC 1E202008\n040E0000 00DE29D8 4B150149\n040E0000 00DE2A14 1B157C1A\n080E0000 010AC610 A9016FFC A9BA7BFD\n040E0000 00EC7518 0B010210\n040E0000 00CFB6E4 1E20AC20\n080E0000 00B34160 F9000BF5 A9BD7BFD\n040E0000 012F7D3C BD4012A8\n080E0000 010A2DB8 A9014FF4 A9BE7BFD\n080E0000 010A2BE4 72A001E9 528847E9\n040E0000 00DDB6C0 A9BE7BFD\n040E0000 0122B244 79400129\n040E0000 0122AF0C 79400119\n040E0000 00E097D8 79400117\n\n",
@@ -15,5 +25,8 @@
         "[\u211611. When exchange skills, money is not reduced]": "[\u211611. When exchange skills, money is not reduced]\n080E0000 010A2BE4 D503201F 2A1F03E9\n\n",
         "[\u211612. Item does not decrease]": "[\u211612. Item does not decrease]\n040E0000 00DDB6C0 D65F03C0\n\n",
         "[\u211613. Ignore material requirements when strengthening sword equipment]": "[\u211613. Ignore material requirements when strengthening sword equipment]\n040E0000 0122B244 2A1F03E9\n040E0000 0122AF0C 2A1F03F9\n040E0000 00E097D8 2A1F03F7\n\n"
+    },
+    "attribution": {
+        "Fate Samurai Remnant.txt": "By Hazerou\nFor the framerate, use \u2060fpslocker => Advanced settings => Download & Convert config to patch file then reboot the game.\n\nIncluded in the text file;\n[Handheld RRS 40% (360p)]\n[Handheld RRS 53.33% (480p)]\n[Handheld RRS 60% (540p)]\n[Default Handheld RRS 70% (630p)]\n[Handheld RRS 80% (720p)]\n[Docked RRS 80% (720p)]\n[Docked RRS 90% (810p)]\n[Default Docked RRS 100% (900p)]\n"
     }
 }

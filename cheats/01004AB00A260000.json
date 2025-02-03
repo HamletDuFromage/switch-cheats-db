@@ -25,6 +25,6 @@
     },
     "attribution": {
         "Dark Souls Remastered 1.0.3.txt": "",
-        "DARK SOULS REMASTERED.txt": "By masagrator\n\nhttps://gbatemp.net/threads/dark-souls-60-fps-mod.557760/"
+        "DARK SOULS REMASTERED.txt": "By masagrator\nhttps://gbatemp.net/threads/dark-souls-60-fps-mod.557760/\n\nLadder glitch is fixed in fpslocker patch\n\nPotential crashing issues include:\nDuring Ornstein and Smough's mid-fight cutscene (Ornstein defeated first, idk about the other version)\nWhen Super Smough's AOE lightning attack lands\nAfter entering Ceaseless Discharge's fog gate, turning around to look at the gate again\nDuring Centipede Demon's intro cutscene\n"
     }
 }
