@@ -1,0 +1,12 @@
+{
+    "8AC516E8A5D2564B": {
+        "[Breeze beta98a Donkey Kong Country Returns HD 1.0.0 TID: 01009D901BC56000 BID: 8AC516E8A5D2564B]": "[Breeze beta98a Donkey Kong Country Returns HD 1.0.0 TID: 01009D901BC56000 BID: 8AC516E8A5D2564B]\n\n",
+        "[HP don't decrease]": "[HP don't decrease]\n04000000 023C76A0 D503201F\n\n",
+        "[Balloon don't decrease]": "[Balloon don't decrease]\n04000000 026F08A4 51000129\n\n",
+        "[Coin Multilier x256]": "[Coin Multilier x256]\n04000000 027C9D14 0B152118\n\n",
+        "[\ue0a4 Instant 888 coins on pick up (hold L)]": "[\ue0a4 Instant 888 coins on pick up (hold L)]\n04000000 027C9D10 B9402108 \n80000040 \n04000000 027C9D10 52806F08 \n20000000\n\n",
+        "[\ue0a4 Instant 1 balloon up on banana pick up (holdL)]": "[\ue0a4 Instant 1 balloon up on banana pick up (holdL)]\n04000000 027C9B6C B9402108 \n80000040 \n04000000 027C9B6C 52800C68 \n20000000\n\n",
+        "[Cheat off (Use after disabling cheats)]": "[Cheat off (Use after disabling cheats)]\n04000000 023C76A0 4B17014A \n04000000 027C9D14 0B150118 \n04000000 026F08A4 51000529 \n04000000 025100E4 BD010660\n\n",
+        "[Cheats by: Deadqool]": "[Cheats by: Deadqool]\n20000000\n\n"
+    }
+}
