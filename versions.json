@@ -3206,7 +3206,8 @@
         "262144": "CB2355D5201B154A",
         "327680": "07A8D1297FEE90D5",
         "393216": "A6BEC4B660E4E1EC",
-        "latest": 393216,
+        "458752": "89D8A72A9BFCDE6C",
+        "latest": 458752,
         "title": "Voxelgram"
     },
     "0100082014D86000": {
@@ -8206,8 +8207,9 @@
         "title": "Spy Guy Animals Junior"
     },
     "0100147020984000": {
+        "131072": "1AD16D8417120786",
         "65536": "1AD16D8417120786",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Piczle Cross: Rune Factory"
     },
     "0100148012550000": {
@@ -41477,8 +41479,9 @@
         "131072": "B885F71DCA69BEA3",
         "196608": "F72EEE997D3E72C6",
         "262144": "6BC056EB4F1D4840",
+        "327680": "9C2B897066B8A3F2",
         "65536": "B71884EF9E7AEBDF",
-        "latest": 262144,
+        "latest": 327680,
         "title": "METAL SUITS: Counter-attack"
     },
     "010061E00E05E000": {
