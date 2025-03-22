@@ -10169,7 +10169,8 @@
         "327680": "D1F90B799E5EDE7F",
         "458752": "4E69F90E282A6721",
         "524288": "ABC42DE125BCC330",
-        "latest": 524288,
+        "589824": "F527B5BE33B70CCD",
+        "latest": 589824,
         "title": "DEEEER Simulator: Your Average Everyday Deer Game"
     },
     "0100190014D73000": {
@@ -53991,6 +53992,11 @@
         "393216": "D286FB7BB329905C",
         "latest": 393216
     },
+    "01007ED0226B6000": {
+        "65536": "69FE20798000EB00",
+        "latest": 65536,
+        "title": "Sand Legends"
+    },
     "01007EE00FC58000": {
         "0": "8D883FA706ADCA4C",
         "latest": 0
@@ -55108,7 +55114,8 @@
         "524288": "9E52B2E673C824AD",
         "589824": "6A70CB3DBF2DE08A",
         "65536": "255557811A2EACC5",
-        "latest": 589824,
+        "655360": "37847F7D651C707B",
+        "latest": 655360,
         "title": "CounterAttack: Uprising"
     },
     "010081900C0F0000": {
