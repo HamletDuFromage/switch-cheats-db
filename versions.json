@@ -37993,8 +37993,9 @@
         "131072": "11D9DEFA2F655589",
         "196608": "5AB57F8C67C147AF",
         "262144": "AA5855E17263E761",
+        "327680": "39832F6DF6061CD5",
         "65536": "FA393D0DC71C47B9",
-        "latest": 262144,
+        "latest": 327680,
         "title": "IRONFALL Invasion"
     },
     "010059900BA3C000": {
@@ -40473,7 +40474,8 @@
     },
     "01005F6022142000": {
         "65536": "7C8AA523F5F4494A",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Gladiators Simulator : The Champions of Liberty"
     },
     "01005F700CEF0000": {
         "0": "2FED9352D1D5AA4E",
@@ -94851,6 +94853,11 @@
         "latest": 524288,
         "title": "LOLLIPOP CHAINSAW RePOP"
     },
+    "0100DD3021252000": {
+        "65536": "0915EB226638B3EE",
+        "latest": 65536,
+        "title": "BODY CAM SHOOTER"
+    },
     "0100DD400C468000": {
         "131072": "91179A3BACC3A6C3",
         "196608": "0F312CC0A58ABBBC",
@@ -105850,7 +105857,8 @@
     },
     "0100F680116A2000": {
         "0": "71B6BF0231D758EC",
-        "latest": 0,
+        "65536": "71B6BF0231D758EC",
+        "latest": 65536,
         "title": "Kholat"
     },
     "0100F680177F0000": {
