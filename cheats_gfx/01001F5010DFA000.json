@@ -6,6 +6,6 @@
         "[Remain Handheld 720p / Docked 1080p]": "[Remain Handheld 720p / Docked 1080p]\n580F0000 042ECFC8\n580F1000 000000C8\n780F0000 00000020\n640F0000 00000000 00000001\n780F0000 00000004\n640F0000 00000000 7FFFFFFF\n780F0000 00000010\n680F0000 00000000 00000001\n\n"
     },
     "attribution": {
-        "Pok\u00e9mon Legends Arceus.txt": "Known Issues;\n\n1.) Menu Speedups,and some effects are double speed.\n\n2.) Crash may occur if 60 FPS is Active after you Press A in the Main Title of the Game.\n\n3.) FPS will drop straight to 30 and the Game will slow down whenever Switch can't handle 60 FPS.\n\nNow I don't know if it works good on Emulators too.\nAnd unfortunately 45 & 50 FPS only changes the Game Speed. Not the FPS Cap.\nBy @Hazerou"
+        "Pok\u00e9mon Legends Arceus.txt": "By @Hazerou\n"
     }
 }

@@ -1,0 +1,9 @@
+{
+    "A588F7BB864AAD5F": {
+        "[Disable Dynamic Resolution]": "[Disable Dynamic Resolution]\n04000000 0138246C D503201F\n58000000 02C0B548\n78000000 00000C14\n64000000 00000000 3F800000\n\n",
+        "[Enable Dynamic Resolution]": "[Enable Dynamic Resolution]\n04000000 0138246C D63F0100\n\n"
+    },
+    "attribution": {
+        "FAIRY TAIL 2.txt": "By masagrator\n"
+    }
+}
