@@ -113,20 +113,24 @@ class ArchiveWorker():
                             attribution_file.write(content)
                 else:
                     cheats = ""
-                    for cheat, content in value.items():
+                    for _, content in value.items():
                         cheats += content
                     if cheats:
                         with open(tid_path.joinpath(f"{key}.txt"), "w") as bid_file:
                             bid_file.write(cheats)
 
-    def create_archives(self, out_path, quantifier=""):
+    def touch_all(self, path):
+        for path in path.rglob("*"):
+            if path.is_file():
+                path.touch()
+
+    def create_archives(self, out_path):
         out_path = Path(out_path)
         titles_path = out_path.joinpath("titles")
-        if quantifier:
-            quantifier = f"({quantifier})"
+        self.touch_all(titles_path)
         shutil.make_archive(str(titles_path.resolve()), "zip", root_dir=out_path, base_dir="titles")
-        titles_path
         contents_path = titles_path.rename(titles_path.parent.joinpath("contents"))
+        self.touch_all(contents_path)
         shutil.make_archive(str(contents_path.resolve()), "zip", root_dir=out_path, base_dir="contents")
 
     def create_version_file(self, out_path="."):
