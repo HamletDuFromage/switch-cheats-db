@@ -8679,6 +8679,11 @@
         "327680": "F8419D0E69028EAD",
         "latest": 327680
     },
+    "010015302237C000": {
+        "65536": "393B2E6DE5D8F0FF",
+        "latest": 65536,
+        "title": "Submarine Survivor"
+    },
     "010015401344A000": {
         "0": "90A74D0894DC3F48",
         "latest": 0
@@ -91739,6 +91744,11 @@
         "latest": 196608,
         "title": "THE Bass Fishing"
     },
+    "0100D51022288000": {
+        "65536": "B337D6B0C82C962C",
+        "latest": 65536,
+        "title": "Super Engine GT Turbo SPEC"
+    },
     "0100D520119D6000": {
         "0": "4269C721C4226F42",
         "latest": 0,
@@ -93155,8 +93165,9 @@
     "0100D810100D8000": {
         "0": "09338DDA194035F0",
         "131072": "996A1C0EAB426C02",
+        "196608": "D793995F1EEAF0EF",
         "65536": "C97243203F810E2A",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Frog Detective: The Entire Mystery"
     },
     "0100D81012E94000": {
