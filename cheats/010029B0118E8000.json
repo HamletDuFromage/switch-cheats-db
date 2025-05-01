@@ -19,10 +19,12 @@
     },
     "799D1061182C1302": {
         "[60 FPS offline switcher - exefs req]": "[60 FPS offline switcher - exefs req]\n580F0000 0195CDF0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-        "[30 FPS online switcher]": "[30 FPS online switcher]\n580F0000 0195CDF0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+        "[30 FPS online switcher]": "[30 FPS online switcher]\n580F0000 0195CDF0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+        "[True 60 FPS]": "[True 60 FPS]\n04000000 00F0043C 00000001\n580F0000 0195CDF0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[True 30 FPS (default)]": "[True 30 FPS (default)]\n04000000 00F0043C 00000000\n580F0000 0195CDF0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
         "need for speed hot pursuit remastered 1.0.0 by arismendy64 and patjenova.txt": "",
-        "Need for Speed Hot Pursuit Remastered.txt": "For use with 60 FPS Patch by @masagrator here;\nhttps://gbatemp.net/threads/need-for-speed-hot-pursuit-remastered-60-fps-mod.583815/\n\nCodes by @Hazerou\n\n- Goal of this Codes is to fix the Online Multiplayer Mode Issue.\n\nIf you want to play Offline : Activate the 60 FPS Cheat.\n\nIf you want to play Online : Activate the 30 FPS Cheat."
+        "Need for Speed Hot Pursuit Remastered.txt": "By masagrator\n"
     }
 }
