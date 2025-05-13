@@ -112,11 +112,13 @@ class ArchiveWorker():
                         with open(tid_path.joinpath(author), "w") as attribution_file:
                             attribution_file.write(content)
                 else:
+                    cheats_folder = tid_path.joinpath("cheats")
+                    cheats_folder.mkdir(exist_ok=True)
                     cheats = ""
                     for _, content in value.items():
                         cheats += content
                     if cheats:
-                        with open(tid_path.joinpath(f"{key}.txt"), "w") as bid_file:
+                        with open(cheats_folder.joinpath(f"{key}.txt"), "w") as bid_file:
                             bid_file.write(cheats)
 
     def touch_all(self, path):
@@ -165,8 +167,8 @@ if __name__ == '__main__':
     database_version = database.get_database_version()
     highfps = HighFPSCheatsInfo()
     gbatemp = GbatempCheatsInfo()
-    if gbatemp.has_new_cheats(database_version) or highfps.has_new_cheats(database_version):
-    #if True:
+    #if gbatemp.has_new_cheats(database_version) or highfps.has_new_cheats(database_version):
+    if True:
         archive_worker = ArchiveWorker()
         print(f"Downloading cheats")
         archive_worker.download_archive(gbatemp.get_download_url(), archive_path)
