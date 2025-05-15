@@ -4,6 +4,13 @@
         "[3-4 player 30 FPS (Default)]": "[3-4 player 30 FPS (Default)]\n04000000 00B5A47C 1A000097\n\n",
         "[Ultrawide 21.9]": "[Ultrawide 21.9]\n04000000 003AA228 EEB00A03\n\n"
     },
+    "2452C49BC26EC159": {
+        "[3-4 player 60 FPS]": "[3-4 player 60 FPS]\n04000000 00afa460 1400007f\n\n",
+        "[3-4 player 30 FPS (Default)]": "[3-4 player 30 FPS (Default)]\n04000000 00afa460 54000fe1\n\n",
+        "[25-100% DRS]": "[25-100% DRS]\n04000000 003c3640 52a7d009\n\n",
+        "[50-100% DRS]": "[50-100% DRS]\n04000000 003c3640 52a7e009\n\n",
+        "[75-100% DRS (Default)]": "[75-100% DRS (Default)]\n04000000 003c3640 52a7e809\n\n"
+    },
     "381F6BF6894F3C33": {
         "[3-4 player 60 FPS]": "[3-4 player 60 FPS]\n04000000 00B1A8DC EA000097\n\n",
         "[3-4 player 30 FPS (Default)]": "[3-4 player 30 FPS (Default)]\n04000000 00B1A8DC 1A000097\n\n"
