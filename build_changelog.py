@@ -9,7 +9,7 @@ with open("versions.json", "r") as versions_file:
 
 for line in sys.argv:
     try:
-        tid = re.search("cheats/(.+)\.json", line).group(1)
+        tid = re.search(r"cheats/(.+)\.json", line).group(1)
         if tid in versions and "title" in versions[tid]:
             print(f"{tid} | {versions[tid]['title']}")
         else:

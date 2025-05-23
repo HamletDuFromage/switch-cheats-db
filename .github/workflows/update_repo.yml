@@ -70,7 +70,7 @@ jobs:
         run: |
           git config --global user.name 'HomletBot'
           git config --global user.email '90281142+Homletbot@users.noreply.github.com'
-          git add cheats/ cheats_gfx/ cheats_gbatemp/
+          git add cheats/ cheats_gfx/ cheats_gbatemp/ README.md
           stat=$(git status --porcelain)
           if [ ! -z "$stat" ]; then
             git commit -m "automatic: updated cheat files"
