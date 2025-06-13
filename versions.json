@@ -17972,7 +17972,8 @@
     },
     "01002A201FD4A000": {
         "131072": "741C511AF1033B46",
-        "latest": 131072
+        "196608": "65D4866A408F623A",
+        "latest": 196608
     },
     "01002A300BDE2000": {
         "0": "23E670B9D0F50047",
@@ -20449,6 +20450,10 @@
         "latest": 65536,
         "title": "Shashingo: Learn Japanese with Photography"
     },
+    "01002F9020D2C000": {
+        "131072": "AA9BF85240409E60",
+        "latest": 131072
+    },
     "01002FA00AF9A000": {
         "0": "E639EECD53D7C843",
         "latest": 0
@@ -21655,6 +21660,10 @@
         "0": "26D3F3F87F6BEE42",
         "latest": 0,
         "title": "Arcade Archives GUTTANG GOTTONG"
+    },
+    "010032701D7B0000": {
+        "65536": "158F0E560259143D",
+        "latest": 65536
     },
     "01003270216B8000": {
         "65536": "345EE86289292D04",
@@ -33331,6 +33340,11 @@
         "latest": 0,
         "title": "Travel Mosaics 5: Waltzing Vienna"
     },
+    "01004C4022450000": {
+        "65536": "6FD2804852CBAF56",
+        "latest": 65536,
+        "title": "Hope's Farm 2"
+    },
     "01004C500AAF6000": {
         "0": "991FB2697BEFB543",
         "65536": "ED3A78AB5ED41B4D",
@@ -36677,8 +36691,9 @@
         "131072": "9E603C215C843C12",
         "196608": "4A9CCD4A7B60C9DC",
         "262144": "8EFEF445E7574D4A",
+        "327680": "00F23A752CA1F2BD",
         "65536": "AEBF5A618512DF91",
-        "latest": 262144
+        "latest": 327680
     },
     "010054A0085CA000": {
         "0": "64D4FBE375857EB5",
@@ -40227,6 +40242,10 @@
         "65536": "7DE8E53F0841FF93",
         "latest": 131072,
         "title": "Cats the Commander for Nintendo Switch\u2122"
+    },
+    "01005D1022B50000": {
+        "65536": "DAD04A19726B36C2",
+        "latest": 65536
     },
     "01005D200B530000": {
         "0": "DEAB38CED1AC0D22",
@@ -55284,7 +55303,8 @@
     "01007EF00011E000": {
         "786432": "8E9978D50BDD20B4",
         "917504": "34FB6DEF8F659B43",
-        "latest": 917504,
+        "983040": "A12F75F49B36F4B8",
+        "latest": 983040,
         "title": "The Legend of Zelda\u2122: Breath of the Wild \u2013 Nintendo Switch\u2122 2 Edition"
     },
     "01007EF00011F000": {
@@ -58751,6 +58771,10 @@
         "latest": 65536,
         "title": "Afterthought"
     },
+    "010087201EEA6000": {
+        "65536": "EC283BA9C5755FBE",
+        "latest": 65536
+    },
     "010087300445A000": {
         "0": "1848E2A2CCBDCE4A",
         "65536": "9D4A78875283D34A",
@@ -59652,6 +59676,10 @@
         "131072": "DC5747DD2A31ECF2",
         "latest": 131072,
         "title": "Max Reckoning - A Criminal Thief Story With Shooter & Quest"
+    },
+    "01008930225BC000": {
+        "196608": "CEAF9595058FDD7A",
+        "latest": 196608
     },
     "010089302307C000": {
         "131072": "9597F7BBD898767F",
@@ -61473,8 +61501,9 @@
     "01008D100DE46000": {
         "0": "5768C2B5944C120E",
         "131072": "50E6A2A7C09F76EF",
+        "196608": "5637F4E285F384B3",
         "65536": "E61A769D25430910",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Cyber Shadow"
     },
     "01008D10115C2000": {
@@ -72489,7 +72518,8 @@
     },
     "0100A5B021446000": {
         "131072": "74E506CC6AC477F6",
-        "latest": 131072,
+        "196608": "CCD4E53B8D9812A8",
+        "latest": 196608,
         "title": "Cattle Country"
     },
     "0100A5B022BCA000": {
@@ -88977,6 +89007,10 @@
         "latest": 0,
         "title": "Crypto Mining Simulator - Ultimate Trading Strategy Tycoon Craft & Idle Game 3D"
     },
+    "0100CBA021B9E000": {
+        "65536": "2D5F79ECE7CC9CE1",
+        "latest": 65536
+    },
     "0100CBB0070EE000": {
         "0": "C5BF7CCF592DAD4E",
         "latest": 0,
@@ -103243,8 +103277,9 @@
     },
     "0100EBB012400000": {
         "0": "2BBC539CC0C41629",
+        "131072": "2EC06E74859D41A1",
         "65536": "B95D604C24515AB1",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Arcade Archives Burger Time"
     },
     "0100EBB014826000": {
@@ -106480,7 +106515,8 @@
         "327680": "6F32C68DD3BC7D77",
         "393216": "9B4E43650501A4D4",
         "524288": "6265F94D606242CE",
-        "latest": 524288,
+        "589824": "965EAB9CEB8EB867",
+        "latest": 589824,
         "title": "The Legend of Zelda\u2122: Tears of the Kingdom \u2013 Nintendo Switch\u2122 2 Edition"
     },
     "0100F2C014C4A000": {
@@ -110467,6 +110503,11 @@
         "0": "093BFABF4DF3CD7C",
         "latest": 0
     },
+    "0100FC20214B2000": {
+        "65536": "2731A67A5F3859F3",
+        "latest": 65536,
+        "title": "Rooftops & Alleys: The Parkour Game"
+    },
     "0100FC300F4A4000": {
         "0": "DE9F681AED612147",
         "131072": "B61ADDF616CE4C46",
@@ -111245,6 +111286,11 @@
     "0100FE701B48E000": {
         "65536": "FB0EAFCF47D20715",
         "latest": 65536
+    },
+    "0100FE7022D64000": {
+        "65536": "F1321F2E805A2846",
+        "latest": 65536,
+        "title": "Bubble Wizard II Saga"
     },
     "0100FE801185E000": {
         "0": "48C8F02C27197F23",
