@@ -11100,6 +11100,10 @@
         "latest": 0,
         "title": "Farm Simulator USA Car Games - Driving games & Car 2022 Farming"
     },
+    "01001A7022D9E000": {
+        "65536": "EF4B0D635B3CD6C2",
+        "latest": 65536
+    },
     "01001A800D6BC000": {
         "0": "7A74DF6648EC4F46",
         "131072": "0C598CDECB5CE640",
@@ -18364,7 +18368,8 @@
     },
     "01002B102116A000": {
         "65536": "722C0BB6F3225907",
-        "latest": 65536
+        "latest": 65536,
+        "title": "TRON: Catalyst"
     },
     "01002B2004F76000": {
         "0": "B15957F2BDAA89DF",
@@ -36978,6 +36983,11 @@
         "latest": 196608,
         "title": "Bus Simulator 2023: City Driver"
     },
+    "0100554022EC8000": {
+        "65536": "A8503DAD05540B4C",
+        "latest": 65536,
+        "title": "Date with Devils"
+    },
     "010055500CCD2000": {
         "0": "0158085B127F5945",
         "latest": 0,
@@ -53087,7 +53097,8 @@
         "131072": "B11F8925696B3EA0",
         "524288": "29C825E9F593C7D6",
         "589824": "70E894BEF9BDEA4F",
-        "latest": 589824,
+        "655360": "994FE237FBBC3CBC",
+        "latest": 655360,
         "title": "Eigengrau"
     },
     "010079701DBEA000": {
@@ -60091,7 +60102,8 @@
     },
     "010089F02186E000": {
         "131072": "E1050DFCABDAA516",
-        "latest": 131072
+        "196608": "C12562395FEB02FF",
+        "latest": 196608
     },
     "01008A000A404000": {
         "0": "9D2088B918D82C43",
@@ -72577,8 +72589,9 @@
         "latest": 0
     },
     "0100A5E014196000": {
+        "131072": "8B07A540CEC6AE30",
         "65536": "5AD957F6BFFF143B",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Misc. A Tiny Tale"
     },
     "0100A5F011800000": {
