@@ -8,6 +8,7 @@ import shutil
 from pathlib import Path
 from datetime import date, datetime
 from bs4 import BeautifulSoup
+import os
 
 import process_cheats
 
@@ -64,7 +65,9 @@ class HighFPSCheatsInfo:
         self.highfps_version = self.fetch_high_FPS_cheats_version()
 
     def fetch_high_FPS_cheats_version(self):
-        repo_info = self.scraper.get(self.api_url).json()
+        token = os.getenv('GITHUB_TOKEN')
+        headers = {'Authorization': f'token {token}'}
+        repo_info = self.scraper.get(self.api_url, headers=headers).json()
         last_commit_date = repo_info.get("commit").get("commit").get("author").get("date")
         return date.fromisoformat(last_commit_date.split("T")[0])
 

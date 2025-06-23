@@ -61,6 +61,8 @@ jobs:
         run: sudo apt-get install unrar
 
       - name: run python script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python3 database_builder.py
 
