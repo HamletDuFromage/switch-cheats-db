@@ -42,7 +42,8 @@ class GbatempCheatsInfo:
     def fetch_gbatemp_version(self):
         page = self.scraper.get(f"{self.page_url}/updates")
         soup = BeautifulSoup(page.content, "html.parser")
-        version = datetime.fromisoformat(soup.find("div", {"class": "block-container"}).find("time").get("datetime"))
+        dates = soup.find_all("time", {"class": "u-dt"}).get("datetime")
+        version = max([datetime.fromisoformat(date) for date in dates])
         return version.date()
 
     def has_new_cheats(self, database_version):
