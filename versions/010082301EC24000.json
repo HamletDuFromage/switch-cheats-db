@@ -1,4 +1,5 @@
 {
+    "1048576": "8741A42A9A8FF4D0",
     "131072": "98EFEF783869263A",
     "262144": "841F1D8D353DE7FA",
     "327680": "F8754912F923058E",
@@ -9,6 +10,6 @@
     "720896": "B2F22EF22F6AE1D7",
     "786432": "01FA5E50C272EAB2",
     "851968": "F26E28F3EA927E47",
-    "latest": 851968,
+    "latest": 1048576,
     "title": "Touhou Danmaku Kagura Phantasia Lost"
 }
