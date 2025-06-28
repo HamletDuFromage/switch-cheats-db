@@ -12748,7 +12748,8 @@
         "786432": "CECEB498D9139794",
         "851968": "CD17D002E74A94D2",
         "917504": "66383BA5CB80383B",
-        "latest": 917504,
+        "983040": "4253FACA35BF8B1A",
+        "latest": 983040,
         "title": "Path of Titans"
     },
     "01001E40136FE000": {
@@ -74145,8 +74146,9 @@
         "title": "Max and the book of chaos"
     },
     "0100A8C01F862000": {
+        "131072": "A2D9E599932A80F7",
         "65536": "F02321C83989C63D",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Ecchi Secrets"
     },
     "0100A8C020344000": {
@@ -86252,6 +86254,10 @@
         "0": "E8357CD11DBB6570",
         "latest": 0,
         "title": "Dateless Love - Love Story Behind the Restoration -"
+    },
+    "0100C4C023978000": {
+        "65536": "42A0966965083808",
+        "latest": 65536
     },
     "0100C4D0093EA000": {
         "0": "9CEAC7C98774184B",
@@ -112244,7 +112250,8 @@
         "589824": "8506FD7BFAB9A429",
         "65536": "74B5DA460473860E",
         "655360": "32A8B5F3DFD8931F",
-        "latest": 655360,
+        "720896": "B232D198FA408805",
+        "latest": 720896,
         "title": "Keeper's Toll"
     },
     "0100FFC01BE60000": {
