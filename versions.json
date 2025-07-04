@@ -1647,8 +1647,9 @@
         "131072": "50C9028B61A0BB7F",
         "327680": "293D73083149473E",
         "458752": "71C5F3CB333F1542",
+        "589824": "36B692C0FA9F6F46",
         "65536": "CF46E1D304E869DF",
-        "latest": 458752
+        "latest": 589824
     },
     "010004100FBB0000": {
         "0": "2245E5EF891AB442",
@@ -2039,8 +2040,9 @@
         "0": "C312CEEC9FAFE038",
         "131072": "941DAAE2E5BC8D03",
         "196608": "EB51C40DC32B2410",
+        "262144": "EB51C40DC32B2410",
         "65536": "EEDDE9E02215F111",
-        "latest": 196608,
+        "latest": 262144,
         "title": "My Universe - My Baby Dragon"
     },
     "010004F021380000": {
@@ -2481,6 +2483,11 @@
         "65536": "99D57F9732BBF7FF",
         "latest": 393216,
         "title": "Super Puzzle Pack 2"
+    },
+    "010006101DE02000": {
+        "65536": "D8A3C1B2BE4DFE3A",
+        "latest": 65536,
+        "title": "Love Live! Nijigasaki High School Idol Club TOKIMEKI Roadmap to Future"
     },
     "010006200949E000": {
         "0": "755C23C0E660D242",
@@ -3981,8 +3988,9 @@
         "title": "Poly Link - Origins"
     },
     "010009D01BD14000": {
+        "131072": "403FAF44A70EE96C",
         "65536": "9A0CB5EBB4DB2E7B",
-        "latest": 65536
+        "latest": 131072
     },
     "010009E001D90000": {
         "0": "5D7EC8891A1F3FDF",
@@ -11121,7 +11129,8 @@
     },
     "01001A601BD0E000": {
         "131072": "42FBCC32CE8FB8A9",
-        "latest": 131072
+        "196608": "16452F7DFDD9C90D",
+        "latest": 196608
     },
     "01001A602202C000": {
         "65536": "350D079D5C949B46",
@@ -14259,8 +14268,9 @@
         "0": "EB95AA6D010D4238",
         "131072": "B93A9C7611305356",
         "196608": "4BD4D2ECC3BD0886",
+        "262144": "4BD4D2ECC3BD0886",
         "65536": "08E95000EDE69DEB",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Agatha Christie - Murder on the Orient Express"
     },
     "010021801DD26000": {
@@ -22434,6 +22444,11 @@
         "65536": "38D90381F5B5BDE8",
         "latest": 65536
     },
+    "01003390210D2000": {
+        "65536": "F446BDB89663F452",
+        "latest": 65536,
+        "title": "Shop Simulator: Supermarket"
+    },
     "010033A011614000": {
         "0": "E632DF660CF46C4A",
         "latest": 0,
@@ -26266,8 +26281,9 @@
     "01003C401895E000": {
         "0": "63A46DA18DF8988D",
         "131072": "32DF68A0EB93DF15",
+        "196608": "32DF68A0EB93DF15",
         "65536": "32DF68A0EB93DF15",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Garfield Lasagna Party"
     },
     "01003C401A50E000": {
@@ -28125,8 +28141,9 @@
         "latest": 65536
     },
     "010040A014D74000": {
+        "131072": "E2389D7EC62A93B8",
         "65536": "E1BF1A7B497918A3",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Ghost in the Pool"
     },
     "010040A014F54000": {
@@ -32125,6 +32142,11 @@
         "latest": 0,
         "title": "Arcade Archives IKARI WARRIORS"
     },
+    "010049401F700000": {
+        "65536": "B1154374B026ADA6",
+        "latest": 65536,
+        "title": "The Wandering Village"
+    },
     "010049401FC5E000": {
         "65536": "C58C004C4EE7F096",
         "latest": 65536
@@ -33858,6 +33880,11 @@
         "0": "88ADD2CC1A8DDB4E",
         "latest": 0,
         "title": "#KILLALLZOMBIES"
+    },
+    "01004D1019698000": {
+        "65536": "CD28D830CE0BD533",
+        "latest": 65536,
+        "title": "Agnostiko VS"
     },
     "01004D101A1FA000": {
         "0": "9B1BBE0924FAF6FE",
@@ -38660,7 +38687,8 @@
         "655360": "A44CA29FA1A8FCB9",
         "786432": "F12C6407529616AD",
         "917504": "61AE8A47B845678B",
-        "latest": 917504,
+        "983040": "7FA5D1AE4C7D0CF3",
+        "latest": 983040,
         "title": "KAMITSUBAKI CITY ENSEMBLE"
     },
     "010058E014034000": {
@@ -39603,7 +39631,8 @@
         "393216": "293D73083149473E",
         "524288": "71C5F3CB333F1542",
         "65536": "CF46E1D304E869DF",
-        "latest": 524288,
+        "655360": "36B692C0FA9F6F46",
+        "latest": 655360,
         "title": "WARRIORS: Abyss"
     },
     "01005AF004DBC000": {
@@ -55581,10 +55610,11 @@
         "title": "Vivitter for Nintendo Switch"
     },
     "01007EF00011E000": {
+        "1048576": "DE0B6AC4EFC1DDA7",
         "786432": "8E9978D50BDD20B4",
         "917504": "34FB6DEF8F659B43",
         "983040": "A12F75F49B36F4B8",
-        "latest": 983040,
+        "latest": 1048576,
         "title": "The Legend of Zelda\u2122: Breath of the Wild \u2013 Nintendo Switch\u2122 2 Edition"
     },
     "01007EF00011F000": {
@@ -105158,8 +105188,9 @@
         "title": "Go! Go! PogoGirl"
     },
     "0100EEA02004C000": {
+        "131072": "BA0E6619DD99C9EA",
         "65536": "FA7AABB6419C00A3",
-        "latest": 65536,
+        "latest": 131072,
         "title": "CULT VS GAL"
     },
     "0100EEB005ACC000": {
@@ -107095,7 +107126,8 @@
         "393216": "9B4E43650501A4D4",
         "524288": "6265F94D606242CE",
         "589824": "965EAB9CEB8EB867",
-        "latest": 589824,
+        "655360": "5CB42B1CF25469FB",
+        "latest": 655360,
         "title": "The Legend of Zelda\u2122: Tears of the Kingdom \u2013 Nintendo Switch\u2122 2 Edition"
     },
     "0100F2C014C4A000": {
@@ -111365,6 +111397,7 @@
         "1114112": "32A5EEBF2B23F047",
         "1179648": "214FE00EAE600452",
         "1310720": "0695347F2FC4B79F",
+        "1376256": "E62A8F2D7D3972B4",
         "262144": "2840E10FFF2E7C4F",
         "327680": "40DE486B442C684D",
         "393216": "201C66F942EE4746",
@@ -111375,7 +111408,7 @@
         "851968": "125E8A90D3D17E54",
         "917504": "1EE0C2A244087FFE",
         "983040": "7AB47D0C4F94ED53",
-        "latest": 1310720,
+        "latest": 1376256,
         "title": "Ultimate Chicken Horse"
     },
     "0100FCF00F6CC000": {
@@ -111940,7 +111973,8 @@
         "393216": "0CE3B14FB42F978A",
         "458752": "BC4EA0D0E49167BB",
         "524288": "68FD12E6F2096154",
-        "latest": 524288,
+        "589824": "0BFBC1295DE01D69",
+        "latest": 589824,
         "title": "Everafter Falls"
     },
     "0100FEC014F9E000": {
