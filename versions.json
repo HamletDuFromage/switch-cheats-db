@@ -33169,8 +33169,9 @@
         "latest": 0
     },
     "01004B702378C000": {
+        "131072": "33C1E7D1AACC7FDF",
         "65536": "6EA168AD95849AB4",
-        "latest": 65536,
+        "latest": 131072,
         "title": "hololive Treasure Mountain MegaPack"
     },
     "01004B800AF5A000": {
@@ -39932,8 +39933,9 @@
     },
     "01005BD018BA0000": {
         "0": "19348CCDF521427D",
+        "131072": "A0C59D633B304326",
         "65536": "C59DC17A4CD77AA9",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Run Sausage Run!"
     },
     "01005BD018BA1000": {
@@ -110236,6 +110238,10 @@
         "65536": "5EA3982C34D336D2",
         "latest": 65536,
         "title": "Emergency Call - The Attack Squad"
+    },
+    "0100FA301CFA2000": {
+        "65536": "7BEEF4AD217253CF",
+        "latest": 65536
     },
     "0100FA400FF78000": {
         "0": "F1F361A59376B541",
