@@ -40508,7 +40508,8 @@
     },
     "01005CC024886000": {
         "65536": "37883ABFF26E8B7D",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Lost in Loss"
     },
     "01005CD00A2A2000": {
         "0": "0BA9A9991C416440",
@@ -89841,8 +89842,9 @@
         "title": "Green Game: TimeSwapper"
     },
     "0100CBB02357E000": {
+        "196608": "8C2F44A2E0854607",
         "65536": "61E81320FF16AFA1",
-        "latest": 65536,
+        "latest": 196608,
         "title": "Zombies Overloaded"
     },
     "0100CBC015C2C000": {
