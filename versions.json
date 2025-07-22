@@ -2777,6 +2777,11 @@
         "latest": 65536,
         "title": "Ultimate Holidays"
     },
+    "010006C024060000": {
+        "65536": "F346F5B06509D7FB",
+        "latest": 65536,
+        "title": "Noah's Dilemma"
+    },
     "010006D00D0E6000": {
         "0": "875EB96CF4531A3C",
         "latest": 0
@@ -2804,8 +2809,9 @@
         "title": "Break the Glass Cup: Breaking Physics Puzzle"
     },
     "010006E020418000": {
+        "131072": "BF09736E47931812",
         "65536": "BF09736E47931812",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Make it! Crepe"
     },
     "010006F00EE72000": {
@@ -7605,7 +7611,8 @@
         "393216": "2564E91DC2A60C0B",
         "589824": "ACFE92BCA05B5890",
         "65536": "2052A2E147C51F8C",
-        "latest": 589824,
+        "655360": "5A06A1C6C1A52283",
+        "latest": 655360,
         "title": "Blazing Strike"
     },
     "010011D01AAE2000": {
@@ -11670,6 +11677,11 @@
         "latest": 131072,
         "title": "Akatsuki: Lord of the Dawn"
     },
+    "01001B601E9A6000": {
+        "65536": "08BAC26362576D5C",
+        "latest": 65536,
+        "title": "Aero The Acro-Bat: Rascal Rival Revenge"
+    },
     "01001B700220A000": {
         "131072": "F21A948DBB24C949",
         "latest": 131072
@@ -15674,7 +15686,8 @@
         "589824": "35C0B11154634EE3",
         "655360": "8BECF8B1CDBE7035",
         "720896": "1B0E406C64AA6565",
-        "latest": 720896,
+        "786432": "B7F31B9AB6B40E8D",
+        "latest": 786432,
         "title": "Bleach: Brave Souls"
     },
     "010024D0032F2000": {
@@ -32255,6 +32268,11 @@
         "65536": "4E16BF5DA1489BD2",
         "latest": 65536
     },
+    "0100492022DEC000": {
+        "65536": "674424804C7C616B",
+        "latest": 65536,
+        "title": "Puzzles & Colors Games for Kids Toddler Coloring Book Draw Paint"
+    },
     "010049301226E000": {
         "0": "4D8ABDC6F6C12841",
         "65536": "91AEF297CC2E1C4F",
@@ -38119,8 +38137,9 @@
         "title": "AXIS FOOTBALL 2024"
     },
     "010056E0200D4000": {
+        "131072": "5EFFE7E5CCDCA9D8",
         "65536": "5BF8A85EBDC9B4DC",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Jonah Lomu Rugby Challenge 4"
     },
     "010056F0134AC000": {
@@ -38667,8 +38686,9 @@
         "title": "Pathfinders: Memories"
     },
     "0100584020A2C000": {
+        "131072": "A615E22BD7EA8609",
         "65536": "A90E5DEC5CD14C24",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Novel Rogue"
     },
     "010058500B3E0000": {
@@ -46859,8 +46879,9 @@
         "131072": "77EF59A5ED8E897C",
         "196608": "77EF59A5ED8E897C",
         "327680": "16A85EAF6EAAA767",
+        "393216": "16A85EAF6EAAA767",
         "65536": "D7F2A1EFF92A11C8",
-        "latest": 327680,
+        "latest": 393216,
         "title": "KOKORO CLOVER Season 1"
     },
     "01006AF00EB6C000": {
@@ -54178,6 +54199,7 @@
         "3145728": "F2D2B32E802CFC7E",
         "3211264": "4F5A2481C7F2B520",
         "327680": "B1C2D8F36CD4725B",
+        "3276800": "ABF3D50B28C9D24C",
         "393216": "0C27128712C2E08E",
         "458752": "3FC1126B5B26C32A",
         "524288": "22AAD4AA00242FBB",
@@ -54189,7 +54211,7 @@
         "851968": "608A5360284D01C9",
         "917504": "9454E50E518F2E9D",
         "983040": "AE02B14F7240BAD4",
-        "latest": 3211264,
+        "latest": 3276800,
         "title": "Asphalt Legends Unite"
     },
     "01007B000C835000": {
@@ -65796,6 +65818,11 @@
         "latest": 0,
         "title": "Word Quest"
     },
+    "010094D01DC7E000": {
+        "131072": "08B62AA0FAE84B98",
+        "latest": 131072,
+        "title": "Tales of the Shire: A The Lord of The Rings\u2122 Game"
+    },
     "010094E00B52E000": {
         "0": "E84666307ED171A4",
         "65536": "FDE56D0D80CF091D",
@@ -71852,8 +71879,9 @@
         "latest": 196608
     },
     "0100A2902051A000": {
+        "131072": "3D6E4BDE905836BC",
         "65536": "05ADD0D5FD677639",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Poppy Playtime: Chapter 4"
     },
     "0100A2A00B08C000": {
@@ -72306,6 +72334,11 @@
         "0": "2EADC7A14888CDCA",
         "65536": "0BAA9DF430BAD951",
         "latest": 65536
+    },
+    "0100A3B020D82000": {
+        "65536": "6D1EFD194CD73BD9",
+        "latest": 65536,
+        "title": "Care Bears : Unlock The Magic"
     },
     "0100A3B022ABA000": {
         "65536": "2DA820FDBF06573F",
@@ -72865,7 +72898,8 @@
     "0100A4F01DCC0000": {
         "327680": "BE9212EACF26A61A",
         "458752": "EFD9AD74345F78ED",
-        "latest": 458752,
+        "524288": "EFD9AD74345F78ED",
+        "latest": 524288,
         "title": "SUSHI Shot"
     },
     "0100A5000D590000": {
@@ -75018,8 +75052,9 @@
         "0": "75A833C821E22079",
         "131072": "9BC4E8FE9DD3C850",
         "196608": "89047273AD666FC2",
+        "262144": "89047273AD666FC2",
         "65536": "75A833C821E22079",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Desktop Soccer 2"
     },
     "0100AA0019CA5000": {
@@ -89195,8 +89230,9 @@
         "title": "Guns and Spurs 2"
     },
     "0100CA30235E6000": {
+        "131072": "EE997E1C802A27C9",
         "65536": "58C8C24850CCCF09",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Battle Train"
     },
     "0100CA400B6D0000": {
@@ -89375,6 +89411,11 @@
     "0100CAA01A188000": {
         "65536": "9EFA94526E18934A",
         "latest": 65536
+    },
+    "0100CAA0216F2000": {
+        "65536": "C6A50002322D6E36",
+        "latest": 65536,
+        "title": "Spray Paint Simulator"
     },
     "0100CAB006F54000": {
         "0": "CC7F81F69760A46A",
@@ -91201,7 +91242,8 @@
         "196608": "4922DDA955241209",
         "262144": "4E8115C881CDACAC",
         "327680": "54F8AFE6F3590AE5",
-        "latest": 327680
+        "458752": "863B5FDF46072A46",
+        "latest": 458752
     },
     "0100CF2017D97000": {
         "latest": 0
@@ -104633,6 +104675,11 @@
         "latest": 0,
         "title": "Claire: Extended Cut"
     },
+    "0100EC70226F0000": {
+        "131072": "7872E2322B614609",
+        "latest": 131072,
+        "title": "Monument Valley 3"
+    },
     "0100EC8004762000": {
         "0": "1BEA48B05886F2DF",
         "327680": "353CA1F859FCFD08",
@@ -111848,6 +111895,11 @@
         "0": "3949F1A3728A8D87",
         "latest": 0,
         "title": "Demon's Residence"
+    },
+    "0100FCF0237E8000": {
+        "65536": "CA74DC3A2265818B",
+        "latest": 65536,
+        "title": "Kokoro Clover SUN - Prehistoric Invaders!"
     },
     "0100FD0010BD8000": {
         "131072": "040A44515E7569D6",
