@@ -8529,7 +8529,8 @@
     "010013C00E930000": {
         "196608": "96109F9C83B26235",
         "262144": "CCB78A34B0605A36",
-        "latest": 262144,
+        "327680": "6396EF0DE36BD908",
+        "latest": 327680,
         "title": "Hollow Knight: Silksong \u2013 Nintendo Switch 2 Edition"
     },
     "010013C010C5C000": {
@@ -48558,8 +48559,9 @@
     "01006C7021024000": {
         "131072": "BD9B46CAE607D7E8",
         "196608": "03DBE839CAA0632B",
+        "262144": "499A85D046C70186",
         "65536": "72D353380DD03B52",
-        "latest": 196608,
+        "latest": 262144,
         "title": "MotoGP\u212225"
     },
     "01006C800C4A6000": {
@@ -58029,7 +58031,8 @@
         "589824": "6A70CB3DBF2DE08A",
         "65536": "255557811A2EACC5",
         "655360": "37847F7D651C707B",
-        "latest": 655360,
+        "720896": "4037BB7356BCEA20",
+        "latest": 720896,
         "title": "CounterAttack: Uprising"
     },
     "010081900C0F0000": {
@@ -72445,6 +72448,11 @@
         "latest": 0,
         "title": "Pinocchio: Interactive Book"
     },
+    "0100A0D01DB4E000": {
+        "65536": "0050303DBCEF561D",
+        "latest": 65536,
+        "title": "Raft Survival Simulator"
+    },
     "0100A0D022A68000": {
         "131072": "E8526D5FBE7838CA",
         "196608": "B3DEEC9A82E086C6",
@@ -73203,8 +73211,9 @@
     },
     "0100A2902051A000": {
         "131072": "3D6E4BDE905836BC",
+        "196608": "779FC981128BA290",
         "65536": "05ADD0D5FD677639",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Poppy Playtime: Chapter 4"
     },
     "0100A2A00B08C000": {
@@ -78815,8 +78824,9 @@
     },
     "0100AF701E824000": {
         "131072": "CCD7149207FFC85E",
+        "196608": "E9296562AD06C5CA",
         "65536": "A240DD0E5BAE38A8",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Puppy Cars: Games for Kids Edition, Animal adventure"
     },
     "0100AF701E9CE000": {
@@ -91762,8 +91772,9 @@
         "title": "Speedgunner Ultra"
     },
     "0100CBF022E18000": {
+        "131072": "730FCE7F5895630C",
         "65536": "2679C790E092238F",
-        "latest": 65536,
+        "latest": 131072,
         "title": "NBA 2K26"
     },
     "0100CC000DA44000": {
