@@ -6833,6 +6833,11 @@
         "393216": "27DDB38E9A11CFA3",
         "latest": 393216
     },
+    "01000F9020CD4000": {
+        "131072": "948CF241D48CECB0",
+        "latest": 131072,
+        "title": "Atelier Resleriana: The Red Alchemist & the White Guardian"
+    },
     "01000FA00A4E4000": {
         "0": "12319ECBB8003947",
         "65536": "B887D7FF382CD64F",
@@ -7339,6 +7344,10 @@
         "65536": "1EA40E7378BB8DA1",
         "latest": 196608,
         "title": "SUGOROKU CASINO PARTY"
+    },
+    "010010E02229A000": {
+        "65536": "C487BF6D0DD7FAA2",
+        "latest": 65536
     },
     "010010F004022000": {
         "0": "36EB098D4651B578",
@@ -36465,6 +36474,10 @@
         "latest": 0,
         "title": "Poopdie - Chapter One"
     },
+    "010051A020C6E000": {
+        "131072": "A52581D8CBFA1B80",
+        "latest": 131072
+    },
     "010051B00F2A6000": {
         "0": "24DDB865B79DA047",
         "latest": 0
@@ -54200,6 +54213,11 @@
         "0": "47167106AAD4854B",
         "latest": 0,
         "title": "Turbo Skiddy Racing"
+    },
+    "0100789024AA2000": {
+        "65536": "5926EA5B7B466ED7",
+        "latest": 65536,
+        "title": "Battle Suit Aces"
     },
     "010078A017FE6000": {
         "131072": "481BD6AFDD67EC28",
@@ -81260,6 +81278,10 @@
         "latest": 0,
         "title": "Kingdom of Arcadia"
     },
+    "0100B4E020CE2000": {
+        "131072": "9CC2FD3032D9C166",
+        "latest": 131072
+    },
     "0100B4F00FC4E000": {
         "0": "F6FC961523384E4B",
         "131072": "F6FC961523384E4B",
@@ -82722,8 +82744,9 @@
     },
     "0100B84022FEC000": {
         "131072": "EAA83F76095063F9",
+        "196608": "10BBA995EC2A5324",
         "65536": "EAA83F76095063F9",
-        "latest": 131072
+        "latest": 196608
     },
     "0100B8500D570000": {
         "0": "D6DB4C4B00699A19",
@@ -88285,7 +88308,7 @@
     },
     "0100C42023690000": {
         "65536": "A567C2AC3947F763",
-        "latest": 65536,
+        "latest": 131072,
         "title": "NOROI KAGO the Grudged Domain"
     },
     "0100C4300EEEE000": {
@@ -90746,8 +90769,9 @@
         "title": "Romance MD: Always On Call"
     },
     "0100C9C022FC2000": {
+        "131072": "9D2BAA0D77241296",
         "65536": "F049D91D8679CF4F",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Fast & Furious: Arcade Edition"
     },
     "0100C9D00C8E2000": {
@@ -99542,7 +99566,7 @@
         "327680": "68407169652C8587",
         "393216": "F9EB34E7C46C8E03",
         "65536": "CFD7BEDA0E162215",
-        "latest": 393216,
+        "latest": 458752,
         "title": "DOKAPON! Sword of Fury"
     },
     "0100DCF0218BA000": {
@@ -112840,8 +112864,9 @@
         "131072": "95FA27E11AD01E23",
         "196608": "001A60DD5090CBCE",
         "393216": "B56D1E7E7CABCEC3",
+        "458752": "125248A0B0B34871",
         "65536": "7BEEF4AD217253CF",
-        "latest": 393216,
+        "latest": 458752,
         "title": "Farm Together 2"
     },
     "0100FA400FF78000": {
@@ -113917,8 +113942,9 @@
         "latest": 589824
     },
     "0100FC90241AA000": {
+        "131072": "DB7A01A40BFBA70D",
         "65536": "A6C95B980C321AC4",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Trasmoz Legends"
     },
     "0100FCA00C8D0000": {
