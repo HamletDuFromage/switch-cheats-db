@@ -13328,8 +13328,9 @@
     },
     "01001E9023920000": {
         "131072": "4FC3CB13E1D3292E",
+        "196608": "169AD641E042A8B4",
         "65536": "DE5DBE8F203A82AA",
-        "latest": 131072
+        "latest": 196608
     },
     "01001EA004E14000": {
         "0": "30B41475E43B5218",
@@ -20366,7 +20367,9 @@
         "latest": 327680
     },
     "01002E2023284000": {
-        "latest": 65536
+        "65536": "F8E04F5944EE46D4",
+        "latest": 65536,
+        "title": "Asfalia: Panic at the Mansion"
     },
     "01002E3018270000": {
         "0": "21EC286574AF2BC9",
@@ -21802,7 +21805,8 @@
         "393216": "014C30C443C1A3B8",
         "589824": "14337633D452C641",
         "65536": "FDBE015F10485B3D",
-        "latest": 589824
+        "720896": "A08AE27D7E4D73B6",
+        "latest": 720896
     },
     "010031600ACF4000": {
         "0": "B4E5EE1407A6BF45",
@@ -25194,6 +25198,7 @@
     },
     "010038B015560000": {
         "196608": "AAAA1ED3B0A458D6",
+        "262144": "AAAA1ED3B0A458D6",
         "latest": 196608,
         "title": "FINAL FANTASY TACTICS - The Ivalice Chronicles Nintendo Switch\u2122 2 Edition"
     },
@@ -27265,7 +27270,8 @@
         "589824": "325FE42ED447F9CD",
         "65536": "B785F220E64A8AED",
         "720896": "FE63ADC9C9C54F59",
-        "latest": 720896,
+        "786432": "913FAAFBC30DF2BA",
+        "latest": 786432,
         "title": "Spy Guy Memory"
     },
     "01003D100E9C6000": {
@@ -29444,6 +29450,7 @@
         "1507328": "244C3195A745D4A2",
         "1572864": "7D5E11052ADA0ADD",
         "1638400": "F3CF708A35595B76",
+        "1703936": "D34F21F3F6864478",
         "196608": "6A68065163E9F1B1",
         "262144": "0F97D8856CEA9876",
         "327680": "99954F5C85FA479A",
@@ -29452,7 +29459,7 @@
         "589824": "41D65F1FD2E4758B",
         "65536": "0CEFB36B58AA4E1E",
         "655360": "BA7F4123BEE25CC8",
-        "latest": 1638400,
+        "latest": 1703936,
         "title": "Factorio"
     },
     "0100420019020000": {
@@ -31626,8 +31633,9 @@
         "title": "Coffee Talk Episode 2: Hibiscus & Butterfly"
     },
     "010046701B488000": {
+        "131072": "C21A0C1BCE96D456",
         "65536": "2C19FC8C49BC4310",
-        "latest": 65536,
+        "latest": 131072,
         "title": "SHINOBI: Art of Vengeance"
     },
     "01004680124E6000": {
@@ -37618,7 +37626,8 @@
         "393216": "1CEA83A1E6684665",
         "589824": "9B9CCD97EB6EF789",
         "65536": "A947DDE7826A3562",
-        "latest": 589824,
+        "720896": "540477886936CDC5",
+        "latest": 720896,
         "title": "Atelier Yumia: The Alchemist of Memories & the Envisioned Land"
     },
     "010054500E6D4000": {
@@ -37790,7 +37799,8 @@
         "393216": "6CB3E54C5F648410",
         "589824": "EF85880A244D33EC",
         "65536": "8E04DBB4C7BDCFFD",
-        "latest": 589824
+        "720896": "FB3497202E5934FB",
+        "latest": 720896
     },
     "010054B00D4A2000": {
         "0": "C3CDF1E64243454E",
@@ -43124,7 +43134,8 @@
     },
     "0100609023286000": {
         "65536": "F8A63CFE5599001A",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Asfalia: The Cranky Volcano"
     },
     "010060A00B53C000": {
         "0": "C655F071EC85EB4D",
@@ -46820,7 +46831,8 @@
     "0100690020FBE000": {
         "131072": "4D36419D38C64C32",
         "196608": "CC93EA5C0A2F96FE",
-        "latest": 196608,
+        "262144": "8FDB10262446CB3D",
+        "latest": 262144,
         "title": "Formula Legends"
     },
     "010069100B7F0000": {
@@ -48333,7 +48345,8 @@
         "393216": "CFAFA7BB32A8A745",
         "458752": "9AD6737863C779D8",
         "524288": "D2FC6E2B1ECC267F",
-        "latest": 524288
+        "589824": "8055F4627421B7A2",
+        "latest": 589824
     },
     "01006C100EC08000": {
         "0": "B0EFB225275BA084",
@@ -50817,8 +50830,9 @@
         "title": "Zombie Garden vs Plants Defence -Battle Craft and Survival Simulator Game"
     },
     "010071A02185E000": {
+        "131072": "C43758701AE659AC",
         "65536": "0CCA38569CF18D31",
-        "latest": 65536
+        "latest": 131072
     },
     "010071B00964A000": {
         "0": "53A7C333F5A5164E",
@@ -52281,7 +52295,8 @@
     },
     "0100745024AD0000": {
         "65536": "08D07C05BF8E06D0",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Grill it! Sanma"
     },
     "010074600CC7A000": {
         "0": "5236854392C05E4D",
@@ -53778,7 +53793,8 @@
     },
     "010077701D1B8000": {
         "65536": "E72203F9F17E67FE",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Arcade Archives DACHOLER"
     },
     "010077701D772000": {
         "262144": "2CFDD353D0B8130A",
@@ -62867,7 +62883,8 @@
         "393216": "204B2BB1EEAE9893",
         "589824": "B7EC7E3817C6A7EC",
         "655360": "4591AA85B5BF7E43",
-        "latest": 655360,
+        "786432": "EDAA1120822302BD",
+        "latest": 786432,
         "title": "Bluey: The Videogame"
     },
     "01008C300648E000": {
@@ -64064,8 +64081,9 @@
         "title": "Bitter-Sweet Cohabitation - \u30d3\u30bf\u30fc\u30b9\u30a4\u30fc\u30c8 - \u5bb6\u51fa\u5c11\u5973\u3068\u30ef\u30b1\u3042\u308a\u540c\u68f2\u751f\u6d3b -"
     },
     "01008E601E03C000": {
+        "131072": "6FC5D2E8754F14B3",
         "65536": "3554C29951DDA41F",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition"
     },
     "01008E700CAAC000": {
@@ -64308,7 +64326,8 @@
         "262144": "CC213631D5100F46",
         "327680": "17D6F58E97677F4D",
         "393216": "6146D78FA5974B44",
-        "latest": 393216,
+        "458752": "8D89BB4244D3E9E6",
+        "latest": 458752,
         "title": "Rento Fortune"
     },
     "01008EE00B22D000": {
@@ -64933,8 +64952,9 @@
         "262144": "DC27BCB5BBB54999",
         "327680": "CECE069C30CD2418",
         "393216": "56D9D6DB333D8D9D",
+        "458752": "C004097EE39B8945",
         "65536": "C7F83D7B0A5AE0F6",
-        "latest": 393216,
+        "latest": 458752,
         "title": "Ala Mobile - Formula Racing"
     },
     "01009040091E0000": {
@@ -75777,6 +75797,11 @@
         "latest": 131072,
         "title": "Racing Karts"
     },
+    "0100A83022A22000": {
+        "65536": "F85355B8F8207B27",
+        "latest": 65536,
+        "title": "Absolum"
+    },
     "0100A8400471A000": {
         "0": "933BE577C524071F",
         "latest": 0,
@@ -79365,7 +79390,8 @@
     },
     "0100B07024C2A000": {
         "65536": "CA74DC3A2265818B",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Pixel Game Maker Series Stray Witch and the Ghost Train"
     },
     "0100B0800DBAC000": {
         "0": "1C06D7E11BE6A440",
@@ -91697,6 +91723,11 @@
     "0100CB901AC9A000": {
         "131072": "5BEF52461A8D1DE9",
         "latest": 131072
+    },
+    "0100CB90204BC000": {
+        "65536": "B29BCD4C1CF794D7",
+        "latest": 65536,
+        "title": "NBA BOUNCE"
     },
     "0100CBA005160000": {
         "0": "4AB92853F8551341",
