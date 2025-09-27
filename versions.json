@@ -1837,6 +1837,11 @@
         "latest": 65536,
         "title": "GhostlyRyokan"
     },
+    "0100046020AFC000": {
+        "65536": "BCC37B40E1BC6B93",
+        "latest": 65536,
+        "title": "Next of Kin: Fidelity"
+    },
     "0100047009742000": {
         "0": "FDDA65A52E5D2346",
         "131072": "B26CD807723D8242",
@@ -8540,7 +8545,8 @@
         "196608": "96109F9C83B26235",
         "262144": "CCB78A34B0605A36",
         "327680": "6396EF0DE36BD908",
-        "latest": 327680,
+        "393216": "66AEB74466FC324C",
+        "latest": 393216,
         "title": "Hollow Knight: Silksong \u2013 Nintendo Switch 2 Edition"
     },
     "010013C010C5C000": {
@@ -13086,6 +13092,7 @@
     "01001E4012484000": {
         "0": "FA7DA5075AC256E9",
         "1048576": "77B60E6530B00BF2",
+        "1114112": "7314CD67F9BAE8FC",
         "131072": "8739A9E526DC4AF7",
         "196608": "A177A5EE6BC37C70",
         "262144": "7D6615983F3E5127",
@@ -13099,7 +13106,7 @@
         "851968": "CD17D002E74A94D2",
         "917504": "66383BA5CB80383B",
         "983040": "4253FACA35BF8B1A",
-        "latest": 1048576,
+        "latest": 1114112,
         "title": "Path of Titans"
     },
     "01001E40136FE000": {
@@ -25093,6 +25100,10 @@
         "latest": 262144,
         "title": "Hyper Torque Racing"
     },
+    "010038802504E000": {
+        "65536": "710ED53DFEE00009",
+        "latest": 65536
+    },
     "01003890084F8000": {
         "latest": 0
     },
@@ -32852,8 +32863,9 @@
         "latest": 65536
     },
     "0100492022DEC000": {
+        "131072": "32C510FEF41B9246",
         "65536": "674424804C7C616B",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Puzzles & Colors Games for Kids Toddler Coloring Book Draw Paint"
     },
     "010049301226E000": {
@@ -36669,7 +36681,8 @@
         "title": "War Zone Soldier: Battle Royale Shooter"
     },
     "01005200216A0000": {
-        "latest": 65536,
+        "131072": "D9F00343286E72D1",
+        "latest": 131072,
         "title": "Heretic + Hexen"
     },
     "010052100D1B4000": {
@@ -45234,7 +45247,8 @@
     },
     "0100654021090000": {
         "65536": "6255B1EFCC4FAFD8",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Hot Wheels Let's Race\u2122: Ultimate Speed"
     },
     "010065500B218000": {
         "0": "5D389698D1FAD122",
@@ -56436,6 +56450,10 @@
         "latest": 0,
         "title": "Arcade Archives PAC-MANIA"
     },
+    "01007DC02385A000": {
+        "65536": "3C2D65F0B2936459",
+        "latest": 65536
+    },
     "01007DD00ABB4000": {
         "0": "D15039761A07755D",
         "latest": 0,
@@ -61444,6 +61462,11 @@
         "131072": "FEC9E73DB9922C1C",
         "latest": 131072,
         "title": "City Legends: The Curse of the Crimson Shadow Collector's Edition"
+    },
+    "01008920205F6000": {
+        "65536": "9BD2C522B77330FB",
+        "latest": 65536,
+        "title": "Shujinkou Digital Artbook"
     },
     "010089300FDC2000": {
         "0": "62FA09DAD9D86C48",
@@ -67324,8 +67347,9 @@
     },
     "01009560237B2000": {
         "131072": "ABC28A33E9626CDF",
+        "196608": "41B0CB0977B32407",
         "65536": "D590A6A885AF4E3E",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Sports Camp: A 35-Game Adventure"
     },
     "010095701381A000": {
@@ -72221,7 +72245,8 @@
     "0100A07022868000": {
         "131072": "A9F2E94B64FDCA8F",
         "196608": "C4C7C3AE95797C01",
-        "latest": 196608,
+        "262144": "62B1BC4A09D1FA5D",
+        "latest": 262144,
         "title": "Rally Arcade Classics"
     },
     "0100A0800B83A000": {
@@ -78903,8 +78928,9 @@
     "0100AF701E824000": {
         "131072": "CCD7149207FFC85E",
         "196608": "E9296562AD06C5CA",
+        "262144": "7D2C7C89A40DB286",
         "65536": "A240DD0E5BAE38A8",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Puppy Cars: Games for Kids Edition, Animal adventure"
     },
     "0100AF701E9CE000": {
@@ -79328,6 +79354,9 @@
         "65536": "8F77E1EBFE931250",
         "latest": 65536,
         "title": "VARLET Digital Deluxe Special App"
+    },
+    "0100B050253F2000": {
+        "latest": 65536
     },
     "0100B0600ABE6000": {
         "0": "B96F7725B2360845",
@@ -80140,8 +80169,9 @@
         "title": "Oaken"
     },
     "0100B2002330E000": {
+        "131072": "AF42903B754D4859",
         "65536": "637F8C946F7C512D",
-        "latest": 65536
+        "latest": 131072
     },
     "0100B2100767C000": {
         "0": "B14310072761B142",
@@ -96946,8 +96976,9 @@
     },
     "0100D7401D59A000": {
         "262144": "6EBFABFDB9E7C6D4",
+        "327680": "4078D4037B6B3A94",
         "65536": "EB09216E46A8D77B",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Discounty"
     },
     "0100D75007E32000": {
@@ -97929,8 +97960,9 @@
         "196608": "3316C12B6250453D",
         "262144": "A4DC23A76EDC988D",
         "327680": "1687D5A4EA247660",
+        "393216": "1ED63B35D63B6FD8",
         "65536": "B3E2444F8F0A6C58",
-        "latest": 327680,
+        "latest": 393216,
         "title": "Sugardew Island"
     },
     "0100D9600BA8E000": {
@@ -111260,6 +111292,11 @@
         "65536": "C256255FE5A1B80D",
         "latest": 393216,
         "title": "AKAIITO HD REMASTER"
+    },
+    "0100F650205FC000": {
+        "65536": "9BD2C522B77330FB",
+        "latest": 65536,
+        "title": "Shujinkou Select Soundtrack"
     },
     "0100F6600AC00000": {
         "0": "76223FDEF3FB6245",
