@@ -4823,6 +4823,11 @@
         "latest": 65536,
         "title": "Kumakichi&Nyanzou Birth \u2606 Destruction God DX"
     },
+    "01000B501F960000": {
+        "65536": "E29AEFA0B29E1EBE",
+        "latest": 65536,
+        "title": "Bobby Six Seven"
+    },
     "01000B6007A3C000": {
         "0": "028062D98A63EE4F",
         "latest": 0,
@@ -6860,7 +6865,8 @@
     },
     "01000F9020CD4000": {
         "131072": "948CF241D48CECB0",
-        "latest": 131072,
+        "196608": "725F8E7F0C8CD0B7",
+        "latest": 196608,
         "title": "Atelier Resleriana: The Red Alchemist & the White Guardian"
     },
     "01000FA00A4E4000": {
@@ -33098,6 +33104,10 @@
         "0": "8DDBF106704B3C47",
         "latest": 0
     },
+    "0100497020AF2000": {
+        "65536": "DE5A16FC2C6357EF",
+        "latest": 65536
+    },
     "0100498013F7E000": {
         "0": "6D682BE46AC98C47",
         "65536": "93CFA9BEC6643948",
@@ -36616,7 +36626,8 @@
     },
     "010051A020C6E000": {
         "131072": "A52581D8CBFA1B80",
-        "latest": 131072
+        "196608": "76BD641687AE4165",
+        "latest": 196608
     },
     "010051B00F2A6000": {
         "0": "24DDB865B79DA047",
@@ -80982,6 +80993,10 @@
         "latest": 0,
         "title": "Jigsaw Puzzle: Belgium through the Lens"
     },
+    "0100B38021590000": {
+        "65536": "B438E546ED4DCC89",
+        "latest": 65536
+    },
     "0100B3900B766000": {
         "0": "0E2089D7926ABB4B",
         "131072": "20678C5C6B5A9841",
@@ -81573,7 +81588,8 @@
     },
     "0100B4E020CE2000": {
         "131072": "9CC2FD3032D9C166",
-        "latest": 131072
+        "196608": "52D945D834172458",
+        "latest": 196608
     },
     "0100B4F00FC4E000": {
         "0": "F6FC961523384E4B",
@@ -97444,6 +97460,11 @@
         "393216": "DC810ED4DAC1D123",
         "latest": 393216,
         "title": "VirtuaVerse"
+    },
+    "0100D7C01F254000": {
+        "65536": "94B4FA4F36E01BE3",
+        "latest": 65536,
+        "title": "DRAGON QUEST I & II HD-2D Remake"
     },
     "0100D7C021496000": {
         "131072": "5D63D46226DB106F",
