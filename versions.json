@@ -1880,6 +1880,11 @@
         "latest": 65536,
         "title": "To the Moon: Sigmund Minisode 2 (Holiday Special)"
     },
+    "0100048021806000": {
+        "65536": "D3F175E8F8259DC7",
+        "latest": 65536,
+        "title": "Urban Car Driver Simulator: City Explorer Challenge"
+    },
     "01000490067AE000": {
         "0": "F31FA3A62BAC674A",
         "latest": 0,
@@ -32916,8 +32921,9 @@
         "0": "6FE1111EAC21761B",
         "131072": "3E87883F24198FA9",
         "393216": "57FD408EDA318B21",
+        "458752": "FF122D1D3897C160",
         "65536": "3E87883F24198FA9",
-        "latest": 393216,
+        "latest": 458752,
         "title": "Coromon"
     },
     "010048D0157B2000": {
@@ -33290,6 +33296,11 @@
     "010049901D704000": {
         "131072": "B6ACB0F1227E5A35",
         "latest": 131072
+    },
+    "0100499023F7E000": {
+        "65536": "2E151937514B8E00",
+        "latest": 65536,
+        "title": "Dungeon Minesweeper"
     },
     "010049A00C7AA000": {
         "0": "070C9D9EFAB5707A",
@@ -40703,6 +40714,11 @@
         "latest": 0,
         "title": "Airship Defender"
     },
+    "01005A7022A32000": {
+        "65536": "EC77822D8CC70D4D",
+        "latest": 65536,
+        "title": "Love, Ghostie"
+    },
     "01005A8010C7E000": {
         "0": "4B2192AC126FA6FD",
         "65536": "571C0CB8E164D1CC",
@@ -42469,7 +42485,8 @@
         "7340032": "E21551CFDA558A90",
         "7405568": "7AEDBBE9B09507DD",
         "7471104": "D502C0E66AE022B4",
-        "latest": 7471104,
+        "7536640": "C972338E074D8362",
+        "latest": 7536640,
         "title": "Rocket League\u00ae"
     },
     "01005EE0036ED000": {
@@ -46241,8 +46258,9 @@
         "title": "Happy Animals Mini Golf"
     },
     "010066C024AA8000": {
+        "131072": "782B36934D8EAB82",
         "65536": "A76071FCE2E94C8F",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Becastled"
     },
     "010066D002CC8000": {
@@ -47171,7 +47189,8 @@
         "131072": "4D36419D38C64C32",
         "196608": "CC93EA5C0A2F96FE",
         "262144": "8FDB10262446CB3D",
-        "latest": 262144,
+        "327680": "2735E564A9BD3DA3",
+        "latest": 327680,
         "title": "Formula Legends"
     },
     "010069100B7F0000": {
@@ -57131,7 +57150,8 @@
         "131072": "2CD1A4E192FFCD44",
         "196608": "99458F97B4438E77",
         "262144": "E896338C253A13B4",
-        "latest": 262144,
+        "327680": "33173207E7B268A9",
+        "latest": 327680,
         "title": "Strange Antiquities"
     },
     "01007E800AFB6000": {
@@ -59463,8 +59483,9 @@
     "0100837023778000": {
         "131072": "0E37F25E6D07C919",
         "196608": "BBFA0FB3AFDF8E6A",
+        "262144": "9187BA40C58CDF70",
         "65536": "86CD1AD4FDBC02C7",
-        "latest": 196608
+        "latest": 262144
     },
     "0100838002AEA000": {
         "0": "51BFC09785F55048",
@@ -63348,6 +63369,11 @@
         "131072": "261092BACE464123",
         "latest": 131072,
         "title": "Toaplan Arcade Collection Vol.1"
+    },
+    "01008C50239BE000": {
+        "65536": "9B8010F47685DF3B",
+        "latest": 65536,
+        "title": "Plants vs. Zombies\u2122: Replanted"
     },
     "01008C600395A000": {
         "0": "0D67E9243426FB4F",
@@ -77869,8 +77895,9 @@
     },
     "0100ABE01B73C000": {
         "131072": "D7501C5735A69E2E",
+        "196608": "63640D9EC7A0D508",
         "65536": "BD33318A31BEF138",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Henry Halfhead"
     },
     "0100ABF008968000": {
@@ -80132,6 +80159,11 @@
         "65536": "090C2998F819B48E",
         "latest": 65536,
         "title": "MINE SWEEPER MILLON"
+    },
+    "0100B0E0239AC000": {
+        "131072": "BCCB44AEBFB0E780",
+        "latest": 131072,
+        "title": "Old School Rally"
     },
     "0100B0F011A84000": {
         "0": "B7D30D4EF13B9B4F",
@@ -101882,6 +101914,11 @@
         "0": "4948A42BBF8E9B62",
         "latest": 0,
         "title": "ibb & obb"
+    },
+    "0100E0901E11A000": {
+        "65536": "F8ED8A3569B56F30",
+        "latest": 65536,
+        "title": "Racine"
     },
     "0100E0901E2AA000": {
         "131072": "D115724DB1274175",
