@@ -31295,7 +31295,8 @@
         "327680": "1671D3DBECEB505A",
         "589824": "218C9A2E672A3B5F",
         "65536": "87D5D35AF6571D94",
-        "latest": 589824,
+        "655360": "FFABCC82F2DC4934",
+        "latest": 655360,
         "title": "Mushihimesama"
     },
     "010045801053A000": {
@@ -40444,8 +40445,9 @@
         "0": "811DD3092596F6F4",
         "262144": "FF09ABB1E2EA0B1F",
         "393216": "D202E0C194BA6A15",
+        "458752": "BEB498BF4691F0F6",
         "65536": "9A715FBEE5B629CD",
-        "latest": 393216,
+        "latest": 458752,
         "title": "Chiptune Arrange Sound\uff08DoDonPachi Resurrection\uff09"
     },
     "01005A0015670000": {
@@ -44679,7 +44681,8 @@
         "655360": "01B1635E87198CCC",
         "720896": "91949AC300B03A1F",
         "851968": "A211DDB63653404A",
-        "latest": 851968,
+        "917504": "61145A946AA7EE83",
+        "latest": 917504,
         "title": "Spy Guy Hidden Objects Deluxe Edition"
     },
     "0100635006C32000": {
@@ -64423,8 +64426,9 @@
     },
     "01008E201F66C000": {
         "131072": "67DE6134B9E204DC",
+        "262144": "F675696A4D23F8D3",
         "65536": "DC11145D254619D2",
-        "latest": 131072,
+        "latest": 262144,
         "title": "DODONPACHI SAIDAIOUJOU"
     },
     "01008E300C88A000": {
@@ -64967,6 +64971,11 @@
         "262144": "3CFB6CFA7103022F",
         "65536": "5835B8088BB802B7",
         "latest": 262144
+    },
+    "01008F40250AA000": {
+        "65536": "4281ADF5D9AC855D",
+        "latest": 65536,
+        "title": "Claim The Forest"
     },
     "01008F500E042000": {
         "0": "AF4B5F85E416814C",
@@ -65734,7 +65743,8 @@
         "524288": "BC6ADEB215BA7AD9",
         "589824": "97D78592655DB849",
         "65536": "1D81E576B667DE50",
-        "latest": 589824,
+        "655360": "F3CF509F10BD130B",
+        "latest": 655360,
         "title": "Espgaluda II"
     },
     "0100911019160000": {
@@ -72724,7 +72734,8 @@
         "131072": "A9F2E94B64FDCA8F",
         "196608": "C4C7C3AE95797C01",
         "262144": "62B1BC4A09D1FA5D",
-        "latest": 262144,
+        "327680": "8D6BAF5552B27E50",
+        "latest": 327680,
         "title": "Rally Arcade Classics"
     },
     "0100A0800B83A000": {
@@ -92678,8 +92689,9 @@
     "0100CC501B7BA000": {
         "131072": "A952D3C5C9F80CA8",
         "196608": "97B998F2D1329F7D",
+        "262144": "C5543AF98DB21155",
         "65536": "CD7EBC6E573BC3C0",
-        "latest": 196608
+        "latest": 262144
     },
     "0100CC501F764000": {
         "196608": "BC3EC37268AE56E5",
@@ -110311,8 +110323,9 @@
         "title": "Big Adventure: Trip To Europe 4 Collector's Edition"
     },
     "0100F270225CC000": {
+        "131072": "428C0586AEA981DB",
         "65536": "06CA17523ADB1A9A",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Super World War"
     },
     "0100F2800D46E000": {
