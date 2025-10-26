@@ -103918,7 +103918,8 @@
     "0100E4602505A000": {
         "131072": "A48BB7C8513279EC",
         "196608": "E7AEE5EB884C8F71",
-        "latest": 196608,
+        "262144": "64856B36EFF2AA63",
+        "latest": 262144,
         "title": "Plus Ultra: Legado"
     },
     "0100E470067A8000": {
@@ -114455,8 +114456,9 @@
         "title": "Bubble Puzzler"
     },
     "0100FB2021B0E000": {
+        "131072": "2D98DA628EFF62B2",
         "65536": "0B4044A6FC5A14B8",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Croc Legend of the Gobbos"
     },
     "0100FB30148EC000": {
