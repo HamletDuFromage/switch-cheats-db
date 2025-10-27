@@ -4849,8 +4849,9 @@
         "title": "Kumakichi&Nyanzou Birth \u2606 Destruction God DX"
     },
     "01000B501F960000": {
+        "131072": "466B0DABDF483044",
         "65536": "E29AEFA0B29E1EBE",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Bobby Six Seven"
     },
     "01000B6007A3C000": {
@@ -22792,6 +22793,11 @@
         "0": "3662478EE0B08C5E",
         "latest": 0,
         "title": "The Wonderful One: After School Hero"
+    },
+    "010033001F050000": {
+        "65536": "FCB5595F32D8B05D",
+        "latest": 65536,
+        "title": "Ys vs. Trails in the Sky: Alternative Saga"
     },
     "010033001F61C000": {
         "65536": "0DB258CE530B69B8",
@@ -51659,6 +51665,7 @@
         "3473408": "49FCB3B8C6CBDACC",
         "3538944": "D1867C4B7AEC104A",
         "3604480": "D1867C4B7AEC104A",
+        "3670016": "1A069BDACA3FB96E",
         "393216": "360E5E8B27E5EBA5",
         "458752": "3F8FEA3EB7F67739",
         "524288": "2D87D138C67CD7B5",
@@ -51670,7 +51677,7 @@
         "851968": "76F61A924FDA43FB",
         "917504": "46C20CEAF3C35E50",
         "983040": "D17C46696338F4CD",
-        "latest": 3604480,
+        "latest": 3670016,
         "title": "Pok\u00e9mon Caf\u00e9 ReMix"
     },
     "010072401447A000": {
@@ -111452,6 +111459,11 @@
         "196608": "5E866590F1C03E29",
         "latest": 196608,
         "title": "Astebros"
+    },
+    "0100F43025000000": {
+        "65536": "318AF400660B44FE",
+        "latest": 65536,
+        "title": "Arcade Archives MUNCH MOBILE"
     },
     "0100F4400DE9E000": {
         "0": "C7E9F472D13C1A4E",
