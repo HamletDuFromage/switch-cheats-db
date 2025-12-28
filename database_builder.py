@@ -66,7 +66,10 @@ class HighFPSCheatsInfo:
 
     def fetch_high_FPS_cheats_version(self):
         token = os.getenv('GITHUB_TOKEN')
-        headers = {'Authorization': f'token {token}'}
+        if token is not None:
+            headers = {'Authorization': f'token {token}'}
+        else:
+            headers = {}
         repo_info = self.scraper.get(self.api_url, headers=headers).json()
         last_commit_date = repo_info.get("commit").get("commit").get("author").get("date")
         return date.fromisoformat(last_commit_date.split("T")[0])
