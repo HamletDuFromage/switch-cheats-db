@@ -141,7 +141,10 @@ class ArchiveWorker():
         titles_path = out_path.joinpath("titles")
         self.touch_all(titles_path)
         shutil.make_archive(str(titles_path.resolve()), "zip", root_dir=out_path, base_dir="titles")
-        contents_path = titles_path.rename(titles_path.parent.joinpath("contents"))
+        try:
+            contents_path = titles_path.rename(titles_path.parent.joinpath("contents"))
+        except OSError:
+            contents_path = out_path.joinpath("contents")
         self.touch_all(contents_path)
         shutil.make_archive(str(contents_path.resolve()), "zip", root_dir=out_path, base_dir="contents")
 
