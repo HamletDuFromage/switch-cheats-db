@@ -1,0 +1,15 @@
+{
+    "75207F46BBD4DD88": {
+        "[Breeze beta89  INAZUMA ELEVEN: Victory Road Worldwide Beta Test Demo \"Leave Your Inazuma Mark on the World!\" 1.0.0 TID: 010066401D88E000 BID: 75207F46BBD4DD88]": "[Breeze beta89  INAZUMA ELEVEN: Victory Road Worldwide Beta Test Demo \"Leave Your Inazuma Mark on the World!\" 1.0.0 TID: 010066401D88E000 BID: 75207F46BBD4DD88]\n\n",
+        "[pts max]": "[pts max]\n04000000 00C9F560 1A893108 \n04000000 00C9F560 1A898108\n\n",
+        "[time fast]": "[time fast]\n04000000 00C7B448 BD403100 \n04000000 00C7B448 1E27D000\n\n",
+        "[time slow]": "[time slow]\n04000000 00C7B448 BD403100 \n04000000 00C7B448 1E281000\n\n",
+        "[time pause]": "[time pause]\n04000000 00C7B448 BD403100 \n04000000 00C7B448 1E2703E0\n\n",
+        "[time zero]": "[time zero]\n04000000 00C7B450 BD224A60 \n04000000 00C7B450 B9224A7F\n\n",
+        "[Off enable]": "[Off enable]\n04000000 00C9F560 1A893108 \n04000000 00C7B448 BD403100 \n04000000 00C7B450 BD224A60\n\n",
+        "[Player keeper 9999]": "[Player keeper 9999]\n580F0000 02173AC0 \n780F0000 000011D4 \n640F0000 408D0A3E 461C4000\n\n",
+        "[enemy keeper 1]": "[enemy keeper 1]\n580F0000 02173AC0 \n780F0000 0000282C \n640F0000 00000000 3F800000\n\n",
+        "[\ue0a6 atk 1]": "[\ue0a6 atk 1]\n80000100 \n580F0000 0215FAA0 \n780F0000 000016A0 \n640F0000 00000000 3F800000 \n20000000\n\n",
+        "[\ue0a7 atk 9999]": "[\ue0a7 atk 9999]\n80000200 \n580F0000 0215FAA0 \n780F0000 000016A0 \n640F0000 00000000 461C3C00 \n20000000\n\n"
+    }
+}
