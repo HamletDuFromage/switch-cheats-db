@@ -11778,7 +11778,8 @@
     },
     "01001A401F308000": {
         "65536": "26363FD395FCC523",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Wizard101"
     },
     "01001A4021670000": {
         "131072": "04A840FE8DDC3F82",
@@ -14806,7 +14807,8 @@
     },
     "010020E025BF4000": {
         "65536": "B7746B2FE4911E25",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Arcade Archives SPACE INVADERS PART II"
     },
     "010020F01272A000": {
         "0": "823B96ABC9C76D4F",
@@ -14968,7 +14970,8 @@
     },
     "0100213025EB4000": {
         "65536": "03F53E29B62347EA",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Formula Racing Pro 2026"
     },
     "010021400C6C4000": {
         "0": "77FACA3CA5F8D084",
@@ -21891,7 +21894,8 @@
     },
     "010030001EE62000": {
         "65536": "4ECE6A3465B378CF",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Temirana: The Lucky Princess and the Tragic Knights"
     },
     "010030100B6B4000": {
         "0": "97CF8E774A495D47",
@@ -27920,6 +27924,10 @@
         "latest": 131072,
         "title": "Star Trek: Legends"
     },
+    "01003CC0253DE000": {
+        "65536": "FC60B0BDDB27F475",
+        "latest": 65536
+    },
     "01003CD00BE22000": {
         "0": "C00A16593AFB634F",
         "latest": 0,
@@ -28684,7 +28692,8 @@
     },
     "01003E701F72C000": {
         "65536": "FAB7E3E30EC9D8D3",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Blocky Heli Rescue"
     },
     "01003E800A102000": {
         "0": "41D1EEA77C99E49B",
@@ -29292,7 +29301,8 @@
     },
     "01003FE0223AE000": {
         "65536": "30FB9CD0359A0B78",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Jelly & Toast"
     },
     "01003FF009E60000": {
         "0": "4FB5A77CF6BE3B46",
@@ -35149,7 +35159,8 @@
     },
     "01004BE025FD2000": {
         "65536": "6F9D93B932DA6DD7",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Brain Workout!Spinning Insect Puzzle"
     },
     "01004BF01267E000": {
         "0": "F5BF5EFAA5714CD9",
@@ -37774,7 +37785,8 @@
     "010051F026082000": {
         "131072": "47EE65D95B6FEB68",
         "65536": "2CC62E13432BD38B",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Who's at the door?"
     },
     "010052000A574000": {
         "0": "012E520BBE6A824A",
@@ -41458,7 +41470,8 @@
     },
     "01005A1025E1C000": {
         "65536": "B8937944028A5B2A",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Kawaii Girls: Dashing Devil"
     },
     "01005A200F36C000": {
         "1114112": "77B71E32F927E975",
@@ -45152,7 +45165,8 @@
     },
     "010061F026064000": {
         "65536": "A34336CD8929BCD9",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Grumpy Driver"
     },
     "0100620012D6E000": {
         "0": "B8EE97E69499BCDA",
@@ -45266,8 +45280,9 @@
     "01006230222EC000": {
         "131072": "008F170D641A76DD",
         "196608": "2008A4D5492297D2",
+        "262144": "C73F6F176FA4A63B",
         "65536": "780855BF9D5AC842",
-        "latest": 196608
+        "latest": 262144
     },
     "010062400E69C000": {
         "0": "4170CAC94BA14040",
@@ -45483,7 +45498,8 @@
     },
     "010062D026332000": {
         "65536": "ED83673A92EC7EC0",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Nitrous Fury"
     },
     "010062E015ED6000": {
         "0": "91C6192F484D3441",
@@ -47579,8 +47595,9 @@
     },
     "01006740251EC000": {
         "131072": "E91CA2ABD20F1E8E",
+        "196608": "A23A756518996510",
         "65536": "B2AE8E0E3C9F3AD9",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Model Debut4"
     },
     "0100675016894000": {
@@ -48056,8 +48073,9 @@
         "title": "Jewel Match Atlantis Solitaire Collector's Edition"
     },
     "010068702430C000": {
+        "131072": "C6F10865AA69D8F6",
         "65536": "A261248D73D12E8D",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Mamon King"
     },
     "01006880148AE000": {
@@ -51348,7 +51366,8 @@
     "01006F60243D0000": {
         "131072": "D643590CFDDF47EE",
         "65536": "9F5C82AAEB755A36",
-        "latest": 131072
+        "latest": 131072,
+        "title": "RUGBY LEAGUE RAW"
     },
     "01006F7001D10000": {
         "0": "BEF7BD1A79121305",
@@ -51416,7 +51435,7 @@
         "917504": "A210C7E78216E42B",
         "983040": "36EEBA0C26F14216",
         "latest": 2031616,
-        "title": "Animal Crossing\u2122: New Horizons"
+        "title": "Animal Crossing\u2122: New Horizons \u2013 Nintendo Switch\u2122 2 Edition"
     },
     "01006F8002327000": {
         "latest": 0
@@ -51775,7 +51794,8 @@
     },
     "0100701026126000": {
         "65536": "4A6F619337A14D7E",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Sneaky All-Nighter 2"
     },
     "01007020044F0000": {
         "0": "23FD57974ECF6D42",
@@ -58377,7 +58397,8 @@
     },
     "01007E2025A8A000": {
         "65536": "F37734E8755533A8",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Arcade Archives SPACE INVADERS"
     },
     "01007E3006DDA000": {
         "0": "059DD87BEDE7C09C",
@@ -59044,8 +59065,9 @@
         "latest": 393216
     },
     "01007FA025C80000": {
+        "131072": "9EFEA8DAE1D537DC",
         "65536": "392B32F039F4B97D",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Cozy Tiny Home"
     },
     "01007FB00FC5E000": {
@@ -62407,7 +62429,8 @@
     },
     "010086F0265DC000": {
         "65536": "1C8A494AC376946E",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Whiskers Warehouse - Logic Puzzle Game"
     },
     "010087000428E000": {
         "0": "C109DCC51EB51584",
@@ -63670,6 +63693,7 @@
         "131072": "35530D55FAB389EF",
         "1310720": "F7AD592A1D908DE4",
         "1441792": "2542A14F897F87ED",
+        "1507328": "FB621852693C193F",
         "196608": "1783452334EE0BF1",
         "262144": "794F14BA15DE364B",
         "65536": "FC88C1E78D4A4E9F",
@@ -63678,7 +63702,7 @@
         "786432": "12FF5839D72E4DD3",
         "917504": "90E1B08C9443EF14",
         "983040": "411035242C38B833",
-        "latest": 1441792,
+        "latest": 1507328,
         "title": "Vampire Survivors"
     },
     "010089A0197E5000": {
@@ -73933,7 +73957,7 @@
         "262144": "E1ADEAE7C42A0713",
         "65536": "DF9D9CE09ACC1810",
         "latest": 262144,
-        "title": "BEYBLADE X EVOBATTLE"
+        "title": "BEYBLADE X EVOBATTLE Nintendo Switch 2 Edition"
     },
     "01009F100B0B8000": {
         "0": "2E6703DDCB6E0441",
@@ -74005,7 +74029,8 @@
     },
     "01009F2025CC4000": {
         "65536": "891C0AF9F4304F31",
-        "latest": 65536
+        "latest": 65536,
+        "title": "GameShop Tycoon"
     },
     "01009F3011004000": {
         "0": "56DE406668FA3CE1",
@@ -85214,7 +85239,8 @@
     },
     "0100B79025EE8000": {
         "65536": "45B735481A3D1076",
-        "latest": 65536
+        "latest": 65536,
+        "title": "hololive GoroGoro Mountain DX"
     },
     "0100B7A01386E000": {
         "0": "8AA6A9293630F8F5",
@@ -89765,7 +89791,8 @@
     },
     "0100C14016F6C000": {
         "131072": "46EFBA64CDC87D28",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Big Hops"
     },
     "0100C1401B5BC000": {
         "131072": "E5D80424087976BD",
@@ -92318,6 +92345,10 @@
         "latest": 262144,
         "title": "Mushoku Tensei: Jobless Reincarnation Quest of Memories"
     },
+    "0100C670238F2000": {
+        "131072": "511F071CF044A790",
+        "latest": 131072
+    },
     "0100C6800B934000": {
         "0": "AFB2B454A735A13F",
         "1114112": "4071EE069414EF10",
@@ -93444,7 +93475,8 @@
     "0100C8E00F50A000": {
         "0": "7AC8CBFA0D59A04C",
         "131072": "A8952E95FD60AF44",
-        "latest": 131072,
+        "196608": "F9CE708016862744",
+        "latest": 196608,
         "title": "Asdivine Kamura"
     },
     "0100C8E00F50B000": {
@@ -94306,7 +94338,8 @@
     },
     "0100CAA025EE6000": {
         "65536": "D2AE60ACF8A8B590",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Train Your Brain! Spot the Difference with space Photos"
     },
     "0100CAB006F54000": {
         "0": "CC7F81F69760A46A",
@@ -96163,7 +96196,8 @@
     },
     "0100CED02474E000": {
         "65536": "736FB6B32F563B02",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Little Cozy Home"
     },
     "0100CEE0140CE000": {
         "0": "17CEF19E3899E814",
@@ -96989,7 +97023,8 @@
     },
     "0100D0902359C000": {
         "65536": "C3C8151A245462C9",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Goodnight Universe"
     },
     "0100D0A009310000": {
         "0": "866EB653D251C11B",
@@ -98462,7 +98497,8 @@
     "0100D3D02477A000": {
         "131072": "A13EC647CC522057",
         "65536": "E2D0487CCC17A235",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Suika Game Planet"
     },
     "0100D3E017BC2000": {
         "0": "38371958D4E4B666",
@@ -99313,7 +99349,8 @@
     },
     "0100D5B0266DA000": {
         "65536": "949277D93D0CAF09",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Xmas Survivors"
     },
     "0100D5C01708E000": {
         "0": "80D7ED689DE3D51F",
@@ -101716,7 +101753,8 @@
     },
     "0100DA40256D4000": {
         "65536": "5538E4483CA1B92F",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Sugoroku New Year's Party"
     },
     "0100DA500EFB0000": {
         "0": "7EBE34097E7D7E78",
@@ -107310,7 +107348,7 @@
         "917504": "D409E82B9000AA32",
         "983040": "FA3FB8D6C8B648EB",
         "latest": 1245184,
-        "title": "Stardew Valley"
+        "title": "Stardew Valley: Nintendo Switch 2 Edition"
     },
     "0100E65006968000": {
         "0": "1E8B34BD05082149",
@@ -114637,7 +114675,8 @@
     },
     "0100F59026B1E000": {
         "65536": "2AF36F74E90BC877",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Hentai Banana"
     },
     "0100F5A008126000": {
         "latest": 0,
@@ -116825,7 +116864,8 @@
     },
     "0100FA5025B0A000": {
         "65536": "B3EBD5F35B8CCFF6",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Heavy Duty"
     },
     "0100FA6014264000": {
         "0": "8AB702F1AA67984C",
@@ -117650,7 +117690,8 @@
     },
     "0100FC1023B3E000": {
         "65536": "6B064FF5642679C3",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Platform 6 ONLINE"
     },
     "0100FC2012680000": {
         "0": "136AE19A30CD704E",
@@ -118284,7 +118325,8 @@
     },
     "0100FDE0228C6000": {
         "131072": "98E08E337019C2A6",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Taxi Chaos 2"
     },
     "0100FDE023332000": {
         "131072": "C620FB8F5859E9F5",
