@@ -170,7 +170,10 @@ class ArchiveWorker:
             break
         if last_html:
             try:
-                with open(f"{path}.html", "wb") as f:
+                dbg_dir = Path("out")
+                dbg_dir.mkdir(exist_ok=True)
+                dbg_file = dbg_dir.joinpath(f"{Path(path).name}.html")
+                with open(dbg_file, "wb") as f:
                     f.write(last_html)
             except Exception:
                 pass
