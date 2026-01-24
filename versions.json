@@ -4817,6 +4817,11 @@
         "latest": 524288,
         "title": "Hidden in my Paradise"
     },
+    "01000AE02448C000": {
+        "65536": "605258CBDD630548",
+        "latest": 65536,
+        "title": "Fighting Force Collection"
+    },
     "01000AF013090000": {
         "0": "B973F4653A7C0A41",
         "262144": "2E9BCBECCC0DD14F",
@@ -17927,7 +17932,8 @@
         "589824": "B5DF7052EB2ED3DE",
         "65536": "16B2539026E94030",
         "655360": "605AF52D69CF49B7",
-        "latest": 655360,
+        "720896": "FCB32EC9E9F7F8BE",
+        "latest": 720896,
         "title": "Hello Kitty Island Adventure Nintendo Switch 2 Edition"
     },
     "010027A017744000": {
@@ -37313,6 +37319,11 @@
         "65536": "26F39C34D10E164B",
         "latest": 131072,
         "title": "Pharaoh's Riches"
+    },
+    "010050B023036000": {
+        "65536": "105B1A02C9479EA5",
+        "latest": 65536,
+        "title": "Football, Tactics & Glory \u2013 Treble Deluxe Edition"
     },
     "010050C0124CE000": {
         "0": "AD3F318C64AE5541",
@@ -89370,8 +89381,9 @@
         "title": "Run Chicken, run!"
     },
     "0100BFD0234FC000": {
+        "131072": "3926230E40BB8A93",
         "65536": "CDCE5BC55AB45BD2",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Dark Quest 4"
     },
     "0100BFE00865E000": {
@@ -90935,8 +90947,9 @@
         "title": "Nephenthesys"
     },
     "0100C3501E278000": {
+        "131072": "7741C69505F44465",
         "65536": "D53F507D6F47878C",
-        "latest": 65536,
+        "latest": 131072,
         "title": "HELLCARD"
     },
     "0100C3501FE4E000": {
@@ -91728,8 +91741,9 @@
         "196608": "5A1B1AFF076A2755",
         "262144": "A95277FD210B3067",
         "327680": "6F0010E33F6C156E",
+        "393216": "7AA3A12B45A9E2F1",
         "65536": "47F6015E7F7C0E32",
-        "latest": 327680,
+        "latest": 393216,
         "title": "MR. ELEVATOR"
     },
     "0100C50007070000": {
@@ -109055,8 +109069,9 @@
     },
     "0100E9C023D28000": {
         "131072": "27A3FE7248D6C5DF",
+        "196608": "F0B84C4B8DFE955E",
         "65536": "44EFB93DDAA52737",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Silver Bullet"
     },
     "0100E9D007432000": {
@@ -112494,8 +112509,9 @@
     },
     "0100F0B025506000": {
         "131072": "1ED5E7A21D783DFC",
+        "196608": "835360957A17B000",
         "65536": "7E8EC9604BEB5C1D",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Blood: Refreshed Supply\u2122"
     },
     "0100F0C00685E000": {
