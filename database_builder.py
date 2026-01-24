@@ -66,7 +66,10 @@ class HighFPSCheatsInfo:
 
     def fetch_high_FPS_cheats_version(self):
         token = os.getenv('GITHUB_TOKEN')
-        headers = {'Authorization': f'token {token}'}
+        if token is not None:
+            headers = {'Authorization': f'token {token}'}
+        else:
+            headers = {}
         repo_info = self.scraper.get(self.api_url, headers=headers).json()
         last_commit_date = repo_info.get("commit").get("commit").get("author").get("date")
         return date.fromisoformat(last_commit_date.split("T")[0])
@@ -107,7 +110,10 @@ class ArchiveWorker():
             titles_path.mkdir(parents=True)
         for tid in cheats_path.iterdir():
             tid_path = titles_path.joinpath(tid.stem)
-            tid_path.mkdir()
+            try:
+                tid_path.mkdir()
+            except FileExistsError:
+                continue
             with open(tid, "r") as cheats_file:
                 cheats_dict = json.load(cheats_file)
             for key, value in cheats_dict.items():
@@ -135,7 +141,10 @@ class ArchiveWorker():
         titles_path = out_path.joinpath("titles")
         self.touch_all(titles_path)
         shutil.make_archive(str(titles_path.resolve()), "zip", root_dir=out_path, base_dir="titles")
-        contents_path = titles_path.rename(titles_path.parent.joinpath("contents"))
+        try:
+            contents_path = titles_path.rename(titles_path.parent.joinpath("contents"))
+        except OSError:
+            contents_path = out_path.joinpath("contents")
         self.touch_all(contents_path)
         shutil.make_archive(str(contents_path.resolve()), "zip", root_dir=out_path, base_dir="contents")
 
@@ -188,7 +197,10 @@ if __name__ == '__main__':
 
         print("building complete cheat sheets")
         out_path = Path("complete")
-        out_path.mkdir()
+        try:
+           out_path.mkdir()
+        except FileExistsError:
+           pass
         archive_worker.build_cheat_files(cheats_path, out_path)
 
         print("Creating the archives")

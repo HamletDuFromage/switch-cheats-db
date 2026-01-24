@@ -11,3 +11,79 @@ changelog.md
 __pycache__/
 *.rar
 *.zip
+
+
+
+###########  macOS Silliness  ###########
+.DS_Store
+
+
+
+###########  Python Silliness  ###########
+__pycache__*
+
+
+
+###########  Environmental Variables and Secrets ###########
+.env*
+*.envrc*
+*.git-credentials*
+
+
+
+###########  pyCharm Silliness  ###########
+.idea/
+.idea*
+
+
+
+###########  VSCode Silliness  ###########
+.vscode/
+.vscode*
+
+
+
+###########  Common File Extensions  ###########
+*.csv
+*.log
+*.tmp
+*.txt
+
+
+
+###########  Common Folders  ###########
+/develop*
+/hold*
+/example*
+/ignore*
+/interpreter*
+/json*
+/logs*
+/response*
+/scratch*
+/test*
+/*temp*
+/unsorted*
+/archive*
+/script_results*
+
+
+
+###########  File Copies  ###########
+copy_of_*
+
+
+
+###########  Python Virtual Environments  ###########
+venv/
+.venv
+venv/
+.venv/
+
+
+
+###########  Self and Ignore Ignore  ###########
+.gitignore
+.ignore*
+
+
