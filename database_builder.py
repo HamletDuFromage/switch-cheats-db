@@ -44,16 +44,42 @@ class GbatempCheatsInfo:
         self.gbatemp_version = self.fetch_gbatemp_version()
 
     def fetch_gbatemp_version(self):
-        page = self.scraper.get(f"{self.page_url}/updates")
-        soup = BeautifulSoup(page.content, "html.parser")
-        dates = soup.find("div", {"class": "block-container"}).find_all(
-            "time", {"class": "u-dt"}
-        )
-        version = max([datetime.fromisoformat(date.get("datetime")) for date in dates])
-        return version.date()
+        try:
+            page = self.scraper.get(f"{self.page_url}/updates")
+            soup = BeautifulSoup(page.content, "html.parser")
+            candidates = []
+            container = soup.find("div", {"class": "block-container"})
+            if container:
+                for t in container.find_all("time", {"class": "u-dt"}):
+                    dt = t.get("datetime")
+                    if dt:
+                        try:
+                            candidates.append(datetime.fromisoformat(dt))
+                        except Exception:
+                            pass
+            if not candidates:
+                for t in soup.select("time.u-dt"):
+                    dt = t.get("datetime")
+                    if dt:
+                        try:
+                            candidates.append(datetime.fromisoformat(dt))
+                        except Exception:
+                            pass
+            if candidates:
+                return max(candidates).date()
+            print("Warning: unable to parse dates from GBAtemp updates page")
+            return None
+        except Exception as e:
+            print(f"Error fetching GBAtemp version: {e}")
+            return None
 
     def has_new_cheats(self, database_version):
-        return self.gbatemp_version > database_version
+        try:
+            return (self.gbatemp_version is not None) and (
+                self.gbatemp_version > database_version
+            )
+        except Exception:
+            return False
 
     def get_gbatemp_version(self):
         return self.gbatemp_version
