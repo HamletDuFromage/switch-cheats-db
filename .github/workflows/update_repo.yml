@@ -1,37 +1,51 @@
 name: Update Repo
 
 on:
-  schedule: 
+  schedule:
     - cron:  '30 22 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-repo
+  cancel-in-progress: true
 
 jobs:
   update-versions:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.x
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: requirements_versions.txt
 
       - name: install dependencies
         run: |
-          if [ -f ./requirements_versions.txt ]; then pip3 install -r ./requirements_versions.txt; fi
+          set -euxo pipefail
+          if [ -f ./requirements_versions.txt ]; then python -m pip install -r ./requirements_versions.txt; fi
 
       - name: run script
         run: |
-          python3 process_versions.py
+          set -euxo pipefail
+          python process_versions.py
 
       - name: push changes
         run: |
+          set -euxo pipefail
           git config --global user.name 'HamletDuFromage'
           git config --global user.email '90281142+Homletbot@users.noreply.github.com'
           git add versions.json
           git add versions/*
-          if [[ `git status --porcelain` ]]; then
+          if [ -n "$(git status --porcelain)" ]; then
             git commit -m "automatic: updated version files"
             git push
           else
@@ -42,57 +56,64 @@ jobs:
   update-cheats:
     needs: update-versions
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: checkout repo content
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
-          ref: 'master'
+          ref: master
+          fetch-depth: 0
 
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.x
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: requirements_cheats.txt
 
       - name: install python dependencies
         run: |
-          if [ -f ./requirements_cheats.txt ]; then pip3 install -r ./requirements_cheats.txt; fi
+          set -euxo pipefail
+          if [ -f ./requirements_cheats.txt ]; then python -m pip install -r ./requirements_cheats.txt; fi
 
       - name: install dependencies
-        run: sudo apt-get install unrar
+        run: |
+          set -euxo pipefail
+          sudo apt-get update -y
+          sudo apt-get install -y unrar
 
       - name: run python script
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python3 database_builder.py
+          set -euxo pipefail
+          python database_builder.py
 
       - name: push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          set -euxo pipefail
           git config --global user.name 'HomletBot'
           git config --global user.email '90281142+Homletbot@users.noreply.github.com'
           git add cheats/ cheats_gfx/ cheats_gbatemp/ README.md
-          stat=$(git status --porcelain)
-          if [ ! -z "$stat" ]; then
+          stat="$(git status --porcelain)"
+          if [ -n "$stat" ]; then
             git commit -m "automatic: updated cheat files"
             git push
-            version=$(cat VERSION)
-            echo -e "Last updated: **$version**\n\nCheats updated:↷\n\`\`\`\n$(echo $stat | xargs python3 build_changelog.py)\n\`\`\`" > changelog.md
-            gh release create $version -F changelog.md
-            gh release upload $version ./gbatemp/contents.zip --clobber
-            gh release upload $version ./gbatemp/titles.zip --clobber
+            version="$(cat VERSION)"
+            printf "Last updated: **%s**\n\nCheats updated:↷\n\`\`\`\n%s\n\`\`\`\n" "$version" "$(echo "$stat" | xargs python build_changelog.py)" > changelog.md
+            gh release create "$version" -F changelog.md
+            gh release upload "$version" ./gbatemp/contents.zip --clobber
+            gh release upload "$version" ./gbatemp/titles.zip --clobber
 
-            mv ./NX-60FPS-RES-GFX-Cheats-main/contents.zip ./NX-60FPS-RES-GFX-Cheats-main/contents_60fps-res-gfx.zip
-            mv ./NX-60FPS-RES-GFX-Cheats-main/titles.zip ./NX-60FPS-RES-GFX-Cheats-main/titles_60fps-res-gfx.zip
-            gh release upload $version ./NX-60FPS-RES-GFX-Cheats-main/contents_60fps-res-gfx.zip --clobber
-            gh release upload $version ./NX-60FPS-RES-GFX-Cheats-main/titles_60fps-res-gfx.zip --clobber
+            mv ./NX-60FPS-RES-GFX-Cheats-main/contents.zip ./NX-60FPS-RES-GFX-Cheats-main/contents_60fps-res-gfx.zip || true
+            mv ./NX-60FPS-RES-GFX-Cheats-main/titles.zip ./NX-60FPS-RES-GFX-Cheats-main/titles_60fps-res-gfx.zip || true
+            gh release upload "$version" ./NX-60FPS-RES-GFX-Cheats-main/contents_60fps-res-gfx.zip --clobber || true
+            gh release upload "$version" ./NX-60FPS-RES-GFX-Cheats-main/titles_60fps-res-gfx.zip --clobber || true
 
             mv ./complete/contents.zip ./complete/contents_complete.zip
             mv ./complete/titles.zip ./complete/titles_complete.zip
-            gh release upload $version ./complete/contents_complete.zip --clobber
-            gh release upload $version ./complete/titles_complete.zip --clobber
-            gh release upload $version VERSION --clobber
+            gh release upload "$version" ./complete/contents_complete.zip --clobber
+            gh release upload "$version" ./complete/titles_complete.zip --clobber
+            gh release upload "$version" VERSION --clobber
           else
             echo "Nothing to commit!"
           fi

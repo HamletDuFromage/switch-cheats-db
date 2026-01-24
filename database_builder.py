@@ -9,6 +9,8 @@ from pathlib import Path
 from datetime import date, datetime
 from bs4 import BeautifulSoup
 import os
+from io import BytesIO
+from urllib.parse import urljoin
 
 import process_cheats
 import re
@@ -97,32 +99,98 @@ class ArchiveWorker:
     def sanitize_name(self, name: str) -> str:
         return re.sub(r'[<>:"/\\|?*]', "_", name).strip()
 
-    def download_archive(self, url, path):
-        dl = self.scraper.get(url, allow_redirects=True)
-        open(path, "wb").write(dl.content)
+    def download_archive(self, url, path, referer=None):
+        headers = {}
+        if referer:
+            try:
+                self.scraper.get(referer, allow_redirects=True, timeout=30)
+            except Exception:
+                pass
+            headers["Referer"] = referer
+        ua = getattr(self.scraper, "headers", {}).get("User-Agent")
+        if ua:
+            headers["User-Agent"] = ua
+        headers["Accept"] = "*/*"
+        headers["Accept-Language"] = "en-US,en;q=0.9"
+        last_html = None
+        for _ in range(3):
+            resp = self.scraper.get(
+                url, allow_redirects=True, headers=headers, timeout=60
+            )
+            content = resp.content
+            buf = BytesIO(content)
+            if zipfile.is_zipfile(buf) or rarfile.is_rarfile(buf):
+                with open(path, "wb") as f:
+                    f.write(content)
+                return True
+            try:
+                soup = BeautifulSoup(content, "html.parser")
+                last_html = content
+                direct = None
+                for a in soup.find_all("a", href=True):
+                    href = a["href"]
+                    if href.lower().endswith(".zip") or href.lower().endswith(".rar"):
+                        direct = href
+                        break
+                if direct:
+                    if direct.startswith("/"):
+                        base = referer if referer else url
+                        url = urljoin(base, direct)
+                    else:
+                        url = direct
+                    continue
+            except Exception:
+                pass
+            break
+        if last_html:
+            try:
+                with open(f"{path}.html", "wb") as f:
+                    f.write(last_html)
+            except Exception:
+                pass
+        print("Download blocked or did not return an archive")
+        return False
 
     def extract_archive(self, path, extract_path=None):
-        if rarfile.is_rarfile(path):
+        if not os.path.exists(path):
+            print(f"Archive not found: {path}")
+            return False
+
+        print(f"Extracting {path} to {extract_path}...")
+
+        if zipfile.is_zipfile(path):
+            print("Detected ZIP file.")
+            try:
+                zf = zipfile.ZipFile(path)
+                zf.extractall(path=extract_path)
+                print("Extracted using zipfile.")
+            except Exception as e:
+                print(f"zipfile extraction failed: {e}")
+                return False
+        elif rarfile.is_rarfile(path):
+            print("Detected RAR file.")
             try:
                 rf = rarfile.RarFile(path)
                 rf.extractall(path=extract_path)
+                print("Extracted using rarfile.")
             except rarfile.RarCannotExec:
                 print("rarfile failed, trying patool")
                 try:
                     import patoolib
-                except ImportError:
-                    return False
-                outdir = extract_path if extract_path else "."
-                if not os.path.exists(outdir):
-                    os.makedirs(outdir)
-                try:
+
+                    os.environ["PATH"] = (
+                        f"C:\\Program Files\\7-Zip;{os.environ.get('PATH','')}"
+                    )
+
+                    outdir = extract_path if extract_path else "."
+                    if not os.path.exists(outdir):
+                        os.makedirs(outdir)
                     patoolib.extract_archive(str(path), outdir=str(outdir))
-                except Exception:
-                    return False
-        elif zipfile.is_zipfile(path):
-            zf = zipfile.ZipFile(path)
-            zf.extractall(path=extract_path)
+                    print("Extracted using patool.")
+                except Exception as e:
+                    print(f"patool extraction failed: {e}")
         else:
+            print("Unknown archive format")
             return False
         return True
 
@@ -217,11 +285,17 @@ if __name__ == "__main__":
     ):
         archive_worker = ArchiveWorker()
         print(f"Downloading cheats")
-        archive_worker.download_archive(gbatemp.get_download_url(), archive_path)
-        try:
-            archive_worker.extract_archive(archive_path, "gbatemp")
-        except Exception as e:
-            print(f"Failed to extract GBAtemp cheats: {e}")
+        ok = archive_worker.download_archive(
+            gbatemp.get_download_url(), archive_path, referer=gbatemp.page_url
+        )
+        if ok:
+            try:
+                archive_worker.extract_archive(archive_path, "gbatemp")
+            except Exception as e:
+                print(f"Failed to extract GBAtemp cheats: {e}")
+                Path("gbatemp/titles").mkdir(parents=True, exist_ok=True)
+        else:
+            print("Skipping extraction for GBAtemp due to blocked download")
             Path("gbatemp/titles").mkdir(parents=True, exist_ok=True)
 
         archive_worker.download_archive(highfps.get_download_url(), archive_path)
