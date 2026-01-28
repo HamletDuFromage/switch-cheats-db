@@ -11,3 +11,4 @@ changelog.md
 __pycache__/
 *.rar
 *.zip
+.vscode

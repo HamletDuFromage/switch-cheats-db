@@ -4,7 +4,7 @@ import sys
 import json
 import re
 
-with open("versions.json", "r") as versions_file:
+with open("versions.json", "r", encoding="utf-8") as versions_file:
     versions = json.load(versions_file)
 
 for line in sys.argv:

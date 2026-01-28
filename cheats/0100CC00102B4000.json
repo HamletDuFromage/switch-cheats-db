@@ -97,7 +97,6 @@
         "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 07626BA8\n580F1000 00000018\n580F1000 000000A0\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
     },
     "attribution": {
-        "Tony Hawks Pro Skater 1+2 by Spider_Man and patjenova.txt": "note: Infinite Jump can be used after learning double jump\n",
         "Tony Hawk's Pro Skater 1 + 2.txt": "Included in the text file;\n\n[RRS]\n[Sky Lighting Quality]\n[MSAA]\n[AA]\n[Shadow]\n[SSAO]\n[Bloom]\n\nNote;\n\nThe [GFX Quality] Are For;\n\n[MSAA]\n[AA]\n[Shadow]\n[SSAO]\n[Bloom]\n\n=====\n\n[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.\nPlease use;\nHandheld RRS for Handheld Mode.\nDocked RRS for Docked Mode.\n\nSome GFX Codes has no Function/Effect to the Game.\n\nGFX Codes might not work if you are using Graphics Mods.\n\nCrash may occur if you activate the GFX Codes while in the Main Menu.\n\nUpdate#1;\n\nCorrected the [RRS]\n\nHandheld RRS 100% : 540p => 612p\nDocked RRS 100% : 720p => 920p\n\nBy @Hazerou"
     }
 }
