@@ -20,4 +20,4 @@ All credits go to the authors of the cheat codes.
 
 ## Cheats count
 
-59203 cheats in 2498 titles/5608 updates
+59225 cheats in 2499 titles/5612 updates
