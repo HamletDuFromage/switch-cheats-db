@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
+import os
 import json
 import requests
-import os
 
 
 class ProcessVersions:
@@ -46,8 +46,11 @@ class ProcessVersions:
             for ver in self.data[tid]:
                 try:
                     if "buildId" in self.data[tid][ver]["contentEntries"][0]:
-                        self.versions_dict[tid_base][str(self.data[tid][ver]["version"])
-                                                                    ] = self.data[tid][ver]["contentEntries"][0]["buildId"][:16].upper()
+                        self.versions_dict[tid_base][
+                            str(self.data[tid][ver]["version"])
+                        ] = self.data[tid][ver]["contentEntries"][0]["buildId"][
+                            :16
+                        ].upper()
                 except:
                     pass
                 latest_ver = max(latest_ver, int(ver))
@@ -55,7 +58,7 @@ class ProcessVersions:
 
     def check_for_changes(self):
         try:
-            with open(self.json_path, 'r') as read_file:
+            with open(self.json_path, "r") as read_file:
                 old = json.load(read_file)
             if old != self.versions_dict:
                 self.changed = True
@@ -65,18 +68,17 @@ class ProcessVersions:
             self.changed = True
 
     def write_master_files(self):
-        with open(self.json_path, 'w') as json_file:
+        with open(self.json_path, "w") as json_file:
             json.dump(self.versions_dict, json_file, indent=4, sort_keys=True)
 
     def write_title_files(self):
-        if not(os.path.exists(self.dir_path)):
+        if not (os.path.exists(self.dir_path)):
             os.mkdir(self.dir_path)
 
         for tid in self.versions_dict:
             path = f"{self.dir_path}{tid}.json"
-            with open(path, 'w') as json_file:
-                json.dump(
-                    self.versions_dict[tid], json_file, indent=4, sort_keys=True)
+            with open(path, "w") as json_file:
+                json.dump(self.versions_dict[tid], json_file, indent=4, sort_keys=True)
 
     def create_names_dict(self, url):
         out = dict()
@@ -85,10 +87,10 @@ class ProcessVersions:
         return out
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     processor = ProcessVersions(
         "https://raw.githubusercontent.com/blawar/titledb/master/cnmts.json",
         "https://raw.githubusercontent.com/blawar/titledb/master/US.en.json",
-        "https://raw.githubusercontent.com/blawar/titledb/master/versions.json"
+        "https://raw.githubusercontent.com/blawar/titledb/master/versions.json",
     )
     processor.update_versions()

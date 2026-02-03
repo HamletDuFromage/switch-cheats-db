@@ -1,14 +1,16 @@
 # switch-cheat-db
+
 [![Update Repo](https://github.com/HamletDuFromage/switch-cheats-db/actions/workflows/update_repo.yml/badge.svg)](https://github.com/HamletDuFromage/switch-cheats-db/actions/workflows/update_repo.yml)
 
 A database of cheats for the Nintendo Switch. It updates once a day, see the date in the release. Download individual cheats directly from your Switch with [All-in-One-Switch-Updater](https://github.com/HamletDuFromage/aio-switch-updater)
 
-Mirror from https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/ and https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats
+Mirror from <https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/> and <https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats>
 
 All credits go to the authors of the cheat codes.
 
-## Downloads 
-https://github.com/HamletDuFromage/switch-cheats-db/releases/latest
+## Downloads
+
+<https://github.com/HamletDuFromage/switch-cheats-db/releases/latest>
 
 |                           | Atmosphère                  | Legacy (old AMS, SXOS)    |
 |---------------------------|-----------------------------|---------------------------|
@@ -17,4 +19,5 @@ https://github.com/HamletDuFromage/switch-cheats-db/releases/latest
 | Gameplay + graphics codes | contents_complete.zip       | titles_complete.zip       |
 
 ## Cheats count
-58553 cheats in 2476 titles/5568 updates
+
+59225 cheats in 2499 titles/5612 updates

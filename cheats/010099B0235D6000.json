@@ -1,0 +1,21 @@
+{
+    "A09CC5A1609701B1": {
+        "[Breeze beta99p 7th Domain : Tree of Chaos 1.0.1 TID: 010099B0235D6000 BID: A09CC5A1609701B1]": "[Breeze beta99p 7th Domain : Tree of Chaos 1.0.1 TID: 010099B0235D6000 BID: A09CC5A1609701B1]\n\n",
+        "[Inf. HP]": "[Inf. HP]\n580F0000 05977818 \n580F1000 000000B8 \n580F1000 00000020 \n580F1000 00000018 \n580F1000 00000110 \n780F0000 00000024 \n640F0000 0000006C 000022B8\n\n",
+        "[Inf. EP]": "[Inf. EP]\n580F0000 05977818 \n580F1000 000000B8 \n580F1000 00000020 \n580F1000 00000018 \n580F1000 00000110 \n780F0000 000000A4 \n640F0000 00000096 000022B8\n\n",
+        "[Coin Multiplier x16]": "[Coin Multiplier x16]\n04000000 01A083B8 0B131108\n\n",
+        "[Coin Multiplier x64]": "[Coin Multiplier x64]\n04000000 01A083B8 0B131908\n\n",
+        "[Inf. Coins]": "[Inf. Coins]\n04000000 01A083B4 B94012E8 \n04000000 01A083B4 14A4EA89 \n04000000 04342DD8 18000068 \n04000000 04342DDC B90012E8 \n04000000 04342DE0 175B1576 \n04000000 04342DE4 000D9038\n\n",
+        "[Soul Fragment Multiplier x2]": "[Soul Fragment Multiplier x2]\n04000000 0198B518 0B080528\n\n",
+        "[Inf. Soul Fragments]": "[Inf. Soul Fragments]\n04000000 0198B510 B9401688 \n04000000 0198B510 14A6DE32 \n04000000 04342DD8 18000068 \n04000000 04342DDC B9001688 \n04000000 04342DE0 175921CD \n04000000 04342DE4 000D9038\n\n",
+        "[Exp. Multiplier x4]": "[Exp. Multiplier x4]\n04000000 01A0875C 4B090AC8\n\n",
+        "[Exp. Multiplier x8]": "[Exp. Multiplier x8]\n04000000 01A0875C 4B090EC8\n\n",
+        "[Exp. Multiplier x16]": "[Exp. Multiplier x16]\n04000000 01A0875C 4B0912C8\n\n",
+        "[Inf. Jump]": "[Inf. Jump]\n04000000 01A0F318 51000108\n\n",
+        "[Inf. Talent Points when used]": "[Inf. Talent Points when used]\n04000000 019994B8 52806F29\n\n",
+        "[Item Multiplier on pick-up x16]": "[Item Multiplier on pick-up x16]\n04000000 0198BCE8 0B081128\n\n",
+        "[\ue0a5 Items 888x on pick-up (hold R)]": "[\ue0a5 Items 888x on pick-up (hold R)]\n04000000 0198BCD8 B9401A69 \n80000080 \n04000000 0198BCD8 52806F09 \n20000000\n\n",
+        "[Cheat off (Use after disabling cheats)]": "[Cheat off (Use after disabling cheats)]\n04000000 01A083B8 0B130108 \n04000000 0198B510 B9401688 \n04000000 01A0875C 4B0902C8 \n04000000 01A0F318 51000508 \n04000000 019994B8 B942C669 \n04000000 0198BCE8 0B080128\n\n",
+        "[Cheats by: Deadqool]": "[Cheats by: Deadqool]\n20000000\n\n"
+    }
+}
