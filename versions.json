@@ -30708,7 +30708,8 @@
         "262144": "A179DD4F4BFB3A04",
         "327680": "C2D14E1A5A788D6A",
         "393216": "A6094BABFDEC21FF",
-        "latest": 393216
+        "524288": "7B51DC4B113F4F52",
+        "latest": 524288
     },
     "01004220240B8000": {
         "131072": "066C2A11C535671F",
@@ -55257,7 +55258,8 @@
         "262144": "734C4A6ED33AE189",
         "327680": "8E3D8436FCAA4C78",
         "393216": "8C81B58E23598B52",
-        "latest": 393216
+        "524288": "913B4D56415E96FF",
+        "latest": 524288
     },
     "010076100AAC8000": {
         "0": "D6B6D3FF30EF724C",
@@ -57477,7 +57479,7 @@
         "917504": "9454E50E518F2E9D",
         "983040": "AE02B14F7240BAD4",
         "latest": 3604480,
-        "title": "Asphalt Legends"
+        "title": "Asphalt Legends \u2013 Nintendo Switch\u2122 2 Edition"
     },
     "01007B000C835000": {
         "latest": 65536
@@ -60695,7 +60697,8 @@
         "262144": "754B366C17A2A577",
         "327680": "D45002D206976B20",
         "393216": "604B3C9B15C4CAC6",
-        "latest": 393216,
+        "524288": "EB39450B8BEE080B",
+        "latest": 524288,
         "title": "EVERYBODY'S GOLF HOT SHOTS"
     },
     "010082200AFBE000": {
@@ -61570,6 +61573,11 @@
     "010083A01D456000": {
         "327680": "BF4B1C838026081B",
         "latest": 327680
+    },
+    "010083A01FC3C000": {
+        "65536": "B9FD1974BD595921",
+        "latest": 65536,
+        "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.2 BONUS CONTENT"
     },
     "010083B00989C000": {
         "196608": "059A7A106F012612",
@@ -64007,6 +64015,11 @@
         "0": "D5ABC6B5622735BC",
         "latest": 0,
         "title": "City Super Hero 3D - Flying Legend Warriors Deluxe Simulator"
+    },
+    "010089601C4F6000": {
+        "65536": "EFB90E818579EB66",
+        "latest": 65536,
+        "title": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
     },
     "01008960206CE000": {
         "65536": "10F77E5150DEE13D",
@@ -75342,6 +75355,11 @@
         "458752": "D7CE8CA847D6B517",
         "latest": 458752,
         "title": "Mai: Child of Ages"
+    },
+    "0100A0A0264E4000": {
+        "65536": "C42DDE8C8C208023",
+        "latest": 65536,
+        "title": "Peaceful Fishing Story"
     },
     "0100A0B018A72000": {
         "131072": "5EABF05A814EBB1B",
@@ -87271,6 +87289,11 @@
         "65536": "3E934902F2DE55BA",
         "latest": 65536,
         "title": "Kickback Slug: Cosmic Courier"
+    },
+    "0100BA9026DAC000": {
+        "65536": "4B9C558B7D0E9919",
+        "latest": 65536,
+        "title": "PancitoMerge"
     },
     "0100BAA00AE16000": {
         "0": "8B36F764EB350C41",
@@ -110974,7 +110997,8 @@
         "262144": "D3CA3F7A4AE6F9A0",
         "327680": "386C265C45562002",
         "393216": "6C434B4568552ADB",
-        "latest": 393216
+        "524288": "E6CBBF3CD57FDC9E",
+        "latest": 524288
     },
     "0100EBF00E702000": {
         "0": "5EC132F471291B7E",
