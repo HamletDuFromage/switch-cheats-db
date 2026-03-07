@@ -22571,6 +22571,7 @@
     "010030F01A882000": {
         "1048576": "EDCB31A5EE1A30D4",
         "1114112": "EDCB31A5EE1A30D4",
+        "1179648": "EDCB31A5EE1A30D4",
         "131072": "1A0F8C2B424A04FA",
         "196608": "722EEBCAA8C3A9DF",
         "262144": "99F4FDF73139E2D4",
@@ -22583,7 +22584,7 @@
         "786432": "A83B36CAE21BF36F",
         "917504": "EDCB31A5EE1A30D4",
         "983040": "EDCB31A5EE1A30D4",
-        "latest": 1114112,
+        "latest": 1179648,
         "title": "The Garden Path"
     },
     "010030F01AB56000": {
@@ -26168,6 +26169,11 @@
         "65536": "2EFD050BA143CC73",
         "latest": 262144,
         "title": "Adventure of Samsara"
+    },
+    "0100387021150000": {
+        "65536": "6D09F3F9D5A9CF8C",
+        "latest": 65536,
+        "title": "Aquatic Life: Fish Simulator RPG"
     },
     "0100388008758000": {
         "0": "B8D9A18B060E1609",
@@ -35834,6 +35840,10 @@
         "65536": "6FD2804852CBAF56",
         "latest": 196608,
         "title": "Hope's Farm 2"
+    },
+    "01004C4026206000": {
+        "65536": "2035B599BFF68B0D",
+        "latest": 65536
     },
     "01004C500AAF6000": {
         "0": "991FB2697BEFB543",
@@ -48923,8 +48933,9 @@
         "262144": "5DE8CAA957EF295C",
         "327680": "3923A27DD764846B",
         "393216": "536E9DED8B94CA5F",
+        "458752": "E5DBFA6F70CAFC02",
         "65536": "2864919ECD31540E",
-        "latest": 393216,
+        "latest": 458752,
         "title": "Lost Eidolons: Veil of the Witch"
     },
     "010068E00D346000": {
@@ -68810,8 +68821,9 @@
     "01009210258C8000": {
         "131072": "F237D26CB977DCFA",
         "196608": "95455962847FD76F",
+        "262144": "BFD1781B45FCF744",
         "65536": "8ED0EFE0D1534B12",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Escape from Ever After"
     },
     "0100922008008000": {
@@ -71012,8 +71024,9 @@
         "latest": 0
     },
     "010096602407A000": {
+        "131072": "DF5D991EC3EEF359",
         "65536": "30A5F1DA240BE8C9",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Laysara: Summit Kingdom"
     },
     "0100967012972000": {
@@ -75720,8 +75733,9 @@
         "title": "Mai: Child of Ages"
     },
     "0100A0A0264E4000": {
+        "131072": "5735B230BB34195F",
         "65536": "C42DDE8C8C208023",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Peaceful Fishing Story"
     },
     "0100A0B018A72000": {
@@ -83219,8 +83233,9 @@
         "131072": "5882464F72277CBA",
         "196608": "DC1481BD9FA69009",
         "262144": "AD6451501BCC9DF3",
+        "327680": "D0A7FE7966BAC9FE",
         "65536": "A9D5FD3A135583BD",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Cat Girl Survivor"
     },
     "0100B0E0086F6000": {
@@ -111141,8 +111156,9 @@
         "title": "Tattoos and their meanings"
     },
     "0100EB401D4D4000": {
+        "131072": "A489A094A4D31114",
         "65536": "0E59202CCD70099A",
-        "latest": 65536,
+        "latest": 131072,
         "title": "The Gardener Simulator - Plant, Grow, Decorate, Build Sim"
     },
     "0100EB500D92E000": {
@@ -111628,8 +111644,9 @@
         "title": "Finger Football: Goal in Two"
     },
     "0100EC00239B6000": {
+        "131072": "DFB47D97575EFF16",
         "65536": "14F7AAA56702AB0F",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Bubblegum Galaxy"
     },
     "0100EC100A790000": {
@@ -115050,6 +115067,11 @@
         "65536": "1909496B0F1C9843",
         "latest": 65536,
         "title": "Roombo: First Blood"
+    },
+    "0100F3001174E000": {
+        "65536": "9E62B5141033B224",
+        "latest": 65536,
+        "title": "A Dance of Fire and Ice"
     },
     "0100F30012CBE000": {
         "0": "CC9FE06BBBF8E64C",
@@ -119913,7 +119935,9 @@
     "0100FDE023332000": {
         "131072": "C620FB8F5859E9F5",
         "196608": "967E4A592060FA90",
-        "latest": 196608
+        "262144": "AE45BBDAB6CF920B",
+        "327680": "6FC87182BBB3A194",
+        "latest": 327680
     },
     "0100FDF0083A6000": {
         "0": "0E9B5ADC8D098547",
