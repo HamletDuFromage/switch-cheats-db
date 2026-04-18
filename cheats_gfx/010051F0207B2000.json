@@ -1,7 +1,7 @@
 {
     "56BF85BD53541346": {
         "[60 FPS Max]": "[60 FPS Max]\n58000000 039687F0\n64000000 00000000 00000001\n78000000 00000020\n64000000 00000000 0000003C\n78000000 00000024\n64000000 00000000 00000001\n\n",
-        "[30 FPS Max (Default)]": "[30 FPS Max (Default)]\n58000000 039687F0\n64000000 00000000 00000002\n78000000 00000020\n64000000 00000000 0000001E\n78000000 00000024\n64000000 00000000 0000000\n\n"
+        "[30 FPS Max (Default)]": "[30 FPS Max (Default)]\n58000000 039687F0\n64000000 00000000 00000002\n78000000 00000020\n64000000 00000000 0000001E\n78000000 00000024\n64000000 00000000 00000002\n\n"
     },
     "attribution": {
         "Tomodachi Life Living the Dream.txt": "By masagrator\nHow to update:\nFind nnMain()\nSearch where 0x300000002LL is written, you will find this way a main pointer used by cheat\n\nCheat adjusts max available nvn interval, game will adjust itself nvn interval based on available power\n"
