@@ -3121,7 +3121,8 @@
     },
     "0100073021FB8000": {
         "65536": "6D98F0A7457FDF42",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Snail's Knock Out!"
     },
     "010007400EB64000": {
         "0": "84FF631609802A7F",
@@ -4113,7 +4114,7 @@
         "196608": "F06D9626E5CC0C1B",
         "65536": "A1AFA2DB27CEABBC",
         "latest": 196608,
-        "title": "Chippy&Noppo"
+        "title": "Chippy&Noppo \u2013 Nintendo Switch 2 Edition"
     },
     "0100097016B04000": {
         "0": "5CF54F40F5886330",
@@ -4829,7 +4830,9 @@
         "title": "Dosa Divas"
     },
     "01000AC0262D4000": {
-        "latest": 65536
+        "65536": "558CD3861E658A8E",
+        "latest": 65536,
+        "title": "Princess Dress Up Collection Fives games in one"
     },
     "01000AD012D3A000": {
         "0": "C4E3499068FA6308",
@@ -6217,7 +6220,8 @@
     },
     "01000D6025FF4000": {
         "65536": "F1E115196BEA68EC",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Save My Scrap"
     },
     "01000D70049BE000": {
         "0": "049CFF364BF8144F",
@@ -6318,6 +6322,7 @@
         "title": "- Stuck With Naughty Housewives - \u3042\u307e\u3042\u307e\u4eba\u59bb\u5305\u56f2\u7db2"
     },
     "01000DA01F2A2000": {
+        "131072": "7C1D4A6C5704B4DD",
         "65536": "7C1D4A6C5704B4DD",
         "latest": 131072,
         "title": "Scoop it! Goldfish"
@@ -7653,7 +7658,7 @@
         "196608": "623FBC879BF27443",
         "458752": "623FBC879BF27443",
         "latest": 458752,
-        "title": "Sayonara Wild Hearts"
+        "title": "Sayonara Wild Hearts - Nintendo Switch 2 Edition"
     },
     "010010A00DA48000": {
         "0": "4FF05AB7916A0987",
@@ -8528,7 +8533,8 @@
     },
     "0100127025FBE000": {
         "65536": "528D6E140ACA8F77",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Serena Hanazono\u2019s Lost Item \uff5eSweet Memory\uff5e"
     },
     "0100128003A24000": {
         "0": "75B6F3935221AF6D",
@@ -9285,7 +9291,8 @@
     },
     "01001480270DA000": {
         "131072": "34CB1B58633E91D2",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Wax Heads"
     },
     "010014900865A000": {
         "0": "E6CE58BB80C0A41B",
@@ -9598,6 +9605,7 @@
         "title": "Light of Life"
     },
     "010015201E920000": {
+        "131072": "13B8440DA996F845",
         "65536": "13B8440DA996F845",
         "latest": 131072,
         "title": "Make it! Ikayaki"
@@ -12445,7 +12453,8 @@
         "0": "C4C6B7E425EBC6AA",
         "196608": "08561E5D7B7F442D",
         "262144": "9E365FE9EC3A52D3",
-        "latest": 262144,
+        "327680": "936B412953594E1B",
+        "latest": 327680,
         "title": "Escape Academy: The Complete Edition"
     },
     "01001B001C0E8000": {
@@ -16067,7 +16076,8 @@
     },
     "010022B02592E000": {
         "65536": "DD1C7E589628449D",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Jaleco Sports: Bases Loaded 2"
     },
     "010022C00E8D8000": {
         "0": "2187AD074D170546",
@@ -16367,6 +16377,7 @@
         "title": "SHINOBI NON GRATA"
     },
     "01002350252BA000": {
+        "65536": "601364FF2CD8C7B7",
         "latest": 65536,
         "title": "Rugrats: Retro Rewind Collection"
     },
@@ -19791,6 +19802,11 @@
         "latest": 393216,
         "title": "We Were Here Together"
     },
+    "01002AA026586000": {
+        "65536": "7BF2C9149CFE83D7",
+        "latest": 65536,
+        "title": "Maid of Salvation"
+    },
     "01002AB007FD2000": {
         "0": "6DA232F1929A838E",
         "65536": "3F8FFAD9352A760A",
@@ -19934,7 +19950,8 @@
     },
     "01002AE027500000": {
         "65536": "178F56AB5BA482FD",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Dead Stride"
     },
     "01002AF009470000": {
         "65536": "5D46F9C691045B81",
@@ -20812,6 +20829,7 @@
     "01002C70245A0000": {
         "131072": "468CF953F34CC07E",
         "196608": "72369509C75363D0",
+        "262144": "B13BF04EEF483437",
         "65536": "8C0D6633B623EC0C",
         "latest": 262144,
         "title": "Caves of Qud"
@@ -21453,7 +21471,8 @@
     },
     "01002DD0237BC000": {
         "196608": "D7E5501B0430D943",
-        "latest": 196608
+        "latest": 196608,
+        "title": "Tamashika"
     },
     "01002DE00C250000": {
         "0": "31D92C875B1CCA41",
@@ -21677,7 +21696,8 @@
     },
     "01002E4021FB4000": {
         "65536": "A6CA03350C9D12DB",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Toad's Soul Hopper"
     },
     "01002E5008C56000": {
         "131072": "27C5788257EB20E3",
@@ -26899,7 +26919,8 @@
     },
     "0100391021FB6000": {
         "65536": "B206EFC4D7484535",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Octo's Balloon Challenge"
     },
     "010039200EC66000": {
         "0": "19E14E0FAA3C8269",
@@ -32248,7 +32269,8 @@
     },
     "0100440023F08000": {
         "196608": "55D68424F5239685",
-        "latest": 196608
+        "latest": 196608,
+        "title": "A Storied Life: Tabitha"
     },
     "0100441018E7E000": {
         "0": "A8A4A650889E10F3",
@@ -32944,7 +32966,8 @@
     },
     "0100455026F70000": {
         "131072": "4AA68CEE47DFC1F0",
-        "latest": 131072
+        "latest": 131072,
+        "title": "GAME The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!~Dungeon and Mystery Girl~"
     },
     "01004560063CA000": {
         "0": "DCD630AB7E43C94E",
@@ -36825,7 +36848,8 @@
     },
     "01004D30231CE000": {
         "65536": "5CC369456A480239",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Nullstar: Solus"
     },
     "01004D400C870000": {
         "0": "DBD16FC221CE6B48",
@@ -38362,6 +38386,7 @@
     },
     "010050B02084A000": {
         "131072": "DA6116394C06A6E7",
+        "196608": "DA6116394C06A6E7",
         "65536": "26F39C34D10E164B",
         "latest": 196608,
         "title": "Pharaoh's Riches"
@@ -38902,7 +38927,9 @@
         "latest": 65536
     },
     "010051F0207B2000": {
-        "latest": 131072
+        "131072": "A1EFE1B6BBB0328F",
+        "latest": 131072,
+        "title": "Tomodachi Life\u2122: Living the Dream"
     },
     "010051F026082000": {
         "131072": "47EE65D95B6FEB68",
@@ -38957,7 +38984,8 @@
     },
     "0100520027514000": {
         "65536": "9F1F9BEFE0847F43",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Cat & Friends: Purrfect Jump"
     },
     "010052100D1B4000": {
         "0": "AD91BC3C6025E84C",
@@ -39317,7 +39345,8 @@
     },
     "010052D02475E000": {
         "196608": "2C0355D58CD0C3F0",
-        "latest": 196608
+        "latest": 196608,
+        "title": "Party Club"
     },
     "010052E011A62000": {
         "0": "EFCA22EFE0F0B141",
@@ -42727,7 +42756,8 @@
     },
     "01005A1026F9C000": {
         "65536": "030077F89422724F",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Bad Girls: Naughty Hands"
     },
     "01005A200F36C000": {
         "1114112": "77B71E32F927E975",
@@ -43010,6 +43040,10 @@
         "latest": 65536,
         "title": "Heretic's Fork"
     },
+    "01005AA0274FC000": {
+        "65536": "AE82654BD03FF458",
+        "latest": 65536
+    },
     "01005AB01119C000": {
         "0": "3151F262D103364F",
         "65536": "ED51A104C979704E",
@@ -43266,7 +43300,8 @@
     },
     "01005B7008C52000": {
         "262144": "705F87B75173ACB3",
-        "latest": 262144
+        "latest": 262144,
+        "title": "Pok\u00e9mon\u2122 Champions"
     },
     "01005B7016584000": {
         "0": "129A0FB28E39CD24",
@@ -43575,7 +43610,8 @@
     },
     "01005C2026F48000": {
         "65536": "458D2816CB3321D5",
-        "latest": 65536
+        "latest": 65536,
+        "title": "EGGCONSOLE Schwarzschild II PC-9801"
     },
     "01005C3014DA8000": {
         "0": "308266780D30F93D",
@@ -44316,7 +44352,8 @@
     "01005E002699C000": {
         "131072": "B1DE20C2397386E9",
         "196608": "6812078077B9A63F",
-        "latest": 196608
+        "latest": 196608,
+        "title": "Demon Castle Story \u2013 Nintendo Switch 2 Edition"
     },
     "01005E100A4F0000": {
         "0": "270BBAAA0CC10A49",
@@ -44823,7 +44860,8 @@
         "7864320": "30C917FAF0DEEE78",
         "7929856": "E81C05533EA833AB",
         "7995392": "BC28D283B845B86B",
-        "latest": 7995392,
+        "8126464": "C7CF42773B2E7843",
+        "latest": 8126464,
         "title": "Rocket League\u00ae"
     },
     "01005EE0036ED000": {
@@ -44863,7 +44901,9 @@
         "title": "Wetory"
     },
     "01005EE0240EE000": {
-        "latest": 65536
+        "65536": "E1FFD6EE988158C2",
+        "latest": 65536,
+        "title": "OPUS: Prism Peak"
     },
     "01005EF003FF2000": {
         "0": "F2DA1E131CD72241",
@@ -49149,6 +49189,7 @@
     "01006790238B8000": {
         "131072": "6717231B97E14AAE",
         "262144": "6907AFFDF0D05561",
+        "327680": "8AEF56FF0A541EC7",
         "latest": 327680,
         "title": "Pixel Cross Stitch Color by Number"
     },
@@ -50182,6 +50223,7 @@
     },
     "010069901E7E2000": {
         "131072": "96AFE1BDF2B3193C",
+        "196608": "96AFE1BDF2B3193C",
         "latest": 196608,
         "title": "Our Field Trip Adventure"
     },
@@ -51917,8 +51959,10 @@
         "title": "Unimime - Unicycle Madness"
     },
     "01006D00241E6000": {
+        "131072": "96E8B6715027CE8E",
+        "196608": "E43862C1AC483D28",
         "65536": "2FB082E4EC0D2824",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Unrailed 2: Back on Track \u2013 Nintendo Switch\u2122 2 Edition"
     },
     "01006D100E1DE000": {
@@ -54383,6 +54427,7 @@
         "3801088": "60CDFD4189044994",
         "3866624": "BA62C303A05076DB",
         "393216": "360E5E8B27E5EBA5",
+        "3997696": "086099BD8F512E85",
         "458752": "3F8FEA3EB7F67739",
         "524288": "2D87D138C67CD7B5",
         "589824": "FFA906F07FEBD3B8",
@@ -54393,7 +54438,7 @@
         "851968": "76F61A924FDA43FB",
         "917504": "46C20CEAF3C35E50",
         "983040": "D17C46696338F4CD",
-        "latest": 3866624,
+        "latest": 3997696,
         "title": "Pok\u00e9mon Caf\u00e9 ReMix"
     },
     "010072401447A000": {
@@ -57003,7 +57048,8 @@
     },
     "0100771025398000": {
         "131072": "44F516FB5C3D0125",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Elementallis"
     },
     "0100772012186000": {
         "0": "F004B539328CE545",
@@ -58100,7 +58146,8 @@
     "010079701DBEA000": {
         "196608": "4EC852AFC1751387",
         "65536": "DDFC0A458715167E",
-        "latest": 196608
+        "latest": 196608,
+        "title": "Muv-Luv Unlimited: THE DAY AFTER - Episode 00 REMASTERED"
     },
     "01007970245B0000": {
         "131072": "9B533A8A3AAA4762",
@@ -58811,7 +58858,8 @@
     },
     "01007B4025AB6000": {
         "131072": "75CF0C4D4CB1160C",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Saint Slayer: Spear of Sacrilege"
     },
     "01007B5002F56000": {
         "0": "61FA6EEDA9A63672",
@@ -59647,7 +59695,8 @@
     },
     "01007D1024760000": {
         "65536": "0BBEF935CE4F9564",
-        "latest": 65536
+        "latest": 65536,
+        "title": "MotoGP\u212226"
     },
     "01007D200C512000": {
         "0": "F7D9BA24E4E83341",
@@ -60030,7 +60079,8 @@
     },
     "01007DF02783C000": {
         "65536": "B97EA3D0E1C441B9",
-        "latest": 65536
+        "latest": 65536,
+        "title": "EGGCONSOLE PSYCHO WORLD MSX2"
     },
     "01007E0013780000": {
         "0": "5C4F303B409F6406",
@@ -61161,7 +61211,8 @@
     },
     "010080602797C000": {
         "65536": "DC1E9E2C717D7EAC",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Make it! Gyoza"
     },
     "0100807008868000": {
         "0": "6DD899727DF0A841",
@@ -61344,6 +61395,7 @@
         "1769472": "F49FF0464BC169B6",
         "1900544": "D1FA6C41A2872DBD",
         "196608": "B2747BE377A94187",
+        "1966080": "A5C917BE44BE7EEC",
         "262144": "B43A9BFA64D8CB36",
         "327680": "9C9868BC02D1DF00",
         "393216": "81DDA770A9787EC9",
@@ -61354,7 +61406,7 @@
         "655360": "73EAAF61BD6B6402",
         "720896": "D125B89F21AF0905",
         "983040": "682B3C18B0E38716",
-        "latest": 1900544
+        "latest": 1966080
     },
     "010080E01ADEC000": {
         "0": "F32BA4669F5A201C",
@@ -63229,7 +63281,9 @@
     },
     "0100848024E74000": {
         "131072": "44DCF662E37F7151",
-        "latest": 131072
+        "196608": "814C683817C41918",
+        "latest": 196608,
+        "title": "Indoor Baseball"
     },
     "010084802788A000": {
         "65536": "DA79DAEFFF622FDE",
@@ -65200,7 +65254,8 @@
     },
     "0100890024498000": {
         "131072": "7388C541343792D8",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Monster Crown: Sin Eater"
     },
     "0100891020682000": {
         "65536": "5C50C2DD2E3EE7F8",
@@ -65476,6 +65531,7 @@
         "131072": "EC297B83BFBD9D69",
         "196608": "D32ACEB80915D919",
         "327680": "4F5CA5803BF7BFAE",
+        "393216": "217FA58B2935B14B",
         "65536": "670454A66F03CA0B",
         "latest": 393216
     },
@@ -68630,7 +68686,8 @@
     },
     "01008F6027526000": {
         "65536": "4E1BBDFCB745922E",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Pixie Plates"
     },
     "01008F70089E4000": {
         "0": "68172B4B133F984D",
@@ -70145,7 +70202,8 @@
     },
     "010092A02768E000": {
         "131072": "9E95B1C9440132E9",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Alice in Wonder Underland AIWU"
     },
     "010092B0091D0000": {
         "0": "158AF044F62A4AA2",
@@ -70744,7 +70802,8 @@
     },
     "010093C0275EA000": {
         "65536": "49F7197BC4AE87E4",
-        "latest": 65536
+        "latest": 65536,
+        "title": "The Day I Became a Bird"
     },
     "010093D00AC38000": {
         "0": "EE0E11642386950A",
@@ -71264,7 +71323,8 @@
     },
     "010094D023A28000": {
         "65536": "E74A74A47611A545",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Drill Core"
     },
     "010094E00B52E000": {
         "0": "E84666307ED171A4",
@@ -72672,6 +72732,7 @@
         "title": "The Hand of Merlin"
     },
     "010097D027232000": {
+        "65536": "42124BECE24BF87A",
         "latest": 65536
     },
     "010097E00ADC2000": {
@@ -73028,11 +73089,13 @@
     },
     "01009890221C0000": {
         "131072": "983356FAC6DDC567",
-        "latest": 131072
+        "196608": "1ED2D230EBE4AC34",
+        "latest": 196608
     },
     "010098902793E000": {
         "65536": "0164D32DCCDCA085",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Monster Rush Survivors"
     },
     "010098A00D358000": {
         "65536": "00128EC8A57BB349",
@@ -73842,7 +73905,8 @@
     },
     "01009A6020DC0000": {
         "196608": "143DC2FB381A84AA",
-        "latest": 196608
+        "latest": 196608,
+        "title": "Ninjam!"
     },
     "01009A700A538000": {
         "0": "8CF4EFD6E3C69EEC",
@@ -76302,7 +76366,7 @@
         "131072": "36249F41384DE4DA",
         "65536": "36249F41384DE4DA",
         "latest": 131072,
-        "title": "Lorelei and the Laser Eyes"
+        "title": "Lorelei and the Laser Eyes - Nintendo Switch 2 Edition"
     },
     "01009F7017378000": {
         "0": "615F694C1EB6B912",
@@ -77618,6 +77682,7 @@
         "393216": "0474EDE5B57308D0",
         "458752": "65B5A52735045598",
         "524288": "D1362725519DEA51",
+        "589824": "C97AD8AF7135A2D5",
         "65536": "4940A9C4621C9F85",
         "latest": 589824,
         "title": "My Cozy Room"
@@ -77671,6 +77736,11 @@
         "131072": "561393E57ADD6C09",
         "latest": 131072,
         "title": "Mad Skills BMX 2"
+    },
+    "0100A23026CF6000": {
+        "65536": "DD5239214FF9A4EE",
+        "latest": 65536,
+        "title": "Slots & Daggers"
     },
     "0100A24011F52000": {
         "0": "067BAB3182C2D1F9",
@@ -78531,7 +78601,7 @@
     "0100A40025FEC000": {
         "262144": "25E86247580CA7D2",
         "latest": 262144,
-        "title": "Kingdom's Return: Time-Eating Fruit and the Ancient Monster"
+        "title": "Kingdom's Return: Time-Eating Fruit and the Ancient Monster Nintendo Switch 2 Edition"
     },
     "0100A4100DDC2000": {
         "0": "34ED0E0BB6535A49",
@@ -78725,6 +78795,11 @@
         "0": "EB5AAA7FA5B76649",
         "latest": 0,
         "title": "Rover Mechanic Simulator"
+    },
+    "0100A4702064A000": {
+        "65536": "DE263704B50AF6E3",
+        "latest": 65536,
+        "title": "Water Blast Shooter - Wet Gun"
     },
     "0100A470245F0000": {
         "65536": "4C83CE5FA4B418CB",
@@ -79328,7 +79403,7 @@
         "262144": "16346DDFF65961FF",
         "327680": "7919EB22D79D420B",
         "latest": 327680,
-        "title": "Dinkum"
+        "title": "Dinkum Nintendo Switch 2 Edition"
     },
     "0100A5A022B14000": {
         "131072": "2E049E21624484CF",
@@ -79809,7 +79884,8 @@
     },
     "0100A6C027D40000": {
         "196608": "C1C3D36AB54161FA",
-        "latest": 196608
+        "latest": 196608,
+        "title": "AquaDream"
     },
     "0100A6D009840000": {
         "0": "4C1D3ADF0CC1E646",
@@ -80084,7 +80160,8 @@
     "0100A7501DBF0000": {
         "196608": "566F39A26433EC41",
         "65536": "05180A38FBBE3D14",
-        "latest": 196608
+        "latest": 196608,
+        "title": "Muv-Luv Unlimited: THE DAY AFTER - Episode 03 REMASTERED"
     },
     "0100A7501F978000": {
         "65536": "A9744AF9698056D4",
@@ -83339,7 +83416,8 @@
     },
     "0100AE2027E8A000": {
         "65536": "0F3BD3EBD1FE729D",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Trick Room Mysteries"
     },
     "0100AE300CB00000": {
         "0": "D219B26F75DFF8C5",
@@ -84639,7 +84717,8 @@
     "0100B0F01DBEC000": {
         "196608": "9227E3B9E3F0BAF0",
         "65536": "94B482EB4B8C0833",
-        "latest": 196608
+        "latest": 196608,
+        "title": "Muv-Luv Unlimited: THE DAY AFTER - Episode 01 REMASTERED"
     },
     "0100B10002904000": {
         "0": "82092DF70410F821",
@@ -84862,7 +84941,9 @@
         "title": "Gynoug"
     },
     "0100B15027342000": {
-        "latest": 65536
+        "65536": "4F6CA5D321C60E37",
+        "latest": 65536,
+        "title": "Who tells your story"
     },
     "0100B16009C10000": {
         "0": "2AD8FF948353FDFD",
@@ -87863,6 +87944,11 @@
         "latest": 0,
         "title": "Zeus Quest - The Rebirth of Earth"
     },
+    "0100B7E026A50000": {
+        "65536": "AD12F941702FF70A",
+        "latest": 65536,
+        "title": "R-Type Dimensions III"
+    },
     "0100B7F00B4E6000": {
         "0": "6FC62DA3E9000A41",
         "65536": "C3254AB78858F14D",
@@ -88762,7 +88848,8 @@
     },
     "0100B9E023D0A000": {
         "65536": "16C6CB4DFE2A5601",
-        "latest": 65536
+        "latest": 65536,
+        "title": "KLETKA"
     },
     "0100B9F00B58E000": {
         "0": "5A98322D779BF750",
@@ -89105,7 +89192,8 @@
     },
     "0100BA80272D0000": {
         "65536": "8B839F649AB5FC90",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Because It's a Dream, It Must Be Romance: Connecting Hearts Across Realities"
     },
     "0100BA9012B36000": {
         "0": "3885A17F2D28B1E7",
@@ -89476,6 +89564,7 @@
         "131072": "C29F904FA5E03857",
         "196608": "CEB03E58D8B23F73",
         "262144": "310337CB9634562E",
+        "327680": "9BB5742489836461",
         "latest": 327680,
         "title": "Make Way"
     },
@@ -91817,6 +91906,7 @@
         "latest": 0
     },
     "0100BFC01D976000": {
+        "131072": "288320918C2C9DD7",
         "65536": "624154808886AC35",
         "latest": 131072,
         "title": "Virtual Boy\u2122 \u2013 Nintendo Classics"
@@ -92168,7 +92258,8 @@
     },
     "0100C0A025DBC000": {
         "131072": "23EAE782F82B05FB",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Fruit Mountain Party \u2013 Nintendo Switch 2 Edition"
     },
     "0100C0B00D290000": {
         "0": "4289862A976CFE4C",
@@ -93809,8 +93900,9 @@
         "latest": 0
     },
     "0100C3D018624000": {
+        "131072": "46BE119E47C60DFB",
         "65536": "0CF779F68B0A17EB",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Quartet"
     },
     "0100C3D0212A4000": {
@@ -94181,6 +94273,11 @@
         "latest": 0,
         "title": "Flip The Buddy"
     },
+    "0100C4A027536000": {
+        "65536": "E8AA0E3E9C1D3ACB",
+        "latest": 65536,
+        "title": "Reptilian Rising"
+    },
     "0100C4B0034B2000": {
         "0": "3DDD4AC9EFF8361A",
         "65536": "06D12779FB7721E5",
@@ -94306,7 +94403,8 @@
     },
     "0100C4F0226AA000": {
         "65536": "9B9A4A8369A7432B",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Anthology of The Killer"
     },
     "0100C50007070000": {
         "0": "59024102424AC443",
@@ -94489,7 +94587,8 @@
     },
     "0100C53021FB2000": {
         "65536": "101DC8E76586DD15",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Pirarucu's Money Rush"
     },
     "0100C54013D04000": {
         "131072": "D5767878A7EE1D40",
@@ -95385,7 +95484,8 @@
     },
     "0100C6D027354000": {
         "65536": "2C394FC0E6586FE0",
-        "latest": 65536
+        "latest": 65536,
+        "title": "PEPPERED: An Existential Platformer"
     },
     "0100C6E0047C8000": {
         "0": "8B144AD8A24C344B",
@@ -95652,7 +95752,8 @@
     "0100C7701DBEE000": {
         "196608": "40AD6D9030224400",
         "65536": "B12E0ABAF6977C28",
-        "latest": 196608
+        "latest": 196608,
+        "title": "Muv-Luv Unlimited: THE DAY AFTER - Episode 02 REMASTERED"
     },
     "0100C77024B9A000": {
         "65536": "F2027A960A0FEDE4",
@@ -96831,6 +96932,7 @@
         "latest": 0
     },
     "0100CA001D972000": {
+        "131072": "0EEADA19701B5C67",
         "65536": "624154808886AC35",
         "latest": 131072
     },
@@ -97479,8 +97581,9 @@
     },
     "0100CB4027124000": {
         "131072": "FFC8E4921812E641",
+        "196608": "9B4E7F507F4CE320",
         "65536": "FFC8E4921812E641",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Game With Balls"
     },
     "0100CB5009A2C000": {
@@ -98359,7 +98462,9 @@
         "title": "Things Too Ugly"
     },
     "0100CD10266C2000": {
-        "latest": 65536
+        "65536": "B430787D97B92448",
+        "latest": 65536,
+        "title": "Firework"
     },
     "0100CD2014058000": {
         "0": "4A7FAA0580B90985",
@@ -99839,7 +99944,8 @@
     },
     "0100D060251AA000": {
         "65536": "38F597AD152B4771",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Hello, Yoshi!"
     },
     "0100D07002CD6000": {
         "0": "EBBD6F32A5194443",
@@ -100783,6 +100889,7 @@
     },
     "0100D24011150000": {
         "262144": "2DE486A9627EBA7A",
+        "327680": "D4CBE84E2842BC19",
         "latest": 327680
     },
     "0100D24012A04000": {
@@ -100904,7 +101011,8 @@
     },
     "0100D280276A2000": {
         "65536": "6292D8C5550CDD3E",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Find My Frogs"
     },
     "0100D29019BE4000": {
         "0": "2568B187959D32D1",
@@ -101446,6 +101554,7 @@
     "0100D3D02477A000": {
         "131072": "A13EC647CC522057",
         "196608": "0C75A71D9F747B60",
+        "262144": "B4AB11EAEB4402BA",
         "65536": "E2D0487CCC17A235",
         "latest": 262144,
         "title": "Suika Game Planet"
@@ -101758,8 +101867,9 @@
     "0100D4901A8D4000": {
         "131072": "812B14A799AC6C57",
         "196608": "812B14A799AC6C57",
+        "262144": "3123C0BB69225B7C",
         "65536": "50F3BF0BBF48A8D1",
-        "latest": 196608,
+        "latest": 262144,
         "title": "DESERTED"
     },
     "0100D4901B41C000": {
@@ -101984,6 +102094,7 @@
     },
     "0100D4F01FC36000": {
         "196608": "59D8389806DFE45A",
+        "262144": "59D8389806DFE45A",
         "latest": 262144,
         "title": "Werewolf Goldfish"
     },
@@ -102001,6 +102112,7 @@
         "131072": "2E0D4C1974FF916A",
         "196608": "DE685862E0D9AE25",
         "262144": "9D9AB0497A93B90B",
+        "327680": "9D9AB0497A93B90B",
         "65536": "81D2452500838DEA",
         "latest": 327680,
         "title": "Macho Shot"
@@ -103191,7 +103303,8 @@
     },
     "0100D730260E4000": {
         "65536": "1BC38E7887E51D67",
-        "latest": 65536
+        "latest": 65536,
+        "title": "PICROSS S KONAMI ANTIQUES edition"
     },
     "0100D7400F2E4000": {
         "0": "41BE051332866CD8",
@@ -106003,7 +106116,8 @@
     },
     "0100DCC0247E8000": {
         "65536": "A936F059B50D49F4",
-        "latest": 65536
+        "latest": 65536,
+        "title": "R-TYPE DX: Music Encore"
     },
     "0100DCD013CDA000": {
         "0": "D0B7A673AF8EA967",
@@ -106023,6 +106137,11 @@
         "196608": "AB67AA22B6E39923",
         "latest": 196608,
         "title": "LUNAR Remastered Collection"
+    },
+    "0100DCD01F306000": {
+        "65536": "8FBE1091802CEC67",
+        "latest": 65536,
+        "title": "Mina the Hollower - Nintendo Switch 2 Edition"
     },
     "0100DCD025378000": {
         "131072": "01CCEDA78EAC97CF",
@@ -106847,7 +106966,8 @@
     },
     "0100DE801C69E000": {
         "65536": "6EB4C83CEA070462",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Axe Cop"
     },
     "0100DE9005170000": {
         "0": "599BB2CCA7AB9A0A",
@@ -106934,7 +107054,8 @@
     },
     "0100DEB026A58000": {
         "65536": "3A695F7771C965A8",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Kitchen Wars"
     },
     "0100DEC00A934000": {
         "0": "86D9EA9CA4680295",
@@ -107374,7 +107495,8 @@
     },
     "0100DFD026430000": {
         "196608": "EBDB1DC9EBE3C7C8",
-        "latest": 196608
+        "latest": 196608,
+        "title": "inKONBINI: One Store. Many Stories"
     },
     "0100DFE00F002000": {
         "0": "52B45AB71E411B4D",
@@ -107564,7 +107686,8 @@
     },
     "0100E04020D1E000": {
         "65536": "923A65CFBA1D6440",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Harvest Cafe"
     },
     "0100E0500FDE8000": {
         "0": "4578235CD67ACD41",
@@ -107749,7 +107872,8 @@
     },
     "0100E09026E42000": {
         "131072": "95EE2E5B72FCFB31",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Skyship Quest Story \u2013 Nintendo Switch 2 Edition"
     },
     "0100E0A010520000": {
         "0": "AA90062235EAEE44",
@@ -110832,7 +110956,8 @@
     },
     "0100E6B02672A000": {
         "131072": "CCC8E702D18E2D1B",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Rumbral"
     },
     "0100E6C00EB12000": {
         "0": "047C4360AAC81043",
@@ -115502,7 +115627,8 @@
     },
     "0100F05027506000": {
         "65536": "524D8F5F92E9320A",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Dracamar"
     },
     "0100F06012874000": {
         "0": "9710329B8A7DAA42",
@@ -115702,7 +115828,7 @@
         "524288": "D4AC3EF2EF1F4D6A",
         "65536": "7E8EC9604BEB5C1D",
         "latest": 524288,
-        "title": "Blood: Refreshed Supply\u2122"
+        "title": "Blood: Refreshed Supply\u2122 - Nintendo Switch 2 Edition"
     },
     "0100F0C00685E000": {
         "65536": "F37C3B8077AD4604",
@@ -119132,6 +119258,7 @@
         "262144": "0097C1A5DDBB5FD4",
         "393216": "CEC12FF30F6802FE",
         "458752": "2701524CAE039C9F",
+        "524288": "0FD058796B39B08D",
         "latest": 524288,
         "title": "Tiny Bookshop"
     },
@@ -120015,6 +120142,7 @@
         "655360": "9BA4E15366BEFD65",
         "720896": "C0F48BAFE8B13585",
         "786432": "AC2D39CC4C41B9A7",
+        "851968": "436D208926AA2437",
         "latest": 851968,
         "title": "Arranger: A Role-Puzzling Adventure"
     },
