@@ -86883,7 +86883,8 @@
     },
     "0100B5B01AC50000": {
         "131072": "BFF1792BA790E4D2",
-        "latest": 131072,
+        "196608": "3F28ED56EA0FFE5A",
+        "latest": 196608,
         "title": "Lucky Tower Ultimate"
     },
     "0100B5B01ACCE000": {
@@ -89968,8 +89969,9 @@
     "0100BC2020A26000": {
         "131072": "115A17E26F9C6E63",
         "196608": "4D4CE9848CFEF8CB",
+        "262144": "FF424C8BB9A2FA52",
         "65536": "AB58B543BE10F634",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Chico's Rebound"
     },
     "0100BC300CB48000": {
