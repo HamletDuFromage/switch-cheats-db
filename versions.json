@@ -949,8 +949,9 @@
         "0": "463770288019264E",
         "131072": "9D9B8F6419C74C40",
         "196608": "9D9B8F6419C74C40",
+        "262144": "9D9B8F6419C74C40",
         "65536": "4F7151FE80421841",
-        "latest": 196608
+        "latest": 262144
     },
     "010002300C632000": {
         "0": "F7264D065B79804C",
@@ -975,8 +976,9 @@
         "title": "MechanixMind: IQ Puzzle Adventure"
     },
     "010002302429A000": {
+        "131072": "B18B18DA7C8D4290",
         "65536": "C33A9CD988EF0C25",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Cottonville"
     },
     "0100024008310000": {
@@ -2938,6 +2940,11 @@
         "65536": "F346F5B06509D7FB",
         "latest": 131072,
         "title": "Noah's Dilemma"
+    },
+    "010006C0279B0000": {
+        "65536": "340322647B969F2A",
+        "latest": 65536,
+        "title": "Shadows of the Afterland"
     },
     "010006D00D0E6000": {
         "0": "875EB96CF4531A3C",
@@ -5105,6 +5112,11 @@
         "65536": "E29AEFA0B29E1EBE",
         "latest": 131072,
         "title": "Bobby Six Seven"
+    },
+    "01000B5025C24000": {
+        "65536": "33E478123B118B0C",
+        "latest": 65536,
+        "title": "Mori Carta"
     },
     "01000B6007A3C000": {
         "0": "028062D98A63EE4F",
@@ -8760,8 +8772,9 @@
     "010012F01C00C000": {
         "0": "16CD6A8AB2EFF72A",
         "131072": "28D15F810375B494",
+        "196608": "ECDE5A569B8C16AC",
         "65536": "E0E5C4895C3EC1C0",
-        "latest": 131072,
+        "latest": 196608,
         "title": "Dream Town Island"
     },
     "010012F01D8DA000": {
@@ -19327,7 +19340,7 @@
         "262144": "51DD17AE241EC5E2",
         "327680": "CEF1B07797E4A025",
         "latest": 327680,
-        "title": "Dark Auction"
+        "title": "Dark Auction - Nintendo Switch 2 Edition"
     },
     "010029B00CC3E000": {
         "0": "87E57573FBF0574D",
@@ -19495,6 +19508,11 @@
         "65536": "ABB4B6148CA3FAFC",
         "latest": 262144,
         "title": "Railbound"
+    },
+    "010029E027C52000": {
+        "131072": "DF08B845E2770520",
+        "latest": 131072,
+        "title": "Touhou Yukkuri Mountain \u2013 Nintendo Switch 2 Edition"
     },
     "010029F00C876000": {
         "0": "3D4B8ED386372547",
@@ -21439,6 +21457,10 @@
         "65536": "EBC5657503651C65",
         "latest": 65536,
         "title": "El Panadero -The Baker-"
+    },
+    "01002DC027A54000": {
+        "65536": "1435E02A3FB196B5",
+        "latest": 65536
     },
     "01002DD004972000": {
         "0": "3FB9D0C7512B2244",
@@ -32294,7 +32316,8 @@
     },
     "0100440023F08000": {
         "196608": "55D68424F5239685",
-        "latest": 196608,
+        "262144": "3205386A45ABCF80",
+        "latest": 262144,
         "title": "A Storied Life: Tabitha"
     },
     "0100441018E7E000": {
@@ -35733,6 +35756,11 @@
         "65536": "33DCA4B2E988CBAC",
         "latest": 196608,
         "title": "Clouzy!"
+    },
+    "01004AC0204D8000": {
+        "65536": "B72A728F804EBC20",
+        "latest": 65536,
+        "title": "Table Flip Simulator"
     },
     "01004AD00E094000": {
         "0": "18B5C2661DA11045",
@@ -42985,6 +43013,10 @@
         "latest": 0,
         "title": "Airship Defender"
     },
+    "01005A7020B7C000": {
+        "65536": "F06D9626E5CC0C1B",
+        "latest": 65536
+    },
     "01005A7022A32000": {
         "65536": "EC77822D8CC70D4D",
         "latest": 65536,
@@ -46029,7 +46061,8 @@
     },
     "010060D025890000": {
         "65536": "D8D3D4DA96C13EA9",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Psyvariar 3 \u2013 Nintendo Switch\u2122 2 Edition"
     },
     "010060E009062000": {
         "0": "D4341C64C6080E4E",
@@ -50356,8 +50389,9 @@
     "010069D018AC2000": {
         "0": "B173C53415F10114",
         "131072": "41399FA171152A12",
+        "196608": "F6B1BEB6D036B9C5",
         "65536": "EFD4A77DBA161C06",
-        "latest": 131072,
+        "latest": 196608,
         "title": "HunterX"
     },
     "010069E0156B8000": {
@@ -58907,7 +58941,8 @@
     },
     "01007B4025AB6000": {
         "131072": "75CF0C4D4CB1160C",
-        "latest": 131072,
+        "196608": "12723F6C8E190E4E",
+        "latest": 196608,
         "title": "Saint Slayer: Spear of Sacrilege"
     },
     "01007B5002F56000": {
@@ -63530,8 +63565,9 @@
         "title": "Wash Simulator - Clean Garage, House, Cars Business Tycoons"
     },
     "0100851027C08000": {
+        "131072": "E72304F6589F056F",
         "65536": "162CB42A2CE1F362",
-        "latest": 65536
+        "latest": 131072
     },
     "0100852014574000": {
         "0": "E0B1871C024F4136",
@@ -67874,8 +67910,9 @@
         "262144": "B75DC12C6B9C2C11",
         "327680": "5E2DBA80E517211B",
         "393216": "0508C357C89F2740",
+        "524288": "A4BC5893C2AE8B64",
         "65536": "95C376332C385D51",
-        "latest": 458752,
+        "latest": 524288,
         "title": "Neon Inferno"
     },
     "01008DE0121F4000": {
@@ -69088,6 +69125,7 @@
         "1835008": "C6F5D7298E0DA0B4",
         "1900544": "AED0F6D2983D00D8",
         "196608": "F71EE0DCAFACD5E9",
+        "1966080": "071D033812A1DC7D",
         "262144": "6C7E0479183520B5",
         "327680": "B47C62641E09A4DD",
         "393216": "325669E569DB99F6",
@@ -69097,7 +69135,7 @@
         "65536": "83CCDCC860D1EB06",
         "655360": "3B026D9D64CB3A28",
         "720896": "3EB59F26B1D4B36A",
-        "latest": 1900544,
+        "latest": 1966080,
         "title": "Don't Starve Together"
     },
     "010090100EA18000": {
@@ -70464,7 +70502,8 @@
     },
     "0100930026340000": {
         "196608": "BA4316BF2434280C",
-        "latest": 196608,
+        "262144": "67641884C5DC2BC5",
+        "latest": 262144,
         "title": "Jay and Silent Bob: Chronic Blunt Punch"
     },
     "010093100DA04000": {
@@ -71312,6 +71351,11 @@
         "0": "F9CC8467C2E6217D",
         "latest": 0,
         "title": "Into The Sky"
+    },
+    "010094A020248000": {
+        "65536": "806569144FF130F6",
+        "latest": 65536,
+        "title": "Backrooms"
     },
     "010094A020256000": {
         "65536": "BE6C52411DAC0068",
@@ -88290,8 +88334,9 @@
         "title": "Magic Bubble Shooter: Classic Bubbles Arcade"
     },
     "0100B88028710000": {
+        "131072": "E867C6D4DE8E01E4",
         "65536": "6A7DD9399DB347D2",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Do You even Forklift?"
     },
     "0100B8900EFA6000": {
@@ -91513,8 +91558,10 @@
     },
     "0100BED01E6EE000": {
         "131072": "87F1CEF6D52392AE",
+        "196608": "E16613EBC332626B",
+        "262144": "7CEB989706B7E24C",
         "65536": "0F84B387CFA166B6",
-        "latest": 131072,
+        "latest": 262144,
         "title": "SWORN"
     },
     "0100BEE01015E000": {
@@ -93815,8 +93862,9 @@
         "title": "Poppy Playtime: Chapter 1"
     },
     "0100C38024DE6000": {
+        "196608": "38002695DB2C6419",
         "65536": "B1550FC79DCFE9AD",
-        "latest": 65536
+        "latest": 196608
     },
     "0100C39009EEE000": {
         "latest": 0
@@ -95368,7 +95416,8 @@
         "7864320": "3EF6C2C7F2B76861",
         "7929856": "2CC4038187DD5E69",
         "8126464": "8BC7AF59454DD218",
-        "latest": 8126464,
+        "8192000": "95A6FA84A0380C92",
+        "latest": 8192000,
         "title": "Brawlhalla"
     },
     "0100C6800D770000": {
@@ -101649,8 +101698,9 @@
         "131072": "A13EC647CC522057",
         "196608": "0C75A71D9F747B60",
         "262144": "B4AB11EAEB4402BA",
+        "327680": "E1855A4966F1BF67",
         "65536": "E2D0487CCC17A235",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Suika Game Planet"
     },
     "0100D3E017BC2000": {
@@ -106235,8 +106285,9 @@
         "title": "LUNAR Remastered Collection"
     },
     "0100DCD01F306000": {
+        "131072": "AB45D02C9F0EF652",
         "65536": "8FBE1091802CEC67",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Mina the Hollower - Nintendo Switch 2 Edition"
     },
     "0100DCD025378000": {
@@ -106471,7 +106522,8 @@
         "786432": "FE54F7B53D9A8051",
         "851968": "CF8D5F9A35E1BDAF",
         "917504": "43C4231DCE87557A",
-        "latest": 917504,
+        "983040": "631522A9727C3799",
+        "latest": 983040,
         "title": "LOLLIPOP CHAINSAW RePOP Nintendo Switch 2 Edition"
     },
     "0100DD3021252000": {
@@ -109337,8 +109389,9 @@
         "title": "Garden Life: A Cozy Simulator"
     },
     "0100E38021D9E000": {
+        "131072": "B4D83A1309D605B6",
         "65536": "BC6CF56837EB7CC7",
-        "latest": 65536,
+        "latest": 131072,
         "title": "LOVE ETERNAL"
     },
     "0100E3900B598000": {
@@ -116496,7 +116549,8 @@
     },
     "0100F1B026B30000": {
         "196608": "77D242E945610944",
-        "latest": 196608,
+        "262144": "7311BBB0685FADEA",
+        "latest": 262144,
         "title": "Moomintroll: Winter's Warmth"
     },
     "0100F1C012E5A000": {
