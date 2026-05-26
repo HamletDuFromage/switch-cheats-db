@@ -14347,6 +14347,11 @@
         "latest": 131072,
         "title": "Fighter Aces: Sky Dominance"
     },
+    "01001F1022806000": {
+        "65536": "0CD1F81266B5C57F",
+        "latest": 65536,
+        "title": "Truck Simulator 25 - American Driver"
+    },
     "01001F200A536000": {
         "0": "430E737123D36448",
         "latest": 0,
@@ -21466,8 +21471,9 @@
         "title": "El Panadero -The Baker-"
     },
     "01002DC027A54000": {
+        "131072": "1435E02A3FB196B5",
         "65536": "1435E02A3FB196B5",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Pixel Game Maker Series P-PAN"
     },
     "01002DD004972000": {
@@ -33952,8 +33958,9 @@
     },
     "0100473022B70000": {
         "196608": "3F134A63AFCA462B",
+        "262144": "CDC07B657CA768CE",
         "65536": "D7F6BBC257076E5A",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Undivine"
     },
     "010047401512E000": {
@@ -44197,8 +44204,9 @@
         "title": "Nudel Tag"
     },
     "01005D301EBA2000": {
+        "131072": "FA131B1E5DE3AE94",
         "65536": "CC12017484472511",
-        "latest": 65536,
+        "latest": 131072,
         "title": "MULLET MADJACK"
     },
     "01005D400E058000": {
@@ -53355,7 +53363,8 @@
     },
     "01006FE01EB20000": {
         "196608": "C835B6EDEE944EAC",
-        "latest": 196608,
+        "262144": "66ECF60FCCE40E38",
+        "latest": 262144,
         "title": "Dungeon Arsenal"
     },
     "01006FE02465A000": {
@@ -82324,7 +82333,8 @@
         "524288": "E27FCA4AFD1FA0FB",
         "589824": "A5CD105F87F98066",
         "65536": "47A6C74154DDF5D4",
-        "latest": 589824,
+        "655360": "52ED1F56B498C391",
+        "latest": 655360,
         "title": "Crossout Legends"
     },
     "0100ABB00E352000": {
