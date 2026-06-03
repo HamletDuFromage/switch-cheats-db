@@ -4590,6 +4590,7 @@
         "1114112": "75D31685CF32386E",
         "1179648": "8563D95BDCD38F47",
         "1245184": "C9ACCFB1D5ED6154",
+        "1310720": "443A4BA4B9B2FDF3",
         "393216": "D04B1E2243E3E51C",
         "458752": "5391D7D51021C26B",
         "524288": "C7152DA887A736DE",
@@ -4598,7 +4599,7 @@
         "720896": "C5E620C6A70F8A14",
         "917504": "90E37299C4F50FF5",
         "983040": "BEDC006645B04D0C",
-        "latest": 1245184,
+        "latest": 1310720,
         "title": "Little Kitty, Big City"
     },
     "01000A4023AF4000": {
@@ -9333,7 +9334,8 @@
     },
     "01001480270DA000": {
         "131072": "34CB1B58633E91D2",
-        "latest": 131072,
+        "262144": "CB7D656C83CEC543",
+        "latest": 262144,
         "title": "Wax Heads"
     },
     "010014900865A000": {
@@ -18422,7 +18424,8 @@
     },
     "01002750208A0000": {
         "131072": "57C47F364F5C0B83",
-        "latest": 131072,
+        "196608": "57C47F364F5C0B83",
+        "latest": 196608,
         "title": "BAD END THEATER"
     },
     "0100276009872000": {
@@ -19392,7 +19395,8 @@
         "131072": "A9C96004E07FF4C3",
         "262144": "51DD17AE241EC5E2",
         "327680": "CEF1B07797E4A025",
-        "latest": 327680,
+        "393216": "CEF1B07797E4A025",
+        "latest": 393216,
         "title": "Dark Auction - Nintendo Switch 2 Edition"
     },
     "010029B00CC3E000": {
@@ -43760,8 +43764,9 @@
         "title": "Bakeborough"
     },
     "01005C2026F48000": {
+        "131072": "458D2816CB3321D5",
         "65536": "458D2816CB3321D5",
-        "latest": 65536,
+        "latest": 131072,
         "title": "EGGCONSOLE Schwarzschild II PC-9801"
     },
     "01005C3014DA8000": {
@@ -47570,8 +47575,9 @@
         "title": "SlidePuzzle"
     },
     "010063D024008000": {
+        "131072": "E252C0295D3B079A",
         "65536": "F97DD29858242FF8",
-        "latest": 65536,
+        "latest": 131072,
         "title": "LumenTale: Memories of Trey"
     },
     "010063E00BBDC000": {
@@ -59810,8 +59816,9 @@
     "01007CE020F5C000": {
         "131072": "F3AC701601E10332",
         "196608": "9D050DA2A1303FEB",
+        "262144": "F54CBA25024E38C4",
         "65536": "D3E7D8AA89BDAD65",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Trading Card Shop Simulator"
     },
     "01007CE023F2C000": {
@@ -60074,7 +60081,8 @@
         "2424832": "CCD0BFE0B15FA46A",
         "2490368": "105378198ECAE8B3",
         "2621440": "E46F5C6CB3A8632F",
-        "latest": 2621440,
+        "2686976": "53EF0B6236238348",
+        "latest": 2686976,
         "title": "Palia"
     },
     "01007D8019D22000": {
@@ -80137,6 +80145,11 @@
         "65536": "9D7976FA36E97D30",
         "latest": 196608
     },
+    "0100A6B02865E000": {
+        "65536": "1EB08B494360C96E",
+        "latest": 65536,
+        "title": "Cat&Rabbit Magic Farming"
+    },
     "0100A6C00CF70000": {
         "0": "E5393885F21C6D4E",
         "latest": 0,
@@ -81987,7 +82000,8 @@
         "589824": "F2F373FDD58B85A4",
         "65536": "BFAFD5923550BB52",
         "655360": "A8B2E0D1D2E7694E",
-        "latest": 655360,
+        "720896": "A770DD946480F5E0",
+        "latest": 720896,
         "title": "MLB\u00ae The Show\u2122 26"
     },
     "0100AA800DA42000": {
@@ -82141,6 +82155,10 @@
         "latest": 0,
         "title": "Hike Trip"
     },
+    "0100AAB01E126000": {
+        "65536": "499FEE18A8A0FD8A",
+        "latest": 65536
+    },
     "0100AAC008ADA000": {
         "0": "5C5A0ED43F47FD4D",
         "latest": 0
@@ -82174,6 +82192,11 @@
         "0": "F155A11818475FA9",
         "latest": 0,
         "title": "Nature Escapes Collector's Edition"
+    },
+    "0100AAD01DFF8000": {
+        "65536": "C3FEB83B983CE0D9",
+        "latest": 65536,
+        "title": "Gobliiins Collection"
     },
     "0100AAD0210B6000": {
         "65536": "C6E22D47BBD6CFE5",
@@ -82922,6 +82945,11 @@
         "0": "52E27FABF13772B2",
         "latest": 0,
         "title": "HUNDRED FIRES: The rising of red star"
+    },
+    "0100AC9023956000": {
+        "65536": "6AA99A23E29343B6",
+        "latest": 65536,
+        "title": "HYAKKI YAKO Survivors"
     },
     "0100ACA017E4E000": {
         "0": "CBEC53186F0D2944",
@@ -84670,7 +84698,8 @@
     "0100B05026436000": {
         "131072": "2D46E0AE1E7C075F",
         "196608": "AC16D1996509C421",
-        "latest": 196608,
+        "262144": "9DD9E478EEEFCBBF",
+        "latest": 262144,
         "title": "TetherGeist"
     },
     "0100B0600ABE6000": {
@@ -107411,6 +107440,11 @@
         "latest": 65536,
         "title": "Knight with Tactics"
     },
+    "0100DEB0201D8000": {
+        "65536": "6CB9644457D52FF4",
+        "latest": 65536,
+        "title": "Stick Combat - Fighting Platformer"
+    },
     "0100DEB0234D0000": {
         "65536": "C79A1FFE41697B99",
         "latest": 65536
@@ -111334,7 +111368,8 @@
     },
     "0100E6B02672A000": {
         "131072": "CCC8E702D18E2D1B",
-        "latest": 131072,
+        "196608": "6AD9DFB143F0C6EE",
+        "latest": 196608,
         "title": "Rumbral"
     },
     "0100E6C00EB12000": {
