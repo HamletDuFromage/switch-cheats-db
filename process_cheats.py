@@ -7,6 +7,9 @@ from pathlib import Path
 import re
 import subprocess
 import json
+import logging
+
+logger = logging.getLogger(__name__)
 from collections import OrderedDict
 
 
@@ -17,7 +20,7 @@ class ProcessCheats:
         self.parseCheats()
 
     def isHexAnd16Char(self, file_name):
-        return (len(file_name) == 16) and (all(c in hexdigits for c in file_name[0:15]))
+        return (len(file_name) == 16) and (all(c in hexdigits for c in file_name))
 
     def getCheatsPath(self, tid):
         for folder in tid.iterdir():
@@ -82,7 +85,7 @@ class ProcessCheats:
                     if self.isHexAnd16Char(sheet.stem):
                         out[sheet.stem.upper()] = self.constructBidDict(sheet)
             except FileNotFoundError:
-                print(f"error: FileNotFoundError {folder_path}")
+                logger.error(f"error: FileNotFoundError {tid}")
             new_attr = self.getAttribution(tid)
             # favor colon form over underscore form for attribution keys
             canon_new_attr = OrderedDict()
@@ -129,7 +132,7 @@ class ProcessCheats:
             except FileNotFoundError:
                 pass
             except Exception as e:
-                print(f"Error changing permissions: {e}")
+                logger.error(f"Error changing permissions: {e}")
 
         if not (self.out_path.exists()):
             self.out_path.mkdir()

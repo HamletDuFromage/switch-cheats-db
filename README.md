@@ -20,4 +20,6 @@ All credits go to the authors of the cheat codes.
 
 ## Cheats count
 
-59248 cheats in 2501 titles/5617 updates
+<!-- STATS_START -->
+60000 cheats in 2600 titles/5700 updates
+<!-- STATS_END -->
