@@ -68,7 +68,7 @@ class ProcessVersions:
                 self.changed = True
                 logger.info(f"{self.json_path} changed")
         except FileNotFoundError:
-            print("File doesn't exist")
+            logger.error("File doesn't exist")
             self.changed = True
 
     def write_master_files(self):
