@@ -320,72 +320,72 @@ def count_cheats(cheats_directory):
 
 
 def run():
-        cheats_path = "cheats"
-        cheats_gba_path = "cheats_gbatemp"
-        cheats_gfx_path = "cheats_gfx"
-        archive_path = "titles.zip"
-        database = DatabaseInfo()
-        database_version = database.get_database_version()
-        highfps = HighFPSCheatsInfo()
-        gbatemp = GbatempCheatsInfo()
-        if gbatemp.has_new_cheats(database_version) or highfps.has_new_cheats(
-            database_version
-        ):
-            archive_worker = ArchiveWorker()
-            logger.info(f"Downloading cheats")
-            ok = archive_worker.download_archive(
-                gbatemp.get_download_url(), archive_path, referer=gbatemp.page_url
-            )
-            if ok:
-                try:
-                    archive_worker.extract_archive(archive_path, "gbatemp")
-                except Exception as e:
-                    logger.error(f"Failed to extract GBAtemp cheats: {e}")
-                    Path("gbatemp/titles").mkdir(parents=True, exist_ok=True)
-            else:
-                logger.warning("Skipping extraction for GBAtemp due to blocked download")
-                Path("gbatemp/titles").mkdir(parents=True, exist_ok=True)
-
-            archive_worker.download_archive(highfps.get_download_url(), archive_path)
+    cheats_path = "cheats"
+    cheats_gba_path = "cheats_gbatemp"
+    cheats_gfx_path = "cheats_gfx"
+    archive_path = "titles.zip"
+    database = DatabaseInfo()
+    database_version = database.get_database_version()
+    highfps = HighFPSCheatsInfo()
+    gbatemp = GbatempCheatsInfo()
+    if gbatemp.has_new_cheats(database_version) or highfps.has_new_cheats(
+        database_version
+    ):
+        archive_worker = ArchiveWorker()
+        logger.info(f"Downloading cheats")
+        ok = archive_worker.download_archive(
+            gbatemp.get_download_url(), archive_path, referer=gbatemp.page_url
+        )
+        if ok:
             try:
-                archive_worker.extract_archive(archive_path)
+                archive_worker.extract_archive(archive_path, "gbatemp")
             except Exception as e:
-                logger.error(f"Failed to extract HighFPS cheats: {e}")
-                Path("NX-60FPS-RES-GFX-Cheats-main/titles").mkdir(
-                    parents=True, exist_ok=True
-                )
-
-            logger.info("Processing the cheat sheets")
-            # Process each source once into its specific directory
-            logger.info("Processing GBAtemp cheats...")
-            process_cheats.ProcessCheats("gbatemp/titles", cheats_gba_path)
-            logger.info("Processing HighFPS cheats...")
-            process_cheats.ProcessCheats("NX-60FPS-RES-GFX-Cheats-main/titles", cheats_gfx_path)
-
-            # Combine them into the main cheats directory more efficiently
-            # Instead of re-parsing everything, we could just copy/merge the JSONs,
-            # but ProcessCheats already handles merging if the files exist.
-            # To avoid redundant work, we only need to call it once per source for the main path.
-            logger.info("Merging into main cheats database...")
-            process_cheats.ProcessCheats("gbatemp/titles", cheats_path)
-            process_cheats.ProcessCheats("NX-60FPS-RES-GFX-Cheats-main/titles", cheats_path)
-
-            logger.info("building complete cheat sheets")
-            out_path = Path("complete")
-            out_path.mkdir(exist_ok=True)
-            archive_worker.build_cheat_files(cheats_path, out_path)
-
-            logger.info("Creating the archives")
-            archive_worker.create_archives("complete")
-            archive_worker.create_archives("NX-60FPS-RES-GFX-Cheats-main")
-            archive_worker.create_archives("gbatemp")
-
-            archive_worker.create_version_file()
-
-            count_cheats(cheats_path)
-
+                logger.error(f"Failed to extract GBAtemp cheats: {e}")
+                Path("gbatemp/titles").mkdir(parents=True, exist_ok=True)
         else:
-            logger.info("Everything is already up to date!")
+            logger.warning("Skipping extraction for GBAtemp due to blocked download")
+            Path("gbatemp/titles").mkdir(parents=True, exist_ok=True)
+
+        archive_worker.download_archive(highfps.get_download_url(), archive_path)
+        try:
+            archive_worker.extract_archive(archive_path)
+        except Exception as e:
+            logger.error(f"Failed to extract HighFPS cheats: {e}")
+            Path("NX-60FPS-RES-GFX-Cheats-main/titles").mkdir(
+                parents=True, exist_ok=True
+            )
+
+        logger.info("Processing the cheat sheets")
+        # Process each source once into its specific directory
+        logger.info("Processing GBAtemp cheats...")
+        process_cheats.ProcessCheats("gbatemp/titles", cheats_gba_path)
+        logger.info("Processing HighFPS cheats...")
+        process_cheats.ProcessCheats("NX-60FPS-RES-GFX-Cheats-main/titles", cheats_gfx_path)
+
+        # Combine them into the main cheats directory more efficiently
+        # Instead of re-parsing everything, we could just copy/merge the JSONs,
+        # but ProcessCheats already handles merging if the files exist.
+        # To avoid redundant work, we only need to call it once per source for the main path.
+        logger.info("Merging into main cheats database...")
+        process_cheats.ProcessCheats("gbatemp/titles", cheats_path)
+        process_cheats.ProcessCheats("NX-60FPS-RES-GFX-Cheats-main/titles", cheats_path)
+
+        logger.info("building complete cheat sheets")
+        out_path = Path("complete")
+        out_path.mkdir(exist_ok=True)
+        archive_worker.build_cheat_files(cheats_path, out_path)
+
+        logger.info("Creating the archives")
+        archive_worker.create_archives("complete")
+        archive_worker.create_archives("NX-60FPS-RES-GFX-Cheats-main")
+        archive_worker.create_archives("gbatemp")
+
+        archive_worker.create_version_file()
+
+        count_cheats(cheats_path)
+
+    else:
+        logger.info("Everything is already up to date!")
 
 
 if __name__ == "__main__":
