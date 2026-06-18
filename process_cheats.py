@@ -12,6 +12,9 @@ import logging
 logger = logging.getLogger(__name__)
 from collections import OrderedDict
 
+TITLE_RE = re.compile(r"(\[.+\]|\{.+\})")
+HEX_RE = re.compile(r"[0-9a-fA-F]{8}")
+
 
 class ProcessCheats:
     def __init__(self, in_path, out_path):
@@ -39,25 +42,32 @@ class ProcessCheats:
         return attribution
 
     def constructBidDict(self, sheet_path):
+        """
+        Parses a cheat sheet file and returns an OrderedDict of cheats.
+        Optimized to use a single pass and pre-compiled regex.
+        """
         out = OrderedDict()
-        pos = []
-        with open(sheet_path, "r", encoding="utf-8", errors="ignore") as cheatSheet:
-            lines = cheatSheet.readlines()
+        current_title = None
+        current_code = []
 
-        for i in range(len(lines)):
-            titles = re.search(r"(\[.+\]|\{.+\})", lines[i])
-            if titles:
-                pos.append(i)
+        with open(sheet_path, "r", encoding="utf-8", errors="ignore") as f:
+            for line in f:
+                match = TITLE_RE.search(line)
+                if match:
+                    if current_title and len(current_code) > 1:
+                        code_str = "".join(current_code)
+                        if HEX_RE.search(code_str):
+                            out[current_title] = code_str.strip("\n ") + "\n\n"
+                    current_title = line.strip()
+                    current_code = [line]
+                elif current_title:
+                    current_code.append(line)
 
-        for i in range(len(pos)):
-            try:
-                codeLines = lines[pos[i] : pos[i + 1]]
-            except IndexError:
-                codeLines = lines[pos[i] :]
-            if len(codeLines) > 1:
-                code = "".join(codeLines)
-                if re.search("[0-9a-fA-F]{8}", code):
-                    out[lines[pos[i]].strip()] = code.strip("\n ") + "\n\n"
+            if current_title and len(current_code) > 1:
+                code_str = "".join(current_code)
+                if HEX_RE.search(code_str):
+                    out[current_title] = code_str.strip("\n ") + "\n\n"
+
         return out
 
     def update_dict(self, new, old):
