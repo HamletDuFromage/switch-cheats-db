@@ -54,7 +54,7 @@ class ProcessCheats:
             for line in f:
                 match = TITLE_RE.search(line)
                 if match:
-                    if current_title:
+                    if current_title and len(current_code) > 1:
                         code_str = "".join(current_code)
                         if HEX_RE.search(code_str):
                             out[current_title] = code_str.strip("\n ") + "\n\n"
@@ -63,7 +63,7 @@ class ProcessCheats:
                 elif current_title:
                     current_code.append(line)
 
-            if current_title:
+            if current_title and len(current_code) > 1:
                 code_str = "".join(current_code)
                 if HEX_RE.search(code_str):
                     out[current_title] = code_str.strip("\n ") + "\n\n"
