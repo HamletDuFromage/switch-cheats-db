@@ -3980,7 +3980,8 @@
         "131072": "ECAC3F1BD28CEF92",
         "196608": "9A1DD36B2325449D",
         "262144": "55C9B7DC815EDBE0",
-        "latest": 262144,
+        "327680": "E6588B0B6B4E4E7B",
+        "latest": 327680,
         "title": "Cast n Chill - Nintendo Switch\u2122 2 Edition"
     },
     "0100092006814000": {
@@ -6308,7 +6309,8 @@
     },
     "01000D7024C08000": {
         "131072": "5829FAB797F78B33",
-        "latest": 131072
+        "latest": 131072,
+        "title": "Solateria"
     },
     "01000D801D450000": {
         "131072": "F1826CACA51CFD41",
@@ -11922,8 +11924,9 @@
         "131072": "FC58B5A6D928C19D",
         "196608": "1E3E375A144C1E41",
         "327680": "2D8322DF263E1162",
+        "393216": "70575598FC75F32A",
         "65536": "C83438881649A371",
-        "latest": 327680,
+        "latest": 393216,
         "title": "Until Then"
     },
     "010019D010F0E000": {
@@ -14860,7 +14863,8 @@
     },
     "01001FF0281E0000": {
         "65536": "71F532DEC6E10550",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Let's Aim! Crane Game"
     },
     "010020100B768000": {
         "0": "7CA6695CB8633A45",
@@ -18571,6 +18575,7 @@
     "010027901C89C000": {
         "1048576": "631F47B05D305E66",
         "1114112": "473889A502CA5AF2",
+        "1179648": "C917F730BD0E3CA9",
         "131072": "8AFD11C2D0E46F23",
         "262144": "4D9E4D4C14B2A3C7",
         "327680": "BCA4551E1EC93465",
@@ -18583,7 +18588,7 @@
         "720896": "FCB32EC9E9F7F8BE",
         "786432": "71DA8DA4DEA537CA",
         "851968": "4A957D16556563F5",
-        "latest": 1114112,
+        "latest": 1179648,
         "title": "Hello Kitty Island Adventure Nintendo Switch 2 Edition"
     },
     "010027A017744000": {
@@ -19648,6 +19653,11 @@
         "65536": "ABB4B6148CA3FAFC",
         "latest": 262144,
         "title": "Railbound"
+    },
+    "010029E019DA0000": {
+        "65536": "F3ECDFCA56D8A999",
+        "latest": 65536,
+        "title": "R-Type Tactics I \u2022 II Cosmos \u2013 Nintendo Switch\u2122 2 Edition"
     },
     "010029E027C52000": {
         "131072": "DF08B845E2770520",
@@ -21007,8 +21017,9 @@
         "131072": "468CF953F34CC07E",
         "196608": "72369509C75363D0",
         "262144": "B13BF04EEF483437",
+        "327680": "3A86C66F1DD86FCE",
         "65536": "8C0D6633B623EC0C",
-        "latest": 262144,
+        "latest": 327680,
         "title": "Caves of Qud"
     },
     "01002C80086E6000": {
@@ -32722,6 +32733,11 @@
         "65536": "8FBE15F63DAC856B",
         "latest": 65536
     },
+    "0100446025C5C000": {
+        "65536": "3BFFE8EFB3562EAE",
+        "latest": 65536,
+        "title": "The Art of Deer & Boy"
+    },
     "010044700DEB0000": {
         "0": "85F5D5AB6187F602",
         "latest": 0,
@@ -39116,8 +39132,9 @@
         "title": "No Umbrellas Allowed"
     },
     "010051B028778000": {
+        "131072": "6EF15B5604D57B96",
         "65536": "BBA17F74BAB9016A",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Soccer Kick-ups"
     },
     "010051C003A08000": {
@@ -48312,6 +48329,11 @@
     "010064E013746000": {
         "0": "25B62EBD47CE9D4C",
         "latest": 0
+    },
+    "010064E020A76000": {
+        "65536": "A077582DCC6689D6",
+        "latest": 65536,
+        "title": "Car Heist Simulator - Thief Mechanic"
     },
     "010064F00C212000": {
         "0": "8E164FC0AAE2034C",
@@ -60756,6 +60778,10 @@
         "0": "212EB88A56481813",
         "latest": 0,
         "title": "Castaway of Steel"
+    },
+    "01007E6026FB4000": {
+        "65536": "97F8AB1260797A1C",
+        "latest": 65536
     },
     "01007E700D17E000": {
         "0": "8D0E6B5893E62A49",
@@ -88646,8 +88672,9 @@
         "title": "Zeus Quest - The Rebirth of Earth"
     },
     "0100B7E026A50000": {
+        "131072": "CEF52CB3D4FBC231",
         "65536": "AD12F941702FF70A",
-        "latest": 65536,
+        "latest": 131072,
         "title": "R-Type Dimensions III"
     },
     "0100B7F00B4E6000": {
@@ -105286,8 +105313,9 @@
         "latest": 655360
     },
     "0100D97026A68000": {
+        "131072": "F24C9F34210BFC8C",
         "65536": "09CA6F22C214A29A",
-        "latest": 65536
+        "latest": 131072
     },
     "0100D98005E8C000": {
         "0": "AC882E9BF1DCBA42",
@@ -106723,6 +106751,10 @@
         "0": "5FB4B8EB32304D42",
         "latest": 0,
         "title": "Beat Rush"
+    },
+    "0100DC50271C4000": {
+        "65536": "C6A2E52D93F3B282",
+        "latest": 65536
     },
     "0100DC60085BA000": {
         "0": "253FC6EB6F458C59",
@@ -110106,8 +110138,9 @@
         "title": "LOVE ETERNAL"
     },
     "0100E38027A8C000": {
+        "131072": "82B7B88188FFBE54",
         "65536": "119D8A6755B9C908",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Parking Garage Rally Circuit"
     },
     "0100E3900B598000": {
@@ -116655,6 +116688,10 @@
         "latest": 131072,
         "title": "planetarian: The Reverie of a Little Planet & Snow Globe"
     },
+    "0100F0A025712000": {
+        "131072": "658A7055A8485857",
+        "latest": 131072
+    },
     "0100F0B0081DA000": {
         "0": "890D00EFF6580D77",
         "458752": "672AEC26D7E0B7A7",
@@ -118444,6 +118481,11 @@
         "65536": "CC60488D8FC92152",
         "latest": 65536,
         "title": "Kudzu"
+    },
+    "0100F3F0287BA000": {
+        "65536": "6A86A25A766FBBA4",
+        "latest": 65536,
+        "title": "Fischfutter"
     },
     "0100F40013720000": {
         "0": "935C2A4A6FEBC191",
