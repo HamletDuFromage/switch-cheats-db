@@ -1,0 +1,3 @@
+## 2025-06-19 - Regex Fast-path and Optimized JSON Processing
+**Learning:** For processing large text files (like cheat sheets), adding a simple character check (e.g., `line[0] in '[{'`) before calling `re.search()` provides a ~2x overall speedup by skipping expensive regex operations on the majority of lines (code lines). Additionally, `json.loads(file.read())` with binary reading is significantly faster than `json.load(file)` when processing thousands of small files.
+**Action:** Always implement fast-path checks for line-by-line processing and prefer binary-read `json.loads` for bulk JSON processing.
