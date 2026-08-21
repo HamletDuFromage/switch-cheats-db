@@ -6382,7 +6382,8 @@
     "01000D7024C08000": {
         "131072": "5829FAB797F78B33",
         "196608": "DD5FDF9DF06016E1",
-        "latest": 196608,
+        "262144": "178087C573623760",
+        "latest": 262144,
         "title": "Solateria"
     },
     "01000D801D450000": {
@@ -17202,7 +17203,8 @@
         "589824": "F559712D783C0242",
         "655360": "02A23A8E5A921709",
         "720896": "FEB002AE5D4BD876",
-        "latest": 720896,
+        "786432": "90DCB752CE03793A",
+        "latest": 786432,
         "title": "Tomb Raider I-III Remastered Starring Lara Croft"
     },
     "010024700901A000": {
@@ -17370,6 +17372,7 @@
         "1310720": "0E8011354970A631",
         "1376256": "89021171F339CC71",
         "1441792": "EEA012D08BAB2B64",
+        "1507328": "C234B5728F203F3A",
         "196608": "81BFF0770AE9412A",
         "262144": "807D7729BF02E4A8",
         "327680": "2E9216684908EE71",
@@ -17383,7 +17386,7 @@
         "851968": "2A20C39D78213B2E",
         "917504": "C8D8320DED6D801C",
         "983040": "73019CC27ACE4976",
-        "latest": 1441792,
+        "latest": 1507328,
         "title": "Bleach: Brave Souls"
     },
     "010024D0032F2000": {
@@ -19923,8 +19926,9 @@
     "010029E019DA0000": {
         "131072": "2F2F7245F33EA070",
         "262144": "967796AA041251C3",
+        "327680": "43782646F6EBAB03",
         "65536": "F3ECDFCA56D8A999",
-        "latest": 262144,
+        "latest": 327680,
         "title": "R-Type Tactics I \u2022 II Cosmos \u2013 Nintendo Switch\u2122 2 Edition"
     },
     "010029E027C52000": {
@@ -27688,8 +27692,9 @@
         "131072": "B2D738644A54A6D1",
         "262144": "ACA845CA785FFC97",
         "327680": "B174F363C2823CBE",
+        "458752": "88330D25A235286F",
         "65536": "6307805569FDFD22",
-        "latest": 327680,
+        "latest": 458752,
         "title": "Wobbly Life - Nintendo Switch\u2122  2 Edition"
     },
     "010039600E7AC000": {
@@ -38606,8 +38611,9 @@
     },
     "01004F4024504000": {
         "196608": "64B6356BC00F15DD",
+        "262144": "17B2941FBD425132",
         "65536": "EFCE45764A36C966",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Culdcept BEGINS Nintendo Switch 2 Edition"
     },
     "01004F50085F2000": {
@@ -63509,6 +63515,7 @@
         "1900544": "A042A71E33D8F2E4",
         "2031616": "50D033FE77EB5036",
         "2162688": "6ED966CBD8985885",
+        "2228224": "11F4DDC983009419",
         "262144": "841F1D8D353DE7FA",
         "327680": "F8754912F923058E",
         "458752": "D193EA4F4BF87A05",
@@ -63518,7 +63525,7 @@
         "720896": "B2F22EF22F6AE1D7",
         "786432": "01FA5E50C272EAB2",
         "851968": "F26E28F3EA927E47",
-        "latest": 2162688,
+        "latest": 2228224,
         "title": "Touhou Danmaku Kagura Phantasia Lost"
     },
     "010082400BCC6000": {
@@ -68301,6 +68308,10 @@
         "latest": 131072,
         "title": "Arcadia Fallen II"
     },
+    "01008C002772E000": {
+        "65536": "F19066A206CE0022",
+        "latest": 65536
+    },
     "01008C100C572000": {
         "65536": "3EAE976C31ECE8EB",
         "latest": 65536
@@ -70057,7 +70068,8 @@
         "0": "0D07C2465FB869FD",
         "262144": "4B104B8145CC9402",
         "327680": "BEDBA708383FD7EB",
-        "latest": 327680,
+        "393216": "FF2BF22565188D11",
+        "latest": 393216,
         "title": "Darkest Dungeon"
     },
     "01008F1008DA7000": {
@@ -73941,8 +73953,9 @@
     },
     "010096B01CF3E000": {
         "196608": "2C88147FDBD455A5",
+        "262144": "2EFB99C0A56276BF",
         "65536": "518605848FE614D1",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Lunadra: Luna Awakens the Legendary Dragon"
     },
     "010096B0213D6000": {
@@ -74473,8 +74486,9 @@
         "2555904": "67965B04FA2B3A03",
         "2621440": "D71AEF123D1FFB8F",
         "2818048": "D26FA1059AE0B629",
+        "2883584": "D783C5EC6D60B6B2",
         "65536": "1D9C2E1BB01CA786",
-        "latest": 2818048,
+        "latest": 2883584,
         "title": "DAVE THE DIVER Nintendo Switch 2 Edition"
     },
     "010097F018539000": {
@@ -79443,8 +79457,9 @@
         "393216": "B24C86A2B02DE960",
         "458752": "693314C08EA157F3",
         "524288": "807A2202464D445B",
-        "latest": 524288,
-        "title": "Another Crab's Treasure"
+        "589824": "807A2202464D445B",
+        "latest": 589824,
+        "title": "Another Crab's Treasure - Nintendo Switch\u2122 2 Edition"
     },
     "0100A21017FC6000": {
         "0": "EF2A3D26453BAFC7",
@@ -82703,6 +82718,10 @@
         "latest": 0,
         "title": "Ocean Animals Puzzle - Preschool Animal Learning Puzzles Game for Kids & Toddlers"
     },
+    "0100A8A02917C000": {
+        "65536": "F295B5ED03BF4F23",
+        "latest": 65536
+    },
     "0100A8B00E14A000": {
         "0": "053ABE9494B5397A",
         "131072": "C4D1BCED9D8C5B81",
@@ -85344,8 +85363,9 @@
         "title": "Discolored 2"
     },
     "0100AE20256E0000": {
+        "131072": "1C4B78CFE60B8423",
         "65536": "38DDEEA617E4CAC3",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Teeto"
     },
     "0100AE2027E8A000": {
@@ -97066,8 +97086,9 @@
         "196608": "CAA6A42652BD7248",
         "262144": "ABA6BCD8DC1DD496",
         "327680": "6CAD6C984A6002C7",
+        "393216": "6CAD6C984A6002C7",
         "65536": "8ED4510B37337A82",
-        "latest": 327680,
+        "latest": 393216,
         "title": "OlliOlli World"
     },
     "0100C5D01128F000": {
@@ -100075,8 +100096,9 @@
         "title": "Zombies Overloaded"
     },
     "0100CBB027BA4000": {
+        "131072": "D388B48612F7BC68",
         "65536": "795258FB23B48DA5",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Avatar Legends: The Fighting Game"
     },
     "0100CBC015C2C000": {
@@ -101392,6 +101414,11 @@
         "65536": "2AA573924459E450",
         "latest": 65536,
         "title": "Virche Evermore -EpiC: Lycoris-"
+    },
+    "0100CE9028EFE000": {
+        "65536": "CEC02F5688243D4C",
+        "latest": 65536,
+        "title": "The Walking Dead: Streets of Survival"
     },
     "0100CEA007D08000": {
         "0": "00AF50D40BED81DA",
@@ -103087,7 +103114,7 @@
         "196608": "C901FEBF765203A5",
         "262144": "9C30EEC6B17AF1C4",
         "latest": 262144,
-        "title": "Pipistrello and the Cursed Yoyo"
+        "title": "Pipistrello and the Cursed Yoyo - Nintendo Switch 2 Edition"
     },
     "0100D1F00D688000": {
         "0": "25B6877861814147",
@@ -103513,8 +103540,9 @@
         "title": "ESCAPE THE BACKROOMS"
     },
     "0100D2F028EF4000": {
+        "131072": "C3CBF32E196E18B7",
         "65536": "13AC61C876C06398",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Dark Witch Match!"
     },
     "0100D3000AEC2000": {
@@ -107131,8 +107159,9 @@
         "latest": 524288
     },
     "0100D9D028292000": {
+        "131072": "72150A0D86698E7E",
         "65536": "0E93707DC47EC182",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Puppergeist"
     },
     "0100D9E0163AE000": {
@@ -118813,6 +118842,11 @@
         "latest": 131072,
         "title": "Tiny Garden"
     },
+    "0100F1302967C000": {
+        "65536": "D373FB0F4967031A",
+        "latest": 65536,
+        "title": "Hidden Girls: Quiet Beauty"
+    },
     "0100F1400B0D6000": {
         "0": "C0E6B66E20DA9642",
         "131072": "16EF854CC44B864A",
@@ -119426,7 +119460,8 @@
         "262144": "C634305BE7B798A7",
         "327680": "25B0CA55DCA96453",
         "589824": "D06200F49465FDCE",
-        "latest": 589824,
+        "655360": "3294A7D5E554CCAF",
+        "latest": 655360,
         "title": "Nordic Ashes: The Complete Saga"
     },
     "0100F2501EAFE000": {
@@ -120482,7 +120517,8 @@
     },
     "0100F4601CBA6000": {
         "131072": "DC72B0D806967435",
-        "latest": 131072,
+        "196608": "DC72B0D806967435",
+        "latest": 196608,
         "title": "Farlands"
     },
     "0100F4700B2E0000": {
