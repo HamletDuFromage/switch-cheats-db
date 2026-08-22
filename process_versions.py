@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
 
 import os
+from pathlib import Path
 import json
 import requests
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 class ProcessVersions:
@@ -15,7 +19,7 @@ class ProcessVersions:
         try:
             self.data = self.merge_cmts_and_versions(cnmts_url, versions_url)
         except ValueError:
-            print("Invalid JSON file!")
+            logger.error("Invalid JSON file!")
         self.title_dict = self.create_names_dict(titles_url)
 
     def merge_cmts_and_versions(self, cnmts_url, versions_url):
@@ -62,9 +66,9 @@ class ProcessVersions:
                 old = json.load(read_file)
             if old != self.versions_dict:
                 self.changed = True
-                print(f"{self.json_path} changed")
+                logger.info(f"{self.json_path} changed")
         except FileNotFoundError:
-            print("File doesn't exist")
+            logger.error("File doesn't exist")
             self.changed = True
 
     def write_master_files(self):
@@ -72,8 +76,8 @@ class ProcessVersions:
             json.dump(self.versions_dict, json_file, indent=4, sort_keys=True)
 
     def write_title_files(self):
-        if not (os.path.exists(self.dir_path)):
-            os.mkdir(self.dir_path)
+        if not Path(self.dir_path).exists():
+            Path(self.dir_path).mkdir(exist_ok=True)
 
         for tid in self.versions_dict:
             path = f"{self.dir_path}{tid}.json"
