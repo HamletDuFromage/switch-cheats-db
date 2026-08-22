@@ -20164,8 +20164,9 @@
         "196608": "E253C59CEAEC72A4",
         "262144": "BE3E7391B23971C9",
         "327680": "435907EA16A90FC5",
+        "393216": "E8AEBBE1FBD80A5F",
         "65536": "0970AB682E968096",
-        "latest": 327680,
+        "latest": 393216,
         "title": "Tails of Iron 2: Whiskers of Winter"
     },
     "01002A7025BBC000": {
@@ -24550,8 +24551,9 @@
     "010033001F050000": {
         "131072": "B2F1EB87C0FD42C2",
         "196608": "2156DC777DFD5DE0",
+        "262144": "AB7912466A050D25",
         "65536": "FCB5595F32D8B05D",
-        "latest": 196608,
+        "latest": 262144,
         "title": "Ys vs. Trails in the Sky: Alternative Saga"
     },
     "010033001F61C000": {
@@ -30626,8 +30628,9 @@
         "title": "Arcade Archives THE NINJA KIDS"
     },
     "01003F7020A7C000": {
+        "131072": "893A37CA9E8A254B",
         "65536": "B65C608A610057B4",
-        "latest": 65536,
+        "latest": 131072,
         "title": "K-pop Idol Stories: Road to Debut"
     },
     "01003F800CF5C000": {
@@ -38615,6 +38618,11 @@
         "65536": "EFCE45764A36C966",
         "latest": 262144,
         "title": "Culdcept BEGINS Nintendo Switch 2 Edition"
+    },
+    "01004F4027F56000": {
+        "65536": "FC636B1FD062C3C1",
+        "latest": 65536,
+        "title": "The Immortal John Triptych"
     },
     "01004F50085F2000": {
         "0": "1D9D5507DEECDE40",
@@ -81595,6 +81603,11 @@
         "0": "983EA620316FADEC",
         "latest": 0
     },
+    "0100A68024556000": {
+        "65536": "7E465AF7A87CBC5B",
+        "latest": 65536,
+        "title": "Yomi 2"
+    },
     "0100A6900B77A000": {
         "0": "7A9B4BD17DF2B545",
         "65536": "B03E41630C25984B",
@@ -82720,7 +82733,8 @@
     },
     "0100A8A02917C000": {
         "65536": "F295B5ED03BF4F23",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Sir, You Are Being Hunted"
     },
     "0100A8B00E14A000": {
         "0": "053ABE9494B5397A",
@@ -86085,7 +86099,8 @@
     },
     "0100AFC028C14000": {
         "65536": "E0DFC392971AB41B",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Metal Garden"
     },
     "0100AFD00F13C000": {
         "0": "9C321FE3CFE91440",
@@ -121862,8 +121877,9 @@
         "title": "1f y0u're a gh0st ca11 me here!"
     },
     "0100F7501198E000": {
+        "131072": "91F58C56A3591807",
         "65536": "50E62D80278B4CB6",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Choppa: Rescue Rivals"
     },
     "0100F75016A72000": {
@@ -124447,6 +124463,11 @@
         "0": "28D97E92BC71104E",
         "latest": 0,
         "title": "BombFall"
+    },
+    "0100FCA01896A000": {
+        "65536": "51DD6DB67F8E64A4",
+        "latest": 65536,
+        "title": "Conquest: Global Domination"
     },
     "0100FCA01D148000": {
         "0": "711E515C3A6E11F8",
