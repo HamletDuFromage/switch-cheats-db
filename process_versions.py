@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
 
 import os
+from pathlib import Path
 import json
 import requests
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 class ProcessVersions:
@@ -15,12 +19,12 @@ class ProcessVersions:
         try:
             self.data = self.merge_cmts_and_versions(cnmts_url, versions_url)
         except ValueError:
-            print("Invalid JSON file!")
+            logger.error("Invalid JSON file!")
         self.title_dict = self.create_names_dict(titles_url)
 
     def merge_cmts_and_versions(self, cnmts_url, versions_url):
-        cmnts = json.loads(requests.get(cnmts_url).text)
-        versions = json.loads(requests.get(versions_url).text)
+        cmnts = requests.get(cnmts_url).json()
+        versions = requests.get(versions_url).json()
         for tid, value in versions.items():
             cmnts[tid] = {**value, **cmnts.get(tid, {})}
         return cmnts
@@ -29,8 +33,9 @@ class ProcessVersions:
         if self.data:
             self.get_version_dict()
             self.check_for_changes()
-            self.write_master_files()
-            self.write_title_files()
+            if self.changed:
+                self.write_master_files()
+                self.write_title_files()
 
     def get_version_dict(self):
         for tid in self.data:
@@ -62,9 +67,9 @@ class ProcessVersions:
                 old = json.load(read_file)
             if old != self.versions_dict:
                 self.changed = True
-                print(f"{self.json_path} changed")
+                logger.info(f"{self.json_path} changed")
         except FileNotFoundError:
-            print("File doesn't exist")
+            logger.error("File doesn't exist")
             self.changed = True
 
     def write_master_files(self):
@@ -72,17 +77,31 @@ class ProcessVersions:
             json.dump(self.versions_dict, json_file, indent=4, sort_keys=True)
 
     def write_title_files(self):
-        if not (os.path.exists(self.dir_path)):
-            os.mkdir(self.dir_path)
+        """
+        Writes individual title files.
+        Optimization: Only writes the file if the content has changed to save I/O.
+        """
+        if not Path(self.dir_path).exists():
+            Path(self.dir_path).mkdir(exist_ok=True)
 
-        for tid in self.versions_dict:
-            path = f"{self.dir_path}{tid}.json"
-            with open(path, "w") as json_file:
-                json.dump(self.versions_dict[tid], json_file, indent=4, sort_keys=True)
+        for tid, data in self.versions_dict.items():
+            path = Path(self.dir_path) / f"{tid}.json"
+
+            # Optimization: check if file exists and content is same before writing
+            if path.exists():
+                try:
+                    with open(path, "r", encoding="utf-8") as f:
+                        if json.load(f) == data:
+                            continue
+                except (json.JSONDecodeError, IOError):
+                    pass
+
+            with open(path, "w", encoding="utf-8") as json_file:
+                json.dump(data, json_file, indent=4, sort_keys=True)
 
     def create_names_dict(self, url):
         out = dict()
-        for key, value in json.loads(requests.get(url).text).items():
+        for key, value in requests.get(url).json().items():
             out[value["id"]] = value["name"]
         return out
 
