@@ -201,6 +201,11 @@
         "latest": 131072,
         "title": "This Means Warp"
     },
+    "0100005027A18000": {
+        "65536": "1467B76BDEAC33D1",
+        "latest": 65536,
+        "title": "Graveyard Keeper 2"
+    },
     "01000060085D2000": {
         "0": "675D27811CB8F841",
         "131072": "304D797E620D594F",
@@ -2424,8 +2429,10 @@
         "latest": 0
     },
     "01000570268FC000": {
+        "131072": "DD7E82E617D27AE1",
+        "196608": "851D8F0C5F8C7660",
         "65536": "1E976E18B948B279",
-        "latest": 65536,
+        "latest": 196608,
         "title": "Blood Dungeon - Nintendo Switch 2 Edition"
     },
     "010005800DEF0000": {
@@ -4814,8 +4821,9 @@
         "131072": "8CF9F5914F7D503D",
         "327680": "759E0388CAF13D13",
         "393216": "C961CF5C6FAA0750",
+        "458752": "A4EF40A0D75C4C5A",
         "65536": "A998B5B0F788C6B5",
-        "latest": 393216,
+        "latest": 458752,
         "title": "Q REMASTERED"
     },
     "01000A90187BE000": {
@@ -6397,7 +6405,8 @@
         "131072": "5829FAB797F78B33",
         "196608": "DD5FDF9DF06016E1",
         "262144": "178087C573623760",
-        "latest": 262144,
+        "327680": "A593D9067CF9724F",
+        "latest": 327680,
         "title": "Solateria"
     },
     "01000D801D450000": {
@@ -6903,6 +6912,11 @@
         "65536": "A4CABAEBE4D2A8D2",
         "latest": 196608,
         "title": "McPixel 3"
+    },
+    "01000EB0276F2000": {
+        "65536": "89547BD4E42B0FE0",
+        "latest": 65536,
+        "title": "Garfield - Escape From Monday"
     },
     "01000EC007C22000": {
         "0": "35D76F0876A6BCFB",
@@ -9011,6 +9025,10 @@
         "327680": "E3E401C28D9FD3B1",
         "latest": 327680
     },
+    "0100130027476000": {
+        "65536": "0C3E01554807BCBC",
+        "latest": 65536
+    },
     "0100132013678000": {
         "0": "8427879887704140",
         "131072": "098C34185EDF4946",
@@ -9325,7 +9343,8 @@
     },
     "010013D0289DA000": {
         "65536": "379631821840E0BF",
-        "latest": 65536
+        "latest": 65536,
+        "title": "Adventure of Kanjiro Chapter 2"
     },
     "010013E013220000": {
         "327680": "4EC2E96A6053384C",
@@ -9415,7 +9434,8 @@
     },
     "0100141026FD6000": {
         "65536": "3B900872A57FFD8E",
-        "latest": 65536
+        "latest": 65536,
+        "title": "TORO 2"
     },
     "010014200BD02000": {
         "0": "266CEB07B8A88F4B",
@@ -12594,6 +12614,11 @@
         "latest": 0,
         "title": "Animal Kart Racer 2"
     },
+    "01001AA022B66000": {
+        "65536": "DA72691B1A82EDCF",
+        "latest": 65536,
+        "title": "Tentacle Tango"
+    },
     "01001AB0140F2000": {
         "0": "09F57ACEA21909B9",
         "131072": "6CBEE0573826FF73",
@@ -15502,7 +15527,7 @@
         "458752": "C7AA8DB3D617A847",
         "65536": "74F97BE54A10894F",
         "latest": 458752,
-        "title": "The Ramen Sensei"
+        "title": "The Ramen Sensei \u2013 Nintendo Switch 2 Edition"
     },
     "010020B014D8E000": {
         "0": "B3B2BFE9F9D153FB",
@@ -16704,6 +16729,11 @@
         "0": "2FB7242A158E85B1",
         "latest": 0,
         "title": "Persian Nights: Sands of Wonders"
+    },
+    "0100231021804000": {
+        "65536": "7B42BF15A3D475E5",
+        "latest": 65536,
+        "title": "Chained Survive Together"
     },
     "01002320137CC000": {
         "0": "351DB1AF5C7C4BE8",
@@ -18904,6 +18934,7 @@
         "1179648": "C917F730BD0E3CA9",
         "1245184": "47797CD0C232F47C",
         "131072": "8AFD11C2D0E46F23",
+        "1310720": "13794F88E5BBC1D6",
         "262144": "4D9E4D4C14B2A3C7",
         "327680": "BCA4551E1EC93465",
         "393216": "672483699B885A95",
@@ -18915,7 +18946,7 @@
         "720896": "FCB32EC9E9F7F8BE",
         "786432": "71DA8DA4DEA537CA",
         "851968": "4A957D16556563F5",
-        "latest": 1245184,
+        "latest": 1310720,
         "title": "Hello Kitty Island Adventure Nintendo Switch 2 Edition"
     },
     "010027A017744000": {
@@ -25494,8 +25525,9 @@
         "title": "Cats Visiting Christmas Town"
     },
     "010034B029D48000": {
+        "131072": "76E0E677E75AF57E",
         "65536": "F6A66150C62FB0D8",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Isle of Reveries"
     },
     "010034C007610000": {
@@ -27492,6 +27524,11 @@
         "196608": "899979B89B20F61F",
         "65536": "F00BBDB95B987219",
         "latest": 196608
+    },
+    "010038C028C90000": {
+        "65536": "EE910D4702AEF49A",
+        "latest": 65536,
+        "title": "In The Dark Collection"
     },
     "010038D00B10A000": {
         "0": "84B6137C9CB6F046",
@@ -30178,7 +30215,8 @@
     },
     "01003E201E810000": {
         "262144": "3927245C07EC2DBB",
-        "latest": 262144,
+        "327680": "0C027E3A7A35C43A",
+        "latest": 327680,
         "title": "Moss: The Forgotten Relic"
     },
     "01003E300FCAE000": {
@@ -32874,6 +32912,10 @@
     "0100438025270000": {
         "131072": "8B55ED64E0449454",
         "latest": 131072
+    },
+    "0100438028CBE000": {
+        "65536": "37CB0218F64B62C6",
+        "latest": 65536
     },
     "010043901005A000": {
         "0": "D06812E9F4D77318",
@@ -36052,6 +36094,11 @@
         "latest": 0,
         "title": "4x4 Offroad Driver 2"
     },
+    "010049A027FFA000": {
+        "65536": "DE1B7514119D1FF4",
+        "latest": 65536,
+        "title": "Horripilant"
+    },
     "010049B014CD0000": {
         "0": "C2FC91B73965A4A7",
         "65536": "031846CC47DD99A8",
@@ -37615,7 +37662,8 @@
     },
     "01004CC023582000": {
         "65536": "63BFC031D8365F92",
-        "latest": 65536
+        "latest": 65536,
+        "title": "SpeedRunners 2: King of Speed"
     },
     "01004CD00F690000": {
         "0": "4A4BB3B53A14C348",
@@ -47315,7 +47363,8 @@
     "0100612027568000": {
         "131072": "63135BD14648D66D",
         "196608": "475693D656437E69",
-        "latest": 196608,
+        "327680": "C3766543FA1AD540",
+        "latest": 327680,
         "title": "Quantum Beast"
     },
     "010061300BBF8000": {
@@ -49653,6 +49702,11 @@
         "65536": "E4AD59E0D53E2A16",
         "latest": 65536,
         "title": "A Planet of Mine MasterMine Edition"
+    },
+    "010065F024E60000": {
+        "65536": "D7C28CBA624DA2D8",
+        "latest": 65536,
+        "title": "EGGCONSOLE THE LEGEND OF HEROES III: \"White Witch\" Renewal PC-9801"
     },
     "010066000DD22000": {
         "0": "58DB0E560176334C",
@@ -57981,6 +58035,11 @@
         "latest": 131072,
         "title": "Dragon Loop"
     },
+    "010076202967E000": {
+        "65536": "D373FB0F4967031A",
+        "latest": 65536,
+        "title": "Hidden Girls: Bikini Dreams"
+    },
     "010076300EE80000": {
         "0": "F47F713D65F11F62",
         "65536": "D6DEFE716920609A",
@@ -59149,8 +59208,9 @@
         "327680": "74033C6CFB80827F",
         "458752": "61739B8378A2605E",
         "524288": "1A5D0E1E96FB572D",
+        "589824": "59AEFEA6D9551973",
         "65536": "5926EA5B7B466ED7",
-        "latest": 524288,
+        "latest": 589824,
         "title": "Battle Suit Aces"
     },
     "010078A017FE6000": {
@@ -61593,6 +61653,11 @@
         "65536": "2B191DCAF0256A04",
         "latest": 196608,
         "title": "Food Truck Chef - Full Course Edition"
+    },
+    "01007DD0280B2000": {
+        "65536": "191AB3A0570418E4",
+        "latest": 65536,
+        "title": "Arcade Archives SATAN OF SATURN"
     },
     "01007DE013A48000": {
         "0": "E150450F665FAF48",
@@ -64038,8 +64103,9 @@
     "010082A0205AE000": {
         "131072": "7A298C02133677C7",
         "196608": "B1945DC11E783B31",
+        "262144": "BDA6EF7EFCC0D2E4",
         "65536": "7A298C02133677C7",
-        "latest": 196608
+        "latest": 262144
     },
     "010082B00E8B8000": {
         "0": "D1463A04F564E543",
@@ -68551,8 +68617,9 @@
         "title": "Arcadia Fallen II"
     },
     "01008C002772E000": {
+        "131072": "FAA06E74FE7E0407",
         "65536": "F19066A206CE0022",
-        "latest": 65536
+        "latest": 131072
     },
     "01008C100C572000": {
         "65536": "3EAE976C31ECE8EB",
@@ -77540,7 +77607,8 @@
         "196608": "BA064E353DCE46AE",
         "262144": "1F2FED93FA812097",
         "327680": "7FAC682190F87C95",
-        "latest": 327680,
+        "393216": "E9173C35BAA8D734",
+        "latest": 393216,
         "title": "Q with VTubers"
     },
     "01009DA00EA6C000": {
@@ -84748,6 +84816,11 @@
         "65536": "C3135CCAC4145920",
         "latest": 65536,
         "title": "Burger Master"
+    },
+    "0100AC30296D0000": {
+        "65536": "D373FB0F4967031A",
+        "latest": 65536,
+        "title": "Real Girls: Velvet Flame"
     },
     "0100AC40038F4000": {
         "0": "FA6B540277E62DAC",
@@ -97218,6 +97291,11 @@
         "65536": "0587071CBA3B6B7E",
         "latest": 65536,
         "title": "The Fable: Manga Build Roguelike"
+    },
+    "0100C55026EF6000": {
+        "131072": "F4716B04B3482866",
+        "latest": 131072,
+        "title": "The NOexistenceN of you AND me"
     },
     "0100C56010FD8000": {
         "0": "D89E062DA1D854AC",
@@ -125036,8 +125114,9 @@
         "title": "Kokoro Clover SUN - Prehistoric Invaders!"
     },
     "0100FCF0280DA000": {
+        "131072": "6DC531F7D0195E6F",
         "65536": "6DC531F7D0195E6F",
-        "latest": 65536,
+        "latest": 131072,
         "title": "Tearscape"
     },
     "0100FD0010BD8000": {
