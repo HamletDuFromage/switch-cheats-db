@@ -10,7 +10,8 @@
         "[Handheld 576p]": "[Handheld 576p]\n04000000 007e5374 52808008\n04000000 007e5380 52804809\n\n",
         "[Handheld 540p]": "[Handheld 540p]\n04000000 007e5374 52807808\n04000000 007e5380 52804389\n\n",
         "[Handheld 504p]": "[Handheld 504p]\n04000000 007e5374 52807008\n04000000 007e5380 52803F09\n\n",
-        "[Always Update Resolution (Turn On Always]": "[Always Update Resolution (Turn On Always]\n04000000 007e52e8 360003a0\n\n"
+        "[Always Update Resolution (Turn On Always]": "[Always Update Resolution (Turn On Always]\n04000000 007e52e8 360003a0\n\n",
+        "[Always Update Resolution (Turn On Always)]": "[Always Update Resolution (Turn On Always)]\n04000000 007e52e8 360003a0\n\n"
     },
     "attribution": {
         "Sonic Generations.txt": "By Craftyawesome\nThe final code \"Always Update Resolution\" is needed for the resolution to actually change without (un)docking. \nThis includes booting the game (though if you convert to ips then likely not)\n"
