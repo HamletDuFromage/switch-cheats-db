@@ -218,6 +218,7 @@ class ArchiveWorker:
                     print("Extracted using patool.")
                 except Exception as e:
                     print(f"patool extraction failed: {e}")
+                    return False
         else:
             print("Unknown archive format")
             return False
@@ -280,6 +281,55 @@ class ArchiveWorker:
             version_file.write(str(date.today()))
 
 
+def prepare_cheat_archive(
+    archive_worker,
+    download_url,
+    archive_path,
+    extract_path,
+    cheats_path,
+    out_path,
+    source_name,
+    referer=None,
+):
+    extracted = False
+    try:
+        ok = archive_worker.download_archive(
+            download_url, archive_path, referer=referer
+        )
+    except Exception as e:
+        print(f"Failed to download {source_name} cheats: {e}")
+        ok = False
+    if ok:
+        try:
+            out_path = Path(out_path)
+            if out_path.exists():
+                shutil.rmtree(out_path)
+
+            extracted = archive_worker.extract_archive(archive_path, extract_path)
+            if extracted:
+                titles_path = Path(out_path).joinpath("titles")
+                has_cheats = any(
+                    cheat_file.is_file() and cheat_file.stat().st_size > 0
+                    for cheat_file in titles_path.glob("*/cheats/*.txt")
+                )
+                if not has_cheats:
+                    print(f"{source_name} extraction produced no usable cheat files")
+                    extracted = False
+        except Exception as e:
+            print(f"Failed to extract {source_name} cheats: {e}")
+    if not extracted:
+        print(
+            f"{source_name} download or extraction failed; rebuilding archive "
+            f"from existing {cheats_path} data"
+        )
+
+        out_path = Path(out_path)
+        if out_path.exists():
+            shutil.rmtree(out_path)
+
+        archive_worker.build_cheat_files(cheats_path, out_path)
+
+
 def count_cheats(cheats_directory):
     n_games = 0
     n_updates = 0
@@ -314,27 +364,25 @@ if __name__ == "__main__":
     ):
         archive_worker = ArchiveWorker()
         print(f"Downloading cheats")
-        ok = archive_worker.download_archive(
-            gbatemp.get_download_url(), archive_path, referer=gbatemp.page_url
+        prepare_cheat_archive(
+            archive_worker,
+            gbatemp.get_download_url(),
+            archive_path,
+            "gbatemp",
+            cheats_gba_path,
+            "gbatemp",
+            "GBAtemp",
+            referer=gbatemp.page_url,
         )
-        if ok:
-            try:
-                archive_worker.extract_archive(archive_path, "gbatemp")
-            except Exception as e:
-                print(f"Failed to extract GBAtemp cheats: {e}")
-                Path("gbatemp/titles").mkdir(parents=True, exist_ok=True)
-        else:
-            print("Skipping extraction for GBAtemp due to blocked download")
-            Path("gbatemp/titles").mkdir(parents=True, exist_ok=True)
-
-        archive_worker.download_archive(highfps.get_download_url(), archive_path)
-        try:
-            archive_worker.extract_archive(archive_path)
-        except Exception as e:
-            print(f"Failed to extract HighFPS cheats: {e}")
-            Path("NX-60FPS-RES-GFX-Cheats-main/titles").mkdir(
-                parents=True, exist_ok=True
-            )
+        prepare_cheat_archive(
+            archive_worker,
+            highfps.get_download_url(),
+            archive_path,
+            None,
+            cheats_gfx_path,
+            "NX-60FPS-RES-GFX-Cheats-main",
+            "HighFPS",
+        )
 
         print("Processing the cheat sheets")
         process_cheats.ProcessCheats("gbatemp/titles", cheats_gba_path)
